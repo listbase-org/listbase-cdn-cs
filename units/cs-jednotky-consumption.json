@@ -1,0 +1,106 @@
+{
+  "id": "cs-jednotky-consumption",
+  "name": "Měrné jednotky: consumption (4)",
+  "title": "Měrné jednotky: consumption (4)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'consumption'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategorie": "consumption",
+      "nazev": "litry na sto kilometrů",
+      "vzor_jednotne": "{0} litr na sto kilometrů",
+      "vzor_mnozne": "{0} litrů na sto kilometrů",
+      "kratky_vzor": "{0} l/100 km",
+      "uzky_vzor": "{0} l/100km"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategorie": "consumption",
+      "nazev": "litry na kilometr",
+      "vzor_jednotne": "{0} litr na kilometr",
+      "vzor_mnozne": "{0} litrů na kilometr",
+      "kratky_vzor": "{0} l/km",
+      "uzky_vzor": "{0} l/km"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategorie": "consumption",
+      "nazev": "míle na galon",
+      "vzor_jednotne": "{0} míle na galon",
+      "vzor_mnozne": "{0} mil na galon",
+      "kratky_vzor": "{0} mpg",
+      "uzky_vzor": "{0} mpg"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategorie": "consumption",
+      "nazev": "míle na britský galon",
+      "vzor_jednotne": "{0} míle na britský galon",
+      "vzor_mnozne": "{0} mil na britský galon",
+      "kratky_vzor": "{0} mpg Imp.",
+      "uzky_vzor": "{0} mpgIm"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: consumption (4) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'consumption'. Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: consumption (4) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: consumption (4) — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

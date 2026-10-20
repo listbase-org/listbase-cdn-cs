@@ -1,0 +1,206 @@
+{
+  "id": "cs-vlakova-nadrazi-hlavni",
+  "name": "Hlavni nadrazi v Ceske republice",
+  "title": "Hlavni nadrazi v Ceske republice",
+  "description": "Petice hlavnich nadrazi Ceske republiky podle priznaku is_main_station=t v trainline-eu/stations: Praha hl.n., Brno hl.n., Plzen hl.n., Usti nad Labem hl.n. a Ostrava-Vitkovice. Toto jsou principal central stations nejvetsich ceskych mest v klasifikaci komunitne udrzovaneho evropskeho registru zeleznicnich stanic. Pokryva top-search-volume head term hlavni nadrazi (~246 000 vyhledavani mesicne) a per-city praha hl nadrazi / brno hl nadrazi / plzen hl nadrazi long-tail.",
+  "category": "transport",
+  "source": "https://github.com/trainline-eu/stations",
+  "source_url": "https://github.com/trainline-eu/stations",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 17503,
+      "name": "Brno hl.n.",
+      "name_slug": "brno-hl-n",
+      "slug": "brno-hl-n",
+      "uic": 5433295,
+      "latitude": 49.190537,
+      "longitude": 16.612775,
+      "time_zone": "Europe/Prague",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": 29314,
+      "kraj": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ"
+    },
+    {
+      "id": 28077,
+      "name": "Ostrava-Vítkovice",
+      "name_slug": "ostrava-vitkovice",
+      "slug": "ostrava-vitkovice",
+      "uic": 5435044,
+      "latitude": 49.801803,
+      "longitude": 18.262898,
+      "time_zone": "Europe/Prague",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": 29023,
+      "kraj": "Moravskoslezský kraj",
+      "kraj_slug": "moravskoslezsky",
+      "kraj_en": "Moravian-Silesian",
+      "country": "CZ"
+    },
+    {
+      "id": 18577,
+      "name": "Plzeň hl.n.",
+      "name_slug": "plzen-hl-n",
+      "slug": "plzen-hl-n",
+      "uic": 5473275,
+      "latitude": 49.743167,
+      "longitude": 13.388246,
+      "time_zone": "Europe/Prague",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": 29280,
+      "kraj": "Plzeňský kraj",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ"
+    },
+    {
+      "id": 17509,
+      "name": "Praha hl.n.",
+      "name_slug": "praha-hl-n",
+      "slug": "praha-hl-n",
+      "uic": 5457076,
+      "latitude": 50.083058,
+      "longitude": 14.436037,
+      "time_zone": "Europe/Prague",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": 17587,
+      "kraj": "Hlavní město Praha",
+      "kraj_slug": "praha",
+      "kraj_en": "Prague",
+      "country": "CZ"
+    },
+    {
+      "id": 17511,
+      "name": "Ústí nad Labem hl.n.",
+      "name_slug": "usti-nad-labem-hl-n",
+      "slug": "usti-nad-labem-hl-n",
+      "uic": 5453179,
+      "latitude": 50.659563,
+      "longitude": 14.044728,
+      "time_zone": "Europe/Prague",
+      "is_city": false,
+      "is_main_station": true,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": 29027,
+      "kraj": "Ústecký kraj",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Usti nad Labem",
+      "country": "CZ"
+    }
+  ],
+  "meta": {
+    "title": "Hlavni nadrazi v Ceske republice - Stáhnout zdarma",
+    "description": "Petice hlavnich nadrazi Ceske republiky podle priznaku is_main_station=t v trainline-eu/stations: Praha hl.n., Brno hl.n., Plzen hl.n., Usti nad Labem hl.n. a Ostrava-Vitkovice. Toto jsou principal central stations nejvetsich ceskych mest v klasifikaci komunitne udrzovaneho evropskeho registru zeleznicnich stanic. Pokryva top-search-volume head term hlavni nadrazi (~246 000 vyhledavani mesicne) a per-city praha hl nadrazi / brno hl nadrazi / plzen hl nadrazi long-tail. Obsahuje 5 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Hlavni nadrazi v Ceske republice | ListBase",
+    "seo_description": "Stáhnout Hlavni nadrazi v Ceske republice — 5 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 5 záznamů / 17 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/trainline-eu/stations"
+    ]
+  }
+}

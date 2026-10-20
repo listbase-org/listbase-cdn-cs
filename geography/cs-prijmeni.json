@@ -1,0 +1,121 @@
+{
+  "id": "cs-prijmeni",
+  "name": "Nejčastější příjmení v České republice (Popular Czech Surnames)",
+  "title": "Nejčastější příjmení v České republice (Popular Czech Surnames)",
+  "description": "Nejfrekventovanější česká příjmení; řazeno podle počtu nositelů (mužský i ženský tvar zahrnut), s lokalizovaným a romanizovaným zápisem.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "CZ-1",
+      "rank": 1,
+      "localized": "Novák, Nováková",
+      "romanized": "Novák, Nováková",
+      "count": 69726
+    },
+    {
+      "name_group": "CZ-2",
+      "rank": 2,
+      "localized": "Svoboda, Svobodová",
+      "romanized": "Svoboda, Svobodová",
+      "count": 51861
+    },
+    {
+      "name_group": "CZ-3",
+      "rank": 3,
+      "localized": "Novotná, Novotný",
+      "romanized": "Novotná, Novotný",
+      "count": 49648
+    },
+    {
+      "name_group": "CZ-4",
+      "rank": 4,
+      "localized": "Dvořák, Dvořáková",
+      "romanized": "Dvořák, Dvořáková",
+      "count": 45744
+    },
+    {
+      "name_group": "CZ-5",
+      "rank": 5,
+      "localized": "Černá, Černý",
+      "romanized": "Černá, Černý",
+      "count": 36317
+    },
+    {
+      "name_group": "CZ-6",
+      "rank": 6,
+      "localized": "Procházka, Procházková",
+      "romanized": "Procházka, Procházková",
+      "count": 32891
+    },
+    {
+      "name_group": "CZ-7",
+      "rank": 7,
+      "localized": "Kučera, Kučerová",
+      "romanized": "Kučera, Kučerová",
+      "count": 30876
+    },
+    {
+      "name_group": "CZ-8",
+      "rank": 8,
+      "localized": "Veselá, Veselý",
+      "romanized": "Veselá, Veselý",
+      "count": 26376
+    },
+    {
+      "name_group": "CZ-9",
+      "rank": 9,
+      "localized": "Horák, Horáková",
+      "romanized": "Horák, Horáková",
+      "count": 24961
+    },
+    {
+      "name_group": "CZ-10",
+      "rank": 10,
+      "localized": "Němcová, Němec",
+      "romanized": "Němcová, Němec",
+      "count": 22755
+    }
+  ],
+  "meta": {
+    "title": "Nejčastější příjmení v České republice (Popular Czech Surnames) - Stáhnout zdarma",
+    "description": "Nejfrekventovanější česká příjmení; řazeno podle počtu nositelů (mužský i ženský tvar zahrnut), s lokalizovaným a romanizovaným zápisem. Obsahuje 10 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Nejčastější příjmení v České republice (Popular Czech Surnames) | ListBase",
+    "seo_description": "Stáhnout Nejčastější příjmení v České republice (Popular Czech Surnames) — 10 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 10 záznamů / 5 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

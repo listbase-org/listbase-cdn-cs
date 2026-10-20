@@ -1,0 +1,1646 @@
+{
+  "id": "cs-prodejny-zakusku",
+  "name": "Prodejny zákusků",
+  "title": "Prodejny zákusků",
+  "description": "Seznam pojmenovaných prodejen zákusků v České republice (321 záznamů) — body zájmu z OpenStreetMap (tag shop=pastry), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 321,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Habáček",
+      "latitude": 51.003134,
+      "longitude": 14.453316
+    },
+    {
+      "name": "Konditorei & Café Liebe",
+      "latitude": 50.898913,
+      "longitude": 14.659033
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 50.799748,
+      "longitude": 14.420244
+    },
+    {
+      "name": "cukrárna a kavárna Vločka",
+      "latitude": 50.919124,
+      "longitude": 15.081483
+    },
+    {
+      "name": "Cukrárna Petra",
+      "latitude": 50.921628,
+      "longitude": 15.079916
+    },
+    {
+      "name": "Cukrárna u kostela",
+      "latitude": 50.876499,
+      "longitude": 15.182287
+    },
+    {
+      "name": "Sladké a slané od Zuzky",
+      "latitude": 50.760152,
+      "longitude": 15.070265
+    },
+    {
+      "name": "Cukrárna U Kulichů",
+      "latitude": 50.736681,
+      "longitude": 15.24937
+    },
+    {
+      "name": "Konditorei & Café Neubert",
+      "latitude": 50.492525,
+      "longitude": 13.026205
+    },
+    {
+      "name": "Zámecká cukrárna",
+      "latitude": 50.384149,
+      "longitude": 13.173699
+    },
+    {
+      "name": "Tritia",
+      "latitude": 50.217496,
+      "longitude": 12.195224
+    },
+    {
+      "name": "Zuzy dezerty",
+      "latitude": 50.182487,
+      "longitude": 12.54922
+    },
+    {
+      "name": "Ruzova cukrarna",
+      "latitude": 50.124447,
+      "longitude": 12.350818
+    },
+    {
+      "name": "Cukrárna a pekárna nám. Míru 133",
+      "latitude": 50.147368,
+      "longitude": 12.646385
+    },
+    {
+      "name": "Cukrarna Kamilka Ovo bar",
+      "latitude": 50.229747,
+      "longitude": 12.87572
+    },
+    {
+      "name": "Královské oplatky",
+      "latitude": 50.224743,
+      "longitude": 12.883592
+    },
+    {
+      "name": "Královské oplatky",
+      "latitude": 50.230295,
+      "longitude": 12.868066
+    },
+    {
+      "name": "Cukrárna U Dari",
+      "latitude": 50.145677,
+      "longitude": 13.637459
+    },
+    {
+      "name": "Cukrárna U Hanky",
+      "latitude": 50.103701,
+      "longitude": 13.731947
+    },
+    {
+      "name": "Kolonada Shop Lázeňské Oplatky",
+      "latitude": 49.973692,
+      "longitude": 12.703013
+    },
+    {
+      "name": "Kolonada Shop Lázeňské Oplatky",
+      "latitude": 49.977786,
+      "longitude": 12.705985
+    },
+    {
+      "name": "Na Mandlu",
+      "latitude": 49.937262,
+      "longitude": 12.664238
+    },
+    {
+      "name": "Cukrárna Monika",
+      "latitude": 49.867896,
+      "longitude": 12.742459
+    },
+    {
+      "name": "školní cukrárna",
+      "latitude": 49.86771,
+      "longitude": 12.749285
+    },
+    {
+      "name": "Cukrárna pod Zámkem",
+      "latitude": 49.999695,
+      "longitude": 14.002559
+    },
+    {
+      "name": "Galerie Coffee",
+      "latitude": 49.857671,
+      "longitude": 13.606787
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 50.713809,
+      "longitude": 14.396032
+    },
+    {
+      "name": "Dana",
+      "latitude": 50.659308,
+      "longitude": 14.724765
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 50.563579,
+      "longitude": 14.655594
+    },
+    {
+      "name": "cafejustin",
+      "latitude": 50.557555,
+      "longitude": 14.656004
+    },
+    {
+      "name": "Cukrárna Venezia",
+      "latitude": 50.729336,
+      "longitude": 15.169532
+    },
+    {
+      "name": "Cukrárna Petra",
+      "latitude": 50.727933,
+      "longitude": 15.163361
+    },
+    {
+      "name": "Janiny dobroty",
+      "latitude": 50.728915,
+      "longitude": 15.178487
+    },
+    {
+      "name": "Vaše cukrárna",
+      "latitude": 50.726623,
+      "longitude": 15.170334
+    },
+    {
+      "name": "Pralinka",
+      "latitude": 50.728691,
+      "longitude": 15.450036
+    },
+    {
+      "name": "Holka s buchtou",
+      "latitude": 50.52387,
+      "longitude": 14.973587
+    },
+    {
+      "name": "Turnovský krám",
+      "latitude": 50.586593,
+      "longitude": 15.155338
+    },
+    {
+      "name": "Cukrárna Sedmihorky",
+      "latitude": 50.560675,
+      "longitude": 15.201237
+    },
+    {
+      "name": "Espresso House",
+      "latitude": 50.490451,
+      "longitude": 15.038005
+    },
+    {
+      "name": "Domácí cukrárna",
+      "latitude": 50.432425,
+      "longitude": 14.909146
+    },
+    {
+      "name": "Cukrárna Eliška",
+      "latitude": 50.437394,
+      "longitude": 15.346003
+    },
+    {
+      "name": "Cukrarna marta",
+      "latitude": 50.651895,
+      "longitude": 15.90742
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 50.608699,
+      "longitude": 15.504255
+    },
+    {
+      "name": "Cukrarna U Brendlů",
+      "latitude": 50.495125,
+      "longitude": 15.517275
+    },
+    {
+      "name": "Hořické trubičky",
+      "latitude": 50.329262,
+      "longitude": 15.62873
+    },
+    {
+      "name": "Cukrářství U Boháčů",
+      "latitude": 50.458241,
+      "longitude": 16.188383
+    },
+    {
+      "name": "Gofry",
+      "latitude": 50.485389,
+      "longitude": 16.339119
+    },
+    {
+      "name": "Cukiernia Ptyś",
+      "latitude": 50.442243,
+      "longitude": 16.245524
+    },
+    {
+      "name": "Perníkárna PerníKáča",
+      "latitude": 50.281098,
+      "longitude": 14.23383
+    },
+    {
+      "name": "Cukrárna u zámku",
+      "latitude": 50.271801,
+      "longitude": 14.327824
+    },
+    {
+      "name": "Intalská cukrárna \"Londa\"",
+      "latitude": 50.230897,
+      "longitude": 14.085677
+    },
+    {
+      "name": "Cukrárna Mlsárnička",
+      "latitude": 50.187716,
+      "longitude": 14.31902
+    },
+    {
+      "name": "Cukrárna Kopeč",
+      "latitude": 50.250471,
+      "longitude": 14.422192
+    },
+    {
+      "name": "Cukrářství Gató",
+      "latitude": 50.19706,
+      "longitude": 14.676092
+    },
+    {
+      "name": "Cukrárna Ňam Ňam",
+      "latitude": 50.141601,
+      "longitude": 14.09368
+    },
+    {
+      "name": "Cukřenka",
+      "latitude": 50.133249,
+      "longitude": 14.377755
+    },
+    {
+      "name": "Velká Dobrá Kavárna",
+      "latitude": 50.110627,
+      "longitude": 14.07785
+    },
+    {
+      "name": "Mučenka",
+      "latitude": 50.097426,
+      "longitude": 14.364943
+    },
+    {
+      "name": "Zavalianis Sweet",
+      "latitude": 50.102727,
+      "longitude": 14.402074
+    },
+    {
+      "name": "Cukrárna Sladká dílna",
+      "latitude": 50.087741,
+      "longitude": 14.342027
+    },
+    {
+      "name": "Trdlokafe Mostecká",
+      "latitude": 50.087505,
+      "longitude": 14.405556
+    },
+    {
+      "name": "Cukrárna Hájek & Hájková",
+      "latitude": 50.067726,
+      "longitude": 14.406612
+    },
+    {
+      "name": "BonBon Chocolaterie Cafe",
+      "latitude": 50.081065,
+      "longitude": 14.404946
+    },
+    {
+      "name": "Cukrárna ve Zdibech",
+      "latitude": 50.167785,
+      "longitude": 14.440034
+    },
+    {
+      "name": "Sladká dílna",
+      "latitude": 50.151502,
+      "longitude": 14.522923
+    },
+    {
+      "name": "Cukrárna Tichý",
+      "latitude": 50.126134,
+      "longitude": 14.456948
+    },
+    {
+      "name": "U Nováků",
+      "latitude": 50.12236,
+      "longitude": 14.455572
+    },
+    {
+      "name": "U Odry",
+      "latitude": 50.13154,
+      "longitude": 14.42415
+    },
+    {
+      "name": "Caramelo",
+      "latitude": 50.127196,
+      "longitude": 14.469394
+    },
+    {
+      "name": "Božský Trdelník",
+      "latitude": 50.134738,
+      "longitude": 14.5061
+    },
+    {
+      "name": "Angelo",
+      "latitude": 50.105941,
+      "longitude": 14.490944
+    },
+    {
+      "name": "Felicity food",
+      "latitude": 50.101905,
+      "longitude": 14.429467
+    },
+    {
+      "name": "Hájek Hájková",
+      "latitude": 50.119792,
+      "longitude": 14.496725
+    },
+    {
+      "name": "Eska",
+      "latitude": 50.100966,
+      "longitude": 14.425948
+    },
+    {
+      "name": "Lahůdky",
+      "latitude": 50.080843,
+      "longitude": 14.419903
+    },
+    {
+      "name": "Fialová cukrárna",
+      "latitude": 50.077633,
+      "longitude": 14.442168
+    },
+    {
+      "name": "KAFEvPRESU",
+      "latitude": 50.082174,
+      "longitude": 14.448599
+    },
+    {
+      "name": "Kamel",
+      "latitude": 50.072784,
+      "longitude": 14.442083
+    },
+    {
+      "name": "Cukrářství čp. 1",
+      "latitude": 50.075712,
+      "longitude": 14.460215
+    },
+    {
+      "name": "Zelenkova cukrárna",
+      "latitude": 50.090734,
+      "longitude": 14.471216
+    },
+    {
+      "name": "Nofech Pâtisserie",
+      "latitude": 50.071046,
+      "longitude": 14.458255
+    },
+    {
+      "name": "Cukrárna Závodská",
+      "latitude": 50.070005,
+      "longitude": 14.488463
+    },
+    {
+      "name": "Kookie",
+      "latitude": 50.080977,
+      "longitude": 14.418719
+    },
+    {
+      "name": "Sladká Monika",
+      "latitude": 50.082984,
+      "longitude": 14.445163
+    },
+    {
+      "name": "Cake Shop Prague",
+      "latitude": 50.087606,
+      "longitude": 14.423562
+    },
+    {
+      "name": "Sisters Bistro ve Spálené",
+      "latitude": 50.080977,
+      "longitude": 14.419868
+    },
+    {
+      "name": "Sladká Ella",
+      "latitude": 50.071839,
+      "longitude": 14.479327
+    },
+    {
+      "name": "Libeřské Lahůdky",
+      "latitude": 50.075572,
+      "longitude": 14.430959
+    },
+    {
+      "name": "Votre Plaisir",
+      "latitude": 50.091569,
+      "longitude": 14.428101
+    },
+    {
+      "name": "SMIS",
+      "latitude": 50.08775,
+      "longitude": 14.468997
+    },
+    {
+      "name": "Ovocný světozor",
+      "latitude": 50.078245,
+      "longitude": 14.460998
+    },
+    {
+      "name": "Cukrárna Kavárna",
+      "latitude": 50.07355,
+      "longitude": 14.728855
+    },
+    {
+      "name": "Skočna",
+      "latitude": 50.232609,
+      "longitude": 14.886171
+    },
+    {
+      "name": "Cukrárna Milano",
+      "latitude": 50.201332,
+      "longitude": 14.841214
+    },
+    {
+      "name": "U Evy",
+      "latitude": 50.183764,
+      "longitude": 14.96215
+    },
+    {
+      "name": "U Sedláčků",
+      "latitude": 50.184028,
+      "longitude": 14.960963
+    },
+    {
+      "name": "Milano",
+      "latitude": 50.133759,
+      "longitude": 15.104628
+    },
+    {
+      "name": "Cukrárna u Nováků",
+      "latitude": 50.148974,
+      "longitude": 15.135486
+    },
+    {
+      "name": "Cukrárna Nicol",
+      "latitude": 50.148033,
+      "longitude": 15.13665
+    },
+    {
+      "name": "Fruitisimo",
+      "latitude": 50.056483,
+      "longitude": 14.373401
+    },
+    {
+      "name": "Deli Engine",
+      "latitude": 50.056561,
+      "longitude": 14.372474
+    },
+    {
+      "name": "Dortové Studio",
+      "latitude": 50.049985,
+      "longitude": 14.349326
+    },
+    {
+      "name": "Park Café 67",
+      "latitude": 50.034448,
+      "longitude": 14.376962
+    },
+    {
+      "name": "Cukrárna u sv. Jakuba",
+      "latitude": 49.963915,
+      "longitude": 14.070989
+    },
+    {
+      "name": "LovelyDream",
+      "latitude": 50.04677,
+      "longitude": 14.415894
+    },
+    {
+      "name": "Le Cakes",
+      "latitude": 50.058106,
+      "longitude": 14.422214
+    },
+    {
+      "name": "Cukrárna Hájek",
+      "latitude": 50.047679,
+      "longitude": 14.454032
+    },
+    {
+      "name": "Ovocný Světozor",
+      "latitude": 50.054632,
+      "longitude": 14.452417
+    },
+    {
+      "name": "Ovocný semafor",
+      "latitude": 50.042014,
+      "longitude": 14.459768
+    },
+    {
+      "name": "Ovocný světozor",
+      "latitude": 50.044091,
+      "longitude": 14.456011
+    },
+    {
+      "name": "Skibi cukrárna",
+      "latitude": 50.044056,
+      "longitude": 14.449059
+    },
+    {
+      "name": "Dortové studio Alina Kopynets s.r.o.",
+      "latitude": 50.057483,
+      "longitude": 14.493571
+    },
+    {
+      "name": "Cukrářství Hostivař",
+      "latitude": 50.051178,
+      "longitude": 14.523219
+    },
+    {
+      "name": "Cukrárna Brodského",
+      "latitude": 50.037888,
+      "longitude": 14.504132
+    },
+    {
+      "name": "Zelenkova Cukrárna",
+      "latitude": 50.056596,
+      "longitude": 14.507771
+    },
+    {
+      "name": "Cukrárna No.3",
+      "latitude": 50.013979,
+      "longitude": 14.485212
+    },
+    {
+      "name": "Libeřské lahůdky",
+      "latitude": 49.986192,
+      "longitude": 14.495224
+    },
+    {
+      "name": "Cukrářství Viktoria v Písnici",
+      "latitude": 49.996076,
+      "longitude": 14.467818
+    },
+    {
+      "name": "U Lucie",
+      "latitude": 49.949785,
+      "longitude": 14.3135
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 49.891514,
+      "longitude": 14.377208
+    },
+    {
+      "name": "Cukrárna U Moučků",
+      "latitude": 49.949224,
+      "longitude": 14.678419
+    },
+    {
+      "name": "Cukrárna U Míly & Štěpánky",
+      "latitude": 50.026525,
+      "longitude": 15.200698
+    },
+    {
+      "name": "Cukrárna Jiřina",
+      "latitude": 50.028174,
+      "longitude": 15.202436
+    },
+    {
+      "name": "U Kraba",
+      "latitude": 50.02501,
+      "longitude": 15.19994
+    },
+    {
+      "name": "DH dorty Kolín",
+      "latitude": 50.02633,
+      "longitude": 15.206697
+    },
+    {
+      "name": "Belvedér",
+      "latitude": 50.041159,
+      "longitude": 15.358291
+    },
+    {
+      "name": "Kutnohorská cukrárna U Kamila",
+      "latitude": 49.948784,
+      "longitude": 15.266733
+    },
+    {
+      "name": "Cukrárna Předměřice nad Labem",
+      "latitude": 50.252976,
+      "longitude": 15.814073
+    },
+    {
+      "name": "Smékalovo Pekařství",
+      "latitude": 50.213249,
+      "longitude": 15.81847
+    },
+    {
+      "name": "Vatsak",
+      "latitude": 50.213226,
+      "longitude": 15.819036
+    },
+    {
+      "name": "Vatsak",
+      "latitude": 50.19005,
+      "longitude": 15.803798
+    },
+    {
+      "name": "Apetit",
+      "latitude": 50.262877,
+      "longitude": 15.921075
+    },
+    {
+      "name": "Kafárna Srcofka",
+      "latitude": 50.286881,
+      "longitude": 16.04424
+    },
+    {
+      "name": "Cukrárna Bologna",
+      "latitude": 50.213813,
+      "longitude": 15.821226
+    },
+    {
+      "name": "Cukrouš",
+      "latitude": 50.212952,
+      "longitude": 15.822876
+    },
+    {
+      "name": "Cukrárna Libuše",
+      "latitude": 50.210663,
+      "longitude": 15.820909
+    },
+    {
+      "name": "La Donuteria",
+      "latitude": 50.211424,
+      "longitude": 15.830841
+    },
+    {
+      "name": "Cukrárna Lucka",
+      "latitude": 50.217656,
+      "longitude": 15.85272
+    },
+    {
+      "name": "U Mlsouna",
+      "latitude": 50.21004,
+      "longitude": 15.831288
+    },
+    {
+      "name": "Cukrouš",
+      "latitude": 50.187664,
+      "longitude": 15.851129
+    },
+    {
+      "name": "Cukrárna Jadran",
+      "latitude": 50.204227,
+      "longitude": 15.856088
+    },
+    {
+      "name": "Cukrárna a Vinárna U Mostu",
+      "latitude": 50.201082,
+      "longitude": 15.990163
+    },
+    {
+      "name": "Cukrárna Valma",
+      "latitude": 50.067453,
+      "longitude": 15.986472
+    },
+    {
+      "name": "Cukrárna v Pernštýnské",
+      "latitude": 50.039219,
+      "longitude": 15.779451
+    },
+    {
+      "name": "NOVOTNÝ Pardubický perník",
+      "latitude": 50.037192,
+      "longitude": 15.768832
+    },
+    {
+      "name": "Cukrárna Libuše",
+      "latitude": 50.037172,
+      "longitude": 15.775382
+    },
+    {
+      "name": "Aida",
+      "latitude": 50.036662,
+      "longitude": 15.773455
+    },
+    {
+      "name": "Apple Pie Bistro",
+      "latitude": 50.036224,
+      "longitude": 15.773418
+    },
+    {
+      "name": "Cukrouš",
+      "latitude": 50.037954,
+      "longitude": 15.77612
+    },
+    {
+      "name": "Lviv Croissaints",
+      "latitude": 50.037712,
+      "longitude": 15.77649
+    },
+    {
+      "name": "Cukrárna Milano",
+      "latitude": 50.034062,
+      "longitude": 15.769453
+    },
+    {
+      "name": "Mafinka Dortové studio",
+      "latitude": 50.034177,
+      "longitude": 15.759867
+    },
+    {
+      "name": "Bistro dukla",
+      "latitude": 50.024172,
+      "longitude": 15.757469
+    },
+    {
+      "name": "Káva Čaj Cukrovinky",
+      "latitude": 50.035734,
+      "longitude": 15.770259
+    },
+    {
+      "name": "Královská cukrárna",
+      "latitude": 49.952049,
+      "longitude": 15.792764
+    },
+    {
+      "name": "Epifany Patisserie",
+      "latitude": 49.910372,
+      "longitude": 15.885894
+    },
+    {
+      "name": "Kavárna u Natálky",
+      "latitude": 50.036172,
+      "longitude": 16.499934
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 50.035867,
+      "longitude": 16.498568
+    },
+    {
+      "name": "Cukrárna U Antona",
+      "latitude": 50.000897,
+      "longitude": 16.220284
+    },
+    {
+      "name": "Cukrárna U Radima",
+      "latitude": 50.010885,
+      "longitude": 16.622064
+    },
+    {
+      "name": "Cukrárna u Jakuba",
+      "latitude": 49.688274,
+      "longitude": 13.322418
+    },
+    {
+      "name": "PEPE`S Cafe",
+      "latitude": 49.778709,
+      "longitude": 13.369088
+    },
+    {
+      "name": "Rockenrolla",
+      "latitude": 49.758126,
+      "longitude": 13.419849
+    },
+    {
+      "name": "Gold Rybka",
+      "latitude": 49.748808,
+      "longitude": 13.37861
+    },
+    {
+      "name": "Krém",
+      "latitude": 49.747682,
+      "longitude": 13.37535
+    },
+    {
+      "name": "Cukrárna Romance",
+      "latitude": 49.736021,
+      "longitude": 13.40491
+    },
+    {
+      "name": "Cukrárna Zuz-Ka",
+      "latitude": 49.751482,
+      "longitude": 13.414965
+    },
+    {
+      "name": "Sušenkárna",
+      "latitude": 49.7428,
+      "longitude": 13.372367
+    },
+    {
+      "name": "Dorty ZPM",
+      "latitude": 49.73539,
+      "longitude": 13.390515
+    },
+    {
+      "name": "Dřevěná kavárna",
+      "latitude": 49.67303,
+      "longitude": 13.504113
+    },
+    {
+      "name": "Upekla",
+      "latitude": 49.689865,
+      "longitude": 14.025438
+    },
+    {
+      "name": "cukrárna Paříž",
+      "latitude": 49.677891,
+      "longitude": 13.995928
+    },
+    {
+      "name": "NaKafe",
+      "latitude": 49.528231,
+      "longitude": 12.942752
+    },
+    {
+      "name": "Pod Věží",
+      "latitude": 49.440759,
+      "longitude": 12.929697
+    },
+    {
+      "name": "ZEOS Lahůdky Cukrárna",
+      "latitude": 49.390843,
+      "longitude": 13.03923
+    },
+    {
+      "name": "Cukrárna Fialka",
+      "latitude": 49.230427,
+      "longitude": 13.519376
+    },
+    {
+      "name": "Cukrárna Hvězda",
+      "latitude": 49.26365,
+      "longitude": 13.907247
+    },
+    {
+      "name": "Cukrárna Karolina",
+      "latitude": 49.262733,
+      "longitude": 13.904736
+    },
+    {
+      "name": "BARMEO",
+      "latitude": 49.261867,
+      "longitude": 13.902831
+    },
+    {
+      "name": "Ella",
+      "latitude": 49.066023,
+      "longitude": 13.622498
+    },
+    {
+      "name": "Pekárna a Cukrárna Stáňa",
+      "latitude": 49.781523,
+      "longitude": 14.174059
+    },
+    {
+      "name": "Hájek & Hájková",
+      "latitude": 49.788926,
+      "longitude": 14.184951
+    },
+    {
+      "name": "CAFÉ MAX",
+      "latitude": 49.658245,
+      "longitude": 14.424928
+    },
+    {
+      "name": "Cukrárna Rozvoj",
+      "latitude": 49.65757,
+      "longitude": 14.425703
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 49.464965,
+      "longitude": 14.069089
+    },
+    {
+      "name": "Cukrárna Zlaté slunce",
+      "latitude": 49.413886,
+      "longitude": 14.659555
+    },
+    {
+      "name": "Cukrárna Na Růžku",
+      "latitude": 49.71147,
+      "longitude": 16.034676
+    },
+    {
+      "name": "Cukrárna Amarena",
+      "latitude": 49.561586,
+      "longitude": 15.939438
+    },
+    {
+      "name": "Cukrárna U Matěje",
+      "latitude": 49.186501,
+      "longitude": 15.452409
+    },
+    {
+      "name": "U Kamila",
+      "latitude": 49.049412,
+      "longitude": 14.195416
+    },
+    {
+      "name": "Cukrárna Magdalene",
+      "latitude": 48.989824,
+      "longitude": 14.455495
+    },
+    {
+      "name": "Sluníčko",
+      "latitude": 48.9845,
+      "longitude": 14.436516
+    },
+    {
+      "name": "U Kláštera",
+      "latitude": 48.975254,
+      "longitude": 14.472615
+    },
+    {
+      "name": "Pekařství & Cukrářství",
+      "latitude": 48.976231,
+      "longitude": 14.475852
+    },
+    {
+      "name": "Kremrolka",
+      "latitude": 48.976457,
+      "longitude": 14.474827
+    },
+    {
+      "name": "Boršovské dobroty",
+      "latitude": 48.975209,
+      "longitude": 14.48563
+    },
+    {
+      "name": "Slaďme se",
+      "latitude": 48.976659,
+      "longitude": 14.471712
+    },
+    {
+      "name": "Donuterie a zákusky Sladký sen",
+      "latitude": 49.143179,
+      "longitude": 15.002196
+    },
+    {
+      "name": "Cukrárna U věže",
+      "latitude": 49.08015,
+      "longitude": 15.434069
+    },
+    {
+      "name": "Cukrárna Tichá",
+      "latitude": 49.083992,
+      "longitude": 15.427176
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 48.99787,
+      "longitude": 15.351366
+    },
+    {
+      "name": "Café Gusto",
+      "latitude": 49.216087,
+      "longitude": 15.876876
+    },
+    {
+      "name": "Cherry",
+      "latitude": 49.356029,
+      "longitude": 16.401826
+    },
+    {
+      "name": "Moravské koláče FÍ-HA",
+      "latitude": 49.349511,
+      "longitude": 16.423072
+    },
+    {
+      "name": "Zákuskárna",
+      "latitude": 49.359871,
+      "longitude": 16.64599
+    },
+    {
+      "name": "Gelateria Bianco",
+      "latitude": 49.361602,
+      "longitude": 16.642357
+    },
+    {
+      "name": "Cukrárna Lilie",
+      "latitude": 49.337594,
+      "longitude": 16.725103
+    },
+    {
+      "name": "Čokoládovny Fikar",
+      "latitude": 49.299209,
+      "longitude": 16.531262
+    },
+    {
+      "name": "Cukrárna jako Milano",
+      "latitude": 49.217012,
+      "longitude": 16.499137
+    },
+    {
+      "name": "Cukrárna Na hrázi",
+      "latitude": 49.153726,
+      "longitude": 16.501639
+    },
+    {
+      "name": "Větrník",
+      "latitude": 49.251238,
+      "longitude": 16.582687
+    },
+    {
+      "name": "Pečivokýnko",
+      "latitude": 49.240327,
+      "longitude": 16.574034
+    },
+    {
+      "name": "Bílovická cukrárna",
+      "latitude": 49.246011,
+      "longitude": 16.673048
+    },
+    {
+      "name": "Simča",
+      "latitude": 49.210509,
+      "longitude": 16.600681
+    },
+    {
+      "name": "Koruna cukrárna&caffé - bar",
+      "latitude": 49.222838,
+      "longitude": 16.594737
+    },
+    {
+      "name": "Cukrárna Větrník",
+      "latitude": 49.217132,
+      "longitude": 16.608162
+    },
+    {
+      "name": "Dortíky Gabriela",
+      "latitude": 49.225403,
+      "longitude": 16.594117
+    },
+    {
+      "name": "Cukrárna Větrník",
+      "latitude": 49.212373,
+      "longitude": 16.624413
+    },
+    {
+      "name": "Větrník",
+      "latitude": 49.203249,
+      "longitude": 16.607232
+    },
+    {
+      "name": "Diana",
+      "latitude": 49.196891,
+      "longitude": 16.605497
+    },
+    {
+      "name": "Choco Shop",
+      "latitude": 49.203583,
+      "longitude": 16.6063
+    },
+    {
+      "name": "Sušenkárna Momenta",
+      "latitude": 49.192827,
+      "longitude": 16.607821
+    },
+    {
+      "name": "Koruna pralines",
+      "latitude": 49.191775,
+      "longitude": 16.597552
+    },
+    {
+      "name": "UM",
+      "latitude": 49.196042,
+      "longitude": 16.606317
+    },
+    {
+      "name": "Martinák",
+      "latitude": 49.194894,
+      "longitude": 16.609822
+    },
+    {
+      "name": "mazzy",
+      "latitude": 49.207154,
+      "longitude": 16.602503
+    },
+    {
+      "name": "Kavárna na Náměstí",
+      "latitude": 49.206523,
+      "longitude": 16.694335
+    },
+    {
+      "name": "BezCukru",
+      "latitude": 49.194595,
+      "longitude": 16.612733
+    },
+    {
+      "name": "Cukrárna U Losa",
+      "latitude": 49.204824,
+      "longitude": 16.661099
+    },
+    {
+      "name": "Kremrolky",
+      "latitude": 49.20692,
+      "longitude": 16.612197
+    },
+    {
+      "name": "Cinname",
+      "latitude": 49.193707,
+      "longitude": 16.611333
+    },
+    {
+      "name": "Dorty",
+      "latitude": 49.191212,
+      "longitude": 16.634344
+    },
+    {
+      "name": "minit",
+      "latitude": 49.191093,
+      "longitude": 16.612875
+    },
+    {
+      "name": "Cukrářství Sluníčko",
+      "latitude": 49.199681,
+      "longitude": 16.631401
+    },
+    {
+      "name": "Cukrárna Eliška",
+      "latitude": 49.206697,
+      "longitude": 16.696626
+    },
+    {
+      "name": "cukrárna Havana",
+      "latitude": 49.206281,
+      "longitude": 16.675829
+    },
+    {
+      "name": "Future Sailors Pastry",
+      "latitude": 49.19146,
+      "longitude": 16.616948
+    },
+    {
+      "name": "Máslové trubičky",
+      "latitude": 49.176327,
+      "longitude": 16.597162
+    },
+    {
+      "name": "Cukrárna Větrník",
+      "latitude": 49.177165,
+      "longitude": 16.565774
+    },
+    {
+      "name": "Kejkárna",
+      "latitude": 49.036387,
+      "longitude": 15.829935
+    },
+    {
+      "name": "U Dvořáků",
+      "latitude": 49.069472,
+      "longitude": 16.466248
+    },
+    {
+      "name": "Toffi",
+      "latitude": 49.136,
+      "longitude": 16.633484
+    },
+    {
+      "name": "u Ivet",
+      "latitude": 49.132508,
+      "longitude": 16.808608
+    },
+    {
+      "name": "Cukrárna U Žbánků",
+      "latitude": 49.087303,
+      "longitude": 16.812825
+    },
+    {
+      "name": "Malaga",
+      "latitude": 50.444097,
+      "longitude": 16.87572
+    },
+    {
+      "name": "Cukrárna V Podloubí",
+      "latitude": 50.229926,
+      "longitude": 17.204111
+    },
+    {
+      "name": "Velkolosinské Pralinky",
+      "latitude": 50.025431,
+      "longitude": 17.030131
+    },
+    {
+      "name": "Cukrárna - Bořucká Eliška",
+      "latitude": 50.005921,
+      "longitude": 18.013102
+    },
+    {
+      "name": "Cukrářství Blahutovi",
+      "latitude": 49.975321,
+      "longitude": 18.179111
+    },
+    {
+      "name": "Cukrárna Kamahaj",
+      "latitude": 49.870783,
+      "longitude": 17.876083
+    },
+    {
+      "name": "Cukrářství Madel",
+      "latitude": 49.921937,
+      "longitude": 18.07644
+    },
+    {
+      "name": "Cukrárna Marie",
+      "latitude": 49.873836,
+      "longitude": 18.260067
+    },
+    {
+      "name": "Cukrárna Mini kafé",
+      "latitude": 49.8404,
+      "longitude": 18.178417
+    },
+    {
+      "name": "LívancovnaOVA",
+      "latitude": 49.848914,
+      "longitude": 18.145668
+    },
+    {
+      "name": "Sladké tajemství",
+      "latitude": 49.854894,
+      "longitude": 18.27454
+    },
+    {
+      "name": "Delikates",
+      "latitude": 49.840926,
+      "longitude": 18.290383
+    },
+    {
+      "name": "Cukrárna na Náměstí",
+      "latitude": 49.786273,
+      "longitude": 18.131888
+    },
+    {
+      "name": "Cukrárna Venuše",
+      "latitude": 49.784237,
+      "longitude": 18.260297
+    },
+    {
+      "name": "Cukrárna Pod Ořechem",
+      "latitude": 49.730218,
+      "longitude": 18.23593
+    },
+    {
+      "name": "Sladká Andulka",
+      "latitude": 49.594147,
+      "longitude": 17.282597
+    },
+    {
+      "name": "Kavárna u Evy",
+      "latitude": 49.574505,
+      "longitude": 17.249505
+    },
+    {
+      "name": "Cukrárna Sladký Méďa",
+      "latitude": 49.582208,
+      "longitude": 17.232968
+    },
+    {
+      "name": "Cukrárna Sněhurka",
+      "latitude": 49.580897,
+      "longitude": 17.238595
+    },
+    {
+      "name": "Cukrárna Plumlov",
+      "latitude": 49.46608,
+      "longitude": 17.015166
+    },
+    {
+      "name": "Florida",
+      "latitude": 49.472545,
+      "longitude": 17.111326
+    },
+    {
+      "name": "Cukrárna Lipka",
+      "latitude": 49.480168,
+      "longitude": 17.146755
+    },
+    {
+      "name": "Lahůdkářství u Němečků",
+      "latitude": 49.5265,
+      "longitude": 17.586382
+    },
+    {
+      "name": "Cukrárna Croatia",
+      "latitude": 49.526791,
+      "longitude": 17.585257
+    },
+    {
+      "name": "Slezská cukrárna Tivoli",
+      "latitude": 49.548989,
+      "longitude": 17.735185
+    },
+    {
+      "name": "Cukrárna KRECI",
+      "latitude": 49.595366,
+      "longitude": 18.01029
+    },
+    {
+      "name": "Rimini",
+      "latitude": 49.598457,
+      "longitude": 18.145428
+    },
+    {
+      "name": "Cukrárna Romance",
+      "latitude": 49.414334,
+      "longitude": 18.109547
+    },
+    {
+      "name": "Sladký časy",
+      "latitude": 49.8336,
+      "longitude": 18.290499
+    },
+    {
+      "name": "Italka",
+      "latitude": 49.780915,
+      "longitude": 18.430448
+    },
+    {
+      "name": "Makarská Cukrárna",
+      "latitude": 49.746635,
+      "longitude": 18.624226
+    },
+    {
+      "name": "Wiślanka",
+      "latitude": 49.745566,
+      "longitude": 18.625099
+    },
+    {
+      "name": "Cukrárna Kavárna Sissi",
+      "latitude": 49.746495,
+      "longitude": 18.624091
+    },
+    {
+      "name": "Cukrárna Marek",
+      "latitude": 49.67564,
+      "longitude": 18.340803
+    },
+    {
+      "name": "Sladká Siesta",
+      "latitude": 49.674505,
+      "longitude": 18.341328
+    },
+    {
+      "name": "Květinová Cukrárna Natálie",
+      "latitude": 49.676471,
+      "longitude": 18.3434
+    },
+    {
+      "name": "Cukrárna Cake Art",
+      "latitude": 49.659055,
+      "longitude": 18.672869
+    },
+    {
+      "name": "Pekárna a cukrárna NOWINA",
+      "latitude": 49.548473,
+      "longitude": 18.708627
+    },
+    {
+      "name": "Cukrárna Vanilka",
+      "latitude": 49.275666,
+      "longitude": 16.949268
+    },
+    {
+      "name": "Cukrárna Janský",
+      "latitude": 49.2763,
+      "longitude": 16.95089
+    },
+    {
+      "name": "fruli",
+      "latitude": 49.277305,
+      "longitude": 16.998007
+    },
+    {
+      "name": "Máslové trubičky",
+      "latitude": 49.273881,
+      "longitude": 16.989269
+    },
+    {
+      "name": "Cukrárna Mirka",
+      "latitude": 49.305251,
+      "longitude": 17.092659
+    },
+    {
+      "name": "Dobroty u cesty",
+      "latitude": 49.15481,
+      "longitude": 17.138265
+    },
+    {
+      "name": "Cukrárna Gabriela",
+      "latitude": 49.176367,
+      "longitude": 17.519044
+    },
+    {
+      "name": "Cukrárna Vendula",
+      "latitude": 49.332214,
+      "longitude": 17.579479
+    },
+    {
+      "name": "Cukrářství Eklér",
+      "latitude": 49.331264,
+      "longitude": 17.583686
+    },
+    {
+      "name": "Cukrárna a pekárna Gusto",
+      "latitude": 49.330793,
+      "longitude": 17.578315
+    },
+    {
+      "name": "Cukrárna Gusto",
+      "latitude": 49.330883,
+      "longitude": 17.57838
+    },
+    {
+      "name": "Koloniál + cukrárna",
+      "latitude": 49.277655,
+      "longitude": 17.790307
+    },
+    {
+      "name": "Řeznictví Singer",
+      "latitude": 49.223732,
+      "longitude": 17.69485
+    },
+    {
+      "name": "Tvoje dobroty",
+      "latitude": 49.15,
+      "longitude": 17.003388
+    },
+    {
+      "name": "U Kapličky",
+      "latitude": 49.151697,
+      "longitude": 17.081112
+    },
+    {
+      "name": "Symfonie",
+      "latitude": 49.068414,
+      "longitude": 17.026501
+    },
+    {
+      "name": "Cukrárna Alenka",
+      "latitude": 49.068534,
+      "longitude": 17.462194
+    },
+    {
+      "name": "Michal Budař",
+      "latitude": 49.070439,
+      "longitude": 17.458725
+    },
+    {
+      "name": "M&M cukrárna",
+      "latitude": 49.069479,
+      "longitude": 17.458654
+    },
+    {
+      "name": "Markéta Sukupová",
+      "latitude": 49.041533,
+      "longitude": 17.46695
+    },
+    {
+      "name": "Makronky",
+      "latitude": 49.009432,
+      "longitude": 17.125905
+    },
+    {
+      "name": "Cukrárna a Kavárna Longus",
+      "latitude": 49.010068,
+      "longitude": 17.124926
+    },
+    {
+      "name": "Králíčkova cukrárna",
+      "latitude": 49.012279,
+      "longitude": 17.12644
+    },
+    {
+      "name": "Cukrárna u Motlů",
+      "latitude": 48.953448,
+      "longitude": 17.382112
+    },
+    {
+      "name": "Merkur",
+      "latitude": 49.101346,
+      "longitude": 17.760129
+    },
+    {
+      "name": "M&M cukrárna",
+      "latitude": 49.101089,
+      "longitude": 17.759687
+    },
+    {
+      "name": "Cukrárna - kavárna Dobrá naděje",
+      "latitude": 49.09846,
+      "longitude": 17.754136
+    },
+    {
+      "name": "Cukrárna & Kafárna Máj",
+      "latitude": 49.02858,
+      "longitude": 17.65728
+    },
+    {
+      "name": "Cukrárna U Hamplů",
+      "latitude": 49.024732,
+      "longitude": 17.644697
+    },
+    {
+      "name": "Cukrárna U Kostela",
+      "latitude": 48.932262,
+      "longitude": 17.625058
+    },
+    {
+      "name": "Cukrárna u soudu",
+      "latitude": 48.808528,
+      "longitude": 14.316592
+    },
+    {
+      "name": "Kavárna a cukrárna Modrá hvězdička",
+      "latitude": 48.812455,
+      "longitude": 14.257366
+    },
+    {
+      "name": "Cukrárna Věneček",
+      "latitude": 48.729796,
+      "longitude": 14.625817
+    },
+    {
+      "name": "Kavárna a cukrárna Lipno nad Vltavou",
+      "latitude": 48.640655,
+      "longitude": 14.225197
+    },
+    {
+      "name": "Cukrárna Eva",
+      "latitude": 48.613718,
+      "longitude": 14.311194
+    },
+    {
+      "name": "půlnapůl",
+      "latitude": 48.857549,
+      "longitude": 16.050457
+    },
+    {
+      "name": "Cukrárna Jitka",
+      "latitude": 48.861655,
+      "longitude": 17.02611
+    },
+    {
+      "name": "Máslové Trubičky",
+      "latitude": 48.851831,
+      "longitude": 17.115958
+    },
+    {
+      "name": "Jopeja",
+      "latitude": 48.821028,
+      "longitude": 17.160319
+    }
+  ],
+  "meta": {
+    "title": "Prodejny zákusků - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných prodejen zákusků v České republice (321 záznamů) — body zájmu z OpenStreetMap (tag shop=pastry), výřez EU-POIS/CZ. Obsahuje 321 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Prodejny zákusků | ListBase",
+    "seo_description": "Stáhnout Prodejny zákusků — 321 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 321 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

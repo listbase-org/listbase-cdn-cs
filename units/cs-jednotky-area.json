@@ -1,0 +1,196 @@
+{
+  "id": "cs-jednotky-area",
+  "name": "Měrné jednotky: area (13)",
+  "title": "Měrné jednotky: area (13)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'area'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategorie": "area",
+      "nazev": "akry",
+      "vzor_jednotne": "{0} akr",
+      "vzor_mnozne": "{0} akrů",
+      "kratky_vzor": "{0} ac",
+      "uzky_vzor": "{0} ac"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategorie": "area",
+      "nazev": "bu [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} bu [JP]",
+      "kratky_vzor": "{0} bu [JP]",
+      "uzky_vzor": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategorie": "area",
+      "nazev": "cho [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} cho [JP]",
+      "kratky_vzor": "{0} cho [JP]",
+      "uzky_vzor": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategorie": "area",
+      "nazev": "dunamy",
+      "vzor_jednotne": "{0} dunam",
+      "vzor_mnozne": "{0} dunamů",
+      "kratky_vzor": "{0} dun.",
+      "uzky_vzor": "{0} dun."
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategorie": "area",
+      "nazev": "hektary",
+      "vzor_jednotne": "{0} hektar",
+      "vzor_mnozne": "{0} hektarů",
+      "kratky_vzor": "{0} ha",
+      "uzky_vzor": "{0} ha"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategorie": "area",
+      "nazev": "se [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} se [JP]",
+      "kratky_vzor": "{0} se [JP]",
+      "uzky_vzor": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategorie": "area",
+      "nazev": "centimetry čtvereční",
+      "vzor_jednotne": "{0} centimetr čtvereční",
+      "vzor_mnozne": "{0} centimetrů čtverečních",
+      "kratky_vzor": "{0} cm²",
+      "uzky_vzor": "{0} cm²"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategorie": "area",
+      "nazev": "stopy čtvereční",
+      "vzor_jednotne": "{0} stopa čtvereční",
+      "vzor_mnozne": "{0} stop čtverečních",
+      "kratky_vzor": "{0} ft²",
+      "uzky_vzor": "{0} ft²"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategorie": "area",
+      "nazev": "palce čtvereční",
+      "vzor_jednotne": "{0} palec čtvereční",
+      "vzor_mnozne": "{0} palců čtverečních",
+      "kratky_vzor": "{0} in²",
+      "uzky_vzor": "{0} in²"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategorie": "area",
+      "nazev": "kilometry čtvereční",
+      "vzor_jednotne": "{0} kilometr čtvereční",
+      "vzor_mnozne": "{0} kilometrů čtverečních",
+      "kratky_vzor": "{0} km²",
+      "uzky_vzor": "{0} km²"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategorie": "area",
+      "nazev": "metry čtvereční",
+      "vzor_jednotne": "{0} metr čtvereční",
+      "vzor_mnozne": "{0} metrů čtverečních",
+      "kratky_vzor": "{0} m²",
+      "uzky_vzor": "{0} m²"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategorie": "area",
+      "nazev": "míle čtvereční",
+      "vzor_jednotne": "{0} míle čtvereční",
+      "vzor_mnozne": "{0} mil čtverečních",
+      "kratky_vzor": "{0} mi²",
+      "uzky_vzor": "{0} mi²"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategorie": "area",
+      "nazev": "yardy čtvereční",
+      "vzor_jednotne": "{0} yard čtvereční",
+      "vzor_mnozne": "{0} yardů čtverečních",
+      "kratky_vzor": "{0} yd²",
+      "uzky_vzor": "{0} yd²"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: area (13) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'area'. Obsahuje 13 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: area (13) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: area (13) — 13 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 13 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,1756 @@
+{
+  "id": "cs-osm-zahrady",
+  "name": "Zahrady (OSM)",
+  "title": "Zahrady (OSM)",
+  "description": "Seznam pojmenovaných zahrad v České republice (343 záznamů) — body zájmu z OpenStreetMap (tag leisure=garden), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 343,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Rozárium minor",
+      "latitude": 51.014397,
+      "longitude": 14.360105
+    },
+    {
+      "name": "Rozárium Maior",
+      "latitude": 51.012497,
+      "longitude": 14.359891
+    },
+    {
+      "name": "Getsemanská zahrada",
+      "latitude": 50.99944,
+      "longitude": 14.454889
+    },
+    {
+      "name": "Pflanzengarten",
+      "latitude": 50.99981,
+      "longitude": 14.589689
+    },
+    {
+      "name": "Arboretum",
+      "latitude": 50.920429,
+      "longitude": 14.479686
+    },
+    {
+      "name": "Müller-Plantage",
+      "latitude": 50.904588,
+      "longitude": 14.667326
+    },
+    {
+      "name": "Růžová",
+      "latitude": 50.779395,
+      "longitude": 14.211389
+    },
+    {
+      "name": "Školní zahrada",
+      "latitude": 50.790033,
+      "longitude": 15.065487
+    },
+    {
+      "name": "community garden",
+      "latitude": 50.743014,
+      "longitude": 15.085961
+    },
+    {
+      "name": "Naturerlebnisgarten Aschberg",
+      "latitude": 50.394706,
+      "longitude": 12.510146
+    },
+    {
+      "name": "Komunitní zahrada Evička",
+      "latitude": 50.544929,
+      "longitude": 13.774201
+    },
+    {
+      "name": "Fichtelberg-Garten",
+      "latitude": 50.428173,
+      "longitude": 12.953289
+    },
+    {
+      "name": "Školní zahrádka",
+      "latitude": 50.363348,
+      "longitude": 12.930482
+    },
+    {
+      "name": "Zahrada",
+      "latitude": 50.325225,
+      "longitude": 12.716848
+    },
+    {
+      "name": "školní statek",
+      "latitude": 50.380552,
+      "longitude": 13.274538
+    },
+    {
+      "name": "Zámecká zahrada Stekník",
+      "latitude": 50.323175,
+      "longitude": 13.623617
+    },
+    {
+      "name": "Naturhof Faßmannreuther Erde",
+      "latitude": 50.274636,
+      "longitude": 12.119375
+    },
+    {
+      "name": "Barokní zahrada Balthasara Neumanna",
+      "latitude": 50.079616,
+      "longitude": 12.36548
+    },
+    {
+      "name": "Bečovská botanická zahrada",
+      "latitude": 50.081349,
+      "longitude": 12.828861
+    },
+    {
+      "name": "Zeměsouznění",
+      "latitude": 50.100703,
+      "longitude": 13.008118
+    },
+    {
+      "name": "Římskokatolická farnost Rakovník",
+      "latitude": 50.104079,
+      "longitude": 13.734517
+    },
+    {
+      "name": "Botanická zahrada SZŠ Rakovník",
+      "latitude": 50.099785,
+      "longitude": 13.737968
+    },
+    {
+      "name": "Zámek Vísky",
+      "latitude": 49.857701,
+      "longitude": 13.334833
+    },
+    {
+      "name": "Od Bílého vrchu",
+      "latitude": 49.901932,
+      "longitude": 13.375806
+    },
+    {
+      "name": "Zahrada Archeologického muzea - Šatlavy",
+      "latitude": 50.687387,
+      "longitude": 14.537618
+    },
+    {
+      "name": "Klášterní zahrada",
+      "latitude": 50.688077,
+      "longitude": 14.647923
+    },
+    {
+      "name": "Japonská zahrada",
+      "latitude": 50.628247,
+      "longitude": 15.092925
+    },
+    {
+      "name": "Zásobní zahrada",
+      "latitude": 50.624816,
+      "longitude": 15.091009
+    },
+    {
+      "name": "Zahradní centrum DIKÉ",
+      "latitude": 50.580216,
+      "longitude": 15.071786
+    },
+    {
+      "name": "Františkánská zahrada",
+      "latitude": 50.588088,
+      "longitude": 15.15852
+    },
+    {
+      "name": "Arboretum Bukovina",
+      "latitude": 50.549349,
+      "longitude": 15.184295
+    },
+    {
+      "name": "Jahodárna Vraňany",
+      "latitude": 50.317739,
+      "longitude": 14.354811
+    },
+    {
+      "name": "zahrada Svatá Ludmila",
+      "latitude": 50.350554,
+      "longitude": 14.477177
+    },
+    {
+      "name": "190/53",
+      "latitude": 50.478196,
+      "longitude": 14.808395
+    },
+    {
+      "name": "190/52",
+      "latitude": 50.478022,
+      "longitude": 14.808029
+    },
+    {
+      "name": "190/69",
+      "latitude": 50.477864,
+      "longitude": 14.807377
+    },
+    {
+      "name": "190/59",
+      "latitude": 50.47746,
+      "longitude": 14.808533
+    },
+    {
+      "name": "190/58",
+      "latitude": 50.477421,
+      "longitude": 14.808171
+    },
+    {
+      "name": "190/57",
+      "latitude": 50.477326,
+      "longitude": 14.807874
+    },
+    {
+      "name": "190/56",
+      "latitude": 50.47713,
+      "longitude": 14.807561
+    },
+    {
+      "name": "190/60",
+      "latitude": 50.476684,
+      "longitude": 14.80757
+    },
+    {
+      "name": "190/62",
+      "latitude": 50.476925,
+      "longitude": 14.808175
+    },
+    {
+      "name": "190/63",
+      "latitude": 50.477054,
+      "longitude": 14.808534
+    },
+    {
+      "name": "190/48",
+      "latitude": 50.478479,
+      "longitude": 14.807739
+    },
+    {
+      "name": "190/50",
+      "latitude": 50.47864,
+      "longitude": 14.808277
+    },
+    {
+      "name": "Zahradnictví Flora",
+      "latitude": 50.476035,
+      "longitude": 14.937583
+    },
+    {
+      "name": "okrasná školka Agarden",
+      "latitude": 50.501642,
+      "longitude": 15.019644
+    },
+    {
+      "name": "zahrada DDM",
+      "latitude": 50.415445,
+      "longitude": 14.904921
+    },
+    {
+      "name": "Farní zahrada",
+      "latitude": 50.547008,
+      "longitude": 15.558687
+    },
+    {
+      "name": "Klášterní zahrada",
+      "latitude": 50.587931,
+      "longitude": 16.332838
+    },
+    {
+      "name": "Dětská ozdravovna Království",
+      "latitude": 50.460649,
+      "longitude": 15.768507
+    },
+    {
+      "name": "Živá zahrada",
+      "latitude": 50.430084,
+      "longitude": 15.815735
+    },
+    {
+      "name": "Kamenný areál Velké Poříčí",
+      "latitude": 50.466302,
+      "longitude": 16.178796
+    },
+    {
+      "name": "Ogród Muzyczny im. Harcmistrza Władysława Skoraczewskiego",
+      "latitude": 50.442614,
+      "longitude": 16.241111
+    },
+    {
+      "name": "Biały Ogród",
+      "latitude": 50.444709,
+      "longitude": 16.239361
+    },
+    {
+      "name": "Farní zahrada",
+      "latitude": 50.198572,
+      "longitude": 14.36449
+    },
+    {
+      "name": "Zahrada o.s. KomPot",
+      "latitude": 50.123371,
+      "longitude": 14.250728
+    },
+    {
+      "name": "Botanická zahrada FTZ",
+      "latitude": 50.131269,
+      "longitude": 14.370688
+    },
+    {
+      "name": "Vertikální zahrada s lavičkou",
+      "latitude": 50.12997,
+      "longitude": 14.37291
+    },
+    {
+      "name": "Botanická zahrada Praha",
+      "latitude": 50.121806,
+      "longitude": 14.413453
+    },
+    {
+      "name": "Lesy Praha",
+      "latitude": 50.104864,
+      "longitude": 14.321954
+    },
+    {
+      "name": "Fíkovna",
+      "latitude": 50.093228,
+      "longitude": 14.405197
+    },
+    {
+      "name": "Královská zahrada",
+      "latitude": 50.092908,
+      "longitude": 14.401392
+    },
+    {
+      "name": "Vrtbovská zahrada",
+      "latitude": 50.086504,
+      "longitude": 14.402672
+    },
+    {
+      "name": "Vratislavská zahrada",
+      "latitude": 50.086763,
+      "longitude": 14.402091
+    },
+    {
+      "name": "Lobkovická zahrada",
+      "latitude": 50.086974,
+      "longitude": 14.397795
+    },
+    {
+      "name": "Kolovratská zahrada",
+      "latitude": 50.091297,
+      "longitude": 14.405818
+    },
+    {
+      "name": "Ledebourská zahrada",
+      "latitude": 50.090845,
+      "longitude": 14.404812
+    },
+    {
+      "name": "Malá Pálffyovská zahrada",
+      "latitude": 50.091088,
+      "longitude": 14.40503
+    },
+    {
+      "name": "Velká Pálffyovská zahrada",
+      "latitude": 50.091199,
+      "longitude": 14.405499
+    },
+    {
+      "name": "Zahrada Strakovy akademie",
+      "latitude": 50.09215,
+      "longitude": 14.412461
+    },
+    {
+      "name": "Rajská zahrada",
+      "latitude": 50.08947,
+      "longitude": 14.399862
+    },
+    {
+      "name": "Zahrada Na Baště",
+      "latitude": 50.09074,
+      "longitude": 14.397959
+    },
+    {
+      "name": "Hartigovská zahrada",
+      "latitude": 50.089675,
+      "longitude": 14.401571
+    },
+    {
+      "name": "Konventní zahrada",
+      "latitude": 50.085813,
+      "longitude": 14.389696
+    },
+    {
+      "name": "Loretánská zahrada",
+      "latitude": 50.089094,
+      "longitude": 14.39232
+    },
+    {
+      "name": "Kajetánské terasy",
+      "latitude": 50.089105,
+      "longitude": 14.399082
+    },
+    {
+      "name": "Šalamounka",
+      "latitude": 50.066738,
+      "longitude": 14.382248
+    },
+    {
+      "name": "Květnice",
+      "latitude": 50.080615,
+      "longitude": 14.398547
+    },
+    {
+      "name": "Valdštejnská zahrada",
+      "latitude": 50.090326,
+      "longitude": 14.407345
+    },
+    {
+      "name": "Zahrada na terase Jízdárny",
+      "latitude": 50.092051,
+      "longitude": 14.397619
+    },
+    {
+      "name": "Opatská zahrada",
+      "latitude": 50.086491,
+      "longitude": 14.390442
+    },
+    {
+      "name": "Maltézská zahrada",
+      "latitude": 50.086405,
+      "longitude": 14.406903
+    },
+    {
+      "name": "Bertramka",
+      "latitude": 50.069797,
+      "longitude": 14.394504
+    },
+    {
+      "name": "zahrada Na Valech",
+      "latitude": 50.09046,
+      "longitude": 14.402497
+    },
+    {
+      "name": "Alpínská zahrada",
+      "latitude": 50.074429,
+      "longitude": 14.400127
+    },
+    {
+      "name": "Geologické expozice",
+      "latitude": 50.074882,
+      "longitude": 14.400417
+    },
+    {
+      "name": "Přírodní zahrada",
+      "latitude": 50.074961,
+      "longitude": 14.400025
+    },
+    {
+      "name": "Léčivé rostliny",
+      "latitude": 50.075898,
+      "longitude": 14.399253
+    },
+    {
+      "name": "Velká Fürstenberská zahrada",
+      "latitude": 50.091636,
+      "longitude": 14.406544
+    },
+    {
+      "name": "Komunitní zahrada LIBÓZA",
+      "latitude": 50.086263,
+      "longitude": 14.328675
+    },
+    {
+      "name": "Schönbornská zahrada",
+      "latitude": 50.086346,
+      "longitude": 14.400676
+    },
+    {
+      "name": "Černínská zahrada",
+      "latitude": 50.089624,
+      "longitude": 14.389693
+    },
+    {
+      "name": "Malá Fürstenberská zahrada",
+      "latitude": 50.091438,
+      "longitude": 14.406024
+    },
+    {
+      "name": "Na Polské",
+      "latitude": 50.137799,
+      "longitude": 14.438767
+    },
+    {
+      "name": "Mazanka",
+      "latitude": 50.121716,
+      "longitude": 14.473404
+    },
+    {
+      "name": "Mateřinka Jeřabinka",
+      "latitude": 50.134881,
+      "longitude": 14.456122
+    },
+    {
+      "name": "Metrofarm",
+      "latitude": 50.112319,
+      "longitude": 14.414587
+    },
+    {
+      "name": "flóra Středomoří a Turecka",
+      "latitude": 50.118452,
+      "longitude": 14.416433
+    },
+    {
+      "name": "Japonská zahrada",
+      "latitude": 50.118826,
+      "longitude": 14.41583
+    },
+    {
+      "name": "Tygr v petrželi",
+      "latitude": 50.09571,
+      "longitude": 14.436444
+    },
+    {
+      "name": "Umělecká zahrada",
+      "latitude": 50.064414,
+      "longitude": 14.428479
+    },
+    {
+      "name": "Jungle Prague",
+      "latitude": 50.072269,
+      "longitude": 14.437542
+    },
+    {
+      "name": "odpočinkové refugium V zátiší",
+      "latitude": 50.070362,
+      "longitude": 14.420566
+    },
+    {
+      "name": "Waldorfská mateřská škola",
+      "latitude": 50.091301,
+      "longitude": 14.49541
+    },
+    {
+      "name": "MŠ Buková",
+      "latitude": 50.090543,
+      "longitude": 14.497491
+    },
+    {
+      "name": "Bastion",
+      "latitude": 50.067576,
+      "longitude": 14.42625
+    },
+    {
+      "name": "Botanická zahrada Univerzity Karlovy",
+      "latitude": 50.071014,
+      "longitude": 14.421041
+    },
+    {
+      "name": "genetická zahrada Přírodovědecké fakulty",
+      "latitude": 50.068762,
+      "longitude": 14.425951
+    },
+    {
+      "name": "Miluška",
+      "latitude": 50.073164,
+      "longitude": 14.485521
+    },
+    {
+      "name": "Vršovická zahrada",
+      "latitude": 50.071737,
+      "longitude": 14.447721
+    },
+    {
+      "name": "Desfourská zahrada",
+      "latitude": 50.089205,
+      "longitude": 14.436303
+    },
+    {
+      "name": "Žižkovská komunitní zahrádka",
+      "latitude": 50.085571,
+      "longitude": 14.465961
+    },
+    {
+      "name": "Botanická zahrada Malešice",
+      "latitude": 50.089112,
+      "longitude": 14.51621
+    },
+    {
+      "name": "Středisko křesťanské pomoci Horní Počernice",
+      "latitude": 50.115086,
+      "longitude": 14.628494
+    },
+    {
+      "name": "Naučné zahrady",
+      "latitude": 50.24139,
+      "longitude": 14.86001
+    },
+    {
+      "name": "U Labe",
+      "latitude": 50.166068,
+      "longitude": 15.092458
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 50.14175,
+      "longitude": 15.120393
+    },
+    {
+      "name": "Růžová školka",
+      "latitude": 50.008663,
+      "longitude": 14.496291
+    },
+    {
+      "name": "Růžová školka",
+      "latitude": 50.007745,
+      "longitude": 14.495121
+    },
+    {
+      "name": "Krellovy sady",
+      "latitude": 50.016133,
+      "longitude": 14.495993
+    },
+    {
+      "name": "ovocná zahrada",
+      "latitude": 50.007993,
+      "longitude": 14.56008
+    },
+    {
+      "name": "Dendrologická zahrada",
+      "latitude": 50.011051,
+      "longitude": 14.560203
+    },
+    {
+      "name": "Komunitní zahrada Vidimova",
+      "latitude": 50.025465,
+      "longitude": 14.524625
+    },
+    {
+      "name": "Nad Čerňáčkem",
+      "latitude": 50.011962,
+      "longitude": 14.560168
+    },
+    {
+      "name": "Botanická zahrada na Chotobuzi",
+      "latitude": 49.992522,
+      "longitude": 14.567444
+    },
+    {
+      "name": "Kosatce",
+      "latitude": 49.994624,
+      "longitude": 14.564084
+    },
+    {
+      "name": "Růže",
+      "latitude": 49.993892,
+      "longitude": 14.565054
+    },
+    {
+      "name": "Arboretum III - ovocné dřeviny",
+      "latitude": 49.991612,
+      "longitude": 14.567838
+    },
+    {
+      "name": "Arboretum II",
+      "latitude": 49.991697,
+      "longitude": 14.56886
+    },
+    {
+      "name": "Arboretum I",
+      "latitude": 49.992761,
+      "longitude": 14.566974
+    },
+    {
+      "name": "Botanické růže",
+      "latitude": 49.993124,
+      "longitude": 14.56867
+    },
+    {
+      "name": "Experimentální zahrada",
+      "latitude": 49.994475,
+      "longitude": 14.566092
+    },
+    {
+      "name": "Genofondové sbírky veřejnosti nepřístupné",
+      "latitude": 49.993912,
+      "longitude": 14.566567
+    },
+    {
+      "name": "Intenzivní pěstební zázemí",
+      "latitude": 49.995203,
+      "longitude": 14.567711
+    },
+    {
+      "name": "Flóra Asie",
+      "latitude": 49.992024,
+      "longitude": 14.569741
+    },
+    {
+      "name": "Březový háj",
+      "latitude": 49.990912,
+      "longitude": 14.56987
+    },
+    {
+      "name": "Plané hrušně",
+      "latitude": 49.990687,
+      "longitude": 14.569293
+    },
+    {
+      "name": "Hrušně",
+      "latitude": 49.992632,
+      "longitude": 14.56635
+    },
+    {
+      "name": "Alpinum",
+      "latitude": 49.998527,
+      "longitude": 14.559978
+    },
+    {
+      "name": "Komunitní zahrada Vestec",
+      "latitude": 49.977839,
+      "longitude": 14.504336
+    },
+    {
+      "name": "Geopark Říčany",
+      "latitude": 49.99169,
+      "longitude": 14.652882
+    },
+    {
+      "name": "Komunitní zahrada ČasNaČaj",
+      "latitude": 49.99174,
+      "longitude": 14.658177
+    },
+    {
+      "name": "Japonská zahrada",
+      "latitude": 49.90431,
+      "longitude": 14.404298
+    },
+    {
+      "name": "ZŠ Zvole",
+      "latitude": 49.93428,
+      "longitude": 14.418574
+    },
+    {
+      "name": "Peace Orchard #1",
+      "latitude": 50.033818,
+      "longitude": 14.823406
+    },
+    {
+      "name": "Arboretum FLD ČZU",
+      "latitude": 50.01068,
+      "longitude": 14.852863
+    },
+    {
+      "name": "Naučná stezka Mokřadních ekosystémů",
+      "latitude": 50.009521,
+      "longitude": 14.854114
+    },
+    {
+      "name": "komunitní zahrada Vodárna",
+      "latitude": 50.028292,
+      "longitude": 15.180859
+    },
+    {
+      "name": "Severní zahrada",
+      "latitude": 49.877818,
+      "longitude": 14.897274
+    },
+    {
+      "name": "Arboretum GJO",
+      "latitude": 49.9427,
+      "longitude": 15.257064
+    },
+    {
+      "name": "Rozárium",
+      "latitude": 50.19932,
+      "longitude": 15.788239
+    },
+    {
+      "name": "Rajská zahrada",
+      "latitude": 50.267712,
+      "longitude": 16.116312
+    },
+    {
+      "name": "Terasy pod Kanovnickými domy",
+      "latitude": 50.207888,
+      "longitude": 15.830535
+    },
+    {
+      "name": "Terasy Karla Otčenáška",
+      "latitude": 50.208692,
+      "longitude": 15.833818
+    },
+    {
+      "name": "Terasy Kozinka",
+      "latitude": 50.208784,
+      "longitude": 15.829405
+    },
+    {
+      "name": "Botanická zahrada léčivých rostlin",
+      "latitude": 50.202983,
+      "longitude": 15.838853
+    },
+    {
+      "name": "Školní zahrada",
+      "latitude": 50.12535,
+      "longitude": 16.20918
+    },
+    {
+      "name": "Včelařské arboretum",
+      "latitude": 49.849409,
+      "longitude": 15.809091
+    },
+    {
+      "name": "Italská zahrada",
+      "latitude": 49.852538,
+      "longitude": 16.144307
+    },
+    {
+      "name": "Francouzská zahrada",
+      "latitude": 49.85239,
+      "longitude": 16.145503
+    },
+    {
+      "name": "Zahrada Harta - Hartecká stezka",
+      "latitude": 49.92042,
+      "longitude": 16.188285
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.895779,
+      "longitude": 16.436931
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.8948,
+      "longitude": 16.436057
+    },
+    {
+      "name": "Klášterní zahrady",
+      "latitude": 49.871432,
+      "longitude": 16.31362
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.894524,
+      "longitude": 16.43807
+    },
+    {
+      "name": "Botanická zahrada Plzeň",
+      "latitude": 49.759807,
+      "longitude": 13.359026
+    },
+    {
+      "name": "asijská zahrada",
+      "latitude": 49.75944,
+      "longitude": 13.358817
+    },
+    {
+      "name": "Kotlík Profesora Sigmonda",
+      "latitude": 49.791061,
+      "longitude": 13.385922
+    },
+    {
+      "name": "Arboretum Sofronka",
+      "latitude": 49.788957,
+      "longitude": 13.38642
+    },
+    {
+      "name": "Zapomenutá zahrada",
+      "latitude": 49.75916,
+      "longitude": 13.374649
+    },
+    {
+      "name": "Klášterní zahrada",
+      "latitude": 49.736008,
+      "longitude": 13.393042
+    },
+    {
+      "name": "Zahrada vzpomínek",
+      "latitude": 49.744238,
+      "longitude": 13.374269
+    },
+    {
+      "name": "Lesní arboretum Žďár",
+      "latitude": 49.730741,
+      "longitude": 13.642279
+    },
+    {
+      "name": "Luftova zahrada",
+      "latitude": 49.717009,
+      "longitude": 13.380575
+    },
+    {
+      "name": "Meditační zahrada",
+      "latitude": 49.718229,
+      "longitude": 13.388218
+    },
+    {
+      "name": "Coudenhove-Kalergi Zen zahrada míru",
+      "latitude": 49.511896,
+      "longitude": 12.803216
+    },
+    {
+      "name": "Zahrada",
+      "latitude": 49.314241,
+      "longitude": 13.721849
+    },
+    {
+      "name": "Botanická zahrada",
+      "latitude": 49.105568,
+      "longitude": 13.381812
+    },
+    {
+      "name": "Arciděkanský úřad",
+      "latitude": 49.144073,
+      "longitude": 13.557166
+    },
+    {
+      "name": "Zámecké zahrady",
+      "latitude": 49.05455,
+      "longitude": 13.772937
+    },
+    {
+      "name": "Zámecké zahrady",
+      "latitude": 49.054762,
+      "longitude": 13.774016
+    },
+    {
+      "name": "Arboretum",
+      "latitude": 49.055984,
+      "longitude": 13.775095
+    },
+    {
+      "name": "Památník Karla Čapka",
+      "latitude": 49.774002,
+      "longitude": 14.206578
+    },
+    {
+      "name": "Rosarium",
+      "latitude": 49.777679,
+      "longitude": 14.657618
+    },
+    {
+      "name": "Botanická zahrada",
+      "latitude": 49.414136,
+      "longitude": 14.667932
+    },
+    {
+      "name": "Zahrada",
+      "latitude": 49.416949,
+      "longitude": 14.658101
+    },
+    {
+      "name": "Japonská zahrada",
+      "latitude": 49.649648,
+      "longitude": 16.122064
+    },
+    {
+      "name": "Lurdský park",
+      "latitude": 49.767007,
+      "longitude": 16.540786
+    },
+    {
+      "name": "Zámecké zahrady",
+      "latitude": 49.583984,
+      "longitude": 15.93679
+    },
+    {
+      "name": "botanická zahrada",
+      "latitude": 49.556802,
+      "longitude": 16.323313
+    },
+    {
+      "name": "Smyslová zahrada",
+      "latitude": 49.517109,
+      "longitude": 16.511172
+    },
+    {
+      "name": "Arboretum Borotín",
+      "latitude": 49.58372,
+      "longitude": 16.669984
+    },
+    {
+      "name": "Farská zahrada - sad",
+      "latitude": 49.548466,
+      "longitude": 16.578008
+    },
+    {
+      "name": "rozárium",
+      "latitude": 49.415555,
+      "longitude": 16.576979
+    },
+    {
+      "name": "Horní zahrada",
+      "latitude": 49.296444,
+      "longitude": 14.477175
+    },
+    {
+      "name": "Dolní zahrada",
+      "latitude": 49.296216,
+      "longitude": 14.47738
+    },
+    {
+      "name": "Arboretum Javořice",
+      "latitude": 49.233207,
+      "longitude": 15.373731
+    },
+    {
+      "name": "školní",
+      "latitude": 49.148075,
+      "longitude": 15.009198
+    },
+    {
+      "name": "Arboretum",
+      "latitude": 49.284982,
+      "longitude": 15.473241
+    },
+    {
+      "name": "Chaloupecká zahrada",
+      "latitude": 49.269078,
+      "longitude": 15.703562
+    },
+    {
+      "name": "Zahrada léčivých bylin",
+      "latitude": 49.216925,
+      "longitude": 15.874201
+    },
+    {
+      "name": "Komunitní centrum Martin",
+      "latitude": 49.360355,
+      "longitude": 16.638238
+    },
+    {
+      "name": "Komunitní zahrada na Dílech",
+      "latitude": 49.29707,
+      "longitude": 16.54322
+    },
+    {
+      "name": "Arboretum Agape",
+      "latitude": 49.277773,
+      "longitude": 16.593875
+    },
+    {
+      "name": "Lipka",
+      "latitude": 49.269387,
+      "longitude": 16.629724
+    },
+    {
+      "name": "Vrby",
+      "latitude": 49.320986,
+      "longitude": 16.743978
+    },
+    {
+      "name": "Březový háj",
+      "latitude": 49.322467,
+      "longitude": 16.74344
+    },
+    {
+      "name": "Smrk chlumní",
+      "latitude": 49.322942,
+      "longitude": 16.740371
+    },
+    {
+      "name": "Severní Amerika - západ",
+      "latitude": 49.322806,
+      "longitude": 16.739632
+    },
+    {
+      "name": "Japonsko",
+      "latitude": 49.319784,
+      "longitude": 16.74041
+    },
+    {
+      "name": "Severní Amerika - východ",
+      "latitude": 49.319947,
+      "longitude": 16.740783
+    },
+    {
+      "name": "Arboretum Křtiny",
+      "latitude": 49.320417,
+      "longitude": 16.74177
+    },
+    {
+      "name": "Opatovka",
+      "latitude": 49.295855,
+      "longitude": 16.762456
+    },
+    {
+      "name": "Zámecké zahrady",
+      "latitude": 49.182947,
+      "longitude": 16.386387
+    },
+    {
+      "name": "Arboretum Řícmanice",
+      "latitude": 49.265741,
+      "longitude": 16.683102
+    },
+    {
+      "name": "klášter Klarisek",
+      "latitude": 49.25672,
+      "longitude": 16.623497
+    },
+    {
+      "name": "U Smrku",
+      "latitude": 49.228028,
+      "longitude": 16.58771
+    },
+    {
+      "name": "Zahrada 5 elementů",
+      "latitude": 49.235286,
+      "longitude": 16.61809
+    },
+    {
+      "name": "Botanická zahrada a arboretum Mendelu",
+      "latitude": 49.213169,
+      "longitude": 16.613753
+    },
+    {
+      "name": "Vodojem Holé hory",
+      "latitude": 49.224553,
+      "longitude": 16.631501
+    },
+    {
+      "name": "Rajská komunitní zahrada",
+      "latitude": 49.226082,
+      "longitude": 16.644374
+    },
+    {
+      "name": "Mokerská myslivna",
+      "latitude": 49.231002,
+      "longitude": 16.741485
+    },
+    {
+      "name": "Výběh s kozami",
+      "latitude": 49.23641,
+      "longitude": 16.732999
+    },
+    {
+      "name": "Botanická zahrada",
+      "latitude": 49.204391,
+      "longitude": 16.596596
+    },
+    {
+      "name": "Botanická zahrada Lékařské fakulty MU",
+      "latitude": 49.200749,
+      "longitude": 16.584696
+    },
+    {
+      "name": "rosárium",
+      "latitude": 49.203087,
+      "longitude": 16.603711
+    },
+    {
+      "name": "zahrada pro nevidomé",
+      "latitude": 49.203264,
+      "longitude": 16.602637
+    },
+    {
+      "name": "Otevřená zahrada",
+      "latitude": 49.197045,
+      "longitude": 16.598127
+    },
+    {
+      "name": "zahrada u řeky",
+      "latitude": 49.184769,
+      "longitude": 16.588201
+    },
+    {
+      "name": "Zahrada Cecilie a Cornela Hože",
+      "latitude": 49.207052,
+      "longitude": 16.614522
+    },
+    {
+      "name": "farní zahrada",
+      "latitude": 49.203083,
+      "longitude": 16.629179
+    },
+    {
+      "name": "Komunitní Zahrada Židenice",
+      "latitude": 49.202397,
+      "longitude": 16.63703
+    },
+    {
+      "name": "školní sad",
+      "latitude": 49.20567,
+      "longitude": 16.79772
+    },
+    {
+      "name": "Bylinková zahrádka",
+      "latitude": 49.147535,
+      "longitude": 16.036529
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.102226,
+      "longitude": 16.203725
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.099159,
+      "longitude": 16.201117
+    },
+    {
+      "name": "Zahrada mateřské školy",
+      "latitude": 49.038594,
+      "longitude": 16.617777
+    },
+    {
+      "name": "Zahrada mateřské školy",
+      "latitude": 49.038272,
+      "longitude": 16.614537
+    },
+    {
+      "name": "Bylinková zahrádka",
+      "latitude": 50.241241,
+      "longitude": 17.18538
+    },
+    {
+      "name": "Zahrada Smyslů",
+      "latitude": 50.088799,
+      "longitude": 17.702018
+    },
+    {
+      "name": "Broukoviště",
+      "latitude": 49.936461,
+      "longitude": 17.76939
+    },
+    {
+      "name": "Alpinum",
+      "latitude": 49.932987,
+      "longitude": 17.771327
+    },
+    {
+      "name": "Školní arboretum",
+      "latitude": 49.931547,
+      "longitude": 17.90564
+    },
+    {
+      "name": "Zahradnictví Novák",
+      "latitude": 49.8965,
+      "longitude": 18.182132
+    },
+    {
+      "name": "Relaxační zahrada",
+      "latitude": 49.895398,
+      "longitude": 18.182312
+    },
+    {
+      "name": "Bylinková zahrada",
+      "latitude": 49.890663,
+      "longitude": 17.946263
+    },
+    {
+      "name": "Hasičská zahrada s občerstvením;SDH Šunychl",
+      "latitude": 49.918718,
+      "longitude": 18.35755
+    },
+    {
+      "name": "Hasičská zahrada",
+      "latitude": 49.918967,
+      "longitude": 18.357002
+    },
+    {
+      "name": "Farní zahrada sv. Marka",
+      "latitude": 49.860635,
+      "longitude": 18.33
+    },
+    {
+      "name": "Zahrada pro nevidomé a slabozraké",
+      "latitude": 49.841326,
+      "longitude": 18.283494
+    },
+    {
+      "name": "školní zahrada",
+      "latitude": 49.790606,
+      "longitude": 18.258101
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.710506,
+      "longitude": 17.906112
+    },
+    {
+      "name": "Miniarboretum u Holubů",
+      "latitude": 49.684363,
+      "longitude": 18.266234
+    },
+    {
+      "name": "Piaristické zahrady Příbor",
+      "latitude": 49.640868,
+      "longitude": 18.141639
+    },
+    {
+      "name": "Starý piaristický hřbitov",
+      "latitude": 49.641062,
+      "longitude": 18.140218
+    },
+    {
+      "name": "Včelařský areál",
+      "latitude": 49.655653,
+      "longitude": 18.27839
+    },
+    {
+      "name": "růžový sad",
+      "latitude": 49.602034,
+      "longitude": 17.259859
+    },
+    {
+      "name": "Botanická zahrada",
+      "latitude": 49.592909,
+      "longitude": 17.258929
+    },
+    {
+      "name": "Botanická zahrada Univerzity Palackého",
+      "latitude": 49.58622,
+      "longitude": 17.249624
+    },
+    {
+      "name": "Rozárium",
+      "latitude": 49.592421,
+      "longitude": 17.261137
+    },
+    {
+      "name": "expozice travin",
+      "latitude": 49.59252,
+      "longitude": 17.259855
+    },
+    {
+      "name": "alpinum",
+      "latitude": 49.59338,
+      "longitude": 17.260384
+    },
+    {
+      "name": "Gruzínská zahrada",
+      "latitude": 49.593079,
+      "longitude": 17.259257
+    },
+    {
+      "name": "Bulharská zahrada",
+      "latitude": 49.593764,
+      "longitude": 17.257628
+    },
+    {
+      "name": "Lotyšská zahrada",
+      "latitude": 49.594013,
+      "longitude": 17.25663
+    },
+    {
+      "name": "zahrádky",
+      "latitude": 49.592639,
+      "longitude": 17.256966
+    },
+    {
+      "name": "expozice nízkých dřevin",
+      "latitude": 49.5928,
+      "longitude": 17.25975
+    },
+    {
+      "name": "letničkové kruhy",
+      "latitude": 49.593572,
+      "longitude": 17.258203
+    },
+    {
+      "name": "Komunitní zahrádka Václavka",
+      "latitude": 49.593052,
+      "longitude": 17.266796
+    },
+    {
+      "name": "Botanická zahrada Petra Albrechta",
+      "latitude": 49.467071,
+      "longitude": 17.117506
+    },
+    {
+      "name": "Jahodárna",
+      "latitude": 49.457892,
+      "longitude": 17.102335
+    },
+    {
+      "name": "Jahodárna",
+      "latitude": 49.456434,
+      "longitude": 17.104122
+    },
+    {
+      "name": "Jahodárna",
+      "latitude": 49.459333,
+      "longitude": 17.103905
+    },
+    {
+      "name": "Jahodárna",
+      "latitude": 49.459777,
+      "longitude": 17.10534
+    },
+    {
+      "name": "Meditační zahrada sv. Jakuba",
+      "latitude": 49.528722,
+      "longitude": 17.586642
+    },
+    {
+      "name": "Střešní zahrada",
+      "latitude": 49.524668,
+      "longitude": 17.580575
+    },
+    {
+      "name": "MŠ Smetanovy sady",
+      "latitude": 49.588759,
+      "longitude": 18.010669
+    },
+    {
+      "name": "MŠ Šenov u Nového Jičína",
+      "latitude": 49.605427,
+      "longitude": 18.007438
+    },
+    {
+      "name": "Mateřská škola Starý Jičín",
+      "latitude": 49.57783,
+      "longitude": 17.96308
+    },
+    {
+      "name": "MŠ Kopřivnice, Česká",
+      "latitude": 49.604065,
+      "longitude": 18.140382
+    },
+    {
+      "name": "Křenkovo arboretum",
+      "latitude": 49.543462,
+      "longitude": 18.238641
+    },
+    {
+      "name": "Mateřská škola Sněženka J. Lady",
+      "latitude": 49.66958,
+      "longitude": 18.34536
+    },
+    {
+      "name": "Mateřská škola Lískovecká",
+      "latitude": 49.69498,
+      "longitude": 18.339135
+    },
+    {
+      "name": "Mateřská škola Naděje",
+      "latitude": 49.692343,
+      "longitude": 18.350007
+    },
+    {
+      "name": "Arboretum Frýdek-Místek",
+      "latitude": 49.692926,
+      "longitude": 18.353991
+    },
+    {
+      "name": "Sad Petra Bezruče",
+      "latitude": 49.622375,
+      "longitude": 18.401431
+    },
+    {
+      "name": "ukázková zahrada",
+      "latitude": 49.626784,
+      "longitude": 18.765019
+    },
+    {
+      "name": "Včelařský areál",
+      "latitude": 49.600652,
+      "longitude": 18.43059
+    },
+    {
+      "name": "Jablunkovské arboretum",
+      "latitude": 49.570274,
+      "longitude": 18.7518
+    },
+    {
+      "name": "Farní zahrada",
+      "latitude": 49.577332,
+      "longitude": 18.764372
+    },
+    {
+      "name": "Ovocná zahrada",
+      "latitude": 49.328036,
+      "longitude": 17.146007
+    },
+    {
+      "name": "Roudné",
+      "latitude": 49.364844,
+      "longitude": 17.574348
+    },
+    {
+      "name": "Medová zahrada",
+      "latitude": 49.342684,
+      "longitude": 17.532644
+    },
+    {
+      "name": "Květná zahrada",
+      "latitude": 49.296897,
+      "longitude": 17.383448
+    },
+    {
+      "name": "Podzámecká zahrada",
+      "latitude": 49.302356,
+      "longitude": 17.392108
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.28588,
+      "longitude": 17.281155
+    },
+    {
+      "name": "TyMyJáNová zahrada",
+      "latitude": 49.207607,
+      "longitude": 16.881514
+    },
+    {
+      "name": "soukromá zahrada",
+      "latitude": 49.201507,
+      "longitude": 16.885245
+    },
+    {
+      "name": "chatová osada",
+      "latitude": 49.199784,
+      "longitude": 17.095911
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.232161,
+      "longitude": 17.314158
+    },
+    {
+      "name": "chatová osada Niva",
+      "latitude": 49.380838,
+      "longitude": 17.687023
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.352925,
+      "longitude": 17.809682
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.211133,
+      "longitude": 17.717713
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.202573,
+      "longitude": 17.699587
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.202063,
+      "longitude": 17.701336
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.207648,
+      "longitude": 17.695498
+    },
+    {
+      "name": "Zámecká zahrada Bučovice",
+      "latitude": 49.149316,
+      "longitude": 16.999888
+    },
+    {
+      "name": "zámecká zahrada",
+      "latitude": 49.102564,
+      "longitude": 17.163097
+    },
+    {
+      "name": "chatová osada (bývalý lom)",
+      "latitude": 49.088872,
+      "longitude": 17.209887
+    },
+    {
+      "name": "klášterní zahrada",
+      "latitude": 49.102884,
+      "longitude": 17.39421
+    },
+    {
+      "name": "Prodejní výstava Fuchsií",
+      "latitude": 49.085283,
+      "longitude": 17.337915
+    },
+    {
+      "name": "Závišince",
+      "latitude": 49.056218,
+      "longitude": 17.572917
+    },
+    {
+      "name": "Tobolky",
+      "latitude": 49.055452,
+      "longitude": 17.561179
+    },
+    {
+      "name": "Nový Svět",
+      "latitude": 49.006721,
+      "longitude": 17.130553
+    },
+    {
+      "name": "Bill Murray Gardens",
+      "latitude": 49.03707,
+      "longitude": 17.461942
+    },
+    {
+      "name": "Školní zahrada",
+      "latitude": 48.97487,
+      "longitude": 17.471708
+    },
+    {
+      "name": "chaty",
+      "latitude": 49.138301,
+      "longitude": 17.781626
+    },
+    {
+      "name": "Japonská zahrada",
+      "latitude": 49.110269,
+      "longitude": 17.765303
+    },
+    {
+      "name": "Zahrada života",
+      "latitude": 49.079238,
+      "longitude": 17.64931
+    },
+    {
+      "name": "Zahradnictví SAFRO",
+      "latitude": 48.871491,
+      "longitude": 14.395608
+    },
+    {
+      "name": "Berkovka",
+      "latitude": 48.81831,
+      "longitude": 14.312492
+    },
+    {
+      "name": "Horská zahrada",
+      "latitude": 48.810963,
+      "longitude": 14.311925
+    },
+    {
+      "name": "Tramín",
+      "latitude": 48.81296,
+      "longitude": 14.318407
+    },
+    {
+      "name": "Klášterní zahrada",
+      "latitude": 48.812579,
+      "longitude": 14.319
+    },
+    {
+      "name": "Pivovarská zahrada",
+      "latitude": 48.81181,
+      "longitude": 14.318667
+    },
+    {
+      "name": "Kouzelné bylinky",
+      "latitude": 48.809426,
+      "longitude": 14.310823
+    },
+    {
+      "name": "Zásobní zahradnictví",
+      "latitude": 48.810486,
+      "longitude": 14.311047
+    },
+    {
+      "name": "Kuchyňská zahrada",
+      "latitude": 48.813133,
+      "longitude": 14.319086
+    },
+    {
+      "name": "Kouzelné bylinky",
+      "latitude": 48.80878,
+      "longitude": 14.310708
+    },
+    {
+      "name": "Štěpnice",
+      "latitude": 48.812403,
+      "longitude": 14.311246
+    },
+    {
+      "name": "Letní jízdárna",
+      "latitude": 48.812197,
+      "longitude": 14.311011
+    },
+    {
+      "name": "Dolní parter",
+      "latitude": 48.811857,
+      "longitude": 14.309623
+    },
+    {
+      "name": "Horní zahrada",
+      "latitude": 48.810065,
+      "longitude": 14.307383
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 48.811233,
+      "longitude": 14.309073
+    },
+    {
+      "name": "Obecní",
+      "latitude": 48.869553,
+      "longitude": 16.528076
+    },
+    {
+      "name": "Lavandia",
+      "latitude": 48.913593,
+      "longitude": 16.761946
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 48.800401,
+      "longitude": 16.806092
+    },
+    {
+      "name": "Bylinková zahrada Lu & Tiree Chmelar",
+      "latitude": 48.739337,
+      "longitude": 16.757339
+    },
+    {
+      "name": "Bylinková zahrada sv. Hildegardy",
+      "latitude": 48.902716,
+      "longitude": 16.947014
+    },
+    {
+      "name": "Skautský areál",
+      "latitude": 48.826365,
+      "longitude": 16.979672
+    },
+    {
+      "name": "Karmelitská záhrada",
+      "latitude": 48.853139,
+      "longitude": 17.226362
+    },
+    {
+      "name": "Františkánska záhrada",
+      "latitude": 48.846125,
+      "longitude": 17.232506
+    }
+  ],
+  "meta": {
+    "title": "Zahrady (OSM) - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných zahrad v České republice (343 záznamů) — body zájmu z OpenStreetMap (tag leisure=garden), výřez EU-POIS/CZ. Obsahuje 343 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Zahrady (OSM) | ListBase",
+    "seo_description": "Stáhnout Zahrady (OSM) — 343 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 343 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

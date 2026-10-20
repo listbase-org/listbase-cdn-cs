@@ -1,0 +1,751 @@
+{
+  "id": "cs-golfova-hriste",
+  "name": "Golfová hřiště",
+  "title": "Golfová hřiště",
+  "description": "Golfová hřiště v České republice (142 záznamů) — body zájmu z OpenStreetMap (tag leisure=golf_course), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 142,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Albatross Golf Resort",
+      "latitude": 49.995349,
+      "longitude": 14.19583
+    },
+    {
+      "name": "Atomik Golf",
+      "latitude": 50.03219,
+      "longitude": 15.803241
+    },
+    {
+      "name": "Atrium Golf Club Trhový Stepanov",
+      "latitude": 49.712451,
+      "longitude": 15.003012
+    },
+    {
+      "name": "Austerlitz golf resort",
+      "latitude": 49.163106,
+      "longitude": 16.866713
+    },
+    {
+      "name": "Beroun Golf Resort",
+      "latitude": 49.979688,
+      "longitude": 14.090813
+    },
+    {
+      "name": "Black Bridge Golf Resort",
+      "latitude": 50.095828,
+      "longitude": 14.585883
+    },
+    {
+      "name": "Casa Serena Golf Course",
+      "latitude": 49.910969,
+      "longitude": 15.189875
+    },
+    {
+      "name": "Cihelny Golf",
+      "latitude": 50.179642,
+      "longitude": 12.840925
+    },
+    {
+      "name": "City Golf and Racing Club Karlovy Vary",
+      "latitude": 50.222383,
+      "longitude": 12.834638
+    },
+    {
+      "name": "CZ Golf Resort Telč",
+      "latitude": 49.213755,
+      "longitude": 15.423522
+    },
+    {
+      "name": "Derby Golf Club Slušovice",
+      "latitude": 49.255853,
+      "longitude": 17.797884
+    },
+    {
+      "name": "DiscGolf Park Dolní Němčí",
+      "latitude": 48.970254,
+      "longitude": 17.576954
+    },
+    {
+      "name": "Driving range",
+      "latitude": 50.05939,
+      "longitude": 14.413982
+    },
+    {
+      "name": "Driving range",
+      "latitude": 50.21129,
+      "longitude": 12.939717
+    },
+    {
+      "name": "Driving Range Castle Golf Prštice",
+      "latitude": 49.119585,
+      "longitude": 16.472246
+    },
+    {
+      "name": "Driving Range Golf Club Chateau St. Havel",
+      "latitude": 50.035521,
+      "longitude": 14.447677
+    },
+    {
+      "name": "Driving Range Golf Club Jicin",
+      "latitude": 50.434485,
+      "longitude": 15.381135
+    },
+    {
+      "name": "Driving Range Golf Klimkovice",
+      "latitude": 49.811984,
+      "longitude": 18.099319
+    },
+    {
+      "name": "Driving Range Golf Resort Prostějov",
+      "latitude": 49.505626,
+      "longitude": 17.062782
+    },
+    {
+      "name": "Driving Range Golfový klub České Budějovice",
+      "latitude": 48.973077,
+      "longitude": 14.441572
+    },
+    {
+      "name": "Driving Range HoSPORT",
+      "latitude": 48.946295,
+      "longitude": 14.516123
+    },
+    {
+      "name": "Driving Range Hotel Čechie",
+      "latitude": 50.097005,
+      "longitude": 14.468747
+    },
+    {
+      "name": "Driving range PGCOV",
+      "latitude": 49.923473,
+      "longitude": 18.287177
+    },
+    {
+      "name": "Driving Range Průhonice",
+      "latitude": 49.989387,
+      "longitude": 14.527646
+    },
+    {
+      "name": "Driving Range Pupp Tenis Resort",
+      "latitude": 50.052223,
+      "longitude": 14.489737
+    },
+    {
+      "name": "Driving Range Resort Svatá Kateřina",
+      "latitude": 49.270739,
+      "longitude": 15.279993
+    },
+    {
+      "name": "Driving Range Rohanský ostrov",
+      "latitude": 50.101972,
+      "longitude": 14.461721
+    },
+    {
+      "name": "Driving Range Čapí hnízdo",
+      "latitude": 49.681497,
+      "longitude": 14.654224
+    },
+    {
+      "name": "Driving Range Žabovřesky",
+      "latitude": 49.208971,
+      "longitude": 16.566703
+    },
+    {
+      "name": "Fobal Golf",
+      "latitude": 50.304406,
+      "longitude": 16.353797
+    },
+    {
+      "name": "Golf & Country Club Mstětice",
+      "latitude": 50.147125,
+      "longitude": 14.697645
+    },
+    {
+      "name": "Golf & Country Club Prague Hodkovičky",
+      "latitude": 50.020586,
+      "longitude": 14.398819
+    },
+    {
+      "name": "Golf & Country Club Prosečné",
+      "latitude": 50.570188,
+      "longitude": 15.680774
+    },
+    {
+      "name": "Golf & Country Club Svobodné Hamry",
+      "latitude": 49.772961,
+      "longitude": 15.826932
+    },
+    {
+      "name": "Golf & Ski Resort Ostravice",
+      "latitude": 49.548327,
+      "longitude": 18.36919
+    },
+    {
+      "name": "Golf Academy Golf Club Týn nad Vltavou (Pitch & Putt)",
+      "latitude": 49.215057,
+      "longitude": 14.414397
+    },
+    {
+      "name": "Golf Academy Metropol (Putting & chipping green)",
+      "latitude": 50.133451,
+      "longitude": 14.534091
+    },
+    {
+      "name": "Golf ARES Těšetice",
+      "latitude": 48.891105,
+      "longitude": 16.150752
+    },
+    {
+      "name": "Golf Areál Luby",
+      "latitude": 50.262375,
+      "longitude": 12.391141
+    },
+    {
+      "name": "Golf Club Beřovice",
+      "latitude": 50.270429,
+      "longitude": 14.131493
+    },
+    {
+      "name": "Golf Club Bitozeves",
+      "latitude": 50.370598,
+      "longitude": 13.648633
+    },
+    {
+      "name": "Golf Club Botanika",
+      "latitude": 50.08015,
+      "longitude": 14.086175
+    },
+    {
+      "name": "Golf Club Burov",
+      "latitude": 49.409171,
+      "longitude": 18.09881
+    },
+    {
+      "name": "Golf Club Grabštejn",
+      "latitude": 50.839731,
+      "longitude": 14.883931
+    },
+    {
+      "name": "Golf Club Grosshof",
+      "latitude": 50.577001,
+      "longitude": 16.343454
+    },
+    {
+      "name": "Golf Club Harrachov Mýtiny",
+      "latitude": 50.770009,
+      "longitude": 15.389923
+    },
+    {
+      "name": "Golf Club Havlíčkův Brod",
+      "latitude": 49.601174,
+      "longitude": 15.545894
+    },
+    {
+      "name": "Golf Club Hluboká nad Vltavou",
+      "latitude": 49.043228,
+      "longitude": 14.438182
+    },
+    {
+      "name": "Golf Club Horal",
+      "latitude": 49.376317,
+      "longitude": 18.385464
+    },
+    {
+      "name": "Golf Club Hradec Králové - Hrádek u Nechanic",
+      "latitude": 50.221983,
+      "longitude": 15.667797
+    },
+    {
+      "name": "Golf Club Háje",
+      "latitude": 50.181073,
+      "longitude": 12.880753
+    },
+    {
+      "name": "Golf Club Ještěd",
+      "latitude": 50.702726,
+      "longitude": 14.979944
+    },
+    {
+      "name": "Golf Club Kynžvart",
+      "latitude": 50.008993,
+      "longitude": 12.606391
+    },
+    {
+      "name": "Golf Club Liberec",
+      "latitude": 50.783303,
+      "longitude": 15.010683
+    },
+    {
+      "name": "Golf Club Libouchec",
+      "latitude": 50.758539,
+      "longitude": 14.036525
+    },
+    {
+      "name": "Golf Club Lázně Kostelec",
+      "latitude": 49.249503,
+      "longitude": 17.694449
+    },
+    {
+      "name": "Golf Club Malevil",
+      "latitude": 50.799433,
+      "longitude": 14.709219
+    },
+    {
+      "name": "Golf Club Molitorov u Prahy",
+      "latitude": 49.998673,
+      "longitude": 14.952835
+    },
+    {
+      "name": "Golf Club Město Albrechtice",
+      "latitude": 50.166465,
+      "longitude": 17.569511
+    },
+    {
+      "name": "Golf Club Na Vrších",
+      "latitude": 50.235138,
+      "longitude": 15.974412
+    },
+    {
+      "name": "Golf Club Olomouc",
+      "latitude": 49.664561,
+      "longitude": 17.363011
+    },
+    {
+      "name": "Golf Club Pardubice Lázně Bohdaneč",
+      "latitude": 50.089945,
+      "longitude": 15.690227
+    },
+    {
+      "name": "Golf Club Poděbrady",
+      "latitude": 50.134044,
+      "longitude": 15.146929
+    },
+    {
+      "name": "Golf Club Praha - Motol",
+      "latitude": 50.063966,
+      "longitude": 14.339699
+    },
+    {
+      "name": "Golf Club Radíkov",
+      "latitude": 49.599463,
+      "longitude": 17.661451
+    },
+    {
+      "name": "Golf Club Semily",
+      "latitude": 50.598009,
+      "longitude": 15.357127
+    },
+    {
+      "name": "Golf Club Stará Boleslav",
+      "latitude": 50.208203,
+      "longitude": 14.654569
+    },
+    {
+      "name": "Golf Club Svratka 1932",
+      "latitude": 49.715296,
+      "longitude": 16.047368
+    },
+    {
+      "name": "Golf Club U Hrádečku Mladé Buky",
+      "latitude": 50.595338,
+      "longitude": 15.836031
+    },
+    {
+      "name": "Golf Club Uno",
+      "latitude": 50.002078,
+      "longitude": 16.451471
+    },
+    {
+      "name": "Golf Club Zlonín (pitch & putt)",
+      "latitude": 50.214035,
+      "longitude": 14.508963
+    },
+    {
+      "name": "Golf Club Česká Lípa",
+      "latitude": 50.714899,
+      "longitude": 14.559892
+    },
+    {
+      "name": "Golf Club České Švýcarsko Janov",
+      "latitude": 50.859447,
+      "longitude": 14.274385
+    },
+    {
+      "name": "Golf Club Český Krumlov",
+      "latitude": 48.828933,
+      "longitude": 14.366352
+    },
+    {
+      "name": "Golf Club Český Ráj - Srbsko",
+      "latitude": 50.505688,
+      "longitude": 15.091981
+    },
+    {
+      "name": "Golf Dobrouč",
+      "latitude": 50.002161,
+      "longitude": 16.508561
+    },
+    {
+      "name": "Golf Doksy",
+      "latitude": 50.559514,
+      "longitude": 14.668079
+    },
+    {
+      "name": "Golf Hostivař",
+      "latitude": 50.050886,
+      "longitude": 14.553819
+    },
+    {
+      "name": "Golf Jihlava (Driving Range & 3 hole academy)",
+      "latitude": 49.33581,
+      "longitude": 15.648547
+    },
+    {
+      "name": "Golf Klub AMK Automotodrom Brno",
+      "latitude": 49.203929,
+      "longitude": 16.452772
+    },
+    {
+      "name": "Golf Klub Certovo Bremeno",
+      "latitude": 49.527704,
+      "longitude": 14.513368
+    },
+    {
+      "name": "Golf klub Klášter Teplá",
+      "latitude": 49.966639,
+      "longitude": 12.88702
+    },
+    {
+      "name": "Golf Klub Osyčina",
+      "latitude": 50.000262,
+      "longitude": 16.133728
+    },
+    {
+      "name": "Golf Klub Šumava (3 holes)",
+      "latitude": 49.313882,
+      "longitude": 13.065816
+    },
+    {
+      "name": "Golf Kotlina Terezin Maria Theresia",
+      "latitude": 50.517483,
+      "longitude": 14.147392
+    },
+    {
+      "name": "Golf Mladá Boleslav",
+      "latitude": 50.441565,
+      "longitude": 14.876973
+    },
+    {
+      "name": "Golf park Lhotka",
+      "latitude": 49.853116,
+      "longitude": 18.230538
+    },
+    {
+      "name": "Golf Park Slapy Svatý Jan",
+      "latitude": 49.80533,
+      "longitude": 14.413194
+    },
+    {
+      "name": "Golf Resort Barbora",
+      "latitude": 50.636041,
+      "longitude": 13.739462
+    },
+    {
+      "name": "Golf Resort Darovanský Dvůr",
+      "latitude": 49.832768,
+      "longitude": 13.520196
+    },
+    {
+      "name": "Golf Resort Františkovy Lázně",
+      "latitude": 50.171394,
+      "longitude": 12.279524
+    },
+    {
+      "name": "Golf Resort Jezera",
+      "latitude": 49.014181,
+      "longitude": 17.438061
+    },
+    {
+      "name": "Golf Resort Karlovy Vary",
+      "latitude": 50.214667,
+      "longitude": 12.928338
+    },
+    {
+      "name": "Golf Resort Karlštejn",
+      "latitude": 49.922141,
+      "longitude": 14.174264
+    },
+    {
+      "name": "Golf Resort Karviná - Lipiny",
+      "latitude": 49.840406,
+      "longitude": 18.524373
+    },
+    {
+      "name": "Golf Resort Konopiště",
+      "latitude": 49.753391,
+      "longitude": 14.622865
+    },
+    {
+      "name": "Golf Resort Kunětická Hora",
+      "latitude": 50.110148,
+      "longitude": 15.818061
+    },
+    {
+      "name": "Golf Resort Monachus - Golf Club Mnich Nová Bystřice",
+      "latitude": 49.009931,
+      "longitude": 15.08795
+    },
+    {
+      "name": "Golf Resort Paradise Benátky nad Jizerou",
+      "latitude": 50.274023,
+      "longitude": 14.87255
+    },
+    {
+      "name": "Golf Resort Písek - Prácheňský Golf Club",
+      "latitude": 49.280796,
+      "longitude": 14.078282
+    },
+    {
+      "name": "Golf Resort Radějov",
+      "latitude": 48.835612,
+      "longitude": 17.394907
+    },
+    {
+      "name": "Golf Resort Ústí nad Labem",
+      "latitude": 50.699148,
+      "longitude": 13.98696
+    },
+    {
+      "name": "Golf Sokolov",
+      "latitude": 50.159152,
+      "longitude": 12.660572
+    },
+    {
+      "name": "Golf Škůdra",
+      "latitude": 49.217636,
+      "longitude": 13.743357
+    },
+    {
+      "name": "Golfclub Alfrédov",
+      "latitude": 49.685635,
+      "longitude": 13.024487
+    },
+    {
+      "name": "Golfclub Kaskáda Brno",
+      "latitude": 49.280458,
+      "longitude": 16.534875
+    },
+    {
+      "name": "Golfclub Teplice",
+      "latitude": 50.728101,
+      "longitude": 13.754572
+    },
+    {
+      "name": "Golfklub Sokrates - Korenec Golf & Ski Resort",
+      "latitude": 49.526954,
+      "longitude": 16.768999
+    },
+    {
+      "name": "Golfová škola Albatrosgolf",
+      "latitude": 50.140966,
+      "longitude": 15.143349
+    },
+    {
+      "name": "Golfové hřiště",
+      "latitude": 49.410271,
+      "longitude": 18.096179
+    },
+    {
+      "name": "Golfový Klub Holešov",
+      "latitude": 49.330274,
+      "longitude": 17.619041
+    },
+    {
+      "name": "Golfový klub Líšnice",
+      "latitude": 49.896502,
+      "longitude": 14.327251
+    },
+    {
+      "name": "Golfový Klub Panstvi Bechyně",
+      "latitude": 49.289428,
+      "longitude": 14.559344
+    },
+    {
+      "name": "GolfPark Podbořánky",
+      "latitude": 50.049856,
+      "longitude": 13.441063
+    },
+    {
+      "name": "Green Golf Indoor Studio",
+      "latitude": 50.11465,
+      "longitude": 14.677034
+    },
+    {
+      "name": "Greensgate Golf",
+      "latitude": 49.763012,
+      "longitude": 13.507416
+    },
+    {
+      "name": "Heipark Tošovice Driving Range",
+      "latitude": 49.695168,
+      "longitude": 17.83854
+    },
+    {
+      "name": "Hukvaldy Golf Club",
+      "latitude": 49.61774,
+      "longitude": 18.212455
+    },
+    {
+      "name": "I. Golf club Most",
+      "latitude": 50.475327,
+      "longitude": 13.654498
+    },
+    {
+      "name": "Kšírovka Golf Academy",
+      "latitude": 49.169799,
+      "longitude": 16.617329
+    },
+    {
+      "name": "Loreta Golf Club Pyšely",
+      "latitude": 49.864955,
+      "longitude": 14.674104
+    },
+    {
+      "name": "Lázně Aurora Golf",
+      "latitude": 49.000236,
+      "longitude": 14.744839
+    },
+    {
+      "name": "Oaks Prague",
+      "latitude": 49.943366,
+      "longitude": 14.602219
+    },
+    {
+      "name": "Panorama Golf Resort",
+      "latitude": 49.774021,
+      "longitude": 15.01472
+    },
+    {
+      "name": "Park Golf Club Hradec Králové Roudnička",
+      "latitude": 50.175321,
+      "longitude": 15.826527
+    },
+    {
+      "name": "Park Golf Club Ostrava Šilheřovice",
+      "latitude": 49.924963,
+      "longitude": 18.279543
+    },
+    {
+      "name": "Pilsner Golf Resort Hořehledy",
+      "latitude": 49.610537,
+      "longitude": 13.652339
+    },
+    {
+      "name": "Prague City Golf Club Vinoř",
+      "latitude": 50.141654,
+      "longitude": 14.564268
+    },
+    {
+      "name": "Prague City Golf Club Zbraslav",
+      "latitude": 49.966677,
+      "longitude": 14.362288
+    },
+    {
+      "name": "Private Golf course",
+      "latitude": 49.444072,
+      "longitude": 15.781009
+    },
+    {
+      "name": "Prosper Golf Resort Čeladná",
+      "latitude": 49.532741,
+      "longitude": 18.318483
+    },
+    {
+      "name": "Queens Park Golf Club Myštěves",
+      "latitude": 50.308471,
+      "longitude": 15.558865
+    },
+    {
+      "name": "Ringhoffer Golf Club - Zámek Štiřín",
+      "latitude": 49.913762,
+      "longitude": 14.601574
+    },
+    {
+      "name": "Ropice Golf Resort - Beskydský Golf Club",
+      "latitude": 49.702829,
+      "longitude": 18.595528
+    },
+    {
+      "name": "Rothschild Golf Club Šilheřovice",
+      "latitude": 49.924649,
+      "longitude": 18.276437
+    },
+    {
+      "name": "Royal Golf Club Mariánské Lázně",
+      "latitude": 49.979656,
+      "longitude": 12.736252
+    },
+    {
+      "name": "Silesia Golf Resort Kravaře",
+      "latitude": 49.925578,
+      "longitude": 17.992822
+    },
+    {
+      "name": "Snail Driving Range",
+      "latitude": 50.172763,
+      "longitude": 14.344836
+    },
+    {
+      "name": "Steel Golf Club Ostrava (Putting & chipping green)",
+      "latitude": 49.835012,
+      "longitude": 18.269903
+    },
+    {
+      "name": "Valašský golfový klub Rožnov",
+      "latitude": 49.466119,
+      "longitude": 18.175602
+    },
+    {
+      "name": "Yard Resort Předboj",
+      "latitude": 50.220993,
+      "longitude": 14.475595
+    },
+    {
+      "name": "Ypsilon Golf Resort Liberec",
+      "latitude": 50.81579,
+      "longitude": 15.061849
+    }
+  ],
+  "meta": {
+    "title": "Golfová hřiště - Stáhnout zdarma",
+    "description": "Golfová hřiště v České republice (142 záznamů) — body zájmu z OpenStreetMap (tag leisure=golf_course), výřez EU-POIS/CZ. Obsahuje 142 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Golfová hřiště | ListBase",
+    "seo_description": "Stáhnout Golfová hřiště — 142 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 142 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

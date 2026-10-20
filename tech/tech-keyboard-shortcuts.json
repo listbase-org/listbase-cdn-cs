@@ -1,0 +1,603 @@
+{
+  "id": "tech-keyboard-shortcuts",
+  "name": "Soubor Dat Univerzálních Klávesových Zkratek pro Windows a macOS",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "action",
+      "label": "Action (EN)",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_win",
+      "label": "Windows",
+      "type": "string"
+    },
+    {
+      "key": "shortcut_mac",
+      "label": "macOS",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "application",
+      "label": "Application",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "action": "Kopírovat",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Cmd+C",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Vyjmout",
+      "shortcut_win": "Ctrl+X",
+      "shortcut_mac": "Cmd+X",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Vložit",
+      "shortcut_win": "Ctrl+V",
+      "shortcut_mac": "Cmd+V",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Zpět",
+      "shortcut_win": "Ctrl+Z",
+      "shortcut_mac": "Cmd+Z",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Znovu",
+      "shortcut_win": "Ctrl+Y",
+      "shortcut_mac": "Cmd+Shift+Z",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Vybrat vše",
+      "shortcut_win": "Ctrl+A",
+      "shortcut_mac": "Cmd+A",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Uložit",
+      "shortcut_win": "Ctrl+S",
+      "shortcut_mac": "Cmd+S",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Najít",
+      "shortcut_win": "Ctrl+F",
+      "shortcut_mac": "Cmd+F",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Najít a nahradit",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+H",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Tisk",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Nový",
+      "shortcut_win": "Ctrl+N",
+      "shortcut_mac": "Cmd+N",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Otevřít",
+      "shortcut_win": "Ctrl+O",
+      "shortcut_mac": "Cmd+O",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Zavřít okno/záložku",
+      "shortcut_win": "Ctrl+W",
+      "shortcut_mac": "Cmd+W",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Ukončit aplikaci",
+      "shortcut_win": "Alt+F4",
+      "shortcut_mac": "Cmd+Q",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Nápověda",
+      "shortcut_win": "F1",
+      "shortcut_mac": "Cmd+Shift+?",
+      "category": "Univerzální",
+      "application": "All"
+    },
+    {
+      "action": "Zobrazit plochu",
+      "shortcut_win": "Win+D",
+      "shortcut_mac": "F11",
+      "category": "Systémové",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Otevřít Průzkumník souborů/Počítač",
+      "shortcut_win": "Win+E",
+      "shortcut_mac": "Cmd+Shift+C",
+      "category": "Systémové",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Zamknout obrazovku",
+      "shortcut_win": "Win+L",
+      "shortcut_mac": "Ctrl+Cmd+Q",
+      "category": "Systémové",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Zobrazení úloh/Mission Control",
+      "shortcut_win": "Win+Tab",
+      "shortcut_mac": "Ctrl+Up",
+      "category": "Systémové",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Přepnout aplikace",
+      "shortcut_win": "Alt+Tab",
+      "shortcut_mac": "Cmd+Tab",
+      "category": "Systémové",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Snímek obrazovky výběru",
+      "shortcut_win": "Win+Shift+S",
+      "shortcut_mac": "Cmd+Shift+4",
+      "category": "Systém",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Celý snímek obrazovky",
+      "shortcut_win": "PrtScn",
+      "shortcut_mac": "Cmd+Shift+3",
+      "category": "Systém",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Správce úloh/Vynucené ukončení",
+      "shortcut_win": "Ctrl+Shift+Esc",
+      "shortcut_mac": "Cmd+Opt+Esc",
+      "category": "Systém",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Spustit/Spotlight",
+      "shortcut_win": "Win+R",
+      "shortcut_mac": "Cmd+Space",
+      "category": "Systém",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Nastavení/Předvolby",
+      "shortcut_win": "Win+I",
+      "shortcut_mac": "Cmd+,",
+      "category": "Systém",
+      "application": "Windows/macOS"
+    },
+    {
+      "action": "Nová záložka",
+      "shortcut_win": "Ctrl+T",
+      "shortcut_mac": "Cmd+T",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Znovu otevřít zavřenou záložku",
+      "shortcut_win": "Ctrl+Shift+T",
+      "shortcut_mac": "Cmd+Shift+T",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Další záložka",
+      "shortcut_win": "Ctrl+Tab",
+      "shortcut_mac": "Ctrl+Tab",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Předchozí záložka",
+      "shortcut_win": "Ctrl+Shift+Tab",
+      "shortcut_mac": "Ctrl+Shift+Tab",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Zaměřit adresní řádek",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+L",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Obnovit stránku",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Cmd+R",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Tvrdé obnovení (Vymazat mezipaměť)",
+      "shortcut_win": "Ctrl+Shift+R",
+      "shortcut_mac": "Cmd+Shift+R",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Záložka stránky",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Přepnout lištu záložek",
+      "shortcut_win": "Ctrl+Shift+B",
+      "shortcut_mac": "Cmd+Shift+B",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Stahování",
+      "shortcut_win": "Ctrl+J",
+      "shortcut_mac": "Cmd+Shift+J",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Historie",
+      "shortcut_win": "Ctrl+H",
+      "shortcut_mac": "Cmd+Y",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Nové okno inkognito",
+      "shortcut_win": "Ctrl+Shift+N",
+      "shortcut_mac": "Cmd+Shift+N",
+      "category": "Prohlížeč",
+      "application": "Chrome/Edge"
+    },
+    {
+      "action": "Nové soukromé okno",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Prohlížeč",
+      "application": "Firefox"
+    },
+    {
+      "action": "Nástroje pro vývojáře",
+      "shortcut_win": "F12",
+      "shortcut_mac": "Cmd+Opt+I",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Zobrazit zdroj stránky",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+Opt+U",
+      "category": "Prohlížeč",
+      "application": "Chrome/Firefox/Edge"
+    },
+    {
+      "action": "Paleta příkazů",
+      "shortcut_win": "Ctrl+Shift+P",
+      "shortcut_mac": "Cmd+Shift+P",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Rychlé otevření souboru",
+      "shortcut_win": "Ctrl+P",
+      "shortcut_mac": "Cmd+P",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přepnout terminál",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přepnout postranní panel",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přepnout komentář řádku",
+      "shortcut_win": "Ctrl+/",
+      "shortcut_mac": "Cmd+/",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Smazat řádek",
+      "shortcut_win": "Ctrl+Shift+K",
+      "shortcut_mac": "Cmd+Shift+K",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přesunout řádek nahoru/dolů",
+      "shortcut_win": "Alt+Up/Down",
+      "shortcut_mac": "Opt+Up/Down",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Vybrat další výskyt",
+      "shortcut_win": "Ctrl+D",
+      "shortcut_mac": "Cmd+D",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Vybrat všechny výskyty",
+      "shortcut_win": "Ctrl+Shift+L",
+      "shortcut_mac": "Cmd+Shift+L",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přejít na řádek",
+      "shortcut_win": "Ctrl+G",
+      "shortcut_mac": "Ctrl+G",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přejmenovat symbol",
+      "shortcut_win": "F2",
+      "shortcut_mac": "F2",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přejít na definici",
+      "shortcut_win": "F12",
+      "shortcut_mac": "F12",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Hledat v souborech",
+      "shortcut_win": "Ctrl+Shift+F",
+      "shortcut_mac": "Cmd+Shift+F",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přidat komentář řádku",
+      "shortcut_win": "Ctrl+K Ctrl+C",
+      "shortcut_mac": "Cmd+K Cmd+C",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Odebrat komentář řádku",
+      "shortcut_win": "Ctrl+K Ctrl+U",
+      "shortcut_mac": "Cmd+K Cmd+U",
+      "category": "Editor",
+      "application": "VS Code"
+    },
+    {
+      "action": "Přesunout po slovech",
+      "shortcut_win": "Ctrl+Left/Right",
+      "shortcut_mac": "Opt+Left/Right",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Vybrat po slovech",
+      "shortcut_win": "Ctrl+Shift+Left/Right",
+      "shortcut_mac": "Opt+Shift+Left/Right",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Přejít na začátek/konec řádku",
+      "shortcut_win": "Home/End",
+      "shortcut_mac": "Cmd+Left/Right",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Přejít na začátek/konec dokumentu",
+      "shortcut_win": "Ctrl+Home/End",
+      "shortcut_mac": "Cmd+Up/Down",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Smazat předchozí slovo",
+      "shortcut_win": "Ctrl+Backspace",
+      "shortcut_mac": "Opt+Backspace",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Smazat slovo za",
+      "shortcut_win": "Ctrl+Delete",
+      "shortcut_mac": "Opt+Delete",
+      "category": "Text",
+      "application": "All"
+    },
+    {
+      "action": "Tučné",
+      "shortcut_win": "Ctrl+B",
+      "shortcut_mac": "Cmd+B",
+      "category": "Text",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Kurzíva",
+      "shortcut_win": "Ctrl+I",
+      "shortcut_mac": "Cmd+I",
+      "category": "Text",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Podtržené",
+      "shortcut_win": "Ctrl+U",
+      "shortcut_mac": "Cmd+U",
+      "category": "Text",
+      "application": "Word Processors"
+    },
+    {
+      "action": "Vložit aktuální datum",
+      "shortcut_win": "Ctrl+;",
+      "shortcut_mac": "Ctrl+;",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Vložit aktuální čas",
+      "shortcut_win": "Ctrl+Shift+;",
+      "shortcut_mac": "Cmd+;",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Vybrat sloupec",
+      "shortcut_win": "Ctrl+Space",
+      "shortcut_mac": "Ctrl+Space",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Vybrat řádek",
+      "shortcut_win": "Shift+Space",
+      "shortcut_mac": "Shift+Space",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Vložit buňky",
+      "shortcut_win": "Ctrl+Shift++",
+      "shortcut_mac": "Cmd+Shift++",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Smazat buňky",
+      "shortcut_win": "Ctrl+-",
+      "shortcut_mac": "Cmd+-",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Přepnout absolutní odkaz",
+      "shortcut_win": "F4",
+      "shortcut_mac": "Cmd+T",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Zobrazit vzorce",
+      "shortcut_win": "Ctrl+`",
+      "shortcut_mac": "Ctrl+`",
+      "category": "Tabulka",
+      "application": "Excel/Sheets"
+    },
+    {
+      "action": "Zrušit/Přerušit",
+      "shortcut_win": "Ctrl+C",
+      "shortcut_mac": "Ctrl+C",
+      "category": "Terminál",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Vymazat obrazovku",
+      "shortcut_win": "Ctrl+L",
+      "shortcut_mac": "Cmd+K",
+      "category": "Terminál",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Automatické dokončování",
+      "shortcut_win": "Tab",
+      "shortcut_mac": "Tab",
+      "category": "Terminál",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Historie příkazů",
+      "shortcut_win": "Up/Down",
+      "shortcut_mac": "Up/Down",
+      "category": "Terminál",
+      "application": "Terminal/CMD"
+    },
+    {
+      "action": "Vyhledat v historii příkazů",
+      "shortcut_win": "Ctrl+R",
+      "shortcut_mac": "Ctrl+R",
+      "category": "Terminál",
+      "application": "Terminal/Bash"
+    }
+  ],
+  "meta": {
+    "seo_title": "Klávesové Zkratky - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Získejte 77 běžných klávesových zkratek pro Windows a macOS. Zdarma ke stažení ve formátech Excel, CSV a PDF pro zvýšení produktivity.",
+    "title": "Soubor Dat Univerzálních Klávesových Zkratek pro Windows a macOS",
+    "description": "Tento soubor dat poskytuje komplexní seznam 77 běžných klávesových zkratek pro Windows i macOS, kategorizovaných podle akce a aplikace. Zvyšte svou produktivitu s rychlým přístupem k základním příkazům.",
+    "key_takeaways": [
+      "Získejte přístup k 77 základním klávesovým zkratkám pro Windows a macOS.",
+      "Prozkoumejte univerzální a aplikačně specifické příkazy pro zvýšení produktivity.",
+      "Stáhněte si komplexní seznamy zkratek v mnoha pohodlných formátech.",
+      "Zlepšete efektivitu pracovního postupu zvládnutím běžných počítačových operací."
+    ],
+    "keywords": [
+      "klávesové zkratky excel",
+      "windows zkratky csv",
+      "macOS zkratky pdf",
+      "seznam běžných zkratek",
+      "stáhnout zkratky produktivita",
+      "klávesové zkratky počítače"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do své vlastní aplikace nebo vzdělávací platformy k integraci odkazů na zkratky pro vývojáře.",
+      "Použijte soubor **Excel** k filtrování a řazení zkratek podle kategorie, aplikace nebo platformy pro personalizované taháky a školicí materiály.",
+      "Vytiskněte verzi **PDF** jako praktickou referenční příručku na plochu nebo pro distribuci na vzdělávacích workshopech o počítačové gramotnosti.",
+      "Využijte tato data k vytváření interaktivních kvízů nebo pomocných nástrojů, které učí uživatele efektivní navigaci a provádění příkazů."
+    ]
+  },
+  "record_count": 77,
+  "title": "Soubor Dat Univerzálních Klávesových Zkratek pro Windows a macOS"
+}

@@ -1,0 +1,237 @@
+{
+  "id": "cs-jihocesky-letiste",
+  "name": "Letiště — Jihočeský kraj",
+  "title": "Letiště — Jihočeský kraj",
+  "description": "Seznam letišť v kraji „Jihočeský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (South Bohemia region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKCS",
+      "iata": "",
+      "name": "Ceske Budejovice Airport",
+      "name_slug": "ceske-budejovice-airport",
+      "city": "Ceske Budejovice",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1417,
+      "lat": 48.9463996887,
+      "lon": 14.4274997711,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHS",
+      "iata": "",
+      "name": "Hosin Airport",
+      "name_slug": "hosin-airport",
+      "city": "Hosin",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1621,
+      "lat": 49.0400009155,
+      "lon": 14.4949998856,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKJH",
+      "iata": "",
+      "name": "Jindrichuv Hradec Airport",
+      "name_slug": "jindrichuv-hradec-airport",
+      "city": "Jindrichuv Hradec",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1667,
+      "lat": 49.1502990723,
+      "lon": 14.9710998535,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKSO",
+      "iata": "",
+      "name": "Sobeslav Airport",
+      "name_slug": "sobeslav-airport",
+      "city": "Sobeslav",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1342,
+      "lat": 49.2467002869,
+      "lon": 14.7136001587,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKSR",
+      "iata": "",
+      "name": "Strunkovice Airport",
+      "name_slug": "strunkovice-airport",
+      "city": "Strunkovice",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1572,
+      "lat": 49.0825004578,
+      "lon": 14.075799942,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKST",
+      "iata": "",
+      "name": "Strakonice Airport",
+      "name_slug": "strakonice-airport",
+      "city": "Strakonice",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1381,
+      "lat": 49.251701355,
+      "lon": 13.8928003311,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKTA",
+      "iata": "",
+      "name": "Tabor Airport",
+      "name_slug": "tabor-airport",
+      "city": "Tabor",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1440,
+      "lat": 49.3911018372,
+      "lon": 14.7082996368,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKTV",
+      "iata": "",
+      "name": "Tabor Vsechov Ultralight Airport",
+      "name_slug": "tabor-vsechov-ultralight-airport",
+      "city": "Tabor",
+      "kraj": "Jihočeský kraj",
+      "kraj_source": "Jihocesky",
+      "kraj_slug": "jihocesky",
+      "kraj_en": "South Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1604,
+      "lat": 49.4378013611,
+      "lon": 14.6217002869,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Jihočeský kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Jihočeský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (South Bohemia region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 8 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Jihočeský kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Jihočeský kraj — 8 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

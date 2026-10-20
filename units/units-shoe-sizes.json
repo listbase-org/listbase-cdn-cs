@@ -1,0 +1,413 @@
+{
+  "id": "units-shoe-sizes",
+  "name": "Soubor Dat Mezinárodní Tabulka Převodu Velikostí Obuvi",
+  "category": "units",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "us",
+      "label": "US Size",
+      "type": "number"
+    },
+    {
+      "key": "uk",
+      "label": "UK Size",
+      "type": "number"
+    },
+    {
+      "key": "eu",
+      "label": "EU Size",
+      "type": "number"
+    },
+    {
+      "key": "cm",
+      "label": "Foot Length (cm)",
+      "type": "number"
+    },
+    {
+      "key": "inches",
+      "label": "Foot Length (in)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Muži",
+      "us": 6,
+      "uk": 5.5,
+      "eu": 38.5,
+      "cm": 24,
+      "inches": 9.45
+    },
+    {
+      "category": "Muži",
+      "us": 6.5,
+      "uk": 6,
+      "eu": 39,
+      "cm": 24.5,
+      "inches": 9.65
+    },
+    {
+      "category": "Muži",
+      "us": 7,
+      "uk": 6.5,
+      "eu": 40,
+      "cm": 25,
+      "inches": 9.84
+    },
+    {
+      "category": "Muži",
+      "us": 7.5,
+      "uk": 7,
+      "eu": 40.5,
+      "cm": 25.5,
+      "inches": 10.04
+    },
+    {
+      "category": "Muži",
+      "us": 8,
+      "uk": 7.5,
+      "eu": 41,
+      "cm": 26,
+      "inches": 10.24
+    },
+    {
+      "category": "Muži",
+      "us": 8.5,
+      "uk": 8,
+      "eu": 42,
+      "cm": 26.5,
+      "inches": 10.43
+    },
+    {
+      "category": "Muži",
+      "us": 9,
+      "uk": 8.5,
+      "eu": 42.5,
+      "cm": 27,
+      "inches": 10.63
+    },
+    {
+      "category": "Muži",
+      "us": 9.5,
+      "uk": 9,
+      "eu": 43,
+      "cm": 27.5,
+      "inches": 10.83
+    },
+    {
+      "category": "Muži",
+      "us": 10,
+      "uk": 9.5,
+      "eu": 44,
+      "cm": 28,
+      "inches": 11.02
+    },
+    {
+      "category": "Muži",
+      "us": 10.5,
+      "uk": 10,
+      "eu": 44.5,
+      "cm": 28.5,
+      "inches": 11.22
+    },
+    {
+      "category": "Muži",
+      "us": 11,
+      "uk": 10.5,
+      "eu": 45,
+      "cm": 29,
+      "inches": 11.42
+    },
+    {
+      "category": "Muži",
+      "us": 11.5,
+      "uk": 11,
+      "eu": 45.5,
+      "cm": 29.5,
+      "inches": 11.61
+    },
+    {
+      "category": "Muži",
+      "us": 12,
+      "uk": 11.5,
+      "eu": 46,
+      "cm": 30,
+      "inches": 11.81
+    },
+    {
+      "category": "Muži",
+      "us": 13,
+      "uk": 12.5,
+      "eu": 47,
+      "cm": 31,
+      "inches": 12.2
+    },
+    {
+      "category": "Muži",
+      "us": 14,
+      "uk": 13.5,
+      "eu": 48,
+      "cm": 32,
+      "inches": 12.6
+    },
+    {
+      "category": "Muži",
+      "us": 15,
+      "uk": 14.5,
+      "eu": 49,
+      "cm": 33,
+      "inches": 12.99
+    },
+    {
+      "category": "Ženy",
+      "us": 5,
+      "uk": 2.5,
+      "eu": 35,
+      "cm": 22,
+      "inches": 8.66
+    },
+    {
+      "category": "Ženy",
+      "us": 5.5,
+      "uk": 3,
+      "eu": 35.5,
+      "cm": 22.5,
+      "inches": 8.86
+    },
+    {
+      "category": "Ženy",
+      "us": 6,
+      "uk": 3.5,
+      "eu": 36,
+      "cm": 23,
+      "inches": 9.06
+    },
+    {
+      "category": "Ženy",
+      "us": 6.5,
+      "uk": 4,
+      "eu": 37,
+      "cm": 23.5,
+      "inches": 9.25
+    },
+    {
+      "category": "Ženy",
+      "us": 7,
+      "uk": 4.5,
+      "eu": 37.5,
+      "cm": 24,
+      "inches": 9.45
+    },
+    {
+      "category": "Ženy",
+      "us": 7.5,
+      "uk": 5,
+      "eu": 38,
+      "cm": 24.5,
+      "inches": 9.65
+    },
+    {
+      "category": "Ženy",
+      "us": 8,
+      "uk": 5.5,
+      "eu": 38.5,
+      "cm": 25,
+      "inches": 9.84
+    },
+    {
+      "category": "Ženy",
+      "us": 8.5,
+      "uk": 6,
+      "eu": 39,
+      "cm": 25.5,
+      "inches": 10.04
+    },
+    {
+      "category": "Ženy",
+      "us": 9,
+      "uk": 6.5,
+      "eu": 40,
+      "cm": 26,
+      "inches": 10.24
+    },
+    {
+      "category": "Ženy",
+      "us": 9.5,
+      "uk": 7,
+      "eu": 40.5,
+      "cm": 26.5,
+      "inches": 10.43
+    },
+    {
+      "category": "Ženy",
+      "us": 10,
+      "uk": 7.5,
+      "eu": 41,
+      "cm": 27,
+      "inches": 10.63
+    },
+    {
+      "category": "Ženy",
+      "us": 10.5,
+      "uk": 8,
+      "eu": 42,
+      "cm": 27.5,
+      "inches": 10.83
+    },
+    {
+      "category": "Ženy",
+      "us": 11,
+      "uk": 8.5,
+      "eu": 42.5,
+      "cm": 28,
+      "inches": 11.02
+    },
+    {
+      "category": "Ženy",
+      "us": 12,
+      "uk": 9.5,
+      "eu": 43,
+      "cm": 29,
+      "inches": 11.42
+    },
+    {
+      "category": "Děti",
+      "us": 1,
+      "uk": 0.5,
+      "eu": 16,
+      "cm": 9.5,
+      "inches": 3.74
+    },
+    {
+      "category": "Děti",
+      "us": 2,
+      "uk": 1,
+      "eu": 17,
+      "cm": 10.5,
+      "inches": 4.13
+    },
+    {
+      "category": "Děti",
+      "us": 3,
+      "uk": 2,
+      "eu": 18,
+      "cm": 11,
+      "inches": 4.33
+    },
+    {
+      "category": "Děti",
+      "us": 4,
+      "uk": 3,
+      "eu": 19,
+      "cm": 11.5,
+      "inches": 4.53
+    },
+    {
+      "category": "Děti",
+      "us": 5,
+      "uk": 4,
+      "eu": 20,
+      "cm": 12.5,
+      "inches": 4.92
+    },
+    {
+      "category": "Děti",
+      "us": 6,
+      "uk": 5,
+      "eu": 22,
+      "cm": 13,
+      "inches": 5.12
+    },
+    {
+      "category": "Děti",
+      "us": 7,
+      "uk": 6,
+      "eu": 23,
+      "cm": 14,
+      "inches": 5.51
+    },
+    {
+      "category": "Děti",
+      "us": 8,
+      "uk": 7,
+      "eu": 24,
+      "cm": 15,
+      "inches": 5.91
+    },
+    {
+      "category": "Děti",
+      "us": 9,
+      "uk": 8,
+      "eu": 25,
+      "cm": 15.5,
+      "inches": 6.1
+    },
+    {
+      "category": "Děti",
+      "us": 10,
+      "uk": 9,
+      "eu": 27,
+      "cm": 16.5,
+      "inches": 6.5
+    },
+    {
+      "category": "Děti",
+      "us": 11,
+      "uk": 10,
+      "eu": 28,
+      "cm": 17.5,
+      "inches": 6.89
+    },
+    {
+      "category": "Děti",
+      "us": 12,
+      "uk": 11,
+      "eu": 30,
+      "cm": 18.5,
+      "inches": 7.28
+    },
+    {
+      "category": "Děti",
+      "us": 13,
+      "uk": 12,
+      "eu": 31,
+      "cm": 19.5,
+      "inches": 7.68
+    }
+  ],
+  "meta": {
+    "seo_title": "Mezinárodní Tabulka Velikostí Bot - Ke Stažení Zdarma (Excel/CSV/PDF)",
+    "seo_description": "Získejte Mezinárodní Tabulku Velikostí Bot se 43 záznamy pro muže, ženy a děti. Převádějte velikosti US, UK, EU a délku chodidla. Zdarma ke stažení ve formátu Excel, CSV, PDF.",
+    "title": "Soubor Dat Mezinárodní Tabulka Převodu Velikostí Obuvi",
+    "description": "Tento soubor dat poskytuje komplexní mezinárodní tabulku převodu velikostí obuvi, detailně popisující velikosti napříč standardy US, UK a EU, spolu s odpovídajícími délkami chodidel v centimetrech a palcích pro muže, ženy a děti.",
+    "key_takeaways": [
+      "Získejte přístup k křížové referenční tabulce velikostí obuvi US, UK a EU pro muže, ženy a děti.",
+      "Porovnejte délky chodidel v centimetrech a palcích s různými mezinárodními velikostmi obuvi.",
+      "Stáhněte si 43 přesných záznamů, které pomohou s online nákupem obuvi nebo výrobou.",
+      "Využijte přesná data pro globální převody a porovnání velikostí obuvi."
+    ],
+    "keywords": [
+      "mezinárodní tabulka velikostí bot",
+      "převod velikostí bot excel",
+      "velikosti bot us uk eu",
+      "délka chodidla tabulka csv",
+      "převodník velikostí bot pdf",
+      "velikosti bot muži ženy děti"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do databáze vaší e-commerce platformy nebo skriptu Python, abyste poskytli dynamické převody velikostí obuvi pro mezinárodní zákazníky.",
+      "Použijte soubor **Excel** k vytvoření kontingenčních tabulek pro analýzu regionálních preferencí velikostí nebo k rychlému nalezení ekvivalentních velikostí pomocí funkce SVYHLEDAT (VLOOKUP) pro správu zásob.",
+      "Vytiskněte verzi **PDF** jako praktický referenční průvodce v maloobchodě, pro osobní použití nebo jako vzdělávací zdroj v kurzech módního designu.",
+      "Integrujte tento soubor dat do mobilní aplikace, abyste uživatelům pomohli rychle najít jejich správnou velikost obuvi při nakupování v zahraničí."
+    ]
+  },
+  "record_count": 43,
+  "title": "Soubor Dat Mezinárodní Tabulka Převodu Velikostí Obuvi"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "cs-liberecky-letiste",
+  "name": "Letiště — Liberecký kraj",
+  "title": "Letiště — Liberecký kraj",
+  "description": "Seznam letišť v kraji „Liberecký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Liberec region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKCE",
+      "iata": "",
+      "name": "Ceska Lipa Airport",
+      "name_slug": "ceska-lipa-airport",
+      "city": "Ceska Lipa",
+      "kraj": "Liberecký kraj",
+      "kraj_source": "Liberecky",
+      "kraj_slug": "liberecky",
+      "kraj_en": "Liberec",
+      "country": "CZ",
+      "elevation_ft": 932,
+      "lat": 50.709400177,
+      "lon": 14.5666999817,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHD",
+      "iata": "",
+      "name": "Hodkovice Nad Mohelkou Airport",
+      "name_slug": "hodkovice-nad-mohelkou-airport",
+      "city": "Hodkovice Nad Mohelkou",
+      "kraj": "Liberecký kraj",
+      "kraj_source": "Liberecky",
+      "kraj_slug": "liberecky",
+      "kraj_en": "Liberec",
+      "country": "CZ",
+      "elevation_ft": 1480,
+      "lat": 50.6571998596,
+      "lon": 15.0777997971,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHR",
+      "iata": "",
+      "name": "Hradcany Airport",
+      "name_slug": "hradcany-airport",
+      "city": "Ralsko",
+      "kraj": "Liberecký kraj",
+      "kraj_source": "Liberecky",
+      "kraj_slug": "liberecky",
+      "kraj_en": "Liberec",
+      "country": "CZ",
+      "elevation_ft": 912,
+      "lat": 50.6205558777,
+      "lon": 14.7380561829,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKLB",
+      "iata": "",
+      "name": "Liberec Airport",
+      "name_slug": "liberec-airport",
+      "city": "Liberec",
+      "kraj": "Liberecký kraj",
+      "kraj_source": "Liberecky",
+      "kraj_slug": "liberecky",
+      "kraj_en": "Liberec",
+      "country": "CZ",
+      "elevation_ft": 1329,
+      "lat": 50.7682991028,
+      "lon": 15.0249996185,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Liberecký kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Liberecký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Liberec region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Liberecký kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Liberecký kraj — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

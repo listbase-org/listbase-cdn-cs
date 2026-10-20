@@ -1,0 +1,1951 @@
+{
+  "id": "cs-veterinarni-ordinace",
+  "name": "České veterinární ordinace",
+  "title": "České veterinární ordinace",
+  "description": "Seznam pojmenovaných veterinárních ordinací v Česku (amenity=veterinary) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 382,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1. veterina Lískovec",
+      "latitude": 49.17091,
+      "longitude": 16.565046
+    },
+    {
+      "name": "A. Pantůček, J. Pantůček",
+      "latitude": 49.219662,
+      "longitude": 16.588859
+    },
+    {
+      "name": "AA-Vet Veterinární nemocnice",
+      "latitude": 50.059028,
+      "longitude": 14.497221
+    },
+    {
+      "name": "ABClinic",
+      "latitude": 49.167609,
+      "longitude": 16.5571
+    },
+    {
+      "name": "AlfaVet",
+      "latitude": 49.690617,
+      "longitude": 18.360679
+    },
+    {
+      "name": "Altavet",
+      "latitude": 50.085722,
+      "longitude": 14.510971
+    },
+    {
+      "name": "AMvet",
+      "latitude": 49.334475,
+      "longitude": 16.478141
+    },
+    {
+      "name": "Anima",
+      "latitude": 50.029844,
+      "longitude": 14.364062
+    },
+    {
+      "name": "ANIVET",
+      "latitude": 49.602505,
+      "longitude": 15.575031
+    },
+    {
+      "name": "Ariel Salón pro psy",
+      "latitude": 49.173062,
+      "longitude": 16.614967
+    },
+    {
+      "name": "Atevet",
+      "latitude": 50.042032,
+      "longitude": 14.55986
+    },
+    {
+      "name": "Aurinko Integrativní Veterinární Centrum",
+      "latitude": 49.215811,
+      "longitude": 16.498423
+    },
+    {
+      "name": "Avetum",
+      "latitude": 49.258009,
+      "longitude": 16.593356
+    },
+    {
+      "name": "Benemaster",
+      "latitude": 50.412261,
+      "longitude": 16.166395
+    },
+    {
+      "name": "Benemastr",
+      "latitude": 50.479719,
+      "longitude": 16.186743
+    },
+    {
+      "name": "Bohuslav Karbula MVDr.",
+      "latitude": 50.475064,
+      "longitude": 15.391237
+    },
+    {
+      "name": "Care4Pet",
+      "latitude": 49.819395,
+      "longitude": 18.375904
+    },
+    {
+      "name": "Centralvet",
+      "latitude": 50.052365,
+      "longitude": 14.528431
+    },
+    {
+      "name": "Chvátal",
+      "latitude": 50.018378,
+      "longitude": 14.44667
+    },
+    {
+      "name": "DIAMONA CLINIC - MVDr. Diana Frenclová",
+      "latitude": 49.800036,
+      "longitude": 18.477788
+    },
+    {
+      "name": "Dr. Anja Karl",
+      "latitude": 48.72127,
+      "longitude": 16.379639
+    },
+    {
+      "name": "Envet",
+      "latitude": 50.682368,
+      "longitude": 14.546185
+    },
+    {
+      "name": "Ervet",
+      "latitude": 50.159392,
+      "longitude": 14.75402
+    },
+    {
+      "name": "Fajtovi",
+      "latitude": 49.111191,
+      "longitude": 16.528604
+    },
+    {
+      "name": "Fana",
+      "latitude": 50.47763,
+      "longitude": 16.096001
+    },
+    {
+      "name": "GABRID",
+      "latitude": 49.192454,
+      "longitude": 16.62091
+    },
+    {
+      "name": "Gabriel",
+      "latitude": 50.59457,
+      "longitude": 13.589813
+    },
+    {
+      "name": "Galen",
+      "latitude": 49.238445,
+      "longitude": 16.582814
+    },
+    {
+      "name": "GARRY AV",
+      "latitude": 50.059638,
+      "longitude": 14.419952
+    },
+    {
+      "name": "GrandVet s.r.o.",
+      "latitude": 50.031472,
+      "longitude": 15.805588
+    },
+    {
+      "name": "H-Vet - Veterinární klinika pro malá zvířata",
+      "latitude": 50.045112,
+      "longitude": 14.557615
+    },
+    {
+      "name": "HappyVet",
+      "latitude": 49.278879,
+      "longitude": 17.678325
+    },
+    {
+      "name": "HKvet",
+      "latitude": 50.192982,
+      "longitude": 15.852333
+    },
+    {
+      "name": "Hruška",
+      "latitude": 50.654448,
+      "longitude": 14.725512
+    },
+    {
+      "name": "Irena Packová",
+      "latitude": 49.275718,
+      "longitude": 16.437607
+    },
+    {
+      "name": "Jan Jarolím",
+      "latitude": 49.748199,
+      "longitude": 12.99925
+    },
+    {
+      "name": "Kherion",
+      "latitude": 49.989895,
+      "longitude": 14.746075
+    },
+    {
+      "name": "Klinika malych zvirat H+K",
+      "latitude": 50.75493,
+      "longitude": 14.179645
+    },
+    {
+      "name": "Krajská veterinární správa pro Pardubický kraj",
+      "latitude": 50.044011,
+      "longitude": 15.801323
+    },
+    {
+      "name": "Kuželov",
+      "latitude": 48.866698,
+      "longitude": 17.458949
+    },
+    {
+      "name": "La DUŠE veterinární ordinace",
+      "latitude": 49.312481,
+      "longitude": 16.479581
+    },
+    {
+      "name": "Lentivet",
+      "latitude": 49.384906,
+      "longitude": 14.686474
+    },
+    {
+      "name": "Levet",
+      "latitude": 49.152982,
+      "longitude": 16.886051
+    },
+    {
+      "name": "Live",
+      "latitude": 50.543788,
+      "longitude": 14.115925
+    },
+    {
+      "name": "Lískovka",
+      "latitude": 49.679859,
+      "longitude": 18.354534
+    },
+    {
+      "name": "M&Lvet",
+      "latitude": 50.119302,
+      "longitude": 14.46177
+    },
+    {
+      "name": "Medipet",
+      "latitude": 49.225043,
+      "longitude": 17.697345
+    },
+    {
+      "name": "Merlin",
+      "latitude": 49.452782,
+      "longitude": 16.537957
+    },
+    {
+      "name": "MetropoleVet",
+      "latitude": 50.107752,
+      "longitude": 14.561874
+    },
+    {
+      "name": "Mrňák",
+      "latitude": 50.351794,
+      "longitude": 14.495577
+    },
+    {
+      "name": "MUDr. Robert Just",
+      "latitude": 49.179044,
+      "longitude": 16.684351
+    },
+    {
+      "name": "MVDr Chrpa",
+      "latitude": 50.072787,
+      "longitude": 14.804401
+    },
+    {
+      "name": "MVDr, Robert Lakomý",
+      "latitude": 49.588893,
+      "longitude": 18.148737
+    },
+    {
+      "name": "MVDr. Barbora Urbanová",
+      "latitude": 49.874135,
+      "longitude": 15.578147
+    },
+    {
+      "name": "MVDr. Dalibor Ress",
+      "latitude": 49.669862,
+      "longitude": 18.348308
+    },
+    {
+      "name": "MVDr. Dalibor Smutný",
+      "latitude": 49.169442,
+      "longitude": 16.521498
+    },
+    {
+      "name": "MVDr. Eva Langová",
+      "latitude": 49.197529,
+      "longitude": 16.646909
+    },
+    {
+      "name": "MVDr. Eva Rouseková",
+      "latitude": 49.302074,
+      "longitude": 14.476549
+    },
+    {
+      "name": "MVDr. Evžen Král",
+      "latitude": 49.179945,
+      "longitude": 15.290812
+    },
+    {
+      "name": "MVDr. Evžen Skula",
+      "latitude": 49.234844,
+      "longitude": 16.589067
+    },
+    {
+      "name": "MVDr. Foglar",
+      "latitude": 49.003559,
+      "longitude": 14.760934
+    },
+    {
+      "name": "MVDr. František Kostka - veterinární ordinace",
+      "latitude": 49.408213,
+      "longitude": 15.584512
+    },
+    {
+      "name": "MVDr. Frkal",
+      "latitude": 48.912275,
+      "longitude": 15.626658
+    },
+    {
+      "name": "MVDr. Frýba",
+      "latitude": 50.324068,
+      "longitude": 13.544186
+    },
+    {
+      "name": "MVDr. Ivan Borský - Veterinární ordinace Štěrboholy",
+      "latitude": 50.075446,
+      "longitude": 14.554166
+    },
+    {
+      "name": "MVDr. Ivo Šimoník, CSc.",
+      "latitude": 49.840045,
+      "longitude": 18.348465
+    },
+    {
+      "name": "MVDr. Jan Hlaváč",
+      "latitude": 50.078191,
+      "longitude": 14.603505
+    },
+    {
+      "name": "MVDr. Jan Kubát",
+      "latitude": 50.182315,
+      "longitude": 12.549671
+    },
+    {
+      "name": "MVDr. Jan Zobač",
+      "latitude": 49.153545,
+      "longitude": 16.884045
+    },
+    {
+      "name": "MVDr. Jan Šimr",
+      "latitude": 49.97214,
+      "longitude": 14.593364
+    },
+    {
+      "name": "MVDr. Jaromír Král",
+      "latitude": 50.102961,
+      "longitude": 14.400751
+    },
+    {
+      "name": "MVDr. Jindřich Nešpor",
+      "latitude": 49.170288,
+      "longitude": 16.570585
+    },
+    {
+      "name": "MVDr. Jitka Tesarikova",
+      "latitude": 49.590674,
+      "longitude": 17.276489
+    },
+    {
+      "name": "MVDr. Jiří Žák",
+      "latitude": 49.182101,
+      "longitude": 16.599964
+    },
+    {
+      "name": "MVDr. Josef Heller",
+      "latitude": 49.793412,
+      "longitude": 12.630532
+    },
+    {
+      "name": "MVDr. Josef Míka",
+      "latitude": 50.09869,
+      "longitude": 14.382116
+    },
+    {
+      "name": "MVDr. Josef Černý",
+      "latitude": 50.923848,
+      "longitude": 15.077559
+    },
+    {
+      "name": "MVDr. Kateřina Dvořáková",
+      "latitude": 49.17076,
+      "longitude": 16.405041
+    },
+    {
+      "name": "MVDr. Klára Němcová",
+      "latitude": 49.35249,
+      "longitude": 16.425273
+    },
+    {
+      "name": "MvDr. Ladislav Čech",
+      "latitude": 49.635513,
+      "longitude": 16.225674
+    },
+    {
+      "name": "MVDr. Lenka Bejčková",
+      "latitude": 49.780806,
+      "longitude": 13.591579
+    },
+    {
+      "name": "MVDr. Lenka Horáková",
+      "latitude": 49.305172,
+      "longitude": 16.53081
+    },
+    {
+      "name": "MVDr. Libor Okřina",
+      "latitude": 49.391753,
+      "longitude": 15.582851
+    },
+    {
+      "name": "MVDr. Ludvík Mikoška",
+      "latitude": 49.24186,
+      "longitude": 13.533489
+    },
+    {
+      "name": "MVDr. Marcela Rybárová",
+      "latitude": 49.569781,
+      "longitude": 13.327238
+    },
+    {
+      "name": "MVDr. Marek Dolanský",
+      "latitude": 49.88941,
+      "longitude": 18.195452
+    },
+    {
+      "name": "MVDr. Martin Kořínek",
+      "latitude": 49.734194,
+      "longitude": 13.395306
+    },
+    {
+      "name": "MVDr. Martin Kučera",
+      "latitude": 50.615326,
+      "longitude": 15.60636
+    },
+    {
+      "name": "MVDr. Martin Roubal",
+      "latitude": 50.057363,
+      "longitude": 14.426722
+    },
+    {
+      "name": "MVDr. Martin Šando",
+      "latitude": 49.284781,
+      "longitude": 17.683512
+    },
+    {
+      "name": "MVDr. Michael Horský - veterinární ordinace",
+      "latitude": 49.412866,
+      "longitude": 15.577385
+    },
+    {
+      "name": "MVDr. Michal Šibal",
+      "latitude": 49.027725,
+      "longitude": 17.057057
+    },
+    {
+      "name": "MVDr. Miloslav Šlesinger",
+      "latitude": 49.106778,
+      "longitude": 17.165115
+    },
+    {
+      "name": "MVDr. Miloš Helebrant",
+      "latitude": 50.45753,
+      "longitude": 13.409366
+    },
+    {
+      "name": "MVDr. Miroslav Dynda",
+      "latitude": 49.299138,
+      "longitude": 14.468453
+    },
+    {
+      "name": "MVDr. Miroslav Šperlich",
+      "latitude": 49.908231,
+      "longitude": 16.615587
+    },
+    {
+      "name": "MVDr. Májek Petr",
+      "latitude": 49.152852,
+      "longitude": 16.879664
+    },
+    {
+      "name": "MVDr. Ondřej Ryba",
+      "latitude": 48.964348,
+      "longitude": 16.86165
+    },
+    {
+      "name": "MVDr. Pavel SMÍŠEK - Veterinární ambulance pro malá zvířata",
+      "latitude": 50.43314,
+      "longitude": 15.582016
+    },
+    {
+      "name": "MVDr. Pavla Trnková",
+      "latitude": 49.179349,
+      "longitude": 16.679392
+    },
+    {
+      "name": "MVDr. Petr Gajdošík",
+      "latitude": 49.895375,
+      "longitude": 18.188161
+    },
+    {
+      "name": "MVDr. Petr Soldátek",
+      "latitude": 50.543433,
+      "longitude": 14.133761
+    },
+    {
+      "name": "MVDr. Petrlík Martin",
+      "latitude": 49.204724,
+      "longitude": 16.642438
+    },
+    {
+      "name": "MVDr. Radek Herynk",
+      "latitude": 49.696237,
+      "longitude": 13.417959
+    },
+    {
+      "name": "MVDr. Radek Krul",
+      "latitude": 49.20859,
+      "longitude": 16.69578
+    },
+    {
+      "name": "MVDr. Radomír Janošík",
+      "latitude": 50.389915,
+      "longitude": 17.007442
+    },
+    {
+      "name": "MVDr. Rastislav Schnierer",
+      "latitude": 50.957594,
+      "longitude": 14.543006
+    },
+    {
+      "name": "MVDr. Renata Popelářová",
+      "latitude": 50.073349,
+      "longitude": 16.461994
+    },
+    {
+      "name": "MVDr. Richard Saviola",
+      "latitude": 49.830899,
+      "longitude": 18.274829
+    },
+    {
+      "name": "MVDr. Roman Nejez - VETCENTRUM",
+      "latitude": 49.838074,
+      "longitude": 18.187057
+    },
+    {
+      "name": "MVDr. Rudolf Mac",
+      "latitude": 49.209441,
+      "longitude": 17.543877
+    },
+    {
+      "name": "Mvdr. Slabá",
+      "latitude": 49.453476,
+      "longitude": 14.357786
+    },
+    {
+      "name": "MVDr. Slavíček",
+      "latitude": 49.562202,
+      "longitude": 16.424959
+    },
+    {
+      "name": "MVDr. Tereza Bednářová",
+      "latitude": 49.165436,
+      "longitude": 16.726742
+    },
+    {
+      "name": "MVDr. Tomáš Salavec",
+      "latitude": 50.155423,
+      "longitude": 15.817178
+    },
+    {
+      "name": "MVDr. Vašák Jindřich",
+      "latitude": 49.03867,
+      "longitude": 16.619337
+    },
+    {
+      "name": "MVDr. Veronika Fajtová",
+      "latitude": 49.111415,
+      "longitude": 16.518099
+    },
+    {
+      "name": "MVDr. Veronika Venhodová",
+      "latitude": 49.210172,
+      "longitude": 15.986447
+    },
+    {
+      "name": "MVDr. Viktor Dvořák",
+      "latitude": 49.346021,
+      "longitude": 16.424164
+    },
+    {
+      "name": "MVDr. Vojtěch Švarc",
+      "latitude": 49.911358,
+      "longitude": 16.609425
+    },
+    {
+      "name": "MVDr. Vítězslav Raška a kolektiv",
+      "latitude": 49.829319,
+      "longitude": 18.261107
+    },
+    {
+      "name": "MVDr. Zbyněk Škrdlant",
+      "latitude": 49.956089,
+      "longitude": 15.27728
+    },
+    {
+      "name": "MVDr. Zuzana Uhříková",
+      "latitude": 50.199012,
+      "longitude": 17.19632
+    },
+    {
+      "name": "MVDr. Šoman",
+      "latitude": 49.454148,
+      "longitude": 18.147717
+    },
+    {
+      "name": "MVDr.Gajdošík",
+      "latitude": 49.888447,
+      "longitude": 18.18855
+    },
+    {
+      "name": "Nová Veterina Slaný",
+      "latitude": 50.227548,
+      "longitude": 14.079646
+    },
+    {
+      "name": "Nowavet",
+      "latitude": 49.673569,
+      "longitude": 18.66663
+    },
+    {
+      "name": "Náš Veterinář",
+      "latitude": 50.005366,
+      "longitude": 14.416265
+    },
+    {
+      "name": "Oftalmovet",
+      "latitude": 49.223809,
+      "longitude": 16.623193
+    },
+    {
+      "name": "Olvet",
+      "latitude": 49.203271,
+      "longitude": 16.596677
+    },
+    {
+      "name": "Otáhal",
+      "latitude": 50.128948,
+      "longitude": 14.465623
+    },
+    {
+      "name": "Pet Help",
+      "latitude": 50.03142,
+      "longitude": 14.392435
+    },
+    {
+      "name": "Pod Červenym Vrchem",
+      "latitude": 50.781364,
+      "longitude": 14.205556
+    },
+    {
+      "name": "Point 4 Pets",
+      "latitude": 49.127545,
+      "longitude": 16.616212
+    },
+    {
+      "name": "Premium Vet",
+      "latitude": 50.099404,
+      "longitude": 14.417785
+    },
+    {
+      "name": "PRIMAVET",
+      "latitude": 49.290639,
+      "longitude": 17.402741
+    },
+    {
+      "name": "Privátní veterinární ordinace",
+      "latitude": 49.207821,
+      "longitude": 16.627938
+    },
+    {
+      "name": "Psí útulek Strakonice",
+      "latitude": 49.264558,
+      "longitude": 13.917037
+    },
+    {
+      "name": "Regia Vet",
+      "latitude": 50.032033,
+      "longitude": 14.518955
+    },
+    {
+      "name": "RPVET",
+      "latitude": 49.727745,
+      "longitude": 13.36902
+    },
+    {
+      "name": "SaMvet s.r.o.",
+      "latitude": 49.221851,
+      "longitude": 16.633
+    },
+    {
+      "name": "San Bernard",
+      "latitude": 50.039541,
+      "longitude": 14.339225
+    },
+    {
+      "name": "Skavet+",
+      "latitude": 50.39554,
+      "longitude": 16.040762
+    },
+    {
+      "name": "Sova",
+      "latitude": 50.353805,
+      "longitude": 15.836469
+    },
+    {
+      "name": "Stromovka",
+      "latitude": 50.101044,
+      "longitude": 14.424757
+    },
+    {
+      "name": "Státní veterinární ústav Jihlava",
+      "latitude": 49.39839,
+      "longitude": 15.558358
+    },
+    {
+      "name": "Státní zdravotní ústav",
+      "latitude": 50.092571,
+      "longitude": 14.445468
+    },
+    {
+      "name": "Tierarztpraxis Ebersbach",
+      "latitude": 51.005367,
+      "longitude": 14.578136
+    },
+    {
+      "name": "Tierarztpraxis Falkenhorst",
+      "latitude": 50.375582,
+      "longitude": 12.465311
+    },
+    {
+      "name": "Tierarztpraxis Matthias Schneider",
+      "latitude": 50.363743,
+      "longitude": 12.468826
+    },
+    {
+      "name": "Tomáš Mohyla",
+      "latitude": 50.759807,
+      "longitude": 14.554051
+    },
+    {
+      "name": "U sv. Jana Nepomuckého",
+      "latitude": 49.504525,
+      "longitude": 16.594405
+    },
+    {
+      "name": "u Červeného kostela",
+      "latitude": 49.593284,
+      "longitude": 17.246911
+    },
+    {
+      "name": "V.I.Pet",
+      "latitude": 49.191929,
+      "longitude": 16.595862
+    },
+    {
+      "name": "Vet Goby s.r.o.",
+      "latitude": 50.103107,
+      "longitude": 14.575297
+    },
+    {
+      "name": "VET-PET",
+      "latitude": 50.11679,
+      "longitude": 14.491975
+    },
+    {
+      "name": "VETCENTRUM Příbor",
+      "latitude": 49.636499,
+      "longitude": 18.144371
+    },
+    {
+      "name": "Veteninární ošetřovna",
+      "latitude": 50.584195,
+      "longitude": 16.334041
+    },
+    {
+      "name": "Veterina",
+      "latitude": 49.173059,
+      "longitude": 16.58316
+    },
+    {
+      "name": "Veterina",
+      "latitude": 49.470726,
+      "longitude": 17.107246
+    },
+    {
+      "name": "Veterina",
+      "latitude": 50.020194,
+      "longitude": 15.199802
+    },
+    {
+      "name": "Veterina",
+      "latitude": 50.039089,
+      "longitude": 14.411064
+    },
+    {
+      "name": "Veterina",
+      "latitude": 50.523082,
+      "longitude": 14.975349
+    },
+    {
+      "name": "Veterina 3v1",
+      "latitude": 50.012356,
+      "longitude": 14.39356
+    },
+    {
+      "name": "Veterina 4 Tlapky",
+      "latitude": 49.663756,
+      "longitude": 18.677474
+    },
+    {
+      "name": "Veterina Anna Lišková",
+      "latitude": 50.411732,
+      "longitude": 14.905576
+    },
+    {
+      "name": "VETERINA Aš s.r.o.",
+      "latitude": 50.223304,
+      "longitude": 12.185475
+    },
+    {
+      "name": "Veterina Bryksova",
+      "latitude": 50.107726,
+      "longitude": 14.577364
+    },
+    {
+      "name": "Veterina Bystrc",
+      "latitude": 49.216258,
+      "longitude": 16.497155
+    },
+    {
+      "name": "Veterina Bystrc",
+      "latitude": 49.221632,
+      "longitude": 16.518006
+    },
+    {
+      "name": "Veterina EDEN",
+      "latitude": 49.215736,
+      "longitude": 16.587613
+    },
+    {
+      "name": "Veterina Hlinsko",
+      "latitude": 49.76231,
+      "longitude": 15.899766
+    },
+    {
+      "name": "Veterina Kařez",
+      "latitude": 49.822779,
+      "longitude": 13.78173
+    },
+    {
+      "name": "Veterina Klíčany",
+      "latitude": 50.202833,
+      "longitude": 14.435645
+    },
+    {
+      "name": "Veterina Lesná",
+      "latitude": 49.234561,
+      "longitude": 16.628256
+    },
+    {
+      "name": "Veterina Mlejnský",
+      "latitude": 49.065295,
+      "longitude": 17.457093
+    },
+    {
+      "name": "Veterina MVDr. Hladík",
+      "latitude": 49.176259,
+      "longitude": 16.552858
+    },
+    {
+      "name": "Veterina MVDr. Jana Jeřábková",
+      "latitude": 49.866068,
+      "longitude": 15.580721
+    },
+    {
+      "name": "Veterina na Lidické",
+      "latitude": 49.204529,
+      "longitude": 16.605601
+    },
+    {
+      "name": "Veterina Nebušice",
+      "latitude": 50.110989,
+      "longitude": 14.325963
+    },
+    {
+      "name": "Veterina Piketa",
+      "latitude": 49.13424,
+      "longitude": 15.000238
+    },
+    {
+      "name": "Veterina Podhoří",
+      "latitude": 49.217346,
+      "longitude": 17.633895
+    },
+    {
+      "name": "Veterina Polabiny",
+      "latitude": 50.050418,
+      "longitude": 15.752504
+    },
+    {
+      "name": "Veterina Sekvana",
+      "latitude": 49.513947,
+      "longitude": 17.058338
+    },
+    {
+      "name": "Veterina Tachov Janouškovcovi",
+      "latitude": 49.791345,
+      "longitude": 12.625624
+    },
+    {
+      "name": "Veterina U Beránků",
+      "latitude": 48.829202,
+      "longitude": 14.332436
+    },
+    {
+      "name": "Veterina u Zoo",
+      "latitude": 49.228113,
+      "longitude": 16.533607
+    },
+    {
+      "name": "Veterina u Zoo - Chirurgie",
+      "latitude": 49.228192,
+      "longitude": 16.53424
+    },
+    {
+      "name": "Veterina Vracov",
+      "latitude": 48.968587,
+      "longitude": 17.205224
+    },
+    {
+      "name": "Veterina Vrána",
+      "latitude": 49.785872,
+      "longitude": 18.371003
+    },
+    {
+      "name": "Veterina Úvaly - Kheiron s.r.o.",
+      "latitude": 50.071225,
+      "longitude": 14.716949
+    },
+    {
+      "name": "Veterina Češkova",
+      "latitude": 50.027296,
+      "longitude": 15.769197
+    },
+    {
+      "name": "Veterina Šlajs",
+      "latitude": 49.52589,
+      "longitude": 12.93988
+    },
+    {
+      "name": "Veterina Štrossova",
+      "latitude": 50.034687,
+      "longitude": 15.789518
+    },
+    {
+      "name": "Veterinarian",
+      "latitude": 49.540998,
+      "longitude": 17.042964
+    },
+    {
+      "name": "Veterinarni Klinika",
+      "latitude": 50.071408,
+      "longitude": 14.443861
+    },
+    {
+      "name": "Veterinarni ordinace",
+      "latitude": 49.090573,
+      "longitude": 17.874645
+    },
+    {
+      "name": "Veterinarni ordinace Drábkovi",
+      "latitude": 49.248018,
+      "longitude": 16.666899
+    },
+    {
+      "name": "Veterinarní klinika VET 2.0",
+      "latitude": 49.974912,
+      "longitude": 14.396537
+    },
+    {
+      "name": "Veterinary Home - MVDr. Luboš Hrib",
+      "latitude": 49.924578,
+      "longitude": 14.478808
+    },
+    {
+      "name": "Veterinální klinika Chotěboř",
+      "latitude": 49.71876,
+      "longitude": 15.664156
+    },
+    {
+      "name": "Veterinární ambulance",
+      "latitude": 49.57247,
+      "longitude": 14.658085
+    },
+    {
+      "name": "Veterinární ambulance",
+      "latitude": 49.583022,
+      "longitude": 13.532109
+    },
+    {
+      "name": "Veterinární ambulance",
+      "latitude": 49.642486,
+      "longitude": 18.31294
+    },
+    {
+      "name": "Veterinární ambulance",
+      "latitude": 50.068966,
+      "longitude": 14.511277
+    },
+    {
+      "name": "Veterinární ambulance",
+      "latitude": 50.751377,
+      "longitude": 15.038517
+    },
+    {
+      "name": "Veterinární ambulance Býšť",
+      "latitude": 50.127345,
+      "longitude": 15.908388
+    },
+    {
+      "name": "Veterinární centrum",
+      "latitude": 49.228251,
+      "longitude": 13.52649
+    },
+    {
+      "name": "Veterinární kliknika NeoVet",
+      "latitude": 49.904976,
+      "longitude": 15.399441
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 49.004527,
+      "longitude": 14.769054
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 49.059987,
+      "longitude": 17.482514
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 49.207842,
+      "longitude": 16.55446
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 49.208783,
+      "longitude": 17.594517
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 49.248206,
+      "longitude": 16.578393
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 49.467079,
+      "longitude": 17.442335
+    },
+    {
+      "name": "Veterinární Klinika",
+      "latitude": 49.574818,
+      "longitude": 17.237303
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 49.973439,
+      "longitude": 16.391934
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 50.046995,
+      "longitude": 14.344262
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 50.070171,
+      "longitude": 14.456772
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 50.075102,
+      "longitude": 14.487308
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 50.081509,
+      "longitude": 14.459383
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 50.093691,
+      "longitude": 14.479418
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 50.125992,
+      "longitude": 14.411793
+    },
+    {
+      "name": "Veterinární klinika",
+      "latitude": 50.272251,
+      "longitude": 14.32763
+    },
+    {
+      "name": "veterinární klinika",
+      "latitude": 50.389707,
+      "longitude": 13.173777
+    },
+    {
+      "name": "Veterinární klinika ABC",
+      "latitude": 50.092044,
+      "longitude": 14.487495
+    },
+    {
+      "name": "Veterinární klinika ANIMED",
+      "latitude": 49.208715,
+      "longitude": 16.658244
+    },
+    {
+      "name": "Veterinární klinika ATEvet",
+      "latitude": 49.561797,
+      "longitude": 16.069905
+    },
+    {
+      "name": "Veterinární klinika ATEvet",
+      "latitude": 49.562385,
+      "longitude": 16.068214
+    },
+    {
+      "name": "Veterinární Klinika Bv",
+      "latitude": 48.752724,
+      "longitude": 16.869925
+    },
+    {
+      "name": "Veterinární klinika CTVET",
+      "latitude": 49.739926,
+      "longitude": 18.613105
+    },
+    {
+      "name": "Veterinární klinika Fénix",
+      "latitude": 50.079912,
+      "longitude": 14.453119
+    },
+    {
+      "name": "Veterinární klinika Hanychov",
+      "latitude": 50.752874,
+      "longitude": 15.035519
+    },
+    {
+      "name": "Veterinární klinika Heřmanův Městec",
+      "latitude": 49.947209,
+      "longitude": 15.689732
+    },
+    {
+      "name": "Veterinární klinika Hloubětín",
+      "latitude": 50.106981,
+      "longitude": 14.537423
+    },
+    {
+      "name": "Veterinární klinika Iggy",
+      "latitude": 49.580767,
+      "longitude": 15.935454
+    },
+    {
+      "name": "Veterinární klinika Jesenice",
+      "latitude": 49.967347,
+      "longitude": 14.514111
+    },
+    {
+      "name": "Veterinární klinika Jesenice s.r.o.",
+      "latitude": 49.972433,
+      "longitude": 14.502815
+    },
+    {
+      "name": "Veterinární klinika JK VET",
+      "latitude": 49.199889,
+      "longitude": 16.605252
+    },
+    {
+      "name": "Veterinární klinika Kleisslova",
+      "latitude": 49.756324,
+      "longitude": 13.372426
+    },
+    {
+      "name": "Veterinární klinika Krmelín",
+      "latitude": 49.733571,
+      "longitude": 18.226011
+    },
+    {
+      "name": "Veterinární klinika Lhotka",
+      "latitude": 50.019874,
+      "longitude": 14.436643
+    },
+    {
+      "name": "Veterinární klinika LIFE s.r.o.",
+      "latitude": 49.795875,
+      "longitude": 18.448844
+    },
+    {
+      "name": "Veterinární klinika Livet",
+      "latitude": 50.104578,
+      "longitude": 14.435369
+    },
+    {
+      "name": "Veterinární klinika Maradovi",
+      "latitude": 50.344414,
+      "longitude": 14.501169
+    },
+    {
+      "name": "Veterinární klinika Mi-Vet, s.r.o.",
+      "latitude": 50.67409,
+      "longitude": 14.044917
+    },
+    {
+      "name": "Veterinární klinika Modřany",
+      "latitude": 50.005828,
+      "longitude": 14.411305
+    },
+    {
+      "name": "Veterinární klinika Monáda",
+      "latitude": 50.08016,
+      "longitude": 14.852853
+    },
+    {
+      "name": "Veterinární klinika MVDr. Barbořík",
+      "latitude": 49.460696,
+      "longitude": 17.45278
+    },
+    {
+      "name": "Veterinární klinika MVDr. Jiří Beránek",
+      "latitude": 50.044047,
+      "longitude": 15.801571
+    },
+    {
+      "name": "veterinární klinika MVDr. Minář",
+      "latitude": 49.955139,
+      "longitude": 16.998781
+    },
+    {
+      "name": "Veterinární klinika MVDr. Pospíšilík Josef",
+      "latitude": 49.458458,
+      "longitude": 17.451503
+    },
+    {
+      "name": "Veterinární klinika MVDr. Vlastimil Mrňák",
+      "latitude": 50.351795,
+      "longitude": 14.49559
+    },
+    {
+      "name": "Veterinární Klinika na Hůrce",
+      "latitude": 50.05288,
+      "longitude": 14.338405
+    },
+    {
+      "name": "Veterinární klinika NISA",
+      "latitude": 50.767736,
+      "longitude": 15.05237
+    },
+    {
+      "name": "Veterinární klinika Panda",
+      "latitude": 50.079647,
+      "longitude": 14.445621
+    },
+    {
+      "name": "Veterinární klinika Parník",
+      "latitude": 50.106951,
+      "longitude": 14.572413
+    },
+    {
+      "name": "Veterinární klinika pro malá zvířata",
+      "latitude": 49.101791,
+      "longitude": 16.376144
+    },
+    {
+      "name": "Veterinární klinika Písek",
+      "latitude": 49.311578,
+      "longitude": 14.155582
+    },
+    {
+      "name": "Veterinární klinika Růžodol",
+      "latitude": 50.772887,
+      "longitude": 15.03374
+    },
+    {
+      "name": "Veterinární klinika Slaný - MVDr. Jaroslav Fiedler, MVDr. Michal Fiedler",
+      "latitude": 50.23603,
+      "longitude": 14.072417
+    },
+    {
+      "name": "Veterinární klinika U Tunelu",
+      "latitude": 50.090512,
+      "longitude": 14.453197
+    },
+    {
+      "name": "Veterinární klinika Uhříněves",
+      "latitude": 50.033535,
+      "longitude": 14.595676
+    },
+    {
+      "name": "Veterinární klinika VETCARE",
+      "latitude": 50.742887,
+      "longitude": 15.160649
+    },
+    {
+      "name": "Veterinární klinika VETOPET",
+      "latitude": 50.025091,
+      "longitude": 15.72334
+    },
+    {
+      "name": "Veterinární klinika Vetvill Svitavy",
+      "latitude": 49.760482,
+      "longitude": 16.458371
+    },
+    {
+      "name": "Veterinární klinika VLTAVA",
+      "latitude": 48.968444,
+      "longitude": 14.505819
+    },
+    {
+      "name": "Veterinární klinika VLTAVA",
+      "latitude": 48.998044,
+      "longitude": 14.448834
+    },
+    {
+      "name": "Veterinární klinika Vítkovice",
+      "latitude": 49.801122,
+      "longitude": 18.265185
+    },
+    {
+      "name": "Veterinární klinika Zelená Liška",
+      "latitude": 50.046103,
+      "longitude": 14.442925
+    },
+    {
+      "name": "Veterinární klinika Zlíchov",
+      "latitude": 50.046893,
+      "longitude": 14.408037
+    },
+    {
+      "name": "Veterinární klinika-MVDr.Ivo Pospíšil",
+      "latitude": 49.283746,
+      "longitude": 16.987917
+    },
+    {
+      "name": "Veterinární lékař",
+      "latitude": 50.556158,
+      "longitude": 15.06863
+    },
+    {
+      "name": "Veterinární nemocnice Libuš",
+      "latitude": 50.008408,
+      "longitude": 14.458727
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 48.812161,
+      "longitude": 14.250937
+    },
+    {
+      "name": "VETERINÁRNÍ ORDINACE",
+      "latitude": 48.883272,
+      "longitude": 16.033441
+    },
+    {
+      "name": "veterinární ordinace",
+      "latitude": 49.121291,
+      "longitude": 17.540357
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.193635,
+      "longitude": 16.652784
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.203711,
+      "longitude": 16.690787
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.210141,
+      "longitude": 16.623693
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.23073,
+      "longitude": 16.590733
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.231903,
+      "longitude": 16.618178
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.255206,
+      "longitude": 16.731929
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.296913,
+      "longitude": 14.468802
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.329639,
+      "longitude": 17.576152
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.448544,
+      "longitude": 17.450395
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.452792,
+      "longitude": 17.461559
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.473448,
+      "longitude": 17.105294
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.486948,
+      "longitude": 16.657834
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.527389,
+      "longitude": 17.579222
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.690497,
+      "longitude": 14.027972
+    },
+    {
+      "name": "Veterinární Ordinace",
+      "latitude": 49.737847,
+      "longitude": 16.427177
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.761369,
+      "longitude": 16.475346
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 49.92039,
+      "longitude": 14.645996
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.04271,
+      "longitude": 15.759937
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.071861,
+      "longitude": 14.406827
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.083721,
+      "longitude": 16.762191
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.083738,
+      "longitude": 14.371581
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.090717,
+      "longitude": 14.308888
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.124079,
+      "longitude": 14.503499
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.288763,
+      "longitude": 14.342692
+    },
+    {
+      "name": "Veterinární ordinace",
+      "latitude": 50.523973,
+      "longitude": 14.973124
+    },
+    {
+      "name": "Veterinární ordinace \"Ťapina\"",
+      "latitude": 49.195332,
+      "longitude": 16.647973
+    },
+    {
+      "name": "Veterinární ordinace - MVDr. František Luňák",
+      "latitude": 49.073726,
+      "longitude": 17.458038
+    },
+    {
+      "name": "Veterinární Ordinace - MVDr. Hynek Siksta",
+      "latitude": 48.983068,
+      "longitude": 16.517538
+    },
+    {
+      "name": "Veterinární ordinace - MVDr. Luděk Kučera",
+      "latitude": 49.409487,
+      "longitude": 15.585997
+    },
+    {
+      "name": "Veterinární ordinace Anežka",
+      "latitude": 50.142059,
+      "longitude": 14.093494
+    },
+    {
+      "name": "Veterinární ordinace Canife",
+      "latitude": 49.871371,
+      "longitude": 14.89567
+    },
+    {
+      "name": "VETERINÁRNÍ ORDINACE DUBINA-PERGOLA",
+      "latitude": 50.045052,
+      "longitude": 15.807074
+    },
+    {
+      "name": "Veterinární ordinace Engelovi s.r.o.",
+      "latitude": 49.446397,
+      "longitude": 17.45144
+    },
+    {
+      "name": "Veterinární ordinace Felis",
+      "latitude": 49.144662,
+      "longitude": 16.619539
+    },
+    {
+      "name": "Veterinární ordinace Hvězda",
+      "latitude": 50.088846,
+      "longitude": 14.346615
+    },
+    {
+      "name": "Veterinární ordinace Kovářovi",
+      "latitude": 49.573824,
+      "longitude": 18.763781
+    },
+    {
+      "name": "Veterinární ordinace Lobeček",
+      "latitude": 50.251853,
+      "longitude": 14.306419
+    },
+    {
+      "name": "Veterinární Ordinace Lysý Zdeněk MVDr.",
+      "latitude": 49.334892,
+      "longitude": 17.997644
+    },
+    {
+      "name": "Veterinární ordinace Marek Chyba",
+      "latitude": 49.223571,
+      "longitude": 16.590842
+    },
+    {
+      "name": "Veterinární ordinace Miroslav",
+      "latitude": 48.945959,
+      "longitude": 16.314834
+    },
+    {
+      "name": "Veterinární ordinace MitraVET",
+      "latitude": 49.645769,
+      "longitude": 18.372382
+    },
+    {
+      "name": "Veterinární ordinace MVDr. Jiří Kučera",
+      "latitude": 50.388282,
+      "longitude": 13.193622
+    },
+    {
+      "name": "Veterinární ordinace MVDr. Marie Velasová",
+      "latitude": 49.656825,
+      "longitude": 14.42891
+    },
+    {
+      "name": "Veterinární ordinace MVDr. Martina Koptová",
+      "latitude": 50.175789,
+      "longitude": 15.853718
+    },
+    {
+      "name": "Veterinární ordinace MVDr. Milan Štourač",
+      "latitude": 49.279592,
+      "longitude": 16.566183
+    },
+    {
+      "name": "Veterinární ordinace NA FAŘE",
+      "latitude": 50.239921,
+      "longitude": 12.749132
+    },
+    {
+      "name": "Veterinární ordinace Polnička",
+      "latitude": 49.609393,
+      "longitude": 15.914053
+    },
+    {
+      "name": "Veterinární ordinace pro malá zvířata",
+      "latitude": 48.806138,
+      "longitude": 14.312393
+    },
+    {
+      "name": "Veterinární ordinace pro psy, kočky a exoty",
+      "latitude": 48.822193,
+      "longitude": 14.32726
+    },
+    {
+      "name": "Veterinární ordinace Rakovník-VETORA",
+      "latitude": 50.099054,
+      "longitude": 13.753169
+    },
+    {
+      "name": "Veterinární ordinace Salvus",
+      "latitude": 50.48166,
+      "longitude": 14.936868
+    },
+    {
+      "name": "Veterinární ordinace Seman",
+      "latitude": 49.206307,
+      "longitude": 16.658087
+    },
+    {
+      "name": "Veterinární ordinace Svibice",
+      "latitude": 49.731145,
+      "longitude": 18.61566
+    },
+    {
+      "name": "Veterinární ordinace U Gymnázia",
+      "latitude": 50.044871,
+      "longitude": 14.491579
+    },
+    {
+      "name": "Veterinární ordinace Vinice - Plzeň",
+      "latitude": 49.762969,
+      "longitude": 13.350083
+    },
+    {
+      "name": "Veterinární ordinace XENOPUS",
+      "latitude": 49.283889,
+      "longitude": 16.569037
+    },
+    {
+      "name": "Veterinární ordinace Červený Vrch",
+      "latitude": 50.096738,
+      "longitude": 14.346667
+    },
+    {
+      "name": "Veterinární ošetrřovna Třebeš",
+      "latitude": 50.192904,
+      "longitude": 15.834301
+    },
+    {
+      "name": "Veterinární ošetřovna",
+      "latitude": 48.806842,
+      "longitude": 14.32648
+    },
+    {
+      "name": "Veterinární ošetřovna",
+      "latitude": 49.693141,
+      "longitude": 15.273407
+    },
+    {
+      "name": "Veterinární ošetřovna",
+      "latitude": 50.125504,
+      "longitude": 14.572493
+    },
+    {
+      "name": "Veterinární ošetřovna Nusle s.r.o.",
+      "latitude": 50.061414,
+      "longitude": 14.445241
+    },
+    {
+      "name": "Veterinární poliklinika",
+      "latitude": 50.077343,
+      "longitude": 14.454869
+    },
+    {
+      "name": "Veterinární praxe FRYVET",
+      "latitude": 50.921704,
+      "longitude": 15.082342
+    },
+    {
+      "name": "Veterinární praxe velkých a malých zvířat MVDr. Ing. Josef Bubeníček CSc.",
+      "latitude": 49.211158,
+      "longitude": 16.698489
+    },
+    {
+      "name": "Veterinární správa",
+      "latitude": 50.142522,
+      "longitude": 14.107786
+    },
+    {
+      "name": "Veterinární stanice",
+      "latitude": 49.943129,
+      "longitude": 18.257517
+    },
+    {
+      "name": "Veterinární stanice Maxián",
+      "latitude": 49.210603,
+      "longitude": 16.803248
+    },
+    {
+      "name": "VETERINÁRNÍ STŘEDISKO MĚSTO ŽANDOV",
+      "latitude": 50.713526,
+      "longitude": 14.396171
+    },
+    {
+      "name": "Veterinárí ordinace Petra",
+      "latitude": 50.035027,
+      "longitude": 14.231359
+    },
+    {
+      "name": "Veterinář",
+      "latitude": 49.664444,
+      "longitude": 18.687109
+    },
+    {
+      "name": "Veterinář",
+      "latitude": 49.780153,
+      "longitude": 14.69075
+    },
+    {
+      "name": "Veterinář",
+      "latitude": 50.520516,
+      "longitude": 14.974111
+    },
+    {
+      "name": "Veterirání ordinace",
+      "latitude": 49.949267,
+      "longitude": 16.154191
+    },
+    {
+      "name": "Veterix",
+      "latitude": 49.472651,
+      "longitude": 17.124848
+    },
+    {
+      "name": "Veterninární klinika Animal",
+      "latitude": 49.299216,
+      "longitude": 16.5365
+    },
+    {
+      "name": "Veterniární ordinace MVDr. Mičkalová",
+      "latitude": 49.600075,
+      "longitude": 15.569755
+    },
+    {
+      "name": "Vetino Jaggy Praha",
+      "latitude": 50.073882,
+      "longitude": 14.304773
+    },
+    {
+      "name": "VetLife",
+      "latitude": 50.168438,
+      "longitude": 14.107318
+    },
+    {
+      "name": "VETMANIE",
+      "latitude": 49.667352,
+      "longitude": 18.350165
+    },
+    {
+      "name": "Vetmedical s.r.o.",
+      "latitude": 49.446398,
+      "longitude": 17.457176
+    },
+    {
+      "name": "Vetmedika",
+      "latitude": 49.878742,
+      "longitude": 15.059072
+    },
+    {
+      "name": "Vetnac",
+      "latitude": 50.732804,
+      "longitude": 15.165478
+    },
+    {
+      "name": "Vetpark",
+      "latitude": 49.84904,
+      "longitude": 18.288678
+    },
+    {
+      "name": "VetPark",
+      "latitude": 50.18376,
+      "longitude": 14.658291
+    },
+    {
+      "name": "VetPol",
+      "latitude": 49.334604,
+      "longitude": 17.578671
+    },
+    {
+      "name": "VetPro",
+      "latitude": 50.078669,
+      "longitude": 14.424096
+    },
+    {
+      "name": "VetVin",
+      "latitude": 50.069993,
+      "longitude": 14.434746
+    },
+    {
+      "name": "VFU",
+      "latitude": 49.218298,
+      "longitude": 16.595215
+    },
+    {
+      "name": "ViaVet",
+      "latitude": 50.124269,
+      "longitude": 14.489647
+    },
+    {
+      "name": "Výuková veterinární ambulance",
+      "latitude": 50.12938,
+      "longitude": 14.371748
+    },
+    {
+      "name": "Výzkumný ústav veterinárního lékařství",
+      "latitude": 49.237435,
+      "longitude": 16.577807
+    },
+    {
+      "name": "V​et-apso",
+      "latitude": 50.081643,
+      "longitude": 14.258736
+    },
+    {
+      "name": "Wellpet",
+      "latitude": 50.100081,
+      "longitude": 14.397878
+    },
+    {
+      "name": "www.simonikova.cz",
+      "latitude": 49.842757,
+      "longitude": 18.334491
+    },
+    {
+      "name": "ZooVET",
+      "latitude": 50.184198,
+      "longitude": 15.827331
+    },
+    {
+      "name": "Zuzka",
+      "latitude": 49.371465,
+      "longitude": 17.11333
+    },
+    {
+      "name": "Zverex \"U hada\"",
+      "latitude": 48.804707,
+      "longitude": 14.310002
+    },
+    {
+      "name": "Zvíře+",
+      "latitude": 49.218591,
+      "longitude": 16.62675
+    },
+    {
+      "name": "Ústav pro státní kontrolu veterinárních biopreparátů a léčiv",
+      "latitude": 49.237316,
+      "longitude": 16.576054
+    },
+    {
+      "name": "Šerovet",
+      "latitude": 50.320822,
+      "longitude": 12.518522
+    },
+    {
+      "name": "Šárka Janásková",
+      "latitude": 49.056676,
+      "longitude": 13.778929
+    },
+    {
+      "name": "Šárka Staňková",
+      "latitude": 50.283672,
+      "longitude": 15.731736
+    },
+    {
+      "name": "Šárka Vaňková",
+      "latitude": 50.283622,
+      "longitude": 15.731703
+    },
+    {
+      "name": "Šťastná tlapka",
+      "latitude": 50.099128,
+      "longitude": 14.434303
+    }
+  ],
+  "meta": {
+    "title": "České veterinární ordinace - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných veterinárních ordinací v Česku (amenity=veterinary) z OpenStreetMap. Obsahuje 382 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "České veterinární ordinace | ListBase",
+    "seo_description": "Stáhnout České veterinární ordinace — 382 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 382 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

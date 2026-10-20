@@ -1,0 +1,176 @@
+{
+  "id": "cs-jednotky-digital",
+  "name": "Měrné jednotky: digital (11)",
+  "title": "Měrné jednotky: digital (11)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'digital'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategorie": "digital",
+      "nazev": "bity",
+      "vzor_jednotne": "{0} bit",
+      "vzor_mnozne": "{0} bitů",
+      "kratky_vzor": "{0} b",
+      "uzky_vzor": "{0} b"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategorie": "digital",
+      "nazev": "bajty",
+      "vzor_jednotne": "{0} bajt",
+      "vzor_mnozne": "{0} bajtů",
+      "kratky_vzor": "{0} B",
+      "uzky_vzor": "{0} B"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategorie": "digital",
+      "nazev": "gigabity",
+      "vzor_jednotne": "{0} gigabit",
+      "vzor_mnozne": "{0} gigabitů",
+      "kratky_vzor": "{0} Gb",
+      "uzky_vzor": "{0} Gb"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategorie": "digital",
+      "nazev": "gigabajty",
+      "vzor_jednotne": "{0} gigabajt",
+      "vzor_mnozne": "{0} gigabajtů",
+      "kratky_vzor": "{0} GB",
+      "uzky_vzor": "{0} GB"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategorie": "digital",
+      "nazev": "kilobity",
+      "vzor_jednotne": "{0} kilobit",
+      "vzor_mnozne": "{0} kilobitů",
+      "kratky_vzor": "{0} kb",
+      "uzky_vzor": "{0} kb"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategorie": "digital",
+      "nazev": "kilobajty",
+      "vzor_jednotne": "{0} kilobajt",
+      "vzor_mnozne": "{0} kilobajtů",
+      "kratky_vzor": "{0} kB",
+      "uzky_vzor": "{0} kB"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategorie": "digital",
+      "nazev": "megabity",
+      "vzor_jednotne": "{0} megabit",
+      "vzor_mnozne": "{0} megabitů",
+      "kratky_vzor": "{0} Mb",
+      "uzky_vzor": "{0} Mb"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategorie": "digital",
+      "nazev": "megabajty",
+      "vzor_jednotne": "{0} megabajt",
+      "vzor_mnozne": "{0} megabajtů",
+      "kratky_vzor": "{0} MB",
+      "uzky_vzor": "{0} MB"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategorie": "digital",
+      "nazev": "petabajty",
+      "vzor_jednotne": "{0} petabajt",
+      "vzor_mnozne": "{0} petabajtů",
+      "kratky_vzor": "{0} PB",
+      "uzky_vzor": "{0} PB"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategorie": "digital",
+      "nazev": "terabity",
+      "vzor_jednotne": "{0} terabit",
+      "vzor_mnozne": "{0} terabitů",
+      "kratky_vzor": "{0} Tb",
+      "uzky_vzor": "{0} Tb"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategorie": "digital",
+      "nazev": "terabajty",
+      "vzor_jednotne": "{0} terabajt",
+      "vzor_mnozne": "{0} terabajtů",
+      "kratky_vzor": "{0} TB",
+      "uzky_vzor": "{0} TB"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: digital (11) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'digital'. Obsahuje 11 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: digital (11) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: digital (11) — 11 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 11 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

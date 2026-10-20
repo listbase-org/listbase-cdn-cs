@@ -1,0 +1,2081 @@
+{
+  "id": "cs-hostely",
+  "name": "Hostely",
+  "title": "Hostely",
+  "description": "Seznam pojmenovaných hostelů v České republice (408 záznamů) — body zájmu z OpenStreetMap (tag tourism=hostel), výřez EU-POIS/CZ.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 408,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "KiEZ „An der Grenzbaude“",
+      "latitude": 50.96852,
+      "longitude": 14.281906
+    },
+    {
+      "name": "Apartmány Petra",
+      "latitude": 50.867534,
+      "longitude": 14.299083
+    },
+    {
+      "name": "Bidrmanovi",
+      "latitude": 50.906615,
+      "longitude": 14.646551
+    },
+    {
+      "name": "Hostel Děčín",
+      "latitude": 50.77429,
+      "longitude": 14.200549
+    },
+    {
+      "name": "Turistická ubytovna",
+      "latitude": 50.800661,
+      "longitude": 14.430503
+    },
+    {
+      "name": "Inter Hostel Liberec",
+      "latitude": 50.768973,
+      "longitude": 15.084876
+    },
+    {
+      "name": "U Nádraží",
+      "latitude": 50.759981,
+      "longitude": 15.04596
+    },
+    {
+      "name": "Pleštil",
+      "latitude": 50.762826,
+      "longitude": 15.03733
+    },
+    {
+      "name": "Stará pila",
+      "latitude": 50.819901,
+      "longitude": 15.347521
+    },
+    {
+      "name": "BAJAMA",
+      "latitude": 50.786572,
+      "longitude": 15.156208
+    },
+    {
+      "name": "Horska Chata U Slunce",
+      "latitude": 50.773156,
+      "longitude": 15.363482
+    },
+    {
+      "name": "chata v zákoutí",
+      "latitude": 50.77407,
+      "longitude": 15.435469
+    },
+    {
+      "name": "Jugendherberge Klingenthal",
+      "latitude": 50.38997,
+      "longitude": 12.506417
+    },
+    {
+      "name": "Klügelhütte",
+      "latitude": 50.734104,
+      "longitude": 13.754243
+    },
+    {
+      "name": "CMYK hostel",
+      "latitude": 50.66135,
+      "longitude": 14.038461
+    },
+    {
+      "name": "Ubytovna u Teplárny",
+      "latitude": 50.644964,
+      "longitude": 13.992339
+    },
+    {
+      "name": "ubytování a jídelna DTS Vrbenský",
+      "latitude": 50.526122,
+      "longitude": 13.591372
+    },
+    {
+      "name": "Jugendherberge Johanngeorgenstadt",
+      "latitude": 50.422905,
+      "longitude": 12.727426
+    },
+    {
+      "name": "Mezi Jeleny",
+      "latitude": 50.396083,
+      "longitude": 12.675697
+    },
+    {
+      "name": "Penzion Florian",
+      "latitude": 50.389176,
+      "longitude": 12.76994
+    },
+    {
+      "name": "Horská Chata Lesanka",
+      "latitude": 50.355359,
+      "longitude": 12.89089
+    },
+    {
+      "name": "Ubytovna VLNAP",
+      "latitude": 50.321206,
+      "longitude": 12.726157
+    },
+    {
+      "name": "Penzion Blatno",
+      "latitude": 50.51194,
+      "longitude": 13.359988
+    },
+    {
+      "name": "Wartberg",
+      "latitude": 50.177568,
+      "longitude": 12.198671
+    },
+    {
+      "name": "LibaCamp",
+      "latitude": 50.110315,
+      "longitude": 12.228258
+    },
+    {
+      "name": "Bukovany u Sokolova",
+      "latitude": 50.162993,
+      "longitude": 12.57679
+    },
+    {
+      "name": "Hostel",
+      "latitude": 50.079258,
+      "longitude": 12.368734
+    },
+    {
+      "name": "U Mlýna",
+      "latitude": 49.975715,
+      "longitude": 12.596345
+    },
+    {
+      "name": "Penzion 33",
+      "latitude": 50.22433,
+      "longitude": 12.887809
+    },
+    {
+      "name": "Ubytovna vodáků Karlovy Vary",
+      "latitude": 50.231406,
+      "longitude": 12.861531
+    },
+    {
+      "name": "Ubytovna Rakovník",
+      "latitude": 50.100919,
+      "longitude": 13.712203
+    },
+    {
+      "name": "Ubytování HC Rakovník",
+      "latitude": 50.098879,
+      "longitude": 13.740785
+    },
+    {
+      "name": "Hostel Milano",
+      "latitude": 49.967925,
+      "longitude": 12.700783
+    },
+    {
+      "name": "Zámek Nečtiny",
+      "latitude": 49.95903,
+      "longitude": 13.159711
+    },
+    {
+      "name": "Jubilant",
+      "latitude": 49.894105,
+      "longitude": 13.373902
+    },
+    {
+      "name": "Adéla",
+      "latitude": 50.687264,
+      "longitude": 14.527302
+    },
+    {
+      "name": "Skautská základna Mentaurov",
+      "latitude": 50.571356,
+      "longitude": 14.122399
+    },
+    {
+      "name": "Hostel U sv. Štěpána",
+      "latitude": 50.537459,
+      "longitude": 14.127013
+    },
+    {
+      "name": "Sokol",
+      "latitude": 50.539057,
+      "longitude": 14.133273
+    },
+    {
+      "name": "Penzion NECO",
+      "latitude": 50.636883,
+      "longitude": 15.192521
+    },
+    {
+      "name": "Hostinec u Rudy",
+      "latitude": 50.634009,
+      "longitude": 15.229462
+    },
+    {
+      "name": "U Kuby",
+      "latitude": 50.657545,
+      "longitude": 15.373981
+    },
+    {
+      "name": "U Koníčka",
+      "latitude": 50.591808,
+      "longitude": 14.929633
+    },
+    {
+      "name": "Penzion U Kvapilů",
+      "latitude": 50.519068,
+      "longitude": 14.977773
+    },
+    {
+      "name": "Rekreační středisko Příhrazské skály",
+      "latitude": 50.527055,
+      "longitude": 15.07576
+    },
+    {
+      "name": "Penzion U Marušky",
+      "latitude": 50.549945,
+      "longitude": 15.215484
+    },
+    {
+      "name": "Polepšovna",
+      "latitude": 50.525182,
+      "longitude": 15.185027
+    },
+    {
+      "name": "Penzion Vyskeř",
+      "latitude": 50.529745,
+      "longitude": 15.15834
+    },
+    {
+      "name": "Ubytování HS",
+      "latitude": 50.540582,
+      "longitude": 15.198555
+    },
+    {
+      "name": "Penzion Amulet",
+      "latitude": 50.527321,
+      "longitude": 15.220804
+    },
+    {
+      "name": "Ubytovna SK Mšeno",
+      "latitude": 50.435669,
+      "longitude": 14.647574
+    },
+    {
+      "name": "HOSTINEC U TAJCU",
+      "latitude": 50.373376,
+      "longitude": 14.449911
+    },
+    {
+      "name": "Ubytovna Ottas",
+      "latitude": 50.449223,
+      "longitude": 14.915618
+    },
+    {
+      "name": "Ubytovna Na Letišti",
+      "latitude": 50.401799,
+      "longitude": 14.897804
+    },
+    {
+      "name": "Penzion Sukorady",
+      "latitude": 50.42515,
+      "longitude": 15.026773
+    },
+    {
+      "name": "Chata Nebákov",
+      "latitude": 50.502826,
+      "longitude": 15.202654
+    },
+    {
+      "name": "Pestalozza",
+      "latitude": 50.731829,
+      "longitude": 15.610745
+    },
+    {
+      "name": "Sokolovna",
+      "latitude": 50.608208,
+      "longitude": 15.503931
+    },
+    {
+      "name": "Ubytovani Rico",
+      "latitude": 50.618925,
+      "longitude": 15.62066
+    },
+    {
+      "name": "Villa Anna",
+      "latitude": 50.618577,
+      "longitude": 15.709653
+    },
+    {
+      "name": "Tělocvičná jednota Sokol Studenec",
+      "latitude": 50.552434,
+      "longitude": 15.549909
+    },
+    {
+      "name": "Ubytovna TJ Slavoj",
+      "latitude": 50.594465,
+      "longitude": 16.164613
+    },
+    {
+      "name": "Ubytovna Domova mládeže SOŠ OOM",
+      "latitude": 50.535498,
+      "longitude": 16.043774
+    },
+    {
+      "name": "Jaroslav Sláma - Lovecká chata",
+      "latitude": 50.500768,
+      "longitude": 15.532619
+    },
+    {
+      "name": "Art Hostel",
+      "latitude": 50.431691,
+      "longitude": 15.813252
+    },
+    {
+      "name": "Ubytovani chatky",
+      "latitude": 50.382961,
+      "longitude": 15.640238
+    },
+    {
+      "name": "Au Room",
+      "latitude": 50.440026,
+      "longitude": 16.874881
+    },
+    {
+      "name": "Absolwent",
+      "latitude": 50.336687,
+      "longitude": 16.388183
+    },
+    {
+      "name": "Chata Zieleniecka",
+      "latitude": 50.338175,
+      "longitude": 16.388722
+    },
+    {
+      "name": "Widok",
+      "latitude": 50.338405,
+      "longitude": 16.388107
+    },
+    {
+      "name": "Regle",
+      "latitude": 50.336424,
+      "longitude": 16.387204
+    },
+    {
+      "name": "turistická ubytovna K.Č.T.",
+      "latitude": 50.255161,
+      "longitude": 14.307893
+    },
+    {
+      "name": "Ubytování Na Lanďáku",
+      "latitude": 50.235058,
+      "longitude": 14.29198
+    },
+    {
+      "name": "ubytovna Viktor",
+      "latitude": 50.246543,
+      "longitude": 14.320011
+    },
+    {
+      "name": "Ubytovna Slaný Trilorn",
+      "latitude": 50.2269,
+      "longitude": 14.099717
+    },
+    {
+      "name": "Allegro",
+      "latitude": 50.17782,
+      "longitude": 14.41056
+    },
+    {
+      "name": "Neralakstav",
+      "latitude": 50.26939,
+      "longitude": 14.507328
+    },
+    {
+      "name": "Turistická ubytovna Centrum",
+      "latitude": 50.145387,
+      "longitude": 14.101142
+    },
+    {
+      "name": "Penzion Oto Plus",
+      "latitude": 50.116433,
+      "longitude": 14.298463
+    },
+    {
+      "name": "Hostel Modra",
+      "latitude": 50.097814,
+      "longitude": 14.291472
+    },
+    {
+      "name": "Spartakiáda",
+      "latitude": 50.099208,
+      "longitude": 14.337298
+    },
+    {
+      "name": "Dakura",
+      "latitude": 50.099331,
+      "longitude": 14.400968
+    },
+    {
+      "name": "SK Aritma Praha",
+      "latitude": 50.098287,
+      "longitude": 14.340883
+    },
+    {
+      "name": "Fontána",
+      "latitude": 50.099516,
+      "longitude": 14.399853
+    },
+    {
+      "name": "Bubenečská kolej",
+      "latitude": 50.105381,
+      "longitude": 14.39761
+    },
+    {
+      "name": "Sporthostel Scandinavia",
+      "latitude": 50.082037,
+      "longitude": 14.308095
+    },
+    {
+      "name": "Arpacay Backpackers",
+      "latitude": 50.088617,
+      "longitude": 14.39796
+    },
+    {
+      "name": "Onefam Arbes Hostel Prague",
+      "latitude": 50.076147,
+      "longitude": 14.404659
+    },
+    {
+      "name": "PrahaJoa Guesthouse",
+      "latitude": 50.065999,
+      "longitude": 14.402912
+    },
+    {
+      "name": "Hostel Santini Prague",
+      "latitude": 50.088662,
+      "longitude": 14.401059
+    },
+    {
+      "name": "ubytovací zařízení Akademie můzických umění",
+      "latitude": 50.087498,
+      "longitude": 14.401566
+    },
+    {
+      "name": "Klamovka",
+      "latitude": 50.069888,
+      "longitude": 14.379616
+    },
+    {
+      "name": "Charles Bridge Economic Hostel",
+      "latitude": 50.087327,
+      "longitude": 14.406597
+    },
+    {
+      "name": "U Zlaté růže",
+      "latitude": 50.088977,
+      "longitude": 14.401096
+    },
+    {
+      "name": "Little Quarter",
+      "latitude": 50.088392,
+      "longitude": 14.399364
+    },
+    {
+      "name": "Mango",
+      "latitude": 50.087793,
+      "longitude": 14.407824
+    },
+    {
+      "name": "Adam&Eva",
+      "latitude": 50.079223,
+      "longitude": 14.407181
+    },
+    {
+      "name": "Hostel Herzog",
+      "latitude": 50.16714,
+      "longitude": 14.448008
+    },
+    {
+      "name": "Hostel Praha Ládví",
+      "latitude": 50.126642,
+      "longitude": 14.473177
+    },
+    {
+      "name": "Plus Prague",
+      "latitude": 50.109375,
+      "longitude": 14.451283
+    },
+    {
+      "name": "Sir Toby's",
+      "latitude": 50.103123,
+      "longitude": 14.448093
+    },
+    {
+      "name": "Spoas",
+      "latitude": 50.110444,
+      "longitude": 14.447884
+    },
+    {
+      "name": "A1 Hotel",
+      "latitude": 50.103413,
+      "longitude": 14.479458
+    },
+    {
+      "name": "Hostel",
+      "latitude": 50.093914,
+      "longitude": 14.448474
+    },
+    {
+      "name": "Ubytovna Holešovice",
+      "latitude": 50.10338,
+      "longitude": 14.44409
+    },
+    {
+      "name": "Ubytovna U Svobodárny",
+      "latitude": 50.105989,
+      "longitude": 14.489234
+    },
+    {
+      "name": "Apartments Rokoska",
+      "latitude": 50.117295,
+      "longitude": 14.448277
+    },
+    {
+      "name": "Hostel Seven",
+      "latitude": 50.11161,
+      "longitude": 14.451183
+    },
+    {
+      "name": "Siesta",
+      "latitude": 50.098242,
+      "longitude": 14.505368
+    },
+    {
+      "name": "Hostel Kolbenka",
+      "latitude": 50.110893,
+      "longitude": 14.513031
+    },
+    {
+      "name": "Ubytovna Areál Hloubětín",
+      "latitude": 50.107383,
+      "longitude": 14.544969
+    },
+    {
+      "name": "Onefam Míru Hostel Prague",
+      "latitude": 50.075968,
+      "longitude": 14.437916
+    },
+    {
+      "name": "Hostel Orange",
+      "latitude": 50.082908,
+      "longitude": 14.424911
+    },
+    {
+      "name": "Atlas Hostel",
+      "latitude": 50.078544,
+      "longitude": 14.426796
+    },
+    {
+      "name": "Wellness Rooms Central",
+      "latitude": 50.079053,
+      "longitude": 14.427012
+    },
+    {
+      "name": "Pension Luna",
+      "latitude": 50.089915,
+      "longitude": 14.478089
+    },
+    {
+      "name": "Chilli",
+      "latitude": 50.078267,
+      "longitude": 14.415994
+    },
+    {
+      "name": "Prague Central Camp",
+      "latitude": 50.092118,
+      "longitude": 14.473315
+    },
+    {
+      "name": "Hostel Elf",
+      "latitude": 50.087042,
+      "longitude": 14.445813
+    },
+    {
+      "name": "Hostel Bridge",
+      "latitude": 50.085881,
+      "longitude": 14.415309
+    },
+    {
+      "name": "Pension 15",
+      "latitude": 50.083267,
+      "longitude": 14.445538
+    },
+    {
+      "name": "Hostel Centre",
+      "latitude": 50.07482,
+      "longitude": 14.428762
+    },
+    {
+      "name": "Pension Beta",
+      "latitude": 50.064942,
+      "longitude": 14.430563
+    },
+    {
+      "name": "Traveller's Hostel",
+      "latitude": 50.090723,
+      "longitude": 14.425928
+    },
+    {
+      "name": "Sophie's Hostel",
+      "latitude": 50.075142,
+      "longitude": 14.427103
+    },
+    {
+      "name": "Hostel One Prague",
+      "latitude": 50.085046,
+      "longitude": 14.449512
+    },
+    {
+      "name": "Hostel Advantage",
+      "latitude": 50.073462,
+      "longitude": 14.428971
+    },
+    {
+      "name": "Hostel Marabou",
+      "latitude": 50.088845,
+      "longitude": 14.460339
+    },
+    {
+      "name": "Downtown",
+      "latitude": 50.08209,
+      "longitude": 14.417315
+    },
+    {
+      "name": "Le Papillon",
+      "latitude": 50.079863,
+      "longitude": 14.42201
+    },
+    {
+      "name": "Garni Hotel Ronni",
+      "latitude": 50.068368,
+      "longitude": 14.450607
+    },
+    {
+      "name": "Ragtime hostel",
+      "latitude": 50.080288,
+      "longitude": 14.418371
+    },
+    {
+      "name": "Davids Apartments",
+      "latitude": 50.090361,
+      "longitude": 14.440565
+    },
+    {
+      "name": "Clown & Bard Hostel",
+      "latitude": 50.082649,
+      "longitude": 14.446691
+    },
+    {
+      "name": "Hostel Florenc",
+      "latitude": 50.088736,
+      "longitude": 14.442555
+    },
+    {
+      "name": "Hostel Jednota",
+      "latitude": 50.0867,
+      "longitude": 14.435321
+    },
+    {
+      "name": "Apartments Jeruzalemská",
+      "latitude": 50.08408,
+      "longitude": 14.432399
+    },
+    {
+      "name": "Boudnik Hostel",
+      "latitude": 50.086024,
+      "longitude": 14.448978
+    },
+    {
+      "name": "Hostel Franz Kafka",
+      "latitude": 50.088078,
+      "longitude": 14.418696
+    },
+    {
+      "name": "The Madhouse Hostel",
+      "latitude": 50.081033,
+      "longitude": 14.419451
+    },
+    {
+      "name": "U Bubeníčků",
+      "latitude": 50.077246,
+      "longitude": 14.415785
+    },
+    {
+      "name": "Mojo Inn Hostel",
+      "latitude": 50.078091,
+      "longitude": 14.423694
+    },
+    {
+      "name": "Miss Sophie's New Town & Wellness",
+      "latitude": 50.075235,
+      "longitude": 14.426842
+    },
+    {
+      "name": "Prague Square Hostel",
+      "latitude": 50.085657,
+      "longitude": 14.420989
+    },
+    {
+      "name": "Artharmony Hostel",
+      "latitude": 50.075137,
+      "longitude": 14.423252
+    },
+    {
+      "name": "Prague Centre Apartments",
+      "latitude": 50.077708,
+      "longitude": 14.418488
+    },
+    {
+      "name": "Hostel Ananas",
+      "latitude": 50.084345,
+      "longitude": 14.424469
+    },
+    {
+      "name": "U Svaté Ludmily",
+      "latitude": 50.074825,
+      "longitude": 14.437935
+    },
+    {
+      "name": "A Plus Hostel",
+      "latitude": 50.083574,
+      "longitude": 14.426846
+    },
+    {
+      "name": "Safestay Hostel",
+      "latitude": 50.080781,
+      "longitude": 14.417902
+    },
+    {
+      "name": "Post Hostel",
+      "latitude": 50.074598,
+      "longitude": 14.442765
+    },
+    {
+      "name": "Hostel Daniela",
+      "latitude": 50.079797,
+      "longitude": 14.422012
+    },
+    {
+      "name": "Ahoy! Hostel",
+      "latitude": 50.083294,
+      "longitude": 14.418863
+    },
+    {
+      "name": "Czech Inn",
+      "latitude": 50.071814,
+      "longitude": 14.446414
+    },
+    {
+      "name": "Onefam Home Hostel Prague",
+      "latitude": 50.087109,
+      "longitude": 14.433559
+    },
+    {
+      "name": "Hostel Prague Tyn",
+      "latitude": 50.088918,
+      "longitude": 14.423473
+    },
+    {
+      "name": "Old Prague House",
+      "latitude": 50.08445,
+      "longitude": 14.415802
+    },
+    {
+      "name": "cartas",
+      "latitude": 50.091815,
+      "longitude": 14.441138
+    },
+    {
+      "name": "Prague Hostel Cathedral",
+      "latitude": 50.074267,
+      "longitude": 14.437522
+    },
+    {
+      "name": "A Plus Hostel",
+      "latitude": 50.090121,
+      "longitude": 14.437062
+    },
+    {
+      "name": "Sir Toby's Midtown",
+      "latitude": 50.086062,
+      "longitude": 14.449597
+    },
+    {
+      "name": "Jump In",
+      "latitude": 50.086005,
+      "longitude": 14.450071
+    },
+    {
+      "name": "Residence Tabor",
+      "latitude": 50.083651,
+      "longitude": 14.453669
+    },
+    {
+      "name": "The RoadHouse Prague",
+      "latitude": 50.084413,
+      "longitude": 14.414479
+    },
+    {
+      "name": "Dream Hostel Prague",
+      "latitude": 50.079358,
+      "longitude": 14.427135
+    },
+    {
+      "name": "Capsule Hostel Prague",
+      "latitude": 50.078942,
+      "longitude": 14.435219
+    },
+    {
+      "name": "Brix Bar & Hostel",
+      "latitude": 50.086752,
+      "longitude": 14.454622
+    },
+    {
+      "name": "Luma Terra",
+      "latitude": 50.076274,
+      "longitude": 14.430474
+    },
+    {
+      "name": "Onefam Old Town Hostel Prague",
+      "latitude": 50.08202,
+      "longitude": 14.417069
+    },
+    {
+      "name": "The Clock Inn",
+      "latitude": 50.078702,
+      "longitude": 14.419359
+    },
+    {
+      "name": "Hostel Emma",
+      "latitude": 50.077195,
+      "longitude": 14.416677
+    },
+    {
+      "name": "Travek&Joy",
+      "latitude": 50.079274,
+      "longitude": 14.419454
+    },
+    {
+      "name": "Bonvolon",
+      "latitude": 50.079723,
+      "longitude": 14.422014
+    },
+    {
+      "name": "Hostel Mandarinka",
+      "latitude": 50.08097,
+      "longitude": 14.430499
+    },
+    {
+      "name": "Drunken Monkey Hostel",
+      "latitude": 50.088736,
+      "longitude": 14.442543
+    },
+    {
+      "name": "Benedikt City Center Hostel",
+      "latitude": 50.089592,
+      "longitude": 14.426348
+    },
+    {
+      "name": "Hotel NED HOCKEY",
+      "latitude": 50.182765,
+      "longitude": 15.03543
+    },
+    {
+      "name": "Hostel Alia",
+      "latitude": 50.062482,
+      "longitude": 14.442772
+    },
+    {
+      "name": "Hostel Milánská",
+      "latitude": 50.039575,
+      "longitude": 14.551777
+    },
+    {
+      "name": "Sazava dormitory",
+      "latitude": 50.020378,
+      "longitude": 14.495047
+    },
+    {
+      "name": "KOFI",
+      "latitude": 50.025331,
+      "longitude": 15.198876
+    },
+    {
+      "name": "Ubytovna Odeta Kolín",
+      "latitude": 50.016694,
+      "longitude": 15.217284
+    },
+    {
+      "name": "Penzion Parkur",
+      "latitude": 50.102534,
+      "longitude": 15.783777
+    },
+    {
+      "name": "Ubytovna Realka",
+      "latitude": 50.174673,
+      "longitude": 15.863102
+    },
+    {
+      "name": "U Adama",
+      "latitude": 50.164896,
+      "longitude": 16.464455
+    },
+    {
+      "name": "U Medvěda",
+      "latitude": 50.165,
+      "longitude": 16.463749
+    },
+    {
+      "name": "Ubytování U Splavu",
+      "latitude": 50.085239,
+      "longitude": 16.30575
+    },
+    {
+      "name": "Gościniec uDany",
+      "latitude": 50.164908,
+      "longitude": 16.561597
+    },
+    {
+      "name": "Chata Marcelka",
+      "latitude": 50.151907,
+      "longitude": 16.815496
+    },
+    {
+      "name": "Chata Slaměnka",
+      "latitude": 50.150938,
+      "longitude": 16.832617
+    },
+    {
+      "name": "Chata U Slona",
+      "latitude": 50.14253,
+      "longitude": 16.808154
+    },
+    {
+      "name": "Ubytování v Pardubicích",
+      "latitude": 50.031941,
+      "longitude": 15.789712
+    },
+    {
+      "name": "Ubytovna",
+      "latitude": 50.027141,
+      "longitude": 15.75919
+    },
+    {
+      "name": "Turistická ubytovna města Třemošnice",
+      "latitude": 49.866362,
+      "longitude": 15.573067
+    },
+    {
+      "name": "Otmarka",
+      "latitude": 50.064094,
+      "longitude": 16.622197
+    },
+    {
+      "name": "Unas Doma",
+      "latitude": 50.035379,
+      "longitude": 16.685985
+    },
+    {
+      "name": "Fafa Penzion",
+      "latitude": 49.67395,
+      "longitude": 12.597896
+    },
+    {
+      "name": "Kolej Šafránkův pavilon",
+      "latitude": 49.768115,
+      "longitude": 13.367253
+    },
+    {
+      "name": "Turistická ubytovna",
+      "latitude": 49.733422,
+      "longitude": 13.760792
+    },
+    {
+      "name": "Turistická ubytovna TJ Sokol Dobřív",
+      "latitude": 49.715495,
+      "longitude": 13.692317
+    },
+    {
+      "name": "Ubytovna Promabyt",
+      "latitude": 49.70995,
+      "longitude": 13.648682
+    },
+    {
+      "name": "Ubytovna Promabyt",
+      "latitude": 49.710164,
+      "longitude": 13.649389
+    },
+    {
+      "name": "Campus Dobřív",
+      "latitude": 49.710994,
+      "longitude": 13.683529
+    },
+    {
+      "name": "Výletní hostinec Na poustevně",
+      "latitude": 49.459966,
+      "longitude": 13.162525
+    },
+    {
+      "name": "Švihovský dvůr",
+      "latitude": 49.480809,
+      "longitude": 13.285939
+    },
+    {
+      "name": "Panský dům",
+      "latitude": 49.602778,
+      "longitude": 13.863825
+    },
+    {
+      "name": "U stadionu",
+      "latitude": 49.604013,
+      "longitude": 13.872709
+    },
+    {
+      "name": "Ubytování Žinkovy U Zlatého jelena",
+      "latitude": 49.484384,
+      "longitude": 13.491893
+    },
+    {
+      "name": "Resort Šumava Javorná",
+      "latitude": 49.218199,
+      "longitude": 13.307875
+    },
+    {
+      "name": "Junák - český skaut",
+      "latitude": 49.322509,
+      "longitude": 13.694515
+    },
+    {
+      "name": "Pavel Mráz - Pension Hanka",
+      "latitude": 49.249847,
+      "longitude": 13.91299
+    },
+    {
+      "name": "Chata U Jakuba",
+      "latitude": 49.10506,
+      "longitude": 13.380107
+    },
+    {
+      "name": "Fram",
+      "latitude": 49.026647,
+      "longitude": 13.5147
+    },
+    {
+      "name": "Rekreační středisko",
+      "latitude": 49.018786,
+      "longitude": 13.579135
+    },
+    {
+      "name": "Ubytovna Lovecká chata",
+      "latitude": 49.019673,
+      "longitude": 13.579455
+    },
+    {
+      "name": "Chata U krtka",
+      "latitude": 49.037683,
+      "longitude": 13.637451
+    },
+    {
+      "name": "Ubytování Netvořice",
+      "latitude": 49.817762,
+      "longitude": 14.517671
+    },
+    {
+      "name": "Majka am See",
+      "latitude": 49.765892,
+      "longitude": 14.653209
+    },
+    {
+      "name": "Turistická ubytovna",
+      "latitude": 49.658746,
+      "longitude": 14.428981
+    },
+    {
+      "name": "Turistická ubytovna",
+      "latitude": 49.652388,
+      "longitude": 14.430628
+    },
+    {
+      "name": "Penzion U Hastrmana",
+      "latitude": 49.439726,
+      "longitude": 14.142841
+    },
+    {
+      "name": "Niagara",
+      "latitude": 49.417093,
+      "longitude": 14.66287
+    },
+    {
+      "name": "Stárkův dům",
+      "latitude": 49.41367,
+      "longitude": 14.659921
+    },
+    {
+      "name": "Bolzano",
+      "latitude": 49.412958,
+      "longitude": 14.660766
+    },
+    {
+      "name": "Ubytování Tábor",
+      "latitude": 49.409949,
+      "longitude": 14.67508
+    },
+    {
+      "name": "Ubytovna",
+      "latitude": 49.40812,
+      "longitude": 14.689533
+    },
+    {
+      "name": "Turistická ubytovna Vranice",
+      "latitude": 49.827541,
+      "longitude": 16.14881
+    },
+    {
+      "name": "Ubytovna Na rychtě",
+      "latitude": 49.82853,
+      "longitude": 16.637635
+    },
+    {
+      "name": "Cykloubytovna",
+      "latitude": 49.655097,
+      "longitude": 16.331548
+    },
+    {
+      "name": "U Sedláka",
+      "latitude": 49.655205,
+      "longitude": 16.819303
+    },
+    {
+      "name": "Ariány",
+      "latitude": 49.603435,
+      "longitude": 15.580299
+    },
+    {
+      "name": "Turistická chata Sklené",
+      "latitude": 49.610339,
+      "longitude": 16.0083
+    },
+    {
+      "name": "Turistická ubytovna Bory",
+      "latitude": 49.428894,
+      "longitude": 16.027422
+    },
+    {
+      "name": "Fara Bedřichov",
+      "latitude": 49.462349,
+      "longitude": 16.466973
+    },
+    {
+      "name": "Penzion U Petra",
+      "latitude": 49.481313,
+      "longitude": 16.76841
+    },
+    {
+      "name": "Ubytovna FK Rájec-Jestřebí",
+      "latitude": 49.405968,
+      "longitude": 16.636828
+    },
+    {
+      "name": "Zámecký penzion",
+      "latitude": 49.22447,
+      "longitude": 14.421307
+    },
+    {
+      "name": "Blanice",
+      "latitude": 49.224799,
+      "longitude": 14.426875
+    },
+    {
+      "name": "Ubytování U Lávky",
+      "latitude": 49.189781,
+      "longitude": 14.704743
+    },
+    {
+      "name": "Ubytovna",
+      "latitude": 49.192678,
+      "longitude": 14.716326
+    },
+    {
+      "name": "U Tatara",
+      "latitude": 49.372314,
+      "longitude": 15.436126
+    },
+    {
+      "name": "Baronova hájovnaPe",
+      "latitude": 49.323091,
+      "longitude": 15.150335
+    },
+    {
+      "name": "Chalupa Na Vejhonu",
+      "latitude": 49.24561,
+      "longitude": 14.901029
+    },
+    {
+      "name": "Modrá Kotva",
+      "latitude": 49.187366,
+      "longitude": 15.376367
+    },
+    {
+      "name": "Ubytování na faře",
+      "latitude": 49.183588,
+      "longitude": 15.453867
+    },
+    {
+      "name": "Hostel Hluboká",
+      "latitude": 49.042828,
+      "longitude": 14.44316
+    },
+    {
+      "name": "Matějka",
+      "latitude": 49.006754,
+      "longitude": 14.758076
+    },
+    {
+      "name": "Café Hostel",
+      "latitude": 48.977048,
+      "longitude": 14.471894
+    },
+    {
+      "name": "Hostel Cuba",
+      "latitude": 48.977476,
+      "longitude": 14.479985
+    },
+    {
+      "name": "Centrum Česká Kanada",
+      "latitude": 49.111063,
+      "longitude": 15.193662
+    },
+    {
+      "name": "Ubytování na faře",
+      "latitude": 49.140435,
+      "longitude": 15.335819
+    },
+    {
+      "name": "Chaloupky",
+      "latitude": 49.268936,
+      "longitude": 15.703238
+    },
+    {
+      "name": "Hotel Kocour",
+      "latitude": 49.216835,
+      "longitude": 15.876511
+    },
+    {
+      "name": "Ubytovna Koněšín",
+      "latitude": 49.187914,
+      "longitude": 16.042763
+    },
+    {
+      "name": "chata Velkopolský mlýn",
+      "latitude": 49.191175,
+      "longitude": 16.158756
+    },
+    {
+      "name": "Penzion Hájenka",
+      "latitude": 49.171209,
+      "longitude": 16.089486
+    },
+    {
+      "name": "Pension Lesacka",
+      "latitude": 49.287966,
+      "longitude": 16.22695
+    },
+    {
+      "name": "Nostop ubytování",
+      "latitude": 49.289088,
+      "longitude": 16.224578
+    },
+    {
+      "name": "Švýcárna",
+      "latitude": 49.306142,
+      "longitude": 16.67968
+    },
+    {
+      "name": "Zámek Račice",
+      "latitude": 49.275181,
+      "longitude": 16.869087
+    },
+    {
+      "name": "Building cz s.r.o.",
+      "latitude": 49.242754,
+      "longitude": 16.579829
+    },
+    {
+      "name": "AB-Brněnská Ubytovací",
+      "latitude": 49.217991,
+      "longitude": 16.644108
+    },
+    {
+      "name": "Michal Hack",
+      "latitude": 49.218012,
+      "longitude": 16.645163
+    },
+    {
+      "name": "Ubytovny Brno - TRANSPEX",
+      "latitude": 49.217075,
+      "longitude": 16.645042
+    },
+    {
+      "name": "Hostel Mitte",
+      "latitude": 49.19334,
+      "longitude": 16.607926
+    },
+    {
+      "name": "Antik apartments",
+      "latitude": 49.202425,
+      "longitude": 16.595557
+    },
+    {
+      "name": "Hostel Jacob",
+      "latitude": 49.197045,
+      "longitude": 16.608785
+    },
+    {
+      "name": "Hostel Fléda",
+      "latitude": 49.209938,
+      "longitude": 16.603612
+    },
+    {
+      "name": "Hostel u Minoritů",
+      "latitude": 49.193906,
+      "longitude": 16.611058
+    },
+    {
+      "name": "Starobrněnská ubytovna",
+      "latitude": 49.189269,
+      "longitude": 16.599218
+    },
+    {
+      "name": "Hostel Eleven",
+      "latitude": 49.193053,
+      "longitude": 16.60632
+    },
+    {
+      "name": "10-Z",
+      "latitude": 49.193858,
+      "longitude": 16.60443
+    },
+    {
+      "name": "R.C.P.R. - reality, s. r.o.",
+      "latitude": 49.199012,
+      "longitude": 16.622696
+    },
+    {
+      "name": "John Galt",
+      "latitude": 49.194529,
+      "longitude": 16.612719
+    },
+    {
+      "name": "Ubytování Moravan",
+      "latitude": 49.193974,
+      "longitude": 16.624617
+    },
+    {
+      "name": "Ruta 80",
+      "latitude": 49.204274,
+      "longitude": 16.624658
+    },
+    {
+      "name": "ZKL, a.s.",
+      "latitude": 49.199072,
+      "longitude": 16.667091
+    },
+    {
+      "name": "Franz Kafka Spital",
+      "latitude": 49.197584,
+      "longitude": 16.614663
+    },
+    {
+      "name": "Wake Up Wellness Hostel",
+      "latitude": 49.191467,
+      "longitude": 16.615582
+    },
+    {
+      "name": "Máma",
+      "latitude": 49.200745,
+      "longitude": 16.6378
+    },
+    {
+      "name": "Ubytovna Radlas",
+      "latitude": 49.198266,
+      "longitude": 16.624216
+    },
+    {
+      "name": "Ubytovna Stella",
+      "latitude": 49.190443,
+      "longitude": 16.630793
+    },
+    {
+      "name": "Ubytovna Brno",
+      "latitude": 49.175263,
+      "longitude": 16.592356
+    },
+    {
+      "name": "Domek u lesa",
+      "latitude": 48.935632,
+      "longitude": 15.728696
+    },
+    {
+      "name": "Hostel / ubytovna SKR",
+      "latitude": 49.144428,
+      "longitude": 16.873525
+    },
+    {
+      "name": "Turistická ubytovna KČT",
+      "latitude": 50.371657,
+      "longitude": 17.184966
+    },
+    {
+      "name": "Rychlebské stezky - Ubytovna",
+      "latitude": 50.309497,
+      "longitude": 17.154669
+    },
+    {
+      "name": "Radost",
+      "latitude": 50.300339,
+      "longitude": 17.158006
+    },
+    {
+      "name": "Ubytovna Magacína",
+      "latitude": 50.224239,
+      "longitude": 17.095937
+    },
+    {
+      "name": "Poutník",
+      "latitude": 50.228797,
+      "longitude": 17.144318
+    },
+    {
+      "name": "Chata Erlina",
+      "latitude": 50.164688,
+      "longitude": 16.894963
+    },
+    {
+      "name": "Penzion Na Vršku",
+      "latitude": 50.156857,
+      "longitude": 17.004879
+    },
+    {
+      "name": "Korzo",
+      "latitude": 49.963838,
+      "longitude": 16.975719
+    },
+    {
+      "name": "Penzion U Jelena",
+      "latitude": 49.975528,
+      "longitude": 17.075802
+    },
+    {
+      "name": "Penzion u Rotteru",
+      "latitude": 49.976029,
+      "longitude": 17.305168
+    },
+    {
+      "name": "Na nové",
+      "latitude": 49.942316,
+      "longitude": 16.930724
+    },
+    {
+      "name": "Magda Kremserova",
+      "latitude": 49.941603,
+      "longitude": 17.919873
+    },
+    {
+      "name": "House & Garden",
+      "latitude": 49.920637,
+      "longitude": 17.915895
+    },
+    {
+      "name": "Studentská Residence Slezská, a.s.",
+      "latitude": 49.841845,
+      "longitude": 18.32981
+    },
+    {
+      "name": "Koleje Slezká univerzita",
+      "latitude": 49.868192,
+      "longitude": 18.526408
+    },
+    {
+      "name": "Penzion NOVÁ VES",
+      "latitude": 49.681154,
+      "longitude": 17.013873
+    },
+    {
+      "name": "Chata Pod Věží",
+      "latitude": 49.64152,
+      "longitude": 17.369016
+    },
+    {
+      "name": "Ubytovna Domov sester",
+      "latitude": 49.826737,
+      "longitude": 18.161122
+    },
+    {
+      "name": "Ubytovna Nerudova 23",
+      "latitude": 49.810801,
+      "longitude": 18.267255
+    },
+    {
+      "name": "Ubytovací středisko Výstavní",
+      "latitude": 49.825863,
+      "longitude": 18.265214
+    },
+    {
+      "name": "Ubytovna Laguna",
+      "latitude": 49.834631,
+      "longitude": 18.251359
+    },
+    {
+      "name": "Ubytovna Stars",
+      "latitude": 49.834319,
+      "longitude": 18.250764
+    },
+    {
+      "name": "Hostel u Arény",
+      "latitude": 49.813787,
+      "longitude": 18.255219
+    },
+    {
+      "name": "Levné ubytování Ostrava",
+      "latitude": 49.830347,
+      "longitude": 18.254358
+    },
+    {
+      "name": "Ubytovna Klimkovice",
+      "latitude": 49.786915,
+      "longitude": 18.128291
+    },
+    {
+      "name": "Vodní mlýn Wesselsky",
+      "latitude": 49.685555,
+      "longitude": 17.797895
+    },
+    {
+      "name": "Ubytovna na koupališti",
+      "latitude": 49.656412,
+      "longitude": 17.835864
+    },
+    {
+      "name": "Ubytovna Nová",
+      "latitude": 49.664378,
+      "longitude": 17.834833
+    },
+    {
+      "name": "Mendel - Rodný dům",
+      "latitude": 49.61942,
+      "longitude": 17.834935
+    },
+    {
+      "name": "Turistická ubytovna Kotvice",
+      "latitude": 49.703401,
+      "longitude": 18.095056
+    },
+    {
+      "name": "Na Fojství",
+      "latitude": 49.612816,
+      "longitude": 17.996523
+    },
+    {
+      "name": "Oáza",
+      "latitude": 49.640915,
+      "longitude": 18.14342
+    },
+    {
+      "name": "Long Story Short Hostel and Cafe",
+      "latitude": 49.597887,
+      "longitude": 17.25856
+    },
+    {
+      "name": "Vojenská ubytovna",
+      "latitude": 49.58448,
+      "longitude": 17.227868
+    },
+    {
+      "name": "Ubytovna",
+      "latitude": 49.505298,
+      "longitude": 17.514204
+    },
+    {
+      "name": "Pension u Kláštera",
+      "latitude": 49.470993,
+      "longitude": 17.018273
+    },
+    {
+      "name": "Penzion Plumlov",
+      "latitude": 49.467239,
+      "longitude": 17.014081
+    },
+    {
+      "name": "Turistická ubytovna Drahany",
+      "latitude": 49.43496,
+      "longitude": 16.899222
+    },
+    {
+      "name": "Ubytování Okleštěk",
+      "latitude": 49.41704,
+      "longitude": 17.138014
+    },
+    {
+      "name": "Komunitní centrum Klášter",
+      "latitude": 49.584107,
+      "longitude": 17.871414
+    },
+    {
+      "name": "Ubytovací služby",
+      "latitude": 49.529567,
+      "longitude": 17.594191
+    },
+    {
+      "name": "Turistická ubytovna „Na lesní“",
+      "latitude": 49.589532,
+      "longitude": 18.015591
+    },
+    {
+      "name": "Apartmány centrum",
+      "latitude": 49.45663,
+      "longitude": 18.142204
+    },
+    {
+      "name": "Sonata Guest house",
+      "latitude": 49.742155,
+      "longitude": 18.624422
+    },
+    {
+      "name": "Ubytovna Pracák",
+      "latitude": 49.679317,
+      "longitude": 18.35308
+    },
+    {
+      "name": "Penzion a ubytovna SVĚT 2",
+      "latitude": 49.672948,
+      "longitude": 18.670908
+    },
+    {
+      "name": "Bacówka PTTK na Małym Stożku",
+      "latitude": 49.617305,
+      "longitude": 18.82863
+    },
+    {
+      "name": "Ubytovna Gorol",
+      "latitude": 49.566998,
+      "longitude": 18.77204
+    },
+    {
+      "name": "Na Vyhlídce",
+      "latitude": 49.521926,
+      "longitude": 18.836463
+    },
+    {
+      "name": "Rekreační středisko Pekárny Rališka",
+      "latitude": 49.418753,
+      "longitude": 18.312349
+    },
+    {
+      "name": "Ubytovna Leknín",
+      "latitude": 49.303957,
+      "longitude": 17.404799
+    },
+    {
+      "name": "Ubytovna Hulín",
+      "latitude": 49.322402,
+      "longitude": 17.465571
+    },
+    {
+      "name": "Ubytovna Morava",
+      "latitude": 49.213669,
+      "longitude": 17.515207
+    },
+    {
+      "name": "Sokolovna Roštín",
+      "latitude": 49.190567,
+      "longitude": 17.285219
+    },
+    {
+      "name": "Ubytování Kateřina Novotná",
+      "latitude": 49.174195,
+      "longitude": 17.258005
+    },
+    {
+      "name": "Římskokatolická farnost Cetechovice",
+      "latitude": 49.173308,
+      "longitude": 17.259833
+    },
+    {
+      "name": "Gama",
+      "latitude": 49.219289,
+      "longitude": 17.647041
+    },
+    {
+      "name": "Pozimos",
+      "latitude": 49.220017,
+      "longitude": 17.66897
+    },
+    {
+      "name": "Duo",
+      "latitude": 49.219689,
+      "longitude": 17.669203
+    },
+    {
+      "name": "Chata Bartek - Dolná chata",
+      "latitude": 49.217361,
+      "longitude": 18.163843
+    },
+    {
+      "name": "Chata Luna",
+      "latitude": 49.217797,
+      "longitude": 18.163775
+    },
+    {
+      "name": "Internát Stojanova gymnázia",
+      "latitude": 49.103451,
+      "longitude": 17.394257
+    },
+    {
+      "name": "Rekreační středisko Skleníky",
+      "latitude": 49.134375,
+      "longitude": 17.505276
+    },
+    {
+      "name": "Ubytovna Orlovna",
+      "latitude": 49.070566,
+      "longitude": 17.458684
+    },
+    {
+      "name": "Ubytovna",
+      "latitude": 49.076246,
+      "longitude": 17.432205
+    },
+    {
+      "name": "Ubytovna Vrami",
+      "latitude": 49.074174,
+      "longitude": 17.43059
+    },
+    {
+      "name": "Penzion v Rybárnách",
+      "latitude": 49.075202,
+      "longitude": 17.45963
+    },
+    {
+      "name": "Ubytování na Slovácku",
+      "latitude": 49.076894,
+      "longitude": 17.441587
+    },
+    {
+      "name": "Ubytovna Fialka",
+      "latitude": 49.041871,
+      "longitude": 17.465104
+    },
+    {
+      "name": "Himarex spol.s R.o.",
+      "latitude": 49.042746,
+      "longitude": 17.466815
+    },
+    {
+      "name": "Azylové bydlení Casanus",
+      "latitude": 49.058062,
+      "longitude": 17.457731
+    },
+    {
+      "name": "Turistická ubytovna Sokolovna Vracov",
+      "latitude": 48.979441,
+      "longitude": 17.211115
+    },
+    {
+      "name": "DÚBRAVA",
+      "latitude": 48.979573,
+      "longitude": 17.210327
+    },
+    {
+      "name": "JIŘÍ MASAŘ, s.r.o.",
+      "latitude": 49.131548,
+      "longitude": 17.805106
+    },
+    {
+      "name": "Penzion Javorník",
+      "latitude": 49.0674,
+      "longitude": 17.982222
+    },
+    {
+      "name": "Rekreační středisko Kordárna",
+      "latitude": 48.960265,
+      "longitude": 17.884041
+    },
+    {
+      "name": "MonteLope",
+      "latitude": 48.949585,
+      "longitude": 17.783876
+    },
+    {
+      "name": "Hostel Na Pile",
+      "latitude": 48.900812,
+      "longitude": 13.887593
+    },
+    {
+      "name": "Penzion a kemp Koruna",
+      "latitude": 48.854855,
+      "longitude": 14.369869
+    },
+    {
+      "name": "Travel Hostel",
+      "latitude": 48.811405,
+      "longitude": 14.314043
+    },
+    {
+      "name": "Pension Rosa",
+      "latitude": 48.808605,
+      "longitude": 14.316232
+    },
+    {
+      "name": "Hostel 99",
+      "latitude": 48.814786,
+      "longitude": 14.317751
+    },
+    {
+      "name": "Krumlov House",
+      "latitude": 48.808502,
+      "longitude": 14.320552
+    },
+    {
+      "name": "Merlin",
+      "latitude": 48.809612,
+      "longitude": 14.314512
+    },
+    {
+      "name": "Hostel Postel",
+      "latitude": 48.809002,
+      "longitude": 14.313662
+    },
+    {
+      "name": "Ubytovna Dvorská 163",
+      "latitude": 48.81455,
+      "longitude": 14.258479
+    },
+    {
+      "name": "Ubytovna Vyšný",
+      "latitude": 48.822226,
+      "longitude": 14.311519
+    },
+    {
+      "name": "Rekreační středisko MENFIS",
+      "latitude": 48.762465,
+      "longitude": 14.172269
+    },
+    {
+      "name": "Jihočeská pohoda - Bohemian Krumlov",
+      "latitude": 48.803996,
+      "longitude": 14.312047
+    },
+    {
+      "name": "Hostel Havana",
+      "latitude": 48.804701,
+      "longitude": 14.313534
+    },
+    {
+      "name": "Ubytovna Český Krumlov",
+      "latitude": 48.798586,
+      "longitude": 14.313645
+    },
+    {
+      "name": "ubytovna - Nové Spolí 142",
+      "latitude": 48.795934,
+      "longitude": 14.307176
+    },
+    {
+      "name": "Vltavan 2",
+      "latitude": 48.795213,
+      "longitude": 14.302542
+    },
+    {
+      "name": "Hostel Skippy",
+      "latitude": 48.806814,
+      "longitude": 14.312957
+    },
+    {
+      "name": "Hostel Kominík",
+      "latitude": 48.799843,
+      "longitude": 14.312181
+    },
+    {
+      "name": "Hostel Egon",
+      "latitude": 48.804542,
+      "longitude": 14.313545
+    },
+    {
+      "name": "Hostel Havanna",
+      "latitude": 48.804717,
+      "longitude": 14.313528
+    },
+    {
+      "name": "Turistická ubytovna U jezera",
+      "latitude": 48.898644,
+      "longitude": 14.903594
+    },
+    {
+      "name": "Hostel Sport",
+      "latitude": 48.662108,
+      "longitude": 14.16449
+    },
+    {
+      "name": "TJ Start",
+      "latitude": 48.655568,
+      "longitude": 14.368688
+    },
+    {
+      "name": "Turistická Ubytovna",
+      "latitude": 48.655547,
+      "longitude": 14.3687
+    },
+    {
+      "name": "Ubytovna Pod Hrází",
+      "latitude": 48.623467,
+      "longitude": 14.306775
+    },
+    {
+      "name": "SPORTCLUB",
+      "latitude": 48.896324,
+      "longitude": 15.810394
+    },
+    {
+      "name": "Ubytování pro dobrodruhy",
+      "latitude": 48.799555,
+      "longitude": 15.994052
+    },
+    {
+      "name": "Berunka",
+      "latitude": 48.873257,
+      "longitude": 16.530646
+    },
+    {
+      "name": "Ubytovna ZŠ Dolní Věstonice",
+      "latitude": 48.886314,
+      "longitude": 16.644257
+    },
+    {
+      "name": "Na Kopečku",
+      "latitude": 48.895443,
+      "longitude": 16.719965
+    },
+    {
+      "name": "Na Fürhaple",
+      "latitude": 48.89356,
+      "longitude": 16.719046
+    },
+    {
+      "name": "Pohostinství Perná 76",
+      "latitude": 48.851117,
+      "longitude": 16.626386
+    },
+    {
+      "name": "Zahrada",
+      "latitude": 48.813799,
+      "longitude": 16.634263
+    },
+    {
+      "name": "Turistická ubytovna Podivín",
+      "latitude": 48.832517,
+      "longitude": 16.856182
+    },
+    {
+      "name": "Ubytovna ZŠ Mikulov",
+      "latitude": 48.803136,
+      "longitude": 16.632596
+    },
+    {
+      "name": "Mlýn Sedlec",
+      "latitude": 48.782455,
+      "longitude": 16.677099
+    },
+    {
+      "name": "Koleje Zámeček",
+      "latitude": 48.796903,
+      "longitude": 16.801287
+    },
+    {
+      "name": "Ubytovna Pod Vinohradama",
+      "latitude": 48.910629,
+      "longitude": 17.027021
+    },
+    {
+      "name": "Sklep u Matoušků",
+      "latitude": 48.841865,
+      "longitude": 16.985984
+    },
+    {
+      "name": "Sklep u Osičků",
+      "latitude": 48.842764,
+      "longitude": 16.988181
+    },
+    {
+      "name": "Kubra",
+      "latitude": 48.845823,
+      "longitude": 17.129152
+    },
+    {
+      "name": "Turistická ubytovna Tasov",
+      "latitude": 48.906834,
+      "longitude": 17.428653
+    },
+    {
+      "name": "Chata Amor",
+      "latitude": 48.828033,
+      "longitude": 17.297541
+    },
+    {
+      "name": "Centrum Ubytování Břeclav",
+      "latitude": 48.755328,
+      "longitude": 16.892781
+    },
+    {
+      "name": "Domov mládeže",
+      "latitude": 48.756161,
+      "longitude": 16.88284
+    },
+    {
+      "name": "Rekreační středisko Vápenky",
+      "latitude": 48.872952,
+      "longitude": 17.620075
+    }
+  ],
+  "meta": {
+    "title": "Hostely - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných hostelů v České republice (408 záznamů) — body zájmu z OpenStreetMap (tag tourism=hostel), výřez EU-POIS/CZ. Obsahuje 408 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Hostely | ListBase",
+    "seo_description": "Stáhnout Hostely — 408 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 408 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

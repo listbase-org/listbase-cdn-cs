@@ -1,0 +1,319 @@
+{
+  "id": "lang-greek-alphabet",
+  "name": "Kompletní Sada Dat Znaků Řecké Abecedy",
+  "category": "language",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "uppercase",
+      "label": "Uppercase",
+      "type": "string"
+    },
+    {
+      "key": "lowercase",
+      "label": "Lowercase",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "transliteration",
+      "label": "Transliteration",
+      "type": "string"
+    },
+    {
+      "key": "code_point_upper",
+      "label": "Code Point (Upper)",
+      "type": "string"
+    },
+    {
+      "key": "code_point_lower",
+      "label": "Code Point (Lower)",
+      "type": "string"
+    },
+    {
+      "key": "numeric_value",
+      "label": "Numeric Value",
+      "type": "number"
+    },
+    {
+      "key": "usage",
+      "label": "Common Usage in Science/Math (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "uppercase": "Α",
+      "lowercase": "α",
+      "name": "Alfa",
+      "transliteration": "a",
+      "code_point_upper": "U+0391",
+      "code_point_lower": "U+03B1",
+      "numeric_value": 1,
+      "usage": "Úhly, úhlové zrychlení, konstanta jemné struktury"
+    },
+    {
+      "uppercase": "Β",
+      "lowercase": "β",
+      "name": "Beta",
+      "transliteration": "b",
+      "code_point_upper": "U+0392",
+      "code_point_lower": "U+03B2",
+      "numeric_value": 2,
+      "usage": "Beta koeficient, beta částice, úhly"
+    },
+    {
+      "uppercase": "Γ",
+      "lowercase": "γ",
+      "name": "Gama",
+      "transliteration": "g",
+      "code_point_upper": "U+0393",
+      "code_point_lower": "U+03B3",
+      "numeric_value": 3,
+      "usage": "Gama funkce, gama záření, povrchové napětí"
+    },
+    {
+      "uppercase": "Δ",
+      "lowercase": "δ",
+      "name": "Delta",
+      "transliteration": "d",
+      "code_point_upper": "U+0394",
+      "code_point_lower": "U+03B4",
+      "numeric_value": 4,
+      "usage": "Změna/rozdíl, Diracova delta funkce, úhly"
+    },
+    {
+      "uppercase": "Ε",
+      "lowercase": "ε",
+      "name": "Epsilon",
+      "transliteration": "e",
+      "code_point_upper": "U+0395",
+      "code_point_lower": "U+03B5",
+      "numeric_value": 5,
+      "usage": "Malé kladné množství, permitivita, deformace"
+    },
+    {
+      "uppercase": "Ζ",
+      "lowercase": "ζ",
+      "name": "Zeta",
+      "transliteration": "z",
+      "code_point_upper": "U+0396",
+      "code_point_lower": "U+03B6",
+      "numeric_value": 7,
+      "usage": "Riemannova zeta funkce, poměr tlumení"
+    },
+    {
+      "uppercase": "Η",
+      "lowercase": "η",
+      "name": "Éta",
+      "transliteration": "ē",
+      "code_point_upper": "U+0397",
+      "code_point_lower": "U+03B7",
+      "numeric_value": 8,
+      "usage": "Účinnost, viskozita, Dirichletova eta funkce"
+    },
+    {
+      "uppercase": "Θ",
+      "lowercase": "θ",
+      "name": "Théta",
+      "transliteration": "th",
+      "code_point_upper": "U+0398",
+      "code_point_lower": "U+03B8",
+      "numeric_value": 9,
+      "usage": "Úhly, teplota, varianta notace velkého O"
+    },
+    {
+      "uppercase": "Ι",
+      "lowercase": "ι",
+      "name": "Iota",
+      "transliteration": "i",
+      "code_point_upper": "U+0399",
+      "code_point_lower": "U+03B9",
+      "numeric_value": 10,
+      "usage": "Index, inkluzní zobrazení, nejmenší kladné číslo"
+    },
+    {
+      "uppercase": "Κ",
+      "lowercase": "κ",
+      "name": "Kappa",
+      "transliteration": "k",
+      "code_point_upper": "U+039A",
+      "code_point_lower": "U+03BA",
+      "numeric_value": 20,
+      "usage": "Křivost, tepelná vodivost, konektivita"
+    },
+    {
+      "uppercase": "Λ",
+      "lowercase": "λ",
+      "name": "Lambda",
+      "transliteration": "l",
+      "code_point_upper": "U+039B",
+      "code_point_lower": "U+03BB",
+      "numeric_value": 30,
+      "usage": "Vlnová délka, vlastní číslo, lambda kalkulus"
+    },
+    {
+      "uppercase": "Μ",
+      "lowercase": "μ",
+      "name": "Mí",
+      "transliteration": "m",
+      "code_point_upper": "U+039C",
+      "code_point_lower": "U+03BC",
+      "numeric_value": 40,
+      "usage": "Předpona mikro-, průměr, koeficient tření"
+    },
+    {
+      "uppercase": "Ν",
+      "lowercase": "ν",
+      "name": "Ný",
+      "transliteration": "n",
+      "code_point_upper": "U+039D",
+      "code_point_lower": "U+03BD",
+      "numeric_value": 50,
+      "usage": "Frekvence, kinematická viskozita, Poissonův poměr"
+    },
+    {
+      "uppercase": "Ξ",
+      "lowercase": "ξ",
+      "name": "Xí",
+      "transliteration": "x",
+      "code_point_upper": "U+039E",
+      "code_point_lower": "U+03BE",
+      "numeric_value": 60,
+      "usage": "Náhodná proměnná, rozsah reakce"
+    },
+    {
+      "uppercase": "Ο",
+      "lowercase": "ο",
+      "name": "Omikron",
+      "transliteration": "o",
+      "code_point_upper": "U+039F",
+      "code_point_lower": "U+03BF",
+      "numeric_value": 70,
+      "usage": "Notace velkého O (zřídka používané kvůli záměně s 0)"
+    },
+    {
+      "uppercase": "Π",
+      "lowercase": "π",
+      "name": "Pí",
+      "transliteration": "p",
+      "code_point_upper": "U+03A0",
+      "code_point_lower": "U+03C0",
+      "numeric_value": 80,
+      "usage": "Konstanta pí (3.14159...), součinová notace, zisk"
+    },
+    {
+      "uppercase": "Ρ",
+      "lowercase": "ρ",
+      "name": "Ró",
+      "transliteration": "r",
+      "code_point_upper": "U+03A1",
+      "code_point_lower": "U+03C1",
+      "numeric_value": 100,
+      "usage": "Hustota, rezistivita, korelační koeficient"
+    },
+    {
+      "uppercase": "Σ",
+      "lowercase": "σ/ς",
+      "name": "Sigma",
+      "transliteration": "s",
+      "code_point_upper": "U+03A3",
+      "code_point_lower": "U+03C3",
+      "numeric_value": 200,
+      "usage": "Sčítání, směrodatná odchylka, napětí"
+    },
+    {
+      "uppercase": "Τ",
+      "lowercase": "τ",
+      "name": "Tau",
+      "transliteration": "t",
+      "code_point_upper": "U+03A4",
+      "code_point_lower": "U+03C4",
+      "numeric_value": 300,
+      "usage": "Točivý moment, smykové napětí, časová konstanta, tau (2π)"
+    },
+    {
+      "uppercase": "Υ",
+      "lowercase": "υ",
+      "name": "Ypsilon",
+      "transliteration": "u/y",
+      "code_point_upper": "U+03A5",
+      "code_point_lower": "U+03C5",
+      "numeric_value": 400,
+      "usage": "Mezon Ypsilon, měrný objem"
+    },
+    {
+      "uppercase": "Φ",
+      "lowercase": "φ",
+      "name": "Fí",
+      "transliteration": "ph",
+      "code_point_upper": "U+03A6",
+      "code_point_lower": "U+03C6",
+      "numeric_value": 500,
+      "usage": "Zlatý řez, magnetický tok, úhly, vlnová funkce"
+    },
+    {
+      "uppercase": "Χ",
+      "lowercase": "χ",
+      "name": "Chí",
+      "transliteration": "ch",
+      "code_point_upper": "U+03A7",
+      "code_point_lower": "U+03C7",
+      "numeric_value": 600,
+      "usage": "Chí-kvadrát rozdělení, elektronegativita"
+    },
+    {
+      "uppercase": "Ψ",
+      "lowercase": "ψ",
+      "name": "Psí",
+      "transliteration": "ps",
+      "code_point_upper": "U+03A8",
+      "code_point_lower": "U+03C8",
+      "numeric_value": 700,
+      "usage": "Vlnová funkce, digamma funkce, úhly"
+    },
+    {
+      "uppercase": "Ω",
+      "lowercase": "ω",
+      "name": "Omega",
+      "transliteration": "ō",
+      "code_point_upper": "U+03A9",
+      "code_point_lower": "U+03C9",
+      "numeric_value": 800,
+      "usage": "Ohm (elektrický odpor), úhlová rychlost, prostorový úhel"
+    }
+  ],
+  "meta": {
+    "seo_title": "Řecká Abeceda - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si kompletní řeckou abecedu s 24 znaky, transliterací, číselnými hodnotami a vědeckým využitím. Zdarma ve formátech Excel, CSV, PDF.",
+    "title": "Kompletní Sada Dat Znaků Řecké Abecedy",
+    "description": "Tato sada dat poskytuje komplexní seznam 24 znaků řecké abecedy, včetně jejich velkých a malých písmen, názvů, transliterace, kódových bodů Unicode, číselných hodnot a běžného použití ve vědě/matematice.",
+    "key_takeaways": [
+      "Získejte přístup ke všem 24 znakům řecké abecedy s podrobnými atributy.",
+      "Prozkoumejte kódové body Unicode a běžné vědecké/matematické aplikace.",
+      "Stáhněte si data připravená k použití pro lingvistické nebo STEM projekty.",
+      "Získejte kompletní referenci pro starověkou řečtinu a moderní vědeckou notaci."
+    ],
+    "keywords": [
+      "řecká abeceda excel",
+      "řecká písmena unicode",
+      "alpha beta gamma dataset",
+      "vědecké symboly csv",
+      "využití řecké abecedy pdf",
+      "stáhnout řecké znaky"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vašich skriptů Python nebo databází SQL pro lingvistickou analýzu nebo mapování znaků.",
+      "Použijte soubor **Excel** k filtrování znaků podle číselné hodnoty nebo běžného použití a vytvořte rychlé referenční tabulky pro studium.",
+      "Vytiskněte verzi **PDF** pro jasný, offline referenční graf v učebnách, laboratořích nebo pro osobní studium.",
+      "Využijte tato data k vytváření vzdělávacích aplikací, kvízů nebo nástrojů pro učení řecké abecedy a jejích aplikací."
+    ]
+  },
+  "record_count": 24,
+  "title": "Kompletní Sada Dat Znaků Řecké Abecedy"
+}

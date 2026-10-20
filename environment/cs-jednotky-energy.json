@@ -1,0 +1,206 @@
+{
+  "id": "cs-jednotky-energy",
+  "name": "Měrné jednotky: energy (14)",
+  "title": "Měrné jednotky: energy (14)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'energy'.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 74,
+      "unit_code": "energy-becquerel",
+      "kategorie": "energy",
+      "nazev": "becquerely",
+      "vzor_jednotne": "{0} becquerel",
+      "vzor_mnozne": "{0} becquerelů",
+      "kratky_vzor": "{0} Bq",
+      "uzky_vzor": "{0} Bq"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit",
+      "kategorie": "energy",
+      "nazev": "britské tepelné jednotky",
+      "vzor_jednotne": "{0} britská tepelná jednotka",
+      "vzor_mnozne": "{0} britských tepelných jednotek",
+      "kratky_vzor": "{0} BTU",
+      "uzky_vzor": "{0} BTU"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategorie": "energy",
+      "nazev": "BTU-IT",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} BTU-IT",
+      "kratky_vzor": "{0} BTU-IT",
+      "uzky_vzor": "{0} BTU-IT"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie",
+      "kategorie": "energy",
+      "nazev": "kalorie",
+      "vzor_jednotne": "{0} kalorie",
+      "vzor_mnozne": "{0} kalorií",
+      "kratky_vzor": "{0} cal",
+      "uzky_vzor": "{0} cal"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-calorie-it",
+      "kategorie": "energy",
+      "nazev": "kalorie-IT",
+      "vzor_jednotne": "{0} kalorie-IT",
+      "vzor_mnozne": "{0} kalorií-IT",
+      "kratky_vzor": "{0} cal-IT",
+      "uzky_vzor": "{0} cal-IT"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-electronvolt",
+      "kategorie": "energy",
+      "nazev": "elektronvolty",
+      "vzor_jednotne": "{0} elektronvolt",
+      "vzor_mnozne": "{0} elektronvoltů",
+      "kratky_vzor": "{0} eV",
+      "uzky_vzor": "{0} eV"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-foodcalorie",
+      "kategorie": "energy",
+      "nazev": "kilokalorie",
+      "vzor_jednotne": "{0} kilokalorie",
+      "vzor_mnozne": "{0} kilokalorií",
+      "kratky_vzor": "",
+      "uzky_vzor": ""
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-gray",
+      "kategorie": "energy",
+      "nazev": "graye",
+      "vzor_jednotne": "{0} gray",
+      "vzor_mnozne": "{0} grayů",
+      "kratky_vzor": "{0} Gy",
+      "uzky_vzor": "{0} Gy"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-joule",
+      "kategorie": "energy",
+      "nazev": "jouly",
+      "vzor_jednotne": "{0} joule",
+      "vzor_mnozne": "{0} joulů",
+      "kratky_vzor": "{0} J",
+      "uzky_vzor": "{0} J"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilocalorie",
+      "kategorie": "energy",
+      "nazev": "kilokalorie",
+      "vzor_jednotne": "{0} kilokalorie",
+      "vzor_mnozne": "{0} kilokalorií",
+      "kratky_vzor": "{0} kcal",
+      "uzky_vzor": "{0} kcal"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilojoule",
+      "kategorie": "energy",
+      "nazev": "kilojouly",
+      "vzor_jednotne": "{0} kilojoule",
+      "vzor_mnozne": "{0} kilojoulů",
+      "kratky_vzor": "{0} kJ",
+      "uzky_vzor": "{0} kJ"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-kilowatt-hour",
+      "kategorie": "energy",
+      "nazev": "kilowatthodiny",
+      "vzor_jednotne": "{0} kilowatthodina",
+      "vzor_mnozne": "{0} kilowatthodin",
+      "kratky_vzor": "{0} kWh",
+      "uzky_vzor": "{0} kWh"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-sievert",
+      "kategorie": "energy",
+      "nazev": "sieverty",
+      "vzor_jednotne": "{0} sievert",
+      "vzor_mnozne": "{0} sievertu",
+      "kratky_vzor": "{0} Sv",
+      "uzky_vzor": "{0} Sv"
+    },
+    {
+      "id": 87,
+      "unit_code": "energy-therm-us",
+      "kategorie": "energy",
+      "nazev": "thermy",
+      "vzor_jednotne": "{0} therm",
+      "vzor_mnozne": "{0} thermů",
+      "kratky_vzor": "{0} therm",
+      "uzky_vzor": "{0} therm"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: energy (14) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'energy'. Obsahuje 14 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: energy (14) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: energy (14) — 14 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 14 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

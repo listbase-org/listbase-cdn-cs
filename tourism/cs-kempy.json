@@ -1,0 +1,4551 @@
+{
+  "id": "cs-kempy",
+  "name": "Kempy",
+  "title": "Kempy",
+  "description": "Seznam pojmenovaných kempů v České republice (902 záznamů) — body zájmu z OpenStreetMap (tag tourism=camp_site), výřez EU-POIS/CZ.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 902,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Zehrborn-Biwak",
+      "latitude": 50.812171,
+      "longitude": 14.05718
+    },
+    {
+      "name": "Autokemp Pod Císařem",
+      "latitude": 50.802655,
+      "longitude": 14.045825
+    },
+    {
+      "name": "Country House Tisá",
+      "latitude": 50.785883,
+      "longitude": 14.01302
+    },
+    {
+      "name": "Camping Tisá",
+      "latitude": 50.788091,
+      "longitude": 14.025515
+    },
+    {
+      "name": "LoftCamp Großmann",
+      "latitude": 51.043263,
+      "longitude": 14.480337
+    },
+    {
+      "name": "Regenboog",
+      "latitude": 50.999362,
+      "longitude": 14.46687
+    },
+    {
+      "name": "Camp Valdek",
+      "latitude": 50.975355,
+      "longitude": 14.506997
+    },
+    {
+      "name": "Zschirnstein-Biwak",
+      "latitude": 50.850934,
+      "longitude": 14.177561
+    },
+    {
+      "name": "Kemp Mezní Louka",
+      "latitude": 50.873791,
+      "longitude": 14.319472
+    },
+    {
+      "name": "Intercamp Mosquito",
+      "latitude": 50.855523,
+      "longitude": 14.357048
+    },
+    {
+      "name": "Luční Bar (Camp)",
+      "latitude": 50.913824,
+      "longitude": 14.488119
+    },
+    {
+      "name": "Tábořiště Výsluní",
+      "latitude": 50.871062,
+      "longitude": 14.45314
+    },
+    {
+      "name": "Pod Jedlovou",
+      "latitude": 50.865445,
+      "longitude": 14.556191
+    },
+    {
+      "name": "Taubenteich-Biwak",
+      "latitude": 50.835764,
+      "longitude": 14.127795
+    },
+    {
+      "name": "U Ferdinanda",
+      "latitude": 50.837731,
+      "longitude": 14.356281
+    },
+    {
+      "name": "Autokemp Jetřichovice",
+      "latitude": 50.843194,
+      "longitude": 14.392216
+    },
+    {
+      "name": "Camp Pod Lesem",
+      "latitude": 50.797527,
+      "longitude": 14.348844
+    },
+    {
+      "name": "Autokemp Aljaška",
+      "latitude": 50.799982,
+      "longitude": 14.344724
+    },
+    {
+      "name": "Autokemp Česká brána",
+      "latitude": 50.799338,
+      "longitude": 14.338493
+    },
+    {
+      "name": "Kemp Vyhlídka",
+      "latitude": 50.793975,
+      "longitude": 14.346914
+    },
+    {
+      "name": "Rosalka",
+      "latitude": 50.800109,
+      "longitude": 14.332224
+    },
+    {
+      "name": "Kemp Děčín s.r.o. & Cyklostop",
+      "latitude": 50.774292,
+      "longitude": 14.209527
+    },
+    {
+      "name": "Koupaliště Sloup v Čechách",
+      "latitude": 50.746456,
+      "longitude": 14.596445
+    },
+    {
+      "name": "Camping Harta",
+      "latitude": 50.924788,
+      "longitude": 15.030654
+    },
+    {
+      "name": "Kristýna",
+      "latitude": 50.863757,
+      "longitude": 14.825812
+    },
+    {
+      "name": "JIRÁNEK",
+      "latitude": 50.864602,
+      "longitude": 14.827798
+    },
+    {
+      "name": "Ludvikov Horses & Holiday",
+      "latitude": 50.915359,
+      "longitude": 15.204466
+    },
+    {
+      "name": "Autokemp u koupaliště",
+      "latitude": 50.926437,
+      "longitude": 15.245038
+    },
+    {
+      "name": "Singltrek Centrum",
+      "latitude": 50.92638,
+      "longitude": 15.246269
+    },
+    {
+      "name": "Autokempink Hejnice",
+      "latitude": 50.875682,
+      "longitude": 15.189273
+    },
+    {
+      "name": "Ekokemp",
+      "latitude": 50.840779,
+      "longitude": 15.071465
+    },
+    {
+      "name": "Autokemp Liberec",
+      "latitude": 50.783642,
+      "longitude": 15.043442
+    },
+    {
+      "name": "Camping Jiskra",
+      "latitude": 50.781727,
+      "longitude": 15.42184
+    },
+    {
+      "name": "Base camp Medvědín",
+      "latitude": 50.736521,
+      "longitude": 15.607023
+    },
+    {
+      "name": "BFKK Fichtelgebirge",
+      "latitude": 50.294061,
+      "longitude": 12.090218
+    },
+    {
+      "name": "Campingplatz Klingenthal",
+      "latitude": 50.366092,
+      "longitude": 12.458014
+    },
+    {
+      "name": "Chatová osada a autokemp Chabařovice",
+      "latitude": 50.682288,
+      "longitude": 13.933391
+    },
+    {
+      "name": "trampska osada \"Husovka\"",
+      "latitude": 50.66437,
+      "longitude": 13.724093
+    },
+    {
+      "name": "Tábořiště Milada",
+      "latitude": 50.651881,
+      "longitude": 13.934637
+    },
+    {
+      "name": "Autocamp Osek",
+      "latitude": 50.621107,
+      "longitude": 13.684654
+    },
+    {
+      "name": "Kemp - tábořiště Matylda",
+      "latitude": 50.525525,
+      "longitude": 13.621518
+    },
+    {
+      "name": "Kemp Kyselka",
+      "latitude": 50.539901,
+      "longitude": 13.760445
+    },
+    {
+      "name": "Autokemp",
+      "latitude": 50.539967,
+      "longitude": 13.760592
+    },
+    {
+      "name": "Jordán",
+      "latitude": 50.542521,
+      "longitude": 14.021558
+    },
+    {
+      "name": "Tábořiště Druhý mlýn",
+      "latitude": 50.496394,
+      "longitude": 13.336495
+    },
+    {
+      "name": "Autokemp U Jakuba",
+      "latitude": 50.432428,
+      "longitude": 13.259063
+    },
+    {
+      "name": "Kemp Zoo Lesík",
+      "latitude": 50.312136,
+      "longitude": 12.695857
+    },
+    {
+      "name": "Autokemp U jezu",
+      "latitude": 50.382866,
+      "longitude": 13.177316
+    },
+    {
+      "name": "Tábořiště U Včelky",
+      "latitude": 50.36949,
+      "longitude": 13.109439
+    },
+    {
+      "name": "Autokemp Hradec u Kadaně",
+      "latitude": 50.370505,
+      "longitude": 13.303145
+    },
+    {
+      "name": "Tábořiště Ve Mlýně",
+      "latitude": 50.317644,
+      "longitude": 13.027006
+    },
+    {
+      "name": "Vodácký kemp Vojkovice",
+      "latitude": 50.308746,
+      "longitude": 13.019041
+    },
+    {
+      "name": "Kamencové jezero",
+      "latitude": 50.469485,
+      "longitude": 13.423252
+    },
+    {
+      "name": "Sklenik",
+      "latitude": 50.406378,
+      "longitude": 13.777502
+    },
+    {
+      "name": "Autokemp Vikletice",
+      "latitude": 50.352759,
+      "longitude": 13.393662
+    },
+    {
+      "name": "Kemp Piraňa",
+      "latitude": 50.348485,
+      "longitude": 13.409992
+    },
+    {
+      "name": "Kemp Peruc",
+      "latitude": 50.350341,
+      "longitude": 13.959013
+    },
+    {
+      "name": "Kemp Pod Rozhlednou",
+      "latitude": 50.23119,
+      "longitude": 12.205011
+    },
+    {
+      "name": "Camping Bříza",
+      "latitude": 50.090899,
+      "longitude": 12.282378
+    },
+    {
+      "name": "Dronte",
+      "latitude": 50.125085,
+      "longitude": 12.52832
+    },
+    {
+      "name": "u Piráta",
+      "latitude": 50.121974,
+      "longitude": 12.525548
+    },
+    {
+      "name": "U Šabiny",
+      "latitude": 50.135317,
+      "longitude": 12.57912
+    },
+    {
+      "name": "Camping Amerika",
+      "latitude": 50.111106,
+      "longitude": 12.33663
+    },
+    {
+      "name": "Retro-Camp Tršnice",
+      "latitude": 50.117912,
+      "longitude": 12.407538
+    },
+    {
+      "name": "Tršnice",
+      "latitude": 50.112813,
+      "longitude": 12.400628
+    },
+    {
+      "name": "Camping Podhoří",
+      "latitude": 50.084946,
+      "longitude": 12.323593
+    },
+    {
+      "name": "Camping Baldi",
+      "latitude": 50.072105,
+      "longitude": 12.473388
+    },
+    {
+      "name": "Autokemp Rybářská Bašta",
+      "latitude": 50.083457,
+      "longitude": 12.468641
+    },
+    {
+      "name": "Autokemp Dřenice",
+      "latitude": 50.066452,
+      "longitude": 12.429665
+    },
+    {
+      "name": "Vaclav",
+      "latitude": 50.050576,
+      "longitude": 12.412087
+    },
+    {
+      "name": "Kemp Stebnice",
+      "latitude": 50.05403,
+      "longitude": 12.448616
+    },
+    {
+      "name": "Autokemp Nová Role",
+      "latitude": 50.267735,
+      "longitude": 12.783508
+    },
+    {
+      "name": "Sasanka",
+      "latitude": 50.264867,
+      "longitude": 12.899734
+    },
+    {
+      "name": "Autocamp Ontario",
+      "latitude": 50.265896,
+      "longitude": 13.000855
+    },
+    {
+      "name": "Na Špici",
+      "latitude": 50.269487,
+      "longitude": 12.993706
+    },
+    {
+      "name": "Tábořiště Dubina",
+      "latitude": 50.244083,
+      "longitude": 12.99181
+    },
+    {
+      "name": "tábořiště Hubertus",
+      "latitude": 50.238114,
+      "longitude": 12.929726
+    },
+    {
+      "name": "Kemp Liapor sport centrum",
+      "latitude": 50.211904,
+      "longitude": 12.817738
+    },
+    {
+      "name": "Kemp Baron",
+      "latitude": 50.187309,
+      "longitude": 12.677786
+    },
+    {
+      "name": "Vodácké tábořiště Loket",
+      "latitude": 50.195733,
+      "longitude": 12.766854
+    },
+    {
+      "name": "Klub vodáků Karlovy Vary",
+      "latitude": 50.231464,
+      "longitude": 12.862082
+    },
+    {
+      "name": "Camp Vary",
+      "latitude": 50.205347,
+      "longitude": 12.894865
+    },
+    {
+      "name": "Camping Březová",
+      "latitude": 50.195344,
+      "longitude": 12.862633
+    },
+    {
+      "name": "Osada Šárka",
+      "latitude": 50.109709,
+      "longitude": 13.29043
+    },
+    {
+      "name": "Červená stráň",
+      "latitude": 50.19181,
+      "longitude": 13.9039
+    },
+    {
+      "name": "Tábor Eldorádo",
+      "latitude": 50.10794,
+      "longitude": 13.510746
+    },
+    {
+      "name": "Račí hrad",
+      "latitude": 50.092887,
+      "longitude": 13.498627
+    },
+    {
+      "name": "Mesto Jesenice - Provozovna Autokemp",
+      "latitude": 50.08904,
+      "longitude": 13.475495
+    },
+    {
+      "name": "Soseň",
+      "latitude": 50.088807,
+      "longitude": 13.532768
+    },
+    {
+      "name": "Camping Bucek",
+      "latitude": 50.172864,
+      "longitude": 13.841093
+    },
+    {
+      "name": "Kemp Tyršovo koupaliště",
+      "latitude": 50.095807,
+      "longitude": 13.754945
+    },
+    {
+      "name": "Camping La Provence",
+      "latitude": 49.952454,
+      "longitude": 12.668467
+    },
+    {
+      "name": "Betlem",
+      "latitude": 49.958677,
+      "longitude": 12.850747
+    },
+    {
+      "name": "Plot",
+      "latitude": 50.06002,
+      "longitude": 13.316692
+    },
+    {
+      "name": "Kemp Stanowitz",
+      "latitude": 49.944154,
+      "longitude": 12.727737
+    },
+    {
+      "name": "Tábořiště na Kosím potoce",
+      "latitude": 49.87749,
+      "longitude": 12.810676
+    },
+    {
+      "name": "La Rocca",
+      "latitude": 49.887686,
+      "longitude": 12.971172
+    },
+    {
+      "name": "tábor Kořen",
+      "latitude": 49.850863,
+      "longitude": 12.842805
+    },
+    {
+      "name": "Sport-kemp",
+      "latitude": 49.983131,
+      "longitude": 13.470783
+    },
+    {
+      "name": "Camp Tišina",
+      "latitude": 50.005723,
+      "longitude": 13.554487
+    },
+    {
+      "name": "Machův Mlýn",
+      "latitude": 49.998528,
+      "longitude": 13.638874
+    },
+    {
+      "name": "Pod Mostem",
+      "latitude": 49.958827,
+      "longitude": 13.696279
+    },
+    {
+      "name": "U Varských",
+      "latitude": 49.959713,
+      "longitude": 13.692766
+    },
+    {
+      "name": "Pohoda",
+      "latitude": 49.961894,
+      "longitude": 13.700119
+    },
+    {
+      "name": "U Kolečka",
+      "latitude": 50.040372,
+      "longitude": 13.875729
+    },
+    {
+      "name": "Kemp Branov",
+      "latitude": 50.020084,
+      "longitude": 13.834613
+    },
+    {
+      "name": "Tábořiště mezi mosty",
+      "latitude": 50.029284,
+      "longitude": 13.866126
+    },
+    {
+      "name": "Na Aljašce",
+      "latitude": 50.028433,
+      "longitude": 13.8629
+    },
+    {
+      "name": "Višňová U Přívozu",
+      "latitude": 50.018665,
+      "longitude": 13.858983
+    },
+    {
+      "name": "Kemp Višňová I",
+      "latitude": 50.017739,
+      "longitude": 13.85243
+    },
+    {
+      "name": "Kemp Višňová II",
+      "latitude": 50.01653,
+      "longitude": 13.854975
+    },
+    {
+      "name": "Kemp Višňová Hájek",
+      "latitude": 50.017069,
+      "longitude": 13.858728
+    },
+    {
+      "name": "Kemp Riviera",
+      "latitude": 50.044771,
+      "longitude": 13.912232
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 50.04614,
+      "longitude": 13.891147
+    },
+    {
+      "name": "Tábořiště U Jezu",
+      "latitude": 50.02666,
+      "longitude": 13.919006
+    },
+    {
+      "name": "Kemp Ahoj",
+      "latitude": 49.97202,
+      "longitude": 13.766113
+    },
+    {
+      "name": "Tábořiště",
+      "latitude": 50.005127,
+      "longitude": 13.972278
+    },
+    {
+      "name": "Rekreační středisko Máj",
+      "latitude": 49.940985,
+      "longitude": 13.37422
+    },
+    {
+      "name": "kemp Vobořice",
+      "latitude": 49.897487,
+      "longitude": 13.437736
+    },
+    {
+      "name": "Kobylka",
+      "latitude": 49.910571,
+      "longitude": 13.533134
+    },
+    {
+      "name": "U Mloka",
+      "latitude": 49.944456,
+      "longitude": 13.614027
+    },
+    {
+      "name": "Na Rybárně",
+      "latitude": 49.924097,
+      "longitude": 13.578514
+    },
+    {
+      "name": "U Potůčků",
+      "latitude": 49.93945,
+      "longitude": 13.62324
+    },
+    {
+      "name": "Reggae Kemp Liblín",
+      "latitude": 49.917917,
+      "longitude": 13.540991
+    },
+    {
+      "name": "Skautský tábor",
+      "latitude": 49.894742,
+      "longitude": 13.588442
+    },
+    {
+      "name": "Planá",
+      "latitude": 49.85776,
+      "longitude": 13.522358
+    },
+    {
+      "name": "Tábor Lhotka",
+      "latitude": 49.911994,
+      "longitude": 13.734517
+    },
+    {
+      "name": "Hotel a kemp Formule",
+      "latitude": 50.731737,
+      "longitude": 14.19296
+    },
+    {
+      "name": "Camp Slunce Žandov",
+      "latitude": 50.722345,
+      "longitude": 14.402387
+    },
+    {
+      "name": "Marina Kemp Valtirov",
+      "latitude": 50.675401,
+      "longitude": 14.122413
+    },
+    {
+      "name": "U Kerama",
+      "latitude": 50.679303,
+      "longitude": 14.57886
+    },
+    {
+      "name": "Nouzové tábořiště Brennský mlýn",
+      "latitude": 50.651604,
+      "longitude": 14.629274
+    },
+    {
+      "name": "Vodácké tábořiště Boreček",
+      "latitude": 50.630647,
+      "longitude": 14.71551
+    },
+    {
+      "name": "Cyklokemp Loděnice",
+      "latitude": 50.62107,
+      "longitude": 14.075672
+    },
+    {
+      "name": "Kemp Úštěk u jezera Chmelař",
+      "latitude": 50.583585,
+      "longitude": 14.329368
+    },
+    {
+      "name": "Marina Labe",
+      "latitude": 50.519404,
+      "longitude": 14.067118
+    },
+    {
+      "name": "Camp Slavoj Litomerice",
+      "latitude": 50.531411,
+      "longitude": 14.13875
+    },
+    {
+      "name": "Marina Labe",
+      "latitude": 50.519537,
+      "longitude": 14.06576
+    },
+    {
+      "name": "Kemp Milčany",
+      "latitude": 50.621393,
+      "longitude": 14.479254
+    },
+    {
+      "name": "Galathea",
+      "latitude": 50.598408,
+      "longitude": 14.456577
+    },
+    {
+      "name": "Jezevec",
+      "latitude": 50.598624,
+      "longitude": 14.451871
+    },
+    {
+      "name": "Srdce starý party",
+      "latitude": 50.602721,
+      "longitude": 14.416313
+    },
+    {
+      "name": "Triangl",
+      "latitude": 50.602354,
+      "longitude": 14.428382
+    },
+    {
+      "name": "Maringotky",
+      "latitude": 50.624688,
+      "longitude": 14.465996
+    },
+    {
+      "name": "Aero",
+      "latitude": 50.622339,
+      "longitude": 14.482081
+    },
+    {
+      "name": "Jachta Holany",
+      "latitude": 50.623068,
+      "longitude": 14.482786
+    },
+    {
+      "name": "čp7",
+      "latitude": 50.597602,
+      "longitude": 14.509477
+    },
+    {
+      "name": "Keyway",
+      "latitude": 50.594611,
+      "longitude": 14.445336
+    },
+    {
+      "name": "U ptáčka",
+      "latitude": 50.586563,
+      "longitude": 14.437444
+    },
+    {
+      "name": "Myšárna - Wakan",
+      "latitude": 50.586257,
+      "longitude": 14.433634
+    },
+    {
+      "name": "Staré sedlo",
+      "latitude": 50.579826,
+      "longitude": 14.44016
+    },
+    {
+      "name": "Sosna",
+      "latitude": 50.580168,
+      "longitude": 14.437704
+    },
+    {
+      "name": "Mamuťák",
+      "latitude": 50.571103,
+      "longitude": 14.460758
+    },
+    {
+      "name": "Krkavec",
+      "latitude": 50.584431,
+      "longitude": 14.439014
+    },
+    {
+      "name": "Kačabača",
+      "latitude": 50.590422,
+      "longitude": 14.431698
+    },
+    {
+      "name": "Vyomink",
+      "latitude": 50.585393,
+      "longitude": 14.450709
+    },
+    {
+      "name": "Pod Starou husí cestou",
+      "latitude": 50.58128,
+      "longitude": 14.470367
+    },
+    {
+      "name": "Tisícák",
+      "latitude": 50.579337,
+      "longitude": 14.452798
+    },
+    {
+      "name": "Krápník",
+      "latitude": 50.57984,
+      "longitude": 14.45361
+    },
+    {
+      "name": "Vlčí doupě",
+      "latitude": 50.57701,
+      "longitude": 14.45405
+    },
+    {
+      "name": "Swamp",
+      "latitude": 50.590339,
+      "longitude": 14.452031
+    },
+    {
+      "name": "Rocky",
+      "latitude": 50.577462,
+      "longitude": 14.463238
+    },
+    {
+      "name": "Orion",
+      "latitude": 50.59073,
+      "longitude": 14.45653
+    },
+    {
+      "name": "Náhoda",
+      "latitude": 50.582365,
+      "longitude": 14.441948
+    },
+    {
+      "name": "Malá skála",
+      "latitude": 50.574623,
+      "longitude": 14.449954
+    },
+    {
+      "name": "Lasička",
+      "latitude": 50.585908,
+      "longitude": 14.440866
+    },
+    {
+      "name": "Kodiak",
+      "latitude": 50.57993,
+      "longitude": 14.461962
+    },
+    {
+      "name": "Heřmánek",
+      "latitude": 50.585127,
+      "longitude": 14.464299
+    },
+    {
+      "name": "Strážce lesa",
+      "latitude": 50.573387,
+      "longitude": 14.445442
+    },
+    {
+      "name": "2",
+      "latitude": 50.577909,
+      "longitude": 14.43717
+    },
+    {
+      "name": "Devítka",
+      "latitude": 50.574488,
+      "longitude": 14.439937
+    },
+    {
+      "name": "ARTG",
+      "latitude": 50.576692,
+      "longitude": 14.443633
+    },
+    {
+      "name": "Kancelář",
+      "latitude": 50.586905,
+      "longitude": 14.433155
+    },
+    {
+      "name": "Junák",
+      "latitude": 50.584113,
+      "longitude": 14.431933
+    },
+    {
+      "name": "Tarzan",
+      "latitude": 50.572927,
+      "longitude": 14.442032
+    },
+    {
+      "name": "Netopýr",
+      "latitude": 50.583589,
+      "longitude": 14.446628
+    },
+    {
+      "name": "Náhoda",
+      "latitude": 50.595313,
+      "longitude": 14.434077
+    },
+    {
+      "name": "Brloh",
+      "latitude": 50.57027,
+      "longitude": 14.476754
+    },
+    {
+      "name": "Blizzard",
+      "latitude": 50.578122,
+      "longitude": 14.460551
+    },
+    {
+      "name": "Rožec",
+      "latitude": 50.597048,
+      "longitude": 14.45242
+    },
+    {
+      "name": "Přespávací převis",
+      "latitude": 50.586968,
+      "longitude": 14.437502
+    },
+    {
+      "name": "Kemp v Dolském údolí",
+      "latitude": 50.594476,
+      "longitude": 14.509435
+    },
+    {
+      "name": "Klika",
+      "latitude": 50.607169,
+      "longitude": 14.667263
+    },
+    {
+      "name": "Sýček",
+      "latitude": 50.597616,
+      "longitude": 14.672533
+    },
+    {
+      "name": "Hliněná záplata",
+      "latitude": 50.600135,
+      "longitude": 14.664924
+    },
+    {
+      "name": "Sráz",
+      "latitude": 50.601981,
+      "longitude": 14.663916
+    },
+    {
+      "name": "Kemp Andrea",
+      "latitude": 50.594268,
+      "longitude": 14.650139
+    },
+    {
+      "name": "Chatová Osada Bílý Kámen",
+      "latitude": 50.570385,
+      "longitude": 14.667997
+    },
+    {
+      "name": "Camp Borný",
+      "latitude": 50.590918,
+      "longitude": 14.653297
+    },
+    {
+      "name": "Rekreační středisko Arnika",
+      "latitude": 50.587522,
+      "longitude": 14.657068
+    },
+    {
+      "name": "Kemp Březňák",
+      "latitude": 50.585405,
+      "longitude": 14.660289
+    },
+    {
+      "name": "Preciosa",
+      "latitude": 50.585032,
+      "longitude": 14.661552
+    },
+    {
+      "name": "Preciosa",
+      "latitude": 50.584121,
+      "longitude": 14.662733
+    },
+    {
+      "name": "Karolínka",
+      "latitude": 50.586472,
+      "longitude": 14.658424
+    },
+    {
+      "name": "Autokemp Klůček",
+      "latitude": 50.57506,
+      "longitude": 14.661545
+    },
+    {
+      "name": "Family kemp",
+      "latitude": 50.594289,
+      "longitude": 14.649885
+    },
+    {
+      "name": "R7D",
+      "latitude": 50.567222,
+      "longitude": 14.458474
+    },
+    {
+      "name": "Novej (Soví kemp)",
+      "latitude": 50.566333,
+      "longitude": 14.462688
+    },
+    {
+      "name": "Trojka",
+      "latitude": 50.564336,
+      "longitude": 14.476556
+    },
+    {
+      "name": "Autokemp Nedamov",
+      "latitude": 50.53736,
+      "longitude": 14.555085
+    },
+    {
+      "name": "Skalka u Doks",
+      "latitude": 50.568713,
+      "longitude": 14.593775
+    },
+    {
+      "name": "Gomorka",
+      "latitude": 50.525915,
+      "longitude": 14.692382
+    },
+    {
+      "name": "Sodomka",
+      "latitude": 50.522369,
+      "longitude": 14.691626
+    },
+    {
+      "name": "Borůvkáč",
+      "latitude": 50.521683,
+      "longitude": 14.685498
+    },
+    {
+      "name": "Tábor",
+      "latitude": 50.535645,
+      "longitude": 14.711898
+    },
+    {
+      "name": "Rekreační centrum Hamr na Jezeře",
+      "latitude": 50.704457,
+      "longitude": 14.844718
+    },
+    {
+      "name": "Camping 2000",
+      "latitude": 50.702182,
+      "longitude": 14.939649
+    },
+    {
+      "name": "Autokemp Zátiší",
+      "latitude": 50.709761,
+      "longitude": 15.42385
+    },
+    {
+      "name": "Ostrov",
+      "latitude": 50.638219,
+      "longitude": 15.190518
+    },
+    {
+      "name": "Paraplíčko",
+      "latitude": 50.635341,
+      "longitude": 15.292482
+    },
+    {
+      "name": "Buškova jeskyně",
+      "latitude": 50.60609,
+      "longitude": 14.934801
+    },
+    {
+      "name": "Kemp Vrchbělá",
+      "latitude": 50.523758,
+      "longitude": 14.7764
+    },
+    {
+      "name": "Autokemp Příhrazy",
+      "latitude": 50.528445,
+      "longitude": 15.078911
+    },
+    {
+      "name": "Zrcadlová koza",
+      "latitude": 50.602766,
+      "longitude": 15.182626
+    },
+    {
+      "name": "Kemp Dolánky",
+      "latitude": 50.602258,
+      "longitude": 15.171941
+    },
+    {
+      "name": "Kemp Sedmihorky",
+      "latitude": 50.549423,
+      "longitude": 15.142173
+    },
+    {
+      "name": "Autocamp Sedmihorky",
+      "latitude": 50.558422,
+      "longitude": 15.186873
+    },
+    {
+      "name": "Čertoryje",
+      "latitude": 50.520961,
+      "longitude": 15.183133
+    },
+    {
+      "name": "Palda - rekreační středisko",
+      "latitude": 50.527816,
+      "longitude": 15.280801
+    },
+    {
+      "name": "U jezu",
+      "latitude": 50.432041,
+      "longitude": 14.150215
+    },
+    {
+      "name": "KK Roudnice nad Labem",
+      "latitude": 50.430176,
+      "longitude": 14.261347
+    },
+    {
+      "name": "KK Roudnice nad Labem",
+      "latitude": 50.430669,
+      "longitude": 14.259577
+    },
+    {
+      "name": "KK Roudnice nad Labem",
+      "latitude": 50.430593,
+      "longitude": 14.26107
+    },
+    {
+      "name": "Sporthotel",
+      "latitude": 50.428527,
+      "longitude": 14.265359
+    },
+    {
+      "name": "Pařezák",
+      "latitude": 50.506349,
+      "longitude": 14.500202
+    },
+    {
+      "name": "Kapka",
+      "latitude": 50.507089,
+      "longitude": 14.500034
+    },
+    {
+      "name": "Kyseliňák",
+      "latitude": 50.506392,
+      "longitude": 14.509363
+    },
+    {
+      "name": "U svině",
+      "latitude": 50.491033,
+      "longitude": 14.534483
+    },
+    {
+      "name": "Tribuna",
+      "latitude": 50.49333,
+      "longitude": 14.539231
+    },
+    {
+      "name": "Pod Pustou věží",
+      "latitude": 50.507523,
+      "longitude": 14.503812
+    },
+    {
+      "name": "Andělský",
+      "latitude": 50.498629,
+      "longitude": 14.534065
+    },
+    {
+      "name": "Poradní skála",
+      "latitude": 50.503249,
+      "longitude": 14.530885
+    },
+    {
+      "name": "Pod Branou 2",
+      "latitude": 50.491926,
+      "longitude": 14.536852
+    },
+    {
+      "name": "Kohout",
+      "latitude": 50.48923,
+      "longitude": 14.539738
+    },
+    {
+      "name": "Marty",
+      "latitude": 50.5042,
+      "longitude": 14.513483
+    },
+    {
+      "name": "U Amálky",
+      "latitude": 50.49526,
+      "longitude": 14.573927
+    },
+    {
+      "name": "Vajíčko",
+      "latitude": 50.492815,
+      "longitude": 14.531858
+    },
+    {
+      "name": "Čon Wambli Tanka",
+      "latitude": 50.507572,
+      "longitude": 14.510054
+    },
+    {
+      "name": "Noční můra",
+      "latitude": 50.461929,
+      "longitude": 14.557251
+    },
+    {
+      "name": "Umrlčí rokle",
+      "latitude": 50.461723,
+      "longitude": 14.535686
+    },
+    {
+      "name": "Kamenná maštal",
+      "latitude": 50.461061,
+      "longitude": 14.555225
+    },
+    {
+      "name": "Kapelník",
+      "latitude": 50.478268,
+      "longitude": 14.53855
+    },
+    {
+      "name": "Osada Bílé skály",
+      "latitude": 50.4803,
+      "longitude": 14.594619
+    },
+    {
+      "name": "U Vodoucha",
+      "latitude": 50.45763,
+      "longitude": 14.60473
+    },
+    {
+      "name": "Partyzánka 2",
+      "latitude": 50.457935,
+      "longitude": 14.603547
+    },
+    {
+      "name": "Beer camp",
+      "latitude": 50.459668,
+      "longitude": 14.604389
+    },
+    {
+      "name": "Srub Bílá skála",
+      "latitude": 50.472295,
+      "longitude": 14.704618
+    },
+    {
+      "name": "Tábořiště u splávku",
+      "latitude": 50.446353,
+      "longitude": 14.577348
+    },
+    {
+      "name": "Autokemp Kokořín",
+      "latitude": 50.438047,
+      "longitude": 14.587251
+    },
+    {
+      "name": "Trun",
+      "latitude": 50.456488,
+      "longitude": 14.571753
+    },
+    {
+      "name": "Dančí skála",
+      "latitude": 50.45169,
+      "longitude": 14.523341
+    },
+    {
+      "name": "Kemp Želízy",
+      "latitude": 50.42461,
+      "longitude": 14.460558
+    },
+    {
+      "name": "Camp SK Liběchov",
+      "latitude": 50.412516,
+      "longitude": 14.453144
+    },
+    {
+      "name": "Camp Zahrada",
+      "latitude": 50.412581,
+      "longitude": 14.454686
+    },
+    {
+      "name": "Touha",
+      "latitude": 50.429236,
+      "longitude": 14.588935
+    },
+    {
+      "name": "tábořiště",
+      "latitude": 50.410882,
+      "longitude": 14.565171
+    },
+    {
+      "name": "Rekreační středisko Sever",
+      "latitude": 50.440306,
+      "longitude": 14.626814
+    },
+    {
+      "name": "Soví hrad",
+      "latitude": 50.449886,
+      "longitude": 14.604535
+    },
+    {
+      "name": "Ztracený svět",
+      "latitude": 50.454237,
+      "longitude": 14.603317
+    },
+    {
+      "name": "Boudecká 1",
+      "latitude": 50.455625,
+      "longitude": 14.59787
+    },
+    {
+      "name": "Dakota",
+      "latitude": 50.447623,
+      "longitude": 14.590632
+    },
+    {
+      "name": "Trampská osada Praotce Čecha",
+      "latitude": 50.378682,
+      "longitude": 14.285269
+    },
+    {
+      "name": "Autokemp Mělník",
+      "latitude": 50.360038,
+      "longitude": 14.476096
+    },
+    {
+      "name": "Komárov (Peklo)",
+      "latitude": 50.502961,
+      "longitude": 15.076893
+    },
+    {
+      "name": "Chatová osada Lemberk",
+      "latitude": 50.502287,
+      "longitude": 15.080053
+    },
+    {
+      "name": "Camp Branžež - Křineč",
+      "latitude": 50.509342,
+      "longitude": 15.075057
+    },
+    {
+      "name": "Duo Camp",
+      "latitude": 50.507867,
+      "longitude": 15.072117
+    },
+    {
+      "name": "Kemp Nebe.cz",
+      "latitude": 50.508713,
+      "longitude": 15.075283
+    },
+    {
+      "name": "Autocamp Kosmonosy",
+      "latitude": 50.444686,
+      "longitude": 14.914262
+    },
+    {
+      "name": "El Torro",
+      "latitude": 50.510718,
+      "longitude": 15.176725
+    },
+    {
+      "name": "Svitačka",
+      "latitude": 50.510179,
+      "longitude": 15.230882
+    },
+    {
+      "name": "Koupaliště Kemp Sobotka",
+      "latitude": 50.474069,
+      "longitude": 15.168932
+    },
+    {
+      "name": "Ubytování Drštěkryje",
+      "latitude": 50.460365,
+      "longitude": 15.250808
+    },
+    {
+      "name": "Český ráj",
+      "latitude": 50.493144,
+      "longitude": 15.325185
+    },
+    {
+      "name": "Rustic Camp",
+      "latitude": 50.49331,
+      "longitude": 15.323451
+    },
+    {
+      "name": "Chatový Tábor Jinolice",
+      "latitude": 50.474111,
+      "longitude": 15.312761
+    },
+    {
+      "name": "Eden",
+      "latitude": 50.474572,
+      "longitude": 15.304623
+    },
+    {
+      "name": "Ranč na Kamenci",
+      "latitude": 50.484902,
+      "longitude": 15.381764
+    },
+    {
+      "name": "Kemp Rumcajs",
+      "latitude": 50.444091,
+      "longitude": 15.33813
+    },
+    {
+      "name": "Camping Kralovec",
+      "latitude": 50.676826,
+      "longitude": 15.968846
+    },
+    {
+      "name": "Vrchlabi",
+      "latitude": 50.624167,
+      "longitude": 15.640556
+    },
+    {
+      "name": "Holiday Park Vrchlabí - Liščí farma",
+      "latitude": 50.609322,
+      "longitude": 15.600748
+    },
+    {
+      "name": "Camping Papillon",
+      "latitude": 50.590229,
+      "longitude": 15.661759
+    },
+    {
+      "name": "Bukovina buiten",
+      "latitude": 50.546165,
+      "longitude": 15.591021
+    },
+    {
+      "name": "Autokemp \"Na koupališti\"",
+      "latitude": 50.539924,
+      "longitude": 15.626357
+    },
+    {
+      "name": "Peklo-Pension",
+      "latitude": 50.583566,
+      "longitude": 15.85312
+    },
+    {
+      "name": "Tatra Glamp Okrzeszyn",
+      "latitude": 50.614795,
+      "longitude": 16.024646
+    },
+    {
+      "name": "Ubytování U Stránských",
+      "latitude": 50.616064,
+      "longitude": 16.108525
+    },
+    {
+      "name": "Meiers",
+      "latitude": 50.617699,
+      "longitude": 16.111186
+    },
+    {
+      "name": "Autokemp Bučnice",
+      "latitude": 50.601279,
+      "longitude": 16.150433
+    },
+    {
+      "name": "Camp Kamenec",
+      "latitude": 50.592211,
+      "longitude": 16.166889
+    },
+    {
+      "name": "penzion Metuje",
+      "latitude": 50.594438,
+      "longitude": 16.160436
+    },
+    {
+      "name": "Dolce Vita",
+      "latitude": 50.545513,
+      "longitude": 15.867075
+    },
+    {
+      "name": "Camping - Aktief",
+      "latitude": 50.616037,
+      "longitude": 16.22887
+    },
+    {
+      "name": "Camping Šonov",
+      "latitude": 50.595414,
+      "longitude": 16.396489
+    },
+    {
+      "name": "Camping U Potoka",
+      "latitude": 50.526651,
+      "longitude": 16.372151
+    },
+    {
+      "name": "Vakantiehuis en Camping Bozanov",
+      "latitude": 50.523806,
+      "longitude": 16.352247
+    },
+    {
+      "name": "Kemp Pecka",
+      "latitude": 50.490064,
+      "longitude": 15.608519
+    },
+    {
+      "name": "Rekreační zařízení Svatá Kateřina",
+      "latitude": 50.50097,
+      "longitude": 15.776601
+    },
+    {
+      "name": "Autokemp Mostek",
+      "latitude": 50.483541,
+      "longitude": 15.690892
+    },
+    {
+      "name": "Tábořiště Nemojov – louka Indiana",
+      "latitude": 50.468575,
+      "longitude": 15.755954
+    },
+    {
+      "name": "Safari Kemp",
+      "latitude": 50.433193,
+      "longitude": 15.793137
+    },
+    {
+      "name": "Camping Tom",
+      "latitude": 50.486257,
+      "longitude": 15.980909
+    },
+    {
+      "name": "Autokemp Nesytá",
+      "latitude": 50.46428,
+      "longitude": 15.933654
+    },
+    {
+      "name": "Radeč",
+      "latitude": 50.507484,
+      "longitude": 15.998946
+    },
+    {
+      "name": "táborová základna",
+      "latitude": 50.484893,
+      "longitude": 16.044794
+    },
+    {
+      "name": "Autokemp Brodský",
+      "latitude": 50.465396,
+      "longitude": 16.102427
+    },
+    {
+      "name": "Letní tábor Běluň",
+      "latitude": 50.451776,
+      "longitude": 15.93435
+    },
+    {
+      "name": "Minicamp Pension Doctor",
+      "latitude": 50.424569,
+      "longitude": 15.877173
+    },
+    {
+      "name": "Pozemek U mlýna",
+      "latitude": 50.422422,
+      "longitude": 16.094383
+    },
+    {
+      "name": "Autokemp U Věže",
+      "latitude": 50.377865,
+      "longitude": 15.639947
+    },
+    {
+      "name": "Stanovani - dachova",
+      "latitude": 50.38334,
+      "longitude": 15.640661
+    },
+    {
+      "name": "Kemp Alegro",
+      "latitude": 50.38719,
+      "longitude": 15.637465
+    },
+    {
+      "name": "Kemp Rychta",
+      "latitude": 50.386602,
+      "longitude": 15.636847
+    },
+    {
+      "name": "Letní dětský tábor Doubravice",
+      "latitude": 50.394261,
+      "longitude": 15.752614
+    },
+    {
+      "name": "Sportovně turistické zařízení Lanžov",
+      "latitude": 50.387113,
+      "longitude": 15.757762
+    },
+    {
+      "name": "Autokemp Velký Vřešťov",
+      "latitude": 50.349861,
+      "longitude": 15.752868
+    },
+    {
+      "name": "Kemp Milovice u Hořic",
+      "latitude": 50.329796,
+      "longitude": 15.627982
+    },
+    {
+      "name": "Autocamping Rozkoš",
+      "latitude": 50.396191,
+      "longitude": 16.063863
+    },
+    {
+      "name": "Surfcentrum u Milana",
+      "latitude": 50.367186,
+      "longitude": 16.051622
+    },
+    {
+      "name": "Autokemo Velky drevic",
+      "latitude": 50.498227,
+      "longitude": 16.184766
+    },
+    {
+      "name": "Camp Radków",
+      "latitude": 50.500178,
+      "longitude": 16.372893
+    },
+    {
+      "name": "Camper Park Radków",
+      "latitude": 50.498747,
+      "longitude": 16.372149
+    },
+    {
+      "name": "Camping nr 183",
+      "latitude": 50.433468,
+      "longitude": 16.231204
+    },
+    {
+      "name": "Camping Destne-Zakoutí",
+      "latitude": 50.299826,
+      "longitude": 16.367315
+    },
+    {
+      "name": "Autokemp Obora",
+      "latitude": 50.27998,
+      "longitude": 14.320602
+    },
+    {
+      "name": "U Jordánu",
+      "latitude": 50.243223,
+      "longitude": 14.400498
+    },
+    {
+      "name": "Camping Mlékojedy",
+      "latitude": 50.264528,
+      "longitude": 14.541911
+    },
+    {
+      "name": "Džbán",
+      "latitude": 50.099186,
+      "longitude": 14.33626
+    },
+    {
+      "name": "Triocamp",
+      "latitude": 50.1526,
+      "longitude": 14.449753
+    },
+    {
+      "name": "Autocamp Hajek",
+      "latitude": 50.117104,
+      "longitude": 14.428925
+    },
+    {
+      "name": "Camp Fremunt",
+      "latitude": 50.117115,
+      "longitude": 14.42746
+    },
+    {
+      "name": "Camp Herzog",
+      "latitude": 50.117178,
+      "longitude": 14.427157
+    },
+    {
+      "name": "Autocamp Petrakova",
+      "latitude": 50.117055,
+      "longitude": 14.428654
+    },
+    {
+      "name": "HG Sport, s.r.o.",
+      "latitude": 50.113843,
+      "longitude": 14.424161
+    },
+    {
+      "name": "Camp Sokol Troja",
+      "latitude": 50.117119,
+      "longitude": 14.424879
+    },
+    {
+      "name": "River Camping Prague",
+      "latitude": 50.113889,
+      "longitude": 14.426155
+    },
+    {
+      "name": "Autocamp Trojská",
+      "latitude": 50.116989,
+      "longitude": 14.427745
+    },
+    {
+      "name": "Camp Zizkov",
+      "latitude": 50.091966,
+      "longitude": 14.47302
+    },
+    {
+      "name": "Sokol Praha",
+      "latitude": 50.088829,
+      "longitude": 14.583588
+    },
+    {
+      "name": "Camping Praha Klánovice",
+      "latitude": 50.098331,
+      "longitude": 14.685975
+    },
+    {
+      "name": "A.T.C. Autokemp Golf",
+      "latitude": 50.135304,
+      "longitude": 15.136038
+    },
+    {
+      "name": "Kemp Koupaliště Chlumec nad Cidlinou",
+      "latitude": 50.151209,
+      "longitude": 15.467007
+    },
+    {
+      "name": "Valek",
+      "latitude": 50.011389,
+      "longitude": 14.150556
+    },
+    {
+      "name": "Familiy Camp Drusus",
+      "latitude": 50.043889,
+      "longitude": 14.284167
+    },
+    {
+      "name": "Caravan Park Yacht Club Císarská Louka",
+      "latitude": 50.061859,
+      "longitude": 14.413731
+    },
+    {
+      "name": "Praguecamp",
+      "latitude": 50.055556,
+      "longitude": 14.413267
+    },
+    {
+      "name": "Camp Slivenec",
+      "latitude": 50.01928,
+      "longitude": 14.356316
+    },
+    {
+      "name": "Autocamp Na Hrázi",
+      "latitude": 49.968989,
+      "longitude": 14.075542
+    },
+    {
+      "name": "Prager",
+      "latitude": 50.012398,
+      "longitude": 14.512103
+    },
+    {
+      "name": "Oase",
+      "latitude": 49.951389,
+      "longitude": 14.475
+    },
+    {
+      "name": "Camp Srbsko",
+      "latitude": 49.939339,
+      "longitude": 14.132456
+    },
+    {
+      "name": "Autokemp Karlštejn",
+      "latitude": 49.933836,
+      "longitude": 14.170988
+    },
+    {
+      "name": "Autocamp Ostrov - Zadní Třebáň",
+      "latitude": 49.920879,
+      "longitude": 14.210296
+    },
+    {
+      "name": "Kemp Řevnice",
+      "latitude": 49.917522,
+      "longitude": 14.230602
+    },
+    {
+      "name": "Matyáš",
+      "latitude": 49.932587,
+      "longitude": 14.37245
+    },
+    {
+      "name": "Lávka Park Skochovice",
+      "latitude": 49.930406,
+      "longitude": 14.373035
+    },
+    {
+      "name": "tábořiště",
+      "latitude": 49.886888,
+      "longitude": 14.22606
+    },
+    {
+      "name": "převis Babka",
+      "latitude": 49.891418,
+      "longitude": 14.235621
+    },
+    {
+      "name": "Carcaio",
+      "latitude": 49.867053,
+      "longitude": 14.18376
+    },
+    {
+      "name": "Casablanca",
+      "latitude": 49.859884,
+      "longitude": 14.17119
+    },
+    {
+      "name": "Lesná",
+      "latitude": 49.845467,
+      "longitude": 14.186497
+    },
+    {
+      "name": "Na Mechu",
+      "latitude": 49.843618,
+      "longitude": 14.189109
+    },
+    {
+      "name": "Vrahův kemp",
+      "latitude": 49.861697,
+      "longitude": 14.181492
+    },
+    {
+      "name": "Bílá skála",
+      "latitude": 49.864107,
+      "longitude": 14.182162
+    },
+    {
+      "name": "Světluška",
+      "latitude": 49.879681,
+      "longitude": 14.238921
+    },
+    {
+      "name": "Kemp Pikovice",
+      "latitude": 49.876912,
+      "longitude": 14.424526
+    },
+    {
+      "name": "Kemp u BOŘKA",
+      "latitude": 49.884271,
+      "longitude": 14.744587
+    },
+    {
+      "name": "Vodacké tábořiště",
+      "latitude": 49.881793,
+      "longitude": 14.728841
+    },
+    {
+      "name": "Podviňák",
+      "latitude": 50.059959,
+      "longitude": 14.848012
+    },
+    {
+      "name": "Marina Týnec",
+      "latitude": 50.035997,
+      "longitude": 15.348331
+    },
+    {
+      "name": "Barbora Kemp",
+      "latitude": 49.954484,
+      "longitude": 15.260172
+    },
+    {
+      "name": "Autocamp Transit",
+      "latitude": 49.964409,
+      "longitude": 15.302804
+    },
+    {
+      "name": "Vaníček",
+      "latitude": 49.883637,
+      "longitude": 14.821434
+    },
+    {
+      "name": "Ostende",
+      "latitude": 49.870002,
+      "longitude": 14.803676
+    },
+    {
+      "name": "Klub Lávka Chocerady",
+      "latitude": 49.88296,
+      "longitude": 14.819951
+    },
+    {
+      "name": "U hrocha",
+      "latitude": 49.872682,
+      "longitude": 14.882217
+    },
+    {
+      "name": "Pod Vrbou",
+      "latitude": 49.877751,
+      "longitude": 14.900095
+    },
+    {
+      "name": "Sázavský ostrov",
+      "latitude": 49.880996,
+      "longitude": 14.906516
+    },
+    {
+      "name": "Autokemp Malešov",
+      "latitude": 49.922604,
+      "longitude": 15.243008
+    },
+    {
+      "name": "Kemp Lodín",
+      "latitude": 50.26899,
+      "longitude": 15.606544
+    },
+    {
+      "name": "Broumar",
+      "latitude": 50.269899,
+      "longitude": 16.129798
+    },
+    {
+      "name": "Tábor J. A. Komenského",
+      "latitude": 50.187036,
+      "longitude": 15.949045
+    },
+    {
+      "name": "Resort Čochtan, kemp Lázně Bohdaneč",
+      "latitude": 50.081264,
+      "longitude": 15.657563
+    },
+    {
+      "name": "Vodácké tábořiště",
+      "latitude": 50.150699,
+      "longitude": 16.064193
+    },
+    {
+      "name": "Kemp Písák",
+      "latitude": 50.158905,
+      "longitude": 16.088123
+    },
+    {
+      "name": "Autocamping Hluboký",
+      "latitude": 50.088089,
+      "longitude": 15.973825
+    },
+    {
+      "name": "Černá Voda",
+      "latitude": 50.249592,
+      "longitude": 16.495563
+    },
+    {
+      "name": "Táborová osada \"U starého mlýna\"",
+      "latitude": 50.210978,
+      "longitude": 16.327983
+    },
+    {
+      "name": "Kostelec",
+      "latitude": 50.118614,
+      "longitude": 16.228769
+    },
+    {
+      "name": "Autokemp Orlice",
+      "latitude": 50.115748,
+      "longitude": 16.216003
+    },
+    {
+      "name": "Kemp Western Vochtánka",
+      "latitude": 50.075416,
+      "longitude": 16.312187
+    },
+    {
+      "name": "Taboriste pod stan pro vodaky",
+      "latitude": 50.093072,
+      "longitude": 16.445408
+    },
+    {
+      "name": "Camp Eldorado",
+      "latitude": 50.080139,
+      "longitude": 16.356828
+    },
+    {
+      "name": "Autocamping Pod Černým lesem",
+      "latitude": 50.08642,
+      "longitude": 16.47693
+    },
+    {
+      "name": "Petrův palouk",
+      "latitude": 50.077583,
+      "longitude": 16.560971
+    },
+    {
+      "name": "ATC Šlechtův palouk",
+      "latitude": 50.080749,
+      "longitude": 16.56406
+    },
+    {
+      "name": "U Kapličky",
+      "latitude": 50.08777,
+      "longitude": 16.563159
+    },
+    {
+      "name": "Zátiší",
+      "latitude": 50.079583,
+      "longitude": 16.556758
+    },
+    {
+      "name": "Sportovní areál Dolní Morava",
+      "latitude": 50.119457,
+      "longitude": 16.799308
+    },
+    {
+      "name": "Autocamp Semín",
+      "latitude": 50.055626,
+      "longitude": 15.533866
+    },
+    {
+      "name": "Marin klub",
+      "latitude": 50.044719,
+      "longitude": 15.619124
+    },
+    {
+      "name": "Autokemp Buňkov",
+      "latitude": 50.054359,
+      "longitude": 15.58682
+    },
+    {
+      "name": "Oaza",
+      "latitude": 50.04829,
+      "longitude": 15.623392
+    },
+    {
+      "name": "Naháč",
+      "latitude": 50.047927,
+      "longitude": 15.611841
+    },
+    {
+      "name": "U Třpytky",
+      "latitude": 50.047846,
+      "longitude": 15.615026
+    },
+    {
+      "name": "Autokemp Cihelna Pardubice",
+      "latitude": 50.046906,
+      "longitude": 15.777721
+    },
+    {
+      "name": "U Žabáka",
+      "latitude": 49.996119,
+      "longitude": 15.524518
+    },
+    {
+      "name": "Nouzové nocoviště Podhůra",
+      "latitude": 49.919553,
+      "longitude": 15.780631
+    },
+    {
+      "name": "Autokemp Kraskov",
+      "latitude": 49.867841,
+      "longitude": 15.622219
+    },
+    {
+      "name": "Autokemp U Letadla - recepce",
+      "latitude": 49.839168,
+      "longitude": 15.663324
+    },
+    {
+      "name": "AK Seč Pláž, recepce",
+      "latitude": 49.8428,
+      "longitude": 15.647633
+    },
+    {
+      "name": "Autokemp Seč Pláž",
+      "latitude": 49.841492,
+      "longitude": 15.64677
+    },
+    {
+      "name": "U Letadla",
+      "latitude": 49.838624,
+      "longitude": 15.662578
+    },
+    {
+      "name": "LTD Ráj",
+      "latitude": 50.012282,
+      "longitude": 16.506825
+    },
+    {
+      "name": "Cakle",
+      "latitude": 49.985388,
+      "longitude": 16.406331
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 50.058066,
+      "longitude": 16.772671
+    },
+    {
+      "name": "Letní dětský tábor Na Dračí Skále",
+      "latitude": 50.061969,
+      "longitude": 16.784805
+    },
+    {
+      "name": "Autokemp Primátor",
+      "latitude": 49.867954,
+      "longitude": 16.323247
+    },
+    {
+      "name": "Auotokemp Knoflík",
+      "latitude": 49.917915,
+      "longitude": 16.58775
+    },
+    {
+      "name": "Lanwood - rekreační centrum",
+      "latitude": 49.920833,
+      "longitude": 16.580122
+    },
+    {
+      "name": "Petrushütte",
+      "latitude": 49.765328,
+      "longitude": 12.410715
+    },
+    {
+      "name": "Rendezvous",
+      "latitude": 49.738187,
+      "longitude": 12.495831
+    },
+    {
+      "name": "Nocoviště Stoupa",
+      "latitude": 49.721229,
+      "longitude": 12.449449
+    },
+    {
+      "name": "Seník Diana",
+      "latitude": 49.635553,
+      "longitude": 12.569569
+    },
+    {
+      "name": "Camping Karolina",
+      "latitude": 49.820798,
+      "longitude": 12.754984
+    },
+    {
+      "name": "bezKempu - Selanka",
+      "latitude": 49.793316,
+      "longitude": 12.881486
+    },
+    {
+      "name": "Camp Kosatka",
+      "latitude": 49.794297,
+      "longitude": 13.137952
+    },
+    {
+      "name": "Camping Terasy",
+      "latitude": 49.795193,
+      "longitude": 13.135951
+    },
+    {
+      "name": "Transkemp Hracholusky",
+      "latitude": 49.791719,
+      "longitude": 13.169184
+    },
+    {
+      "name": "Autokemp Radost",
+      "latitude": 49.795414,
+      "longitude": 13.137564
+    },
+    {
+      "name": "Bauernhof U Štěpána",
+      "latitude": 49.730157,
+      "longitude": 13.048407
+    },
+    {
+      "name": "Pláž Labuť",
+      "latitude": 49.717568,
+      "longitude": 12.686092
+    },
+    {
+      "name": "Tábořiště Výrov",
+      "latitude": 49.703128,
+      "longitude": 12.886681
+    },
+    {
+      "name": "Tábořiště u Pekelského mlýnu",
+      "latitude": 49.720833,
+      "longitude": 12.998784
+    },
+    {
+      "name": "Lom Milevo",
+      "latitude": 49.686698,
+      "longitude": 12.936969
+    },
+    {
+      "name": "Stellplatz Čertův mlýn",
+      "latitude": 49.645096,
+      "longitude": 12.779014
+    },
+    {
+      "name": "Tábořiště Včelnice",
+      "latitude": 49.635422,
+      "longitude": 12.684306
+    },
+    {
+      "name": "Sycherák",
+      "latitude": 49.630893,
+      "longitude": 12.760358
+    },
+    {
+      "name": "Rekreacni stredisko Sycherak",
+      "latitude": 49.634459,
+      "longitude": 12.755513
+    },
+    {
+      "name": "U Vidic",
+      "latitude": 49.618225,
+      "longitude": 12.855709
+    },
+    {
+      "name": "U Přívozu",
+      "latitude": 49.821773,
+      "longitude": 13.527504
+    },
+    {
+      "name": "Nadryby Valentovský mlýn",
+      "latitude": 49.814244,
+      "longitude": 13.527102
+    },
+    {
+      "name": "U Dolanského mostu",
+      "latitude": 49.798636,
+      "longitude": 13.47436
+    },
+    {
+      "name": "TJ Volduchy",
+      "latitude": 49.788611,
+      "longitude": 13.646117
+    },
+    {
+      "name": "Autokemp Veselý Habr",
+      "latitude": 49.790741,
+      "longitude": 13.649934
+    },
+    {
+      "name": "Ostende",
+      "latitude": 49.777334,
+      "longitude": 13.392147
+    },
+    {
+      "name": "Diana Autokemp Ejpovice",
+      "latitude": 49.753496,
+      "longitude": 13.511324
+    },
+    {
+      "name": "Pražanka",
+      "latitude": 49.789923,
+      "longitude": 13.770892
+    },
+    {
+      "name": "Svatý Štěpán",
+      "latitude": 49.789528,
+      "longitude": 13.767609
+    },
+    {
+      "name": "Anamo",
+      "latitude": 49.761778,
+      "longitude": 13.998148
+    },
+    {
+      "name": "Seník",
+      "latitude": 49.696639,
+      "longitude": 13.525667
+    },
+    {
+      "name": "Pod Frňákovníkem",
+      "latitude": 49.613,
+      "longitude": 13.552642
+    },
+    {
+      "name": "Broková střelnice",
+      "latitude": 49.704898,
+      "longitude": 13.791964
+    },
+    {
+      "name": "Bivak",
+      "latitude": 49.706262,
+      "longitude": 13.875364
+    },
+    {
+      "name": "Luxusní seník",
+      "latitude": 49.717971,
+      "longitude": 13.801209
+    },
+    {
+      "name": "Seník Zadní Záběhlá",
+      "latitude": 49.674806,
+      "longitude": 13.765912
+    },
+    {
+      "name": "Seník pod Březovým vrchem",
+      "latitude": 49.67802,
+      "longitude": 13.827841
+    },
+    {
+      "name": "Dětský areál Pepa",
+      "latitude": 49.678949,
+      "longitude": 13.967934
+    },
+    {
+      "name": "U Břízkovce",
+      "latitude": 49.640046,
+      "longitude": 13.739178
+    },
+    {
+      "name": "Seník U Kamenné hradby",
+      "latitude": 49.649364,
+      "longitude": 13.741018
+    },
+    {
+      "name": "Seník U Studánky",
+      "latitude": 49.65355,
+      "longitude": 13.777209
+    },
+    {
+      "name": "Seníky Na Rovinách",
+      "latitude": 49.667038,
+      "longitude": 13.810206
+    },
+    {
+      "name": "Kemp Brdy Věšín",
+      "latitude": 49.615514,
+      "longitude": 13.793323
+    },
+    {
+      "name": "Seník na Kuřkovské mýti",
+      "latitude": 49.632289,
+      "longitude": 13.734682
+    },
+    {
+      "name": "Koukalka",
+      "latitude": 49.624548,
+      "longitude": 13.81392
+    },
+    {
+      "name": "Delta Podhájí autokemp",
+      "latitude": 49.506701,
+      "longitude": 12.906951
+    },
+    {
+      "name": "Autokemp Babylon",
+      "latitude": 49.402059,
+      "longitude": 12.85521
+    },
+    {
+      "name": "Úžlebec",
+      "latitude": 49.416258,
+      "longitude": 13.125248
+    },
+    {
+      "name": "Autokemp Hájovna Kdyně",
+      "latitude": 49.403334,
+      "longitude": 13.05674
+    },
+    {
+      "name": "Autocamping Klatovy",
+      "latitude": 49.40227,
+      "longitude": 13.266461
+    },
+    {
+      "name": "Džbánek",
+      "latitude": 49.606954,
+      "longitude": 13.990252
+    },
+    {
+      "name": "Camping Pliskovice",
+      "latitude": 49.516308,
+      "longitude": 14.018785
+    },
+    {
+      "name": "Nový rybník",
+      "latitude": 49.485951,
+      "longitude": 13.534588
+    },
+    {
+      "name": "Chatová osada Lažánky",
+      "latitude": 49.399527,
+      "longitude": 13.837592
+    },
+    {
+      "name": "skautské tábořiště",
+      "latitude": 49.383099,
+      "longitude": 13.860488
+    },
+    {
+      "name": "Autokemp Nýrsko",
+      "latitude": 49.285427,
+      "longitude": 13.145064
+    },
+    {
+      "name": "Eurocamp Běšiny",
+      "latitude": 49.295947,
+      "longitude": 13.321357
+    },
+    {
+      "name": "relax areal",
+      "latitude": 49.359554,
+      "longitude": 13.496388
+    },
+    {
+      "name": "kemp Rosenauerův Mlýn",
+      "latitude": 49.31865,
+      "longitude": 13.698756
+    },
+    {
+      "name": "skautské tábořiště",
+      "latitude": 49.377948,
+      "longitude": 13.866219
+    },
+    {
+      "name": "ATC Milavy",
+      "latitude": 49.349655,
+      "longitude": 13.967025
+    },
+    {
+      "name": "Kemp Luhy",
+      "latitude": 49.349973,
+      "longitude": 13.972237
+    },
+    {
+      "name": "Autokemp Milavy Čapková",
+      "latitude": 49.349123,
+      "longitude": 13.969435
+    },
+    {
+      "name": "Kemp Hoštice",
+      "latitude": 49.296975,
+      "longitude": 13.754346
+    },
+    {
+      "name": "Otavský ráj - kemp Katovice",
+      "latitude": 49.272185,
+      "longitude": 13.827651
+    },
+    {
+      "name": "Chatová Osada Luh",
+      "latitude": 49.22244,
+      "longitude": 13.515391
+    },
+    {
+      "name": "Kemp Sušice",
+      "latitude": 49.245797,
+      "longitude": 13.545118
+    },
+    {
+      "name": "Dobršín",
+      "latitude": 49.256761,
+      "longitude": 13.566771
+    },
+    {
+      "name": "ubytování",
+      "latitude": 49.213436,
+      "longitude": 13.622974
+    },
+    {
+      "name": "ubytování",
+      "latitude": 49.214105,
+      "longitude": 13.6233
+    },
+    {
+      "name": "Autokemp Annín 2",
+      "latitude": 49.182267,
+      "longitude": 13.49702
+    },
+    {
+      "name": "Annín Tree Park Camp",
+      "latitude": 49.1828,
+      "longitude": 13.494688
+    },
+    {
+      "name": "Autokempink Nové Městečko",
+      "latitude": 49.180783,
+      "longitude": 13.499319
+    },
+    {
+      "name": "ATC Radešov",
+      "latitude": 49.154372,
+      "longitude": 13.51255
+    },
+    {
+      "name": "Autocamping Annín 1",
+      "latitude": 49.176837,
+      "longitude": 13.502431
+    },
+    {
+      "name": "Autokemp Podskalí",
+      "latitude": 49.256875,
+      "longitude": 13.886614
+    },
+    {
+      "name": "vodácký kemp Slaník",
+      "latitude": 49.262741,
+      "longitude": 13.945462
+    },
+    {
+      "name": "Kemp u Jezu",
+      "latitude": 49.265709,
+      "longitude": 13.998123
+    },
+    {
+      "name": "kemp Otava",
+      "latitude": 49.265398,
+      "longitude": 13.996618
+    },
+    {
+      "name": "Autocamp Železná Ruda",
+      "latitude": 49.143338,
+      "longitude": 13.247131
+    },
+    {
+      "name": "Hůrka u Prášil",
+      "latitude": 49.126943,
+      "longitude": 13.328448
+    },
+    {
+      "name": "Kemp Yukon",
+      "latitude": 49.152366,
+      "longitude": 13.51267
+    },
+    {
+      "name": "Klášterský Mlýn",
+      "latitude": 49.141767,
+      "longitude": 13.512375
+    },
+    {
+      "name": "Veřejné tábořiště Prášily",
+      "latitude": 49.108733,
+      "longitude": 13.382714
+    },
+    {
+      "name": "Pavlova Louka",
+      "latitude": 49.121638,
+      "longitude": 13.489747
+    },
+    {
+      "name": "Autokemp Rohanov",
+      "latitude": 49.138076,
+      "longitude": 13.703991
+    },
+    {
+      "name": "Adolf Žižka - Kemp Úbislav",
+      "latitude": 49.117719,
+      "longitude": 13.671526
+    },
+    {
+      "name": "Poledník",
+      "latitude": 49.064429,
+      "longitude": 13.39529
+    },
+    {
+      "name": "Antýgl",
+      "latitude": 49.057455,
+      "longitude": 13.511504
+    },
+    {
+      "name": "Antýgl",
+      "latitude": 49.058354,
+      "longitude": 13.512989
+    },
+    {
+      "name": "Kemp a penzion Kateřinský mlýn",
+      "latitude": 49.09423,
+      "longitude": 13.737706
+    },
+    {
+      "name": "zámek Skalice",
+      "latitude": 49.094437,
+      "longitude": 13.813521
+    },
+    {
+      "name": "Kemp Vodník",
+      "latitude": 49.058617,
+      "longitude": 13.764393
+    },
+    {
+      "name": "Hájná hora",
+      "latitude": 49.046461,
+      "longitude": 13.778265
+    },
+    {
+      "name": "Autokemp Žíchovec",
+      "latitude": 49.075362,
+      "longitude": 14.044454
+    },
+    {
+      "name": "Modrava",
+      "latitude": 49.024092,
+      "longitude": 13.490916
+    },
+    {
+      "name": "Nouzové nocoviste",
+      "latitude": 49.024023,
+      "longitude": 13.489197
+    },
+    {
+      "name": "Bučina, nouzové nocoviště",
+      "latitude": 48.971291,
+      "longitude": 13.597414
+    },
+    {
+      "name": "Zahrádky",
+      "latitude": 48.972071,
+      "longitude": 13.675271
+    },
+    {
+      "name": "TJ Vltava",
+      "latitude": 48.955333,
+      "longitude": 13.752404
+    },
+    {
+      "name": "Camp Idina pila",
+      "latitude": 48.95893,
+      "longitude": 13.826837
+    },
+    {
+      "name": "Lenora",
+      "latitude": 48.926652,
+      "longitude": 13.791187
+    },
+    {
+      "name": "Kemp Pod Boubínem",
+      "latitude": 48.947427,
+      "longitude": 13.786354
+    },
+    {
+      "name": "Křišťanovický rybník",
+      "latitude": 48.968381,
+      "longitude": 13.937178
+    },
+    {
+      "name": "Sektor 3",
+      "latitude": 48.96894,
+      "longitude": 13.93741
+    },
+    {
+      "name": "Sektor 4",
+      "latitude": 48.970054,
+      "longitude": 13.93764
+    },
+    {
+      "name": "Blanický Mlýn",
+      "latitude": 48.957908,
+      "longitude": 13.940118
+    },
+    {
+      "name": "Starý smrk",
+      "latitude": 49.828334,
+      "longitude": 14.202373
+    },
+    {
+      "name": "Swamp",
+      "latitude": 49.830672,
+      "longitude": 14.199395
+    },
+    {
+      "name": "New Michilimackinac",
+      "latitude": 49.834018,
+      "longitude": 14.173967
+    },
+    {
+      "name": "Zlaté dno",
+      "latitude": 49.83149,
+      "longitude": 14.175816
+    },
+    {
+      "name": "Seník u pramene Brdlavky",
+      "latitude": 49.797951,
+      "longitude": 14.064196
+    },
+    {
+      "name": "RS Častoboř",
+      "latitude": 49.737891,
+      "longitude": 14.358981
+    },
+    {
+      "name": "Oboz",
+      "latitude": 49.725184,
+      "longitude": 14.350588
+    },
+    {
+      "name": "RS STROS",
+      "latitude": 49.737294,
+      "longitude": 14.360033
+    },
+    {
+      "name": "RS Tatran",
+      "latitude": 49.735348,
+      "longitude": 14.360692
+    },
+    {
+      "name": "Camp Rabyne",
+      "latitude": 49.809936,
+      "longitude": 14.426545
+    },
+    {
+      "name": "Autokemp Slapy Skalice",
+      "latitude": 49.802233,
+      "longitude": 14.423137
+    },
+    {
+      "name": "Autocamp Ždáň",
+      "latitude": 49.797379,
+      "longitude": 14.420381
+    },
+    {
+      "name": "Vodácké tábořiště",
+      "latitude": 49.8319,
+      "longitude": 14.595184
+    },
+    {
+      "name": "Tábořiště Nová Živohošť",
+      "latitude": 49.75316,
+      "longitude": 14.415916
+    },
+    {
+      "name": "rekreační zařízení Komár",
+      "latitude": 49.750653,
+      "longitude": 14.420506
+    },
+    {
+      "name": "Kemp Cholín",
+      "latitude": 49.717704,
+      "longitude": 14.330454
+    },
+    {
+      "name": "Chatky Zrůbek",
+      "latitude": 49.676157,
+      "longitude": 14.291453
+    },
+    {
+      "name": "Autokemp Roviště",
+      "latitude": 49.664275,
+      "longitude": 14.256971
+    },
+    {
+      "name": "FKK Camping v Klokocove",
+      "latitude": 49.644191,
+      "longitude": 14.544367
+    },
+    {
+      "name": "Tábořiště u Karla",
+      "latitude": 49.814062,
+      "longitude": 14.936262
+    },
+    {
+      "name": "Tábořiště Vranice (YMCA)",
+      "latitude": 49.792966,
+      "longitude": 14.981736
+    },
+    {
+      "name": "Vodácké tábořiště",
+      "latitude": 49.790203,
+      "longitude": 14.954259
+    },
+    {
+      "name": "Tábořiště Omaha",
+      "latitude": 49.75939,
+      "longitude": 15.020556
+    },
+    {
+      "name": "U kouzelníka",
+      "latitude": 49.775955,
+      "longitude": 15.030382
+    },
+    {
+      "name": "Pod mostem",
+      "latitude": 49.777634,
+      "longitude": 15.032024
+    },
+    {
+      "name": "Kemp Zbýšov",
+      "latitude": 49.816694,
+      "longitude": 15.355426
+    },
+    {
+      "name": "Kemp Horka II",
+      "latitude": 49.73855,
+      "longitude": 15.128582
+    },
+    {
+      "name": "RS Avia Vlastějovice",
+      "latitude": 49.726777,
+      "longitude": 15.172468
+    },
+    {
+      "name": "Valcha",
+      "latitude": 49.640189,
+      "longitude": 15.020296
+    },
+    {
+      "name": "Kovací Hamr",
+      "latitude": 49.719926,
+      "longitude": 15.195319
+    },
+    {
+      "name": "MEXICANA",
+      "latitude": 49.720604,
+      "longitude": 15.180794
+    },
+    {
+      "name": "Stvořidla",
+      "latitude": 49.671499,
+      "longitude": 15.316545
+    },
+    {
+      "name": "kemp Žebrakov",
+      "latitude": 49.684955,
+      "longitude": 15.377873
+    },
+    {
+      "name": "Letní dětský tábor Zlatá zátoka",
+      "latitude": 49.68338,
+      "longitude": 15.298264
+    },
+    {
+      "name": "Sluneční zátoka",
+      "latitude": 49.688082,
+      "longitude": 15.308983
+    },
+    {
+      "name": "Tábořiště Lavičky, s.r.o.",
+      "latitude": 49.586287,
+      "longitude": 14.157755
+    },
+    {
+      "name": "Kemp Trhovky",
+      "latitude": 49.581252,
+      "longitude": 14.171437
+    },
+    {
+      "name": "Tvrz Holesice",
+      "latitude": 49.533022,
+      "longitude": 14.190891
+    },
+    {
+      "name": "kemp Radava",
+      "latitude": 49.529466,
+      "longitude": 14.172826
+    },
+    {
+      "name": "Kemp Velký výr",
+      "latitude": 49.524602,
+      "longitude": 14.160702
+    },
+    {
+      "name": "Táborová osada Miličín",
+      "latitude": 49.581916,
+      "longitude": 14.680407
+    },
+    {
+      "name": "Kemp Kroužky nad Moníncem",
+      "latitude": 49.541204,
+      "longitude": 14.502608
+    },
+    {
+      "name": "Jurtcamp",
+      "latitude": 49.465284,
+      "longitude": 14.107037
+    },
+    {
+      "name": "kemp Vášův mlýn",
+      "latitude": 49.46757,
+      "longitude": 14.363835
+    },
+    {
+      "name": "LDT Smetanova Lhota",
+      "latitude": 49.430683,
+      "longitude": 14.083014
+    },
+    {
+      "name": "Kemp Vážka",
+      "latitude": 49.43741,
+      "longitude": 14.129235
+    },
+    {
+      "name": "Kemp Štědronín",
+      "latitude": 49.420273,
+      "longitude": 14.193917
+    },
+    {
+      "name": "Kemp Ivanek",
+      "latitude": 49.425035,
+      "longitude": 14.203906
+    },
+    {
+      "name": "Rekreační areál Pension Pionýrák Bartoň",
+      "latitude": 49.387473,
+      "longitude": 14.559363
+    },
+    {
+      "name": "Základna Bečice",
+      "latitude": 49.386092,
+      "longitude": 14.557595
+    },
+    {
+      "name": "Malý Jordán",
+      "latitude": 49.434725,
+      "longitude": 14.666336
+    },
+    {
+      "name": "Autokemp Kachlička",
+      "latitude": 49.549765,
+      "longitude": 15.433672
+    },
+    {
+      "name": "Kemp Vyskytná",
+      "latitude": 49.419752,
+      "longitude": 15.361901
+    },
+    {
+      "name": "Yachtclub Pardubice",
+      "latitude": 49.81973,
+      "longitude": 15.654204
+    },
+    {
+      "name": "Dětský tábor Jiskra",
+      "latitude": 49.834738,
+      "longitude": 15.669307
+    },
+    {
+      "name": "Zahrádky",
+      "latitude": 49.81581,
+      "longitude": 16.141142
+    },
+    {
+      "name": "Srub na Volnosti",
+      "latitude": 49.815693,
+      "longitude": 16.140348
+    },
+    {
+      "name": "Tábořiště Srní",
+      "latitude": 49.776489,
+      "longitude": 15.884812
+    },
+    {
+      "name": "Rekreační středisko Štíří důl",
+      "latitude": 49.66876,
+      "longitude": 15.85781
+    },
+    {
+      "name": "Moře u rybníka Řeka",
+      "latitude": 49.677512,
+      "longitude": 15.845655
+    },
+    {
+      "name": "Lucký Vrch",
+      "latitude": 49.71168,
+      "longitude": 16.169363
+    },
+    {
+      "name": "Kemp pod hrází",
+      "latitude": 49.631793,
+      "longitude": 15.906438
+    },
+    {
+      "name": "Velké Dářko",
+      "latitude": 49.632638,
+      "longitude": 15.909038
+    },
+    {
+      "name": "Tábořiště Medlov",
+      "latitude": 49.618235,
+      "longitude": 16.050753
+    },
+    {
+      "name": "kemp Opatovec",
+      "latitude": 49.803264,
+      "longitude": 16.467546
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 49.679695,
+      "longitude": 16.337211
+    },
+    {
+      "name": "Rekreační středisko Svojanov",
+      "latitude": 49.634996,
+      "longitude": 16.395418
+    },
+    {
+      "name": "Tělovýchovná jednota Jevíčko, z.s.",
+      "latitude": 49.635623,
+      "longitude": 16.710705
+    },
+    {
+      "name": "Autokempink Pilák",
+      "latitude": 49.591316,
+      "longitude": 15.92002
+    },
+    {
+      "name": "kemp Koupaliště Sázava",
+      "latitude": 49.554221,
+      "longitude": 15.877649
+    },
+    {
+      "name": "Autokemp Sykovec",
+      "latitude": 49.608173,
+      "longitude": 16.04177
+    },
+    {
+      "name": "MARACAIBO",
+      "latitude": 49.483889,
+      "longitude": 16.142741
+    },
+    {
+      "name": "skautský tábor",
+      "latitude": 49.478596,
+      "longitude": 16.090019
+    },
+    {
+      "name": "Chatky Tee-Pee",
+      "latitude": 49.475195,
+      "longitude": 16.166778
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 49.475016,
+      "longitude": 16.167009
+    },
+    {
+      "name": "Kemp II",
+      "latitude": 49.476718,
+      "longitude": 16.169497
+    },
+    {
+      "name": "Kemp I",
+      "latitude": 49.476533,
+      "longitude": 16.166956
+    },
+    {
+      "name": "Srubová osada",
+      "latitude": 49.477193,
+      "longitude": 16.170082
+    },
+    {
+      "name": "Kemp Moravec",
+      "latitude": 49.445947,
+      "longitude": 16.142342
+    },
+    {
+      "name": "Tábořiště Radenice",
+      "latitude": 49.425044,
+      "longitude": 16.089206
+    },
+    {
+      "name": "Rekreační středisko Domanínský rybník",
+      "latitude": 49.544164,
+      "longitude": 16.205135
+    },
+    {
+      "name": "Na kopci",
+      "latitude": 49.543751,
+      "longitude": 16.294558
+    },
+    {
+      "name": "Dětský tábor Brumov",
+      "latitude": 49.467445,
+      "longitude": 16.420201
+    },
+    {
+      "name": "T.K. Křováci Kuřim",
+      "latitude": 49.393325,
+      "longitude": 16.296966
+    },
+    {
+      "name": "Rekreační středisko Prudká",
+      "latitude": 49.419407,
+      "longitude": 16.368666
+    },
+    {
+      "name": "Relaxa",
+      "latitude": 49.422807,
+      "longitude": 16.735519
+    },
+    {
+      "name": "ATC Baldovec",
+      "latitude": 49.412617,
+      "longitude": 16.807977
+    },
+    {
+      "name": "Na Soutoku",
+      "latitude": 49.277464,
+      "longitude": 14.118035
+    },
+    {
+      "name": "Rekreační zařízení",
+      "latitude": 49.285631,
+      "longitude": 14.336711
+    },
+    {
+      "name": "Tábořiště Atos",
+      "latitude": 49.295047,
+      "longitude": 14.333144
+    },
+    {
+      "name": "Camping Na Staré Papírnĕ",
+      "latitude": 49.347517,
+      "longitude": 14.513133
+    },
+    {
+      "name": "Tábořiště Soukeník",
+      "latitude": 49.372919,
+      "longitude": 14.684306
+    },
+    {
+      "name": "Tábořiště Soukeník",
+      "latitude": 49.373356,
+      "longitude": 14.682947
+    },
+    {
+      "name": "Bílý Měsíc - 3. oddíl Junáka Sezimovo Ústí",
+      "latitude": 49.381918,
+      "longitude": 14.697024
+    },
+    {
+      "name": "Říhovky",
+      "latitude": 49.305257,
+      "longitude": 14.492081
+    },
+    {
+      "name": "Dětský tábor Orion",
+      "latitude": 49.30077,
+      "longitude": 14.711609
+    },
+    {
+      "name": "Autocamp Pohoda",
+      "latitude": 49.301143,
+      "longitude": 14.70531
+    },
+    {
+      "name": "kemp",
+      "latitude": 49.279455,
+      "longitude": 14.610466
+    },
+    {
+      "name": "Rekreační středisko Nová Louka",
+      "latitude": 49.247369,
+      "longitude": 14.324919
+    },
+    {
+      "name": "Camp Lišák",
+      "latitude": 49.186296,
+      "longitude": 14.229153
+    },
+    {
+      "name": "U Šerifa",
+      "latitude": 49.190193,
+      "longitude": 14.22051
+    },
+    {
+      "name": "Camping Koloděje",
+      "latitude": 49.254755,
+      "longitude": 14.420378
+    },
+    {
+      "name": "Tábořiště Svákov",
+      "latitude": 49.264045,
+      "longitude": 14.695741
+    },
+    {
+      "name": "Kemp Fousek",
+      "latitude": 49.229191,
+      "longitude": 14.720085
+    },
+    {
+      "name": "Kravánky",
+      "latitude": 49.230999,
+      "longitude": 14.719153
+    },
+    {
+      "name": "Autokemp",
+      "latitude": 49.190384,
+      "longitude": 14.447983
+    },
+    {
+      "name": "Tábořiště Ostrov",
+      "latitude": 49.188317,
+      "longitude": 14.70201
+    },
+    {
+      "name": "Kemp Krkavec",
+      "latitude": 49.170661,
+      "longitude": 14.73228
+    },
+    {
+      "name": "Tábořiště Chábrovice",
+      "latitude": 49.32088,
+      "longitude": 14.870504
+    },
+    {
+      "name": "Tábořiště Hamr",
+      "latitude": 49.157543,
+      "longitude": 14.767009
+    },
+    {
+      "name": "Panistávka",
+      "latitude": 49.244439,
+      "longitude": 15.20437
+    },
+    {
+      "name": "Chadimův mlýn",
+      "latitude": 49.253751,
+      "longitude": 15.305059
+    },
+    {
+      "name": "Camp Velkopařezitý",
+      "latitude": 49.228855,
+      "longitude": 15.384564
+    },
+    {
+      "name": "Chatová osada SK Telč",
+      "latitude": 49.229202,
+      "longitude": 15.383242
+    },
+    {
+      "name": "Veřejné tábořiště Lhotka",
+      "latitude": 49.209551,
+      "longitude": 15.371357
+    },
+    {
+      "name": "Penzion & camp Javořice",
+      "latitude": 49.208117,
+      "longitude": 15.384623
+    },
+    {
+      "name": "U Roštěnky",
+      "latitude": 49.194772,
+      "longitude": 15.448486
+    },
+    {
+      "name": "Pražák",
+      "latitude": 49.147282,
+      "longitude": 14.127474
+    },
+    {
+      "name": "Křivonoska",
+      "latitude": 49.073589,
+      "longitude": 14.411106
+    },
+    {
+      "name": "Měruše",
+      "latitude": 49.146207,
+      "longitude": 14.717432
+    },
+    {
+      "name": "Lužnice",
+      "latitude": 49.06335,
+      "longitude": 14.75982
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 49.02655,
+      "longitude": 14.077008
+    },
+    {
+      "name": "Letní tábor 5. střediska Modřany",
+      "latitude": 49.016166,
+      "longitude": 14.078154
+    },
+    {
+      "name": "Autocamp Podroužek",
+      "latitude": 49.037514,
+      "longitude": 14.185445
+    },
+    {
+      "name": "Bezdrev",
+      "latitude": 49.032207,
+      "longitude": 14.406406
+    },
+    {
+      "name": "Bezdrev",
+      "latitude": 49.032735,
+      "longitude": 14.401827
+    },
+    {
+      "name": "Autokemp Hoch",
+      "latitude": 49.032724,
+      "longitude": 14.40135
+    },
+    {
+      "name": "Kemp České Vrbné",
+      "latitude": 49.01464,
+      "longitude": 14.451791
+    },
+    {
+      "name": "Letní tábor Karštejn",
+      "latitude": 49.141994,
+      "longitude": 14.802625
+    },
+    {
+      "name": "Autocamp Jindřiš",
+      "latitude": 49.148953,
+      "longitude": 15.065185
+    },
+    {
+      "name": "Chatový tábor Malý Ratmírov",
+      "latitude": 49.141304,
+      "longitude": 15.11679
+    },
+    {
+      "name": "Autokemp U Skalníků",
+      "latitude": 49.067904,
+      "longitude": 14.930008
+    },
+    {
+      "name": "Baterie",
+      "latitude": 49.089709,
+      "longitude": 14.855316
+    },
+    {
+      "name": "Kemp Mláka",
+      "latitude": 49.059622,
+      "longitude": 14.855134
+    },
+    {
+      "name": "Autokemp Komorník",
+      "latitude": 49.134697,
+      "longitude": 15.192975
+    },
+    {
+      "name": "U Kapličky",
+      "latitude": 49.144174,
+      "longitude": 15.124984
+    },
+    {
+      "name": "Autokemp Komorník",
+      "latitude": 49.149004,
+      "longitude": 15.207463
+    },
+    {
+      "name": "Kemp Zvůle",
+      "latitude": 49.095472,
+      "longitude": 15.239252
+    },
+    {
+      "name": "Chata Zvule",
+      "latitude": 49.09547,
+      "longitude": 15.232467
+    },
+    {
+      "name": "Klepák Brandlín",
+      "latitude": 49.139044,
+      "longitude": 15.300251
+    },
+    {
+      "name": "DT Zvůle",
+      "latitude": 49.093473,
+      "longitude": 15.246035
+    },
+    {
+      "name": "DT",
+      "latitude": 49.088686,
+      "longitude": 15.25395
+    },
+    {
+      "name": "LT",
+      "latitude": 49.067688,
+      "longitude": 15.279958
+    },
+    {
+      "name": "ŘKC proboštství JH",
+      "latitude": 49.048877,
+      "longitude": 15.191086
+    },
+    {
+      "name": "LT Kromem",
+      "latitude": 49.064463,
+      "longitude": 15.284085
+    },
+    {
+      "name": "Sportcentrum Doubí",
+      "latitude": 48.984563,
+      "longitude": 14.776515
+    },
+    {
+      "name": "Autokemp Třeboň",
+      "latitude": 48.993159,
+      "longitude": 14.768297
+    },
+    {
+      "name": "Autokemp Světlíková Staňkov",
+      "latitude": 48.985093,
+      "longitude": 14.961291
+    },
+    {
+      "name": "TZ Vlčice",
+      "latitude": 48.983474,
+      "longitude": 14.971538
+    },
+    {
+      "name": "Plecháč",
+      "latitude": 48.981485,
+      "longitude": 14.958492
+    },
+    {
+      "name": "Kemp Za humny",
+      "latitude": 48.980249,
+      "longitude": 14.957752
+    },
+    {
+      "name": "Kosky",
+      "latitude": 48.954093,
+      "longitude": 14.878752
+    },
+    {
+      "name": "Kemp Majdalena",
+      "latitude": 48.965327,
+      "longitude": 14.866136
+    },
+    {
+      "name": "Camping Sever",
+      "latitude": 48.964089,
+      "longitude": 14.937637
+    },
+    {
+      "name": "kemp Březák",
+      "latitude": 48.965815,
+      "longitude": 14.938054
+    },
+    {
+      "name": "Chatky na jihu",
+      "latitude": 48.954497,
+      "longitude": 14.877734
+    },
+    {
+      "name": "Autocamp U Čerta",
+      "latitude": 48.971842,
+      "longitude": 14.942102
+    },
+    {
+      "name": "kemp Hejtman - jih",
+      "latitude": 48.959898,
+      "longitude": 14.942115
+    },
+    {
+      "name": "kemp Veronika",
+      "latitude": 48.960665,
+      "longitude": 14.948503
+    },
+    {
+      "name": "kemp Kapřík",
+      "latitude": 48.960864,
+      "longitude": 14.949483
+    },
+    {
+      "name": "Kemp U Tomášků",
+      "latitude": 48.978546,
+      "longitude": 14.956234
+    },
+    {
+      "name": "Autocamp OASA",
+      "latitude": 48.978938,
+      "longitude": 14.958824
+    },
+    {
+      "name": "Autokemp U Kosů",
+      "latitude": 48.975518,
+      "longitude": 14.955161
+    },
+    {
+      "name": "Chatový areál Atlas",
+      "latitude": 48.965243,
+      "longitude": 14.946482
+    },
+    {
+      "name": "Osika",
+      "latitude": 49.034533,
+      "longitude": 15.141613
+    },
+    {
+      "name": "Cyklocamp",
+      "latitude": 49.013422,
+      "longitude": 15.251288
+    },
+    {
+      "name": "Cyklocamp",
+      "latitude": 49.013397,
+      "longitude": 15.252658
+    },
+    {
+      "name": "Hamr Podlesí",
+      "latitude": 49.004567,
+      "longitude": 15.230463
+    },
+    {
+      "name": "Letni Den",
+      "latitude": 49.005135,
+      "longitude": 15.440187
+    },
+    {
+      "name": "Haarstubencamping Reingers",
+      "latitude": 48.971799,
+      "longitude": 15.15382
+    },
+    {
+      "name": "LDT Radost",
+      "latitude": 49.360562,
+      "longitude": 15.700762
+    },
+    {
+      "name": "skautský tábor",
+      "latitude": 49.342873,
+      "longitude": 15.924656
+    },
+    {
+      "name": "pionýrský tábor",
+      "latitude": 49.342664,
+      "longitude": 15.935326
+    },
+    {
+      "name": "Rekreační středisko DRAK Křižanov",
+      "latitude": 49.372715,
+      "longitude": 16.102926
+    },
+    {
+      "name": "RS Nesměř",
+      "latitude": 49.30866,
+      "longitude": 16.031064
+    },
+    {
+      "name": "Vidlák",
+      "latitude": 49.209381,
+      "longitude": 15.655846
+    },
+    {
+      "name": "Tábor u Malého Boru",
+      "latitude": 49.260759,
+      "longitude": 15.941505
+    },
+    {
+      "name": "Kemp Poušov",
+      "latitude": 49.216752,
+      "longitude": 15.859315
+    },
+    {
+      "name": "Autokemp Borovinka",
+      "latitude": 49.184679,
+      "longitude": 16.039269
+    },
+    {
+      "name": "Údolí Klondike",
+      "latitude": 49.169812,
+      "longitude": 16.166458
+    },
+    {
+      "name": "Zlatá podkova",
+      "latitude": 49.174232,
+      "longitude": 16.162526
+    },
+    {
+      "name": "Wilsonka",
+      "latitude": 49.162421,
+      "longitude": 16.084973
+    },
+    {
+      "name": "Areál Šárka",
+      "latitude": 49.301932,
+      "longitude": 16.414943
+    },
+    {
+      "name": "Camp Oása Chudčice",
+      "latitude": 49.288205,
+      "longitude": 16.45538
+    },
+    {
+      "name": "Camping Hana",
+      "latitude": 49.276349,
+      "longitude": 16.452599
+    },
+    {
+      "name": "Tyršova Osada",
+      "latitude": 49.336773,
+      "longitude": 16.765555
+    },
+    {
+      "name": "Camp Olšovec Jedovnice",
+      "latitude": 49.332738,
+      "longitude": 16.762995
+    },
+    {
+      "name": "Kemp Křtiny",
+      "latitude": 49.293073,
+      "longitude": 16.751416
+    },
+    {
+      "name": "T.O Virginia",
+      "latitude": 49.274434,
+      "longitude": 16.820563
+    },
+    {
+      "name": "Kemp Oáza",
+      "latitude": 49.210352,
+      "longitude": 16.408403
+    },
+    {
+      "name": "Alpa",
+      "latitude": 49.206696,
+      "longitude": 16.41602
+    },
+    {
+      "name": "KEMP Rouchovany",
+      "latitude": 49.063684,
+      "longitude": 16.094139
+    },
+    {
+      "name": "Camp Bítov",
+      "latitude": 48.939923,
+      "longitude": 15.722391
+    },
+    {
+      "name": "ATC Mexico",
+      "latitude": 48.925563,
+      "longitude": 15.938677
+    },
+    {
+      "name": "Přehrada",
+      "latitude": 48.961214,
+      "longitude": 16.134818
+    },
+    {
+      "name": "Veřejné tábořiště Fiola",
+      "latitude": 49.097211,
+      "longitude": 16.200384
+    },
+    {
+      "name": "kemp Vémyslice",
+      "latitude": 49.02837,
+      "longitude": 16.246091
+    },
+    {
+      "name": "Camp & Chatky Formanka",
+      "latitude": 48.946726,
+      "longitude": 16.733782
+    },
+    {
+      "name": "Kemp a koupaliště Červenka",
+      "latitude": 50.401106,
+      "longitude": 16.996107
+    },
+    {
+      "name": "Cyklokemp Černý Potok",
+      "latitude": 50.353726,
+      "longitude": 17.165521
+    },
+    {
+      "name": "Kemp u Základny",
+      "latitude": 50.301564,
+      "longitude": 17.157999
+    },
+    {
+      "name": "Autocamping Bobrovník, Lipová-lázně",
+      "latitude": 50.224818,
+      "longitude": 17.173135
+    },
+    {
+      "name": "Autokempink Dolina",
+      "latitude": 50.121428,
+      "longitude": 17.358068
+    },
+    {
+      "name": "Autocamp",
+      "latitude": 50.270437,
+      "longitude": 17.715969
+    },
+    {
+      "name": "Rekreační areál Bohušov",
+      "latitude": 50.238703,
+      "longitude": 17.70778
+    },
+    {
+      "name": "Mlýn",
+      "latitude": 50.027495,
+      "longitude": 17.037062
+    },
+    {
+      "name": "Kemp Aloisov",
+      "latitude": 50.000378,
+      "longitude": 16.895688
+    },
+    {
+      "name": "Autokemping Krásné",
+      "latitude": 49.965163,
+      "longitude": 17.032336
+    },
+    {
+      "name": "Tábořiště Karlov",
+      "latitude": 50.019067,
+      "longitude": 17.292649
+    },
+    {
+      "name": "Pískáč Postřelmov",
+      "latitude": 49.900335,
+      "longitude": 16.928064
+    },
+    {
+      "name": "VEŘEJNÉ TÁBOŘIŠTĚ LESKOVEC NAD MORAVICÍ",
+      "latitude": 49.905127,
+      "longitude": 17.565028
+    },
+    {
+      "name": "Kemp Kajlovec",
+      "latitude": 49.843576,
+      "longitude": 17.883607
+    },
+    {
+      "name": "Camping Hlucin",
+      "latitude": 49.896863,
+      "longitude": 18.16926
+    },
+    {
+      "name": "Letní tábor",
+      "latitude": 49.860767,
+      "longitude": 18.030472
+    },
+    {
+      "name": "KEMP SILVERADO",
+      "latitude": 49.890763,
+      "longitude": 18.144749
+    },
+    {
+      "name": "Camp Landek Park",
+      "latitude": 49.866565,
+      "longitude": 18.263519
+    },
+    {
+      "name": "Sdružení naturistů Ostrava",
+      "latitude": 49.893732,
+      "longitude": 18.313663
+    },
+    {
+      "name": "Tábořiště Tydra",
+      "latitude": 49.831004,
+      "longitude": 16.922569
+    },
+    {
+      "name": "MoravaCamp",
+      "latitude": 49.783279,
+      "longitude": 16.910152
+    },
+    {
+      "name": "Vila Háj",
+      "latitude": 49.80403,
+      "longitude": 16.939491
+    },
+    {
+      "name": "Vila Háj",
+      "latitude": 49.802903,
+      "longitude": 16.939199
+    },
+    {
+      "name": "Vila Háj",
+      "latitude": 49.803313,
+      "longitude": 16.938833
+    },
+    {
+      "name": "Dálava",
+      "latitude": 49.772097,
+      "longitude": 17.319525
+    },
+    {
+      "name": "Autokemp Šternberk",
+      "latitude": 49.747715,
+      "longitude": 17.305784
+    },
+    {
+      "name": "in-life kemp",
+      "latitude": 49.703881,
+      "longitude": 17.069226
+    },
+    {
+      "name": "Hynkov",
+      "latitude": 49.671279,
+      "longitude": 17.175593
+    },
+    {
+      "name": "Vodácký kemp",
+      "latitude": 49.642583,
+      "longitude": 17.208528
+    },
+    {
+      "name": "Autokemp Budišov n.B.",
+      "latitude": 49.790884,
+      "longitude": 17.635946
+    },
+    {
+      "name": "Autocamp Podhradí",
+      "latitude": 49.810444,
+      "longitude": 17.754491
+    },
+    {
+      "name": "Agility kemp",
+      "latitude": 49.783114,
+      "longitude": 17.845601
+    },
+    {
+      "name": "Letní tábor",
+      "latitude": 49.825887,
+      "longitude": 17.997722
+    },
+    {
+      "name": "Táborová základna Zbyslavice",
+      "latitude": 49.791659,
+      "longitude": 18.07207
+    },
+    {
+      "name": "u Maria skály",
+      "latitude": 49.719425,
+      "longitude": 17.732948
+    },
+    {
+      "name": "bezKempu",
+      "latitude": 49.72217,
+      "longitude": 17.72907
+    },
+    {
+      "name": "Camping Žralok",
+      "latitude": 49.461144,
+      "longitude": 17.011874
+    },
+    {
+      "name": "Autokemp Přehrada",
+      "latitude": 49.467939,
+      "longitude": 17.04156
+    },
+    {
+      "name": "Resort Radslavice",
+      "latitude": 49.480776,
+      "longitude": 17.517399
+    },
+    {
+      "name": "Autocamping",
+      "latitude": 49.541712,
+      "longitude": 17.742382
+    },
+    {
+      "name": "Rekreační středisko U Kateřiny",
+      "latitude": 49.593964,
+      "longitude": 18.09489
+    },
+    {
+      "name": "Autocamp Mořkov",
+      "latitude": 49.532405,
+      "longitude": 18.069238
+    },
+    {
+      "name": "Táborová základna TOM Pawnee",
+      "latitude": 49.39383,
+      "longitude": 17.625609
+    },
+    {
+      "name": "Camping Rožnov",
+      "latitude": 49.467329,
+      "longitude": 18.162544
+    },
+    {
+      "name": "Kemp pod Pustevnami",
+      "latitude": 49.442625,
+      "longitude": 18.263915
+    },
+    {
+      "name": "Dolinky Tábořiště",
+      "latitude": 49.421403,
+      "longitude": 18.03242
+    },
+    {
+      "name": "Turistická základna Mraveniště",
+      "latitude": 49.4111,
+      "longitude": 18.112292
+    },
+    {
+      "name": "Kemp Solanec",
+      "latitude": 49.428007,
+      "longitude": 18.225238
+    },
+    {
+      "name": "Areál Zavadilka",
+      "latitude": 49.437922,
+      "longitude": 18.264256
+    },
+    {
+      "name": "Zdeněk Hrabec",
+      "latitude": 49.726573,
+      "longitude": 18.455846
+    },
+    {
+      "name": "Kemp Rostislav Rypien",
+      "latitude": 49.751687,
+      "longitude": 18.49997
+    },
+    {
+      "name": "Camping Pod Czarnym Bocianem",
+      "latitude": 49.734714,
+      "longitude": 18.629135
+    },
+    {
+      "name": "Kemp Lučina",
+      "latitude": 49.722956,
+      "longitude": 18.449254
+    },
+    {
+      "name": "Kemp Domaslavice",
+      "latitude": 49.721443,
+      "longitude": 18.470007
+    },
+    {
+      "name": "Rekreacni areal Moravka",
+      "latitude": 49.585178,
+      "longitude": 18.53179
+    },
+    {
+      "name": "Opusteny Tábor mír",
+      "latitude": 49.526135,
+      "longitude": 18.322978
+    },
+    {
+      "name": "tábořiště Salajka",
+      "latitude": 49.529564,
+      "longitude": 18.639367
+    },
+    {
+      "name": "Letní tábor Košárky",
+      "latitude": 49.475403,
+      "longitude": 18.525295
+    },
+    {
+      "name": "Kemp Horni Becva",
+      "latitude": 49.420898,
+      "longitude": 18.313256
+    },
+    {
+      "name": "Loděnice VM Hradisko",
+      "latitude": 49.288353,
+      "longitude": 17.412796
+    },
+    {
+      "name": "Grunt Galatík",
+      "latitude": 49.219457,
+      "longitude": 17.289279
+    },
+    {
+      "name": "rekreační středisko Pahrbek",
+      "latitude": 49.157526,
+      "longitude": 17.511787
+    },
+    {
+      "name": "Tábořiště Svatý Hostýn",
+      "latitude": 49.376458,
+      "longitude": 17.696656
+    },
+    {
+      "name": "Patriot Camp Držková",
+      "latitude": 49.322611,
+      "longitude": 17.793628
+    },
+    {
+      "name": "Tábořiště Držková",
+      "latitude": 49.323576,
+      "longitude": 17.803637
+    },
+    {
+      "name": "Bike fishing camp Semetin",
+      "latitude": 49.352266,
+      "longitude": 17.954832
+    },
+    {
+      "name": "U Splavu",
+      "latitude": 49.303245,
+      "longitude": 18.079269
+    },
+    {
+      "name": "Kemp Desna",
+      "latitude": 49.267493,
+      "longitude": 17.840045
+    },
+    {
+      "name": "veřejné tábořiště Pulčín",
+      "latitude": 49.225831,
+      "longitude": 18.075444
+    },
+    {
+      "name": "táborová základna Haluzická hájenka",
+      "latitude": 49.106155,
+      "longitude": 17.105176
+    },
+    {
+      "name": "Autokemp Koryčany",
+      "latitude": 49.116447,
+      "longitude": 17.185689
+    },
+    {
+      "name": "Táborová Základna Pod Širokým Dubem",
+      "latitude": 49.140049,
+      "longitude": 17.29036
+    },
+    {
+      "name": "kemp Velehrad",
+      "latitude": 49.118578,
+      "longitude": 17.380136
+    },
+    {
+      "name": "Skleníky Spytihněv",
+      "latitude": 49.133337,
+      "longitude": 17.507023
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 49.080514,
+      "longitude": 17.301994
+    },
+    {
+      "name": "Kemp Smraďavka",
+      "latitude": 49.079412,
+      "longitude": 17.317102
+    },
+    {
+      "name": "Kemp Josef",
+      "latitude": 48.934174,
+      "longitude": 17.104664
+    },
+    {
+      "name": "Kemp Slovácký dvůr",
+      "latitude": 49.013043,
+      "longitude": 17.441425
+    },
+    {
+      "name": "Babí Hora",
+      "latitude": 48.955833,
+      "longitude": 17.554444
+    },
+    {
+      "name": "Autocamp Luhačovice",
+      "latitude": 49.123919,
+      "longitude": 17.78428
+    },
+    {
+      "name": "Eurocamping Bojkovice",
+      "latitude": 49.041081,
+      "longitude": 17.800298
+    },
+    {
+      "name": "Rekreační středisko Královec",
+      "latitude": 49.134959,
+      "longitude": 18.045078
+    },
+    {
+      "name": "Brontosaurus Žítková Hutiska",
+      "latitude": 48.984679,
+      "longitude": 17.896305
+    },
+    {
+      "name": "Trail Angels Kosovi",
+      "latitude": 49.034577,
+      "longitude": 18.062818
+    },
+    {
+      "name": "Kemp Machůzky",
+      "latitude": 49.366155,
+      "longitude": 18.314955
+    },
+    {
+      "name": "Areal Leskova",
+      "latitude": 49.371509,
+      "longitude": 18.307473
+    },
+    {
+      "name": "Nouzové nocoviště Strážný",
+      "latitude": 48.900671,
+      "longitude": 13.71141
+    },
+    {
+      "name": "Tábořiště Soumarský Most",
+      "latitude": 48.90634,
+      "longitude": 13.824475
+    },
+    {
+      "name": "Nové údolí",
+      "latitude": 48.829575,
+      "longitude": 13.800744
+    },
+    {
+      "name": "Pod Plešným jezerem",
+      "latitude": 48.779555,
+      "longitude": 13.884927
+    },
+    {
+      "name": "U Kukačků",
+      "latitude": 48.773771,
+      "longitude": 14.014807
+    },
+    {
+      "name": "Jenisov",
+      "latitude": 48.750456,
+      "longitude": 14.043461
+    },
+    {
+      "name": "Karlovy Dvory 2",
+      "latitude": 48.749954,
+      "longitude": 14.053501
+    },
+    {
+      "name": "U Kelta",
+      "latitude": 48.886389,
+      "longitude": 14.365335
+    },
+    {
+      "name": "Dívčí kámen",
+      "latitude": 48.891283,
+      "longitude": 14.360255
+    },
+    {
+      "name": "kemp Dívčí kámen",
+      "latitude": 48.891674,
+      "longitude": 14.361368
+    },
+    {
+      "name": "Camping Chvalšiny, spol. s r.o.",
+      "latitude": 48.859841,
+      "longitude": 14.213795
+    },
+    {
+      "name": "Zlatá Koruna",
+      "latitude": 48.854066,
+      "longitude": 14.372399
+    },
+    {
+      "name": "U Kučerů",
+      "latitude": 48.852595,
+      "longitude": 14.371984
+    },
+    {
+      "name": "Kemp Krumlov",
+      "latitude": 48.819072,
+      "longitude": 14.328817
+    },
+    {
+      "name": "U tří borovic",
+      "latitude": 48.818515,
+      "longitude": 14.329797
+    },
+    {
+      "name": "Boršov - Poslední Štace",
+      "latitude": 48.917865,
+      "longitude": 14.430233
+    },
+    {
+      "name": "Autokemp Štilec",
+      "latitude": 48.887223,
+      "longitude": 14.437843
+    },
+    {
+      "name": "Tábořiště Hamr",
+      "latitude": 48.870591,
+      "longitude": 14.494733
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 48.88206,
+      "longitude": 14.621112
+    },
+    {
+      "name": "Letní dětský tábor Slavkov",
+      "latitude": 48.767658,
+      "longitude": 14.237222
+    },
+    {
+      "name": "Kemp Nové Spolí",
+      "latitude": 48.797212,
+      "longitude": 14.307262
+    },
+    {
+      "name": "Kemp Vltavan",
+      "latitude": 48.794246,
+      "longitude": 14.303091
+    },
+    {
+      "name": "Na Pískárně",
+      "latitude": 48.750885,
+      "longitude": 14.32271
+    },
+    {
+      "name": "Villa Bohemia",
+      "latitude": 48.729455,
+      "longitude": 14.088391
+    },
+    {
+      "name": "Camping Olšina",
+      "latitude": 48.746272,
+      "longitude": 14.116758
+    },
+    {
+      "name": "Camping Olšina",
+      "latitude": 48.746122,
+      "longitude": 14.114417
+    },
+    {
+      "name": "Camp Jestřábí",
+      "latitude": 48.734425,
+      "longitude": 14.097631
+    },
+    {
+      "name": "Autokemp Na terasách",
+      "latitude": 48.737689,
+      "longitude": 14.104475
+    },
+    {
+      "name": "Autokemp Za kostelem",
+      "latitude": 48.728913,
+      "longitude": 14.208458
+    },
+    {
+      "name": "Kemp Viking",
+      "latitude": 48.748823,
+      "longitude": 14.324957
+    },
+    {
+      "name": "Kemp Vltava",
+      "latitude": 48.737016,
+      "longitude": 14.329278
+    },
+    {
+      "name": "U Fíka",
+      "latitude": 48.716306,
+      "longitude": 14.342959
+    },
+    {
+      "name": "Kanak - kemp Branná",
+      "latitude": 48.713155,
+      "longitude": 14.343641
+    },
+    {
+      "name": "Dětský tábor",
+      "latitude": 48.801975,
+      "longitude": 14.563464
+    },
+    {
+      "name": "Tábor",
+      "latitude": 48.752445,
+      "longitude": 14.546421
+    },
+    {
+      "name": "Uragán",
+      "latitude": 48.725643,
+      "longitude": 14.57727
+    },
+    {
+      "name": "Ličov",
+      "latitude": 48.723915,
+      "longitude": 14.583068
+    },
+    {
+      "name": "Koupaliště Kaplice",
+      "latitude": 48.737188,
+      "longitude": 14.503628
+    },
+    {
+      "name": "Dálava",
+      "latitude": 48.724367,
+      "longitude": 14.592483
+    },
+    {
+      "name": "U Pavlisů",
+      "latitude": 48.900558,
+      "longitude": 14.937485
+    },
+    {
+      "name": "Autocamp U Pískovny",
+      "latitude": 48.903034,
+      "longitude": 14.898214
+    },
+    {
+      "name": "vodácká základna Suchdol nad Lužnicí",
+      "latitude": 48.906593,
+      "longitude": 14.889094
+    },
+    {
+      "name": "Camp Paris",
+      "latitude": 48.89507,
+      "longitude": 14.917288
+    },
+    {
+      "name": "Sever",
+      "latitude": 48.8925,
+      "longitude": 14.7675
+    },
+    {
+      "name": "Kemp Tušť",
+      "latitude": 48.891206,
+      "longitude": 14.888649
+    },
+    {
+      "name": "Turistická základna Tokániště",
+      "latitude": 48.878684,
+      "longitude": 14.966508
+    },
+    {
+      "name": "nouzové nocoviště",
+      "latitude": 48.786476,
+      "longitude": 14.770859
+    },
+    {
+      "name": "Autocamp Veveří",
+      "latitude": 48.766418,
+      "longitude": 14.789634
+    },
+    {
+      "name": "Camp Vřesná",
+      "latitude": 48.675617,
+      "longitude": 14.166121
+    },
+    {
+      "name": "Frymburk",
+      "latitude": 48.655863,
+      "longitude": 14.170204
+    },
+    {
+      "name": "Camping Lipno Modřín",
+      "latitude": 48.638262,
+      "longitude": 14.210309
+    },
+    {
+      "name": "U Nojdy",
+      "latitude": 48.66138,
+      "longitude": 14.366022
+    },
+    {
+      "name": "Minikemp Rožmberk",
+      "latitude": 48.653694,
+      "longitude": 14.363682
+    },
+    {
+      "name": "Kemp Pod Hrází",
+      "latitude": 48.623852,
+      "longitude": 14.30525
+    },
+    {
+      "name": "Rodinná farma",
+      "latitude": 48.634415,
+      "longitude": 14.570115
+    },
+    {
+      "name": "CampVelo",
+      "latitude": 48.900804,
+      "longitude": 15.60761
+    },
+    {
+      "name": "Rekreační středisko Dřevotvárka",
+      "latitude": 48.912846,
+      "longitude": 15.690719
+    },
+    {
+      "name": "Camp Drops",
+      "latitude": 48.896841,
+      "longitude": 15.810872
+    },
+    {
+      "name": "Camping Vranovská pláž",
+      "latitude": 48.914617,
+      "longitude": 15.812602
+    },
+    {
+      "name": "Kemp u Švestků",
+      "latitude": 48.878293,
+      "longitude": 15.87344
+    },
+    {
+      "name": "Country",
+      "latitude": 48.920278,
+      "longitude": 16.025833
+    },
+    {
+      "name": "Camping Country",
+      "latitude": 48.920336,
+      "longitude": 16.026809
+    },
+    {
+      "name": "Zeltplatz Waldbad",
+      "latitude": 48.853986,
+      "longitude": 15.849378
+    },
+    {
+      "name": "vodácký camp Stará Vodárna",
+      "latitude": 48.854538,
+      "longitude": 16.040577
+    },
+    {
+      "name": "CAMP Znojmo",
+      "latitude": 48.840733,
+      "longitude": 16.055945
+    },
+    {
+      "name": "Camp Havraníky",
+      "latitude": 48.809575,
+      "longitude": 16.009524
+    },
+    {
+      "name": "Waldcamping Hubertus",
+      "latitude": 48.788846,
+      "longitude": 15.967769
+    },
+    {
+      "name": "SK Tatran Šatov, z.s.",
+      "latitude": 48.785713,
+      "longitude": 16.018112
+    },
+    {
+      "name": "Tábořiště Krhovice",
+      "latitude": 48.812117,
+      "longitude": 16.172118
+    },
+    {
+      "name": "Jáňův dvůr",
+      "latitude": 48.807835,
+      "longitude": 16.494708
+    },
+    {
+      "name": "Yacht Club",
+      "latitude": 48.900147,
+      "longitude": 16.547931
+    },
+    {
+      "name": "Autokemp Merkur Pasohlávky",
+      "latitude": 48.898293,
+      "longitude": 16.568281
+    },
+    {
+      "name": "Autokemp Adéla",
+      "latitude": 48.879566,
+      "longitude": 16.53858
+    },
+    {
+      "name": "AutoKemp Erika",
+      "latitude": 48.879861,
+      "longitude": 16.536868
+    },
+    {
+      "name": "Autokemp U Vody",
+      "latitude": 48.88724,
+      "longitude": 16.655254
+    },
+    {
+      "name": "Kemp YachtClub Dyje",
+      "latitude": 48.879621,
+      "longitude": 16.677736
+    },
+    {
+      "name": "Kemp Mars",
+      "latitude": 48.873749,
+      "longitude": 16.725393
+    },
+    {
+      "name": "Unicamp",
+      "latitude": 48.870892,
+      "longitude": 16.726021
+    },
+    {
+      "name": "Camping Mikulov",
+      "latitude": 48.814732,
+      "longitude": 16.633844
+    },
+    {
+      "name": "tábořiště Klentnice",
+      "latitude": 48.835274,
+      "longitude": 16.640789
+    },
+    {
+      "name": "Pálava",
+      "latitude": 48.856555,
+      "longitude": 16.730993
+    },
+    {
+      "name": "Paliště Nejdek",
+      "latitude": 48.815335,
+      "longitude": 16.774525
+    },
+    {
+      "name": "Tábořiště Hrádek",
+      "latitude": 48.767888,
+      "longitude": 16.269209
+    },
+    {
+      "name": "Tábořiště Hevlín",
+      "latitude": 48.743682,
+      "longitude": 16.38018
+    },
+    {
+      "name": "Kemp Apollo",
+      "latitude": 48.785717,
+      "longitude": 16.827378
+    },
+    {
+      "name": "ATC Apollo",
+      "latitude": 48.786216,
+      "longitude": 16.82635
+    },
+    {
+      "name": "Františkův Rybník",
+      "latitude": 48.717378,
+      "longitude": 16.862242
+    },
+    {
+      "name": "Autokempink Strážnice",
+      "latitude": 48.909666,
+      "longitude": 17.312222
+    },
+    {
+      "name": "U Veličky",
+      "latitude": 48.909588,
+      "longitude": 17.317132
+    },
+    {
+      "name": "Autokemp Lucina",
+      "latitude": 48.860702,
+      "longitude": 17.384625
+    }
+  ],
+  "meta": {
+    "title": "Kempy - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných kempů v České republice (902 záznamů) — body zájmu z OpenStreetMap (tag tourism=camp_site), výřez EU-POIS/CZ. Obsahuje 902 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Kempy | ListBase",
+    "seo_description": "Stáhnout Kempy — 902 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 902 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

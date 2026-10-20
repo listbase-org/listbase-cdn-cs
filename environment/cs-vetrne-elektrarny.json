@@ -1,0 +1,268 @@
+{
+  "id": "cs-vetrne-elektrarny",
+  "name": "Větrné elektrárny v Česku",
+  "title": "Větrné elektrárny v Česku",
+  "description": "Větrné elektrárny v Česku. All 7 wind power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 9491,
+      "name": "Andelka Wind Farm",
+      "fueltype": "Wind",
+      "technology": "Onshore",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 14,
+      "efficiency": "",
+      "date_in": 2012,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.9901,
+      "lon": 14.9838,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000912911"
+    },
+    {
+      "id": 12185,
+      "name": "Cerveny Kopec Rejchartice Wind Farm",
+      "fueltype": "Wind",
+      "technology": "Onshore",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 14,
+      "efficiency": "",
+      "date_in": 2012,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.8167,
+      "lon": 15.475,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000912509"
+    },
+    {
+      "id": 15513,
+      "name": "Horni Lodenice Lipina Wind Farm",
+      "fueltype": "Wind",
+      "technology": "Onshore",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 28,
+      "efficiency": "",
+      "date_in": 2009,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.8167,
+      "lon": 15.475,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000910589, G100000914029"
+    },
+    {
+      "id": 15959,
+      "name": "Jindrichovice Stara Wind Farm",
+      "fueltype": "Wind",
+      "technology": "Onshore",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 16,
+      "efficiency": "",
+      "date_in": 2019,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.2711,
+      "lon": 12.6098,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000913626"
+    },
+    {
+      "id": 15961,
+      "name": "Jivova Wind Farm",
+      "fueltype": "Wind",
+      "technology": "Onshore",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 11,
+      "efficiency": "",
+      "date_in": 2024,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.7204,
+      "lon": 17.4043,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052908"
+    },
+    {
+      "id": 16906,
+      "name": "Krystofovy Hamry Wind Farm",
+      "fueltype": "Wind",
+      "technology": "Onshore",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 42,
+      "efficiency": "",
+      "date_in": 2007,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.4425,
+      "lon": 13.1434,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000917800"
+    },
+    {
+      "id": 24257,
+      "name": "Vaclavice Wind Farm",
+      "fueltype": "Wind",
+      "technology": "Onshore",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 26,
+      "efficiency": "",
+      "date_in": 2017,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.7882,
+      "lon": 14.6158,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000916020"
+    }
+  ],
+  "meta": {
+    "title": "Větrné elektrárny v Česku - Stáhnout zdarma",
+    "description": "Větrné elektrárny v Česku. All 7 wind power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation). Obsahuje 7 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Větrné elektrárny v Česku | ListBase",
+    "seo_description": "Stáhnout Větrné elektrárny v Česku — 7 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 7 záznamů / 19 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "cs-svetadily",
+  "name": "Světadíly (kontinenty)",
+  "title": "Světadíly (kontinenty)",
+  "description": "7 světadílů podle běžné anglosaské konvence (Afrika, Antarktida, Asie, Evropa, Severní Amerika, Oceánie, Jižní Amerika).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_cs",
+      "label": "Name Cs",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "AF",
+      "name_cs": "Afrika",
+      "name_en": "Africa",
+      "slug": "afrika"
+    },
+    {
+      "code": "AN",
+      "name_cs": "Antarktida",
+      "name_en": "Antarctica",
+      "slug": "antarktida"
+    },
+    {
+      "code": "AS",
+      "name_cs": "Asie",
+      "name_en": "Asia",
+      "slug": "asie"
+    },
+    {
+      "code": "EU",
+      "name_cs": "Evropa",
+      "name_en": "Europe",
+      "slug": "evropa"
+    },
+    {
+      "code": "NA",
+      "name_cs": "Severní Amerika",
+      "name_en": "North America",
+      "slug": "severni-amerika"
+    },
+    {
+      "code": "OC",
+      "name_cs": "Oceánie",
+      "name_en": "Oceania",
+      "slug": "oceanie"
+    },
+    {
+      "code": "SA",
+      "name_cs": "Jižní Amerika",
+      "name_en": "South America",
+      "slug": "jizni-amerika"
+    }
+  ],
+  "meta": {
+    "title": "Světadíly (kontinenty) - Stáhnout zdarma",
+    "description": "7 světadílů podle běžné anglosaské konvence (Afrika, Antarktida, Asie, Evropa, Severní Amerika, Oceánie, Jižní Amerika). Obsahuje 7 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Světadíly (kontinenty) | ListBase",
+    "seo_description": "Stáhnout Světadíly (kontinenty) — 7 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 7 záznamů / 4 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

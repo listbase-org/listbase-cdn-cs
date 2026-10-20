@@ -1,0 +1,841 @@
+{
+  "id": "cs-meny",
+  "name": "Měny zemí světa (ISO 4217)",
+  "title": "Měny zemí světa (ISO 4217)",
+  "description": "Měnové kódy ISO 4217 odvozené z přiřazení k zemím v annexare/Countries; pro každou měnu uvádíme počet zemí a vzorek.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 160,
+  "columns": [
+    {
+      "key": "iso_4217",
+      "label": "Iso 4217",
+      "type": "string"
+    },
+    {
+      "key": "country_count",
+      "label": "Country Count",
+      "type": "number"
+    },
+    {
+      "key": "example_countries_cs",
+      "label": "Example Countries Cs",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_4217": "AED",
+      "country_count": 1,
+      "example_countries_cs": "Spojené arabské emiráty"
+    },
+    {
+      "iso_4217": "AFN",
+      "country_count": 1,
+      "example_countries_cs": "Afghánistán"
+    },
+    {
+      "iso_4217": "ALL",
+      "country_count": 1,
+      "example_countries_cs": "Albánie"
+    },
+    {
+      "iso_4217": "AMD",
+      "country_count": 1,
+      "example_countries_cs": "Arménie"
+    },
+    {
+      "iso_4217": "ANG",
+      "country_count": 2,
+      "example_countries_cs": "Curaçao, Svatý Martin (nizozemská část)"
+    },
+    {
+      "iso_4217": "AOA",
+      "country_count": 1,
+      "example_countries_cs": "Angola"
+    },
+    {
+      "iso_4217": "ARS",
+      "country_count": 1,
+      "example_countries_cs": "Argentina"
+    },
+    {
+      "iso_4217": "AUD",
+      "country_count": 9,
+      "example_countries_cs": "Austrálie, Heardův ostrov a McDonaldovy ostrovy, Kiribati, Kokosové ostrovy, Nauru"
+    },
+    {
+      "iso_4217": "AWG",
+      "country_count": 1,
+      "example_countries_cs": "Aruba"
+    },
+    {
+      "iso_4217": "AZN",
+      "country_count": 1,
+      "example_countries_cs": "Ázerbájdžán"
+    },
+    {
+      "iso_4217": "BAM",
+      "country_count": 1,
+      "example_countries_cs": "Bosna a Hercegovina"
+    },
+    {
+      "iso_4217": "BBD",
+      "country_count": 1,
+      "example_countries_cs": "Barbados"
+    },
+    {
+      "iso_4217": "BDT",
+      "country_count": 1,
+      "example_countries_cs": "Bangladéš"
+    },
+    {
+      "iso_4217": "BHD",
+      "country_count": 1,
+      "example_countries_cs": "Bahrajn"
+    },
+    {
+      "iso_4217": "BIF",
+      "country_count": 1,
+      "example_countries_cs": "Burundi"
+    },
+    {
+      "iso_4217": "BMD",
+      "country_count": 1,
+      "example_countries_cs": "Bermudy"
+    },
+    {
+      "iso_4217": "BND",
+      "country_count": 1,
+      "example_countries_cs": "Brunej"
+    },
+    {
+      "iso_4217": "BOB",
+      "country_count": 1,
+      "example_countries_cs": "Bolívie"
+    },
+    {
+      "iso_4217": "BOV",
+      "country_count": 1,
+      "example_countries_cs": "Bolívie"
+    },
+    {
+      "iso_4217": "BRL",
+      "country_count": 1,
+      "example_countries_cs": "Brazílie"
+    },
+    {
+      "iso_4217": "BSD",
+      "country_count": 1,
+      "example_countries_cs": "Bahamy"
+    },
+    {
+      "iso_4217": "BTN",
+      "country_count": 1,
+      "example_countries_cs": "Bhútán"
+    },
+    {
+      "iso_4217": "BWP",
+      "country_count": 2,
+      "example_countries_cs": "Botswana, Zimbabwe"
+    },
+    {
+      "iso_4217": "BYN",
+      "country_count": 1,
+      "example_countries_cs": "Bělorusko"
+    },
+    {
+      "iso_4217": "BZD",
+      "country_count": 1,
+      "example_countries_cs": "Belize"
+    },
+    {
+      "iso_4217": "CAD",
+      "country_count": 1,
+      "example_countries_cs": "Kanada"
+    },
+    {
+      "iso_4217": "CDF",
+      "country_count": 1,
+      "example_countries_cs": "Demokratická republika Kongo"
+    },
+    {
+      "iso_4217": "CHE",
+      "country_count": 1,
+      "example_countries_cs": "Švýcarsko"
+    },
+    {
+      "iso_4217": "CHF",
+      "country_count": 2,
+      "example_countries_cs": "Lichtenštejnsko, Švýcarsko"
+    },
+    {
+      "iso_4217": "CHW",
+      "country_count": 1,
+      "example_countries_cs": "Švýcarsko"
+    },
+    {
+      "iso_4217": "CLF",
+      "country_count": 1,
+      "example_countries_cs": "Chile"
+    },
+    {
+      "iso_4217": "CLP",
+      "country_count": 1,
+      "example_countries_cs": "Chile"
+    },
+    {
+      "iso_4217": "CNY",
+      "country_count": 2,
+      "example_countries_cs": "Zimbabwe, Čína"
+    },
+    {
+      "iso_4217": "COP",
+      "country_count": 1,
+      "example_countries_cs": "Kolumbie"
+    },
+    {
+      "iso_4217": "CRC",
+      "country_count": 1,
+      "example_countries_cs": "Kostarika"
+    },
+    {
+      "iso_4217": "CUP",
+      "country_count": 1,
+      "example_countries_cs": "Kuba"
+    },
+    {
+      "iso_4217": "CVE",
+      "country_count": 1,
+      "example_countries_cs": "Kapverdy"
+    },
+    {
+      "iso_4217": "CZK",
+      "country_count": 1,
+      "example_countries_cs": "Česko"
+    },
+    {
+      "iso_4217": "DJF",
+      "country_count": 1,
+      "example_countries_cs": "Džibutsko"
+    },
+    {
+      "iso_4217": "DKK",
+      "country_count": 3,
+      "example_countries_cs": "Dánsko, Faerské ostrovy, Grónsko"
+    },
+    {
+      "iso_4217": "DOP",
+      "country_count": 1,
+      "example_countries_cs": "Dominikánská republika"
+    },
+    {
+      "iso_4217": "DZD",
+      "country_count": 2,
+      "example_countries_cs": "Alžírsko, Západní Sahara"
+    },
+    {
+      "iso_4217": "EGP",
+      "country_count": 1,
+      "example_countries_cs": "Egypt"
+    },
+    {
+      "iso_4217": "ERN",
+      "country_count": 1,
+      "example_countries_cs": "Eritrea"
+    },
+    {
+      "iso_4217": "ETB",
+      "country_count": 1,
+      "example_countries_cs": "Etiopie"
+    },
+    {
+      "iso_4217": "EUR",
+      "country_count": 37,
+      "example_countries_cs": "Andorra, Belgie, Bulharsko, Chorvatsko, Estonsko"
+    },
+    {
+      "iso_4217": "FJD",
+      "country_count": 1,
+      "example_countries_cs": "Fidži"
+    },
+    {
+      "iso_4217": "FKP",
+      "country_count": 1,
+      "example_countries_cs": "Falklandy"
+    },
+    {
+      "iso_4217": "GBP",
+      "country_count": 6,
+      "example_countries_cs": "Guernsey, Jersey, Jižní Georgie a Jižní Sandwichovy ostrovy, Ostrov Man, Spojené království"
+    },
+    {
+      "iso_4217": "GEL",
+      "country_count": 1,
+      "example_countries_cs": "Gruzie"
+    },
+    {
+      "iso_4217": "GHS",
+      "country_count": 1,
+      "example_countries_cs": "Ghana"
+    },
+    {
+      "iso_4217": "GIP",
+      "country_count": 1,
+      "example_countries_cs": "Gibraltar"
+    },
+    {
+      "iso_4217": "GMD",
+      "country_count": 1,
+      "example_countries_cs": "Gambie"
+    },
+    {
+      "iso_4217": "GNF",
+      "country_count": 1,
+      "example_countries_cs": "Guinea"
+    },
+    {
+      "iso_4217": "GTQ",
+      "country_count": 1,
+      "example_countries_cs": "Guatemala"
+    },
+    {
+      "iso_4217": "GYD",
+      "country_count": 1,
+      "example_countries_cs": "Guyana"
+    },
+    {
+      "iso_4217": "HKD",
+      "country_count": 1,
+      "example_countries_cs": "Hongkong"
+    },
+    {
+      "iso_4217": "HNL",
+      "country_count": 1,
+      "example_countries_cs": "Honduras"
+    },
+    {
+      "iso_4217": "HTG",
+      "country_count": 1,
+      "example_countries_cs": "Haiti"
+    },
+    {
+      "iso_4217": "HUF",
+      "country_count": 1,
+      "example_countries_cs": "Maďarsko"
+    },
+    {
+      "iso_4217": "IDR",
+      "country_count": 1,
+      "example_countries_cs": "Indonésie"
+    },
+    {
+      "iso_4217": "ILS",
+      "country_count": 2,
+      "example_countries_cs": "Izrael, Stát Palestina"
+    },
+    {
+      "iso_4217": "INR",
+      "country_count": 3,
+      "example_countries_cs": "Bhútán, Indie, Zimbabwe"
+    },
+    {
+      "iso_4217": "IQD",
+      "country_count": 1,
+      "example_countries_cs": "Irák"
+    },
+    {
+      "iso_4217": "IRR",
+      "country_count": 1,
+      "example_countries_cs": "Írán"
+    },
+    {
+      "iso_4217": "ISK",
+      "country_count": 1,
+      "example_countries_cs": "Island"
+    },
+    {
+      "iso_4217": "JMD",
+      "country_count": 1,
+      "example_countries_cs": "Jamajka"
+    },
+    {
+      "iso_4217": "JOD",
+      "country_count": 1,
+      "example_countries_cs": "Jordánsko"
+    },
+    {
+      "iso_4217": "JPY",
+      "country_count": 2,
+      "example_countries_cs": "Japonsko, Zimbabwe"
+    },
+    {
+      "iso_4217": "KES",
+      "country_count": 1,
+      "example_countries_cs": "Keňa"
+    },
+    {
+      "iso_4217": "KGS",
+      "country_count": 1,
+      "example_countries_cs": "Kyrgyzstán"
+    },
+    {
+      "iso_4217": "KHR",
+      "country_count": 1,
+      "example_countries_cs": "Kambodža"
+    },
+    {
+      "iso_4217": "KMF",
+      "country_count": 1,
+      "example_countries_cs": "Komory"
+    },
+    {
+      "iso_4217": "KPW",
+      "country_count": 1,
+      "example_countries_cs": "Severní Korea"
+    },
+    {
+      "iso_4217": "KRW",
+      "country_count": 1,
+      "example_countries_cs": "Jižní Korea"
+    },
+    {
+      "iso_4217": "KWD",
+      "country_count": 1,
+      "example_countries_cs": "Kuvajt"
+    },
+    {
+      "iso_4217": "KYD",
+      "country_count": 1,
+      "example_countries_cs": "Kajmanské ostrovy"
+    },
+    {
+      "iso_4217": "KZT",
+      "country_count": 1,
+      "example_countries_cs": "Kazachstán"
+    },
+    {
+      "iso_4217": "LAK",
+      "country_count": 1,
+      "example_countries_cs": "Laos"
+    },
+    {
+      "iso_4217": "LBP",
+      "country_count": 1,
+      "example_countries_cs": "Libanon"
+    },
+    {
+      "iso_4217": "LKR",
+      "country_count": 1,
+      "example_countries_cs": "Šrí Lanka"
+    },
+    {
+      "iso_4217": "LRD",
+      "country_count": 1,
+      "example_countries_cs": "Libérie"
+    },
+    {
+      "iso_4217": "LSL",
+      "country_count": 1,
+      "example_countries_cs": "Lesotho"
+    },
+    {
+      "iso_4217": "LYD",
+      "country_count": 1,
+      "example_countries_cs": "Libye"
+    },
+    {
+      "iso_4217": "MAD",
+      "country_count": 2,
+      "example_countries_cs": "Maroko, Západní Sahara"
+    },
+    {
+      "iso_4217": "MDL",
+      "country_count": 1,
+      "example_countries_cs": "Moldavsko"
+    },
+    {
+      "iso_4217": "MGA",
+      "country_count": 1,
+      "example_countries_cs": "Madagaskar"
+    },
+    {
+      "iso_4217": "MKD",
+      "country_count": 1,
+      "example_countries_cs": "Severní Makedonie"
+    },
+    {
+      "iso_4217": "MMK",
+      "country_count": 1,
+      "example_countries_cs": "Myanmar"
+    },
+    {
+      "iso_4217": "MNT",
+      "country_count": 1,
+      "example_countries_cs": "Mongolsko"
+    },
+    {
+      "iso_4217": "MOP",
+      "country_count": 1,
+      "example_countries_cs": "Macao"
+    },
+    {
+      "iso_4217": "MRU",
+      "country_count": 2,
+      "example_countries_cs": "Mauritánie, Západní Sahara"
+    },
+    {
+      "iso_4217": "MUR",
+      "country_count": 1,
+      "example_countries_cs": "Mauricius"
+    },
+    {
+      "iso_4217": "MVR",
+      "country_count": 1,
+      "example_countries_cs": "Maledivy"
+    },
+    {
+      "iso_4217": "MWK",
+      "country_count": 1,
+      "example_countries_cs": "Malawi"
+    },
+    {
+      "iso_4217": "MXN",
+      "country_count": 1,
+      "example_countries_cs": "Mexiko"
+    },
+    {
+      "iso_4217": "MYR",
+      "country_count": 1,
+      "example_countries_cs": "Malajsie"
+    },
+    {
+      "iso_4217": "MZN",
+      "country_count": 1,
+      "example_countries_cs": "Mosambik"
+    },
+    {
+      "iso_4217": "NAD",
+      "country_count": 1,
+      "example_countries_cs": "Namibie"
+    },
+    {
+      "iso_4217": "NGN",
+      "country_count": 1,
+      "example_countries_cs": "Nigérie"
+    },
+    {
+      "iso_4217": "NIO",
+      "country_count": 1,
+      "example_countries_cs": "Nikaragua"
+    },
+    {
+      "iso_4217": "NOK",
+      "country_count": 3,
+      "example_countries_cs": "Bouvetův ostrov, Norsko, Špicberky a Jan Mayen"
+    },
+    {
+      "iso_4217": "NPR",
+      "country_count": 1,
+      "example_countries_cs": "Nepál"
+    },
+    {
+      "iso_4217": "NZD",
+      "country_count": 5,
+      "example_countries_cs": "Cookovy ostrovy, Niue, Nový Zéland, Pitcairnovy ostrovy, Tokelau"
+    },
+    {
+      "iso_4217": "OMR",
+      "country_count": 1,
+      "example_countries_cs": "Omán"
+    },
+    {
+      "iso_4217": "PAB",
+      "country_count": 1,
+      "example_countries_cs": "Panama"
+    },
+    {
+      "iso_4217": "PEN",
+      "country_count": 1,
+      "example_countries_cs": "Peru"
+    },
+    {
+      "iso_4217": "PGK",
+      "country_count": 1,
+      "example_countries_cs": "Papua-Nová Guinea"
+    },
+    {
+      "iso_4217": "PHP",
+      "country_count": 1,
+      "example_countries_cs": "Filipíny"
+    },
+    {
+      "iso_4217": "PKR",
+      "country_count": 1,
+      "example_countries_cs": "Pákistán"
+    },
+    {
+      "iso_4217": "PLN",
+      "country_count": 1,
+      "example_countries_cs": "Polsko"
+    },
+    {
+      "iso_4217": "PYG",
+      "country_count": 1,
+      "example_countries_cs": "Paraguay"
+    },
+    {
+      "iso_4217": "QAR",
+      "country_count": 1,
+      "example_countries_cs": "Katar"
+    },
+    {
+      "iso_4217": "RON",
+      "country_count": 1,
+      "example_countries_cs": "Rumunsko"
+    },
+    {
+      "iso_4217": "RSD",
+      "country_count": 1,
+      "example_countries_cs": "Srbsko"
+    },
+    {
+      "iso_4217": "RUB",
+      "country_count": 1,
+      "example_countries_cs": "Rusko"
+    },
+    {
+      "iso_4217": "RWF",
+      "country_count": 1,
+      "example_countries_cs": "Rwanda"
+    },
+    {
+      "iso_4217": "SAR",
+      "country_count": 1,
+      "example_countries_cs": "Saúdská Arábie"
+    },
+    {
+      "iso_4217": "SBD",
+      "country_count": 1,
+      "example_countries_cs": "Šalomounovy ostrovy"
+    },
+    {
+      "iso_4217": "SCR",
+      "country_count": 1,
+      "example_countries_cs": "Seychely"
+    },
+    {
+      "iso_4217": "SDG",
+      "country_count": 1,
+      "example_countries_cs": "Súdán"
+    },
+    {
+      "iso_4217": "SEK",
+      "country_count": 1,
+      "example_countries_cs": "Švédsko"
+    },
+    {
+      "iso_4217": "SGD",
+      "country_count": 1,
+      "example_countries_cs": "Singapur"
+    },
+    {
+      "iso_4217": "SHP",
+      "country_count": 3,
+      "example_countries_cs": "Ostrov Ascension, Svatá Helena, Ascension a Tristan da Cunha, Tristan da Cunha"
+    },
+    {
+      "iso_4217": "SLL",
+      "country_count": 1,
+      "example_countries_cs": "Sierra Leone"
+    },
+    {
+      "iso_4217": "SOS",
+      "country_count": 1,
+      "example_countries_cs": "Somálsko"
+    },
+    {
+      "iso_4217": "SRD",
+      "country_count": 1,
+      "example_countries_cs": "Surinam"
+    },
+    {
+      "iso_4217": "SSP",
+      "country_count": 1,
+      "example_countries_cs": "Jižní Súdán"
+    },
+    {
+      "iso_4217": "STN",
+      "country_count": 1,
+      "example_countries_cs": "Svatý Tomáš a Princův ostrov"
+    },
+    {
+      "iso_4217": "SVC",
+      "country_count": 1,
+      "example_countries_cs": "Salvador"
+    },
+    {
+      "iso_4217": "SYP",
+      "country_count": 1,
+      "example_countries_cs": "Sýrie"
+    },
+    {
+      "iso_4217": "SZL",
+      "country_count": 1,
+      "example_countries_cs": "Eswatini"
+    },
+    {
+      "iso_4217": "THB",
+      "country_count": 1,
+      "example_countries_cs": "Thajsko"
+    },
+    {
+      "iso_4217": "TJS",
+      "country_count": 1,
+      "example_countries_cs": "Tádžikistán"
+    },
+    {
+      "iso_4217": "TMT",
+      "country_count": 1,
+      "example_countries_cs": "Turkmenistán"
+    },
+    {
+      "iso_4217": "TND",
+      "country_count": 1,
+      "example_countries_cs": "Tunisko"
+    },
+    {
+      "iso_4217": "TOP",
+      "country_count": 1,
+      "example_countries_cs": "Tonga"
+    },
+    {
+      "iso_4217": "TRY",
+      "country_count": 1,
+      "example_countries_cs": "Turecko"
+    },
+    {
+      "iso_4217": "TTD",
+      "country_count": 1,
+      "example_countries_cs": "Trinidad a Tobago"
+    },
+    {
+      "iso_4217": "TWD",
+      "country_count": 1,
+      "example_countries_cs": "Tchaj-wan"
+    },
+    {
+      "iso_4217": "TZS",
+      "country_count": 1,
+      "example_countries_cs": "Tanzanie"
+    },
+    {
+      "iso_4217": "UAH",
+      "country_count": 1,
+      "example_countries_cs": "Ukrajina"
+    },
+    {
+      "iso_4217": "UGX",
+      "country_count": 1,
+      "example_countries_cs": "Uganda"
+    },
+    {
+      "iso_4217": "USD",
+      "country_count": 20,
+      "example_countries_cs": "Americká Samoa, Americké Panenské ostrovy, Britské Panenské ostrovy, Britské území v Indickém oceánu, Ekvádor"
+    },
+    {
+      "iso_4217": "USN",
+      "country_count": 1,
+      "example_countries_cs": "Spojené státy americké"
+    },
+    {
+      "iso_4217": "USS",
+      "country_count": 1,
+      "example_countries_cs": "Spojené státy americké"
+    },
+    {
+      "iso_4217": "UYI",
+      "country_count": 1,
+      "example_countries_cs": "Uruguay"
+    },
+    {
+      "iso_4217": "UYU",
+      "country_count": 1,
+      "example_countries_cs": "Uruguay"
+    },
+    {
+      "iso_4217": "UZS",
+      "country_count": 1,
+      "example_countries_cs": "Uzbekistán"
+    },
+    {
+      "iso_4217": "VES",
+      "country_count": 1,
+      "example_countries_cs": "Venezuela"
+    },
+    {
+      "iso_4217": "VND",
+      "country_count": 1,
+      "example_countries_cs": "Vietnam"
+    },
+    {
+      "iso_4217": "VUV",
+      "country_count": 1,
+      "example_countries_cs": "Vanuatu"
+    },
+    {
+      "iso_4217": "WST",
+      "country_count": 1,
+      "example_countries_cs": "Samoa"
+    },
+    {
+      "iso_4217": "XAF",
+      "country_count": 6,
+      "example_countries_cs": "Gabon, Kamerun, Republika Kongo, Rovníková Guinea, Středoafrická republika"
+    },
+    {
+      "iso_4217": "XCD",
+      "country_count": 8,
+      "example_countries_cs": "Anguilla, Antigua a Barbuda, Dominika, Grenada, Montserrat"
+    },
+    {
+      "iso_4217": "XOF",
+      "country_count": 8,
+      "example_countries_cs": "Benin, Burkina Faso, Guinea-Bissau, Mali, Niger"
+    },
+    {
+      "iso_4217": "XPF",
+      "country_count": 3,
+      "example_countries_cs": "Francouzská Polynésie, Nová Kaledonie, Wallis a Futuna"
+    },
+    {
+      "iso_4217": "YER",
+      "country_count": 1,
+      "example_countries_cs": "Jemen"
+    },
+    {
+      "iso_4217": "ZAR",
+      "country_count": 4,
+      "example_countries_cs": "Jihoafrická republika, Lesotho, Namibie, Zimbabwe"
+    },
+    {
+      "iso_4217": "ZMW",
+      "country_count": 1,
+      "example_countries_cs": "Zambie"
+    }
+  ],
+  "meta": {
+    "title": "Měny zemí světa (ISO 4217) - Stáhnout zdarma",
+    "description": "Měnové kódy ISO 4217 odvozené z přiřazení k zemím v annexare/Countries; pro každou měnu uvádíme počet zemí a vzorek. Obsahuje 160 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měny zemí světa (ISO 4217) | ListBase",
+    "seo_description": "Stáhnout Měny zemí světa (ISO 4217) — 160 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 160 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

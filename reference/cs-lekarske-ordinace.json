@@ -1,0 +1,5096 @@
+{
+  "id": "cs-lekarske-ordinace",
+  "name": "České lékařské ordinace",
+  "title": "České lékařské ordinace",
+  "description": "Seznam pojmenovaných lékařských ordinací v Česku (amenity=doctors) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1011,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Acredula Benedicta",
+      "latitude": 50.035797,
+      "longitude": 15.769103
+    },
+    {
+      "name": "Aesculap",
+      "latitude": 49.743868,
+      "longitude": 13.374017
+    },
+    {
+      "name": "Aesthetology",
+      "latitude": 50.090117,
+      "longitude": 14.419783
+    },
+    {
+      "name": "Affidea",
+      "latitude": 49.224592,
+      "longitude": 16.603703
+    },
+    {
+      "name": "AKI Centrum",
+      "latitude": 49.182597,
+      "longitude": 16.593643
+    },
+    {
+      "name": "Alena Pliščinská",
+      "latitude": 50.200447,
+      "longitude": 15.848601
+    },
+    {
+      "name": "Alergo-imuno-plicní-interna Petřiny",
+      "latitude": 50.08911,
+      "longitude": 14.347069
+    },
+    {
+      "name": "Alergologická Ambulance",
+      "latitude": 49.531771,
+      "longitude": 17.597459
+    },
+    {
+      "name": "Alergologie",
+      "latitude": 50.92568,
+      "longitude": 15.086452
+    },
+    {
+      "name": "AM-MED, s.r.o.",
+      "latitude": 50.032743,
+      "longitude": 15.800894
+    },
+    {
+      "name": "Ambicare Clinic",
+      "latitude": 50.015424,
+      "longitude": 14.512279
+    },
+    {
+      "name": "Ambulance MUDr. Semerád",
+      "latitude": 50.08661,
+      "longitude": 14.455803
+    },
+    {
+      "name": "Ambulance pro děti a dorost",
+      "latitude": 48.860138,
+      "longitude": 16.045717
+    },
+    {
+      "name": "Ambulantní pohotovostní péče pro dospělé",
+      "latitude": 50.680035,
+      "longitude": 14.020879
+    },
+    {
+      "name": "Ambulantní pohotovostní péče pro děti a dorost",
+      "latitude": 50.678842,
+      "longitude": 14.021493
+    },
+    {
+      "name": "Ambulantní pohotovostní péče pro děti a pro dospělé",
+      "latitude": 50.636276,
+      "longitude": 13.811819
+    },
+    {
+      "name": "Andrea Šafárová",
+      "latitude": 50.200361,
+      "longitude": 15.848602
+    },
+    {
+      "name": "Androgeos",
+      "latitude": 50.096848,
+      "longitude": 14.406976
+    },
+    {
+      "name": "Angiografie",
+      "latitude": 50.02857,
+      "longitude": 15.788959
+    },
+    {
+      "name": "ARIGYN s.r.o.",
+      "latitude": 48.810548,
+      "longitude": 14.315697
+    },
+    {
+      "name": "ARO",
+      "latitude": 50.02909,
+      "longitude": 15.789397
+    },
+    {
+      "name": "Ars Medica Žarošice",
+      "latitude": 49.040513,
+      "longitude": 16.968756
+    },
+    {
+      "name": "Artmedica Clinic",
+      "latitude": 50.088846,
+      "longitude": 14.417855
+    },
+    {
+      "name": "Arztpraxis E. Illner",
+      "latitude": 50.36156,
+      "longitude": 12.456212
+    },
+    {
+      "name": "Arztpraxis Hörhold",
+      "latitude": 51.043728,
+      "longitude": 14.481028
+    },
+    {
+      "name": "Augenarztpraxis Haller / Pötzsch",
+      "latitude": 50.35898,
+      "longitude": 12.457936
+    },
+    {
+      "name": "Avenier",
+      "latitude": 49.179828,
+      "longitude": 16.567725
+    },
+    {
+      "name": "Avenier",
+      "latitude": 49.191805,
+      "longitude": 16.612458
+    },
+    {
+      "name": "B.N.N.R. s.r.o.",
+      "latitude": 49.23514,
+      "longitude": 16.624219
+    },
+    {
+      "name": "BABA CARE",
+      "latitude": 50.117431,
+      "longitude": 14.493931
+    },
+    {
+      "name": "BabyMed",
+      "latitude": 50.031643,
+      "longitude": 14.269229
+    },
+    {
+      "name": "Barbora Hrabálkova",
+      "latitude": 49.223371,
+      "longitude": 16.58727
+    },
+    {
+      "name": "Baudé Boubacar",
+      "latitude": 50.079189,
+      "longitude": 14.43738
+    },
+    {
+      "name": "Beauty Shape",
+      "latitude": 50.073752,
+      "longitude": 14.431358
+    },
+    {
+      "name": "Belomedica, s.r.o.",
+      "latitude": 49.610171,
+      "longitude": 17.740866
+    },
+    {
+      "name": "Beskydské rehabilitační centrum",
+      "latitude": 49.526871,
+      "longitude": 18.328662
+    },
+    {
+      "name": "Beskydské rehabilitační centrum",
+      "latitude": 49.539414,
+      "longitude": 18.305325
+    },
+    {
+      "name": "Biochemie, centrální odběrová místnost",
+      "latitude": 50.029067,
+      "longitude": 15.786125
+    },
+    {
+      "name": "Brest Unit Prague",
+      "latitude": 50.029842,
+      "longitude": 14.507881
+    },
+    {
+      "name": "Canadian Medical Center",
+      "latitude": 50.028437,
+      "longitude": 14.493147
+    },
+    {
+      "name": "care medico",
+      "latitude": 50.0935,
+      "longitude": 14.450945
+    },
+    {
+      "name": "Cechová Ladislava",
+      "latitude": 49.209135,
+      "longitude": 16.617985
+    },
+    {
+      "name": "Celinor Plus s.r.o.",
+      "latitude": 50.032623,
+      "longitude": 15.75473
+    },
+    {
+      "name": "Celotělový počítač",
+      "latitude": 49.08872,
+      "longitude": 16.144429
+    },
+    {
+      "name": "Centrum Ambulantní gynekologie",
+      "latitude": 49.193221,
+      "longitude": 16.610864
+    },
+    {
+      "name": "Centrum ambulatní zdravotní péče ÚVN",
+      "latitude": 50.100202,
+      "longitude": 14.392632
+    },
+    {
+      "name": "Centrum duchovní péče OÁZA",
+      "latitude": 50.029912,
+      "longitude": 15.78979
+    },
+    {
+      "name": "Centrum hyperbarické medicíny - privátní pracoviště",
+      "latitude": 50.029137,
+      "longitude": 15.787121
+    },
+    {
+      "name": "Centrum lékařské genetiky",
+      "latitude": 48.957148,
+      "longitude": 14.492729
+    },
+    {
+      "name": "Centrum lékařské péče",
+      "latitude": 49.247361,
+      "longitude": 16.580864
+    },
+    {
+      "name": "Centrum Medyczne - Punkt Pobrań Krwi",
+      "latitude": 49.948984,
+      "longitude": 18.341238
+    },
+    {
+      "name": "Centrum tělesné a duševní harmonie - MUDr. Iva Pousková",
+      "latitude": 50.226008,
+      "longitude": 17.200246
+    },
+    {
+      "name": "Centrum zdravotnické péče",
+      "latitude": 49.10434,
+      "longitude": 16.758192
+    },
+    {
+      "name": "Centrální odběry",
+      "latitude": 50.417565,
+      "longitude": 14.911771
+    },
+    {
+      "name": "Centrální operační sály",
+      "latitude": 50.028866,
+      "longitude": 15.789468
+    },
+    {
+      "name": "Centrální sterilizace",
+      "latitude": 50.028638,
+      "longitude": 15.789539
+    },
+    {
+      "name": "CEZARDENT",
+      "latitude": 48.779679,
+      "longitude": 14.296214
+    },
+    {
+      "name": "Chirurg dr. Poláček",
+      "latitude": 50.740264,
+      "longitude": 15.300131
+    },
+    {
+      "name": "Chirurgická ambulance",
+      "latitude": 49.639947,
+      "longitude": 18.135805
+    },
+    {
+      "name": "Chirurgická ambulance",
+      "latitude": 50.102598,
+      "longitude": 14.396799
+    },
+    {
+      "name": "Chirurgická ambulance a laserové centrum",
+      "latitude": 49.063047,
+      "longitude": 17.46998
+    },
+    {
+      "name": "Chirurgická ambulance Prim. MUDr. Jan Rýznar",
+      "latitude": 49.966495,
+      "longitude": 16.981992
+    },
+    {
+      "name": "Chirurgická ambulance Remus",
+      "latitude": 49.776061,
+      "longitude": 13.360191
+    },
+    {
+      "name": "Chirurgie",
+      "latitude": 50.028533,
+      "longitude": 15.789581
+    },
+    {
+      "name": "Chirurgie Ruky",
+      "latitude": 49.188702,
+      "longitude": 16.606772
+    },
+    {
+      "name": "Chirurgie – MUDr. Kanzouri",
+      "latitude": 50.53199,
+      "longitude": 16.234438
+    },
+    {
+      "name": "Chirurgie-Proktologie s.r.o",
+      "latitude": 49.152116,
+      "longitude": 16.877182
+    },
+    {
+      "name": "chráněné byty",
+      "latitude": 50.005396,
+      "longitude": 14.45277
+    },
+    {
+      "name": "Clinic Samer",
+      "latitude": 50.03937,
+      "longitude": 14.411389
+    },
+    {
+      "name": "Cosmetic Clinic",
+      "latitude": 50.499859,
+      "longitude": 13.430708
+    },
+    {
+      "name": "CovidPoint",
+      "latitude": 50.089547,
+      "longitude": 14.44387
+    },
+    {
+      "name": "curasan",
+      "latitude": 49.776871,
+      "longitude": 13.371825
+    },
+    {
+      "name": "Cévní a plastická chirurgie",
+      "latitude": 50.028697,
+      "longitude": 15.788927
+    },
+    {
+      "name": "Dagmar Nováková",
+      "latitude": 50.200283,
+      "longitude": 15.848596
+    },
+    {
+      "name": "Dana Podzimková",
+      "latitude": 50.21495,
+      "longitude": 15.811001
+    },
+    {
+      "name": "Daniela Nováková",
+      "latitude": 50.214923,
+      "longitude": 15.810995
+    },
+    {
+      "name": "David Neumann",
+      "latitude": 50.196018,
+      "longitude": 15.837704
+    },
+    {
+      "name": "Derma Natura",
+      "latitude": 48.854099,
+      "longitude": 16.051391
+    },
+    {
+      "name": "DERMAcentrum",
+      "latitude": 50.036173,
+      "longitude": 15.786971
+    },
+    {
+      "name": "DermAngio",
+      "latitude": 49.197245,
+      "longitude": 16.646965
+    },
+    {
+      "name": "Dermatologie MUDr. Nechvátalová",
+      "latitude": 49.191994,
+      "longitude": 16.610765
+    },
+    {
+      "name": "Diabetologická ordinace – MUDr. Hrdinová",
+      "latitude": 50.531955,
+      "longitude": 16.235427
+    },
+    {
+      "name": "Dialyzační středisko",
+      "latitude": 50.115435,
+      "longitude": 14.465584
+    },
+    {
+      "name": "Dipl.-Med. Martina Kaden",
+      "latitude": 50.605064,
+      "longitude": 13.463976
+    },
+    {
+      "name": "Dipl.-Med. Silke Mynett",
+      "latitude": 50.418794,
+      "longitude": 12.971034
+    },
+    {
+      "name": "Dipl.med. K. Frese",
+      "latitude": 50.354967,
+      "longitude": 12.468377
+    },
+    {
+      "name": "Distribuována Klinika",
+      "latitude": 50.091095,
+      "longitude": 14.473107
+    },
+    {
+      "name": "Doc. MUDr. Jiřina Chládková",
+      "latitude": 50.211399,
+      "longitude": 15.821155
+    },
+    {
+      "name": "Doc. MUDr. Vlad. Pidrman Ph.D.",
+      "latitude": 50.211374,
+      "longitude": 15.821145
+    },
+    {
+      "name": "Doktor pro dospělé",
+      "latitude": 49.781242,
+      "longitude": 18.274409
+    },
+    {
+      "name": "Domácí péče",
+      "latitude": 50.029402,
+      "longitude": 15.785953
+    },
+    {
+      "name": "Dr. Dietmar Stauffer",
+      "latitude": 48.760868,
+      "longitude": 14.973103
+    },
+    {
+      "name": "Dr. med. Andreas Ebenburger",
+      "latitude": 50.077992,
+      "longitude": 12.231452
+    },
+    {
+      "name": "Dr. med. Undine Höfer",
+      "latitude": 50.418937,
+      "longitude": 12.970229
+    },
+    {
+      "name": "Dr. Med. Univ. Christian Schenner",
+      "latitude": 48.773264,
+      "longitude": 14.987394
+    },
+    {
+      "name": "Dr. med. univ. Wolfgang Bacovsky",
+      "latitude": 48.773255,
+      "longitude": 14.98738
+    },
+    {
+      "name": "Dr. Milada Dražanova",
+      "latitude": 49.222422,
+      "longitude": 16.595075
+    },
+    {
+      "name": "Dr. Pieshendel",
+      "latitude": 50.3561,
+      "longitude": 12.468983
+    },
+    {
+      "name": "Dr. Raj",
+      "latitude": 49.979604,
+      "longitude": 12.439548
+    },
+    {
+      "name": "Dr. Roland Stöger",
+      "latitude": 48.615524,
+      "longitude": 14.50294
+    },
+    {
+      "name": "Dr. Ulrike Bernhardt",
+      "latitude": 50.496595,
+      "longitude": 13.027232
+    },
+    {
+      "name": "Dr.Adamčeková",
+      "latitude": 50.104296,
+      "longitude": 13.731717
+    },
+    {
+      "name": "Dr.Hajči",
+      "latitude": 50.104253,
+      "longitude": 13.73181
+    },
+    {
+      "name": "DynaMedic",
+      "latitude": 50.038307,
+      "longitude": 15.784902
+    },
+    {
+      "name": "Dětská ambulance",
+      "latitude": 48.916635,
+      "longitude": 17.099883
+    },
+    {
+      "name": "Dětská chirurgie",
+      "latitude": 50.028312,
+      "longitude": 15.788665
+    },
+    {
+      "name": "Dětská kardiologická ambulance MUDr. Vlastimil Koditek",
+      "latitude": 49.973884,
+      "longitude": 16.391817
+    },
+    {
+      "name": "Dětská lékařka MuDr Alena Korousová",
+      "latitude": 50.407506,
+      "longitude": 14.038484
+    },
+    {
+      "name": "Dětská lékařka MUDr. Klimešová",
+      "latitude": 49.99543,
+      "longitude": 14.660842
+    },
+    {
+      "name": "Dětská lékařka Mudr. Salavová",
+      "latitude": 48.953902,
+      "longitude": 17.151774
+    },
+    {
+      "name": "Dětská neurologie Richterová",
+      "latitude": 50.095602,
+      "longitude": 14.351299
+    },
+    {
+      "name": "Dětská ordinace",
+      "latitude": 48.816246,
+      "longitude": 14.316529
+    },
+    {
+      "name": "Dětská ortopedie Kubiče",
+      "latitude": 50.107214,
+      "longitude": 14.374679
+    },
+    {
+      "name": "Dětská pohotovost",
+      "latitude": 50.029465,
+      "longitude": 15.788007
+    },
+    {
+      "name": "Dětské oddělení",
+      "latitude": 50.029539,
+      "longitude": 15.787989
+    },
+    {
+      "name": "Dětské plicní oddělení - Medicon",
+      "latitude": 50.042291,
+      "longitude": 14.450352
+    },
+    {
+      "name": "Dětské zdravotní středisko",
+      "latitude": 50.520398,
+      "longitude": 14.974911
+    },
+    {
+      "name": "Dětský",
+      "latitude": 50.790705,
+      "longitude": 15.068493
+    },
+    {
+      "name": "Dětský a dorostový lékař - MUDr. Veselá",
+      "latitude": 49.221347,
+      "longitude": 16.518539
+    },
+    {
+      "name": "Dětský a dorostový lékař - Verdán Miroslav - Alergologie",
+      "latitude": 49.151484,
+      "longitude": 15.002092
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 48.774484,
+      "longitude": 14.290332
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 48.971464,
+      "longitude": 17.58829
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 49.176262,
+      "longitude": 16.552936
+    },
+    {
+      "name": "Dětský Lékař",
+      "latitude": 49.178571,
+      "longitude": 16.685251
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 49.289751,
+      "longitude": 16.575608
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 49.543654,
+      "longitude": 18.21631
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 49.545815,
+      "longitude": 18.209963
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 49.659406,
+      "longitude": 18.696486
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 49.78128,
+      "longitude": 18.274671
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 50.013421,
+      "longitude": 14.628151
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 50.790331,
+      "longitude": 15.067031
+    },
+    {
+      "name": "Dětský lékař",
+      "latitude": 50.817436,
+      "longitude": 14.963064
+    },
+    {
+      "name": "Dětský lékař - MUDr. Petra Lefflerová",
+      "latitude": 49.92915,
+      "longitude": 14.303329
+    },
+    {
+      "name": "Dětský lékař MUDr. Ptoszková",
+      "latitude": 49.061272,
+      "longitude": 17.48211
+    },
+    {
+      "name": "Dům lékařů",
+      "latitude": 50.145647,
+      "longitude": 15.121162
+    },
+    {
+      "name": "Dům zdraví",
+      "latitude": 49.312793,
+      "longitude": 17.472315
+    },
+    {
+      "name": "Dům zdraví",
+      "latitude": 49.355847,
+      "longitude": 16.015394
+    },
+    {
+      "name": "Dům zdraví",
+      "latitude": 49.396943,
+      "longitude": 15.573156
+    },
+    {
+      "name": "Echokardio.cz, s.r.o.",
+      "latitude": 50.104269,
+      "longitude": 13.731669
+    },
+    {
+      "name": "Edumed Kardiologická Ambulance",
+      "latitude": 50.211316,
+      "longitude": 15.821152
+    },
+    {
+      "name": "Endokrinologie a Diabetologie",
+      "latitude": 50.032802,
+      "longitude": 14.599338
+    },
+    {
+      "name": "Endokrinologové s.r.o.",
+      "latitude": 50.068864,
+      "longitude": 14.50427
+    },
+    {
+      "name": "Envy Klinika",
+      "latitude": 50.089229,
+      "longitude": 14.420123
+    },
+    {
+      "name": "Ergoterapie",
+      "latitude": 48.811457,
+      "longitude": 14.32655
+    },
+    {
+      "name": "Ergoterapie a ergodiagnostika",
+      "latitude": 50.030147,
+      "longitude": 15.788438
+    },
+    {
+      "name": "EUC KLINIKA",
+      "latitude": 50.096533,
+      "longitude": 14.365032
+    },
+    {
+      "name": "Eva Březinová",
+      "latitude": 50.200393,
+      "longitude": 15.848388
+    },
+    {
+      "name": "Foot studio D3D",
+      "latitude": 49.223016,
+      "longitude": 16.595055
+    },
+    {
+      "name": "Fresenius Medical Care - DS, s.r.o. - dialyzační středisko",
+      "latitude": 50.029486,
+      "longitude": 15.786116
+    },
+    {
+      "name": "FYZIO Krumlov",
+      "latitude": 48.817689,
+      "longitude": 14.306271
+    },
+    {
+      "name": "Fyzio-J Fyzioterapie",
+      "latitude": 49.55695,
+      "longitude": 15.937993
+    },
+    {
+      "name": "Fyzio-Rehab",
+      "latitude": 50.479206,
+      "longitude": 14.941107
+    },
+    {
+      "name": "FYZIOMED",
+      "latitude": 49.57404,
+      "longitude": 17.23361
+    },
+    {
+      "name": "Fyzioterapie Jakub Veškrna",
+      "latitude": 49.185435,
+      "longitude": 16.594935
+    },
+    {
+      "name": "Fyzioterapie Michaela Pousková",
+      "latitude": 49.23271,
+      "longitude": 13.516081
+    },
+    {
+      "name": "Fyzioterapie Soňa Chovancová",
+      "latitude": 48.971508,
+      "longitude": 17.214973
+    },
+    {
+      "name": "Gastromedic s.r.o.",
+      "latitude": 50.02749,
+      "longitude": 15.796849
+    },
+    {
+      "name": "Gemeinschaftspraxis Thomas und Berndt",
+      "latitude": 50.897428,
+      "longitude": 14.655802
+    },
+    {
+      "name": "Genera s.r.o.",
+      "latitude": 49.970021,
+      "longitude": 14.383879
+    },
+    {
+      "name": "General practitioner",
+      "latitude": 49.437587,
+      "longitude": 15.227915
+    },
+    {
+      "name": "Geriatrické centrum",
+      "latitude": 50.029815,
+      "longitude": 15.787097
+    },
+    {
+      "name": "GERMED, s.r.o.",
+      "latitude": 50.032553,
+      "longitude": 15.754731
+    },
+    {
+      "name": "Gyn-Line",
+      "latitude": 49.200268,
+      "longitude": 16.608605
+    },
+    {
+      "name": "Gyn-pren",
+      "latitude": 49.68682,
+      "longitude": 18.360746
+    },
+    {
+      "name": "GYNCARE-Aš",
+      "latitude": 50.222149,
+      "longitude": 12.189436
+    },
+    {
+      "name": "gynekolog",
+      "latitude": 48.80648,
+      "longitude": 14.312299
+    },
+    {
+      "name": "Gynekolog",
+      "latitude": 49.874166,
+      "longitude": 15.57848
+    },
+    {
+      "name": "Gynekologická ambulance",
+      "latitude": 49.055212,
+      "longitude": 13.780238
+    },
+    {
+      "name": "Gynekologická Ambulance",
+      "latitude": 49.527009,
+      "longitude": 17.580707
+    },
+    {
+      "name": "Gynekologická ambulance",
+      "latitude": 49.966483,
+      "longitude": 16.981922
+    },
+    {
+      "name": "Gynekologická ambulance",
+      "latitude": 50.02457,
+      "longitude": 15.207981
+    },
+    {
+      "name": "Gynekologická ambulance Bílovice",
+      "latitude": 49.244418,
+      "longitude": 16.673817
+    },
+    {
+      "name": "Gynekologická ambulance Gynjan",
+      "latitude": 49.101706,
+      "longitude": 16.374481
+    },
+    {
+      "name": "Gynekologická ambulance MUDr. Pavel Vojkovský",
+      "latitude": 49.675943,
+      "longitude": 18.343618
+    },
+    {
+      "name": "Gynekologická ordinace Kožnar",
+      "latitude": 49.230561,
+      "longitude": 13.523868
+    },
+    {
+      "name": "Gynekologické centrum ŠÁRKA s.r.o.",
+      "latitude": 49.20528,
+      "longitude": 16.625861
+    },
+    {
+      "name": "Gynekologie",
+      "latitude": 49.176196,
+      "longitude": 16.55296
+    },
+    {
+      "name": "Gynekologie",
+      "latitude": 49.178635,
+      "longitude": 16.685352
+    },
+    {
+      "name": "Gynekologie",
+      "latitude": 50.027917,
+      "longitude": 15.78694
+    },
+    {
+      "name": "Gynekologie",
+      "latitude": 50.073027,
+      "longitude": 14.466657
+    },
+    {
+      "name": "Gynekologie",
+      "latitude": 50.078158,
+      "longitude": 12.369636
+    },
+    {
+      "name": "Gynekologie FEMINA",
+      "latitude": 48.823956,
+      "longitude": 14.329249
+    },
+    {
+      "name": "Gynekologie GynKrup",
+      "latitude": 50.058902,
+      "longitude": 14.496898
+    },
+    {
+      "name": "Gynekologie Hloubětín, s.r.o.",
+      "latitude": 50.10696,
+      "longitude": 14.537321
+    },
+    {
+      "name": "Gynekologie Kralovická 27",
+      "latitude": 49.77818,
+      "longitude": 13.367398
+    },
+    {
+      "name": "Gynekologie MUDr. Krčál, s.r.o.",
+      "latitude": 49.654524,
+      "longitude": 13.198619
+    },
+    {
+      "name": "Gynekologie Šottner",
+      "latitude": 49.189859,
+      "longitude": 16.591239
+    },
+    {
+      "name": "Gynekologie – MUDr. Kohoutová",
+      "latitude": 50.531966,
+      "longitude": 16.234444
+    },
+    {
+      "name": "GYNfit",
+      "latitude": 49.200468,
+      "longitude": 16.596394
+    },
+    {
+      "name": "GYNVIA s.r.o.",
+      "latitude": 50.101077,
+      "longitude": 14.445757
+    },
+    {
+      "name": "Gynvivus",
+      "latitude": 50.030097,
+      "longitude": 14.596105
+    },
+    {
+      "name": "Hana Nožičková",
+      "latitude": 50.196119,
+      "longitude": 15.837851
+    },
+    {
+      "name": "Hausarztpraxis Männel",
+      "latitude": 51.005525,
+      "longitude": 14.570444
+    },
+    {
+      "name": "Helena Bernardová",
+      "latitude": 50.218011,
+      "longitude": 15.853245
+    },
+    {
+      "name": "Helia Dušan MUDr.",
+      "latitude": 49.040022,
+      "longitude": 17.471779
+    },
+    {
+      "name": "Helnwein",
+      "latitude": 48.766654,
+      "longitude": 14.98575
+    },
+    {
+      "name": "Hematologie",
+      "latitude": 50.029452,
+      "longitude": 15.78704
+    },
+    {
+      "name": "Hilarion - Podologický Institut (Bohnice)",
+      "latitude": 50.129927,
+      "longitude": 14.42607
+    },
+    {
+      "name": "Honovi",
+      "latitude": 49.067231,
+      "longitude": 17.454872
+    },
+    {
+      "name": "Hrabcová Karla MUDr.",
+      "latitude": 49.054707,
+      "longitude": 17.468077
+    },
+    {
+      "name": "Hradecké oční sanatorium",
+      "latitude": 50.202914,
+      "longitude": 15.786287
+    },
+    {
+      "name": "IC Klinika",
+      "latitude": 49.225999,
+      "longitude": 16.590985
+    },
+    {
+      "name": "Infekční",
+      "latitude": 50.028535,
+      "longitude": 15.790159
+    },
+    {
+      "name": "Inspamed",
+      "latitude": 50.072665,
+      "longitude": 14.435941
+    },
+    {
+      "name": "Interimun",
+      "latitude": 50.035087,
+      "longitude": 15.763305
+    },
+    {
+      "name": "Interna",
+      "latitude": 50.030015,
+      "longitude": 15.787042
+    },
+    {
+      "name": "Internistische Hausarztpraxis Hendel",
+      "latitude": 50.352269,
+      "longitude": 12.425624
+    },
+    {
+      "name": "Interní a endokrinologická ambulance s.r.o.",
+      "latitude": 50.143779,
+      "longitude": 14.092243
+    },
+    {
+      "name": "Irena Grygerová",
+      "latitude": 50.19623,
+      "longitude": 15.837523
+    },
+    {
+      "name": "Ivana Součková",
+      "latitude": 50.196315,
+      "longitude": 15.837571
+    },
+    {
+      "name": "Ivana Řeháková",
+      "latitude": 50.196327,
+      "longitude": 15.83764
+    },
+    {
+      "name": "Ivana Škardová",
+      "latitude": 50.200345,
+      "longitude": 15.848603
+    },
+    {
+      "name": "J. Srchová, D. Šolínová, S. Vaňková, V. Vašatová",
+      "latitude": 50.216768,
+      "longitude": 15.854298
+    },
+    {
+      "name": "Jako-Med s.r.o.",
+      "latitude": 50.774317,
+      "longitude": 14.199117
+    },
+    {
+      "name": "Jan Hůlka",
+      "latitude": 50.19614,
+      "longitude": 15.83791
+    },
+    {
+      "name": "Jana Klásková",
+      "latitude": 49.102011,
+      "longitude": 16.379483
+    },
+    {
+      "name": "Jana Nekolová",
+      "latitude": 50.215102,
+      "longitude": 15.811042
+    },
+    {
+      "name": "Jana Vaněčková",
+      "latitude": 50.214984,
+      "longitude": 15.811001
+    },
+    {
+      "name": "Jančová Jana MUDr.",
+      "latitude": 49.075185,
+      "longitude": 17.438316
+    },
+    {
+      "name": "Jasmed",
+      "latitude": 50.198589,
+      "longitude": 15.85275
+    },
+    {
+      "name": "JH MED Pardubice s.r.o. – MUDr. Jana Hrušková",
+      "latitude": 50.029859,
+      "longitude": 15.789803
+    },
+    {
+      "name": "JIP chirurgických oborů",
+      "latitude": 50.028984,
+      "longitude": 15.789438
+    },
+    {
+      "name": "Jitka Krejzová",
+      "latitude": 50.200341,
+      "longitude": 15.848389
+    },
+    {
+      "name": "Johny Marketing Medical",
+      "latitude": 50.926315,
+      "longitude": 15.227124
+    },
+    {
+      "name": "Kalmetizace - Medicon",
+      "latitude": 50.042265,
+      "longitude": 14.450393
+    },
+    {
+      "name": "Kardiologická ambulance",
+      "latitude": 49.198779,
+      "longitude": 16.605278
+    },
+    {
+      "name": "Kardiologické centrum AGEL a.s.",
+      "latitude": 50.028552,
+      "longitude": 15.787473
+    },
+    {
+      "name": "Kardiologie",
+      "latitude": 50.028882,
+      "longitude": 15.787711
+    },
+    {
+      "name": "Kardioma",
+      "latitude": 50.02545,
+      "longitude": 15.205759
+    },
+    {
+      "name": "Kardioplus s.r.o.",
+      "latitude": 49.831897,
+      "longitude": 18.27688
+    },
+    {
+      "name": "Kateřina Suchá",
+      "latitude": 50.196042,
+      "longitude": 15.837826
+    },
+    {
+      "name": "Kinderarztpraxis Sevcikova",
+      "latitude": 50.898503,
+      "longitude": 14.655057
+    },
+    {
+      "name": "KlanMed, s.r.o.",
+      "latitude": 50.089862,
+      "longitude": 14.666048
+    },
+    {
+      "name": "Klinická psychologie",
+      "latitude": 50.028571,
+      "longitude": 15.786992
+    },
+    {
+      "name": "Klinika JL",
+      "latitude": 50.049418,
+      "longitude": 14.345285
+    },
+    {
+      "name": "Klinika Restrial",
+      "latitude": 50.006574,
+      "longitude": 14.416489
+    },
+    {
+      "name": "Knittel s.r.o.",
+      "latitude": 50.0332,
+      "longitude": 15.78103
+    },
+    {
+      "name": "Komplex ambulancí",
+      "latitude": 50.028485,
+      "longitude": 15.78931
+    },
+    {
+      "name": "Konečná Jana MUDr.",
+      "latitude": 49.056759,
+      "longitude": 17.468014
+    },
+    {
+      "name": "Kostní denzitometrie",
+      "latitude": 50.025465,
+      "longitude": 15.205704
+    },
+    {
+      "name": "Kožní",
+      "latitude": 49.543595,
+      "longitude": 18.216169
+    },
+    {
+      "name": "Kožní",
+      "latitude": 50.149834,
+      "longitude": 13.904106
+    },
+    {
+      "name": "Kožní - ambulance, lékařská kosmetika",
+      "latitude": 50.027975,
+      "longitude": 15.78887
+    },
+    {
+      "name": "Kožní ambulance - MUDr. Zatloukalová",
+      "latitude": 49.221387,
+      "longitude": 16.518555
+    },
+    {
+      "name": "Kožní ambulance Fialová",
+      "latitude": 50.098717,
+      "longitude": 14.370309
+    },
+    {
+      "name": "Kožní ordinace",
+      "latitude": 49.594686,
+      "longitude": 17.246975
+    },
+    {
+      "name": "Kožní ordinace Remus",
+      "latitude": 49.776294,
+      "longitude": 13.36036
+    },
+    {
+      "name": "Kožní – MUDr. Černohorská",
+      "latitude": 50.531942,
+      "longitude": 16.234449
+    },
+    {
+      "name": "Krevní centrum",
+      "latitude": 49.683478,
+      "longitude": 18.355076
+    },
+    {
+      "name": "Krčská poliklinika",
+      "latitude": 50.042259,
+      "longitude": 14.441619
+    },
+    {
+      "name": "Kučerová CZ s.r.o.",
+      "latitude": 50.025595,
+      "longitude": 15.774233
+    },
+    {
+      "name": "Ladislav Fildan, Ordinace biologické celostní medicíny",
+      "latitude": 49.223018,
+      "longitude": 16.585883
+    },
+    {
+      "name": "LaserPlastic",
+      "latitude": 50.087366,
+      "longitude": 14.416067
+    },
+    {
+      "name": "Lenka Dryevá",
+      "latitude": 50.200266,
+      "longitude": 15.848596
+    },
+    {
+      "name": "Lenka Hošková",
+      "latitude": 50.196246,
+      "longitude": 15.837637
+    },
+    {
+      "name": "Lenka Petříková, Miluše Paikertová",
+      "latitude": 50.200391,
+      "longitude": 15.848544
+    },
+    {
+      "name": "Lexum",
+      "latitude": 48.974334,
+      "longitude": 14.472075
+    },
+    {
+      "name": "Libor Janeček, Zdeněk Vavera",
+      "latitude": 50.196015,
+      "longitude": 15.837797
+    },
+    {
+      "name": "LIMA, spol. s r.o.",
+      "latitude": 50.051314,
+      "longitude": 14.434251
+    },
+    {
+      "name": "Logopedická ambulance Centrum řeči, s.r.o.",
+      "latitude": 48.817679,
+      "longitude": 14.318137
+    },
+    {
+      "name": "Logopedická ambulance, s.r.o.",
+      "latitude": 48.821266,
+      "longitude": 14.319487
+    },
+    {
+      "name": "Logopedie",
+      "latitude": 49.898248,
+      "longitude": 14.491312
+    },
+    {
+      "name": "Logopoint",
+      "latitude": 50.054876,
+      "longitude": 14.495228
+    },
+    {
+      "name": "Look Oční Ambulance",
+      "latitude": 49.524473,
+      "longitude": 17.578019
+    },
+    {
+      "name": "Luděk Boudyš",
+      "latitude": 50.200254,
+      "longitude": 15.848367
+    },
+    {
+      "name": "Lugyn",
+      "latitude": 50.144993,
+      "longitude": 15.130076
+    },
+    {
+      "name": "lékař",
+      "latitude": 48.620159,
+      "longitude": 14.257522
+    },
+    {
+      "name": "Lékař",
+      "latitude": 50.738408,
+      "longitude": 15.295312
+    },
+    {
+      "name": "lékař pro dospělé",
+      "latitude": 48.852745,
+      "longitude": 14.21453
+    },
+    {
+      "name": "Lékař pro dospělé",
+      "latitude": 50.81759,
+      "longitude": 14.963069
+    },
+    {
+      "name": "Lékař Černošice s.r.o.",
+      "latitude": 49.950076,
+      "longitude": 14.315373
+    },
+    {
+      "name": "Lékařská ordinace",
+      "latitude": 50.646281,
+      "longitude": 15.963816
+    },
+    {
+      "name": "Lékařská péče",
+      "latitude": 50.659245,
+      "longitude": 15.818975
+    },
+    {
+      "name": "Lékařský dům",
+      "latitude": 49.963194,
+      "longitude": 16.97578
+    },
+    {
+      "name": "Lékařský dům",
+      "latitude": 49.99816,
+      "longitude": 14.658509
+    },
+    {
+      "name": "Lékařský dům",
+      "latitude": 50.69429,
+      "longitude": 15.734432
+    },
+    {
+      "name": "Lékařský dům Hlinky",
+      "latitude": 49.191201,
+      "longitude": 16.578655
+    },
+    {
+      "name": "Lékařský dům UH",
+      "latitude": 49.069716,
+      "longitude": 17.461797
+    },
+    {
+      "name": "Lékařský dům v Mezibranské",
+      "latitude": 50.079021,
+      "longitude": 14.429636
+    },
+    {
+      "name": "Lékárna Centrum",
+      "latitude": 49.40006,
+      "longitude": 17.669715
+    },
+    {
+      "name": "M-Gate klinika",
+      "latitude": 50.027337,
+      "longitude": 15.790675
+    },
+    {
+      "name": "Malé divy",
+      "latitude": 50.145088,
+      "longitude": 15.130217
+    },
+    {
+      "name": "Malé zdraví",
+      "latitude": 50.053545,
+      "longitude": 14.516964
+    },
+    {
+      "name": "Mammacentrum Zahradní Město",
+      "latitude": 50.058639,
+      "longitude": 14.497093
+    },
+    {
+      "name": "Marie Kmoníčková",
+      "latitude": 50.196033,
+      "longitude": 15.837772
+    },
+    {
+      "name": "Marie Sádlová",
+      "latitude": 50.217962,
+      "longitude": 15.853227
+    },
+    {
+      "name": "Marián Olejník",
+      "latitude": 48.979527,
+      "longitude": 17.21923
+    },
+    {
+      "name": "Markéta Šranková - dětská ordinace",
+      "latitude": 50.106696,
+      "longitude": 14.376361
+    },
+    {
+      "name": "MARMED s.r.o. - MUDr. Hana Růžičková",
+      "latitude": 49.464969,
+      "longitude": 17.017388
+    },
+    {
+      "name": "Maňák Jiří MUDr.",
+      "latitude": 49.040081,
+      "longitude": 17.47175
+    },
+    {
+      "name": "Mašátová",
+      "latitude": 49.51188,
+      "longitude": 15.106495
+    },
+    {
+      "name": "MB pleťový terapeut",
+      "latitude": 50.025637,
+      "longitude": 15.201171
+    },
+    {
+      "name": "MB Praktický Lékař, S.r.o.",
+      "latitude": 48.774411,
+      "longitude": 14.290167
+    },
+    {
+      "name": "Medi-gard s. r. o.",
+      "latitude": 49.967964,
+      "longitude": 14.513931
+    },
+    {
+      "name": "Medica s.r.o",
+      "latitude": 50.815175,
+      "longitude": 14.96304
+    },
+    {
+      "name": "Medical Centrum",
+      "latitude": 50.77536,
+      "longitude": 15.42562
+    },
+    {
+      "name": "Medical Centrum Špindlerův Mlýn",
+      "latitude": 50.724925,
+      "longitude": 15.609305
+    },
+    {
+      "name": "Medicina centrum",
+      "latitude": 50.074527,
+      "longitude": 14.428698
+    },
+    {
+      "name": "Mediclinic",
+      "latitude": 49.20468,
+      "longitude": 16.598735
+    },
+    {
+      "name": "MediClinic a.s.",
+      "latitude": 48.816174,
+      "longitude": 14.315513
+    },
+    {
+      "name": "MediClinic a.s.",
+      "latitude": 48.823807,
+      "longitude": 14.32805
+    },
+    {
+      "name": "Medicom clinic",
+      "latitude": 49.19837,
+      "longitude": 16.656001
+    },
+    {
+      "name": "MEDICOM'S",
+      "latitude": 49.476924,
+      "longitude": 17.139959
+    },
+    {
+      "name": "Medicoms",
+      "latitude": 49.593477,
+      "longitude": 17.246071
+    },
+    {
+      "name": "Medikej",
+      "latitude": 49.968852,
+      "longitude": 14.524239
+    },
+    {
+      "name": "Medilink Chirurg",
+      "latitude": 49.631161,
+      "longitude": 16.704975
+    },
+    {
+      "name": "Medireco Clinic",
+      "latitude": 50.077398,
+      "longitude": 14.415887
+    },
+    {
+      "name": "MEDITR",
+      "latitude": 50.032378,
+      "longitude": 15.765208
+    },
+    {
+      "name": "Meditrine - Cardionides",
+      "latitude": 50.143653,
+      "longitude": 14.092363
+    },
+    {
+      "name": "Medizinisches Versorgungszentrum Zittau",
+      "latitude": 51.004587,
+      "longitude": 14.572121
+    },
+    {
+      "name": "MEDsport Hradec Králové s.r.o.",
+      "latitude": 50.207641,
+      "longitude": 15.816084
+    },
+    {
+      "name": "MgA. Mgr. Eleni Karakeva",
+      "latitude": 49.223224,
+      "longitude": 16.627411
+    },
+    {
+      "name": "Mgr. Jana Fialová - logopedická ambulance",
+      "latitude": 49.592879,
+      "longitude": 16.886684
+    },
+    {
+      "name": "Mgr. Karolová",
+      "latitude": 50.0562,
+      "longitude": 14.497079
+    },
+    {
+      "name": "Mgr. Kulková",
+      "latitude": 49.575971,
+      "longitude": 18.762773
+    },
+    {
+      "name": "Mgr. Šárka Hašková Ordinace Klinické Psychologie",
+      "latitude": 49.527009,
+      "longitude": 17.580908
+    },
+    {
+      "name": "Michael Patrick Müller",
+      "latitude": 48.965581,
+      "longitude": 15.148748
+    },
+    {
+      "name": "Mikrobiologie",
+      "latitude": 50.029279,
+      "longitude": 15.786374
+    },
+    {
+      "name": "Milena Kuncová, Pavel Kunc",
+      "latitude": 50.196342,
+      "longitude": 15.837736
+    },
+    {
+      "name": "Moje Ambulance",
+      "latitude": 49.205868,
+      "longitude": 16.659827
+    },
+    {
+      "name": "Moje Ambulance",
+      "latitude": 49.227249,
+      "longitude": 17.669319
+    },
+    {
+      "name": "Moje Ambulance",
+      "latitude": 49.229698,
+      "longitude": 16.581067
+    },
+    {
+      "name": "Moje ambulance",
+      "latitude": 49.788053,
+      "longitude": 18.435638
+    },
+    {
+      "name": "Moje ambulance",
+      "latitude": 49.829779,
+      "longitude": 18.276924
+    },
+    {
+      "name": "MOJE AMBULANCE",
+      "latitude": 50.035712,
+      "longitude": 15.768285
+    },
+    {
+      "name": "Moje ambulance",
+      "latitude": 50.053537,
+      "longitude": 14.516804
+    },
+    {
+      "name": "Moje Ambulance",
+      "latitude": 50.212847,
+      "longitude": 15.819062
+    },
+    {
+      "name": "Monse Ordinace Praktických Lékařů",
+      "latitude": 50.08306,
+      "longitude": 14.359366
+    },
+    {
+      "name": "Mrázik",
+      "latitude": 50.196157,
+      "longitude": 15.838001
+    },
+    {
+      "name": "MU Dr. Martin Vondracek",
+      "latitude": 50.095672,
+      "longitude": 12.220893
+    },
+    {
+      "name": "MUDr Jiřina Kropíková s.r.o.",
+      "latitude": 50.025597,
+      "longitude": 15.774304
+    },
+    {
+      "name": "MUDr Kühn Jindřich",
+      "latitude": 50.146006,
+      "longitude": 14.101805
+    },
+    {
+      "name": "MUDr T. Chyba",
+      "latitude": 50.216574,
+      "longitude": 15.853854
+    },
+    {
+      "name": "MUDr. A. Bernardová",
+      "latitude": 50.216746,
+      "longitude": 15.854544
+    },
+    {
+      "name": "MUDr. A. Kykalová",
+      "latitude": 50.216851,
+      "longitude": 15.853845
+    },
+    {
+      "name": "MUDr. Alena Jiroutková",
+      "latitude": 49.946455,
+      "longitude": 15.669187
+    },
+    {
+      "name": "MUDr. Alena Lukešová Očkovací středisko",
+      "latitude": 50.211299,
+      "longitude": 15.821115
+    },
+    {
+      "name": "MUDr. Alexander Daniš",
+      "latitude": 49.8143,
+      "longitude": 18.335458
+    },
+    {
+      "name": "MUDr. Alexander Rybníček - ordinace pro děti a dorost",
+      "latitude": 50.428836,
+      "longitude": 15.582492
+    },
+    {
+      "name": "MUDr. Alexandra Bačíková - endokrinologická ambulance",
+      "latitude": 49.592651,
+      "longitude": 16.886946
+    },
+    {
+      "name": "MUDr. Alice Havlová",
+      "latitude": 49.814531,
+      "longitude": 18.339357
+    },
+    {
+      "name": "MUDr. Alice Ševčíková",
+      "latitude": 49.262263,
+      "longitude": 15.240184
+    },
+    {
+      "name": "MUDr. Andrea Adamcová",
+      "latitude": 49.654975,
+      "longitude": 17.129722
+    },
+    {
+      "name": "MUDr. Andrea Kučerová",
+      "latitude": 50.041171,
+      "longitude": 15.80606
+    },
+    {
+      "name": "MUDr. Andrea Málková",
+      "latitude": 49.210018,
+      "longitude": 16.620064
+    },
+    {
+      "name": "MUDr. Anna Burianová",
+      "latitude": 49.223335,
+      "longitude": 16.627346
+    },
+    {
+      "name": "MUDr. Anna Jashari",
+      "latitude": 49.22328,
+      "longitude": 16.627232
+    },
+    {
+      "name": "MUDr. Anna Látalová - praktický lékař pro děti a dorost",
+      "latitude": 49.589879,
+      "longitude": 16.889471
+    },
+    {
+      "name": "MUDr. Anna Rybáčková",
+      "latitude": 50.070059,
+      "longitude": 14.496355
+    },
+    {
+      "name": "MUDr. Antonín Svoboda",
+      "latitude": 49.978075,
+      "longitude": 16.394202
+    },
+    {
+      "name": "MUDr. Appeltová Zuzana",
+      "latitude": 49.101502,
+      "longitude": 13.668678
+    },
+    {
+      "name": "MUDr. Barbora Boorová",
+      "latitude": 50.216885,
+      "longitude": 15.853702
+    },
+    {
+      "name": "MUDr. Barbora Darebná",
+      "latitude": 49.965207,
+      "longitude": 14.07343
+    },
+    {
+      "name": "Mudr. Barbora Jakubcová, praktický lékař pro dospělé",
+      "latitude": 48.86031,
+      "longitude": 16.046343
+    },
+    {
+      "name": "MUDr. Blanka Krausová - oční lékařka",
+      "latitude": 49.592681,
+      "longitude": 16.886937
+    },
+    {
+      "name": "MUDr. Blanka Veselá",
+      "latitude": 50.106452,
+      "longitude": 14.473412
+    },
+    {
+      "name": "MUDr. Bláhová Alena",
+      "latitude": 50.101343,
+      "longitude": 13.725652
+    },
+    {
+      "name": "MUDR. Brossaud",
+      "latitude": 48.964072,
+      "longitude": 14.47262
+    },
+    {
+      "name": "MUDr. Bílek - praktický lékař",
+      "latitude": 49.080525,
+      "longitude": 14.713679
+    },
+    {
+      "name": "MUDr. Bělohlávek Alan",
+      "latitude": 50.125035,
+      "longitude": 16.203704
+    },
+    {
+      "name": "Mudr. Dagmar Trávničková",
+      "latitude": 48.851416,
+      "longitude": 16.055296
+    },
+    {
+      "name": "MUDr. Dana Mikulčáková",
+      "latitude": 49.400026,
+      "longitude": 17.670434
+    },
+    {
+      "name": "MUDr. Dana Moravčíková",
+      "latitude": 49.578595,
+      "longitude": 17.24325
+    },
+    {
+      "name": "MUDr. Dana Mrskočová",
+      "latitude": 50.034062,
+      "longitude": 15.765781
+    },
+    {
+      "name": "MUDr. Dana Popelářová",
+      "latitude": 49.068075,
+      "longitude": 17.464952
+    },
+    {
+      "name": "MUDr. Dana Smítková",
+      "latitude": 48.663004,
+      "longitude": 14.165518
+    },
+    {
+      "name": "MUDr. Dana Zahradníková",
+      "latitude": 49.223263,
+      "longitude": 16.627318
+    },
+    {
+      "name": "MUDr. Daniela Šillerová - gynekologie",
+      "latitude": 50.041206,
+      "longitude": 15.806136
+    },
+    {
+      "name": "MUDr. David Toufar",
+      "latitude": 49.231178,
+      "longitude": 13.519538
+    },
+    {
+      "name": "MUDr. David Vincent, PREV - MED s.r.o.",
+      "latitude": 49.24964,
+      "longitude": 16.591238
+    },
+    {
+      "name": "MUDr. Dominik Bláha",
+      "latitude": 48.853436,
+      "longitude": 16.059778
+    },
+    {
+      "name": "MUDr. Drinková",
+      "latitude": 49.631046,
+      "longitude": 15.490384
+    },
+    {
+      "name": "MUDr. Dušan Buchta",
+      "latitude": 49.814497,
+      "longitude": 18.339762
+    },
+    {
+      "name": "MUDr. Dáša Pastuchová",
+      "latitude": 49.798134,
+      "longitude": 18.480645
+    },
+    {
+      "name": "MUDr. E. Matyášová",
+      "latitude": 50.216786,
+      "longitude": 15.854386
+    },
+    {
+      "name": "MUDr. Eliška Svobodová",
+      "latitude": 50.085268,
+      "longitude": 14.491352
+    },
+    {
+      "name": "MUDr. Eva Bronská, Ph.D",
+      "latitude": 50.035228,
+      "longitude": 14.315672
+    },
+    {
+      "name": "MUDr. Eva Chládková",
+      "latitude": 50.056132,
+      "longitude": 14.496414
+    },
+    {
+      "name": "MUDr. Eva Dědková",
+      "latitude": 50.587197,
+      "longitude": 15.141788
+    },
+    {
+      "name": "MUDr. Eva Hladíková",
+      "latitude": 49.976265,
+      "longitude": 16.393438
+    },
+    {
+      "name": "MUDr. Eva Hrdličková",
+      "latitude": 50.055925,
+      "longitude": 14.496595
+    },
+    {
+      "name": "MUDr. Eva Hrubá",
+      "latitude": 49.208347,
+      "longitude": 16.606069
+    },
+    {
+      "name": "MUDr. Eva Mandáková",
+      "latitude": 50.106622,
+      "longitude": 13.72766
+    },
+    {
+      "name": "MUDr. Eva Matějková",
+      "latitude": 50.023328,
+      "longitude": 15.203792
+    },
+    {
+      "name": "MUDr. Eva Nemeškalová",
+      "latitude": 50.021785,
+      "longitude": 15.211237
+    },
+    {
+      "name": "MUDr. Eva Schallerová",
+      "latitude": 49.814552,
+      "longitude": 18.339757
+    },
+    {
+      "name": "MUDr. Eva Skotáková",
+      "latitude": 49.223275,
+      "longitude": 16.627573
+    },
+    {
+      "name": "MUDr. Eva Vrbová",
+      "latitude": 50.215739,
+      "longitude": 12.351769
+    },
+    {
+      "name": "MUDr. Fara McBride",
+      "latitude": 50.146009,
+      "longitude": 14.098702
+    },
+    {
+      "name": "MUDr. Felix Kuba",
+      "latitude": 49.203466,
+      "longitude": 16.877603
+    },
+    {
+      "name": "MUDr. Fiala",
+      "latitude": 50.522551,
+      "longitude": 14.975566
+    },
+    {
+      "name": "MUDr. Grubský",
+      "latitude": 50.522588,
+      "longitude": 14.975561
+    },
+    {
+      "name": "MUDr. H. Hojdíková",
+      "latitude": 50.21686,
+      "longitude": 15.853794
+    },
+    {
+      "name": "MUDr. Hana Boušková",
+      "latitude": 50.149819,
+      "longitude": 13.904175
+    },
+    {
+      "name": "MUDr. Hana Kalčíková",
+      "latitude": 49.285116,
+      "longitude": 15.481179
+    },
+    {
+      "name": "MUDr. Hana Kratochvílová",
+      "latitude": 49.544274,
+      "longitude": 16.57538
+    },
+    {
+      "name": "MUDr. Hana Peterková",
+      "latitude": 49.627256,
+      "longitude": 16.522497
+    },
+    {
+      "name": "MUDr. Hana Petrovská",
+      "latitude": 49.178511,
+      "longitude": 16.55039
+    },
+    {
+      "name": "MUDr. Hana Sýkorová",
+      "latitude": 49.202752,
+      "longitude": 16.879989
+    },
+    {
+      "name": "MUDr. Hanzálková",
+      "latitude": 50.211378,
+      "longitude": 15.821115
+    },
+    {
+      "name": "MUDr. Helena Filová",
+      "latitude": 49.066695,
+      "longitude": 17.463349
+    },
+    {
+      "name": "MUDr. Helena Jandová - Pediatrie",
+      "latitude": 50.048286,
+      "longitude": 15.760953
+    },
+    {
+      "name": "MUDr. Helena Šlajová Praktická Lékařka pro dospělé",
+      "latitude": 49.527056,
+      "longitude": 17.580707
+    },
+    {
+      "name": "MUDr. Henrieta Mavrogeni",
+      "latitude": 50.226794,
+      "longitude": 14.472984
+    },
+    {
+      "name": "MUDr. Henrieta Mavrogeni",
+      "latitude": 50.277174,
+      "longitude": 14.501686
+    },
+    {
+      "name": "MUDr. I. Rejchrtová",
+      "latitude": 50.216808,
+      "longitude": 15.854286
+    },
+    {
+      "name": "MUDr. Irena Žáčková",
+      "latitude": 49.223259,
+      "longitude": 16.627222
+    },
+    {
+      "name": "MUDr. Iva Madejová",
+      "latitude": 50.04829,
+      "longitude": 15.760993
+    },
+    {
+      "name": "MUDr. Iva Martinková",
+      "latitude": 50.046769,
+      "longitude": 15.756633
+    },
+    {
+      "name": "MUDr. Iva Musilová Sommernitzová",
+      "latitude": 49.223285,
+      "longitude": 16.626929
+    },
+    {
+      "name": "MUDr. Ivana Hadravová",
+      "latitude": 49.259892,
+      "longitude": 15.235755
+    },
+    {
+      "name": "MUDr. Ivana Šmejcová",
+      "latitude": 50.473351,
+      "longitude": 15.384257
+    },
+    {
+      "name": "MUDr. Ive Benešová",
+      "latitude": 49.056637,
+      "longitude": 16.645264
+    },
+    {
+      "name": "MUDr. Iveta Marková, Ph.D.",
+      "latitude": 49.223391,
+      "longitude": 16.627107
+    },
+    {
+      "name": "MUDr. Ivo Antoš",
+      "latitude": 49.262193,
+      "longitude": 15.240172
+    },
+    {
+      "name": "MUDr. Ivo Okáč",
+      "latitude": 49.18917,
+      "longitude": 16.639538
+    },
+    {
+      "name": "MUDr. J. Baraňák",
+      "latitude": 50.216739,
+      "longitude": 15.85357
+    },
+    {
+      "name": "MUDr. J. Dlask",
+      "latitude": 50.216735,
+      "longitude": 15.854597
+    },
+    {
+      "name": "MUDr. J. Lipenská",
+      "latitude": 50.21687,
+      "longitude": 15.853755
+    },
+    {
+      "name": "MUDr. J. Skálová",
+      "latitude": 50.216741,
+      "longitude": 15.853263
+    },
+    {
+      "name": "MUDr. J. Vortel",
+      "latitude": 50.216825,
+      "longitude": 15.853969
+    },
+    {
+      "name": "MUDr. J. Zacharová",
+      "latitude": 50.216798,
+      "longitude": 15.854323
+    },
+    {
+      "name": "MUDr. Jakub Volf",
+      "latitude": 50.102141,
+      "longitude": 13.721107
+    },
+    {
+      "name": "MUDr. Jan Bočan",
+      "latitude": 49.05214,
+      "longitude": 13.772863
+    },
+    {
+      "name": "MUDr. Jan Lukeš",
+      "latitude": 50.149163,
+      "longitude": 12.648072
+    },
+    {
+      "name": "MUDr. Jan Zetek",
+      "latitude": 50.740419,
+      "longitude": 15.309588
+    },
+    {
+      "name": "MUDr. Jana Bartesová děti a dorost",
+      "latitude": 49.527867,
+      "longitude": 17.586073
+    },
+    {
+      "name": "MUDr. Jana Bartáková",
+      "latitude": 49.223242,
+      "longitude": 16.627306
+    },
+    {
+      "name": "MUDr. Jana Hrabalová",
+      "latitude": 49.105187,
+      "longitude": 17.619609
+    },
+    {
+      "name": "MUDr. Jana Kaderová",
+      "latitude": 48.932057,
+      "longitude": 14.618331
+    },
+    {
+      "name": "MUDr. Jana Klečková",
+      "latitude": 49.230102,
+      "longitude": 13.52118
+    },
+    {
+      "name": "MUDr. Jana Knotková",
+      "latitude": 48.972477,
+      "longitude": 17.266259
+    },
+    {
+      "name": "MUDr. Jana Krejčová",
+      "latitude": 49.954042,
+      "longitude": 15.270102
+    },
+    {
+      "name": "MUDr. Jana Musilová",
+      "latitude": 49.715946,
+      "longitude": 13.686721
+    },
+    {
+      "name": "MUDr. Jana Vobrová",
+      "latitude": 50.056136,
+      "longitude": 14.496345
+    },
+    {
+      "name": "MUDr. Jana Švejdová",
+      "latitude": 49.285374,
+      "longitude": 15.481339
+    },
+    {
+      "name": "MUDr. Jana Žmolíková",
+      "latitude": 50.21764,
+      "longitude": 15.855937
+    },
+    {
+      "name": "MUDr. Jarmila Adlerová",
+      "latitude": 49.203427,
+      "longitude": 16.87756
+    },
+    {
+      "name": "MUDr. Jaromír Kovář",
+      "latitude": 49.315878,
+      "longitude": 18.145718
+    },
+    {
+      "name": "MUDr. Jaroslav Chytil",
+      "latitude": 49.492903,
+      "longitude": 16.878406
+    },
+    {
+      "name": "MUDr. Jaroslav Pivoňka",
+      "latitude": 50.151981,
+      "longitude": 15.131581
+    },
+    {
+      "name": "MUDr. Jaroslava Kölblová",
+      "latitude": 49.906281,
+      "longitude": 14.782375
+    },
+    {
+      "name": "MUDr. Jaroslava Lázničková",
+      "latitude": 49.262169,
+      "longitude": 15.240254
+    },
+    {
+      "name": "MUDr. Jaroslava Michálková",
+      "latitude": 49.847114,
+      "longitude": 15.655711
+    },
+    {
+      "name": "MUDr. Jaroslava Sekerová",
+      "latitude": 49.915242,
+      "longitude": 15.394401
+    },
+    {
+      "name": "MUDr. Jitka Havlová",
+      "latitude": 50.031397,
+      "longitude": 14.597996
+    },
+    {
+      "name": "MUDr. Jitka Mikšovicová",
+      "latitude": 50.102798,
+      "longitude": 13.730379
+    },
+    {
+      "name": "MUDr. Jiřina Dvořáková - Praktický lékař pro děti a dorost",
+      "latitude": 50.041112,
+      "longitude": 15.805934
+    },
+    {
+      "name": "MUDr. Jiří Daněk",
+      "latitude": 49.384957,
+      "longitude": 14.684222
+    },
+    {
+      "name": "MUDr. Jiří Dorňák",
+      "latitude": 49.315904,
+      "longitude": 18.14549
+    },
+    {
+      "name": "MUDr. Jiří Klement",
+      "latitude": 50.539445,
+      "longitude": 14.536615
+    },
+    {
+      "name": "MUDr. Jiří Kokotek",
+      "latitude": 50.037612,
+      "longitude": 15.760224
+    },
+    {
+      "name": "MUDr. Jiří Peška - gynekologická ambulance",
+      "latitude": 49.592834,
+      "longitude": 16.886776
+    },
+    {
+      "name": "MUDr. Jiří Vrba - ortopedie",
+      "latitude": 49.592705,
+      "longitude": 16.886954
+    },
+    {
+      "name": "MUDr. Jiří ZILVAR",
+      "latitude": 50.29422,
+      "longitude": 16.158735
+    },
+    {
+      "name": "MUDr. Jiří Šedivý",
+      "latitude": 50.025625,
+      "longitude": 15.202206
+    },
+    {
+      "name": "MUDr. Jiří Štědrý",
+      "latitude": 49.952902,
+      "longitude": 15.784907
+    },
+    {
+      "name": "MUDr. Jiří Štěpán, MUDr. Miloš Dejmek, MUDr. Václac Šilhan, MUDr. Martin Štěpán, MUDr. Věra Adamcová, NUDr. Renata Jarošová, MUDr. Jiří Štěpán, MUDr. Karel Horel",
+      "latitude": 50.20725,
+      "longitude": 15.809707
+    },
+    {
+      "name": "MUDr. Jopková",
+      "latitude": 49.586771,
+      "longitude": 18.759192
+    },
+    {
+      "name": "MUDr. Josef Fiala",
+      "latitude": 49.102156,
+      "longitude": 16.38201
+    },
+    {
+      "name": "MUDr. Josef Jiráň",
+      "latitude": 50.032599,
+      "longitude": 15.754731
+    },
+    {
+      "name": "MUDr. Josef Kroulík",
+      "latitude": 48.934752,
+      "longitude": 14.614858
+    },
+    {
+      "name": "MUDr. Josef Čepelík",
+      "latitude": 50.522554,
+      "longitude": 14.974259
+    },
+    {
+      "name": "MUDr. Josef Šimon",
+      "latitude": 49.874767,
+      "longitude": 14.902073
+    },
+    {
+      "name": "MUDr. K. Beneš",
+      "latitude": 50.216663,
+      "longitude": 15.853532
+    },
+    {
+      "name": "MUDr. K. Dlasková",
+      "latitude": 50.216733,
+      "longitude": 15.854431
+    },
+    {
+      "name": "MUDr. K. Křížová",
+      "latitude": 50.216729,
+      "longitude": 15.854504
+    },
+    {
+      "name": "MUDr. K. Stehlíková",
+      "latitude": 50.216903,
+      "longitude": 15.853835
+    },
+    {
+      "name": "MUDr. Karel Mayer",
+      "latitude": 49.210074,
+      "longitude": 16.605786
+    },
+    {
+      "name": "MUDr. Karel Severa",
+      "latitude": 50.151965,
+      "longitude": 15.131621
+    },
+    {
+      "name": "MUDr. Karol Franc",
+      "latitude": 49.313602,
+      "longitude": 16.47896
+    },
+    {
+      "name": "MUDr. Karolína Banghová, PhD.",
+      "latitude": 50.16411,
+      "longitude": 14.390178
+    },
+    {
+      "name": "MUDr. Kateřina Koulová",
+      "latitude": 50.252534,
+      "longitude": 14.520222
+    },
+    {
+      "name": "MUDr. Kateřina Mašková",
+      "latitude": 50.070421,
+      "longitude": 14.415488
+    },
+    {
+      "name": "MUDr. Klára Praislerová - ušní, nosní, krční",
+      "latitude": 50.040998,
+      "longitude": 15.805725
+    },
+    {
+      "name": "MuDr. Konrádová",
+      "latitude": 49.639584,
+      "longitude": 17.209385
+    },
+    {
+      "name": "MUDr. Krčmová",
+      "latitude": 50.211354,
+      "longitude": 15.821102
+    },
+    {
+      "name": "MUDr. Květa Rytířová",
+      "latitude": 49.26226,
+      "longitude": 15.24026
+    },
+    {
+      "name": "MUDr. Květoslav Havlín",
+      "latitude": 49.97268,
+      "longitude": 13.646921
+    },
+    {
+      "name": "MUDr. L. Marešová",
+      "latitude": 50.216817,
+      "longitude": 15.854233
+    },
+    {
+      "name": "MUDr. L. Strnad",
+      "latitude": 50.216613,
+      "longitude": 15.853708
+    },
+    {
+      "name": "MUDr. L. Šmídová",
+      "latitude": 50.216759,
+      "longitude": 15.854512
+    },
+    {
+      "name": "MUDr. Ladislav Jon",
+      "latitude": 49.169533,
+      "longitude": 13.455025
+    },
+    {
+      "name": "MUDr. Ladislav Košťálek - chirurgická ambulance",
+      "latitude": 49.592714,
+      "longitude": 16.886907
+    },
+    {
+      "name": "MUDr. Lapčík",
+      "latitude": 49.085582,
+      "longitude": 17.537902
+    },
+    {
+      "name": "MUDr. Lea Útratová - kožní lékařka",
+      "latitude": 49.592887,
+      "longitude": 16.886733
+    },
+    {
+      "name": "MUDr. Lenka Bačová",
+      "latitude": 49.068947,
+      "longitude": 17.476228
+    },
+    {
+      "name": "MUDr. Lenka Dybová",
+      "latitude": 49.19204,
+      "longitude": 16.610771
+    },
+    {
+      "name": "MUDr. Lenka Horálková",
+      "latitude": 50.291319,
+      "longitude": 14.822829
+    },
+    {
+      "name": "MUDr. Lenka Kalinová",
+      "latitude": 49.18253,
+      "longitude": 16.595028
+    },
+    {
+      "name": "MUDr. Lenka Okáčová",
+      "latitude": 49.189183,
+      "longitude": 16.639491
+    },
+    {
+      "name": "MUDr. Lenka Řezníková",
+      "latitude": 49.0552,
+      "longitude": 13.78015
+    },
+    {
+      "name": "MUDr. Lenka Šepsová",
+      "latitude": 50.75809,
+      "longitude": 14.551302
+    },
+    {
+      "name": "MUDr. Lenka Švecová",
+      "latitude": 50.130307,
+      "longitude": 14.474915
+    },
+    {
+      "name": "MUDr. Libor Švec",
+      "latitude": 49.547912,
+      "longitude": 16.833474
+    },
+    {
+      "name": "MUDr. Lubomír Gabrlík - neurologická ambulance",
+      "latitude": 49.59274,
+      "longitude": 16.886959
+    },
+    {
+      "name": "MUDr. Lubomír Hroudný",
+      "latitude": 49.203411,
+      "longitude": 16.877539
+    },
+    {
+      "name": "MUDr. Lubomír Martinec",
+      "latitude": 49.223353,
+      "longitude": 16.627262
+    },
+    {
+      "name": "MUDr. Luboš Řezníček",
+      "latitude": 49.165326,
+      "longitude": 16.614325
+    },
+    {
+      "name": "MUDr. Lucie Malá",
+      "latitude": 50.588019,
+      "longitude": 15.140438
+    },
+    {
+      "name": "MUDr. Lucie Pařízková",
+      "latitude": 50.055931,
+      "longitude": 14.496672
+    },
+    {
+      "name": "MUDr. Lucie Pokorná",
+      "latitude": 50.185124,
+      "longitude": 15.832393
+    },
+    {
+      "name": "MUDr. Ludmila Eleková",
+      "latitude": 50.054853,
+      "longitude": 14.495233
+    },
+    {
+      "name": "MUDr. Ludmila Hlaváčová",
+      "latitude": 49.403962,
+      "longitude": 16.413339
+    },
+    {
+      "name": "MUDr. Ludmila Welinská",
+      "latitude": 49.950654,
+      "longitude": 15.26678
+    },
+    {
+      "name": "MUDr. Luděk Kupeček",
+      "latitude": 50.211329,
+      "longitude": 15.821096
+    },
+    {
+      "name": "MUDr. Luňák s.r.o.",
+      "latitude": 49.94301,
+      "longitude": 14.516827
+    },
+    {
+      "name": "Mudr. Lydie Ludačková",
+      "latitude": 50.105087,
+      "longitude": 13.730905
+    },
+    {
+      "name": "MUDr. M. Bednářová",
+      "latitude": 50.216887,
+      "longitude": 15.853635
+    },
+    {
+      "name": "MUDr. M. Pohanková",
+      "latitude": 50.216731,
+      "longitude": 15.854469
+    },
+    {
+      "name": "MUDr. M. Prixová",
+      "latitude": 50.216813,
+      "longitude": 15.853603
+    },
+    {
+      "name": "MUDr. M. Schreiber",
+      "latitude": 50.216823,
+      "longitude": 15.854054
+    },
+    {
+      "name": "MUDr. Machander",
+      "latitude": 49.743426,
+      "longitude": 18.622943
+    },
+    {
+      "name": "MUDr. Magda Prudká - dětská lékařka",
+      "latitude": 49.592815,
+      "longitude": 16.886745
+    },
+    {
+      "name": "MUDr. Marie Duřpektová MUDr. Marie Poláková, PhD",
+      "latitude": 49.192847,
+      "longitude": 16.597425
+    },
+    {
+      "name": "MUDr. Marie Hlinková",
+      "latitude": 49.223368,
+      "longitude": 16.626968
+    },
+    {
+      "name": "MUDr. Marie Kapinusová",
+      "latitude": 49.262154,
+      "longitude": 15.24017
+    },
+    {
+      "name": "MUDr. Marie Mayerová",
+      "latitude": 50.024526,
+      "longitude": 15.207848
+    },
+    {
+      "name": "MUDr. Marie Vilímová",
+      "latitude": 49.285503,
+      "longitude": 15.481347
+    },
+    {
+      "name": "MUDr. Markéta Kubatá",
+      "latitude": 49.925886,
+      "longitude": 18.270363
+    },
+    {
+      "name": "MUDr. Martin Fila, ortopedie",
+      "latitude": 49.066272,
+      "longitude": 17.464727
+    },
+    {
+      "name": "MUDr. Martin Haška Praktický Lékařk pro Děti a Dorost",
+      "latitude": 49.527062,
+      "longitude": 17.5809
+    },
+    {
+      "name": "MUDr. Martin Jarolímek",
+      "latitude": 50.503574,
+      "longitude": 14.26394
+    },
+    {
+      "name": "MUDr. Martin Meloun",
+      "latitude": 50.032464,
+      "longitude": 15.758857
+    },
+    {
+      "name": "MUDr. Martina Dumková - praktická lékařka pro dospělé",
+      "latitude": 50.041141,
+      "longitude": 15.805995
+    },
+    {
+      "name": "MUDr. Martina Hájková",
+      "latitude": 49.262214,
+      "longitude": 15.240259
+    },
+    {
+      "name": "MUDr. Martina Konečná",
+      "latitude": 49.668825,
+      "longitude": 18.679171
+    },
+    {
+      "name": "MUDr. Martina Raková",
+      "latitude": 49.179922,
+      "longitude": 16.678721
+    },
+    {
+      "name": "MUDr. Martina Šumberová",
+      "latitude": 49.198697,
+      "longitude": 16.598375
+    },
+    {
+      "name": "MUDr. Matěj Černohorský - praktický lékař",
+      "latitude": 50.19433,
+      "longitude": 15.847993
+    },
+    {
+      "name": "MUDr. Mentlová",
+      "latitude": 49.74418,
+      "longitude": 13.373294
+    },
+    {
+      "name": "MUDr. Michaela Lánová - kožní lékař",
+      "latitude": 49.974646,
+      "longitude": 16.394506
+    },
+    {
+      "name": "MUDr. Michal Tichý - Gynekologie",
+      "latitude": 50.027183,
+      "longitude": 15.796344
+    },
+    {
+      "name": "MUDr. Milada Hendrychová",
+      "latitude": 48.66286,
+      "longitude": 14.165749
+    },
+    {
+      "name": "MUDr. Milada Nová",
+      "latitude": 49.779471,
+      "longitude": 13.375293
+    },
+    {
+      "name": "MUDr. Milan Leznar",
+      "latitude": 49.203395,
+      "longitude": 16.877516
+    },
+    {
+      "name": "MUDr. Milan Černý",
+      "latitude": 49.069507,
+      "longitude": 17.463526
+    },
+    {
+      "name": "MUDr. Milan Široký",
+      "latitude": 50.211323,
+      "longitude": 15.821127
+    },
+    {
+      "name": "MUDr. Milana Grublová",
+      "latitude": 49.223312,
+      "longitude": 16.627109
+    },
+    {
+      "name": "MUDr. Miloslava Přibylová",
+      "latitude": 49.262229,
+      "longitude": 15.240176
+    },
+    {
+      "name": "MUDr. Miloš Beutl",
+      "latitude": 49.259864,
+      "longitude": 15.235567
+    },
+    {
+      "name": "MUDr. Miluše Dupáková",
+      "latitude": 49.461317,
+      "longitude": 17.451358
+    },
+    {
+      "name": "MUDr. Miroslav Skoták - urologická ambulance",
+      "latitude": 49.592687,
+      "longitude": 16.887
+    },
+    {
+      "name": "MUDr. Miroslava Kuglerová",
+      "latitude": 50.195505,
+      "longitude": 14.353511
+    },
+    {
+      "name": "MUDr. Monika Stratilová",
+      "latitude": 49.203446,
+      "longitude": 16.877581
+    },
+    {
+      "name": "Mudr. Mucha Zbyněk lékař pro děti a dorost",
+      "latitude": 48.830032,
+      "longitude": 16.854825
+    },
+    {
+      "name": "MUDr. Mária Spáčilová",
+      "latitude": 48.99104,
+      "longitude": 17.165183
+    },
+    {
+      "name": "MUDr. Naděžda Špičanová",
+      "latitude": 50.161845,
+      "longitude": 14.755759
+    },
+    {
+      "name": "MUDr. Nina Trojánková",
+      "latitude": 49.988743,
+      "longitude": 14.73559
+    },
+    {
+      "name": "MUDr. O. Fiala Csc.",
+      "latitude": 50.216767,
+      "longitude": 15.85448
+    },
+    {
+      "name": "MUDr. Olga Špidlenová",
+      "latitude": 50.051597,
+      "longitude": 15.760597
+    },
+    {
+      "name": "MUDr. P. Tichánková",
+      "latitude": 50.216845,
+      "longitude": 15.853932
+    },
+    {
+      "name": "MUDr. Pavel Balint s.r.o.",
+      "latitude": 50.032808,
+      "longitude": 15.800741
+    },
+    {
+      "name": "MuDr. Pavel Heřmánek",
+      "latitude": 49.258694,
+      "longitude": 15.23636
+    },
+    {
+      "name": "MUDr. Pavel Kubica, MUDr. Ivana Čechová",
+      "latitude": 49.595327,
+      "longitude": 17.268475
+    },
+    {
+      "name": "MUDr. Pavel Nedozrál",
+      "latitude": 50.025505,
+      "longitude": 15.205759
+    },
+    {
+      "name": "MUDr. Pavel Věchet",
+      "latitude": 49.98854,
+      "longitude": 14.604071
+    },
+    {
+      "name": "MUDr. Pavla Skrbková",
+      "latitude": 49.232747,
+      "longitude": 13.516005
+    },
+    {
+      "name": "MUDR. Pavlína Rybová Praktická lékařka pro děti a dorost",
+      "latitude": 49.014949,
+      "longitude": 17.12568
+    },
+    {
+      "name": "MUDr. Petr Marák",
+      "latitude": 49.547928,
+      "longitude": 16.83344
+    },
+    {
+      "name": "MUDr. Petr Umlauf",
+      "latitude": 50.211305,
+      "longitude": 15.821088
+    },
+    {
+      "name": "MUDr. Petr Špok",
+      "latitude": 49.672531,
+      "longitude": 18.642556
+    },
+    {
+      "name": "MUDr. Petra Heczková",
+      "latitude": 49.102876,
+      "longitude": 16.3786
+    },
+    {
+      "name": "MUDr. Petra Mestická",
+      "latitude": 50.238358,
+      "longitude": 12.748375
+    },
+    {
+      "name": "MUDr. Petra Valenčíková",
+      "latitude": 49.223247,
+      "longitude": 16.627424
+    },
+    {
+      "name": "MUDr. Petra Šmelcová",
+      "latitude": 50.245886,
+      "longitude": 15.202008
+    },
+    {
+      "name": "Mudr. Plušková",
+      "latitude": 49.934229,
+      "longitude": 17.973229
+    },
+    {
+      "name": "MUDr. Přichystalová",
+      "latitude": 49.545415,
+      "longitude": 16.581477
+    },
+    {
+      "name": "MUDr. Půžová",
+      "latitude": 50.211391,
+      "longitude": 15.821184
+    },
+    {
+      "name": "MUDr. Radek Kousalík",
+      "latitude": 49.117474,
+      "longitude": 16.584214
+    },
+    {
+      "name": "Mudr. Radmila Kučerová",
+      "latitude": 48.975995,
+      "longitude": 17.760886
+    },
+    {
+      "name": "MUDr. Radomíra Snášelová",
+      "latitude": 49.223302,
+      "longitude": 16.627013
+    },
+    {
+      "name": "MUDr. Radovan Novotný",
+      "latitude": 50.273316,
+      "longitude": 17.251419
+    },
+    {
+      "name": "MUDr. Renata Havlíčková s.r.o.",
+      "latitude": 50.185224,
+      "longitude": 15.832226
+    },
+    {
+      "name": "MUDr. Renata Týnová – praktický lékař pro dospělé",
+      "latitude": 49.785867,
+      "longitude": 18.258519
+    },
+    {
+      "name": "MUDr. Renáta Novotná",
+      "latitude": 49.223883,
+      "longitude": 16.584418
+    },
+    {
+      "name": "MUDr. Robert Adam",
+      "latitude": 50.026772,
+      "longitude": 15.203267
+    },
+    {
+      "name": "MUDr. Romana Pumprová",
+      "latitude": 49.609001,
+      "longitude": 15.566925
+    },
+    {
+      "name": "MUDr. Romana Zieglerová",
+      "latitude": 50.032666,
+      "longitude": 15.75473
+    },
+    {
+      "name": "MUDr. Rostislav Čejka",
+      "latitude": 49.17624,
+      "longitude": 16.5532
+    },
+    {
+      "name": "MUDr. Rudolf Hanuštiak",
+      "latitude": 50.741175,
+      "longitude": 15.221017
+    },
+    {
+      "name": "MUDr. Soukupová Ivana",
+      "latitude": 50.01673,
+      "longitude": 15.196886
+    },
+    {
+      "name": "MUDr. Stanislav Bureš - dětský lékař",
+      "latitude": 50.284396,
+      "longitude": 14.088111
+    },
+    {
+      "name": "MUDr. Stehlíková",
+      "latitude": 50.149824,
+      "longitude": 13.904284
+    },
+    {
+      "name": "MUDr. Svatava Hoffmannová",
+      "latitude": 49.654984,
+      "longitude": 17.129755
+    },
+    {
+      "name": "MUDr. Sylva Tomečková",
+      "latitude": 49.798117,
+      "longitude": 18.480859
+    },
+    {
+      "name": "MUDr. Szücs",
+      "latitude": 49.586799,
+      "longitude": 18.759148
+    },
+    {
+      "name": "MUDr. Taťána Pustinová",
+      "latitude": 49.182527,
+      "longitude": 16.595023
+    },
+    {
+      "name": "MUDr. Tereza Gottfriedová",
+      "latitude": 49.022075,
+      "longitude": 17.773455
+    },
+    {
+      "name": "MUDr. Tomáš Dierzé",
+      "latitude": 49.068521,
+      "longitude": 14.370482
+    },
+    {
+      "name": "Mudr. Tomáš Ptoszek",
+      "latitude": 49.680868,
+      "longitude": 18.650571
+    },
+    {
+      "name": "MUDr. Tomáš Skýba, s.r.o.",
+      "latitude": 49.836705,
+      "longitude": 18.401358
+    },
+    {
+      "name": "MUDr. Trucová Jitka",
+      "latitude": 49.300539,
+      "longitude": 14.478328
+    },
+    {
+      "name": "MUDr. V. Ceeová",
+      "latitude": 50.21683,
+      "longitude": 15.854168
+    },
+    {
+      "name": "MUDr. V. Dryml",
+      "latitude": 50.216772,
+      "longitude": 15.854447
+    },
+    {
+      "name": "MUDr. V. Špaček",
+      "latitude": 50.216775,
+      "longitude": 15.85441
+    },
+    {
+      "name": "Mudr. Veronika Cardová",
+      "latitude": 50.034119,
+      "longitude": 15.769878
+    },
+    {
+      "name": "MUDr. Veronika Jimramovská",
+      "latitude": 49.219228,
+      "longitude": 16.621455
+    },
+    {
+      "name": "MUDr. Veronika Křiváčková",
+      "latitude": 49.528177,
+      "longitude": 17.585976
+    },
+    {
+      "name": "MUDr. Viliam Kopecký - soukromá ordinace",
+      "latitude": 49.950584,
+      "longitude": 15.802838
+    },
+    {
+      "name": "Mudr. Vladimír Luzar",
+      "latitude": 48.887625,
+      "longitude": 17.716059
+    },
+    {
+      "name": "MUDr. Vladimíra Karásková",
+      "latitude": 50.652827,
+      "longitude": 15.451123
+    },
+    {
+      "name": "MUDr. Vladislav Ambroz",
+      "latitude": 49.208319,
+      "longitude": 16.605982
+    },
+    {
+      "name": "MUDr. Vlasta Holcová - dětský lékař",
+      "latitude": 50.92562,
+      "longitude": 15.086543
+    },
+    {
+      "name": "MUDr. Vlastimil Chocenský - praktický lékař pro dospělé",
+      "latitude": 50.041232,
+      "longitude": 15.806192
+    },
+    {
+      "name": "Mudr. Vlastimil Rajbl",
+      "latitude": 49.899874,
+      "longitude": 16.570654
+    },
+    {
+      "name": "MUDr. Vojtěch Šterzl",
+      "latitude": 50.055912,
+      "longitude": 14.49665
+    },
+    {
+      "name": "MUDr. Václav Kříž",
+      "latitude": 50.021918,
+      "longitude": 15.211543
+    },
+    {
+      "name": "MUDr. Václav Češka",
+      "latitude": 50.149844,
+      "longitude": 13.904292
+    },
+    {
+      "name": "Mudr. Válek - dětský lékař",
+      "latitude": 49.083155,
+      "longitude": 14.718371
+    },
+    {
+      "name": "MUDr. Věra Bartůnková",
+      "latitude": 49.743547,
+      "longitude": 13.594626
+    },
+    {
+      "name": "MUDr. Věra Horká",
+      "latitude": 49.182231,
+      "longitude": 16.388265
+    },
+    {
+      "name": "MUDr. Věra Malenínská",
+      "latitude": 49.8361,
+      "longitude": 13.901728
+    },
+    {
+      "name": "MUDr. Z. Málková",
+      "latitude": 50.216686,
+      "longitude": 15.853241
+    },
+    {
+      "name": "MUDr. Zbyněk Maška",
+      "latitude": 49.223052,
+      "longitude": 16.626898
+    },
+    {
+      "name": "MUDr. Zdeněk Abel - Dětský lékař",
+      "latitude": 50.106063,
+      "longitude": 16.257468
+    },
+    {
+      "name": "MUDr. Zdeněk Poláček",
+      "latitude": 48.801758,
+      "longitude": 16.632922
+    },
+    {
+      "name": "MUDr. Zdeňka Rozehnalová - praktický lékař pro dospělé",
+      "latitude": 50.041266,
+      "longitude": 15.806264
+    },
+    {
+      "name": "MUDr. Zina Ropková",
+      "latitude": 50.539214,
+      "longitude": 14.540831
+    },
+    {
+      "name": "MUDr. Zuzana Antušová",
+      "latitude": 50.211364,
+      "longitude": 15.821174
+    },
+    {
+      "name": "MUDr. Zuzana Poláková",
+      "latitude": 50.211335,
+      "longitude": 15.821164
+    },
+    {
+      "name": "MUDr. Zuzana Ryšavá",
+      "latitude": 49.203474,
+      "longitude": 16.879998
+    },
+    {
+      "name": "Mudr. Zuzana Trávníčková",
+      "latitude": 49.208836,
+      "longitude": 16.627808
+    },
+    {
+      "name": "MUDr. Ľudmila Nedvědová",
+      "latitude": 49.602138,
+      "longitude": 17.258236
+    },
+    {
+      "name": "MUDr. Štvěraková",
+      "latitude": 50.5348,
+      "longitude": 14.125768
+    },
+    {
+      "name": "MUDr. Šulcová Anna",
+      "latitude": 49.477158,
+      "longitude": 17.110926
+    },
+    {
+      "name": "MUDr. Švaříčková",
+      "latitude": 49.194355,
+      "longitude": 16.6333
+    },
+    {
+      "name": "MUDr. Švábová",
+      "latitude": 50.522577,
+      "longitude": 14.975323
+    },
+    {
+      "name": "MUDr. Šárka Roubková-Paurová",
+      "latitude": 50.164551,
+      "longitude": 14.745919
+    },
+    {
+      "name": "MUDr. Žaneta Hádlíková - Praktický lékař pro děti a dorost",
+      "latitude": 50.041047,
+      "longitude": 15.805841
+    },
+    {
+      "name": "MUDr.Marcela Růzhová - ušní, nosní, krční, homeopatie",
+      "latitude": 50.11393,
+      "longitude": 14.620007
+    },
+    {
+      "name": "MUDr.Vladimíra Gayerová",
+      "latitude": 50.195749,
+      "longitude": 15.844871
+    },
+    {
+      "name": "Multiscan Pharma - příprava cytostatik",
+      "latitude": 50.029625,
+      "longitude": 15.78921
+    },
+    {
+      "name": "Multiscan s.r.o. - recepce, onkologické ambulance",
+      "latitude": 50.028273,
+      "longitude": 15.790231
+    },
+    {
+      "name": "Multiscan s.r.o. - recepce, ozařovny, CT",
+      "latitude": 50.028965,
+      "longitude": 15.790024
+    },
+    {
+      "name": "mySono",
+      "latitude": 48.856955,
+      "longitude": 16.055803
+    },
+    {
+      "name": "Mária Spáčilová",
+      "latitude": 48.979512,
+      "longitude": 17.219095
+    },
+    {
+      "name": "Měření tlaku, tuku, výšky a hmotnosti",
+      "latitude": 50.115864,
+      "longitude": 12.35188
+    },
+    {
+      "name": "Nature Care",
+      "latitude": 50.069197,
+      "longitude": 14.416876
+    },
+    {
+      "name": "Naturheilpraxis Richter",
+      "latitude": 50.605097,
+      "longitude": 13.46261
+    },
+    {
+      "name": "Nemocnice Frýdlant - gynekologie",
+      "latitude": 50.92603,
+      "longitude": 15.088062
+    },
+    {
+      "name": "Nemocnice Mělník - ARO",
+      "latitude": 50.34739,
+      "longitude": 14.484332
+    },
+    {
+      "name": "Nemocnice Mělník - Chirurgie",
+      "latitude": 50.347346,
+      "longitude": 14.484387
+    },
+    {
+      "name": "Nemocnice Mělník - Dialýza",
+      "latitude": 50.348335,
+      "longitude": 14.484887
+    },
+    {
+      "name": "Nemocnice Mělník - Gynekologicko - Porodnické oddělení",
+      "latitude": 50.347231,
+      "longitude": 14.485558
+    },
+    {
+      "name": "Nemocnice Mělník - Infekční oddělení",
+      "latitude": 50.346789,
+      "longitude": 14.486058
+    },
+    {
+      "name": "Nemocnice Mělník - Interna",
+      "latitude": 50.346612,
+      "longitude": 14.485769
+    },
+    {
+      "name": "Nemocnice Mělník - Neurologie",
+      "latitude": 50.346678,
+      "longitude": 14.485883
+    },
+    {
+      "name": "Nemocnice Mělník - Ortopedie",
+      "latitude": 50.347433,
+      "longitude": 14.484253
+    },
+    {
+      "name": "Nemocnice Mělník - Patologie",
+      "latitude": 50.348017,
+      "longitude": 14.485783
+    },
+    {
+      "name": "Nemocnice Mělník - Plicní",
+      "latitude": 50.347857,
+      "longitude": 14.483788
+    },
+    {
+      "name": "Neovize",
+      "latitude": 49.198465,
+      "longitude": 16.65642
+    },
+    {
+      "name": "Neurochirurgie",
+      "latitude": 50.028741,
+      "longitude": 15.789509
+    },
+    {
+      "name": "Neurolog MUDr. Céé",
+      "latitude": 50.536377,
+      "longitude": 14.134438
+    },
+    {
+      "name": "Neurologie",
+      "latitude": 49.184762,
+      "longitude": 16.638148
+    },
+    {
+      "name": "Neurologie",
+      "latitude": 50.028083,
+      "longitude": 15.789653
+    },
+    {
+      "name": "Neurologie",
+      "latitude": 50.115355,
+      "longitude": 14.461782
+    },
+    {
+      "name": "Neurologie - ambulance",
+      "latitude": 50.028132,
+      "longitude": 15.790123
+    },
+    {
+      "name": "Neurologie - MS centrum",
+      "latitude": 50.027932,
+      "longitude": 15.788396
+    },
+    {
+      "name": "Neurologie Brno",
+      "latitude": 49.17409,
+      "longitude": 16.534333
+    },
+    {
+      "name": "Neurologie Běhounská",
+      "latitude": 49.196113,
+      "longitude": 16.609182
+    },
+    {
+      "name": "Neurologie Chmelová",
+      "latitude": 50.058905,
+      "longitude": 14.496759
+    },
+    {
+      "name": "Neurologie Hudcova",
+      "latitude": 49.236074,
+      "longitude": 16.583452
+    },
+    {
+      "name": "Neurologie In Sady",
+      "latitude": 49.186695,
+      "longitude": 16.606623
+    },
+    {
+      "name": "Neurologie Štefek",
+      "latitude": 49.289191,
+      "longitude": 16.228324
+    },
+    {
+      "name": "Neuwirth",
+      "latitude": 49.548498,
+      "longitude": 18.209582
+    },
+    {
+      "name": "NikProGyn s.r.o.",
+      "latitude": 49.797515,
+      "longitude": 18.482264
+    },
+    {
+      "name": "Novorozenci",
+      "latitude": 50.027951,
+      "longitude": 15.787216
+    },
+    {
+      "name": "Novortop",
+      "latitude": 50.671689,
+      "longitude": 14.021358
+    },
+    {
+      "name": "Nuselská poliklinika",
+      "latitude": 50.063038,
+      "longitude": 14.441194
+    },
+    {
+      "name": "Nutriční a dietologie",
+      "latitude": 50.02947,
+      "longitude": 15.785764
+    },
+    {
+      "name": "Obvodní lékař",
+      "latitude": 49.674042,
+      "longitude": 18.41458
+    },
+    {
+      "name": "Obvodní lékař MUDr. Kajnarová",
+      "latitude": 49.613976,
+      "longitude": 18.335135
+    },
+    {
+      "name": "Obvodní lékař, MUDr. Věra Čedíková",
+      "latitude": 49.605443,
+      "longitude": 14.282377
+    },
+    {
+      "name": "Obvoďák",
+      "latitude": 50.06792,
+      "longitude": 14.498292
+    },
+    {
+      "name": "Odborný léčebný ústav Metylovice, Moravskoslezské sanatorium",
+      "latitude": 49.608624,
+      "longitude": 18.338888
+    },
+    {
+      "name": "Oftalmik",
+      "latitude": 50.201457,
+      "longitude": 15.850889
+    },
+    {
+      "name": "OFTIA s.r.o.",
+      "latitude": 49.230292,
+      "longitude": 16.585573
+    },
+    {
+      "name": "OK rehabilitace",
+      "latitude": 50.118736,
+      "longitude": 14.501046
+    },
+    {
+      "name": "Okomedica s. r. o.",
+      "latitude": 49.968002,
+      "longitude": 14.513878
+    },
+    {
+      "name": "Oldřich Jindra",
+      "latitude": 50.218048,
+      "longitude": 15.853186
+    },
+    {
+      "name": "Onkologická ambulace",
+      "latitude": 49.896791,
+      "longitude": 18.189536
+    },
+    {
+      "name": "Onkologie - lůžka",
+      "latitude": 50.029112,
+      "longitude": 15.789976
+    },
+    {
+      "name": "Ordinace Flora",
+      "latitude": 50.021171,
+      "longitude": 14.48778
+    },
+    {
+      "name": "Ordinace Hradební",
+      "latitude": 48.977566,
+      "longitude": 14.474433
+    },
+    {
+      "name": "Ordinace klinické psychologie",
+      "latitude": 49.596239,
+      "longitude": 17.250723
+    },
+    {
+      "name": "Ordinace Mucha",
+      "latitude": 50.101021,
+      "longitude": 14.39694
+    },
+    {
+      "name": "Ordinace MUDr. Jitky Borošové",
+      "latitude": 49.313564,
+      "longitude": 14.14702
+    },
+    {
+      "name": "Ordinace Neředín",
+      "latitude": 49.597032,
+      "longitude": 17.226814
+    },
+    {
+      "name": "Ordinace PL a PLS",
+      "latitude": 48.83607,
+      "longitude": 14.329915
+    },
+    {
+      "name": "Ordinace praktického lékaře",
+      "latitude": 48.654344,
+      "longitude": 14.36539
+    },
+    {
+      "name": "Ordinace praktického lékaře",
+      "latitude": 49.441541,
+      "longitude": 16.855261
+    },
+    {
+      "name": "Ordinace praktického lékaře",
+      "latitude": 49.639867,
+      "longitude": 18.135547
+    },
+    {
+      "name": "Ordinace praktického lékaře",
+      "latitude": 50.106213,
+      "longitude": 14.680316
+    },
+    {
+      "name": "Ordinace praktického lékaře",
+      "latitude": 50.250455,
+      "longitude": 12.561777
+    },
+    {
+      "name": "Ordinace praktického lékaře",
+      "latitude": 50.301407,
+      "longitude": 12.557268
+    },
+    {
+      "name": "Ordinace praktického lékaře, podologie a obezitologie",
+      "latitude": 50.033596,
+      "longitude": 15.789118
+    },
+    {
+      "name": "Ordinace praktických lékařů",
+      "latitude": 49.659955,
+      "longitude": 14.424795
+    },
+    {
+      "name": "Ordinace pro děti a dorost",
+      "latitude": 48.905797,
+      "longitude": 14.310616
+    },
+    {
+      "name": "Ordinace pro děti a dorost",
+      "latitude": 49.244922,
+      "longitude": 16.578263
+    },
+    {
+      "name": "Ordinace pro děti a dorost Pod kaštany, Brno - Žabovřesky s.r.o.",
+      "latitude": 49.211569,
+      "longitude": 16.589577
+    },
+    {
+      "name": "Ordinace V Aleji",
+      "latitude": 50.151972,
+      "longitude": 15.131602
+    },
+    {
+      "name": "ORL",
+      "latitude": 49.069506,
+      "longitude": 17.463576
+    },
+    {
+      "name": "ORL",
+      "latitude": 49.990358,
+      "longitude": 14.658797
+    },
+    {
+      "name": "ORL",
+      "latitude": 50.115359,
+      "longitude": 14.462054
+    },
+    {
+      "name": "ORL centrum",
+      "latitude": 50.143324,
+      "longitude": 14.092692
+    },
+    {
+      "name": "ORL Hřebenka",
+      "latitude": 50.749898,
+      "longitude": 14.56195
+    },
+    {
+      "name": "ORL MUDr. Pavel Navrátil",
+      "latitude": 49.599753,
+      "longitude": 17.255265
+    },
+    {
+      "name": "ORL – MUDr. Prouzová",
+      "latitude": 50.532138,
+      "longitude": 16.234158
+    },
+    {
+      "name": "Orlaith",
+      "latitude": 49.531637,
+      "longitude": 17.591639
+    },
+    {
+      "name": "Orlaith",
+      "latitude": 49.547069,
+      "longitude": 17.536883
+    },
+    {
+      "name": "Orthea",
+      "latitude": 49.967965,
+      "longitude": 14.513829
+    },
+    {
+      "name": "Orto Poul",
+      "latitude": 49.211283,
+      "longitude": 16.624826
+    },
+    {
+      "name": "Ortopedická ambulance",
+      "latitude": 48.860168,
+      "longitude": 16.045609
+    },
+    {
+      "name": "Ortopedická ambulance MUDr. Peter Gáloczy",
+      "latitude": 49.966476,
+      "longitude": 16.98193
+    },
+    {
+      "name": "Ortopedie",
+      "latitude": 49.258664,
+      "longitude": 15.236511
+    },
+    {
+      "name": "Ortopedie",
+      "latitude": 50.028818,
+      "longitude": 15.788896
+    },
+    {
+      "name": "Ortopedie",
+      "latitude": 50.10716,
+      "longitude": 14.374646
+    },
+    {
+      "name": "Ortopedie",
+      "latitude": 50.531888,
+      "longitude": 16.235037
+    },
+    {
+      "name": "Osteocentrum (denzitometrie)",
+      "latitude": 50.029994,
+      "longitude": 15.786824
+    },
+    {
+      "name": "Oční",
+      "latitude": 49.266986,
+      "longitude": 13.907263
+    },
+    {
+      "name": "Oční",
+      "latitude": 49.543641,
+      "longitude": 18.216257
+    },
+    {
+      "name": "Oční",
+      "latitude": 49.585938,
+      "longitude": 17.243469
+    },
+    {
+      "name": "Oční",
+      "latitude": 50.029237,
+      "longitude": 15.787092
+    },
+    {
+      "name": "Oční Ambulance",
+      "latitude": 49.52686,
+      "longitude": 17.586868
+    },
+    {
+      "name": "Oční centrum Poděbrady",
+      "latitude": 50.145217,
+      "longitude": 15.130176
+    },
+    {
+      "name": "Oční centrum Praha",
+      "latitude": 50.111079,
+      "longitude": 14.440723
+    },
+    {
+      "name": "Oční klinika",
+      "latitude": 50.115727,
+      "longitude": 14.611249
+    },
+    {
+      "name": "Oční lékař - Oftalcare",
+      "latitude": 50.091888,
+      "longitude": 17.68688
+    },
+    {
+      "name": "Oční odd. VISUS",
+      "latitude": 50.532155,
+      "longitude": 16.234158
+    },
+    {
+      "name": "OČNÍ OPTIKA Brno s oční ordinací OPTIK VISUEL",
+      "latitude": 49.224077,
+      "longitude": 16.623669
+    },
+    {
+      "name": "Oční optika Mgr. Jiří Otych",
+      "latitude": 49.20081,
+      "longitude": 16.640585
+    },
+    {
+      "name": "Oční ordinace",
+      "latitude": 49.639933,
+      "longitude": 18.136146
+    },
+    {
+      "name": "Oční ordinace",
+      "latitude": 50.412336,
+      "longitude": 16.157976
+    },
+    {
+      "name": "Oční ordinace",
+      "latitude": 50.428876,
+      "longitude": 14.914773
+    },
+    {
+      "name": "Oční ordinace - lékař Petr Dušek",
+      "latitude": 49.058762,
+      "longitude": 13.776864
+    },
+    {
+      "name": "Oční ordinace a ortoptika MUDr. Olga Látalová",
+      "latitude": 49.593386,
+      "longitude": 17.270027
+    },
+    {
+      "name": "Oční ordinace MUDr. Jana Smutková",
+      "latitude": 50.090642,
+      "longitude": 14.308981
+    },
+    {
+      "name": "Oční ordinace OFTA ambulance",
+      "latitude": 49.200842,
+      "longitude": 16.640542
+    },
+    {
+      "name": "Oční ordinace OFTALMED",
+      "latitude": 49.210991,
+      "longitude": 16.632965
+    },
+    {
+      "name": "Oční ordinace Sisimedica s.r.o",
+      "latitude": 49.738386,
+      "longitude": 13.393553
+    },
+    {
+      "name": "Oční ordinace VISION",
+      "latitude": 49.540442,
+      "longitude": 15.359708
+    },
+    {
+      "name": "Oční ordinace Černošice",
+      "latitude": 49.950068,
+      "longitude": 14.315354
+    },
+    {
+      "name": "Oční ordinace ČK s.r.o.",
+      "latitude": 48.810061,
+      "longitude": 14.324523
+    },
+    {
+      "name": "Oční praxe MUDr. Jitka Kopecká, s.r.o.",
+      "latitude": 49.594515,
+      "longitude": 17.250573
+    },
+    {
+      "name": "Oční sítnicové centrum",
+      "latitude": 50.030322,
+      "longitude": 15.789673
+    },
+    {
+      "name": "Ošetřovna",
+      "latitude": 50.58228,
+      "longitude": 15.150457
+    },
+    {
+      "name": "Paracelsus",
+      "latitude": 50.568114,
+      "longitude": 13.602844
+    },
+    {
+      "name": "Paracelsus med. Versorg.-zentrum, Außenstelle Klth",
+      "latitude": 50.355679,
+      "longitude": 12.467855
+    },
+    {
+      "name": "Patologie",
+      "latitude": 50.030463,
+      "longitude": 15.787652
+    },
+    {
+      "name": "Pavel Klíma",
+      "latitude": 49.25999,
+      "longitude": 15.780457
+    },
+    {
+      "name": "Pavla Řehořková",
+      "latitude": 50.196124,
+      "longitude": 15.837753
+    },
+    {
+      "name": "Pedagogicko-psychologická poradna",
+      "latitude": 50.079279,
+      "longitude": 14.458046
+    },
+    {
+      "name": "Pediatrie Hostivař",
+      "latitude": 50.045992,
+      "longitude": 14.51397
+    },
+    {
+      "name": "Pediatrie Praha 8.s.r.o.",
+      "latitude": 50.128506,
+      "longitude": 14.477422
+    },
+    {
+      "name": "Pediatrie Tišnov",
+      "latitude": 49.349801,
+      "longitude": 16.423987
+    },
+    {
+      "name": "Petr Dědek",
+      "latitude": 50.196065,
+      "longitude": 15.837968
+    },
+    {
+      "name": "PhDr. Iveta Kopecká",
+      "latitude": 50.055919,
+      "longitude": 14.496459
+    },
+    {
+      "name": "PhDr. Julián Kuric",
+      "latitude": 49.210823,
+      "longitude": 16.627535
+    },
+    {
+      "name": "PhDr. Marie Rothbauerová",
+      "latitude": 50.056032,
+      "longitude": 14.496432
+    },
+    {
+      "name": "Plastická a estetická chirurgie",
+      "latitude": 50.145148,
+      "longitude": 15.130292
+    },
+    {
+      "name": "Plastická Chirurgie A-Z S.r.o.",
+      "latitude": 49.590371,
+      "longitude": 17.267676
+    },
+    {
+      "name": "Plastická chirurgie Leticia",
+      "latitude": 49.214612,
+      "longitude": 16.568875
+    },
+    {
+      "name": "Plicní",
+      "latitude": 50.028431,
+      "longitude": 15.79018
+    },
+    {
+      "name": "Plicní (pneumologie) - Medicon",
+      "latitude": 50.042365,
+      "longitude": 14.450224
+    },
+    {
+      "name": "Pohotovost - dětská",
+      "latitude": 49.580814,
+      "longitude": 17.238193
+    },
+    {
+      "name": "Pohotovost pro dospělé",
+      "latitude": 50.029052,
+      "longitude": 15.789125
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.197014,
+      "longitude": 16.533962
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.758566,
+      "longitude": 18.015421
+    },
+    {
+      "name": "Poliklinika akademika Otakara Teyschla",
+      "latitude": 49.19868,
+      "longitude": 16.602971
+    },
+    {
+      "name": "Poliklinika Blovice",
+      "latitude": 49.582399,
+      "longitude": 13.536366
+    },
+    {
+      "name": "Poliklinika Božetěchova",
+      "latitude": 49.230233,
+      "longitude": 16.593146
+    },
+    {
+      "name": "Poliklinika Bystrc",
+      "latitude": 49.218843,
+      "longitude": 16.505197
+    },
+    {
+      "name": "Poliklinika Dobětice",
+      "latitude": 50.673792,
+      "longitude": 14.049214
+    },
+    {
+      "name": "Poliklinika Horníkova",
+      "latitude": 49.213069,
+      "longitude": 16.682018
+    },
+    {
+      "name": "Poliklinika I",
+      "latitude": 49.439855,
+      "longitude": 12.926721
+    },
+    {
+      "name": "Poliklinika II",
+      "latitude": 49.440868,
+      "longitude": 12.924034
+    },
+    {
+      "name": "Poliklinika II",
+      "latitude": 50.216709,
+      "longitude": 15.853503
+    },
+    {
+      "name": "Poliklinika Kralupy nad Vltavou ALTES s.r.o.",
+      "latitude": 50.239228,
+      "longitude": 14.307114
+    },
+    {
+      "name": "Poliklinika Kuřim",
+      "latitude": 49.310304,
+      "longitude": 16.534442
+    },
+    {
+      "name": "Poliklinika Litochleby",
+      "latitude": 50.032056,
+      "longitude": 14.519463
+    },
+    {
+      "name": "Poliklinika Medivita",
+      "latitude": 49.236044,
+      "longitude": 16.58344
+    },
+    {
+      "name": "Poliklinika Nový Bor",
+      "latitude": 50.759752,
+      "longitude": 14.55381
+    },
+    {
+      "name": "Poliklinika Pacov",
+      "latitude": 49.470222,
+      "longitude": 15.000578
+    },
+    {
+      "name": "Poliklinika Planá",
+      "latitude": 49.867848,
+      "longitude": 12.746938
+    },
+    {
+      "name": "Poliklinika Praha 13",
+      "latitude": 50.036024,
+      "longitude": 14.342709
+    },
+    {
+      "name": "Poliklinika Spořilov",
+      "latitude": 50.044908,
+      "longitude": 14.487114
+    },
+    {
+      "name": "Poliklinika Týn nad Vltavou",
+      "latitude": 49.226079,
+      "longitude": 14.416924
+    },
+    {
+      "name": "poliklinika Vajgarská",
+      "latitude": 50.101675,
+      "longitude": 14.553719
+    },
+    {
+      "name": "Poliklinika Velká Bíteš",
+      "latitude": 49.291547,
+      "longitude": 16.220571
+    },
+    {
+      "name": "Poliklinika Zahradníkova",
+      "latitude": 49.206152,
+      "longitude": 16.594847
+    },
+    {
+      "name": "Porodnice",
+      "latitude": 50.028007,
+      "longitude": 15.787711
+    },
+    {
+      "name": "Porodnice Přerov",
+      "latitude": 49.457049,
+      "longitude": 17.471641
+    },
+    {
+      "name": "Praktická ambulance",
+      "latitude": 49.19877,
+      "longitude": 16.60526
+    },
+    {
+      "name": "Praktická lékařka pro dospělé, MUDr. Klemperová, MUDr. Jelínková",
+      "latitude": 49.654556,
+      "longitude": 13.198547
+    },
+    {
+      "name": "Praktická medicína s.r.o.",
+      "latitude": 49.212142,
+      "longitude": 16.5508
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 49.219978,
+      "longitude": 16.751863
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 49.264435,
+      "longitude": 16.713658
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 49.612003,
+      "longitude": 18.361275
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 49.637259,
+      "longitude": 18.720387
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 49.650211,
+      "longitude": 16.836329
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 50.01345,
+      "longitude": 14.628062
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 50.089208,
+      "longitude": 14.327232
+    },
+    {
+      "name": "praktický lékař",
+      "latitude": 50.192166,
+      "longitude": 12.679827
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 50.361898,
+      "longitude": 14.246684
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 50.36421,
+      "longitude": 15.631151
+    },
+    {
+      "name": "Praktický lékař",
+      "latitude": 50.541658,
+      "longitude": 15.729625
+    },
+    {
+      "name": "Praktický lékař (dospělí)",
+      "latitude": 49.946979,
+      "longitude": 18.237412
+    },
+    {
+      "name": "Praktický lékař (děti)",
+      "latitude": 49.946907,
+      "longitude": 18.237655
+    },
+    {
+      "name": "Praktický lékař - MUDr. Jan Maťko",
+      "latitude": 49.802212,
+      "longitude": 18.477308
+    },
+    {
+      "name": "Praktický lékař - MUDr. Miroslava Petroušová, MBA",
+      "latitude": 49.92926,
+      "longitude": 14.303195
+    },
+    {
+      "name": "Praktický lékař - MUDr. Pohanková",
+      "latitude": 49.221572,
+      "longitude": 16.518143
+    },
+    {
+      "name": "Praktický lékař Horova",
+      "latitude": 49.213859,
+      "longitude": 16.574747
+    },
+    {
+      "name": "Praktický lékař Kaznějov",
+      "latitude": 49.891504,
+      "longitude": 13.383315
+    },
+    {
+      "name": "Praktický lékař Marie Jágrová",
+      "latitude": 50.090339,
+      "longitude": 14.665323
+    },
+    {
+      "name": "Praktický lékař MUDr. Hellarová",
+      "latitude": 49.221359,
+      "longitude": 16.518461
+    },
+    {
+      "name": "Praktický lékař MUDr. Škoda",
+      "latitude": 50.131301,
+      "longitude": 15.9109
+    },
+    {
+      "name": "Praktický lékař MUDr. Šárka Kaplová",
+      "latitude": 49.966469,
+      "longitude": 16.981938
+    },
+    {
+      "name": "Praktický Lékař Nehybová Olga MUDr.",
+      "latitude": 49.22343,
+      "longitude": 16.582778
+    },
+    {
+      "name": "Praktický lékař Praha - Chodov",
+      "latitude": 50.027874,
+      "longitude": 14.489255
+    },
+    {
+      "name": "Praktický lékař pro dospělé",
+      "latitude": 48.774317,
+      "longitude": 14.289977
+    },
+    {
+      "name": "Praktický Lékař Pro Dospělé",
+      "latitude": 48.779614,
+      "longitude": 14.296312
+    },
+    {
+      "name": "Praktický lékař pro dospělé",
+      "latitude": 49.445325,
+      "longitude": 14.367138
+    },
+    {
+      "name": "Praktický lékař pro dospělé",
+      "latitude": 49.451768,
+      "longitude": 17.470299
+    },
+    {
+      "name": "Praktický lékař pro dospělé",
+      "latitude": 49.65941,
+      "longitude": 18.696363
+    },
+    {
+      "name": "Praktický lékař pro dospělé Písečná, s.r.o.",
+      "latitude": 50.273232,
+      "longitude": 17.251433
+    },
+    {
+      "name": "Praktický lékař pro dospělé, MUDr. Lukáš Pospíšil",
+      "latitude": 49.295749,
+      "longitude": 16.578964
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost",
+      "latitude": 49.452686,
+      "longitude": 17.469144
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost",
+      "latitude": 49.77586,
+      "longitude": 17.751035
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost",
+      "latitude": 49.77622,
+      "longitude": 13.360364
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost",
+      "latitude": 49.946369,
+      "longitude": 14.028147
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost",
+      "latitude": 50.033056,
+      "longitude": 15.790506
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost",
+      "latitude": 50.139159,
+      "longitude": 14.074644
+    },
+    {
+      "name": "praktický lékař pro děti a dorost",
+      "latitude": 50.184311,
+      "longitude": 12.548998
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost",
+      "latitude": 50.24835,
+      "longitude": 14.314454
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost - MUDr. Kateřina Štichhauerová",
+      "latitude": 50.037086,
+      "longitude": 15.786176
+    },
+    {
+      "name": "Praktický lékař pro děti a dorost - MUDr. Kristýna Hanulíková",
+      "latitude": 50.03706,
+      "longitude": 15.786179
+    },
+    {
+      "name": "Praktický Lékař Sedláková Vlasta MUDr.",
+      "latitude": 50.658559,
+      "longitude": 13.724179
+    },
+    {
+      "name": "Praktický lékař Černošice s.r.o.",
+      "latitude": 49.950062,
+      "longitude": 14.31534
+    },
+    {
+      "name": "Praktický lékař Červené Pečky",
+      "latitude": 49.979168,
+      "longitude": 15.210491
+    },
+    {
+      "name": "Praktický lékař, MUDr Viera Holečková",
+      "latitude": 50.967151,
+      "longitude": 15.02467
+    },
+    {
+      "name": "Praktický lékař, zubař",
+      "latitude": 50.227086,
+      "longitude": 17.136966
+    },
+    {
+      "name": "PRAKTIK BĚLOHRAD,  s.r.o.",
+      "latitude": 50.433032,
+      "longitude": 15.581975
+    },
+    {
+      "name": "Praktik Stabo, s.r.o.",
+      "latitude": 50.195553,
+      "longitude": 14.681497
+    },
+    {
+      "name": "Praktik – MUDr. Čelková",
+      "latitude": 50.532121,
+      "longitude": 16.234159
+    },
+    {
+      "name": "Praktik – MUDR. Řehák",
+      "latitude": 50.532102,
+      "longitude": 16.234158
+    },
+    {
+      "name": "Praxilens",
+      "latitude": 49.472506,
+      "longitude": 17.104704
+    },
+    {
+      "name": "Pribulová",
+      "latitude": 50.309483,
+      "longitude": 12.953765
+    },
+    {
+      "name": "Prim. Dr. Capellmann",
+      "latitude": 48.761811,
+      "longitude": 14.975556
+    },
+    {
+      "name": "Privátní gynekologicko-porodnická praxe",
+      "latitude": 49.77498,
+      "longitude": 17.751064
+    },
+    {
+      "name": "ProAuxilio s. r. o. - praktikusti.cz",
+      "latitude": 49.977453,
+      "longitude": 16.394236
+    },
+    {
+      "name": "Prof. MUDr. DrSc. K. Martiník",
+      "latitude": 50.216842,
+      "longitude": 15.853892
+    },
+    {
+      "name": "ProfiG2 - Screeningové centrum Praha",
+      "latitude": 50.03143,
+      "longitude": 14.598066
+    },
+    {
+      "name": "ProMedica, spol. s r.o.",
+      "latitude": 49.4813,
+      "longitude": 17.112974
+    },
+    {
+      "name": "Psychiatrická ambulance",
+      "latitude": 50.028004,
+      "longitude": 15.202078
+    },
+    {
+      "name": "Psychiatrická ambulance MUDr. Pavlína Horáková",
+      "latitude": 49.221392,
+      "longitude": 16.518485
+    },
+    {
+      "name": "Psychiatrie",
+      "latitude": 50.028602,
+      "longitude": 15.78661
+    },
+    {
+      "name": "Psychiatrie",
+      "latitude": 50.102908,
+      "longitude": 14.398458
+    },
+    {
+      "name": "Psychiatrie Břevnov",
+      "latitude": 50.084309,
+      "longitude": 14.375435
+    },
+    {
+      "name": "Psychiatrie Malinová s.r.o.",
+      "latitude": 50.032576,
+      "longitude": 15.754731
+    },
+    {
+      "name": "Psychiatrie MUDr. Gabriela Ťupová s.r.o.",
+      "latitude": 49.638892,
+      "longitude": 13.15946
+    },
+    {
+      "name": "Psychiatrie Rokycany",
+      "latitude": 49.74286,
+      "longitude": 13.595324
+    },
+    {
+      "name": "Psychiatrie Rumlová",
+      "latitude": 49.858049,
+      "longitude": 13.606531
+    },
+    {
+      "name": "Psychiatrie Vinohrady s.r.o",
+      "latitude": 50.072945,
+      "longitude": 14.427438
+    },
+    {
+      "name": "Quattromedica",
+      "latitude": 49.204855,
+      "longitude": 16.598589
+    },
+    {
+      "name": "R.M.A. CENTRUM s.r.o.",
+      "latitude": 50.104137,
+      "longitude": 14.454399
+    },
+    {
+      "name": "Radiodiagnostika (RTG, CT, MRI)",
+      "latitude": 50.02885,
+      "longitude": 15.788265
+    },
+    {
+      "name": "RDG – MUDr. Bartoňová",
+      "latitude": 50.532085,
+      "longitude": 16.234159
+    },
+    {
+      "name": "Rehabilitace",
+      "latitude": 49.061236,
+      "longitude": 17.481757
+    },
+    {
+      "name": "Rehabilitace",
+      "latitude": 49.849335,
+      "longitude": 13.3733
+    },
+    {
+      "name": "Rehabilitace",
+      "latitude": 50.029793,
+      "longitude": 15.786877
+    },
+    {
+      "name": "Rehabilitace",
+      "latitude": 50.075944,
+      "longitude": 12.369912
+    },
+    {
+      "name": "Rehabilitace Bílovice",
+      "latitude": 49.246657,
+      "longitude": 16.672222
+    },
+    {
+      "name": "Rehabilitace Fraňková",
+      "latitude": 49.758519,
+      "longitude": 12.997539
+    },
+    {
+      "name": "Rehabilitace Jarov",
+      "latitude": 50.089905,
+      "longitude": 14.476329
+    },
+    {
+      "name": "Rehabilitace MUDr.",
+      "latitude": 50.539715,
+      "longitude": 14.132241
+    },
+    {
+      "name": "Rehabilitace Pro Vás s.r.o",
+      "latitude": 49.757403,
+      "longitude": 13.373367
+    },
+    {
+      "name": "Rehabilitace, neurologie",
+      "latitude": 50.06111,
+      "longitude": 14.445022
+    },
+    {
+      "name": "RehaFit Krumlov",
+      "latitude": 48.816247,
+      "longitude": 14.315545
+    },
+    {
+      "name": "Rehagrabi, s.r.o.",
+      "latitude": 48.816413,
+      "longitude": 14.316079
+    },
+    {
+      "name": "rentgen - MUDr. Irena Navrátilová",
+      "latitude": 49.069321,
+      "longitude": 17.462382
+    },
+    {
+      "name": "Roman Blanař",
+      "latitude": 50.214958,
+      "longitude": 15.81107
+    },
+    {
+      "name": "Sagena - Centrum zdraví",
+      "latitude": 49.677255,
+      "longitude": 18.340839
+    },
+    {
+      "name": "Sana-Flora s.r.o.",
+      "latitude": 49.137751,
+      "longitude": 16.828678
+    },
+    {
+      "name": "Sana-Flora s.r.o.",
+      "latitude": 49.178641,
+      "longitude": 16.814502
+    },
+    {
+      "name": "Sanatorium sv. Anny",
+      "latitude": 50.092619,
+      "longitude": 14.495228
+    },
+    {
+      "name": "Sanofyto",
+      "latitude": 49.198423,
+      "longitude": 16.655982
+    },
+    {
+      "name": "Santé",
+      "latitude": 50.048072,
+      "longitude": 14.450185
+    },
+    {
+      "name": "Santé",
+      "latitude": 50.048994,
+      "longitude": 14.455789
+    },
+    {
+      "name": "Santé",
+      "latitude": 50.079432,
+      "longitude": 14.415803
+    },
+    {
+      "name": "SB Clinic",
+      "latitude": 50.1449,
+      "longitude": 15.1297
+    },
+    {
+      "name": "Sdružená ambulantní péče",
+      "latitude": 50.02195,
+      "longitude": 15.211609
+    },
+    {
+      "name": "Sdružené ambulantní zařízení v Praze 7",
+      "latitude": 50.096533,
+      "longitude": 14.431023
+    },
+    {
+      "name": "Sette medici s.r.o.",
+      "latitude": 49.688468,
+      "longitude": 18.356337
+    },
+    {
+      "name": "Sexuologie",
+      "latitude": 49.675952,
+      "longitude": 18.343636
+    },
+    {
+      "name": "Sirák",
+      "latitude": 50.196101,
+      "longitude": 15.83762
+    },
+    {
+      "name": "Sociální lůžka",
+      "latitude": 49.266982,
+      "longitude": 13.907105
+    },
+    {
+      "name": "Soudní lékařství",
+      "latitude": 50.030526,
+      "longitude": 15.788066
+    },
+    {
+      "name": "soukromý praktický lékař MUDr. Jiří Bartoš",
+      "latitude": 48.803109,
+      "longitude": 17.015571
+    },
+    {
+      "name": "Spirála",
+      "latitude": 50.731748,
+      "longitude": 15.182884
+    },
+    {
+      "name": "Sportklinik",
+      "latitude": 50.110328,
+      "longitude": 15.819831
+    },
+    {
+      "name": "Steffen Wenke",
+      "latitude": 50.975963,
+      "longitude": 14.280135
+    },
+    {
+      "name": "Stomatologie Příbor",
+      "latitude": 49.639974,
+      "longitude": 18.135892
+    },
+    {
+      "name": "Středisko lékařských služeb",
+      "latitude": 49.231439,
+      "longitude": 16.588965
+    },
+    {
+      "name": "Středisko Suchdol",
+      "latitude": 50.135084,
+      "longitude": 14.375626
+    },
+    {
+      "name": "Synlab",
+      "latitude": 49.469029,
+      "longitude": 17.107223
+    },
+    {
+      "name": "Terapie pod Špilberkem",
+      "latitude": 49.196167,
+      "longitude": 16.601994
+    },
+    {
+      "name": "Tomáš Veselý",
+      "latitude": 49.203342,
+      "longitude": 16.594387
+    },
+    {
+      "name": "Top Laser",
+      "latitude": 49.594429,
+      "longitude": 17.251293
+    },
+    {
+      "name": "Transfuzní",
+      "latitude": 50.027799,
+      "longitude": 15.788633
+    },
+    {
+      "name": "trojstředisko",
+      "latitude": 49.139186,
+      "longitude": 15.021289
+    },
+    {
+      "name": "U Marie pomocné",
+      "latitude": 48.972406,
+      "longitude": 17.26752
+    },
+    {
+      "name": "Ulcera s.r.o.",
+      "latitude": 49.970025,
+      "longitude": 14.383941
+    },
+    {
+      "name": "uniclinic",
+      "latitude": 50.125321,
+      "longitude": 14.443738
+    },
+    {
+      "name": "UNIMED",
+      "latitude": 50.228982,
+      "longitude": 17.198508
+    },
+    {
+      "name": "Urgentní příjem",
+      "latitude": 49.584303,
+      "longitude": 17.237827
+    },
+    {
+      "name": "URGENTNÍ PŘÍJEM",
+      "latitude": 50.029039,
+      "longitude": 15.788844
+    },
+    {
+      "name": "Urgentní příjem",
+      "latitude": 50.417216,
+      "longitude": 14.911131
+    },
+    {
+      "name": "Urgentní příjem - Interna",
+      "latitude": 50.074376,
+      "longitude": 14.480476
+    },
+    {
+      "name": "Urologická ambulance",
+      "latitude": 50.09956,
+      "longitude": 14.402049
+    },
+    {
+      "name": "Urologie",
+      "latitude": 49.583931,
+      "longitude": 17.237179
+    },
+    {
+      "name": "Urologie",
+      "latitude": 50.02798,
+      "longitude": 15.787501
+    },
+    {
+      "name": "Urologie",
+      "latitude": 50.432074,
+      "longitude": 15.361339
+    },
+    {
+      "name": "Urologie - MUDr. Jan Hiblbauer s.r.o.",
+      "latitude": 50.432082,
+      "longitude": 15.361366
+    },
+    {
+      "name": "Urologie Paclík",
+      "latitude": 49.201292,
+      "longitude": 16.607134
+    },
+    {
+      "name": "Urologie Vršovice",
+      "latitude": 50.070741,
+      "longitude": 14.479522
+    },
+    {
+      "name": "Urologie Zahradní Město",
+      "latitude": 50.055954,
+      "longitude": 14.496356
+    },
+    {
+      "name": "Ušní, nosní, krční (ORL)",
+      "latitude": 50.029477,
+      "longitude": 15.787682
+    },
+    {
+      "name": "Vlasová klinika",
+      "latitude": 49.58857,
+      "longitude": 17.259111
+    },
+    {
+      "name": "Vlasta Smatova",
+      "latitude": 50.200363,
+      "longitude": 14.301194
+    },
+    {
+      "name": "Vlčková",
+      "latitude": 49.822883,
+      "longitude": 18.173846
+    },
+    {
+      "name": "Volfová, Vanásek",
+      "latitude": 50.196064,
+      "longitude": 15.837594
+    },
+    {
+      "name": "Vondra Vítězslav MUDr. - zdravotní středisko",
+      "latitude": 50.375494,
+      "longitude": 13.761463
+    },
+    {
+      "name": "Vyšetřovací ústav",
+      "latitude": 49.881993,
+      "longitude": 12.974804
+    },
+    {
+      "name": "Vávrová Hana MUDr. - Praktická Lékařka",
+      "latitude": 49.064666,
+      "longitude": 17.448466
+    },
+    {
+      "name": "Váš praktik",
+      "latitude": 50.106898,
+      "longitude": 14.537372
+    },
+    {
+      "name": "Vít Hrubecký",
+      "latitude": 50.218001,
+      "longitude": 15.853184
+    },
+    {
+      "name": "Věříšová",
+      "latitude": 50.196006,
+      "longitude": 15.837427
+    },
+    {
+      "name": "Všeobecný praktický lékař, stomatologie, gynekologie",
+      "latitude": 50.091015,
+      "longitude": 14.483356
+    },
+    {
+      "name": "Všobecný lékař",
+      "latitude": 49.993878,
+      "longitude": 14.740189
+    },
+    {
+      "name": "Zdavotní středisko Mirošov",
+      "latitude": 49.687704,
+      "longitude": 13.658024
+    },
+    {
+      "name": "Zdeněk Mílata",
+      "latitude": 50.196152,
+      "longitude": 15.838015
+    },
+    {
+      "name": "Zdravotnická společnost na Pražské třídě, spol. s r.o.",
+      "latitude": 48.984268,
+      "longitude": 14.471264
+    },
+    {
+      "name": "Zdravotnické služby Šumava - Ordinace Hartmanice",
+      "latitude": 49.169476,
+      "longitude": 13.455172
+    },
+    {
+      "name": "Zdravotnické služby Šumava - Ordinace Kašperské Hory",
+      "latitude": 49.142483,
+      "longitude": 13.554648
+    },
+    {
+      "name": "Zdravotnické středisko",
+      "latitude": 49.896278,
+      "longitude": 14.492544
+    },
+    {
+      "name": "Zdravotnické zařízení Troilova",
+      "latitude": 50.083999,
+      "longitude": 14.502719
+    },
+    {
+      "name": "Zdravotní střediko Slatiňany",
+      "latitude": 49.91978,
+      "longitude": 15.811573
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 48.788259,
+      "longitude": 14.781066
+    },
+    {
+      "name": "zdravotní středisko",
+      "latitude": 48.795,
+      "longitude": 16.17405
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 48.915877,
+      "longitude": 17.100087
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 48.969508,
+      "longitude": 17.593321
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.020204,
+      "longitude": 15.099425
+    },
+    {
+      "name": "zdravotní středisko",
+      "latitude": 49.034054,
+      "longitude": 17.338609
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.048455,
+      "longitude": 17.582314
+    },
+    {
+      "name": "zdravotní středisko",
+      "latitude": 49.069961,
+      "longitude": 16.465039
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.094746,
+      "longitude": 15.891413
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.11812,
+      "longitude": 15.191678
+    },
+    {
+      "name": "zdravotní středisko",
+      "latitude": 49.171988,
+      "longitude": 17.511039
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.209134,
+      "longitude": 16.79077
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.210857,
+      "longitude": 16.627542
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.225439,
+      "longitude": 16.530403
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.351642,
+      "longitude": 18.237663
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.371292,
+      "longitude": 16.645081
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.412378,
+      "longitude": 16.583725
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.47831,
+      "longitude": 15.651548
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.508177,
+      "longitude": 16.519471
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.51006,
+      "longitude": 12.797472
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.599557,
+      "longitude": 18.516463
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.615351,
+      "longitude": 17.392841
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.674246,
+      "longitude": 17.227376
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.682447,
+      "longitude": 18.650621
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.729789,
+      "longitude": 18.234935
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.774285,
+      "longitude": 17.749265
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.784829,
+      "longitude": 13.97791
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.896532,
+      "longitude": 18.546633
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.905054,
+      "longitude": 12.971629
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.911279,
+      "longitude": 16.925496
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.945408,
+      "longitude": 17.016987
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.958313,
+      "longitude": 18.036485
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.032117,
+      "longitude": 17.038094
+    },
+    {
+      "name": "zdravotní středisko",
+      "latitude": 50.033656,
+      "longitude": 16.508707
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.492456,
+      "longitude": 14.148861
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.685494,
+      "longitude": 15.148468
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.686359,
+      "longitude": 15.401616
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.992563,
+      "longitude": 14.575646
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.99514,
+      "longitude": 14.577007
+    },
+    {
+      "name": "Zdravotní středisko Bánskobystrická",
+      "latitude": 49.242933,
+      "longitude": 16.582503
+    },
+    {
+      "name": "Zdravotní středisko Deštná",
+      "latitude": 49.265842,
+      "longitude": 14.922224
+    },
+    {
+      "name": "Zdravotní středisko Dolní Bojanovice",
+      "latitude": 48.861897,
+      "longitude": 17.024971
+    },
+    {
+      "name": "Zdravotní středisko Jankovice",
+      "latitude": 49.153907,
+      "longitude": 17.388105
+    },
+    {
+      "name": "Zdravotní středisko Kbely",
+      "latitude": 50.133944,
+      "longitude": 14.54988
+    },
+    {
+      "name": "Zdravotní středisko Kněžmost",
+      "latitude": 50.491568,
+      "longitude": 15.036349
+    },
+    {
+      "name": "zdravotní středisko Mudr. Kebrlová",
+      "latitude": 48.954,
+      "longitude": 17.15179
+    },
+    {
+      "name": "Zdravotní středisko Vesec",
+      "latitude": 50.738633,
+      "longitude": 15.061922
+    },
+    {
+      "name": "Zdravotní středisko Vránova",
+      "latitude": 49.247646,
+      "longitude": 16.580715
+    },
+    {
+      "name": "Zdravotní středisko Říčany",
+      "latitude": 49.214601,
+      "longitude": 16.398615
+    },
+    {
+      "name": "Zdravotní ústav se sídlem v Ústí nad Labem",
+      "latitude": 50.075139,
+      "longitude": 14.415626
+    },
+    {
+      "name": "Zdravotníci pod Lysou",
+      "latitude": 49.582752,
+      "longitude": 18.35906
+    },
+    {
+      "name": "Zdravotnî středisko",
+      "latitude": 49.151776,
+      "longitude": 16.493508
+    },
+    {
+      "name": "zubař",
+      "latitude": 48.852902,
+      "longitude": 14.214426
+    },
+    {
+      "name": "zubní laboratoř",
+      "latitude": 49.973202,
+      "longitude": 14.394269
+    },
+    {
+      "name": "Zubní Lékař",
+      "latitude": 48.779714,
+      "longitude": 14.295957
+    },
+    {
+      "name": "Zubní pohotovost",
+      "latitude": 50.028807,
+      "longitude": 15.790075
+    },
+    {
+      "name": "Ärztehaus",
+      "latitude": 50.49754,
+      "longitude": 13.028101
+    },
+    {
+      "name": "Úrazová chirurgie (traumatologie)",
+      "latitude": 50.028459,
+      "longitude": 15.788987
+    },
+    {
+      "name": "Úsek centrálního nákupu",
+      "latitude": 50.0296,
+      "longitude": 15.78902
+    },
+    {
+      "name": "Ústní, čelistní a obličejová chirurgie",
+      "latitude": 50.028699,
+      "longitude": 15.790102
+    },
+    {
+      "name": "Ředitelství",
+      "latitude": 50.029573,
+      "longitude": 15.788792
+    },
+    {
+      "name": "Štěpánka Hanousková",
+      "latitude": 50.200391,
+      "longitude": 15.848601
+    },
+    {
+      "name": "Šárka Novotná",
+      "latitude": 50.196119,
+      "longitude": 15.837998
+    }
+  ],
+  "meta": {
+    "title": "České lékařské ordinace - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných lékařských ordinací v Česku (amenity=doctors) z OpenStreetMap. Obsahuje 1011 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "České lékařské ordinace | ListBase",
+    "seo_description": "Stáhnout České lékařské ordinace — 1011 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1011 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "cs-kraje",
+  "name": "Kraje České republiky",
+  "title": "Kraje České republiky",
+  "description": "14 vyšších územních samosprávných celků (krajů) České republiky podle zákona č. 347/1997 Sb. Obsahuje národní kód, NUTS3 kód a oficiální název. Zdroj: oficiální geodata INSPIRE z data.gov.cz.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "national_code",
+      "label": "National Code",
+      "type": "number"
+    },
+    {
+      "key": "local_id",
+      "label": "Local Id",
+      "type": "string"
+    },
+    {
+      "key": "nuts_code",
+      "label": "Nuts Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "national_code": "108",
+      "local_id": "AU.2.108",
+      "nuts_code": "CZ0630000000",
+      "name": "Kraj Vysočina",
+      "slug": "vysocina",
+      "name_en": "Vysočina"
+    },
+    {
+      "national_code": "116",
+      "local_id": "AU.2.116",
+      "nuts_code": "CZ0640000000",
+      "name": "Jihomoravský kraj",
+      "slug": "jihomoravsky",
+      "name_en": "South Moravia"
+    },
+    {
+      "national_code": "124",
+      "local_id": "AU.2.124",
+      "nuts_code": "CZ0710000000",
+      "name": "Olomoucký kraj",
+      "slug": "olomoucky",
+      "name_en": "Olomouc"
+    },
+    {
+      "national_code": "132",
+      "local_id": "AU.2.132",
+      "nuts_code": "CZ0800000000",
+      "name": "Moravskoslezský kraj",
+      "slug": "moravskoslezsky",
+      "name_en": "Moravian-Silesian"
+    },
+    {
+      "national_code": "141",
+      "local_id": "AU.2.141",
+      "nuts_code": "CZ0720000000",
+      "name": "Zlínský kraj",
+      "slug": "zlinsky",
+      "name_en": "Zlín"
+    },
+    {
+      "national_code": "19",
+      "local_id": "AU.2.19",
+      "nuts_code": "CZ0100000000",
+      "name": "Hlavní město Praha",
+      "slug": "praha",
+      "name_en": "Prague"
+    },
+    {
+      "national_code": "27",
+      "local_id": "AU.2.27",
+      "nuts_code": "CZ0200000000",
+      "name": "Středočeský kraj",
+      "slug": "stredocesky",
+      "name_en": "Central Bohemia"
+    },
+    {
+      "national_code": "35",
+      "local_id": "AU.2.35",
+      "nuts_code": "CZ0310000000",
+      "name": "Jihočeský kraj",
+      "slug": "jihocesky",
+      "name_en": "South Bohemia"
+    },
+    {
+      "national_code": "43",
+      "local_id": "AU.2.43",
+      "nuts_code": "CZ0320000000",
+      "name": "Plzeňský kraj",
+      "slug": "plzensky",
+      "name_en": "Pilsen"
+    },
+    {
+      "national_code": "51",
+      "local_id": "AU.2.51",
+      "nuts_code": "CZ0410000000",
+      "name": "Karlovarský kraj",
+      "slug": "karlovarsky",
+      "name_en": "Karlovy Vary"
+    },
+    {
+      "national_code": "60",
+      "local_id": "AU.2.60",
+      "nuts_code": "CZ0420000000",
+      "name": "Ústecký kraj",
+      "slug": "ustecky",
+      "name_en": "Ústí nad Labem"
+    },
+    {
+      "national_code": "78",
+      "local_id": "AU.2.78",
+      "nuts_code": "CZ0510000000",
+      "name": "Liberecký kraj",
+      "slug": "liberecky",
+      "name_en": "Liberec"
+    },
+    {
+      "national_code": "86",
+      "local_id": "AU.2.86",
+      "nuts_code": "CZ0520000000",
+      "name": "Královéhradecký kraj",
+      "slug": "kralovehradecky",
+      "name_en": "Hradec Králové"
+    },
+    {
+      "national_code": "94",
+      "local_id": "AU.2.94",
+      "nuts_code": "CZ0530000000",
+      "name": "Pardubický kraj",
+      "slug": "pardubicky",
+      "name_en": "Pardubice"
+    }
+  ],
+  "meta": {
+    "title": "Kraje České republiky - Stáhnout zdarma",
+    "description": "14 vyšších územních samosprávných celků (krajů) České republiky podle zákona č. 347/1997 Sb. Obsahuje národní kód, NUTS3 kód a oficiální název. Zdroj: oficiální geodata INSPIRE z data.gov.cz. Obsahuje 14 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Kraje České republiky | ListBase",
+    "seo_description": "Stáhnout Kraje České republiky — 14 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 14 záznamů / 6 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

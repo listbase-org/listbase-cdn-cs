@@ -1,0 +1,1346 @@
+{
+  "id": "cs-nemocnice",
+  "name": "Nemocnice",
+  "title": "Nemocnice",
+  "description": "Nemocnice v České republice (261 záznamů) — body zájmu z OpenStreetMap (tag amenity=hospital), výřez EU-POIS/CZ.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 261,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A - stará polikliknika",
+      "latitude": 49.463125,
+      "longitude": 17.977162
+    },
+    {
+      "name": "Ambulantní zařízení",
+      "latitude": 49.90332,
+      "longitude": 16.439894
+    },
+    {
+      "name": "AMEM klinika estetické a plastické medicíny",
+      "latitude": 49.226885,
+      "longitude": 17.665163
+    },
+    {
+      "name": "AMEM klinika estetické medicíny a plastické chirurgie",
+      "latitude": 49.463101,
+      "longitude": 17.976668
+    },
+    {
+      "name": "Asklepios Fachklinik Hohwald",
+      "latitude": 51.047203,
+      "longitude": 14.289935
+    },
+    {
+      "name": "Asklepios Klinik Sebnitz",
+      "latitude": 50.982996,
+      "longitude": 14.266561
+    },
+    {
+      "name": "Bohumínská městská nemocnice",
+      "latitude": 49.918049,
+      "longitude": 18.337148
+    },
+    {
+      "name": "C - lůžkové oddělení východ",
+      "latitude": 49.462564,
+      "longitude": 17.977398
+    },
+    {
+      "name": "Centrum biologické ochrany",
+      "latitude": 50.060309,
+      "longitude": 16.612253
+    },
+    {
+      "name": "Centrum nukleární medicíny",
+      "latitude": 50.107957,
+      "longitude": 14.495352
+    },
+    {
+      "name": "Chrudimská nemocnice",
+      "latitude": 49.941829,
+      "longitude": 15.807882
+    },
+    {
+      "name": "D - lůžkové oddělení západ",
+      "latitude": 49.462582,
+      "longitude": 17.976651
+    },
+    {
+      "name": "Domov pod Kuňkou",
+      "latitude": 50.071099,
+      "longitude": 15.804559
+    },
+    {
+      "name": "Dětská léčebna Cvikov",
+      "latitude": 50.786233,
+      "longitude": 14.638317
+    },
+    {
+      "name": "Dětská léčebna Dr. Filipa",
+      "latitude": 50.146998,
+      "longitude": 15.119435
+    },
+    {
+      "name": "Dětská Nemocnice",
+      "latitude": 49.011201,
+      "longitude": 17.126156
+    },
+    {
+      "name": "Dětská nemocnice",
+      "latitude": 49.203782,
+      "longitude": 16.61713
+    },
+    {
+      "name": "Dětské oční ambulance",
+      "latitude": 50.01995,
+      "longitude": 15.193908
+    },
+    {
+      "name": "Dětský areál Karlov",
+      "latitude": 50.070097,
+      "longitude": 14.42915
+    },
+    {
+      "name": "E -  lůžkové oddělení dětské + rehabilitační oddělení",
+      "latitude": 49.462772,
+      "longitude": 17.976344
+    },
+    {
+      "name": "Fakultní nemocnice",
+      "latitude": 50.199341,
+      "longitude": 15.827644
+    },
+    {
+      "name": "Fakultní nemocnice Bohunice",
+      "latitude": 49.176167,
+      "longitude": 16.574192
+    },
+    {
+      "name": "Fakultní nemocnice Bulovka",
+      "latitude": 50.115934,
+      "longitude": 14.46173
+    },
+    {
+      "name": "Fakultní nemocnice Královské Vinohrady",
+      "latitude": 50.075015,
+      "longitude": 14.478601
+    },
+    {
+      "name": "Fakultní Nemocnice Motol a Homolka",
+      "latitude": 50.073035,
+      "longitude": 14.342649
+    },
+    {
+      "name": "Fakultní nemocnice Olomouc",
+      "latitude": 49.583923,
+      "longitude": 17.23591
+    },
+    {
+      "name": "Fakultní nemocnice Ostrava",
+      "latitude": 49.828059,
+      "longitude": 18.158729
+    },
+    {
+      "name": "Fakultní nemocnice Plzeň",
+      "latitude": 49.732469,
+      "longitude": 13.376518
+    },
+    {
+      "name": "Fakultní nemocnice Plzeň",
+      "latitude": 49.762145,
+      "longitude": 13.380358
+    },
+    {
+      "name": "Fakultní nemocnice u svaté Anny",
+      "latitude": 49.189155,
+      "longitude": 16.590189
+    },
+    {
+      "name": "FN u sv. Anny",
+      "latitude": 49.188792,
+      "longitude": 16.601596
+    },
+    {
+      "name": "FN u sv. Anny - Doléčovací a rehabilitační oddělení",
+      "latitude": 49.183352,
+      "longitude": 16.560416
+    },
+    {
+      "name": "G - nová poliklinika",
+      "latitude": 49.46314,
+      "longitude": 17.976261
+    },
+    {
+      "name": "Hamzova dětská léčebna",
+      "latitude": 49.88583,
+      "longitude": 16.031802
+    },
+    {
+      "name": "Hornická nemocnice s poliklinikou",
+      "latitude": 50.5409,
+      "longitude": 13.783917
+    },
+    {
+      "name": "Horní areál Nemocnice České Budějovice",
+      "latitude": 48.959278,
+      "longitude": 14.466622
+    },
+    {
+      "name": "Hospic v Mostě",
+      "latitude": 50.508894,
+      "longitude": 13.622822
+    },
+    {
+      "name": "IKEM",
+      "latitude": 50.023112,
+      "longitude": 14.463107
+    },
+    {
+      "name": "Interna",
+      "latitude": 49.882412,
+      "longitude": 16.863377
+    },
+    {
+      "name": "IV. Poliklinika",
+      "latitude": 49.754743,
+      "longitude": 13.416713
+    },
+    {
+      "name": "Karlovarská krajská nemocnice a.s.",
+      "latitude": 50.233286,
+      "longitude": 12.875803
+    },
+    {
+      "name": "Karvinská hornická nemocnice a.s.",
+      "latitude": 49.869438,
+      "longitude": 18.540292
+    },
+    {
+      "name": "Klaudiánova nemocnice",
+      "latitude": 50.418076,
+      "longitude": 14.90991
+    },
+    {
+      "name": "Klinikum Oberlausitzer Bergland",
+      "latitude": 51.004969,
+      "longitude": 14.569733
+    },
+    {
+      "name": "Krajská nemocnice Liberec",
+      "latitude": 50.769875,
+      "longitude": 15.064361
+    },
+    {
+      "name": "Krajská nemocnice Tomáše Bati",
+      "latitude": 49.228616,
+      "longitude": 17.698291
+    },
+    {
+      "name": "Krnovská nemocnice",
+      "latitude": 50.095954,
+      "longitude": 17.688042
+    },
+    {
+      "name": "Landesklinikum Gmünd",
+      "latitude": 48.761287,
+      "longitude": 14.975617
+    },
+    {
+      "name": "LDN",
+      "latitude": 49.882209,
+      "longitude": 16.86258
+    },
+    {
+      "name": "LDN",
+      "latitude": 50.422399,
+      "longitude": 14.254678
+    },
+    {
+      "name": "LDN",
+      "latitude": 50.524261,
+      "longitude": 14.981431
+    },
+    {
+      "name": "LDN",
+      "latitude": 50.740971,
+      "longitude": 15.301805
+    },
+    {
+      "name": "Lečební ústav Červená Voda",
+      "latitude": 50.044047,
+      "longitude": 16.736269
+    },
+    {
+      "name": "Litomyšlská nemocnice",
+      "latitude": 49.86471,
+      "longitude": 16.313696
+    },
+    {
+      "name": "Litoměřická nemocnice",
+      "latitude": 50.540965,
+      "longitude": 14.143475
+    },
+    {
+      "name": "Lužická nemocnice Rumburk",
+      "latitude": 50.948644,
+      "longitude": 14.546997
+    },
+    {
+      "name": "Léčebna dlouhodobě nemocných",
+      "latitude": 49.164876,
+      "longitude": 13.890308
+    },
+    {
+      "name": "Léčebna dlouhodobě nemocných",
+      "latitude": 49.818626,
+      "longitude": 18.352747
+    },
+    {
+      "name": "Léčebna dlouhodobě nemocných",
+      "latitude": 50.212126,
+      "longitude": 15.839919
+    },
+    {
+      "name": "Léčebna dlouhodobě nemocných",
+      "latitude": 50.269818,
+      "longitude": 16.112379
+    },
+    {
+      "name": "Léčebna dlouhodobě nemocných Rybitví",
+      "latitude": 50.059129,
+      "longitude": 15.702457
+    },
+    {
+      "name": "Léčebna dlouhodobě nemocných Vojkov",
+      "latitude": 49.984491,
+      "longitude": 14.716979
+    },
+    {
+      "name": "Léčebna respiračních chorob pro dospělé",
+      "latitude": 50.79063,
+      "longitude": 14.617508
+    },
+    {
+      "name": "Masarykova městská nemocnice",
+      "latitude": 50.611849,
+      "longitude": 15.499749
+    },
+    {
+      "name": "Masarykova nemocnice",
+      "latitude": 50.107905,
+      "longitude": 13.71626
+    },
+    {
+      "name": "Masarykova nemocnice",
+      "latitude": 50.678929,
+      "longitude": 14.021052
+    },
+    {
+      "name": "Masarykovo sanatorium",
+      "latitude": 49.789551,
+      "longitude": 14.152278
+    },
+    {
+      "name": "Masarykův onkologický ústav",
+      "latitude": 49.194569,
+      "longitude": 16.589438
+    },
+    {
+      "name": "Mulačova nemocnice",
+      "latitude": 49.727393,
+      "longitude": 13.369833
+    },
+    {
+      "name": "Městská nemocnice Duchcov",
+      "latitude": 50.608981,
+      "longitude": 13.742298
+    },
+    {
+      "name": "Městská nemocnice Městec Králové",
+      "latitude": 50.205394,
+      "longitude": 15.287811
+    },
+    {
+      "name": "Městská nemocnice Neratovice",
+      "latitude": 50.258694,
+      "longitude": 14.510604
+    },
+    {
+      "name": "Městská nemocnice následné péče",
+      "latitude": 50.107551,
+      "longitude": 14.495043
+    },
+    {
+      "name": "Městská nemocnice Ostrava Fifejdy",
+      "latitude": 49.833164,
+      "longitude": 18.275667
+    },
+    {
+      "name": "Městská nemocnice s poliklinikou Uh. Brod, s.r.o.",
+      "latitude": 49.02897,
+      "longitude": 17.65287
+    },
+    {
+      "name": "Městská nemocnice Slavičín",
+      "latitude": 49.090382,
+      "longitude": 17.873698
+    },
+    {
+      "name": "Městská nemocnice Čáslav",
+      "latitude": 49.904047,
+      "longitude": 15.401368
+    },
+    {
+      "name": "Nemocnice",
+      "latitude": 50.072536,
+      "longitude": 14.851685
+    },
+    {
+      "name": "Nemocnice - Informace",
+      "latitude": 49.475271,
+      "longitude": 17.08721
+    },
+    {
+      "name": "Nemocnice AGEL - Valašské Meziříčí",
+      "latitude": 49.462861,
+      "longitude": 17.977029
+    },
+    {
+      "name": "Nemocnice Agel Jeseník",
+      "latitude": 50.2281,
+      "longitude": 17.198101
+    },
+    {
+      "name": "nemocnice Atlas",
+      "latitude": 49.22277,
+      "longitude": 17.656925
+    },
+    {
+      "name": "Nemocnice Blansko",
+      "latitude": 49.362019,
+      "longitude": 16.653259
+    },
+    {
+      "name": "Nemocnice Boskovice",
+      "latitude": 49.490368,
+      "longitude": 16.644084
+    },
+    {
+      "name": "Nemocnice Brandýs nad Labem",
+      "latitude": 50.187477,
+      "longitude": 14.652298
+    },
+    {
+      "name": "Nemocnice Broumov",
+      "latitude": 50.581048,
+      "longitude": 16.333921
+    },
+    {
+      "name": "Nemocnice Bílovec",
+      "latitude": 49.762892,
+      "longitude": 18.016979
+    },
+    {
+      "name": "Nemocnice Břeclav",
+      "latitude": 48.752507,
+      "longitude": 16.879902
+    },
+    {
+      "name": "Nemocnice Cheb",
+      "latitude": 50.069744,
+      "longitude": 12.366496
+    },
+    {
+      "name": "Nemocnice Chomutov",
+      "latitude": 50.454413,
+      "longitude": 13.409812
+    },
+    {
+      "name": "Nemocnice Dačice",
+      "latitude": 49.076053,
+      "longitude": 15.431473
+    },
+    {
+      "name": "Nemocnice Domažlice",
+      "latitude": 49.438114,
+      "longitude": 12.908157
+    },
+    {
+      "name": "Nemocnice Děčín",
+      "latitude": 50.781392,
+      "longitude": 14.226074
+    },
+    {
+      "name": "Nemocnice Frýdek-Místek",
+      "latitude": 49.690807,
+      "longitude": 18.354884
+    },
+    {
+      "name": "Nemocnice Frýdlant",
+      "latitude": 50.926115,
+      "longitude": 15.087766
+    },
+    {
+      "name": "Nemocnice Havlíčkův Brod",
+      "latitude": 49.61023,
+      "longitude": 15.570222
+    },
+    {
+      "name": "Nemocnice Hořovice",
+      "latitude": 49.840298,
+      "longitude": 13.915698
+    },
+    {
+      "name": "Nemocnice Hranice",
+      "latitude": 49.555363,
+      "longitude": 17.746766
+    },
+    {
+      "name": "Nemocnice Hustopeče p.o.",
+      "latitude": 48.944874,
+      "longitude": 16.72978
+    },
+    {
+      "name": "Nemocnice Ivančice",
+      "latitude": 49.102484,
+      "longitude": 16.372856
+    },
+    {
+      "name": "Nemocnice Jablonec nad Nisou",
+      "latitude": 50.729815,
+      "longitude": 15.15903
+    },
+    {
+      "name": "Nemocnice Jindřichův Hradec",
+      "latitude": 49.139711,
+      "longitude": 15.004848
+    },
+    {
+      "name": "Nemocnice Jindřichův Hradec, a.s.",
+      "latitude": 49.138997,
+      "longitude": 15.003489
+    },
+    {
+      "name": "Nemocnice Jičín",
+      "latitude": 50.44005,
+      "longitude": 15.356276
+    },
+    {
+      "name": "Nemocnice Klatovy",
+      "latitude": 49.403681,
+      "longitude": 13.292407
+    },
+    {
+      "name": "Nemocnice Kralupy",
+      "latitude": 50.242915,
+      "longitude": 14.312483
+    },
+    {
+      "name": "Nemocnice Kroměříž budova A",
+      "latitude": 49.292291,
+      "longitude": 17.378665
+    },
+    {
+      "name": "Nemocnice Kutná Hora",
+      "latitude": 49.946192,
+      "longitude": 15.253501
+    },
+    {
+      "name": "Nemocnice Kyjov",
+      "latitude": 49.008312,
+      "longitude": 17.112337
+    },
+    {
+      "name": "Nemocnice Louny",
+      "latitude": 50.349655,
+      "longitude": 13.808968
+    },
+    {
+      "name": "Nemocnice Mariánské Lázně",
+      "latitude": 49.960901,
+      "longitude": 12.704088
+    },
+    {
+      "name": "Nemocnice Milosrdných bratří",
+      "latitude": 49.185111,
+      "longitude": 16.596291
+    },
+    {
+      "name": "Nemocnice Milosrdných bratří",
+      "latitude": 49.21917,
+      "longitude": 17.850511
+    },
+    {
+      "name": "Nemocnice Milosrdných bratří Letovice",
+      "latitude": 49.545227,
+      "longitude": 16.580488
+    },
+    {
+      "name": "Nemocnice Milosrdných sester sv. Karla Boromejského v Praze",
+      "latitude": 50.0869,
+      "longitude": 14.395596
+    },
+    {
+      "name": "Nemocnice Most, o.z.",
+      "latitude": 50.506121,
+      "longitude": 13.628087
+    },
+    {
+      "name": "Nemocnice Mělník",
+      "latitude": 50.347383,
+      "longitude": 14.485213
+    },
+    {
+      "name": "Nemocnice Na Františku",
+      "latitude": 50.092427,
+      "longitude": 14.421256
+    },
+    {
+      "name": "Nemocnice Na Pleši",
+      "latitude": 49.834078,
+      "longitude": 14.286198
+    },
+    {
+      "name": "Nemocnice Na Podolí",
+      "latitude": 50.357039,
+      "longitude": 14.475532
+    },
+    {
+      "name": "Nemocnice Na Strahově",
+      "latitude": 50.079183,
+      "longitude": 14.391131
+    },
+    {
+      "name": "Nemocnice na Žižkově",
+      "latitude": 50.081742,
+      "longitude": 14.447887
+    },
+    {
+      "name": "Nemocnice Nové Město na Moravě",
+      "latitude": 49.561043,
+      "longitude": 16.063327
+    },
+    {
+      "name": "Nemocnice Nový Bydžov",
+      "latitude": 50.242692,
+      "longitude": 15.481648
+    },
+    {
+      "name": "Nemocnice Nový Jičín",
+      "latitude": 49.588747,
+      "longitude": 18.006113
+    },
+    {
+      "name": "Nemocnice Nymburk",
+      "latitude": 50.187292,
+      "longitude": 15.037273
+    },
+    {
+      "name": "Nemocnice Náchod - Horní areál",
+      "latitude": 50.40667,
+      "longitude": 16.1646
+    },
+    {
+      "name": "Nemocnice následné péče",
+      "latitude": 50.516428,
+      "longitude": 13.633531
+    },
+    {
+      "name": "Nemocnice následné péče",
+      "latitude": 50.527892,
+      "longitude": 15.371713
+    },
+    {
+      "name": "Nemocnice následné péče LDN Horažďovice s.r.o.",
+      "latitude": 49.323885,
+      "longitude": 13.70805
+    },
+    {
+      "name": "Nemocnice následné péče Svatá Anna",
+      "latitude": 49.879716,
+      "longitude": 12.721995
+    },
+    {
+      "name": "Nemocnice Odry",
+      "latitude": 49.665718,
+      "longitude": 17.827716
+    },
+    {
+      "name": "Nemocnice Ostrov",
+      "latitude": 50.312231,
+      "longitude": 12.963898
+    },
+    {
+      "name": "Nemocnice Pelhřimov",
+      "latitude": 49.434717,
+      "longitude": 15.230188
+    },
+    {
+      "name": "Nemocnice Podlesí, a.s.",
+      "latitude": 49.681118,
+      "longitude": 18.641301
+    },
+    {
+      "name": "Nemocnice Prachatice",
+      "latitude": 49.006919,
+      "longitude": 14.011395
+    },
+    {
+      "name": "Nemocnice Prostějov",
+      "latitude": 49.475859,
+      "longitude": 17.086125
+    },
+    {
+      "name": "Nemocnice Písek, a.s.",
+      "latitude": 49.30223,
+      "longitude": 14.156892
+    },
+    {
+      "name": "Nemocnice Přerov",
+      "latitude": 49.457645,
+      "longitude": 17.474003
+    },
+    {
+      "name": "Nemocnice Rokycany",
+      "latitude": 49.749259,
+      "longitude": 13.604316
+    },
+    {
+      "name": "Nemocnice Roudnice nad Labem",
+      "latitude": 50.422432,
+      "longitude": 14.247749
+    },
+    {
+      "name": "Nemocnice Roztoky",
+      "latitude": 50.157482,
+      "longitude": 14.394942
+    },
+    {
+      "name": "Nemocnice Rudolfa a Stefanie Benešov",
+      "latitude": 49.787158,
+      "longitude": 14.679849
+    },
+    {
+      "name": "Nemocnice s poliklinikou Havířov",
+      "latitude": 49.784515,
+      "longitude": 18.440176
+    },
+    {
+      "name": "Nemocnice s poliklinikou Kadaň",
+      "latitude": 50.391218,
+      "longitude": 13.270477
+    },
+    {
+      "name": "Nemocnice s poliklinikou Karviná-Ráj",
+      "latitude": 49.848466,
+      "longitude": 18.549646
+    },
+    {
+      "name": "Nemocnice s poliklinikou Karviná-Ráj pracoviště Orlová",
+      "latitude": 49.875471,
+      "longitude": 18.434516
+    },
+    {
+      "name": "Nemocnice Sedlčany",
+      "latitude": 49.658887,
+      "longitude": 14.426216
+    },
+    {
+      "name": "Nemocnice Semily",
+      "latitude": 50.597599,
+      "longitude": 15.352917
+    },
+    {
+      "name": "Nemocnice Slaný",
+      "latitude": 50.234558,
+      "longitude": 14.083711
+    },
+    {
+      "name": "Nemocnice Sokolov",
+      "latitude": 50.177931,
+      "longitude": 12.651904
+    },
+    {
+      "name": "Nemocnice Strakonice",
+      "latitude": 49.266064,
+      "longitude": 13.907082
+    },
+    {
+      "name": "Nemocnice svaté Alžběty",
+      "latitude": 50.069532,
+      "longitude": 14.420989
+    },
+    {
+      "name": "Nemocnice Svaté Zdislavy",
+      "latitude": 49.391634,
+      "longitude": 16.008171
+    },
+    {
+      "name": "Nemocnice Tanvald",
+      "latitude": 50.740162,
+      "longitude": 15.301797
+    },
+    {
+      "name": "Nemocnice Teplice",
+      "latitude": 50.636037,
+      "longitude": 13.810345
+    },
+    {
+      "name": "Nemocnice TGM Hodonín",
+      "latitude": 48.864197,
+      "longitude": 17.145974
+    },
+    {
+      "name": "Nemocnice Tábor, a.s.",
+      "latitude": 49.416816,
+      "longitude": 14.652801
+    },
+    {
+      "name": "Nemocnice Třebotov",
+      "latitude": 49.971077,
+      "longitude": 14.295574
+    },
+    {
+      "name": "Nemocnice Třebíč",
+      "latitude": 49.212887,
+      "longitude": 15.893168
+    },
+    {
+      "name": "Nemocnice Třinec",
+      "latitude": 49.674857,
+      "longitude": 18.689996
+    },
+    {
+      "name": "Nemocnice v Podhájí",
+      "latitude": 50.945599,
+      "longitude": 14.541786
+    },
+    {
+      "name": "Nemocnice Valašské Meziříčí",
+      "latitude": 49.462575,
+      "longitude": 17.976491
+    },
+    {
+      "name": "Nemocnice Valtice",
+      "latitude": 48.743339,
+      "longitude": 16.759608
+    },
+    {
+      "name": "Nemocnice Varnsdorf",
+      "latitude": 50.893793,
+      "longitude": 14.611838
+    },
+    {
+      "name": "Nemocnice Vimperk a.s.",
+      "latitude": 49.056858,
+      "longitude": 13.764363
+    },
+    {
+      "name": "Nemocnice Vrchlabí",
+      "latitude": 50.622088,
+      "longitude": 15.607363
+    },
+    {
+      "name": "Nemocnice Vsetín",
+      "latitude": 49.331898,
+      "longitude": 17.998981
+    },
+    {
+      "name": "Nemocnice Vysoké Mýto",
+      "latitude": 49.955039,
+      "longitude": 16.151893
+    },
+    {
+      "name": "Nemocnice Vyškov",
+      "latitude": 49.27778,
+      "longitude": 16.980644
+    },
+    {
+      "name": "Nemocnice Vítkov",
+      "latitude": 49.786264,
+      "longitude": 17.761859
+    },
+    {
+      "name": "Nemocnice Znojmo",
+      "latitude": 48.86918,
+      "longitude": 16.051108
+    },
+    {
+      "name": "Nemocnice Česká Lípa",
+      "latitude": 50.685496,
+      "longitude": 14.54934
+    },
+    {
+      "name": "Nemocnice Český Krumlov",
+      "latitude": 48.812006,
+      "longitude": 14.325417
+    },
+    {
+      "name": "Nemocnice Český Těšín",
+      "latitude": 49.746299,
+      "longitude": 18.610522
+    },
+    {
+      "name": "Nemocnice Říčany",
+      "latitude": 49.995619,
+      "longitude": 14.67544
+    },
+    {
+      "name": "Nemocnice Žatec",
+      "latitude": 50.319538,
+      "longitude": 13.538011
+    },
+    {
+      "name": "Oblastní nemocnice Kladno",
+      "latitude": 50.140936,
+      "longitude": 14.088138
+    },
+    {
+      "name": "Oblastní nemocnice Kolín",
+      "latitude": 50.019793,
+      "longitude": 15.194459
+    },
+    {
+      "name": "Oblastní nemocnice Náchod",
+      "latitude": 50.409951,
+      "longitude": 16.167278
+    },
+    {
+      "name": "Oblastní nemocnice Náchod - Nemocnice Jaroměř",
+      "latitude": 50.3574,
+      "longitude": 15.906016
+    },
+    {
+      "name": "Oblastní nemocnice Příbram - areál I",
+      "latitude": 49.692488,
+      "longitude": 14.010597
+    },
+    {
+      "name": "Oblastní nemocnice Příbram - areál II",
+      "latitude": 49.674219,
+      "longitude": 13.988627
+    },
+    {
+      "name": "Oblastní nemocnice Rychnov nad Kněžnou",
+      "latitude": 50.168648,
+      "longitude": 16.270934
+    },
+    {
+      "name": "Oblastní Nemocnice Trutnov a.s.",
+      "latitude": 50.559951,
+      "longitude": 15.919218
+    },
+    {
+      "name": "Odborný léčebný ústav Jevíčko - Sanatorium",
+      "latitude": 49.633929,
+      "longitude": 16.667848
+    },
+    {
+      "name": "Odborný léčebný ústav Paseka o.p.",
+      "latitude": 49.807983,
+      "longitude": 17.227904
+    },
+    {
+      "name": "Olivova dětská léčebna",
+      "latitude": 49.989433,
+      "longitude": 14.689317
+    },
+    {
+      "name": "Orlickoústecká Nemocnice",
+      "latitude": 49.969876,
+      "longitude": 16.40263
+    },
+    {
+      "name": "Panochova nemocnice Turnov",
+      "latitude": 50.589013,
+      "longitude": 15.169479
+    },
+    {
+      "name": "Pardubická krajská nemocnice",
+      "latitude": 50.029188,
+      "longitude": 15.788196
+    },
+    {
+      "name": "Pavilon A - Plicní oddělení",
+      "latitude": 49.475185,
+      "longitude": 17.088368
+    },
+    {
+      "name": "Pavilon C",
+      "latitude": 49.475076,
+      "longitude": 17.087491
+    },
+    {
+      "name": "Pavilon D - Dětské",
+      "latitude": 49.474884,
+      "longitude": 17.088148
+    },
+    {
+      "name": "Pavilon E - Pohotovost",
+      "latitude": 49.47528,
+      "longitude": 17.086852
+    },
+    {
+      "name": "Pečovatelský dům",
+      "latitude": 50.512527,
+      "longitude": 13.649555
+    },
+    {
+      "name": "Podhorská nemocnice",
+      "latitude": 49.994975,
+      "longitude": 17.47007
+    },
+    {
+      "name": "Podhorská nemocnice a.s.",
+      "latitude": 49.931674,
+      "longitude": 17.262224
+    },
+    {
+      "name": "Podkrušnohorská nemocnice následné péče",
+      "latitude": 50.604171,
+      "longitude": 13.613296
+    },
+    {
+      "name": "Pohotovostní služba",
+      "latitude": 49.35295,
+      "longitude": 16.021491
+    },
+    {
+      "name": "Poliklinika Hlučín",
+      "latitude": 49.899511,
+      "longitude": 18.186593
+    },
+    {
+      "name": "Poliklinika Plzeň",
+      "latitude": 49.745737,
+      "longitude": 13.392968
+    },
+    {
+      "name": "Poliklinika Poděbrady",
+      "latitude": 50.145112,
+      "longitude": 15.129832
+    },
+    {
+      "name": "Poliklinika Vltavínská",
+      "latitude": 49.204145,
+      "longitude": 15.878801
+    },
+    {
+      "name": "Porodnice Lochotín",
+      "latitude": 49.762428,
+      "longitude": 13.377454
+    },
+    {
+      "name": "Porodnice Obilní trh",
+      "latitude": 49.198817,
+      "longitude": 16.596271
+    },
+    {
+      "name": "Privamed",
+      "latitude": 49.765012,
+      "longitude": 13.359122
+    },
+    {
+      "name": "Psychiatrická léčebna Lnáře",
+      "latitude": 49.452327,
+      "longitude": 13.796473
+    },
+    {
+      "name": "Psychiatrická léčebna Petrohrad",
+      "latitude": 50.12591,
+      "longitude": 13.442629
+    },
+    {
+      "name": "Psychiatrická léčebna Červený Dvůr",
+      "latitude": 48.846116,
+      "longitude": 14.230115
+    },
+    {
+      "name": "Psychiatrická nemocnice",
+      "latitude": 49.614312,
+      "longitude": 15.563257
+    },
+    {
+      "name": "Psychiatrická nemocnice Bohnice",
+      "latitude": 50.135464,
+      "longitude": 14.420564
+    },
+    {
+      "name": "Psychiatrická nemocnice Brno",
+      "latitude": 49.183054,
+      "longitude": 16.638969
+    },
+    {
+      "name": "Psychiatrická nemocnice Brno - Detašované pracoviště Slavkov u Brna",
+      "latitude": 49.1511,
+      "longitude": 16.87826
+    },
+    {
+      "name": "Psychiatrická nemocnice Horní Beřkovice",
+      "latitude": 50.358067,
+      "longitude": 14.350741
+    },
+    {
+      "name": "Psychiatrická nemocnice Jihlava",
+      "latitude": 49.395366,
+      "longitude": 15.60278
+    },
+    {
+      "name": "Psychiatrická nemocnice Kosmonosy",
+      "latitude": 50.443351,
+      "longitude": 14.92729
+    },
+    {
+      "name": "Psychiatrická nemocnice Kosmonosy - pobočka Sadská",
+      "latitude": 50.154034,
+      "longitude": 14.984063
+    },
+    {
+      "name": "Psychiatrická nemocnice Kosmonosy, pracoviště Sadská",
+      "latitude": 50.151996,
+      "longitude": 14.981593
+    },
+    {
+      "name": "Psychiatrická nemocnice v Kroměříži",
+      "latitude": 49.293748,
+      "longitude": 17.376958
+    },
+    {
+      "name": "Psychiatrická nemocnice v Dobřanech",
+      "latitude": 49.644531,
+      "longitude": 13.285738
+    },
+    {
+      "name": "Rehabilitační Nemocnice Beroun",
+      "latitude": 49.964695,
+      "longitude": 14.095756
+    },
+    {
+      "name": "Rehabilitační ústav",
+      "latitude": 50.003823,
+      "longitude": 16.281348
+    },
+    {
+      "name": "Rehabilitační ústav Hrabyně. Pracoviště Chuchelná",
+      "latitude": 49.988888,
+      "longitude": 18.1164
+    },
+    {
+      "name": "Rehamedica Žacléř",
+      "latitude": 50.650842,
+      "longitude": 15.908804
+    },
+    {
+      "name": "REHOS Nejdek",
+      "latitude": 50.329079,
+      "longitude": 12.741352
+    },
+    {
+      "name": "Rescue point",
+      "latitude": 49.742572,
+      "longitude": 12.410075
+    },
+    {
+      "name": "Sanus",
+      "latitude": 50.204232,
+      "longitude": 15.823123
+    },
+    {
+      "name": "Slezská nemocnice v Opavě",
+      "latitude": 49.935116,
+      "longitude": 17.878694
+    },
+    {
+      "name": "Stará fakultní nemocnice",
+      "latitude": 50.208596,
+      "longitude": 15.84101
+    },
+    {
+      "name": "Stodská nemocnice",
+      "latitude": 49.636379,
+      "longitude": 13.155045
+    },
+    {
+      "name": "Státní léčebné lázně Janské Lázně, s.p.",
+      "latitude": 50.63033,
+      "longitude": 15.780862
+    },
+    {
+      "name": "Sušická nemocnice",
+      "latitude": 49.230138,
+      "longitude": 13.525748
+    },
+    {
+      "name": "Svitavská nemocnice, a.s.",
+      "latitude": 49.753051,
+      "longitude": 16.469273
+    },
+    {
+      "name": "Swiss Medic Clinic",
+      "latitude": 49.869717,
+      "longitude": 12.749574
+    },
+    {
+      "name": "Szpital Rehabilitacyjny Onkologiczno-Hematologiczny dla Dzieci Orlik",
+      "latitude": 50.474592,
+      "longitude": 16.277955
+    },
+    {
+      "name": "Thomayerova nemocnice",
+      "latitude": 50.028456,
+      "longitude": 14.458845
+    },
+    {
+      "name": "Transfúzní oddělení FN Plzeň",
+      "latitude": 49.728658,
+      "longitude": 13.375597
+    },
+    {
+      "name": "Uherskohradišťská nemocnice",
+      "latitude": 49.063508,
+      "longitude": 17.453436
+    },
+    {
+      "name": "Vchod interna",
+      "latitude": 49.292368,
+      "longitude": 17.381044
+    },
+    {
+      "name": "Viamedica - chirurgie, gynekologie",
+      "latitude": 49.468842,
+      "longitude": 18.15354
+    },
+    {
+      "name": "Vojenská nemocnice",
+      "latitude": 49.202591,
+      "longitude": 16.630371
+    },
+    {
+      "name": "Vojenská nemocnice",
+      "latitude": 49.606468,
+      "longitude": 17.265594
+    },
+    {
+      "name": "Vojenská nemocnice",
+      "latitude": 50.089982,
+      "longitude": 14.361338
+    },
+    {
+      "name": "Vojenská nemocnice - chirurgie",
+      "latitude": 49.599191,
+      "longitude": 17.269817
+    },
+    {
+      "name": "Vysokomýtská nemocnice",
+      "latitude": 49.948456,
+      "longitude": 16.150083
+    },
+    {
+      "name": "Váš praktik Stěžery",
+      "latitude": 50.216021,
+      "longitude": 15.747387
+    },
+    {
+      "name": "Vítkovická nemocnice",
+      "latitude": 49.815301,
+      "longitude": 18.270662
+    },
+    {
+      "name": "Všeobecná fakultní nemocnice",
+      "latitude": 50.072791,
+      "longitude": 14.419878
+    },
+    {
+      "name": "Všeobecné oční ambulance",
+      "latitude": 50.019921,
+      "longitude": 15.193843
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.035486,
+      "longitude": 16.591832
+    },
+    {
+      "name": "zdravotní středisko",
+      "latitude": 50.044005,
+      "longitude": 17.589136
+    },
+    {
+      "name": "Zdravotní středisko Kozlany",
+      "latitude": 49.203201,
+      "longitude": 17.034275
+    },
+    {
+      "name": "Zdravotní středisko Oskava",
+      "latitude": 49.891414,
+      "longitude": 17.135024
+    },
+    {
+      "name": "Úrazová nemocnice v Brně",
+      "latitude": 49.197791,
+      "longitude": 16.615204
+    },
+    {
+      "name": "Ústav chirurgie ruky a plastické chirurgie Vysoké nad Jizerou",
+      "latitude": 50.682565,
+      "longitude": 15.404808
+    },
+    {
+      "name": "Ústav hematologie a krevní transfuze",
+      "latitude": 50.07468,
+      "longitude": 14.420927
+    },
+    {
+      "name": "Ústav leteckého zdravotnictví Praha",
+      "latitude": 50.098004,
+      "longitude": 14.394038
+    },
+    {
+      "name": "Ústav pro péči o matku a dítě",
+      "latitude": 50.061859,
+      "longitude": 14.419835
+    },
+    {
+      "name": "Územní zdravotnická záchranná služba Karlovarského kraje",
+      "latitude": 50.220889,
+      "longitude": 12.82528
+    },
+    {
+      "name": "Šumperská nemocnice",
+      "latitude": 49.958748,
+      "longitude": 16.963738
+    }
+  ],
+  "meta": {
+    "title": "Nemocnice - Stáhnout zdarma",
+    "description": "Nemocnice v České republice (261 záznamů) — body zájmu z OpenStreetMap (tag amenity=hospital), výřez EU-POIS/CZ. Obsahuje 261 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Nemocnice | ListBase",
+    "seo_description": "Stáhnout Nemocnice — 261 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 261 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

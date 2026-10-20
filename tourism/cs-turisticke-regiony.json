@@ -1,0 +1,126 @@
+{
+  "id": "cs-turisticke-regiony",
+  "name": "Turistické regiony České republiky (CzechTourism)",
+  "title": "Turistické regiony České republiky (CzechTourism)",
+  "description": "Seznam 17 turistických regionů České republiky podle členění agentury CzechTourism. Pro každou položku kód a oficiální český název.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "number"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod": "14",
+      "nazev": "Jižní Morava",
+      "slug": "jizni-morava"
+    },
+    {
+      "kod": "03",
+      "nazev": "Jižní Čechy",
+      "slug": "jizni-cechy"
+    },
+    {
+      "kod": "10",
+      "nazev": "Krkonoše a Podkrkonoší",
+      "slug": "krkonose-a-podkrkonosi"
+    },
+    {
+      "kod": "11",
+      "nazev": "Královéhradecko",
+      "slug": "kralovehradecko"
+    },
+    {
+      "kod": "05",
+      "nazev": "Plzeňsko a Český les",
+      "slug": "plzensko-a-cesky-les"
+    },
+    {
+      "kod": "01",
+      "nazev": "Praha",
+      "slug": "praha"
+    },
+    {
+      "kod": "17",
+      "nazev": "Severní Morava a Slezsko",
+      "slug": "severni-morava-a-slezsko"
+    },
+    {
+      "kod": "07",
+      "nazev": "Severozápadní Čechy",
+      "slug": "severozapadni-cechy"
+    },
+    {
+      "kod": "16",
+      "nazev": "Střední Morava a Jeseníky",
+      "slug": "stredni-morava-a-jeseniky"
+    },
+    {
+      "kod": "02",
+      "nazev": "Střední Čechy",
+      "slug": "stredni-cechy"
+    },
+    {
+      "kod": "13",
+      "nazev": "Vysočina",
+      "slug": "vysocina"
+    },
+    {
+      "kod": "15",
+      "nazev": "Východní Morava",
+      "slug": "vychodni-morava"
+    },
+    {
+      "kod": "12",
+      "nazev": "Východní Čechy",
+      "slug": "vychodni-cechy"
+    },
+    {
+      "kod": "06",
+      "nazev": "Západočeské lázně",
+      "slug": "zapadoceske-lazne"
+    },
+    {
+      "kod": "08",
+      "nazev": "Českolipsko a Jizerské hory",
+      "slug": "ceskolipsko-a-jizerske-hory"
+    },
+    {
+      "kod": "09",
+      "nazev": "Český ráj",
+      "slug": "cesky-raj"
+    },
+    {
+      "kod": "04",
+      "nazev": "Šumava",
+      "slug": "sumava"
+    }
+  ],
+  "meta": {
+    "title": "Turistické regiony České republiky (CzechTourism) - Stáhnout zdarma",
+    "description": "Seznam 17 turistických regionů České republiky podle členění agentury CzechTourism. Pro každou položku kód a oficiální český název. Obsahuje 17 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Turistické regiony České republiky (CzechTourism) | ListBase",
+    "seo_description": "Stáhnout Turistické regiony České republiky (CzechTourism) — 17 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 17 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

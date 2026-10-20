@@ -1,0 +1,836 @@
+{
+  "id": "cs-okresy",
+  "name": "Okresy České republiky",
+  "title": "Okresy České republiky",
+  "description": "77 okresů (LAU1) České republiky podle INSPIRE administrativních jednotek. Každý záznam obsahuje národní kód okresu, NUTS-style kód a referenci na nadřazený kraj (NUTS3). Zdroj: oficiální geodata INSPIRE z data.gov.cz.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 77,
+  "columns": [
+    {
+      "key": "national_code",
+      "label": "National Code",
+      "type": "number"
+    },
+    {
+      "key": "local_id",
+      "label": "Local Id",
+      "type": "string"
+    },
+    {
+      "key": "nuts_code",
+      "label": "Nuts Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_national_code",
+      "label": "Kraj National Code",
+      "type": "number"
+    },
+    {
+      "key": "kraj_name",
+      "label": "Kraj Name",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "national_code": "3100",
+      "local_id": "AU.3.3100",
+      "nuts_code": "CZ0100000000",
+      "name": "Hlavní město Praha",
+      "slug": "hlavni-mesto-praha",
+      "kraj_national_code": "19",
+      "kraj_name": "Hlavní město Praha",
+      "kraj_slug": "praha"
+    },
+    {
+      "national_code": "3201",
+      "local_id": "AU.3.3201",
+      "nuts_code": "CZ0201000000",
+      "name": "Benešov",
+      "slug": "benesov",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3202",
+      "local_id": "AU.3.3202",
+      "nuts_code": "CZ0202000000",
+      "name": "Beroun",
+      "slug": "beroun",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3203",
+      "local_id": "AU.3.3203",
+      "nuts_code": "CZ0203000000",
+      "name": "Kladno",
+      "slug": "kladno",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3204",
+      "local_id": "AU.3.3204",
+      "nuts_code": "CZ0204000000",
+      "name": "Kolín",
+      "slug": "kolin",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3205",
+      "local_id": "AU.3.3205",
+      "nuts_code": "CZ0205000000",
+      "name": "Kutná Hora",
+      "slug": "kutna-hora",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3206",
+      "local_id": "AU.3.3206",
+      "nuts_code": "CZ0206000000",
+      "name": "Mělník",
+      "slug": "melnik",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3207",
+      "local_id": "AU.3.3207",
+      "nuts_code": "CZ0207000000",
+      "name": "Mladá Boleslav",
+      "slug": "mlada-boleslav",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3208",
+      "local_id": "AU.3.3208",
+      "nuts_code": "CZ0208000000",
+      "name": "Nymburk",
+      "slug": "nymburk",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3209",
+      "local_id": "AU.3.3209",
+      "nuts_code": "CZ0209000000",
+      "name": "Praha-východ",
+      "slug": "praha-vychod",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3210",
+      "local_id": "AU.3.3210",
+      "nuts_code": "CZ020A000000",
+      "name": "Praha-západ",
+      "slug": "praha-zapad",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3211",
+      "local_id": "AU.3.3211",
+      "nuts_code": "CZ020B000000",
+      "name": "Příbram",
+      "slug": "pribram",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3212",
+      "local_id": "AU.3.3212",
+      "nuts_code": "CZ020C000000",
+      "name": "Rakovník",
+      "slug": "rakovnik",
+      "kraj_national_code": "27",
+      "kraj_name": "Středočeský kraj",
+      "kraj_slug": "stredocesky"
+    },
+    {
+      "national_code": "3301",
+      "local_id": "AU.3.3301",
+      "nuts_code": "CZ0311000000",
+      "name": "České Budějovice",
+      "slug": "ceske-budejovice",
+      "kraj_national_code": "35",
+      "kraj_name": "Jihočeský kraj",
+      "kraj_slug": "jihocesky"
+    },
+    {
+      "national_code": "3302",
+      "local_id": "AU.3.3302",
+      "nuts_code": "CZ0312000000",
+      "name": "Český Krumlov",
+      "slug": "cesky-krumlov",
+      "kraj_national_code": "35",
+      "kraj_name": "Jihočeský kraj",
+      "kraj_slug": "jihocesky"
+    },
+    {
+      "national_code": "3303",
+      "local_id": "AU.3.3303",
+      "nuts_code": "CZ0313000000",
+      "name": "Jindřichův Hradec",
+      "slug": "jindrichuv-hradec",
+      "kraj_national_code": "35",
+      "kraj_name": "Jihočeský kraj",
+      "kraj_slug": "jihocesky"
+    },
+    {
+      "national_code": "3304",
+      "local_id": "AU.3.3304",
+      "nuts_code": "CZ0633000000",
+      "name": "Pelhřimov",
+      "slug": "pelhrimov",
+      "kraj_national_code": "108",
+      "kraj_name": "Kraj Vysočina",
+      "kraj_slug": "vysocina"
+    },
+    {
+      "national_code": "3305",
+      "local_id": "AU.3.3305",
+      "nuts_code": "CZ0314000000",
+      "name": "Písek",
+      "slug": "pisek",
+      "kraj_national_code": "35",
+      "kraj_name": "Jihočeský kraj",
+      "kraj_slug": "jihocesky"
+    },
+    {
+      "national_code": "3306",
+      "local_id": "AU.3.3306",
+      "nuts_code": "CZ0315000000",
+      "name": "Prachatice",
+      "slug": "prachatice",
+      "kraj_national_code": "35",
+      "kraj_name": "Jihočeský kraj",
+      "kraj_slug": "jihocesky"
+    },
+    {
+      "national_code": "3307",
+      "local_id": "AU.3.3307",
+      "nuts_code": "CZ0316000000",
+      "name": "Strakonice",
+      "slug": "strakonice",
+      "kraj_national_code": "35",
+      "kraj_name": "Jihočeský kraj",
+      "kraj_slug": "jihocesky"
+    },
+    {
+      "national_code": "3308",
+      "local_id": "AU.3.3308",
+      "nuts_code": "CZ0317000000",
+      "name": "Tábor",
+      "slug": "tabor",
+      "kraj_national_code": "35",
+      "kraj_name": "Jihočeský kraj",
+      "kraj_slug": "jihocesky"
+    },
+    {
+      "national_code": "3401",
+      "local_id": "AU.3.3401",
+      "nuts_code": "CZ0321000000",
+      "name": "Domažlice",
+      "slug": "domazlice",
+      "kraj_national_code": "43",
+      "kraj_name": "Plzeňský kraj",
+      "kraj_slug": "plzensky"
+    },
+    {
+      "national_code": "3402",
+      "local_id": "AU.3.3402",
+      "nuts_code": "CZ0411000000",
+      "name": "Cheb",
+      "slug": "cheb",
+      "kraj_national_code": "51",
+      "kraj_name": "Karlovarský kraj",
+      "kraj_slug": "karlovarsky"
+    },
+    {
+      "national_code": "3403",
+      "local_id": "AU.3.3403",
+      "nuts_code": "CZ0412000000",
+      "name": "Karlovy Vary",
+      "slug": "karlovy-vary",
+      "kraj_national_code": "51",
+      "kraj_name": "Karlovarský kraj",
+      "kraj_slug": "karlovarsky"
+    },
+    {
+      "national_code": "3404",
+      "local_id": "AU.3.3404",
+      "nuts_code": "CZ0322000000",
+      "name": "Klatovy",
+      "slug": "klatovy",
+      "kraj_national_code": "43",
+      "kraj_name": "Plzeňský kraj",
+      "kraj_slug": "plzensky"
+    },
+    {
+      "national_code": "3405",
+      "local_id": "AU.3.3405",
+      "nuts_code": "CZ0323000000",
+      "name": "Plzeň-město",
+      "slug": "plzen-mesto",
+      "kraj_national_code": "43",
+      "kraj_name": "Plzeňský kraj",
+      "kraj_slug": "plzensky"
+    },
+    {
+      "national_code": "3406",
+      "local_id": "AU.3.3406",
+      "nuts_code": "CZ0324000000",
+      "name": "Plzeň-jih",
+      "slug": "plzen-jih",
+      "kraj_national_code": "43",
+      "kraj_name": "Plzeňský kraj",
+      "kraj_slug": "plzensky"
+    },
+    {
+      "national_code": "3407",
+      "local_id": "AU.3.3407",
+      "nuts_code": "CZ0325000000",
+      "name": "Plzeň-sever",
+      "slug": "plzen-sever",
+      "kraj_national_code": "43",
+      "kraj_name": "Plzeňský kraj",
+      "kraj_slug": "plzensky"
+    },
+    {
+      "national_code": "3408",
+      "local_id": "AU.3.3408",
+      "nuts_code": "CZ0326000000",
+      "name": "Rokycany",
+      "slug": "rokycany",
+      "kraj_national_code": "43",
+      "kraj_name": "Plzeňský kraj",
+      "kraj_slug": "plzensky"
+    },
+    {
+      "national_code": "3409",
+      "local_id": "AU.3.3409",
+      "nuts_code": "CZ0413000000",
+      "name": "Sokolov",
+      "slug": "sokolov",
+      "kraj_national_code": "51",
+      "kraj_name": "Karlovarský kraj",
+      "kraj_slug": "karlovarsky"
+    },
+    {
+      "national_code": "3410",
+      "local_id": "AU.3.3410",
+      "nuts_code": "CZ0327000000",
+      "name": "Tachov",
+      "slug": "tachov",
+      "kraj_national_code": "43",
+      "kraj_name": "Plzeňský kraj",
+      "kraj_slug": "plzensky"
+    },
+    {
+      "national_code": "3501",
+      "local_id": "AU.3.3501",
+      "nuts_code": "CZ0511000000",
+      "name": "Česká Lípa",
+      "slug": "ceska-lipa",
+      "kraj_national_code": "78",
+      "kraj_name": "Liberecký kraj",
+      "kraj_slug": "liberecky"
+    },
+    {
+      "national_code": "3502",
+      "local_id": "AU.3.3502",
+      "nuts_code": "CZ0421000000",
+      "name": "Děčín",
+      "slug": "decin",
+      "kraj_national_code": "60",
+      "kraj_name": "Ústecký kraj",
+      "kraj_slug": "ustecky"
+    },
+    {
+      "national_code": "3503",
+      "local_id": "AU.3.3503",
+      "nuts_code": "CZ0422000000",
+      "name": "Chomutov",
+      "slug": "chomutov",
+      "kraj_national_code": "60",
+      "kraj_name": "Ústecký kraj",
+      "kraj_slug": "ustecky"
+    },
+    {
+      "national_code": "3504",
+      "local_id": "AU.3.3504",
+      "nuts_code": "CZ0512000000",
+      "name": "Jablonec nad Nisou",
+      "slug": "jablonec-nad-nisou",
+      "kraj_national_code": "78",
+      "kraj_name": "Liberecký kraj",
+      "kraj_slug": "liberecky"
+    },
+    {
+      "national_code": "3505",
+      "local_id": "AU.3.3505",
+      "nuts_code": "CZ0513000000",
+      "name": "Liberec",
+      "slug": "liberec",
+      "kraj_national_code": "78",
+      "kraj_name": "Liberecký kraj",
+      "kraj_slug": "liberecky"
+    },
+    {
+      "national_code": "3506",
+      "local_id": "AU.3.3506",
+      "nuts_code": "CZ0423000000",
+      "name": "Litoměřice",
+      "slug": "litomerice",
+      "kraj_national_code": "60",
+      "kraj_name": "Ústecký kraj",
+      "kraj_slug": "ustecky"
+    },
+    {
+      "national_code": "3507",
+      "local_id": "AU.3.3507",
+      "nuts_code": "CZ0424000000",
+      "name": "Louny",
+      "slug": "louny",
+      "kraj_national_code": "60",
+      "kraj_name": "Ústecký kraj",
+      "kraj_slug": "ustecky"
+    },
+    {
+      "national_code": "3508",
+      "local_id": "AU.3.3508",
+      "nuts_code": "CZ0425000000",
+      "name": "Most",
+      "slug": "most",
+      "kraj_national_code": "60",
+      "kraj_name": "Ústecký kraj",
+      "kraj_slug": "ustecky"
+    },
+    {
+      "national_code": "3509",
+      "local_id": "AU.3.3509",
+      "nuts_code": "CZ0426000000",
+      "name": "Teplice",
+      "slug": "teplice",
+      "kraj_national_code": "60",
+      "kraj_name": "Ústecký kraj",
+      "kraj_slug": "ustecky"
+    },
+    {
+      "national_code": "3510",
+      "local_id": "AU.3.3510",
+      "nuts_code": "CZ0427000000",
+      "name": "Ústí nad Labem",
+      "slug": "usti-nad-labem",
+      "kraj_national_code": "60",
+      "kraj_name": "Ústecký kraj",
+      "kraj_slug": "ustecky"
+    },
+    {
+      "national_code": "3601",
+      "local_id": "AU.3.3601",
+      "nuts_code": "CZ0631000000",
+      "name": "Havlíčkův Brod",
+      "slug": "havlickuv-brod",
+      "kraj_national_code": "108",
+      "kraj_name": "Kraj Vysočina",
+      "kraj_slug": "vysocina"
+    },
+    {
+      "national_code": "3602",
+      "local_id": "AU.3.3602",
+      "nuts_code": "CZ0521000000",
+      "name": "Hradec Králové",
+      "slug": "hradec-kralove",
+      "kraj_national_code": "86",
+      "kraj_name": "Královéhradecký kraj",
+      "kraj_slug": "kralovehradecky"
+    },
+    {
+      "national_code": "3603",
+      "local_id": "AU.3.3603",
+      "nuts_code": "CZ0531000000",
+      "name": "Chrudim",
+      "slug": "chrudim",
+      "kraj_national_code": "94",
+      "kraj_name": "Pardubický kraj",
+      "kraj_slug": "pardubicky"
+    },
+    {
+      "national_code": "3604",
+      "local_id": "AU.3.3604",
+      "nuts_code": "CZ0522000000",
+      "name": "Jičín",
+      "slug": "jicin",
+      "kraj_national_code": "86",
+      "kraj_name": "Královéhradecký kraj",
+      "kraj_slug": "kralovehradecky"
+    },
+    {
+      "national_code": "3605",
+      "local_id": "AU.3.3605",
+      "nuts_code": "CZ0523000000",
+      "name": "Náchod",
+      "slug": "nachod",
+      "kraj_national_code": "86",
+      "kraj_name": "Královéhradecký kraj",
+      "kraj_slug": "kralovehradecky"
+    },
+    {
+      "national_code": "3606",
+      "local_id": "AU.3.3606",
+      "nuts_code": "CZ0532000000",
+      "name": "Pardubice",
+      "slug": "pardubice",
+      "kraj_national_code": "94",
+      "kraj_name": "Pardubický kraj",
+      "kraj_slug": "pardubicky"
+    },
+    {
+      "national_code": "3607",
+      "local_id": "AU.3.3607",
+      "nuts_code": "CZ0524000000",
+      "name": "Rychnov nad Kněžnou",
+      "slug": "rychnov-nad-kneznou",
+      "kraj_national_code": "86",
+      "kraj_name": "Královéhradecký kraj",
+      "kraj_slug": "kralovehradecky"
+    },
+    {
+      "national_code": "3608",
+      "local_id": "AU.3.3608",
+      "nuts_code": "CZ0514000000",
+      "name": "Semily",
+      "slug": "semily",
+      "kraj_national_code": "78",
+      "kraj_name": "Liberecký kraj",
+      "kraj_slug": "liberecky"
+    },
+    {
+      "national_code": "3609",
+      "local_id": "AU.3.3609",
+      "nuts_code": "CZ0533000000",
+      "name": "Svitavy",
+      "slug": "svitavy",
+      "kraj_national_code": "94",
+      "kraj_name": "Pardubický kraj",
+      "kraj_slug": "pardubicky"
+    },
+    {
+      "national_code": "3610",
+      "local_id": "AU.3.3610",
+      "nuts_code": "CZ0525000000",
+      "name": "Trutnov",
+      "slug": "trutnov",
+      "kraj_national_code": "86",
+      "kraj_name": "Královéhradecký kraj",
+      "kraj_slug": "kralovehradecky"
+    },
+    {
+      "national_code": "3611",
+      "local_id": "AU.3.3611",
+      "nuts_code": "CZ0534000000",
+      "name": "Ústí nad Orlicí",
+      "slug": "usti-nad-orlici",
+      "kraj_national_code": "94",
+      "kraj_name": "Pardubický kraj",
+      "kraj_slug": "pardubicky"
+    },
+    {
+      "national_code": "3701",
+      "local_id": "AU.3.3701",
+      "nuts_code": "CZ0641000000",
+      "name": "Blansko",
+      "slug": "blansko",
+      "kraj_national_code": "116",
+      "kraj_name": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky"
+    },
+    {
+      "national_code": "3702",
+      "local_id": "AU.3.3702",
+      "nuts_code": "CZ0642000000",
+      "name": "Brno-město",
+      "slug": "brno-mesto",
+      "kraj_national_code": "116",
+      "kraj_name": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky"
+    },
+    {
+      "national_code": "3703",
+      "local_id": "AU.3.3703",
+      "nuts_code": "CZ0643000000",
+      "name": "Brno-venkov",
+      "slug": "brno-venkov",
+      "kraj_national_code": "116",
+      "kraj_name": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky"
+    },
+    {
+      "national_code": "3704",
+      "local_id": "AU.3.3704",
+      "nuts_code": "CZ0644000000",
+      "name": "Břeclav",
+      "slug": "breclav",
+      "kraj_national_code": "116",
+      "kraj_name": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky"
+    },
+    {
+      "national_code": "3705",
+      "local_id": "AU.3.3705",
+      "nuts_code": "CZ0724000000",
+      "name": "Zlín",
+      "slug": "zlin",
+      "kraj_national_code": "141",
+      "kraj_name": "Zlínský kraj",
+      "kraj_slug": "zlinsky"
+    },
+    {
+      "national_code": "3706",
+      "local_id": "AU.3.3706",
+      "nuts_code": "CZ0645000000",
+      "name": "Hodonín",
+      "slug": "hodonin",
+      "kraj_national_code": "116",
+      "kraj_name": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky"
+    },
+    {
+      "national_code": "3707",
+      "local_id": "AU.3.3707",
+      "nuts_code": "CZ0632000000",
+      "name": "Jihlava",
+      "slug": "jihlava",
+      "kraj_national_code": "108",
+      "kraj_name": "Kraj Vysočina",
+      "kraj_slug": "vysocina"
+    },
+    {
+      "national_code": "3708",
+      "local_id": "AU.3.3708",
+      "nuts_code": "CZ0721000000",
+      "name": "Kroměříž",
+      "slug": "kromeriz",
+      "kraj_national_code": "141",
+      "kraj_name": "Zlínský kraj",
+      "kraj_slug": "zlinsky"
+    },
+    {
+      "national_code": "3709",
+      "local_id": "AU.3.3709",
+      "nuts_code": "CZ0713000000",
+      "name": "Prostějov",
+      "slug": "prostejov",
+      "kraj_national_code": "124",
+      "kraj_name": "Olomoucký kraj",
+      "kraj_slug": "olomoucky"
+    },
+    {
+      "national_code": "3710",
+      "local_id": "AU.3.3710",
+      "nuts_code": "CZ0634000000",
+      "name": "Třebíč",
+      "slug": "trebic",
+      "kraj_national_code": "108",
+      "kraj_name": "Kraj Vysočina",
+      "kraj_slug": "vysocina"
+    },
+    {
+      "national_code": "3711",
+      "local_id": "AU.3.3711",
+      "nuts_code": "CZ0722000000",
+      "name": "Uherské Hradiště",
+      "slug": "uherske-hradiste",
+      "kraj_national_code": "141",
+      "kraj_name": "Zlínský kraj",
+      "kraj_slug": "zlinsky"
+    },
+    {
+      "national_code": "3712",
+      "local_id": "AU.3.3712",
+      "nuts_code": "CZ0646000000",
+      "name": "Vyškov",
+      "slug": "vyskov",
+      "kraj_national_code": "116",
+      "kraj_name": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky"
+    },
+    {
+      "national_code": "3713",
+      "local_id": "AU.3.3713",
+      "nuts_code": "CZ0647000000",
+      "name": "Znojmo",
+      "slug": "znojmo",
+      "kraj_national_code": "116",
+      "kraj_name": "Jihomoravský kraj",
+      "kraj_slug": "jihomoravsky"
+    },
+    {
+      "national_code": "3714",
+      "local_id": "AU.3.3714",
+      "nuts_code": "CZ0635000000",
+      "name": "Žďár nad Sázavou",
+      "slug": "zdar-nad-sazavou",
+      "kraj_national_code": "108",
+      "kraj_name": "Kraj Vysočina",
+      "kraj_slug": "vysocina"
+    },
+    {
+      "national_code": "3801",
+      "local_id": "AU.3.3801",
+      "nuts_code": "CZ0801000000",
+      "name": "Bruntál",
+      "slug": "bruntal",
+      "kraj_national_code": "132",
+      "kraj_name": "Moravskoslezský kraj",
+      "kraj_slug": "moravskoslezsky"
+    },
+    {
+      "national_code": "3802",
+      "local_id": "AU.3.3802",
+      "nuts_code": "CZ0802000000",
+      "name": "Frýdek-Místek",
+      "slug": "frydek-mistek",
+      "kraj_national_code": "132",
+      "kraj_name": "Moravskoslezský kraj",
+      "kraj_slug": "moravskoslezsky"
+    },
+    {
+      "national_code": "3803",
+      "local_id": "AU.3.3803",
+      "nuts_code": "CZ0803000000",
+      "name": "Karviná",
+      "slug": "karvina",
+      "kraj_national_code": "132",
+      "kraj_name": "Moravskoslezský kraj",
+      "kraj_slug": "moravskoslezsky"
+    },
+    {
+      "national_code": "3804",
+      "local_id": "AU.3.3804",
+      "nuts_code": "CZ0804000000",
+      "name": "Nový Jičín",
+      "slug": "novy-jicin",
+      "kraj_national_code": "132",
+      "kraj_name": "Moravskoslezský kraj",
+      "kraj_slug": "moravskoslezsky"
+    },
+    {
+      "national_code": "3805",
+      "local_id": "AU.3.3805",
+      "nuts_code": "CZ0712000000",
+      "name": "Olomouc",
+      "slug": "olomouc",
+      "kraj_national_code": "124",
+      "kraj_name": "Olomoucký kraj",
+      "kraj_slug": "olomoucky"
+    },
+    {
+      "national_code": "3806",
+      "local_id": "AU.3.3806",
+      "nuts_code": "CZ0805000000",
+      "name": "Opava",
+      "slug": "opava",
+      "kraj_national_code": "132",
+      "kraj_name": "Moravskoslezský kraj",
+      "kraj_slug": "moravskoslezsky"
+    },
+    {
+      "national_code": "3807",
+      "local_id": "AU.3.3807",
+      "nuts_code": "CZ0806000000",
+      "name": "Ostrava-město",
+      "slug": "ostrava-mesto",
+      "kraj_national_code": "132",
+      "kraj_name": "Moravskoslezský kraj",
+      "kraj_slug": "moravskoslezsky"
+    },
+    {
+      "national_code": "3808",
+      "local_id": "AU.3.3808",
+      "nuts_code": "CZ0714000000",
+      "name": "Přerov",
+      "slug": "prerov",
+      "kraj_national_code": "124",
+      "kraj_name": "Olomoucký kraj",
+      "kraj_slug": "olomoucky"
+    },
+    {
+      "national_code": "3809",
+      "local_id": "AU.3.3809",
+      "nuts_code": "CZ0715000000",
+      "name": "Šumperk",
+      "slug": "sumperk",
+      "kraj_national_code": "124",
+      "kraj_name": "Olomoucký kraj",
+      "kraj_slug": "olomoucky"
+    },
+    {
+      "national_code": "3810",
+      "local_id": "AU.3.3810",
+      "nuts_code": "CZ0723000000",
+      "name": "Vsetín",
+      "slug": "vsetin",
+      "kraj_national_code": "141",
+      "kraj_name": "Zlínský kraj",
+      "kraj_slug": "zlinsky"
+    },
+    {
+      "national_code": "3811",
+      "local_id": "AU.3.3811",
+      "nuts_code": "CZ0711000000",
+      "name": "Jeseník",
+      "slug": "jesenik",
+      "kraj_national_code": "124",
+      "kraj_name": "Olomoucký kraj",
+      "kraj_slug": "olomoucky"
+    }
+  ],
+  "meta": {
+    "title": "Okresy České republiky - Stáhnout zdarma",
+    "description": "77 okresů (LAU1) České republiky podle INSPIRE administrativních jednotek. Každý záznam obsahuje národní kód okresu, NUTS-style kód a referenci na nadřazený kraj (NUTS3). Zdroj: oficiální geodata INSPIRE z data.gov.cz. Obsahuje 77 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Okresy České republiky | ListBase",
+    "seo_description": "Stáhnout Okresy České republiky — 77 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 77 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

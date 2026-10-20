@@ -1,0 +1,232 @@
+{
+  "id": "cs-ostrava-mesto-obce",
+  "name": "Obce — okres Ostrava-město",
+  "title": "Obce — okres Ostrava-město",
+  "description": "Seznam všech 13 obcí okresu Ostrava-město — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (13 municipalities of okres Ostrava-město, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Dolní Lhota",
+      "code": "506711",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74766",
+      "latitude": 49.842458,
+      "longitude": 18.092517,
+      "slug": "dolni-lhota"
+    },
+    {
+      "name": "Horní Lhota",
+      "code": "569500",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74764",
+      "latitude": 49.853142,
+      "longitude": 18.068485,
+      "slug": "horni-lhota"
+    },
+    {
+      "name": "Klimkovice",
+      "code": "599549",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74283",
+      "latitude": 49.788191,
+      "longitude": 18.125961,
+      "slug": "klimkovice"
+    },
+    {
+      "name": "Olbramice",
+      "code": "554049",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74283",
+      "latitude": 49.78965,
+      "longitude": 18.089056,
+      "slug": "olbramice"
+    },
+    {
+      "name": "Ostrava",
+      "code": "554821",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "70200",
+      "latitude": 49.821023,
+      "longitude": 18.262624,
+      "slug": "ostrava"
+    },
+    {
+      "name": "Stará Ves nad Ondřejnicí",
+      "code": "598739",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73923",
+      "latitude": 49.727472,
+      "longitude": 18.193435,
+      "slug": "stara-ves-nad-ondrejnici"
+    },
+    {
+      "name": "Velká Polom",
+      "code": "510882",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74764",
+      "latitude": 49.863692,
+      "longitude": 18.093414,
+      "slug": "velka-polom"
+    },
+    {
+      "name": "Vratimov",
+      "code": "598879",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73932",
+      "latitude": 49.77005,
+      "longitude": 18.310255,
+      "slug": "vratimov"
+    },
+    {
+      "name": "Václavovice",
+      "code": "598836",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73934",
+      "latitude": 49.755403,
+      "longitude": 18.372312,
+      "slug": "vaclavovice"
+    },
+    {
+      "name": "Vřesina",
+      "code": "500291",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74285",
+      "latitude": 49.824282,
+      "longitude": 18.125802,
+      "slug": "vresina"
+    },
+    {
+      "name": "Zbyslavice",
+      "code": "568449",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74283",
+      "latitude": 49.805441,
+      "longitude": 18.075576,
+      "slug": "zbyslavice"
+    },
+    {
+      "name": "Čavisov",
+      "code": "569119",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "74764",
+      "latitude": 49.829577,
+      "longitude": 18.080797,
+      "slug": "cavisov"
+    },
+    {
+      "name": "Šenov",
+      "code": "598798",
+      "okres": "Ostrava-město",
+      "okres_code": "CZ0806",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73934",
+      "latitude": 49.793249,
+      "longitude": 18.376174,
+      "slug": "senov"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Ostrava-město - Stáhnout zdarma",
+    "description": "Seznam všech 13 obcí okresu Ostrava-město — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (13 municipalities of okres Ostrava-město, split from the national cs-obce dataset.) Obsahuje 13 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Ostrava-město | ListBase",
+    "seo_description": "Stáhnout Obce — okres Ostrava-město — 13 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 13 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

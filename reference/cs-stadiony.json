@@ -1,0 +1,1166 @@
+{
+  "id": "cs-stadiony",
+  "name": "Stadiony",
+  "title": "Stadiony",
+  "description": "Seznam pojmenovaných stadionů v České republice (225 záznamů) — body zájmu z OpenStreetMap (tag leisure=stadium), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 225,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Waldstadion Sebnitz",
+      "latitude": 50.984659,
+      "longitude": 14.260798
+    },
+    {
+      "name": "Atletický stadion Rumburk",
+      "latitude": 50.951417,
+      "longitude": 14.564142
+    },
+    {
+      "name": "zimní stadion SRAS Rumburk",
+      "latitude": 50.952412,
+      "longitude": 14.549406
+    },
+    {
+      "name": "Stadion Letka",
+      "latitude": 50.771789,
+      "longitude": 15.036376
+    },
+    {
+      "name": "FC Slovan Liberec",
+      "latitude": 50.776233,
+      "longitude": 15.050323
+    },
+    {
+      "name": "Home Credit Arena",
+      "latitude": 50.75254,
+      "longitude": 15.050161
+    },
+    {
+      "name": "Městský atletický stadion",
+      "latitude": 50.752885,
+      "longitude": 15.047177
+    },
+    {
+      "name": "TJ Hranice",
+      "latitude": 50.306098,
+      "longitude": 12.177672
+    },
+    {
+      "name": "Městský stadion",
+      "latitude": 50.676879,
+      "longitude": 13.866699
+    },
+    {
+      "name": "TJ Hvězda Trnovany",
+      "latitude": 50.651215,
+      "longitude": 13.849128
+    },
+    {
+      "name": "AGC Aréna Na Stínadlech",
+      "latitude": 50.639859,
+      "longitude": 13.817971
+    },
+    {
+      "name": "Zlatopramen Arena",
+      "latitude": 50.677584,
+      "longitude": 14.013638
+    },
+    {
+      "name": "Městský stadion",
+      "latitude": 50.675665,
+      "longitude": 14.0167
+    },
+    {
+      "name": "Zimní stadion Ivana Hlinky",
+      "latitude": 50.605617,
+      "longitude": 13.621573
+    },
+    {
+      "name": "Hokej",
+      "latitude": 50.515717,
+      "longitude": 14.058115
+    },
+    {
+      "name": "Házená",
+      "latitude": 50.514436,
+      "longitude": 14.057485
+    },
+    {
+      "name": "zimní stadion",
+      "latitude": 50.389587,
+      "longitude": 13.182278
+    },
+    {
+      "name": "fotbalový stadion",
+      "latitude": 50.389282,
+      "longitude": 13.183697
+    },
+    {
+      "name": "zimní stadion",
+      "latitude": 50.385737,
+      "longitude": 13.275412
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.467554,
+      "longitude": 13.427495
+    },
+    {
+      "name": "Letní stadion",
+      "latitude": 50.466447,
+      "longitude": 13.428991
+    },
+    {
+      "name": "Městská hala",
+      "latitude": 50.462801,
+      "longitude": 13.418089
+    },
+    {
+      "name": "Stadion Spořice",
+      "latitude": 50.443817,
+      "longitude": 13.38691
+    },
+    {
+      "name": "Zimní stadion Louny",
+      "latitude": 50.359479,
+      "longitude": 13.80992
+    },
+    {
+      "name": "Waldstadion",
+      "latitude": 50.275406,
+      "longitude": 12.243412
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.070519,
+      "longitude": 12.372629
+    },
+    {
+      "name": "Atletický stadion",
+      "latitude": 50.245987,
+      "longitude": 12.744334
+    },
+    {
+      "name": "Mattoni Arena",
+      "latitude": 50.224587,
+      "longitude": 12.844597
+    },
+    {
+      "name": "Stadion Závodu míru",
+      "latitude": 50.225098,
+      "longitude": 12.846761
+    },
+    {
+      "name": "Městský bazén",
+      "latitude": 49.967114,
+      "longitude": 12.698893
+    },
+    {
+      "name": "Zimní Stadion Hořovice",
+      "latitude": 49.840692,
+      "longitude": 13.90421
+    },
+    {
+      "name": "Atletický stadion",
+      "latitude": 50.695971,
+      "longitude": 14.545994
+    },
+    {
+      "name": "Litoměřický Stadion",
+      "latitude": 50.536756,
+      "longitude": 14.145091
+    },
+    {
+      "name": "Kalich Arena",
+      "latitude": 50.532994,
+      "longitude": 14.123655
+    },
+    {
+      "name": "Zimní stadion Ludvíka Koška",
+      "latitude": 50.582678,
+      "longitude": 15.15104
+    },
+    {
+      "name": "Městský stadion Ludvíka Daňka",
+      "latitude": 50.591802,
+      "longitude": 15.159957
+    },
+    {
+      "name": "TJ Sokol",
+      "latitude": 50.537849,
+      "longitude": 15.263222
+    },
+    {
+      "name": "TJ Sokol - hokej",
+      "latitude": 50.53892,
+      "longitude": 15.259183
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.42442,
+      "longitude": 14.249587
+    },
+    {
+      "name": "zimní stadion Mělník",
+      "latitude": 50.357924,
+      "longitude": 14.47705
+    },
+    {
+      "name": "Fotbalové hřiště",
+      "latitude": 50.292651,
+      "longitude": 14.619419
+    },
+    {
+      "name": "Astonka",
+      "latitude": 50.422771,
+      "longitude": 14.903942
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.410363,
+      "longitude": 14.907611
+    },
+    {
+      "name": "Hokejový stadion",
+      "latitude": 50.439404,
+      "longitude": 15.348223
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.289708,
+      "longitude": 14.81811
+    },
+    {
+      "name": "Velký stadion",
+      "latitude": 50.493092,
+      "longitude": 15.512038
+    },
+    {
+      "name": "Malý tenisový kurt",
+      "latitude": 50.492769,
+      "longitude": 15.512809
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.431619,
+      "longitude": 15.811778
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.406921,
+      "longitude": 16.161068
+    },
+    {
+      "name": "lehkoatletický stadion",
+      "latitude": 50.349189,
+      "longitude": 15.917615
+    },
+    {
+      "name": "zimní stadion",
+      "latitude": 50.350162,
+      "longitude": 15.917903
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.350633,
+      "longitude": 16.131885
+    },
+    {
+      "name": "FC Smiřice",
+      "latitude": 50.302241,
+      "longitude": 15.871921
+    },
+    {
+      "name": "Wikov Aréna",
+      "latitude": 50.47483,
+      "longitude": 16.183622
+    },
+    {
+      "name": "Hala BIOS Slaný",
+      "latitude": 50.233715,
+      "longitude": 14.085337
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.251275,
+      "longitude": 14.318819
+    },
+    {
+      "name": "Zimní stadion Slaný",
+      "latitude": 50.225926,
+      "longitude": 14.068963
+    },
+    {
+      "name": "Volejbal Aero Odolena Voda",
+      "latitude": 50.225587,
+      "longitude": 14.410477
+    },
+    {
+      "name": "Sportovní hřiště ZŠ-MPB",
+      "latitude": 50.254212,
+      "longitude": 14.518963
+    },
+    {
+      "name": "Skatepark",
+      "latitude": 50.255826,
+      "longitude": 14.508359
+    },
+    {
+      "name": "Volleyball, Nohejbal",
+      "latitude": 50.255772,
+      "longitude": 14.508771
+    },
+    {
+      "name": "Kamenny Stul",
+      "latitude": 50.256019,
+      "longitude": 14.508676
+    },
+    {
+      "name": "Zimní stadion Neratovice",
+      "latitude": 50.26013,
+      "longitude": 14.521094
+    },
+    {
+      "name": "TJ Sokol Předboj",
+      "latitude": 50.230218,
+      "longitude": 14.482924
+    },
+    {
+      "name": "stadion Emila Zátopka",
+      "latitude": 50.187708,
+      "longitude": 14.689204
+    },
+    {
+      "name": "HC Hvězda Praha",
+      "latitude": 50.095645,
+      "longitude": 14.363581
+    },
+    {
+      "name": "bývalý Zimní stadion Nikolajka",
+      "latitude": 50.067271,
+      "longitude": 14.395997
+    },
+    {
+      "name": "Velký strahovský stadion",
+      "latitude": 50.080201,
+      "longitude": 14.387704
+    },
+    {
+      "name": "Stadion Evžena Rošického",
+      "latitude": 50.080388,
+      "longitude": 14.383729
+    },
+    {
+      "name": "Sportovní hala Fortuna",
+      "latitude": 50.106819,
+      "longitude": 14.432707
+    },
+    {
+      "name": "Incheba Arena",
+      "latitude": 50.107453,
+      "longitude": 14.432155
+    },
+    {
+      "name": "O2 arena",
+      "latitude": 50.104721,
+      "longitude": 14.493621
+    },
+    {
+      "name": "epet ARENA",
+      "latitude": 50.099831,
+      "longitude": 14.415629
+    },
+    {
+      "name": "Fortuna Arena",
+      "latitude": 50.067549,
+      "longitude": 14.471476
+    },
+    {
+      "name": "FK Viktoria Žižkov",
+      "latitude": 50.083785,
+      "longitude": 14.444296
+    },
+    {
+      "name": "Zimní stadion Eden",
+      "latitude": 50.068826,
+      "longitude": 14.47958
+    },
+    {
+      "name": "HASA",
+      "latitude": 50.067268,
+      "longitude": 14.446137
+    },
+    {
+      "name": "Stadion Ďolíček",
+      "latitude": 50.066842,
+      "longitude": 14.454115
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.14633,
+      "longitude": 15.110448
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.96304,
+      "longitude": 14.078834
+    },
+    {
+      "name": "Stadion Děkanka",
+      "latitude": 50.054481,
+      "longitude": 14.430526
+    },
+    {
+      "name": "I. Královský lukostřelecký klub",
+      "latitude": 50.056414,
+      "longitude": 14.45368
+    },
+    {
+      "name": "Zimní stadion Kobra",
+      "latitude": 50.031661,
+      "longitude": 14.428174
+    },
+    {
+      "name": "stadion Josefa Kohouta",
+      "latitude": 49.989594,
+      "longitude": 14.655711
+    },
+    {
+      "name": "Merkur Ice Arena",
+      "latitude": 49.988321,
+      "longitude": 14.658204
+    },
+    {
+      "name": "Hokejový stadion HC Kolín",
+      "latitude": 50.032245,
+      "longitude": 15.199209
+    },
+    {
+      "name": "Atletický stadion Čáslav",
+      "latitude": 49.910185,
+      "longitude": 15.381601
+    },
+    {
+      "name": "Stadion Sokol HK",
+      "latitude": 50.213889,
+      "longitude": 15.830764
+    },
+    {
+      "name": "Zimní stadion hala 1",
+      "latitude": 50.206601,
+      "longitude": 15.829468
+    },
+    {
+      "name": "Zimní stadion - hala 2",
+      "latitude": 50.206769,
+      "longitude": 15.831514
+    },
+    {
+      "name": "sportovní hala Háječek",
+      "latitude": 50.217613,
+      "longitude": 15.860037
+    },
+    {
+      "name": "Malšovická aréna",
+      "latitude": 50.206365,
+      "longitude": 15.845181
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 50.20227,
+      "longitude": 15.99196
+    },
+    {
+      "name": "Atletický stadion",
+      "latitude": 50.146025,
+      "longitude": 16.078204
+    },
+    {
+      "name": "Pod Vinicí",
+      "latitude": 50.029646,
+      "longitude": 15.781554
+    },
+    {
+      "name": "Městský atletický stadion Dukla",
+      "latitude": 50.021812,
+      "longitude": 15.765205
+    },
+    {
+      "name": "Městský stadion Vysoké Mýto",
+      "latitude": 49.95807,
+      "longitude": 16.15875
+    },
+    {
+      "name": "Atleticko - fotbalový stadion V Průhonech",
+      "latitude": 49.94338,
+      "longitude": 15.799357
+    },
+    {
+      "name": "Hlavní fotbalový stadion",
+      "latitude": 49.866318,
+      "longitude": 15.573908
+    },
+    {
+      "name": "Městský stadion Černá hora",
+      "latitude": 49.86772,
+      "longitude": 16.320046
+    },
+    {
+      "name": "Hala B. Modrého",
+      "latitude": 49.918182,
+      "longitude": 16.600145
+    },
+    {
+      "name": "Městský stadion",
+      "latitude": 49.794572,
+      "longitude": 12.626396
+    },
+    {
+      "name": "Kooperativa Aréna",
+      "latitude": 49.773032,
+      "longitude": 13.352279
+    },
+    {
+      "name": "TJ Sokol Košutka",
+      "latitude": 49.764371,
+      "longitude": 13.357274
+    },
+    {
+      "name": "Sport Aréna",
+      "latitude": 49.808655,
+      "longitude": 13.392749
+    },
+    {
+      "name": "Hokejbalový stadion",
+      "latitude": 49.778198,
+      "longitude": 13.361436
+    },
+    {
+      "name": "Home Monitoring Aréna",
+      "latitude": 49.736404,
+      "longitude": 13.377249
+    },
+    {
+      "name": "LOGSPEED CZ Aréna",
+      "latitude": 49.73675,
+      "longitude": 13.377506
+    },
+    {
+      "name": "Velodrom",
+      "latitude": 49.737079,
+      "longitude": 13.401229
+    },
+    {
+      "name": "Doosan Arena",
+      "latitude": 49.749944,
+      "longitude": 13.384596
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.739056,
+      "longitude": 13.602728
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.67758,
+      "longitude": 14.002208
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.678465,
+      "longitude": 14.002559
+    },
+    {
+      "name": "TJ Sparta Věšín",
+      "latitude": 49.619086,
+      "longitude": 13.825153
+    },
+    {
+      "name": "TJ Sokol Postřekov",
+      "latitude": 49.462619,
+      "longitude": 12.816787
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.394636,
+      "longitude": 13.277701
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.228499,
+      "longitude": 13.516996
+    },
+    {
+      "name": "Hohenzollern Skistadion",
+      "latitude": 49.102349,
+      "longitude": 13.160829
+    },
+    {
+      "name": "Lyžařský stadion Churáňov",
+      "latitude": 49.06781,
+      "longitude": 13.619279
+    },
+    {
+      "name": "Zimní stadion HC Vimperk",
+      "latitude": 49.056597,
+      "longitude": 13.781454
+    },
+    {
+      "name": "Zimní stadion Dobříš",
+      "latitude": 49.776926,
+      "longitude": 14.174229
+    },
+    {
+      "name": "TJ Sokol Kamýk nad Vltavou",
+      "latitude": 49.646341,
+      "longitude": 14.252617
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.711142,
+      "longitude": 14.898339
+    },
+    {
+      "name": "Atos Arena",
+      "latitude": 49.69733,
+      "longitude": 15.269761
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.442916,
+      "longitude": 14.367982
+    },
+    {
+      "name": "Sportovní hala",
+      "latitude": 49.442895,
+      "longitude": 14.367215
+    },
+    {
+      "name": "AFC Humpolec",
+      "latitude": 49.534882,
+      "longitude": 15.36201
+    },
+    {
+      "name": "Na Střelnici",
+      "latitude": 49.760919,
+      "longitude": 16.460267
+    },
+    {
+      "name": "Hokej, hokejbal",
+      "latitude": 49.750475,
+      "longitude": 16.464875
+    },
+    {
+      "name": "miltrarena",
+      "latitude": 49.7661,
+      "longitude": 16.660867
+    },
+    {
+      "name": "Hřiště - stadion a šatny",
+      "latitude": 49.612673,
+      "longitude": 16.686722
+    },
+    {
+      "name": "Zimní stadion Žďár nad Sázavou",
+      "latitude": 49.570751,
+      "longitude": 15.941191
+    },
+    {
+      "name": "Vysočina Arena",
+      "latitude": 49.57739,
+      "longitude": 16.053091
+    },
+    {
+      "name": "FC Vysočina Jihlava",
+      "latitude": 49.401951,
+      "longitude": 15.573611
+    },
+    {
+      "name": "Horácká multifunkční aréna",
+      "latitude": 49.398099,
+      "longitude": 15.583266
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.482182,
+      "longitude": 16.66846
+    },
+    {
+      "name": "Zimní stadion Písek",
+      "latitude": 49.307495,
+      "longitude": 14.141677
+    },
+    {
+      "name": "Tělovýchovný areál Krajského ředitelství policie Jihočeského kraje",
+      "latitude": 48.984127,
+      "longitude": 14.463493
+    },
+    {
+      "name": "Budvar aréna",
+      "latitude": 48.970136,
+      "longitude": 14.471037
+    },
+    {
+      "name": "Budvar aréna",
+      "latitude": 48.97081,
+      "longitude": 14.471105
+    },
+    {
+      "name": "Stadion Zemědělské fakulty JU",
+      "latitude": 48.975877,
+      "longitude": 14.462121
+    },
+    {
+      "name": "SPORTRELAX JH s.r.o. - zimní stadion Jana Marka",
+      "latitude": 49.14706,
+      "longitude": 15.006314
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.358244,
+      "longitude": 16.014012
+    },
+    {
+      "name": "TJ Spartak Velké Meziříčí",
+      "latitude": 49.34905,
+      "longitude": 16.02216
+    },
+    {
+      "name": "Mann+Hummel Aréna",
+      "latitude": 49.213309,
+      "longitude": 15.885452
+    },
+    {
+      "name": "Myslivecký stadion Brno",
+      "latitude": 49.242485,
+      "longitude": 16.608737
+    },
+    {
+      "name": "Amfiteátr Starý Pivovar",
+      "latitude": 49.251904,
+      "longitude": 16.581063
+    },
+    {
+      "name": "ShipEx Aréna",
+      "latitude": 49.22777,
+      "longitude": 16.586329
+    },
+    {
+      "name": "TJ Tesla",
+      "latitude": 49.223293,
+      "longitude": 16.624725
+    },
+    {
+      "name": "Winning Group Arena",
+      "latitude": 49.18543,
+      "longitude": 16.60206
+    },
+    {
+      "name": "Moravská Slávia",
+      "latitude": 49.183545,
+      "longitude": 16.597813
+    },
+    {
+      "name": "TJ Favorit Brno",
+      "latitude": 49.184712,
+      "longitude": 16.57905
+    },
+    {
+      "name": "Hokejová hala Úvoz",
+      "latitude": 49.203451,
+      "longitude": 16.591333
+    },
+    {
+      "name": "Cafc Zidenice",
+      "latitude": 49.200189,
+      "longitude": 16.642629
+    },
+    {
+      "name": "Zimní stadion Moravské Budějovice",
+      "latitude": 49.049725,
+      "longitude": 15.80623
+    },
+    {
+      "name": "TJ Jiskra Rapotín",
+      "latitude": 50.000465,
+      "longitude": 17.015314
+    },
+    {
+      "name": "TJ Sokol Sudice",
+      "latitude": 50.029347,
+      "longitude": 18.067913
+    },
+    {
+      "name": "TJ Sokol Hněvošice",
+      "latitude": 49.996591,
+      "longitude": 17.998778
+    },
+    {
+      "name": "TJ Sokol Služovice",
+      "latitude": 49.98825,
+      "longitude": 17.990709
+    },
+    {
+      "name": "ZŠ MŠ Kobeřice",
+      "latitude": 49.989699,
+      "longitude": 18.048417
+    },
+    {
+      "name": "TJ Sokol Kobeřice",
+      "latitude": 49.981017,
+      "longitude": 18.050339
+    },
+    {
+      "name": "SK Viktorie Chlebičov",
+      "latitude": 49.957181,
+      "longitude": 17.960066
+    },
+    {
+      "name": "Hřebčín Albertovec",
+      "latitude": 49.96882,
+      "longitude": 18.071114
+    },
+    {
+      "name": "TJ Spartak Chuchelna",
+      "latitude": 49.988441,
+      "longitude": 18.12151
+    },
+    {
+      "name": "TJ Slavia Píšť",
+      "latitude": 49.975846,
+      "longitude": 18.183747
+    },
+    {
+      "name": "Fotbalový stadion",
+      "latitude": 49.949738,
+      "longitude": 17.890173
+    },
+    {
+      "name": "Buly Aréna",
+      "latitude": 49.933167,
+      "longitude": 18.030528
+    },
+    {
+      "name": "TJ Sokol",
+      "latitude": 49.908967,
+      "longitude": 18.031492
+    },
+    {
+      "name": "TJ Sokol Kozmice",
+      "latitude": 49.918867,
+      "longitude": 18.146339
+    },
+    {
+      "name": "Bospor aréna",
+      "latitude": 49.90818,
+      "longitude": 18.365265
+    },
+    {
+      "name": "LKS Olza Godów",
+      "latitude": 49.915563,
+      "longitude": 18.484824
+    },
+    {
+      "name": "Stadion Bazaly",
+      "latitude": 49.845027,
+      "longitude": 18.299328
+    },
+    {
+      "name": "ČPP Aréna",
+      "latitude": 49.8557,
+      "longitude": 18.295253
+    },
+    {
+      "name": "zimní stadion",
+      "latitude": 49.865892,
+      "longitude": 18.428859
+    },
+    {
+      "name": "Městský stadion Karviná",
+      "latitude": 49.845543,
+      "longitude": 18.561399
+    },
+    {
+      "name": "HC Uničov - zimní stadion",
+      "latitude": 49.77001,
+      "longitude": 17.110546
+    },
+    {
+      "name": "Stadion TJ Vítkov",
+      "latitude": 49.773964,
+      "longitude": 17.761073
+    },
+    {
+      "name": "RT TORAX Arena",
+      "latitude": 49.830447,
+      "longitude": 18.175297
+    },
+    {
+      "name": "FC Ostrava - jih",
+      "latitude": 49.788938,
+      "longitude": 18.236186
+    },
+    {
+      "name": "Multifunkční hala",
+      "latitude": 49.805027,
+      "longitude": 18.246883
+    },
+    {
+      "name": "Atletická hala",
+      "latitude": 49.803805,
+      "longitude": 18.247562
+    },
+    {
+      "name": "Ostravar Aréna",
+      "latitude": 49.804944,
+      "longitude": 18.248457
+    },
+    {
+      "name": "Městský stadion v Ostravě-Vítkovicích",
+      "latitude": 49.804256,
+      "longitude": 18.256116
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.597174,
+      "longitude": 17.244668
+    },
+    {
+      "name": "Velodrom Prostějov",
+      "latitude": 49.480286,
+      "longitude": 17.101982
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.447736,
+      "longitude": 17.464362
+    },
+    {
+      "name": "Hokejový stadión",
+      "latitude": 49.590365,
+      "longitude": 18.001154
+    },
+    {
+      "name": "Fotbalový stadion",
+      "latitude": 49.591634,
+      "longitude": 18.003068
+    },
+    {
+      "name": "zimní stadion",
+      "latitude": 49.593445,
+      "longitude": 18.145802
+    },
+    {
+      "name": "Stadion Emila Zátopka",
+      "latitude": 49.588397,
+      "longitude": 18.150999
+    },
+    {
+      "name": "Krytý bazén",
+      "latitude": 49.543374,
+      "longitude": 18.211364
+    },
+    {
+      "name": "Areál Bedlina",
+      "latitude": 49.386821,
+      "longitude": 17.678632
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.470144,
+      "longitude": 17.989977
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.45851,
+      "longitude": 18.125031
+    },
+    {
+      "name": "Slovan Havířov",
+      "latitude": 49.796295,
+      "longitude": 18.412807
+    },
+    {
+      "name": "AZ Havířov",
+      "latitude": 49.76957,
+      "longitude": 18.445427
+    },
+    {
+      "name": "Sportovní hala Milana Romana",
+      "latitude": 49.769461,
+      "longitude": 18.446061
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.742241,
+      "longitude": 18.618273
+    },
+    {
+      "name": "Sportovní centrum Staré Město",
+      "latitude": 49.671374,
+      "longitude": 18.36841
+    },
+    {
+      "name": "Stovky",
+      "latitude": 49.695298,
+      "longitude": 18.343677
+    },
+    {
+      "name": "TJ Slezan",
+      "latitude": 49.68296,
+      "longitude": 18.35102
+    },
+    {
+      "name": "Městský stadion na Lesní",
+      "latitude": 49.669411,
+      "longitude": 18.665873
+    },
+    {
+      "name": "Mini Werk Arena",
+      "latitude": 49.672522,
+      "longitude": 18.662664
+    },
+    {
+      "name": "SK Návsí",
+      "latitude": 49.585611,
+      "longitude": 18.750302
+    },
+    {
+      "name": "1. FK Spartak Jablunkov",
+      "latitude": 49.57954,
+      "longitude": 18.762463
+    },
+    {
+      "name": "TJ Sokol Mosty u Jablunkova",
+      "latitude": 49.524433,
+      "longitude": 18.754007
+    },
+    {
+      "name": "Fotbalový stadion Drnovice",
+      "latitude": 49.275712,
+      "longitude": 16.953399
+    },
+    {
+      "name": "HK Kroměříž",
+      "latitude": 49.293624,
+      "longitude": 17.406806
+    },
+    {
+      "name": "Fotbalový stadion FC Morkovice",
+      "latitude": 49.247444,
+      "longitude": 17.212802
+    },
+    {
+      "name": "Sport. areál TJ Jiskra",
+      "latitude": 49.222589,
+      "longitude": 17.507366
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.334245,
+      "longitude": 17.990577
+    },
+    {
+      "name": "Stadion \"Na Ohradě\"",
+      "latitude": 49.326565,
+      "longitude": 17.999838
+    },
+    {
+      "name": "Zimní stadion Luďka Čajky",
+      "latitude": 49.217667,
+      "longitude": 17.659867
+    },
+    {
+      "name": "SK Jaroslavice",
+      "latitude": 49.210545,
+      "longitude": 17.707596
+    },
+    {
+      "name": "Stadion mládeže",
+      "latitude": 49.22134,
+      "longitude": 17.667983
+    },
+    {
+      "name": "Atletický areál",
+      "latitude": 49.065909,
+      "longitude": 17.472732
+    },
+    {
+      "name": "Fotbalový stadion Na Bělince",
+      "latitude": 49.044316,
+      "longitude": 17.46428
+    },
+    {
+      "name": "SK SLOVÁCKÁ VIKTORIA",
+      "latitude": 49.041637,
+      "longitude": 17.817875
+    },
+    {
+      "name": "Orelský stadion",
+      "latitude": 49.018018,
+      "longitude": 17.648625
+    },
+    {
+      "name": "Zimní Stadion",
+      "latitude": 49.018104,
+      "longitude": 17.650039
+    },
+    {
+      "name": "Městský stadion v Horním parku",
+      "latitude": 48.858416,
+      "longitude": 16.052136
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 48.760563,
+      "longitude": 16.873658
+    },
+    {
+      "name": "Zimní stadion Luďka Nedomanského",
+      "latitude": 48.852526,
+      "longitude": 17.124226
+    },
+    {
+      "name": "amfiteátr",
+      "latitude": 48.902605,
+      "longitude": 17.310991
+    },
+    {
+      "name": "Letní kino, stadion Zahrada",
+      "latitude": 48.904835,
+      "longitude": 17.317696
+    }
+  ],
+  "meta": {
+    "title": "Stadiony - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných stadionů v České republice (225 záznamů) — body zájmu z OpenStreetMap (tag leisure=stadium), výřez EU-POIS/CZ. Obsahuje 225 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Stadiony | ListBase",
+    "seo_description": "Stáhnout Stadiony — 225 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 225 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

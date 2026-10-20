@@ -1,0 +1,305 @@
+{
+  "id": "cs-letiste-mezinarodni",
+  "name": "Mezinárodní a komerční letiště v České republice",
+  "title": "Mezinárodní a komerční letiště v České republice",
+  "description": "Letiště v České republice s přiděleným IATA kódem — typicky komerční / mezinárodní letiště a větší letecké základny. Obsahuje hlavní mezinárodní letiště Václava Havla v Praze (PRG/LKPR), Brno-Tuřany (BRQ/LKTB), Ostrava Leoše Janáčka (OSR/LKMT), Karlovy Vary (KLV/LKKV), Pardubice (PED/LKPD) a další letiště s IATA. (Czech airports with assigned IATA codes — typically commercial / international airports and major air bases. Subset of cs-letiste filtered to has_iata=true.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKHO",
+      "iata": "GTW",
+      "name": "Holesov Airport",
+      "name_slug": "holesov-airport",
+      "city": "Holesov",
+      "kraj": "Zlínský kraj",
+      "kraj_source": "Zlin",
+      "kraj_slug": "zlinsky",
+      "kraj_en": "Zlín",
+      "country": "CZ",
+      "elevation_ft": 761,
+      "lat": 49.3143997192,
+      "lon": 17.5688991547,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKKU",
+      "iata": "UHE",
+      "name": "Kunovice Airport",
+      "name_slug": "kunovice-airport",
+      "city": "Uherske Hradiste",
+      "kraj": "Zlínský kraj",
+      "kraj_source": "Zlin",
+      "kraj_slug": "zlinsky",
+      "kraj_en": "Zlín",
+      "country": "CZ",
+      "elevation_ft": 581,
+      "lat": 49.0293998718,
+      "lon": 17.439699173,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKKV",
+      "iata": "KLV",
+      "name": "Karlovy Vary International Airport",
+      "name_slug": "karlovy-vary-international-airport",
+      "city": "Karlovy Vary",
+      "kraj": "Karlovarský kraj",
+      "kraj_source": "Karlovarsky",
+      "kraj_slug": "karlovarsky",
+      "kraj_en": "Karlovy Vary",
+      "country": "CZ",
+      "elevation_ft": 1989,
+      "lat": 50.202999115,
+      "lon": 12.9149999619,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKMR",
+      "iata": "MKA",
+      "name": "Marianske Lazne Airport",
+      "name_slug": "marianske-lazne-airport",
+      "city": "Marianske Lazne",
+      "kraj": "Karlovarský kraj",
+      "kraj_source": "Karlovarsky",
+      "kraj_slug": "karlovarsky",
+      "kraj_en": "Karlovy Vary",
+      "country": "CZ",
+      "elevation_ft": 1772,
+      "lat": 49.9227981567,
+      "lon": 12.7246999741,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKMT",
+      "iata": "OSR",
+      "name": "Ostrava Leos Janacek Airport",
+      "name_slug": "ostrava-leos-janacek-airport",
+      "city": "Ostrava",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_source": "Moravskoslezsky",
+      "kraj_slug": "moravskoslezsky",
+      "kraj_en": "Moravian-Silesian",
+      "country": "CZ",
+      "elevation_ft": 844,
+      "lat": 49.6963005066,
+      "lon": 18.1110992432,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKOL",
+      "iata": "OLO",
+      "name": "Olomouc Glider Airport",
+      "name_slug": "olomouc-glider-airport",
+      "city": "Olomouc",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 869,
+      "lat": 49.5877990723,
+      "lon": 17.2108001709,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKPD",
+      "iata": "PED",
+      "name": "Pardubice Airport",
+      "name_slug": "pardubice-airport",
+      "city": "Pardubice",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 741,
+      "lat": 50.0134010315,
+      "lon": 15.7385997772,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKPO",
+      "iata": "PRV",
+      "name": "Prerov Air Base",
+      "name_slug": "prerov-air-base",
+      "city": "Prerov",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 676,
+      "lat": 49.4258003235,
+      "lon": 17.4046993256,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKPR",
+      "iata": "PRG",
+      "name": "Vaclav Havel Airport",
+      "name_slug": "vaclav-havel-airport",
+      "city": "Prague",
+      "kraj": "Hlavní město Praha",
+      "kraj_source": "Praha",
+      "kraj_slug": "praha",
+      "kraj_en": "Prague",
+      "country": "CZ",
+      "elevation_ft": 1247,
+      "lat": 50.1007995605,
+      "lon": 14.2600002289,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKTB",
+      "iata": "BRQ",
+      "name": "Brno-Turany Airport",
+      "name_slug": "brno-turany-airport",
+      "city": "Brno",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 778,
+      "lat": 49.1512985229,
+      "lon": 16.6944007874,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKVO",
+      "iata": "VOD",
+      "name": "Vodochody Airport",
+      "name_slug": "vodochody-airport",
+      "city": "Vodochoky",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 919,
+      "lat": 50.2165985107,
+      "lon": 14.3957996368,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKZA",
+      "iata": "ZBE",
+      "name": "Zabreh Ostrava Airport",
+      "name_slug": "zabreh-ostrava-airport",
+      "city": "Zabreh",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_source": "Moravskoslezsky",
+      "kraj_slug": "moravskoslezsky",
+      "kraj_en": "Moravian-Silesian",
+      "country": "CZ",
+      "elevation_ft": 791,
+      "lat": 49.9282989502,
+      "lon": 18.0783004761,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Mezinárodní a komerční letiště v České republice - Stáhnout zdarma",
+    "description": "Letiště v České republice s přiděleným IATA kódem — typicky komerční / mezinárodní letiště a větší letecké základny. Obsahuje hlavní mezinárodní letiště Václava Havla v Praze (PRG/LKPR), Brno-Tuřany (BRQ/LKTB), Ostrava Leoše Janáčka (OSR/LKMT), Karlovy Vary (KLV/LKKV), Pardubice (PED/LKPD) a další letiště s IATA. (Czech airports with assigned IATA codes — typically commercial / international airports and major air bases. Subset of cs-letiste filtered to has_iata=true.) Obsahuje 12 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Mezinárodní a komerční letiště v České republice | ListBase",
+    "seo_description": "Stáhnout Mezinárodní a komerční letiště v České republice — 12 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 12 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

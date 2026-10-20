@@ -1,0 +1,5741 @@
+{
+  "id": "cs-pekarstvi",
+  "name": "Pekařství",
+  "title": "Pekařství",
+  "description": "Pekařství v České republice (1140 záznamů) — body zájmu z OpenStreetMap (tag shop=bakery), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1140,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "42 gramů",
+      "latitude": 50.772922,
+      "longitude": 15.079149
+    },
+    {
+      "name": "ADW Food",
+      "latitude": 49.397218,
+      "longitude": 15.589417
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.143602,
+      "longitude": 15.021313
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.146658,
+      "longitude": 15.003656
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.237746,
+      "longitude": 15.070526
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.393132,
+      "longitude": 14.688153
+    },
+    {
+      "name": "ADÉLKA",
+      "latitude": 49.413627,
+      "longitude": 15.592197
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.444743,
+      "longitude": 15.61327
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.53924,
+      "longitude": 15.345774
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.539541,
+      "longitude": 15.355181
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.540716,
+      "longitude": 15.359833
+    },
+    {
+      "name": "Adélka",
+      "latitude": 49.602972,
+      "longitude": 15.580961
+    },
+    {
+      "name": "ADÉLKA, a.s.",
+      "latitude": 49.471941,
+      "longitude": 15.002472
+    },
+    {
+      "name": "Agrodružstvo Roštění - pekárna",
+      "latitude": 49.363243,
+      "longitude": 17.534281
+    },
+    {
+      "name": "Almagrana",
+      "latitude": 49.235243,
+      "longitude": 14.185123
+    },
+    {
+      "name": "AlterNativa BAKERY",
+      "latitude": 49.834434,
+      "longitude": 18.16741
+    },
+    {
+      "name": "Antonín Halouzka",
+      "latitude": 49.203564,
+      "longitude": 16.882914
+    },
+    {
+      "name": "Antonínovo pekařství",
+      "latitude": 50.068936,
+      "longitude": 14.454697
+    },
+    {
+      "name": "Antonínovo pekařství",
+      "latitude": 50.074898,
+      "longitude": 14.437724
+    },
+    {
+      "name": "Antonínovo pekařství",
+      "latitude": 50.07591,
+      "longitude": 14.403883
+    },
+    {
+      "name": "Antonínovo pekařství",
+      "latitude": 50.078855,
+      "longitude": 14.450327
+    },
+    {
+      "name": "Antonínovo pekařství",
+      "latitude": 50.093186,
+      "longitude": 14.446986
+    },
+    {
+      "name": "Antonínovo pekařství",
+      "latitude": 50.100884,
+      "longitude": 14.398575
+    },
+    {
+      "name": "Aplica",
+      "latitude": 50.661269,
+      "longitude": 13.864517
+    },
+    {
+      "name": "Arctic Bakehouse",
+      "latitude": 50.090218,
+      "longitude": 14.435263
+    },
+    {
+      "name": "Arete",
+      "latitude": 49.457726,
+      "longitude": 18.142645
+    },
+    {
+      "name": "Artic Bakehouse",
+      "latitude": 50.077709,
+      "longitude": 14.416617
+    },
+    {
+      "name": "Artistic bakehouse",
+      "latitude": 50.075148,
+      "longitude": 14.4037
+    },
+    {
+      "name": "aus Wunderlichs Backstuben",
+      "latitude": 50.355993,
+      "longitude": 12.469855
+    },
+    {
+      "name": "Aux Merveilleux",
+      "latitude": 50.090175,
+      "longitude": 14.428171
+    },
+    {
+      "name": "AZPEK",
+      "latitude": 49.952195,
+      "longitude": 18.078521
+    },
+    {
+      "name": "Bachan",
+      "latitude": 48.951566,
+      "longitude": 17.381741
+    },
+    {
+      "name": "Bajusz",
+      "latitude": 49.57638,
+      "longitude": 18.765015
+    },
+    {
+      "name": "Bajusz",
+      "latitude": 49.614137,
+      "longitude": 18.738431
+    },
+    {
+      "name": "Bajusz",
+      "latitude": 49.635593,
+      "longitude": 18.711111
+    },
+    {
+      "name": "Bajusz",
+      "latitude": 49.636045,
+      "longitude": 18.71933
+    },
+    {
+      "name": "Bajusz",
+      "latitude": 49.655314,
+      "longitude": 18.695864
+    },
+    {
+      "name": "Bajusz",
+      "latitude": 49.667443,
+      "longitude": 18.675287
+    },
+    {
+      "name": "Bajusz",
+      "latitude": 49.746201,
+      "longitude": 18.626156
+    },
+    {
+      "name": "Bakery Sweet Caffe",
+      "latitude": 49.198049,
+      "longitude": 16.605255
+    },
+    {
+      "name": "Bakery Řečice",
+      "latitude": 49.568063,
+      "longitude": 15.939985
+    },
+    {
+      "name": "Bakeshop",
+      "latitude": 50.087837,
+      "longitude": 14.409363
+    },
+    {
+      "name": "Balabán",
+      "latitude": 49.298335,
+      "longitude": 16.529638
+    },
+    {
+      "name": "Balabán",
+      "latitude": 49.348891,
+      "longitude": 16.421388
+    },
+    {
+      "name": "Bartoňova pekárna",
+      "latitude": 49.565355,
+      "longitude": 17.742216
+    },
+    {
+      "name": "Bartoňova pekárna",
+      "latitude": 49.640605,
+      "longitude": 18.14372
+    },
+    {
+      "name": "Bavorka",
+      "latitude": 49.983826,
+      "longitude": 14.491485
+    },
+    {
+      "name": "Benea",
+      "latitude": 49.700311,
+      "longitude": 14.906515
+    },
+    {
+      "name": "Benea",
+      "latitude": 49.992026,
+      "longitude": 14.658644
+    },
+    {
+      "name": "BENEA, pečivo",
+      "latitude": 49.832727,
+      "longitude": 14.589884
+    },
+    {
+      "name": "Beneš",
+      "latitude": 49.8803,
+      "longitude": 15.063226
+    },
+    {
+      "name": "Betina",
+      "latitude": 49.84402,
+      "longitude": 18.156702
+    },
+    {
+      "name": "Betlehem",
+      "latitude": 49.750371,
+      "longitude": 18.628139
+    },
+    {
+      "name": "Bezlepková Pekárna",
+      "latitude": 50.091976,
+      "longitude": 14.427
+    },
+    {
+      "name": "Bezlepková pekárna Bezručovka",
+      "latitude": 49.671072,
+      "longitude": 18.347516
+    },
+    {
+      "name": "Bistro",
+      "latitude": 50.788779,
+      "longitude": 14.81674
+    },
+    {
+      "name": "Bistro 56",
+      "latitude": 49.827192,
+      "longitude": 18.173018
+    },
+    {
+      "name": "Bistro OK",
+      "latitude": 49.589083,
+      "longitude": 18.354817
+    },
+    {
+      "name": "Bistro Pekárna",
+      "latitude": 50.099578,
+      "longitude": 14.440128
+    },
+    {
+      "name": "Blatnická pekárna",
+      "latitude": 49.068489,
+      "longitude": 17.462536
+    },
+    {
+      "name": "Bláha",
+      "latitude": 50.766078,
+      "longitude": 15.057044
+    },
+    {
+      "name": "Bochníček",
+      "latitude": 50.075741,
+      "longitude": 14.422596
+    },
+    {
+      "name": "BONAVITA - podniková prodejna",
+      "latitude": 49.921844,
+      "longitude": 14.640559
+    },
+    {
+      "name": "Borová",
+      "latitude": 49.714028,
+      "longitude": 16.265647
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.54805,
+      "longitude": 18.337208
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.601359,
+      "longitude": 18.141295
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.632756,
+      "longitude": 18.313335
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.671678,
+      "longitude": 18.329149
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.676849,
+      "longitude": 18.340425
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.682149,
+      "longitude": 18.340194
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.684719,
+      "longitude": 18.352728
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.685558,
+      "longitude": 18.350134
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.685889,
+      "longitude": 18.330873
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.688979,
+      "longitude": 18.124837
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.730776,
+      "longitude": 18.236718
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.733472,
+      "longitude": 18.226224
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.770713,
+      "longitude": 18.308818
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.786003,
+      "longitude": 18.25727
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.791658,
+      "longitude": 18.236775
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.792823,
+      "longitude": 18.248467
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.797115,
+      "longitude": 18.257065
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.829791,
+      "longitude": 18.255344
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.844355,
+      "longitude": 18.169481
+    },
+    {
+      "name": "Boček",
+      "latitude": 49.896471,
+      "longitude": 18.193793
+    },
+    {
+      "name": "Božena Pyszková",
+      "latitude": 49.576711,
+      "longitude": 18.764275
+    },
+    {
+      "name": "Breadguy",
+      "latitude": 49.224006,
+      "longitude": 16.593456
+    },
+    {
+      "name": "BreadHaus",
+      "latitude": 49.744039,
+      "longitude": 13.378381
+    },
+    {
+      "name": "Bufet Václav",
+      "latitude": 49.223848,
+      "longitude": 16.592937
+    },
+    {
+      "name": "Bäcker Lebelt",
+      "latitude": 51.045667,
+      "longitude": 14.482443
+    },
+    {
+      "name": "Bäckerei & Konditorei Helm",
+      "latitude": 50.356216,
+      "longitude": 12.468655
+    },
+    {
+      "name": "Bäckerei & Konditorei Lang",
+      "latitude": 50.418655,
+      "longitude": 12.969595
+    },
+    {
+      "name": "Bäckerei & Konditorei Roscher",
+      "latitude": 50.420592,
+      "longitude": 12.972174
+    },
+    {
+      "name": "Bäckerei Becke",
+      "latitude": 50.987865,
+      "longitude": 14.603613
+    },
+    {
+      "name": "Bäckerei Döller",
+      "latitude": 48.766376,
+      "longitude": 14.985701
+    },
+    {
+      "name": "Bäckerei Döller",
+      "latitude": 48.773125,
+      "longitude": 14.986261
+    },
+    {
+      "name": "Bäckerei Füssel",
+      "latitude": 51.006881,
+      "longitude": 14.579264
+    },
+    {
+      "name": "Bäckerei Hesse",
+      "latitude": 50.527113,
+      "longitude": 13.192687
+    },
+    {
+      "name": "Bäckerei Lang",
+      "latitude": 50.418326,
+      "longitude": 12.967533
+    },
+    {
+      "name": "Bäckerei Schmieder",
+      "latitude": 50.631074,
+      "longitude": 13.493574
+    },
+    {
+      "name": "Bäckerei Schmieder",
+      "latitude": 50.650954,
+      "longitude": 13.363082
+    },
+    {
+      "name": "Bäckerei Scholze",
+      "latitude": 51.008958,
+      "longitude": 14.582156
+    },
+    {
+      "name": "Bäckerei Schürer",
+      "latitude": 50.382708,
+      "longitude": 12.483992
+    },
+    {
+      "name": "Bílovická pekárna",
+      "latitude": 49.181719,
+      "longitude": 16.389626
+    },
+    {
+      "name": "Bílovická pekárna",
+      "latitude": 49.195252,
+      "longitude": 16.611049
+    },
+    {
+      "name": "Bílovická pekárna",
+      "latitude": 49.246254,
+      "longitude": 16.67314
+    },
+    {
+      "name": "Bítešské pečivo",
+      "latitude": 49.179179,
+      "longitude": 16.595567
+    },
+    {
+      "name": "CAFÉ Globus",
+      "latitude": 50.053047,
+      "longitude": 14.295925
+    },
+    {
+      "name": "Carlini",
+      "latitude": 49.201374,
+      "longitude": 16.601963
+    },
+    {
+      "name": "Carlini",
+      "latitude": 49.215598,
+      "longitude": 16.602602
+    },
+    {
+      "name": "Celia fit",
+      "latitude": 49.596373,
+      "longitude": 17.247655
+    },
+    {
+      "name": "Chleba",
+      "latitude": 49.192389,
+      "longitude": 16.606704
+    },
+    {
+      "name": "Chleba",
+      "latitude": 49.198853,
+      "longitude": 16.617053
+    },
+    {
+      "name": "Chleba se solí",
+      "latitude": 48.975973,
+      "longitude": 14.472615
+    },
+    {
+      "name": "Chleba se solí - Lipno",
+      "latitude": 48.640058,
+      "longitude": 14.229483
+    },
+    {
+      "name": "Chleby jako v nebi",
+      "latitude": 49.950191,
+      "longitude": 15.267614
+    },
+    {
+      "name": "Chlebíčky",
+      "latitude": 49.595068,
+      "longitude": 17.25195
+    },
+    {
+      "name": "Chléb - pečivo",
+      "latitude": 50.140318,
+      "longitude": 14.074323
+    },
+    {
+      "name": "Choceňské pečivo",
+      "latitude": 49.997898,
+      "longitude": 16.221879
+    },
+    {
+      "name": "Chodská pekárna",
+      "latitude": 49.44031,
+      "longitude": 12.928255
+    },
+    {
+      "name": "Creperie",
+      "latitude": 50.410952,
+      "longitude": 12.922966
+    },
+    {
+      "name": "Crocus",
+      "latitude": 49.175381,
+      "longitude": 16.569646
+    },
+    {
+      "name": "Crocus",
+      "latitude": 49.185382,
+      "longitude": 16.625576
+    },
+    {
+      "name": "Crocus",
+      "latitude": 49.188054,
+      "longitude": 16.606734
+    },
+    {
+      "name": "Crocus",
+      "latitude": 49.189115,
+      "longitude": 16.602773
+    },
+    {
+      "name": "Crocus",
+      "latitude": 49.19389,
+      "longitude": 16.611333
+    },
+    {
+      "name": "Crocus",
+      "latitude": 49.210343,
+      "longitude": 16.618883
+    },
+    {
+      "name": "Crocus",
+      "latitude": 49.212345,
+      "longitude": 16.592277
+    },
+    {
+      "name": "Croûte",
+      "latitude": 49.74568,
+      "longitude": 13.376573
+    },
+    {
+      "name": "Cruz Panaderia",
+      "latitude": 50.100043,
+      "longitude": 14.421817
+    },
+    {
+      "name": "Cucarnya cheap",
+      "latitude": 50.089528,
+      "longitude": 14.426317
+    },
+    {
+      "name": "Cukrárna",
+      "latitude": 49.302933,
+      "longitude": 15.077156
+    },
+    {
+      "name": "Cukrárna a pekařství Ivanka",
+      "latitude": 48.878099,
+      "longitude": 16.036439
+    },
+    {
+      "name": "Cukrárna a pekárna Stáňa",
+      "latitude": 49.807642,
+      "longitude": 14.280044
+    },
+    {
+      "name": "Cukrárna Perníčkovi",
+      "latitude": 49.988903,
+      "longitude": 14.470237
+    },
+    {
+      "name": "Cukrárna Český ráj",
+      "latitude": 50.576906,
+      "longitude": 15.250289
+    },
+    {
+      "name": "Cupeko - Pekárna Javorský",
+      "latitude": 49.232824,
+      "longitude": 13.521082
+    },
+    {
+      "name": "Cyrilovo pekařství",
+      "latitude": 49.468821,
+      "longitude": 18.007398
+    },
+    {
+      "name": "Cyrilovo Pekařství a cukrářství",
+      "latitude": 49.459373,
+      "longitude": 18.126204
+    },
+    {
+      "name": "Czernichów",
+      "latitude": 49.748652,
+      "longitude": 18.631739
+    },
+    {
+      "name": "Daspek",
+      "latitude": 50.055025,
+      "longitude": 14.580415
+    },
+    {
+      "name": "Dačická pekárna",
+      "latitude": 49.088399,
+      "longitude": 15.437152
+    },
+    {
+      "name": "Decagram",
+      "latitude": 50.104434,
+      "longitude": 14.477216
+    },
+    {
+      "name": "Defidu",
+      "latitude": 50.085428,
+      "longitude": 14.455414
+    },
+    {
+      "name": "Defidu Croissanterie",
+      "latitude": 50.078771,
+      "longitude": 14.434913
+    },
+    {
+      "name": "Dejvické pekařství",
+      "latitude": 50.106849,
+      "longitude": 14.394314
+    },
+    {
+      "name": "Dezertína",
+      "latitude": 49.193748,
+      "longitude": 16.613123
+    },
+    {
+      "name": "Dezertína",
+      "latitude": 49.205134,
+      "longitude": 16.659947
+    },
+    {
+      "name": "Dobrotárna",
+      "latitude": 50.157303,
+      "longitude": 14.766823
+    },
+    {
+      "name": "Dobrá pekárna",
+      "latitude": 50.308917,
+      "longitude": 12.955915
+    },
+    {
+      "name": "Dobrůtky od Věrky",
+      "latitude": 49.596562,
+      "longitude": 17.246803
+    },
+    {
+      "name": "Dobřanské pekařství",
+      "latitude": 49.656588,
+      "longitude": 13.199757
+    },
+    {
+      "name": "Dobřanské pekařství",
+      "latitude": 49.743759,
+      "longitude": 13.374604
+    },
+    {
+      "name": "Domino",
+      "latitude": 48.979557,
+      "longitude": 14.446486
+    },
+    {
+      "name": "Domácí pečivo",
+      "latitude": 49.201722,
+      "longitude": 16.641444
+    },
+    {
+      "name": "DOPES",
+      "latitude": 49.488757,
+      "longitude": 16.662454
+    },
+    {
+      "name": "DOPES Pekárna Benešov",
+      "latitude": 49.347377,
+      "longitude": 16.420027
+    },
+    {
+      "name": "DOPES s.r.o",
+      "latitude": 49.509588,
+      "longitude": 16.76992
+    },
+    {
+      "name": "Dostál",
+      "latitude": 50.213123,
+      "longitude": 15.817518
+    },
+    {
+      "name": "Dymák pekárna",
+      "latitude": 49.9451,
+      "longitude": 15.671135
+    },
+    {
+      "name": "DéKáčko",
+      "latitude": 48.973792,
+      "longitude": 14.475119
+    },
+    {
+      "name": "DéKáčko",
+      "latitude": 48.973967,
+      "longitude": 14.463606
+    },
+    {
+      "name": "DéKáčko",
+      "latitude": 48.981952,
+      "longitude": 14.444974
+    },
+    {
+      "name": "DéKáčko",
+      "latitude": 48.985065,
+      "longitude": 14.471876
+    },
+    {
+      "name": "DéKáčko",
+      "latitude": 49.00406,
+      "longitude": 14.761174
+    },
+    {
+      "name": "Dům pečiva",
+      "latitude": 50.227038,
+      "longitude": 17.206838
+    },
+    {
+      "name": "Enapo",
+      "latitude": 49.361676,
+      "longitude": 16.354149
+    },
+    {
+      "name": "Enpeka",
+      "latitude": 49.288579,
+      "longitude": 16.22766
+    },
+    {
+      "name": "Enpeka",
+      "latitude": 49.456763,
+      "longitude": 16.335525
+    },
+    {
+      "name": "Enpeka",
+      "latitude": 49.52382,
+      "longitude": 16.25935
+    },
+    {
+      "name": "Enpeka",
+      "latitude": 49.555115,
+      "longitude": 15.937363
+    },
+    {
+      "name": "Enpeka",
+      "latitude": 49.560924,
+      "longitude": 16.073088
+    },
+    {
+      "name": "Enpeka",
+      "latitude": 49.563684,
+      "longitude": 16.077061
+    },
+    {
+      "name": "Enpeka",
+      "latitude": 49.599316,
+      "longitude": 15.588181
+    },
+    {
+      "name": "Enpeka a.s.",
+      "latitude": 49.57838,
+      "longitude": 16.362987
+    },
+    {
+      "name": "Erika",
+      "latitude": 50.088495,
+      "longitude": 14.343982
+    },
+    {
+      "name": "Erpeko",
+      "latitude": 49.743171,
+      "longitude": 18.623095
+    },
+    {
+      "name": "Erpeko",
+      "latitude": 49.748299,
+      "longitude": 18.619304
+    },
+    {
+      "name": "Erpeko",
+      "latitude": 49.767947,
+      "longitude": 18.454708
+    },
+    {
+      "name": "Erpeko",
+      "latitude": 49.770676,
+      "longitude": 18.447614
+    },
+    {
+      "name": "Erpeko",
+      "latitude": 49.823892,
+      "longitude": 18.210471
+    },
+    {
+      "name": "Farmářská prodejna",
+      "latitude": 50.262342,
+      "longitude": 17.396397
+    },
+    {
+      "name": "Farmářský Dům",
+      "latitude": 50.622556,
+      "longitude": 15.627131
+    },
+    {
+      "name": "Feinbäckerei Petersen",
+      "latitude": 50.901992,
+      "longitude": 14.654611
+    },
+    {
+      "name": "Fermento",
+      "latitude": 50.08123,
+      "longitude": 14.253706
+    },
+    {
+      "name": "Fiala - Praha s.r.o.",
+      "latitude": 50.054966,
+      "longitude": 14.293403
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 49.545658,
+      "longitude": 18.21307
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 49.592916,
+      "longitude": 17.277803
+    },
+    {
+      "name": "Francouzská pekárna",
+      "latitude": 49.749377,
+      "longitude": 13.379519
+    },
+    {
+      "name": "Frydrych",
+      "latitude": 49.99324,
+      "longitude": 14.657626
+    },
+    {
+      "name": "Gastro Hvězda",
+      "latitude": 50.668612,
+      "longitude": 14.016752
+    },
+    {
+      "name": "Gnauck's Backhaus",
+      "latitude": 50.977586,
+      "longitude": 14.276319
+    },
+    {
+      "name": "Gobe",
+      "latitude": 49.897711,
+      "longitude": 18.186932
+    },
+    {
+      "name": "Gobe",
+      "latitude": 49.94676,
+      "longitude": 18.238497
+    },
+    {
+      "name": "GOBE",
+      "latitude": 49.977481,
+      "longitude": 18.187072
+    },
+    {
+      "name": "Gollner",
+      "latitude": 50.095777,
+      "longitude": 12.222956
+    },
+    {
+      "name": "Good Food",
+      "latitude": 50.085947,
+      "longitude": 14.414974
+    },
+    {
+      "name": "Gruzínská pekárna BEBO",
+      "latitude": 50.046963,
+      "longitude": 14.408052
+    },
+    {
+      "name": "GULE cookies",
+      "latitude": 50.044365,
+      "longitude": 14.447788
+    },
+    {
+      "name": "Habac",
+      "latitude": 50.911592,
+      "longitude": 14.623209
+    },
+    {
+      "name": "Haback",
+      "latitude": 51.002517,
+      "longitude": 14.465683
+    },
+    {
+      "name": "Halas",
+      "latitude": 49.066003,
+      "longitude": 17.028904
+    },
+    {
+      "name": "Hapek",
+      "latitude": 49.009577,
+      "longitude": 17.126416
+    },
+    {
+      "name": "Hapek",
+      "latitude": 49.105684,
+      "longitude": 17.163217
+    },
+    {
+      "name": "Harmonie",
+      "latitude": 50.762118,
+      "longitude": 15.047672
+    },
+    {
+      "name": "Hekrovo pekařství",
+      "latitude": 49.716374,
+      "longitude": 13.949474
+    },
+    {
+      "name": "Hello",
+      "latitude": 50.076052,
+      "longitude": 14.515762
+    },
+    {
+      "name": "Hello",
+      "latitude": 50.109662,
+      "longitude": 14.440191
+    },
+    {
+      "name": "Hello",
+      "latitude": 50.124633,
+      "longitude": 14.456073
+    },
+    {
+      "name": "Hello",
+      "latitude": 50.126641,
+      "longitude": 14.469702
+    },
+    {
+      "name": "Hello",
+      "latitude": 50.149307,
+      "longitude": 15.123712
+    },
+    {
+      "name": "Hello",
+      "latitude": 50.214504,
+      "longitude": 15.810588
+    },
+    {
+      "name": "Hello Pekařství",
+      "latitude": 50.101609,
+      "longitude": 14.501767
+    },
+    {
+      "name": "Hello!",
+      "latitude": 48.973913,
+      "longitude": 14.488331
+    },
+    {
+      "name": "Hello!",
+      "latitude": 49.414065,
+      "longitude": 14.676556
+    },
+    {
+      "name": "Hello!",
+      "latitude": 49.592377,
+      "longitude": 17.278098
+    },
+    {
+      "name": "Hello!",
+      "latitude": 49.677799,
+      "longitude": 18.354226
+    },
+    {
+      "name": "Hello!",
+      "latitude": 49.743392,
+      "longitude": 13.388018
+    },
+    {
+      "name": "Hello!",
+      "latitude": 49.850673,
+      "longitude": 18.267446
+    },
+    {
+      "name": "Hello!",
+      "latitude": 49.957577,
+      "longitude": 14.075945
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.061281,
+      "longitude": 14.408826
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.074179,
+      "longitude": 12.379993
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.074472,
+      "longitude": 14.722926
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.075474,
+      "longitude": 14.424232
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.095498,
+      "longitude": 14.347105
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.109072,
+      "longitude": 14.57717
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.239036,
+      "longitude": 14.313202
+    },
+    {
+      "name": "Hello! pekařství",
+      "latitude": 50.024798,
+      "longitude": 15.214211
+    },
+    {
+      "name": "Herold",
+      "latitude": 49.010103,
+      "longitude": 17.124284
+    },
+    {
+      "name": "Herold",
+      "latitude": 49.152283,
+      "longitude": 16.877139
+    },
+    {
+      "name": "Herold",
+      "latitude": 49.192881,
+      "longitude": 16.635424
+    },
+    {
+      "name": "Heroldova pekárna",
+      "latitude": 49.20901,
+      "longitude": 16.687007
+    },
+    {
+      "name": "Heroldova Pekárna",
+      "latitude": 49.210207,
+      "longitude": 16.602578
+    },
+    {
+      "name": "Heroldova pekárna",
+      "latitude": 49.211355,
+      "longitude": 16.63392
+    },
+    {
+      "name": "Heroldova Pekárna",
+      "latitude": 49.221221,
+      "longitude": 16.585226
+    },
+    {
+      "name": "Hnatovo pekařství",
+      "latitude": 50.016766,
+      "longitude": 12.552918
+    },
+    {
+      "name": "Hojdysz",
+      "latitude": 49.747451,
+      "longitude": 18.631293
+    },
+    {
+      "name": "Holky z trouby",
+      "latitude": 48.858419,
+      "longitude": 16.048884
+    },
+    {
+      "name": "Holýšovská pekárna",
+      "latitude": 49.743249,
+      "longitude": 13.377281
+    },
+    {
+      "name": "Holýšovské pekařství Kuric",
+      "latitude": 49.746532,
+      "longitude": 13.382579
+    },
+    {
+      "name": "Hradecká pekárna",
+      "latitude": 50.036373,
+      "longitude": 15.77236
+    },
+    {
+      "name": "Hradecká Pekárna",
+      "latitude": 50.212558,
+      "longitude": 15.833487
+    },
+    {
+      "name": "Hradecká pekárna",
+      "latitude": 50.21293,
+      "longitude": 15.831197
+    },
+    {
+      "name": "Hradecká pekárna",
+      "latitude": 50.213417,
+      "longitude": 15.818971
+    },
+    {
+      "name": "Hradecká pekárna",
+      "latitude": 50.35165,
+      "longitude": 16.150368
+    },
+    {
+      "name": "Hrubý",
+      "latitude": 50.044795,
+      "longitude": 15.753768
+    },
+    {
+      "name": "Hukvaldská pekárna",
+      "latitude": 49.9358,
+      "longitude": 14.183992
+    },
+    {
+      "name": "Hukvaldská pekárna",
+      "latitude": 50.724926,
+      "longitude": 15.609131
+    },
+    {
+      "name": "Husinecký chléb",
+      "latitude": 48.9737,
+      "longitude": 14.477228
+    },
+    {
+      "name": "Hvězda pekárna",
+      "latitude": 50.08781,
+      "longitude": 14.342346
+    },
+    {
+      "name": "Il pane italská pekárna",
+      "latitude": 50.083236,
+      "longitude": 14.45424
+    },
+    {
+      "name": "Illik",
+      "latitude": 49.785493,
+      "longitude": 18.265211
+    },
+    {
+      "name": "Illík",
+      "latitude": 49.591439,
+      "longitude": 17.253062
+    },
+    {
+      "name": "Illík",
+      "latitude": 49.594944,
+      "longitude": 17.268488
+    },
+    {
+      "name": "Illík",
+      "latitude": 49.680305,
+      "longitude": 18.667265
+    },
+    {
+      "name": "Illík",
+      "latitude": 49.755599,
+      "longitude": 18.013419
+    },
+    {
+      "name": "Illík",
+      "latitude": 49.758786,
+      "longitude": 18.017882
+    },
+    {
+      "name": "Illík",
+      "latitude": 49.827835,
+      "longitude": 18.25718
+    },
+    {
+      "name": "Ilík",
+      "latitude": 49.527473,
+      "longitude": 17.5857
+    },
+    {
+      "name": "Inpeko",
+      "latitude": 50.659765,
+      "longitude": 14.036869
+    },
+    {
+      "name": "Iris",
+      "latitude": 49.182558,
+      "longitude": 16.600408
+    },
+    {
+      "name": "Italské delikatesy",
+      "latitude": 50.095256,
+      "longitude": 14.381075
+    },
+    {
+      "name": "Ivanka",
+      "latitude": 49.103357,
+      "longitude": 16.374176
+    },
+    {
+      "name": "Jarmila",
+      "latitude": 50.040233,
+      "longitude": 14.437477
+    },
+    {
+      "name": "Javorova Pekárna",
+      "latitude": 49.009234,
+      "longitude": 17.581929
+    },
+    {
+      "name": "Jesenická pekárna",
+      "latitude": 49.973637,
+      "longitude": 14.502146
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 49.880963,
+      "longitude": 15.062974
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.027732,
+      "longitude": 14.507815
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.030416,
+      "longitude": 14.525602
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.037441,
+      "longitude": 14.477755
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.045236,
+      "longitude": 14.322097
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.047717,
+      "longitude": 15.750733
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.049953,
+      "longitude": 14.341768
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.050765,
+      "longitude": 14.350965
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.075729,
+      "longitude": 14.423385
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.099296,
+      "longitude": 14.438618
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.10044,
+      "longitude": 14.392263
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.108955,
+      "longitude": 14.57785
+    },
+    {
+      "name": "Ječmínek",
+      "latitude": 50.127811,
+      "longitude": 14.417978
+    },
+    {
+      "name": "Ječmínek pekářství cukrářství",
+      "latitude": 50.099515,
+      "longitude": 14.396378
+    },
+    {
+      "name": "Jihočeské pekařství",
+      "latitude": 49.262607,
+      "longitude": 13.904395
+    },
+    {
+      "name": "Jipek",
+      "latitude": 50.522386,
+      "longitude": 14.97546
+    },
+    {
+      "name": "Jizerské pekárny",
+      "latitude": 50.436035,
+      "longitude": 15.357383
+    },
+    {
+      "name": "Josef Rýdl",
+      "latitude": 50.427234,
+      "longitude": 15.583446
+    },
+    {
+      "name": "Jílek",
+      "latitude": 49.573868,
+      "longitude": 13.332214
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.016701,
+      "longitude": 14.443584
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.017441,
+      "longitude": 14.392132
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.030399,
+      "longitude": 14.525513
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.064767,
+      "longitude": 14.308668
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.073178,
+      "longitude": 14.441757
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.082223,
+      "longitude": 14.457189
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.10964,
+      "longitude": 14.439737
+    },
+    {
+      "name": "Kabát",
+      "latitude": 50.124575,
+      "longitude": 14.456497
+    },
+    {
+      "name": "Kabát Máj",
+      "latitude": 50.081929,
+      "longitude": 14.419867
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 48.837251,
+      "longitude": 16.064397
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 48.853097,
+      "longitude": 16.058981
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 48.853753,
+      "longitude": 16.051347
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.037844,
+      "longitude": 16.614981
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.150509,
+      "longitude": 17.003297
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.152998,
+      "longitude": 16.876879
+    },
+    {
+      "name": "Karlova Pekárna",
+      "latitude": 49.169807,
+      "longitude": 16.564273
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.174044,
+      "longitude": 16.582658
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.17577,
+      "longitude": 16.620887
+    },
+    {
+      "name": "Karlova Pekárna",
+      "latitude": 49.192377,
+      "longitude": 16.60493
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.354403,
+      "longitude": 16.013533
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.404156,
+      "longitude": 16.411241
+    },
+    {
+      "name": "Karlova pekárna",
+      "latitude": 49.485322,
+      "longitude": 17.128522
+    },
+    {
+      "name": "Karolina",
+      "latitude": 49.748317,
+      "longitude": 18.632928
+    },
+    {
+      "name": "Kejval",
+      "latitude": 49.609297,
+      "longitude": 15.578552
+    },
+    {
+      "name": "Kejval",
+      "latitude": 49.949079,
+      "longitude": 15.266004
+    },
+    {
+      "name": "Kesi",
+      "latitude": 49.128564,
+      "longitude": 16.61187
+    },
+    {
+      "name": "kesi",
+      "latitude": 49.152698,
+      "longitude": 16.493172
+    },
+    {
+      "name": "Kesi",
+      "latitude": 49.214994,
+      "longitude": 16.394094
+    },
+    {
+      "name": "Klanicovo pekařství",
+      "latitude": 49.166287,
+      "longitude": 16.726101
+    },
+    {
+      "name": "Klanicovo pekařství",
+      "latitude": 49.192529,
+      "longitude": 16.612361
+    },
+    {
+      "name": "Klanicovo pekařství",
+      "latitude": 49.550626,
+      "longitude": 17.03727
+    },
+    {
+      "name": "Klásek",
+      "latitude": 49.189139,
+      "longitude": 16.599002
+    },
+    {
+      "name": "Kodys & Hamele",
+      "latitude": 50.535603,
+      "longitude": 14.132728
+    },
+    {
+      "name": "Kolacherie",
+      "latitude": 50.087292,
+      "longitude": 14.425873
+    },
+    {
+      "name": "Kollinger",
+      "latitude": 50.073896,
+      "longitude": 14.859733
+    },
+    {
+      "name": "Kollinger",
+      "latitude": 50.106683,
+      "longitude": 14.580679
+    },
+    {
+      "name": "Kollinger",
+      "latitude": 50.162577,
+      "longitude": 14.752566
+    },
+    {
+      "name": "Koláčovna",
+      "latitude": 49.145549,
+      "longitude": 15.003216
+    },
+    {
+      "name": "Kosatec",
+      "latitude": 50.035291,
+      "longitude": 15.774618
+    },
+    {
+      "name": "KRAFIN - plant-based bakery",
+      "latitude": 50.071725,
+      "longitude": 14.445628
+    },
+    {
+      "name": "Krusta",
+      "latitude": 50.079787,
+      "longitude": 14.422827
+    },
+    {
+      "name": "Krusta Artisan Bakery",
+      "latitude": 50.087255,
+      "longitude": 14.407244
+    },
+    {
+      "name": "Krušovická pekárna a cukrárna",
+      "latitude": 50.174851,
+      "longitude": 13.775424
+    },
+    {
+      "name": "Kubíček",
+      "latitude": 50.583215,
+      "longitude": 15.890892
+    },
+    {
+      "name": "Kulhálek & Drápal",
+      "latitude": 49.19418,
+      "longitude": 16.640904
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.111578,
+      "longitude": 16.515844
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.151235,
+      "longitude": 17.002606
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.152988,
+      "longitude": 16.876468
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.165437,
+      "longitude": 16.726505
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.170534,
+      "longitude": 16.580705
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.203007,
+      "longitude": 16.606708
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.210031,
+      "longitude": 16.791359
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.213441,
+      "longitude": 16.575098
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.229359,
+      "longitude": 16.58591
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.25397,
+      "longitude": 16.92599
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.277349,
+      "longitude": 16.999952
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.297908,
+      "longitude": 16.537727
+    },
+    {
+      "name": "Kulhánek & Drápal",
+      "latitude": 49.342857,
+      "longitude": 16.754255
+    },
+    {
+      "name": "Kulhánek a Drápal",
+      "latitude": 49.037101,
+      "longitude": 16.617677
+    },
+    {
+      "name": "Kulhánek a Drápal",
+      "latitude": 49.193567,
+      "longitude": 16.544041
+    },
+    {
+      "name": "Kuliš a Jerie",
+      "latitude": 49.049618,
+      "longitude": 14.194438
+    },
+    {
+      "name": "Kulánek - Drápal",
+      "latitude": 49.276921,
+      "longitude": 16.95234
+    },
+    {
+      "name": "Kunčice",
+      "latitude": 49.545835,
+      "longitude": 18.213364
+    },
+    {
+      "name": "Kupsovo pekařství",
+      "latitude": 49.502867,
+      "longitude": 16.59681
+    },
+    {
+      "name": "Kus Koláče",
+      "latitude": 50.075285,
+      "longitude": 14.453339
+    },
+    {
+      "name": "Kus Žvance",
+      "latitude": 50.77026,
+      "longitude": 15.060617
+    },
+    {
+      "name": "Kvíčerovská pekárna",
+      "latitude": 50.416898,
+      "longitude": 16.164499
+    },
+    {
+      "name": "Kvíčerovská pekárna",
+      "latitude": 50.538993,
+      "longitude": 16.232917
+    },
+    {
+      "name": "Káva a Pečivo",
+      "latitude": 50.106111,
+      "longitude": 14.487371
+    },
+    {
+      "name": "Křížák",
+      "latitude": 49.037136,
+      "longitude": 16.619714
+    },
+    {
+      "name": "La Focacceria",
+      "latitude": 50.070982,
+      "longitude": 14.450341
+    },
+    {
+      "name": "Labužník",
+      "latitude": 50.722651,
+      "longitude": 15.17059
+    },
+    {
+      "name": "Lahůdky Lípa",
+      "latitude": 50.050709,
+      "longitude": 14.347284
+    },
+    {
+      "name": "Landbäckerei Behrendt",
+      "latitude": 50.353297,
+      "longitude": 12.430961
+    },
+    {
+      "name": "Landbäckerei Schmidt",
+      "latitude": 50.983657,
+      "longitude": 14.263209
+    },
+    {
+      "name": "Landshuter",
+      "latitude": 48.827101,
+      "longitude": 13.775137
+    },
+    {
+      "name": "Landshuter",
+      "latitude": 48.89325,
+      "longitude": 13.649645
+    },
+    {
+      "name": "Lapek",
+      "latitude": 49.389791,
+      "longitude": 15.593891
+    },
+    {
+      "name": "Lapek",
+      "latitude": 49.401113,
+      "longitude": 15.588462
+    },
+    {
+      "name": "Lapek",
+      "latitude": 49.404253,
+      "longitude": 15.557068
+    },
+    {
+      "name": "Lapek",
+      "latitude": 49.408189,
+      "longitude": 15.567809
+    },
+    {
+      "name": "Laskominy od Maryny",
+      "latitude": 49.24703,
+      "longitude": 16.580985
+    },
+    {
+      "name": "Le Caveau",
+      "latitude": 50.071506,
+      "longitude": 14.449226
+    },
+    {
+      "name": "Le Pain et Café",
+      "latitude": 49.745831,
+      "longitude": 18.626134
+    },
+    {
+      "name": "Leipomo",
+      "latitude": 48.976764,
+      "longitude": 14.471692
+    },
+    {
+      "name": "Letohrádek a stacionár Vendula",
+      "latitude": 50.079674,
+      "longitude": 14.063899
+    },
+    {
+      "name": "Libeňské lahůdky",
+      "latitude": 48.975911,
+      "longitude": 14.473865
+    },
+    {
+      "name": "Libeřské lahůdky",
+      "latitude": 50.069397,
+      "longitude": 14.405469
+    },
+    {
+      "name": "Libeřské lahůdky",
+      "latitude": 50.099214,
+      "longitude": 14.433086
+    },
+    {
+      "name": "Libeřské lahůdky",
+      "latitude": 50.103595,
+      "longitude": 14.474403
+    },
+    {
+      "name": "Lichtenbergovo pekařství",
+      "latitude": 50.102263,
+      "longitude": 14.402197
+    },
+    {
+      "name": "Lilik",
+      "latitude": 49.713921,
+      "longitude": 17.90549
+    },
+    {
+      "name": "Limma",
+      "latitude": 50.685335,
+      "longitude": 14.540168
+    },
+    {
+      "name": "Lomna",
+      "latitude": 49.673088,
+      "longitude": 18.34234
+    },
+    {
+      "name": "Lomná",
+      "latitude": 49.537589,
+      "longitude": 18.393511
+    },
+    {
+      "name": "Lomná",
+      "latitude": 49.545989,
+      "longitude": 18.213957
+    },
+    {
+      "name": "Lomná",
+      "latitude": 49.58803,
+      "longitude": 18.122341
+    },
+    {
+      "name": "Lomná",
+      "latitude": 49.831584,
+      "longitude": 18.277966
+    },
+    {
+      "name": "Lomná",
+      "latitude": 49.837023,
+      "longitude": 18.294695
+    },
+    {
+      "name": "Ludmila Hlaváčová",
+      "latitude": 49.317441,
+      "longitude": 17.027824
+    },
+    {
+      "name": "Ludvík & Mistrík",
+      "latitude": 50.197868,
+      "longitude": 14.364351
+    },
+    {
+      "name": "Lupínek",
+      "latitude": 50.056629,
+      "longitude": 14.507132
+    },
+    {
+      "name": "Líšeňská pekárna",
+      "latitude": 49.20655,
+      "longitude": 16.697515
+    },
+    {
+      "name": "M a M",
+      "latitude": 49.593762,
+      "longitude": 17.250072
+    },
+    {
+      "name": "M&K",
+      "latitude": 49.890277,
+      "longitude": 18.23996
+    },
+    {
+      "name": "M&K pekařství",
+      "latitude": 49.896216,
+      "longitude": 18.193532
+    },
+    {
+      "name": "M+S pekárna",
+      "latitude": 50.879578,
+      "longitude": 15.181598
+    },
+    {
+      "name": "Majka EŠV",
+      "latitude": 49.825609,
+      "longitude": 18.256266
+    },
+    {
+      "name": "Makovec",
+      "latitude": 49.191761,
+      "longitude": 16.61232
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.738213,
+      "longitude": 13.370466
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.743189,
+      "longitude": 13.328618
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.743472,
+      "longitude": 13.388243
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.744229,
+      "longitude": 13.372982
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.744378,
+      "longitude": 13.378317
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.744548,
+      "longitude": 13.387146
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.746244,
+      "longitude": 13.363147
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.747972,
+      "longitude": 13.374473
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.754773,
+      "longitude": 13.418572
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.887982,
+      "longitude": 13.385682
+    },
+    {
+      "name": "Mama Stella",
+      "latitude": 49.191863,
+      "longitude": 16.603819
+    },
+    {
+      "name": "Mamas Bakery",
+      "latitude": 50.05116,
+      "longitude": 14.350392
+    },
+    {
+      "name": "Mansson's Bakery",
+      "latitude": 50.090885,
+      "longitude": 14.419974
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.169022,
+      "longitude": 16.556543
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.190344,
+      "longitude": 16.59437
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.191487,
+      "longitude": 16.61253
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.204627,
+      "longitude": 16.59545
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.207855,
+      "longitude": 16.6055
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.21802,
+      "longitude": 16.553767
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.218554,
+      "longitude": 16.574088
+    },
+    {
+      "name": "Manukyan",
+      "latitude": 49.227637,
+      "longitude": 16.532202
+    },
+    {
+      "name": "Martin",
+      "latitude": 50.801146,
+      "longitude": 14.433469
+    },
+    {
+      "name": "Martin Černý",
+      "latitude": 50.122232,
+      "longitude": 14.455521
+    },
+    {
+      "name": "Matoka",
+      "latitude": 50.076499,
+      "longitude": 14.430537
+    },
+    {
+      "name": "Matoka",
+      "latitude": 50.077227,
+      "longitude": 14.430676
+    },
+    {
+      "name": "Matoka",
+      "latitude": 50.089015,
+      "longitude": 14.46122
+    },
+    {
+      "name": "Matouš",
+      "latitude": 50.208362,
+      "longitude": 14.378836
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.192732,
+      "longitude": 16.60823
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.200864,
+      "longitude": 16.613036
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.20246,
+      "longitude": 16.636631
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.332794,
+      "longitude": 17.577919
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.364539,
+      "longitude": 16.643983
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.370316,
+      "longitude": 16.642371
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.414764,
+      "longitude": 16.582647
+    },
+    {
+      "name": "Matějovo pekařství",
+      "latitude": 49.594995,
+      "longitude": 17.250471
+    },
+    {
+      "name": "Mařenka",
+      "latitude": 50.093099,
+      "longitude": 14.498976
+    },
+    {
+      "name": "Maškovo pekařství",
+      "latitude": 50.737235,
+      "longitude": 15.247686
+    },
+    {
+      "name": "Medicus",
+      "latitude": 50.432277,
+      "longitude": 15.813206
+    },
+    {
+      "name": "Merhaut",
+      "latitude": 50.035877,
+      "longitude": 15.770387
+    },
+    {
+      "name": "Merhaut pekařství",
+      "latitude": 50.074447,
+      "longitude": 14.417698
+    },
+    {
+      "name": "Merhaut Pekařství",
+      "latitude": 50.213777,
+      "longitude": 15.818759
+    },
+    {
+      "name": "Merhautovo pekařství",
+      "latitude": 49.949462,
+      "longitude": 15.266607
+    },
+    {
+      "name": "Merhautovo pekařství",
+      "latitude": 50.0999,
+      "longitude": 14.425337
+    },
+    {
+      "name": "Merhautovo pekařství",
+      "latitude": 50.14279,
+      "longitude": 15.118015
+    },
+    {
+      "name": "Merhautovo pekařství",
+      "latitude": 50.162487,
+      "longitude": 14.751707
+    },
+    {
+      "name": "Merhautovo pekařství",
+      "latitude": 50.185965,
+      "longitude": 14.660808
+    },
+    {
+      "name": "Merhautovo pekařství",
+      "latitude": 50.200013,
+      "longitude": 14.841074
+    },
+    {
+      "name": "Merhautovo pekařství",
+      "latitude": 50.227697,
+      "longitude": 14.878358
+    },
+    {
+      "name": "Merkur",
+      "latitude": 49.101383,
+      "longitude": 17.760106
+    },
+    {
+      "name": "Mestre",
+      "latitude": 50.0991,
+      "longitude": 14.396994
+    },
+    {
+      "name": "Mikula",
+      "latitude": 50.437326,
+      "longitude": 15.352234
+    },
+    {
+      "name": "Milan Kodádek",
+      "latitude": 49.149145,
+      "longitude": 14.177217
+    },
+    {
+      "name": "Minit",
+      "latitude": 48.75383,
+      "longitude": 16.89244
+    },
+    {
+      "name": "Minit",
+      "latitude": 48.97322,
+      "longitude": 14.487679
+    },
+    {
+      "name": "minit",
+      "latitude": 49.41412,
+      "longitude": 14.676486
+    },
+    {
+      "name": "Minit",
+      "latitude": 49.59722,
+      "longitude": 18.009389
+    },
+    {
+      "name": "Minit",
+      "latitude": 49.74308,
+      "longitude": 13.387794
+    },
+    {
+      "name": "minit",
+      "latitude": 49.814145,
+      "longitude": 18.335914
+    },
+    {
+      "name": "minit",
+      "latitude": 49.934169,
+      "longitude": 17.908637
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.025954,
+      "longitude": 15.209058
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.050922,
+      "longitude": 14.353457
+    },
+    {
+      "name": "minit",
+      "latitude": 50.054007,
+      "longitude": 14.291236
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.061178,
+      "longitude": 14.408751
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.068211,
+      "longitude": 14.508266
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.075286,
+      "longitude": 14.437753
+    },
+    {
+      "name": "minit",
+      "latitude": 50.077102,
+      "longitude": 14.448945
+    },
+    {
+      "name": "minit",
+      "latitude": 50.077855,
+      "longitude": 14.461182
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.078673,
+      "longitude": 14.474042
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.081379,
+      "longitude": 14.419403
+    },
+    {
+      "name": "minit",
+      "latitude": 50.088278,
+      "longitude": 14.429101
+    },
+    {
+      "name": "minit",
+      "latitude": 50.088446,
+      "longitude": 14.416185
+    },
+    {
+      "name": "minit",
+      "latitude": 50.093409,
+      "longitude": 14.451845
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.109109,
+      "longitude": 14.577535
+    },
+    {
+      "name": "Minit",
+      "latitude": 50.119023,
+      "longitude": 14.499036
+    },
+    {
+      "name": "MINIT Bohemia",
+      "latitude": 49.728663,
+      "longitude": 13.343848
+    },
+    {
+      "name": "MLS Creperie",
+      "latitude": 48.812007,
+      "longitude": 14.316676
+    },
+    {
+      "name": "mnam mnam",
+      "latitude": 50.084662,
+      "longitude": 14.454569
+    },
+    {
+      "name": "Mochovská pekárna",
+      "latitude": 50.141193,
+      "longitude": 14.795161
+    },
+    {
+      "name": "Moje domácí dobrůtky",
+      "latitude": 49.593094,
+      "longitude": 17.275136
+    },
+    {
+      "name": "Moje Kredenc",
+      "latitude": 50.085166,
+      "longitude": 14.378444
+    },
+    {
+      "name": "Mokropec",
+      "latitude": 49.939719,
+      "longitude": 14.32594
+    },
+    {
+      "name": "Moravec",
+      "latitude": 50.107098,
+      "longitude": 14.578747
+    },
+    {
+      "name": "Moravec",
+      "latitude": 50.115492,
+      "longitude": 14.612704
+    },
+    {
+      "name": "Moravská pekárna",
+      "latitude": 49.67503,
+      "longitude": 18.340235
+    },
+    {
+      "name": "Moravské koláče",
+      "latitude": 50.070576,
+      "longitude": 14.457634
+    },
+    {
+      "name": "MPM pekařství",
+      "latitude": 48.971646,
+      "longitude": 14.494077
+    },
+    {
+      "name": "Mr. Baker",
+      "latitude": 49.447276,
+      "longitude": 17.445578
+    },
+    {
+      "name": "mr. Baker",
+      "latitude": 49.592884,
+      "longitude": 17.277667
+    },
+    {
+      "name": "Mr. Baker",
+      "latitude": 49.897651,
+      "longitude": 16.446448
+    },
+    {
+      "name": "Mr. Baker",
+      "latitude": 49.9622,
+      "longitude": 16.983166
+    },
+    {
+      "name": "Mr. Baker",
+      "latitude": 49.985953,
+      "longitude": 14.364631
+    },
+    {
+      "name": "Mr. Baker",
+      "latitude": 50.064829,
+      "longitude": 14.447698
+    },
+    {
+      "name": "Mr. Baker",
+      "latitude": 50.087446,
+      "longitude": 14.433684
+    },
+    {
+      "name": "Mr. Baker",
+      "latitude": 50.087888,
+      "longitude": 14.433144
+    },
+    {
+      "name": "Murano",
+      "latitude": 50.087699,
+      "longitude": 14.404689
+    },
+    {
+      "name": "Myšička",
+      "latitude": 50.73379,
+      "longitude": 15.182272
+    },
+    {
+      "name": "Míša",
+      "latitude": 49.443494,
+      "longitude": 15.769716
+    },
+    {
+      "name": "Měchenická pekárna",
+      "latitude": 49.908749,
+      "longitude": 14.387507
+    },
+    {
+      "name": "Mňam",
+      "latitude": 50.025695,
+      "longitude": 15.771123
+    },
+    {
+      "name": "mňam mňam",
+      "latitude": 50.044395,
+      "longitude": 15.756997
+    },
+    {
+      "name": "Mňam Mňam",
+      "latitude": 50.147427,
+      "longitude": 16.074059
+    },
+    {
+      "name": "Mňam Mňam",
+      "latitude": 50.186969,
+      "longitude": 15.836691
+    },
+    {
+      "name": "Mňam Mňam",
+      "latitude": 50.199719,
+      "longitude": 15.827517
+    },
+    {
+      "name": "Mšenské Pekařství",
+      "latitude": 50.436342,
+      "longitude": 14.642392
+    },
+    {
+      "name": "Na Pankráci",
+      "latitude": 50.05823,
+      "longitude": 14.432811
+    },
+    {
+      "name": "Na Rybníčkách",
+      "latitude": 49.390357,
+      "longitude": 13.038336
+    },
+    {
+      "name": "Nejen chleba",
+      "latitude": 49.264337,
+      "longitude": 16.564928
+    },
+    {
+      "name": "nejen KAFE 2",
+      "latitude": 50.352494,
+      "longitude": 14.473472
+    },
+    {
+      "name": "Nippan Bakery",
+      "latitude": 50.026752,
+      "longitude": 14.368109
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.024661,
+      "longitude": 15.212942
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.026405,
+      "longitude": 15.200636
+    },
+    {
+      "name": "NÁŠ CHLÉB",
+      "latitude": 50.046186,
+      "longitude": 14.303891
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.064999,
+      "longitude": 14.45094
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.070269,
+      "longitude": 14.483794
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.07566,
+      "longitude": 14.459437
+    },
+    {
+      "name": "Náš Chléb",
+      "latitude": 50.083291,
+      "longitude": 14.422723
+    },
+    {
+      "name": "Náš Chléb",
+      "latitude": 50.087427,
+      "longitude": 14.389283
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.202235,
+      "longitude": 14.842208
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.21356,
+      "longitude": 15.814218
+    },
+    {
+      "name": "Náš Chléb",
+      "latitude": 50.330801,
+      "longitude": 15.270769
+    },
+    {
+      "name": "Náš Chléb",
+      "latitude": 50.374822,
+      "longitude": 15.216718
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.413995,
+      "longitude": 14.905411
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.430379,
+      "longitude": 15.582892
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.540094,
+      "longitude": 14.541449
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.641001,
+      "longitude": 15.255744
+    },
+    {
+      "name": "Náš Chléb",
+      "latitude": 50.658636,
+      "longitude": 14.724807
+    },
+    {
+      "name": "Náš chléb",
+      "latitude": 50.727743,
+      "longitude": 15.182767
+    },
+    {
+      "name": "Náš Chléb",
+      "latitude": 50.750886,
+      "longitude": 15.03279
+    },
+    {
+      "name": "Náš Chléb",
+      "latitude": 50.921709,
+      "longitude": 15.079769
+    },
+    {
+      "name": "Náš Chléb - Rumburk",
+      "latitude": 50.951572,
+      "longitude": 14.558111
+    },
+    {
+      "name": "Náš chléb farmářská prodejna",
+      "latitude": 50.029968,
+      "longitude": 14.362227
+    },
+    {
+      "name": "Náš chléb vase pekárna",
+      "latitude": 50.780579,
+      "longitude": 14.214092
+    },
+    {
+      "name": "Náš grunt",
+      "latitude": 50.027883,
+      "longitude": 15.203285
+    },
+    {
+      "name": "Náš Grunt",
+      "latitude": 50.741111,
+      "longitude": 14.311537
+    },
+    {
+      "name": "Nývlt Oldřich - První strojní a parní pekařství",
+      "latitude": 50.608846,
+      "longitude": 15.504627
+    },
+    {
+      "name": "Němčické pečivo",
+      "latitude": 49.471898,
+      "longitude": 17.111121
+    },
+    {
+      "name": "Obchůdek s pečivem",
+      "latitude": 50.065376,
+      "longitude": 15.833559
+    },
+    {
+      "name": "Občerstvení na cesty",
+      "latitude": 49.594429,
+      "longitude": 13.101139
+    },
+    {
+      "name": "Oh Deer Bakery",
+      "latitude": 50.081114,
+      "longitude": 14.419923
+    },
+    {
+      "name": "Ondruškovy",
+      "latitude": 50.478029,
+      "longitude": 16.096214
+    },
+    {
+      "name": "Pan Koláček",
+      "latitude": 50.125564,
+      "longitude": 14.505915
+    },
+    {
+      "name": "Paneolit",
+      "latitude": 49.19175,
+      "longitude": 16.597691
+    },
+    {
+      "name": "Paneolit",
+      "latitude": 49.200521,
+      "longitude": 16.624879
+    },
+    {
+      "name": "papa bakery",
+      "latitude": 50.067894,
+      "longitude": 14.462244
+    },
+    {
+      "name": "Passion Bakery",
+      "latitude": 50.083805,
+      "longitude": 14.37002
+    },
+    {
+      "name": "Pastryum",
+      "latitude": 49.594863,
+      "longitude": 17.253723
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.07181,
+      "longitude": 14.403765
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.073543,
+      "longitude": 14.402825
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.075333,
+      "longitude": 14.431131
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.075465,
+      "longitude": 14.418373
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.078263,
+      "longitude": 14.461194
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.080923,
+      "longitude": 14.427439
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.086639,
+      "longitude": 14.427026
+    },
+    {
+      "name": "Paul",
+      "latitude": 50.099765,
+      "longitude": 14.396228
+    },
+    {
+      "name": "Paulla",
+      "latitude": 49.526762,
+      "longitude": 17.585114
+    },
+    {
+      "name": "Pec nám spadla",
+      "latitude": 50.125471,
+      "longitude": 14.502321
+    },
+    {
+      "name": "PeciVál",
+      "latitude": 48.810519,
+      "longitude": 14.316705
+    },
+    {
+      "name": "PeCu - Pekárny a cukrárny Klatovy",
+      "latitude": 49.439988,
+      "longitude": 12.925355
+    },
+    {
+      "name": "PeCu Klatovy",
+      "latitude": 49.231566,
+      "longitude": 13.519849
+    },
+    {
+      "name": "Pecud",
+      "latitude": 50.637171,
+      "longitude": 13.811854
+    },
+    {
+      "name": "Peka - grill",
+      "latitude": 50.651161,
+      "longitude": 13.841043
+    },
+    {
+      "name": "Pekarna",
+      "latitude": 50.758349,
+      "longitude": 15.043897
+    },
+    {
+      "name": "Pekarna kabat",
+      "latitude": 50.044499,
+      "longitude": 14.331528
+    },
+    {
+      "name": "Pekarna Kabat",
+      "latitude": 50.081583,
+      "longitude": 14.419334
+    },
+    {
+      "name": "Pekarna Kabat",
+      "latitude": 50.099889,
+      "longitude": 14.423713
+    },
+    {
+      "name": "Pekarna Kabát",
+      "latitude": 50.072342,
+      "longitude": 14.402528
+    },
+    {
+      "name": "Pekarna Krepenice",
+      "latitude": 49.703001,
+      "longitude": 14.348842
+    },
+    {
+      "name": "Pekarstvi Poli",
+      "latitude": 49.169036,
+      "longitude": 16.572883
+    },
+    {
+      "name": "Pekast",
+      "latitude": 48.970824,
+      "longitude": 14.501573
+    },
+    {
+      "name": "Pekast",
+      "latitude": 48.975172,
+      "longitude": 14.504677
+    },
+    {
+      "name": "Pekatna cukrárna Žalud",
+      "latitude": 49.952818,
+      "longitude": 15.031724
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 48.805561,
+      "longitude": 16.637934
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 49.01532,
+      "longitude": 14.612527
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 49.206775,
+      "longitude": 16.151429
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 49.218316,
+      "longitude": 16.575712
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 49.299661,
+      "longitude": 14.472981
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 49.526514,
+      "longitude": 12.943652
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 49.590744,
+      "longitude": 18.357519
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 49.719536,
+      "longitude": 15.669835
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 50.027653,
+      "longitude": 15.733313
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 50.144134,
+      "longitude": 14.090953
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 50.161787,
+      "longitude": 14.394414
+    },
+    {
+      "name": "Pekařství",
+      "latitude": 50.572831,
+      "longitude": 15.403405
+    },
+    {
+      "name": "Pekařství & lahůdky",
+      "latitude": 50.085198,
+      "longitude": 14.444601
+    },
+    {
+      "name": "Pekařství - Cukrařství",
+      "latitude": 50.070592,
+      "longitude": 14.476939
+    },
+    {
+      "name": "Pekařství - cukrárna",
+      "latitude": 49.935708,
+      "longitude": 14.70947
+    },
+    {
+      "name": "Pekařství - Cukrářství",
+      "latitude": 49.043019,
+      "longitude": 17.467623
+    },
+    {
+      "name": "Pekařství - cukrářství",
+      "latitude": 50.078017,
+      "longitude": 12.371112
+    },
+    {
+      "name": "Pekařství - cukrářství",
+      "latitude": 50.642954,
+      "longitude": 13.828983
+    },
+    {
+      "name": "Pekařství - Karel Rendl",
+      "latitude": 49.236046,
+      "longitude": 13.523281
+    },
+    {
+      "name": "Pekařství - občerstvení",
+      "latitude": 49.633119,
+      "longitude": 16.711792
+    },
+    {
+      "name": "Pekařství a Cukrárna",
+      "latitude": 50.389096,
+      "longitude": 13.186623
+    },
+    {
+      "name": "Pekařství a cukrárna Benea",
+      "latitude": 49.657218,
+      "longitude": 14.427231
+    },
+    {
+      "name": "Pekařství a cukrárna Benea",
+      "latitude": 49.896799,
+      "longitude": 14.492165
+    },
+    {
+      "name": "Pekařství a cukrárna U zlaté korunky",
+      "latitude": 48.738586,
+      "longitude": 14.493198
+    },
+    {
+      "name": "Pekařství a cukrářství",
+      "latitude": 49.901641,
+      "longitude": 16.447298
+    },
+    {
+      "name": "Pekařství a Cukrářství",
+      "latitude": 49.961023,
+      "longitude": 16.402463
+    },
+    {
+      "name": "Pekařství a cukrářství Jiří Bláha",
+      "latitude": 50.759818,
+      "longitude": 15.02994
+    },
+    {
+      "name": "Pekařství a cukrářství s prodejnou Na Zemědělce",
+      "latitude": 49.390676,
+      "longitude": 13.302047
+    },
+    {
+      "name": "Pekařství a cukrářství Sázava",
+      "latitude": 49.866446,
+      "longitude": 16.311068
+    },
+    {
+      "name": "Pekařství a cukrářství Sázava",
+      "latitude": 49.87038,
+      "longitude": 16.311526
+    },
+    {
+      "name": "Pekařství a cukrářství Sázava",
+      "latitude": 50.213262,
+      "longitude": 15.822989
+    },
+    {
+      "name": "Pekařství a cukrářství u Bláhů",
+      "latitude": 50.408179,
+      "longitude": 14.937866
+    },
+    {
+      "name": "Pekařství a cukrářství U Bláhů",
+      "latitude": 50.760221,
+      "longitude": 15.091465
+    },
+    {
+      "name": "Pekařství a cukrářství u Bláhů",
+      "latitude": 50.760393,
+      "longitude": 14.556514
+    },
+    {
+      "name": "Pekařství Avos",
+      "latitude": 49.298809,
+      "longitude": 17.396193
+    },
+    {
+      "name": "Pekařství Balabán",
+      "latitude": 49.19901,
+      "longitude": 16.59332
+    },
+    {
+      "name": "Pekařství Balabán",
+      "latitude": 49.275118,
+      "longitude": 16.4376
+    },
+    {
+      "name": "Pekařství Bartovice",
+      "latitude": 49.78326,
+      "longitude": 18.336408
+    },
+    {
+      "name": "pekařství Boček",
+      "latitude": 49.64132,
+      "longitude": 18.142438
+    },
+    {
+      "name": "Pekařství BOČEK",
+      "latitude": 49.645079,
+      "longitude": 18.370371
+    },
+    {
+      "name": "Pekařství Brokl",
+      "latitude": 49.66794,
+      "longitude": 15.410911
+    },
+    {
+      "name": "Pekařství Brokl",
+      "latitude": 49.668165,
+      "longitude": 15.404872
+    },
+    {
+      "name": "Pekařství Budějovická",
+      "latitude": 50.048609,
+      "longitude": 14.442894
+    },
+    {
+      "name": "Pekařství Bystřice pod Hostýnem",
+      "latitude": 49.450004,
+      "longitude": 17.453871
+    },
+    {
+      "name": "Pekařství Chleba A Kafe",
+      "latitude": 50.076024,
+      "longitude": 14.431857
+    },
+    {
+      "name": "PEKAŘSTVÍ CZ",
+      "latitude": 49.748976,
+      "longitude": 13.378276
+    },
+    {
+      "name": "Pekařství Dražka",
+      "latitude": 50.03685,
+      "longitude": 15.796506
+    },
+    {
+      "name": "Pekařství Držkovské pecivo",
+      "latitude": 50.640623,
+      "longitude": 15.257014
+    },
+    {
+      "name": "Pekařství Elis",
+      "latitude": 49.350842,
+      "longitude": 16.020762
+    },
+    {
+      "name": "pekařství Enpeka",
+      "latitude": 49.56441,
+      "longitude": 15.930822
+    },
+    {
+      "name": "Pekařství Fetter",
+      "latitude": 50.115244,
+      "longitude": 14.676494
+    },
+    {
+      "name": "Pekařství Frídel",
+      "latitude": 49.739908,
+      "longitude": 13.599837
+    },
+    {
+      "name": "Pekařství Frídel",
+      "latitude": 49.742155,
+      "longitude": 13.595928
+    },
+    {
+      "name": "Pekařství Grufík",
+      "latitude": 48.917392,
+      "longitude": 17.098847
+    },
+    {
+      "name": "Pekařství Gurmán",
+      "latitude": 50.723792,
+      "longitude": 15.171384
+    },
+    {
+      "name": "PEKAŘSTVÍ HARMONIE",
+      "latitude": 50.713371,
+      "longitude": 14.397284
+    },
+    {
+      "name": "Pekařství Harmonie - Doksy",
+      "latitude": 50.563783,
+      "longitude": 14.655203
+    },
+    {
+      "name": "Pekařství Harmonie - Děčínská",
+      "latitude": 50.688602,
+      "longitude": 14.521622
+    },
+    {
+      "name": "Pekařství Harmonie - Hrnčířská",
+      "latitude": 50.681959,
+      "longitude": 14.536472
+    },
+    {
+      "name": "Pekařství Harmonie - Jeřábkovo náměstí",
+      "latitude": 50.686249,
+      "longitude": 14.534838
+    },
+    {
+      "name": "Pekařství Harmonie - Kaufland Nový Bor",
+      "latitude": 50.766704,
+      "longitude": 14.544389
+    },
+    {
+      "name": "Pekařství Harmonie - Kaufland Česká Lípa",
+      "latitude": 50.681151,
+      "longitude": 14.540877
+    },
+    {
+      "name": "Pekařství Harmonie - Mariánská",
+      "latitude": 50.686726,
+      "longitude": 14.537681
+    },
+    {
+      "name": "pekařství Hello",
+      "latitude": 49.202724,
+      "longitude": 17.531632
+    },
+    {
+      "name": "Pekařství Hello!",
+      "latitude": 50.126569,
+      "longitude": 14.469751
+    },
+    {
+      "name": "Pekařství Illík",
+      "latitude": 49.453278,
+      "longitude": 17.450398
+    },
+    {
+      "name": "pekařství Illík",
+      "latitude": 49.897445,
+      "longitude": 18.187097
+    },
+    {
+      "name": "Pekařství Illík",
+      "latitude": 49.902236,
+      "longitude": 18.356503
+    },
+    {
+      "name": "Pekařství Ivanka",
+      "latitude": 49.049159,
+      "longitude": 16.313803
+    },
+    {
+      "name": "Pekařství Jan Hankovec",
+      "latitude": 49.951239,
+      "longitude": 15.270566
+    },
+    {
+      "name": "pekařství Jan Hankovec",
+      "latitude": 50.028378,
+      "longitude": 15.198357
+    },
+    {
+      "name": "Pekařství Jan Prus",
+      "latitude": 50.033158,
+      "longitude": 14.514269
+    },
+    {
+      "name": "Pekařství Javor",
+      "latitude": 49.021284,
+      "longitude": 17.642331
+    },
+    {
+      "name": "Pekařství Javor",
+      "latitude": 49.024973,
+      "longitude": 17.6484
+    },
+    {
+      "name": "Pekařství Javor",
+      "latitude": 49.066662,
+      "longitude": 17.453403
+    },
+    {
+      "name": "Pekařství Ječmínek",
+      "latitude": 50.088505,
+      "longitude": 14.416948
+    },
+    {
+      "name": "Pekařství Jílek",
+      "latitude": 49.582691,
+      "longitude": 13.5403
+    },
+    {
+      "name": "Pekařství Jírovcova",
+      "latitude": 48.982993,
+      "longitude": 14.477642
+    },
+    {
+      "name": "Pekařství Kabát",
+      "latitude": 50.050882,
+      "longitude": 14.353466
+    },
+    {
+      "name": "Pekařství Kabát",
+      "latitude": 50.13255,
+      "longitude": 14.377101
+    },
+    {
+      "name": "Pekařství Kamenická",
+      "latitude": 50.101852,
+      "longitude": 14.426301
+    },
+    {
+      "name": "Pekařství Karel Rendl",
+      "latitude": 49.230461,
+      "longitude": 13.518474
+    },
+    {
+      "name": "Pekařství Kazda",
+      "latitude": 50.706223,
+      "longitude": 15.427486
+    },
+    {
+      "name": "Pekařství KESI",
+      "latitude": 48.966007,
+      "longitude": 16.606838
+    },
+    {
+      "name": "Pekařství Knappe",
+      "latitude": 49.775587,
+      "longitude": 17.752219
+    },
+    {
+      "name": "Pekařství Kollinger",
+      "latitude": 50.076599,
+      "longitude": 14.657604
+    },
+    {
+      "name": "Pekařství Kováč",
+      "latitude": 50.146875,
+      "longitude": 12.646391
+    },
+    {
+      "name": "Pekařství Kraupner",
+      "latitude": 50.424316,
+      "longitude": 14.259357
+    },
+    {
+      "name": "Pekařství Kremer",
+      "latitude": 50.723831,
+      "longitude": 15.172441
+    },
+    {
+      "name": "Pekařství Kulhánek & Drápal",
+      "latitude": 49.101897,
+      "longitude": 16.378313
+    },
+    {
+      "name": "Pekařství Kulhánek & Drápal",
+      "latitude": 49.238974,
+      "longitude": 16.584632
+    },
+    {
+      "name": "Pekařství Kulhánek a Drápal",
+      "latitude": 49.100813,
+      "longitude": 16.717853
+    },
+    {
+      "name": "Pekařství Kulhánek a Drápal",
+      "latitude": 49.216406,
+      "longitude": 16.500927
+    },
+    {
+      "name": "Pekařství Kulhánek a Drápal",
+      "latitude": 49.339032,
+      "longitude": 16.552771
+    },
+    {
+      "name": "Pekařství Kuri Stříbro",
+      "latitude": 49.727521,
+      "longitude": 13.353296
+    },
+    {
+      "name": "Pekařství Kuric",
+      "latitude": 49.5534,
+      "longitude": 13.070512
+    },
+    {
+      "name": "Pekařství Kučera",
+      "latitude": 49.736826,
+      "longitude": 13.387144
+    },
+    {
+      "name": "Pekařství Kučera",
+      "latitude": 49.758278,
+      "longitude": 13.421154
+    },
+    {
+      "name": "Pekařství Kvásek",
+      "latitude": 50.063894,
+      "longitude": 14.44151
+    },
+    {
+      "name": "Pekařství Kvásek",
+      "latitude": 50.076083,
+      "longitude": 14.489629
+    },
+    {
+      "name": "Pekařství Křivka",
+      "latitude": 48.801006,
+      "longitude": 17.017413
+    },
+    {
+      "name": "Pekařství Křižák",
+      "latitude": 48.756985,
+      "longitude": 16.891604
+    },
+    {
+      "name": "Pekařství Křupavý rohlíček",
+      "latitude": 50.080001,
+      "longitude": 14.428278
+    },
+    {
+      "name": "Pekařství Ladislav Zeman",
+      "latitude": 49.542697,
+      "longitude": 15.355584
+    },
+    {
+      "name": "Pekařství Leština",
+      "latitude": 49.869119,
+      "longitude": 16.930787
+    },
+    {
+      "name": "Pekařství Lomná",
+      "latitude": 49.459403,
+      "longitude": 18.14291
+    },
+    {
+      "name": "Pekařství Lomná",
+      "latitude": 49.636784,
+      "longitude": 18.136964
+    },
+    {
+      "name": "Pekařství Loďka",
+      "latitude": 49.994404,
+      "longitude": 14.158136
+    },
+    {
+      "name": "Pekařství M a M, s.r.o.",
+      "latitude": 49.472824,
+      "longitude": 17.117336
+    },
+    {
+      "name": "Pekařství MaJa",
+      "latitude": 48.802527,
+      "longitude": 16.630875
+    },
+    {
+      "name": "Pekařství MaJa",
+      "latitude": 48.802775,
+      "longitude": 16.634005
+    },
+    {
+      "name": "Pekařství Makovec",
+      "latitude": 49.196583,
+      "longitude": 16.606137
+    },
+    {
+      "name": "Pekařství Makovec",
+      "latitude": 49.197183,
+      "longitude": 16.752696
+    },
+    {
+      "name": "Pekařství Makovec",
+      "latitude": 49.202973,
+      "longitude": 16.668493
+    },
+    {
+      "name": "Pekařství Makovec",
+      "latitude": 49.207455,
+      "longitude": 16.603684
+    },
+    {
+      "name": "Pekařství Makovec",
+      "latitude": 49.209993,
+      "longitude": 16.60327
+    },
+    {
+      "name": "Pekařství Malena",
+      "latitude": 49.09355,
+      "longitude": 15.894767
+    },
+    {
+      "name": "Pekařství Malinová",
+      "latitude": 49.763442,
+      "longitude": 13.380242
+    },
+    {
+      "name": "Pekařství MaM",
+      "latitude": 49.581903,
+      "longitude": 17.236992
+    },
+    {
+      "name": "Pekařství MAM Hostomice",
+      "latitude": 50.055936,
+      "longitude": 14.434187
+    },
+    {
+      "name": "Pekařství Martínek",
+      "latitude": 48.857222,
+      "longitude": 14.489794
+    },
+    {
+      "name": "Pekařství Masařík",
+      "latitude": 49.067972,
+      "longitude": 17.477096
+    },
+    {
+      "name": "Pekařství Matouš",
+      "latitude": 50.240587,
+      "longitude": 14.309759
+    },
+    {
+      "name": "Pekařství Mašek",
+      "latitude": 50.740142,
+      "longitude": 15.309018
+    },
+    {
+      "name": "Pekařství Moravec",
+      "latitude": 50.112985,
+      "longitude": 14.615559
+    },
+    {
+      "name": "Pekařství Moravec",
+      "latitude": 50.12569,
+      "longitude": 14.571941
+    },
+    {
+      "name": "pekařství MPM",
+      "latitude": 49.005362,
+      "longitude": 14.758332
+    },
+    {
+      "name": "Pekařství MPM",
+      "latitude": 49.080901,
+      "longitude": 14.717465
+    },
+    {
+      "name": "Pekařství N & E",
+      "latitude": 49.733519,
+      "longitude": 13.391371
+    },
+    {
+      "name": "Pekařství na kruháku",
+      "latitude": 50.233217,
+      "longitude": 15.791957
+    },
+    {
+      "name": "Pekařství na Nuselské",
+      "latitude": 50.060651,
+      "longitude": 14.448134
+    },
+    {
+      "name": "Pekařství Na Potůčku",
+      "latitude": 49.657274,
+      "longitude": 14.424627
+    },
+    {
+      "name": "Pekařství Na rybníčkách",
+      "latitude": 49.394772,
+      "longitude": 13.294675
+    },
+    {
+      "name": "Pekařství Na Rybníčkách",
+      "latitude": 49.744143,
+      "longitude": 13.375793
+    },
+    {
+      "name": "Pekařství Nikl",
+      "latitude": 48.97592,
+      "longitude": 17.209576
+    },
+    {
+      "name": "Pekařství Nodes",
+      "latitude": 48.825183,
+      "longitude": 14.335319
+    },
+    {
+      "name": "Pekařství Obecnice",
+      "latitude": 49.679038,
+      "longitude": 13.998481
+    },
+    {
+      "name": "Pekařství Oertelt",
+      "latitude": 50.517251,
+      "longitude": 13.629901
+    },
+    {
+      "name": "Pekařství Opeko",
+      "latitude": 49.406911,
+      "longitude": 14.810308
+    },
+    {
+      "name": "Pekařství Pešák",
+      "latitude": 48.896851,
+      "longitude": 16.818598
+    },
+    {
+      "name": "Pekařství Pivák",
+      "latitude": 50.084133,
+      "longitude": 14.369343
+    },
+    {
+      "name": "Pekařství Planá nad Lužnicí",
+      "latitude": 49.38828,
+      "longitude": 14.68823
+    },
+    {
+      "name": "Pekařství Pláteníková",
+      "latitude": 48.902259,
+      "longitude": 16.816351
+    },
+    {
+      "name": "Pekařství pod Plešivcem",
+      "latitude": 48.805745,
+      "longitude": 14.311933
+    },
+    {
+      "name": "Pekařství Pod Poštou",
+      "latitude": 49.966939,
+      "longitude": 16.971191
+    },
+    {
+      "name": "Pekařství pod radnicí",
+      "latitude": 49.731428,
+      "longitude": 17.299166
+    },
+    {
+      "name": "Pekařství Pod Věží",
+      "latitude": 50.209048,
+      "longitude": 15.831419
+    },
+    {
+      "name": "Pekařství Pod Věží",
+      "latitude": 50.212413,
+      "longitude": 15.811464
+    },
+    {
+      "name": "Pekařství Pískovka",
+      "latitude": 50.13132,
+      "longitude": 15.083351
+    },
+    {
+      "name": "Pekařství Repré",
+      "latitude": 50.229655,
+      "longitude": 12.869846
+    },
+    {
+      "name": "pekařství Seval",
+      "latitude": 49.830424,
+      "longitude": 18.16969
+    },
+    {
+      "name": "Pekařství Staňkov",
+      "latitude": 49.638517,
+      "longitude": 13.165154
+    },
+    {
+      "name": "Pekařství Strašnická",
+      "latitude": 50.073789,
+      "longitude": 14.490654
+    },
+    {
+      "name": "Pekařství Střelná",
+      "latitude": 49.140718,
+      "longitude": 18.006395
+    },
+    {
+      "name": "Pekařství Svoboda",
+      "latitude": 50.147816,
+      "longitude": 15.111201
+    },
+    {
+      "name": "Pekařství Svoboda a Březík",
+      "latitude": 49.099184,
+      "longitude": 17.755619
+    },
+    {
+      "name": "Pekařství Sázava",
+      "latitude": 49.595304,
+      "longitude": 17.253887
+    },
+    {
+      "name": "Pekařství Sázava",
+      "latitude": 49.905846,
+      "longitude": 16.627827
+    },
+    {
+      "name": "Pekařství Sázava",
+      "latitude": 49.962586,
+      "longitude": 16.979855
+    },
+    {
+      "name": "Pekařství Sázava",
+      "latitude": 49.966931,
+      "longitude": 16.970955
+    },
+    {
+      "name": "Pekařství Sázava",
+      "latitude": 49.974319,
+      "longitude": 16.394434
+    },
+    {
+      "name": "Pekařství Sázava",
+      "latitude": 50.068087,
+      "longitude": 15.986848
+    },
+    {
+      "name": "Pekařství Sýkora s.r.o",
+      "latitude": 49.735481,
+      "longitude": 13.584229
+    },
+    {
+      "name": "Pekařství Teletín",
+      "latitude": 49.827357,
+      "longitude": 14.468152
+    },
+    {
+      "name": "Pekařství TOMA",
+      "latitude": 49.121272,
+      "longitude": 17.541818
+    },
+    {
+      "name": "Pekařství u Blažků",
+      "latitude": 49.393451,
+      "longitude": 16.644852
+    },
+    {
+      "name": "Pekařství U Brejchů",
+      "latitude": 49.262344,
+      "longitude": 13.904012
+    },
+    {
+      "name": "Pekařství u Cudly",
+      "latitude": 49.993739,
+      "longitude": 14.859372
+    },
+    {
+      "name": "Pekařství u Dolejších",
+      "latitude": 49.474852,
+      "longitude": 15.479908
+    },
+    {
+      "name": "Pekařství U Dvou rohlíků",
+      "latitude": 50.046161,
+      "longitude": 14.30361
+    },
+    {
+      "name": "Pekařství U Dvou rohlíků",
+      "latitude": 50.231937,
+      "longitude": 14.086475
+    },
+    {
+      "name": "Pekařství U golema",
+      "latitude": 49.216281,
+      "longitude": 15.88191
+    },
+    {
+      "name": "Pekařství U Hrocha",
+      "latitude": 49.053415,
+      "longitude": 13.77528
+    },
+    {
+      "name": "Pekařství U Hýsků",
+      "latitude": 49.217523,
+      "longitude": 16.558642
+    },
+    {
+      "name": "Pekařství U Hýsků",
+      "latitude": 49.221283,
+      "longitude": 16.518539
+    },
+    {
+      "name": "Pekařství U Nováků",
+      "latitude": 50.252543,
+      "longitude": 14.519546
+    },
+    {
+      "name": "Pekařství u Perly",
+      "latitude": 48.980589,
+      "longitude": 14.470803
+    },
+    {
+      "name": "Pekařství u Polášků",
+      "latitude": 48.989247,
+      "longitude": 15.988564
+    },
+    {
+      "name": "Pekařství U Radnice",
+      "latitude": 49.965515,
+      "longitude": 16.969957
+    },
+    {
+      "name": "Pekařství U Skoupých",
+      "latitude": 50.104394,
+      "longitude": 13.730718
+    },
+    {
+      "name": "Pekařství u Slonků",
+      "latitude": 49.561096,
+      "longitude": 16.07488
+    },
+    {
+      "name": "Pekařství u Tomáše",
+      "latitude": 50.633132,
+      "longitude": 14.523805
+    },
+    {
+      "name": "Pekařství U TREZORU",
+      "latitude": 49.340187,
+      "longitude": 17.99239
+    },
+    {
+      "name": "Pekařství u Vlaďky",
+      "latitude": 49.559579,
+      "longitude": 15.938823
+    },
+    {
+      "name": "Pekařství u Václava",
+      "latitude": 50.329029,
+      "longitude": 12.512339
+    },
+    {
+      "name": "Pekařství u zámku",
+      "latitude": 49.473504,
+      "longitude": 17.108455
+    },
+    {
+      "name": "Pekařství v Dušní",
+      "latitude": 50.088763,
+      "longitude": 14.42164
+    },
+    {
+      "name": "Pekařství v Žitě",
+      "latitude": 48.976667,
+      "longitude": 14.478051
+    },
+    {
+      "name": "Pekařství Velička",
+      "latitude": 49.87575,
+      "longitude": 18.257227
+    },
+    {
+      "name": "Pekařství Velíšek",
+      "latitude": 49.542501,
+      "longitude": 15.35475
+    },
+    {
+      "name": "Pekařství Vlček",
+      "latitude": 49.783806,
+      "longitude": 17.75916
+    },
+    {
+      "name": "Pekařství Vonka",
+      "latitude": 48.853944,
+      "longitude": 16.059492
+    },
+    {
+      "name": "Pekařství Vonka",
+      "latitude": 49.196831,
+      "longitude": 16.534319
+    },
+    {
+      "name": "Pekařství Zliv",
+      "latitude": 49.065342,
+      "longitude": 14.362975
+    },
+    {
+      "name": "Pekařství Řečice",
+      "latitude": 49.55408,
+      "longitude": 15.940119
+    },
+    {
+      "name": "Pekařství Řečice",
+      "latitude": 49.560456,
+      "longitude": 16.073513
+    },
+    {
+      "name": "Pekařství Řečice",
+      "latitude": 49.561499,
+      "longitude": 15.940742
+    },
+    {
+      "name": "Pekařství řečice",
+      "latitude": 49.607458,
+      "longitude": 15.579872
+    },
+    {
+      "name": "Pekařství Šefl, Lahůdky Šeflovi",
+      "latitude": 49.655606,
+      "longitude": 13.199594
+    },
+    {
+      "name": "Pekařství Šlechtický",
+      "latitude": 49.125084,
+      "longitude": 16.332713
+    },
+    {
+      "name": "Pekařství Šumava",
+      "latitude": 50.227586,
+      "longitude": 14.878462
+    },
+    {
+      "name": "Pekařství Šumava",
+      "latitude": 50.247399,
+      "longitude": 14.312699
+    },
+    {
+      "name": "Pekařství Šumava",
+      "latitude": 50.479169,
+      "longitude": 14.939167
+    },
+    {
+      "name": "Pekařství Šumava",
+      "latitude": 50.609409,
+      "longitude": 15.507157
+    },
+    {
+      "name": "Pekařství – Cukrárna",
+      "latitude": 50.089846,
+      "longitude": 14.343581
+    },
+    {
+      "name": "Pekařství-cukrářství",
+      "latitude": 48.76576,
+      "longitude": 14.176468
+    },
+    {
+      "name": "Pekařsví Šumava",
+      "latitude": 50.72476,
+      "longitude": 15.15331
+    },
+    {
+      "name": "PEKO",
+      "latitude": 49.727911,
+      "longitude": 13.367519
+    },
+    {
+      "name": "PEKO",
+      "latitude": 49.737792,
+      "longitude": 13.387958
+    },
+    {
+      "name": "PEKO",
+      "latitude": 49.74521,
+      "longitude": 13.377516
+    },
+    {
+      "name": "PEKO",
+      "latitude": 49.74697,
+      "longitude": 13.37316
+    },
+    {
+      "name": "Peko",
+      "latitude": 50.395785,
+      "longitude": 16.049356
+    },
+    {
+      "name": "Peko",
+      "latitude": 50.417182,
+      "longitude": 16.16797
+    },
+    {
+      "name": "Peko pekařství",
+      "latitude": 49.744516,
+      "longitude": 13.37222
+    },
+    {
+      "name": "Pekáreň Kopčany",
+      "latitude": 48.815604,
+      "longitude": 17.155378
+    },
+    {
+      "name": "Pekárna",
+      "latitude": 48.805166,
+      "longitude": 16.634667
+    },
+    {
+      "name": "Pekárna",
+      "latitude": 48.853294,
+      "longitude": 16.052164
+    },
+    {
+      "name": "pekárna",
+      "latitude": 48.908857,
+      "longitude": 17.311261
+    },
+    {
+      "name": "Pekárna",
+      "latitude": 49.203364,
+      "longitude": 17.536431
+    },
+    {
+      "name": "Pekárna",
+      "latitude": 49.350997,
+      "longitude": 17.301094
+    },
+    {
+      "name": "Pekárna",
+      "latitude": 49.672227,
+      "longitude": 18.418966
+    },
+    {
+      "name": "Pekárna",
+      "latitude": 49.77592,
+      "longitude": 17.752467
+    },
+    {
+      "name": "Pekárna",
+      "latitude": 50.088185,
+      "longitude": 12.380469
+    },
+    {
+      "name": "Pekárna - cukrárna",
+      "latitude": 49.146696,
+      "longitude": 15.002743
+    },
+    {
+      "name": "Pekárna a cukrárna Hořovice",
+      "latitude": 49.688997,
+      "longitude": 14.013257
+    },
+    {
+      "name": "Pekárna a cukrárna Hořovice",
+      "latitude": 49.962253,
+      "longitude": 14.073555
+    },
+    {
+      "name": "Pekárna a cukrárna Hořovice",
+      "latitude": 50.064147,
+      "longitude": 14.440709
+    },
+    {
+      "name": "Pekárna a cukrárna Hořovice",
+      "latitude": 50.068882,
+      "longitude": 14.455278
+    },
+    {
+      "name": "Pekárna a cukrárna Merkur",
+      "latitude": 49.140497,
+      "longitude": 18.006149
+    },
+    {
+      "name": "Pekárna a cukrárna Mezice",
+      "latitude": 49.662416,
+      "longitude": 17.119218
+    },
+    {
+      "name": "Pekárna Anežka",
+      "latitude": 49.473833,
+      "longitude": 17.970475
+    },
+    {
+      "name": "Pekárna Anežka - frgály",
+      "latitude": 49.55041,
+      "longitude": 17.921704
+    },
+    {
+      "name": "Pekárna Bachan",
+      "latitude": 48.973455,
+      "longitude": 17.266666
+    },
+    {
+      "name": "Pekárna Bachan, s.r.o.",
+      "latitude": 49.007891,
+      "longitude": 17.125765
+    },
+    {
+      "name": "Pekárna Bistro",
+      "latitude": 50.128755,
+      "longitude": 14.713247
+    },
+    {
+      "name": "Pekárna Borová",
+      "latitude": 49.711882,
+      "longitude": 16.035363
+    },
+    {
+      "name": "Pekárna Certas",
+      "latitude": 49.574604,
+      "longitude": 17.249497
+    },
+    {
+      "name": "Pekárna Chabařovice",
+      "latitude": 50.671886,
+      "longitude": 13.941509
+    },
+    {
+      "name": "Pekárna Crocus",
+      "latitude": 49.175789,
+      "longitude": 16.567764
+    },
+    {
+      "name": "Pekárna Crocus",
+      "latitude": 49.218268,
+      "longitude": 16.55371
+    },
+    {
+      "name": "Pekárna Cukrárna u Pecků",
+      "latitude": 49.909408,
+      "longitude": 14.235824
+    },
+    {
+      "name": "Pekárna Daspek",
+      "latitude": 50.015552,
+      "longitude": 14.437084
+    },
+    {
+      "name": "Pekárna Daspek",
+      "latitude": 50.046865,
+      "longitude": 14.414713
+    },
+    {
+      "name": "Pekárna Falta",
+      "latitude": 50.081486,
+      "longitude": 16.764086
+    },
+    {
+      "name": "Pekárna Fetter",
+      "latitude": 50.028143,
+      "longitude": 15.202653
+    },
+    {
+      "name": "Pekárna hello!",
+      "latitude": 50.06046,
+      "longitude": 14.409149
+    },
+    {
+      "name": "Pekárna Herold",
+      "latitude": 49.223196,
+      "longitude": 16.59492
+    },
+    {
+      "name": "Pekárna Hošer",
+      "latitude": 50.152109,
+      "longitude": 13.899764
+    },
+    {
+      "name": "Pekárna Hrubý",
+      "latitude": 50.023493,
+      "longitude": 15.758423
+    },
+    {
+      "name": "PEKÁRNA HRUBÝ, s.r.o.",
+      "latitude": 50.033272,
+      "longitude": 15.790162
+    },
+    {
+      "name": "Pekárna Hukvaldy",
+      "latitude": 49.623441,
+      "longitude": 18.221977
+    },
+    {
+      "name": "PEKÁRNA IVANKA",
+      "latitude": 48.858686,
+      "longitude": 16.057422
+    },
+    {
+      "name": "Pekárna Ivanka",
+      "latitude": 49.042435,
+      "longitude": 16.306522
+    },
+    {
+      "name": "Pekárna Ivanka",
+      "latitude": 49.120845,
+      "longitude": 16.335808
+    },
+    {
+      "name": "Pekárna J. Hradec",
+      "latitude": 49.148011,
+      "longitude": 15.004889
+    },
+    {
+      "name": "Pekárna Japek",
+      "latitude": 50.590898,
+      "longitude": 13.567371
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.043458,
+      "longitude": 14.449215
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.043615,
+      "longitude": 14.450085
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.044893,
+      "longitude": 14.448227
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.053542,
+      "longitude": 14.517946
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.053934,
+      "longitude": 14.290574
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.060568,
+      "longitude": 14.409054
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.065329,
+      "longitude": 14.388715
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.072694,
+      "longitude": 14.491129
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.072995,
+      "longitude": 14.402397
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.091094,
+      "longitude": 14.439199
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.100506,
+      "longitude": 14.393309
+    },
+    {
+      "name": "Pekárna Kabát",
+      "latitude": 50.12363,
+      "longitude": 14.452682
+    },
+    {
+      "name": "Pekárna Kamenice",
+      "latitude": 49.217851,
+      "longitude": 15.891784
+    },
+    {
+      "name": "Pekárna Kamenice",
+      "latitude": 49.401737,
+      "longitude": 15.601272
+    },
+    {
+      "name": "Pekárna Kejval",
+      "latitude": 49.815098,
+      "longitude": 15.476523
+    },
+    {
+      "name": "Pekárna Kelč",
+      "latitude": 49.52779,
+      "longitude": 17.586297
+    },
+    {
+      "name": "Pekárna Kesi",
+      "latitude": 49.246907,
+      "longitude": 16.578908
+    },
+    {
+      "name": "Pekárna KLAS",
+      "latitude": 49.097325,
+      "longitude": 15.889298
+    },
+    {
+      "name": "Pekárna KONTINUA, spol. s r. o.",
+      "latitude": 50.054586,
+      "longitude": 14.529574
+    },
+    {
+      "name": "Pekárna Kulhánek & Drápal",
+      "latitude": 49.218338,
+      "longitude": 16.507112
+    },
+    {
+      "name": "Pekárna Laguna",
+      "latitude": 49.936521,
+      "longitude": 14.512463
+    },
+    {
+      "name": "Pekárna Lomná",
+      "latitude": 49.545114,
+      "longitude": 18.222295
+    },
+    {
+      "name": "Pekárna Lomná",
+      "latitude": 49.595116,
+      "longitude": 18.144949
+    },
+    {
+      "name": "Pekárna Lomná",
+      "latitude": 49.639955,
+      "longitude": 18.142879
+    },
+    {
+      "name": "Pekárna Lomná",
+      "latitude": 49.675762,
+      "longitude": 18.343154
+    },
+    {
+      "name": "Pekárna Lomná",
+      "latitude": 49.680131,
+      "longitude": 18.356405
+    },
+    {
+      "name": "Pekárna M&K",
+      "latitude": 49.926045,
+      "longitude": 18.269664
+    },
+    {
+      "name": "Pekárna Martin",
+      "latitude": 50.780938,
+      "longitude": 14.214217
+    },
+    {
+      "name": "pekárna Martina",
+      "latitude": 49.735618,
+      "longitude": 18.285258
+    },
+    {
+      "name": "Pekárna Na Komendě",
+      "latitude": 50.229991,
+      "longitude": 14.086068
+    },
+    {
+      "name": "Pekárna Nikl",
+      "latitude": 48.952246,
+      "longitude": 17.380729
+    },
+    {
+      "name": "Pekárna Okýnko",
+      "latitude": 49.99545,
+      "longitude": 14.661081
+    },
+    {
+      "name": "Pekárna Pino",
+      "latitude": 49.611334,
+      "longitude": 18.484718
+    },
+    {
+      "name": "Pekárna Planá",
+      "latitude": 49.353997,
+      "longitude": 14.702235
+    },
+    {
+      "name": "Pekárna Polička",
+      "latitude": 49.71548,
+      "longitude": 16.265795
+    },
+    {
+      "name": "Pekárna Praktika",
+      "latitude": 50.094069,
+      "longitude": 14.450934
+    },
+    {
+      "name": "Pekárna Průšek",
+      "latitude": 50.049859,
+      "longitude": 15.758009
+    },
+    {
+      "name": "pekárna Příbram",
+      "latitude": 49.696908,
+      "longitude": 14.011337
+    },
+    {
+      "name": "Pekárna Ratíškovice",
+      "latitude": 48.916856,
+      "longitude": 17.098085
+    },
+    {
+      "name": "Pekárna Ratíškovice",
+      "latitude": 48.91724,
+      "longitude": 17.173171
+    },
+    {
+      "name": "Pekárna Račice",
+      "latitude": 49.276422,
+      "longitude": 16.872574
+    },
+    {
+      "name": "Pekárna Rostěnice",
+      "latitude": 49.24089,
+      "longitude": 16.960561
+    },
+    {
+      "name": "Pekárna Rychvald",
+      "latitude": 49.856135,
+      "longitude": 18.394126
+    },
+    {
+      "name": "Pekárna Srnín",
+      "latitude": 48.9743,
+      "longitude": 14.479815
+    },
+    {
+      "name": "Pekárna Staňkov",
+      "latitude": 49.440636,
+      "longitude": 12.932052
+    },
+    {
+      "name": "Pekárna Sázava",
+      "latitude": 49.875786,
+      "longitude": 14.902261
+    },
+    {
+      "name": "Pekárna Sázava",
+      "latitude": 49.954565,
+      "longitude": 16.159126
+    },
+    {
+      "name": "Pekárna Tanvald",
+      "latitude": 50.734776,
+      "longitude": 15.302747
+    },
+    {
+      "name": "Pekárna U Hanky",
+      "latitude": 50.103649,
+      "longitude": 13.731923
+    },
+    {
+      "name": "Pekárna u Havířů",
+      "latitude": 49.277504,
+      "longitude": 16.606997
+    },
+    {
+      "name": "Pekárna U Jahodů",
+      "latitude": 49.231256,
+      "longitude": 17.657251
+    },
+    {
+      "name": "Pekárna U kalendů",
+      "latitude": 50.071244,
+      "longitude": 14.414461
+    },
+    {
+      "name": "Pekárna u Kománků",
+      "latitude": 48.877855,
+      "longitude": 17.519374
+    },
+    {
+      "name": "Pekárna Unčín",
+      "latitude": 49.609789,
+      "longitude": 16.24389
+    },
+    {
+      "name": "Pekárna V Mouce a Pivovar Hradecký Klenot",
+      "latitude": 50.196925,
+      "longitude": 15.847931
+    },
+    {
+      "name": "Pekárna Vaše selka",
+      "latitude": 50.587718,
+      "longitude": 15.158785
+    },
+    {
+      "name": "Pekárna Vaše selka",
+      "latitude": 50.587745,
+      "longitude": 15.142079
+    },
+    {
+      "name": "Pekárna Veka",
+      "latitude": 49.298296,
+      "longitude": 17.788249
+    },
+    {
+      "name": "Pekárna VEKA, s.r.o.",
+      "latitude": 49.265074,
+      "longitude": 17.725583
+    },
+    {
+      "name": "Pekárna Velíšek",
+      "latitude": 49.137368,
+      "longitude": 15.017345
+    },
+    {
+      "name": "Pekárna VITRIINA",
+      "latitude": 50.110595,
+      "longitude": 14.506149
+    },
+    {
+      "name": "Pekárna Vyšší Brod",
+      "latitude": 48.615536,
+      "longitude": 14.312458
+    },
+    {
+      "name": "Pekárna VÁCLAV KOTYZA",
+      "latitude": 49.187326,
+      "longitude": 14.704612
+    },
+    {
+      "name": "Pekárna Wellart",
+      "latitude": 49.549835,
+      "longitude": 17.734476
+    },
+    {
+      "name": "Pekárna Za Ploten",
+      "latitude": 49.472818,
+      "longitude": 17.104783
+    },
+    {
+      "name": "Pekárna Zlivice",
+      "latitude": 48.973315,
+      "longitude": 14.473928
+    },
+    {
+      "name": "Pekárna Zlivice",
+      "latitude": 49.41359,
+      "longitude": 14.674494
+    },
+    {
+      "name": "Pekárna štr. uší",
+      "latitude": 49.590986,
+      "longitude": 18.116974
+    },
+    {
+      "name": "pekárna, cukrárna",
+      "latitude": 48.831322,
+      "longitude": 16.404348
+    },
+    {
+      "name": "Pekárnav pivovatu",
+      "latitude": 50.776712,
+      "longitude": 14.642413
+    },
+    {
+      "name": "Pekárny a cukrárny Klatovy",
+      "latitude": 49.388387,
+      "longitude": 13.294774
+    },
+    {
+      "name": "Pekárny Blansko, a.s.",
+      "latitude": 49.588399,
+      "longitude": 17.272372
+    },
+    {
+      "name": "PENAM, a.s.",
+      "latitude": 49.219108,
+      "longitude": 17.63587
+    },
+    {
+      "name": "PERNÍK",
+      "latitude": 50.038496,
+      "longitude": 15.779718
+    },
+    {
+      "name": "PERZO, s.r.o.",
+      "latitude": 49.842717,
+      "longitude": 13.361292
+    },
+    {
+      "name": "Petite France",
+      "latitude": 50.077754,
+      "longitude": 14.417792
+    },
+    {
+      "name": "Pezo",
+      "latitude": 49.83686,
+      "longitude": 18.294364
+    },
+    {
+      "name": "Pečivo",
+      "latitude": 49.207063,
+      "longitude": 15.886442
+    },
+    {
+      "name": "Pečivo",
+      "latitude": 50.084014,
+      "longitude": 14.452899
+    },
+    {
+      "name": "Pečivo Fornetti",
+      "latitude": 49.588962,
+      "longitude": 17.254141
+    },
+    {
+      "name": "Pečivo Šmeralka",
+      "latitude": 50.100755,
+      "longitude": 14.422641
+    },
+    {
+      "name": "Pečivárna",
+      "latitude": 49.211089,
+      "longitude": 16.584458
+    },
+    {
+      "name": "Pilz",
+      "latitude": 48.761018,
+      "longitude": 14.972212
+    },
+    {
+      "name": "Pilz",
+      "latitude": 48.772713,
+      "longitude": 14.984798
+    },
+    {
+      "name": "Pino",
+      "latitude": 49.666528,
+      "longitude": 18.333645
+    },
+    {
+      "name": "Pizza chleba DOV",
+      "latitude": 49.819203,
+      "longitude": 18.279881
+    },
+    {
+      "name": "Pletýnka",
+      "latitude": 50.228733,
+      "longitude": 17.204221
+    },
+    {
+      "name": "Plněné taštičky",
+      "latitude": 50.100246,
+      "longitude": 14.445838
+    },
+    {
+      "name": "Pocinovicke Pekarstvi",
+      "latitude": 49.291208,
+      "longitude": 13.141011
+    },
+    {
+      "name": "Poctivý Koláč",
+      "latitude": 50.031812,
+      "longitude": 16.508539
+    },
+    {
+      "name": "Podivínská pekárna",
+      "latitude": 48.829589,
+      "longitude": 16.858586
+    },
+    {
+      "name": "Podpěrova pekárna",
+      "latitude": 49.227994,
+      "longitude": 16.592768
+    },
+    {
+      "name": "Podpěrova pekárna",
+      "latitude": 49.230203,
+      "longitude": 16.595365
+    },
+    {
+      "name": "POLA f.o.",
+      "latitude": 49.555783,
+      "longitude": 17.735751
+    },
+    {
+      "name": "Polo",
+      "latitude": 50.089157,
+      "longitude": 14.46792
+    },
+    {
+      "name": "POP Pekárna u Papíráku",
+      "latitude": 50.767989,
+      "longitude": 15.055194
+    },
+    {
+      "name": "Potraviny",
+      "latitude": 50.757685,
+      "longitude": 15.04295
+    },
+    {
+      "name": "Potraviny Kučera",
+      "latitude": 49.776051,
+      "longitude": 13.367344
+    },
+    {
+      "name": "Potraviny pekárna Adámek",
+      "latitude": 49.712312,
+      "longitude": 18.481172
+    },
+    {
+      "name": "Potraviny, chléb, pečivo",
+      "latitude": 50.230906,
+      "longitude": 14.085614
+    },
+    {
+      "name": "Precel",
+      "latitude": 50.442329,
+      "longitude": 16.243938
+    },
+    {
+      "name": "Preclík",
+      "latitude": 49.200175,
+      "longitude": 16.600224
+    },
+    {
+      "name": "Pretiosus OL",
+      "latitude": 49.598969,
+      "longitude": 17.273259
+    },
+    {
+      "name": "Prima dobroty",
+      "latitude": 49.595632,
+      "longitude": 17.252219
+    },
+    {
+      "name": "Prima pekárna",
+      "latitude": 49.195388,
+      "longitude": 16.609904
+    },
+    {
+      "name": "Prima pekárna",
+      "latitude": 49.829415,
+      "longitude": 18.280556
+    },
+    {
+      "name": "Prima pekárna",
+      "latitude": 50.087503,
+      "longitude": 17.708057
+    },
+    {
+      "name": "Prodej čerstvého pečiva",
+      "latitude": 50.747125,
+      "longitude": 15.078231
+    },
+    {
+      "name": "Prodejna ENPEKA a.s. (pekařství, cukrárna, lahůdky)",
+      "latitude": 49.719417,
+      "longitude": 15.670309
+    },
+    {
+      "name": "Prodejna pekařství a cukrářství Tritia",
+      "latitude": 50.242509,
+      "longitude": 12.744241
+    },
+    {
+      "name": "Prostě Chleba",
+      "latitude": 49.621663,
+      "longitude": 18.406109
+    },
+    {
+      "name": "Právě pro tebe",
+      "latitude": 50.92156,
+      "longitude": 15.080668
+    },
+    {
+      "name": "Psárská pekárna Laguna",
+      "latitude": 49.96742,
+      "longitude": 14.514819
+    },
+    {
+      "name": "Písecká cukrárna – Mirotické pekařství",
+      "latitude": 50.042222,
+      "longitude": 14.55363
+    },
+    {
+      "name": "Pączkarnia",
+      "latitude": 50.442095,
+      "longitude": 16.245052
+    },
+    {
+      "name": "Pěstitelská pálenice Kvasice",
+      "latitude": 49.236399,
+      "longitude": 17.479329
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.443406,
+      "longitude": 17.452917
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.449006,
+      "longitude": 17.451757
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.45131,
+      "longitude": 17.465298
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.452867,
+      "longitude": 17.469663
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.452909,
+      "longitude": 17.461564
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.453147,
+      "longitude": 17.452866
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.454063,
+      "longitude": 17.447192
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.454124,
+      "longitude": 17.470236
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.454735,
+      "longitude": 17.46166
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.456143,
+      "longitude": 17.449412
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.459331,
+      "longitude": 17.443576
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.461016,
+      "longitude": 17.451391
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.465266,
+      "longitude": 17.439429
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.468854,
+      "longitude": 17.440023
+    },
+    {
+      "name": "Racek",
+      "latitude": 49.520513,
+      "longitude": 17.343944
+    },
+    {
+      "name": "Raszka",
+      "latitude": 49.680588,
+      "longitude": 18.6691
+    },
+    {
+      "name": "Rašner",
+      "latitude": 48.938319,
+      "longitude": 16.735662
+    },
+    {
+      "name": "Rašner",
+      "latitude": 49.185761,
+      "longitude": 16.615429
+    },
+    {
+      "name": "Rašner",
+      "latitude": 49.275997,
+      "longitude": 16.992058
+    },
+    {
+      "name": "Rašner",
+      "latitude": 49.276383,
+      "longitude": 16.982191
+    },
+    {
+      "name": "Rašner",
+      "latitude": 49.278801,
+      "longitude": 16.999576
+    },
+    {
+      "name": "Rašner pekařství",
+      "latitude": 49.47296,
+      "longitude": 17.109731
+    },
+    {
+      "name": "Rašnerova pekárna",
+      "latitude": 49.189339,
+      "longitude": 16.603341
+    },
+    {
+      "name": "Rašnerova Pekárna",
+      "latitude": 49.472764,
+      "longitude": 17.116737
+    },
+    {
+      "name": "Rašnerova Pekárna",
+      "latitude": 49.775121,
+      "longitude": 16.917405
+    },
+    {
+      "name": "Rašnerova pekárna",
+      "latitude": 49.872408,
+      "longitude": 16.887555
+    },
+    {
+      "name": "Remigius",
+      "latitude": 50.151558,
+      "longitude": 14.521898
+    },
+    {
+      "name": "Rico",
+      "latitude": 49.212194,
+      "longitude": 16.624725
+    },
+    {
+      "name": "Rodinná pekárna Kulhánek & Drápal",
+      "latitude": 49.213413,
+      "longitude": 16.820784
+    },
+    {
+      "name": "Rodinné pekařství",
+      "latitude": 49.082083,
+      "longitude": 16.694013
+    },
+    {
+      "name": "Rodinné pekařství",
+      "latitude": 49.190832,
+      "longitude": 16.597635
+    },
+    {
+      "name": "Roscher",
+      "latitude": 50.491073,
+      "longitude": 13.025254
+    },
+    {
+      "name": "Rudolfovo pekařství",
+      "latitude": 49.478331,
+      "longitude": 17.110965
+    },
+    {
+      "name": "Rychvaldská pekárna",
+      "latitude": 49.850114,
+      "longitude": 18.27469
+    },
+    {
+      "name": "Ráj pečiva",
+      "latitude": 49.19022,
+      "longitude": 16.610236
+    },
+    {
+      "name": "Ráj pečiva",
+      "latitude": 49.202237,
+      "longitude": 16.641293
+    },
+    {
+      "name": "Ráj pečiva",
+      "latitude": 49.204088,
+      "longitude": 16.636613
+    },
+    {
+      "name": "Ráječko",
+      "latitude": 49.360622,
+      "longitude": 16.642722
+    },
+    {
+      "name": "Rýmařovská Pekárna",
+      "latitude": 49.936631,
+      "longitude": 17.272767
+    },
+    {
+      "name": "Rýmařovská pekárna",
+      "latitude": 49.963573,
+      "longitude": 16.972468
+    },
+    {
+      "name": "Rýmařovská pekárna",
+      "latitude": 49.965923,
+      "longitude": 16.976992
+    },
+    {
+      "name": "Rýmařovská pekárna",
+      "latitude": 49.967412,
+      "longitude": 16.971955
+    },
+    {
+      "name": "Selská pekárna",
+      "latitude": 50.227741,
+      "longitude": 17.200496
+    },
+    {
+      "name": "SEMAG spol s r.o.",
+      "latitude": 49.798928,
+      "longitude": 18.40107
+    },
+    {
+      "name": "Sesamo",
+      "latitude": 49.230866,
+      "longitude": 16.576725
+    },
+    {
+      "name": "Seval",
+      "latitude": 49.826925,
+      "longitude": 18.162071
+    },
+    {
+      "name": "Seval",
+      "latitude": 49.832434,
+      "longitude": 18.175244
+    },
+    {
+      "name": "Seval",
+      "latitude": 49.832824,
+      "longitude": 18.286643
+    },
+    {
+      "name": "Seval",
+      "latitude": 49.83641,
+      "longitude": 18.182859
+    },
+    {
+      "name": "Seval",
+      "latitude": 49.836903,
+      "longitude": 18.290202
+    },
+    {
+      "name": "Sezam",
+      "latitude": 49.939594,
+      "longitude": 17.902493
+    },
+    {
+      "name": "Sikora",
+      "latitude": 49.670472,
+      "longitude": 18.677426
+    },
+    {
+      "name": "Sladká rozinka",
+      "latitude": 49.965398,
+      "longitude": 14.073549
+    },
+    {
+      "name": "Sladká tečka",
+      "latitude": 50.090081,
+      "longitude": 14.473186
+    },
+    {
+      "name": "Sladké pečivo od Caise",
+      "latitude": 49.081885,
+      "longitude": 13.957928
+    },
+    {
+      "name": "Slezská pekárna JK",
+      "latitude": 49.59034,
+      "longitude": 18.358752
+    },
+    {
+      "name": "Slovenské speciality",
+      "latitude": 50.100252,
+      "longitude": 14.445482
+    },
+    {
+      "name": "Smajlík",
+      "latitude": 49.595255,
+      "longitude": 17.246959
+    },
+    {
+      "name": "Smékalovo pekařství",
+      "latitude": 49.951867,
+      "longitude": 16.162185
+    },
+    {
+      "name": "Smékalovo Pekařství",
+      "latitude": 50.002601,
+      "longitude": 16.22275
+    },
+    {
+      "name": "Smékalovo pekařství",
+      "latitude": 50.034597,
+      "longitude": 15.774225
+    },
+    {
+      "name": "Smékalovo pekařství",
+      "latitude": 50.185302,
+      "longitude": 15.828888
+    },
+    {
+      "name": "Soběchlebská pekárna",
+      "latitude": 49.551527,
+      "longitude": 17.734978
+    },
+    {
+      "name": "Sofia",
+      "latitude": 50.229618,
+      "longitude": 12.874789
+    },
+    {
+      "name": "Speciální pekařství Smajlík",
+      "latitude": 49.19425,
+      "longitude": 16.64115
+    },
+    {
+      "name": "Srnín",
+      "latitude": 48.97699,
+      "longitude": 14.478004
+    },
+    {
+      "name": "Staročeská pekárna",
+      "latitude": 49.922028,
+      "longitude": 14.636021
+    },
+    {
+      "name": "Staročeská pekárna",
+      "latitude": 50.114561,
+      "longitude": 14.606935
+    },
+    {
+      "name": "Staročeská pekárna - cukrárna",
+      "latitude": 50.083373,
+      "longitude": 14.421292
+    },
+    {
+      "name": "Staročeské pekařství",
+      "latitude": 50.197071,
+      "longitude": 15.845156
+    },
+    {
+      "name": "Stáňa",
+      "latitude": 49.927228,
+      "longitude": 14.341394
+    },
+    {
+      "name": "Středovy pekarny",
+      "latitude": 49.952923,
+      "longitude": 15.276123
+    },
+    {
+      "name": "Středovy pekárny",
+      "latitude": 49.395777,
+      "longitude": 15.591397
+    },
+    {
+      "name": "Středovy Pekárny",
+      "latitude": 49.947215,
+      "longitude": 15.274983
+    },
+    {
+      "name": "Středovy pekárny",
+      "latitude": 49.956949,
+      "longitude": 15.283535
+    },
+    {
+      "name": "Středovy pekárny",
+      "latitude": 50.022191,
+      "longitude": 15.206355
+    },
+    {
+      "name": "Svoboda",
+      "latitude": 49.223588,
+      "longitude": 17.658249
+    },
+    {
+      "name": "Svoboda & Březík",
+      "latitude": 49.331536,
+      "longitude": 17.578724
+    },
+    {
+      "name": "Svoboda & Březík",
+      "latitude": 49.333237,
+      "longitude": 17.578648
+    },
+    {
+      "name": "Svoboda a Březík - Pečivo",
+      "latitude": 49.548083,
+      "longitude": 17.734219
+    },
+    {
+      "name": "Svoboda Březík",
+      "latitude": 49.174092,
+      "longitude": 17.514583
+    },
+    {
+      "name": "Svoboda Březík",
+      "latitude": 49.207695,
+      "longitude": 17.595595
+    },
+    {
+      "name": "Svoboda Březík",
+      "latitude": 49.224752,
+      "longitude": 17.666052
+    },
+    {
+      "name": "Svoboda Březík",
+      "latitude": 49.226041,
+      "longitude": 17.664929
+    },
+    {
+      "name": "Svoboda Březík",
+      "latitude": 49.226517,
+      "longitude": 17.676131
+    },
+    {
+      "name": "Svoboda Březík",
+      "latitude": 49.228869,
+      "longitude": 17.66188
+    },
+    {
+      "name": "Svoboda&Březík",
+      "latitude": 49.223664,
+      "longitude": 17.725756
+    },
+    {
+      "name": "Svoboda-Březík",
+      "latitude": 49.069184,
+      "longitude": 17.460635
+    },
+    {
+      "name": "Svoj&Svoj",
+      "latitude": 49.223568,
+      "longitude": 16.594717
+    },
+    {
+      "name": "Svět bez lepku",
+      "latitude": 49.184194,
+      "longitude": 16.594859
+    },
+    {
+      "name": "Svět bez lepku",
+      "latitude": 49.228263,
+      "longitude": 16.594173
+    },
+    {
+      "name": "Sweet & Salty",
+      "latitude": 50.106452,
+      "longitude": 14.44965
+    },
+    {
+      "name": "Sázava",
+      "latitude": 49.714626,
+      "longitude": 16.266188
+    },
+    {
+      "name": "Sázava",
+      "latitude": 49.751075,
+      "longitude": 16.472954
+    },
+    {
+      "name": "Sázava",
+      "latitude": 49.776583,
+      "longitude": 16.921829
+    },
+    {
+      "name": "Sázava",
+      "latitude": 50.034617,
+      "longitude": 16.500173
+    },
+    {
+      "name": "Sázava",
+      "latitude": 50.034967,
+      "longitude": 15.77765
+    },
+    {
+      "name": "Sázava",
+      "latitude": 50.037199,
+      "longitude": 15.775498
+    },
+    {
+      "name": "Sázava",
+      "latitude": 50.16196,
+      "longitude": 16.274204
+    },
+    {
+      "name": "Sázava",
+      "latitude": 50.213945,
+      "longitude": 15.819782
+    },
+    {
+      "name": "Sázava - Pekárna a Cukrárna",
+      "latitude": 49.999294,
+      "longitude": 16.221647
+    },
+    {
+      "name": "Sázava pekařství",
+      "latitude": 50.213719,
+      "longitude": 15.811817
+    },
+    {
+      "name": "Tady a teď",
+      "latitude": 50.071499,
+      "longitude": 14.404985
+    },
+    {
+      "name": "Topek",
+      "latitude": 49.068008,
+      "longitude": 17.458955
+    },
+    {
+      "name": "Topek",
+      "latitude": 49.068443,
+      "longitude": 17.46322
+    },
+    {
+      "name": "Topek",
+      "latitude": 49.070752,
+      "longitude": 17.474044
+    },
+    {
+      "name": "Topek",
+      "latitude": 49.099528,
+      "longitude": 17.547702
+    },
+    {
+      "name": "Topek",
+      "latitude": 49.20381,
+      "longitude": 17.5714
+    },
+    {
+      "name": "Topek",
+      "latitude": 49.463814,
+      "longitude": 17.445738
+    },
+    {
+      "name": "Torto",
+      "latitude": 50.087017,
+      "longitude": 14.405881
+    },
+    {
+      "name": "Trdelníkárna",
+      "latitude": 50.038166,
+      "longitude": 15.778659
+    },
+    {
+      "name": "Trdlo",
+      "latitude": 50.086081,
+      "longitude": 14.417522
+    },
+    {
+      "name": "Trdlokafe",
+      "latitude": 50.087636,
+      "longitude": 14.403288
+    },
+    {
+      "name": "Tritia",
+      "latitude": 49.964314,
+      "longitude": 12.700991
+    },
+    {
+      "name": "Tritia",
+      "latitude": 50.076308,
+      "longitude": 12.373361
+    },
+    {
+      "name": "Tritia",
+      "latitude": 50.22119,
+      "longitude": 12.189304
+    },
+    {
+      "name": "TUTOO",
+      "latitude": 49.596266,
+      "longitude": 18.389996
+    },
+    {
+      "name": "U Dvou rohlíků",
+      "latitude": 50.056461,
+      "longitude": 14.373634
+    },
+    {
+      "name": "U Dvou rohlíků",
+      "latitude": 50.133357,
+      "longitude": 14.121849
+    },
+    {
+      "name": "U Freuda",
+      "latitude": 49.669504,
+      "longitude": 18.35079
+    },
+    {
+      "name": "U Gaislerů",
+      "latitude": 50.476045,
+      "longitude": 16.083967
+    },
+    {
+      "name": "U Golema",
+      "latitude": 49.849559,
+      "longitude": 18.27785
+    },
+    {
+      "name": "U Golema",
+      "latitude": 49.962237,
+      "longitude": 16.980111
+    },
+    {
+      "name": "U Golema",
+      "latitude": 49.962601,
+      "longitude": 16.975859
+    },
+    {
+      "name": "U Golema",
+      "latitude": 49.9659,
+      "longitude": 16.976587
+    },
+    {
+      "name": "U Jahodů",
+      "latitude": 49.068545,
+      "longitude": 17.462126
+    },
+    {
+      "name": "U Kláštera",
+      "latitude": 48.975222,
+      "longitude": 14.472789
+    },
+    {
+      "name": "U Krbu",
+      "latitude": 50.648887,
+      "longitude": 13.836398
+    },
+    {
+      "name": "U Kubíčka",
+      "latitude": 50.195065,
+      "longitude": 15.858982
+    },
+    {
+      "name": "U Kubíčka",
+      "latitude": 50.421993,
+      "longitude": 16.183467
+    },
+    {
+      "name": "U Kubíčka",
+      "latitude": 50.424289,
+      "longitude": 16.191742
+    },
+    {
+      "name": "U Nováků",
+      "latitude": 50.259845,
+      "longitude": 14.518788
+    },
+    {
+      "name": "U Onďase",
+      "latitude": 50.774038,
+      "longitude": 14.200552
+    },
+    {
+      "name": "U Pekaře",
+      "latitude": 49.604767,
+      "longitude": 15.579864
+    },
+    {
+      "name": "U Preclíčků",
+      "latitude": 48.615917,
+      "longitude": 14.311732
+    },
+    {
+      "name": "U Píchů",
+      "latitude": 50.167061,
+      "longitude": 14.445534
+    },
+    {
+      "name": "U rohlíčku",
+      "latitude": 49.205601,
+      "longitude": 16.658813
+    },
+    {
+      "name": "U Vafle",
+      "latitude": 50.145208,
+      "longitude": 14.485217
+    },
+    {
+      "name": "U Zaoralů",
+      "latitude": 50.584564,
+      "longitude": 14.341603
+    },
+    {
+      "name": "U Zastávky",
+      "latitude": 50.178859,
+      "longitude": 14.6703
+    },
+    {
+      "name": "U Zděnka",
+      "latitude": 50.196813,
+      "longitude": 15.840095
+    },
+    {
+      "name": "Unhošťské Pekařství - Café",
+      "latitude": 50.085515,
+      "longitude": 14.129599
+    },
+    {
+      "name": "V Mouce",
+      "latitude": 50.209472,
+      "longitude": 15.834548
+    },
+    {
+      "name": "V Žitě",
+      "latitude": 48.973053,
+      "longitude": 14.472922
+    },
+    {
+      "name": "V Žitě",
+      "latitude": 48.977274,
+      "longitude": 14.473817
+    },
+    {
+      "name": "Vacovská pekárna",
+      "latitude": 49.136843,
+      "longitude": 13.725683
+    },
+    {
+      "name": "Valašský chleba",
+      "latitude": 49.194662,
+      "longitude": 16.616747
+    },
+    {
+      "name": "VAPEKO",
+      "latitude": 50.218008,
+      "longitude": 12.194791
+    },
+    {
+      "name": "Vaňkovo pekařství",
+      "latitude": 49.47202,
+      "longitude": 17.971342
+    },
+    {
+      "name": "Vašíček - pekařství a cukrářství, s.r.o.",
+      "latitude": 49.886858,
+      "longitude": 16.866089
+    },
+    {
+      "name": "Veana",
+      "latitude": 49.395939,
+      "longitude": 15.587049
+    },
+    {
+      "name": "Vejprtská pekárna",
+      "latitude": 50.458758,
+      "longitude": 13.413849
+    },
+    {
+      "name": "Veka",
+      "latitude": 49.21725,
+      "longitude": 17.74838
+    },
+    {
+      "name": "Velíšek",
+      "latitude": 49.148506,
+      "longitude": 15.002158
+    },
+    {
+      "name": "Veniho houska",
+      "latitude": 50.696467,
+      "longitude": 15.737955
+    },
+    {
+      "name": "Veřejná pec na chleba",
+      "latitude": 48.921847,
+      "longitude": 13.796384
+    },
+    {
+      "name": "Vilém",
+      "latitude": 49.397493,
+      "longitude": 15.587392
+    },
+    {
+      "name": "Vilém",
+      "latitude": 49.603089,
+      "longitude": 15.580456
+    },
+    {
+      "name": "Vilém",
+      "latitude": 49.605794,
+      "longitude": 15.600299
+    },
+    {
+      "name": "Vilém",
+      "latitude": 49.606754,
+      "longitude": 15.578709
+    },
+    {
+      "name": "Vilém",
+      "latitude": 49.606764,
+      "longitude": 15.577165
+    },
+    {
+      "name": "Vilémovo pekařství a koloniál",
+      "latitude": 50.146302,
+      "longitude": 15.12156
+    },
+    {
+      "name": "Vinohradská pekárna",
+      "latitude": 50.072624,
+      "longitude": 14.43325
+    },
+    {
+      "name": "Vokřínek",
+      "latitude": 50.772491,
+      "longitude": 15.427905
+    },
+    {
+      "name": "Vranovská minipekárna",
+      "latitude": 49.31134,
+      "longitude": 16.606632
+    },
+    {
+      "name": "Vrbský",
+      "latitude": 50.033534,
+      "longitude": 14.230321
+    },
+    {
+      "name": "VÍT a VNUK pekařství, cukrářství",
+      "latitude": 50.44627,
+      "longitude": 15.737903
+    },
+    {
+      "name": "Včelička",
+      "latitude": 49.835622,
+      "longitude": 18.294034
+    },
+    {
+      "name": "Wenzel",
+      "latitude": 49.420926,
+      "longitude": 14.655219
+    },
+    {
+      "name": "William & Thomas",
+      "latitude": 49.175148,
+      "longitude": 16.566567
+    },
+    {
+      "name": "William & Thomas Artisan Bakery",
+      "latitude": 50.070985,
+      "longitude": 14.380445
+    },
+    {
+      "name": "William Thomas",
+      "latitude": 49.192385,
+      "longitude": 16.604121
+    },
+    {
+      "name": "William Thomas Artisan Bakery",
+      "latitude": 49.193193,
+      "longitude": 16.611809
+    },
+    {
+      "name": "William Thomas Artisan Bakery",
+      "latitude": 49.198037,
+      "longitude": 16.601965
+    },
+    {
+      "name": "William Thomas Artisan Bakery",
+      "latitude": 49.214234,
+      "longitude": 16.57436
+    },
+    {
+      "name": "Zetíkova pekárna",
+      "latitude": 49.064434,
+      "longitude": 17.48091
+    },
+    {
+      "name": "Zrnko zrnko",
+      "latitude": 50.064286,
+      "longitude": 14.443535
+    },
+    {
+      "name": "Zrno zrnko",
+      "latitude": 50.048051,
+      "longitude": 14.453804
+    },
+    {
+      "name": "Zrno Zrnko",
+      "latitude": 50.090831,
+      "longitude": 14.427962
+    },
+    {
+      "name": "Zrno Zrnko",
+      "latitude": 50.099645,
+      "longitude": 14.396726
+    },
+    {
+      "name": "Zum Res'l Bäck",
+      "latitude": 50.37199,
+      "longitude": 12.470708
+    },
+    {
+      "name": "Závin - sladká pekárna",
+      "latitude": 50.092585,
+      "longitude": 14.373439
+    },
+    {
+      "name": "Úvalské pekařství",
+      "latitude": 50.073565,
+      "longitude": 14.723935
+    },
+    {
+      "name": "Čerstvé pečivo",
+      "latitude": 49.009278,
+      "longitude": 17.125104
+    },
+    {
+      "name": "Čerstvé pečivo",
+      "latitude": 50.125917,
+      "longitude": 14.489215
+    },
+    {
+      "name": "Český Perník",
+      "latitude": 48.812787,
+      "longitude": 14.317668
+    },
+    {
+      "name": "Řemeslná pekárna Loaf",
+      "latitude": 50.149545,
+      "longitude": 15.123021
+    },
+    {
+      "name": "Řemeslná pekárna Pět švestek",
+      "latitude": 50.137312,
+      "longitude": 13.988876
+    },
+    {
+      "name": "Řemeslná pekárna Zdravosti",
+      "latitude": 49.702014,
+      "longitude": 17.072999
+    },
+    {
+      "name": "Řemeslné pekařství Straka peče",
+      "latitude": 50.036403,
+      "longitude": 16.499059
+    },
+    {
+      "name": "Šanovská pekárna",
+      "latitude": 50.153219,
+      "longitude": 13.901118
+    },
+    {
+      "name": "Školní prodejna SPŠPAS",
+      "latitude": 50.038655,
+      "longitude": 15.776428
+    },
+    {
+      "name": "Štrúdlárna",
+      "latitude": 49.194039,
+      "longitude": 16.610889
+    },
+    {
+      "name": "Štrůdlárna",
+      "latitude": 49.595756,
+      "longitude": 17.255141
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.566152,
+      "longitude": 14.654542
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.655694,
+      "longitude": 14.724902
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.684108,
+      "longitude": 14.64571
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.686303,
+      "longitude": 14.536819
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.688412,
+      "longitude": 14.539166
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.772992,
+      "longitude": 14.472273
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.777369,
+      "longitude": 14.633001
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.863417,
+      "longitude": 14.482316
+    },
+    {
+      "name": "Šumava",
+      "latitude": 50.913032,
+      "longitude": 14.508312
+    },
+    {
+      "name": "Žižkovská štrúdlárna",
+      "latitude": 50.086553,
+      "longitude": 14.459505
+    }
+  ],
+  "meta": {
+    "title": "Pekařství - Stáhnout zdarma",
+    "description": "Pekařství v České republice (1140 záznamů) — body zájmu z OpenStreetMap (tag shop=bakery), výřez EU-POIS/CZ. Obsahuje 1140 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Pekařství | ListBase",
+    "seo_description": "Stáhnout Pekařství — 1140 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1140 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

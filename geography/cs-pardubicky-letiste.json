@@ -1,0 +1,271 @@
+{
+  "id": "cs-pardubicky-letiste",
+  "name": "Letiště — Pardubický kraj",
+  "title": "Letiště — Pardubický kraj",
+  "description": "Seznam letišť v kraji „Pardubický kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Pardubice region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKCO",
+      "iata": "",
+      "name": "Chocen Airport",
+      "name_slug": "chocen-airport",
+      "city": "Chocen",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 873,
+      "lat": 49.9772796631,
+      "lon": 16.1849212646,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKCR",
+      "iata": "",
+      "name": "Chrudim Airport",
+      "name_slug": "chrudim-airport",
+      "city": "Chrudim",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 981,
+      "lat": 49.9364013672,
+      "lon": 15.7805995941,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKMK",
+      "iata": "",
+      "name": "Moravska Trebova Airport",
+      "name_slug": "moravska-trebova-airport",
+      "city": "Moravska Trebova",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 1319,
+      "lat": 49.7983016968,
+      "lon": 16.6877994537,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPA",
+      "iata": "",
+      "name": "Policka Airport",
+      "name_slug": "policka-airport",
+      "city": "Policka",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 1982,
+      "lat": 49.7393989563,
+      "lon": 16.2588996887,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPD",
+      "iata": "PED",
+      "name": "Pardubice Airport",
+      "name_slug": "pardubice-airport",
+      "city": "Pardubice",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 741,
+      "lat": 50.0134010315,
+      "lon": 15.7385997772,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKPN",
+      "iata": "",
+      "name": "Podhorany Glider Airport",
+      "name_slug": "podhorany-glider-airport",
+      "city": "Podhoramy",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 1250,
+      "lat": 49.939201355,
+      "lon": 15.5496997833,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKSK",
+      "iata": "",
+      "name": "Skutec Airport",
+      "name_slug": "skutec-airport",
+      "city": "Skutec",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 1601,
+      "lat": 49.8278007507,
+      "lon": 16.0058002472,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKUO",
+      "iata": "",
+      "name": "Usti Mad Orlici Airport",
+      "name_slug": "usti-mad-orlici-airport",
+      "city": "Usti Mad Orlici",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 1342,
+      "lat": 49.9785995483,
+      "lon": 16.426399231,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKVM",
+      "iata": "",
+      "name": "Vysoke Myto Glider Airport",
+      "name_slug": "vysoke-myto-glider-airport",
+      "city": "Vysoke Myto",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 991,
+      "lat": 49.9268989563,
+      "lon": 16.1858005524,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKZM",
+      "iata": "",
+      "name": "Zamberk Airport",
+      "name_slug": "zamberk-airport",
+      "city": "Zamberk",
+      "kraj": "Pardubický kraj",
+      "kraj_source": "Pardubicky",
+      "kraj_slug": "pardubicky",
+      "kraj_en": "Pardubice",
+      "country": "CZ",
+      "elevation_ft": 1411,
+      "lat": 50.0839004517,
+      "lon": 16.4438991547,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Pardubický kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Pardubický kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Pardubice region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 10 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Pardubický kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Pardubický kraj — 10 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 10 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

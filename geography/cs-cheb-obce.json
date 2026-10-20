@@ -1,0 +1,556 @@
+{
+  "id": "cs-cheb-obce",
+  "name": "Obce — okres Cheb",
+  "title": "Obce — okres Cheb",
+  "description": "Seznam všech 40 obcí okresu Cheb — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (40 municipalities of okres Cheb, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aš",
+      "code": "554499",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35201",
+      "latitude": 50.223983,
+      "longitude": 12.195113,
+      "slug": "as"
+    },
+    {
+      "name": "Cheb",
+      "code": "554481",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.079633,
+      "longitude": 12.369964,
+      "slug": "cheb"
+    },
+    {
+      "name": "Dolní Žandov",
+      "code": "554502",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35493",
+      "latitude": 50.018055,
+      "longitude": 12.551125,
+      "slug": "dolni-zandov"
+    },
+    {
+      "name": "Drmoul",
+      "code": "554511",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.93907,
+      "longitude": 12.665618,
+      "slug": "drmoul"
+    },
+    {
+      "name": "Františkovy Lázně",
+      "code": "554529",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35101",
+      "latitude": 50.120159,
+      "longitude": 12.349781,
+      "slug": "frantiskovy-lazne"
+    },
+    {
+      "name": "Hazlov",
+      "code": "554545",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35132",
+      "latitude": 50.156457,
+      "longitude": 12.272617,
+      "slug": "hazlov"
+    },
+    {
+      "name": "Hranice",
+      "code": "554553",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35124",
+      "latitude": 50.304702,
+      "longitude": 12.175894,
+      "slug": "hranice"
+    },
+    {
+      "name": "Krásná",
+      "code": "538795",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35201",
+      "latitude": 50.234889,
+      "longitude": 12.168117,
+      "slug": "krasna"
+    },
+    {
+      "name": "Křižovatka",
+      "code": "554596",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35134",
+      "latitude": 50.194269,
+      "longitude": 12.393172,
+      "slug": "krizovatka"
+    },
+    {
+      "name": "Libá",
+      "code": "554618",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35131",
+      "latitude": 50.128275,
+      "longitude": 12.230943,
+      "slug": "liba"
+    },
+    {
+      "name": "Lipová",
+      "code": "554626",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.036398,
+      "longitude": 12.448928,
+      "slug": "lipova"
+    },
+    {
+      "name": "Luby",
+      "code": "554634",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35137",
+      "latitude": 50.252592,
+      "longitude": 12.406065,
+      "slug": "luby"
+    },
+    {
+      "name": "Lázně Kynžvart",
+      "code": "554600",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35491",
+      "latitude": 50.010693,
+      "longitude": 12.624853,
+      "slug": "lazne-kynzvart"
+    },
+    {
+      "name": "Mariánské Lázně",
+      "code": "554642",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.964699,
+      "longitude": 12.701298,
+      "slug": "marianske-lazne"
+    },
+    {
+      "name": "Milhostov",
+      "code": "554651",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.156155,
+      "longitude": 12.453308,
+      "slug": "milhostov"
+    },
+    {
+      "name": "Milíkov",
+      "code": "538906",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.055886,
+      "longitude": 12.547716,
+      "slug": "milikov"
+    },
+    {
+      "name": "Mnichov",
+      "code": "554677",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 50.03698,
+      "longitude": 12.787043,
+      "slug": "mnichov"
+    },
+    {
+      "name": "Nebanice",
+      "code": "554693",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.115352,
+      "longitude": 12.472085,
+      "slug": "nebanice"
+    },
+    {
+      "name": "Nový Kostel",
+      "code": "554707",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35134",
+      "latitude": 50.217131,
+      "longitude": 12.445362,
+      "slug": "novy-kostel"
+    },
+    {
+      "name": "Odrava",
+      "code": "539554",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.103171,
+      "longitude": 12.48425,
+      "slug": "odrava"
+    },
+    {
+      "name": "Okrouhlá",
+      "code": "538922",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.062566,
+      "longitude": 12.487772,
+      "slug": "okrouhla"
+    },
+    {
+      "name": "Ovesné Kladruby",
+      "code": "539473",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.953112,
+      "longitude": 12.779206,
+      "slug": "ovesne-kladruby"
+    },
+    {
+      "name": "Plesná",
+      "code": "554740",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35135",
+      "latitude": 50.220815,
+      "longitude": 12.34681,
+      "slug": "plesna"
+    },
+    {
+      "name": "Podhradí",
+      "code": "538817",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35201",
+      "latitude": 50.255461,
+      "longitude": 12.201857,
+      "slug": "podhradi"
+    },
+    {
+      "name": "Pomezí nad Ohří",
+      "code": "538868",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.086208,
+      "longitude": 12.279652,
+      "slug": "pomezi-nad-ohri"
+    },
+    {
+      "name": "Poustka",
+      "code": "577979",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.140272,
+      "longitude": 12.298291,
+      "slug": "poustka"
+    },
+    {
+      "name": "Prameny",
+      "code": "539538",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 50.050184,
+      "longitude": 12.732909,
+      "slug": "prameny"
+    },
+    {
+      "name": "Skalná",
+      "code": "554812",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35134",
+      "latitude": 50.170411,
+      "longitude": 12.361561,
+      "slug": "skalna"
+    },
+    {
+      "name": "Stará Voda",
+      "code": "539112",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.991631,
+      "longitude": 12.59591,
+      "slug": "stara-voda"
+    },
+    {
+      "name": "Teplá",
+      "code": "555631",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "36461",
+      "latitude": 49.981953,
+      "longitude": 12.86316,
+      "slug": "tepla"
+    },
+    {
+      "name": "Trstěnice",
+      "code": "554855",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.91921,
+      "longitude": 12.676134,
+      "slug": "trstenice"
+    },
+    {
+      "name": "Tuřany",
+      "code": "539619",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35002",
+      "latitude": 50.08412,
+      "longitude": 12.522102,
+      "slug": "turany"
+    },
+    {
+      "name": "Třebeň",
+      "code": "539023",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35134",
+      "latitude": 50.128744,
+      "longitude": 12.400268,
+      "slug": "treben"
+    },
+    {
+      "name": "Tři Sekery",
+      "code": "554880",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.942277,
+      "longitude": 12.616745,
+      "slug": "tri-sekery"
+    },
+    {
+      "name": "Valy",
+      "code": "539481",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.976907,
+      "longitude": 12.654905,
+      "slug": "valy"
+    },
+    {
+      "name": "Velká Hleďsebe",
+      "code": "539279",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.966767,
+      "longitude": 12.666767,
+      "slug": "velka-hledsebe"
+    },
+    {
+      "name": "Velký Luh",
+      "code": "578002",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35134",
+      "latitude": 50.19907,
+      "longitude": 12.372344,
+      "slug": "velky-luh"
+    },
+    {
+      "name": "Vlkovice",
+      "code": "539376",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.948927,
+      "longitude": 12.739122,
+      "slug": "vlkovice"
+    },
+    {
+      "name": "Vojtanov",
+      "code": "539074",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35134",
+      "latitude": 50.166294,
+      "longitude": 12.317021,
+      "slug": "vojtanov"
+    },
+    {
+      "name": "Zádub-Závišín",
+      "code": "539431",
+      "okres": "Cheb",
+      "okres_code": "CZ0411",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35301",
+      "latitude": 49.971876,
+      "longitude": 12.744072,
+      "slug": "zadub-zavisin"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Cheb - Stáhnout zdarma",
+    "description": "Seznam všech 40 obcí okresu Cheb — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (40 municipalities of okres Cheb, split from the national cs-obce dataset.) Obsahuje 40 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Cheb | ListBase",
+    "seo_description": "Stáhnout Obce — okres Cheb — 40 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 40 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

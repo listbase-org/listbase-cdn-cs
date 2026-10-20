@@ -1,0 +1,388 @@
+{
+  "id": "cs-most-obce",
+  "name": "Obce — okres Most",
+  "title": "Obce — okres Most",
+  "description": "Seznam všech 26 obcí okresu Most — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (26 municipalities of okres Most, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bečov",
+      "code": "567043",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43526",
+      "latitude": 50.449824,
+      "longitude": 13.717955,
+      "slug": "becov"
+    },
+    {
+      "name": "Brandov",
+      "code": "567078",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43547",
+      "latitude": 50.63211,
+      "longitude": 13.390831,
+      "slug": "brandov"
+    },
+    {
+      "name": "Braňany",
+      "code": "567060",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43522",
+      "latitude": 50.543055,
+      "longitude": 13.700283,
+      "slug": "branany"
+    },
+    {
+      "name": "Bělušice",
+      "code": "567051",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.449262,
+      "longitude": 13.762928,
+      "slug": "belusice"
+    },
+    {
+      "name": "Havraň",
+      "code": "567141",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43501",
+      "latitude": 50.450149,
+      "longitude": 13.598881,
+      "slug": "havran"
+    },
+    {
+      "name": "Hora Svaté Kateřiny",
+      "code": "567167",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43546",
+      "latitude": 50.606416,
+      "longitude": 13.436834,
+      "slug": "hora-svate-kateriny"
+    },
+    {
+      "name": "Horní Jiřetín",
+      "code": "567175",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43543",
+      "latitude": 50.5732,
+      "longitude": 13.547284,
+      "slug": "horni-jiretin"
+    },
+    {
+      "name": "Klíny",
+      "code": "567191",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43601",
+      "latitude": 50.638349,
+      "longitude": 13.548232,
+      "slug": "kliny"
+    },
+    {
+      "name": "Korozluky",
+      "code": "567221",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.478686,
+      "longitude": 13.723088,
+      "slug": "korozluky"
+    },
+    {
+      "name": "Litvínov",
+      "code": "567256",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43601",
+      "latitude": 50.598526,
+      "longitude": 13.610342,
+      "slug": "litvinov"
+    },
+    {
+      "name": "Lišnice",
+      "code": "567248",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.454552,
+      "longitude": 13.63312,
+      "slug": "lisnice"
+    },
+    {
+      "name": "Lom",
+      "code": "567264",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43511",
+      "latitude": 50.593384,
+      "longitude": 13.657403,
+      "slug": "lom"
+    },
+    {
+      "name": "Louka u Litvínova",
+      "code": "567272",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43533",
+      "latitude": 50.587967,
+      "longitude": 13.636592,
+      "slug": "louka-u-litvinova"
+    },
+    {
+      "name": "Lužice",
+      "code": "567281",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43524",
+      "latitude": 50.491802,
+      "longitude": 13.75425,
+      "slug": "luzice"
+    },
+    {
+      "name": "Malé Březno",
+      "code": "567299",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.462594,
+      "longitude": 13.560308,
+      "slug": "male-brezno"
+    },
+    {
+      "name": "Mariánské Radčice",
+      "code": "567302",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43532",
+      "latitude": 50.574142,
+      "longitude": 13.665101,
+      "slug": "marianske-radcice"
+    },
+    {
+      "name": "Meziboří",
+      "code": "567311",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43513",
+      "latitude": 50.62126,
+      "longitude": 13.598813,
+      "slug": "mezibori"
+    },
+    {
+      "name": "Most",
+      "code": "567027",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.501655,
+      "longitude": 13.633012,
+      "slug": "most"
+    },
+    {
+      "name": "Nová Ves v Horách",
+      "code": "567329",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43545",
+      "latitude": 50.594847,
+      "longitude": 13.482558,
+      "slug": "nova-ves-v-horach"
+    },
+    {
+      "name": "Obrnice",
+      "code": "567337",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43521",
+      "latitude": 50.505083,
+      "longitude": 13.695511,
+      "slug": "obrnice"
+    },
+    {
+      "name": "Patokryje",
+      "code": "567345",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.499915,
+      "longitude": 13.705297,
+      "slug": "patokryje"
+    },
+    {
+      "name": "Polerady",
+      "code": "567353",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.444544,
+      "longitude": 13.652795,
+      "slug": "polerady"
+    },
+    {
+      "name": "Skršín",
+      "code": "567361",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.465729,
+      "longitude": 13.754506,
+      "slug": "skrsin"
+    },
+    {
+      "name": "Volevčice",
+      "code": "546437",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.434989,
+      "longitude": 13.690498,
+      "slug": "volevcice"
+    },
+    {
+      "name": "Český Jiřetín",
+      "code": "567108",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43601",
+      "latitude": 50.70759,
+      "longitude": 13.547489,
+      "slug": "cesky-jiretin"
+    },
+    {
+      "name": "Želenice",
+      "code": "567426",
+      "okres": "Most",
+      "okres_code": "CZ0425",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "43401",
+      "latitude": 50.527718,
+      "longitude": 13.726169,
+      "slug": "zelenice"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Most - Stáhnout zdarma",
+    "description": "Seznam všech 26 obcí okresu Most — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (26 municipalities of okres Most, split from the national cs-obce dataset.) Obsahuje 26 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Most | ListBase",
+    "seo_description": "Stáhnout Obce — okres Most — 26 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 26 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

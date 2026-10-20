@@ -1,0 +1,880 @@
+{
+  "id": "cs-statni-svatky",
+  "name": "České státní svátky (2020–2026)",
+  "title": "České státní svátky (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_cs",
+      "label": "Name Cs",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_cs": "Den obnovy samostatného českého státu; Nový rok",
+      "name_en": "Independent Czech State Restoration Day; New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-04-10",
+      "year": 2020,
+      "name_cs": "Velký pátek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-04-13",
+      "year": 2020,
+      "name_cs": "Velikonoční pondělí",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_cs": "Svátek práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-05-08",
+      "year": 2020,
+      "name_cs": "Den vítězství",
+      "name_en": "Victory Day",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-07-05",
+      "year": 2020,
+      "name_cs": "Den slovanských věrozvěstů Cyrila a Metoděje",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2020-07-06",
+      "year": 2020,
+      "name_cs": "Den upálení mistra Jana Husa",
+      "name_en": "Jan Hus Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-09-28",
+      "year": 2020,
+      "name_cs": "Den české státnosti",
+      "name_en": "Statehood Day",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-10-28",
+      "year": 2020,
+      "name_cs": "Den vzniku samostatného československého státu",
+      "name_en": "Independent Czechoslovak State Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-11-17",
+      "year": 2020,
+      "name_cs": "Den boje za svobodu a demokracii a Mezinárodní den studentstva",
+      "name_en": "Struggle for Freedom and Democracy Day and International Students' Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2020-12-24",
+      "year": 2020,
+      "name_cs": "Štědrý den",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_cs": "1. svátek vánoční",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-26",
+      "year": 2020,
+      "name_cs": "2. svátek vánoční",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_cs": "Den obnovy samostatného českého státu; Nový rok",
+      "name_en": "Independent Czech State Restoration Day; New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-04-02",
+      "year": 2021,
+      "name_cs": "Velký pátek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 2,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-04-05",
+      "year": 2021,
+      "name_cs": "Velikonoční pondělí",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_cs": "Svátek práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-08",
+      "year": 2021,
+      "name_cs": "Den vítězství",
+      "name_en": "Victory Day",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-07-05",
+      "year": 2021,
+      "name_cs": "Den slovanských věrozvěstů Cyrila a Metoděje",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-07-06",
+      "year": 2021,
+      "name_cs": "Den upálení mistra Jana Husa",
+      "name_en": "Jan Hus Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-09-28",
+      "year": 2021,
+      "name_cs": "Den české státnosti",
+      "name_en": "Statehood Day",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-10-28",
+      "year": 2021,
+      "name_cs": "Den vzniku samostatného československého státu",
+      "name_en": "Independent Czechoslovak State Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-11-17",
+      "year": 2021,
+      "name_cs": "Den boje za svobodu a demokracii a Mezinárodní den studentstva",
+      "name_en": "Struggle for Freedom and Democracy Day and International Students' Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-12-24",
+      "year": 2021,
+      "name_cs": "Štědrý den",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_cs": "1. svátek vánoční",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-12-26",
+      "year": 2021,
+      "name_cs": "2. svátek vánoční",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_cs": "Den obnovy samostatného českého státu; Nový rok",
+      "name_en": "Independent Czech State Restoration Day; New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-04-15",
+      "year": 2022,
+      "name_cs": "Velký pátek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-04-18",
+      "year": 2022,
+      "name_cs": "Velikonoční pondělí",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_cs": "Svátek práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-08",
+      "year": 2022,
+      "name_cs": "Den vítězství",
+      "name_en": "Victory Day",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-07-05",
+      "year": 2022,
+      "name_cs": "Den slovanských věrozvěstů Cyrila a Metoděje",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2022-07-06",
+      "year": 2022,
+      "name_cs": "Den upálení mistra Jana Husa",
+      "name_en": "Jan Hus Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-09-28",
+      "year": 2022,
+      "name_cs": "Den české státnosti",
+      "name_en": "Statehood Day",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2022-10-28",
+      "year": 2022,
+      "name_cs": "Den vzniku samostatného československého státu",
+      "name_en": "Independent Czechoslovak State Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-11-17",
+      "year": 2022,
+      "name_cs": "Den boje za svobodu a demokracii a Mezinárodní den studentstva",
+      "name_en": "Struggle for Freedom and Democracy Day and International Students' Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-12-24",
+      "year": 2022,
+      "name_cs": "Štědrý den",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_cs": "1. svátek vánoční",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-26",
+      "year": 2022,
+      "name_cs": "2. svátek vánoční",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_cs": "Den obnovy samostatného českého státu; Nový rok",
+      "name_en": "Independent Czech State Restoration Day; New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-04-07",
+      "year": 2023,
+      "name_cs": "Velký pátek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 7,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-10",
+      "year": 2023,
+      "name_cs": "Velikonoční pondělí",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_cs": "Svátek práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-08",
+      "year": 2023,
+      "name_cs": "Den vítězství",
+      "name_en": "Victory Day",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-07-05",
+      "year": 2023,
+      "name_cs": "Den slovanských věrozvěstů Cyrila a Metoděje",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2023-07-06",
+      "year": 2023,
+      "name_cs": "Den upálení mistra Jana Husa",
+      "name_en": "Jan Hus Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-09-28",
+      "year": 2023,
+      "name_cs": "Den české státnosti",
+      "name_en": "Statehood Day",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2023-10-28",
+      "year": 2023,
+      "name_cs": "Den vzniku samostatného československého státu",
+      "name_en": "Independent Czechoslovak State Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-11-17",
+      "year": 2023,
+      "name_cs": "Den boje za svobodu a demokracii a Mezinárodní den studentstva",
+      "name_en": "Struggle for Freedom and Democracy Day and International Students' Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-12-24",
+      "year": 2023,
+      "name_cs": "Štědrý den",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_cs": "1. svátek vánoční",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-26",
+      "year": 2023,
+      "name_cs": "2. svátek vánoční",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_cs": "Den obnovy samostatného českého státu; Nový rok",
+      "name_en": "Independent Czech State Restoration Day; New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-03-29",
+      "year": 2024,
+      "name_cs": "Velký pátek",
+      "name_en": "Good Friday",
+      "month": 3,
+      "day": 29,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-04-01",
+      "year": 2024,
+      "name_cs": "Velikonoční pondělí",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-05-01",
+      "year": 2024,
+      "name_cs": "Svátek práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-05-08",
+      "year": 2024,
+      "name_cs": "Den vítězství",
+      "name_en": "Victory Day",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-07-05",
+      "year": 2024,
+      "name_cs": "Den slovanských věrozvěstů Cyrila a Metoděje",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-07-06",
+      "year": 2024,
+      "name_cs": "Den upálení mistra Jana Husa",
+      "name_en": "Jan Hus Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-09-28",
+      "year": 2024,
+      "name_cs": "Den české státnosti",
+      "name_en": "Statehood Day",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-10-28",
+      "year": 2024,
+      "name_cs": "Den vzniku samostatného československého státu",
+      "name_en": "Independent Czechoslovak State Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-11-17",
+      "year": 2024,
+      "name_cs": "Den boje za svobodu a demokracii a Mezinárodní den studentstva",
+      "name_en": "Struggle for Freedom and Democracy Day and International Students' Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2024-12-24",
+      "year": 2024,
+      "name_cs": "Štědrý den",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_cs": "1. svátek vánoční",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-26",
+      "year": 2024,
+      "name_cs": "2. svátek vánoční",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_cs": "Den obnovy samostatného českého státu; Nový rok",
+      "name_en": "Independent Czech State Restoration Day; New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-04-18",
+      "year": 2025,
+      "name_cs": "Velký pátek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-04-21",
+      "year": 2025,
+      "name_cs": "Velikonoční pondělí",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_cs": "Svátek práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-05-08",
+      "year": 2025,
+      "name_cs": "Den vítězství",
+      "name_en": "Victory Day",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-07-05",
+      "year": 2025,
+      "name_cs": "Den slovanských věrozvěstů Cyrila a Metoděje",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2025-07-06",
+      "year": 2025,
+      "name_cs": "Den upálení mistra Jana Husa",
+      "name_en": "Jan Hus Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-09-28",
+      "year": 2025,
+      "name_cs": "Den české státnosti",
+      "name_en": "Statehood Day",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2025-10-28",
+      "year": 2025,
+      "name_cs": "Den vzniku samostatného československého státu",
+      "name_en": "Independent Czechoslovak State Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-11-17",
+      "year": 2025,
+      "name_cs": "Den boje za svobodu a demokracii a Mezinárodní den studentstva",
+      "name_en": "Struggle for Freedom and Democracy Day and International Students' Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-12-24",
+      "year": 2025,
+      "name_cs": "Štědrý den",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_cs": "1. svátek vánoční",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-26",
+      "year": 2025,
+      "name_cs": "2. svátek vánoční",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_cs": "Den obnovy samostatného českého státu; Nový rok",
+      "name_en": "Independent Czech State Restoration Day; New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-04-03",
+      "year": 2026,
+      "name_cs": "Velký pátek",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 3,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "year": 2026,
+      "name_cs": "Velikonoční pondělí",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_cs": "Svátek práce",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-05-08",
+      "year": 2026,
+      "name_cs": "Den vítězství",
+      "name_en": "Victory Day",
+      "month": 5,
+      "day": 8,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-07-05",
+      "year": 2026,
+      "name_cs": "Den slovanských věrozvěstů Cyrila a Metoděje",
+      "name_en": "Saints Cyril and Methodius Day",
+      "month": 7,
+      "day": 5,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2026-07-06",
+      "year": 2026,
+      "name_cs": "Den upálení mistra Jana Husa",
+      "name_en": "Jan Hus Day",
+      "month": 7,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-09-28",
+      "year": 2026,
+      "name_cs": "Den české státnosti",
+      "name_en": "Statehood Day",
+      "month": 9,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-10-28",
+      "year": 2026,
+      "name_cs": "Den vzniku samostatného československého státu",
+      "name_en": "Independent Czechoslovak State Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-11-17",
+      "year": 2026,
+      "name_cs": "Den boje za svobodu a demokracii a Mezinárodní den studentstva",
+      "name_en": "Struggle for Freedom and Democracy Day and International Students' Day",
+      "month": 11,
+      "day": 17,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-12-24",
+      "year": 2026,
+      "name_cs": "Štědrý den",
+      "name_en": "Christmas Eve",
+      "month": 12,
+      "day": 24,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_cs": "1. svátek vánoční",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-26",
+      "year": 2026,
+      "name_cs": "2. svátek vánoční",
+      "name_en": "Second Day of Christmas",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    }
+  ],
+  "meta": {
+    "title": "České státní svátky (2020–2026) - Stáhnout zdarma",
+    "description": "Public holidays 2020-2026 with native and English names Obsahuje 91 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "České státní svátky (2020–2026) | ListBase",
+    "seo_description": "Stáhnout České státní svátky (2020–2026) — 91 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 91 záznamů / 7 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

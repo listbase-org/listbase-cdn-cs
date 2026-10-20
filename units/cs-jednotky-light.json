@@ -1,0 +1,106 @@
+{
+  "id": "cs-jednotky-light",
+  "name": "Měrné jednotky: light (4)",
+  "title": "Měrné jednotky: light (4)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'light'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 135,
+      "unit_code": "light-candela",
+      "kategorie": "light",
+      "nazev": "kandely",
+      "vzor_jednotne": "{0} kandela",
+      "vzor_mnozne": "{0} kandel",
+      "kratky_vzor": "{0} cd",
+      "uzky_vzor": "{0} cd"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lumen",
+      "kategorie": "light",
+      "nazev": "lumeny",
+      "vzor_jednotne": "{0} lumen",
+      "vzor_mnozne": "{0} lumenů",
+      "kratky_vzor": "{0} lm",
+      "uzky_vzor": "{0} lm"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-lux",
+      "kategorie": "light",
+      "nazev": "luxy",
+      "vzor_jednotne": "{0} lux",
+      "vzor_mnozne": "{0} luxů",
+      "kratky_vzor": "{0} lx",
+      "uzky_vzor": "{0} lx"
+    },
+    {
+      "id": 138,
+      "unit_code": "light-solar-luminosity",
+      "kategorie": "light",
+      "nazev": "zářivé výkony Slunce",
+      "vzor_jednotne": "{0} zářivý výkon Slunce",
+      "vzor_mnozne": "{0} zářivých výkonů Slunce",
+      "kratky_vzor": "{0} L☉",
+      "uzky_vzor": "{0} L☉"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: light (4) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'light'. Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: light (4) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: light (4) — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

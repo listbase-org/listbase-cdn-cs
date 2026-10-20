@@ -1,0 +1,1351 @@
+{
+  "id": "cs-prodejny-mobilu",
+  "name": "Prodejny mobilů",
+  "title": "Prodejny mobilů",
+  "description": "Prodejny mobilů v České republice (262 záznamů) — body zájmu z OpenStreetMap (tag shop=mobile_phone), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 262,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AA mobil",
+      "latitude": 49.210333,
+      "longitude": 16.601222
+    },
+    {
+      "name": "Alfa Mobil",
+      "latitude": 49.194661,
+      "longitude": 16.610247
+    },
+    {
+      "name": "Aligator",
+      "latitude": 50.103893,
+      "longitude": 14.479863
+    },
+    {
+      "name": "Appleking",
+      "latitude": 49.221288,
+      "longitude": 16.596027
+    },
+    {
+      "name": "ATC Mobile",
+      "latitude": 49.784392,
+      "longitude": 18.246383
+    },
+    {
+      "name": "Best Mobil",
+      "latitude": 50.03709,
+      "longitude": 15.777097
+    },
+    {
+      "name": "BestMobil",
+      "latitude": 49.398038,
+      "longitude": 15.589028
+    },
+    {
+      "name": "BPS mobil",
+      "latitude": 49.587366,
+      "longitude": 17.232406
+    },
+    {
+      "name": "Celular",
+      "latitude": 49.061298,
+      "longitude": 17.467863
+    },
+    {
+      "name": "Coradia",
+      "latitude": 49.849026,
+      "longitude": 18.145332
+    },
+    {
+      "name": "Coradia",
+      "latitude": 50.037123,
+      "longitude": 15.768849
+    },
+    {
+      "name": "DoktorMobil.cz",
+      "latitude": 49.594944,
+      "longitude": 17.250435
+    },
+    {
+      "name": "Eszop",
+      "latitude": 49.749616,
+      "longitude": 18.631694
+    },
+    {
+      "name": "Express Servis",
+      "latitude": 49.745992,
+      "longitude": 13.372712
+    },
+    {
+      "name": "Fortel",
+      "latitude": 50.228673,
+      "longitude": 17.204025
+    },
+    {
+      "name": "GB Power",
+      "latitude": 50.21195,
+      "longitude": 15.853162
+    },
+    {
+      "name": "GSM centrum",
+      "latitude": 50.103952,
+      "longitude": 14.491193
+    },
+    {
+      "name": "GSM Centrum - Petr Němec",
+      "latitude": 50.103598,
+      "longitude": 13.731165
+    },
+    {
+      "name": "GSM&PC Centrum",
+      "latitude": 50.078891,
+      "longitude": 14.461058
+    },
+    {
+      "name": "Hogo",
+      "latitude": 49.145845,
+      "longitude": 15.003543
+    },
+    {
+      "name": "IN Mobile",
+      "latitude": 49.594232,
+      "longitude": 17.24857
+    },
+    {
+      "name": "iPhone Point",
+      "latitude": 50.073839,
+      "longitude": 14.402482
+    },
+    {
+      "name": "iPhone store",
+      "latitude": 49.740241,
+      "longitude": 13.390986
+    },
+    {
+      "name": "iphonedoktor.cz",
+      "latitude": 50.099485,
+      "longitude": 14.422184
+    },
+    {
+      "name": "iPhonárna",
+      "latitude": 49.214369,
+      "longitude": 16.600678
+    },
+    {
+      "name": "iServis",
+      "latitude": 50.196663,
+      "longitude": 15.849507
+    },
+    {
+      "name": "ivn",
+      "latitude": 50.081243,
+      "longitude": 14.422237
+    },
+    {
+      "name": "iWant",
+      "latitude": 49.749176,
+      "longitude": 13.369497
+    },
+    {
+      "name": "iWant",
+      "latitude": 50.037293,
+      "longitude": 15.768956
+    },
+    {
+      "name": "iWant",
+      "latitude": 50.083274,
+      "longitude": 14.421914
+    },
+    {
+      "name": "JabkoLevně.cz",
+      "latitude": 50.078946,
+      "longitude": 14.422166
+    },
+    {
+      "name": "JK MOBIL",
+      "latitude": 50.684693,
+      "longitude": 14.537241
+    },
+    {
+      "name": "K-Mobil",
+      "latitude": 50.231116,
+      "longitude": 14.08487
+    },
+    {
+      "name": "Kamalion",
+      "latitude": 49.138172,
+      "longitude": 16.633185
+    },
+    {
+      "name": "Kryteo.cz",
+      "latitude": 49.201195,
+      "longitude": 16.63393
+    },
+    {
+      "name": "Mabil Mobil",
+      "latitude": 49.780766,
+      "longitude": 18.431963
+    },
+    {
+      "name": "Mazánek mobil",
+      "latitude": 49.288658,
+      "longitude": 16.2265
+    },
+    {
+      "name": "Megatel",
+      "latitude": 50.076756,
+      "longitude": 14.406181
+    },
+    {
+      "name": "Mi",
+      "latitude": 50.197235,
+      "longitude": 15.84825
+    },
+    {
+      "name": "MiPoint",
+      "latitude": 49.213845,
+      "longitude": 16.626079
+    },
+    {
+      "name": "Mistore",
+      "latitude": 49.20388,
+      "longitude": 17.571441
+    },
+    {
+      "name": "Mobil centrum XXL",
+      "latitude": 49.276654,
+      "longitude": 16.998999
+    },
+    {
+      "name": "MOBIL Com",
+      "latitude": 49.595104,
+      "longitude": 17.247946
+    },
+    {
+      "name": "Mobil Maják",
+      "latitude": 49.598814,
+      "longitude": 17.271834
+    },
+    {
+      "name": "Mobil Maják",
+      "latitude": 49.601419,
+      "longitude": 17.222113
+    },
+    {
+      "name": "Mobil Max",
+      "latitude": 49.136273,
+      "longitude": 16.633501
+    },
+    {
+      "name": "Mobil Max",
+      "latitude": 49.754259,
+      "longitude": 16.477153
+    },
+    {
+      "name": "Mobil Pohotovost",
+      "latitude": 49.192479,
+      "longitude": 16.610192
+    },
+    {
+      "name": "Mobil Pohotovost",
+      "latitude": 50.03688,
+      "longitude": 15.768775
+    },
+    {
+      "name": "Mobil Pohotovost",
+      "latitude": 50.071136,
+      "longitude": 14.404826
+    },
+    {
+      "name": "Mobil Pohotovost",
+      "latitude": 50.081016,
+      "longitude": 14.419553
+    },
+    {
+      "name": "Mobil Pohotovost",
+      "latitude": 50.765864,
+      "longitude": 15.05605
+    },
+    {
+      "name": "Mobil pro vás",
+      "latitude": 48.986499,
+      "longitude": 14.459413
+    },
+    {
+      "name": "Mobil pro Vás",
+      "latitude": 49.152268,
+      "longitude": 16.864061
+    },
+    {
+      "name": "Mobil pro vás",
+      "latitude": 49.217405,
+      "longitude": 16.60878
+    },
+    {
+      "name": "Mobil pro Vás",
+      "latitude": 49.220804,
+      "longitude": 16.600546
+    },
+    {
+      "name": "Mobil pro vás",
+      "latitude": 49.396646,
+      "longitude": 14.684472
+    },
+    {
+      "name": "mobil pro vás",
+      "latitude": 50.053348,
+      "longitude": 14.297475
+    },
+    {
+      "name": "Mobil pro vás",
+      "latitude": 50.150971,
+      "longitude": 14.506286
+    },
+    {
+      "name": "mobil provás",
+      "latitude": 49.209637,
+      "longitude": 16.591719
+    },
+    {
+      "name": "Mobil Service",
+      "latitude": 49.191566,
+      "longitude": 16.610924
+    },
+    {
+      "name": "Mobil | Pankrác",
+      "latitude": 50.040413,
+      "longitude": 14.438928
+    },
+    {
+      "name": "mobiland",
+      "latitude": 50.145063,
+      "longitude": 14.094996
+    },
+    {
+      "name": "MobilCare",
+      "latitude": 50.037054,
+      "longitude": 15.768877
+    },
+    {
+      "name": "MobilCity",
+      "latitude": 49.830893,
+      "longitude": 18.284369
+    },
+    {
+      "name": "MobileGear",
+      "latitude": 48.755319,
+      "longitude": 16.891071
+    },
+    {
+      "name": "Mobileko",
+      "latitude": 50.07936,
+      "longitude": 14.419445
+    },
+    {
+      "name": "Mobileko",
+      "latitude": 50.127331,
+      "longitude": 14.469246
+    },
+    {
+      "name": "mobilmania X",
+      "latitude": 49.192001,
+      "longitude": 16.611768
+    },
+    {
+      "name": "MobilMax",
+      "latitude": 49.221218,
+      "longitude": 16.596572
+    },
+    {
+      "name": "MobilMax",
+      "latitude": 50.213372,
+      "longitude": 15.818403
+    },
+    {
+      "name": "Mobilní centrum",
+      "latitude": 49.145925,
+      "longitude": 15.00394
+    },
+    {
+      "name": "Mobilní pohotovost",
+      "latitude": 49.835893,
+      "longitude": 18.291501
+    },
+    {
+      "name": "Mobilní telefony",
+      "latitude": 49.211938,
+      "longitude": 16.581604
+    },
+    {
+      "name": "Mobilní telefony",
+      "latitude": 49.701708,
+      "longitude": 17.076429
+    },
+    {
+      "name": "MobilObchod",
+      "latitude": 49.65763,
+      "longitude": 14.426681
+    },
+    {
+      "name": "MobilPlay",
+      "latitude": 50.523252,
+      "longitude": 14.977177
+    },
+    {
+      "name": "mobilprovás",
+      "latitude": 49.262324,
+      "longitude": 16.578539
+    },
+    {
+      "name": "Mobilsalon",
+      "latitude": 49.599013,
+      "longitude": 18.146017
+    },
+    {
+      "name": "Mobily Martinská",
+      "latitude": 49.743659,
+      "longitude": 13.37763
+    },
+    {
+      "name": "Mobily od Aleše",
+      "latitude": 49.425648,
+      "longitude": 13.882407
+    },
+    {
+      "name": "Mobilárium",
+      "latitude": 49.896814,
+      "longitude": 18.189724
+    },
+    {
+      "name": "Mobilárna",
+      "latitude": 49.069748,
+      "longitude": 17.462236
+    },
+    {
+      "name": "MobTel",
+      "latitude": 50.306949,
+      "longitude": 12.939688
+    },
+    {
+      "name": "Mojemobilka",
+      "latitude": 49.669775,
+      "longitude": 18.679925
+    },
+    {
+      "name": "mojemobilka",
+      "latitude": 49.739111,
+      "longitude": 18.619655
+    },
+    {
+      "name": "O.K. Komunikace",
+      "latitude": 50.475302,
+      "longitude": 16.091372
+    },
+    {
+      "name": "O2",
+      "latitude": 48.780195,
+      "longitude": 16.901865
+    },
+    {
+      "name": "O2",
+      "latitude": 48.825329,
+      "longitude": 14.335434
+    },
+    {
+      "name": "O2",
+      "latitude": 48.973095,
+      "longitude": 14.48696
+    },
+    {
+      "name": "O2",
+      "latitude": 49.01305,
+      "longitude": 13.99847
+    },
+    {
+      "name": "O2",
+      "latitude": 49.06954,
+      "longitude": 17.462955
+    },
+    {
+      "name": "O2",
+      "latitude": 49.137677,
+      "longitude": 16.63359
+    },
+    {
+      "name": "O2",
+      "latitude": 49.156082,
+      "longitude": 16.598204
+    },
+    {
+      "name": "O2",
+      "latitude": 49.177454,
+      "longitude": 16.566553
+    },
+    {
+      "name": "O2",
+      "latitude": 49.19276,
+      "longitude": 16.610064
+    },
+    {
+      "name": "O2",
+      "latitude": 49.203794,
+      "longitude": 17.57183
+    },
+    {
+      "name": "O2",
+      "latitude": 49.215705,
+      "longitude": 15.880679
+    },
+    {
+      "name": "O2",
+      "latitude": 49.217248,
+      "longitude": 16.608828
+    },
+    {
+      "name": "O2",
+      "latitude": 49.262257,
+      "longitude": 16.57855
+    },
+    {
+      "name": "O2",
+      "latitude": 49.262757,
+      "longitude": 13.890243
+    },
+    {
+      "name": "O2",
+      "latitude": 49.335959,
+      "longitude": 17.994241
+    },
+    {
+      "name": "O2",
+      "latitude": 49.393098,
+      "longitude": 14.687911
+    },
+    {
+      "name": "o2",
+      "latitude": 49.393136,
+      "longitude": 13.285587
+    },
+    {
+      "name": "O2",
+      "latitude": 49.450854,
+      "longitude": 17.455454
+    },
+    {
+      "name": "O2",
+      "latitude": 49.472548,
+      "longitude": 17.111745
+    },
+    {
+      "name": "O2",
+      "latitude": 49.605421,
+      "longitude": 15.580028
+    },
+    {
+      "name": "O2",
+      "latitude": 49.66923,
+      "longitude": 18.674697
+    },
+    {
+      "name": "O2",
+      "latitude": 49.669493,
+      "longitude": 18.676154
+    },
+    {
+      "name": "O2",
+      "latitude": 49.681469,
+      "longitude": 18.347503
+    },
+    {
+      "name": "O2",
+      "latitude": 49.748359,
+      "longitude": 13.375455
+    },
+    {
+      "name": "O2",
+      "latitude": 49.829297,
+      "longitude": 18.280737
+    },
+    {
+      "name": "O2",
+      "latitude": 49.830743,
+      "longitude": 18.285572
+    },
+    {
+      "name": "O2",
+      "latitude": 49.856485,
+      "longitude": 18.530201
+    },
+    {
+      "name": "O2",
+      "latitude": 49.89655,
+      "longitude": 18.188736
+    },
+    {
+      "name": "O2",
+      "latitude": 49.908625,
+      "longitude": 15.392365
+    },
+    {
+      "name": "O2",
+      "latitude": 49.943405,
+      "longitude": 16.166664
+    },
+    {
+      "name": "O2",
+      "latitude": 49.963595,
+      "longitude": 14.073222
+    },
+    {
+      "name": "O2",
+      "latitude": 50.003275,
+      "longitude": 14.574077
+    },
+    {
+      "name": "O2",
+      "latitude": 50.021665,
+      "longitude": 15.184684
+    },
+    {
+      "name": "O2",
+      "latitude": 50.036483,
+      "longitude": 15.76819
+    },
+    {
+      "name": "O2",
+      "latitude": 50.047936,
+      "longitude": 14.354938
+    },
+    {
+      "name": "O2",
+      "latitude": 50.072431,
+      "longitude": 14.402336
+    },
+    {
+      "name": "O2",
+      "latitude": 50.075575,
+      "longitude": 14.431133
+    },
+    {
+      "name": "O2",
+      "latitude": 50.077595,
+      "longitude": 12.371873
+    },
+    {
+      "name": "O2",
+      "latitude": 50.078243,
+      "longitude": 14.461065
+    },
+    {
+      "name": "O2",
+      "latitude": 50.079996,
+      "longitude": 14.430066
+    },
+    {
+      "name": "O2",
+      "latitude": 50.082483,
+      "longitude": 14.420449
+    },
+    {
+      "name": "O2",
+      "latitude": 50.091636,
+      "longitude": 14.440073
+    },
+    {
+      "name": "O2",
+      "latitude": 50.10393,
+      "longitude": 14.490936
+    },
+    {
+      "name": "O2",
+      "latitude": 50.104947,
+      "longitude": 13.727758
+    },
+    {
+      "name": "O2",
+      "latitude": 50.108138,
+      "longitude": 14.585105
+    },
+    {
+      "name": "O2",
+      "latitude": 50.137379,
+      "longitude": 14.501703
+    },
+    {
+      "name": "O2",
+      "latitude": 50.142832,
+      "longitude": 15.11788
+    },
+    {
+      "name": "O2",
+      "latitude": 50.142833,
+      "longitude": 14.103122
+    },
+    {
+      "name": "O2",
+      "latitude": 50.186363,
+      "longitude": 15.04072
+    },
+    {
+      "name": "O2",
+      "latitude": 50.196544,
+      "longitude": 15.849167
+    },
+    {
+      "name": "O2",
+      "latitude": 50.212836,
+      "longitude": 15.811589
+    },
+    {
+      "name": "O2",
+      "latitude": 50.229703,
+      "longitude": 12.87034
+    },
+    {
+      "name": "O2",
+      "latitude": 50.383806,
+      "longitude": 13.275302
+    },
+    {
+      "name": "O2",
+      "latitude": 50.408069,
+      "longitude": 14.9396
+    },
+    {
+      "name": "O2",
+      "latitude": 50.423409,
+      "longitude": 14.257987
+    },
+    {
+      "name": "O2",
+      "latitude": 50.640122,
+      "longitude": 13.82395
+    },
+    {
+      "name": "O2",
+      "latitude": 50.661688,
+      "longitude": 13.864491
+    },
+    {
+      "name": "O2",
+      "latitude": 50.684579,
+      "longitude": 14.537248
+    },
+    {
+      "name": "O2",
+      "latitude": 50.77404,
+      "longitude": 14.199237
+    },
+    {
+      "name": "O2",
+      "latitude": 50.952514,
+      "longitude": 14.556449
+    },
+    {
+      "name": "OK Point",
+      "latitude": 50.083966,
+      "longitude": 14.364365
+    },
+    {
+      "name": "Petr Valenta",
+      "latitude": 49.599011,
+      "longitude": 17.273454
+    },
+    {
+      "name": "Phone Care",
+      "latitude": 50.068047,
+      "longitude": 14.509159
+    },
+    {
+      "name": "Phone shop",
+      "latitude": 50.030632,
+      "longitude": 14.490659
+    },
+    {
+      "name": "Play",
+      "latitude": 49.748795,
+      "longitude": 18.631989
+    },
+    {
+      "name": "Play",
+      "latitude": 50.438101,
+      "longitude": 16.239149
+    },
+    {
+      "name": "PT Mobil",
+      "latitude": 49.94767,
+      "longitude": 15.790245
+    },
+    {
+      "name": "RK GSM SHOP",
+      "latitude": 49.450086,
+      "longitude": 17.453961
+    },
+    {
+      "name": "SaveMobil",
+      "latitude": 49.541779,
+      "longitude": 15.359426
+    },
+    {
+      "name": "Servis - mobily - pc",
+      "latitude": 50.131809,
+      "longitude": 14.507886
+    },
+    {
+      "name": "servismobily.cz",
+      "latitude": 50.210889,
+      "longitude": 15.82731
+    },
+    {
+      "name": "SOS Mobil",
+      "latitude": 49.200389,
+      "longitude": 16.611674
+    },
+    {
+      "name": "Space",
+      "latitude": 49.671458,
+      "longitude": 18.329526
+    },
+    {
+      "name": "SPACE",
+      "latitude": 50.003084,
+      "longitude": 14.573794
+    },
+    {
+      "name": "Space",
+      "latitude": 50.126268,
+      "longitude": 14.118658
+    },
+    {
+      "name": "SPACE",
+      "latitude": 50.683839,
+      "longitude": 14.53708
+    },
+    {
+      "name": "SPACE mobilní telefony, NOKIA",
+      "latitude": 49.574791,
+      "longitude": 17.228137
+    },
+    {
+      "name": "Sunnysoft.cz",
+      "latitude": 49.188294,
+      "longitude": 16.613571
+    },
+    {
+      "name": "Sunnysoft.cz",
+      "latitude": 50.107885,
+      "longitude": 14.484141
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.068064,
+      "longitude": 17.459024
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.137029,
+      "longitude": 16.632927
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.177218,
+      "longitude": 16.5662
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.194147,
+      "longitude": 16.609027
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.194519,
+      "longitude": 16.608253
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.215564,
+      "longitude": 15.879135
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.217019,
+      "longitude": 16.608279
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.226973,
+      "longitude": 17.668139
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.3399,
+      "longitude": 17.992688
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.392487,
+      "longitude": 15.592387
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.432274,
+      "longitude": 15.224159
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.453918,
+      "longitude": 17.452175
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.47254,
+      "longitude": 17.111469
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.56061,
+      "longitude": 15.939353
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.587945,
+      "longitude": 17.257271
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.669625,
+      "longitude": 18.67614
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.680747,
+      "longitude": 18.348006
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.742358,
+      "longitude": 13.595158
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.749741,
+      "longitude": 18.628711
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.754621,
+      "longitude": 16.468125
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.80287,
+      "longitude": 18.227847
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.827736,
+      "longitude": 18.174413
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.83088,
+      "longitude": 18.28544
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.832202,
+      "longitude": 18.264857
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.857236,
+      "longitude": 18.530479
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.869536,
+      "longitude": 16.312619
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.871317,
+      "longitude": 18.425101
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.949798,
+      "longitude": 15.266706
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 49.973148,
+      "longitude": 16.393639
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.027682,
+      "longitude": 15.201364
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.037498,
+      "longitude": 15.768877
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.053453,
+      "longitude": 14.286701
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.073518,
+      "longitude": 14.402578
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.078733,
+      "longitude": 14.460885
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.082719,
+      "longitude": 14.420024
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.100885,
+      "longitude": 14.397037
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.103262,
+      "longitude": 13.726019
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.107922,
+      "longitude": 14.584486
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.135009,
+      "longitude": 15.098033
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.144994,
+      "longitude": 14.094741
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.18193,
+      "longitude": 15.043775
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.196529,
+      "longitude": 15.849049
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.229853,
+      "longitude": 12.868967
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.356337,
+      "longitude": 13.802784
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.408428,
+      "longitude": 14.94018
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.416766,
+      "longitude": 16.163864
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.5868,
+      "longitude": 15.155667
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.661305,
+      "longitude": 13.864387
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.685519,
+      "longitude": 14.537562
+    },
+    {
+      "name": "T-Mobile",
+      "latitude": 50.774225,
+      "longitude": 14.199612
+    },
+    {
+      "name": "Telekom",
+      "latitude": 50.774241,
+      "longitude": 14.199535
+    },
+    {
+      "name": "Trio Mobil",
+      "latitude": 49.068889,
+      "longitude": 17.462981
+    },
+    {
+      "name": "Vexlaak",
+      "latitude": 50.081401,
+      "longitude": 14.654961
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.009601,
+      "longitude": 17.124356
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.068942,
+      "longitude": 17.460526
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.077563,
+      "longitude": 17.453186
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.137478,
+      "longitude": 16.633293
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.188579,
+      "longitude": 16.614521
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.193601,
+      "longitude": 16.60923
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.203835,
+      "longitude": 17.572444
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.216313,
+      "longitude": 15.881752
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.216869,
+      "longitude": 16.607868
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.669563,
+      "longitude": 18.676225
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.681309,
+      "longitude": 18.34724
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.802874,
+      "longitude": 18.227953
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.827872,
+      "longitude": 18.200725
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.83071,
+      "longitude": 18.284677
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 49.832225,
+      "longitude": 18.265057
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.037186,
+      "longitude": 15.76867
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.0468,
+      "longitude": 14.304834
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.046886,
+      "longitude": 14.355183
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.051453,
+      "longitude": 14.438183
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.068046,
+      "longitude": 14.469029
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.072535,
+      "longitude": 14.402467
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.073617,
+      "longitude": 14.402576
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.075552,
+      "longitude": 14.432033
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.078573,
+      "longitude": 14.460958
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.08071,
+      "longitude": 14.427757
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.100509,
+      "longitude": 14.397662
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.104486,
+      "longitude": 14.490934
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.136979,
+      "longitude": 14.501859
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.186001,
+      "longitude": 15.041918
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.19678,
+      "longitude": 15.848029
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.212481,
+      "longitude": 15.812264
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.408346,
+      "longitude": 14.94021
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.534711,
+      "longitude": 14.132356
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.64014,
+      "longitude": 13.824104
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.659866,
+      "longitude": 14.039532
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.685061,
+      "longitude": 14.537137
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 50.773948,
+      "longitude": 14.199755
+    },
+    {
+      "name": "Xiaomi",
+      "latitude": 49.203413,
+      "longitude": 16.607181
+    },
+    {
+      "name": "Xiaomi",
+      "latitude": 49.55925,
+      "longitude": 17.306823
+    },
+    {
+      "name": "Xiaomi",
+      "latitude": 49.745031,
+      "longitude": 13.37293
+    },
+    {
+      "name": "Xiaomi",
+      "latitude": 50.037418,
+      "longitude": 15.768758
+    },
+    {
+      "name": "YDD!",
+      "latitude": 49.144077,
+      "longitude": 15.002765
+    },
+    {
+      "name": "Zona apple",
+      "latitude": 49.594153,
+      "longitude": 17.271503
+    }
+  ],
+  "meta": {
+    "title": "Prodejny mobilů - Stáhnout zdarma",
+    "description": "Prodejny mobilů v České republice (262 záznamů) — body zájmu z OpenStreetMap (tag shop=mobile_phone), výřez EU-POIS/CZ. Obsahuje 262 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Prodejny mobilů | ListBase",
+    "seo_description": "Stáhnout Prodejny mobilů — 262 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 262 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

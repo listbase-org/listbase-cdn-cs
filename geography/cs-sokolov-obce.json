@@ -1,0 +1,532 @@
+{
+  "id": "cs-sokolov-obce",
+  "name": "Obce — okres Sokolov",
+  "title": "Obce — okres Sokolov",
+  "description": "Seznam všech 38 obcí okresu Sokolov — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (38 municipalities of okres Sokolov, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bublava",
+      "code": "560308",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35801",
+      "latitude": 50.374494,
+      "longitude": 12.505287,
+      "slug": "bublava"
+    },
+    {
+      "name": "Bukovany",
+      "code": "560316",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35755",
+      "latitude": 50.166437,
+      "longitude": 12.572766,
+      "slug": "bukovany"
+    },
+    {
+      "name": "Březová",
+      "code": "560294",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.145752,
+      "longitude": 12.643488,
+      "slug": "brezova"
+    },
+    {
+      "name": "Chlum Svaté Maří",
+      "code": "560375",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35709",
+      "latitude": 50.149949,
+      "longitude": 12.535762,
+      "slug": "chlum-svate-mari"
+    },
+    {
+      "name": "Chodov",
+      "code": "560383",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35735",
+      "latitude": 50.23983,
+      "longitude": 12.747709,
+      "slug": "chodov"
+    },
+    {
+      "name": "Citice",
+      "code": "560324",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.162671,
+      "longitude": 12.61344,
+      "slug": "citice"
+    },
+    {
+      "name": "Dasnice",
+      "code": "560332",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35709",
+      "latitude": 50.146566,
+      "longitude": 12.567344,
+      "slug": "dasnice"
+    },
+    {
+      "name": "Dolní Nivy",
+      "code": "560341",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.243218,
+      "longitude": 12.637158,
+      "slug": "dolni-nivy"
+    },
+    {
+      "name": "Dolní Rychnov",
+      "code": "538591",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35604",
+      "latitude": 50.164731,
+      "longitude": 12.645192,
+      "slug": "dolni-rychnov"
+    },
+    {
+      "name": "Habartov",
+      "code": "560359",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35709",
+      "latitude": 50.183078,
+      "longitude": 12.550653,
+      "slug": "habartov"
+    },
+    {
+      "name": "Horní Slavkov",
+      "code": "560367",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35731",
+      "latitude": 50.138742,
+      "longitude": 12.807697,
+      "slug": "horni-slavkov"
+    },
+    {
+      "name": "Jindřichovice",
+      "code": "560413",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35801",
+      "latitude": 50.28276,
+      "longitude": 12.602422,
+      "slug": "jindrichovice"
+    },
+    {
+      "name": "Josefov",
+      "code": "511587",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35709",
+      "latitude": 50.211627,
+      "longitude": 12.579546,
+      "slug": "josefov"
+    },
+    {
+      "name": "Kaceřov",
+      "code": "560421",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35751",
+      "latitude": 50.14885,
+      "longitude": 12.504505,
+      "slug": "kacerov"
+    },
+    {
+      "name": "Krajková",
+      "code": "560456",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35709",
+      "latitude": 50.216079,
+      "longitude": 12.534192,
+      "slug": "krajkova"
+    },
+    {
+      "name": "Kraslice",
+      "code": "560472",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35801",
+      "latitude": 50.323835,
+      "longitude": 12.517588,
+      "slug": "kraslice"
+    },
+    {
+      "name": "Královské Poříčí",
+      "code": "560464",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.19412,
+      "longitude": 12.67954,
+      "slug": "kralovske-porici"
+    },
+    {
+      "name": "Krásno",
+      "code": "538337",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35731",
+      "latitude": 50.109287,
+      "longitude": 12.786342,
+      "slug": "krasno"
+    },
+    {
+      "name": "Kynšperk nad Ohří",
+      "code": "560499",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35751",
+      "latitude": 50.119038,
+      "longitude": 12.530388,
+      "slug": "kynsperk-nad-ohri"
+    },
+    {
+      "name": "Libavské Údolí",
+      "code": "560502",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35751",
+      "latitude": 50.128978,
+      "longitude": 12.552602,
+      "slug": "libavske-udoli"
+    },
+    {
+      "name": "Loket",
+      "code": "560537",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35733",
+      "latitude": 50.186112,
+      "longitude": 12.754163,
+      "slug": "loket"
+    },
+    {
+      "name": "Lomnice",
+      "code": "560545",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.211851,
+      "longitude": 12.632789,
+      "slug": "lomnice"
+    },
+    {
+      "name": "Nová Ves",
+      "code": "560561",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "36464",
+      "latitude": 50.084201,
+      "longitude": 12.775287,
+      "slug": "nova-ves"
+    },
+    {
+      "name": "Nové Sedlo",
+      "code": "560570",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35734",
+      "latitude": 50.206578,
+      "longitude": 12.738121,
+      "slug": "nove-sedlo"
+    },
+    {
+      "name": "Oloví",
+      "code": "560588",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35707",
+      "latitude": 50.251243,
+      "longitude": 12.558884,
+      "slug": "olovi"
+    },
+    {
+      "name": "Přebuz",
+      "code": "560596",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35801",
+      "latitude": 50.36589,
+      "longitude": 12.620158,
+      "slug": "prebuz"
+    },
+    {
+      "name": "Rotava",
+      "code": "560600",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35701",
+      "latitude": 50.29638,
+      "longitude": 12.573526,
+      "slug": "rotava"
+    },
+    {
+      "name": "Rovná",
+      "code": "560618",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.104512,
+      "longitude": 12.668852,
+      "slug": "rovna"
+    },
+    {
+      "name": "Sokolov",
+      "code": "560286",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.174629,
+      "longitude": 12.659992,
+      "slug": "sokolov"
+    },
+    {
+      "name": "Staré Sedlo",
+      "code": "560642",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.181807,
+      "longitude": 12.719941,
+      "slug": "stare-sedlo"
+    },
+    {
+      "name": "Stříbrná",
+      "code": "560651",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35801",
+      "latitude": 50.356766,
+      "longitude": 12.526519,
+      "slug": "stribrna"
+    },
+    {
+      "name": "Svatava",
+      "code": "538434",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35703",
+      "latitude": 50.192341,
+      "longitude": 12.625358,
+      "slug": "svatava"
+    },
+    {
+      "name": "Tatrovice",
+      "code": "538663",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35735",
+      "latitude": 50.276819,
+      "longitude": 12.697409,
+      "slug": "tatrovice"
+    },
+    {
+      "name": "Těšovice",
+      "code": "579360",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.182307,
+      "longitude": 12.676998,
+      "slug": "tesovice"
+    },
+    {
+      "name": "Vintířov",
+      "code": "560685",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35735",
+      "latitude": 50.233928,
+      "longitude": 12.717598,
+      "slug": "vintirov"
+    },
+    {
+      "name": "Vřesová",
+      "code": "560707",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35735",
+      "latitude": 50.259197,
+      "longitude": 12.696593,
+      "slug": "vresova"
+    },
+    {
+      "name": "Šabina",
+      "code": "538396",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35601",
+      "latitude": 50.135748,
+      "longitude": 12.582432,
+      "slug": "sabina"
+    },
+    {
+      "name": "Šindelová",
+      "code": "560677",
+      "okres": "Sokolov",
+      "okres_code": "CZ0413",
+      "kraj": "Karlovarský kraj",
+      "kraj_code": "CZ041",
+      "psc": "35801",
+      "latitude": 50.318764,
+      "longitude": 12.603439,
+      "slug": "sindelova"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Sokolov - Stáhnout zdarma",
+    "description": "Seznam všech 38 obcí okresu Sokolov — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (38 municipalities of okres Sokolov, split from the national cs-obce dataset.) Obsahuje 38 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Sokolov | ListBase",
+    "seo_description": "Stáhnout Obce — okres Sokolov — 38 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 38 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

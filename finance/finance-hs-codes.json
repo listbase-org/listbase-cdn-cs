@@ -1,0 +1,749 @@
+{
+  "id": "finance-hs-codes",
+  "name": "Datový Soubor Kapitol Kódů HS (Harmonizovaný Systém)",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chapter",
+      "label": "Chapter",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Description (EN)",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "section_name",
+      "label": "Section Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chapter": "01",
+      "name": "Živá zvířata",
+      "section": "I",
+      "section_name": "Živá zvířata; Živočišné produkty",
+      "examples": "Koně, skot, ovce, drůbež"
+    },
+    {
+      "chapter": "02",
+      "name": "Maso a jedlé masné droby",
+      "section": "I",
+      "section_name": "Živá zvířata; Živočišné produkty",
+      "examples": "Hovězí maso, vepřové maso, jehněčí maso, drůbeží maso"
+    },
+    {
+      "chapter": "03",
+      "name": "Ryby a korýši",
+      "section": "I",
+      "section_name": "Živá zvířata; Živočišné produkty",
+      "examples": "Ryby, krevety, humři, olihně"
+    },
+    {
+      "chapter": "04",
+      "name": "Mléčné výrobky; vejce; med",
+      "section": "I",
+      "section_name": "Živá zvířata; Živočišné produkty",
+      "examples": "Mléko, sýr, vejce, med"
+    },
+    {
+      "chapter": "05",
+      "name": "Ostatní produkty živočišného původu",
+      "section": "I",
+      "section_name": "Živá zvířata; Živočišné produkty",
+      "examples": "Kosti, rohy, slonovina, peří"
+    },
+    {
+      "chapter": "06",
+      "name": "Živé stromy a rostliny",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Rostliny, cibule, řezané květiny"
+    },
+    {
+      "chapter": "07",
+      "name": "Jedlá zelenina",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Brambory, rajčata, cibule"
+    },
+    {
+      "chapter": "08",
+      "name": "Jedlé ovoce a ořechy",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Jablka, pomeranče, banány, mandle"
+    },
+    {
+      "chapter": "09",
+      "name": "Káva, čaj, koření",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Káva, čaj, pepř, vanilka"
+    },
+    {
+      "chapter": "10",
+      "name": "Obiloviny",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Pšenice, rýže, kukuřice, ječmen"
+    },
+    {
+      "chapter": "11",
+      "name": "Výrobky mlýnského průmyslu",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Mouka, škrob, slad"
+    },
+    {
+      "chapter": "12",
+      "name": "Olejnatá semena a plody",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Sója, arašídy, slunečnicová semena"
+    },
+    {
+      "chapter": "13",
+      "name": "Šelak, gumy, pryskyřice",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Přírodní gumy, pryskyřice, rostlinné mízy"
+    },
+    {
+      "chapter": "14",
+      "name": "Rostlinné materiály k pletení",
+      "section": "II",
+      "section_name": "Rostlinné produkty",
+      "examples": "Bambus, ratan, rákos"
+    },
+    {
+      "chapter": "15",
+      "name": "Živočišné nebo rostlinné tuky a oleje",
+      "section": "III",
+      "section_name": "Živočišné nebo rostlinné tuky",
+      "examples": "Olivový olej, palmový olej, máslo, margarín"
+    },
+    {
+      "chapter": "16",
+      "name": "Přípravky z masa nebo ryb",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Klobásy, konzervované ryby, masové extrakty"
+    },
+    {
+      "chapter": "17",
+      "name": "Cukry a cukrovinky",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Cukr, bonbóny, čokoláda"
+    },
+    {
+      "chapter": "18",
+      "name": "Kakao a kakaové přípravky",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Kakaové boby, kakaový prášek, čokoláda"
+    },
+    {
+      "chapter": "19",
+      "name": "Přípravky z obilovin, mouky",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Chléb, těstoviny, sušenky, dorty"
+    },
+    {
+      "chapter": "20",
+      "name": "Přípravky ze zeleniny, ovoce",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Konzervovaná zelenina, ovocný džus, džemy"
+    },
+    {
+      "chapter": "21",
+      "name": "Různé jedlé přípravky",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Omáčky, polévky, zmrzlina, droždí"
+    },
+    {
+      "chapter": "22",
+      "name": "Nápoje, lihoviny a ocet",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Voda, víno, pivo, whisky, ocet"
+    },
+    {
+      "chapter": "23",
+      "name": "Zbytky z potravinářského průmyslu",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Krmivo pro zvířata, otruby, pokrutiny"
+    },
+    {
+      "chapter": "24",
+      "name": "Tabák a vyrobené náhražky",
+      "section": "IV",
+      "section_name": "Připravené potraviny",
+      "examples": "Cigarety, doutníky, tabák"
+    },
+    {
+      "chapter": "25",
+      "name": "Sůl; síra; zeminy a kámen",
+      "section": "V",
+      "section_name": "Minerální produkty",
+      "examples": "Sůl, písek, štěrk, mramor, sádra"
+    },
+    {
+      "chapter": "26",
+      "name": "Rudy, struska a popel",
+      "section": "V",
+      "section_name": "Minerální produkty",
+      "examples": "Železná ruda, měděná ruda, popel"
+    },
+    {
+      "chapter": "27",
+      "name": "Minerální paliva a oleje",
+      "section": "V",
+      "section_name": "Minerální produkty",
+      "examples": "Uhlí, ropa, zemní plyn"
+    },
+    {
+      "chapter": "28",
+      "name": "Anorganické chemikálie",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Kyseliny, oxidy, soli, vzácné plyny"
+    },
+    {
+      "chapter": "29",
+      "name": "Organické chemikálie",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Uhlovodíky, alkoholy, kyseliny"
+    },
+    {
+      "chapter": "30",
+      "name": "Farmaceutické výrobky",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Léky, vakcíny, obvazy"
+    },
+    {
+      "chapter": "31",
+      "name": "Hnojiva",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Dusíkatá, fosfátová, draselná hnojiva"
+    },
+    {
+      "chapter": "32",
+      "name": "Tříslicí nebo barvicí výtažky",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Barviva, nátěry, inkousty, tmel"
+    },
+    {
+      "chapter": "33",
+      "name": "Éterické oleje a kosmetika",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Parfémy, make-up, šampon, mýdlo"
+    },
+    {
+      "chapter": "34",
+      "name": "Mýdla, vosky, svíčky",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Mýdlo, čisticí prostředky, svíčky, leštidla"
+    },
+    {
+      "chapter": "35",
+      "name": "Albuminoidní látky; lepidla",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Želatina, lepidla, enzymy"
+    },
+    {
+      "chapter": "36",
+      "name": "Výbušniny; zápalky; pyrotechnika",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Výbušniny, zápalky, ohňostroje"
+    },
+    {
+      "chapter": "37",
+      "name": "Fotografické zboží",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Filmy, fotografické desky, chemikálie"
+    },
+    {
+      "chapter": "38",
+      "name": "Různé chemické produkty",
+      "section": "VI",
+      "section_name": "Chemické produkty",
+      "examples": "Insekticidy, herbicidy, nemrznoucí směsi"
+    },
+    {
+      "chapter": "39",
+      "name": "Plasty a výrobky z nich",
+      "section": "VII",
+      "section_name": "Plasty a pryž",
+      "examples": "Plastové desky, trubky, nádoby"
+    },
+    {
+      "chapter": "40",
+      "name": "Pryž a výrobky z ní",
+      "section": "VII",
+      "section_name": "Plasty a pryž",
+      "examples": "Pneumatiky, gumové trubky, rukavice"
+    },
+    {
+      "chapter": "41",
+      "name": "Surové kůže a usně, kůže",
+      "section": "VIII",
+      "section_name": "Kůže a Cestovní Zboží",
+      "examples": "Kůže, surové kůže, usně"
+    },
+    {
+      "chapter": "42",
+      "name": "Kožené výrobky; cestovní zboží",
+      "section": "VIII",
+      "section_name": "Kůže a Cestovní Zboží",
+      "examples": "Tašky, peněženky, opasky, kufry"
+    },
+    {
+      "chapter": "43",
+      "name": "Kožešiny a umělé kožešiny",
+      "section": "VIII",
+      "section_name": "Kůže a Cestovní Zboží",
+      "examples": "Kožešinové kabáty, kožešinové ozdoby"
+    },
+    {
+      "chapter": "44",
+      "name": "Dřevo a výrobky ze dřeva",
+      "section": "IX",
+      "section_name": "Dřevo a Dřevěné Výrobky",
+      "examples": "Řezivo, překližky, nábytkové díly"
+    },
+    {
+      "chapter": "45",
+      "name": "Korek a výrobky z korku",
+      "section": "IX",
+      "section_name": "Dřevo a Dřevěné Výrobky",
+      "examples": "Korkové zátky, korkové desky"
+    },
+    {
+      "chapter": "46",
+      "name": "Výrobky ze slámy, košíkářské výrobky",
+      "section": "IX",
+      "section_name": "Dřevo a Dřevěné Výrobky",
+      "examples": "Koše, rohože, proutěné zboží"
+    },
+    {
+      "chapter": "47",
+      "name": "Dřevní buničina nebo vláknitý materiál",
+      "section": "X",
+      "section_name": "Buničina a Papír",
+      "examples": "Dřevní buničina, papírová buničina"
+    },
+    {
+      "chapter": "48",
+      "name": "Papír a lepenka",
+      "section": "X",
+      "section_name": "Buničina a Papír",
+      "examples": "Papír, karton, krabice"
+    },
+    {
+      "chapter": "49",
+      "name": "Tištěné knihy, noviny",
+      "section": "X",
+      "section_name": "Buničina a Papír",
+      "examples": "Knihy, časopisy, mapy, známky"
+    },
+    {
+      "chapter": "50",
+      "name": "Hedvábí",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Hedvábná příze, hedvábná tkanina"
+    },
+    {
+      "chapter": "51",
+      "name": "Vlna a zvířecí srst",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Vlněná příze, vlněná tkanina"
+    },
+    {
+      "chapter": "52",
+      "name": "Bavlna",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Bavlněná příze, bavlněná tkanina"
+    },
+    {
+      "chapter": "53",
+      "name": "Ostatní rostlinná textilní vlákna",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Lněné, konopné, jutové tkaniny"
+    },
+    {
+      "chapter": "54",
+      "name": "Umělá nekonečná vlákna",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Nylonová, polyesterová vlákna"
+    },
+    {
+      "chapter": "55",
+      "name": "Umělá střižová vlákna",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Syntetická střižová vlákna, příze"
+    },
+    {
+      "chapter": "56",
+      "name": "Vata, plsť, netkané textilie",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Vata, plsť, provaz, motouz"
+    },
+    {
+      "chapter": "57",
+      "name": "Koberce a textilní podlahové krytiny",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Koberce, předložky, rohože"
+    },
+    {
+      "chapter": "58",
+      "name": "Speciální tkaniny",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Gobelíny, krajky, výšivky"
+    },
+    {
+      "chapter": "59",
+      "name": "Impregnované textilní tkaniny",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Potažené tkaniny, kord pro pneumatiky"
+    },
+    {
+      "chapter": "60",
+      "name": "Pletené nebo háčkované tkaniny",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Pletené tkaniny"
+    },
+    {
+      "chapter": "61",
+      "name": "Pletené oděvy a doplňky",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Svetry, Trička, ponožky"
+    },
+    {
+      "chapter": "62",
+      "name": "Tkané oděvy a doplňky",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Obleky, košile, šaty, kabáty"
+    },
+    {
+      "chapter": "63",
+      "name": "Jiné hotové textilní výrobky",
+      "section": "XI",
+      "section_name": "Textil",
+      "examples": "Přikrývky, záclony, tašky, stany"
+    },
+    {
+      "chapter": "64",
+      "name": "Obuv",
+      "section": "XII",
+      "section_name": "Obuv a pokrývky hlavy",
+      "examples": "Boty, kozačky, sandály, pantofle"
+    },
+    {
+      "chapter": "65",
+      "name": "Pokrývky hlavy",
+      "section": "XII",
+      "section_name": "Obuv a pokrývky hlavy",
+      "examples": "Klobouky, čepice, helmy"
+    },
+    {
+      "chapter": "66",
+      "name": "Deštníky, vycházkové hole",
+      "section": "XII",
+      "section_name": "Obuv a pokrývky hlavy",
+      "examples": "Deštníky, hole, biče"
+    },
+    {
+      "chapter": "67",
+      "name": "Připravená pírka; umělé květiny",
+      "section": "XII",
+      "section_name": "Obuv a pokrývky hlavy",
+      "examples": "Umělé květiny, paruky"
+    },
+    {
+      "chapter": "68",
+      "name": "Výrobky z kamene, cementu",
+      "section": "XIII",
+      "section_name": "Kámen, Keramika, Sklo",
+      "examples": "Kamenné dlaždice, cementové výrobky"
+    },
+    {
+      "chapter": "69",
+      "name": "Keramické výrobky",
+      "section": "XIII",
+      "section_name": "Kámen, Keramika, Sklo",
+      "examples": "Cihly, dlaždice, hrnčířské výrobky, porcelán"
+    },
+    {
+      "chapter": "70",
+      "name": "Sklo a skleněné zboží",
+      "section": "XIII",
+      "section_name": "Kámen, Keramika, Sklo",
+      "examples": "Skleněné lahve, zrcadla, skleněné nádobí"
+    },
+    {
+      "chapter": "71",
+      "name": "Perly, drahokamy, kovy",
+      "section": "XIV",
+      "section_name": "Drahé kovy a kameny",
+      "examples": "Diamanty, zlato, stříbro, šperky"
+    },
+    {
+      "chapter": "72",
+      "name": "Železo a ocel",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Železo, ocel, fero slitiny"
+    },
+    {
+      "chapter": "73",
+      "name": "Výrobky ze železa nebo oceli",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Ocelové trubky, kontejnery, dráty"
+    },
+    {
+      "chapter": "74",
+      "name": "Měď a výrobky z mědi",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Měděný drát, trubky, plechy"
+    },
+    {
+      "chapter": "75",
+      "name": "Nikl a výrobky z niklu",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Niklové tyče, plechy, dráty"
+    },
+    {
+      "chapter": "76",
+      "name": "Hliník a výrobky z hliníku",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Hliníkové plechy, fólie, plechovky"
+    },
+    {
+      "chapter": "78",
+      "name": "Olovo a výrobky z olova",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Olověné desky, plechy, trubky"
+    },
+    {
+      "chapter": "79",
+      "name": "Zinek a výrobky ze zinku",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Zinkové plechy, tyče, prach"
+    },
+    {
+      "chapter": "80",
+      "name": "Cín a výrobky z cínu",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Cínové tyče, plechy, fólie"
+    },
+    {
+      "chapter": "81",
+      "name": "Ostatní obecné kovy",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Wolfram, titan, molybden"
+    },
+    {
+      "chapter": "82",
+      "name": "Nářadí z obecných kovů",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Nože, nůžky, ruční nářadí"
+    },
+    {
+      "chapter": "83",
+      "name": "Různé výrobky z obecných kovů",
+      "section": "XV",
+      "section_name": "Obecné kovy",
+      "examples": "Zámky, armatury, trezory, zvony"
+    },
+    {
+      "chapter": "84",
+      "name": "Jaderné reaktory, kotle, stroje",
+      "section": "XVI",
+      "section_name": "Stroje",
+      "examples": "Motory, čerpadla, počítače, klimatizace"
+    },
+    {
+      "chapter": "85",
+      "name": "Elektrické stroje a zařízení",
+      "section": "XVI",
+      "section_name": "Stroje",
+      "examples": "Telefony, televize, motory, baterie"
+    },
+    {
+      "chapter": "86",
+      "name": "Železniční lokomotivy, kolejová vozidla",
+      "section": "XVII",
+      "section_name": "Vozidla",
+      "examples": "Vlaky, tramvaje, železniční vozy"
+    },
+    {
+      "chapter": "87",
+      "name": "Vozidla jiná než železniční",
+      "section": "XVII",
+      "section_name": "Vozidla",
+      "examples": "Auta, nákladní automobily, motocykly, jízdní kola"
+    },
+    {
+      "chapter": "88",
+      "name": "Letadla, kosmické lodě",
+      "section": "XVII",
+      "section_name": "Vozidla",
+      "examples": "Letadla, vrtulníky, drony"
+    },
+    {
+      "chapter": "89",
+      "name": "Lodě, čluny",
+      "section": "XVII",
+      "section_name": "Vozidla",
+      "examples": "Lodě, jachty, čluny"
+    },
+    {
+      "chapter": "90",
+      "name": "Optické, lékařské, měřicí přístroje",
+      "section": "XVIII",
+      "section_name": "Přístroje",
+      "examples": "Fotoaparáty, zdravotnické přístroje, senzory"
+    },
+    {
+      "chapter": "91",
+      "name": "Hodiny a hodinky",
+      "section": "XVIII",
+      "section_name": "Přístroje",
+      "examples": "Hodinky, hodiny, části hodin"
+    },
+    {
+      "chapter": "92",
+      "name": "Hudební nástroje",
+      "section": "XVIII",
+      "section_name": "Přístroje",
+      "examples": "Piana, kytary, bicí"
+    },
+    {
+      "chapter": "93",
+      "name": "Zbraně a střelivo",
+      "section": "XIX",
+      "section_name": "Zbraně a střelivo",
+      "examples": "Zbraně, střelivo, části"
+    },
+    {
+      "chapter": "94",
+      "name": "Nábytek; lůžkoviny; svítidla",
+      "section": "XX",
+      "section_name": "Různé výrobky",
+      "examples": "Židle, postele, lampy, montované budovy"
+    },
+    {
+      "chapter": "95",
+      "name": "Hračky, hry, sportovní vybavení",
+      "section": "XX",
+      "section_name": "Různé výrobky",
+      "examples": "Hračky, videohry, sportovní vybavení"
+    },
+    {
+      "chapter": "96",
+      "name": "Různé průmyslové výrobky",
+      "section": "XX",
+      "section_name": "Různé výrobky",
+      "examples": "Pera, knoflíky, zapalovače, košťata"
+    },
+    {
+      "chapter": "97",
+      "name": "Umělecká díla, starožitnosti",
+      "section": "XXI",
+      "section_name": "Umělecká díla",
+      "examples": "Obrazy, sochy, starožitnosti"
+    },
+    {
+      "chapter": "98",
+      "name": "Zvláštní ustanovení o klasifikaci",
+      "section": "XXII",
+      "section_name": "Zvláštní",
+      "examples": "Národní zvláštní ustanovení"
+    },
+    {
+      "chapter": "99",
+      "name": "Zvláštní ustanovení o dovozu",
+      "section": "XXII",
+      "section_name": "Zvláštní",
+      "examples": "Dočasný dovoz, opětovný dovoz"
+    }
+  ],
+  "meta": {
+    "seo_title": "Seznam Kapitol Kódů HS - Ke stažení zdarma (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si všech 98 kapitol kódů HS zdarma. Obsahuje podrobné popisy, sekce a příklady ve formátech Excel, CSV a PDF.",
+    "title": "Datový Soubor Kapitol Kódů HS (Harmonizovaný Systém)",
+    "description": "Tento komplexní datový soubor poskytuje všech 98 kapitol Harmonizovaného Systému (HS) kódů, klíčových pro mezinárodní obchod a celní klasifikaci. Každý záznam obsahuje číslo kapitoly, popis, detaily sekce a ilustrativní příklady.",
+    "key_takeaways": [
+      "Získejte přístup ke všem 98 oficiálním kapitolám kódů HS, nepostradatelným pro globální obchod.",
+      "Prozkoumejte podrobné popisy, klasifikace sekcí a praktické příklady pro každou kapitolu.",
+      "Stáhněte si celý seznam kapitol Harmonizovaného Systému okamžitě ve více formátech.",
+      "Využijte strukturovaná data pro celní prohlášení, vyhledávání celních sazeb a analýzu trhu."
+    ],
+    "keywords": [
+      "seznam kapitol hs kódů excel",
+      "datový soubor harmonizovaný systém",
+      "mezinárodní obchod klasifikace csv",
+      "celní kódy ke stažení zdarma",
+      "data obchodních sazeb"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo skriptu Python pro automatizaci klasifikace produktů a analýzy obchodních dat.",
+      "Použijte soubor **Excel** k filtrování, řazení a vytváření kontingenčních tabulek (Pivot Tables) pro výzkum celních sazeb, hlášení souladu nebo analýzu trhu.",
+      "Vytiskněte verzi **PDF** pro rychlou offline referenci, výuku ve třídě nebo jako praktický stolní průvodce pro celní makléře.",
+      "Integrujte tento datový soubor do vaší ERP nebo e-commerce platformy pro přesnou kategorizaci produktů a zefektivnění mezinárodní přepravy."
+    ]
+  },
+  "record_count": 98,
+  "title": "Datový Soubor Kapitol Kódů HS (Harmonizovaný Systém)"
+}

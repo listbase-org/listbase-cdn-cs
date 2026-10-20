@@ -1,0 +1,236 @@
+{
+  "id": "cs-jednotky-mass",
+  "name": "Měrné jednotky: mass (17)",
+  "title": "Měrné jednotky: mass (17)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'mass'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 141,
+      "unit_code": "mass-carat",
+      "kategorie": "mass",
+      "nazev": "karáty",
+      "vzor_jednotne": "{0} karát",
+      "vzor_mnozne": "{0} karátů",
+      "kratky_vzor": "{0} CD",
+      "uzky_vzor": "{0} CD"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-dalton",
+      "kategorie": "mass",
+      "nazev": "daltony",
+      "vzor_jednotne": "{0} dalton",
+      "vzor_mnozne": "{0} daltonů",
+      "kratky_vzor": "{0} Da",
+      "uzky_vzor": "{0} Da"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-earth-mass",
+      "kategorie": "mass",
+      "nazev": "hmotnosti Země",
+      "vzor_jednotne": "{0} hmotnost Země",
+      "vzor_mnozne": "{0} hmotností Země",
+      "kratky_vzor": "{0} M⊕",
+      "uzky_vzor": "{0} M⊕"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-fun",
+      "kategorie": "mass",
+      "nazev": "fun [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} fun [JP]",
+      "kratky_vzor": "{0} fun [JP]",
+      "uzky_vzor": "{0} fun [JP]"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-grain",
+      "kategorie": "mass",
+      "nazev": "grainy",
+      "vzor_jednotne": "{0} grain",
+      "vzor_mnozne": "{0} grainů",
+      "kratky_vzor": "{0} gr",
+      "uzky_vzor": "{0} gr"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-gram",
+      "kategorie": "mass",
+      "nazev": "gramy",
+      "vzor_jednotne": "{0} gram",
+      "vzor_mnozne": "{0} gramů",
+      "kratky_vzor": "{0} g",
+      "uzky_vzor": "{0} g"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-kilogram",
+      "kategorie": "mass",
+      "nazev": "kilogramy",
+      "vzor_jednotne": "{0} kilogram",
+      "vzor_mnozne": "{0} kilogramů",
+      "kratky_vzor": "{0} kg",
+      "uzky_vzor": "{0} kg"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-microgram",
+      "kategorie": "mass",
+      "nazev": "mikrogramy",
+      "vzor_jednotne": "{0} mikrogram",
+      "vzor_mnozne": "{0} mikrogramů",
+      "kratky_vzor": "{0} μg",
+      "uzky_vzor": "{0} μg"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-milligram",
+      "kategorie": "mass",
+      "nazev": "miligramy",
+      "vzor_jednotne": "{0} miligram",
+      "vzor_mnozne": "{0} miligramů",
+      "kratky_vzor": "{0} mg",
+      "uzky_vzor": "{0} mg"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce",
+      "kategorie": "mass",
+      "nazev": "unce",
+      "vzor_jednotne": "{0} unce",
+      "vzor_mnozne": "{0} uncí",
+      "kratky_vzor": "{0} oz",
+      "uzky_vzor": "{0} oz"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-ounce-troy",
+      "kategorie": "mass",
+      "nazev": "trojské unce",
+      "vzor_jednotne": "{0} trojská unce",
+      "vzor_mnozne": "{0} trojských uncí",
+      "kratky_vzor": "{0} oz t",
+      "uzky_vzor": "{0} oz t"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-pound",
+      "kategorie": "mass",
+      "nazev": "libry",
+      "vzor_jednotne": "{0} libra",
+      "vzor_mnozne": "{0} liber",
+      "kratky_vzor": "{0} lb",
+      "uzky_vzor": "{0} lb"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-slug",
+      "kategorie": "mass",
+      "nazev": "slug",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} slug",
+      "kratky_vzor": "{0} slug",
+      "uzky_vzor": "{0} slug"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-solar-mass",
+      "kategorie": "mass",
+      "nazev": "hmotnosti Slunce",
+      "vzor_jednotne": "{0} hmotnost Slunce",
+      "vzor_mnozne": "{0} hmotností Slunce",
+      "kratky_vzor": "{0} M☉",
+      "uzky_vzor": "{0} M☉"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-stone",
+      "kategorie": "mass",
+      "nazev": "kameny",
+      "vzor_jednotne": "{0} kámen",
+      "vzor_mnozne": "{0} kamenů",
+      "kratky_vzor": "{0} st",
+      "uzky_vzor": "{0} st"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-ton",
+      "kategorie": "mass",
+      "nazev": "americké tuny",
+      "vzor_jednotne": "{0} americká tuna",
+      "vzor_mnozne": "{0} amerických tun",
+      "kratky_vzor": "{0} sht",
+      "uzky_vzor": "{0} sht"
+    },
+    {
+      "id": 157,
+      "unit_code": "mass-tonne",
+      "kategorie": "mass",
+      "nazev": "tuny",
+      "vzor_jednotne": "{0} tuna",
+      "vzor_mnozne": "{0} tun",
+      "kratky_vzor": "{0} t",
+      "uzky_vzor": "{0} t"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: mass (17) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'mass'. Obsahuje 17 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: mass (17) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: mass (17) — 17 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 17 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,4681 @@
+{
+  "id": "cs-osm-knihovny",
+  "name": "Knihovny (OSM)",
+  "title": "Knihovny (OSM)",
+  "description": "Seznam pojmenovaných knihoven v České republice (928 záznamů) — body zájmu z OpenStreetMap (tag amenity=library), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 928,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Knihovna",
+      "latitude": 50.992204,
+      "longitude": 14.381417
+    },
+    {
+      "name": "Městská knihovna Jiříkov",
+      "latitude": 50.992492,
+      "longitude": 14.572607
+    },
+    {
+      "name": "knihovna Habartice",
+      "latitude": 51.018659,
+      "longitude": 15.065307
+    },
+    {
+      "name": "Obecní knihovna Černousy",
+      "latitude": 51.008315,
+      "longitude": 15.036616
+    },
+    {
+      "name": "Městská knihovna Rumburk",
+      "latitude": 50.953877,
+      "longitude": 14.554125
+    },
+    {
+      "name": "Městská knihovna Děčín",
+      "latitude": 50.781272,
+      "longitude": 14.209839
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.775053,
+      "longitude": 14.472643
+    },
+    {
+      "name": "Městská knihovna Nový Bor",
+      "latitude": 50.761318,
+      "longitude": 14.555152
+    },
+    {
+      "name": "Městská knihovna Frýdlant",
+      "latitude": 50.922138,
+      "longitude": 15.089051
+    },
+    {
+      "name": "Knihovna Severočeského muzea",
+      "latitude": 50.774839,
+      "longitude": 15.068878
+    },
+    {
+      "name": "Knihovna Technické univerzity",
+      "latitude": 50.772094,
+      "longitude": 15.060821
+    },
+    {
+      "name": "Krajská vědecká knihovna Liberec",
+      "latitude": 50.7717,
+      "longitude": 15.058297
+    },
+    {
+      "name": "Knihovna Vratislavice nad Nisou",
+      "latitude": 50.743163,
+      "longitude": 15.093552
+    },
+    {
+      "name": "Knihovna a spolkové centrum IGI VRATISLAVICE",
+      "latitude": 50.744178,
+      "longitude": 15.092988
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.781361,
+      "longitude": 15.418213
+    },
+    {
+      "name": "Stadtbibliothek",
+      "latitude": 50.356313,
+      "longitude": 12.466017
+    },
+    {
+      "name": "Kinderbücherei",
+      "latitude": 50.357191,
+      "longitude": 12.467389
+    },
+    {
+      "name": "Městská knihovna Kraslice",
+      "latitude": 50.326212,
+      "longitude": 12.514106
+    },
+    {
+      "name": "knihovna Košťany",
+      "latitude": 50.655983,
+      "longitude": 13.756222
+    },
+    {
+      "name": "Regionální knihovna Teplice - Šanov",
+      "latitude": 50.64398,
+      "longitude": 13.851617
+    },
+    {
+      "name": "Regionalni knihovna Teplice",
+      "latitude": 50.640614,
+      "longitude": 13.831524
+    },
+    {
+      "name": "Knihovna Chabařovice",
+      "latitude": 50.672039,
+      "longitude": 13.943588
+    },
+    {
+      "name": "Severočeská vědecká knihovna - lidová část.",
+      "latitude": 50.663129,
+      "longitude": 14.035566
+    },
+    {
+      "name": "Knihovna Spolku pro chemickou a hutní výrobu",
+      "latitude": 50.659577,
+      "longitude": 14.029625
+    },
+    {
+      "name": "Technická knihovna Výzkumného ústavu anorganické chemie",
+      "latitude": 50.659553,
+      "longitude": 14.030403
+    },
+    {
+      "name": "SVKUL - pobočka Klíše",
+      "latitude": 50.666119,
+      "longitude": 14.016842
+    },
+    {
+      "name": "Severočeská vědecká knihovna - vědecká část.",
+      "latitude": 50.662317,
+      "longitude": 14.043691
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.619582,
+      "longitude": 13.607546
+    },
+    {
+      "name": "Městská knihovna Litvínov",
+      "latitude": 50.599504,
+      "longitude": 13.607981
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.592903,
+      "longitude": 13.657431
+    },
+    {
+      "name": "Knihovna Braňany",
+      "latitude": 50.542269,
+      "longitude": 13.708549
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.601218,
+      "longitude": 13.750952
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.600451,
+      "longitude": 13.912661
+    },
+    {
+      "name": "Městská knihovna Bílina",
+      "latitude": 50.5477,
+      "longitude": 13.774618
+    },
+    {
+      "name": "Městská knihovna Bílina",
+      "latitude": 50.554048,
+      "longitude": 13.786115
+    },
+    {
+      "name": "Městská knihovna Bílina",
+      "latitude": 50.559555,
+      "longitude": 13.777386
+    },
+    {
+      "name": "Městská knihovna Lovosice",
+      "latitude": 50.515629,
+      "longitude": 14.04969
+    },
+    {
+      "name": "Gemeindebücherei Bärenstein",
+      "latitude": 50.498781,
+      "longitude": 13.028294
+    },
+    {
+      "name": "Městská knihovna Jáchymov",
+      "latitude": 50.371151,
+      "longitude": 12.913628
+    },
+    {
+      "name": "městská knihovna",
+      "latitude": 50.388284,
+      "longitude": 13.179562
+    },
+    {
+      "name": "Městská knihovna v Jirkově",
+      "latitude": 50.501027,
+      "longitude": 13.439987
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.459434,
+      "longitude": 13.418914
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.477092,
+      "longitude": 13.416377
+    },
+    {
+      "name": "Městská knihovna Most",
+      "latitude": 50.505919,
+      "longitude": 13.653592
+    },
+    {
+      "name": "Místní knihovna Solany",
+      "latitude": 50.452903,
+      "longitude": 13.919157
+    },
+    {
+      "name": "Městská knihovna Libochovice",
+      "latitude": 50.405744,
+      "longitude": 14.043704
+    },
+    {
+      "name": "Místní knihovna Lenešice",
+      "latitude": 50.375668,
+      "longitude": 13.761896
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.295736,
+      "longitude": 13.916418
+    },
+    {
+      "name": "Knihovna Aš",
+      "latitude": 50.22275,
+      "longitude": 12.187121
+    },
+    {
+      "name": "Stadtbücherei",
+      "latitude": 50.097678,
+      "longitude": 12.221403
+    },
+    {
+      "name": "Gemeindebücherei Schirnding",
+      "latitude": 50.08093,
+      "longitude": 12.228215
+    },
+    {
+      "name": "Městská knihovna ČR",
+      "latitude": 50.121809,
+      "longitude": 12.345371
+    },
+    {
+      "name": "Obecní knihovna Libavské Údolí",
+      "latitude": 50.128723,
+      "longitude": 12.553375
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.146157,
+      "longitude": 12.64364
+    },
+    {
+      "name": "Knihovna Cheb",
+      "latitude": 50.080135,
+      "longitude": 12.370247
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.087415,
+      "longitude": 12.3807
+    },
+    {
+      "name": "Městská knihovna Chodov",
+      "latitude": 50.237187,
+      "longitude": 12.745513
+    },
+    {
+      "name": "Místní knihovna Velichov",
+      "latitude": 50.280373,
+      "longitude": 13.007202
+    },
+    {
+      "name": "Krajská knihovna Karlovarského kraje",
+      "latitude": 50.218029,
+      "longitude": 12.826993
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.19233,
+      "longitude": 12.679934
+    },
+    {
+      "name": "Městská knihovna Loket",
+      "latitude": 50.186034,
+      "longitude": 12.753107
+    },
+    {
+      "name": "Obecní knihovna Olešná",
+      "latitude": 50.129555,
+      "longitude": 13.695277
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.15417,
+      "longitude": 13.89803
+    },
+    {
+      "name": "Mistni knihovna",
+      "latitude": 50.137218,
+      "longitude": 13.988917
+    },
+    {
+      "name": "Státní okresní archiv Rakovník",
+      "latitude": 50.092497,
+      "longitude": 13.727271
+    },
+    {
+      "name": "Městská knihovna Rakovník",
+      "latitude": 50.104293,
+      "longitude": 13.732476
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.967145,
+      "longitude": 12.702031
+    },
+    {
+      "name": "Knihovna Teplá",
+      "latitude": 49.982308,
+      "longitude": 12.863614
+    },
+    {
+      "name": "Knihovna Kryštofa Haranta",
+      "latitude": 49.90765,
+      "longitude": 12.97056
+    },
+    {
+      "name": "Obecní knihovna Krakov",
+      "latitude": 50.037495,
+      "longitude": 13.647753
+    },
+    {
+      "name": "Městská knihovna Beroun",
+      "latitude": 49.957369,
+      "longitude": 14.051496
+    },
+    {
+      "name": "Městská knihovna Plasy",
+      "latitude": 49.936489,
+      "longitude": 13.38928
+    },
+    {
+      "name": "Obecní knihovna v Břízsku",
+      "latitude": 49.905815,
+      "longitude": 13.520285
+    },
+    {
+      "name": "obecní knihovna v Břizsku",
+      "latitude": 49.905775,
+      "longitude": 13.520243
+    },
+    {
+      "name": "Městská knihovna Kaznějov",
+      "latitude": 49.893797,
+      "longitude": 13.384758
+    },
+    {
+      "name": "Knihovna na obecním úřadě",
+      "latitude": 49.87707,
+      "longitude": 13.575061
+    },
+    {
+      "name": "zastávková knihovna",
+      "latitude": 49.876201,
+      "longitude": 13.630072
+    },
+    {
+      "name": "Knihovna Králův Dvůr",
+      "latitude": 49.947263,
+      "longitude": 14.039265
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.693785,
+      "longitude": 14.455977
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.686799,
+      "longitude": 14.536211
+    },
+    {
+      "name": "Městská knihovna Pobočka Lada",
+      "latitude": 50.701045,
+      "longitude": 14.537642
+    },
+    {
+      "name": "Obecní knihovna Svojkov",
+      "latitude": 50.719441,
+      "longitude": 14.599094
+    },
+    {
+      "name": "Pobočka Litoměřické knihovny",
+      "latitude": 50.546826,
+      "longitude": 14.129625
+    },
+    {
+      "name": "Místní knihovna Žitenice",
+      "latitude": 50.555989,
+      "longitude": 14.158074
+    },
+    {
+      "name": "Litoměřická Knihovna",
+      "latitude": 50.53471,
+      "longitude": 14.130924
+    },
+    {
+      "name": "Místní knihovna Holany",
+      "latitude": 50.617427,
+      "longitude": 14.492515
+    },
+    {
+      "name": "Městská knihovna Dubá",
+      "latitude": 50.538954,
+      "longitude": 14.543879
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.66019,
+      "longitude": 14.99482
+    },
+    {
+      "name": "Městská knihovna (Stará radnice)",
+      "latitude": 50.723186,
+      "longitude": 15.170711
+    },
+    {
+      "name": "Obecní knihovna Skuhrov",
+      "latitude": 50.681328,
+      "longitude": 15.215034
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.701987,
+      "longitude": 15.431982
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.685519,
+      "longitude": 15.402399
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.629204,
+      "longitude": 15.134082
+    },
+    {
+      "name": "Místní knihovna Soběslavice",
+      "latitude": 50.606693,
+      "longitude": 15.034235
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.573965,
+      "longitude": 15.067514
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.581634,
+      "longitude": 15.111299
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.522658,
+      "longitude": 14.975775
+    },
+    {
+      "name": "Městská knihovna Antonína Marka",
+      "latitude": 50.591689,
+      "longitude": 15.162345
+    },
+    {
+      "name": "Knihovna na nádraži",
+      "latitude": 50.587111,
+      "longitude": 15.139643
+    },
+    {
+      "name": "Knihovna Košťálov",
+      "latitude": 50.572176,
+      "longitude": 15.403083
+    },
+    {
+      "name": "Knihovna MU",
+      "latitude": 50.534735,
+      "longitude": 15.259635
+    },
+    {
+      "name": "Veřejná obecní knihovna",
+      "latitude": 50.519968,
+      "longitude": 15.247456
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.550756,
+      "longitude": 15.357663
+    },
+    {
+      "name": "Městská knihovna Terezín",
+      "latitude": 50.510661,
+      "longitude": 14.148743
+    },
+    {
+      "name": "Knihovna Ervína Špindlera",
+      "latitude": 50.423953,
+      "longitude": 14.261016
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.407845,
+      "longitude": 14.44741
+    },
+    {
+      "name": "Obecní knihovna Poštovice",
+      "latitude": 50.311924,
+      "longitude": 14.13691
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.381023,
+      "longitude": 14.744425
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 50.290179,
+      "longitude": 14.735731
+    },
+    {
+      "name": "Knihovna Vladimíra Holana",
+      "latitude": 50.501007,
+      "longitude": 14.802202
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 50.45945,
+      "longitude": 14.907581
+    },
+    {
+      "name": "Knihovna Bakov nad Jizerou",
+      "latitude": 50.482205,
+      "longitude": 14.936352
+    },
+    {
+      "name": "Kulturně vzdělávací centrum",
+      "latitude": 50.488854,
+      "longitude": 15.037982
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.440103,
+      "longitude": 14.926208
+    },
+    {
+      "name": "Knihovna města Mladá Boleslav",
+      "latitude": 50.416085,
+      "longitude": 14.911637
+    },
+    {
+      "name": "Knihovna Škoda Auto Vysoká škola",
+      "latitude": 50.414815,
+      "longitude": 14.902846
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.436367,
+      "longitude": 15.003521
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.411857,
+      "longitude": 15.077908
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.42647,
+      "longitude": 15.029484
+    },
+    {
+      "name": "Městská knihovna Fráni Šrámka",
+      "latitude": 50.467239,
+      "longitude": 15.176652
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.413428,
+      "longitude": 15.184255
+    },
+    {
+      "name": "Václava Čtvrtka",
+      "latitude": 50.434408,
+      "longitude": 15.35844
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.38209,
+      "longitude": 14.929528
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.394597,
+      "longitude": 14.870685
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.352644,
+      "longitude": 14.887737
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.373424,
+      "longitude": 14.954147
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.321817,
+      "longitude": 14.939521
+    },
+    {
+      "name": "Knihovna Kopidlno",
+      "latitude": 50.329936,
+      "longitude": 15.269406
+    },
+    {
+      "name": "Městská knihovna Vrchlabí",
+      "latitude": 50.62816,
+      "longitude": 15.609709
+    },
+    {
+      "name": "Městská knihovna Žacléř",
+      "latitude": 50.654704,
+      "longitude": 15.909792
+    },
+    {
+      "name": "Městská knihovna Jaroslava Havlíčka",
+      "latitude": 50.60977,
+      "longitude": 15.50408
+    },
+    {
+      "name": "Veřejná knihovna",
+      "latitude": 50.566229,
+      "longitude": 15.499869
+    },
+    {
+      "name": "Městská knihovna Hostinné",
+      "latitude": 50.541402,
+      "longitude": 15.723762
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.56072,
+      "longitude": 15.914041
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.600395,
+      "longitude": 16.295533
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.585866,
+      "longitude": 16.332058
+    },
+    {
+      "name": "Knihovna města Police nad Metují",
+      "latitude": 50.53605,
+      "longitude": 16.233705
+    },
+    {
+      "name": "Knihovna Nová Paka",
+      "latitude": 50.495482,
+      "longitude": 15.513457
+    },
+    {
+      "name": "Knihovna Stará Paka",
+      "latitude": 50.510314,
+      "longitude": 15.493789
+    },
+    {
+      "name": "Knihovna Kryštofa Haranta",
+      "latitude": 50.481175,
+      "longitude": 15.608402
+    },
+    {
+      "name": "Městská knihovna Lázně Bělohrad",
+      "latitude": 50.430944,
+      "longitude": 15.578422
+    },
+    {
+      "name": "Knihovna Mlázovice",
+      "latitude": 50.412023,
+      "longitude": 15.520996
+    },
+    {
+      "name": "Místní knihovna Dolní Brusnice",
+      "latitude": 50.456466,
+      "longitude": 15.729489
+    },
+    {
+      "name": "Městská knihovna Slavoj",
+      "latitude": 50.434302,
+      "longitude": 15.815111
+    },
+    {
+      "name": "Městská Knihovna",
+      "latitude": 50.473495,
+      "longitude": 16.091319
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 50.454007,
+      "longitude": 16.03879
+    },
+    {
+      "name": "Městská knihovna Náchod",
+      "latitude": 50.41723,
+      "longitude": 16.165883
+    },
+    {
+      "name": "Ostroměřká knihovna",
+      "latitude": 50.374272,
+      "longitude": 15.544612
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.353631,
+      "longitude": 15.91715
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.395191,
+      "longitude": 16.044207
+    },
+    {
+      "name": "Knihovna Vrchoviny",
+      "latitude": 50.367514,
+      "longitude": 16.144313
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.35071,
+      "longitude": 16.150174
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.291243,
+      "longitude": 16.1604
+    },
+    {
+      "name": "Obecní knihovna Česká Čermná",
+      "latitude": 50.401784,
+      "longitude": 16.229077
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.275544,
+      "longitude": 14.06944
+    },
+    {
+      "name": "Městská knihovna Velvary",
+      "latitude": 50.282792,
+      "longitude": 14.23576
+    },
+    {
+      "name": "Místní knihovna Veltrusy",
+      "latitude": 50.272081,
+      "longitude": 14.328016
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.230378,
+      "longitude": 14.08797
+    },
+    {
+      "name": "Městská Knihovna Odolena Voda",
+      "latitude": 50.229808,
+      "longitude": 14.412886
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.197813,
+      "longitude": 14.365103
+    },
+    {
+      "name": "Obecní Knihovna Libiš",
+      "latitude": 50.273714,
+      "longitude": 14.503186
+    },
+    {
+      "name": "Společenský dům a městská knihovna Neratovice",
+      "latitude": 50.258939,
+      "longitude": 14.515352
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.261452,
+      "longitude": 14.684389
+    },
+    {
+      "name": "Obecní knihovna Bášť",
+      "latitude": 50.204675,
+      "longitude": 14.463448
+    },
+    {
+      "name": "Knihovna Eduarda Petišky",
+      "latitude": 50.185991,
+      "longitude": 14.661608
+    },
+    {
+      "name": "Knihovna Eduarda Petišky",
+      "latitude": 50.195062,
+      "longitude": 14.678493
+    },
+    {
+      "name": "Městská knihovna Kladno",
+      "latitude": 50.13871,
+      "longitude": 14.074287
+    },
+    {
+      "name": "Středočeská vědecká knihovna",
+      "latitude": 50.145033,
+      "longitude": 14.107669
+    },
+    {
+      "name": "Knihovna Velké Přílepy",
+      "latitude": 50.160558,
+      "longitude": 14.312176
+    },
+    {
+      "name": "Obecní knihovna Husinec",
+      "latitude": 50.17124,
+      "longitude": 14.35691
+    },
+    {
+      "name": "knihovna J. M. Hovorky",
+      "latitude": 50.141308,
+      "longitude": 14.317822
+    },
+    {
+      "name": "Knihovna Horoměřice",
+      "latitude": 50.130968,
+      "longitude": 14.339405
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.128982,
+      "longitude": 14.372711
+    },
+    {
+      "name": "Ústřední knihovna ČVUT",
+      "latitude": 50.103841,
+      "longitude": 14.390708
+    },
+    {
+      "name": "Národní technická knihovna",
+      "latitude": 50.103985,
+      "longitude": 14.390448
+    },
+    {
+      "name": "Knihovna Kloknerova ústavu ČVUT",
+      "latitude": 50.101561,
+      "longitude": 14.392135
+    },
+    {
+      "name": "Ústřední knihovna VŠCHT",
+      "latitude": 50.10388,
+      "longitude": 14.390481
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Vzácné tisky",
+      "latitude": 50.093992,
+      "longitude": 14.392237
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Dejvice",
+      "latitude": 50.10364,
+      "longitude": 14.39061
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Dědina",
+      "latitude": 50.090443,
+      "longitude": 14.309791
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Smíchov",
+      "latitude": 50.073736,
+      "longitude": 14.406741
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Břevnov",
+      "latitude": 50.084432,
+      "longitude": 14.374021
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Ostrovského",
+      "latitude": 50.068402,
+      "longitude": 14.400073
+    },
+    {
+      "name": "studovna Strahovské knihovny",
+      "latitude": 50.085885,
+      "longitude": 14.389251
+    },
+    {
+      "name": "Strahovská knihovna",
+      "latitude": 50.086293,
+      "longitude": 14.388709
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Hradčany",
+      "latitude": 50.088063,
+      "longitude": 14.390253
+    },
+    {
+      "name": "Hórnikova lužickosrbská knihovna",
+      "latitude": 50.087628,
+      "longitude": 14.408405
+    },
+    {
+      "name": "Cibulka - Městská knihovna v Praze",
+      "latitude": 50.067696,
+      "longitude": 14.36641
+    },
+    {
+      "name": "Knihovna Hollar",
+      "latitude": 50.084313,
+      "longitude": 14.413674
+    },
+    {
+      "name": "Knihovna ústavu pro soudobé dějiny",
+      "latitude": 50.086938,
+      "longitude": 14.399901
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Petřiny",
+      "latitude": 50.085687,
+      "longitude": 14.341503
+    },
+    {
+      "name": "Obecní knihovna Zdiby",
+      "latitude": 50.168003,
+      "longitude": 14.43646
+    },
+    {
+      "name": "Knihovna Klecany",
+      "latitude": 50.175196,
+      "longitude": 14.41428
+    },
+    {
+      "name": "knihovna Čakovice",
+      "latitude": 50.151911,
+      "longitude": 14.521574
+    },
+    {
+      "name": "Městská knihovna v Praze – pobočka Prosek",
+      "latitude": 50.122996,
+      "longitude": 14.500356
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Ládví",
+      "latitude": 50.127453,
+      "longitude": 14.470502
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Bohnice",
+      "latitude": 50.128437,
+      "longitude": 14.41865
+    },
+    {
+      "name": "Městská knihovna v Praze",
+      "latitude": 50.124065,
+      "longitude": 14.456112
+    },
+    {
+      "name": "Knihovna Václava Šorela",
+      "latitude": 50.136365,
+      "longitude": 14.510547
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.146157,
+      "longitude": 14.579247
+    },
+    {
+      "name": "Městská knihovna Čelákovice - Pobočka",
+      "latitude": 50.161888,
+      "longitude": 14.734687
+    },
+    {
+      "name": "Městská knihovna Čelákovice",
+      "latitude": 50.165617,
+      "longitude": 14.751908
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Vysočany",
+      "latitude": 50.111258,
+      "longitude": 14.50091
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Sedmička",
+      "latitude": 50.101979,
+      "longitude": 14.45024
+    },
+    {
+      "name": "Cesta domů",
+      "latitude": 50.09957,
+      "longitude": 14.436875
+    },
+    {
+      "name": "Akademie výtvarných umění",
+      "latitude": 50.102787,
+      "longitude": 14.42408
+    },
+    {
+      "name": "Knihovna Národního muzea",
+      "latitude": 50.104616,
+      "longitude": 14.414225
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Hloubětín",
+      "latitude": 50.105389,
+      "longitude": 14.537221
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Černý Most",
+      "latitude": 50.10312,
+      "longitude": 14.564957
+    },
+    {
+      "name": "Kiosek městské knihovny v Praze",
+      "latitude": 50.107716,
+      "longitude": 14.582458
+    },
+    {
+      "name": "Městská knihovna - pobočka Rajská zahrada",
+      "latitude": 50.103146,
+      "longitude": 14.565158
+    },
+    {
+      "name": "Národní lékařská knihovna",
+      "latitude": 50.07488,
+      "longitude": 14.429286
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Korunní",
+      "latitude": 50.0752,
+      "longitude": 14.450032
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Školská",
+      "latitude": 50.07957,
+      "longitude": 14.424144
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Ostrčilovo náměstí",
+      "latitude": 50.065738,
+      "longitude": 14.424786
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Dittrichova",
+      "latitude": 50.073689,
+      "longitude": 14.416531
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Žižkov",
+      "latitude": 50.08676,
+      "longitude": 14.449898
+    },
+    {
+      "name": "Národní knihovna České republiky",
+      "latitude": 50.086423,
+      "longitude": 14.415677
+    },
+    {
+      "name": "Biblioteca Carlos Fuentes",
+      "latitude": 50.07608,
+      "longitude": 14.424926
+    },
+    {
+      "name": "Městská knihovna v Praze - oddělení digitalizace",
+      "latitude": 50.084717,
+      "longitude": 14.423139
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Dům čtení (Ruská)",
+      "latitude": 50.072267,
+      "longitude": 14.483619
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Záhřebská",
+      "latitude": 50.071872,
+      "longitude": 14.437042
+    },
+    {
+      "name": "Knihovna Na Vinohradech",
+      "latitude": 50.077117,
+      "longitude": 14.444101
+    },
+    {
+      "name": "Knihovna Václava Havla",
+      "latitude": 50.080747,
+      "longitude": 14.417344
+    },
+    {
+      "name": "Knihovna Františka Závišky",
+      "latitude": 50.069674,
+      "longitude": 14.428209
+    },
+    {
+      "name": "Zemědělská a potravinářská knihovna",
+      "latitude": 50.076248,
+      "longitude": 14.438772
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Vozovna",
+      "latitude": 50.091759,
+      "longitude": 14.478485
+    },
+    {
+      "name": "Mediatéka",
+      "latitude": 50.078953,
+      "longitude": 14.425015
+    },
+    {
+      "name": "Knihovna Akademie věd ČR",
+      "latitude": 50.081722,
+      "longitude": 14.414209
+    },
+    {
+      "name": "Malešice",
+      "latitude": 50.081564,
+      "longitude": 14.500489
+    },
+    {
+      "name": "Vysoká škola obchodní",
+      "latitude": 50.080776,
+      "longitude": 14.420717
+    },
+    {
+      "name": "Knihovna Jana Palacha",
+      "latitude": 50.088912,
+      "longitude": 14.416156
+    },
+    {
+      "name": "Knihovna Ústavu filosofie a religionistiky",
+      "latitude": 50.088745,
+      "longitude": 14.415903
+    },
+    {
+      "name": "Knihovna Šporkova paláce",
+      "latitude": 50.087319,
+      "longitude": 14.43022
+    },
+    {
+      "name": "Knihovna J.A. Komenského",
+      "latitude": 50.084005,
+      "longitude": 14.432503
+    },
+    {
+      "name": "Knihovna Jiřiny Šiklové",
+      "latitude": 50.07697,
+      "longitude": 14.414448
+    },
+    {
+      "name": "Geologická knihovna Přf UK",
+      "latitude": 50.068533,
+      "longitude": 14.424138
+    },
+    {
+      "name": "Geografická knihovna Přf UK",
+      "latitude": 50.068404,
+      "longitude": 14.424447
+    },
+    {
+      "name": "Městská knihovna v Praze – Ústřední knihovna",
+      "latitude": 50.087617,
+      "longitude": 14.417258
+    },
+    {
+      "name": "Knihovna chemie Přírodovědecké fakulty Univerzity Karlovy",
+      "latitude": 50.067885,
+      "longitude": 14.425277
+    },
+    {
+      "name": "Městská knihovna v Praze – pobočka Skalka",
+      "latitude": 50.068304,
+      "longitude": 14.509088
+    },
+    {
+      "name": "Knihovna Horní Počernice",
+      "latitude": 50.114238,
+      "longitude": 14.607029
+    },
+    {
+      "name": "Místní knohovna Klánovice",
+      "latitude": 50.095225,
+      "longitude": 14.66862
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.117254,
+      "longitude": 14.699071
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.105133,
+      "longitude": 14.709018
+    },
+    {
+      "name": "Knihovna Újezd nad Lesy",
+      "latitude": 50.076378,
+      "longitude": 14.658943
+    },
+    {
+      "name": "Městská knihovna Úvaly",
+      "latitude": 50.073149,
+      "longitude": 14.726456
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 50.275096,
+      "longitude": 14.945181
+    },
+    {
+      "name": "Městská knihovna Milovice",
+      "latitude": 50.229066,
+      "longitude": 14.876418
+    },
+    {
+      "name": "Městská knihovna Lysá nad Labem",
+      "latitude": 50.202415,
+      "longitude": 14.84154
+    },
+    {
+      "name": "Obecní knihovna Křečkov",
+      "latitude": 50.180586,
+      "longitude": 15.114088
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.267313,
+      "longitude": 15.135797
+    },
+    {
+      "name": "Městská knihovna Čelákovice - Pobočka",
+      "latitude": 50.166718,
+      "longitude": 14.787677
+    },
+    {
+      "name": "Knihovna Přerov nad Labem",
+      "latitude": 50.159788,
+      "longitude": 14.824941
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.165222,
+      "longitude": 14.933048
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.142296,
+      "longitude": 14.79742
+    },
+    {
+      "name": "městská knihovna Pečky",
+      "latitude": 50.087982,
+      "longitude": 15.029262
+    },
+    {
+      "name": "Knihovna Poděbrady - pobočka Poděbrady Žižkov",
+      "latitude": 50.151798,
+      "longitude": 15.131456
+    },
+    {
+      "name": "Městská knihovna Poděbrady",
+      "latitude": 50.142596,
+      "longitude": 15.119224
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.157644,
+      "longitude": 15.459415
+    },
+    {
+      "name": "Obecní knihovna Lovčice",
+      "latitude": 50.167656,
+      "longitude": 15.383827
+    },
+    {
+      "name": "Obecní knihovna Velký Osek",
+      "latitude": 50.097321,
+      "longitude": 15.188569
+    },
+    {
+      "name": "Knihovna Úhonice",
+      "latitude": 50.042794,
+      "longitude": 14.186544
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Stodůlky",
+      "latitude": 50.048932,
+      "longitude": 14.316827
+    },
+    {
+      "name": "Zličínská knihovna",
+      "latitude": 50.063306,
+      "longitude": 14.28672
+    },
+    {
+      "name": "Městská knihovna Lužiny",
+      "latitude": 50.04407,
+      "longitude": 14.331988
+    },
+    {
+      "name": "Knihovna Jinočany",
+      "latitude": 50.032795,
+      "longitude": 14.269289
+    },
+    {
+      "name": "Městská knihovna v Praze - Velká Chuchle",
+      "latitude": 50.011689,
+      "longitude": 14.385109
+    },
+    {
+      "name": "Městska knihovna v Praze - pobočka Barrandov",
+      "latitude": 50.028482,
+      "longitude": 14.368151
+    },
+    {
+      "name": "Městská knihovna Beroun",
+      "latitude": 49.967239,
+      "longitude": 14.070339
+    },
+    {
+      "name": "Husova knihovna",
+      "latitude": 50.002916,
+      "longitude": 14.405079
+    },
+    {
+      "name": "Místní knihovna Radotín",
+      "latitude": 49.981471,
+      "longitude": 14.361215
+    },
+    {
+      "name": "Knihovna Františky Plamínkové",
+      "latitude": 49.958991,
+      "longitude": 14.320433
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Spořilov",
+      "latitude": 50.045225,
+      "longitude": 14.491651
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Michle",
+      "latitude": 50.053857,
+      "longitude": 14.453573
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Pankrác",
+      "latitude": 50.054389,
+      "longitude": 14.438139
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Vikova",
+      "latitude": 50.041242,
+      "longitude": 14.437519
+    },
+    {
+      "name": "Knihovna Husitské teologické fakulty",
+      "latitude": 50.044975,
+      "longitude": 14.441587
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Jezerka",
+      "latitude": 50.057794,
+      "longitude": 14.449973
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Hostivař",
+      "latitude": 50.049176,
+      "longitude": 14.547266
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Zahradní Město",
+      "latitude": 50.056136,
+      "longitude": 14.50821
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Chodov",
+      "latitude": 50.024488,
+      "longitude": 14.491917
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Krč",
+      "latitude": 50.023383,
+      "longitude": 14.451669
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Novodvorská",
+      "latitude": 50.024684,
+      "longitude": 14.433149
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Opatov",
+      "latitude": 50.025463,
+      "longitude": 14.51908
+    },
+    {
+      "name": "Místní knihovna Petrovice",
+      "latitude": 50.035914,
+      "longitude": 14.556671
+    },
+    {
+      "name": "Infocentrum s knihovnou",
+      "latitude": 50.011213,
+      "longitude": 14.626287
+    },
+    {
+      "name": "Městská knihovna v Praze - pobočka Modřany",
+      "latitude": 50.005763,
+      "longitude": 14.433663
+    },
+    {
+      "name": "Knihovna Průhonice",
+      "latitude": 50.005897,
+      "longitude": 14.556255
+    },
+    {
+      "name": "Knihovna a občanské centrum",
+      "latitude": 49.967939,
+      "longitude": 14.51389
+    },
+    {
+      "name": "Husova knihovna Říčany",
+      "latitude": 49.992055,
+      "longitude": 14.654985
+    },
+    {
+      "name": "Dětská knihovna",
+      "latitude": 49.991322,
+      "longitude": 14.663039
+    },
+    {
+      "name": "Knihovna Tehovec",
+      "latitude": 49.98152,
+      "longitude": 14.728685
+    },
+    {
+      "name": "Obecní knihovna Mukařov",
+      "latitude": 49.992131,
+      "longitude": 14.74028
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.913348,
+      "longitude": 14.234042
+    },
+    {
+      "name": "Městská knihova Dobřichovice",
+      "latitude": 49.928771,
+      "longitude": 14.273631
+    },
+    {
+      "name": "Knihovna a infocentrum Všenory",
+      "latitude": 49.925909,
+      "longitude": 14.30273
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.923109,
+      "longitude": 14.639137
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.938366,
+      "longitude": 14.705271
+    },
+    {
+      "name": "Místní knihovna Strančice",
+      "latitude": 49.948961,
+      "longitude": 14.678187
+    },
+    {
+      "name": "Obecní knihovna Hrusice",
+      "latitude": 49.910289,
+      "longitude": 14.737282
+    },
+    {
+      "name": "Městská knihovna Pyšely",
+      "latitude": 49.876305,
+      "longitude": 14.677346
+    },
+    {
+      "name": "Obecní knihovna Přestavlky u Čerčan",
+      "latitude": 49.852503,
+      "longitude": 14.743031
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.050615,
+      "longitude": 15.031053
+    },
+    {
+      "name": "Knihovna Kouřím",
+      "latitude": 50.002869,
+      "longitude": 14.977158
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.028319,
+      "longitude": 15.202543
+    },
+    {
+      "name": "Městská knihovna Kolín",
+      "latitude": 50.023525,
+      "longitude": 15.186716
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.042827,
+      "longitude": 15.360949
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.962172,
+      "longitude": 15.273456
+    },
+    {
+      "name": "Knihovna Červené Pečky",
+      "latitude": 49.979249,
+      "longitude": 15.210685
+    },
+    {
+      "name": "Obecní knihovna Žehušice",
+      "latitude": 49.969569,
+      "longitude": 15.407236
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.875641,
+      "longitude": 14.903059
+    },
+    {
+      "name": "Městská knihovna Uhlířské Janovice",
+      "latitude": 49.881186,
+      "longitude": 15.064138
+    },
+    {
+      "name": "Knihovna Kutná Hora",
+      "latitude": 49.950654,
+      "longitude": 15.272779
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.91201,
+      "longitude": 15.221963
+    },
+    {
+      "name": "Knihovna Vrdy - Dolní Bučice",
+      "latitude": 49.92641,
+      "longitude": 15.462247
+    },
+    {
+      "name": "Městská knihovna Čáslav",
+      "latitude": 49.910816,
+      "longitude": 15.390211
+    },
+    {
+      "name": "místní lidová knihovna",
+      "latitude": 50.273126,
+      "longitude": 15.635348
+    },
+    {
+      "name": "Místní knihovna Lodín",
+      "latitude": 50.270703,
+      "longitude": 15.606081
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.242843,
+      "longitude": 15.495711
+    },
+    {
+      "name": "Knihovna Předměřice nad Labem",
+      "latitude": 50.255874,
+      "longitude": 15.812532
+    },
+    {
+      "name": "Obecní knihovna Těchlovice",
+      "latitude": 50.207612,
+      "longitude": 15.711463
+    },
+    {
+      "name": "Obecní knihovna Stěžírky",
+      "latitude": 50.224015,
+      "longitude": 15.734169
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.216201,
+      "longitude": 15.821773
+    },
+    {
+      "name": "Studijní a vědecká knihovna v Hradci Králové",
+      "latitude": 50.205189,
+      "longitude": 15.831394
+    },
+    {
+      "name": "KMHK Pobočka Moravské Předměstí A",
+      "latitude": 50.185143,
+      "longitude": 15.83298
+    },
+    {
+      "name": "Knihovna města Hradce Králové pobočka Malšovice",
+      "latitude": 50.202683,
+      "longitude": 15.851452
+    },
+    {
+      "name": "Moravské předměstí B",
+      "latitude": 50.19567,
+      "longitude": 15.84575
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 50.179034,
+      "longitude": 15.854322
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.083266,
+      "longitude": 15.762145
+    },
+    {
+      "name": "Obecní knihovna Býšť",
+      "latitude": 50.128794,
+      "longitude": 15.90903
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.15655,
+      "longitude": 16.083327
+    },
+    {
+      "name": "Obecní knihovna Lípa nad Orlicí",
+      "latitude": 50.135752,
+      "longitude": 16.096281
+    },
+    {
+      "name": "Městská knihovna Sezemice",
+      "latitude": 50.066313,
+      "longitude": 15.853092
+    },
+    {
+      "name": "Místní knihovna Podbřezí",
+      "latitude": 50.260547,
+      "longitude": 16.213983
+    },
+    {
+      "name": "Městské centrum, Základní umělecká škola Rychnov nad Kněžnou",
+      "latitude": 50.164272,
+      "longitude": 16.27688
+    },
+    {
+      "name": "Městská knihovna Karla Poláčka",
+      "latitude": 50.162316,
+      "longitude": 16.279843
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.120387,
+      "longitude": 16.210707
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.079023,
+      "longitude": 16.46212
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.08403,
+      "longitude": 16.759569
+    },
+    {
+      "name": "Univerzitní knihovna",
+      "latitude": 50.049306,
+      "longitude": 15.766628
+    },
+    {
+      "name": "Knihovna městského obvodu Pardubice 2",
+      "latitude": 50.045681,
+      "longitude": 15.755613
+    },
+    {
+      "name": "Krajská knihovna",
+      "latitude": 50.038227,
+      "longitude": 15.778341
+    },
+    {
+      "name": "Knihovna Dubina",
+      "latitude": 50.043443,
+      "longitude": 15.808499
+    },
+    {
+      "name": "Knihovní centrum U Vokolků",
+      "latitude": 50.040287,
+      "longitude": 15.778641
+    },
+    {
+      "name": "knihovna Pardubičky",
+      "latitude": 50.027425,
+      "longitude": 15.793313
+    },
+    {
+      "name": "Místní knihovna Nemošice",
+      "latitude": 50.010237,
+      "longitude": 15.796138
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.952441,
+      "longitude": 15.793712
+    },
+    {
+      "name": "Knihovna Třibřichy",
+      "latitude": 49.965288,
+      "longitude": 15.741091
+    },
+    {
+      "name": "knihovna",
+      "latitude": 49.952895,
+      "longitude": 16.162874
+    },
+    {
+      "name": "Městská knihovna Heřmanův Městec",
+      "latitude": 49.947235,
+      "longitude": 15.666643
+    },
+    {
+      "name": "Městská Knihovna Chrudim - Pobočka U Stadionu",
+      "latitude": 49.939364,
+      "longitude": 15.797514
+    },
+    {
+      "name": "Knihovna městyse Bojanov",
+      "latitude": 49.844313,
+      "longitude": 15.707425
+    },
+    {
+      "name": "Městská knihovna Skuteč (pobočka Skuteč)",
+      "latitude": 49.844826,
+      "longitude": 15.996623
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.055701,
+      "longitude": 16.399126
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.035338,
+      "longitude": 16.499852
+    },
+    {
+      "name": "Městská knihovna Choceň",
+      "latitude": 49.999824,
+      "longitude": 16.228992
+    },
+    {
+      "name": "Městská knihovna Ústí nad Orlicí",
+      "latitude": 49.972689,
+      "longitude": 16.392315
+    },
+    {
+      "name": "Městská knihovna Česká Třebová",
+      "latitude": 49.902255,
+      "longitude": 16.443851
+    },
+    {
+      "name": "Městská knihovna Česká Třebová, pobočka Parník",
+      "latitude": 49.917639,
+      "longitude": 16.438267
+    },
+    {
+      "name": "Městská knihovna Litomyšl",
+      "latitude": 49.870879,
+      "longitude": 16.310472
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.899941,
+      "longitude": 16.567643
+    },
+    {
+      "name": "Místní knihovna Vrbice",
+      "latitude": 49.735184,
+      "longitude": 12.947906
+    },
+    {
+      "name": "Obecní knihovna Ledce",
+      "latitude": 49.821107,
+      "longitude": 13.328898
+    },
+    {
+      "name": "Knihovna města Plzně - Knihovna Vinice",
+      "latitude": 49.763005,
+      "longitude": 13.351295
+    },
+    {
+      "name": "Knihovna města Plzně - Obvodní knihovna Skvrňany",
+      "latitude": 49.745289,
+      "longitude": 13.327027
+    },
+    {
+      "name": "Univerzitní knihovna",
+      "latitude": 49.725458,
+      "longitude": 13.353147
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.695679,
+      "longitude": 13.258942
+    },
+    {
+      "name": "Knihovna Chotěšov",
+      "latitude": 49.656736,
+      "longitude": 13.204161
+    },
+    {
+      "name": "Knihovna města Plzně - Knihovna Bolevec",
+      "latitude": 49.781313,
+      "longitude": 13.378628
+    },
+    {
+      "name": "Obecní knihovna Chrást",
+      "latitude": 49.793068,
+      "longitude": 13.492828
+    },
+    {
+      "name": "Knihovna města Plzně - Obvodní knihovna Lochotín",
+      "latitude": 49.775881,
+      "longitude": 13.366295
+    },
+    {
+      "name": "Knihovna města Plzně - Obvodní knihovna Slovany",
+      "latitude": 49.738246,
+      "longitude": 13.394933
+    },
+    {
+      "name": "Knihovna města Plzně - Obvodní knihovna Bory",
+      "latitude": 49.729587,
+      "longitude": 13.370144
+    },
+    {
+      "name": "Knihovna města Plzně - Knihovna Lobzy",
+      "latitude": 49.745154,
+      "longitude": 13.410007
+    },
+    {
+      "name": "Knihovna města Plzně - Obvodní knihovna Doubravka",
+      "latitude": 49.751754,
+      "longitude": 13.415181
+    },
+    {
+      "name": "Knihovna města Plzně - Božkov",
+      "latitude": 49.730589,
+      "longitude": 13.419627
+    },
+    {
+      "name": "Knihovna města Plzně",
+      "latitude": 49.745329,
+      "longitude": 13.376311
+    },
+    {
+      "name": "Studijní a vědecká knihovna Plzeňského kraje",
+      "latitude": 49.745382,
+      "longitude": 13.375592
+    },
+    {
+      "name": "Studijní a vědecká knihovna Plzeňského kraje na Borech",
+      "latitude": 49.725853,
+      "longitude": 13.364732
+    },
+    {
+      "name": "Místní knihovna Osek",
+      "latitude": 49.77724,
+      "longitude": 13.591502
+    },
+    {
+      "name": "Městská knihovna Rokycany",
+      "latitude": 49.742794,
+      "longitude": 13.595492
+    },
+    {
+      "name": "Knihovna Kařez",
+      "latitude": 49.821387,
+      "longitude": 13.782599
+    },
+    {
+      "name": "Městská knihovna Mýto",
+      "latitude": 49.786374,
+      "longitude": 13.738257
+    },
+    {
+      "name": "Městská knihovna Ivana Slavíka Hořovice",
+      "latitude": 49.837879,
+      "longitude": 13.906868
+    },
+    {
+      "name": "Obecní knihovna Podluhy",
+      "latitude": 49.815615,
+      "longitude": 13.913711
+    },
+    {
+      "name": "Městská knihovna Hrádek",
+      "latitude": 49.710759,
+      "longitude": 13.64841
+    },
+    {
+      "name": "Městská knihovna Mirošov",
+      "latitude": 49.687552,
+      "longitude": 13.65669
+    },
+    {
+      "name": "Městská knihovna Spálené Poříčí",
+      "latitude": 49.615078,
+      "longitude": 13.604728
+    },
+    {
+      "name": "Knihovna Číčov",
+      "latitude": 49.629772,
+      "longitude": 13.685137
+    },
+    {
+      "name": "Knihovna Jana Drdy",
+      "latitude": 49.688155,
+      "longitude": 14.008729
+    },
+    {
+      "name": "Knihovna Jana Drdy",
+      "latitude": 49.684505,
+      "longitude": 13.989519
+    },
+    {
+      "name": "Statní okresní archív",
+      "latitude": 49.676942,
+      "longitude": 14.000479
+    },
+    {
+      "name": "Městská knihovna Horšovský Týn",
+      "latitude": 49.529023,
+      "longitude": 12.94305
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.560354,
+      "longitude": 13.199958
+    },
+    {
+      "name": "Městská knihovna Přeštice",
+      "latitude": 49.572892,
+      "longitude": 13.326368
+    },
+    {
+      "name": "Obecní knihovna Ptenín",
+      "latitude": 49.531319,
+      "longitude": 13.186355
+    },
+    {
+      "name": "Městská knihovna Boženy Němcové Domažlice",
+      "latitude": 49.441882,
+      "longitude": 12.927235
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.390482,
+      "longitude": 13.037804
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.582777,
+      "longitude": 13.540063
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.601819,
+      "longitude": 13.864477
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.448523,
+      "longitude": 13.390027
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.457456,
+      "longitude": 13.786162
+    },
+    {
+      "name": "Městská knihovna Janovice nad Úhlavou",
+      "latitude": 49.343651,
+      "longitude": 13.216969
+    },
+    {
+      "name": "Knihovna Dešenice",
+      "latitude": 49.273904,
+      "longitude": 13.169939
+    },
+    {
+      "name": "MK Nýrsko",
+      "latitude": 49.293264,
+      "longitude": 13.142543
+    },
+    {
+      "name": "Místní knihovna Horažďovická Lhota",
+      "latitude": 49.354942,
+      "longitude": 13.681796
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.330701,
+      "longitude": 13.543821
+    },
+    {
+      "name": "Místní knihovna Boubín",
+      "latitude": 49.301157,
+      "longitude": 13.695339
+    },
+    {
+      "name": "Petrovice u Sušice",
+      "latitude": 49.219057,
+      "longitude": 13.439785
+    },
+    {
+      "name": "Městská knihovna Sušice",
+      "latitude": 49.232536,
+      "longitude": 13.516484
+    },
+    {
+      "name": "Městská knihovna Podmokly",
+      "latitude": 49.229855,
+      "longitude": 13.578824
+    },
+    {
+      "name": "Místní knihovna Bílenice",
+      "latitude": 49.237236,
+      "longitude": 13.639417
+    },
+    {
+      "name": "Šmidingerova knihovna Strakonice",
+      "latitude": 49.26421,
+      "longitude": 13.901228
+    },
+    {
+      "name": "Šmidingerova knihovna Strakonice",
+      "latitude": 49.258735,
+      "longitude": 13.901074
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.101725,
+      "longitude": 13.667355
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.0553,
+      "longitude": 13.778213
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.064266,
+      "longitude": 13.830239
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.0122,
+      "longitude": 13.999439
+    },
+    {
+      "name": "Knihovna Dobříš",
+      "latitude": 49.778154,
+      "longitude": 14.173762
+    },
+    {
+      "name": "Městská knihovna Benešov",
+      "latitude": 49.782734,
+      "longitude": 14.690843
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.752903,
+      "longitude": 14.493463
+    },
+    {
+      "name": "Knihovna Svatý Jan",
+      "latitude": 49.650393,
+      "longitude": 14.287395
+    },
+    {
+      "name": "Městská knihovna Sedlčany",
+      "latitude": 49.65832,
+      "longitude": 14.420951
+    },
+    {
+      "name": "Městská knihovna Votice",
+      "latitude": 49.638462,
+      "longitude": 14.638736
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.636989,
+      "longitude": 14.847967
+    },
+    {
+      "name": "KyTICe knihovna",
+      "latitude": 49.667199,
+      "longitude": 15.404734
+    },
+    {
+      "name": "Obecní knihovna Počepice",
+      "latitude": 49.595799,
+      "longitude": 14.38194
+    },
+    {
+      "name": "Obecní knihovna Petrovice",
+      "latitude": 49.552584,
+      "longitude": 14.336577
+    },
+    {
+      "name": "Knihovna Ratibořice",
+      "latitude": 49.471668,
+      "longitude": 14.763632
+    },
+    {
+      "name": "Městská knihovna Tábor - pobočka Pražské sídliště",
+      "latitude": 49.423004,
+      "longitude": 14.649867
+    },
+    {
+      "name": "Městská knihovna Tábor",
+      "latitude": 49.414469,
+      "longitude": 14.65945
+    },
+    {
+      "name": "Městská knihovna Tábor",
+      "latitude": 49.413364,
+      "longitude": 14.66762
+    },
+    {
+      "name": "pobočka Sídliště nad Lužnicí",
+      "latitude": 49.388513,
+      "longitude": 14.684098
+    },
+    {
+      "name": "Knihovna Sezimovo Ústí, Městský úřad",
+      "latitude": 49.384203,
+      "longitude": 14.683067
+    },
+    {
+      "name": "Městská knihovna Mladá Vožice",
+      "latitude": 49.531877,
+      "longitude": 14.805872
+    },
+    {
+      "name": "Obecní knihovna Hořepník",
+      "latitude": 49.511863,
+      "longitude": 15.105206
+    },
+    {
+      "name": "Místní knihovna Světlice",
+      "latitude": 49.569821,
+      "longitude": 15.352757
+    },
+    {
+      "name": "Místní knihovna Petrovice",
+      "latitude": 49.54306,
+      "longitude": 15.28039
+    },
+    {
+      "name": "Knihovna Jiřiny Zábranové",
+      "latitude": 49.542193,
+      "longitude": 15.358591
+    },
+    {
+      "name": "Obecní knihovna Jiřice",
+      "latitude": 49.553517,
+      "longitude": 15.318323
+    },
+    {
+      "name": "Místní knihovna Komorovice",
+      "latitude": 49.509017,
+      "longitude": 15.345334
+    },
+    {
+      "name": "Obecní knihovna Mikulášov",
+      "latitude": 49.507736,
+      "longitude": 15.418702
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.429048,
+      "longitude": 15.36563
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.805505,
+      "longitude": 16.114579
+    },
+    {
+      "name": "‎Knihovna Ignáta Herrmanna",
+      "latitude": 49.718345,
+      "longitude": 15.669564
+    },
+    {
+      "name": "Krajská knihovna Vysočiny",
+      "latitude": 49.617127,
+      "longitude": 15.543585
+    },
+    {
+      "name": "Lékařská knihovna Psychiatrické léčebny",
+      "latitude": 49.612946,
+      "longitude": 15.563415
+    },
+    {
+      "name": "Městská knihovna Svitavy",
+      "latitude": 49.756172,
+      "longitude": 16.472209
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.829576,
+      "longitude": 16.639993
+    },
+    {
+      "name": "Městská knihovna Ladislava z Boskovic",
+      "latitude": 49.757086,
+      "longitude": 16.666406
+    },
+    {
+      "name": "knihovna",
+      "latitude": 49.704096,
+      "longitude": 16.227013
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.714793,
+      "longitude": 16.264659
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.630703,
+      "longitude": 16.300061
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.624943,
+      "longitude": 16.372802
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.67925,
+      "longitude": 16.81388
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.612034,
+      "longitude": 16.679022
+    },
+    {
+      "name": "Obecní knihovna Březinky",
+      "latitude": 49.662798,
+      "longitude": 16.787062
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.664603,
+      "longitude": 16.809267
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.650435,
+      "longitude": 16.835664
+    },
+    {
+      "name": "Obecní knihovna Jaroměřice",
+      "latitude": 49.625112,
+      "longitude": 16.752863
+    },
+    {
+      "name": "Krajská knihovna Vysočiny",
+      "latitude": 49.606341,
+      "longitude": 15.578803
+    },
+    {
+      "name": "Krajská knihovna Vysočiny",
+      "latitude": 49.604559,
+      "longitude": 15.583499
+    },
+    {
+      "name": "Obecní knihovna Okrouhlička",
+      "latitude": 49.535206,
+      "longitude": 15.554196
+    },
+    {
+      "name": "Místní knihovna Štoky",
+      "latitude": 49.504241,
+      "longitude": 15.589924
+    },
+    {
+      "name": "Místní knihovna Kamenná",
+      "latitude": 49.51041,
+      "longitude": 15.650565
+    },
+    {
+      "name": "Knihovna Matěje Josefa Sychry",
+      "latitude": 49.564593,
+      "longitude": 15.93884
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.527259,
+      "longitude": 16.122185
+    },
+    {
+      "name": "Husova knihovna",
+      "latitude": 49.488189,
+      "longitude": 15.717195
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.396774,
+      "longitude": 15.591409
+    },
+    {
+      "name": "Městská knihovna Jihlava, pobočka Horní Kosov",
+      "latitude": 49.404853,
+      "longitude": 15.557231
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.522416,
+      "longitude": 16.26153
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.519161,
+      "longitude": 16.482935
+    },
+    {
+      "name": "Obecní knihovna Lazinov",
+      "latitude": 49.562716,
+      "longitude": 16.52505
+    },
+    {
+      "name": "Obecní knihovna Borotín",
+      "latitude": 49.581281,
+      "longitude": 16.669829
+    },
+    {
+      "name": "Obecní knihovna Vanovice",
+      "latitude": 49.568381,
+      "longitude": 16.660651
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.608529,
+      "longitude": 16.862306
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.56569,
+      "longitude": 16.719928
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.581559,
+      "longitude": 16.816152
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.536171,
+      "longitude": 16.529996
+    },
+    {
+      "name": "Městská knihovna Letovice",
+      "latitude": 49.546132,
+      "longitude": 16.572167
+    },
+    {
+      "name": "Místní lidová knihovna Vážany",
+      "latitude": 49.529457,
+      "longitude": 16.691379
+    },
+    {
+      "name": "Knihovna Svitávka",
+      "latitude": 49.504156,
+      "longitude": 16.597426
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.530296,
+      "longitude": 16.754111
+    },
+    {
+      "name": "Obecní knihovna Lipová",
+      "latitude": 49.52792,
+      "longitude": 16.862571
+    },
+    {
+      "name": "Obecní knihovna Brodek u Konice",
+      "latitude": 49.54868,
+      "longitude": 16.831474
+    },
+    {
+      "name": "Obecní knihovna Kunice",
+      "latitude": 49.479251,
+      "longitude": 16.491224
+    },
+    {
+      "name": "Obecní knihovna Brumov",
+      "latitude": 49.462249,
+      "longitude": 16.425019
+    },
+    {
+      "name": "Obecní knihovna Běleč",
+      "latitude": 49.434373,
+      "longitude": 16.382475
+    },
+    {
+      "name": "Místní knihovna Borač",
+      "latitude": 49.400541,
+      "longitude": 16.360893
+    },
+    {
+      "name": "Obecní knihovna Rohozec",
+      "latitude": 49.389654,
+      "longitude": 16.484691
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.453335,
+      "longitude": 16.537996
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.440155,
+      "longitude": 16.624397
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.468843,
+      "longitude": 16.756331
+    },
+    {
+      "name": "Modračka",
+      "latitude": 49.455575,
+      "longitude": 16.733939
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.412675,
+      "longitude": 16.580456
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.412641,
+      "longitude": 16.637458
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.435684,
+      "longitude": 16.679002
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.414834,
+      "longitude": 16.70129
+    },
+    {
+      "name": "Knihovna ve Veselici",
+      "latitude": 49.39345,
+      "longitude": 16.706606
+    },
+    {
+      "name": "Místní knihovna Vavřinec",
+      "latitude": 49.402198,
+      "longitude": 16.72053
+    },
+    {
+      "name": "Městká knihovna Písek",
+      "latitude": 49.308066,
+      "longitude": 14.149229
+    },
+    {
+      "name": "Městká knihovna Písek",
+      "latitude": 49.307576,
+      "longitude": 14.149553
+    },
+    {
+      "name": "Knihovna Sezimovo Ústí, Školní náměstí",
+      "latitude": 49.380801,
+      "longitude": 14.705864
+    },
+    {
+      "name": "Městská knihovna Bechyně",
+      "latitude": 49.300212,
+      "longitude": 14.476081
+    },
+    {
+      "name": "Obecní knihovna Skalice",
+      "latitude": 49.303045,
+      "longitude": 14.695738
+    },
+    {
+      "name": "Obecní knihovna Putim",
+      "latitude": 49.263769,
+      "longitude": 14.119339
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.255321,
+      "longitude": 14.306727
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.180496,
+      "longitude": 14.525956
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.299937,
+      "longitude": 15.074984
+    },
+    {
+      "name": "Městská knihovna Horní Cerekev",
+      "latitude": 49.319461,
+      "longitude": 15.32836
+    },
+    {
+      "name": "Knihovna Česká Olešná",
+      "latitude": 49.192582,
+      "longitude": 15.169106
+    },
+    {
+      "name": "Vlasty Javořické",
+      "latitude": 49.18679,
+      "longitude": 15.283646
+    },
+    {
+      "name": "Knihovna Viléma Martínka",
+      "latitude": 49.158537,
+      "longitude": 15.201662
+    },
+    {
+      "name": "Knihovna Gelasta Vodňanského",
+      "latitude": 49.147563,
+      "longitude": 14.172449
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.122627,
+      "longitude": 14.078259
+    },
+    {
+      "name": "Obecní knihovna Dívčice",
+      "latitude": 49.106169,
+      "longitude": 14.300268
+    },
+    {
+      "name": "Obecní knihovna Olešník",
+      "latitude": 49.108037,
+      "longitude": 14.364733
+    },
+    {
+      "name": "Obecní knihovna Nákří",
+      "latitude": 49.1161,
+      "longitude": 14.330906
+    },
+    {
+      "name": "Obecní knihovna Velice",
+      "latitude": 49.12282,
+      "longitude": 14.361381
+    },
+    {
+      "name": "Městská knihovna Netolice",
+      "latitude": 49.048916,
+      "longitude": 14.19804
+    },
+    {
+      "name": "Knihovna Zahájí",
+      "latitude": 49.08888,
+      "longitude": 14.371187
+    },
+    {
+      "name": "Obecní knihovna Mydlovary",
+      "latitude": 49.092446,
+      "longitude": 14.353859
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.099644,
+      "longitude": 14.571052
+    },
+    {
+      "name": "Lidová knihovna",
+      "latitude": 49.148732,
+      "longitude": 14.654281
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.151158,
+      "longitude": 14.725122
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.082106,
+      "longitude": 14.718702
+    },
+    {
+      "name": "Obecní Knihovna Brloh",
+      "latitude": 48.929322,
+      "longitude": 14.221516
+    },
+    {
+      "name": "Lidová knihovna",
+      "latitude": 49.025675,
+      "longitude": 14.441939
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.012219,
+      "longitude": 14.506384
+    },
+    {
+      "name": "Jihočeská vědecká knihovna",
+      "latitude": 48.980333,
+      "longitude": 14.446551
+    },
+    {
+      "name": "Jihočeská vědecká knihovna",
+      "latitude": 48.990691,
+      "longitude": 14.455153
+    },
+    {
+      "name": "Luxor",
+      "latitude": 48.983111,
+      "longitude": 14.441938
+    },
+    {
+      "name": "Městská knihovna Lišov",
+      "latitude": 49.015779,
+      "longitude": 14.608755
+    },
+    {
+      "name": "Vědecká knihovna",
+      "latitude": 48.970459,
+      "longitude": 14.47551
+    },
+    {
+      "name": "Jihočeská vědecká knihovna",
+      "latitude": 48.977941,
+      "longitude": 14.476043
+    },
+    {
+      "name": "Nová budova Jihočeské Vědecké Knihovny",
+      "latitude": 48.97017,
+      "longitude": 14.475538
+    },
+    {
+      "name": "Jihočeská vědecká knihovna v Českých Budějovicích",
+      "latitude": 48.974137,
+      "longitude": 14.503
+    },
+    {
+      "name": "Khihovna Vajgar",
+      "latitude": 49.138178,
+      "longitude": 15.020571
+    },
+    {
+      "name": "Městská knihovna Jindřichův Hradec",
+      "latitude": 49.150766,
+      "longitude": 15.010241
+    },
+    {
+      "name": "Místní knihovna Kunžak",
+      "latitude": 49.12256,
+      "longitude": 15.190859
+    },
+    {
+      "name": "knihovna Matěje Mikšíčka",
+      "latitude": 49.07975,
+      "longitude": 15.430576
+    },
+    {
+      "name": "Městská knihovna Třeboň",
+      "latitude": 49.003527,
+      "longitude": 14.766228
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.290575,
+      "longitude": 15.48288
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.29146,
+      "longitude": 15.880494
+    },
+    {
+      "name": "Městská knihovna Třebíč",
+      "latitude": 49.215276,
+      "longitude": 15.878453
+    },
+    {
+      "name": "Lékařská knihovna",
+      "latitude": 49.212685,
+      "longitude": 15.89263
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.21873,
+      "longitude": 15.894449
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.205769,
+      "longitude": 15.847041
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.373379,
+      "longitude": 16.386992
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.358927,
+      "longitude": 16.449491
+    },
+    {
+      "name": "Městská knihovna Tišnov",
+      "latitude": 49.347544,
+      "longitude": 16.423366
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.320554,
+      "longitude": 16.34685
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.288652,
+      "longitude": 16.226702
+    },
+    {
+      "name": "Obecní knihovna Čebín",
+      "latitude": 49.312426,
+      "longitude": 16.478542
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.31198,
+      "longitude": 16.447265
+    },
+    {
+      "name": "Obecní knihovna Moravské Knínice",
+      "latitude": 49.293368,
+      "longitude": 16.501592
+    },
+    {
+      "name": "Městská knihovna Blansko",
+      "latitude": 49.362677,
+      "longitude": 16.643514
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.37933,
+      "longitude": 16.688758
+    },
+    {
+      "name": "Obecní knihovna Svinošice",
+      "latitude": 49.334922,
+      "longitude": 16.573909
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.3324,
+      "longitude": 16.669989
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.355249,
+      "longitude": 16.784377
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.342562,
+      "longitude": 16.753866
+    },
+    {
+      "name": "Místní knihovna Senetářov",
+      "latitude": 49.35371,
+      "longitude": 16.805289
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.304082,
+      "longitude": 16.533271
+    },
+    {
+      "name": "Obecní knihovna Jinačovice",
+      "latitude": 49.267906,
+      "longitude": 16.527593
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.291102,
+      "longitude": 16.57744
+    },
+    {
+      "name": "KJM - Pobočka Jehnice",
+      "latitude": 49.271376,
+      "longitude": 16.596644
+    },
+    {
+      "name": "Obecní knihovna Česká",
+      "latitude": 49.282354,
+      "longitude": 16.564565
+    },
+    {
+      "name": "MKS Adamov",
+      "latitude": 49.290906,
+      "longitude": 16.665234
+    },
+    {
+      "name": "Místní knihovna Křtiny",
+      "latitude": 49.297358,
+      "longitude": 16.743911
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.297727,
+      "longitude": 16.772909
+    },
+    {
+      "name": "Hrabůvka",
+      "latitude": 49.304055,
+      "longitude": 16.72299
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.282376,
+      "longitude": 16.758117
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.254868,
+      "longitude": 16.510957
+    },
+    {
+      "name": "Knihovna Říčany",
+      "latitude": 49.215233,
+      "longitude": 16.393047
+    },
+    {
+      "name": "Obecní knihovna Ostrovačice",
+      "latitude": 49.210167,
+      "longitude": 16.412179
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.182313,
+      "longitude": 16.386195
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.178325,
+      "longitude": 16.488436
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.247482,
+      "longitude": 16.582003
+    },
+    {
+      "name": "KJM Medlánky",
+      "latitude": 49.242242,
+      "longitude": 16.573897
+    },
+    {
+      "name": "KJM Ivanovice",
+      "latitude": 49.264787,
+      "longitude": 16.564918
+    },
+    {
+      "name": "Knihovna Jiřího Mahena v Brně",
+      "latitude": 49.254526,
+      "longitude": 16.623019
+    },
+    {
+      "name": "Obecní knihovna Řícmanice",
+      "latitude": 49.256802,
+      "longitude": 16.691561
+    },
+    {
+      "name": "Obecní knihovna Bílovice nad Svitavou",
+      "latitude": 49.246905,
+      "longitude": 16.672978
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.232208,
+      "longitude": 16.59007
+    },
+    {
+      "name": "Knihovna Jiřího Mahena v Brně",
+      "latitude": 49.216501,
+      "longitude": 16.576034
+    },
+    {
+      "name": "Knihovna Jiřího Mahena Brno Komín",
+      "latitude": 49.222013,
+      "longitude": 16.552256
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.236003,
+      "longitude": 16.527319
+    },
+    {
+      "name": "KJM",
+      "latitude": 49.221452,
+      "longitude": 16.528034
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.218058,
+      "longitude": 16.620665
+    },
+    {
+      "name": "Knihovna Jiřího Mahena v Brně",
+      "latitude": 49.232834,
+      "longitude": 16.623858
+    },
+    {
+      "name": "Knihovna Jiřího Mahena v Brně",
+      "latitude": 49.215563,
+      "longitude": 16.644189
+    },
+    {
+      "name": "Obecní úřad a knihovna",
+      "latitude": 49.23939,
+      "longitude": 16.771932
+    },
+    {
+      "name": "Obecní knihovna Mokrá-Horákov",
+      "latitude": 49.218046,
+      "longitude": 16.755254
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.19517,
+      "longitude": 16.609624
+    },
+    {
+      "name": "Odborná knihovna Masarykova onkologického ústavu",
+      "latitude": 49.194679,
+      "longitude": 16.587015
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.207414,
+      "longitude": 16.554942
+    },
+    {
+      "name": "Mahenův Památník",
+      "latitude": 49.196272,
+      "longitude": 16.586839
+    },
+    {
+      "name": "Knihovna Právnické fakulty MU",
+      "latitude": 49.208144,
+      "longitude": 16.592577
+    },
+    {
+      "name": "Lékařská knihovna nemocnice U sv. Anny",
+      "latitude": 49.190688,
+      "longitude": 16.600666
+    },
+    {
+      "name": "Knihovna Ústavu územního rozvoje",
+      "latitude": 49.196926,
+      "longitude": 16.608109
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.187328,
+      "longitude": 16.594192
+    },
+    {
+      "name": "Knihovny Semináře dějin umění",
+      "latitude": 49.200561,
+      "longitude": 16.601277
+    },
+    {
+      "name": "Moravian Library",
+      "latitude": 49.208627,
+      "longitude": 16.594135
+    },
+    {
+      "name": "Ústřední knihovna FF MU",
+      "latitude": 49.200559,
+      "longitude": 16.597449
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.18805,
+      "longitude": 16.53546
+    },
+    {
+      "name": "Depozitář Moravské zemské knihovny",
+      "latitude": 49.208946,
+      "longitude": 16.592321
+    },
+    {
+      "name": "Knihovna Jiřího Mahena v Brně (pobočka Brno-Líšeň)",
+      "latitude": 49.207619,
+      "longitude": 16.685942
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.202133,
+      "longitude": 16.64058
+    },
+    {
+      "name": "Knihovna Janáčkovy akademie múzických umění v Brně",
+      "latitude": 49.194683,
+      "longitude": 16.613025
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.204928,
+      "longitude": 16.661217
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.209677,
+      "longitude": 16.629727
+    },
+    {
+      "name": "Knihovna Jiřího Mahena v Brně",
+      "latitude": 49.176164,
+      "longitude": 16.55394
+    },
+    {
+      "name": "Knihovna Univerzitního Kampusu",
+      "latitude": 49.177027,
+      "longitude": 16.570615
+    },
+    {
+      "name": "KJM pobočka Starý Lískovec",
+      "latitude": 49.168229,
+      "longitude": 16.555721
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.165877,
+      "longitude": 16.578501
+    },
+    {
+      "name": "Knihovna Jiřího Mahena Bosonohy",
+      "latitude": 49.171364,
+      "longitude": 16.530182
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.162775,
+      "longitude": 16.541307
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.176253,
+      "longitude": 16.624278
+    },
+    {
+      "name": "KJM Brno - Slatina",
+      "latitude": 49.178709,
+      "longitude": 16.684847
+    },
+    {
+      "name": "Knihovna Jiřího Mahena",
+      "latitude": 49.163706,
+      "longitude": 16.611767
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.196163,
+      "longitude": 16.75122
+    },
+    {
+      "name": "Květy Legátové",
+      "latitude": 49.190827,
+      "longitude": 16.725096
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.191089,
+      "longitude": 16.774548
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.208513,
+      "longitude": 16.788528
+    },
+    {
+      "name": "Městská knihovna Šlapanice",
+      "latitude": 49.168934,
+      "longitude": 16.724379
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.154902,
+      "longitude": 16.874679
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.102315,
+      "longitude": 15.497675
+    },
+    {
+      "name": "Obecní knihovna Želetava",
+      "latitude": 49.142196,
+      "longitude": 15.673654
+    },
+    {
+      "name": "knihovna",
+      "latitude": 49.085445,
+      "longitude": 15.479429
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 48.983068,
+      "longitude": 15.698132
+    },
+    {
+      "name": "Knihovna Šumná",
+      "latitude": 48.922877,
+      "longitude": 15.871032
+    },
+    {
+      "name": "Obecní knihovna Lhánice",
+      "latitude": 49.109371,
+      "longitude": 16.220123
+    },
+    {
+      "name": "Knihovna městyse Mohelno",
+      "latitude": 49.113928,
+      "longitude": 16.190813
+    },
+    {
+      "name": "Místní lidová knihovna Hlína",
+      "latitude": 49.114196,
+      "longitude": 16.426817
+    },
+    {
+      "name": "Obecní knihovna Silůvky",
+      "latitude": 49.106644,
+      "longitude": 16.465617
+    },
+    {
+      "name": "Obecní knihovna Ořechov",
+      "latitude": 49.110992,
+      "longitude": 16.515099
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.070222,
+      "longitude": 16.466775
+    },
+    {
+      "name": "Městská knihovna Modřice",
+      "latitude": 49.127914,
+      "longitude": 16.61458
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.117435,
+      "longitude": 16.584152
+    },
+    {
+      "name": "Obecní knihovna Rebešovice",
+      "latitude": 49.104844,
+      "longitude": 16.634482
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.136825,
+      "longitude": 16.733193
+    },
+    {
+      "name": "Městská Jiráskova knihovna",
+      "latitude": 49.104532,
+      "longitude": 16.755215
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.101009,
+      "longitude": 16.717769
+    },
+    {
+      "name": "Obecní knihovna Rajhradice",
+      "latitude": 49.091644,
+      "longitude": 16.635645
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.084992,
+      "longitude": 16.852428
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 48.957089,
+      "longitude": 16.209825
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 48.977732,
+      "longitude": 16.319263
+    },
+    {
+      "name": "Obecní knihovna Nosislav",
+      "latitude": 49.011854,
+      "longitude": 16.654455
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.013508,
+      "longitude": 16.780558
+    },
+    {
+      "name": "Diváky",
+      "latitude": 48.989366,
+      "longitude": 16.78781
+    },
+    {
+      "name": "Obecní knihovna Starovice",
+      "latitude": 48.953346,
+      "longitude": 16.708464
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.937226,
+      "longitude": 16.73405
+    },
+    {
+      "name": "Obecnî knihovna",
+      "latitude": 48.934516,
+      "longitude": 16.821003
+    },
+    {
+      "name": "Knihovna Rudolfa Zubera",
+      "latitude": 50.392858,
+      "longitude": 17.005614
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.3718,
+      "longitude": 17.18571
+    },
+    {
+      "name": "Knihovna Vincence Priessnitze",
+      "latitude": 50.228309,
+      "longitude": 17.201428
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.198779,
+      "longitude": 17.193716
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 50.105227,
+      "longitude": 17.447851
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 50.088624,
+      "longitude": 17.707569
+    },
+    {
+      "name": "Knihovna Velké Losiny",
+      "latitude": 50.032391,
+      "longitude": 17.040149
+    },
+    {
+      "name": "Obecní knihovna Vikýřovice",
+      "latitude": 49.981459,
+      "longitude": 17.010856
+    },
+    {
+      "name": "Městská knihovna T.G. Masaryka Šumperk",
+      "latitude": 49.961793,
+      "longitude": 16.977382
+    },
+    {
+      "name": "Městská knihovna Bruntál",
+      "latitude": 49.989099,
+      "longitude": 17.45719
+    },
+    {
+      "name": "Místní knihovna Dolní Studénky",
+      "latitude": 49.935362,
+      "longitude": 16.971352
+    },
+    {
+      "name": "Místní knihovna Sudkov",
+      "latitude": 49.920128,
+      "longitude": 16.945577
+    },
+    {
+      "name": "Městská knihovna Zábřeh",
+      "latitude": 49.881496,
+      "longitude": 16.877378
+    },
+    {
+      "name": "Městská knihovna Rýmařov",
+      "latitude": 49.932497,
+      "longitude": 17.268542
+    },
+    {
+      "name": "Knihovna Úvalno",
+      "latitude": 50.046926,
+      "longitude": 17.74102
+    },
+    {
+      "name": "Knihovna Petra Bezruče Opava",
+      "latitude": 49.935264,
+      "longitude": 17.905759
+    },
+    {
+      "name": "Knihovna Slezského zemského muzea",
+      "latitude": 49.934329,
+      "longitude": 17.904153
+    },
+    {
+      "name": "knihovna",
+      "latitude": 49.933264,
+      "longitude": 17.972496
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.946028,
+      "longitude": 18.255794
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.92608,
+      "longitude": 18.269658
+    },
+    {
+      "name": "Městská knihovna Hlučín",
+      "latitude": 49.896425,
+      "longitude": 18.185434
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.884561,
+      "longitude": 17.934831
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.861273,
+      "longitude": 18.039579
+    },
+    {
+      "name": "Knihovna Dolní Lhota",
+      "latitude": 49.840179,
+      "longitude": 18.091986
+    },
+    {
+      "name": "Místní knihovna Velká Polom",
+      "latitude": 49.863959,
+      "longitude": 18.093598
+    },
+    {
+      "name": "Knihovna města Ostravy - pobočka Podroužkova",
+      "latitude": 49.845399,
+      "longitude": 18.171682
+    },
+    {
+      "name": "L. Podéště",
+      "latitude": 49.84432,
+      "longitude": 18.156017
+    },
+    {
+      "name": "Knihovna Hošťálkovice",
+      "latitude": 49.847939,
+      "longitude": 18.214832
+    },
+    {
+      "name": "Gminna Biblioteka Publiczna w Krzyżanowicach. Filia Chałupki",
+      "latitude": 49.922342,
+      "longitude": 18.321503
+    },
+    {
+      "name": "Městská knihovna Bohumín",
+      "latitude": 49.905312,
+      "longitude": 18.358328
+    },
+    {
+      "name": "Městská knihovna Orlová",
+      "latitude": 49.871037,
+      "longitude": 18.424782
+    },
+    {
+      "name": "Moravskoslezská vědecká knihovna",
+      "latitude": 49.841059,
+      "longitude": 18.290809
+    },
+    {
+      "name": "Knihovna města Ostravy - pobočka Michálkovice",
+      "latitude": 49.839467,
+      "longitude": 18.346013
+    },
+    {
+      "name": "Regionální knihovna Karviná",
+      "latitude": 49.854435,
+      "longitude": 18.541109
+    },
+    {
+      "name": "Regionální knihovna Karviná",
+      "latitude": 49.855945,
+      "longitude": 18.554314
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.796431,
+      "longitude": 17.222775
+    },
+    {
+      "name": "Městská knihovna Loštice",
+      "latitude": 49.743884,
+      "longitude": 16.927449
+    },
+    {
+      "name": "Městská knihovna Uničov",
+      "latitude": 49.771882,
+      "longitude": 17.12321
+    },
+    {
+      "name": "Veřejná knihovna",
+      "latitude": 49.704796,
+      "longitude": 16.892576
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.702955,
+      "longitude": 17.074064
+    },
+    {
+      "name": "Obecní knihovna Náklo",
+      "latitude": 49.660911,
+      "longitude": 17.119772
+    },
+    {
+      "name": "Místní knihovna Skrbeň",
+      "latitude": 49.642843,
+      "longitude": 17.179305
+    },
+    {
+      "name": "Městská knihovna ve Vítkově",
+      "latitude": 49.778919,
+      "longitude": 17.753601
+    },
+    {
+      "name": "Knihovna Vřesina",
+      "latitude": 49.826858,
+      "longitude": 18.12753
+    },
+    {
+      "name": "KMO Opavská",
+      "latitude": 49.833735,
+      "longitude": 18.173676
+    },
+    {
+      "name": "Ústřední knihovna (UK)",
+      "latitude": 49.831385,
+      "longitude": 18.162515
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.812428,
+      "longitude": 18.271884
+    },
+    {
+      "name": "Knihovna města Ostravy, pobočka Jiřího Trnky",
+      "latitude": 49.834092,
+      "longitude": 18.259393
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.788645,
+      "longitude": 18.162485
+    },
+    {
+      "name": "Knihovna města Ostravy",
+      "latitude": 49.784406,
+      "longitude": 18.261103
+    },
+    {
+      "name": "Městská knihovna Bílovec",
+      "latitude": 49.759606,
+      "longitude": 18.018903
+    },
+    {
+      "name": "Knihovna města Ostravy",
+      "latitude": 49.779541,
+      "longitude": 18.276943
+    },
+    {
+      "name": "Obecní knihovna Stará Ves nad Ondřeinicí",
+      "latitude": 49.727925,
+      "longitude": 18.188474
+    },
+    {
+      "name": "Obecní knihovna Krmelín",
+      "latitude": 49.731227,
+      "longitude": 18.234851
+    },
+    {
+      "name": "Městská knihovna Odry",
+      "latitude": 49.662492,
+      "longitude": 17.829996
+    },
+    {
+      "name": "Mankovice",
+      "latitude": 49.637213,
+      "longitude": 17.88315
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.612477,
+      "longitude": 17.904672
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.669073,
+      "longitude": 18.053928
+    },
+    {
+      "name": "Městská knihovna Brušperk",
+      "latitude": 49.700383,
+      "longitude": 18.223531
+    },
+    {
+      "name": "Obecní knihovna Mošnov",
+      "latitude": 49.689015,
+      "longitude": 18.132485
+    },
+    {
+      "name": "Městská knihovna Příbor",
+      "latitude": 49.640986,
+      "longitude": 18.140918
+    },
+    {
+      "name": "Městská knihovna Příbor - Prchalov",
+      "latitude": 49.647772,
+      "longitude": 18.120675
+    },
+    {
+      "name": "Obecní knihovna Skotnice",
+      "latitude": 49.659261,
+      "longitude": 18.137915
+    },
+    {
+      "name": "Knihovna Hukvaldy",
+      "latitude": 49.630844,
+      "longitude": 18.21911
+    },
+    {
+      "name": "Místní knihovna Březsko",
+      "latitude": 49.608195,
+      "longitude": 16.891869
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.510957,
+      "longitude": 17.041625
+    },
+    {
+      "name": "Místní knihovna Lešany",
+      "latitude": 49.498771,
+      "longitude": 17.023993
+    },
+    {
+      "name": "Obecní knihovna Zdětín",
+      "latitude": 49.50551,
+      "longitude": 16.989725
+    },
+    {
+      "name": "Místní knihovna Slatinky",
+      "latitude": 49.547786,
+      "longitude": 17.094382
+    },
+    {
+      "name": "Arcibiskupská knihovna",
+      "latitude": 49.595334,
+      "longitude": 17.260845
+    },
+    {
+      "name": "Centrum Aletti",
+      "latitude": 49.595599,
+      "longitude": 17.258115
+    },
+    {
+      "name": "Knihovna PřF UP",
+      "latitude": 49.59199,
+      "longitude": 17.263043
+    },
+    {
+      "name": "Knihovna CMTF UPOL",
+      "latitude": 49.594463,
+      "longitude": 17.254586
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.589905,
+      "longitude": 17.271312
+    },
+    {
+      "name": "Ústřední knihovna UP (Zbrojnice)",
+      "latitude": 49.595231,
+      "longitude": 17.259752
+    },
+    {
+      "name": "Knihovna města Olomouce",
+      "latitude": 49.594721,
+      "longitude": 17.230984
+    },
+    {
+      "name": "Vědecká knihovna",
+      "latitude": 49.593514,
+      "longitude": 17.246729
+    },
+    {
+      "name": "Knihovna města Olomouce",
+      "latitude": 49.596243,
+      "longitude": 17.258237
+    },
+    {
+      "name": "Knihovna města Olomouce",
+      "latitude": 49.589963,
+      "longitude": 17.271498
+    },
+    {
+      "name": "Veřejná knihovna Jaromíra Balcárka ve Velké Bystřici",
+      "latitude": 49.593142,
+      "longitude": 17.358989
+    },
+    {
+      "name": "Knihovna města Olomouce - Nová Ulice",
+      "latitude": 49.576298,
+      "longitude": 17.23695
+    },
+    {
+      "name": "Knihovna Čechovice",
+      "latitude": 49.554602,
+      "longitude": 17.358936
+    },
+    {
+      "name": "Knihovna Radvanice",
+      "latitude": 49.509765,
+      "longitude": 17.477648
+    },
+    {
+      "name": "Obecní Knihovna",
+      "latitude": 49.511663,
+      "longitude": 17.527305
+    },
+    {
+      "name": "Knihovna pro děti - Městská knihovna Prostějov",
+      "latitude": 49.474063,
+      "longitude": 17.108596
+    },
+    {
+      "name": "Městská knihovna Prostějov",
+      "latitude": 49.474221,
+      "longitude": 17.107833
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.407281,
+      "longitude": 17.031665
+    },
+    {
+      "name": "Obecní Knihovna Výšovice",
+      "latitude": 49.416439,
+      "longitude": 17.140028
+    },
+    {
+      "name": "Místní lidová knihovna Vřesovice",
+      "latitude": 49.400352,
+      "longitude": 17.141636
+    },
+    {
+      "name": "Městská knihovna v Přerově",
+      "latitude": 49.483651,
+      "longitude": 17.445834
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.454687,
+      "longitude": 17.452267
+    },
+    {
+      "name": "Obecní knihovna Uhřínov",
+      "latitude": 49.58692,
+      "longitude": 17.647341
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.526288,
+      "longitude": 17.585824
+    },
+    {
+      "name": "Místní Knihovna",
+      "latitude": 49.517192,
+      "longitude": 17.618247
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.609573,
+      "longitude": 17.947502
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.600521,
+      "longitude": 18.076318
+    },
+    {
+      "name": "Knihovna Starý Jičín",
+      "latitude": 49.577002,
+      "longitude": 17.959409
+    },
+    {
+      "name": "Městská knihovna Kopřivnice",
+      "latitude": 49.599215,
+      "longitude": 18.144448
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.564014,
+      "longitude": 18.169954
+    },
+    {
+      "name": "Obecní knihovna Ženklava",
+      "latitude": 49.563214,
+      "longitude": 18.107705
+    },
+    {
+      "name": "Obecní knihovna Mořkov",
+      "latitude": 49.537678,
+      "longitude": 18.057982
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.543907,
+      "longitude": 18.214989
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.4264,
+      "longitude": 17.592773
+    },
+    {
+      "name": "Muzejní knihovna",
+      "latitude": 49.47832,
+      "longitude": 17.968416
+    },
+    {
+      "name": "Knihovna Valašské Meziříčí",
+      "latitude": 49.474895,
+      "longitude": 17.972089
+    },
+    {
+      "name": "Knihovna Zubří",
+      "latitude": 49.470999,
+      "longitude": 18.091886
+    },
+    {
+      "name": "Městská knihovna Rožnov",
+      "latitude": 49.462813,
+      "longitude": 18.143231
+    },
+    {
+      "name": "Obecní knihovna Vigantice",
+      "latitude": 49.440545,
+      "longitude": 18.193702
+    },
+    {
+      "name": "Veřejná knihovna Malá Bystřice",
+      "latitude": 49.406202,
+      "longitude": 18.049365
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.414403,
+      "longitude": 18.109496
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.435219,
+      "longitude": 18.253524
+    },
+    {
+      "name": "Knihovna města Ostravy",
+      "latitude": 49.813068,
+      "longitude": 18.336405
+    },
+    {
+      "name": "Knihovna města Ostravy",
+      "latitude": 49.837397,
+      "longitude": 18.295612
+    },
+    {
+      "name": "Městská knihovna Havířov",
+      "latitude": 49.800834,
+      "longitude": 18.414715
+    },
+    {
+      "name": "Městská knihovna Havířov - pobočka Hosnosušská",
+      "latitude": 49.783916,
+      "longitude": 18.45369
+    },
+    {
+      "name": "Obecní knihovna Těrlicko",
+      "latitude": 49.751578,
+      "longitude": 18.483271
+    },
+    {
+      "name": "Książnica Cieszyńska",
+      "latitude": 49.750364,
+      "longitude": 18.629518
+    },
+    {
+      "name": "Čítárna a kavárna Avion|Noiva",
+      "latitude": 49.749406,
+      "longitude": 18.626397
+    },
+    {
+      "name": "Biblioteka Publiczna Miejska",
+      "latitude": 49.748853,
+      "longitude": 18.631182
+    },
+    {
+      "name": "Ústřední knihovna na Ostravské",
+      "latitude": 49.745993,
+      "longitude": 18.612888
+    },
+    {
+      "name": "Knihovna Silesia",
+      "latitude": 49.747176,
+      "longitude": 18.623921
+    },
+    {
+      "name": "Knihovna na Havlíčkové",
+      "latitude": 49.744761,
+      "longitude": 18.625373
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.709336,
+      "longitude": 18.304752
+    },
+    {
+      "name": "Místní knihovna Pazderna",
+      "latitude": 49.703307,
+      "longitude": 18.435669
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.677393,
+      "longitude": 18.345171
+    },
+    {
+      "name": "Obecní knihovna Staré Město",
+      "latitude": 49.669139,
+      "longitude": 18.365083
+    },
+    {
+      "name": "Obecní knihovna Sviadnov",
+      "latitude": 49.688185,
+      "longitude": 18.326152
+    },
+    {
+      "name": "Městská knihovna Frýdek-Místek",
+      "latitude": 49.684652,
+      "longitude": 18.356869
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.674596,
+      "longitude": 18.413776
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.680984,
+      "longitude": 18.465397
+    },
+    {
+      "name": "Knihovna Nošovice",
+      "latitude": 49.656804,
+      "longitude": 18.428739
+    },
+    {
+      "name": "Knihovna Vyšní Lhoty",
+      "latitude": 49.641123,
+      "longitude": 18.451688
+    },
+    {
+      "name": "Městská knihovna Frýdek-Místek",
+      "latitude": 49.654292,
+      "longitude": 18.400395
+    },
+    {
+      "name": "knihovna",
+      "latitude": 49.64444,
+      "longitude": 18.370301
+    },
+    {
+      "name": "Obecní knihovna Janovice",
+      "latitude": 49.622143,
+      "longitude": 18.407701
+    },
+    {
+      "name": "Obecní knihovna Raškovice",
+      "latitude": 49.619761,
+      "longitude": 18.472721
+    },
+    {
+      "name": "Městská knihovna Třinec",
+      "latitude": 49.67071,
+      "longitude": 18.674836
+    },
+    {
+      "name": "Místní knihovna Vendryně",
+      "latitude": 49.663715,
+      "longitude": 18.704156
+    },
+    {
+      "name": "Místní knihovna Bystřice",
+      "latitude": 49.639301,
+      "longitude": 18.722708
+    },
+    {
+      "name": "Obecní knihovna Nýdek",
+      "latitude": 49.65912,
+      "longitude": 18.764011
+    },
+    {
+      "name": "Knihovna Pstruží",
+      "latitude": 49.564778,
+      "longitude": 18.335595
+    },
+    {
+      "name": "knihovna Morávka",
+      "latitude": 49.600634,
+      "longitude": 18.515452
+    },
+    {
+      "name": "Krásná",
+      "latitude": 49.580529,
+      "longitude": 18.479731
+    },
+    {
+      "name": "Místní knihovna Milíkov",
+      "latitude": 49.586461,
+      "longitude": 18.719854
+    },
+    {
+      "name": "Obecní knihovna Návsí",
+      "latitude": 49.587304,
+      "longitude": 18.759927
+    },
+    {
+      "name": "Knihovna Jablunkov",
+      "latitude": 49.574341,
+      "longitude": 18.763456
+    },
+    {
+      "name": "Staré Hamry",
+      "latitude": 49.468151,
+      "longitude": 18.432613
+    },
+    {
+      "name": "Knihovna Bílá",
+      "latitude": 49.442176,
+      "longitude": 18.452904
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.360552,
+      "longitude": 17.139312
+    },
+    {
+      "name": "Obecní knihovna Doloplazy",
+      "latitude": 49.351379,
+      "longitude": 17.159774
+    },
+    {
+      "name": "Zámecká knihovna",
+      "latitude": 49.329898,
+      "longitude": 17.198087
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 49.298535,
+      "longitude": 16.892126
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.324207,
+      "longitude": 17.000294
+    },
+    {
+      "name": "Knihovna Drnovice",
+      "latitude": 49.276644,
+      "longitude": 16.952646
+    },
+    {
+      "name": "Knihovna Pístovice",
+      "latitude": 49.274155,
+      "longitude": 16.890793
+    },
+    {
+      "name": "Knihovna Karla Dvořáčka",
+      "latitude": 49.277567,
+      "longitude": 16.997034
+    },
+    {
+      "name": "Místní knihovna Koválovice-Osíčany",
+      "latitude": 49.278905,
+      "longitude": 17.171752
+    },
+    {
+      "name": "Knihovna Uhřičice",
+      "latitude": 49.371592,
+      "longitude": 17.292004
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.355948,
+      "longitude": 17.361212
+    },
+    {
+      "name": "Městská knihovna Chropyně",
+      "latitude": 49.358855,
+      "longitude": 17.363572
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.331956,
+      "longitude": 17.42138
+    },
+    {
+      "name": "Obecní knihovna Břest",
+      "latitude": 49.350802,
+      "longitude": 17.440682
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.333399,
+      "longitude": 17.578077
+    },
+    {
+      "name": "Knihovna Holešov, pobočka Količín",
+      "latitude": 49.332476,
+      "longitude": 17.528968
+    },
+    {
+      "name": "Městská knihovna Holešov",
+      "latitude": 49.351838,
+      "longitude": 17.576749
+    },
+    {
+      "name": "Knihovna Kroměřížska",
+      "latitude": 49.292162,
+      "longitude": 17.395278
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.306117,
+      "longitude": 17.560091
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.325013,
+      "longitude": 17.499544
+    },
+    {
+      "name": "Městská knihovna Rousínov",
+      "latitude": 49.203624,
+      "longitude": 16.88036
+    },
+    {
+      "name": "Knižní klub Kroužek",
+      "latitude": 49.194073,
+      "longitude": 16.896358
+    },
+    {
+      "name": "Obecní knihovna Kojátky",
+      "latitude": 49.17232,
+      "longitude": 17.029981
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.203353,
+      "longitude": 17.206881
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.254016,
+      "longitude": 17.494186
+    },
+    {
+      "name": "Městská knihovna - pobočka Otrokovice",
+      "latitude": 49.216348,
+      "longitude": 17.511839
+    },
+    {
+      "name": "Knihovna Žlutava",
+      "latitude": 49.201192,
+      "longitude": 17.490355
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.172126,
+      "longitude": 17.515072
+    },
+    {
+      "name": "Obecní knihovna Jankovice",
+      "latitude": 49.354885,
+      "longitude": 17.622176
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.377361,
+      "longitude": 17.671178
+    },
+    {
+      "name": "Městská knihovna Holešov",
+      "latitude": 49.34355,
+      "longitude": 17.603559
+    },
+    {
+      "name": "Městská knihovna Holešov",
+      "latitude": 49.333069,
+      "longitude": 17.603545
+    },
+    {
+      "name": "Obecní knihovna na Rusavě",
+      "latitude": 49.347682,
+      "longitude": 17.68939
+    },
+    {
+      "name": "Obecní knihovna v Ratiboři",
+      "latitude": 49.367607,
+      "longitude": 17.911999
+    },
+    {
+      "name": "Knihovna v Kašavě",
+      "latitude": 49.297777,
+      "longitude": 17.787954
+    },
+    {
+      "name": "Masarykova veřejná knihovna",
+      "latitude": 49.339513,
+      "longitude": 17.994058
+    },
+    {
+      "name": "Obecní knihovna Nový Hrozenkov",
+      "latitude": 49.338652,
+      "longitude": 18.200793
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.303903,
+      "longitude": 17.957321
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.304085,
+      "longitude": 18.060031
+    },
+    {
+      "name": "Knihovna Huslenky",
+      "latitude": 49.30326,
+      "longitude": 18.091809
+    },
+    {
+      "name": "Knihovna Halenkov",
+      "latitude": 49.318584,
+      "longitude": 18.145548
+    },
+    {
+      "name": "Občanské centrum Štípa",
+      "latitude": 49.26256,
+      "longitude": 17.717771
+    },
+    {
+      "name": "Knihovna Jižní svahy",
+      "latitude": 49.233784,
+      "longitude": 17.659523
+    },
+    {
+      "name": "Knihovna Univerzity Tomáše Bati ve Zlíně",
+      "latitude": 49.22252,
+      "longitude": 17.66484
+    },
+    {
+      "name": "Krajská knihovna Františka Bartoše",
+      "latitude": 49.225317,
+      "longitude": 17.658279
+    },
+    {
+      "name": "Knihovna Muzea jihovýchodní Moravy ve Zlíně",
+      "latitude": 49.224863,
+      "longitude": 17.658978
+    },
+    {
+      "name": "Obecní knihovna Raková",
+      "latitude": 49.237983,
+      "longitude": 17.818318
+    },
+    {
+      "name": "Knihovna Františka Bartoše",
+      "latitude": 49.206224,
+      "longitude": 17.584546
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.185412,
+      "longitude": 17.660149
+    },
+    {
+      "name": "Obecní knihovna Slopné",
+      "latitude": 49.1553,
+      "longitude": 17.846244
+    },
+    {
+      "name": "Obecní knihovna Lužná",
+      "latitude": 49.243026,
+      "longitude": 18.016706
+    },
+    {
+      "name": "Obecní knihovna Zděchov",
+      "latitude": 49.260755,
+      "longitude": 18.077905
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.176699,
+      "longitude": 17.981936
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 49.130791,
+      "longitude": 17.122025
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.11057,
+      "longitude": 17.13629
+    },
+    {
+      "name": "Knihovna Koryčany",
+      "latitude": 49.106686,
+      "longitude": 17.163346
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.066034,
+      "longitude": 17.027606
+    },
+    {
+      "name": "Městská knihovna Koryčany Jestřabice",
+      "latitude": 49.092432,
+      "longitude": 17.131075
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.149361,
+      "longitude": 17.23391
+    },
+    {
+      "name": "Knihovna Bedřicha Beneše Buchlovana",
+      "latitude": 49.07012,
+      "longitude": 17.461964
+    },
+    {
+      "name": "Knihovna Mistřice",
+      "latitude": 49.086031,
+      "longitude": 17.538704
+    },
+    {
+      "name": "Knihovna Bedřicha Beneše Buchlovana",
+      "latitude": 49.066451,
+      "longitude": 17.449289
+    },
+    {
+      "name": "Knihovna Bedřicha Beneše Buchlovana - Pobočka Mařatice",
+      "latitude": 49.065519,
+      "longitude": 17.480093
+    },
+    {
+      "name": "Obecní knihovna Věteřov",
+      "latitude": 49.031617,
+      "longitude": 17.053938
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 49.011733,
+      "longitude": 17.126607
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 48.981915,
+      "longitude": 17.155051
+    },
+    {
+      "name": "obecní knihovna",
+      "latitude": 48.992043,
+      "longitude": 17.166244
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 48.979347,
+      "longitude": 17.217878
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.028104,
+      "longitude": 17.261851
+    },
+    {
+      "name": "Místní knihovna Veletiny",
+      "latitude": 49.037119,
+      "longitude": 17.561669
+    },
+    {
+      "name": "Městská knihovna Veselí nad Moravou",
+      "latitude": 48.951533,
+      "longitude": 17.382624
+    },
+    {
+      "name": "Základní škola",
+      "latitude": 48.974841,
+      "longitude": 17.471972
+    },
+    {
+      "name": "Veřejná knihovna Řetechov",
+      "latitude": 49.130559,
+      "longitude": 17.749114
+    },
+    {
+      "name": "Obecní knihovna Březolupy",
+      "latitude": 49.121678,
+      "longitude": 17.581345
+    },
+    {
+      "name": "Městská knihovna Luhačovice",
+      "latitude": 49.098052,
+      "longitude": 17.754148
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.122742,
+      "longitude": 17.879368
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.067041,
+      "longitude": 17.710976
+    },
+    {
+      "name": "Knihovna Lhotka",
+      "latitude": 49.05352,
+      "longitude": 17.589582
+    },
+    {
+      "name": "Veřejná knihovna Kladná Žilín",
+      "latitude": 49.086629,
+      "longitude": 17.790036
+    },
+    {
+      "name": "Městská knihovna Slavičín",
+      "latitude": 49.087163,
+      "longitude": 17.879998
+    },
+    {
+      "name": "Městská knihovna Bojkovice",
+      "latitude": 49.039105,
+      "longitude": 17.814537
+    },
+    {
+      "name": "Obecní knihovna Rokytnice",
+      "latitude": 49.065095,
+      "longitude": 17.911326
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.124354,
+      "longitude": 17.93941
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 49.12968,
+      "longitude": 17.967486
+    },
+    {
+      "name": "Městská knihovna Valašské Klobouky",
+      "latitude": 49.140109,
+      "longitude": 18.006255
+    },
+    {
+      "name": "Knihovna Františka Kožíka Uherský Brod",
+      "latitude": 49.025251,
+      "longitude": 17.647365
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 48.945699,
+      "longitude": 17.611897
+    },
+    {
+      "name": "Obecní knihovna ve Starém Hrozenkově",
+      "latitude": 48.967367,
+      "longitude": 17.860749
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 49.363855,
+      "longitude": 18.30616
+    },
+    {
+      "name": "Bücherstube",
+      "latitude": 48.816828,
+      "longitude": 13.771956
+    },
+    {
+      "name": "Obecní knihova Ktiš",
+      "latitude": 48.917711,
+      "longitude": 14.13129
+    },
+    {
+      "name": "Obecní knihovna Chvalšiny",
+      "latitude": 48.852839,
+      "longitude": 14.21451
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.810381,
+      "longitude": 14.316715
+    },
+    {
+      "name": "Veřejná knihovna",
+      "latitude": 48.811276,
+      "longitude": 14.258867
+    },
+    {
+      "name": "Městská knihovna Mír",
+      "latitude": 48.823799,
+      "longitude": 14.329155
+    },
+    {
+      "name": "Knihovna Přísečná",
+      "latitude": 48.832725,
+      "longitude": 14.342574
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 48.812783,
+      "longitude": 14.389835
+    },
+    {
+      "name": "Knihovna Augustina Dubenského",
+      "latitude": 48.898423,
+      "longitude": 14.64171
+    },
+    {
+      "name": "Knihovna",
+      "latitude": 48.824207,
+      "longitude": 14.527668
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.801149,
+      "longitude": 14.310706
+    },
+    {
+      "name": "Knihovna Přídolí",
+      "latitude": 48.781435,
+      "longitude": 14.350444
+    },
+    {
+      "name": "Obecní knihovna Zubčice",
+      "latitude": 48.793379,
+      "longitude": 14.407278
+    },
+    {
+      "name": "Městská knihovna Větřní",
+      "latitude": 48.774174,
+      "longitude": 14.289689
+    },
+    {
+      "name": "Městská knihovna Kaplice",
+      "latitude": 48.737622,
+      "longitude": 14.490761
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 48.735597,
+      "longitude": 14.443161
+    },
+    {
+      "name": "Städtische Bücherei Gmünd",
+      "latitude": 48.771433,
+      "longitude": 14.986115
+    },
+    {
+      "name": "Městská knihovna Vyšší Brod",
+      "latitude": 48.61726,
+      "longitude": 14.311326
+    },
+    {
+      "name": "Knihovna Cisterciáckého opatství Vyšší Brod",
+      "latitude": 48.620471,
+      "longitude": 14.306698
+    },
+    {
+      "name": "Obecní knihovna",
+      "latitude": 48.62133,
+      "longitude": 14.25626
+    },
+    {
+      "name": "Lékařská knihovna Nemocnice Znojmo",
+      "latitude": 48.869466,
+      "longitude": 16.05088
+    },
+    {
+      "name": "BUCHEGG HARDEGG",
+      "latitude": 48.854715,
+      "longitude": 15.859385
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.855316,
+      "longitude": 16.05019
+    },
+    {
+      "name": "Místní lidová knihovna",
+      "latitude": 48.875454,
+      "longitude": 16.626017
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.89903,
+      "longitude": 16.818446
+    },
+    {
+      "name": "Místní knihovna",
+      "latitude": 48.873309,
+      "longitude": 16.764678
+    },
+    {
+      "name": "Obecní knihovna Přítluky",
+      "latitude": 48.855628,
+      "longitude": 16.773566
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.830724,
+      "longitude": 16.848849
+    },
+    {
+      "name": "Městská knihovna Valtice",
+      "latitude": 48.741355,
+      "longitude": 16.755257
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.921738,
+      "longitude": 17.103929
+    },
+    {
+      "name": "Městská knihovna Velké Bílovice",
+      "latitude": 48.854128,
+      "longitude": 16.889184
+    },
+    {
+      "name": "Knihovna Prušánky",
+      "latitude": 48.82837,
+      "longitude": 16.980853
+    },
+    {
+      "name": "Knihovna Hodonín",
+      "latitude": 48.853106,
+      "longitude": 17.126262
+    },
+    {
+      "name": "Městská knihovna",
+      "latitude": 48.898705,
+      "longitude": 17.320479
+    },
+    {
+      "name": "Městská knihovna Břeclav",
+      "latitude": 48.760877,
+      "longitude": 16.881396
+    },
+    {
+      "name": "Místní knihovna Týnec",
+      "latitude": 48.777181,
+      "longitude": 17.012024
+    }
+  ],
+  "meta": {
+    "title": "Knihovny (OSM) - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných knihoven v České republice (928 záznamů) — body zájmu z OpenStreetMap (tag amenity=library), výřez EU-POIS/CZ. Obsahuje 928 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Knihovny (OSM) | ListBase",
+    "seo_description": "Stáhnout Knihovny (OSM) — 928 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 928 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

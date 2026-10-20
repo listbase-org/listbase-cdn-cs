@@ -1,0 +1,1131 @@
+{
+  "id": "cs-kiosky",
+  "name": "Kiosky",
+  "title": "Kiosky",
+  "description": "Seznam pojmenovaných kiosků v České republice (218 záznamů) — body zájmu z OpenStreetMap (tag shop=kiosk), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 218,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Tabac",
+      "latitude": 50.898365,
+      "longitude": 14.619346
+    },
+    {
+      "name": "Večerka Opravy Oděvů",
+      "latitude": 50.781512,
+      "longitude": 14.213472
+    },
+    {
+      "name": "Bistro Kemp",
+      "latitude": 50.774231,
+      "longitude": 14.209445
+    },
+    {
+      "name": "Industrial Bistro",
+      "latitude": 50.767222,
+      "longitude": 15.05897
+    },
+    {
+      "name": "inmedio",
+      "latitude": 50.770482,
+      "longitude": 15.061136
+    },
+    {
+      "name": "malu bistro",
+      "latitude": 50.762327,
+      "longitude": 15.046463
+    },
+    {
+      "name": "U Jezu",
+      "latitude": 50.764231,
+      "longitude": 15.053452
+    },
+    {
+      "name": "Potraviny - večerka",
+      "latitude": 50.753791,
+      "longitude": 15.31418
+    },
+    {
+      "name": "Dívčí Lávky",
+      "latitude": 50.742627,
+      "longitude": 15.608528
+    },
+    {
+      "name": "Samoobslužný bar",
+      "latitude": 50.757297,
+      "longitude": 15.600566
+    },
+    {
+      "name": "Horská chaloupka",
+      "latitude": 50.706244,
+      "longitude": 13.852347
+    },
+    {
+      "name": "Vecerka",
+      "latitude": 50.512076,
+      "longitude": 13.641897
+    },
+    {
+      "name": "Trafika Pražská",
+      "latitude": 50.324847,
+      "longitude": 13.551143
+    },
+    {
+      "name": "Asia Market",
+      "latitude": 50.205181,
+      "longitude": 12.208922
+    },
+    {
+      "name": "Mini Market Kim",
+      "latitude": 50.204721,
+      "longitude": 12.209617
+    },
+    {
+      "name": "Trafika Karla Čapka",
+      "latitude": 50.182688,
+      "longitude": 12.550639
+    },
+    {
+      "name": "Tabák-nápoje",
+      "latitude": 50.123735,
+      "longitude": 12.347933
+    },
+    {
+      "name": "Trafika Tabák Novotný",
+      "latitude": 50.118973,
+      "longitude": 12.353439
+    },
+    {
+      "name": "Kebab",
+      "latitude": 50.07678,
+      "longitude": 12.371146
+    },
+    {
+      "name": "Vaše Trafika",
+      "latitude": 50.242706,
+      "longitude": 12.744007
+    },
+    {
+      "name": "Six - Tabák a Minishop",
+      "latitude": 50.243089,
+      "longitude": 12.74499
+    },
+    {
+      "name": "Karlovarské oplatky",
+      "latitude": 50.229348,
+      "longitude": 12.8745
+    },
+    {
+      "name": "Kiosek U Marcely",
+      "latitude": 50.18449,
+      "longitude": 13.805882
+    },
+    {
+      "name": "Porájt Pub",
+      "latitude": 49.89815,
+      "longitude": 13.247222
+    },
+    {
+      "name": "Vendys Petrol",
+      "latitude": 50.716467,
+      "longitude": 14.544886
+    },
+    {
+      "name": "Traficon",
+      "latitude": 50.657024,
+      "longitude": 14.724268
+    },
+    {
+      "name": "Boreček",
+      "latitude": 50.630693,
+      "longitude": 14.715567
+    },
+    {
+      "name": "Kiosek Milíře",
+      "latitude": 50.710569,
+      "longitude": 15.112124
+    },
+    {
+      "name": "Stánek U Drahušky",
+      "latitude": 50.731774,
+      "longitude": 15.249079
+    },
+    {
+      "name": "Zelenina, pečivo, nápoje, B+J",
+      "latitude": 50.729184,
+      "longitude": 15.451908
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.705877,
+      "longitude": 15.427707
+    },
+    {
+      "name": "Pivní ambulance",
+      "latitude": 50.610861,
+      "longitude": 15.148372
+    },
+    {
+      "name": "Tabák Sejval",
+      "latitude": 50.58774,
+      "longitude": 15.140226
+    },
+    {
+      "name": "U pláže",
+      "latitude": 50.558698,
+      "longitude": 15.188394
+    },
+    {
+      "name": "Kiosek U recepce",
+      "latitude": 50.559749,
+      "longitude": 15.189429
+    },
+    {
+      "name": "Kiosek u Pobudy",
+      "latitude": 50.440226,
+      "longitude": 14.580927
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.438445,
+      "longitude": 14.631604
+    },
+    {
+      "name": "Kafe Mělník Šestihran",
+      "latitude": 50.351455,
+      "longitude": 14.477153
+    },
+    {
+      "name": "Občerstvení pod Valečovem",
+      "latitude": 50.511735,
+      "longitude": 15.023712
+    },
+    {
+      "name": "U Mostu",
+      "latitude": 50.725262,
+      "longitude": 15.606308
+    },
+    {
+      "name": "Obchůdek u školy",
+      "latitude": 50.678487,
+      "longitude": 15.531413
+    },
+    {
+      "name": "Potraviny Strážné",
+      "latitude": 50.662465,
+      "longitude": 15.614352
+    },
+    {
+      "name": "Trafika U České známky",
+      "latitude": 50.623895,
+      "longitude": 15.612275
+    },
+    {
+      "name": "Samoobslužný bar",
+      "latitude": 50.57477,
+      "longitude": 16.13176
+    },
+    {
+      "name": "TABÁK KUDOWA - TABAK - LEVNÉ CIGARETY- KÁVA",
+      "latitude": 50.434853,
+      "longitude": 16.232773
+    },
+    {
+      "name": "Bufet Horské Služby pod Velkou Deštnou",
+      "latitude": 50.302675,
+      "longitude": 16.400274
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.281567,
+      "longitude": 14.236734
+    },
+    {
+      "name": "Cimrmanův trafovýčep",
+      "latitude": 50.212579,
+      "longitude": 14.743434
+    },
+    {
+      "name": "Potraviny, večerka drogerie",
+      "latitude": 50.107158,
+      "longitude": 14.374007
+    },
+    {
+      "name": "Indus Express",
+      "latitude": 50.110204,
+      "longitude": 14.394578
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 50.097955,
+      "longitude": 14.402758
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.100428,
+      "longitude": 14.388427
+    },
+    {
+      "name": "Kiosek",
+      "latitude": 50.100651,
+      "longitude": 14.39235
+    },
+    {
+      "name": "Tabák V+V",
+      "latitude": 50.077139,
+      "longitude": 14.404354
+    },
+    {
+      "name": "Vino - Dàrky Tabak Hračky - Papìr",
+      "latitude": 50.084432,
+      "longitude": 14.375891
+    },
+    {
+      "name": "Trafika Glo",
+      "latitude": 50.132256,
+      "longitude": 14.452612
+    },
+    {
+      "name": "Kebab48",
+      "latitude": 50.139288,
+      "longitude": 14.504964
+    },
+    {
+      "name": "Butik nostres",
+      "latitude": 50.115542,
+      "longitude": 14.464709
+    },
+    {
+      "name": "Občerstvení",
+      "latitude": 50.115029,
+      "longitude": 14.461579
+    },
+    {
+      "name": "Božský trdelník/zmrzlina",
+      "latitude": 50.108245,
+      "longitude": 14.57792
+    },
+    {
+      "name": "Jídelna U Dvou Bratrů",
+      "latitude": 50.108234,
+      "longitude": 14.577795
+    },
+    {
+      "name": "Hedgehog bistro",
+      "latitude": 50.106656,
+      "longitude": 14.527562
+    },
+    {
+      "name": "Lahůdkářství Zlatý Kříž",
+      "latitude": 50.075676,
+      "longitude": 14.428011
+    },
+    {
+      "name": "Take&Go Market",
+      "latitude": 50.081264,
+      "longitude": 14.419437
+    },
+    {
+      "name": "Trdlokafe Máj",
+      "latitude": 50.082263,
+      "longitude": 14.419637
+    },
+    {
+      "name": "Tabák",
+      "latitude": 50.085972,
+      "longitude": 14.433649
+    },
+    {
+      "name": "BioPoint",
+      "latitude": 50.087417,
+      "longitude": 14.433112
+    },
+    {
+      "name": "Hello!",
+      "latitude": 50.195754,
+      "longitude": 14.842631
+    },
+    {
+      "name": "Trafika Pari",
+      "latitude": 50.145281,
+      "longitude": 15.131856
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.036181,
+      "longitude": 14.382048
+    },
+    {
+      "name": "Dobré Sousto",
+      "latitude": 50.061272,
+      "longitude": 14.40917
+    },
+    {
+      "name": "Tabák",
+      "latitude": 50.03474,
+      "longitude": 14.37715
+    },
+    {
+      "name": "Bistro Tyršovka",
+      "latitude": 50.014351,
+      "longitude": 14.410175
+    },
+    {
+      "name": "U nás Pod Skalou",
+      "latitude": 49.969245,
+      "longitude": 14.133746
+    },
+    {
+      "name": "Sunny Market Kačerov",
+      "latitude": 50.042068,
+      "longitude": 14.460559
+    },
+    {
+      "name": "Tabák",
+      "latitude": 50.055898,
+      "longitude": 14.434197
+    },
+    {
+      "name": "U hada",
+      "latitude": 50.037343,
+      "longitude": 14.542208
+    },
+    {
+      "name": "Naturista",
+      "latitude": 50.037544,
+      "longitude": 14.541836
+    },
+    {
+      "name": "Trafika",
+      "latitude": 50.013596,
+      "longitude": 14.484324
+    },
+    {
+      "name": "Tabák Valmont",
+      "latitude": 50.032015,
+      "longitude": 14.534542
+    },
+    {
+      "name": "Občerstvení Skalka",
+      "latitude": 49.878419,
+      "longitude": 14.254051
+    },
+    {
+      "name": "Nápoje - Tátův sad",
+      "latitude": 49.888599,
+      "longitude": 14.317687
+    },
+    {
+      "name": "Minimarket - Trafika",
+      "latitude": 49.979066,
+      "longitude": 15.209309
+    },
+    {
+      "name": "Kiosek u Zelené žáby",
+      "latitude": 49.913626,
+      "longitude": 14.966831
+    },
+    {
+      "name": "Kiosek Kemp Pod Vrbou",
+      "latitude": 49.878014,
+      "longitude": 14.899309
+    },
+    {
+      "name": "Bufet u hřiště",
+      "latitude": 50.242056,
+      "longitude": 15.716724
+    },
+    {
+      "name": "Trafika nonstop",
+      "latitude": 50.210555,
+      "longitude": 15.829949
+    },
+    {
+      "name": "Zastávka Plácky",
+      "latitude": 50.229976,
+      "longitude": 15.822225
+    },
+    {
+      "name": "Tabák Delikates",
+      "latitude": 50.193642,
+      "longitude": 15.839774
+    },
+    {
+      "name": "Palačinky",
+      "latitude": 50.074196,
+      "longitude": 15.824271
+    },
+    {
+      "name": "Pěticestí",
+      "latitude": 50.241951,
+      "longitude": 16.454404
+    },
+    {
+      "name": "refreshment - only summer season",
+      "latitude": 50.22176,
+      "longitude": 16.231407
+    },
+    {
+      "name": "Vodárna",
+      "latitude": 50.1197,
+      "longitude": 16.204433
+    },
+    {
+      "name": "Litice",
+      "latitude": 50.085785,
+      "longitude": 16.348533
+    },
+    {
+      "name": "Sedánek u Lesovny",
+      "latitude": 50.066152,
+      "longitude": 16.639359
+    },
+    {
+      "name": "MINIT",
+      "latitude": 50.036344,
+      "longitude": 15.767756
+    },
+    {
+      "name": "Benji´s Market",
+      "latitude": 50.036442,
+      "longitude": 15.768602
+    },
+    {
+      "name": "Trafika Camel Mladých",
+      "latitude": 50.048834,
+      "longitude": 15.764432
+    },
+    {
+      "name": "Zmrzka z Valů",
+      "latitude": 50.034209,
+      "longitude": 15.762766
+    },
+    {
+      "name": "Kiosek Barborka",
+      "latitude": 49.963596,
+      "longitude": 15.636391
+    },
+    {
+      "name": "Kiosek koupaliště",
+      "latitude": 49.838362,
+      "longitude": 16.646413
+    },
+    {
+      "name": "Zmrzlina Ice",
+      "latitude": 49.764938,
+      "longitude": 13.247477
+    },
+    {
+      "name": "Malinová",
+      "latitude": 49.744453,
+      "longitude": 13.336562
+    },
+    {
+      "name": "Orient Coffee",
+      "latitude": 49.746353,
+      "longitude": 13.377406
+    },
+    {
+      "name": "Leburk",
+      "latitude": 49.745756,
+      "longitude": 13.374079
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.744261,
+      "longitude": 13.371996
+    },
+    {
+      "name": "Speciál tabák",
+      "latitude": 49.836377,
+      "longitude": 13.90608
+    },
+    {
+      "name": "Lesní vyhlídka",
+      "latitude": 49.436,
+      "longitude": 13.265639
+    },
+    {
+      "name": "Občerstvení",
+      "latitude": 49.26959,
+      "longitude": 13.921775
+    },
+    {
+      "name": "Tabák Švelch",
+      "latitude": 49.231687,
+      "longitude": 13.520993
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.231471,
+      "longitude": 13.519785
+    },
+    {
+      "name": "Sváča / Snack",
+      "latitude": 49.779724,
+      "longitude": 14.656379
+    },
+    {
+      "name": "Hombre Saloon U Roberta",
+      "latitude": 49.720805,
+      "longitude": 15.180839
+    },
+    {
+      "name": "Tabák Marková",
+      "latitude": 49.538105,
+      "longitude": 15.356029
+    },
+    {
+      "name": "Pont to Go",
+      "latitude": 49.599217,
+      "longitude": 15.588261
+    },
+    {
+      "name": "Geco",
+      "latitude": 49.555063,
+      "longitude": 15.937335
+    },
+    {
+      "name": "Pizza",
+      "latitude": 49.401754,
+      "longitude": 15.602124
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.312874,
+      "longitude": 14.143526
+    },
+    {
+      "name": "U Majky",
+      "latitude": 49.24763,
+      "longitude": 14.884894
+    },
+    {
+      "name": "Kiosek",
+      "latitude": 49.072873,
+      "longitude": 14.411352
+    },
+    {
+      "name": "Coffee to go",
+      "latitude": 49.040994,
+      "longitude": 14.422422
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.015392,
+      "longitude": 14.610758
+    },
+    {
+      "name": "Trafika U jihu",
+      "latitude": 48.966151,
+      "longitude": 14.475305
+    },
+    {
+      "name": "zmrzlina Roudné",
+      "latitude": 48.934094,
+      "longitude": 14.486057
+    },
+    {
+      "name": "Na Růžku",
+      "latitude": 49.145498,
+      "longitude": 15.00337
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.146902,
+      "longitude": 15.003956
+    },
+    {
+      "name": "U Kapličky",
+      "latitude": 49.147914,
+      "longitude": 15.003406
+    },
+    {
+      "name": "Kiosek U Lokálky",
+      "latitude": 49.143007,
+      "longitude": 15.116718
+    },
+    {
+      "name": "Trafika u hráze",
+      "latitude": 48.959089,
+      "longitude": 14.934452
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.215571,
+      "longitude": 15.879204
+    },
+    {
+      "name": "Farmáček",
+      "latitude": 49.216864,
+      "longitude": 15.870742
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.20282,
+      "longitude": 15.885383
+    },
+    {
+      "name": "Tabák Nečas",
+      "latitude": 49.353621,
+      "longitude": 16.647439
+    },
+    {
+      "name": "Potraviny",
+      "latitude": 49.333516,
+      "longitude": 16.762354
+    },
+    {
+      "name": "Mr. Coffee Box",
+      "latitude": 49.250735,
+      "longitude": 16.581663
+    },
+    {
+      "name": "BERBEZ BISTRO",
+      "latitude": 49.243977,
+      "longitude": 16.571098
+    },
+    {
+      "name": "Top Tabák",
+      "latitude": 49.221721,
+      "longitude": 16.58497
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.231202,
+      "longitude": 16.589868
+    },
+    {
+      "name": "Modrá Hvězda",
+      "latitude": 49.225496,
+      "longitude": 16.606756
+    },
+    {
+      "name": "König cafe",
+      "latitude": 49.218029,
+      "longitude": 16.598075
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.235605,
+      "longitude": 16.586048
+    },
+    {
+      "name": "Grilovaná kuřata",
+      "latitude": 49.228048,
+      "longitude": 16.592419
+    },
+    {
+      "name": "Podpěrova pekárna",
+      "latitude": 49.227999,
+      "longitude": 16.592766
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.223763,
+      "longitude": 16.643515
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.219797,
+      "longitude": 16.753319
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.209892,
+      "longitude": 16.603313
+    },
+    {
+      "name": "Valmont",
+      "latitude": 49.195871,
+      "longitude": 16.610796
+    },
+    {
+      "name": "Tabák & Tisk",
+      "latitude": 49.192506,
+      "longitude": 16.606421
+    },
+    {
+      "name": "Point 4 You",
+      "latitude": 49.195079,
+      "longitude": 16.60984
+    },
+    {
+      "name": "Tabák Na Pekandě",
+      "latitude": 49.192145,
+      "longitude": 16.60453
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.207349,
+      "longitude": 16.601858
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.189123,
+      "longitude": 16.60306
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.207703,
+      "longitude": 16.603669
+    },
+    {
+      "name": "Bonbónsy Tabák",
+      "latitude": 49.204209,
+      "longitude": 16.623808
+    },
+    {
+      "name": "Grilovaná kuřata Svoboda",
+      "latitude": 49.202685,
+      "longitude": 16.618547
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.201033,
+      "longitude": 16.637858
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.201878,
+      "longitude": 16.641507
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.209202,
+      "longitude": 16.687763
+    },
+    {
+      "name": "Relay",
+      "latitude": 49.190855,
+      "longitude": 16.61236
+    },
+    {
+      "name": "Tabák Juras",
+      "latitude": 49.169835,
+      "longitude": 16.581325
+    },
+    {
+      "name": "Moje trafika",
+      "latitude": 49.179037,
+      "longitude": 16.595914
+    },
+    {
+      "name": "Point 4 u",
+      "latitude": 49.168653,
+      "longitude": 16.572362
+    },
+    {
+      "name": "Zmrzlina, Ledová tříšť",
+      "latitude": 49.168958,
+      "longitude": 16.555595
+    },
+    {
+      "name": "Sivický vokno",
+      "latitude": 49.199328,
+      "longitude": 16.786298
+    },
+    {
+      "name": "Stánek u zastávky",
+      "latitude": 48.982562,
+      "longitude": 16.150301
+    },
+    {
+      "name": "Móda DomDa",
+      "latitude": 49.104732,
+      "longitude": 16.757288
+    },
+    {
+      "name": "Zmrzlina",
+      "latitude": 49.080393,
+      "longitude": 16.548252
+    },
+    {
+      "name": "Tabák - Noviny",
+      "latitude": 50.227935,
+      "longitude": 17.205681
+    },
+    {
+      "name": "Tabák",
+      "latitude": 50.093921,
+      "longitude": 17.686465
+    },
+    {
+      "name": "Rychlý okno",
+      "latitude": 49.965782,
+      "longitude": 16.975209
+    },
+    {
+      "name": "Lama",
+      "latitude": 49.965124,
+      "longitude": 16.97429
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.936763,
+      "longitude": 17.973871
+    },
+    {
+      "name": "Obchůdek - smíšené zboží",
+      "latitude": 49.945417,
+      "longitude": 18.249536
+    },
+    {
+      "name": "PNS",
+      "latitude": 49.877619,
+      "longitude": 18.436947
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.838888,
+      "longitude": 18.287996
+    },
+    {
+      "name": "Levandulové občerstvení",
+      "latitude": 49.832808,
+      "longitude": 16.996933
+    },
+    {
+      "name": "Bistro u hradu",
+      "latitude": 49.701379,
+      "longitude": 16.889773
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.692673,
+      "longitude": 17.073687
+    },
+    {
+      "name": "Trafika - večerka",
+      "latitude": 49.613544,
+      "longitude": 17.198269
+    },
+    {
+      "name": "Katka",
+      "latitude": 49.795486,
+      "longitude": 17.627893
+    },
+    {
+      "name": "Večerka U Čápa",
+      "latitude": 49.795449,
+      "longitude": 17.628295
+    },
+    {
+      "name": "výroba klíčů",
+      "latitude": 49.827839,
+      "longitude": 18.177064
+    },
+    {
+      "name": "Prodej novin",
+      "latitude": 49.780853,
+      "longitude": 18.224409
+    },
+    {
+      "name": "Speciál",
+      "latitude": 49.593,
+      "longitude": 17.277843
+    },
+    {
+      "name": "obcerstvení U zastávky",
+      "latitude": 49.599266,
+      "longitude": 17.251272
+    },
+    {
+      "name": "Tabák Amfora",
+      "latitude": 49.592971,
+      "longitude": 17.251891
+    },
+    {
+      "name": "Glo",
+      "latitude": 49.592575,
+      "longitude": 17.277356
+    },
+    {
+      "name": "Natura",
+      "latitude": 49.582059,
+      "longitude": 17.237314
+    },
+    {
+      "name": "Trdlokafe",
+      "latitude": 49.559296,
+      "longitude": 17.307428
+    },
+    {
+      "name": "Kebab House Side",
+      "latitude": 49.475125,
+      "longitude": 17.089685
+    },
+    {
+      "name": "Tržiště",
+      "latitude": 49.458103,
+      "longitude": 17.444529
+    },
+    {
+      "name": "Max",
+      "latitude": 49.533511,
+      "longitude": 17.746483
+    },
+    {
+      "name": "Noviny - tabák - cigarety",
+      "latitude": 49.59443,
+      "longitude": 18.145993
+    },
+    {
+      "name": "Zmrzlina",
+      "latitude": 49.595703,
+      "longitude": 18.140997
+    },
+    {
+      "name": "Lesní bar",
+      "latitude": 49.422402,
+      "longitude": 17.896782
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.836881,
+      "longitude": 18.290229
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.835221,
+      "longitude": 18.290266
+    },
+    {
+      "name": "Traf",
+      "latitude": 49.748647,
+      "longitude": 18.632673
+    },
+    {
+      "name": "Večerka Na Zelené",
+      "latitude": 49.670662,
+      "longitude": 18.339485
+    },
+    {
+      "name": "EKOMILK",
+      "latitude": 49.670729,
+      "longitude": 18.32589
+    },
+    {
+      "name": "U mlsounů",
+      "latitude": 49.678835,
+      "longitude": 18.353081
+    },
+    {
+      "name": "Salaš Hnojník",
+      "latitude": 49.682013,
+      "longitude": 18.543242
+    },
+    {
+      "name": "Večerka Smíšenka",
+      "latitude": 49.601263,
+      "longitude": 18.516297
+    },
+    {
+      "name": "Potraviny",
+      "latitude": 49.560977,
+      "longitude": 18.742047
+    },
+    {
+      "name": "Tabák Jirka",
+      "latitude": 49.277378,
+      "longitude": 16.998085
+    },
+    {
+      "name": "Trafika Masarykova",
+      "latitude": 49.330416,
+      "longitude": 17.583058
+    },
+    {
+      "name": "U Goši",
+      "latitude": 49.24246,
+      "longitude": 18.014606
+    },
+    {
+      "name": "Renno",
+      "latitude": 49.068565,
+      "longitude": 17.462027
+    },
+    {
+      "name": "Tabák",
+      "latitude": 49.069292,
+      "longitude": 17.460224
+    },
+    {
+      "name": "Delta",
+      "latitude": 49.068614,
+      "longitude": 17.459065
+    },
+    {
+      "name": "Trafika",
+      "latitude": 49.043638,
+      "longitude": 17.467746
+    },
+    {
+      "name": "Novinový stánek",
+      "latitude": 48.954727,
+      "longitude": 17.142462
+    },
+    {
+      "name": "Suvenier-Kiosk",
+      "latitude": 48.859144,
+      "longitude": 13.819706
+    },
+    {
+      "name": "časopisy na Špičáku",
+      "latitude": 48.81571,
+      "longitude": 14.316484
+    },
+    {
+      "name": "Bistro U Přívozu",
+      "latitude": 48.696819,
+      "longitude": 14.077949
+    },
+    {
+      "name": "Tabak Ingrid Glanz",
+      "latitude": 48.772633,
+      "longitude": 14.987243
+    },
+    {
+      "name": "Stánek Šobes - prodej lahvového vína",
+      "latitude": 48.815327,
+      "longitude": 15.975984
+    },
+    {
+      "name": "Trafika",
+      "latitude": 48.827045,
+      "longitude": 16.847119
+    }
+  ],
+  "meta": {
+    "title": "Kiosky - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných kiosků v České republice (218 záznamů) — body zájmu z OpenStreetMap (tag shop=kiosk), výřez EU-POIS/CZ. Obsahuje 218 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Kiosky | ListBase",
+    "seo_description": "Stáhnout Kiosky — 218 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 218 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "cs-jednotky-angle",
+  "name": "Měrné jednotky: angle (6)",
+  "title": "Měrné jednotky: angle (6)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'angle'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategorie": "angle",
+      "nazev": "minuty",
+      "vzor_jednotne": "{0} minuta",
+      "vzor_mnozne": "{0} minut",
+      "kratky_vzor": "{0}′",
+      "uzky_vzor": "{0}′"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategorie": "angle",
+      "nazev": "vteřiny",
+      "vzor_jednotne": "{0} vteřina",
+      "vzor_mnozne": "{0} vteřin",
+      "kratky_vzor": "{0}″",
+      "uzky_vzor": "{0}″"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategorie": "angle",
+      "nazev": "stupně",
+      "vzor_jednotne": "{0} stupeň",
+      "vzor_mnozne": "{0} stupňů",
+      "kratky_vzor": "{0}°",
+      "uzky_vzor": "{0}°"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategorie": "angle",
+      "nazev": "radiány",
+      "vzor_jednotne": "{0} radián",
+      "vzor_mnozne": "{0} radiánů",
+      "kratky_vzor": "{0} rad",
+      "uzky_vzor": "{0} rad"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategorie": "angle",
+      "nazev": "otáčky",
+      "vzor_jednotne": "{0} otáčka",
+      "vzor_mnozne": "{0} otáček",
+      "kratky_vzor": "{0} ot.",
+      "uzky_vzor": "{0} ot."
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategorie": "angle",
+      "nazev": "steradiány",
+      "vzor_jednotne": "{0} steradián",
+      "vzor_mnozne": "{0} steradiánů",
+      "kratky_vzor": "{0} sr",
+      "uzky_vzor": "{0} sr"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: angle (6) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'angle'. Obsahuje 6 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: angle (6) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: angle (6) — 6 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

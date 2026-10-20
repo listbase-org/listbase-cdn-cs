@@ -1,0 +1,126 @@
+{
+  "id": "cs-jednotky-power",
+  "name": "Měrné jednotky: power (6)",
+  "title": "Měrné jednotky: power (6)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'power'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 158,
+      "unit_code": "power-gigawatt",
+      "kategorie": "power",
+      "nazev": "gigawatty",
+      "vzor_jednotne": "{0} gigawatt",
+      "vzor_mnozne": "{0} gigawattů",
+      "kratky_vzor": "{0} GW",
+      "uzky_vzor": "{0} GW"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-horsepower",
+      "kategorie": "power",
+      "nazev": "koňská síla",
+      "vzor_jednotne": "{0} koňská síla",
+      "vzor_mnozne": "{0} koňských sil",
+      "kratky_vzor": "{0} hp",
+      "uzky_vzor": "{0} hp"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-kilowatt",
+      "kategorie": "power",
+      "nazev": "kilowatty",
+      "vzor_jednotne": "{0} kilowatt",
+      "vzor_mnozne": "{0} kilowattů",
+      "kratky_vzor": "{0} kW",
+      "uzky_vzor": "{0} kW"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-megawatt",
+      "kategorie": "power",
+      "nazev": "megawatty",
+      "vzor_jednotne": "{0} megawatt",
+      "vzor_mnozne": "{0} megawattů",
+      "kratky_vzor": "{0} MW",
+      "uzky_vzor": "{0} MW"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-milliwatt",
+      "kategorie": "power",
+      "nazev": "miliwatty",
+      "vzor_jednotne": "{0} miliwatt",
+      "vzor_mnozne": "{0} miliwattů",
+      "kratky_vzor": "{0} mW",
+      "uzky_vzor": "{0} mW"
+    },
+    {
+      "id": 163,
+      "unit_code": "power-watt",
+      "kategorie": "power",
+      "nazev": "watty",
+      "vzor_jednotne": "{0} watt",
+      "vzor_mnozne": "{0} wattů",
+      "kratky_vzor": "{0} W",
+      "uzky_vzor": "{0} W"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: power (6) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'power'. Obsahuje 6 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: power (6) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: power (6) — 6 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

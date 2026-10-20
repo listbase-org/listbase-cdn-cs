@@ -1,0 +1,237 @@
+{
+  "id": "cs-plzensky-letiste",
+  "name": "Letiště — Plzeňský kraj",
+  "title": "Letiště — Plzeňský kraj",
+  "description": "Seznam letišť v kraji „Plzeňský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Pilsen region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKER",
+      "iata": "",
+      "name": "Erpuzice Airport",
+      "name_slug": "erpuzice-airport",
+      "city": "Erpuzice",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 1572,
+      "lat": 49.8027992249,
+      "lon": 13.0381002426,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKC",
+      "iata": "",
+      "name": "Krizenec Plana Airport",
+      "name_slug": "krizenec-plana-airport",
+      "city": "Plana",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 2080,
+      "lat": 49.8706016541,
+      "lon": 12.7725000381,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKT",
+      "iata": "",
+      "name": "Klatovy Airport",
+      "name_slug": "klatovy-airport",
+      "city": "Klatovy",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 1299,
+      "lat": 49.4183006287,
+      "lon": 13.3219003677,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKLN",
+      "iata": "",
+      "name": "Plzen Line Airport",
+      "name_slug": "plzen-line-airport",
+      "city": "Plzen",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 1188,
+      "lat": 49.675201416,
+      "lon": 13.274600029,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPL",
+      "iata": "",
+      "name": "Letkov Airport",
+      "name_slug": "letkov-airport",
+      "city": "Letkov",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 1371,
+      "lat": 49.7230987549,
+      "lon": 13.4521999359,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPS",
+      "iata": "",
+      "name": "Plasy Rybnice Airport",
+      "name_slug": "plasy-rybnice-airport",
+      "city": "Rybnice",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 1430,
+      "lat": 49.92029953,
+      "lon": 13.3768997192,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKSA",
+      "iata": "",
+      "name": "Stankov Glider Airport",
+      "name_slug": "stankov-glider-airport",
+      "city": "Stankov",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 1401,
+      "lat": 49.5666999817,
+      "lon": 13.0486001968,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKTD",
+      "iata": "",
+      "name": "Tachov Oldrichov Airport",
+      "name_slug": "tachov-oldrichov-airport",
+      "city": "Tachov",
+      "kraj": "Plzeňský kraj",
+      "kraj_source": "Plzensky",
+      "kraj_slug": "plzensky",
+      "kraj_en": "Pilsen",
+      "country": "CZ",
+      "elevation_ft": 1640,
+      "lat": 49.7977981567,
+      "lon": 12.7068996429,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Plzeňský kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Plzeňský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Pilsen region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 8 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Plzeňský kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Plzeňský kraj — 8 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

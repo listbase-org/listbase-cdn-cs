@@ -1,0 +1,699 @@
+{
+  "id": "science-electronegativity",
+  "name": "Datový Soubor Tabulka Elektronegativity (Paulingova Škala)",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Element Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "atomic_number",
+      "label": "Atomic Number",
+      "type": "number"
+    },
+    {
+      "key": "electronegativity",
+      "label": "Electronegativity (Pauling)",
+      "type": "number"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "number"
+    },
+    {
+      "key": "category",
+      "label": "Element Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "trend",
+      "label": "Trend Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "symbol": "H",
+      "name": "Vodík",
+      "atomic_number": 1,
+      "electronegativity": 2.2,
+      "period": 1,
+      "group": 1,
+      "category": "Nekov",
+      "trend": "Reference"
+    },
+    {
+      "symbol": "He",
+      "name": "Helium",
+      "atomic_number": 2,
+      "electronegativity": "-",
+      "period": 1,
+      "group": 18,
+      "category": "Vzácný plyn",
+      "trend": "Neaplikovatelné - Vzácný plyn"
+    },
+    {
+      "symbol": "Li",
+      "name": "Lithium",
+      "atomic_number": 3,
+      "electronegativity": 0.98,
+      "period": 2,
+      "group": 1,
+      "category": "Alkalický kov",
+      "trend": "Nejnižší v periodě"
+    },
+    {
+      "symbol": "Be",
+      "name": "Beryllium",
+      "atomic_number": 4,
+      "electronegativity": 1.57,
+      "period": 2,
+      "group": 2,
+      "category": "Kovy alkalických zemin",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "B",
+      "name": "Bor",
+      "atomic_number": 5,
+      "electronegativity": 2.04,
+      "period": 2,
+      "group": 13,
+      "category": "Polokov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "C",
+      "name": "Uhlík",
+      "atomic_number": 6,
+      "electronegativity": 2.55,
+      "period": 2,
+      "group": 14,
+      "category": "Nekov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "N",
+      "name": "Dusík",
+      "atomic_number": 7,
+      "electronegativity": 3.04,
+      "period": 2,
+      "group": 15,
+      "category": "Nekov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "O",
+      "name": "Kyslík",
+      "atomic_number": 8,
+      "electronegativity": 3.44,
+      "period": 2,
+      "group": 16,
+      "category": "Nekov",
+      "trend": "Druhý nejvyšší"
+    },
+    {
+      "symbol": "F",
+      "name": "Fluor",
+      "atomic_number": 9,
+      "electronegativity": 3.98,
+      "period": 2,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Nejelektronegativnější prvek"
+    },
+    {
+      "symbol": "Ne",
+      "name": "Neon",
+      "atomic_number": 10,
+      "electronegativity": "-",
+      "period": 2,
+      "group": 18,
+      "category": "Vzácný plyn",
+      "trend": "Neaplikovatelné - Vzácný plyn"
+    },
+    {
+      "symbol": "Na",
+      "name": "Sodík",
+      "atomic_number": 11,
+      "electronegativity": 0.93,
+      "period": 3,
+      "group": 1,
+      "category": "Alkalický kov",
+      "trend": "Nejnižší v periodě"
+    },
+    {
+      "symbol": "Mg",
+      "name": "Hořčík",
+      "atomic_number": 12,
+      "electronegativity": 1.31,
+      "period": 3,
+      "group": 2,
+      "category": "Kovy alkalických zemin",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "Al",
+      "name": "Hliník",
+      "atomic_number": 13,
+      "electronegativity": 1.61,
+      "period": 3,
+      "group": 13,
+      "category": "Postpřechodový kov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "Si",
+      "name": "Křemík",
+      "atomic_number": 14,
+      "electronegativity": 1.9,
+      "period": 3,
+      "group": 14,
+      "category": "Polokov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "P",
+      "name": "Fosfor",
+      "atomic_number": 15,
+      "electronegativity": 2.19,
+      "period": 3,
+      "group": 15,
+      "category": "Nekov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "S",
+      "name": "Síra",
+      "atomic_number": 16,
+      "electronegativity": 2.58,
+      "period": 3,
+      "group": 16,
+      "category": "Nekov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "Cl",
+      "name": "Chlor",
+      "atomic_number": 17,
+      "electronegativity": 3.16,
+      "period": 3,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Nejvyšší v periodě"
+    },
+    {
+      "symbol": "Ar",
+      "name": "Argon",
+      "atomic_number": 18,
+      "electronegativity": "-",
+      "period": 3,
+      "group": 18,
+      "category": "Vzácný plyn",
+      "trend": "Neaplikovatelné - Vzácný plyn"
+    },
+    {
+      "symbol": "K",
+      "name": "Draslík",
+      "atomic_number": 19,
+      "electronegativity": 0.82,
+      "period": 4,
+      "group": 1,
+      "category": "Alkalický kov",
+      "trend": "Nejnižší v periodě"
+    },
+    {
+      "symbol": "Ca",
+      "name": "Vápník",
+      "atomic_number": 20,
+      "electronegativity": 1,
+      "period": 4,
+      "group": 2,
+      "category": "Kovy alkalických zemin",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "Sc",
+      "name": "Skandium",
+      "atomic_number": 21,
+      "electronegativity": 1.36,
+      "period": 4,
+      "group": 3,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Ti",
+      "name": "Titan",
+      "atomic_number": 22,
+      "electronegativity": 1.54,
+      "period": 4,
+      "group": 4,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "V",
+      "name": "Vanad",
+      "atomic_number": 23,
+      "electronegativity": 1.63,
+      "period": 4,
+      "group": 5,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Cr",
+      "name": "Chrom",
+      "atomic_number": 24,
+      "electronegativity": 1.66,
+      "period": 4,
+      "group": 6,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Mn",
+      "name": "Mangan",
+      "atomic_number": 25,
+      "electronegativity": 1.55,
+      "period": 4,
+      "group": 7,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Fe",
+      "name": "Železo",
+      "atomic_number": 26,
+      "electronegativity": 1.83,
+      "period": 4,
+      "group": 8,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Co",
+      "name": "Kobalt",
+      "atomic_number": 27,
+      "electronegativity": 1.88,
+      "period": 4,
+      "group": 9,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Ni",
+      "name": "Nikl",
+      "atomic_number": 28,
+      "electronegativity": 1.91,
+      "period": 4,
+      "group": 10,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Cu",
+      "name": "Měď",
+      "atomic_number": 29,
+      "electronegativity": 1.9,
+      "period": 4,
+      "group": 11,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Zn",
+      "name": "Zinek",
+      "atomic_number": 30,
+      "electronegativity": 1.65,
+      "period": 4,
+      "group": 12,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Ga",
+      "name": "Gallium",
+      "atomic_number": 31,
+      "electronegativity": 1.81,
+      "period": 4,
+      "group": 13,
+      "category": "Kov po přechodu",
+      "trend": "Po přechodu"
+    },
+    {
+      "symbol": "Ge",
+      "name": "Germanium",
+      "atomic_number": 32,
+      "electronegativity": 2.01,
+      "period": 4,
+      "group": 14,
+      "category": "Metaloid",
+      "trend": "Zvyšuje se v periodě"
+    },
+    {
+      "symbol": "As",
+      "name": "Arsen",
+      "atomic_number": 33,
+      "electronegativity": 2.18,
+      "period": 4,
+      "group": 15,
+      "category": "Metaloid",
+      "trend": "Zvyšuje se v periodě"
+    },
+    {
+      "symbol": "Se",
+      "name": "Selen",
+      "atomic_number": 34,
+      "electronegativity": 2.55,
+      "period": 4,
+      "group": 16,
+      "category": "Nekov",
+      "trend": "Zvyšuje se v periodě"
+    },
+    {
+      "symbol": "Br",
+      "name": "Brom",
+      "atomic_number": 35,
+      "electronegativity": 2.96,
+      "period": 4,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Nejvyšší v periodě"
+    },
+    {
+      "symbol": "Kr",
+      "name": "Krypton",
+      "atomic_number": 36,
+      "electronegativity": 3,
+      "period": 4,
+      "group": 18,
+      "category": "Vzácný plyn",
+      "trend": "Vzácný plyn s hodnotou EN"
+    },
+    {
+      "symbol": "Rb",
+      "name": "Rubidium",
+      "atomic_number": 37,
+      "electronegativity": 0.82,
+      "period": 5,
+      "group": 1,
+      "category": "Alkalický kov",
+      "trend": "Nejnižší v periodě"
+    },
+    {
+      "symbol": "Sr",
+      "name": "Stroncium",
+      "atomic_number": 38,
+      "electronegativity": 0.95,
+      "period": 5,
+      "group": 2,
+      "category": "Kov alkalických zemin",
+      "trend": "Zvyšuje se v periodě"
+    },
+    {
+      "symbol": "Y",
+      "name": "Yttrium",
+      "atomic_number": 39,
+      "electronegativity": 1.22,
+      "period": 5,
+      "group": 3,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Zr",
+      "name": "Zirkonium",
+      "atomic_number": 40,
+      "electronegativity": 1.33,
+      "period": 5,
+      "group": 4,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodného kovu"
+    },
+    {
+      "symbol": "Nb",
+      "name": "Niob",
+      "atomic_number": 41,
+      "electronegativity": 1.6,
+      "period": 5,
+      "group": 5,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Mo",
+      "name": "Molybden",
+      "atomic_number": 42,
+      "electronegativity": 2.16,
+      "period": 5,
+      "group": 6,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Tc",
+      "name": "Technecium",
+      "atomic_number": 43,
+      "electronegativity": 1.9,
+      "period": 5,
+      "group": 7,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Ru",
+      "name": "Rutenium",
+      "atomic_number": 44,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 8,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Rh",
+      "name": "Rhodium",
+      "atomic_number": 45,
+      "electronegativity": 2.28,
+      "period": 5,
+      "group": 9,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Pd",
+      "name": "Palladium",
+      "atomic_number": 46,
+      "electronegativity": 2.2,
+      "period": 5,
+      "group": 10,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Ag",
+      "name": "Stříbro",
+      "atomic_number": 47,
+      "electronegativity": 1.93,
+      "period": 5,
+      "group": 11,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Cd",
+      "name": "Kadmium",
+      "atomic_number": 48,
+      "electronegativity": 1.69,
+      "period": 5,
+      "group": 12,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "In",
+      "name": "Indium",
+      "atomic_number": 49,
+      "electronegativity": 1.78,
+      "period": 5,
+      "group": 13,
+      "category": "Pokov",
+      "trend": "Pokovy"
+    },
+    {
+      "symbol": "Sn",
+      "name": "Cín",
+      "atomic_number": 50,
+      "electronegativity": 1.96,
+      "period": 5,
+      "group": 14,
+      "category": "Pokov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "Sb",
+      "name": "Antimon",
+      "atomic_number": 51,
+      "electronegativity": 2.05,
+      "period": 5,
+      "group": 15,
+      "category": "Polokov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "Te",
+      "name": "Tellur",
+      "atomic_number": 52,
+      "electronegativity": 2.1,
+      "period": 5,
+      "group": 16,
+      "category": "Polokov",
+      "trend": "Zvyšuje se napříč periodou"
+    },
+    {
+      "symbol": "I",
+      "name": "Jod",
+      "atomic_number": 53,
+      "electronegativity": 2.66,
+      "period": 5,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Nejvyšší v periodě (hlavní skupina)"
+    },
+    {
+      "symbol": "Xe",
+      "name": "Xenon",
+      "atomic_number": 54,
+      "electronegativity": 2.6,
+      "period": 5,
+      "group": 18,
+      "category": "Vzácný plyn",
+      "trend": "Vzácný plyn s hodnotou EN"
+    },
+    {
+      "symbol": "Cs",
+      "name": "Cesium",
+      "atomic_number": 55,
+      "electronegativity": 0.79,
+      "period": 6,
+      "group": 1,
+      "category": "Alkalický kov",
+      "trend": "Druhý nejnižší prvek s EN"
+    },
+    {
+      "symbol": "Ba",
+      "name": "Baryum",
+      "atomic_number": 56,
+      "electronegativity": 0.89,
+      "period": 6,
+      "group": 2,
+      "category": "Kovy alkalických zemin",
+      "trend": "Nízké EN"
+    },
+    {
+      "symbol": "Au",
+      "name": "Zlato",
+      "atomic_number": 79,
+      "electronegativity": 2.54,
+      "period": 6,
+      "group": 11,
+      "category": "Přechodný kov",
+      "trend": "Vysoké EN pro kov"
+    },
+    {
+      "symbol": "Hg",
+      "name": "Rtuť",
+      "atomic_number": 80,
+      "electronegativity": 2,
+      "period": 6,
+      "group": 12,
+      "category": "Přechodný kov",
+      "trend": "Zóna přechodných kovů"
+    },
+    {
+      "symbol": "Pb",
+      "name": "Olovo",
+      "atomic_number": 82,
+      "electronegativity": 2.33,
+      "period": 6,
+      "group": 14,
+      "category": "Pokov",
+      "trend": "Pokovy"
+    },
+    {
+      "symbol": "Bi",
+      "name": "Bismut",
+      "atomic_number": 83,
+      "electronegativity": 2.02,
+      "period": 6,
+      "group": 15,
+      "category": "Pokov",
+      "trend": "Pokovy"
+    },
+    {
+      "symbol": "At",
+      "name": "Astat",
+      "atomic_number": 85,
+      "electronegativity": 2.2,
+      "period": 6,
+      "group": 17,
+      "category": "Halogen",
+      "trend": "Radioaktivní halogen"
+    },
+    {
+      "symbol": "Fr",
+      "name": "Francium",
+      "atomic_number": 87,
+      "electronegativity": 0.7,
+      "period": 7,
+      "group": 1,
+      "category": "Alkalický kov",
+      "trend": "Prvek s nejnižší elektronegativitou"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabulka Elektronegativity (Paulingova Škala) - Ke Stažení Zdarma (Excel/CSV/PDF)",
+    "seo_description": "Zdarma ke stažení: Tabulka Elektronegativity (Paulingova Škala) pro 62 chemických prvků. Prozkoumejte atomové vlastnosti a trendy. Dostupné v Excel, CSV, PDF.",
+    "title": "Datový Soubor Tabulka Elektronegativity (Paulingova Škala)",
+    "description": "Tento datový soubor poskytuje hodnoty elektronegativity (Paulingova škála) pro 62 chemických prvků, včetně atomového čísla, periody, skupiny a kategorie prvku. Ideální pro studenty chemie, výzkumníky a pedagogy.",
+    "key_takeaways": [
+      "Získejte přístup k údajům o Paulingově elektronegativitě pro 62 prvků.",
+      "Podrobně prozkoumejte atomové vlastnosti a periodické trendy.",
+      "Stáhněte si komplexní data ve formátu Excel, CSV nebo PDF pro analýzu.",
+      "Získejte vhled do chemických vazeb a reaktivity."
+    ],
+    "keywords": [
+      "tabulka elektronegativity pauling",
+      "data chemických prvků",
+      "atomové vlastnosti dataset",
+      "hodnoty elektronegativity excel",
+      "periodické trendy csv",
+      "zdarma chemická data"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo Python skriptu pro provedení vlastní datové analýzy trendů elektronegativity a vlastností chemických prvků.",
+      "Použijte soubor **Excel** k vytváření kontingenčních tabulek, filtrování prvků podle skupiny nebo kategorie a generování zpráv pro akademický výzkum nebo třídní úkoly.",
+      "Vytiskněte verzi **PDF** jako rychlý, offline referenční průvodce v chemické laboratoři, ve třídě nebo pro prezentace o atomových charakteristikách.",
+      "Využijte tento datový soubor k pochopení periodických trendů elektronegativity a předpovědi chování chemických vazeb v různých sloučeninách."
+    ]
+  },
+  "record_count": 62,
+  "title": "Datový Soubor Tabulka Elektronegativity (Paulingova Škala)"
+}

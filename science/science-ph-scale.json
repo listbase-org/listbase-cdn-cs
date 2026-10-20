@@ -1,0 +1,295 @@
+{
+  "id": "science-ph-scale",
+  "name": "Sada Dat Referenční pH Stupnice a Chemické Vlastnosti",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "substance",
+      "label": "Substance (EN)",
+      "type": "string"
+    },
+    {
+      "key": "ph",
+      "label": "pH Value",
+      "type": "number"
+    },
+    {
+      "key": "h_concentration",
+      "label": "[H⁺] Concentration (mol/L)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "nature",
+      "label": "Nature (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "substance": "Kyselina Bateriová (H₂SO₄)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Silná Kyselina",
+      "nature": "Vysoce Žíravý"
+    },
+    {
+      "substance": "Kyselina Chlorovodíková (HCl)",
+      "ph": 0,
+      "h_concentration": "1",
+      "category": "Silná Kyselina",
+      "nature": "Vysoce Žíravý"
+    },
+    {
+      "substance": "Žaludeční Kyselina",
+      "ph": 1,
+      "h_concentration": "10⁻¹",
+      "category": "Silná Kyselina",
+      "nature": "Žíravý"
+    },
+    {
+      "substance": "Citronová Šťáva",
+      "ph": 2,
+      "h_concentration": "10⁻²",
+      "category": "Silná Kyselina",
+      "nature": "Kyselý"
+    },
+    {
+      "substance": "Ocet",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Silná Kyselina",
+      "nature": "Kyselý"
+    },
+    {
+      "substance": "Coca-Cola",
+      "ph": 2.5,
+      "h_concentration": "3.2×10⁻³",
+      "category": "Silná Kyselina",
+      "nature": "Kyselý"
+    },
+    {
+      "substance": "Pomerančová Šťáva",
+      "ph": 3.5,
+      "h_concentration": "3.2×10⁻⁴",
+      "category": "Slabá Kyselina",
+      "nature": "Mírně Kyselý"
+    },
+    {
+      "substance": "Rajčatová Šťáva",
+      "ph": 4,
+      "h_concentration": "10⁻⁴",
+      "category": "Slabá Kyselina",
+      "nature": "Mírně Kyselý"
+    },
+    {
+      "substance": "Pivo",
+      "ph": 4.5,
+      "h_concentration": "3.2×10⁻⁵",
+      "category": "Slabá Kyselina",
+      "nature": "Mírně Kyselý"
+    },
+    {
+      "substance": "Káva (Černá)",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Slabá Kyselina",
+      "nature": "Mírně Kyselý"
+    },
+    {
+      "substance": "Kyselý Déšť",
+      "ph": 5,
+      "h_concentration": "10⁻⁵",
+      "category": "Slabá Kyselina",
+      "nature": "Environmentální"
+    },
+    {
+      "substance": "Banány",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Slabá Kyselina",
+      "nature": "Mírně Kyselý"
+    },
+    {
+      "substance": "Běžný Déšť",
+      "ph": 5.6,
+      "h_concentration": "2.5×10⁻⁶",
+      "category": "Slabá Kyselina",
+      "nature": "Přírodní"
+    },
+    {
+      "substance": "Mléko",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Slabá Kyselina",
+      "nature": "Téměř Neutrální"
+    },
+    {
+      "substance": "Slina",
+      "ph": 6.8,
+      "h_concentration": "1.6×10⁻⁷",
+      "category": "Slabá Kyselina",
+      "nature": "Téměř Neutrální"
+    },
+    {
+      "substance": "Čistá Voda",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Neutrální",
+      "nature": "Neutrální"
+    },
+    {
+      "substance": "Krev",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Neutrální",
+      "nature": "Mírně Zásaditý"
+    },
+    {
+      "substance": "Vaječné Bílky",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Slabá Zásada",
+      "nature": "Mírně Zásaditý"
+    },
+    {
+      "substance": "Mořská Voda",
+      "ph": 8,
+      "h_concentration": "10⁻⁸",
+      "category": "Slabá Zásada",
+      "nature": "Mírně Zásaditý"
+    },
+    {
+      "substance": "Jedlá Soda (NaHCO₃)",
+      "ph": 8.5,
+      "h_concentration": "3.2×10⁻⁹",
+      "category": "Slabá Zásada",
+      "nature": "Mírně Zásaditý"
+    },
+    {
+      "substance": "Zubní pasta",
+      "ph": 9,
+      "h_concentration": "10⁻⁹",
+      "category": "Slabá zásada",
+      "nature": "Zásaditý"
+    },
+    {
+      "substance": "Mléko hořečnaté",
+      "ph": 10.5,
+      "h_concentration": "3.2×10⁻¹¹",
+      "category": "Slabá zásada",
+      "nature": "Zásaditý"
+    },
+    {
+      "substance": "Amoniak (NH₃)",
+      "ph": 11,
+      "h_concentration": "10⁻¹¹",
+      "category": "Střední zásada",
+      "nature": "Žíravý"
+    },
+    {
+      "substance": "Mýdlová voda",
+      "ph": 12,
+      "h_concentration": "10⁻¹²",
+      "category": "Silná zásada",
+      "nature": "Žíravý"
+    },
+    {
+      "substance": "Bělidlo (NaClO)",
+      "ph": 12.5,
+      "h_concentration": "3.2×10⁻¹³",
+      "category": "Silná zásada",
+      "nature": "Žíravý"
+    },
+    {
+      "substance": "Čistič trouby",
+      "ph": 13,
+      "h_concentration": "10⁻¹³",
+      "category": "Silná zásada",
+      "nature": "Vysoce žíravý"
+    },
+    {
+      "substance": "Čistič odpadů",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Silná zásada",
+      "nature": "Vysoce žíravý"
+    },
+    {
+      "substance": "Hydroxid sodný (NaOH)",
+      "ph": 14,
+      "h_concentration": "10⁻¹⁴",
+      "category": "Silná zásada",
+      "nature": "Vysoce žíravý"
+    },
+    {
+      "substance": "Zdravá půda",
+      "ph": 6.5,
+      "h_concentration": "3.2×10⁻⁷",
+      "category": "Environmentální",
+      "nature": "Optimální pro většinu rostlin"
+    },
+    {
+      "substance": "Bazén (Ideální)",
+      "ph": 7.4,
+      "h_concentration": "4×10⁻⁸",
+      "category": "Environmentální",
+      "nature": "Bezpečné pro plavání"
+    },
+    {
+      "substance": "Akvárium (Sladkovodní)",
+      "ph": 7,
+      "h_concentration": "10⁻⁷",
+      "category": "Environmentální",
+      "nature": "Optimální pro ryby"
+    },
+    {
+      "substance": "Lidská kůže",
+      "ph": 5.5,
+      "h_concentration": "3.2×10⁻⁶",
+      "category": "Biologické",
+      "nature": "Kyselý plášť"
+    },
+    {
+      "substance": "Lidská moč",
+      "ph": 6,
+      "h_concentration": "10⁻⁶",
+      "category": "Biologické",
+      "nature": "Proměnlivý (4.5-8)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Referenční data pH stupnice - Ke stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si 33 referenčních záznamů pH stupnice pro různé látky. Získejte hodnoty pH, koncentraci H⁺ a kategorii. Zdarma v Excelu, CSV, PDF.",
+    "title": "Sada Dat Referenční pH Stupnice a Chemické Vlastnosti",
+    "description": "Tato sada dat poskytuje komplexní referenci 33 látek, uvádějící jejich hodnoty pH, koncentraci vodíkových iontů, kategorii kyselosti/zásaditosti a povahu.",
+    "key_takeaways": [
+      "Získejte přístup k vybranému seznamu 33 běžných látek s jejich hodnotami pH.",
+      "Prozkoumejte koncentrace vodíkových iontů ([H⁺]) a kategorizujte látky podle kyselosti/zásaditosti.",
+      "Stáhněte si základní chemická referenční data v několika pohodlných formátech.",
+      "Pochopte povahu různých látek, od vysoce korozivních po neutrální."
+    ],
+    "keywords": [
+      "pH stupnice reference excel",
+      "data kyseliny báze pH csv",
+      "hodnota pH látek ke stažení",
+      "chemie koncentrace H+",
+      "alkalické kyselé látky seznam",
+      "zdarma pH dataset pdf"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší databáze nebo skriptů Python pro chemický výzkum, analýzu dat nebo tvorbu vzdělávacích aplikací souvisejících s pH.",
+      "Použijte soubor **Excel** k filtrování, řazení a analýze hodnot pH a koncentrací pro laboratorní zprávy, akademické projekty nebo vytváření srovnávacích tabulek.",
+      "Vytiskněte verzi **PDF** pro rychlou offline referenci v chemické třídě, laboratoři nebo pro studijní průvodce a vzdělávací prezentace.",
+      "Využijte tuto sadu dat k obohacení vzdělávacího obsahu, vývoji kvízů nebo demonstraci spektra pH každodenních látek studentům."
+    ]
+  },
+  "record_count": 33,
+  "title": "Sada Dat Referenční pH Stupnice a Chemické Vlastnosti"
+}

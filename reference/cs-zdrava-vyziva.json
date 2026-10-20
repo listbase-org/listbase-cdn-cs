@@ -1,0 +1,671 @@
+{
+  "id": "cs-zdrava-vyziva",
+  "name": "Prodejny zdravé výživy",
+  "title": "Prodejny zdravé výživy",
+  "description": "Prodejny zdravé výživy v České republice (126 záznamů) — body zájmu z OpenStreetMap (tag shop=health_food), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 126,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ahava",
+      "latitude": 48.973543,
+      "longitude": 14.473886
+    },
+    {
+      "name": "AKoupim.cz",
+      "latitude": 49.586505,
+      "longitude": 18.752153
+    },
+    {
+      "name": "ALFA - zdravá výživa",
+      "latitude": 49.197875,
+      "longitude": 16.606191
+    },
+    {
+      "name": "Asian shop",
+      "latitude": 49.177197,
+      "longitude": 16.565674
+    },
+    {
+      "name": "Babja bylinařka",
+      "latitude": 50.211649,
+      "longitude": 15.81904
+    },
+    {
+      "name": "Bazalka",
+      "latitude": 50.185563,
+      "longitude": 15.847766
+    },
+    {
+      "name": "Bazalka",
+      "latitude": 50.210648,
+      "longitude": 15.823976
+    },
+    {
+      "name": "Bazalka V Kopečku",
+      "latitude": 50.209663,
+      "longitude": 15.831277
+    },
+    {
+      "name": "Bezlepkový ráj",
+      "latitude": 49.211633,
+      "longitude": 16.62435
+    },
+    {
+      "name": "Bio Krámek",
+      "latitude": 49.715287,
+      "longitude": 16.265881
+    },
+    {
+      "name": "Biokrálovna",
+      "latitude": 49.012287,
+      "longitude": 17.126667
+    },
+    {
+      "name": "Brána ke zdraví",
+      "latitude": 49.19378,
+      "longitude": 16.611703
+    },
+    {
+      "name": "Country Life - vzorková prodejna Rudná",
+      "latitude": 50.017884,
+      "longitude": 14.204596
+    },
+    {
+      "name": "DejsiBio",
+      "latitude": 49.399987,
+      "longitude": 15.589712
+    },
+    {
+      "name": "DIBEO",
+      "latitude": 49.836479,
+      "longitude": 13.905232
+    },
+    {
+      "name": "Dopohody",
+      "latitude": 50.02997,
+      "longitude": 15.774973
+    },
+    {
+      "name": "Ekokoloniál",
+      "latitude": 50.034076,
+      "longitude": 15.762343
+    },
+    {
+      "name": "Farmářské potraviny",
+      "latitude": 50.210762,
+      "longitude": 15.826245
+    },
+    {
+      "name": "Food for life",
+      "latitude": 50.034927,
+      "longitude": 14.376826
+    },
+    {
+      "name": "Fruxy zdravá výživa a občerstvení",
+      "latitude": 49.235011,
+      "longitude": 13.522595
+    },
+    {
+      "name": "Harmonie",
+      "latitude": 49.471587,
+      "longitude": 15.002945
+    },
+    {
+      "name": "Harmonie",
+      "latitude": 49.527122,
+      "longitude": 17.588125
+    },
+    {
+      "name": "Harmonie zdravá výživa",
+      "latitude": 49.451629,
+      "longitude": 17.449558
+    },
+    {
+      "name": "Harmonie zdraví",
+      "latitude": 49.595951,
+      "longitude": 17.251721
+    },
+    {
+      "name": "Herba",
+      "latitude": 48.756289,
+      "longitude": 16.889529
+    },
+    {
+      "name": "Hravě zdravě",
+      "latitude": 50.071823,
+      "longitude": 14.479215
+    },
+    {
+      "name": "Il Gato",
+      "latitude": 50.025731,
+      "longitude": 15.209849
+    },
+    {
+      "name": "InCor medica",
+      "latitude": 50.19337,
+      "longitude": 15.841055
+    },
+    {
+      "name": "JAMBO Zdravá výživa",
+      "latitude": 49.473556,
+      "longitude": 17.970574
+    },
+    {
+      "name": "Jaro, prodejna zdravé výživy",
+      "latitude": 50.074007,
+      "longitude": 12.3738
+    },
+    {
+      "name": "Jasmínek",
+      "latitude": 49.949889,
+      "longitude": 15.266618
+    },
+    {
+      "name": "Jezto",
+      "latitude": 48.974958,
+      "longitude": 14.476907
+    },
+    {
+      "name": "Jihlaváček",
+      "latitude": 49.397039,
+      "longitude": 15.589456
+    },
+    {
+      "name": "Katika",
+      "latitude": 50.122875,
+      "longitude": 14.496974
+    },
+    {
+      "name": "Kokoloniál",
+      "latitude": 49.195455,
+      "longitude": 16.539715
+    },
+    {
+      "name": "Koloniál u Kohoutů",
+      "latitude": 50.131512,
+      "longitude": 14.339216
+    },
+    {
+      "name": "Krakonošovy dobroty",
+      "latitude": 50.025737,
+      "longitude": 15.210095
+    },
+    {
+      "name": "La. Obchůdek",
+      "latitude": 49.152693,
+      "longitude": 16.876549
+    },
+    {
+      "name": "Liška domácí",
+      "latitude": 49.594878,
+      "longitude": 17.268933
+    },
+    {
+      "name": "Lupínek",
+      "latitude": 50.031464,
+      "longitude": 14.531202
+    },
+    {
+      "name": "Masticha MasticLife",
+      "latitude": 50.075023,
+      "longitude": 14.433308
+    },
+    {
+      "name": "Miska",
+      "latitude": 49.639643,
+      "longitude": 18.144845
+    },
+    {
+      "name": "Na lontu",
+      "latitude": 49.208564,
+      "longitude": 16.68586
+    },
+    {
+      "name": "Na schůzce",
+      "latitude": 49.070256,
+      "longitude": 16.466874
+    },
+    {
+      "name": "Natur House",
+      "latitude": 50.213772,
+      "longitude": 15.816167
+    },
+    {
+      "name": "Natur-Pro.cz",
+      "latitude": 50.072279,
+      "longitude": 14.405395
+    },
+    {
+      "name": "Nominal",
+      "latitude": 49.381606,
+      "longitude": 16.076806
+    },
+    {
+      "name": "Nutrend",
+      "latitude": 50.073723,
+      "longitude": 14.402469
+    },
+    {
+      "name": "Nutriční poradenství",
+      "latitude": 49.950689,
+      "longitude": 15.267503
+    },
+    {
+      "name": "Náš grunt",
+      "latitude": 50.417184,
+      "longitude": 16.166755
+    },
+    {
+      "name": "Něha",
+      "latitude": 49.010313,
+      "longitude": 17.124198
+    },
+    {
+      "name": "Obchůdek pro zdraví",
+      "latitude": 49.203458,
+      "longitude": 16.596481
+    },
+    {
+      "name": "Obchůdek U Kozlíka",
+      "latitude": 49.33046,
+      "longitude": 17.577007
+    },
+    {
+      "name": "OchutnejOřech.cz",
+      "latitude": 48.973591,
+      "longitude": 14.47506
+    },
+    {
+      "name": "PAMO",
+      "latitude": 49.222879,
+      "longitude": 16.594972
+    },
+    {
+      "name": "ParkFit",
+      "latitude": 49.224846,
+      "longitude": 16.597248
+    },
+    {
+      "name": "Pro sebe (zdravá výživa)",
+      "latitude": 49.594756,
+      "longitude": 17.248136
+    },
+    {
+      "name": "Pro zdraví a radost",
+      "latitude": 50.702423,
+      "longitude": 14.803613
+    },
+    {
+      "name": "Prodejna Olomouckých tvarůžků",
+      "latitude": 49.192355,
+      "longitude": 16.604714
+    },
+    {
+      "name": "Pyramida",
+      "latitude": 48.972588,
+      "longitude": 14.474483
+    },
+    {
+      "name": "Pí-centrum",
+      "latitude": 49.209189,
+      "longitude": 16.630549
+    },
+    {
+      "name": "Přirozenou cestou",
+      "latitude": 49.592901,
+      "longitude": 17.252253
+    },
+    {
+      "name": "Přírodní lékárna",
+      "latitude": 50.077433,
+      "longitude": 14.456605
+    },
+    {
+      "name": "Racio",
+      "latitude": 48.763445,
+      "longitude": 16.887201
+    },
+    {
+      "name": "Racio - zdravá výživa",
+      "latitude": 49.639587,
+      "longitude": 18.14438
+    },
+    {
+      "name": "Racionální výživa",
+      "latitude": 48.939667,
+      "longitude": 16.736308
+    },
+    {
+      "name": "Racionální výživa",
+      "latitude": 50.106568,
+      "longitude": 14.580733
+    },
+    {
+      "name": "Rozmarýnka",
+      "latitude": 49.540802,
+      "longitude": 15.35648
+    },
+    {
+      "name": "Rupalubato s.r.o.",
+      "latitude": 50.103482,
+      "longitude": 13.729569
+    },
+    {
+      "name": "RYNEK Jičín",
+      "latitude": 50.433667,
+      "longitude": 15.379058
+    },
+    {
+      "name": "Slunečnice",
+      "latitude": 48.975955,
+      "longitude": 14.486097
+    },
+    {
+      "name": "Slunečnice",
+      "latitude": 49.965796,
+      "longitude": 16.97159
+    },
+    {
+      "name": "Slunečnice",
+      "latitude": 50.026499,
+      "longitude": 15.200456
+    },
+    {
+      "name": "Slunečnice",
+      "latitude": 50.027863,
+      "longitude": 15.199274
+    },
+    {
+      "name": "Spižírna",
+      "latitude": 49.594305,
+      "longitude": 17.272184
+    },
+    {
+      "name": "Sportovní výživa",
+      "latitude": 50.036303,
+      "longitude": 15.773385
+    },
+    {
+      "name": "Studio ZuHa",
+      "latitude": 50.116028,
+      "longitude": 14.469571
+    },
+    {
+      "name": "Studio Čtyřlístek",
+      "latitude": 50.394383,
+      "longitude": 16.04304
+    },
+    {
+      "name": "Svět plodů",
+      "latitude": 49.59616,
+      "longitude": 17.251714
+    },
+    {
+      "name": "U Dany",
+      "latitude": 49.949623,
+      "longitude": 15.266889
+    },
+    {
+      "name": "VEGA shop & coffee",
+      "latitude": 49.209148,
+      "longitude": 16.687371
+    },
+    {
+      "name": "ViaVita",
+      "latitude": 49.607272,
+      "longitude": 15.578573
+    },
+    {
+      "name": "Vilgain",
+      "latitude": 50.075618,
+      "longitude": 14.431998
+    },
+    {
+      "name": "Vilgain Store",
+      "latitude": 50.082964,
+      "longitude": 14.42116
+    },
+    {
+      "name": "Vita obchůdek",
+      "latitude": 49.896094,
+      "longitude": 18.188918
+    },
+    {
+      "name": "Vitalita.cz",
+      "latitude": 50.061854,
+      "longitude": 14.402721
+    },
+    {
+      "name": "Vitálka",
+      "latitude": 50.534517,
+      "longitude": 14.134596
+    },
+    {
+      "name": "Vlčí mák",
+      "latitude": 49.346846,
+      "longitude": 16.424174
+    },
+    {
+      "name": "Vzorkovna",
+      "latitude": 50.026743,
+      "longitude": 15.205334
+    },
+    {
+      "name": "ZdravoTéka",
+      "latitude": 49.59507,
+      "longitude": 17.24973
+    },
+    {
+      "name": "Zdravá prodejna;Opravna tiskáren",
+      "latitude": 49.774659,
+      "longitude": 13.246677
+    },
+    {
+      "name": "Zdravá proměna",
+      "latitude": 49.575091,
+      "longitude": 17.22768
+    },
+    {
+      "name": "ZDRAVÁ VÝŽIVA",
+      "latitude": 48.858365,
+      "longitude": 16.048865
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 48.973606,
+      "longitude": 17.266208
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.189092,
+      "longitude": 16.594171
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.198501,
+      "longitude": 16.594556
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.203119,
+      "longitude": 16.88171
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.217366,
+      "longitude": 16.609081
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.218503,
+      "longitude": 16.552976
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.297223,
+      "longitude": 17.78731
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.526848,
+      "longitude": 17.587049
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.590593,
+      "longitude": 16.890076
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.779149,
+      "longitude": 18.431006
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.973112,
+      "longitude": 16.393423
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 50.103363,
+      "longitude": 13.73137
+    },
+    {
+      "name": "Zdravá výživa - Dagmar Frömelová",
+      "latitude": 49.594214,
+      "longitude": 17.271256
+    },
+    {
+      "name": "Zdravá výživa - Petra",
+      "latitude": 49.277922,
+      "longitude": 16.998211
+    },
+    {
+      "name": "Zdravá výživa Alena Dokonalová",
+      "latitude": 50.046454,
+      "longitude": 15.761745
+    },
+    {
+      "name": "Zdravá výživa BioDoDomu",
+      "latitude": 49.599195,
+      "longitude": 17.27276
+    },
+    {
+      "name": "Zdravá výživa Jája",
+      "latitude": 50.104327,
+      "longitude": 14.474053
+    },
+    {
+      "name": "Zdravá výživa NABO",
+      "latitude": 49.410398,
+      "longitude": 16.639705
+    },
+    {
+      "name": "Zdravá výživa PoHanka",
+      "latitude": 48.811091,
+      "longitude": 14.315726
+    },
+    {
+      "name": "Zdravá výživa Sluníčko",
+      "latitude": 49.780188,
+      "longitude": 18.432276
+    },
+    {
+      "name": "Zdravá výživa u Milušky",
+      "latitude": 49.59561,
+      "longitude": 17.249334
+    },
+    {
+      "name": "Zdravá výživa Violka",
+      "latitude": 49.063884,
+      "longitude": 17.02933
+    },
+    {
+      "name": "Zdravé potraviny",
+      "latitude": 49.234121,
+      "longitude": 16.625635
+    },
+    {
+      "name": "Zdraví s chutí",
+      "latitude": 49.194816,
+      "longitude": 16.609472
+    },
+    {
+      "name": "Zdraví z přírody",
+      "latitude": 50.118976,
+      "longitude": 12.351335
+    },
+    {
+      "name": "zdravíčko",
+      "latitude": 49.009474,
+      "longitude": 17.125566
+    },
+    {
+      "name": "Zdravíčko",
+      "latitude": 50.213527,
+      "longitude": 15.823955
+    },
+    {
+      "name": "Zdravý krámek",
+      "latitude": 50.074625,
+      "longitude": 14.859697
+    },
+    {
+      "name": "Zdravěnka",
+      "latitude": 49.349629,
+      "longitude": 16.420516
+    },
+    {
+      "name": "Zlatý Klíček",
+      "latitude": 49.198411,
+      "longitude": 16.601409
+    },
+    {
+      "name": "Čtyřlístek",
+      "latitude": 49.181708,
+      "longitude": 16.393155
+    },
+    {
+      "name": "Špajz",
+      "latitude": 49.503525,
+      "longitude": 16.507223
+    },
+    {
+      "name": "Živadosta",
+      "latitude": 48.805034,
+      "longitude": 14.311825
+    }
+  ],
+  "meta": {
+    "title": "Prodejny zdravé výživy - Stáhnout zdarma",
+    "description": "Prodejny zdravé výživy v České republice (126 záznamů) — body zájmu z OpenStreetMap (tag shop=health_food), výřez EU-POIS/CZ. Obsahuje 126 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Prodejny zdravé výživy | ListBase",
+    "seo_description": "Stáhnout Prodejny zdravé výživy — 126 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 126 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

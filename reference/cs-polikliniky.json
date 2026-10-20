@@ -1,0 +1,2456 @@
+{
+  "id": "cs-polikliniky",
+  "name": "České polikliniky",
+  "title": "České polikliniky",
+  "description": "Seznam pojmenovaných poliklinik v Česku (amenity=clinic) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 483,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A",
+      "latitude": 49.20764,
+      "longitude": 16.611441
+    },
+    {
+      "name": "A - Hlavní",
+      "latitude": 49.899723,
+      "longitude": 18.186622
+    },
+    {
+      "name": "Achillea",
+      "latitude": 50.140346,
+      "longitude": 14.432543
+    },
+    {
+      "name": "Agel Hornická poliklinika",
+      "latitude": 49.846097,
+      "longitude": 18.285418
+    },
+    {
+      "name": "Akeso",
+      "latitude": 50.050463,
+      "longitude": 14.353241
+    },
+    {
+      "name": "Ambulance",
+      "latitude": 49.183995,
+      "longitude": 16.637829
+    },
+    {
+      "name": "Ambulance",
+      "latitude": 50.924961,
+      "longitude": 15.088613
+    },
+    {
+      "name": "Ambulance bolesti",
+      "latitude": 50.029761,
+      "longitude": 15.789831
+    },
+    {
+      "name": "Ambulance praktických lékařů",
+      "latitude": 49.794969,
+      "longitude": 18.235595
+    },
+    {
+      "name": "AMEM klinika estetické medicíny",
+      "latitude": 50.096457,
+      "longitude": 14.364924
+    },
+    {
+      "name": "Anatomický ústav",
+      "latitude": 50.073969,
+      "longitude": 14.422118
+    },
+    {
+      "name": "ANSA Sanatorium",
+      "latitude": 50.625621,
+      "longitude": 15.6122
+    },
+    {
+      "name": "Apromed",
+      "latitude": 49.829775,
+      "longitude": 18.184241
+    },
+    {
+      "name": "Asklepion",
+      "latitude": 50.073253,
+      "longitude": 14.433916
+    },
+    {
+      "name": "Avicena",
+      "latitude": 50.771446,
+      "longitude": 15.056327
+    },
+    {
+      "name": "Barna Medical",
+      "latitude": 50.096539,
+      "longitude": 14.476936
+    },
+    {
+      "name": "BeMed",
+      "latitude": 49.968489,
+      "longitude": 14.07026
+    },
+    {
+      "name": "Budova A1",
+      "latitude": 49.675831,
+      "longitude": 13.99945
+    },
+    {
+      "name": "Budova A2",
+      "latitude": 49.675513,
+      "longitude": 13.999975
+    },
+    {
+      "name": "Budova B",
+      "latitude": 49.675665,
+      "longitude": 14.000396
+    },
+    {
+      "name": "Budova C",
+      "latitude": 49.675853,
+      "longitude": 14.000834
+    },
+    {
+      "name": "Canadian Medical",
+      "latitude": 50.057086,
+      "longitude": 14.432841
+    },
+    {
+      "name": "Canadian Medical Care",
+      "latitude": 50.093236,
+      "longitude": 14.350981
+    },
+    {
+      "name": "Cara Plasma",
+      "latitude": 50.083379,
+      "longitude": 14.421703
+    },
+    {
+      "name": "Care medico",
+      "latitude": 50.084856,
+      "longitude": 14.436572
+    },
+    {
+      "name": "Centrum fotonové terapie",
+      "latitude": 49.195257,
+      "longitude": 16.589461
+    },
+    {
+      "name": "Centrum pracovního lékařství",
+      "latitude": 50.029711,
+      "longitude": 15.789841
+    },
+    {
+      "name": "Centrum reprodukční medicíny IVF Centre",
+      "latitude": 50.072456,
+      "longitude": 14.371211
+    },
+    {
+      "name": "Centrum zdravotní péče",
+      "latitude": 50.115254,
+      "longitude": 14.699216
+    },
+    {
+      "name": "Centrum zdravotní péče Jarov",
+      "latitude": 50.092853,
+      "longitude": 14.48637
+    },
+    {
+      "name": "Cepsymed",
+      "latitude": 50.068788,
+      "longitude": 14.295081
+    },
+    {
+      "name": "Chirurgie a radiologie Sušice, s.r.o.",
+      "latitude": 49.229871,
+      "longitude": 13.519549
+    },
+    {
+      "name": "Chirurgie Šibeník, Mamografie",
+      "latitude": 49.59727,
+      "longitude": 17.236382
+    },
+    {
+      "name": "Cleopatra clinic",
+      "latitude": 49.834628,
+      "longitude": 18.288852
+    },
+    {
+      "name": "Clinical hair&health",
+      "latitude": 50.123238,
+      "longitude": 14.458
+    },
+    {
+      "name": "Clinicum",
+      "latitude": 50.10796,
+      "longitude": 14.494572
+    },
+    {
+      "name": "Cordeus",
+      "latitude": 50.096418,
+      "longitude": 14.365137
+    },
+    {
+      "name": "Derma medical clinic",
+      "latitude": 49.591634,
+      "longitude": 17.269665
+    },
+    {
+      "name": "Dermaestet",
+      "latitude": 49.223761,
+      "longitude": 16.607312
+    },
+    {
+      "name": "DermaMax dermatologie, lymfologie",
+      "latitude": 50.09645,
+      "longitude": 14.365042
+    },
+    {
+      "name": "Dermatologická ambulance",
+      "latitude": 49.730433,
+      "longitude": 13.377115
+    },
+    {
+      "name": "Dermatovenerologická klinika",
+      "latitude": 50.070664,
+      "longitude": 14.423193
+    },
+    {
+      "name": "Diagnostické centrum",
+      "latitude": 49.842628,
+      "longitude": 18.288862
+    },
+    {
+      "name": "Dialýza, nefrologie, onkologie - ambulance, ortopedie - ambulance",
+      "latitude": 49.942476,
+      "longitude": 15.807657
+    },
+    {
+      "name": "Dr. Bear Clinic",
+      "latitude": 50.047645,
+      "longitude": 14.355502
+    },
+    {
+      "name": "Dětská ordinace, kožní ordinace",
+      "latitude": 50.033223,
+      "longitude": 14.528244
+    },
+    {
+      "name": "Dětská poliklinika",
+      "latitude": 49.792055,
+      "longitude": 18.239272
+    },
+    {
+      "name": "Dětská poliklinika",
+      "latitude": 50.774431,
+      "longitude": 15.067289
+    },
+    {
+      "name": "Dětské oddělení",
+      "latitude": 49.941942,
+      "longitude": 15.808663
+    },
+    {
+      "name": "Dětské oddělení",
+      "latitude": 50.033015,
+      "longitude": 14.374491
+    },
+    {
+      "name": "Dětské zdravotní středisko",
+      "latitude": 50.674255,
+      "longitude": 14.103086
+    },
+    {
+      "name": "Dětský pediatr",
+      "latitude": 50.124533,
+      "longitude": 12.346448
+    },
+    {
+      "name": "Dům zdraví",
+      "latitude": 48.841286,
+      "longitude": 17.073064
+    },
+    {
+      "name": "Dům zdraví",
+      "latitude": 49.845404,
+      "longitude": 18.280867
+    },
+    {
+      "name": "Dům zdraví",
+      "latitude": 49.930294,
+      "longitude": 17.270139
+    },
+    {
+      "name": "Edukační kampus, dentální učení Kladno",
+      "latitude": 50.137825,
+      "longitude": 14.087282
+    },
+    {
+      "name": "Emergency / Pohotovost",
+      "latitude": 49.212839,
+      "longitude": 15.88939
+    },
+    {
+      "name": "Ergoterapie",
+      "latitude": 49.181871,
+      "longitude": 16.639104
+    },
+    {
+      "name": "EUC klinika",
+      "latitude": 49.744879,
+      "longitude": 13.383063
+    },
+    {
+      "name": "EUC klinika",
+      "latitude": 50.052737,
+      "longitude": 15.759188
+    },
+    {
+      "name": "EUC Klinika",
+      "latitude": 50.148436,
+      "longitude": 14.106552
+    },
+    {
+      "name": "EUC klinika",
+      "latitude": 50.216727,
+      "longitude": 15.854095
+    },
+    {
+      "name": "EUC Klinika",
+      "latitude": 50.232656,
+      "longitude": 14.084775
+    },
+    {
+      "name": "EUC klinika",
+      "latitude": 50.66748,
+      "longitude": 14.029145
+    },
+    {
+      "name": "Euc klinika",
+      "latitude": 50.768763,
+      "longitude": 15.066783
+    },
+    {
+      "name": "EUC klinika - Poliklinika JIH",
+      "latitude": 48.966547,
+      "longitude": 14.476102
+    },
+    {
+      "name": "EUC klinika Ostrava a.s.",
+      "latitude": 49.831287,
+      "longitude": 18.178864
+    },
+    {
+      "name": "EUC Klinika Plzeň",
+      "latitude": 49.740656,
+      "longitude": 13.368883
+    },
+    {
+      "name": "EUC Klinika Praha - Šustova",
+      "latitude": 50.02767,
+      "longitude": 14.489744
+    },
+    {
+      "name": "EuroPainClinics",
+      "latitude": 50.032883,
+      "longitude": 14.498492
+    },
+    {
+      "name": "Fakultní poliklinika Všeobecné fakultní nemocnice v Praze",
+      "latitude": 50.076215,
+      "longitude": 14.421963
+    },
+    {
+      "name": "FERTIMED, s.r.o. OLOMOUC",
+      "latitude": 49.590406,
+      "longitude": 17.267666
+    },
+    {
+      "name": "Fyzio svět s.r.o.",
+      "latitude": 50.102498,
+      "longitude": 14.420079
+    },
+    {
+      "name": "Fyzioterapie Srdcem",
+      "latitude": 49.040481,
+      "longitude": 16.968808
+    },
+    {
+      "name": "Gerontocentrum",
+      "latitude": 49.743079,
+      "longitude": 18.627164
+    },
+    {
+      "name": "Gesundheitszentrum Gmünd",
+      "latitude": 48.773223,
+      "longitude": 14.987394
+    },
+    {
+      "name": "GHC",
+      "latitude": 50.078035,
+      "longitude": 14.428137
+    },
+    {
+      "name": "Gruppenpraxis Margeta-Heger",
+      "latitude": 48.854563,
+      "longitude": 15.769485
+    },
+    {
+      "name": "Gynekologicko – porodnická klinika",
+      "latitude": 50.071126,
+      "longitude": 14.426826
+    },
+    {
+      "name": "Gynekologická ambulance",
+      "latitude": 49.762434,
+      "longitude": 13.377177
+    },
+    {
+      "name": "Gynem",
+      "latitude": 50.094856,
+      "longitude": 14.387615
+    },
+    {
+      "name": "Gynem",
+      "latitude": 50.136459,
+      "longitude": 14.452732
+    },
+    {
+      "name": "Hematologicko-transfúzní oddělení",
+      "latitude": 49.941761,
+      "longitude": 15.806369
+    },
+    {
+      "name": "Hlavní vchod, recepce, příjem",
+      "latitude": 49.941539,
+      "longitude": 15.807336
+    },
+    {
+      "name": "Homea",
+      "latitude": 50.02181,
+      "longitude": 15.732497
+    },
+    {
+      "name": "HRADECKÁ POLIKLINIKA III",
+      "latitude": 50.195973,
+      "longitude": 15.837649
+    },
+    {
+      "name": "II. interní klinika - ambulance, lůžka",
+      "latitude": 49.732564,
+      "longitude": 13.375724
+    },
+    {
+      "name": "II. poliklinika",
+      "latitude": 49.679931,
+      "longitude": 13.999881
+    },
+    {
+      "name": "III. interní klinika – endokrinologie a metabolismu",
+      "latitude": 50.0748,
+      "longitude": 14.420673
+    },
+    {
+      "name": "III. Poliklinika",
+      "latitude": 49.675677,
+      "longitude": 14.00032
+    },
+    {
+      "name": "Innera",
+      "latitude": 49.781309,
+      "longitude": 14.683435
+    },
+    {
+      "name": "Inspirita",
+      "latitude": 50.10505,
+      "longitude": 14.486124
+    },
+    {
+      "name": "Iscare",
+      "latitude": 50.103364,
+      "longitude": 14.495114
+    },
+    {
+      "name": "IVF Zlin",
+      "latitude": 49.216716,
+      "longitude": 17.663323
+    },
+    {
+      "name": "Klinika",
+      "latitude": 50.087208,
+      "longitude": 12.380282
+    },
+    {
+      "name": "Klinika adiktologie",
+      "latitude": 50.070475,
+      "longitude": 14.422244
+    },
+    {
+      "name": "Klinika Dr. Pírka",
+      "latitude": 50.40698,
+      "longitude": 14.922292
+    },
+    {
+      "name": "Klinika Medistetik",
+      "latitude": 50.050665,
+      "longitude": 14.348287
+    },
+    {
+      "name": "Klinika oční a estetické chirurgie",
+      "latitude": 49.22215,
+      "longitude": 17.680029
+    },
+    {
+      "name": "Klinika plastické chirurgie",
+      "latitude": 49.226019,
+      "longitude": 16.589874
+    },
+    {
+      "name": "Klinika pracovního lékařství",
+      "latitude": 50.073399,
+      "longitude": 14.427396
+    },
+    {
+      "name": "Klinika rehabilitačního lékařství",
+      "latitude": 50.069349,
+      "longitude": 14.424614
+    },
+    {
+      "name": "Klinika u svatého Klimenta",
+      "latitude": 50.096746,
+      "longitude": 14.422325
+    },
+    {
+      "name": "Klinika zobrazovacích metod",
+      "latitude": 49.191273,
+      "longitude": 16.599958
+    },
+    {
+      "name": "Kožní ambulance",
+      "latitude": 49.896405,
+      "longitude": 18.190195
+    },
+    {
+      "name": "Kožní klinika VZHLED",
+      "latitude": 49.8752,
+      "longitude": 18.423672
+    },
+    {
+      "name": "Krušnohorská poliklinika",
+      "latitude": 50.602343,
+      "longitude": 13.614116
+    },
+    {
+      "name": "Lexum",
+      "latitude": 49.182379,
+      "longitude": 16.604919
+    },
+    {
+      "name": "Liberecká poliklinika",
+      "latitude": 50.767797,
+      "longitude": 15.05567
+    },
+    {
+      "name": "Lužická poliklinika Rumburk",
+      "latitude": 50.954331,
+      "longitude": 14.551901
+    },
+    {
+      "name": "Lázeňská poliklinika",
+      "latitude": 49.108237,
+      "longitude": 17.763646
+    },
+    {
+      "name": "Lázeňské centrum Agricola",
+      "latitude": 50.360433,
+      "longitude": 12.934058
+    },
+    {
+      "name": "Lékařská služba první pomoci",
+      "latitude": 49.298976,
+      "longitude": 14.46896
+    },
+    {
+      "name": "Lékařské centrum - Laudonova vila",
+      "latitude": 49.063385,
+      "longitude": 17.025181
+    },
+    {
+      "name": "Lékařské centrum Lázně",
+      "latitude": 49.189687,
+      "longitude": 16.607092
+    },
+    {
+      "name": "Lékařské středisko",
+      "latitude": 50.719555,
+      "longitude": 15.312526
+    },
+    {
+      "name": "Lékařské středisko",
+      "latitude": 50.737054,
+      "longitude": 15.307682
+    },
+    {
+      "name": "Lékařské zařízení",
+      "latitude": 49.88003,
+      "longitude": 15.064648
+    },
+    {
+      "name": "Lékařský dům Géčko",
+      "latitude": 48.99968,
+      "longitude": 14.449962
+    },
+    {
+      "name": "Lékařský dům Praha 7",
+      "latitude": 50.103783,
+      "longitude": 14.433245
+    },
+    {
+      "name": "Lékařský dům Revmavita",
+      "latitude": 49.224385,
+      "longitude": 17.68993
+    },
+    {
+      "name": "Lékařský dům Štětí",
+      "latitude": 50.452989,
+      "longitude": 14.375996
+    },
+    {
+      "name": "Léčebně preventivní zařízení",
+      "latitude": 50.177589,
+      "longitude": 12.641373
+    },
+    {
+      "name": "Malá poliklinika",
+      "latitude": 50.020823,
+      "longitude": 15.772002
+    },
+    {
+      "name": "Mammocentrum Klatovy",
+      "latitude": 49.399369,
+      "longitude": 13.276902
+    },
+    {
+      "name": "Masáže Václav Marek",
+      "latitude": 50.14268,
+      "longitude": 15.129268
+    },
+    {
+      "name": "Medical centrum",
+      "latitude": 50.730469,
+      "longitude": 15.469853
+    },
+    {
+      "name": "Medicentrum Beroun",
+      "latitude": 49.964029,
+      "longitude": 14.069471
+    },
+    {
+      "name": "MediCentrum Praha",
+      "latitude": 50.03397,
+      "longitude": 14.485167
+    },
+    {
+      "name": "Medicom",
+      "latitude": 50.041027,
+      "longitude": 14.429083
+    },
+    {
+      "name": "Medicover",
+      "latitude": 50.057156,
+      "longitude": 14.432614
+    },
+    {
+      "name": "Medicur",
+      "latitude": 50.051366,
+      "longitude": 14.337791
+    },
+    {
+      "name": "Medicínské centrum Hippokrates",
+      "latitude": 49.486165,
+      "longitude": 16.666316
+    },
+    {
+      "name": "MEDIKA-CENTRUM",
+      "latitude": 49.78223,
+      "longitude": 13.374579
+    },
+    {
+      "name": "MEDILA poliklinika",
+      "latitude": 50.035033,
+      "longitude": 15.788339
+    },
+    {
+      "name": "Mediscan",
+      "latitude": 50.027873,
+      "longitude": 14.489234
+    },
+    {
+      "name": "Medispol",
+      "latitude": 49.218159,
+      "longitude": 16.575899
+    },
+    {
+      "name": "MG Medical Center",
+      "latitude": 49.936631,
+      "longitude": 17.90222
+    },
+    {
+      "name": "Modrý dům",
+      "latitude": 50.126931,
+      "longitude": 14.471769
+    },
+    {
+      "name": "Moje ambulance",
+      "latitude": 49.590881,
+      "longitude": 17.239064
+    },
+    {
+      "name": "Moje Ambulance",
+      "latitude": 50.04725,
+      "longitude": 14.355515
+    },
+    {
+      "name": "Moje ambulance",
+      "latitude": 50.098936,
+      "longitude": 14.374567
+    },
+    {
+      "name": "Moje Ambulance a.s.",
+      "latitude": 49.753297,
+      "longitude": 13.377111
+    },
+    {
+      "name": "Mudr Karel Dvořák",
+      "latitude": 49.418377,
+      "longitude": 14.651742
+    },
+    {
+      "name": "MUDr. Pavlíková",
+      "latitude": 49.227423,
+      "longitude": 16.648957
+    },
+    {
+      "name": "MyBestCare",
+      "latitude": 50.047149,
+      "longitude": 14.344726
+    },
+    {
+      "name": "Městská poliklinika",
+      "latitude": 49.463752,
+      "longitude": 18.143911
+    },
+    {
+      "name": "Městská poliklinika",
+      "latitude": 49.905643,
+      "longitude": 16.443331
+    },
+    {
+      "name": "Městská poliklinika",
+      "latitude": 50.533928,
+      "longitude": 15.367495
+    },
+    {
+      "name": "Městská poliklinika Nejdek",
+      "latitude": 50.326893,
+      "longitude": 12.733871
+    },
+    {
+      "name": "Městská poliklinika Praha",
+      "latitude": 50.080278,
+      "longitude": 14.419985
+    },
+    {
+      "name": "Městská poliklinika Slovany",
+      "latitude": 49.730764,
+      "longitude": 13.40083
+    },
+    {
+      "name": "Městská poliklinika Uničov",
+      "latitude": 49.766109,
+      "longitude": 17.121711
+    },
+    {
+      "name": "Městské zdravotnické zařízení",
+      "latitude": 49.604037,
+      "longitude": 13.865047
+    },
+    {
+      "name": "Městské zdravotnické zařízení Březnice",
+      "latitude": 49.559754,
+      "longitude": 13.954078
+    },
+    {
+      "name": "NeoVize",
+      "latitude": 49.747059,
+      "longitude": 18.62327
+    },
+    {
+      "name": "Nestátní zdravotnické zařízení",
+      "latitude": 49.005067,
+      "longitude": 14.761025
+    },
+    {
+      "name": "Neurologická klinika",
+      "latitude": 50.073379,
+      "longitude": 14.424249
+    },
+    {
+      "name": "Neurologická klinika",
+      "latitude": 50.073861,
+      "longitude": 14.425158
+    },
+    {
+      "name": "Nová poliklinika Zbraslav",
+      "latitude": 49.964755,
+      "longitude": 14.382486
+    },
+    {
+      "name": "Nutriadpt",
+      "latitude": 49.199904,
+      "longitude": 16.609901
+    },
+    {
+      "name": "Národní ústav duševního zdraví",
+      "latitude": 50.179138,
+      "longitude": 14.419801
+    },
+    {
+      "name": "Následná intenzivní péče, ARO",
+      "latitude": 49.941226,
+      "longitude": 15.807385
+    },
+    {
+      "name": "OB klinika",
+      "latitude": 50.096801,
+      "longitude": 14.47736
+    },
+    {
+      "name": "Odběry krve",
+      "latitude": 50.636929,
+      "longitude": 13.811424
+    },
+    {
+      "name": "Oddělení mikrobiologie, patologie - laboratoř",
+      "latitude": 49.941787,
+      "longitude": 15.806712
+    },
+    {
+      "name": "Oddělení nukleární medicíny",
+      "latitude": 49.94188,
+      "longitude": 15.807741
+    },
+    {
+      "name": "Oddělení urgentního příjmu",
+      "latitude": 49.190626,
+      "longitude": 16.600857
+    },
+    {
+      "name": "OFTA s.r.o.",
+      "latitude": 49.772974,
+      "longitude": 13.369002
+    },
+    {
+      "name": "Onkologická a radioterapeutická klinika",
+      "latitude": 49.763009,
+      "longitude": 13.381719
+    },
+    {
+      "name": "Ordinace Jinočany",
+      "latitude": 50.031996,
+      "longitude": 14.268912
+    },
+    {
+      "name": "ORL ambulance",
+      "latitude": 49.943012,
+      "longitude": 15.807213
+    },
+    {
+      "name": "Oční ambulance, ředitelství",
+      "latitude": 49.942908,
+      "longitude": 15.807434
+    },
+    {
+      "name": "Oční centrum Praha",
+      "latitude": 50.102767,
+      "longitude": 14.457105
+    },
+    {
+      "name": "Oční klinika Duovize",
+      "latitude": 50.075709,
+      "longitude": 14.428933
+    },
+    {
+      "name": "Palas Athéna",
+      "latitude": 50.03406,
+      "longitude": 14.527478
+    },
+    {
+      "name": "Pavilon psychiatrie",
+      "latitude": 49.761654,
+      "longitude": 13.380497
+    },
+    {
+      "name": "Perfect clinic",
+      "latitude": 50.073316,
+      "longitude": 14.400837
+    },
+    {
+      "name": "PET Centrum",
+      "latitude": 49.193933,
+      "longitude": 16.587234
+    },
+    {
+      "name": "Plicní",
+      "latitude": 50.644637,
+      "longitude": 13.82895
+    },
+    {
+      "name": "Plicní ambulance Příbor",
+      "latitude": 49.639962,
+      "longitude": 18.135122
+    },
+    {
+      "name": "Plicní klinika",
+      "latitude": 49.730627,
+      "longitude": 13.377677
+    },
+    {
+      "name": "Podatelna",
+      "latitude": 50.029701,
+      "longitude": 15.789536
+    },
+    {
+      "name": "Pohotovost",
+      "latitude": 49.943028,
+      "longitude": 15.807432
+    },
+    {
+      "name": "Pohotovost pro dospělé / Adult Emergency",
+      "latitude": 50.346735,
+      "longitude": 14.486006
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.029716,
+      "longitude": 15.789656
+    },
+    {
+      "name": "Poliklinik",
+      "latitude": 50.907591,
+      "longitude": 14.616896
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 48.945347,
+      "longitude": 16.729371
+    },
+    {
+      "name": "poliklinika",
+      "latitude": 49.144059,
+      "longitude": 18.012818
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.156401,
+      "longitude": 16.879387
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.209583,
+      "longitude": 16.150044
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.348225,
+      "longitude": 17.302107
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.451013,
+      "longitude": 17.453858
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.525344,
+      "longitude": 16.261457
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.546249,
+      "longitude": 18.212729
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.565727,
+      "longitude": 15.941659
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 49.765688,
+      "longitude": 15.901551
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.025948,
+      "longitude": 14.5178
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.067158,
+      "longitude": 15.987533
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.130612,
+      "longitude": 14.124768
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.269351,
+      "longitude": 16.112023
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.330568,
+      "longitude": 12.514067
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.353233,
+      "longitude": 15.920944
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.436037,
+      "longitude": 15.357037
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.489479,
+      "longitude": 15.520739
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.509956,
+      "longitude": 16.020162
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.520451,
+      "longitude": 14.973579
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.60156,
+      "longitude": 15.333869
+    },
+    {
+      "name": "Poliklinika",
+      "latitude": 50.646806,
+      "longitude": 15.254124
+    },
+    {
+      "name": "Poliklinika - Pavilon A",
+      "latitude": 49.475669,
+      "longitude": 17.088336
+    },
+    {
+      "name": "Poliklinika Agel",
+      "latitude": 49.589995,
+      "longitude": 18.016945
+    },
+    {
+      "name": "Poliklinika Agel",
+      "latitude": 49.591567,
+      "longitude": 17.276312
+    },
+    {
+      "name": "Poliklinika Agel",
+      "latitude": 49.837101,
+      "longitude": 18.286776
+    },
+    {
+      "name": "Poliklinika Agel",
+      "latitude": 50.080714,
+      "longitude": 14.437548
+    },
+    {
+      "name": "Poliklinika Agel",
+      "latitude": 50.187602,
+      "longitude": 15.024226
+    },
+    {
+      "name": "Poliklinika Agel",
+      "latitude": 50.188392,
+      "longitude": 15.037814
+    },
+    {
+      "name": "Poliklinika ArcellorMittal Ostrava",
+      "latitude": 49.796198,
+      "longitude": 18.305201
+    },
+    {
+      "name": "Poliklinika Barrandov",
+      "latitude": 50.033193,
+      "longitude": 14.374865
+    },
+    {
+      "name": "Poliklinika Bavlna",
+      "latitude": 50.206136,
+      "longitude": 15.814911
+    },
+    {
+      "name": "Poliklinika Bor",
+      "latitude": 49.714383,
+      "longitude": 12.77526
+    },
+    {
+      "name": "Poliklinika Bory",
+      "latitude": 49.730088,
+      "longitude": 13.372675
+    },
+    {
+      "name": "Poliklinika Budějovická - MEDICON, a.s.",
+      "latitude": 50.04266,
+      "longitude": 14.450555
+    },
+    {
+      "name": "Poliklinika Břeclav p.o.",
+      "latitude": 48.752277,
+      "longitude": 16.881859
+    },
+    {
+      "name": "Poliklinika Chodov",
+      "latitude": 50.23759,
+      "longitude": 12.74585
+    },
+    {
+      "name": "Poliklinika Chomutovická",
+      "latitude": 50.023417,
+      "longitude": 14.513452
+    },
+    {
+      "name": "Poliklinika Chrudim",
+      "latitude": 49.948355,
+      "longitude": 15.790303
+    },
+    {
+      "name": "Poliklinika DAM",
+      "latitude": 50.089724,
+      "longitude": 14.357803
+    },
+    {
+      "name": "Poliklinika Dobrovského",
+      "latitude": 49.219232,
+      "longitude": 16.593109
+    },
+    {
+      "name": "Poliklinika Dobruška",
+      "latitude": 50.291737,
+      "longitude": 16.157845
+    },
+    {
+      "name": "Poliklinika Dvůr Králové nad Labem",
+      "latitude": 50.43032,
+      "longitude": 15.815252
+    },
+    {
+      "name": "Poliklinika Flora I",
+      "latitude": 50.075709,
+      "longitude": 12.370017
+    },
+    {
+      "name": "Poliklinika Foerstrova",
+      "latitude": 50.205332,
+      "longitude": 15.812658
+    },
+    {
+      "name": "Poliklinika Foerstrova - MEDIKA Hradec Králové, s.r.o.",
+      "latitude": 50.205536,
+      "longitude": 15.812331
+    },
+    {
+      "name": "poliklinika Galen",
+      "latitude": 49.971587,
+      "longitude": 16.400427
+    },
+    {
+      "name": "Poliklinika Holešov",
+      "latitude": 49.330963,
+      "longitude": 17.57289
+    },
+    {
+      "name": "Poliklinika Humpolec",
+      "latitude": 49.538303,
+      "longitude": 15.355445
+    },
+    {
+      "name": "Poliklinika I",
+      "latitude": 50.20982,
+      "longitude": 15.82325
+    },
+    {
+      "name": "Poliklinika I",
+      "latitude": 50.72377,
+      "longitude": 15.165533
+    },
+    {
+      "name": "Poliklinika II",
+      "latitude": 50.216671,
+      "longitude": 15.854088
+    },
+    {
+      "name": "Poliklinika II",
+      "latitude": 50.725008,
+      "longitude": 15.164793
+    },
+    {
+      "name": "Poliklinika Jablunkov, s.r.o.",
+      "latitude": 49.57455,
+      "longitude": 18.763645
+    },
+    {
+      "name": "Poliklinika Jirkov",
+      "latitude": 50.502021,
+      "longitude": 13.445586
+    },
+    {
+      "name": "Poliklinika Josefská - Dům zdraví",
+      "latitude": 49.191662,
+      "longitude": 16.611141
+    },
+    {
+      "name": "Poliklinika Kaplice",
+      "latitude": 48.739756,
+      "longitude": 14.487427
+    },
+    {
+      "name": "Poliklinika Karlov",
+      "latitude": 49.472147,
+      "longitude": 17.126421
+    },
+    {
+      "name": "Poliklinika Kolf",
+      "latitude": 50.037975,
+      "longitude": 15.766934
+    },
+    {
+      "name": "Poliklinika Kosmonosy",
+      "latitude": 50.440044,
+      "longitude": 14.925577
+    },
+    {
+      "name": "Poliklinika Kostelní",
+      "latitude": 49.836619,
+      "longitude": 18.29552
+    },
+    {
+      "name": "Poliklinika Králův Dvůr",
+      "latitude": 49.945573,
+      "longitude": 14.035985
+    },
+    {
+      "name": "Poliklinika Kuklenská",
+      "latitude": 49.194392,
+      "longitude": 16.633169
+    },
+    {
+      "name": "Poliklinika Kyjov",
+      "latitude": 49.014604,
+      "longitude": 17.125184
+    },
+    {
+      "name": "Poliklinika Kytlická",
+      "latitude": 50.12576,
+      "longitude": 14.505706
+    },
+    {
+      "name": "Poliklinika Lesná",
+      "latitude": 49.222989,
+      "longitude": 16.627384
+    },
+    {
+      "name": "Poliklinika Louny",
+      "latitude": 50.349712,
+      "longitude": 13.80787
+    },
+    {
+      "name": "Poliklinika Lípa",
+      "latitude": 50.050888,
+      "longitude": 14.346656
+    },
+    {
+      "name": "Poliklinika Malešice",
+      "latitude": 50.080108,
+      "longitude": 14.501551
+    },
+    {
+      "name": "Poliklinika Mariánské Lázně",
+      "latitude": 49.949713,
+      "longitude": 12.713362
+    },
+    {
+      "name": "Poliklinika Mazurská",
+      "latitude": 50.1266,
+      "longitude": 14.415773
+    },
+    {
+      "name": "Poliklinika Medila",
+      "latitude": 50.038694,
+      "longitude": 15.780169
+    },
+    {
+      "name": "Poliklinika Michnova s.r.o.",
+      "latitude": 50.031508,
+      "longitude": 14.520702
+    },
+    {
+      "name": "Poliklinika Milevsko",
+      "latitude": 49.452896,
+      "longitude": 14.361247
+    },
+    {
+      "name": "Poliklinika Milovice",
+      "latitude": 50.228767,
+      "longitude": 14.863952
+    },
+    {
+      "name": "Poliklinika Modrá hvězda",
+      "latitude": 50.429647,
+      "longitude": 14.918951
+    },
+    {
+      "name": "Poliklinika Modřany",
+      "latitude": 50.005858,
+      "longitude": 14.414082
+    },
+    {
+      "name": "Poliklinika Moravské Budějovice",
+      "latitude": 49.052854,
+      "longitude": 15.80706
+    },
+    {
+      "name": "Poliklinika Moravské Budějovice - budova 2",
+      "latitude": 49.053022,
+      "longitude": 15.807113
+    },
+    {
+      "name": "Poliklinika Místek",
+      "latitude": 49.677109,
+      "longitude": 18.34204
+    },
+    {
+      "name": "Poliklinika Mělník",
+      "latitude": 50.346761,
+      "longitude": 14.485048
+    },
+    {
+      "name": "Poliklinika na Národní",
+      "latitude": 50.081684,
+      "longitude": 14.415601
+    },
+    {
+      "name": "Poliklinika Na Valech",
+      "latitude": 50.185922,
+      "longitude": 15.036703
+    },
+    {
+      "name": "Poliklinika Nepomuk",
+      "latitude": 49.491739,
+      "longitude": 13.591691
+    },
+    {
+      "name": "Poliklinika Olomouc",
+      "latitude": 49.589224,
+      "longitude": 17.253187
+    },
+    {
+      "name": "Poliklinika Olšanská",
+      "latitude": 50.084291,
+      "longitude": 14.467794
+    },
+    {
+      "name": "Poliklinika Opava",
+      "latitude": 49.939731,
+      "longitude": 17.892707
+    },
+    {
+      "name": "Poliklinika Otrokovice",
+      "latitude": 49.205212,
+      "longitude": 17.536141
+    },
+    {
+      "name": "Poliklinika Pacovská",
+      "latitude": 50.045349,
+      "longitude": 14.447081
+    },
+    {
+      "name": "Poliklinika Palackého",
+      "latitude": 50.081377,
+      "longitude": 14.423354
+    },
+    {
+      "name": "Poliklinika Palmovka",
+      "latitude": 50.104352,
+      "longitude": 14.473317
+    },
+    {
+      "name": "Poliklinika Parnik",
+      "latitude": 50.10695,
+      "longitude": 14.572081
+    },
+    {
+      "name": "Poliklinika Petrovice",
+      "latitude": 50.038901,
+      "longitude": 14.559782
+    },
+    {
+      "name": "Poliklinika Pod Marjánkou",
+      "latitude": 50.084772,
+      "longitude": 14.366423
+    },
+    {
+      "name": "Poliklinika Prahy 7",
+      "latitude": 50.099536,
+      "longitude": 14.430736
+    },
+    {
+      "name": "Poliklinika Prosek",
+      "latitude": 50.128965,
+      "longitude": 14.490025
+    },
+    {
+      "name": "Poliklinika Radnice",
+      "latitude": 49.858039,
+      "longitude": 13.606566
+    },
+    {
+      "name": "Poliklinika Skalka",
+      "latitude": 50.068856,
+      "longitude": 14.504366
+    },
+    {
+      "name": "Poliklinika Soběslav",
+      "latitude": 49.258082,
+      "longitude": 14.721052
+    },
+    {
+      "name": "Poliklinika Starý Lískovec",
+      "latitude": 49.168091,
+      "longitude": 16.565049
+    },
+    {
+      "name": "Poliklinika Stodůlky",
+      "latitude": 50.046175,
+      "longitude": 14.31492
+    },
+    {
+      "name": "Poliklinika Stříbrníky",
+      "latitude": 50.678271,
+      "longitude": 14.039045
+    },
+    {
+      "name": "Poliklinika Sušice",
+      "latitude": 49.231218,
+      "longitude": 13.519406
+    },
+    {
+      "name": "Poliklinika Tachov",
+      "latitude": 49.797494,
+      "longitude": 12.634123
+    },
+    {
+      "name": "Poliklinika Therapon",
+      "latitude": 49.59553,
+      "longitude": 18.145901
+    },
+    {
+      "name": "Poliklinika Trnová",
+      "latitude": 50.050077,
+      "longitude": 15.752069
+    },
+    {
+      "name": "Poliklinika Týniště nad Orlicí, s.r.o.",
+      "latitude": 50.147757,
+      "longitude": 16.072286
+    },
+    {
+      "name": "Poliklinika Třeboň",
+      "latitude": 49.006117,
+      "longitude": 14.762538
+    },
+    {
+      "name": "POLIKLINIKA Třešť",
+      "latitude": 49.285186,
+      "longitude": 15.481637
+    },
+    {
+      "name": "Poliklinika U sv. Jakuba",
+      "latitude": 50.079703,
+      "longitude": 14.257211
+    },
+    {
+      "name": "Poliklinika u Základny",
+      "latitude": 49.531162,
+      "longitude": 17.597807
+    },
+    {
+      "name": "Poliklinika v Kroměříži",
+      "latitude": 49.297782,
+      "longitude": 17.398985
+    },
+    {
+      "name": "Poliklinika Varnsdorf",
+      "latitude": 50.911119,
+      "longitude": 14.626142
+    },
+    {
+      "name": "Poliklinika Vektor",
+      "latitude": 50.030327,
+      "longitude": 15.774593
+    },
+    {
+      "name": "Poliklinika Velkopavlovická",
+      "latitude": 49.205003,
+      "longitude": 16.661185
+    },
+    {
+      "name": "Poliklinika Viniční",
+      "latitude": 49.198569,
+      "longitude": 16.656323
+    },
+    {
+      "name": "Poliklinika Vinohrady",
+      "latitude": 50.077975,
+      "longitude": 14.469755
+    },
+    {
+      "name": "Poliklinika Vltava",
+      "latitude": 48.988903,
+      "longitude": 14.454184
+    },
+    {
+      "name": "Poliklinika Vltavínská",
+      "latitude": 49.204121,
+      "longitude": 15.878499
+    },
+    {
+      "name": "Poliklinika Vrchlabí",
+      "latitude": 50.623466,
+      "longitude": 15.615025
+    },
+    {
+      "name": "Poliklinika Vršovice",
+      "latitude": 50.06528,
+      "longitude": 14.451019
+    },
+    {
+      "name": "Poliklinika Vsetín",
+      "latitude": 49.3341,
+      "longitude": 17.998712
+    },
+    {
+      "name": "Poliklinika Zbraslav",
+      "latitude": 49.973808,
+      "longitude": 14.395593
+    },
+    {
+      "name": "Poliklinika Úvaly",
+      "latitude": 50.07331,
+      "longitude": 14.71838
+    },
+    {
+      "name": "Poliklinika Česká Třebová",
+      "latitude": 49.897979,
+      "longitude": 16.447848
+    },
+    {
+      "name": "Poliklinika Český Těšín",
+      "latitude": 49.74495,
+      "longitude": 18.619689
+    },
+    {
+      "name": "Poliklinika Čumpelíkova",
+      "latitude": 50.12678,
+      "longitude": 14.461387
+    },
+    {
+      "name": "Poliklinika Čáslav, spol. s r.o.",
+      "latitude": 49.913004,
+      "longitude": 15.392527
+    },
+    {
+      "name": "Poliklinika Řepy",
+      "latitude": 50.068171,
+      "longitude": 14.308139
+    },
+    {
+      "name": "Poliklinika: Dětské oddělení",
+      "latitude": 49.525133,
+      "longitude": 16.261371
+    },
+    {
+      "name": "Poliklinka",
+      "latitude": 49.844241,
+      "longitude": 18.303932
+    },
+    {
+      "name": "Poliknika Hrabůvka",
+      "latitude": 49.785865,
+      "longitude": 18.258875
+    },
+    {
+      "name": "Porodnicko-gynekologická klinika",
+      "latitude": 49.583355,
+      "longitude": 17.23677
+    },
+    {
+      "name": "Prague Esthetic Clinic",
+      "latitude": 50.033665,
+      "longitude": 14.45052
+    },
+    {
+      "name": "Praktický lékař pro dospělé",
+      "latitude": 48.972587,
+      "longitude": 14.488826
+    },
+    {
+      "name": "Preventa",
+      "latitude": 50.140391,
+      "longitude": 14.431325
+    },
+    {
+      "name": "Privátní urologická praxe Královské Vinohrady",
+      "latitude": 50.077585,
+      "longitude": 14.44217
+    },
+    {
+      "name": "Pronatal Sanatorium",
+      "latitude": 50.017691,
+      "longitude": 14.423358
+    },
+    {
+      "name": "Protialkoholní záchytná stanice",
+      "latitude": 49.181876,
+      "longitude": 16.638182
+    },
+    {
+      "name": "Przychodnia Eskulap",
+      "latitude": 50.440796,
+      "longitude": 16.247668
+    },
+    {
+      "name": "Przychodnia Uzdowiskowa Łazienki III",
+      "latitude": 50.44332,
+      "longitude": 16.242045
+    },
+    {
+      "name": "Psychiatrická klinika",
+      "latitude": 50.072275,
+      "longitude": 14.426153
+    },
+    {
+      "name": "Psychiatrické oddělení",
+      "latitude": 49.582775,
+      "longitude": 17.236553
+    },
+    {
+      "name": "Psychosomatická klinika",
+      "latitude": 50.090471,
+      "longitude": 14.385174
+    },
+    {
+      "name": "Přeloučská poliklinika",
+      "latitude": 50.03599,
+      "longitude": 15.566451
+    },
+    {
+      "name": "R",
+      "latitude": 49.207319,
+      "longitude": 16.611775
+    },
+    {
+      "name": "Radiologický pavilon",
+      "latitude": 50.359109,
+      "longitude": 12.935253
+    },
+    {
+      "name": "Rehabilitační klinika Malvazinky",
+      "latitude": 50.064127,
+      "longitude": 14.395497
+    },
+    {
+      "name": "Remedis - Klinika Praha",
+      "latitude": 50.062619,
+      "longitude": 14.442774
+    },
+    {
+      "name": "S-Medi",
+      "latitude": 49.750415,
+      "longitude": 18.630495
+    },
+    {
+      "name": "SalEste Clinic",
+      "latitude": 49.223907,
+      "longitude": 16.622927
+    },
+    {
+      "name": "Sano centrum",
+      "latitude": 50.608341,
+      "longitude": 15.502812
+    },
+    {
+      "name": "Santa Clinic",
+      "latitude": 49.615443,
+      "longitude": 18.73663
+    },
+    {
+      "name": "Sdružení ambulantních lékařů Havlíčkův Brod",
+      "latitude": 49.60261,
+      "longitude": 15.581621
+    },
+    {
+      "name": "Sdružení ambulantních lékařů spol. s r.o.",
+      "latitude": 49.911481,
+      "longitude": 16.613271
+    },
+    {
+      "name": "Senatorium",
+      "latitude": 49.585789,
+      "longitude": 17.225552
+    },
+    {
+      "name": "Senovážné náměstí",
+      "latitude": 50.085529,
+      "longitude": 14.432009
+    },
+    {
+      "name": "Sexuologický ústav",
+      "latitude": 50.072014,
+      "longitude": 14.427442
+    },
+    {
+      "name": "Shape",
+      "latitude": 49.582792,
+      "longitude": 17.247935
+    },
+    {
+      "name": "Silesia Medical",
+      "latitude": 49.833762,
+      "longitude": 18.168819
+    },
+    {
+      "name": "Služba první pomoci",
+      "latitude": 49.003911,
+      "longitude": 14.761994
+    },
+    {
+      "name": "Smile centrum",
+      "latitude": 50.111452,
+      "longitude": 14.5023
+    },
+    {
+      "name": "Soukromá klinika LOGO s.r.o.",
+      "latitude": 49.177275,
+      "longitude": 16.598066
+    },
+    {
+      "name": "Soukromá poliklinika",
+      "latitude": 49.791989,
+      "longitude": 18.23887
+    },
+    {
+      "name": "Soukromé zdravotní středisko",
+      "latitude": 49.474467,
+      "longitude": 17.12923
+    },
+    {
+      "name": "SPEA Olomouc",
+      "latitude": 49.595868,
+      "longitude": 17.247802
+    },
+    {
+      "name": "Spánková laboratoř",
+      "latitude": 49.730664,
+      "longitude": 13.377961
+    },
+    {
+      "name": "Stanice č.1",
+      "latitude": 49.183635,
+      "longitude": 16.638775
+    },
+    {
+      "name": "Stanice č.10",
+      "latitude": 49.181979,
+      "longitude": 16.638743
+    },
+    {
+      "name": "Stanice č.11",
+      "latitude": 49.182684,
+      "longitude": 16.640353
+    },
+    {
+      "name": "Stanice č.12",
+      "latitude": 49.181291,
+      "longitude": 16.640639
+    },
+    {
+      "name": "Stanice č.13",
+      "latitude": 49.183705,
+      "longitude": 16.639314
+    },
+    {
+      "name": "Stanice č.14",
+      "latitude": 49.183684,
+      "longitude": 16.640154
+    },
+    {
+      "name": "Stanice č.15",
+      "latitude": 49.183156,
+      "longitude": 16.639264
+    },
+    {
+      "name": "Stanice č.16",
+      "latitude": 49.183091,
+      "longitude": 16.639287
+    },
+    {
+      "name": "Stanice č.17",
+      "latitude": 49.183073,
+      "longitude": 16.640009
+    },
+    {
+      "name": "Stanice č.18",
+      "latitude": 49.183237,
+      "longitude": 16.639958
+    },
+    {
+      "name": "Stanice č.19",
+      "latitude": 49.183349,
+      "longitude": 16.640759
+    },
+    {
+      "name": "Stanice č.20",
+      "latitude": 49.181031,
+      "longitude": 16.640663
+    },
+    {
+      "name": "Stanice č.21",
+      "latitude": 49.180839,
+      "longitude": 16.64019
+    },
+    {
+      "name": "Stanice č.22",
+      "latitude": 49.181213,
+      "longitude": 16.640233
+    },
+    {
+      "name": "Stanice č.23",
+      "latitude": 49.185019,
+      "longitude": 16.640895
+    },
+    {
+      "name": "Stanice č.3",
+      "latitude": 49.183739,
+      "longitude": 16.639596
+    },
+    {
+      "name": "Stanice č.4",
+      "latitude": 49.183536,
+      "longitude": 16.638807
+    },
+    {
+      "name": "Stanice č.40",
+      "latitude": 49.184359,
+      "longitude": 16.640874
+    },
+    {
+      "name": "Stanice č.46",
+      "latitude": 49.183765,
+      "longitude": 16.640972
+    },
+    {
+      "name": "Stanice č.5",
+      "latitude": 49.183143,
+      "longitude": 16.640874
+    },
+    {
+      "name": "Stanice č.6",
+      "latitude": 49.182582,
+      "longitude": 16.639301
+    },
+    {
+      "name": "Stanice č.7",
+      "latitude": 49.183791,
+      "longitude": 16.640119
+    },
+    {
+      "name": "Stará poliklinika",
+      "latitude": 49.47112,
+      "longitude": 17.120076
+    },
+    {
+      "name": "Stomatologická klinika",
+      "latitude": 49.596088,
+      "longitude": 17.244612
+    },
+    {
+      "name": "Stomatologická klinika",
+      "latitude": 50.074144,
+      "longitude": 14.427204
+    },
+    {
+      "name": "Stomatologická poliklinika",
+      "latitude": 49.597225,
+      "longitude": 18.012241
+    },
+    {
+      "name": "Stomatologická poliklinika",
+      "latitude": 50.034473,
+      "longitude": 15.780412
+    },
+    {
+      "name": "Surgal Clinic",
+      "latitude": 49.207419,
+      "longitude": 16.611592
+    },
+    {
+      "name": "Svēt zdravi",
+      "latitude": 50.029247,
+      "longitude": 14.490115
+    },
+    {
+      "name": "TeamPrevent-Santé",
+      "latitude": 49.218504,
+      "longitude": 16.553217
+    },
+    {
+      "name": "TH Klinika",
+      "latitude": 50.074086,
+      "longitude": 14.418196
+    },
+    {
+      "name": "Transfuzní oddělení",
+      "latitude": 49.190704,
+      "longitude": 16.60171
+    },
+    {
+      "name": "U Zlatého lva",
+      "latitude": 50.102256,
+      "longitude": 13.731744
+    },
+    {
+      "name": "Unica Clinic",
+      "latitude": 50.050412,
+      "longitude": 14.353581
+    },
+    {
+      "name": "Urban Health Medical",
+      "latitude": 50.067405,
+      "longitude": 14.406336
+    },
+    {
+      "name": "Urologická klinika",
+      "latitude": 50.071455,
+      "longitude": 14.428681
+    },
+    {
+      "name": "VITA",
+      "latitude": 49.964538,
+      "longitude": 14.073868
+    },
+    {
+      "name": "Vrátnice",
+      "latitude": 50.029668,
+      "longitude": 15.789851
+    },
+    {
+      "name": "Zdravotni stredisko",
+      "latitude": 50.487526,
+      "longitude": 13.43841
+    },
+    {
+      "name": "Zdravotnické středisko",
+      "latitude": 49.912208,
+      "longitude": 13.980339
+    },
+    {
+      "name": "Zdravotnické středisko",
+      "latitude": 50.540911,
+      "longitude": 13.707783
+    },
+    {
+      "name": "Zdravotnické středisko Holýšov",
+      "latitude": 49.593572,
+      "longitude": 13.102707
+    },
+    {
+      "name": "Zdravotnické zařízení",
+      "latitude": 50.021765,
+      "longitude": 14.454284
+    },
+    {
+      "name": "Zdravotnické zařízení NEREST s.r.o.",
+      "latitude": 49.588381,
+      "longitude": 18.362233
+    },
+    {
+      "name": "Zdravotnické zařízení Smíchov",
+      "latitude": 50.074059,
+      "longitude": 14.401352
+    },
+    {
+      "name": "Zdravotnické zařízení Zličín",
+      "latitude": 50.05956,
+      "longitude": 14.290829
+    },
+    {
+      "name": "Zdravotnické zařízení Česká Kamenice",
+      "latitude": 50.80003,
+      "longitude": 14.419335
+    },
+    {
+      "name": "Zdravotnické zařízení Šumava",
+      "latitude": 48.982666,
+      "longitude": 14.44581
+    },
+    {
+      "name": "Zdravotní střediko",
+      "latitude": 50.627633,
+      "longitude": 16.241195
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 48.772123,
+      "longitude": 16.298315
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 48.902309,
+      "longitude": 17.319229
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 48.992592,
+      "longitude": 14.462182
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 48.997134,
+      "longitude": 15.357688
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.020204,
+      "longitude": 15.099232
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.100761,
+      "longitude": 14.566648
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.120384,
+      "longitude": 16.336749
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.160473,
+      "longitude": 15.204232
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.210807,
+      "longitude": 16.627586
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.253194,
+      "longitude": 13.907694
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.29866,
+      "longitude": 15.076552
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.339131,
+      "longitude": 18.201884
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.35053,
+      "longitude": 14.705995
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.36394,
+      "longitude": 18.304742
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.372961,
+      "longitude": 15.70221
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.53204,
+      "longitude": 14.808616
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.537783,
+      "longitude": 18.059734
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.551487,
+      "longitude": 17.334463
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.576989,
+      "longitude": 15.737899
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.578311,
+      "longitude": 16.359359
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.592751,
+      "longitude": 16.886852
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.599644,
+      "longitude": 18.142086
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.611803,
+      "longitude": 16.680076
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.659316,
+      "longitude": 18.696317
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.780124,
+      "longitude": 18.171233
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.786749,
+      "longitude": 18.131221
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.810621,
+      "longitude": 15.185606
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.85007,
+      "longitude": 18.55979
+    },
+    {
+      "name": "zdravotní středisko",
+      "latitude": 49.850467,
+      "longitude": 13.381146
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.879482,
+      "longitude": 17.080487
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.884157,
+      "longitude": 17.081623
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.915883,
+      "longitude": 18.014676
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.921564,
+      "longitude": 16.303852
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.933631,
+      "longitude": 18.013854
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.95309,
+      "longitude": 18.08114
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.983545,
+      "longitude": 16.88747
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 49.995501,
+      "longitude": 17.804485
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.088504,
+      "longitude": 14.666137
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.159868,
+      "longitude": 14.825526
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.182835,
+      "longitude": 14.65502
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.186393,
+      "longitude": 15.84692
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.260615,
+      "longitude": 14.558367
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.278869,
+      "longitude": 14.239241
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.29294,
+      "longitude": 15.476527
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.332818,
+      "longitude": 15.26579
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.340514,
+      "longitude": 15.928733
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.361947,
+      "longitude": 14.246677
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.366244,
+      "longitude": 15.003655
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.534318,
+      "longitude": 15.258795
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.537686,
+      "longitude": 14.125805
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.566353,
+      "longitude": 14.657562
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.576952,
+      "longitude": 15.077437
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.755678,
+      "longitude": 15.361493
+    },
+    {
+      "name": "Zdravotní středisko",
+      "latitude": 50.766244,
+      "longitude": 14.759759
+    },
+    {
+      "name": "Zdravotní středisko - Studenec",
+      "latitude": 50.566123,
+      "longitude": 15.545015
+    },
+    {
+      "name": "Zdravotní středisko Bechyňova",
+      "latitude": 50.10582,
+      "longitude": 14.388984
+    },
+    {
+      "name": "Zdravotní středisko Březenecká",
+      "latitude": 50.476657,
+      "longitude": 13.41222
+    },
+    {
+      "name": "Zdravotní středisko Horní Stropnice",
+      "latitude": 48.762054,
+      "longitude": 14.731488
+    },
+    {
+      "name": "Zdravotní středisko Jáchymov",
+      "latitude": 50.367019,
+      "longitude": 12.918742
+    },
+    {
+      "name": "Zdravotní středisko Konstancie",
+      "latitude": 49.218537,
+      "longitude": 16.553098
+    },
+    {
+      "name": "Zdravotní středisko Mnichovice",
+      "latitude": 49.937824,
+      "longitude": 14.706604
+    },
+    {
+      "name": "Zdravotní středisko Okrouhlík",
+      "latitude": 50.074118,
+      "longitude": 14.383088
+    },
+    {
+      "name": "Zdravotní středisko Olomoucká",
+      "latitude": 49.189194,
+      "longitude": 16.639517
+    },
+    {
+      "name": "Zdravotní středisko Plumlov",
+      "latitude": 49.465038,
+      "longitude": 17.017511
+    },
+    {
+      "name": "Zdravotní středisko Příbor",
+      "latitude": 49.63992,
+      "longitude": 18.13572
+    },
+    {
+      "name": "Zdravotní středisko Santema",
+      "latitude": 50.185163,
+      "longitude": 15.83234
+    },
+    {
+      "name": "Zdravotní středisko Vranovice",
+      "latitude": 48.964952,
+      "longitude": 16.609289
+    },
+    {
+      "name": "Zdravotní středisko Zašová",
+      "latitude": 49.472095,
+      "longitude": 18.042065
+    },
+    {
+      "name": "Zdravotní středisko Zlaté Hory",
+      "latitude": 50.257411,
+      "longitude": 17.396959
+    },
+    {
+      "name": "Zdravotní středisko ČZU",
+      "latitude": 50.132063,
+      "longitude": 14.376586
+    },
+    {
+      "name": "Zdravotní středisko Žirovnice",
+      "latitude": 49.253882,
+      "longitude": 15.185803
+    },
+    {
+      "name": "Zdravotní ústav",
+      "latitude": 49.418528,
+      "longitude": 14.662351
+    },
+    {
+      "name": "Zdravotně-sociální",
+      "latitude": 50.029813,
+      "longitude": 15.789817
+    },
+    {
+      "name": "ZUBNÍ ORDINACE BHL dent s.r.o.",
+      "latitude": 49.596377,
+      "longitude": 17.248118
+    },
+    {
+      "name": "Zubní poliklinika",
+      "latitude": 50.04812,
+      "longitude": 15.763734
+    },
+    {
+      "name": "Ústav imunologie a mikrobiologie",
+      "latitude": 50.069798,
+      "longitude": 14.423943
+    },
+    {
+      "name": "Ústav klinické biochemie a hematologie",
+      "latitude": 49.732594,
+      "longitude": 13.375907
+    },
+    {
+      "name": "Ústav nukleární medicíny",
+      "latitude": 50.073961,
+      "longitude": 14.423193
+    },
+    {
+      "name": "Železniční poliklinika",
+      "latitude": 49.451835,
+      "longitude": 17.445099
+    },
+    {
+      "name": "Železniční poliklinika",
+      "latitude": 50.214998,
+      "longitude": 15.811095
+    }
+  ],
+  "meta": {
+    "title": "České polikliniky - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných poliklinik v Česku (amenity=clinic) z OpenStreetMap. Obsahuje 483 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "České polikliniky | ListBase",
+    "seo_description": "Stáhnout České polikliniky — 483 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 483 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

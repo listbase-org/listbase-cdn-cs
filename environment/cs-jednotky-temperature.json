@@ -1,0 +1,116 @@
+{
+  "id": "cs-jednotky-temperature",
+  "name": "Měrné jednotky: temperature (5)",
+  "title": "Měrné jednotky: temperature (5)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'temperature'.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 182,
+      "unit_code": "temperature-celsius",
+      "kategorie": "temperature",
+      "nazev": "stupně Celsia",
+      "vzor_jednotne": "{0} stupeň Celsia",
+      "vzor_mnozne": "{0} stupňů Celsia",
+      "kratky_vzor": "{0} °C",
+      "uzky_vzor": "{0} °C"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-fahrenheit",
+      "kategorie": "temperature",
+      "nazev": "stupně Fahrenheita",
+      "vzor_jednotne": "{0} stupeň Fahrenheita",
+      "vzor_mnozne": "{0} stupňů Fahrenheita",
+      "kratky_vzor": "{0} °F",
+      "uzky_vzor": "{0} °F"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-generic",
+      "kategorie": "temperature",
+      "nazev": "stupně",
+      "vzor_jednotne": "{0} stupeň",
+      "vzor_mnozne": "{0} stupňů",
+      "kratky_vzor": "{0}°",
+      "uzky_vzor": "{0}°"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-kelvin",
+      "kategorie": "temperature",
+      "nazev": "kelviny",
+      "vzor_jednotne": "{0} kelvin",
+      "vzor_mnozne": "{0} kelvinů",
+      "kratky_vzor": "{0} K",
+      "uzky_vzor": "{0} K"
+    },
+    {
+      "id": 186,
+      "unit_code": "temperature-rankine",
+      "kategorie": "temperature",
+      "nazev": "°R",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} °R",
+      "kratky_vzor": "{0} °R",
+      "uzky_vzor": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: temperature (5) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'temperature'. Obsahuje 5 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: temperature (5) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: temperature (5) — 5 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 5 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

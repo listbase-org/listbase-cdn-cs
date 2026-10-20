@@ -1,0 +1,5601 @@
+{
+  "id": "cs-osm-hrady",
+  "name": "Hrady a zámky (OSM)",
+  "title": "Hrady a zámky (OSM)",
+  "description": "Seznam pojmenovaných hradů a zámků v České republice (1112 záznamů) — body zájmu z OpenStreetMap (tag historic=castle), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1112,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Zámek Krásný Les",
+      "latitude": 50.766549,
+      "longitude": 13.937641
+    },
+    {
+      "name": "Zámek Lipová (ruin)",
+      "latitude": 51.013128,
+      "longitude": 14.358822
+    },
+    {
+      "name": "Pałac w Kostrzynie",
+      "latitude": 51.019081,
+      "longitude": 14.997962
+    },
+    {
+      "name": "Falkenštejn",
+      "latitude": 50.854829,
+      "longitude": 14.405435
+    },
+    {
+      "name": "Krásný Buk",
+      "latitude": 50.920715,
+      "longitude": 14.483533
+    },
+    {
+      "name": "Kristin Hrádek",
+      "latitude": 50.825599,
+      "longitude": 14.114798
+    },
+    {
+      "name": "Salhausenovský dům",
+      "latitude": 50.799917,
+      "longitude": 14.412759
+    },
+    {
+      "name": "Zámek Děčín",
+      "latitude": 50.779053,
+      "longitude": 14.209331
+    },
+    {
+      "name": "zámek Markvartice",
+      "latitude": 50.771365,
+      "longitude": 14.352087
+    },
+    {
+      "name": "Zámek Benešov nad Ploučnicí",
+      "latitude": 50.74231,
+      "longitude": 14.310888
+    },
+    {
+      "name": "Konojedský zámek",
+      "latitude": 50.7424,
+      "longitude": 14.312273
+    },
+    {
+      "name": "Volfův zámek",
+      "latitude": 50.741868,
+      "longitude": 14.310571
+    },
+    {
+      "name": "Dolní Zámek",
+      "latitude": 50.742015,
+      "longitude": 14.310419
+    },
+    {
+      "name": "Dům zv. Černínský",
+      "latitude": 50.741662,
+      "longitude": 14.310483
+    },
+    {
+      "name": "zámek Česká Kamenice",
+      "latitude": 50.798543,
+      "longitude": 14.416448
+    },
+    {
+      "name": "Burg Oybin",
+      "latitude": 50.84393,
+      "longitude": 14.741164
+    },
+    {
+      "name": "Krompach",
+      "latitude": 50.828312,
+      "longitude": 14.702094
+    },
+    {
+      "name": "Sloup",
+      "latitude": 50.740009,
+      "longitude": 14.587635
+    },
+    {
+      "name": "Nový Falkenburk",
+      "latitude": 50.763291,
+      "longitude": 14.754301
+    },
+    {
+      "name": "Zámek Frýdlant",
+      "latitude": 50.915119,
+      "longitude": 15.083518
+    },
+    {
+      "name": "Curia Vitkov",
+      "latitude": 50.857181,
+      "longitude": 14.979032
+    },
+    {
+      "name": "Karlsfried",
+      "latitude": 50.834759,
+      "longitude": 14.792462
+    },
+    {
+      "name": "Větrov",
+      "latitude": 50.814184,
+      "longitude": 14.795891
+    },
+    {
+      "name": "Zámek Lemberk",
+      "latitude": 50.777429,
+      "longitude": 14.787853
+    },
+    {
+      "name": "Nový zámek",
+      "latitude": 50.767988,
+      "longitude": 15.061459
+    },
+    {
+      "name": "Liberecká výšina",
+      "latitude": 50.778279,
+      "longitude": 15.0918
+    },
+    {
+      "name": "Lovecký zámeček",
+      "latitude": 50.814083,
+      "longitude": 15.157888
+    },
+    {
+      "name": "Favorit",
+      "latitude": 50.303355,
+      "longitude": 12.60433
+    },
+    {
+      "name": "Zámeček Lichtenvald",
+      "latitude": 50.685803,
+      "longitude": 13.55931
+    },
+    {
+      "name": "Rýzmburk",
+      "latitude": 50.63354,
+      "longitude": 13.664922
+    },
+    {
+      "name": "Hrad Krupka",
+      "latitude": 50.685186,
+      "longitude": 13.855427
+    },
+    {
+      "name": "Doubravská hora",
+      "latitude": 50.638522,
+      "longitude": 13.860255
+    },
+    {
+      "name": "Teplický zámek",
+      "latitude": 50.637097,
+      "longitude": 13.826051
+    },
+    {
+      "name": "Zámek Trmice",
+      "latitude": 50.642348,
+      "longitude": 13.991806
+    },
+    {
+      "name": "Hrad Střekov",
+      "latitude": 50.639458,
+      "longitude": 14.050791
+    },
+    {
+      "name": "Zámek",
+      "latitude": 50.597419,
+      "longitude": 13.610365
+    },
+    {
+      "name": "Zámek Jezeří",
+      "latitude": 50.554232,
+      "longitude": 13.504938
+    },
+    {
+      "name": "Hněvín",
+      "latitude": 50.520681,
+      "longitude": 13.633261
+    },
+    {
+      "name": "Zámek Duchcov",
+      "latitude": 50.60212,
+      "longitude": 13.74501
+    },
+    {
+      "name": "Zámek Tuchlov",
+      "latitude": 50.603979,
+      "longitude": 13.81368
+    },
+    {
+      "name": "Husitská bašta",
+      "latitude": 50.547242,
+      "longitude": 13.772693
+    },
+    {
+      "name": "Zámek Bílina",
+      "latitude": 50.548344,
+      "longitude": 13.77623
+    },
+    {
+      "name": "Zimní zahrada",
+      "latitude": 50.54854,
+      "longitude": 13.776739
+    },
+    {
+      "name": "Zámek Kostomlaty pod Milešovkou",
+      "latitude": 50.561972,
+      "longitude": 13.871789
+    },
+    {
+      "name": "Kostomlaty",
+      "latitude": 50.55425,
+      "longitude": 13.879334
+    },
+    {
+      "name": "Zřícenina Opárno",
+      "latitude": 50.542342,
+      "longitude": 14.009877
+    },
+    {
+      "name": "zámek Libochovany",
+      "latitude": 50.565257,
+      "longitude": 14.038772
+    },
+    {
+      "name": "Hasištejn",
+      "latitude": 50.445151,
+      "longitude": 13.257586
+    },
+    {
+      "name": "Hrad Freudenstein",
+      "latitude": 50.368794,
+      "longitude": 12.911093
+    },
+    {
+      "name": "zámek Nejdek",
+      "latitude": 50.320407,
+      "longitude": 12.737472
+    },
+    {
+      "name": "Zřícenina hradu Nejdek",
+      "latitude": 50.326161,
+      "longitude": 12.733709
+    },
+    {
+      "name": "Zámek Klášterec nad Ohří",
+      "latitude": 50.384155,
+      "longitude": 13.173431
+    },
+    {
+      "name": "Perštejn",
+      "latitude": 50.386147,
+      "longitude": 13.107553
+    },
+    {
+      "name": "Hauenštejn",
+      "latitude": 50.346219,
+      "longitude": 13.017798
+    },
+    {
+      "name": "Himlštejn",
+      "latitude": 50.347908,
+      "longitude": 13.045328
+    },
+    {
+      "name": "Šumburk",
+      "latitude": 50.372715,
+      "longitude": 13.146932
+    },
+    {
+      "name": "Egerberk",
+      "latitude": 50.367338,
+      "longitude": 13.184779
+    },
+    {
+      "name": "Zámek Pětipsy (zřícenina)",
+      "latitude": 50.320747,
+      "longitude": 13.347382
+    },
+    {
+      "name": "Maleš",
+      "latitude": 50.306441,
+      "longitude": 13.189122
+    },
+    {
+      "name": "zámek Červený Hrádek",
+      "latitude": 50.512293,
+      "longitude": 13.444159
+    },
+    {
+      "name": "Zámek Chomutov",
+      "latitude": 50.46083,
+      "longitude": 13.416814
+    },
+    {
+      "name": "Zámek Korozluky",
+      "latitude": 50.479475,
+      "longitude": 13.72563
+    },
+    {
+      "name": "Čížkovice",
+      "latitude": 50.485197,
+      "longitude": 14.026689
+    },
+    {
+      "name": "Zámek Libochovice",
+      "latitude": 50.405182,
+      "longitude": 14.043897
+    },
+    {
+      "name": "Zámek Postoloprty",
+      "latitude": 50.359077,
+      "longitude": 13.701426
+    },
+    {
+      "name": "zámek Nové Sedlo",
+      "latitude": 50.341233,
+      "longitude": 13.474075
+    },
+    {
+      "name": "Zámek Stekník",
+      "latitude": 50.32328,
+      "longitude": 13.623572
+    },
+    {
+      "name": "Zámek Lenešice",
+      "latitude": 50.375712,
+      "longitude": 13.761363
+    },
+    {
+      "name": "Zámek Vršovice",
+      "latitude": 50.36602,
+      "longitude": 13.842794
+    },
+    {
+      "name": "Nový Hrad Jimlín",
+      "latitude": 50.319657,
+      "longitude": 13.749118
+    },
+    {
+      "name": "Zámek Peruc",
+      "latitude": 50.343728,
+      "longitude": 13.962833
+    },
+    {
+      "name": "zámek Panenský Týnec",
+      "latitude": 50.296075,
+      "longitude": 13.915893
+    },
+    {
+      "name": "Zámek Doubrava",
+      "latitude": 50.26154,
+      "longitude": 12.242745
+    },
+    {
+      "name": "Spodní zámek",
+      "latitude": 50.255233,
+      "longitude": 12.20561
+    },
+    {
+      "name": "Horní zámek",
+      "latitude": 50.255691,
+      "longitude": 12.206497
+    },
+    {
+      "name": "Zámek Kopaniny",
+      "latitude": 50.260026,
+      "longitude": 12.225202
+    },
+    {
+      "name": "zámek Jindřichovice",
+      "latitude": 50.283167,
+      "longitude": 12.606986
+    },
+    {
+      "name": "zámek Jindřichovice",
+      "latitude": 50.28282,
+      "longitude": 12.607465
+    },
+    {
+      "name": "Schloss Schönberg",
+      "latitude": 50.182946,
+      "longitude": 12.306093
+    },
+    {
+      "name": "Hrad Hartenberg",
+      "latitude": 50.22176,
+      "longitude": 12.575613
+    },
+    {
+      "name": "Sokolovský zámek",
+      "latitude": 50.179166,
+      "longitude": 12.641673
+    },
+    {
+      "name": "zámek Libá",
+      "latitude": 50.126801,
+      "longitude": 12.233823
+    },
+    {
+      "name": "Hrad Seeberg",
+      "latitude": 50.131896,
+      "longitude": 12.282629
+    },
+    {
+      "name": "Burg Hohenberg",
+      "latitude": 50.097248,
+      "longitude": 12.224262
+    },
+    {
+      "name": "Hrad Vildštejn",
+      "latitude": 50.169449,
+      "longitude": 12.359891
+    },
+    {
+      "name": "Kaceřov",
+      "latitude": 50.148541,
+      "longitude": 12.506008
+    },
+    {
+      "name": "Zámek Chlumek",
+      "latitude": 50.137433,
+      "longitude": 12.5783
+    },
+    {
+      "name": "Rozhledna Zámeček",
+      "latitude": 50.119763,
+      "longitude": 12.368106
+    },
+    {
+      "name": "Mostov",
+      "latitude": 50.112876,
+      "longitude": 12.489943
+    },
+    {
+      "name": "Starý Hrozňatov",
+      "latitude": 50.024039,
+      "longitude": 12.390702
+    },
+    {
+      "name": "Zámek Kynžvart",
+      "latitude": 50.004342,
+      "longitude": 12.605505
+    },
+    {
+      "name": "Nový zámek Dalovice",
+      "latitude": 50.246856,
+      "longitude": 12.892458
+    },
+    {
+      "name": "Loket",
+      "latitude": 50.187118,
+      "longitude": 12.754279
+    },
+    {
+      "name": "Zámek Velichov",
+      "latitude": 50.284177,
+      "longitude": 13.009539
+    },
+    {
+      "name": "Zámek Nepomyšl",
+      "latitude": 50.217921,
+      "longitude": 13.31216
+    },
+    {
+      "name": "tvrz Lina",
+      "latitude": 50.186015,
+      "longitude": 13.276445
+    },
+    {
+      "name": "hrad Bečov nad Teplou",
+      "latitude": 50.086154,
+      "longitude": 12.83938
+    },
+    {
+      "name": "zámek Bečov nad Teplou",
+      "latitude": 50.085558,
+      "longitude": 12.839779
+    },
+    {
+      "name": "Bývalý zámeček Jelení",
+      "latitude": 50.126263,
+      "longitude": 13.335495
+    },
+    {
+      "name": "zámek Chyše",
+      "latitude": 50.10572,
+      "longitude": 13.246164
+    },
+    {
+      "name": "zámek Struhaře",
+      "latitude": 50.116107,
+      "longitude": 13.306443
+    },
+    {
+      "name": "Zámek Veliká Ves",
+      "latitude": 50.269556,
+      "longitude": 13.37333
+    },
+    {
+      "name": "Zámek Krásný Dvůr",
+      "latitude": 50.251969,
+      "longitude": 13.369801
+    },
+    {
+      "name": "Líčkov",
+      "latitude": 50.278414,
+      "longitude": 13.624652
+    },
+    {
+      "name": "tvrz Hlubany",
+      "latitude": 50.227664,
+      "longitude": 13.393447
+    },
+    {
+      "name": "Zřícenina hradu Pravda",
+      "latitude": 50.241101,
+      "longitude": 13.711463
+    },
+    {
+      "name": "zámek Mšec",
+      "latitude": 50.205565,
+      "longitude": 13.902269
+    },
+    {
+      "name": "Zámek Smečno",
+      "latitude": 50.188682,
+      "longitude": 14.036687
+    },
+    {
+      "name": "Petrohrad",
+      "latitude": 50.126191,
+      "longitude": 13.443122
+    },
+    {
+      "name": "Zámek Olešná",
+      "latitude": 50.130038,
+      "longitude": 13.696907
+    },
+    {
+      "name": "Tvrziště Oráčov",
+      "latitude": 50.102631,
+      "longitude": 13.537114
+    },
+    {
+      "name": "Zámek Petrovice",
+      "latitude": 50.067052,
+      "longitude": 13.635685
+    },
+    {
+      "name": "zámek Lány",
+      "latitude": 50.123892,
+      "longitude": 13.956282
+    },
+    {
+      "name": "Hamrnický zámeček",
+      "latitude": 49.954314,
+      "longitude": 12.688004
+    },
+    {
+      "name": "zřícenina hradu Rabštejn nad Střelou",
+      "latitude": 50.042259,
+      "longitude": 13.290271
+    },
+    {
+      "name": "zámek Rabštejn nad Střelou",
+      "latitude": 50.042471,
+      "longitude": 13.292533
+    },
+    {
+      "name": "zámek Černá Hať",
+      "latitude": 50.008491,
+      "longitude": 13.334641
+    },
+    {
+      "name": "zámek Nečtiny",
+      "latitude": 49.959048,
+      "longitude": 13.15958
+    },
+    {
+      "name": "Zámek Berchembogen",
+      "latitude": 49.912622,
+      "longitude": 12.69096
+    },
+    {
+      "name": "Bezdružice",
+      "latitude": 49.908286,
+      "longitude": 12.967732
+    },
+    {
+      "name": "zámek Chodová Planá",
+      "latitude": 49.890913,
+      "longitude": 12.727773
+    },
+    {
+      "name": "zámek Kořen",
+      "latitude": 49.851852,
+      "longitude": 12.842852
+    },
+    {
+      "name": "Vísky",
+      "latitude": 49.857743,
+      "longitude": 13.335358
+    },
+    {
+      "name": "hrad Křivoklát",
+      "latitude": 50.037636,
+      "longitude": 13.87226
+    },
+    {
+      "name": "lovecký zámeček Dřevíč",
+      "latitude": 50.021039,
+      "longitude": 13.98258
+    },
+    {
+      "name": "Slabce",
+      "latitude": 49.999783,
+      "longitude": 13.713133
+    },
+    {
+      "name": "Leontýnský zámek",
+      "latitude": 49.996028,
+      "longitude": 13.894814
+    },
+    {
+      "name": "zámek Nižbor",
+      "latitude": 49.999728,
+      "longitude": 13.999559
+    },
+    {
+      "name": "Krašov",
+      "latitude": 49.949065,
+      "longitude": 13.588288
+    },
+    {
+      "name": "Zámek Liblín",
+      "latitude": 49.916298,
+      "longitude": 13.544132
+    },
+    {
+      "name": "Kaceřov",
+      "latitude": 49.873111,
+      "longitude": 13.510743
+    },
+    {
+      "name": "zámek Terešov",
+      "latitude": 49.894178,
+      "longitude": 13.701512
+    },
+    {
+      "name": "Hochperk",
+      "latitude": 49.839032,
+      "longitude": 13.559112
+    },
+    {
+      "name": "Zámek Králův Dvůr",
+      "latitude": 49.947072,
+      "longitude": 14.038953
+    },
+    {
+      "name": "hrad Žebrák",
+      "latitude": 49.886819,
+      "longitude": 13.881609
+    },
+    {
+      "name": "zámek Zbiroh",
+      "latitude": 49.858425,
+      "longitude": 13.761835
+    },
+    {
+      "name": "hrad Točník",
+      "latitude": 49.890651,
+      "longitude": 13.88745
+    },
+    {
+      "name": "Starý zámek Hořovice",
+      "latitude": 49.838219,
+      "longitude": 13.906463
+    },
+    {
+      "name": "zámek Lochovice",
+      "latitude": 49.851575,
+      "longitude": 13.979271
+    },
+    {
+      "name": "Zámek Horní Police",
+      "latitude": 50.704921,
+      "longitude": 14.406267
+    },
+    {
+      "name": "Velké Březno",
+      "latitude": 50.662499,
+      "longitude": 14.138536
+    },
+    {
+      "name": "Březnice",
+      "latitude": 50.666418,
+      "longitude": 14.082586
+    },
+    {
+      "name": "Horní Libchava",
+      "latitude": 50.704777,
+      "longitude": 14.503466
+    },
+    {
+      "name": "Lipý",
+      "latitude": 50.683897,
+      "longitude": 14.539336
+    },
+    {
+      "name": "Zámek Zákupy",
+      "latitude": 50.687515,
+      "longitude": 14.643691
+    },
+    {
+      "name": "Zámek Stvolínky",
+      "latitude": 50.631456,
+      "longitude": 14.42795
+    },
+    {
+      "name": "Zámek Zahrádky",
+      "latitude": 50.635682,
+      "longitude": 14.525001
+    },
+    {
+      "name": "Kalich",
+      "latitude": 50.604975,
+      "longitude": 14.206529
+    },
+    {
+      "name": "zámek Liběšice",
+      "latitude": 50.569596,
+      "longitude": 14.28884
+    },
+    {
+      "name": "Helfenburk",
+      "latitude": 50.579507,
+      "longitude": 14.383684
+    },
+    {
+      "name": "Zámek Ploskovice",
+      "latitude": 50.559734,
+      "longitude": 14.200806
+    },
+    {
+      "name": "Biskupská rezidence",
+      "latitude": 50.53176,
+      "longitude": 14.129187
+    },
+    {
+      "name": "Jestřebí",
+      "latitude": 50.611953,
+      "longitude": 14.580771
+    },
+    {
+      "name": "Chudý hrádek",
+      "latitude": 50.589494,
+      "longitude": 14.507423
+    },
+    {
+      "name": "Nový Berštejn",
+      "latitude": 50.548536,
+      "longitude": 14.545196
+    },
+    {
+      "name": "Starý Bernštejn",
+      "latitude": 50.556759,
+      "longitude": 14.580065
+    },
+    {
+      "name": "Zámek Doksy",
+      "latitude": 50.564804,
+      "longitude": 14.652616
+    },
+    {
+      "name": "Hrad Bezděz",
+      "latitude": 50.538959,
+      "longitude": 14.719583
+    },
+    {
+      "name": "Vartenberk",
+      "latitude": 50.705553,
+      "longitude": 14.800165
+    },
+    {
+      "name": "Stohánek",
+      "latitude": 50.67425,
+      "longitude": 14.842925
+    },
+    {
+      "name": "Zbyny",
+      "latitude": 50.6392,
+      "longitude": 14.827442
+    },
+    {
+      "name": "Schmittův zámek",
+      "latitude": 50.662788,
+      "longitude": 14.994291
+    },
+    {
+      "name": "Zámek Sychrov",
+      "latitude": 50.626476,
+      "longitude": 15.08902
+    },
+    {
+      "name": "Vranov",
+      "latitude": 50.64198,
+      "longitude": 15.188937
+    },
+    {
+      "name": "Zámek Malá Skála",
+      "latitude": 50.646391,
+      "longitude": 15.195759
+    },
+    {
+      "name": "Frýdštejn",
+      "latitude": 50.648568,
+      "longitude": 15.1688
+    },
+    {
+      "name": "Návarov",
+      "latitude": 50.679824,
+      "longitude": 15.321209
+    },
+    {
+      "name": "Zámek Kuřívody",
+      "latitude": 50.586485,
+      "longitude": 14.800729
+    },
+    {
+      "name": "Zámek Svijany",
+      "latitude": 50.573614,
+      "longitude": 15.055547
+    },
+    {
+      "name": "Zásadka (zřícenina)",
+      "latitude": 50.556781,
+      "longitude": 14.981542
+    },
+    {
+      "name": "zámek Mnichovo Hradiště",
+      "latitude": 50.527599,
+      "longitude": 14.970969
+    },
+    {
+      "name": "Zámek Malý Rohozec",
+      "latitude": 50.610456,
+      "longitude": 15.148622
+    },
+    {
+      "name": "Zámek Hrubý Rohozec",
+      "latitude": 50.598306,
+      "longitude": 15.15753
+    },
+    {
+      "name": "Zbirohy",
+      "latitude": 50.623698,
+      "longitude": 15.190781
+    },
+    {
+      "name": "zámek Semily",
+      "latitude": 50.60442,
+      "longitude": 15.333675
+    },
+    {
+      "name": "zámek Hrubá Skála",
+      "latitude": 50.545017,
+      "longitude": 15.194764
+    },
+    {
+      "name": "Valdštejn",
+      "latitude": 50.562377,
+      "longitude": 15.167336
+    },
+    {
+      "name": "Kavčiny",
+      "latitude": 50.558682,
+      "longitude": 15.163832
+    },
+    {
+      "name": "Terezín",
+      "latitude": 50.511565,
+      "longitude": 14.152357
+    },
+    {
+      "name": "Tvrz Brozany",
+      "latitude": 50.452513,
+      "longitude": 14.143678
+    },
+    {
+      "name": "Zámek Doksany",
+      "latitude": 50.454649,
+      "longitude": 14.160011
+    },
+    {
+      "name": "Vodní hrad",
+      "latitude": 50.404826,
+      "longitude": 14.123889
+    },
+    {
+      "name": "Zámek Roudnice nad Labem",
+      "latitude": 50.425473,
+      "longitude": 14.261516
+    },
+    {
+      "name": "zřícenina Kluk",
+      "latitude": 50.511147,
+      "longitude": 14.576398
+    },
+    {
+      "name": "Zámek Vidim",
+      "latitude": 50.4665,
+      "longitude": 14.525981
+    },
+    {
+      "name": "Zkamenělý zámek",
+      "latitude": 50.48046,
+      "longitude": 14.617645
+    },
+    {
+      "name": "Lobeč",
+      "latitude": 50.459616,
+      "longitude": 14.667664
+    },
+    {
+      "name": "Zámek Kokořín",
+      "latitude": 50.429941,
+      "longitude": 14.568627
+    },
+    {
+      "name": "Zámek Liběchov",
+      "latitude": 50.408331,
+      "longitude": 14.445245
+    },
+    {
+      "name": "Stránka",
+      "latitude": 50.42062,
+      "longitude": 14.659317
+    },
+    {
+      "name": "Zámek Skalsko",
+      "latitude": 50.42605,
+      "longitude": 14.76306
+    },
+    {
+      "name": "Zámek Horní Beřkovice",
+      "latitude": 50.358462,
+      "longitude": 14.347799
+    },
+    {
+      "name": "Budenice",
+      "latitude": 50.316548,
+      "longitude": 14.102604
+    },
+    {
+      "name": "Jevín",
+      "latitude": 50.34534,
+      "longitude": 14.333953
+    },
+    {
+      "name": "Dolní Beřkovice",
+      "latitude": 50.392709,
+      "longitude": 14.454693
+    },
+    {
+      "name": "zámek Mělník",
+      "latitude": 50.350794,
+      "longitude": 14.473157
+    },
+    {
+      "name": "Zámek Neuberk",
+      "latitude": 50.360492,
+      "longitude": 14.4979
+    },
+    {
+      "name": "zámek Hořín",
+      "latitude": 50.346126,
+      "longitude": 14.462907
+    },
+    {
+      "name": "Zámek Řepín",
+      "latitude": 50.368051,
+      "longitude": 14.633192
+    },
+    {
+      "name": "zámek Obříství",
+      "latitude": 50.296638,
+      "longitude": 14.478933
+    },
+    {
+      "name": "Liblice",
+      "latitude": 50.311697,
+      "longitude": 14.5865
+    },
+    {
+      "name": "Košátky",
+      "latitude": 50.318057,
+      "longitude": 14.666076
+    },
+    {
+      "name": "Byšice",
+      "latitude": 50.309708,
+      "longitude": 14.613013
+    },
+    {
+      "name": "Bělá pod Bezdězem",
+      "latitude": 50.501343,
+      "longitude": 14.807833
+    },
+    {
+      "name": "Zřícenina zámku Zvířetice",
+      "latitude": 50.468174,
+      "longitude": 14.91594
+    },
+    {
+      "name": "Zámek Josefův Důl",
+      "latitude": 50.45648,
+      "longitude": 14.895323
+    },
+    {
+      "name": "Zámek Kosmonosy",
+      "latitude": 50.440513,
+      "longitude": 14.923958
+    },
+    {
+      "name": "Michalovice",
+      "latitude": 50.436159,
+      "longitude": 14.888465
+    },
+    {
+      "name": "Hrad Mladá Boleslav",
+      "latitude": 50.408637,
+      "longitude": 14.900903
+    },
+    {
+      "name": "Neuberk",
+      "latitude": 50.403534,
+      "longitude": 14.886061
+    },
+    {
+      "name": "Zámek Březno",
+      "latitude": 50.407306,
+      "longitude": 15.005236
+    },
+    {
+      "name": "Humprecht",
+      "latitude": 50.470312,
+      "longitude": 15.169812
+    },
+    {
+      "name": "Pařez",
+      "latitude": 50.477475,
+      "longitude": 15.275851
+    },
+    {
+      "name": "zámek Vlčí Pole",
+      "latitude": 50.414065,
+      "longitude": 15.138345
+    },
+    {
+      "name": "Libosad",
+      "latitude": 50.449645,
+      "longitude": 15.378158
+    },
+    {
+      "name": "Zámek Jičín",
+      "latitude": 50.436222,
+      "longitude": 15.352315
+    },
+    {
+      "name": "zámek Vokšice",
+      "latitude": 50.426937,
+      "longitude": 15.322894
+    },
+    {
+      "name": "Niměřice",
+      "latitude": 50.397096,
+      "longitude": 14.808219
+    },
+    {
+      "name": "tvrz Velké Horky",
+      "latitude": 50.392792,
+      "longitude": 14.819961
+    },
+    {
+      "name": "Zámek Krnsko",
+      "latitude": 50.380604,
+      "longitude": 14.850873
+    },
+    {
+      "name": "Zámek Bezno",
+      "latitude": 50.36924,
+      "longitude": 14.790227
+    },
+    {
+      "name": "zámek Stránov",
+      "latitude": 50.372556,
+      "longitude": 14.855944
+    },
+    {
+      "name": "Zámek Vinařice",
+      "latitude": 50.375721,
+      "longitude": 14.952228
+    },
+    {
+      "name": "zámek Domousnice",
+      "latitude": 50.393025,
+      "longitude": 15.108435
+    },
+    {
+      "name": "Zámek Dobrovice",
+      "latitude": 50.366846,
+      "longitude": 14.963786
+    },
+    {
+      "name": "Horky nad Jizerou",
+      "latitude": 50.327218,
+      "longitude": 14.857292
+    },
+    {
+      "name": "Luštěnice",
+      "latitude": 50.321042,
+      "longitude": 14.939529
+    },
+    {
+      "name": "zámek Mcely",
+      "latitude": 50.299476,
+      "longitude": 15.07736
+    },
+    {
+      "name": "zámek Staré Hrady",
+      "latitude": 50.386573,
+      "longitude": 15.213821
+    },
+    {
+      "name": "zámek Dětěnice",
+      "latitude": 50.368052,
+      "longitude": 15.172749
+    },
+    {
+      "name": "zámek Milíčeves",
+      "latitude": 50.378838,
+      "longitude": 15.392932
+    },
+    {
+      "name": "Zámek Tuř",
+      "latitude": 50.393166,
+      "longitude": 15.416498
+    },
+    {
+      "name": "Zámek Jičíněves",
+      "latitude": 50.373057,
+      "longitude": 15.342239
+    },
+    {
+      "name": "Zámek Kopidlno",
+      "latitude": 50.330653,
+      "longitude": 15.272189
+    },
+    {
+      "name": "zámek Rožďalovice",
+      "latitude": 50.308104,
+      "longitude": 15.171509
+    },
+    {
+      "name": "Zámek Vysoké Veselí",
+      "latitude": 50.3315,
+      "longitude": 15.437841
+    },
+    {
+      "name": "Dolní Štěpanice",
+      "latitude": 50.639717,
+      "longitude": 15.539988
+    },
+    {
+      "name": "Zámek Horní Maršov",
+      "latitude": 50.662226,
+      "longitude": 15.818609
+    },
+    {
+      "name": "Žacléř",
+      "latitude": 50.649854,
+      "longitude": 15.903902
+    },
+    {
+      "name": "zámek Jana Harracha",
+      "latitude": 50.610447,
+      "longitude": 15.504426
+    },
+    {
+      "name": "zámek Horní Branná",
+      "latitude": 50.608883,
+      "longitude": 15.569961
+    },
+    {
+      "name": "Zámek Studenec",
+      "latitude": 50.546962,
+      "longitude": 15.559974
+    },
+    {
+      "name": "Břecštejn",
+      "latitude": 50.583792,
+      "longitude": 15.828372
+    },
+    {
+      "name": "Zámek Adršpach",
+      "latitude": 50.618905,
+      "longitude": 16.110899
+    },
+    {
+      "name": "Dolní zámek Teplice nad Metují",
+      "latitude": 50.592137,
+      "longitude": 16.169928
+    },
+    {
+      "name": "zámek Vlčice",
+      "latitude": 50.559777,
+      "longitude": 15.822804
+    },
+    {
+      "name": "Zámek Stárkov",
+      "latitude": 50.53351,
+      "longitude": 16.159543
+    },
+    {
+      "name": "Zámek Meziměstí",
+      "latitude": 50.627506,
+      "longitude": 16.242669
+    },
+    {
+      "name": "hrad Pecka",
+      "latitude": 50.478924,
+      "longitude": 15.604575
+    },
+    {
+      "name": "Zámek Kamenice",
+      "latitude": 50.41192,
+      "longitude": 15.4789
+    },
+    {
+      "name": "zámek Lázně Bělohrad",
+      "latitude": 50.428965,
+      "longitude": 15.581169
+    },
+    {
+      "name": "Zámek Miletín",
+      "latitude": 50.404681,
+      "longitude": 15.678381
+    },
+    {
+      "name": "Zámek Ratibořice",
+      "latitude": 50.415035,
+      "longitude": 16.052608
+    },
+    {
+      "name": "zámek Náchod",
+      "latitude": 50.418663,
+      "longitude": 16.161759
+    },
+    {
+      "name": "Holovousy",
+      "latitude": 50.376203,
+      "longitude": 15.577748
+    },
+    {
+      "name": "Zámek Sobčice",
+      "latitude": 50.373465,
+      "longitude": 15.517236
+    },
+    {
+      "name": "zámek Hořice",
+      "latitude": 50.370202,
+      "longitude": 15.635803
+    },
+    {
+      "name": "Bílé Poličany",
+      "latitude": 50.391179,
+      "longitude": 15.728877
+    },
+    {
+      "name": "Chotělice",
+      "latitude": 50.308882,
+      "longitude": 15.475373
+    },
+    {
+      "name": "zámek Smidary",
+      "latitude": 50.292498,
+      "longitude": 15.481016
+    },
+    {
+      "name": "Zámek Stračov",
+      "latitude": 50.301297,
+      "longitude": 15.640773
+    },
+    {
+      "name": "Zámek Cerekvice nad Bystřicí",
+      "latitude": 50.334347,
+      "longitude": 15.724006
+    },
+    {
+      "name": "bývalý zámek Sadová",
+      "latitude": 50.296579,
+      "longitude": 15.698676
+    },
+    {
+      "name": "Maloskalická tvrz",
+      "latitude": 50.395447,
+      "longitude": 16.037034
+    },
+    {
+      "name": "Zámek Smiřice",
+      "latitude": 50.299277,
+      "longitude": 15.871324
+    },
+    {
+      "name": "zřícenina hradu Výrov",
+      "latitude": 50.3409,
+      "longitude": 16.159361
+    },
+    {
+      "name": "Zámek Zlonice",
+      "latitude": 50.285403,
+      "longitude": 14.093315
+    },
+    {
+      "name": "Zámek Veltrusy",
+      "latitude": 50.277626,
+      "longitude": 14.329854
+    },
+    {
+      "name": "zámek Klecany",
+      "latitude": 50.178234,
+      "longitude": 14.410207
+    },
+    {
+      "name": "Zámek Chlumín",
+      "latitude": 50.288386,
+      "longitude": 14.452476
+    },
+    {
+      "name": "Zámek Lobkovice",
+      "latitude": 50.251716,
+      "longitude": 14.541385
+    },
+    {
+      "name": "zámek Pakoměřice",
+      "latitude": 50.181598,
+      "longitude": 14.479123
+    },
+    {
+      "name": "zámek Brandýs nad Labem",
+      "latitude": 50.18728,
+      "longitude": 14.666447
+    },
+    {
+      "name": "Zámek Buštěhrad",
+      "latitude": 50.155175,
+      "longitude": 14.191647
+    },
+    {
+      "name": "Zámek Brnky",
+      "latitude": 50.15655,
+      "longitude": 14.4107
+    },
+    {
+      "name": "zámek Tuchoměřice",
+      "latitude": 50.13508,
+      "longitude": 14.279243
+    },
+    {
+      "name": "Červený Újezd",
+      "latitude": 50.072057,
+      "longitude": 14.165344
+    },
+    {
+      "name": "Litovická tvrz",
+      "latitude": 50.075696,
+      "longitude": 14.235817
+    },
+    {
+      "name": "Troja",
+      "latitude": 50.116421,
+      "longitude": 14.412852
+    },
+    {
+      "name": "zámek Veleslavín",
+      "latitude": 50.093302,
+      "longitude": 14.350912
+    },
+    {
+      "name": "zámek Jenerálka",
+      "latitude": 50.105954,
+      "longitude": 14.351361
+    },
+    {
+      "name": "Zámek Hostivice",
+      "latitude": 50.080431,
+      "longitude": 14.255547
+    },
+    {
+      "name": "Pražský Hrad",
+      "latitude": 50.091243,
+      "longitude": 14.403774
+    },
+    {
+      "name": "palác Žofín",
+      "latitude": 50.079111,
+      "longitude": 14.412729
+    },
+    {
+      "name": "Letohrádek Hvězda",
+      "latitude": 50.083382,
+      "longitude": 14.326232
+    },
+    {
+      "name": "Windischgrätzovský palác",
+      "latitude": 50.089681,
+      "longitude": 14.40938
+    },
+    {
+      "name": "Sterneggovský palác",
+      "latitude": 50.086742,
+      "longitude": 14.405361
+    },
+    {
+      "name": "palác Thurn-Taxisů",
+      "latitude": 50.089807,
+      "longitude": 14.408717
+    },
+    {
+      "name": "Chotkovský palác",
+      "latitude": 50.084103,
+      "longitude": 14.405734
+    },
+    {
+      "name": "Schönbornský palác",
+      "latitude": 50.087151,
+      "longitude": 14.40104
+    },
+    {
+      "name": "U Tří jetelových lístků",
+      "latitude": 50.086214,
+      "longitude": 14.40382
+    },
+    {
+      "name": "Tyršův dům",
+      "latitude": 50.08356,
+      "longitude": 14.405445
+    },
+    {
+      "name": "Lichtenštejnský palác",
+      "latitude": 50.085523,
+      "longitude": 14.408653
+    },
+    {
+      "name": "Nostický palác",
+      "latitude": 50.085418,
+      "longitude": 14.405821
+    },
+    {
+      "name": "Valdštejnský palác",
+      "latitude": 50.090023,
+      "longitude": 14.405687
+    },
+    {
+      "name": "Hrzánský palác",
+      "latitude": 50.086022,
+      "longitude": 14.407328
+    },
+    {
+      "name": "Turbovský palác",
+      "latitude": 50.085993,
+      "longitude": 14.404979
+    },
+    {
+      "name": "palác Harbuval-Chamaré",
+      "latitude": 50.086109,
+      "longitude": 14.40466
+    },
+    {
+      "name": "Thun-Hohensteinský palác",
+      "latitude": 50.086339,
+      "longitude": 14.404328
+    },
+    {
+      "name": "Aueršperský palác",
+      "latitude": 50.089878,
+      "longitude": 14.40477
+    },
+    {
+      "name": "Buquoyský palác",
+      "latitude": 50.085695,
+      "longitude": 14.406562
+    },
+    {
+      "name": "Malý Buquoyský palác",
+      "latitude": 50.085816,
+      "longitude": 14.406059
+    },
+    {
+      "name": "Kolovratský palác",
+      "latitude": 50.090702,
+      "longitude": 14.406576
+    },
+    {
+      "name": "Malý Fürstenberský palác",
+      "latitude": 50.091066,
+      "longitude": 14.406212
+    },
+    {
+      "name": "Ledebourský palác",
+      "latitude": 50.090436,
+      "longitude": 14.404826
+    },
+    {
+      "name": "palác Kinských",
+      "latitude": 50.08805,
+      "longitude": 14.399524
+    },
+    {
+      "name": "Fürstenberský palác",
+      "latitude": 50.090885,
+      "longitude": 14.407338
+    },
+    {
+      "name": "Pálffyovský palác",
+      "latitude": 50.090729,
+      "longitude": 14.405609
+    },
+    {
+      "name": "palác Lažanských",
+      "latitude": 50.08942,
+      "longitude": 14.403561
+    },
+    {
+      "name": "Kolowratský palác",
+      "latitude": 50.089202,
+      "longitude": 14.403567
+    },
+    {
+      "name": "Věžníkovský palác",
+      "latitude": 50.08927,
+      "longitude": 14.401508
+    },
+    {
+      "name": "palác Schützenů",
+      "latitude": 50.090233,
+      "longitude": 14.403661
+    },
+    {
+      "name": "Černínský palác",
+      "latitude": 50.089625,
+      "longitude": 14.403495
+    },
+    {
+      "name": "Thunovský palác",
+      "latitude": 50.089636,
+      "longitude": 14.402858
+    },
+    {
+      "name": "Šelmberský palác",
+      "latitude": 50.089323,
+      "longitude": 14.401907
+    },
+    {
+      "name": "Toskánský palác",
+      "latitude": 50.089276,
+      "longitude": 14.395123
+    },
+    {
+      "name": "Hrzánský palác",
+      "latitude": 50.088461,
+      "longitude": 14.394194
+    },
+    {
+      "name": "Trčkovský palác",
+      "latitude": 50.08781,
+      "longitude": 14.390642
+    },
+    {
+      "name": "Dietrichštejnský palác",
+      "latitude": 50.088521,
+      "longitude": 14.394527
+    },
+    {
+      "name": "palác Hložků ze Žampachu",
+      "latitude": 50.090565,
+      "longitude": 14.393884
+    },
+    {
+      "name": "Martinický palác",
+      "latitude": 50.089367,
+      "longitude": 14.394371
+    },
+    {
+      "name": "Losenovský palác",
+      "latitude": 50.090045,
+      "longitude": 14.396171
+    },
+    {
+      "name": "Martinický palác",
+      "latitude": 50.090173,
+      "longitude": 14.395101
+    },
+    {
+      "name": "Šternberský palác",
+      "latitude": 50.090499,
+      "longitude": 14.396379
+    },
+    {
+      "name": "Arcibiskupský palác",
+      "latitude": 50.090189,
+      "longitude": 14.397319
+    },
+    {
+      "name": "dům pážat pánů z Martinic",
+      "latitude": 50.090265,
+      "longitude": 14.393969
+    },
+    {
+      "name": "Černínský palác",
+      "latitude": 50.088714,
+      "longitude": 14.390369
+    },
+    {
+      "name": "Velkopřevorský palác",
+      "latitude": 50.086328,
+      "longitude": 14.40621
+    },
+    {
+      "name": "Thun-Hohenštejnský palác",
+      "latitude": 50.088711,
+      "longitude": 14.400324
+    },
+    {
+      "name": "Šporkův palác",
+      "latitude": 50.087851,
+      "longitude": 14.39715
+    },
+    {
+      "name": "Salmovský palác",
+      "latitude": 50.089212,
+      "longitude": 14.397546
+    },
+    {
+      "name": "Bretfeldovský palác",
+      "latitude": 50.088335,
+      "longitude": 14.398132
+    },
+    {
+      "name": "Lobkovický palác",
+      "latitude": 50.091694,
+      "longitude": 14.404799
+    },
+    {
+      "name": "palác Pánů z Hradce",
+      "latitude": 50.089015,
+      "longitude": 14.400402
+    },
+    {
+      "name": "Oettingenský palác",
+      "latitude": 50.088505,
+      "longitude": 14.406092
+    },
+    {
+      "name": "Kučerův palác",
+      "latitude": 50.087733,
+      "longitude": 14.388752
+    },
+    {
+      "name": "Vrbnovský palác",
+      "latitude": 50.088104,
+      "longitude": 14.392289
+    },
+    {
+      "name": "Trauttmannsdorfský palác",
+      "latitude": 50.088716,
+      "longitude": 14.393486
+    },
+    {
+      "name": "palác Smiřických",
+      "latitude": 50.088678,
+      "longitude": 14.403933
+    },
+    {
+      "name": "Šternberský palác",
+      "latitude": 50.088629,
+      "longitude": 14.404332
+    },
+    {
+      "name": "Morzinský palác",
+      "latitude": 50.088297,
+      "longitude": 14.400902
+    },
+    {
+      "name": "Hartigovský palác",
+      "latitude": 50.087584,
+      "longitude": 14.401965
+    },
+    {
+      "name": "Lichtenštejnský palác",
+      "latitude": 50.087995,
+      "longitude": 14.40182
+    },
+    {
+      "name": "Grömlingovský palác",
+      "latitude": 50.087965,
+      "longitude": 14.40397
+    },
+    {
+      "name": "Vratislavský palác",
+      "latitude": 50.086984,
+      "longitude": 14.402153
+    },
+    {
+      "name": "Kaiserštejnský palác",
+      "latitude": 50.087875,
+      "longitude": 14.405034
+    },
+    {
+      "name": "Kounický palác",
+      "latitude": 50.087179,
+      "longitude": 14.405408
+    },
+    {
+      "name": "Vrtbovský palác",
+      "latitude": 50.08665,
+      "longitude": 14.403151
+    },
+    {
+      "name": "palác Křižík",
+      "latitude": 50.071278,
+      "longitude": 14.400484
+    },
+    {
+      "name": "Thunovský palác",
+      "latitude": 50.089637,
+      "longitude": 14.404364
+    },
+    {
+      "name": "Schwarzenberský palác",
+      "latitude": 50.088932,
+      "longitude": 14.396657
+    },
+    {
+      "name": "Pražský hrad",
+      "latitude": 50.091009,
+      "longitude": 14.401767
+    },
+    {
+      "name": "zámek Vinoř",
+      "latitude": 50.140755,
+      "longitude": 14.579337
+    },
+    {
+      "name": "Jenštejn - hrad - zřícenina",
+      "latitude": 50.15346,
+      "longitude": 14.611003
+    },
+    {
+      "name": "I.interní oddělení, pneumologie a hrudní chirurgie",
+      "latitude": 50.116823,
+      "longitude": 14.465469
+    },
+    {
+      "name": "Libeňský zámek",
+      "latitude": 50.107696,
+      "longitude": 14.471177
+    },
+    {
+      "name": "Rokoska",
+      "latitude": 50.116502,
+      "longitude": 14.463841
+    },
+    {
+      "name": "Seebergovský palác",
+      "latitude": 50.087433,
+      "longitude": 14.426682
+    },
+    {
+      "name": "Ditrichštejnský palác",
+      "latitude": 50.081135,
+      "longitude": 14.417
+    },
+    {
+      "name": "Schirdingovský palác",
+      "latitude": 50.081867,
+      "longitude": 14.418016
+    },
+    {
+      "name": "MacNevenův palác",
+      "latitude": 50.081209,
+      "longitude": 14.423495
+    },
+    {
+      "name": "Deymův palác",
+      "latitude": 50.080889,
+      "longitude": 14.416925
+    },
+    {
+      "name": "Pöttingovský palác",
+      "latitude": 50.085716,
+      "longitude": 14.415046
+    },
+    {
+      "name": "Harrachovský palác",
+      "latitude": 50.083949,
+      "longitude": 14.428887
+    },
+    {
+      "name": "Palác Pachtů z Rájova",
+      "latitude": 50.084653,
+      "longitude": 14.414618
+    },
+    {
+      "name": "Colloredo-Mansfeldský palác",
+      "latitude": 50.085749,
+      "longitude": 14.414475
+    },
+    {
+      "name": "Trauttmannsdorfský palác",
+      "latitude": 50.086499,
+      "longitude": 14.417294
+    },
+    {
+      "name": "Kaunický palác",
+      "latitude": 50.08449,
+      "longitude": 14.427847
+    },
+    {
+      "name": "palác Kinských",
+      "latitude": 50.088039,
+      "longitude": 14.421794
+    },
+    {
+      "name": "Faustův dům",
+      "latitude": 50.073242,
+      "longitude": 14.418924
+    },
+    {
+      "name": "Clam-Gallasův palác",
+      "latitude": 50.086484,
+      "longitude": 14.418044
+    },
+    {
+      "name": "Millesimovský palác",
+      "latitude": 50.087446,
+      "longitude": 14.423922
+    },
+    {
+      "name": "Menhartovský palác",
+      "latitude": 50.08749,
+      "longitude": 14.424695
+    },
+    {
+      "name": "palác Hrzánů z Harasova",
+      "latitude": 50.086839,
+      "longitude": 14.423197
+    },
+    {
+      "name": "palác Hrobčických",
+      "latitude": 50.085242,
+      "longitude": 14.42335
+    },
+    {
+      "name": "Wimmerův palác",
+      "latitude": 50.084978,
+      "longitude": 14.423067
+    },
+    {
+      "name": "U Kamenného zvonu",
+      "latitude": 50.087798,
+      "longitude": 14.421966
+    },
+    {
+      "name": "Zámek Hostavice",
+      "latitude": 50.091176,
+      "longitude": 14.560966
+    },
+    {
+      "name": "Zámek Malešice",
+      "latitude": 50.084521,
+      "longitude": 14.512547
+    },
+    {
+      "name": "Chvalský zámek",
+      "latitude": 50.111262,
+      "longitude": 14.595472
+    },
+    {
+      "name": "Zámek Čertousy",
+      "latitude": 50.119673,
+      "longitude": 14.632157
+    },
+    {
+      "name": "Zámek Jirny",
+      "latitude": 50.1169,
+      "longitude": 14.690327
+    },
+    {
+      "name": "Bon Repos",
+      "latitude": 50.242022,
+      "longitude": 14.793033
+    },
+    {
+      "name": "Zámek Loučeň",
+      "latitude": 50.287032,
+      "longitude": 15.024373
+    },
+    {
+      "name": "zámek Lysá nad Labem",
+      "latitude": 50.203212,
+      "longitude": 14.83385
+    },
+    {
+      "name": "zámek Křinec",
+      "latitude": 50.269148,
+      "longitude": 15.139663
+    },
+    {
+      "name": "zámek Dymokury",
+      "latitude": 50.245646,
+      "longitude": 15.204341
+    },
+    {
+      "name": "zámek Vlkov nad Lesy",
+      "latitude": 50.203796,
+      "longitude": 15.386514
+    },
+    {
+      "name": "zámek Přerov nad Labem",
+      "latitude": 50.159862,
+      "longitude": 14.823582
+    },
+    {
+      "name": "Zámek Kounice",
+      "latitude": 50.108782,
+      "longitude": 14.855817
+    },
+    {
+      "name": "bývalá tvrz Tuklaty",
+      "latitude": 50.086002,
+      "longitude": 14.767913
+    },
+    {
+      "name": "zámek Poděbrady",
+      "latitude": 50.141657,
+      "longitude": 15.119198
+    },
+    {
+      "name": "Zámek Karlova Koruna",
+      "latitude": 50.158914,
+      "longitude": 15.451294
+    },
+    {
+      "name": "Zámek Býchory",
+      "latitude": 50.064398,
+      "longitude": 15.276738
+    },
+    {
+      "name": "zámek Jinonice",
+      "latitude": 50.053334,
+      "longitude": 14.356126
+    },
+    {
+      "name": "Vysoký Újezd",
+      "latitude": 49.992926,
+      "longitude": 14.205253
+    },
+    {
+      "name": "zámek Komořany",
+      "latitude": 49.988262,
+      "longitude": 14.404258
+    },
+    {
+      "name": "Třebotovská tvrz",
+      "latitude": 49.971968,
+      "longitude": 14.28883
+    },
+    {
+      "name": "zámek Zbraslav",
+      "latitude": 49.97793,
+      "longitude": 14.391885
+    },
+    {
+      "name": "Záběhlický zámek",
+      "latitude": 50.051417,
+      "longitude": 14.496606
+    },
+    {
+      "name": "Zámek Práče",
+      "latitude": 50.052767,
+      "longitude": 14.507409
+    },
+    {
+      "name": "zámek Kunratice",
+      "latitude": 50.012192,
+      "longitude": 14.482359
+    },
+    {
+      "name": "zámek Petrovice",
+      "latitude": 50.03331,
+      "longitude": 14.556206
+    },
+    {
+      "name": "zámek Koloděje",
+      "latitude": 50.060711,
+      "longitude": 14.634927
+    },
+    {
+      "name": "Zámek Škvorec",
+      "latitude": 50.046082,
+      "longitude": 14.733632
+    },
+    {
+      "name": "Uhříněves",
+      "latitude": 50.030434,
+      "longitude": 14.604128
+    },
+    {
+      "name": "zámek Dobřejovice",
+      "latitude": 49.982515,
+      "longitude": 14.579203
+    },
+    {
+      "name": "Botanický ústav AV ČR",
+      "latitude": 50.00042,
+      "longitude": 14.557406
+    },
+    {
+      "name": "Dolní Břežany",
+      "latitude": 49.962672,
+      "longitude": 14.457074
+    },
+    {
+      "name": "Zámek Tetín",
+      "latitude": 49.949557,
+      "longitude": 14.100886
+    },
+    {
+      "name": "Zámek Liteň",
+      "latitude": 49.904906,
+      "longitude": 14.149591
+    },
+    {
+      "name": "Letní residence Velmistra řádu Křížovníků s červenou hvězdou",
+      "latitude": 49.925949,
+      "longitude": 14.27441
+    },
+    {
+      "name": "Řitka",
+      "latitude": 49.896193,
+      "longitude": 14.291937
+    },
+    {
+      "name": "zámek Trnová",
+      "latitude": 49.915227,
+      "longitude": 14.358559
+    },
+    {
+      "name": "Zámek Svinaře",
+      "latitude": 49.893845,
+      "longitude": 14.183631
+    },
+    {
+      "name": "Osov",
+      "latitude": 49.846278,
+      "longitude": 14.081081
+    },
+    {
+      "name": "zámek Mníšek pod Brdy",
+      "latitude": 49.868199,
+      "longitude": 14.258181
+    },
+    {
+      "name": "Zámek Hradištko",
+      "latitude": 49.867378,
+      "longitude": 14.41039
+    },
+    {
+      "name": "Zámek Olešovice",
+      "latitude": 49.905268,
+      "longitude": 14.589486
+    },
+    {
+      "name": "zámek Nebřenice",
+      "latitude": 49.944276,
+      "longitude": 14.605771
+    },
+    {
+      "name": "zámek Berchtold",
+      "latitude": 49.928856,
+      "longitude": 14.667379
+    },
+    {
+      "name": "zámek Štiřín",
+      "latitude": 49.916587,
+      "longitude": 14.599227
+    },
+    {
+      "name": "zámek Pyšely",
+      "latitude": 49.876643,
+      "longitude": 14.678397
+    },
+    {
+      "name": "Zámek Kostelec nad Černými lesy",
+      "latitude": 49.995759,
+      "longitude": 14.862525
+    },
+    {
+      "name": "zámeček Diblíkov",
+      "latitude": 49.99352,
+      "longitude": 14.960154
+    },
+    {
+      "name": "zámek Molitorov",
+      "latitude": 49.994908,
+      "longitude": 14.95886
+    },
+    {
+      "name": "zámek Svojšice",
+      "latitude": 50.002662,
+      "longitude": 15.041177
+    },
+    {
+      "name": "zámek Polní Voděrady",
+      "latitude": 49.993103,
+      "longitude": 15.099155
+    },
+    {
+      "name": "Tvrz Malotice",
+      "latitude": 49.964208,
+      "longitude": 14.974976
+    },
+    {
+      "name": "Zámek Zásmuky",
+      "latitude": 49.953873,
+      "longitude": 15.028069
+    },
+    {
+      "name": "zámek Bečváry",
+      "latitude": 49.956354,
+      "longitude": 15.07856
+    },
+    {
+      "name": "zámek Konárovice;Konárovice",
+      "latitude": 50.039839,
+      "longitude": 15.285351
+    },
+    {
+      "name": "zámek Radovesnice",
+      "latitude": 50.009157,
+      "longitude": 15.147749
+    },
+    {
+      "name": "Tvrz Lošany",
+      "latitude": 49.998931,
+      "longitude": 15.123863
+    },
+    {
+      "name": "Zámek Pašinka",
+      "latitude": 49.997534,
+      "longitude": 15.186635
+    },
+    {
+      "name": "Nový zámek Ratboř",
+      "latitude": 49.977382,
+      "longitude": 15.154345
+    },
+    {
+      "name": "Starý zámek Ratboř",
+      "latitude": 49.977694,
+      "longitude": 15.15612
+    },
+    {
+      "name": "Červené Pečky",
+      "latitude": 49.978638,
+      "longitude": 15.207773
+    },
+    {
+      "name": "Zámek Kačina",
+      "latitude": 49.981826,
+      "longitude": 15.346217
+    },
+    {
+      "name": "Zámek Nové Dvory",
+      "latitude": 49.970974,
+      "longitude": 15.322295
+    },
+    {
+      "name": "Zámek Žehušice",
+      "latitude": 49.966961,
+      "longitude": 15.412279
+    },
+    {
+      "name": "Komorní Hrádek",
+      "latitude": 49.868116,
+      "longitude": 14.798523
+    },
+    {
+      "name": "Talmberk - zřícenina/ ruins",
+      "latitude": 49.86724,
+      "longitude": 14.955811
+    },
+    {
+      "name": "Rataje",
+      "latitude": 49.842048,
+      "longitude": 14.957845
+    },
+    {
+      "name": "Pirkenštejn",
+      "latitude": 49.840836,
+      "longitude": 14.954724
+    },
+    {
+      "name": "Belveder",
+      "latitude": 49.942466,
+      "longitude": 15.188397
+    },
+    {
+      "name": "Vlašský dvůr",
+      "latitude": 49.948064,
+      "longitude": 15.26856
+    },
+    {
+      "name": "palác Hrádek",
+      "latitude": 49.94761,
+      "longitude": 15.265352
+    },
+    {
+      "name": "zámek Roztěž",
+      "latitude": 49.904728,
+      "longitude": 15.189358
+    },
+    {
+      "name": "Tvrz Malešov",
+      "latitude": 49.911051,
+      "longitude": 15.221318
+    },
+    {
+      "name": "Zámek Tupadly",
+      "latitude": 49.869533,
+      "longitude": 15.401325
+    },
+    {
+      "name": "Zámek Hraběšín",
+      "latitude": 49.851925,
+      "longitude": 15.333105
+    },
+    {
+      "name": "zámek Skřivany",
+      "latitude": 50.26867,
+      "longitude": 15.504855
+    },
+    {
+      "name": "Zámek Sloupno",
+      "latitude": 50.257268,
+      "longitude": 15.498269
+    },
+    {
+      "name": "Zámek Neděliště",
+      "latitude": 50.276217,
+      "longitude": 15.785807
+    },
+    {
+      "name": "Zámek Dolní Přím",
+      "latitude": 50.239239,
+      "longitude": 15.705621
+    },
+    {
+      "name": "zámek Dolní Přím",
+      "latitude": 50.239271,
+      "longitude": 15.705687
+    },
+    {
+      "name": "zámek Barchov",
+      "latitude": 50.201998,
+      "longitude": 15.569008
+    },
+    {
+      "name": "Zámek Hrádek u Nechanic",
+      "latitude": 50.223552,
+      "longitude": 15.667117
+    },
+    {
+      "name": "zámek Stěžery",
+      "latitude": 50.215248,
+      "longitude": 15.74881
+    },
+    {
+      "name": "Zámek Opočno",
+      "latitude": 50.264854,
+      "longitude": 16.115634
+    },
+    {
+      "name": "Lovecký zámek Bolehošťská Lhota",
+      "latitude": 50.207832,
+      "longitude": 16.0872
+    },
+    {
+      "name": "Zámek Dobřenice",
+      "latitude": 50.150712,
+      "longitude": 15.64231
+    },
+    {
+      "name": "Lovecký zámeček Rohoznice",
+      "latitude": 50.132751,
+      "longitude": 15.646478
+    },
+    {
+      "name": "Zámek Skalka",
+      "latitude": 50.263407,
+      "longitude": 16.213231
+    },
+    {
+      "name": "zámek Kvasiny",
+      "latitude": 50.206785,
+      "longitude": 16.250706
+    },
+    {
+      "name": "Zámek Černíkovice",
+      "latitude": 50.188308,
+      "longitude": 16.214303
+    },
+    {
+      "name": "Kolowrat",
+      "latitude": 50.166465,
+      "longitude": 16.275795
+    },
+    {
+      "name": "Zámek Častolovice",
+      "latitude": 50.130768,
+      "longitude": 16.187012
+    },
+    {
+      "name": "Nový zámek",
+      "latitude": 50.122632,
+      "longitude": 16.199747
+    },
+    {
+      "name": "Hrad Pěčín",
+      "latitude": 50.162166,
+      "longitude": 16.398452
+    },
+    {
+      "name": "Zámek Rokytnice v Orlických horách",
+      "latitude": 50.1655,
+      "longitude": 16.464394
+    },
+    {
+      "name": "zámek Doudleby",
+      "latitude": 50.108445,
+      "longitude": 16.263928
+    },
+    {
+      "name": "Zámek Přestavlky",
+      "latitude": 50.069408,
+      "longitude": 16.231935
+    },
+    {
+      "name": "zámek Potštejn",
+      "latitude": 50.082206,
+      "longitude": 16.30866
+    },
+    {
+      "name": "Hrad Litice",
+      "latitude": 50.085893,
+      "longitude": 16.351374
+    },
+    {
+      "name": "Zámek Žamberk",
+      "latitude": 50.085622,
+      "longitude": 16.467515
+    },
+    {
+      "name": "Zdechovice",
+      "latitude": 50.013723,
+      "longitude": 15.46943
+    },
+    {
+      "name": "zámek Choltice",
+      "latitude": 49.985551,
+      "longitude": 15.618744
+    },
+    {
+      "name": "Tvrz Svojšice",
+      "latitude": 49.96662,
+      "longitude": 15.60273
+    },
+    {
+      "name": "Zámek Medlešice",
+      "latitude": 49.97866,
+      "longitude": 15.768517
+    },
+    {
+      "name": "Zámek Horní Jelení",
+      "latitude": 50.049241,
+      "longitude": 16.087597
+    },
+    {
+      "name": "Zámek Chroustovice",
+      "latitude": 49.953524,
+      "longitude": 15.993407
+    },
+    {
+      "name": "zámek Zámrsk",
+      "latitude": 49.988299,
+      "longitude": 16.131707
+    },
+    {
+      "name": "Zámek Slatiňany",
+      "latitude": 49.919313,
+      "longitude": 15.811065
+    },
+    {
+      "name": "Zámek Žleby",
+      "latitude": 49.887876,
+      "longitude": 15.4837
+    },
+    {
+      "name": "Zámek Hostačov",
+      "latitude": 49.848101,
+      "longitude": 15.492698
+    },
+    {
+      "name": "Zámek Seč",
+      "latitude": 49.847473,
+      "longitude": 15.660236
+    },
+    {
+      "name": "Zámek Nasavrky",
+      "latitude": 49.845079,
+      "longitude": 15.803114
+    },
+    {
+      "name": "zámek Přestavlky u Chrudimi",
+      "latitude": 49.939875,
+      "longitude": 15.925818
+    },
+    {
+      "name": "zámek Rosice",
+      "latitude": 49.923654,
+      "longitude": 15.9531
+    },
+    {
+      "name": "Zámek Chrast",
+      "latitude": 49.900781,
+      "longitude": 15.937724
+    },
+    {
+      "name": "zřícenina Košumberk",
+      "latitude": 49.884144,
+      "longitude": 16.034496
+    },
+    {
+      "name": "Nové Hrady",
+      "latitude": 49.852823,
+      "longitude": 16.145743
+    },
+    {
+      "name": "Kyšperk",
+      "latitude": 50.032649,
+      "longitude": 16.493682
+    },
+    {
+      "name": "Zamek Letohrad",
+      "latitude": 50.035242,
+      "longitude": 16.49972
+    },
+    {
+      "name": "Letohrad",
+      "latitude": 50.035339,
+      "longitude": 16.499508
+    },
+    {
+      "name": "zámek Choceň",
+      "latitude": 49.999625,
+      "longitude": 16.22643
+    },
+    {
+      "name": "zámek Litomyšl",
+      "latitude": 49.873529,
+      "longitude": 16.313267
+    },
+    {
+      "name": "Hoštejn",
+      "latitude": 49.876935,
+      "longitude": 16.776969
+    },
+    {
+      "name": "Jízdárna Světce",
+      "latitude": 49.802825,
+      "longitude": 12.606938
+    },
+    {
+      "name": "Zaniklý hrad Šelmberk",
+      "latitude": 49.754713,
+      "longitude": 12.45589
+    },
+    {
+      "name": "Zámek Lesná",
+      "latitude": 49.753429,
+      "longitude": 12.53533
+    },
+    {
+      "name": "zámek Diana",
+      "latitude": 49.629389,
+      "longitude": 12.595745
+    },
+    {
+      "name": "zřícenina hradu Třebel",
+      "latitude": 49.819536,
+      "longitude": 12.838953
+    },
+    {
+      "name": "Volfštejn",
+      "latitude": 49.806976,
+      "longitude": 12.867289
+    },
+    {
+      "name": "zámek Částkov",
+      "latitude": 49.756634,
+      "longitude": 12.675629
+    },
+    {
+      "name": "Zámek Lhotka",
+      "latitude": 49.778663,
+      "longitude": 12.715458
+    },
+    {
+      "name": "Nové Sedliště",
+      "latitude": 49.7296,
+      "longitude": 12.675981
+    },
+    {
+      "name": "Zámek Ošelín",
+      "latitude": 49.7718,
+      "longitude": 12.856127
+    },
+    {
+      "name": "zámek Svojšín",
+      "latitude": 49.76699,
+      "longitude": 12.910983
+    },
+    {
+      "name": "Trpísty",
+      "latitude": 49.823794,
+      "longitude": 13.058857
+    },
+    {
+      "name": "Luhov",
+      "latitude": 49.813587,
+      "longitude": 13.144256
+    },
+    {
+      "name": "Zámek Líšťany",
+      "latitude": 49.829689,
+      "longitude": 13.183334
+    },
+    {
+      "name": "zámek Újezd nade Mží",
+      "latitude": 49.788311,
+      "longitude": 13.194974
+    },
+    {
+      "name": "Zámek Úlice",
+      "latitude": 49.759855,
+      "longitude": 13.149074
+    },
+    {
+      "name": "zámek Křimice",
+      "latitude": 49.758613,
+      "longitude": 13.306597
+    },
+    {
+      "name": "zámeček Radčice",
+      "latitude": 49.758325,
+      "longitude": 13.339416
+    },
+    {
+      "name": "Zámek Bor",
+      "latitude": 49.709873,
+      "longitude": 12.777305
+    },
+    {
+      "name": "hrad Přimda",
+      "latitude": 49.679867,
+      "longitude": 12.667035
+    },
+    {
+      "name": "zámek Velké Dvorce",
+      "latitude": 49.685026,
+      "longitude": 12.699969
+    },
+    {
+      "name": "Pozůstatky Nového hrádku u Stráže",
+      "latitude": 49.664442,
+      "longitude": 12.737694
+    },
+    {
+      "name": "zámek Bernartice",
+      "latitude": 49.628235,
+      "longitude": 12.800856
+    },
+    {
+      "name": "Alfrédov",
+      "latitude": 49.685043,
+      "longitude": 13.031767
+    },
+    {
+      "name": "Březina",
+      "latitude": 49.813349,
+      "longitude": 13.60507
+    },
+    {
+      "name": "Salon",
+      "latitude": 49.808833,
+      "longitude": 13.605006
+    },
+    {
+      "name": "Pecihrádek",
+      "latitude": 49.765192,
+      "longitude": 13.415223
+    },
+    {
+      "name": "zámek Osek",
+      "latitude": 49.778886,
+      "longitude": 13.596034
+    },
+    {
+      "name": "Kamýk",
+      "latitude": 49.771335,
+      "longitude": 13.590825
+    },
+    {
+      "name": "Nový zámek Hořovice",
+      "latitude": 49.83764,
+      "longitude": 13.908971
+    },
+    {
+      "name": "Zámek Jince",
+      "latitude": 49.788567,
+      "longitude": 13.977979
+    },
+    {
+      "name": "Valdek",
+      "latitude": 49.77514,
+      "longitude": 13.893444
+    },
+    {
+      "name": "zámek Hluboš",
+      "latitude": 49.747255,
+      "longitude": 14.01808
+    },
+    {
+      "name": "Radyně",
+      "latitude": 49.680991,
+      "longitude": 13.465037
+    },
+    {
+      "name": "Zámek Šťáhlavy",
+      "latitude": 49.676198,
+      "longitude": 13.504436
+    },
+    {
+      "name": "Drštka",
+      "latitude": 49.668125,
+      "longitude": 13.709909
+    },
+    {
+      "name": "Zámek Mirošov",
+      "latitude": 49.688772,
+      "longitude": 13.659703
+    },
+    {
+      "name": "Zámek Nebílovy",
+      "latitude": 49.629786,
+      "longitude": 13.430976
+    },
+    {
+      "name": "Vlčtejn",
+      "latitude": 49.61333,
+      "longitude": 13.497466
+    },
+    {
+      "name": "Zámek Spálené Poříčí",
+      "latitude": 49.614763,
+      "longitude": 13.606309
+    },
+    {
+      "name": "lov. zámeček Tři Trubky",
+      "latitude": 49.704981,
+      "longitude": 13.790164
+    },
+    {
+      "name": "Zámek Bělá nad Radbuzou",
+      "latitude": 49.591826,
+      "longitude": 12.713868
+    },
+    {
+      "name": "Zámek Houstouň",
+      "latitude": 49.560094,
+      "longitude": 12.768292
+    },
+    {
+      "name": "zámek Poběžovice",
+      "latitude": 49.511301,
+      "longitude": 12.803386
+    },
+    {
+      "name": "lovecký zámeček Annaburg",
+      "latitude": 49.534443,
+      "longitude": 12.91245
+    },
+    {
+      "name": "Dolní Lukavice",
+      "latitude": 49.600965,
+      "longitude": 13.34562
+    },
+    {
+      "name": "Zámek Merklín",
+      "latitude": 49.560442,
+      "longitude": 13.200019
+    },
+    {
+      "name": "Villa Ulzburg",
+      "latitude": 49.540975,
+      "longitude": 13.036528
+    },
+    {
+      "name": "Zámek Ptenín",
+      "latitude": 49.530253,
+      "longitude": 13.187105
+    },
+    {
+      "name": "Zámek Josefa Hlávky v Lužanech",
+      "latitude": 49.547046,
+      "longitude": 13.317892
+    },
+    {
+      "name": "Zámek Červené Poříčí",
+      "latitude": 49.50113,
+      "longitude": 13.295243
+    },
+    {
+      "name": "Starý Herštejn",
+      "latitude": 49.472026,
+      "longitude": 12.714103
+    },
+    {
+      "name": "Trhanov zámek",
+      "latitude": 49.42121,
+      "longitude": 12.845885
+    },
+    {
+      "name": "Zámek Kout na Šumavě",
+      "latitude": 49.407535,
+      "longitude": 13.001524
+    },
+    {
+      "name": "zámek Kanice",
+      "latitude": 49.475597,
+      "longitude": 13.073473
+    },
+    {
+      "name": "Starý czernínský zámek",
+      "latitude": 49.468276,
+      "longitude": 13.174018
+    },
+    {
+      "name": "zámek Lázeň",
+      "latitude": 49.456837,
+      "longitude": 13.163974
+    },
+    {
+      "name": "Vodní hrad Švihov",
+      "latitude": 49.478853,
+      "longitude": 13.284662
+    },
+    {
+      "name": "Kokšín",
+      "latitude": 49.466538,
+      "longitude": 13.278179
+    },
+    {
+      "name": "Nový Herštjen",
+      "latitude": 49.414788,
+      "longitude": 13.065665
+    },
+    {
+      "name": "Rýzmberk",
+      "latitude": 49.407018,
+      "longitude": 13.031029
+    },
+    {
+      "name": "Hradiště",
+      "latitude": 49.57809,
+      "longitude": 13.544142
+    },
+    {
+      "name": "Zámek Rožmitál pod Třemšínem",
+      "latitude": 49.602307,
+      "longitude": 13.86237
+    },
+    {
+      "name": "Zámek Tochovice",
+      "latitude": 49.596406,
+      "longitude": 13.989414
+    },
+    {
+      "name": "Drahenice",
+      "latitude": 49.520223,
+      "longitude": 13.959871
+    },
+    {
+      "name": "Zámek Horosedly",
+      "latitude": 49.514245,
+      "longitude": 14.051481
+    },
+    {
+      "name": "tvrz Drahoničky",
+      "latitude": 49.507402,
+      "longitude": 13.976611
+    },
+    {
+      "name": "Tvrz Mirovice",
+      "latitude": 49.516934,
+      "longitude": 14.037314
+    },
+    {
+      "name": "Zelená hora",
+      "latitude": 49.496422,
+      "longitude": 13.580218
+    },
+    {
+      "name": "Zámek Lnáře",
+      "latitude": 49.457376,
+      "longitude": 13.787293
+    },
+    {
+      "name": "Rakovický zámek",
+      "latitude": 49.469799,
+      "longitude": 14.056819
+    },
+    {
+      "name": "Zámek Blatná",
+      "latitude": 49.422758,
+      "longitude": 13.879568
+    },
+    {
+      "name": "tvrz Tchořovice",
+      "latitude": 49.436702,
+      "longitude": 13.808929
+    },
+    {
+      "name": "zámek Bezděkov",
+      "latitude": 49.378963,
+      "longitude": 13.225624
+    },
+    {
+      "name": "Zámek Mochtín",
+      "latitude": 49.360108,
+      "longitude": 13.356602
+    },
+    {
+      "name": "Starý zámek Týnec",
+      "latitude": 49.346223,
+      "longitude": 13.26439
+    },
+    {
+      "name": "Zámek Týnec",
+      "latitude": 49.346492,
+      "longitude": 13.263449
+    },
+    {
+      "name": "Klenová",
+      "latitude": 49.332148,
+      "longitude": 13.228797
+    },
+    {
+      "name": "Zámek Veselí",
+      "latitude": 49.349399,
+      "longitude": 13.205798
+    },
+    {
+      "name": "Tvrz Kouskova Lhota",
+      "latitude": 49.335542,
+      "longitude": 13.293727
+    },
+    {
+      "name": "bývalá tvrz Dešenice",
+      "latitude": 49.274431,
+      "longitude": 13.172343
+    },
+    {
+      "name": "Zámek Běšiny",
+      "latitude": 49.30126,
+      "longitude": 13.311565
+    },
+    {
+      "name": "Čachrovská tvrz",
+      "latitude": 49.265954,
+      "longitude": 13.301951
+    },
+    {
+      "name": "Zámek Nový Čestín",
+      "latitude": 49.360504,
+      "longitude": 13.368454
+    },
+    {
+      "name": "Tvrz Zavlekov",
+      "latitude": 49.337863,
+      "longitude": 13.487705
+    },
+    {
+      "name": "Zámek Nalžovy",
+      "latitude": 49.332097,
+      "longitude": 13.549212
+    },
+    {
+      "name": "Zámek Malonice",
+      "latitude": 49.289893,
+      "longitude": 13.378062
+    },
+    {
+      "name": "Zámek Mokrosuky",
+      "latitude": 49.275423,
+      "longitude": 13.455336
+    },
+    {
+      "name": "Prácheň",
+      "latitude": 49.315893,
+      "longitude": 13.681496
+    },
+    {
+      "name": "Palác",
+      "latitude": 49.279246,
+      "longitude": 13.618445
+    },
+    {
+      "name": "Bratronice",
+      "latitude": 49.365726,
+      "longitude": 13.84295
+    },
+    {
+      "name": "Čekanice",
+      "latitude": 49.376004,
+      "longitude": 13.883991
+    },
+    {
+      "name": "zámek Brloh",
+      "latitude": 49.326778,
+      "longitude": 14.015195
+    },
+    {
+      "name": "Drhovle",
+      "latitude": 49.337467,
+      "longitude": 14.048762
+    },
+    {
+      "name": "Tvrz Hvížďalka",
+      "latitude": 49.270585,
+      "longitude": 13.717899
+    },
+    {
+      "name": "Zámek Nemilkov",
+      "latitude": 49.26398,
+      "longitude": 13.36189
+    },
+    {
+      "name": "Tvrz Svojšice",
+      "latitude": 49.243444,
+      "longitude": 13.451919
+    },
+    {
+      "name": "Zámek Hrádek",
+      "latitude": 49.261231,
+      "longitude": 13.497957
+    },
+    {
+      "name": "Hlavňovice",
+      "latitude": 49.235795,
+      "longitude": 13.397948
+    },
+    {
+      "name": "zámek Žichovice",
+      "latitude": 49.266708,
+      "longitude": 13.62542
+    },
+    {
+      "name": "Zámek Mačice",
+      "latitude": 49.226206,
+      "longitude": 13.677965
+    },
+    {
+      "name": "Zámek Vojnice",
+      "latitude": 49.225359,
+      "longitude": 13.70629
+    },
+    {
+      "name": "Zámek Horní Chlum",
+      "latitude": 49.189549,
+      "longitude": 13.442585
+    },
+    {
+      "name": "Zámek Dolejší Těšov",
+      "latitude": 49.188328,
+      "longitude": 13.428139
+    },
+    {
+      "name": "zámek Karlov",
+      "latitude": 49.16339,
+      "longitude": 13.427689
+    },
+    {
+      "name": "Zámek Kundratice",
+      "latitude": 49.158925,
+      "longitude": 13.464314
+    },
+    {
+      "name": "Zámek Palvínov",
+      "latitude": 49.166132,
+      "longitude": 13.482626
+    },
+    {
+      "name": "Pustý Hrádek",
+      "latitude": 49.16524,
+      "longitude": 13.569567
+    },
+    {
+      "name": "Zámek Tažovice",
+      "latitude": 49.231709,
+      "longitude": 13.759607
+    },
+    {
+      "name": "Zámek Štěkeň",
+      "latitude": 49.267377,
+      "longitude": 14.003139
+    },
+    {
+      "name": "Dobrš",
+      "latitude": 49.155099,
+      "longitude": 13.751583
+    },
+    {
+      "name": "zámek Čestice",
+      "latitude": 49.166674,
+      "longitude": 13.803698
+    },
+    {
+      "name": "Zámek Hoštice",
+      "latitude": 49.193922,
+      "longitude": 13.907988
+    },
+    {
+      "name": "Zámeček Železná Ruda",
+      "latitude": 49.13771,
+      "longitude": 13.234445
+    },
+    {
+      "name": "Zámek Zdikov",
+      "latitude": 49.083656,
+      "longitude": 13.697575
+    },
+    {
+      "name": "Zámek Lčovice",
+      "latitude": 49.117085,
+      "longitude": 13.85317
+    },
+    {
+      "name": "Helfenburk",
+      "latitude": 49.136001,
+      "longitude": 14.006667
+    },
+    {
+      "name": "Zámek Dub",
+      "latitude": 49.107947,
+      "longitude": 14.011431
+    },
+    {
+      "name": "tvrz Bohumilice",
+      "latitude": 49.09455,
+      "longitude": 13.813751
+    },
+    {
+      "name": "Tvrz Smrčná",
+      "latitude": 49.083309,
+      "longitude": 13.819316
+    },
+    {
+      "name": "Hus - zřícenina",
+      "latitude": 48.957545,
+      "longitude": 13.929216
+    },
+    {
+      "name": "Vargač",
+      "latitude": 49.781567,
+      "longitude": 14.181701
+    },
+    {
+      "name": "Zámek Slapy",
+      "latitude": 49.811904,
+      "longitude": 14.39698
+    },
+    {
+      "name": "Čelina",
+      "latitude": 49.732197,
+      "longitude": 14.327127
+    },
+    {
+      "name": "Týnec nad Sázavou",
+      "latitude": 49.830556,
+      "longitude": 14.592806
+    },
+    {
+      "name": "tvrz Mrač",
+      "latitude": 49.832583,
+      "longitude": 14.701211
+    },
+    {
+      "name": "Jablonná",
+      "latitude": 49.780372,
+      "longitude": 14.449074
+    },
+    {
+      "name": "zámek Tloskov",
+      "latitude": 49.759436,
+      "longitude": 14.525665
+    },
+    {
+      "name": "zámek Konopiště",
+      "latitude": 49.779576,
+      "longitude": 14.656493
+    },
+    {
+      "name": "Zámek Líšno",
+      "latitude": 49.734258,
+      "longitude": 14.688722
+    },
+    {
+      "name": "Zámek Dlouhá Lhota",
+      "latitude": 49.719612,
+      "longitude": 14.116892
+    },
+    {
+      "name": "Nalžovice",
+      "latitude": 49.697212,
+      "longitude": 14.370679
+    },
+    {
+      "name": "Tvrz Jakuba Krčína z Jelčan",
+      "latitude": 49.701636,
+      "longitude": 14.34906
+    },
+    {
+      "name": "Hřiměždice",
+      "latitude": 49.687125,
+      "longitude": 14.275871
+    },
+    {
+      "name": "Kňovice",
+      "latitude": 49.688698,
+      "longitude": 14.399285
+    },
+    {
+      "name": "Zámek Příčovy",
+      "latitude": 49.67204,
+      "longitude": 14.389166
+    },
+    {
+      "name": "zámek Zduchovice",
+      "latitude": 49.637712,
+      "longitude": 14.211766
+    },
+    {
+      "name": "Vysoký Chlumec",
+      "latitude": 49.616993,
+      "longitude": 14.392242
+    },
+    {
+      "name": "Zámek Radíč",
+      "latitude": 49.714736,
+      "longitude": 14.414131
+    },
+    {
+      "name": "Zřícenina hradu Stejc",
+      "latitude": 49.7219,
+      "longitude": 14.558018
+    },
+    {
+      "name": "Zámek Vrchotovy Janovice",
+      "latitude": 49.669171,
+      "longitude": 14.577881
+    },
+    {
+      "name": "Červený Hrádek",
+      "latitude": 49.658854,
+      "longitude": 14.453197
+    },
+    {
+      "name": "Zámek Kosova Hora",
+      "latitude": 49.653706,
+      "longitude": 14.473344
+    },
+    {
+      "name": "Zámek Dobrohošť",
+      "latitude": 49.627476,
+      "longitude": 14.524355
+    },
+    {
+      "name": "Zámek Ratměřice",
+      "latitude": 49.644361,
+      "longitude": 14.758243
+    },
+    {
+      "name": "Zřícenina vodní tvrze",
+      "latitude": 49.612176,
+      "longitude": 14.631277
+    },
+    {
+      "name": "Nový zámek Votice",
+      "latitude": 49.637345,
+      "longitude": 14.641787
+    },
+    {
+      "name": "Starý zámek Votice",
+      "latitude": 49.638108,
+      "longitude": 14.643399
+    },
+    {
+      "name": "Zámek Odlochovice",
+      "latitude": 49.627011,
+      "longitude": 14.763799
+    },
+    {
+      "name": "Český Šternberk",
+      "latitude": 49.808995,
+      "longitude": 14.92631
+    },
+    {
+      "name": "Zámek Třebešice",
+      "latitude": 49.777461,
+      "longitude": 14.828997
+    },
+    {
+      "name": "zámek Chotýšany",
+      "latitude": 49.744468,
+      "longitude": 14.816046
+    },
+    {
+      "name": "starý zámek Jemniště",
+      "latitude": 49.743764,
+      "longitude": 14.790437
+    },
+    {
+      "name": "nový zámek Jemniště",
+      "latitude": 49.743894,
+      "longitude": 14.785101
+    },
+    {
+      "name": "Hrad Kácov",
+      "latitude": 49.771915,
+      "longitude": 15.008998
+    },
+    {
+      "name": "Kácov",
+      "latitude": 49.776944,
+      "longitude": 15.028156
+    },
+    {
+      "name": "Zámek Zruč nad Sázavou",
+      "latitude": 49.744314,
+      "longitude": 15.10154
+    },
+    {
+      "name": "Zámek Soutice",
+      "latitude": 49.728261,
+      "longitude": 15.05468
+    },
+    {
+      "name": "Zámek Červené Janovice",
+      "latitude": 49.835172,
+      "longitude": 15.253686
+    },
+    {
+      "name": "‎Zámek Hodkov",
+      "latitude": 49.783249,
+      "longitude": 15.147289
+    },
+    {
+      "name": "Louňovice pod Blaníkem",
+      "latitude": 49.636933,
+      "longitude": 14.846619
+    },
+    {
+      "name": "Zámek Libouň",
+      "latitude": 49.634994,
+      "longitude": 14.81879
+    },
+    {
+      "name": "Pravonín",
+      "latitude": 49.636166,
+      "longitude": 14.942174
+    },
+    {
+      "name": "‎Zřícenina hradu Chřenovice",
+      "latitude": 49.708324,
+      "longitude": 15.235499
+    },
+    {
+      "name": "Hrad Ledeč nad Sázavou",
+      "latitude": 49.6967,
+      "longitude": 15.280332
+    },
+    {
+      "name": "Zámek Zboží",
+      "latitude": 49.719009,
+      "longitude": 15.456988
+    },
+    {
+      "name": "Zámek Vilémovice",
+      "latitude": 49.687749,
+      "longitude": 15.32205
+    },
+    {
+      "name": "Zámek Světlá nad Sázavou",
+      "latitude": 49.667335,
+      "longitude": 15.407571
+    },
+    {
+      "name": "Zámek Zalužany",
+      "latitude": 49.543122,
+      "longitude": 14.083639
+    },
+    {
+      "name": "bývalý zámek a dvůr Slavoňov",
+      "latitude": 49.516286,
+      "longitude": 14.252051
+    },
+    {
+      "name": "Vespice (zaniklá tvrz)",
+      "latitude": 49.523546,
+      "longitude": 14.304469
+    },
+    {
+      "name": "Smilkovský zámek",
+      "latitude": 49.60302,
+      "longitude": 14.620538
+    },
+    {
+      "name": "zámek Jetřichovice",
+      "latitude": 49.551469,
+      "longitude": 14.526754
+    },
+    {
+      "name": "Zámek Nadějkov",
+      "latitude": 49.502026,
+      "longitude": 14.476808
+    },
+    {
+      "name": "Čimelický zámek",
+      "latitude": 49.467303,
+      "longitude": 14.065173
+    },
+    {
+      "name": "Zámek Varvažov",
+      "latitude": 49.438793,
+      "longitude": 14.142098
+    },
+    {
+      "name": "hrad Zvíkov",
+      "latitude": 49.438924,
+      "longitude": 14.192143
+    },
+    {
+      "name": "Zámek Chotoviny",
+      "latitude": 49.478926,
+      "longitude": 14.681134
+    },
+    {
+      "name": "Kotnov",
+      "latitude": 49.411409,
+      "longitude": 14.65587
+    },
+    {
+      "name": "Kozí Hrádek",
+      "latitude": 49.389934,
+      "longitude": 14.723262
+    },
+    {
+      "name": "Zámek Měšice",
+      "latitude": 49.406113,
+      "longitude": 14.701716
+    },
+    {
+      "name": "Zámek Vyšetice",
+      "latitude": 49.603728,
+      "longitude": 14.771899
+    },
+    {
+      "name": "Zámek Růžkovy Lhotice",
+      "latitude": 49.606094,
+      "longitude": 15.07147
+    },
+    {
+      "name": "Zřícenina hradu Šelmberk",
+      "latitude": 49.549911,
+      "longitude": 14.826755
+    },
+    {
+      "name": "Zámek Mladá Vožice",
+      "latitude": 49.533648,
+      "longitude": 14.809537
+    },
+    {
+      "name": "tvrz Proseč",
+      "latitude": 49.599736,
+      "longitude": 15.330795
+    },
+    {
+      "name": "Zámek Červená Řečice",
+      "latitude": 49.510283,
+      "longitude": 15.177844
+    },
+    {
+      "name": "Orlík u Humpolce",
+      "latitude": 49.544807,
+      "longitude": 15.382812
+    },
+    {
+      "name": "Chateau Herálec",
+      "latitude": 49.530672,
+      "longitude": 15.454151
+    },
+    {
+      "name": "zámek Ratibořské Hory",
+      "latitude": 49.462891,
+      "longitude": 14.770118
+    },
+    {
+      "name": "Oblajovice",
+      "latitude": 49.44251,
+      "longitude": 14.883083
+    },
+    {
+      "name": "Zámek Chýnov",
+      "latitude": 49.404781,
+      "longitude": 14.812941
+    },
+    {
+      "name": "hrad Kámen",
+      "latitude": 49.424334,
+      "longitude": 15.013957
+    },
+    {
+      "name": "zámek Pelhřimov",
+      "latitude": 49.430714,
+      "longitude": 15.221841
+    },
+    {
+      "name": "Pavlov",
+      "latitude": 49.398431,
+      "longitude": 15.24391
+    },
+    {
+      "name": "Nový Rychnov",
+      "latitude": 49.383573,
+      "longitude": 15.364157
+    },
+    {
+      "name": "Červenice",
+      "latitude": 49.812136,
+      "longitude": 15.511961
+    },
+    {
+      "name": "Zámek Běstvina",
+      "latitude": 49.83692,
+      "longitude": 15.594785
+    },
+    {
+      "name": "Vilémov",
+      "latitude": 49.809382,
+      "longitude": 15.528801
+    },
+    {
+      "name": "Zámek Úhrov",
+      "latitude": 49.808884,
+      "longitude": 15.56301
+    },
+    {
+      "name": "Vildštejn",
+      "latitude": 49.836875,
+      "longitude": 15.653728
+    },
+    {
+      "name": "Oheb",
+      "latitude": 49.833783,
+      "longitude": 15.653522
+    },
+    {
+      "name": "zámeček Klokočov",
+      "latitude": 49.806663,
+      "longitude": 15.668242
+    },
+    {
+      "name": "Zámek Habry",
+      "latitude": 49.755605,
+      "longitude": 15.486217
+    },
+    {
+      "name": "Maleč",
+      "latitude": 49.770956,
+      "longitude": 15.679051
+    },
+    {
+      "name": "Zámek Libice nad Doubravou",
+      "latitude": 49.744765,
+      "longitude": 15.70249
+    },
+    {
+      "name": "Hrad Rychmburk",
+      "latitude": 49.835862,
+      "longitude": 16.042979
+    },
+    {
+      "name": "Zámek Svobodné Hamry",
+      "latitude": 49.773837,
+      "longitude": 15.833532
+    },
+    {
+      "name": "Rozsochatec",
+      "latitude": 49.674947,
+      "longitude": 15.63261
+    },
+    {
+      "name": "Mírov",
+      "latitude": 49.796379,
+      "longitude": 16.846348
+    },
+    {
+      "name": "Líšnice",
+      "latitude": 49.765198,
+      "longitude": 16.858654
+    },
+    {
+      "name": "Zámek Jimramov",
+      "latitude": 49.637502,
+      "longitude": 16.22396
+    },
+    {
+      "name": "Bystré",
+      "latitude": 49.629495,
+      "longitude": 16.351859
+    },
+    {
+      "name": "Tvrz Vranová Lhota",
+      "latitude": 49.711073,
+      "longitude": 16.827018
+    },
+    {
+      "name": "Vraní Hora",
+      "latitude": 49.7161,
+      "longitude": 16.810201
+    },
+    {
+      "name": "Hradiště",
+      "latitude": 49.672213,
+      "longitude": 16.785333
+    },
+    {
+      "name": "Plankenberk",
+      "latitude": 49.647528,
+      "longitude": 16.783043
+    },
+    {
+      "name": "Zámek Biskupice",
+      "latitude": 49.646743,
+      "longitude": 16.756335
+    },
+    {
+      "name": "Jaroměřice",
+      "latitude": 49.62704,
+      "longitude": 16.754374
+    },
+    {
+      "name": "Zámek Jevíčko",
+      "latitude": 49.631594,
+      "longitude": 16.708421
+    },
+    {
+      "name": "zámek Petrkov",
+      "latitude": 49.568369,
+      "longitude": 15.556884
+    },
+    {
+      "name": "zámek Pohled",
+      "latitude": 49.603924,
+      "longitude": 15.650455
+    },
+    {
+      "name": "Úsobí",
+      "latitude": 49.516547,
+      "longitude": 15.502113
+    },
+    {
+      "name": "Zámek Štoky",
+      "latitude": 49.501949,
+      "longitude": 15.58898
+    },
+    {
+      "name": "Zámek Žďár nad Sázavou",
+      "latitude": 49.583003,
+      "longitude": 15.937234
+    },
+    {
+      "name": "Prelatura",
+      "latitude": 49.583307,
+      "longitude": 15.937219
+    },
+    {
+      "name": "Zámek Větrný Jeníkov",
+      "latitude": 49.475637,
+      "longitude": 15.478427
+    },
+    {
+      "name": "Zámek Polná",
+      "latitude": 49.487347,
+      "longitude": 15.714177
+    },
+    {
+      "name": "zámek Rantířov",
+      "latitude": 49.409106,
+      "longitude": 15.514095
+    },
+    {
+      "name": "Rudolec",
+      "latitude": 49.478739,
+      "longitude": 15.830831
+    },
+    {
+      "name": "Zahradiště",
+      "latitude": 49.439784,
+      "longitude": 15.945949
+    },
+    {
+      "name": "zámek Radešín",
+      "latitude": 49.471618,
+      "longitude": 16.087371
+    },
+    {
+      "name": "zámek Moravec",
+      "latitude": 49.439836,
+      "longitude": 16.142543
+    },
+    {
+      "name": "Hradisko Kněževes",
+      "latitude": 49.597146,
+      "longitude": 16.420261
+    },
+    {
+      "name": "Lamberk",
+      "latitude": 49.568476,
+      "longitude": 16.40866
+    },
+    {
+      "name": "Kozlov",
+      "latitude": 49.501044,
+      "longitude": 16.329952
+    },
+    {
+      "name": "Louka",
+      "latitude": 49.532128,
+      "longitude": 16.43127
+    },
+    {
+      "name": "Zámek Kunštát",
+      "latitude": 49.502213,
+      "longitude": 16.511003
+    },
+    {
+      "name": "Rumberk",
+      "latitude": 49.608706,
+      "longitude": 16.565693
+    },
+    {
+      "name": "Velké Opatovice",
+      "latitude": 49.610496,
+      "longitude": 16.669017
+    },
+    {
+      "name": "Zámek Borotín",
+      "latitude": 49.581158,
+      "longitude": 16.67037
+    },
+    {
+      "name": "Zámek Jesenec",
+      "latitude": 49.610424,
+      "longitude": 16.862648
+    },
+    {
+      "name": "Fara",
+      "latitude": 49.578693,
+      "longitude": 16.721253
+    },
+    {
+      "name": "zámek Letovice",
+      "latitude": 49.543438,
+      "longitude": 16.576369
+    },
+    {
+      "name": "Zámek Šebetov",
+      "latitude": 49.546717,
+      "longitude": 16.71486
+    },
+    {
+      "name": "zámek Dolní Rožínka",
+      "latitude": 49.475522,
+      "longitude": 16.208931
+    },
+    {
+      "name": "Rožná",
+      "latitude": 49.48017,
+      "longitude": 16.241411
+    },
+    {
+      "name": "Lísek",
+      "latitude": 49.443428,
+      "longitude": 16.233005
+    },
+    {
+      "name": "Pernštejn",
+      "latitude": 49.45086,
+      "longitude": 16.318373
+    },
+    {
+      "name": "Osiky",
+      "latitude": 49.443745,
+      "longitude": 16.424704
+    },
+    {
+      "name": "Rychvald",
+      "latitude": 49.458172,
+      "longitude": 16.511783
+    },
+    {
+      "name": "Rysov",
+      "latitude": 49.388322,
+      "longitude": 16.307746
+    },
+    {
+      "name": "Víckov",
+      "latitude": 49.397289,
+      "longitude": 16.272049
+    },
+    {
+      "name": "zámek Lomnice",
+      "latitude": 49.404568,
+      "longitude": 16.416012
+    },
+    {
+      "name": "Bašta",
+      "latitude": 49.482088,
+      "longitude": 16.657769
+    },
+    {
+      "name": "Panský dvůr",
+      "latitude": 49.485388,
+      "longitude": 16.661763
+    },
+    {
+      "name": "Lovecký zámek Lhota Rapotina",
+      "latitude": 49.481603,
+      "longitude": 16.629451
+    },
+    {
+      "name": "Tvrz Újezd u Boskovic",
+      "latitude": 49.472626,
+      "longitude": 16.655451
+    },
+    {
+      "name": "bývalá tvrz",
+      "latitude": 49.467768,
+      "longitude": 16.540406
+    },
+    {
+      "name": "Zámek Lysice",
+      "latitude": 49.453264,
+      "longitude": 16.533616
+    },
+    {
+      "name": "zámek Černá Hora",
+      "latitude": 49.415697,
+      "longitude": 16.577306
+    },
+    {
+      "name": "Holštejn",
+      "latitude": 49.401558,
+      "longitude": 16.776263
+    },
+    {
+      "name": "zámek Kestřany",
+      "latitude": 49.269953,
+      "longitude": 14.074281
+    },
+    {
+      "name": "Horní tvrz",
+      "latitude": 49.270813,
+      "longitude": 14.073693
+    },
+    {
+      "name": "Dolní tvrz",
+      "latitude": 49.270397,
+      "longitude": 14.074868
+    },
+    {
+      "name": "zámek Chřešťovice",
+      "latitude": 49.321844,
+      "longitude": 14.288907
+    },
+    {
+      "name": "zámek Dražíč",
+      "latitude": 49.30504,
+      "longitude": 14.381985
+    },
+    {
+      "name": "zámek Stádlec",
+      "latitude": 49.378831,
+      "longitude": 14.496817
+    },
+    {
+      "name": "zámek Strkov",
+      "latitude": 49.34509,
+      "longitude": 14.718821
+    },
+    {
+      "name": "Zámek Černice",
+      "latitude": 49.290738,
+      "longitude": 14.559353
+    },
+    {
+      "name": "Zámek Neznašov",
+      "latitude": 49.231594,
+      "longitude": 14.37854
+    },
+    {
+      "name": "tvrz Chvalešovice",
+      "latitude": 49.162591,
+      "longitude": 14.304873
+    },
+    {
+      "name": "tvrz Býšov",
+      "latitude": 49.159685,
+      "longitude": 14.400132
+    },
+    {
+      "name": "zámek Vysoký Hrádek",
+      "latitude": 49.181281,
+      "longitude": 14.386378
+    },
+    {
+      "name": "zámek Týn nad Vltavou",
+      "latitude": 49.224169,
+      "longitude": 14.421374
+    },
+    {
+      "name": "Hrad Soběslav",
+      "latitude": 49.261508,
+      "longitude": 14.716281
+    },
+    {
+      "name": "Zámek Bzí",
+      "latitude": 49.182558,
+      "longitude": 14.542733
+    },
+    {
+      "name": "Tvrz Hamr",
+      "latitude": 49.157412,
+      "longitude": 14.765552
+    },
+    {
+      "name": "Zámek",
+      "latitude": 49.368786,
+      "longitude": 14.964274
+    },
+    {
+      "name": "zámek Budislav",
+      "latitude": 49.294814,
+      "longitude": 14.838856
+    },
+    {
+      "name": "Zámek Tučapy",
+      "latitude": 49.290773,
+      "longitude": 14.805319
+    },
+    {
+      "name": "Tvrz Mnich",
+      "latitude": 49.297737,
+      "longitude": 14.968145
+    },
+    {
+      "name": "Zámek Kamenice nad Lipou",
+      "latitude": 49.302566,
+      "longitude": 15.079356
+    },
+    {
+      "name": "zámek Horní Cerekev",
+      "latitude": 49.318881,
+      "longitude": 15.331124
+    },
+    {
+      "name": "Nový zámek Batelov",
+      "latitude": 49.316079,
+      "longitude": 15.39444
+    },
+    {
+      "name": "Starý zámek Batelov",
+      "latitude": 49.315668,
+      "longitude": 15.39495
+    },
+    {
+      "name": "Janštejn",
+      "latitude": 49.272447,
+      "longitude": 15.344208
+    },
+    {
+      "name": "Zámek",
+      "latitude": 49.241972,
+      "longitude": 14.844457
+    },
+    {
+      "name": "Zámek Dírná",
+      "latitude": 49.24111,
+      "longitude": 14.84438
+    },
+    {
+      "name": "Červená Lhota",
+      "latitude": 49.246608,
+      "longitude": 14.88515
+    },
+    {
+      "name": "Pluhův Žďár",
+      "latitude": 49.22427,
+      "longitude": 14.892469
+    },
+    {
+      "name": "Zámek Nová Včelnice (nepřístupný)",
+      "latitude": 49.239617,
+      "longitude": 15.073338
+    },
+    {
+      "name": "Zámek v Kardašově Řečici",
+      "latitude": 49.185735,
+      "longitude": 14.855448
+    },
+    {
+      "name": "zámek Žirovnice",
+      "latitude": 49.251552,
+      "longitude": 15.18384
+    },
+    {
+      "name": "Roštejn",
+      "latitude": 49.252004,
+      "longitude": 15.426253
+    },
+    {
+      "name": "Česká Olešná",
+      "latitude": 49.190712,
+      "longitude": 15.166048
+    },
+    {
+      "name": "Zámek Studená",
+      "latitude": 49.185644,
+      "longitude": 15.286859
+    },
+    {
+      "name": "Zámek Telč",
+      "latitude": 49.185344,
+      "longitude": 15.451265
+    },
+    {
+      "name": "Zámek Bavorov",
+      "latitude": 49.122061,
+      "longitude": 14.077953
+    },
+    {
+      "name": "Nový zámek Libějovice",
+      "latitude": 49.11162,
+      "longitude": 14.183147
+    },
+    {
+      "name": "Starý zámek Libějovice",
+      "latitude": 49.113424,
+      "longitude": 14.191495
+    },
+    {
+      "name": "Trvz Radomilice",
+      "latitude": 49.124395,
+      "longitude": 14.260125
+    },
+    {
+      "name": "Zámek Dříteň",
+      "latitude": 49.142537,
+      "longitude": 14.346902
+    },
+    {
+      "name": "Zámek Rudolfov",
+      "latitude": 48.992642,
+      "longitude": 14.535293
+    },
+    {
+      "name": "Tvrz Zvíkov",
+      "latitude": 48.980539,
+      "longitude": 14.618269
+    },
+    {
+      "name": "zámek Poříčí (nepřístupný)",
+      "latitude": 48.927468,
+      "longitude": 14.440027
+    },
+    {
+      "name": "Zámek Doubravice (nepříst.)",
+      "latitude": 48.935395,
+      "longitude": 14.509935
+    },
+    {
+      "name": "Jemčina",
+      "latitude": 49.097154,
+      "longitude": 14.853948
+    },
+    {
+      "name": "Zámek Stráž nad Nežárkou",
+      "latitude": 49.068766,
+      "longitude": 14.909892
+    },
+    {
+      "name": "Tvrz Černíč",
+      "latitude": 49.127944,
+      "longitude": 15.454146
+    },
+    {
+      "name": "Zámek Kostelní Vydří",
+      "latitude": 49.107736,
+      "longitude": 15.42412
+    },
+    {
+      "name": "Zámek Český Rudolec",
+      "latitude": 49.066869,
+      "longitude": 15.326888
+    },
+    {
+      "name": "Dačice",
+      "latitude": 49.079461,
+      "longitude": 15.431571
+    },
+    {
+      "name": "Tvrz Dačice",
+      "latitude": 49.081813,
+      "longitude": 15.438183
+    },
+    {
+      "name": "zámek Třeboň",
+      "latitude": 49.003313,
+      "longitude": 14.769275
+    },
+    {
+      "name": "zámek Nová Bystřice",
+      "latitude": 49.019619,
+      "longitude": 15.104292
+    },
+    {
+      "name": "zámek Chlum u Třeboně",
+      "latitude": 48.960311,
+      "longitude": 14.931976
+    },
+    {
+      "name": "Zámek Terezínov",
+      "latitude": 49.029176,
+      "longitude": 15.139331
+    },
+    {
+      "name": "Landštejn",
+      "latitude": 49.024109,
+      "longitude": 15.230396
+    },
+    {
+      "name": "Zámek Dobrohoř",
+      "latitude": 48.997453,
+      "longitude": 15.25374
+    },
+    {
+      "name": "Staré Hobzí",
+      "latitude": 49.011281,
+      "longitude": 15.452411
+    },
+    {
+      "name": "zámek Písečné",
+      "latitude": 48.963858,
+      "longitude": 15.462387
+    },
+    {
+      "name": "Zámek Luka nad Jihlavou",
+      "latitude": 49.371429,
+      "longitude": 15.701897
+    },
+    {
+      "name": "Puklice",
+      "latitude": 49.360196,
+      "longitude": 15.649812
+    },
+    {
+      "name": "Kamenice",
+      "latitude": 49.366401,
+      "longitude": 15.778185
+    },
+    {
+      "name": "Rokštejn",
+      "latitude": 49.33368,
+      "longitude": 15.726113
+    },
+    {
+      "name": "zámek Příseka",
+      "latitude": 49.338971,
+      "longitude": 15.646713
+    },
+    {
+      "name": "zámek Třešť",
+      "latitude": 49.294638,
+      "longitude": 15.487393
+    },
+    {
+      "name": "Zámek Brtnice",
+      "latitude": 49.306429,
+      "longitude": 15.674403
+    },
+    {
+      "name": "zámek Velké Meziříčí",
+      "latitude": 49.357862,
+      "longitude": 16.011787
+    },
+    {
+      "name": "zámek Velké Meziříčí",
+      "latitude": 49.357851,
+      "longitude": 16.012556
+    },
+    {
+      "name": "Zámek Budišov",
+      "latitude": 49.275457,
+      "longitude": 16.012693
+    },
+    {
+      "name": "Zámek Jestřebí/Aleje",
+      "latitude": 49.264582,
+      "longitude": 15.629633
+    },
+    {
+      "name": "Sádek",
+      "latitude": 49.158114,
+      "longitude": 15.803674
+    },
+    {
+      "name": "zámek Náměšť nad Oslavou",
+      "latitude": 49.208925,
+      "longitude": 16.162617
+    },
+    {
+      "name": "Sedlecký hrad",
+      "latitude": 49.166647,
+      "longitude": 16.170731
+    },
+    {
+      "name": "Lamberk",
+      "latitude": 49.165701,
+      "longitude": 16.168152
+    },
+    {
+      "name": "Újezd",
+      "latitude": 49.36797,
+      "longitude": 16.32115
+    },
+    {
+      "name": "Zámek Osová",
+      "latitude": 49.330071,
+      "longitude": 16.194035
+    },
+    {
+      "name": "Zámek Blansko",
+      "latitude": 49.363674,
+      "longitude": 16.646072
+    },
+    {
+      "name": "Starý hrad",
+      "latitude": 49.325821,
+      "longitude": 16.638629
+    },
+    {
+      "name": "Blansek",
+      "latitude": 49.371163,
+      "longitude": 16.722693
+    },
+    {
+      "name": "Nový hrad",
+      "latitude": 49.324257,
+      "longitude": 16.641873
+    },
+    {
+      "name": "Zámek Křtiny",
+      "latitude": 49.296915,
+      "longitude": 16.741956
+    },
+    {
+      "name": "Zámek Lesní Hluboké",
+      "latitude": 49.265174,
+      "longitude": 16.308855
+    },
+    {
+      "name": "Veveří",
+      "latitude": 49.256579,
+      "longitude": 16.462146
+    },
+    {
+      "name": "Rosický zámek",
+      "latitude": 49.182383,
+      "longitude": 16.385938
+    },
+    {
+      "name": "zámek Troubsko",
+      "latitude": 49.170905,
+      "longitude": 16.504943
+    },
+    {
+      "name": "letohrádek Mitrovských",
+      "latitude": 49.18842,
+      "longitude": 16.589021
+    },
+    {
+      "name": "Dietrichsteinský palác",
+      "latitude": 49.191839,
+      "longitude": 16.608392
+    },
+    {
+      "name": "Hrad Špilberk",
+      "latitude": 49.194421,
+      "longitude": 16.5996
+    },
+    {
+      "name": "Zámek Belcrediho",
+      "latitude": 49.204639,
+      "longitude": 16.697989
+    },
+    {
+      "name": "Krasonice",
+      "latitude": 49.115473,
+      "longitude": 15.613836
+    },
+    {
+      "name": "Zámek Budíškovice",
+      "latitude": 49.07593,
+      "longitude": 15.531693
+    },
+    {
+      "name": "Zámek Budkov",
+      "latitude": 49.052372,
+      "longitude": 15.661966
+    },
+    {
+      "name": "Moravské Budějovice",
+      "latitude": 49.051837,
+      "longitude": 15.808821
+    },
+    {
+      "name": "Myslibořice",
+      "latitude": 49.102846,
+      "longitude": 15.982797
+    },
+    {
+      "name": "Zámek Dalešice",
+      "latitude": 49.127432,
+      "longitude": 16.078729
+    },
+    {
+      "name": "zámek Krhov",
+      "latitude": 49.1011,
+      "longitude": 16.017608
+    },
+    {
+      "name": "zámek",
+      "latitude": 49.108285,
+      "longitude": 16.056425
+    },
+    {
+      "name": "Rabštejn",
+      "latitude": 49.097028,
+      "longitude": 16.153596
+    },
+    {
+      "name": "Zámek Jaroměřice nad Rokytnou",
+      "latitude": 49.093722,
+      "longitude": 15.892014
+    },
+    {
+      "name": "Zámek Jemnice",
+      "latitude": 49.017453,
+      "longitude": 15.571872
+    },
+    {
+      "name": "Hrad Bítov",
+      "latitude": 48.943604,
+      "longitude": 15.701045
+    },
+    {
+      "name": "Bítov",
+      "latitude": 48.943973,
+      "longitude": 15.700161
+    },
+    {
+      "name": "Bukovina",
+      "latitude": 49.00212,
+      "longitude": 15.93084
+    },
+    {
+      "name": "Boskovštejn",
+      "latitude": 48.983707,
+      "longitude": 15.925996
+    },
+    {
+      "name": "Nový zámek Jevišovice",
+      "latitude": 48.983315,
+      "longitude": 15.993978
+    },
+    {
+      "name": "Starý zámek Jevišovice",
+      "latitude": 48.991046,
+      "longitude": 15.988609
+    },
+    {
+      "name": "zámek Tavíkovice",
+      "latitude": 49.032849,
+      "longitude": 16.107371
+    },
+    {
+      "name": "Zámek Mikulovice, zdrav. střed.",
+      "latitude": 48.955323,
+      "longitude": 16.093001
+    },
+    {
+      "name": "Zámek Horní Dunajovice",
+      "latitude": 48.95007,
+      "longitude": 16.161597
+    },
+    {
+      "name": "Levnov (zřícenina)",
+      "latitude": 49.139177,
+      "longitude": 16.240591
+    },
+    {
+      "name": "Zámek Oslavany",
+      "latitude": 49.126819,
+      "longitude": 16.334613
+    },
+    {
+      "name": "zámek Dukovany",
+      "latitude": 49.081906,
+      "longitude": 16.194703
+    },
+    {
+      "name": "zámek Hrubšice",
+      "latitude": 49.092455,
+      "longitude": 16.307163
+    },
+    {
+      "name": "Zámek Tulešice",
+      "latitude": 49.039415,
+      "longitude": 16.205824
+    },
+    {
+      "name": "zámek Moravský Krumlov",
+      "latitude": 49.048897,
+      "longitude": 16.307423
+    },
+    {
+      "name": "Hrad a Zámek Dolní Kounice",
+      "latitude": 49.067186,
+      "longitude": 16.471948
+    },
+    {
+      "name": "zámek Chrlice",
+      "latitude": 49.135667,
+      "longitude": 16.652309
+    },
+    {
+      "name": "Hajany",
+      "latitude": 49.111574,
+      "longitude": 16.552124
+    },
+    {
+      "name": "Zámek Těšany",
+      "latitude": 49.039904,
+      "longitude": 16.771161
+    },
+    {
+      "name": "tvrz Bošovice",
+      "latitude": 49.05246,
+      "longitude": 16.840111
+    },
+    {
+      "name": "Zámek Loděnice",
+      "latitude": 49.012671,
+      "longitude": 16.465929
+    },
+    {
+      "name": "Zámek Miroslavské Knínice",
+      "latitude": 48.977742,
+      "longitude": 16.319226
+    },
+    {
+      "name": "Miroslav",
+      "latitude": 48.94654,
+      "longitude": 16.313938
+    },
+    {
+      "name": "Zámek Branišovice",
+      "latitude": 48.960391,
+      "longitude": 16.429145
+    },
+    {
+      "name": "Vlasatice",
+      "latitude": 48.933769,
+      "longitude": 16.478278
+    },
+    {
+      "name": "Zámek Židlochovice",
+      "latitude": 49.035593,
+      "longitude": 16.613758
+    },
+    {
+      "name": "zámek Velké Němčice",
+      "latitude": 48.991321,
+      "longitude": 16.670173
+    },
+    {
+      "name": "Zámek Diváky",
+      "latitude": 48.990362,
+      "longitude": 16.786661
+    },
+    {
+      "name": "Zámek Jánský Vrch",
+      "latitude": 50.389791,
+      "longitude": 17.000107
+    },
+    {
+      "name": "Zámek Vlčice",
+      "latitude": 50.344391,
+      "longitude": 17.047189
+    },
+    {
+      "name": "Zámek Černá voda",
+      "latitude": 50.312519,
+      "longitude": 17.160837
+    },
+    {
+      "name": "Zámek Slezské Pavlovice",
+      "latitude": 50.310895,
+      "longitude": 17.701783
+    },
+    {
+      "name": "Vodní tvrz",
+      "latitude": 50.229769,
+      "longitude": 17.207002
+    },
+    {
+      "name": "zámek Jindřichov",
+      "latitude": 50.252283,
+      "longitude": 17.536479
+    },
+    {
+      "name": "Zámek Kolštejn se zříceninou hradu",
+      "latitude": 50.150836,
+      "longitude": 17.011798
+    },
+    {
+      "name": "Zámek Loučná nad Desnou",
+      "latitude": 50.068961,
+      "longitude": 17.09022
+    },
+    {
+      "name": "zámek Vrbno pod Pradědem",
+      "latitude": 50.112835,
+      "longitude": 17.392876
+    },
+    {
+      "name": "Dívčí Hrad",
+      "latitude": 50.245733,
+      "longitude": 17.635231
+    },
+    {
+      "name": "zámek Slezské Rudoltice",
+      "latitude": 50.205794,
+      "longitude": 17.68972
+    },
+    {
+      "name": "Zámek Velké Losiny",
+      "latitude": 50.023172,
+      "longitude": 17.031085
+    },
+    {
+      "name": "Zámek Sobotín",
+      "latitude": 50.017832,
+      "longitude": 17.080893
+    },
+    {
+      "name": "zámek Bruntál",
+      "latitude": 49.990487,
+      "longitude": 17.464776
+    },
+    {
+      "name": "Bludov",
+      "latitude": 49.94061,
+      "longitude": 16.928846
+    },
+    {
+      "name": "Zámek Třemešek",
+      "latitude": 49.945308,
+      "longitude": 16.997775
+    },
+    {
+      "name": "Rešov",
+      "latitude": 49.88712,
+      "longitude": 17.20802
+    },
+    {
+      "name": "Zámek Janovice",
+      "latitude": 49.947489,
+      "longitude": 17.248696
+    },
+    {
+      "name": "Strálek",
+      "latitude": 49.90873,
+      "longitude": 17.254989
+    },
+    {
+      "name": "Zámek Brantice",
+      "latitude": 50.062299,
+      "longitude": 17.624609
+    },
+    {
+      "name": "Zamek von Krawarów-Branickich w Branicach",
+      "latitude": 50.050364,
+      "longitude": 17.770329
+    },
+    {
+      "name": "Dawny szpital psychiatryczny",
+      "latitude": 50.049965,
+      "longitude": 17.770821
+    },
+    {
+      "name": "Zámek Sosnová",
+      "latitude": 49.997389,
+      "longitude": 17.662173
+    },
+    {
+      "name": "Zámek Stěbořice",
+      "latitude": 49.936388,
+      "longitude": 17.808755
+    },
+    {
+      "name": "Sobkův palác",
+      "latitude": 49.93639,
+      "longitude": 17.903366
+    },
+    {
+      "name": "zámek Slavkov",
+      "latitude": 49.920875,
+      "longitude": 17.83283
+    },
+    {
+      "name": "Štáblovice",
+      "latitude": 49.879382,
+      "longitude": 17.817825
+    },
+    {
+      "name": "Zámek Melč",
+      "latitude": 49.847064,
+      "longitude": 17.765071
+    },
+    {
+      "name": "Zámek Hlučín",
+      "latitude": 49.896475,
+      "longitude": 18.185324
+    },
+    {
+      "name": "Zámek Dolní Lutyně",
+      "latitude": 49.901193,
+      "longitude": 18.430832
+    },
+    {
+      "name": "Zámek Rychvald",
+      "latitude": 49.86487,
+      "longitude": 18.351862
+    },
+    {
+      "name": "Zámek Úsov",
+      "latitude": 49.798996,
+      "longitude": 17.014453
+    },
+    {
+      "name": "Žádlovice",
+      "latitude": 49.746586,
+      "longitude": 16.910274
+    },
+    {
+      "name": "Hrad Bouzov",
+      "latitude": 49.705099,
+      "longitude": 16.889477
+    },
+    {
+      "name": "zámek Bílá Lhota",
+      "latitude": 49.709482,
+      "longitude": 16.976487
+    },
+    {
+      "name": "Zámeček Nové Zámky",
+      "latitude": 49.721404,
+      "longitude": 17.028764
+    },
+    {
+      "name": "Zámek Chudobín",
+      "latitude": 49.687083,
+      "longitude": 17.032092
+    },
+    {
+      "name": "Branka",
+      "latitude": 49.667396,
+      "longitude": 16.903712
+    },
+    {
+      "name": "Hluboký",
+      "latitude": 49.668215,
+      "longitude": 17.430004
+    },
+    {
+      "name": "Altes Haus",
+      "latitude": 49.66851,
+      "longitude": 17.512769
+    },
+    {
+      "name": "Zámek Dolany",
+      "latitude": 49.649984,
+      "longitude": 17.324935
+    },
+    {
+      "name": "Bores",
+      "latitude": 49.651799,
+      "longitude": 17.487649
+    },
+    {
+      "name": "zámek Slatina",
+      "latitude": 49.791905,
+      "longitude": 17.980371
+    },
+    {
+      "name": "Porubský zámeček",
+      "latitude": 49.822418,
+      "longitude": 18.17062
+    },
+    {
+      "name": "Schloss Witkowitz",
+      "latitude": 49.81722,
+      "longitude": 18.272225
+    },
+    {
+      "name": "Polanský zámek",
+      "latitude": 49.786297,
+      "longitude": 18.167081
+    },
+    {
+      "name": "Zámek Bílovec",
+      "latitude": 49.755549,
+      "longitude": 18.016626
+    },
+    {
+      "name": "Zámek Bravantice",
+      "latitude": 49.757541,
+      "longitude": 18.08134
+    },
+    {
+      "name": "Zámek Fulnek",
+      "latitude": 49.712753,
+      "longitude": 17.906769
+    },
+    {
+      "name": "Zámek Potštát",
+      "latitude": 49.636415,
+      "longitude": 17.651891
+    },
+    {
+      "name": "zámek Hukovice",
+      "latitude": 49.651049,
+      "longitude": 18.021581
+    },
+    {
+      "name": "Zámek Hukvaldy",
+      "latitude": 49.623583,
+      "longitude": 18.222714
+    },
+    {
+      "name": "Zámek Laškov",
+      "latitude": 49.583976,
+      "longitude": 17.000969
+    },
+    {
+      "name": "Zámek Krakovec",
+      "latitude": 49.597849,
+      "longitude": 16.988745
+    },
+    {
+      "name": "Zámek Přemyslovice",
+      "latitude": 49.553899,
+      "longitude": 16.947849
+    },
+    {
+      "name": "Středověký hrad Náměšť",
+      "latitude": 49.600515,
+      "longitude": 17.0623
+    },
+    {
+      "name": "zámek Náměšť na Hané",
+      "latitude": 49.598517,
+      "longitude": 17.062688
+    },
+    {
+      "name": "Zámek Čechy pod Kosířem",
+      "latitude": 49.549693,
+      "longitude": 17.037277
+    },
+    {
+      "name": "Zámek Hluchov",
+      "latitude": 49.540866,
+      "longitude": 16.997664
+    },
+    {
+      "name": "Zámek Ptení",
+      "latitude": 49.509166,
+      "longitude": 16.960387
+    },
+    {
+      "name": "Zdíkův palác",
+      "latitude": 49.598006,
+      "longitude": 17.262359
+    },
+    {
+      "name": "Ditrichštejnský palác",
+      "latitude": 49.594568,
+      "longitude": 17.251662
+    },
+    {
+      "name": "Salmův palác",
+      "latitude": 49.594291,
+      "longitude": 17.249852
+    },
+    {
+      "name": "Edelmannův palác",
+      "latitude": 49.594558,
+      "longitude": 17.25078
+    },
+    {
+      "name": "Hauenschildův palác",
+      "latitude": 49.591897,
+      "longitude": 17.252178
+    },
+    {
+      "name": "Petrášův palác",
+      "latitude": 49.593647,
+      "longitude": 17.249849
+    },
+    {
+      "name": "Palác Podstatských z Prusinovic",
+      "latitude": 49.593965,
+      "longitude": 17.252817
+    },
+    {
+      "name": "Přemyslovský palác",
+      "latitude": 49.598047,
+      "longitude": 17.262354
+    },
+    {
+      "name": "Zámek Velká Bystřice",
+      "latitude": 49.594129,
+      "longitude": 17.357934
+    },
+    {
+      "name": "Tršický zámek",
+      "latitude": 49.543791,
+      "longitude": 17.426613
+    },
+    {
+      "name": "Zámek Veselíčko",
+      "latitude": 49.530771,
+      "longitude": 17.504448
+    },
+    {
+      "name": "Ježův hrad",
+      "latitude": 49.478974,
+      "longitude": 16.944209
+    },
+    {
+      "name": "Starý Plumlov",
+      "latitude": 49.442652,
+      "longitude": 16.929665
+    },
+    {
+      "name": "Zámek Plumlov",
+      "latitude": 49.464606,
+      "longitude": 17.013894
+    },
+    {
+      "name": "Zámek Prostějov",
+      "latitude": 49.473983,
+      "longitude": 17.108704
+    },
+    {
+      "name": "Zámek Hrubčice",
+      "latitude": 49.446138,
+      "longitude": 17.192923
+    },
+    {
+      "name": "Zámek Kralice na Hané",
+      "latitude": 49.462959,
+      "longitude": 17.179813
+    },
+    {
+      "name": "Zámek Výšovice",
+      "latitude": 49.41646,
+      "longitude": 17.140261
+    },
+    {
+      "name": "Zámek Vřesovice",
+      "latitude": 49.402455,
+      "longitude": 17.137251
+    },
+    {
+      "name": "Zřícenina Dolního hradu Otaslavice",
+      "latitude": 49.386685,
+      "longitude": 17.067254
+    },
+    {
+      "name": "Zámek Nenakonice",
+      "latitude": 49.474642,
+      "longitude": 17.283945
+    },
+    {
+      "name": "Zámek Rokytnice",
+      "latitude": 49.467128,
+      "longitude": 17.392516
+    },
+    {
+      "name": "zámek Čekyně",
+      "latitude": 49.491558,
+      "longitude": 17.424515
+    },
+    {
+      "name": "Zámek Přerov",
+      "latitude": 49.455304,
+      "longitude": 17.450965
+    },
+    {
+      "name": "Zámek Tovačov",
+      "latitude": 49.430313,
+      "longitude": 17.291567
+    },
+    {
+      "name": "Zámek Polkovice",
+      "latitude": 49.393106,
+      "longitude": 17.257905
+    },
+    {
+      "name": "zámek Přestavlky",
+      "latitude": 49.390411,
+      "longitude": 17.481597
+    },
+    {
+      "name": "Hrádek Kunzov",
+      "latitude": 49.585258,
+      "longitude": 17.688741
+    },
+    {
+      "name": "Zámek Lipník nad Bečvou",
+      "latitude": 49.524763,
+      "longitude": 17.581084
+    },
+    {
+      "name": "Zámek Hustopeče nad Bečvou",
+      "latitude": 49.530189,
+      "longitude": 17.869479
+    },
+    {
+      "name": "Domov Větrný mlýn Skalička",
+      "latitude": 49.517859,
+      "longitude": 17.797095
+    },
+    {
+      "name": "Lešná",
+      "latitude": 49.519681,
+      "longitude": 17.92972
+    },
+    {
+      "name": "zámek Kelč",
+      "latitude": 49.477937,
+      "longitude": 17.815602
+    },
+    {
+      "name": "Zámek Choryně",
+      "latitude": 49.494895,
+      "longitude": 17.900919
+    },
+    {
+      "name": "Zámek Všechovice",
+      "latitude": 49.460869,
+      "longitude": 17.758264
+    },
+    {
+      "name": "starý zámek Branky",
+      "latitude": 49.45901,
+      "longitude": 17.892945
+    },
+    {
+      "name": "nový zámek Branky",
+      "latitude": 49.460243,
+      "longitude": 17.892764
+    },
+    {
+      "name": "Zámek Dřevohostice",
+      "latitude": 49.429133,
+      "longitude": 17.59242
+    },
+    {
+      "name": "zámek",
+      "latitude": 49.40077,
+      "longitude": 17.673004
+    },
+    {
+      "name": "Nový Šaumburk (Zubříč)",
+      "latitude": 49.416606,
+      "longitude": 17.798544
+    },
+    {
+      "name": "Zámek Loučka",
+      "latitude": 49.438932,
+      "longitude": 17.832955
+    },
+    {
+      "name": "zámek Kinských - Krásno nad Bečvou",
+      "latitude": 49.478459,
+      "longitude": 17.9683
+    },
+    {
+      "name": "Zámek Šumbark",
+      "latitude": 49.787319,
+      "longitude": 18.415097
+    },
+    {
+      "name": "Zámek Paskov",
+      "latitude": 49.731748,
+      "longitude": 18.293235
+    },
+    {
+      "name": "Zámek Chotěbuz",
+      "latitude": 49.76933,
+      "longitude": 18.56848
+    },
+    {
+      "name": "Larischův zámek",
+      "latitude": 49.752713,
+      "longitude": 18.491787
+    },
+    {
+      "name": "Zamek Myśliwski - Rezydencja Habsburgów",
+      "latitude": 49.751076,
+      "longitude": 18.627289
+    },
+    {
+      "name": "Zámek Ropice",
+      "latitude": 49.704035,
+      "longitude": 18.611005
+    },
+    {
+      "name": "Zámek Hnojník",
+      "latitude": 49.684173,
+      "longitude": 18.54196
+    },
+    {
+      "name": "Zámeček Dolní Tošanovice",
+      "latitude": 49.69531,
+      "longitude": 18.493479
+    },
+    {
+      "name": "Zámek Konská",
+      "latitude": 49.700294,
+      "longitude": 18.639465
+    },
+    {
+      "name": "Troyerstein",
+      "latitude": 49.329293,
+      "longitude": 16.91455
+    },
+    {
+      "name": "Brodek",
+      "latitude": 49.369448,
+      "longitude": 17.082264
+    },
+    {
+      "name": "Zámek Dobromilice",
+      "latitude": 49.358402,
+      "longitude": 17.135479
+    },
+    {
+      "name": "Záme Doloplazy",
+      "latitude": 49.351772,
+      "longitude": 17.159905
+    },
+    {
+      "name": "Zámek Nezamyslice",
+      "latitude": 49.326242,
+      "longitude": 17.175941
+    },
+    {
+      "name": "Zámek Mořice",
+      "latitude": 49.329829,
+      "longitude": 17.198302
+    },
+    {
+      "name": "Zámek Víceměřice",
+      "latitude": 49.346093,
+      "longitude": 17.171406
+    },
+    {
+      "name": "Zámek Vyškov",
+      "latitude": 49.276638,
+      "longitude": 16.997219
+    },
+    {
+      "name": "Vyškov",
+      "latitude": 49.276503,
+      "longitude": 16.997931
+    },
+    {
+      "name": "Muzeum Vyškovska",
+      "latitude": 49.276469,
+      "longitude": 16.99698
+    },
+    {
+      "name": "Ivanovice na Hané",
+      "latitude": 49.305025,
+      "longitude": 17.095247
+    },
+    {
+      "name": "Chvalkovice na Hané",
+      "latitude": 49.319426,
+      "longitude": 17.115563
+    },
+    {
+      "name": "Zámek Uhřice",
+      "latitude": 49.281308,
+      "longitude": 17.201589
+    },
+    {
+      "name": "Zámek Chropyně",
+      "latitude": 49.355576,
+      "longitude": 17.364846
+    },
+    {
+      "name": "Arcibiskupský zámek",
+      "latitude": 49.300211,
+      "longitude": 17.393219
+    },
+    {
+      "name": "Zámek Dřínov",
+      "latitude": 49.292648,
+      "longitude": 17.234291
+    },
+    {
+      "name": "Habrovany",
+      "latitude": 49.229931,
+      "longitude": 16.876183
+    },
+    {
+      "name": "Zámek Morkovice",
+      "latitude": 49.247088,
+      "longitude": 17.208608
+    },
+    {
+      "name": "Zámek Pačlavice",
+      "latitude": 49.2579,
+      "longitude": 17.169151
+    },
+    {
+      "name": "bývalý hrad Orlovice",
+      "latitude": 49.237128,
+      "longitude": 17.088694
+    },
+    {
+      "name": "Zámek Slavkov",
+      "latitude": 49.154814,
+      "longitude": 16.875142
+    },
+    {
+      "name": "Zámek Litenčice",
+      "latitude": 49.201623,
+      "longitude": 17.206226
+    },
+    {
+      "name": "Zámek Zborovice",
+      "latitude": 49.251688,
+      "longitude": 17.281524
+    },
+    {
+      "name": "Nový zámek Zborovice",
+      "latitude": 49.251253,
+      "longitude": 17.278976
+    },
+    {
+      "name": "Zámek Zdislavice",
+      "latitude": 49.222123,
+      "longitude": 17.262744
+    },
+    {
+      "name": "zámek",
+      "latitude": 49.231303,
+      "longitude": 17.313772
+    },
+    {
+      "name": "zámek Kvasice",
+      "latitude": 49.243125,
+      "longitude": 17.473891
+    },
+    {
+      "name": "Bývalý zámek Tlumačov",
+      "latitude": 49.253904,
+      "longitude": 17.496044
+    },
+    {
+      "name": "Zámek Hoštice",
+      "latitude": 49.207699,
+      "longitude": 17.236936
+    },
+    {
+      "name": "Zámek Cetechovice",
+      "latitude": 49.174552,
+      "longitude": 17.260044
+    },
+    {
+      "name": "Zámek Napajedla",
+      "latitude": 49.169381,
+      "longitude": 17.512717
+    },
+    {
+      "name": "Zámek Pohořelice",
+      "latitude": 49.175785,
+      "longitude": 17.53661
+    },
+    {
+      "name": "Zámek Holešov",
+      "latitude": 49.332995,
+      "longitude": 17.581571
+    },
+    {
+      "name": "Zámek Hošťálková",
+      "latitude": 49.354378,
+      "longitude": 17.866138
+    },
+    {
+      "name": "Zámek Přílepy",
+      "latitude": 49.320843,
+      "longitude": 17.612534
+    },
+    {
+      "name": "Zřícenina hradu Lukov",
+      "latitude": 49.303196,
+      "longitude": 17.739899
+    },
+    {
+      "name": "zámek Žeranovice",
+      "latitude": 49.29177,
+      "longitude": 17.602498
+    },
+    {
+      "name": "Zámek Lešná",
+      "latitude": 49.273303,
+      "longitude": 17.717835
+    },
+    {
+      "name": "Vsetínský Zámek",
+      "latitude": 49.340732,
+      "longitude": 17.999243
+    },
+    {
+      "name": "Zámek Hovězí",
+      "latitude": 49.30359,
+      "longitude": 18.059048
+    },
+    {
+      "name": "zámek Zlín",
+      "latitude": 49.225688,
+      "longitude": 17.663163
+    },
+    {
+      "name": "Klečůvka",
+      "latitude": 49.228897,
+      "longitude": 17.773655
+    },
+    {
+      "name": "Zámek Vizovice",
+      "latitude": 49.219696,
+      "longitude": 17.850612
+    },
+    {
+      "name": "hrad Malenovice",
+      "latitude": 49.203499,
+      "longitude": 17.599666
+    },
+    {
+      "name": "Zámek Bučovice",
+      "latitude": 49.149292,
+      "longitude": 17.00129
+    },
+    {
+      "name": "Zámek Nesovice",
+      "latitude": 49.152182,
+      "longitude": 17.091806
+    },
+    {
+      "name": "zámek Střílky",
+      "latitude": 49.142419,
+      "longitude": 17.209258
+    },
+    {
+      "name": "Cimburk",
+      "latitude": 49.103655,
+      "longitude": 17.216221
+    },
+    {
+      "name": "Zámek Koryčany",
+      "latitude": 49.103874,
+      "longitude": 17.163304
+    },
+    {
+      "name": "Střílecký hrad (zříc.)",
+      "latitude": 49.133145,
+      "longitude": 17.227836
+    },
+    {
+      "name": "Buchlov",
+      "latitude": 49.107372,
+      "longitude": 17.310953
+    },
+    {
+      "name": "zámeček Strážovice",
+      "latitude": 49.009191,
+      "longitude": 17.046867
+    },
+    {
+      "name": "Zámeček Moštěnice",
+      "latitude": 49.033595,
+      "longitude": 17.179507
+    },
+    {
+      "name": "Zámek Kostelec u Kyjova",
+      "latitude": 49.025285,
+      "longitude": 17.152387
+    },
+    {
+      "name": "Šardická Rezidence",
+      "latitude": 48.963401,
+      "longitude": 17.024187
+    },
+    {
+      "name": "Zámek Milotice",
+      "latitude": 48.959482,
+      "longitude": 17.137878
+    },
+    {
+      "name": "Uherský Ostroh",
+      "latitude": 48.985981,
+      "longitude": 17.390214
+    },
+    {
+      "name": "tvrz Hluk",
+      "latitude": 48.987266,
+      "longitude": 17.526223
+    },
+    {
+      "name": "Bzenec",
+      "latitude": 48.975855,
+      "longitude": 17.263267
+    },
+    {
+      "name": "zámek",
+      "latitude": 48.953562,
+      "longitude": 17.376191
+    },
+    {
+      "name": "Zámek Březolupy",
+      "latitude": 49.121119,
+      "longitude": 17.584338
+    },
+    {
+      "name": "Luhačovice",
+      "latitude": 49.096512,
+      "longitude": 17.747437
+    },
+    {
+      "name": "Zámek Velký Ořechov",
+      "latitude": 49.109939,
+      "longitude": 17.669463
+    },
+    {
+      "name": "zámek Slavičín",
+      "latitude": 49.089542,
+      "longitude": 17.876324
+    },
+    {
+      "name": "Hrádek na Vlárské dráze",
+      "latitude": 49.077331,
+      "longitude": 17.89323
+    },
+    {
+      "name": "Zámek Návojná",
+      "latitude": 49.106662,
+      "longitude": 18.049949
+    },
+    {
+      "name": "Hrad Brumov",
+      "latitude": 49.091886,
+      "longitude": 18.020054
+    },
+    {
+      "name": "základy zámečku Pepčín",
+      "latitude": 49.026855,
+      "longitude": 17.587118
+    },
+    {
+      "name": "Zámek Nezdenice",
+      "latitude": 49.019631,
+      "longitude": 17.753883
+    },
+    {
+      "name": "Kunžvart",
+      "latitude": 48.920973,
+      "longitude": 13.709416
+    },
+    {
+      "name": "Zámek Lenora",
+      "latitude": 48.922409,
+      "longitude": 13.792918
+    },
+    {
+      "name": "Zámek Červený Dvůr",
+      "latitude": 48.845828,
+      "longitude": 14.230846
+    },
+    {
+      "name": "Nové purkrabství",
+      "latitude": 48.812986,
+      "longitude": 14.315241
+    },
+    {
+      "name": "Dolní hrad",
+      "latitude": 48.812553,
+      "longitude": 14.315284
+    },
+    {
+      "name": "Horní hrad",
+      "latitude": 48.812842,
+      "longitude": 14.314098
+    },
+    {
+      "name": "Hrádek",
+      "latitude": 48.812495,
+      "longitude": 14.315808
+    },
+    {
+      "name": "Archiv",
+      "latitude": 48.812812,
+      "longitude": 14.315791
+    },
+    {
+      "name": "hrad a zámek Český Krumlov",
+      "latitude": 48.812745,
+      "longitude": 14.314899
+    },
+    {
+      "name": "Zámek Komařice",
+      "latitude": 48.877848,
+      "longitude": 14.545187
+    },
+    {
+      "name": "Zámek Ostrolovský Újezd",
+      "latitude": 48.881082,
+      "longitude": 14.599998
+    },
+    {
+      "name": "Zámek Římov",
+      "latitude": 48.856612,
+      "longitude": 14.48929
+    },
+    {
+      "name": "tvrz Žumberk",
+      "latitude": 48.79517,
+      "longitude": 14.681483
+    },
+    {
+      "name": "tvrz Cuknštejn",
+      "latitude": 48.775359,
+      "longitude": 14.750652
+    },
+    {
+      "name": "Zámek Nové Hrady",
+      "latitude": 48.790884,
+      "longitude": 14.782336
+    },
+    {
+      "name": "Schloss Gmünd",
+      "latitude": 48.772365,
+      "longitude": 14.982283
+    },
+    {
+      "name": "Schloss Ehrendorf",
+      "latitude": 48.757669,
+      "longitude": 14.96124
+    },
+    {
+      "name": "zřícenina Vítkův hrádek",
+      "latitude": 48.645036,
+      "longitude": 14.103256
+    },
+    {
+      "name": "Zámek Uherčice",
+      "latitude": 48.914656,
+      "longitude": 15.634102
+    },
+    {
+      "name": "Zámek Vranov nad Dyjí",
+      "latitude": 48.892647,
+      "longitude": 15.811095
+    },
+    {
+      "name": "Schloss Ruegers",
+      "latitude": 48.854364,
+      "longitude": 15.771638
+    },
+    {
+      "name": "Letohrádek",
+      "latitude": 48.898368,
+      "longitude": 15.856343
+    },
+    {
+      "name": "Znojemský hrad",
+      "latitude": 48.855625,
+      "longitude": 16.042396
+    },
+    {
+      "name": "Lampelberg",
+      "latitude": 48.753601,
+      "longitude": 16.139383
+    },
+    {
+      "name": "Lechovice",
+      "latitude": 48.876606,
+      "longitude": 16.23568
+    },
+    {
+      "name": "Zámek Drnholec",
+      "latitude": 48.856502,
+      "longitude": 16.488648
+    },
+    {
+      "name": "Děvičky",
+      "latitude": 48.875909,
+      "longitude": 16.661833
+    },
+    {
+      "name": "zámek Mikulov",
+      "latitude": 48.807032,
+      "longitude": 16.636462
+    },
+    {
+      "name": "Zámek Jaroslavice",
+      "latitude": 48.75866,
+      "longitude": 16.234374
+    },
+    {
+      "name": "Zámek Dyjakovice",
+      "latitude": 48.769532,
+      "longitude": 16.303815
+    },
+    {
+      "name": "Reckturm",
+      "latitude": 48.724774,
+      "longitude": 16.381642
+    },
+    {
+      "name": "Letohrádek Portz Insel",
+      "latitude": 48.783567,
+      "longitude": 16.668369
+    },
+    {
+      "name": "Janův hrad",
+      "latitude": 48.804566,
+      "longitude": 16.832299
+    },
+    {
+      "name": "Zámecké jízdárny Lednice",
+      "latitude": 48.802383,
+      "longitude": 16.80439
+    },
+    {
+      "name": "Belveder",
+      "latitude": 48.751952,
+      "longitude": 16.761512
+    },
+    {
+      "name": "Zámek Valtice",
+      "latitude": 48.739399,
+      "longitude": 16.755448
+    },
+    {
+      "name": "zámek Strážnice",
+      "latitude": 48.907662,
+      "longitude": 17.31322
+    },
+    {
+      "name": "Zámek Břeclav",
+      "latitude": 48.760131,
+      "longitude": 16.876078
+    },
+    {
+      "name": "Lovecký zámek Pohansko",
+      "latitude": 48.727859,
+      "longitude": 16.895014
+    },
+    {
+      "name": "Lány",
+      "latitude": 48.712372,
+      "longitude": 16.918401
+    },
+    {
+      "name": "zámek Strání",
+      "latitude": 48.901866,
+      "longitude": 17.706553
+    }
+  ],
+  "meta": {
+    "title": "Hrady a zámky (OSM) - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných hradů a zámků v České republice (1112 záznamů) — body zájmu z OpenStreetMap (tag historic=castle), výřez EU-POIS/CZ. Obsahuje 1112 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Hrady a zámky (OSM) | ListBase",
+    "seo_description": "Stáhnout Hrady a zámky (OSM) — 1112 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1112 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

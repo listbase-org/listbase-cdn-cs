@@ -1,0 +1,76 @@
+{
+  "id": "cs-praha-obce",
+  "name": "Obce — Hlavní město Praha",
+  "title": "Obce — Hlavní město Praha",
+  "description": "Obce (LAU2) kraje Hlavní město Praha (Prague) — 1 záznamů; výřez z cs-obce. Zdroj: INSPIRE administrativní jednotky (data.gov.cz).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "national_code",
+      "label": "National Code",
+      "type": "number"
+    },
+    {
+      "key": "local_id",
+      "label": "Local Id",
+      "type": "string"
+    },
+    {
+      "key": "nuts_code",
+      "label": "Nuts Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_nuts3",
+      "label": "Kraj Nuts3",
+      "type": "string"
+    },
+    {
+      "key": "kraj_name",
+      "label": "Kraj Name",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "national_code": "554782",
+      "local_id": "AU.4.554782",
+      "nuts_code": "CZ0100554782",
+      "name": "Praha",
+      "slug": "praha",
+      "kraj_nuts3": "CZ010",
+      "kraj_name": "Hlavní město Praha",
+      "kraj_slug": "praha"
+    }
+  ],
+  "meta": {
+    "title": "Obce — Hlavní město Praha - Stáhnout zdarma",
+    "description": "Obce (LAU2) kraje Hlavní město Praha (Prague) — 1 záznamů; výřez z cs-obce. Zdroj: INSPIRE administrativní jednotky (data.gov.cz). Obsahuje 1 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — Hlavní město Praha | ListBase",
+    "seo_description": "Stáhnout Obce — Hlavní město Praha — 1 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

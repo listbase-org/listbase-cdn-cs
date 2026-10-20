@@ -1,0 +1,317 @@
+{
+  "id": "science-solubility-rules",
+  "name": "Komplexní Dataset Tabulka Pravidel Rozpustnosti",
+  "category": "science",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "ion_type",
+      "label": "Ion/Compound Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "formula",
+      "label": "Formula",
+      "type": "string"
+    },
+    {
+      "key": "solubility",
+      "label": "Solubility (EN)",
+      "type": "string"
+    },
+    {
+      "key": "exceptions",
+      "label": "Exceptions/Notes (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "examples",
+      "label": "Examples",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ion_type": "Dusičnany",
+      "formula": "NO₃⁻",
+      "solubility": "Rozpustný",
+      "exceptions": "Žádné – všechny dusičnany jsou rozpustné",
+      "category": "Vždy Rozpustný",
+      "examples": "NaNO₃, KNO₃, AgNO₃, Pb(NO₃)₂"
+    },
+    {
+      "ion_type": "Octany",
+      "formula": "CH₃COO⁻ (C₂H₃O₂⁻)",
+      "solubility": "Rozpustný",
+      "exceptions": "Octan stříbrný je málo rozpustný",
+      "category": "Vždy Rozpustný",
+      "examples": "NaCH₃COO, KC₂H₃O₂, Ca(CH₃COO)₂"
+    },
+    {
+      "ion_type": "Chlorečnany",
+      "formula": "ClO₃⁻",
+      "solubility": "Rozpustný",
+      "exceptions": "Žádné – všechny chlorečnany jsou rozpustné",
+      "category": "Vždy Rozpustný",
+      "examples": "NaClO₃, KClO₃, Ba(ClO₃)₂"
+    },
+    {
+      "ion_type": "Perchloráty",
+      "formula": "ClO₄⁻",
+      "solubility": "Rozpustný",
+      "exceptions": "KClO₄, RbClO₄, CsClO₄ jsou málo rozpustné",
+      "category": "Vždy Rozpustný",
+      "examples": "NaClO₄, Mg(ClO₄)₂, Ca(ClO₄)₂"
+    },
+    {
+      "ion_type": "Ionty alkalických kovů",
+      "formula": "Li⁺, Na⁺, K⁺, Rb⁺, Cs⁺",
+      "solubility": "Rozpustný",
+      "exceptions": "Žádné – všechny soli skupiny 1 jsou rozpustné",
+      "category": "Vždy Rozpustný",
+      "examples": "NaCl, KBr, Li₂SO₄, CsNO₃"
+    },
+    {
+      "ion_type": "Amonné",
+      "formula": "NH₄⁺",
+      "solubility": "Rozpustný",
+      "exceptions": "Žádné – všechny amonné soli jsou rozpustné",
+      "category": "Vždy Rozpustný",
+      "examples": "NH₄Cl, NH₄NO₃, (NH₄)₂SO₄, NH₄OH"
+    },
+    {
+      "ion_type": "Halogenidy (Cl⁻, Br⁻, I⁻)",
+      "formula": "Cl⁻, Br⁻, I⁻",
+      "solubility": "Většinou Rozpustný",
+      "exceptions": "Halogenidy Ag⁺, Pb²⁺, Hg₂²⁺ jsou nerozpustné",
+      "category": "Rozpustný s Výjimkami",
+      "examples": "NaCl, KBr soluble; AgCl, PbI₂ insoluble"
+    },
+    {
+      "ion_type": "Fluoridy",
+      "formula": "F⁻",
+      "solubility": "Většinou Rozpustný",
+      "exceptions": "Fluoridy skupiny 2 (MgF₂, CaF₂, BaF₂) a PbF₂ jsou nerozpustné",
+      "category": "Rozpustný s Výjimkami",
+      "examples": "NaF, KF soluble; CaF₂, BaF₂ insoluble"
+    },
+    {
+      "ion_type": "Sírany",
+      "formula": "SO₄²⁻",
+      "solubility": "Většinou Rozpustný",
+      "exceptions": "BaSO₄, PbSO₄, HgSO₄, CaSO₄, SrSO₄, Ag₂SO₄ jsou nerozpustné nebo málo rozpustné",
+      "category": "Rozpustný s Výjimkami",
+      "examples": "Na₂SO₄, MgSO₄ soluble; BaSO₄, PbSO₄ insoluble"
+    },
+    {
+      "ion_type": "Uhličitany",
+      "formula": "CO₃²⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Uhličitany alkalických kovů a amonné uhličitany jsou rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "CaCO₃, BaCO₃ insoluble; Na₂CO₃, K₂CO₃ soluble"
+    },
+    {
+      "ion_type": "Fosforečnany",
+      "formula": "PO₄³⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Fosforečnany alkalických kovů a amonné fosforečnany jsou rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "Ca₃(PO₄)₂, Ag₃PO₄ insoluble; Na₃PO₄ soluble"
+    },
+    {
+      "ion_type": "Chromany",
+      "formula": "CrO₄²⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Chromany alkalických kovů a amonné chromany jsou rozpustné; MgCrO₄, CaCrO₄ jsou rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "PbCrO₄, BaCrO₄, Ag₂CrO₄ insoluble; K₂CrO₄ soluble"
+    },
+    {
+      "ion_type": "Sulfidy",
+      "formula": "S²⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Sulfidy alkalických kovů, kovů alkalických zemin a amonné sulfidy jsou rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "CuS, PbS, Ag₂S insoluble; Na₂S, (NH₄)₂S soluble"
+    },
+    {
+      "ion_type": "Hydroxidy",
+      "formula": "OH⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Hydroxidy alkalických kovů jsou rozpustné; Ca(OH)₂, Sr(OH)₂, Ba(OH)₂ jsou málo rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "Fe(OH)₃, Al(OH)₃ insoluble; NaOH, KOH soluble"
+    },
+    {
+      "ion_type": "Oxidy",
+      "formula": "O²⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Oxidy alkalických kovů reagují s vodou za vzniku rozpustných hydroxidů; CaO, SrO, BaO jsou málo rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "Fe₂O₃, Al₂O₃ insoluble; Na₂O reacts with water"
+    },
+    {
+      "ion_type": "Siřičitany",
+      "formula": "SO₃²⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Siřičitany alkalických kovů a amonné siřičitany jsou rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "CaSO₃, BaSO₃ insoluble; Na₂SO₃ soluble"
+    },
+    {
+      "ion_type": "Oxaláty",
+      "formula": "C₂O₄²⁻",
+      "solubility": "Většinou Nerozpustný",
+      "exceptions": "Oxaláty alkalických kovů a amonné oxaláty jsou rozpustné",
+      "category": "Nerozpustný s Výjimkami",
+      "examples": "CaC₂O₄, BaC₂O₄ insoluble; Na₂C₂O₄ soluble"
+    },
+    {
+      "ion_type": "Chlorid stříbrný",
+      "formula": "AgCl",
+      "solubility": "Nerozpustný",
+      "exceptions": "Rozpouští se v roztoku NH₃ za vzniku [Ag(NH₃)₂]⁺",
+      "category": "Běžná Sraženina",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Bromid stříbrný",
+      "formula": "AgBr",
+      "solubility": "Nerozpustný",
+      "exceptions": "Méně rozpustný než AgCl",
+      "category": "Běžná Sraženina",
+      "examples": "Light yellow precipitate, Ksp = 5.0 × 10⁻¹³"
+    },
+    {
+      "ion_type": "Jodid stříbrný",
+      "formula": "AgI",
+      "solubility": "Nerozpustný",
+      "exceptions": "Nejméně rozpustný halogenid stříbra",
+      "category": "Běžná Sraženina",
+      "examples": "Yellow precipitate, Ksp = 8.3 × 10⁻¹⁷"
+    },
+    {
+      "ion_type": "Chlorid olova(II)",
+      "formula": "PbCl₂",
+      "solubility": "Málo rozpustný",
+      "exceptions": "Lépe rozpustný v horké vodě",
+      "category": "Běžná sraženina",
+      "examples": "White precipitate, Ksp = 1.7 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Jodid olova(II)",
+      "formula": "PbI₂",
+      "solubility": "Nerozpustný",
+      "exceptions": "Lépe rozpustný v horké vodě (demonstrace zlatého deště)",
+      "category": "Běžná sraženina",
+      "examples": "Bright yellow precipitate, Ksp = 7.9 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Síran olova(II)",
+      "formula": "PbSO₄",
+      "solubility": "Nerozpustný",
+      "exceptions": "Rozpouští se v koncentrované H₂SO₄",
+      "category": "Běžná sraženina",
+      "examples": "White precipitate, Ksp = 1.6 × 10⁻⁸"
+    },
+    {
+      "ion_type": "Síran barnatý",
+      "formula": "BaSO₄",
+      "solubility": "Nerozpustný",
+      "exceptions": "Velmi nerozpustný - používá se v lékařském zobrazování",
+      "category": "Běžná sraženina",
+      "examples": "White precipitate, Ksp = 1.1 × 10⁻¹⁰"
+    },
+    {
+      "ion_type": "Uhličitan vápenatý",
+      "formula": "CaCO₃",
+      "solubility": "Nerozpustný",
+      "exceptions": "Rozpouští se v kyselině; lépe rozpustný ve vodě bohaté na CO₂",
+      "category": "Běžná sraženina",
+      "examples": "White precipitate (limestone, chalk), Ksp = 3.4 × 10⁻⁹"
+    },
+    {
+      "ion_type": "Síran vápenatý",
+      "formula": "CaSO₄",
+      "solubility": "Málo rozpustný",
+      "exceptions": "Sádra, pálená sádra",
+      "category": "Běžná sraženina",
+      "examples": "White solid, Ksp = 2.4 × 10⁻⁵"
+    },
+    {
+      "ion_type": "Hydroxid železitý",
+      "formula": "Fe(OH)₃",
+      "solubility": "Nerozpustný",
+      "exceptions": "Rozpouští se v kyselině",
+      "category": "Běžná sraženina",
+      "examples": "Rust-brown precipitate, Ksp = 6.3 × 10⁻³⁸"
+    },
+    {
+      "ion_type": "Hydroxid měďnatý",
+      "formula": "Cu(OH)₂",
+      "solubility": "Nerozpustný",
+      "exceptions": "Rozpouští se v NH₃ za vzniku [Cu(NH₃)₄]²⁺ (sytě modrá)",
+      "category": "Běžná sraženina",
+      "examples": "Blue precipitate, Ksp = 2.2 × 10⁻²⁰"
+    },
+    {
+      "ion_type": "Hydroxid hořečnatý",
+      "formula": "Mg(OH)₂",
+      "solubility": "Málo rozpustný",
+      "exceptions": "Mléko hořečnaté - antacidum",
+      "category": "Běžná sraženina",
+      "examples": "White precipitate, Ksp = 1.8 × 10⁻¹¹"
+    },
+    {
+      "ion_type": "Hydroxid hlinitý",
+      "formula": "Al(OH)₃",
+      "solubility": "Nerozpustný",
+      "exceptions": "Amfoterní - rozpouští se v kyselinách i zásadách",
+      "category": "Běžná sraženina",
+      "examples": "White gelatinous precipitate, Ksp = 3 × 10⁻³⁴"
+    },
+    {
+      "ion_type": "Hydroxid zinečnatý",
+      "formula": "Zn(OH)₂",
+      "solubility": "Nerozpustný",
+      "exceptions": "Amfoterní - rozpouští se v nadbytku NaOH",
+      "category": "Běžná sraženina",
+      "examples": "White precipitate, Ksp = 3 × 10⁻¹⁷"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabulka Pravidel Rozpustnosti - Ke Stažení Zdarma (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si tento komplexní dataset Tabulky Pravidel Rozpustnosti zdarma (31 záznamů). K dispozici ve formátech Excel, CSV a PDF pro studenty a chemické profesionály.",
+    "title": "Komplexní Dataset Tabulka Pravidel Rozpustnosti",
+    "description": "Tento dataset poskytuje podrobnou tabulku pravidel rozpustnosti pro běžné iontové sloučeniny, včetně jejich vzorců, stavu rozpustnosti, výjimek a ilustrativních příkladů. Je to základní zdroj pro studium a výzkum chemie.",
+    "key_takeaways": [
+      "Získejte přístup k 31 klíčovým pravidlům rozpustnosti pro různé ionty a sloučeniny.",
+      "Prozkoumejte podrobné výjimky a poznámky pro každé vodítko rozpustnosti.",
+      "Stáhněte si hotový referenční materiál pro kurzy chemie a laboratorní práce.",
+      "Získejte praktické příklady rozpustných a nerozpustných sloučenin."
+    ],
+    "keywords": [
+      "tabulka pravidel rozpustnosti excel",
+      "chemický graf rozpustnosti csv",
+      "rozpustnost iontových sloučenin pdf",
+      "referenční dataset chemie",
+      "stáhnout data rozpustnosti",
+      "vodítka rozpustnosti"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do své SQL databáze nebo Python skriptu pro programovou analýzu a integraci do vzdělávacích aplikací.",
+      "Použijte soubor **Excel** k filtrování, řazení a vytváření vlastních sestav pro chemické úkoly nebo analýzu laboratorních dat.",
+      "Vytiskněte verzi **PDF** pro praktickou, offline referenční tabulku ve třídách nebo během laboratorních experimentů.",
+      "Využijte tento dataset k rychlému ověření rozpustnosti různých sloučenin pro předpovědi chemických reakcí a návrh experimentů."
+    ]
+  },
+  "record_count": 31,
+  "title": "Komplexní Dataset Tabulka Pravidel Rozpustnosti"
+}

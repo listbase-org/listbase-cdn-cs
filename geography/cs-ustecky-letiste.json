@@ -1,0 +1,220 @@
+{
+  "id": "cs-ustecky-letiste",
+  "name": "Letiště — Ústecký kraj",
+  "title": "Letiště — Ústecký kraj",
+  "description": "Seznam letišť v kraji „Ústecký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Ústí nad Labem region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKCH",
+      "iata": "",
+      "name": "Chomutov Airport",
+      "name_slug": "chomutov-airport",
+      "city": "Chotumov",
+      "kraj": "Ústecký kraj",
+      "kraj_source": "Ustecky",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Ústí nad Labem",
+      "country": "CZ",
+      "elevation_ft": 1132,
+      "lat": 50.4688987732,
+      "lon": 13.4680995941,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKMO",
+      "iata": "",
+      "name": "Most Airport",
+      "name_slug": "most-airport",
+      "city": "Most",
+      "kraj": "Ústecký kraj",
+      "kraj_source": "Ustecky",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Ústí nad Labem",
+      "country": "CZ",
+      "elevation_ft": 1089,
+      "lat": 50.5250015259,
+      "lon": 13.6830997467,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPC",
+      "iata": "",
+      "name": "Panensky Tynec Airport",
+      "name_slug": "panensky-tynec-airport",
+      "city": "Panensky Tynec",
+      "kraj": "Ústecký kraj",
+      "kraj_source": "Ustecky",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Ústí nad Labem",
+      "country": "CZ",
+      "elevation_ft": 1207,
+      "lat": 50.306098938,
+      "lon": 13.9342002869,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKRA",
+      "iata": "",
+      "name": "Rana Loumy Airport",
+      "name_slug": "rana-loumy-airport",
+      "city": "Rana",
+      "kraj": "Ústecký kraj",
+      "kraj_source": "Ustecky",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Ústí nad Labem",
+      "country": "CZ",
+      "elevation_ft": 879,
+      "lat": 50.4039001465,
+      "lon": 13.7518997192,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKRO",
+      "iata": "",
+      "name": "Roudnice Mad Airport",
+      "name_slug": "roudnice-mad-airport",
+      "city": "Roudnice Nad Labem",
+      "kraj": "Ústecký kraj",
+      "kraj_source": "Ustecky",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Ústí nad Labem",
+      "country": "CZ",
+      "elevation_ft": 732,
+      "lat": 50.4105987549,
+      "lon": 14.226099968,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKUL",
+      "iata": "",
+      "name": "Usti Nad Labem Airport",
+      "name_slug": "usti-nad-labem-airport",
+      "city": "Usti Nad Labem",
+      "kraj": "Ústecký kraj",
+      "kraj_source": "Ustecky",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Ústí nad Labem",
+      "country": "CZ",
+      "elevation_ft": 791,
+      "lat": 50.6996994019,
+      "lon": 13.9696998596,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKZD",
+      "iata": "",
+      "name": "Zatec Macerka Ar Airport",
+      "name_slug": "zatec-macerka-ar-airport",
+      "city": "Zatek",
+      "kraj": "Ústecký kraj",
+      "kraj_source": "Ustecky",
+      "kraj_slug": "ustecky",
+      "kraj_en": "Ústí nad Labem",
+      "country": "CZ",
+      "elevation_ft": 879,
+      "lat": 50.3175010681,
+      "lon": 13.5128002167,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Ústecký kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Ústecký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Ústí nad Labem region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 7 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Ústecký kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Ústecký kraj — 7 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 7 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

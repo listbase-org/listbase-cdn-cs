@@ -1,0 +1,106 @@
+{
+  "id": "cs-jednotky-force",
+  "name": "Měrné jednotky: force (4)",
+  "title": "Měrné jednotky: force (4)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'force'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 88,
+      "unit_code": "force-kilogram-force",
+      "kategorie": "force",
+      "nazev": "kilogramy síly",
+      "vzor_jednotne": "{0} kilogram síly",
+      "vzor_mnozne": "{0} kilogramů síly",
+      "kratky_vzor": "{0} kgf",
+      "uzky_vzor": "{0} kgf"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategorie": "force",
+      "nazev": "kilowatthodiny na sto kilometrů",
+      "vzor_jednotne": "{0} kilowatthodina na sto kilometrů",
+      "vzor_mnozne": "{0} kilowatthodin na sto kilometrů",
+      "kratky_vzor": "{0} kWh/100km",
+      "uzky_vzor": "{0} kWh/100km"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-newton",
+      "kategorie": "force",
+      "nazev": "newtony",
+      "vzor_jednotne": "{0} newton",
+      "vzor_mnozne": "{0} newtonů",
+      "kratky_vzor": "{0} N",
+      "uzky_vzor": "{0} N"
+    },
+    {
+      "id": 91,
+      "unit_code": "force-pound-force",
+      "kategorie": "force",
+      "nazev": "libry síly",
+      "vzor_jednotne": "{0} libra síly",
+      "vzor_mnozne": "{0} liber síly",
+      "kratky_vzor": "{0} lbf",
+      "uzky_vzor": "{0} lbf"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: force (4) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'force'. Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: force (4) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: force (4) — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

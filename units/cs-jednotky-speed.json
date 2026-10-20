@@ -1,0 +1,126 @@
+{
+  "id": "cs-jednotky-speed",
+  "name": "Měrné jednotky: speed (6)",
+  "title": "Měrné jednotky: speed (6)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'speed'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 176,
+      "unit_code": "speed-beaufort",
+      "kategorie": "speed",
+      "nazev": "stupně Beaufortovy stupnice",
+      "vzor_jednotne": "{0}. stupeň Beaufortovy stupnice",
+      "vzor_mnozne": "{0}. stupeň Beaufortovy stupnice",
+      "kratky_vzor": "{0} Bft",
+      "uzky_vzor": "{0} Bft"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategorie": "speed",
+      "nazev": "kilometry za hodinu",
+      "vzor_jednotne": "{0} kilometr za hodinu",
+      "vzor_mnozne": "{0} kilometrů za hodinu",
+      "kratky_vzor": "{0} km/h",
+      "uzky_vzor": "{0} km/h"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-knot",
+      "kategorie": "speed",
+      "nazev": "uzly",
+      "vzor_jednotne": "{0} uzel",
+      "vzor_mnozne": "{0} uzlů",
+      "kratky_vzor": "{0} kn",
+      "uzky_vzor": "{0} kn"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-light-speed",
+      "kategorie": "speed",
+      "nazev": "světlo",
+      "vzor_jednotne": "{0} světlo",
+      "vzor_mnozne": "{0} světel",
+      "kratky_vzor": "{0} světel",
+      "uzky_vzor": "{0} sv."
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-meter-per-second",
+      "kategorie": "speed",
+      "nazev": "metry za sekundu",
+      "vzor_jednotne": "{0} metr za sekundu",
+      "vzor_mnozne": "{0} metrů za sekundu",
+      "kratky_vzor": "{0} m/s",
+      "uzky_vzor": "{0} m/s"
+    },
+    {
+      "id": 181,
+      "unit_code": "speed-mile-per-hour",
+      "kategorie": "speed",
+      "nazev": "míle za hodinu",
+      "vzor_jednotne": "{0} míle za hodinu",
+      "vzor_mnozne": "{0} mil za hodinu",
+      "kratky_vzor": "{0} mi/h",
+      "uzky_vzor": "{0} mi/h"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: speed (6) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'speed'. Obsahuje 6 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: speed (6) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: speed (6) — 6 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

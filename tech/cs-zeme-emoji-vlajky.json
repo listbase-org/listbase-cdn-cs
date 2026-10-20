@@ -1,0 +1,1558 @@
+{
+  "id": "cs-zeme-emoji-vlajky",
+  "name": "Emoji vlajky zemí",
+  "title": "Emoji vlajky zemí",
+  "description": "Emoji vlajky všech 252 zemí a území podle Unicode regional-indicator-letter sekvencí.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 252,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "country_name_cs",
+      "label": "Country Name Cs",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AF",
+      "iso_3166_1_alpha_3": "AFG",
+      "country_name_cs": "Afghánistán",
+      "emoji_flag": "🇦🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "AL",
+      "iso_3166_1_alpha_3": "ALB",
+      "country_name_cs": "Albánie",
+      "emoji_flag": "🇦🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "DZ",
+      "iso_3166_1_alpha_3": "DZA",
+      "country_name_cs": "Alžírsko",
+      "emoji_flag": "🇩🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "AS",
+      "iso_3166_1_alpha_3": "ASM",
+      "country_name_cs": "Americká Samoa",
+      "emoji_flag": "🇦🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "VI",
+      "iso_3166_1_alpha_3": "VIR",
+      "country_name_cs": "Americké Panenské ostrovy",
+      "emoji_flag": "🇻🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "AD",
+      "iso_3166_1_alpha_3": "AND",
+      "country_name_cs": "Andorra",
+      "emoji_flag": "🇦🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "AO",
+      "iso_3166_1_alpha_3": "AGO",
+      "country_name_cs": "Angola",
+      "emoji_flag": "🇦🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "AI",
+      "iso_3166_1_alpha_3": "AIA",
+      "country_name_cs": "Anguilla",
+      "emoji_flag": "🇦🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "country_name_cs": "Antarktida",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "AG",
+      "iso_3166_1_alpha_3": "ATG",
+      "country_name_cs": "Antigua a Barbuda",
+      "emoji_flag": "🇦🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "AR",
+      "iso_3166_1_alpha_3": "ARG",
+      "country_name_cs": "Argentina",
+      "emoji_flag": "🇦🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "AM",
+      "iso_3166_1_alpha_3": "ARM",
+      "country_name_cs": "Arménie",
+      "emoji_flag": "🇦🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "AW",
+      "iso_3166_1_alpha_3": "ABW",
+      "country_name_cs": "Aruba",
+      "emoji_flag": "🇦🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "AU",
+      "iso_3166_1_alpha_3": "AUS",
+      "country_name_cs": "Austrálie",
+      "emoji_flag": "🇦🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "BS",
+      "iso_3166_1_alpha_3": "BHS",
+      "country_name_cs": "Bahamy",
+      "emoji_flag": "🇧🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "BH",
+      "iso_3166_1_alpha_3": "BHR",
+      "country_name_cs": "Bahrajn",
+      "emoji_flag": "🇧🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "BD",
+      "iso_3166_1_alpha_3": "BGD",
+      "country_name_cs": "Bangladéš",
+      "emoji_flag": "🇧🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "BB",
+      "iso_3166_1_alpha_3": "BRB",
+      "country_name_cs": "Barbados",
+      "emoji_flag": "🇧🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "BE",
+      "iso_3166_1_alpha_3": "BEL",
+      "country_name_cs": "Belgie",
+      "emoji_flag": "🇧🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "BZ",
+      "iso_3166_1_alpha_3": "BLZ",
+      "country_name_cs": "Belize",
+      "emoji_flag": "🇧🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "BJ",
+      "iso_3166_1_alpha_3": "BEN",
+      "country_name_cs": "Benin",
+      "emoji_flag": "🇧🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "BM",
+      "iso_3166_1_alpha_3": "BMU",
+      "country_name_cs": "Bermudy",
+      "emoji_flag": "🇧🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "BT",
+      "iso_3166_1_alpha_3": "BTN",
+      "country_name_cs": "Bhútán",
+      "emoji_flag": "🇧🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "BO",
+      "iso_3166_1_alpha_3": "BOL",
+      "country_name_cs": "Bolívie",
+      "emoji_flag": "🇧🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "BA",
+      "iso_3166_1_alpha_3": "BIH",
+      "country_name_cs": "Bosna a Hercegovina",
+      "emoji_flag": "🇧🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "BW",
+      "iso_3166_1_alpha_3": "BWA",
+      "country_name_cs": "Botswana",
+      "emoji_flag": "🇧🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "country_name_cs": "Bouvetův ostrov",
+      "emoji_flag": "🇧🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "BR",
+      "iso_3166_1_alpha_3": "BRA",
+      "country_name_cs": "Brazílie",
+      "emoji_flag": "🇧🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "VG",
+      "iso_3166_1_alpha_3": "VGB",
+      "country_name_cs": "Britské Panenské ostrovy",
+      "emoji_flag": "🇻🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "IO",
+      "iso_3166_1_alpha_3": "IOT",
+      "country_name_cs": "Britské území v Indickém oceánu",
+      "emoji_flag": "🇮🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "BN",
+      "iso_3166_1_alpha_3": "BRN",
+      "country_name_cs": "Brunej",
+      "emoji_flag": "🇧🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "BG",
+      "iso_3166_1_alpha_3": "BGR",
+      "country_name_cs": "Bulharsko",
+      "emoji_flag": "🇧🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "BF",
+      "iso_3166_1_alpha_3": "BFA",
+      "country_name_cs": "Burkina Faso",
+      "emoji_flag": "🇧🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "BI",
+      "iso_3166_1_alpha_3": "BDI",
+      "country_name_cs": "Burundi",
+      "emoji_flag": "🇧🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "BY",
+      "iso_3166_1_alpha_3": "BLR",
+      "country_name_cs": "Bělorusko",
+      "emoji_flag": "🇧🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "CL",
+      "iso_3166_1_alpha_3": "CHL",
+      "country_name_cs": "Chile",
+      "emoji_flag": "🇨🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "HR",
+      "iso_3166_1_alpha_3": "HRV",
+      "country_name_cs": "Chorvatsko",
+      "emoji_flag": "🇭🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CK",
+      "iso_3166_1_alpha_3": "COK",
+      "country_name_cs": "Cookovy ostrovy",
+      "emoji_flag": "🇨🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "CW",
+      "iso_3166_1_alpha_3": "CUW",
+      "country_name_cs": "Curaçao",
+      "emoji_flag": "🇨🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "CD",
+      "iso_3166_1_alpha_3": "COD",
+      "country_name_cs": "Demokratická republika Kongo",
+      "emoji_flag": "🇨🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "DM",
+      "iso_3166_1_alpha_3": "DMA",
+      "country_name_cs": "Dominika",
+      "emoji_flag": "🇩🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "DO",
+      "iso_3166_1_alpha_3": "DOM",
+      "country_name_cs": "Dominikánská republika",
+      "emoji_flag": "🇩🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "DK",
+      "iso_3166_1_alpha_3": "DNK",
+      "country_name_cs": "Dánsko",
+      "emoji_flag": "🇩🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "DJ",
+      "iso_3166_1_alpha_3": "DJI",
+      "country_name_cs": "Džibutsko",
+      "emoji_flag": "🇩🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "EG",
+      "iso_3166_1_alpha_3": "EGY",
+      "country_name_cs": "Egypt",
+      "emoji_flag": "🇪🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "EC",
+      "iso_3166_1_alpha_3": "ECU",
+      "country_name_cs": "Ekvádor",
+      "emoji_flag": "🇪🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "ER",
+      "iso_3166_1_alpha_3": "ERI",
+      "country_name_cs": "Eritrea",
+      "emoji_flag": "🇪🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "EE",
+      "iso_3166_1_alpha_3": "EST",
+      "country_name_cs": "Estonsko",
+      "emoji_flag": "🇪🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "SZ",
+      "iso_3166_1_alpha_3": "SWZ",
+      "country_name_cs": "Eswatini",
+      "emoji_flag": "🇸🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "ET",
+      "iso_3166_1_alpha_3": "ETH",
+      "country_name_cs": "Etiopie",
+      "emoji_flag": "🇪🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "FO",
+      "iso_3166_1_alpha_3": "FRO",
+      "country_name_cs": "Faerské ostrovy",
+      "emoji_flag": "🇫🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "FK",
+      "iso_3166_1_alpha_3": "FLK",
+      "country_name_cs": "Falklandy",
+      "emoji_flag": "🇫🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "FJ",
+      "iso_3166_1_alpha_3": "FJI",
+      "country_name_cs": "Fidži",
+      "emoji_flag": "🇫🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "PH",
+      "iso_3166_1_alpha_3": "PHL",
+      "country_name_cs": "Filipíny",
+      "emoji_flag": "🇵🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "FI",
+      "iso_3166_1_alpha_3": "FIN",
+      "country_name_cs": "Finsko",
+      "emoji_flag": "🇫🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "FR",
+      "iso_3166_1_alpha_3": "FRA",
+      "country_name_cs": "Francie",
+      "emoji_flag": "🇫🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "GF",
+      "iso_3166_1_alpha_3": "GUF",
+      "country_name_cs": "Francouzská Guyana",
+      "emoji_flag": "🇬🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "country_name_cs": "Francouzská jižní a antarktická území",
+      "emoji_flag": "🇹🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "PF",
+      "iso_3166_1_alpha_3": "PYF",
+      "country_name_cs": "Francouzská Polynésie",
+      "emoji_flag": "🇵🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "GA",
+      "iso_3166_1_alpha_3": "GAB",
+      "country_name_cs": "Gabon",
+      "emoji_flag": "🇬🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "GM",
+      "iso_3166_1_alpha_3": "GMB",
+      "country_name_cs": "Gambie",
+      "emoji_flag": "🇬🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "GH",
+      "iso_3166_1_alpha_3": "GHA",
+      "country_name_cs": "Ghana",
+      "emoji_flag": "🇬🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "GI",
+      "iso_3166_1_alpha_3": "GIB",
+      "country_name_cs": "Gibraltar",
+      "emoji_flag": "🇬🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "GD",
+      "iso_3166_1_alpha_3": "GRD",
+      "country_name_cs": "Grenada",
+      "emoji_flag": "🇬🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "GE",
+      "iso_3166_1_alpha_3": "GEO",
+      "country_name_cs": "Gruzie",
+      "emoji_flag": "🇬🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "GL",
+      "iso_3166_1_alpha_3": "GRL",
+      "country_name_cs": "Grónsko",
+      "emoji_flag": "🇬🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "GP",
+      "iso_3166_1_alpha_3": "GLP",
+      "country_name_cs": "Guadeloupe",
+      "emoji_flag": "🇬🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "GU",
+      "iso_3166_1_alpha_3": "GUM",
+      "country_name_cs": "Guam",
+      "emoji_flag": "🇬🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "GT",
+      "iso_3166_1_alpha_3": "GTM",
+      "country_name_cs": "Guatemala",
+      "emoji_flag": "🇬🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "GG",
+      "iso_3166_1_alpha_3": "GGY",
+      "country_name_cs": "Guernsey",
+      "emoji_flag": "🇬🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "GN",
+      "iso_3166_1_alpha_3": "GIN",
+      "country_name_cs": "Guinea",
+      "emoji_flag": "🇬🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "GW",
+      "iso_3166_1_alpha_3": "GNB",
+      "country_name_cs": "Guinea-Bissau",
+      "emoji_flag": "🇬🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "GY",
+      "iso_3166_1_alpha_3": "GUY",
+      "country_name_cs": "Guyana",
+      "emoji_flag": "🇬🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "HT",
+      "iso_3166_1_alpha_3": "HTI",
+      "country_name_cs": "Haiti",
+      "emoji_flag": "🇭🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "country_name_cs": "Heardův ostrov a McDonaldovy ostrovy",
+      "emoji_flag": "🇭🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "HN",
+      "iso_3166_1_alpha_3": "HND",
+      "country_name_cs": "Honduras",
+      "emoji_flag": "🇭🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "HK",
+      "iso_3166_1_alpha_3": "HKG",
+      "country_name_cs": "Hongkong",
+      "emoji_flag": "🇭🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "IN",
+      "iso_3166_1_alpha_3": "IND",
+      "country_name_cs": "Indie",
+      "emoji_flag": "🇮🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "ID",
+      "iso_3166_1_alpha_3": "IDN",
+      "country_name_cs": "Indonésie",
+      "emoji_flag": "🇮🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "IE",
+      "iso_3166_1_alpha_3": "IRL",
+      "country_name_cs": "Irsko",
+      "emoji_flag": "🇮🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "IQ",
+      "iso_3166_1_alpha_3": "IRQ",
+      "country_name_cs": "Irák",
+      "emoji_flag": "🇮🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "IS",
+      "iso_3166_1_alpha_3": "ISL",
+      "country_name_cs": "Island",
+      "emoji_flag": "🇮🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "IT",
+      "iso_3166_1_alpha_3": "ITA",
+      "country_name_cs": "Itálie",
+      "emoji_flag": "🇮🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "IL",
+      "iso_3166_1_alpha_3": "ISR",
+      "country_name_cs": "Izrael",
+      "emoji_flag": "🇮🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "JM",
+      "iso_3166_1_alpha_3": "JAM",
+      "country_name_cs": "Jamajka",
+      "emoji_flag": "🇯🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "JP",
+      "iso_3166_1_alpha_3": "JPN",
+      "country_name_cs": "Japonsko",
+      "emoji_flag": "🇯🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "YE",
+      "iso_3166_1_alpha_3": "YEM",
+      "country_name_cs": "Jemen",
+      "emoji_flag": "🇾🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "JE",
+      "iso_3166_1_alpha_3": "JEY",
+      "country_name_cs": "Jersey",
+      "emoji_flag": "🇯🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZA",
+      "iso_3166_1_alpha_3": "ZAF",
+      "country_name_cs": "Jihoafrická republika",
+      "emoji_flag": "🇿🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "country_name_cs": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "KR",
+      "iso_3166_1_alpha_3": "KOR",
+      "country_name_cs": "Jižní Korea",
+      "emoji_flag": "🇰🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "SS",
+      "iso_3166_1_alpha_3": "SSD",
+      "country_name_cs": "Jižní Súdán",
+      "emoji_flag": "🇸🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "JO",
+      "iso_3166_1_alpha_3": "JOR",
+      "country_name_cs": "Jordánsko",
+      "emoji_flag": "🇯🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "KY",
+      "iso_3166_1_alpha_3": "CYM",
+      "country_name_cs": "Kajmanské ostrovy",
+      "emoji_flag": "🇰🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "KH",
+      "iso_3166_1_alpha_3": "KHM",
+      "country_name_cs": "Kambodža",
+      "emoji_flag": "🇰🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "CM",
+      "iso_3166_1_alpha_3": "CMR",
+      "country_name_cs": "Kamerun",
+      "emoji_flag": "🇨🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "CA",
+      "iso_3166_1_alpha_3": "CAN",
+      "country_name_cs": "Kanada",
+      "emoji_flag": "🇨🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "CV",
+      "iso_3166_1_alpha_3": "CPV",
+      "country_name_cs": "Kapverdy",
+      "emoji_flag": "🇨🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "BQ",
+      "iso_3166_1_alpha_3": "BES",
+      "country_name_cs": "Karibské Nizozemsko",
+      "emoji_flag": "🇧🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "QA",
+      "iso_3166_1_alpha_3": "QAT",
+      "country_name_cs": "Katar",
+      "emoji_flag": "🇶🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "KZ",
+      "iso_3166_1_alpha_3": "KAZ",
+      "country_name_cs": "Kazachstán",
+      "emoji_flag": "🇰🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "KE",
+      "iso_3166_1_alpha_3": "KEN",
+      "country_name_cs": "Keňa",
+      "emoji_flag": "🇰🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "KI",
+      "iso_3166_1_alpha_3": "KIR",
+      "country_name_cs": "Kiribati",
+      "emoji_flag": "🇰🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "CC",
+      "iso_3166_1_alpha_3": "CCK",
+      "country_name_cs": "Kokosové ostrovy",
+      "emoji_flag": "🇨🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "CO",
+      "iso_3166_1_alpha_3": "COL",
+      "country_name_cs": "Kolumbie",
+      "emoji_flag": "🇨🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "KM",
+      "iso_3166_1_alpha_3": "COM",
+      "country_name_cs": "Komory",
+      "emoji_flag": "🇰🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "XK",
+      "iso_3166_1_alpha_3": "XKX",
+      "country_name_cs": "Kosovo",
+      "emoji_flag": "🇽🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "CR",
+      "iso_3166_1_alpha_3": "CRI",
+      "country_name_cs": "Kostarika",
+      "emoji_flag": "🇨🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CU",
+      "iso_3166_1_alpha_3": "CUB",
+      "country_name_cs": "Kuba",
+      "emoji_flag": "🇨🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "KW",
+      "iso_3166_1_alpha_3": "KWT",
+      "country_name_cs": "Kuvajt",
+      "emoji_flag": "🇰🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "CY",
+      "iso_3166_1_alpha_3": "CYP",
+      "country_name_cs": "Kypr",
+      "emoji_flag": "🇨🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "KG",
+      "iso_3166_1_alpha_3": "KGZ",
+      "country_name_cs": "Kyrgyzstán",
+      "emoji_flag": "🇰🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "LA",
+      "iso_3166_1_alpha_3": "LAO",
+      "country_name_cs": "Laos",
+      "emoji_flag": "🇱🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "LS",
+      "iso_3166_1_alpha_3": "LSO",
+      "country_name_cs": "Lesotho",
+      "emoji_flag": "🇱🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "LB",
+      "iso_3166_1_alpha_3": "LBN",
+      "country_name_cs": "Libanon",
+      "emoji_flag": "🇱🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "LY",
+      "iso_3166_1_alpha_3": "LBY",
+      "country_name_cs": "Libye",
+      "emoji_flag": "🇱🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "LR",
+      "iso_3166_1_alpha_3": "LBR",
+      "country_name_cs": "Libérie",
+      "emoji_flag": "🇱🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "LI",
+      "iso_3166_1_alpha_3": "LIE",
+      "country_name_cs": "Lichtenštejnsko",
+      "emoji_flag": "🇱🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "LT",
+      "iso_3166_1_alpha_3": "LTU",
+      "country_name_cs": "Litva",
+      "emoji_flag": "🇱🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "LV",
+      "iso_3166_1_alpha_3": "LVA",
+      "country_name_cs": "Lotyšsko",
+      "emoji_flag": "🇱🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "LU",
+      "iso_3166_1_alpha_3": "LUX",
+      "country_name_cs": "Lucembursko",
+      "emoji_flag": "🇱🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "MO",
+      "iso_3166_1_alpha_3": "MAC",
+      "country_name_cs": "Macao",
+      "emoji_flag": "🇲🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "MG",
+      "iso_3166_1_alpha_3": "MDG",
+      "country_name_cs": "Madagaskar",
+      "emoji_flag": "🇲🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "MY",
+      "iso_3166_1_alpha_3": "MYS",
+      "country_name_cs": "Malajsie",
+      "emoji_flag": "🇲🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "MW",
+      "iso_3166_1_alpha_3": "MWI",
+      "country_name_cs": "Malawi",
+      "emoji_flag": "🇲🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "MV",
+      "iso_3166_1_alpha_3": "MDV",
+      "country_name_cs": "Maledivy",
+      "emoji_flag": "🇲🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "ML",
+      "iso_3166_1_alpha_3": "MLI",
+      "country_name_cs": "Mali",
+      "emoji_flag": "🇲🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "MT",
+      "iso_3166_1_alpha_3": "MLT",
+      "country_name_cs": "Malta",
+      "emoji_flag": "🇲🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "MA",
+      "iso_3166_1_alpha_3": "MAR",
+      "country_name_cs": "Maroko",
+      "emoji_flag": "🇲🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "MH",
+      "iso_3166_1_alpha_3": "MHL",
+      "country_name_cs": "Marshallovy ostrovy",
+      "emoji_flag": "🇲🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "MQ",
+      "iso_3166_1_alpha_3": "MTQ",
+      "country_name_cs": "Martinik",
+      "emoji_flag": "🇲🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "MU",
+      "iso_3166_1_alpha_3": "MUS",
+      "country_name_cs": "Mauricius",
+      "emoji_flag": "🇲🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "MR",
+      "iso_3166_1_alpha_3": "MRT",
+      "country_name_cs": "Mauritánie",
+      "emoji_flag": "🇲🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "YT",
+      "iso_3166_1_alpha_3": "MYT",
+      "country_name_cs": "Mayotte",
+      "emoji_flag": "🇾🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "HU",
+      "iso_3166_1_alpha_3": "HUN",
+      "country_name_cs": "Maďarsko",
+      "emoji_flag": "🇭🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "UM",
+      "iso_3166_1_alpha_3": "UMI",
+      "country_name_cs": "Menší odlehlé ostrovy USA",
+      "emoji_flag": "🇺🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "MX",
+      "iso_3166_1_alpha_3": "MEX",
+      "country_name_cs": "Mexiko",
+      "emoji_flag": "🇲🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "FM",
+      "iso_3166_1_alpha_3": "FSM",
+      "country_name_cs": "Mikronésie",
+      "emoji_flag": "🇫🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "MD",
+      "iso_3166_1_alpha_3": "MDA",
+      "country_name_cs": "Moldavsko",
+      "emoji_flag": "🇲🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "MC",
+      "iso_3166_1_alpha_3": "MCO",
+      "country_name_cs": "Monako",
+      "emoji_flag": "🇲🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "MN",
+      "iso_3166_1_alpha_3": "MNG",
+      "country_name_cs": "Mongolsko",
+      "emoji_flag": "🇲🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "MS",
+      "iso_3166_1_alpha_3": "MSR",
+      "country_name_cs": "Montserrat",
+      "emoji_flag": "🇲🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "MZ",
+      "iso_3166_1_alpha_3": "MOZ",
+      "country_name_cs": "Mosambik",
+      "emoji_flag": "🇲🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "MM",
+      "iso_3166_1_alpha_3": "MMR",
+      "country_name_cs": "Myanmar",
+      "emoji_flag": "🇲🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "NA",
+      "iso_3166_1_alpha_3": "NAM",
+      "country_name_cs": "Namibie",
+      "emoji_flag": "🇳🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "NR",
+      "iso_3166_1_alpha_3": "NRU",
+      "country_name_cs": "Nauru",
+      "emoji_flag": "🇳🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "NP",
+      "iso_3166_1_alpha_3": "NPL",
+      "country_name_cs": "Nepál",
+      "emoji_flag": "🇳🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "NE",
+      "iso_3166_1_alpha_3": "NER",
+      "country_name_cs": "Niger",
+      "emoji_flag": "🇳🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "NG",
+      "iso_3166_1_alpha_3": "NGA",
+      "country_name_cs": "Nigérie",
+      "emoji_flag": "🇳🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "NI",
+      "iso_3166_1_alpha_3": "NIC",
+      "country_name_cs": "Nikaragua",
+      "emoji_flag": "🇳🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "NU",
+      "iso_3166_1_alpha_3": "NIU",
+      "country_name_cs": "Niue",
+      "emoji_flag": "🇳🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "NL",
+      "iso_3166_1_alpha_3": "NLD",
+      "country_name_cs": "Nizozemsko",
+      "emoji_flag": "🇳🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "NF",
+      "iso_3166_1_alpha_3": "NFK",
+      "country_name_cs": "Norfolk",
+      "emoji_flag": "🇳🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "NO",
+      "iso_3166_1_alpha_3": "NOR",
+      "country_name_cs": "Norsko",
+      "emoji_flag": "🇳🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "NC",
+      "iso_3166_1_alpha_3": "NCL",
+      "country_name_cs": "Nová Kaledonie",
+      "emoji_flag": "🇳🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "NZ",
+      "iso_3166_1_alpha_3": "NZL",
+      "country_name_cs": "Nový Zéland",
+      "emoji_flag": "🇳🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "DE",
+      "iso_3166_1_alpha_3": "DEU",
+      "country_name_cs": "Německo",
+      "emoji_flag": "🇩🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "OM",
+      "iso_3166_1_alpha_3": "OMN",
+      "country_name_cs": "Omán",
+      "emoji_flag": "🇴🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "AC",
+      "iso_3166_1_alpha_3": "ASC",
+      "country_name_cs": "Ostrov Ascension",
+      "emoji_flag": "🇦🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "IM",
+      "iso_3166_1_alpha_3": "IMN",
+      "country_name_cs": "Ostrov Man",
+      "emoji_flag": "🇮🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "PW",
+      "iso_3166_1_alpha_3": "PLW",
+      "country_name_cs": "Palau",
+      "emoji_flag": "🇵🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "PA",
+      "iso_3166_1_alpha_3": "PAN",
+      "country_name_cs": "Panama",
+      "emoji_flag": "🇵🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "PG",
+      "iso_3166_1_alpha_3": "PNG",
+      "country_name_cs": "Papua-Nová Guinea",
+      "emoji_flag": "🇵🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "PY",
+      "iso_3166_1_alpha_3": "PRY",
+      "country_name_cs": "Paraguay",
+      "emoji_flag": "🇵🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "PE",
+      "iso_3166_1_alpha_3": "PER",
+      "country_name_cs": "Peru",
+      "emoji_flag": "🇵🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PN",
+      "iso_3166_1_alpha_3": "PCN",
+      "country_name_cs": "Pitcairnovy ostrovy",
+      "emoji_flag": "🇵🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "CI",
+      "iso_3166_1_alpha_3": "CIV",
+      "country_name_cs": "Pobřeží slonoviny",
+      "emoji_flag": "🇨🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "PL",
+      "iso_3166_1_alpha_3": "POL",
+      "country_name_cs": "Polsko",
+      "emoji_flag": "🇵🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "PR",
+      "iso_3166_1_alpha_3": "PRI",
+      "country_name_cs": "Portoriko",
+      "emoji_flag": "🇵🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "PT",
+      "iso_3166_1_alpha_3": "PRT",
+      "country_name_cs": "Portugalsko",
+      "emoji_flag": "🇵🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "PK",
+      "iso_3166_1_alpha_3": "PAK",
+      "country_name_cs": "Pákistán",
+      "emoji_flag": "🇵🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "AT",
+      "iso_3166_1_alpha_3": "AUT",
+      "country_name_cs": "Rakousko",
+      "emoji_flag": "🇦🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "CG",
+      "iso_3166_1_alpha_3": "COG",
+      "country_name_cs": "Republika Kongo",
+      "emoji_flag": "🇨🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "GQ",
+      "iso_3166_1_alpha_3": "GNQ",
+      "country_name_cs": "Rovníková Guinea",
+      "emoji_flag": "🇬🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "RO",
+      "iso_3166_1_alpha_3": "ROU",
+      "country_name_cs": "Rumunsko",
+      "emoji_flag": "🇷🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "RU",
+      "iso_3166_1_alpha_3": "RUS",
+      "country_name_cs": "Rusko",
+      "emoji_flag": "🇷🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "RW",
+      "iso_3166_1_alpha_3": "RWA",
+      "country_name_cs": "Rwanda",
+      "emoji_flag": "🇷🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "RE",
+      "iso_3166_1_alpha_3": "REU",
+      "country_name_cs": "Réunion",
+      "emoji_flag": "🇷🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PM",
+      "iso_3166_1_alpha_3": "SPM",
+      "country_name_cs": "Saint-Pierre a Miquelon",
+      "emoji_flag": "🇵🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "SV",
+      "iso_3166_1_alpha_3": "SLV",
+      "country_name_cs": "Salvador",
+      "emoji_flag": "🇸🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "WS",
+      "iso_3166_1_alpha_3": "WSM",
+      "country_name_cs": "Samoa",
+      "emoji_flag": "🇼🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "SM",
+      "iso_3166_1_alpha_3": "SMR",
+      "country_name_cs": "San Marino",
+      "emoji_flag": "🇸🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "SA",
+      "iso_3166_1_alpha_3": "SAU",
+      "country_name_cs": "Saúdská Arábie",
+      "emoji_flag": "🇸🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "SN",
+      "iso_3166_1_alpha_3": "SEN",
+      "country_name_cs": "Senegal",
+      "emoji_flag": "🇸🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "KP",
+      "iso_3166_1_alpha_3": "PRK",
+      "country_name_cs": "Severní Korea",
+      "emoji_flag": "🇰🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "MK",
+      "iso_3166_1_alpha_3": "MKD",
+      "country_name_cs": "Severní Makedonie",
+      "emoji_flag": "🇲🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "MP",
+      "iso_3166_1_alpha_3": "MNP",
+      "country_name_cs": "Severní Mariany",
+      "emoji_flag": "🇲🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "SC",
+      "iso_3166_1_alpha_3": "SYC",
+      "country_name_cs": "Seychely",
+      "emoji_flag": "🇸🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "SL",
+      "iso_3166_1_alpha_3": "SLE",
+      "country_name_cs": "Sierra Leone",
+      "emoji_flag": "🇸🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "SG",
+      "iso_3166_1_alpha_3": "SGP",
+      "country_name_cs": "Singapur",
+      "emoji_flag": "🇸🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "SK",
+      "iso_3166_1_alpha_3": "SVK",
+      "country_name_cs": "Slovensko",
+      "emoji_flag": "🇸🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "SI",
+      "iso_3166_1_alpha_3": "SVN",
+      "country_name_cs": "Slovinsko",
+      "emoji_flag": "🇸🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "SO",
+      "iso_3166_1_alpha_3": "SOM",
+      "country_name_cs": "Somálsko",
+      "emoji_flag": "🇸🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "AE",
+      "iso_3166_1_alpha_3": "ARE",
+      "country_name_cs": "Spojené arabské emiráty",
+      "emoji_flag": "🇦🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "GB",
+      "iso_3166_1_alpha_3": "GBR",
+      "country_name_cs": "Spojené království",
+      "emoji_flag": "🇬🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "US",
+      "iso_3166_1_alpha_3": "USA",
+      "country_name_cs": "Spojené státy americké",
+      "emoji_flag": "🇺🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "RS",
+      "iso_3166_1_alpha_3": "SRB",
+      "country_name_cs": "Srbsko",
+      "emoji_flag": "🇷🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "PS",
+      "iso_3166_1_alpha_3": "PSE",
+      "country_name_cs": "Stát Palestina",
+      "emoji_flag": "🇵🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "CF",
+      "iso_3166_1_alpha_3": "CAF",
+      "country_name_cs": "Středoafrická republika",
+      "emoji_flag": "🇨🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "SR",
+      "iso_3166_1_alpha_3": "SUR",
+      "country_name_cs": "Surinam",
+      "emoji_flag": "🇸🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "SH",
+      "iso_3166_1_alpha_3": "SHN",
+      "country_name_cs": "Svatá Helena, Ascension a Tristan da Cunha",
+      "emoji_flag": "🇸🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "LC",
+      "iso_3166_1_alpha_3": "LCA",
+      "country_name_cs": "Svatá Lucie",
+      "emoji_flag": "🇱🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "BL",
+      "iso_3166_1_alpha_3": "BLM",
+      "country_name_cs": "Svatý Bartoloměj",
+      "emoji_flag": "🇧🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "KN",
+      "iso_3166_1_alpha_3": "KNA",
+      "country_name_cs": "Svatý Kryštof a Nevis",
+      "emoji_flag": "🇰🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "MF",
+      "iso_3166_1_alpha_3": "MAF",
+      "country_name_cs": "Svatý Martin (francouzská část)",
+      "emoji_flag": "🇲🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "SX",
+      "iso_3166_1_alpha_3": "SXM",
+      "country_name_cs": "Svatý Martin (nizozemská část)",
+      "emoji_flag": "🇸🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "ST",
+      "iso_3166_1_alpha_3": "STP",
+      "country_name_cs": "Svatý Tomáš a Princův ostrov",
+      "emoji_flag": "🇸🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "VC",
+      "iso_3166_1_alpha_3": "VCT",
+      "country_name_cs": "Svatý Vincenc a Grenadiny",
+      "emoji_flag": "🇻🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "SD",
+      "iso_3166_1_alpha_3": "SDN",
+      "country_name_cs": "Súdán",
+      "emoji_flag": "🇸🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "SY",
+      "iso_3166_1_alpha_3": "SYR",
+      "country_name_cs": "Sýrie",
+      "emoji_flag": "🇸🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "TZ",
+      "iso_3166_1_alpha_3": "TZA",
+      "country_name_cs": "Tanzanie",
+      "emoji_flag": "🇹🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "TW",
+      "iso_3166_1_alpha_3": "TWN",
+      "country_name_cs": "Tchaj-wan",
+      "emoji_flag": "🇹🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "TH",
+      "iso_3166_1_alpha_3": "THA",
+      "country_name_cs": "Thajsko",
+      "emoji_flag": "🇹🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "TG",
+      "iso_3166_1_alpha_3": "TGO",
+      "country_name_cs": "Togo",
+      "emoji_flag": "🇹🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "TK",
+      "iso_3166_1_alpha_3": "TKL",
+      "country_name_cs": "Tokelau",
+      "emoji_flag": "🇹🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "TO",
+      "iso_3166_1_alpha_3": "TON",
+      "country_name_cs": "Tonga",
+      "emoji_flag": "🇹🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "TT",
+      "iso_3166_1_alpha_3": "TTO",
+      "country_name_cs": "Trinidad a Tobago",
+      "emoji_flag": "🇹🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "TA",
+      "iso_3166_1_alpha_3": "TAA",
+      "country_name_cs": "Tristan da Cunha",
+      "emoji_flag": "🇹🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "TN",
+      "iso_3166_1_alpha_3": "TUN",
+      "country_name_cs": "Tunisko",
+      "emoji_flag": "🇹🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "TR",
+      "iso_3166_1_alpha_3": "TUR",
+      "country_name_cs": "Turecko",
+      "emoji_flag": "🇹🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "TM",
+      "iso_3166_1_alpha_3": "TKM",
+      "country_name_cs": "Turkmenistán",
+      "emoji_flag": "🇹🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "TC",
+      "iso_3166_1_alpha_3": "TCA",
+      "country_name_cs": "Turks a Caicos",
+      "emoji_flag": "🇹🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "TV",
+      "iso_3166_1_alpha_3": "TUV",
+      "country_name_cs": "Tuvalu",
+      "emoji_flag": "🇹🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "TJ",
+      "iso_3166_1_alpha_3": "TJK",
+      "country_name_cs": "Tádžikistán",
+      "emoji_flag": "🇹🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "UG",
+      "iso_3166_1_alpha_3": "UGA",
+      "country_name_cs": "Uganda",
+      "emoji_flag": "🇺🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "UA",
+      "iso_3166_1_alpha_3": "UKR",
+      "country_name_cs": "Ukrajina",
+      "emoji_flag": "🇺🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "UY",
+      "iso_3166_1_alpha_3": "URY",
+      "country_name_cs": "Uruguay",
+      "emoji_flag": "🇺🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "UZ",
+      "iso_3166_1_alpha_3": "UZB",
+      "country_name_cs": "Uzbekistán",
+      "emoji_flag": "🇺🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "VU",
+      "iso_3166_1_alpha_3": "VUT",
+      "country_name_cs": "Vanuatu",
+      "emoji_flag": "🇻🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "VA",
+      "iso_3166_1_alpha_3": "VAT",
+      "country_name_cs": "Vatikán",
+      "emoji_flag": "🇻🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "VE",
+      "iso_3166_1_alpha_3": "VEN",
+      "country_name_cs": "Venezuela",
+      "emoji_flag": "🇻🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "VN",
+      "iso_3166_1_alpha_3": "VNM",
+      "country_name_cs": "Vietnam",
+      "emoji_flag": "🇻🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "CX",
+      "iso_3166_1_alpha_3": "CXR",
+      "country_name_cs": "Vánoční ostrov",
+      "emoji_flag": "🇨🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "TL",
+      "iso_3166_1_alpha_3": "TLS",
+      "country_name_cs": "Východní Timor",
+      "emoji_flag": "🇹🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "WF",
+      "iso_3166_1_alpha_3": "WLF",
+      "country_name_cs": "Wallis a Futuna",
+      "emoji_flag": "🇼🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZM",
+      "iso_3166_1_alpha_3": "ZMB",
+      "country_name_cs": "Zambie",
+      "emoji_flag": "🇿🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZW",
+      "iso_3166_1_alpha_3": "ZWE",
+      "country_name_cs": "Zimbabwe",
+      "emoji_flag": "🇿🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "EH",
+      "iso_3166_1_alpha_3": "ESH",
+      "country_name_cs": "Západní Sahara",
+      "emoji_flag": "🇪🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "AZ",
+      "iso_3166_1_alpha_3": "AZE",
+      "country_name_cs": "Ázerbájdžán",
+      "emoji_flag": "🇦🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "AX",
+      "iso_3166_1_alpha_3": "ALA",
+      "country_name_cs": "Ålandy",
+      "emoji_flag": "🇦🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "IR",
+      "iso_3166_1_alpha_3": "IRN",
+      "country_name_cs": "Írán",
+      "emoji_flag": "🇮🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "TD",
+      "iso_3166_1_alpha_3": "TCD",
+      "country_name_cs": "Čad",
+      "emoji_flag": "🇹🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "ME",
+      "iso_3166_1_alpha_3": "MNE",
+      "country_name_cs": "Černá Hora",
+      "emoji_flag": "🇲🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "CZ",
+      "iso_3166_1_alpha_3": "CZE",
+      "country_name_cs": "Česko",
+      "emoji_flag": "🇨🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "CN",
+      "iso_3166_1_alpha_3": "CHN",
+      "country_name_cs": "Čína",
+      "emoji_flag": "🇨🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "GR",
+      "iso_3166_1_alpha_3": "GRC",
+      "country_name_cs": "Řecko",
+      "emoji_flag": "🇬🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "SB",
+      "iso_3166_1_alpha_3": "SLB",
+      "country_name_cs": "Šalomounovy ostrovy",
+      "emoji_flag": "🇸🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "ES",
+      "iso_3166_1_alpha_3": "ESP",
+      "country_name_cs": "Španělsko",
+      "emoji_flag": "🇪🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "SJ",
+      "iso_3166_1_alpha_3": "SJM",
+      "country_name_cs": "Špicberky a Jan Mayen",
+      "emoji_flag": "🇸🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "LK",
+      "iso_3166_1_alpha_3": "LKA",
+      "country_name_cs": "Šrí Lanka",
+      "emoji_flag": "🇱🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "SE",
+      "iso_3166_1_alpha_3": "SWE",
+      "country_name_cs": "Švédsko",
+      "emoji_flag": "🇸🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "CH",
+      "iso_3166_1_alpha_3": "CHE",
+      "country_name_cs": "Švýcarsko",
+      "emoji_flag": "🇨🇭"
+    }
+  ],
+  "meta": {
+    "title": "Emoji vlajky zemí - Stáhnout zdarma",
+    "description": "Emoji vlajky všech 252 zemí a území podle Unicode regional-indicator-letter sekvencí. Obsahuje 252 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Emoji vlajky zemí | ListBase",
+    "seo_description": "Stáhnout Emoji vlajky zemí — 252 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 252 záznamů / 4 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

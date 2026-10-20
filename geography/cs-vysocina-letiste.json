@@ -1,0 +1,203 @@
+{
+  "id": "cs-vysocina-letiste",
+  "name": "Letiště — Kraj Vysočina",
+  "title": "Letiště — Kraj Vysočina",
+  "description": "Seznam letišť v kraji „Kraj Vysočina\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Vysočina region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKCT",
+      "iata": "",
+      "name": "Chotebor Airport",
+      "name_slug": "chotebor-airport",
+      "city": "Chotebor",
+      "kraj": "Kraj Vysočina",
+      "kraj_source": "Vysocina",
+      "kraj_slug": "vysocina",
+      "kraj_en": "Vysočina",
+      "country": "CZ",
+      "elevation_ft": 1949,
+      "lat": 49.685798645,
+      "lon": 15.6760997772,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHB",
+      "iata": "",
+      "name": "Havlickuv Brod Airport",
+      "name_slug": "havlickuv-brod-airport",
+      "city": "Havlickuv Brod",
+      "kraj": "Kraj Vysočina",
+      "kraj_source": "Vysocina",
+      "kraj_slug": "vysocina",
+      "kraj_en": "Vysočina",
+      "country": "CZ",
+      "elevation_ft": 1519,
+      "lat": 49.5971984863,
+      "lon": 15.549200058,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKJI",
+      "iata": "",
+      "name": "Jihlava Airport",
+      "name_slug": "jihlava-airport",
+      "city": "Jihlava",
+      "kraj": "Kraj Vysočina",
+      "kraj_source": "Vysocina",
+      "kraj_slug": "vysocina",
+      "kraj_en": "Vysočina",
+      "country": "CZ",
+      "elevation_ft": 1821,
+      "lat": 49.4193992615,
+      "lon": 15.6352996826,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKA",
+      "iata": "",
+      "name": "Krizanov Airport",
+      "name_slug": "krizanov-airport",
+      "city": "Krizanov",
+      "kraj": "Kraj Vysočina",
+      "kraj_source": "Vysocina",
+      "kraj_slug": "vysocina",
+      "kraj_en": "Vysočina",
+      "country": "CZ",
+      "elevation_ft": 1831,
+      "lat": 49.3683013916,
+      "lon": 16.1161003113,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKNA",
+      "iata": "",
+      "name": "Namest Air Base",
+      "name_slug": "namest-air-base",
+      "city": "Namest",
+      "kraj": "Kraj Vysočina",
+      "kraj_source": "Vysocina",
+      "kraj_slug": "vysocina",
+      "kraj_en": "Vysočina",
+      "country": "CZ",
+      "elevation_ft": 1548,
+      "lat": 49.1657981873,
+      "lon": 16.1249008179,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPI",
+      "iata": "",
+      "name": "Pribyslav Airport",
+      "name_slug": "pribyslav-airport",
+      "city": "Pribyslav",
+      "kraj": "Kraj Vysočina",
+      "kraj_source": "Vysocina",
+      "kraj_slug": "vysocina",
+      "kraj_en": "Vysočina",
+      "country": "CZ",
+      "elevation_ft": 1739,
+      "lat": 49.5807991028,
+      "lon": 15.7628002167,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Kraj Vysočina - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Kraj Vysočina\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Vysočina region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 6 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Kraj Vysočina | ListBase",
+    "seo_description": "Stáhnout Letiště — Kraj Vysočina — 6 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 6 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

@@ -1,0 +1,907 @@
+{
+  "id": "cs-ceska-fotbalova-reprezentace-bilance-se-souperi",
+  "name": "Česká fotbalová reprezentace — bilance se soupeři (76)",
+  "title": "Česká fotbalová reprezentace — bilance se soupeři (76)",
+  "description": "Česká fotbalová reprezentace: Souhrnná bilance proti každému soupeři, vypočtená ze všech zápasů v results.csv: zápasy, výhry, remízy, prohry, vstřelené a obdržené góly, první a poslední vzájemný zápas. Výsledek podle konečného skóre (bez rozstřelu). Seřazeno podle počtu zápasů.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "souper",
+      "label": "Souper",
+      "type": "string"
+    },
+    {
+      "key": "zapasy",
+      "label": "Zapasy",
+      "type": "number"
+    },
+    {
+      "key": "vyhry",
+      "label": "Vyhry",
+      "type": "number"
+    },
+    {
+      "key": "remizy",
+      "label": "Remizy",
+      "type": "number"
+    },
+    {
+      "key": "prohry",
+      "label": "Prohry",
+      "type": "number"
+    },
+    {
+      "key": "goly_vstrelene",
+      "label": "Goly Vstrelene",
+      "type": "number"
+    },
+    {
+      "key": "goly_obdrzene",
+      "label": "Goly Obdrzene",
+      "type": "number"
+    },
+    {
+      "key": "prvni_zapas",
+      "label": "Prvni Zapas",
+      "type": "date"
+    },
+    {
+      "key": "posledni_zapas",
+      "label": "Posledni Zapas",
+      "type": "date"
+    }
+  ],
+  "rows": [
+    {
+      "souper": "Slovakia",
+      "zapasy": 14,
+      "vyhry": 9,
+      "remizy": 2,
+      "prohry": 3,
+      "goly_vstrelene": 29,
+      "goly_obdrzene": 12,
+      "prvni_zapas": "1995-05-08",
+      "posledni_zapas": "2020-11-18"
+    },
+    {
+      "souper": "Denmark",
+      "zapasy": 13,
+      "vyhry": 3,
+      "remizy": 7,
+      "prohry": 3,
+      "goly_vstrelene": 13,
+      "goly_obdrzene": 12,
+      "prvni_zapas": "1998-08-19",
+      "posledni_zapas": "2026-03-31"
+    },
+    {
+      "souper": "Netherlands",
+      "zapasy": 12,
+      "vyhry": 6,
+      "remizy": 3,
+      "prohry": 3,
+      "goly_vstrelene": 18,
+      "goly_obdrzene": 14,
+      "prvni_zapas": "1994-11-16",
+      "posledni_zapas": "2021-06-27"
+    },
+    {
+      "souper": "Turkey",
+      "zapasy": 12,
+      "vyhry": 5,
+      "remizy": 1,
+      "prohry": 6,
+      "goly_vstrelene": 22,
+      "goly_obdrzene": 17,
+      "prvni_zapas": "1994-02-23",
+      "posledni_zapas": "2024-06-26"
+    },
+    {
+      "souper": "Malta",
+      "zapasy": 11,
+      "vyhry": 9,
+      "remizy": 2,
+      "prohry": 0,
+      "goly_vstrelene": 37,
+      "goly_obdrzene": 6,
+      "prvni_zapas": "1994-09-06",
+      "posledni_zapas": "2024-06-07"
+    },
+    {
+      "souper": "Poland",
+      "zapasy": 10,
+      "vyhry": 5,
+      "remizy": 1,
+      "prohry": 4,
+      "goly_vstrelene": 13,
+      "goly_obdrzene": 12,
+      "prvni_zapas": "1997-03-12",
+      "posledni_zapas": "2023-11-17"
+    },
+    {
+      "souper": "Scotland",
+      "zapasy": 10,
+      "vyhry": 5,
+      "remizy": 1,
+      "prohry": 4,
+      "goly_vstrelene": 14,
+      "goly_obdrzene": 11,
+      "prvni_zapas": "1999-03-31",
+      "posledni_zapas": "2021-06-14"
+    },
+    {
+      "souper": "Belgium",
+      "zapasy": 9,
+      "vyhry": 3,
+      "remizy": 2,
+      "prohry": 4,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 10,
+      "prvni_zapas": "1999-02-09",
+      "posledni_zapas": "2021-09-05"
+    },
+    {
+      "souper": "Faroe Islands",
+      "zapasy": 9,
+      "vyhry": 8,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 19,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "1997-08-20",
+      "posledni_zapas": "2025-10-12"
+    },
+    {
+      "souper": "Germany",
+      "zapasy": 9,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 7,
+      "goly_vstrelene": 10,
+      "goly_obdrzene": 16,
+      "prvni_zapas": "1996-06-09",
+      "posledni_zapas": "2020-11-11"
+    },
+    {
+      "souper": "Norway",
+      "zapasy": 9,
+      "vyhry": 5,
+      "remizy": 3,
+      "prohry": 1,
+      "goly_vstrelene": 12,
+      "goly_obdrzene": 9,
+      "prvni_zapas": "1995-08-16",
+      "posledni_zapas": "2024-03-22"
+    },
+    {
+      "souper": "Republic of Ireland",
+      "zapasy": 9,
+      "vyhry": 4,
+      "remizy": 3,
+      "prohry": 2,
+      "goly_vstrelene": 15,
+      "goly_obdrzene": 11,
+      "prvni_zapas": "1994-06-05",
+      "posledni_zapas": "2026-03-26"
+    },
+    {
+      "souper": "Bulgaria",
+      "zapasy": 7,
+      "vyhry": 5,
+      "remizy": 1,
+      "prohry": 1,
+      "goly_vstrelene": 13,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "2000-09-02",
+      "posledni_zapas": "2019-11-17"
+    },
+    {
+      "souper": "Italy",
+      "zapasy": 7,
+      "vyhry": 2,
+      "remizy": 2,
+      "prohry": 3,
+      "goly_vstrelene": 6,
+      "goly_obdrzene": 11,
+      "prvni_zapas": "1996-06-14",
+      "posledni_zapas": "2021-06-04"
+    },
+    {
+      "souper": "Lithuania",
+      "zapasy": 7,
+      "vyhry": 6,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 20,
+      "goly_obdrzene": 5,
+      "prvni_zapas": "1994-05-25",
+      "posledni_zapas": "2017-03-22"
+    },
+    {
+      "souper": "Montenegro",
+      "zapasy": 7,
+      "vyhry": 7,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 17,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "2011-11-11",
+      "posledni_zapas": "2025-09-05"
+    },
+    {
+      "souper": "Northern Ireland",
+      "zapasy": 7,
+      "vyhry": 2,
+      "remizy": 3,
+      "prohry": 2,
+      "goly_vstrelene": 6,
+      "goly_obdrzene": 6,
+      "prvni_zapas": "2001-03-24",
+      "posledni_zapas": "2019-10-14"
+    },
+    {
+      "souper": "San Marino",
+      "zapasy": 7,
+      "vyhry": 7,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 32,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2006-10-07",
+      "posledni_zapas": "2025-11-13"
+    },
+    {
+      "souper": "Spain",
+      "zapasy": 7,
+      "vyhry": 0,
+      "remizy": 2,
+      "prohry": 5,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 10,
+      "prvni_zapas": "1996-10-09",
+      "posledni_zapas": "2022-06-12"
+    },
+    {
+      "souper": "Ukraine",
+      "zapasy": 7,
+      "vyhry": 2,
+      "remizy": 3,
+      "prohry": 2,
+      "goly_vstrelene": 10,
+      "goly_obdrzene": 7,
+      "prvni_zapas": "2011-09-06",
+      "posledni_zapas": "2024-10-14"
+    },
+    {
+      "souper": "Armenia",
+      "zapasy": 6,
+      "vyhry": 5,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 16,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "2004-10-13",
+      "posledni_zapas": "2024-03-26"
+    },
+    {
+      "souper": "Belarus",
+      "zapasy": 6,
+      "vyhry": 6,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 14,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "1995-03-29",
+      "posledni_zapas": "2021-10-11"
+    },
+    {
+      "souper": "Croatia",
+      "zapasy": 6,
+      "vyhry": 0,
+      "remizy": 4,
+      "prohry": 2,
+      "goly_vstrelene": 7,
+      "goly_obdrzene": 13,
+      "prvni_zapas": "1996-12-12",
+      "posledni_zapas": "2025-10-09"
+    },
+    {
+      "souper": "Iceland",
+      "zapasy": 6,
+      "vyhry": 4,
+      "remizy": 0,
+      "prohry": 2,
+      "goly_vstrelene": 12,
+      "goly_obdrzene": 8,
+      "prvni_zapas": "1996-09-04",
+      "posledni_zapas": "2017-11-08"
+    },
+    {
+      "souper": "Portugal",
+      "zapasy": 6,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 5,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 12,
+      "prvni_zapas": "1996-06-23",
+      "posledni_zapas": "2024-06-18"
+    },
+    {
+      "souper": "Switzerland",
+      "zapasy": 6,
+      "vyhry": 4,
+      "remizy": 0,
+      "prohry": 2,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 7,
+      "prvni_zapas": "1994-04-20",
+      "posledni_zapas": "2022-09-27"
+    },
+    {
+      "souper": "Wales",
+      "zapasy": 6,
+      "vyhry": 1,
+      "remizy": 4,
+      "prohry": 1,
+      "goly_vstrelene": 5,
+      "goly_obdrzene": 5,
+      "prvni_zapas": "2002-03-27",
+      "posledni_zapas": "2022-03-29"
+    },
+    {
+      "souper": "Albania",
+      "zapasy": 5,
+      "vyhry": 2,
+      "remizy": 2,
+      "prohry": 1,
+      "goly_vstrelene": 6,
+      "goly_obdrzene": 5,
+      "prvni_zapas": "2021-06-08",
+      "posledni_zapas": "2024-11-16"
+    },
+    {
+      "souper": "Austria",
+      "zapasy": 5,
+      "vyhry": 2,
+      "remizy": 1,
+      "prohry": 2,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 6,
+      "prvni_zapas": "1996-05-29",
+      "posledni_zapas": "2014-06-03"
+    },
+    {
+      "souper": "England",
+      "zapasy": 5,
+      "vyhry": 1,
+      "remizy": 1,
+      "prohry": 3,
+      "goly_vstrelene": 4,
+      "goly_obdrzene": 11,
+      "prvni_zapas": "1998-11-18",
+      "posledni_zapas": "2021-06-22"
+    },
+    {
+      "souper": "Estonia",
+      "zapasy": 5,
+      "vyhry": 5,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 16,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "1998-10-14",
+      "posledni_zapas": "2021-11-16"
+    },
+    {
+      "souper": "Finland",
+      "zapasy": 5,
+      "vyhry": 3,
+      "remizy": 1,
+      "prohry": 1,
+      "goly_vstrelene": 13,
+      "goly_obdrzene": 7,
+      "prvni_zapas": "1995-03-08",
+      "posledni_zapas": "2014-05-21"
+    },
+    {
+      "souper": "Serbia",
+      "zapasy": 5,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 3,
+      "goly_vstrelene": 11,
+      "goly_obdrzene": 7,
+      "prvni_zapas": "1996-11-10",
+      "posledni_zapas": "2015-11-13"
+    },
+    {
+      "souper": "Slovenia",
+      "zapasy": 5,
+      "vyhry": 3,
+      "remizy": 1,
+      "prohry": 1,
+      "goly_vstrelene": 7,
+      "goly_obdrzene": 2,
+      "prvni_zapas": "1998-04-22",
+      "posledni_zapas": "2009-03-28"
+    },
+    {
+      "souper": "Cyprus",
+      "zapasy": 4,
+      "vyhry": 4,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "2002-02-13",
+      "posledni_zapas": "2020-10-07"
+    },
+    {
+      "souper": "France",
+      "zapasy": 4,
+      "vyhry": 1,
+      "remizy": 2,
+      "prohry": 1,
+      "goly_vstrelene": 5,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "1994-08-17",
+      "posledni_zapas": "2003-02-12"
+    },
+    {
+      "souper": "Greece",
+      "zapasy": 4,
+      "vyhry": 1,
+      "remizy": 2,
+      "prohry": 1,
+      "goly_vstrelene": 2,
+      "goly_obdrzene": 2,
+      "prvni_zapas": "2002-04-17",
+      "posledni_zapas": "2012-06-12"
+    },
+    {
+      "souper": "Hungary",
+      "zapasy": 4,
+      "vyhry": 1,
+      "remizy": 2,
+      "prohry": 1,
+      "goly_vstrelene": 5,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "2002-02-12",
+      "posledni_zapas": "2023-09-10"
+    },
+    {
+      "souper": "Israel",
+      "zapasy": 4,
+      "vyhry": 4,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "2000-04-26",
+      "posledni_zapas": "2020-11-15"
+    },
+    {
+      "souper": "Latvia",
+      "zapasy": 4,
+      "vyhry": 3,
+      "remizy": 1,
+      "prohry": 0,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "2004-06-15",
+      "posledni_zapas": "2015-09-06"
+    },
+    {
+      "souper": "Moldova",
+      "zapasy": 4,
+      "vyhry": 3,
+      "remizy": 1,
+      "prohry": 0,
+      "goly_vstrelene": 10,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2002-10-12",
+      "posledni_zapas": "2023-11-20"
+    },
+    {
+      "souper": "North Macedonia",
+      "zapasy": 4,
+      "vyhry": 3,
+      "remizy": 1,
+      "prohry": 0,
+      "goly_vstrelene": 11,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "2001-02-28",
+      "posledni_zapas": "2024-06-10"
+    },
+    {
+      "souper": "Russia",
+      "zapasy": 4,
+      "vyhry": 1,
+      "remizy": 1,
+      "prohry": 2,
+      "goly_vstrelene": 7,
+      "goly_obdrzene": 13,
+      "prvni_zapas": "1996-06-19",
+      "posledni_zapas": "2018-09-10"
+    },
+    {
+      "souper": "South Korea",
+      "zapasy": 4,
+      "vyhry": 1,
+      "remizy": 1,
+      "prohry": 2,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 6,
+      "prvni_zapas": "1998-05-27",
+      "posledni_zapas": "2026-06-11"
+    },
+    {
+      "souper": "Sweden",
+      "zapasy": 4,
+      "vyhry": 0,
+      "remizy": 2,
+      "prohry": 2,
+      "goly_vstrelene": 5,
+      "goly_obdrzene": 7,
+      "prvni_zapas": "2002-11-20",
+      "posledni_zapas": "2022-03-24"
+    },
+    {
+      "souper": "Azerbaijan",
+      "zapasy": 3,
+      "vyhry": 1,
+      "remizy": 1,
+      "prohry": 1,
+      "goly_vstrelene": 2,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "2009-11-18",
+      "posledni_zapas": "2017-10-05"
+    },
+    {
+      "souper": "Georgia",
+      "zapasy": 3,
+      "vyhry": 1,
+      "remizy": 1,
+      "prohry": 1,
+      "goly_vstrelene": 4,
+      "goly_obdrzene": 6,
+      "prvni_zapas": "2024-06-22",
+      "posledni_zapas": "2024-11-19"
+    },
+    {
+      "souper": "Japan",
+      "zapasy": 3,
+      "vyhry": 0,
+      "remizy": 2,
+      "prohry": 1,
+      "goly_vstrelene": 0,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "1998-05-24",
+      "posledni_zapas": "2011-06-07"
+    },
+    {
+      "souper": "Kosovo",
+      "zapasy": 3,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 5,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "2019-09-07",
+      "posledni_zapas": "2026-05-31"
+    },
+    {
+      "souper": "United States",
+      "zapasy": 3,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 7,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "2006-06-12",
+      "posledni_zapas": "2014-09-03"
+    },
+    {
+      "souper": "Uruguay",
+      "zapasy": 3,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 2,
+      "goly_vstrelene": 2,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "1997-12-15",
+      "posledni_zapas": "2018-03-23"
+    },
+    {
+      "souper": "Andorra",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 12,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "2005-03-30",
+      "posledni_zapas": "2005-06-04"
+    },
+    {
+      "souper": "Australia",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 5,
+      "prvni_zapas": "2000-03-29",
+      "posledni_zapas": "2018-06-01"
+    },
+    {
+      "souper": "Bosnia and Herzegovina",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 6,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "1998-10-10",
+      "posledni_zapas": "1999-09-08"
+    },
+    {
+      "souper": "Brazil",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 0,
+      "prohry": 2,
+      "goly_vstrelene": 1,
+      "goly_obdrzene": 5,
+      "prvni_zapas": "1997-12-19",
+      "posledni_zapas": "2019-03-26"
+    },
+    {
+      "souper": "Canada",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 7,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "2003-11-15",
+      "posledni_zapas": "2013-11-15"
+    },
+    {
+      "souper": "Gibraltar",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 10,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2025-03-25",
+      "posledni_zapas": "2025-11-17"
+    },
+    {
+      "souper": "Kazakhstan",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 6,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "2014-10-13",
+      "posledni_zapas": "2015-09-03"
+    },
+    {
+      "souper": "Kuwait",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 9,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "1995-12-13",
+      "posledni_zapas": "2021-11-11"
+    },
+    {
+      "souper": "Liechtenstein",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 4,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2010-10-12",
+      "posledni_zapas": "2011-03-29"
+    },
+    {
+      "souper": "Luxembourg",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "1995-06-07",
+      "posledni_zapas": "1995-11-15"
+    },
+    {
+      "souper": "Mexico",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 2,
+      "goly_obdrzene": 4,
+      "prvni_zapas": "2000-02-08",
+      "posledni_zapas": "2026-06-24"
+    },
+    {
+      "souper": "Nigeria",
+      "zapasy": 2,
+      "vyhry": 2,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "1996-12-11",
+      "posledni_zapas": "2018-06-06"
+    },
+    {
+      "souper": "Romania",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 1,
+      "goly_obdrzene": 2,
+      "prvni_zapas": "2004-10-09",
+      "posledni_zapas": "2005-09-03"
+    },
+    {
+      "souper": "Saudi Arabia",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 1,
+      "prohry": 0,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "2006-05-26",
+      "posledni_zapas": "2025-09-08"
+    },
+    {
+      "souper": "South Africa",
+      "zapasy": 2,
+      "vyhry": 0,
+      "remizy": 2,
+      "prohry": 0,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 3,
+      "prvni_zapas": "1997-12-13",
+      "posledni_zapas": "2026-06-18"
+    },
+    {
+      "souper": "United Arab Emirates",
+      "zapasy": 2,
+      "vyhry": 1,
+      "remizy": 1,
+      "prohry": 0,
+      "goly_vstrelene": 6,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "1997-12-17",
+      "posledni_zapas": "2009-11-15"
+    },
+    {
+      "souper": "China",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 4,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "2018-03-26",
+      "posledni_zapas": "2018-03-26"
+    },
+    {
+      "souper": "Costa Rica",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 1,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2006-05-30",
+      "posledni_zapas": "2006-05-30"
+    },
+    {
+      "souper": "Ghana",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 0,
+      "prohry": 1,
+      "goly_vstrelene": 0,
+      "goly_obdrzene": 2,
+      "prvni_zapas": "2006-06-17",
+      "posledni_zapas": "2006-06-17"
+    },
+    {
+      "souper": "Guatemala",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 5,
+      "goly_obdrzene": 1,
+      "prvni_zapas": "2026-06-04",
+      "posledni_zapas": "2026-06-04"
+    },
+    {
+      "souper": "Morocco",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prohry": 0,
+      "goly_vstrelene": 0,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2009-02-11",
+      "posledni_zapas": "2009-02-11"
+    },
+    {
+      "souper": "Paraguay",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 1,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "1998-05-21",
+      "posledni_zapas": "1998-05-21"
+    },
+    {
+      "souper": "Peru",
+      "zapasy": 1,
+      "vyhry": 0,
+      "remizy": 1,
+      "prohry": 0,
+      "goly_vstrelene": 0,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2011-06-04",
+      "posledni_zapas": "2011-06-04"
+    },
+    {
+      "souper": "Qatar",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 1,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2017-11-11",
+      "posledni_zapas": "2017-11-11"
+    },
+    {
+      "souper": "Trinidad and Tobago",
+      "zapasy": 1,
+      "vyhry": 1,
+      "remizy": 0,
+      "prohry": 0,
+      "goly_vstrelene": 3,
+      "goly_obdrzene": 0,
+      "prvni_zapas": "2006-06-03",
+      "posledni_zapas": "2006-06-03"
+    }
+  ],
+  "meta": {
+    "title": "Česká fotbalová reprezentace — bilance se soupeři (76) - Stáhnout zdarma",
+    "description": "Česká fotbalová reprezentace: Souhrnná bilance proti každému soupeři, vypočtená ze všech zápasů v results.csv: zápasy, výhry, remízy, prohry, vstřelené a obdržené góly, první a poslední vzájemný zápas. Výsledek podle konečného skóre (bez rozstřelu). Seřazeno podle počtu zápasů. Obsahuje 76 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Česká fotbalová reprezentace — bilance se soupeři (76) | ListBase",
+    "seo_description": "Stáhnout Česká fotbalová reprezentace — bilance se soupeři (76) — 76 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 76 záznamů / 9 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

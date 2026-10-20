@@ -1,0 +1,186 @@
+{
+  "id": "cs-jednotky-pressure",
+  "name": "Měrné jednotky: pressure (12)",
+  "title": "Měrné jednotky: pressure (12)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'pressure'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 164,
+      "unit_code": "pressure-atmosphere",
+      "kategorie": "pressure",
+      "nazev": "atmosféry",
+      "vzor_jednotne": "{0} atmosféra",
+      "vzor_mnozne": "{0} atmosfér",
+      "kratky_vzor": "{0} atm",
+      "uzky_vzor": "{0} atm"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-bar",
+      "kategorie": "pressure",
+      "nazev": "bary",
+      "vzor_jednotne": "{0} bar",
+      "vzor_mnozne": "{0} barů",
+      "kratky_vzor": "{0} bar",
+      "uzky_vzor": "{0} bar"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategorie": "pressure",
+      "nazev": "gas E",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} gas E",
+      "kratky_vzor": "{0} gas E",
+      "uzky_vzor": "{0} gas E"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-hectopascal",
+      "kategorie": "pressure",
+      "nazev": "hektopascaly",
+      "vzor_jednotne": "{0} hektopascal",
+      "vzor_mnozne": "{0} hektopascalů",
+      "kratky_vzor": "{0} hPa",
+      "uzky_vzor": "{0} hPa"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-inch-ofhg",
+      "kategorie": "pressure",
+      "nazev": "palce rtuťového sloupce",
+      "vzor_jednotne": "{0} palec rtuťového sloupce",
+      "vzor_mnozne": "{0} palců rtuťového sloupce",
+      "kratky_vzor": "{0} inHg",
+      "uzky_vzor": "{0}″ Hg"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-kilopascal",
+      "kategorie": "pressure",
+      "nazev": "kilopascaly",
+      "vzor_jednotne": "{0} kilopascal",
+      "vzor_mnozne": "{0} kilopascalů",
+      "kratky_vzor": "{0} kPa",
+      "uzky_vzor": "{0} kPa"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-megapascal",
+      "kategorie": "pressure",
+      "nazev": "megapascaly",
+      "vzor_jednotne": "{0} megapascal",
+      "vzor_mnozne": "{0} megapascalů",
+      "kratky_vzor": "{0} MPa",
+      "uzky_vzor": "{0} MPa"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millibar",
+      "kategorie": "pressure",
+      "nazev": "milibary",
+      "vzor_jednotne": "{0} milibar",
+      "vzor_mnozne": "{0} milibarů",
+      "kratky_vzor": "{0} mb",
+      "uzky_vzor": "{0} mb"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategorie": "pressure",
+      "nazev": "milimetry rtuťového sloupce",
+      "vzor_jednotne": "{0} milimetr rtuťového sloupce",
+      "vzor_mnozne": "{0} milimetrů rtuťového sloupce",
+      "kratky_vzor": "{0} mm Hg",
+      "uzky_vzor": "{0} mmHg"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-ofhg",
+      "kategorie": "pressure",
+      "nazev": "rtuťový sloupec",
+      "vzor_jednotne": "{0} rtuťového sloupce",
+      "vzor_mnozne": "{0} rtuťového sloupce",
+      "kratky_vzor": "{0} Hg",
+      "uzky_vzor": "{0} Hg"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pascal",
+      "kategorie": "pressure",
+      "nazev": "pascaly",
+      "vzor_jednotne": "{0} pascal",
+      "vzor_mnozne": "{0} pascalů",
+      "kratky_vzor": "{0} Pa",
+      "uzky_vzor": "{0} Pa"
+    },
+    {
+      "id": 175,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategorie": "pressure",
+      "nazev": "libry na čtvereční palec",
+      "vzor_jednotne": "{0} libra na čtvereční palec",
+      "vzor_mnozne": "{0} liber na čtvereční palec",
+      "kratky_vzor": "{0} psi",
+      "uzky_vzor": "{0} psi"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: pressure (12) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'pressure'. Obsahuje 12 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: pressure (12) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: pressure (12) — 12 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 12 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

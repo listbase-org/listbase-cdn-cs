@@ -1,0 +1,366 @@
+{
+  "id": "cs-univerzity",
+  "name": "Česko — Univerzity",
+  "title": "Česko — Univerzity",
+  "description": "Seznam akreditovaných univerzit a vysokoškolských institucí v Česku. Každý záznam obsahuje název instituce (latinkou/anglicky), primární doménu, seznam všech evidovaných domén, hlavní webovou stránku, kód země (ISO-3166-1 alpha-2) a region (kde je v upstreamu uveden). Extrahováno filtrací globálního datasetu Hipo/university-domains-list (country == 'Czech Republic').",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Academy of Performing Arts, Film and TV Fakulty",
+      "slug": "academy-performing-arts-film-tv-fakulty",
+      "domain": "famu.cz",
+      "domains": "famu.cz",
+      "web_page": "http://www.famu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Anglo-American University",
+      "slug": "anglo-american",
+      "domain": "aauni.edu",
+      "domains": "aauni.edu",
+      "web_page": "http://www.aauni.edu/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Brno University of Technology",
+      "slug": "brno-technology",
+      "domain": "vutbr.cz",
+      "domains": "vutbr.cz, vut.cz",
+      "web_page": "https://www.vutbr.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Cevro Institut College",
+      "slug": "cevro-institut-college",
+      "domain": "vsci.cz",
+      "domains": "vsci.cz",
+      "web_page": "http://www.vsci.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Charles University Prague",
+      "slug": "charles-prague",
+      "domain": "cuni.cz",
+      "domains": "cuni.cz",
+      "web_page": "http://www.cuni.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Czech Technical University of Prague",
+      "slug": "czech-technical-prague",
+      "domain": "cvut.cz",
+      "domains": "cvut.cz, fa.cvut.cz, fit.cvut.cz",
+      "web_page": "http://www.cvut.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Czech University of Agriculture Prague",
+      "slug": "czech-agriculture-prague",
+      "domain": "czu.cz",
+      "domains": "czu.cz",
+      "web_page": "http://www.czu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Technology and Business (VŠTE)",
+      "slug": "institute-technology-business-v-te",
+      "domain": "vstecb.cz",
+      "domains": "vstecb.cz",
+      "web_page": "https://www.vstecb.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Masaryk University",
+      "slug": "masaryk",
+      "domain": "muni.cz",
+      "domains": "muni.cz",
+      "web_page": "https://www.muni.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Mendel University of Agriculture and Forestry",
+      "slug": "mendel-agriculture-forestry",
+      "domain": "mendelu.cz",
+      "domains": "mendelu.cz",
+      "web_page": "https://www.mendelu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Palacký University Olomouc",
+      "slug": "palack-olomouc",
+      "domain": "upol.cz",
+      "domains": "upol.cz",
+      "web_page": "https://www.upol.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Prague College",
+      "slug": "prague-college",
+      "domain": "praguecollege.cz",
+      "domains": "praguecollege.cz",
+      "web_page": "http://www.praguecollege.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Prague Institute of Chemical Technology",
+      "slug": "prague-institute-chemical-technology",
+      "domain": "vscht.cz",
+      "domains": "vscht.cz",
+      "web_page": "http://www.vscht.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Prague International University",
+      "slug": "prague-international",
+      "domain": "mpu-prague.cz",
+      "domains": "mpu-prague.cz",
+      "web_page": "http://www.mpu-prague.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Silesian University",
+      "slug": "silesian",
+      "domain": "slu.cz",
+      "domains": "slu.cz",
+      "web_page": "http://www.slu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Střední průmyslová škola Mladá Boleslav",
+      "slug": "st-edn-pr-myslov-kola-mlad-boleslav",
+      "domain": "student.spsmb.cz",
+      "domains": "student.spsmb.cz, spsmb.cz",
+      "web_page": "https://spsmb.cz",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Liberec",
+      "slug": "technical-liberec",
+      "domain": "vslib.cz",
+      "domains": "vslib.cz",
+      "web_page": "http://www.vslib.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Mining and Metallurgy Ostrava",
+      "slug": "technical-mining-metallurgy-ostrava",
+      "domain": "vsb.cz",
+      "domains": "vsb.cz",
+      "web_page": "http://www.vsb.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Tiffin University Prague",
+      "slug": "tiffin-prague",
+      "domain": "tiffinprague.cz",
+      "domains": "tiffinprague.cz",
+      "web_page": "http://www.tiffinprague.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "Tomas Bata University in Zlin",
+      "slug": "tomas-bata-zlin",
+      "domain": "utb.cz",
+      "domains": "utb.cz",
+      "web_page": "http://www.utb.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of Economics Prague",
+      "slug": "economics-prague",
+      "domain": "vse.cz",
+      "domains": "vse.cz",
+      "web_page": "http://www.vse.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of Education Hradec Kralove",
+      "slug": "education-hradec-kralove",
+      "domain": "vsp.cz",
+      "domains": "vsp.cz",
+      "web_page": "http://www.vsp.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of Jan Evangelista Purkyne",
+      "slug": "jan-evangelista-purkyne",
+      "domain": "ujep.cz",
+      "domains": "ujep.cz",
+      "web_page": "http://www.ujep.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of New York in Prague",
+      "slug": "new-york-prague",
+      "domain": "unyp.cz",
+      "domains": "unyp.cz",
+      "web_page": "http://www.unyp.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of Northern Virginia, Prague Campus",
+      "slug": "northern-virginia-prague-campus",
+      "domain": "unva.cz",
+      "domains": "unva.cz",
+      "web_page": "http://www.unva.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of Ostrava",
+      "slug": "ostrava",
+      "domain": "osu.cz",
+      "domains": "osu.cz",
+      "web_page": "http://www.osu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of Pardubice",
+      "slug": "pardubice",
+      "domain": "upce.cz",
+      "domains": "upce.cz",
+      "web_page": "http://www.upce.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of South Bohemia",
+      "slug": "south-bohemia",
+      "domain": "jcu.cz",
+      "domains": "jcu.cz",
+      "web_page": "http://www.jcu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of Veterinary and Pharmaceutical Science",
+      "slug": "veterinary-pharmaceutical-science",
+      "domain": "vfu.cz",
+      "domains": "vfu.cz",
+      "web_page": "http://www.vfu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    },
+    {
+      "name": "University of West Bohemia",
+      "slug": "west-bohemia",
+      "domain": "zcu.cz",
+      "domains": "zcu.cz",
+      "web_page": "http://www.zcu.cz/",
+      "country": "Czech Republic",
+      "country_code": "CZ",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Česko — Univerzity - Stáhnout zdarma",
+    "description": "Seznam akreditovaných univerzit a vysokoškolských institucí v Česku. Každý záznam obsahuje název instituce (latinkou/anglicky), primární doménu, seznam všech evidovaných domén, hlavní webovou stránku, kód země (ISO-3166-1 alpha-2) a region (kde je v upstreamu uveden). Extrahováno filtrací globálního datasetu Hipo/university-domains-list (country == 'Czech Republic'). Obsahuje 30 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Česko — Univerzity | ListBase",
+    "seo_description": "Stáhnout Česko — Univerzity — 30 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 30 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

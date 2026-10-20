@@ -1,0 +1,3636 @@
+{
+  "id": "cs-sberna-mista",
+  "name": "Sběrná místa",
+  "title": "Sběrná místa",
+  "description": "Seznam pojmenovaných sběrných míst v České republice (719 záznamů) — body zájmu z OpenStreetMap (tag amenity=recycling), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 719,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Kontejner na papír a sklo",
+      "latitude": 50.993434,
+      "longitude": 14.331339
+    },
+    {
+      "name": "sběrné suroviny",
+      "latitude": 51.007492,
+      "longitude": 14.461047
+    },
+    {
+      "name": "TS Šluknov",
+      "latitude": 51.004055,
+      "longitude": 14.442715
+    },
+    {
+      "name": "Kontejnery na tříděný odpad",
+      "latitude": 50.960657,
+      "longitude": 14.525226
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.88253,
+      "longitude": 14.558791
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.845051,
+      "longitude": 14.295383
+    },
+    {
+      "name": "Silážní jámy",
+      "latitude": 50.839886,
+      "longitude": 14.306318
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.799316,
+      "longitude": 14.40633
+    },
+    {
+      "name": "Sběrné suroviny",
+      "latitude": 50.800163,
+      "longitude": 14.406419
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.774744,
+      "longitude": 14.472275
+    },
+    {
+      "name": "Sběrný dvůr Raspenava",
+      "latitude": 50.900107,
+      "longitude": 15.135577
+    },
+    {
+      "name": "ekocentrum Střevlík",
+      "latitude": 50.84106,
+      "longitude": 15.068925
+    },
+    {
+      "name": ".A.S.A.",
+      "latitude": 50.737868,
+      "longitude": 15.029575
+    },
+    {
+      "name": "Kovošrot",
+      "latitude": 50.759856,
+      "longitude": 15.055945
+    },
+    {
+      "name": "Sběrný dvůr Kraslice",
+      "latitude": 50.33344,
+      "longitude": 12.51715
+    },
+    {
+      "name": "Sběrný dvůr v ul. Jandečkova",
+      "latitude": 50.588785,
+      "longitude": 13.575692
+    },
+    {
+      "name": "Sběrný dvůr Bílina",
+      "latitude": 50.560869,
+      "longitude": 13.783383
+    },
+    {
+      "name": "Sběrný dvůr Malé Žernoseky",
+      "latitude": 50.530126,
+      "longitude": 14.051968
+    },
+    {
+      "name": "Sběrný dvůr Perštejn",
+      "latitude": 50.375387,
+      "longitude": 13.115664
+    },
+    {
+      "name": "Sběrný dvůr Radonice",
+      "latitude": 50.298298,
+      "longitude": 13.280141
+    },
+    {
+      "name": "Sběrný dvůr Most - ul. Zahradní",
+      "latitude": 50.488408,
+      "longitude": 13.641779
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.51321,
+      "longitude": 14.022664
+    },
+    {
+      "name": "Sběrný dvůr Čížkovice",
+      "latitude": 50.484407,
+      "longitude": 14.025252
+    },
+    {
+      "name": "Výkup šrotu",
+      "latitude": 50.408308,
+      "longitude": 14.05572
+    },
+    {
+      "name": "Provozovna Žatec",
+      "latitude": 50.338645,
+      "longitude": 13.551162
+    },
+    {
+      "name": "Sběrný dvůr Lenešice",
+      "latitude": 50.378323,
+      "longitude": 13.760941
+    },
+    {
+      "name": "Sběrný dvůr Louny",
+      "latitude": 50.34722,
+      "longitude": 13.816031
+    },
+    {
+      "name": "Sběrný dvůr Peruc",
+      "latitude": 50.341687,
+      "longitude": 13.970418
+    },
+    {
+      "name": "Papír, plasty, sklo",
+      "latitude": 50.126249,
+      "longitude": 12.340656
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.073724,
+      "longitude": 12.36199
+    },
+    {
+      "name": "Sběrný dvůr CHOTES",
+      "latitude": 50.234216,
+      "longitude": 12.749092
+    },
+    {
+      "name": "SD Růžový vrch",
+      "latitude": 50.23693,
+      "longitude": 12.869333
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.099579,
+      "longitude": 13.482165
+    },
+    {
+      "name": "Sběrný dvůr města Rakovnik",
+      "latitude": 50.107784,
+      "longitude": 13.709673
+    },
+    {
+      "name": "Výkup druhotných surovina Batelka",
+      "latitude": 50.100589,
+      "longitude": 13.72682
+    },
+    {
+      "name": "Sběrný dvůr odpadů Mariánské lázně",
+      "latitude": 49.959634,
+      "longitude": 12.690259
+    },
+    {
+      "name": "Sběrný dvůr Planá",
+      "latitude": 49.871622,
+      "longitude": 12.734215
+    },
+    {
+      "name": "Sběrný dvůr obce Čistá",
+      "latitude": 50.027235,
+      "longitude": 13.569294
+    },
+    {
+      "name": "Sběrné místo pro bioodpad Kaznějov",
+      "latitude": 49.889505,
+      "longitude": 13.391709
+    },
+    {
+      "name": "Sběrný dvůr Kaznějov",
+      "latitude": 49.891788,
+      "longitude": 13.381941
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.850222,
+      "longitude": 13.371965
+    },
+    {
+      "name": "Sběrna kovového šrotu",
+      "latitude": 49.850433,
+      "longitude": 13.768737
+    },
+    {
+      "name": "Skládka Chotětín, sběrný dvůr",
+      "latitude": 49.8525,
+      "longitude": 13.72034
+    },
+    {
+      "name": "Sběrný dvůr Hořovice",
+      "latitude": 49.838267,
+      "longitude": 13.918112
+    },
+    {
+      "name": "Sběrný dvůr Krásné Březno",
+      "latitude": 50.666221,
+      "longitude": 14.067909
+    },
+    {
+      "name": "Sběrný dvůr města Česká Lípa",
+      "latitude": 50.665489,
+      "longitude": 14.538125
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.65262,
+      "longitude": 14.731126
+    },
+    {
+      "name": "Sběrný dvůr Litoměřice",
+      "latitude": 50.542278,
+      "longitude": 14.125817
+    },
+    {
+      "name": "Sběrný dvůr Lovosice",
+      "latitude": 50.517924,
+      "longitude": 14.098015
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.541297,
+      "longitude": 14.534128
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.699756,
+      "longitude": 15.436053
+    },
+    {
+      "name": "Sběrný dvůr Kuřívody",
+      "latitude": 50.585462,
+      "longitude": 14.80026
+    },
+    {
+      "name": "Kovodemont",
+      "latitude": 50.576929,
+      "longitude": 15.07216
+    },
+    {
+      "name": "Sběrné místo",
+      "latitude": 50.576573,
+      "longitude": 15.08208
+    },
+    {
+      "name": "VTOS, s.r.o.",
+      "latitude": 50.520074,
+      "longitude": 14.981487
+    },
+    {
+      "name": "EkoBRKO",
+      "latitude": 50.520778,
+      "longitude": 15.001222
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.520027,
+      "longitude": 14.985535
+    },
+    {
+      "name": "Sběrný dvůr Vesecko",
+      "latitude": 50.603535,
+      "longitude": 15.144979
+    },
+    {
+      "name": "Kompostárna",
+      "latitude": 50.611106,
+      "longitude": 15.144743
+    },
+    {
+      "name": "Sběrný dvůr Lomnice nad Popelkou",
+      "latitude": 50.526327,
+      "longitude": 15.385767
+    },
+    {
+      "name": "Sběrný dvůr Lovosice",
+      "latitude": 50.511727,
+      "longitude": 14.06255
+    },
+    {
+      "name": "Sběrný dvůr Bohušovice nad Ohří",
+      "latitude": 50.495471,
+      "longitude": 14.151722
+    },
+    {
+      "name": "Sběrný dvůr Brozany",
+      "latitude": 50.460025,
+      "longitude": 14.137102
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.458238,
+      "longitude": 14.37605
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.461041,
+      "longitude": 14.352308
+    },
+    {
+      "name": "Sběrný dvůr Krabčice",
+      "latitude": 50.407313,
+      "longitude": 14.299631
+    },
+    {
+      "name": "Sběrný dvůr Roudnice",
+      "latitude": 50.420998,
+      "longitude": 14.285927
+    },
+    {
+      "name": "Sběrný dvůr odpadů Vysoká",
+      "latitude": 50.41308,
+      "longitude": 14.538461
+    },
+    {
+      "name": "Sběrný dvůr Horní Beřkovice",
+      "latitude": 50.359309,
+      "longitude": 14.356577
+    },
+    {
+      "name": "Sběrný dvůr Mělník – Nádražní",
+      "latitude": 50.355647,
+      "longitude": 14.487361
+    },
+    {
+      "name": "Sběrný dvůr Mělník - Karolíny Světlé",
+      "latitude": 50.368681,
+      "longitude": 14.469638
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.496982,
+      "longitude": 14.799566
+    },
+    {
+      "name": "Sběrný dvůr Pod Vápeníkovými",
+      "latitude": 50.483613,
+      "longitude": 14.939924
+    },
+    {
+      "name": "Sběrný dvůr Kněžmost",
+      "latitude": 50.486891,
+      "longitude": 15.041089
+    },
+    {
+      "name": "Mládežnická",
+      "latitude": 50.432644,
+      "longitude": 14.919648
+    },
+    {
+      "name": "Sběrný dvůr Sever",
+      "latitude": 50.434272,
+      "longitude": 14.912335
+    },
+    {
+      "name": "Havlíčkova",
+      "latitude": 50.432496,
+      "longitude": 14.915047
+    },
+    {
+      "name": "Havlíčkova",
+      "latitude": 50.429526,
+      "longitude": 14.912952
+    },
+    {
+      "name": "Viničná",
+      "latitude": 50.41017,
+      "longitude": 14.916738
+    },
+    {
+      "name": "Zalužanská",
+      "latitude": 50.412723,
+      "longitude": 14.929949
+    },
+    {
+      "name": "Václavkova",
+      "latitude": 50.421407,
+      "longitude": 14.905928
+    },
+    {
+      "name": "U Sokolovny",
+      "latitude": 50.416544,
+      "longitude": 14.907483
+    },
+    {
+      "name": "Za Triem",
+      "latitude": 50.428679,
+      "longitude": 14.918278
+    },
+    {
+      "name": "U Smetanovy",
+      "latitude": 50.411678,
+      "longitude": 14.913994
+    },
+    {
+      "name": "Jana Palacha",
+      "latitude": 50.427883,
+      "longitude": 14.919326
+    },
+    {
+      "name": "Na Kolonce",
+      "latitude": 50.418511,
+      "longitude": 14.904007
+    },
+    {
+      "name": "Malá T. G. M",
+      "latitude": 50.413243,
+      "longitude": 14.910134
+    },
+    {
+      "name": "Komenského náměstí",
+      "latitude": 50.412751,
+      "longitude": 14.904087
+    },
+    {
+      "name": "SD Kovo",
+      "latitude": 50.415823,
+      "longitude": 14.924155
+    },
+    {
+      "name": "VTOS",
+      "latitude": 50.410714,
+      "longitude": 14.992672
+    },
+    {
+      "name": "Sběrný dvůr Sobotka",
+      "latitude": 50.467444,
+      "longitude": 15.170858
+    },
+    {
+      "name": "Sběrný dvůr Dolní Bousov",
+      "latitude": 50.439925,
+      "longitude": 15.140708
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.358862,
+      "longitude": 14.962981
+    },
+    {
+      "name": "Výkup železa",
+      "latitude": 50.367847,
+      "longitude": 15.213614
+    },
+    {
+      "name": "Sběrný dvůr Kopidlno",
+      "latitude": 50.336508,
+      "longitude": 15.267815
+    },
+    {
+      "name": "Očistné centrum",
+      "latitude": 50.654305,
+      "longitude": 15.820616
+    },
+    {
+      "name": "kompostárna",
+      "latitude": 50.620764,
+      "longitude": 15.626426
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 50.591723,
+      "longitude": 15.614144
+    },
+    {
+      "name": "Lutoma",
+      "latitude": 50.589956,
+      "longitude": 16.320299
+    },
+    {
+      "name": "Sběrný dvůr města Lázně Bělohrad",
+      "latitude": 50.436201,
+      "longitude": 15.586733
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.415694,
+      "longitude": 15.518407
+    },
+    {
+      "name": "HOFR Metal, s.r.o.",
+      "latitude": 50.425137,
+      "longitude": 15.578153
+    },
+    {
+      "name": "Plasty a sklo",
+      "latitude": 50.481598,
+      "longitude": 16.075537
+    },
+    {
+      "name": "P+P Pavel Plíštil Sběrné suroviny",
+      "latitude": 50.481268,
+      "longitude": 16.086277
+    },
+    {
+      "name": "Kontejnery",
+      "latitude": 50.454997,
+      "longitude": 16.02778
+    },
+    {
+      "name": "Sběrný dvůr Hořice",
+      "latitude": 50.36679,
+      "longitude": 15.624805
+    },
+    {
+      "name": "Sběrné suroviny",
+      "latitude": 50.397873,
+      "longitude": 16.055429
+    },
+    {
+      "name": "ZUŠ Bedřicha Smetany Česká Skalice",
+      "latitude": 50.393725,
+      "longitude": 16.04603
+    },
+    {
+      "name": "Kontejnery na tříděný odpad U Topolů 344",
+      "latitude": 50.396628,
+      "longitude": 16.030684
+    },
+    {
+      "name": "Sběrný dvůr Česká Skalice",
+      "latitude": 50.388524,
+      "longitude": 16.042572
+    },
+    {
+      "name": "Kontejnery Johnova",
+      "latitude": 50.353744,
+      "longitude": 16.154659
+    },
+    {
+      "name": "Sběrný dvůr Nové Město nad Metují",
+      "latitude": 50.355892,
+      "longitude": 16.148564
+    },
+    {
+      "name": "Nad Stadionem",
+      "latitude": 50.357257,
+      "longitude": 16.146053
+    },
+    {
+      "name": "Výkup druhotných surovin",
+      "latitude": 50.290605,
+      "longitude": 16.151241
+    },
+    {
+      "name": "Sběrný dvůr Zlonice",
+      "latitude": 50.286564,
+      "longitude": 14.10086
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.270021,
+      "longitude": 14.121726
+    },
+    {
+      "name": "Sběrné místo Veltrusy",
+      "latitude": 50.267078,
+      "longitude": 14.337043
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.23993,
+      "longitude": 14.319666
+    },
+    {
+      "name": "Sběrné suroviny",
+      "latitude": 50.22475,
+      "longitude": 14.096743
+    },
+    {
+      "name": "Sběrné suroviny",
+      "latitude": 50.223117,
+      "longitude": 14.080339
+    },
+    {
+      "name": "Sběrný dvůr Klecany",
+      "latitude": 50.179612,
+      "longitude": 14.407751
+    },
+    {
+      "name": "Sběrné suroviny Klecany",
+      "latitude": 50.179193,
+      "longitude": 14.407228
+    },
+    {
+      "name": "Sběrné suroviny Zdeněk Bučko",
+      "latitude": 50.276087,
+      "longitude": 14.499889
+    },
+    {
+      "name": "Sběrný dvůr Tišice",
+      "latitude": 50.267521,
+      "longitude": 14.553967
+    },
+    {
+      "name": "Komunitní kompostárna Hlavenec",
+      "latitude": 50.234616,
+      "longitude": 14.696238
+    },
+    {
+      "name": "Kompostárna",
+      "latitude": 50.221766,
+      "longitude": 14.429455
+    },
+    {
+      "name": "Sběrné místo Odolena Voda",
+      "latitude": 50.232201,
+      "longitude": 14.41581
+    },
+    {
+      "name": "Sběrné místo Bašť",
+      "latitude": 50.212966,
+      "longitude": 14.472644
+    },
+    {
+      "name": "Výkupna druhotných surovin",
+      "latitude": 50.222935,
+      "longitude": 14.582679
+    },
+    {
+      "name": "Sběrný dvůr Jahodovka",
+      "latitude": 50.219514,
+      "longitude": 14.585803
+    },
+    {
+      "name": "Sběrný dvůr Borek",
+      "latitude": 50.222521,
+      "longitude": 14.645473
+    },
+    {
+      "name": "Sběrný dvůr Záryby",
+      "latitude": 50.218352,
+      "longitude": 14.618942
+    },
+    {
+      "name": "Výkup druhotných surovin",
+      "latitude": 50.187344,
+      "longitude": 14.647143
+    },
+    {
+      "name": "Sběrný dvůr Brandýs nad Labem - Stará Boleslav",
+      "latitude": 50.17913,
+      "longitude": 14.65871
+    },
+    {
+      "name": "Sběrný dvůr Kladno - Vrapice",
+      "latitude": 50.162884,
+      "longitude": 14.146748
+    },
+    {
+      "name": "Sběrné suroviny",
+      "latitude": 50.163337,
+      "longitude": 14.112656
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.151423,
+      "longitude": 14.177435
+    },
+    {
+      "name": "AVE Kladno - Sběrný dvůr Smečenská",
+      "latitude": 50.141253,
+      "longitude": 14.065694
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.137873,
+      "longitude": 14.380766
+    },
+    {
+      "name": "KlokTex Kontejner na textil",
+      "latitude": 50.105966,
+      "longitude": 14.076659
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.084124,
+      "longitude": 14.135368
+    },
+    {
+      "name": "T.O.P. UMWELT, spol. s r.o.",
+      "latitude": 50.074015,
+      "longitude": 14.221359
+    },
+    {
+      "name": "ECOWOOD Unhošť",
+      "latitude": 50.091427,
+      "longitude": 14.156141
+    },
+    {
+      "name": "Sběrný dvůr Hlavního města Prahy",
+      "latitude": 50.097414,
+      "longitude": 14.374727
+    },
+    {
+      "name": "Sběrné suroviny",
+      "latitude": 50.148843,
+      "longitude": 14.485806
+    },
+    {
+      "name": "Sběrné místo Zdiby",
+      "latitude": 50.167239,
+      "longitude": 14.437326
+    },
+    {
+      "name": "Sběrný dvůr - skládka Ďáblice",
+      "latitude": 50.155421,
+      "longitude": 14.483403
+    },
+    {
+      "name": "Kompostárna Zdiby",
+      "latitude": 50.164551,
+      "longitude": 14.463362
+    },
+    {
+      "name": "Výkup kovů",
+      "latitude": 50.149982,
+      "longitude": 14.511216
+    },
+    {
+      "name": "Výkup palet",
+      "latitude": 50.149942,
+      "longitude": 14.510607
+    },
+    {
+      "name": "KAREL PROBOŠT – Výkup a prodej papíru, železa a barevných kovů",
+      "latitude": 50.135104,
+      "longitude": 14.448307
+    },
+    {
+      "name": "Sběrný dvůr Satalice",
+      "latitude": 50.122769,
+      "longitude": 14.585389
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.160713,
+      "longitude": 14.757613
+    },
+    {
+      "name": "Výkupna druhotných surovin",
+      "latitude": 50.160138,
+      "longitude": 14.739337
+    },
+    {
+      "name": "Sběrný dvůr ul. Husova",
+      "latitude": 50.130307,
+      "longitude": 14.663137
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 50.131168,
+      "longitude": 14.728792
+    },
+    {
+      "name": "Texileco",
+      "latitude": 50.096939,
+      "longitude": 14.42448
+    },
+    {
+      "name": "Sběrný dvůr hlavního města Prahy",
+      "latitude": 50.097665,
+      "longitude": 14.503905
+    },
+    {
+      "name": "Benny recycling",
+      "latitude": 50.119559,
+      "longitude": 14.5084
+    },
+    {
+      "name": "KOVO-Group",
+      "latitude": 50.110134,
+      "longitude": 14.534632
+    },
+    {
+      "name": "Sběrný dvůr hl. m. Prahy",
+      "latitude": 50.067564,
+      "longitude": 14.439478
+    },
+    {
+      "name": "Clothing donation drop box",
+      "latitude": 50.082151,
+      "longitude": 14.501135
+    },
+    {
+      "name": "ekolamp box",
+      "latitude": 50.079874,
+      "longitude": 14.431816
+    },
+    {
+      "name": "PAPKOV s.r.o.",
+      "latitude": 50.065834,
+      "longitude": 14.492086
+    },
+    {
+      "name": "Komunitní kompostér",
+      "latitude": 50.070273,
+      "longitude": 14.478292
+    },
+    {
+      "name": "Sběrný dvůr hl. m. Prahy",
+      "latitude": 50.0866,
+      "longitude": 14.483703
+    },
+    {
+      "name": "ASSMANN & SYN odpady, s.r.o.",
+      "latitude": 50.086737,
+      "longitude": 14.531949
+    },
+    {
+      "name": "Domeček - odpady",
+      "latitude": 50.079902,
+      "longitude": 14.512344
+    },
+    {
+      "name": "Sběrný dvůr hlavního města",
+      "latitude": 50.08524,
+      "longitude": 14.532156
+    },
+    {
+      "name": "Cajdašrot Průmyslová",
+      "latitude": 50.076459,
+      "longitude": 14.536005
+    },
+    {
+      "name": "Kontejnery na tříděný odpad",
+      "latitude": 50.111088,
+      "longitude": 14.611893
+    },
+    {
+      "name": "Sběrný dvůr – Horní Počernice",
+      "latitude": 50.115645,
+      "longitude": 14.610149
+    },
+    {
+      "name": "Sběrný dvůr odpadů Horoušany",
+      "latitude": 50.102889,
+      "longitude": 14.727227
+    },
+    {
+      "name": "Sběrný dvůr Nové Jirny",
+      "latitude": 50.108363,
+      "longitude": 14.705059
+    },
+    {
+      "name": "Firemní uložiště komunálního odpadu",
+      "latitude": 50.065778,
+      "longitude": 14.598374
+    },
+    {
+      "name": "Kloktex",
+      "latitude": 50.079248,
+      "longitude": 14.652744
+    },
+    {
+      "name": "Sběrný dvůr hlavního města Prahy Podnikatelská",
+      "latitude": 50.088028,
+      "longitude": 14.614677
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.065741,
+      "longitude": 14.73716
+    },
+    {
+      "name": "Sběrný dvůr města Úvaly",
+      "latitude": 50.067677,
+      "longitude": 14.740959
+    },
+    {
+      "name": "Sběrný dvůr Jizbice",
+      "latitude": 50.258074,
+      "longitude": 14.993849
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.211078,
+      "longitude": 14.845101
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.230451,
+      "longitude": 14.853762
+    },
+    {
+      "name": "Technický dvůr \"Na větráku\"",
+      "latitude": 50.200792,
+      "longitude": 15.28524
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.166056,
+      "longitude": 14.783949
+    },
+    {
+      "name": "Separační dvůr",
+      "latitude": 50.140905,
+      "longitude": 14.79643
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.080836,
+      "longitude": 14.885492
+    },
+    {
+      "name": "SAKER Pečky",
+      "latitude": 50.092305,
+      "longitude": 15.027898
+    },
+    {
+      "name": "Sběrné místo Opolany",
+      "latitude": 50.123271,
+      "longitude": 15.217037
+    },
+    {
+      "name": "Podzemní kontejnéry na tříděný odpad",
+      "latitude": 50.155908,
+      "longitude": 15.460455
+    },
+    {
+      "name": "Obecní dvůr",
+      "latitude": 50.099149,
+      "longitude": 15.186222
+    },
+    {
+      "name": "Sběrné místo Chýně",
+      "latitude": 50.05863,
+      "longitude": 14.224623
+    },
+    {
+      "name": "Sběrné místo Obchodní ulice",
+      "latitude": 50.031948,
+      "longitude": 14.228086
+    },
+    {
+      "name": "Pražské služby, středisko třídička papíru Chrášťany",
+      "latitude": 50.053066,
+      "longitude": 14.271069
+    },
+    {
+      "name": "Výkupna druhotných surovin",
+      "latitude": 50.039464,
+      "longitude": 14.24594
+    },
+    {
+      "name": "Výkup palet",
+      "latitude": 50.039561,
+      "longitude": 14.248096
+    },
+    {
+      "name": "Sběrný dvůr hlavního města Prahy",
+      "latitude": 50.059072,
+      "longitude": 14.371581
+    },
+    {
+      "name": "KAREL PROBOŠT – Výkup a prodej papíru, železa a barevných kovů",
+      "latitude": 50.060812,
+      "longitude": 14.3765
+    },
+    {
+      "name": "Sběrný dvůr Praha 5",
+      "latitude": 50.05437,
+      "longitude": 14.373605
+    },
+    {
+      "name": "Kompostárna",
+      "latitude": 50.04706,
+      "longitude": 14.372918
+    },
+    {
+      "name": "Výkup Jinočany",
+      "latitude": 50.032033,
+      "longitude": 14.26782
+    },
+    {
+      "name": "kompost Praha 12 - Píšovická",
+      "latitude": 50.009059,
+      "longitude": 14.413661
+    },
+    {
+      "name": "KOVO SDS Kuchař",
+      "latitude": 49.978774,
+      "longitude": 14.229391
+    },
+    {
+      "name": "Podzemní tříděný odpad",
+      "latitude": 49.998034,
+      "longitude": 14.408641
+    },
+    {
+      "name": "Sběr oblečení",
+      "latitude": 49.990763,
+      "longitude": 14.409798
+    },
+    {
+      "name": "Výkupna surovin Modřany",
+      "latitude": 49.994587,
+      "longitude": 14.406009
+    },
+    {
+      "name": "Sběr druhotných surovin",
+      "latitude": 49.987544,
+      "longitude": 14.365425
+    },
+    {
+      "name": "Sběrný dvůr Radotín",
+      "latitude": 49.992605,
+      "longitude": 14.344424
+    },
+    {
+      "name": "Výkup palet",
+      "latitude": 49.99416,
+      "longitude": 14.380638
+    },
+    {
+      "name": "KOPAS Výkup surovin",
+      "latitude": 50.043721,
+      "longitude": 14.492283
+    },
+    {
+      "name": "Sběrný dvůr hlavního města Prahy",
+      "latitude": 50.049049,
+      "longitude": 14.474266
+    },
+    {
+      "name": "Výkupna surovin Záběhlice",
+      "latitude": 50.053712,
+      "longitude": 14.476533
+    },
+    {
+      "name": "Kontejner pro recyklaci oděvů na charitu",
+      "latitude": 50.040652,
+      "longitude": 14.552823
+    },
+    {
+      "name": "Sběrný dvůr hl.m. Prahy",
+      "latitude": 50.018936,
+      "longitude": 14.451466
+    },
+    {
+      "name": "Kunr/016",
+      "latitude": 50.023331,
+      "longitude": 14.486296
+    },
+    {
+      "name": "Kunr/017",
+      "latitude": 50.024208,
+      "longitude": 14.48731
+    },
+    {
+      "name": "Sběrný dvůr Dobronická",
+      "latitude": 50.011586,
+      "longitude": 14.468272
+    },
+    {
+      "name": "Kontejner pro recyklaci oděvů",
+      "latitude": 50.014148,
+      "longitude": 14.432883
+    },
+    {
+      "name": "Sběrné místo rostlinných zbytků",
+      "latitude": 50.031891,
+      "longitude": 14.493743
+    },
+    {
+      "name": "Sběrný dvůr hl. m. Prahy",
+      "latitude": 50.026656,
+      "longitude": 14.50673
+    },
+    {
+      "name": "Sběr druhotných surovin",
+      "latitude": 50.02643,
+      "longitude": 14.505812
+    },
+    {
+      "name": "Sběrný dvůr Bečovská",
+      "latitude": 50.039612,
+      "longitude": 14.591032
+    },
+    {
+      "name": "Výkup sběrných surovin",
+      "latitude": 50.039876,
+      "longitude": 14.590921
+    },
+    {
+      "name": "Kontejnerové stanoviště",
+      "latitude": 50.031006,
+      "longitude": 14.675443
+    },
+    {
+      "name": "Sběrný dvůr Hlavního města Prahy",
+      "latitude": 50.004495,
+      "longitude": 14.437238
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.978946,
+      "longitude": 14.511026
+    },
+    {
+      "name": "Sběrný dvůr Říčany",
+      "latitude": 49.996027,
+      "longitude": 14.651708
+    },
+    {
+      "name": "Sběrný dvůr Struhařov",
+      "latitude": 49.956275,
+      "longitude": 14.750994
+    },
+    {
+      "name": "Odpadový dvůr",
+      "latitude": 49.936315,
+      "longitude": 14.375524
+    },
+    {
+      "name": "Sberny dvur Hradistko",
+      "latitude": 49.856639,
+      "longitude": 14.401974
+    },
+    {
+      "name": "Sběrný dvůr Psáry",
+      "latitude": 49.942119,
+      "longitude": 14.514549
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.946527,
+      "longitude": 14.525566
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.94888,
+      "longitude": 14.52689
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.944389,
+      "longitude": 14.523084
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.943412,
+      "longitude": 14.518222
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.943098,
+      "longitude": 14.517555
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.945921,
+      "longitude": 14.517676
+    },
+    {
+      "name": "Výkup železného šrotu a barevných kovů",
+      "latitude": 49.922246,
+      "longitude": 14.636748
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 5 - KP Bílov",
+      "latitude": 49.870277,
+      "longitude": 14.50159
+    },
+    {
+      "name": "Kontejnerové stánoviště č. 8 - KP u obchodu",
+      "latitude": 49.867545,
+      "longitude": 14.515651
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 9",
+      "latitude": 49.869149,
+      "longitude": 14.514218
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 4 - KP U křížku",
+      "latitude": 49.866653,
+      "longitude": 14.503624
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 18 - H domov důchodců",
+      "latitude": 49.863509,
+      "longitude": 14.496077
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 19 - H náves",
+      "latitude": 49.86176,
+      "longitude": 14.49185
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 18 - H u statku",
+      "latitude": 49.862086,
+      "longitude": 14.489789
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 20 - H hospoda",
+      "latitude": 49.863506,
+      "longitude": 14.481963
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 22 - H na Ovčíně",
+      "latitude": 49.858851,
+      "longitude": 14.48067
+    },
+    {
+      "name": "Shromaždiště odpadů Hostěradice",
+      "latitude": 49.86283,
+      "longitude": 14.489584
+    },
+    {
+      "name": "Konejnerové stanoviště č. 13 - KÚ pod pomníkem",
+      "latitude": 49.857352,
+      "longitude": 14.518683
+    },
+    {
+      "name": "Stanoviště č. 12 - KÚ u hasičského hřiště",
+      "latitude": 49.858506,
+      "longitude": 14.519824
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 14 - KÚ na Drahách",
+      "latitude": 49.859501,
+      "longitude": 14.514312
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 15 - KÚ u osady Orlík",
+      "latitude": 49.858135,
+      "longitude": 14.513003
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 11 - KP u Prefy",
+      "latitude": 49.864866,
+      "longitude": 14.517008
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 10 - KP panelák",
+      "latitude": 49.865967,
+      "longitude": 14.515519
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 7 - KP pod ČOV",
+      "latitude": 49.865383,
+      "longitude": 14.507997
+    },
+    {
+      "name": "Kontejnerové stanoviště č. 6 - KP před hřištěm",
+      "latitude": 49.862893,
+      "longitude": 14.508587
+    },
+    {
+      "name": "Kontejnerové stání č. 3 - KP u školy",
+      "latitude": 49.8639,
+      "longitude": 14.504163
+    },
+    {
+      "name": "Kontejnerové stání č. 1 - KP OÚ",
+      "latitude": 49.860648,
+      "longitude": 14.503795
+    },
+    {
+      "name": "Stanoviště č. 1 - KP OÚ",
+      "latitude": 49.860683,
+      "longitude": 14.503545
+    },
+    {
+      "name": "Technické služby Doubravčice s.r.o.",
+      "latitude": 50.024406,
+      "longitude": 14.788113
+    },
+    {
+      "name": "Sběrné místo",
+      "latitude": 49.984145,
+      "longitude": 14.788712
+    },
+    {
+      "name": "Kontejnerové stanoviště 3",
+      "latitude": 49.984646,
+      "longitude": 14.785012
+    },
+    {
+      "name": "Kontejnerová stanoviště 1",
+      "latitude": 49.984091,
+      "longitude": 14.78861
+    },
+    {
+      "name": "Kontejnerové stanoviště 4",
+      "latitude": 49.982946,
+      "longitude": 14.779829
+    },
+    {
+      "name": "Kontejnerové stanoviště 6",
+      "latitude": 49.986488,
+      "longitude": 14.786485
+    },
+    {
+      "name": "Kontejnerové stanoviště 2",
+      "latitude": 49.983737,
+      "longitude": 14.799315
+    },
+    {
+      "name": "Sběrný dvůr Sendražice",
+      "latitude": 50.053812,
+      "longitude": 15.211728
+    },
+    {
+      "name": "Sběrný dvůr města Kutná Hora",
+      "latitude": 49.955403,
+      "longitude": 15.282463
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.875493,
+      "longitude": 14.905014
+    },
+    {
+      "name": "sběrný dvůr Kobylice",
+      "latitude": 50.248706,
+      "longitude": 15.586183
+    },
+    {
+      "name": "Skládka bioodpadu",
+      "latitude": 50.249653,
+      "longitude": 15.716071
+    },
+    {
+      "name": "NAPOS",
+      "latitude": 50.258717,
+      "longitude": 15.820251
+    },
+    {
+      "name": "Sběrný dvůr Stavoka Kosice",
+      "latitude": 50.181915,
+      "longitude": 15.540111
+    },
+    {
+      "name": "Hofr metal, s.r.o.",
+      "latitude": 50.227756,
+      "longitude": 15.733377
+    },
+    {
+      "name": "NAPOS a.s. - výkup druhotných surovin",
+      "latitude": 50.195102,
+      "longitude": 15.81535
+    },
+    {
+      "name": "Sběrný dvůr - Temešvár",
+      "latitude": 50.19572,
+      "longitude": 15.790832
+    },
+    {
+      "name": "Sběrný dvůr - Bratří Štefanů",
+      "latitude": 50.219545,
+      "longitude": 15.878982
+    },
+    {
+      "name": "Sběrný dvůr - U Labe",
+      "latitude": 50.221407,
+      "longitude": 15.824121
+    },
+    {
+      "name": "Sběrný dvůr - Na Brně",
+      "latitude": 50.19428,
+      "longitude": 15.855698
+    },
+    {
+      "name": "Separační dvůr Ohrazenice",
+      "latitude": 50.067392,
+      "longitude": 15.757476
+    },
+    {
+      "name": "Sběrné místo biologicky rozložitelných odpadů",
+      "latitude": 50.070546,
+      "longitude": 15.791045
+    },
+    {
+      "name": "Sběrný dvůr - Býšť",
+      "latitude": 50.128844,
+      "longitude": 15.908633
+    },
+    {
+      "name": "Kompostárna obce Býšť",
+      "latitude": 50.115526,
+      "longitude": 15.906525
+    },
+    {
+      "name": "Sběrný dvůr - Sezemice",
+      "latitude": 50.070862,
+      "longitude": 15.849491
+    },
+    {
+      "name": "Centrální sběrný dvůr",
+      "latitude": 50.149912,
+      "longitude": 16.260572
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.105885,
+      "longitude": 16.256842
+    },
+    {
+      "name": "Sběrný dvůr v areálu Technických služeb",
+      "latitude": 50.11741,
+      "longitude": 16.231557
+    },
+    {
+      "name": "Sběrný dvůr Žamberk",
+      "latitude": 50.072865,
+      "longitude": 16.463637
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.081529,
+      "longitude": 16.762321
+    },
+    {
+      "name": "separační dvůr Lonkova",
+      "latitude": 50.045144,
+      "longitude": 15.760815
+    },
+    {
+      "name": "Sběrný dvůr - Hůrka",
+      "latitude": 50.048247,
+      "longitude": 15.809389
+    },
+    {
+      "name": "KOVOŠROT Hůrka s.r.o.",
+      "latitude": 50.050408,
+      "longitude": 15.812094
+    },
+    {
+      "name": "Kontejnery na tříděný odpad Trnovská 247",
+      "latitude": 50.06192,
+      "longitude": 15.759043
+    },
+    {
+      "name": "JARÝ s.r.o.",
+      "latitude": 50.053721,
+      "longitude": 15.739486
+    },
+    {
+      "name": "Sběrný dvůr - Svítkov",
+      "latitude": 50.024296,
+      "longitude": 15.712973
+    },
+    {
+      "name": "Separační dvůr",
+      "latitude": 50.026183,
+      "longitude": 15.800211
+    },
+    {
+      "name": "Na Staré poště",
+      "latitude": 50.030394,
+      "longitude": 15.768455
+    },
+    {
+      "name": "JARÝ s. r. o.",
+      "latitude": 50.029368,
+      "longitude": 15.765003
+    },
+    {
+      "name": "KOVOŠROT GROUP CZ s.r.o.",
+      "latitude": 50.029504,
+      "longitude": 15.764711
+    },
+    {
+      "name": "Separační dvůr - Nemošice",
+      "latitude": 50.008915,
+      "longitude": 15.795979
+    },
+    {
+      "name": "Sběrný dvůr Heřmanův Městec",
+      "latitude": 49.952171,
+      "longitude": 15.671026
+    },
+    {
+      "name": "Obec Úhřetice",
+      "latitude": 49.978906,
+      "longitude": 15.866177
+    },
+    {
+      "name": "Sběrné suroviny Josef Vostrovský",
+      "latitude": 49.949897,
+      "longitude": 15.656285
+    },
+    {
+      "name": "Sběrný dvůr Chrudim",
+      "latitude": 49.940115,
+      "longitude": 15.795262
+    },
+    {
+      "name": "Kovošrot Culka & Sadlik s.r.o.",
+      "latitude": 49.884889,
+      "longitude": 15.532368
+    },
+    {
+      "name": "Recycling - kovové odpady a. s.",
+      "latitude": 49.873585,
+      "longitude": 15.568151
+    },
+    {
+      "name": "Sběrný dvůr Seč",
+      "latitude": 49.846676,
+      "longitude": 15.661379
+    },
+    {
+      "name": "Sběrný dvůr Skuteč",
+      "latitude": 49.838674,
+      "longitude": 15.999347
+    },
+    {
+      "name": "Suroviny Plundra",
+      "latitude": 50.039649,
+      "longitude": 16.511477
+    },
+    {
+      "name": "Sběrný dvůr Orlice",
+      "latitude": 50.025654,
+      "longitude": 16.519429
+    },
+    {
+      "name": "Recycling Bins",
+      "latitude": 50.001533,
+      "longitude": 16.224494
+    },
+    {
+      "name": "Recycle Bins",
+      "latitude": 50.000084,
+      "longitude": 16.22498
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.994729,
+      "longitude": 16.396709
+    },
+    {
+      "name": "Sběrný dvůr Nekoř",
+      "latitude": 50.06336,
+      "longitude": 16.531815
+    },
+    {
+      "name": "Milan Ševčík, Kovový odpad",
+      "latitude": 49.905313,
+      "longitude": 16.448024
+    },
+    {
+      "name": "Sběrný dvůr Česká Třebová",
+      "latitude": 49.891737,
+      "longitude": 16.452475
+    },
+    {
+      "name": "Sběrný dvůr Rybník",
+      "latitude": 49.887843,
+      "longitude": 16.480224
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.884105,
+      "longitude": 16.634315
+    },
+    {
+      "name": "Sběrné místo Malesice",
+      "latitude": 49.776325,
+      "longitude": 13.301936
+    },
+    {
+      "name": "Sběrný dvůr ulice Úněšovská",
+      "latitude": 49.777035,
+      "longitude": 13.352354
+    },
+    {
+      "name": "Sběrný dvůr Tlučná",
+      "latitude": 49.727775,
+      "longitude": 13.240324
+    },
+    {
+      "name": "Sběrný dvůr ulice Vejprnická",
+      "latitude": 49.74421,
+      "longitude": 13.342699
+    },
+    {
+      "name": "Sběrný dvůr Nýřany",
+      "latitude": 49.713673,
+      "longitude": 13.216911
+    },
+    {
+      "name": "Trhy kovového odpadu - Plus",
+      "latitude": 49.7072,
+      "longitude": 13.298711
+    },
+    {
+      "name": "Sběrný dvůr Líně",
+      "latitude": 49.69177,
+      "longitude": 13.269142
+    },
+    {
+      "name": "Sběrný dvůr Třemošná",
+      "latitude": 49.813221,
+      "longitude": 13.400401
+    },
+    {
+      "name": "Sběrný dvůr Chrást",
+      "latitude": 49.803184,
+      "longitude": 13.48803
+    },
+    {
+      "name": "Sběrný dvůr ulice Jateční",
+      "latitude": 49.755643,
+      "longitude": 13.403831
+    },
+    {
+      "name": "Kovošrot Plzeň Jateční",
+      "latitude": 49.760569,
+      "longitude": 13.404556
+    },
+    {
+      "name": "Kovošrot Plzeň Jateční",
+      "latitude": 49.757693,
+      "longitude": 13.40445
+    },
+    {
+      "name": "Sběrný dvůr Osek",
+      "latitude": 49.778027,
+      "longitude": 13.587718
+    },
+    {
+      "name": "kompostárna",
+      "latitude": 49.785115,
+      "longitude": 13.749744
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.786887,
+      "longitude": 13.740656
+    },
+    {
+      "name": "Sběrný dvůr Městys Jince",
+      "latitude": 49.788199,
+      "longitude": 13.979415
+    },
+    {
+      "name": "Sběrné místo Zaječov",
+      "latitude": 49.767364,
+      "longitude": 13.839158
+    },
+    {
+      "name": "Sběrný dvůr ulice Edvarda Beneše",
+      "latitude": 49.723557,
+      "longitude": 13.378425
+    },
+    {
+      "name": "Sběrný dvůr ulice Na Bořích",
+      "latitude": 49.717017,
+      "longitude": 13.416602
+    },
+    {
+      "name": "Sběrný dvůr Šťáhlavy",
+      "latitude": 49.669043,
+      "longitude": 13.502967
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.703499,
+      "longitude": 14.007973
+    },
+    {
+      "name": "Kompostárna Bytíz",
+      "latitude": 49.684503,
+      "longitude": 14.058275
+    },
+    {
+      "name": "Sběrný dvůr Bytiz",
+      "latitude": 49.683833,
+      "longitude": 14.059397
+    },
+    {
+      "name": "Recyklacni centrum Bytiz",
+      "latitude": 49.684146,
+      "longitude": 14.059047
+    },
+    {
+      "name": "Kontejner na tříděný odpad - oleje",
+      "latitude": 49.644701,
+      "longitude": 13.837465
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.513103,
+      "longitude": 12.814115
+    },
+    {
+      "name": "Sběrný dvůr města Holýšov",
+      "latitude": 49.589961,
+      "longitude": 13.101399
+    },
+    {
+      "name": "Sběrný dvůr Merklín",
+      "latitude": 49.561581,
+      "longitude": 13.200084
+    },
+    {
+      "name": "Sběrný dvůr města Kdyně",
+      "latitude": 49.394726,
+      "longitude": 13.053526
+    },
+    {
+      "name": "AZS 98 Blovice",
+      "latitude": 49.58081,
+      "longitude": 13.557517
+    },
+    {
+      "name": "Sběrný dvůr Rožmitál pod Třemšínem",
+      "latitude": 49.59863,
+      "longitude": 13.875209
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.317246,
+      "longitude": 13.721371
+    },
+    {
+      "name": "Sběrný dvůr Sušice",
+      "latitude": 49.253674,
+      "longitude": 13.554
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.263763,
+      "longitude": 13.917745
+    },
+    {
+      "name": "Kovošrot Čkyně",
+      "latitude": 49.110513,
+      "longitude": 13.822814
+    },
+    {
+      "name": "Kompostárna Vimperk",
+      "latitude": 49.064402,
+      "longitude": 13.78225
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.056956,
+      "longitude": 13.784894
+    },
+    {
+      "name": "Jihosepar a.s.",
+      "latitude": 49.051594,
+      "longitude": 13.798859
+    },
+    {
+      "name": "Sběrné suroviny",
+      "latitude": 49.053706,
+      "longitude": 13.799327
+    },
+    {
+      "name": "Sběrný dvůr Dobříš",
+      "latitude": 49.778419,
+      "longitude": 14.16452
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.792891,
+      "longitude": 14.689677
+    },
+    {
+      "name": "Sběrný dvůr Sedlčany",
+      "latitude": 49.654005,
+      "longitude": 14.42953
+    },
+    {
+      "name": "Sběrný dvůr, Vlašim",
+      "latitude": 49.711991,
+      "longitude": 14.906539
+    },
+    {
+      "name": "Středisko odpadového hospodářství Rozinov",
+      "latitude": 49.664912,
+      "longitude": 15.421744
+    },
+    {
+      "name": "Sběrný dvůr Chotoviny",
+      "latitude": 49.480954,
+      "longitude": 14.686503
+    },
+    {
+      "name": "Kompostárna Chotoviny",
+      "latitude": 49.480962,
+      "longitude": 14.685903
+    },
+    {
+      "name": "Sběrný dvůr Klokoty",
+      "latitude": 49.418411,
+      "longitude": 14.64004
+    },
+    {
+      "name": "Výkupna Tábor",
+      "latitude": 49.405718,
+      "longitude": 14.690476
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.405851,
+      "longitude": 14.678017
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.385185,
+      "longitude": 14.683598
+    },
+    {
+      "name": "Sběrný dvůr Sídliště Nad Lužnicí Tábor",
+      "latitude": 49.389118,
+      "longitude": 14.680115
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.384386,
+      "longitude": 14.700093
+    },
+    {
+      "name": "Sběrný dvůr a překladiště Humpolec",
+      "latitude": 49.558477,
+      "longitude": 15.350081
+    },
+    {
+      "name": "Sběrna Hrádek",
+      "latitude": 49.490698,
+      "longitude": 15.038185
+    },
+    {
+      "name": "Sběrný dvůr Dušejov",
+      "latitude": 49.408871,
+      "longitude": 15.441313
+    },
+    {
+      "name": "ReUse centrum",
+      "latitude": 49.813546,
+      "longitude": 15.479379
+    },
+    {
+      "name": "Sběrný dvůr Golčův Jeníkov",
+      "latitude": 49.813305,
+      "longitude": 15.480059
+    },
+    {
+      "name": "Sběrné místo elektrospotřebičů",
+      "latitude": 49.803106,
+      "longitude": 15.738553
+    },
+    {
+      "name": "Sběrný dvůr a kompostárna bioodpadu",
+      "latitude": 49.635934,
+      "longitude": 15.774479
+    },
+    {
+      "name": "Sběrný dvůr Svratka",
+      "latitude": 49.709898,
+      "longitude": 16.038331
+    },
+    {
+      "name": "Sběrný dvůr Sněžné",
+      "latitude": 49.646558,
+      "longitude": 16.123788
+    },
+    {
+      "name": "Sběrný dvůr Tři Studně",
+      "latitude": 49.611193,
+      "longitude": 16.039687
+    },
+    {
+      "name": "Sběrný dvůr Široký Důl",
+      "latitude": 49.746095,
+      "longitude": 16.220126
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.829331,
+      "longitude": 16.64017
+    },
+    {
+      "name": "Sběrový dvůr Moravská Třebová",
+      "latitude": 49.762556,
+      "longitude": 16.656528
+    },
+    {
+      "name": "SUROVINY PAVEL SMÉKAL, s.r.o.",
+      "latitude": 49.761675,
+      "longitude": 16.670315
+    },
+    {
+      "name": "Sběrný dvůr RADIMĚŘ",
+      "latitude": 49.68873,
+      "longitude": 16.462312
+    },
+    {
+      "name": "Sběrný dvůr Bystré",
+      "latitude": 49.631424,
+      "longitude": 16.356858
+    },
+    {
+      "name": "Sběrný dvůr Velké Opatovice",
+      "latitude": 49.612075,
+      "longitude": 16.68877
+    },
+    {
+      "name": "Sběrný dvůr Jaroměřice",
+      "latitude": 49.627839,
+      "longitude": 16.750652
+    },
+    {
+      "name": "HBH odpady",
+      "latitude": 49.592366,
+      "longitude": 15.593502
+    },
+    {
+      "name": "Sběrné místo Herálec",
+      "latitude": 49.525985,
+      "longitude": 15.46907
+    },
+    {
+      "name": "Sběrný dvůr Štoky",
+      "latitude": 49.505729,
+      "longitude": 15.585812
+    },
+    {
+      "name": "Provozovna Žďár nad Sázavou",
+      "latitude": 49.549224,
+      "longitude": 15.945657
+    },
+    {
+      "name": "Kovošrot",
+      "latitude": 49.552253,
+      "longitude": 15.947936
+    },
+    {
+      "name": "TSR Czech Republic, s.r.o.",
+      "latitude": 49.44117,
+      "longitude": 15.609069
+    },
+    {
+      "name": "Služby města Jihlavy",
+      "latitude": 49.405473,
+      "longitude": 15.590578
+    },
+    {
+      "name": "SLUŽBY LUKA, s.r.o.",
+      "latitude": 49.384811,
+      "longitude": 15.694639
+    },
+    {
+      "name": "Sběrný dvůr Bystřice nad Pernštejnem",
+      "latitude": 49.510342,
+      "longitude": 16.255144
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.552074,
+      "longitude": 16.424731
+    },
+    {
+      "name": "Remat",
+      "latitude": 49.556427,
+      "longitude": 16.575063
+    },
+    {
+      "name": "Sběrný dvůr Svitávka",
+      "latitude": 49.504412,
+      "longitude": 16.604308
+    },
+    {
+      "name": "Sběrný dvůr Lhota Rapotina",
+      "latitude": 49.465803,
+      "longitude": 16.622166
+    },
+    {
+      "name": "SSO Černá Hora",
+      "latitude": 49.419172,
+      "longitude": 16.582165
+    },
+    {
+      "name": "SSO Rájec-Jestřebí",
+      "latitude": 49.403648,
+      "longitude": 16.640417
+    },
+    {
+      "name": "Místo zpětného odběru",
+      "latitude": 49.397781,
+      "longitude": 16.709601
+    },
+    {
+      "name": "Sběrný dvůr Portyč",
+      "latitude": 49.317966,
+      "longitude": 14.141105
+    },
+    {
+      "name": "Sběrný dvůr Logry",
+      "latitude": 49.313716,
+      "longitude": 14.163181
+    },
+    {
+      "name": "Sběrný dvůr Bechyně",
+      "latitude": 49.302835,
+      "longitude": 14.478169
+    },
+    {
+      "name": "Sběrný dvůr - Veselské skužby",
+      "latitude": 49.190458,
+      "longitude": 14.711864
+    },
+    {
+      "name": "Kontejnery na tříděný odpad",
+      "latitude": 49.25007,
+      "longitude": 15.320523
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.16106,
+      "longitude": 15.201639
+    },
+    {
+      "name": "Sběrný dvůr Zliv - kompostárna",
+      "latitude": 49.072923,
+      "longitude": 14.370669
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.100701,
+      "longitude": 14.570996
+    },
+    {
+      "name": "Místo sběrného odpadu",
+      "latitude": 49.151271,
+      "longitude": 14.725283
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.086152,
+      "longitude": 14.7212
+    },
+    {
+      "name": "Sběrný dvůr FCC",
+      "latitude": 48.996041,
+      "longitude": 14.481737
+    },
+    {
+      "name": "Kontejnery na tříděný odpad a bioodpad",
+      "latitude": 49.000686,
+      "longitude": 14.539912
+    },
+    {
+      "name": "Kontejnery na tříděný odpad a bioodpad",
+      "latitude": 49.002506,
+      "longitude": 14.54639
+    },
+    {
+      "name": "Sběrný dvůr Lišov",
+      "latitude": 49.019537,
+      "longitude": 14.635045
+    },
+    {
+      "name": "Technické služby Třeboň",
+      "latitude": 49.016855,
+      "longitude": 14.757309
+    },
+    {
+      "name": "Sběrný dvůr České Budějovice - Švábův Hrádek",
+      "latitude": 48.972343,
+      "longitude": 14.440163
+    },
+    {
+      "name": "Sběrný dvůr Plynárenská",
+      "latitude": 48.973429,
+      "longitude": 14.491755
+    },
+    {
+      "name": "SBĚRSUR s.r.o.",
+      "latitude": 48.979883,
+      "longitude": 14.50027
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.945862,
+      "longitude": 14.540186
+    },
+    {
+      "name": "Sběrný dvůr Ledenice",
+      "latitude": 48.932468,
+      "longitude": 14.620258
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.134628,
+      "longitude": 15.003535
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.142634,
+      "longitude": 15.027073
+    },
+    {
+      "name": "Kompost",
+      "latitude": 49.063237,
+      "longitude": 15.325403
+    },
+    {
+      "name": "Sběrný dvůr Třešť",
+      "latitude": 49.294935,
+      "longitude": 15.480697
+    },
+    {
+      "name": "Sběrný dvůr Třebíč – D2 Na Klinkách",
+      "latitude": 49.228496,
+      "longitude": 15.874749
+    },
+    {
+      "name": "Sběrný dvůr Třebíč – D1 Hrotovická",
+      "latitude": 49.202117,
+      "longitude": 15.898663
+    },
+    {
+      "name": "Alfa Scrap šrot",
+      "latitude": 49.33154,
+      "longitude": 16.196543
+    },
+    {
+      "name": "Sběrný dvůr Čebín",
+      "latitude": 49.312883,
+      "longitude": 16.478911
+    },
+    {
+      "name": "SSO Lipůvka",
+      "latitude": 49.338118,
+      "longitude": 16.546854
+    },
+    {
+      "name": "Sběrný dvůr Olomučany",
+      "latitude": 49.335571,
+      "longitude": 16.668579
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.348793,
+      "longitude": 16.804242
+    },
+    {
+      "name": "Sběrné středisko Havlíčkova",
+      "latitude": 49.301602,
+      "longitude": 16.537346
+    },
+    {
+      "name": "Sběrný dvůr Sv. Čecha",
+      "latitude": 49.304953,
+      "longitude": 16.526004
+    },
+    {
+      "name": "Sběrný dvůr Podlesí",
+      "latitude": 49.304733,
+      "longitude": 16.556355
+    },
+    {
+      "name": "Ekodvůr Lelekovice",
+      "latitude": 49.290653,
+      "longitude": 16.578484
+    },
+    {
+      "name": "SSO Plástky",
+      "latitude": 49.274081,
+      "longitude": 16.593539
+    },
+    {
+      "name": "SSO Drozdí",
+      "latitude": 49.274332,
+      "longitude": 16.607217
+    },
+    {
+      "name": "Sběrný dvůr Adamov",
+      "latitude": 49.293431,
+      "longitude": 16.667111
+    },
+    {
+      "name": "SSO Adamovská",
+      "latitude": 49.291273,
+      "longitude": 16.630267
+    },
+    {
+      "name": "Sběrný dvůr pro recyklaci stavební suti",
+      "latitude": 49.260461,
+      "longitude": 16.444608
+    },
+    {
+      "name": "Sběrný dvůr odpadů Rozdrojovice",
+      "latitude": 49.254719,
+      "longitude": 16.511609
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.216291,
+      "longitude": 16.393487
+    },
+    {
+      "name": "SSO Páteřní",
+      "latitude": 49.223726,
+      "longitude": 16.519568
+    },
+    {
+      "name": "SSO Pod Kopcem",
+      "latitude": 49.206329,
+      "longitude": 16.497185
+    },
+    {
+      "name": "Sběrný dvůr Střelice",
+      "latitude": 49.155871,
+      "longitude": 16.499163
+    },
+    {
+      "name": "SSO Atriová",
+      "latitude": 49.264666,
+      "longitude": 16.566727
+    },
+    {
+      "name": "SSO Hapalova",
+      "latitude": 49.250182,
+      "longitude": 16.588885
+    },
+    {
+      "name": "SSO Rysova",
+      "latitude": 49.24113,
+      "longitude": 16.572383
+    },
+    {
+      "name": "SSO Útěchovská",
+      "latitude": 49.247501,
+      "longitude": 16.616137
+    },
+    {
+      "name": "SSO Bílovice nad Svitavou",
+      "latitude": 49.241683,
+      "longitude": 16.672552
+    },
+    {
+      "name": "SSO Korejská",
+      "latitude": 49.214276,
+      "longitude": 16.586247
+    },
+    {
+      "name": "SSO U ZOO",
+      "latitude": 49.227012,
+      "longitude": 16.535156
+    },
+    {
+      "name": "SSO Sochorova",
+      "latitude": 49.212988,
+      "longitude": 16.56377
+    },
+    {
+      "name": "MBBL",
+      "latitude": 49.232564,
+      "longitude": 16.646651
+    },
+    {
+      "name": "SSO Okružní",
+      "latitude": 49.223007,
+      "longitude": 16.621012
+    },
+    {
+      "name": "SSO Dusíkova",
+      "latitude": 49.236491,
+      "longitude": 16.627873
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.242021,
+      "longitude": 16.76128
+    },
+    {
+      "name": "Mokrá sídliště",
+      "latitude": 49.217778,
+      "longitude": 16.755442
+    },
+    {
+      "name": "SSO Žebětínská",
+      "latitude": 49.196536,
+      "longitude": 16.532873
+    },
+    {
+      "name": "Sběrné suroviny Procházka",
+      "latitude": 49.204461,
+      "longitude": 16.693424
+    },
+    {
+      "name": "SSO Húskova",
+      "latitude": 49.183555,
+      "longitude": 16.64186
+    },
+    {
+      "name": "REVAP-KOVO",
+      "latitude": 49.208905,
+      "longitude": 16.632189
+    },
+    {
+      "name": "SSO J.Faimonové",
+      "latitude": 49.202607,
+      "longitude": 16.677329
+    },
+    {
+      "name": "SSO Plynárenská",
+      "latitude": 49.197732,
+      "longitude": 16.62746
+    },
+    {
+      "name": "SSO Jana Svobody",
+      "latitude": 49.204345,
+      "longitude": 16.627753
+    },
+    {
+      "name": "SSO Lazaretní",
+      "latitude": 49.20339,
+      "longitude": 16.637884
+    },
+    {
+      "name": "SSO Líšeňská",
+      "latitude": 49.197592,
+      "longitude": 16.662405
+    },
+    {
+      "name": "SSO Jedovnická",
+      "latitude": 49.193453,
+      "longitude": 16.669827
+    },
+    {
+      "name": "SSO Pražská",
+      "latitude": 49.174136,
+      "longitude": 16.528261
+    },
+    {
+      "name": "SSO Košuličova",
+      "latitude": 49.168758,
+      "longitude": 16.610807
+    },
+    {
+      "name": "SSO Ukrajinská",
+      "latitude": 49.171072,
+      "longitude": 16.58684
+    },
+    {
+      "name": "SSO Oblá",
+      "latitude": 49.174052,
+      "longitude": 16.558433
+    },
+    {
+      "name": "SSO Točná",
+      "latitude": 49.163092,
+      "longitude": 16.559929
+    },
+    {
+      "name": "Recyklační centrum, sběrný dvůr odpadů obce Ostopovice",
+      "latitude": 49.164707,
+      "longitude": 16.545567
+    },
+    {
+      "name": "SSO Vídeňská-Jílová",
+      "latitude": 49.177245,
+      "longitude": 16.594355
+    },
+    {
+      "name": "Sběrný dvůr Brno Starý Lískovec, ulice Vltavská",
+      "latitude": 49.169258,
+      "longitude": 16.564981
+    },
+    {
+      "name": "SSO Mikulčická",
+      "latitude": 49.181328,
+      "longitude": 16.690426
+    },
+    {
+      "name": "SSO Zemanova-Černozemní",
+      "latitude": 49.176675,
+      "longitude": 16.682368
+    },
+    {
+      "name": "SSO Mírová",
+      "latitude": 49.176791,
+      "longitude": 16.633759
+    },
+    {
+      "name": "SSO Bratří Žůrků",
+      "latitude": 49.175671,
+      "longitude": 16.62908
+    },
+    {
+      "name": "Sběrný dvůr Podolí",
+      "latitude": 49.192686,
+      "longitude": 16.734488
+    },
+    {
+      "name": "Kovošrot Kovalovice",
+      "latitude": 49.201087,
+      "longitude": 16.827007
+    },
+    {
+      "name": "Sběrný dvůr Pozořice",
+      "latitude": 49.202725,
+      "longitude": 16.790027
+    },
+    {
+      "name": "Středisko sběrného odpadu Dlouhá",
+      "latitude": 49.163901,
+      "longitude": 16.730989
+    },
+    {
+      "name": "Kontejnery na BIO odpad",
+      "latitude": 49.164011,
+      "longitude": 16.755747
+    },
+    {
+      "name": "Sběrné středisko odpadů - Zemědělská",
+      "latitude": 49.169511,
+      "longitude": 16.733994
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.142909,
+      "longitude": 15.677547
+    },
+    {
+      "name": "Kontejner na bio odpad",
+      "latitude": 49.055206,
+      "longitude": 15.660562
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.109831,
+      "longitude": 16.055962
+    },
+    {
+      "name": "Sběrný dvůr Rouchovany",
+      "latitude": 49.067118,
+      "longitude": 16.117171
+    },
+    {
+      "name": "Sběrný dvůr Korolupy",
+      "latitude": 48.929878,
+      "longitude": 15.646686
+    },
+    {
+      "name": "Sběrný dvůr Jevišovice",
+      "latitude": 48.988159,
+      "longitude": 15.992112
+    },
+    {
+      "name": "Sběrný dvůr Pavlice",
+      "latitude": 48.97247,
+      "longitude": 15.893586
+    },
+    {
+      "name": "Sběrný dvůr Neslovice",
+      "latitude": 49.147076,
+      "longitude": 16.384999
+    },
+    {
+      "name": "Sběrné místo",
+      "latitude": 49.137085,
+      "longitude": 16.475359
+    },
+    {
+      "name": "Místo zpětného odběru",
+      "latitude": 49.062111,
+      "longitude": 16.519521
+    },
+    {
+      "name": "Sběrný dvůr Dolní Kounice",
+      "latitude": 49.063522,
+      "longitude": 16.475278
+    },
+    {
+      "name": "Sběrný dvůr Modřice",
+      "latitude": 49.130233,
+      "longitude": 16.600659
+    },
+    {
+      "name": "HULMAN - kovošrot",
+      "latitude": 49.131487,
+      "longitude": 16.673477
+    },
+    {
+      "name": "SSO Malínská",
+      "latitude": 49.15124,
+      "longitude": 16.664953
+    },
+    {
+      "name": "SSO Sladovnická",
+      "latitude": 49.151836,
+      "longitude": 16.651725
+    },
+    {
+      "name": "SSO Zámecká",
+      "latitude": 49.132184,
+      "longitude": 16.645455
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.13636,
+      "longitude": 16.73106
+    },
+    {
+      "name": "Místo zpětného odběru použitých elektrozařízení",
+      "latitude": 49.139252,
+      "longitude": 16.762561
+    },
+    {
+      "name": "Šrot Gebeshuber s.r.o.",
+      "latitude": 49.11508,
+      "longitude": 16.731148
+    },
+    {
+      "name": "Sběrné středisko odpadů Sokolnice",
+      "latitude": 49.117278,
+      "longitude": 16.72647
+    },
+    {
+      "name": "Sběrný dvůr Újezd u Brna",
+      "latitude": 49.107937,
+      "longitude": 16.767102
+    },
+    {
+      "name": "Barko",
+      "latitude": 49.085006,
+      "longitude": 16.541409
+    },
+    {
+      "name": "SSO Syrovice",
+      "latitude": 49.078275,
+      "longitude": 16.547241
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.042377,
+      "longitude": 16.594003
+    },
+    {
+      "name": "Sběrný dvůr Blučina",
+      "latitude": 49.057548,
+      "longitude": 16.645125
+    },
+    {
+      "name": "FCC Česká republika, s.r.o.",
+      "latitude": 48.948696,
+      "longitude": 16.318679
+    },
+    {
+      "name": "Kovošrot",
+      "latitude": 48.976748,
+      "longitude": 16.516785
+    },
+    {
+      "name": "Sběrný dvůr Diváky",
+      "latitude": 48.988435,
+      "longitude": 16.7919
+    },
+    {
+      "name": "třídění a likvidace odpadu po povodních",
+      "latitude": 50.273019,
+      "longitude": 17.265043
+    },
+    {
+      "name": "Sorted waste",
+      "latitude": 50.265734,
+      "longitude": 17.395439
+    },
+    {
+      "name": "Sběrné místo Jindřichov",
+      "latitude": 50.252052,
+      "longitude": 17.521765
+    },
+    {
+      "name": "Sběrný dvůr Třemešná",
+      "latitude": 50.204499,
+      "longitude": 17.576381
+    },
+    {
+      "name": "Sběrný dvůr Staré město",
+      "latitude": 50.153323,
+      "longitude": 16.949487
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 50.173872,
+      "longitude": 17.579438
+    },
+    {
+      "name": "Sběrný dvůr Opavská",
+      "latitude": 50.086495,
+      "longitude": 17.725461
+    },
+    {
+      "name": "E-domek",
+      "latitude": 50.04114,
+      "longitude": 17.049239
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.970822,
+      "longitude": 16.964464
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.963257,
+      "longitude": 16.995266
+    },
+    {
+      "name": "Sběrný dvůr Opava Kateřinky, Hálkova",
+      "latitude": 49.944139,
+      "longitude": 17.912132
+    },
+    {
+      "name": "kontejnér na sklo a drobné elektro",
+      "latitude": 49.93791,
+      "longitude": 17.971419
+    },
+    {
+      "name": "kontejnér na sklo",
+      "latitude": 49.933687,
+      "longitude": 17.972208
+    },
+    {
+      "name": "Sběrný dvůr Bolatice",
+      "latitude": 49.946352,
+      "longitude": 18.085311
+    },
+    {
+      "name": "Kovošrot",
+      "latitude": 49.920357,
+      "longitude": 17.936512
+    },
+    {
+      "name": "Technické zázemí obce Hať",
+      "latitude": 49.94492,
+      "longitude": 18.231717
+    },
+    {
+      "name": "Kompostárna",
+      "latitude": 49.885504,
+      "longitude": 18.19561
+    },
+    {
+      "name": "Sběrný dvůr Ostrava-Třebovice",
+      "latitude": 49.839091,
+      "longitude": 18.192666
+    },
+    {
+      "name": "Sběrný dvůr Krásné Pole",
+      "latitude": 49.842066,
+      "longitude": 18.13262
+    },
+    {
+      "name": "Sběrný dvůr Ostrava-Přívoz",
+      "latitude": 49.856731,
+      "longitude": 18.260309
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.899111,
+      "longitude": 18.467047
+    },
+    {
+      "name": "Žerotínova",
+      "latitude": 49.838986,
+      "longitude": 18.283183
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 49.841742,
+      "longitude": 18.333141
+    },
+    {
+      "name": "Sběrné místo Dvorce",
+      "latitude": 49.835098,
+      "longitude": 17.548444
+    },
+    {
+      "name": "Kompostárna Litovel",
+      "latitude": 49.686019,
+      "longitude": 17.047846
+    },
+    {
+      "name": "Sběrný dvůr Litovel",
+      "latitude": 49.686435,
+      "longitude": 17.050618
+    },
+    {
+      "name": "MAD Papír",
+      "latitude": 49.699006,
+      "longitude": 17.072252
+    },
+    {
+      "name": "Sběrný dvůr Litovel",
+      "latitude": 49.690109,
+      "longitude": 17.072022
+    },
+    {
+      "name": "Sběrný dvůr Štěpánov",
+      "latitude": 49.688162,
+      "longitude": 17.208012
+    },
+    {
+      "name": "Kompostárna",
+      "latitude": 49.718849,
+      "longitude": 17.322578
+    },
+    {
+      "name": "Výkupna železného odpadu",
+      "latitude": 49.672386,
+      "longitude": 17.228412
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.636212,
+      "longitude": 17.278395
+    },
+    {
+      "name": "Tříděný odpad",
+      "latitude": 49.638889,
+      "longitude": 17.280682
+    },
+    {
+      "name": "Sběrný dvůr Ostrava - Poruba",
+      "latitude": 49.820586,
+      "longitude": 18.174191
+    },
+    {
+      "name": "Sběrný dvůr Ostrava - Mariánské Hory",
+      "latitude": 49.83393,
+      "longitude": 18.248717
+    },
+    {
+      "name": "Sběrna surovin",
+      "latitude": 49.796392,
+      "longitude": 18.241894
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.796159,
+      "longitude": 18.229059
+    },
+    {
+      "name": "Sběrný dvůr OZO",
+      "latitude": 49.781245,
+      "longitude": 18.160972
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.75667,
+      "longitude": 18.198911
+    },
+    {
+      "name": "Sběrný dvůr Obec Stará Ves nad Ondřejnicí",
+      "latitude": 49.724091,
+      "longitude": 18.186811
+    },
+    {
+      "name": "Sběrné dvory - provozovna Brušperk",
+      "latitude": 49.698751,
+      "longitude": 18.217944
+    },
+    {
+      "name": "Kovošrot - Partr spol. s. r. o.",
+      "latitude": 49.644654,
+      "longitude": 18.148354
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.633917,
+      "longitude": 18.140845
+    },
+    {
+      "name": "Kompostárna Příbor",
+      "latitude": 49.626222,
+      "longitude": 18.133617
+    },
+    {
+      "name": "Sběrný dvůr Příbor",
+      "latitude": 49.626603,
+      "longitude": 18.13398
+    },
+    {
+      "name": "Sběrný dvůr Konice",
+      "latitude": 49.591704,
+      "longitude": 16.883447
+    },
+    {
+      "name": "Sběrný dvůr Neředín",
+      "latitude": 49.59714,
+      "longitude": 17.216893
+    },
+    {
+      "name": "Sběrný dvůr Kostelec na Hané",
+      "latitude": 49.514563,
+      "longitude": 17.066433
+    },
+    {
+      "name": "kontejnery pro Urxova 15, 17, 19",
+      "latitude": 49.604831,
+      "longitude": 17.253422
+    },
+    {
+      "name": "Sběrový dvůr",
+      "latitude": 49.592177,
+      "longitude": 17.292785
+    },
+    {
+      "name": "Kontejnery BP Stavby Morava",
+      "latitude": 49.58353,
+      "longitude": 17.260916
+    },
+    {
+      "name": "Sběrné místo Přáslavice",
+      "latitude": 49.589844,
+      "longitude": 17.394808
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.5696,
+      "longitude": 17.259694
+    },
+    {
+      "name": "Bergasto Enviroment",
+      "latitude": 49.532233,
+      "longitude": 17.378645
+    },
+    {
+      "name": "Sběrný dvůr Velký Týnec",
+      "latitude": 49.550396,
+      "longitude": 17.325288
+    },
+    {
+      "name": "Pragometal Sběrna Lipník",
+      "latitude": 49.528911,
+      "longitude": 17.574852
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 49.472788,
+      "longitude": 17.046208
+    },
+    {
+      "name": "Sběrný dvůr města Plumlova",
+      "latitude": 49.467543,
+      "longitude": 17.011359
+    },
+    {
+      "name": "PV Recyklace",
+      "latitude": 49.47188,
+      "longitude": 17.131014
+    },
+    {
+      "name": "Sběrný dvůr Průmyslová",
+      "latitude": 49.475029,
+      "longitude": 17.131181
+    },
+    {
+      "name": "SPV RECYCLING Prostějov",
+      "latitude": 49.474652,
+      "longitude": 17.131545
+    },
+    {
+      "name": "FCC Environment",
+      "latitude": 49.469956,
+      "longitude": 17.154045
+    },
+    {
+      "name": "Sběrný dvůr Anenská",
+      "latitude": 49.467831,
+      "longitude": 17.093201
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.452989,
+      "longitude": 17.095355
+    },
+    {
+      "name": "Sebranka",
+      "latitude": 49.466009,
+      "longitude": 17.130255
+    },
+    {
+      "name": "Sběrný dvůr Určice",
+      "latitude": 49.431897,
+      "longitude": 17.071177
+    },
+    {
+      "name": "DOKOV",
+      "latitude": 49.420007,
+      "longitude": 17.140767
+    },
+    {
+      "name": "SBĚRNÝ DVŮR",
+      "latitude": 49.383349,
+      "longitude": 17.07523
+    },
+    {
+      "name": "Sběrný dvůr Na Hrázi",
+      "latitude": 49.459045,
+      "longitude": 17.43935
+    },
+    {
+      "name": "Sběrný dvůr Gen. Fajtla",
+      "latitude": 49.447595,
+      "longitude": 17.475676
+    },
+    {
+      "name": "Sběrný Dvůr Lipník nad Bečvou",
+      "latitude": 49.528977,
+      "longitude": 17.578847
+    },
+    {
+      "name": "Sběrný dvůr odpadů",
+      "latitude": 49.582433,
+      "longitude": 17.954145
+    },
+    {
+      "name": "Recyklační středisko Nový Jičín",
+      "latitude": 49.603446,
+      "longitude": 18.029523
+    },
+    {
+      "name": "Separační dvůr Suvorovová ulice",
+      "latitude": 49.606633,
+      "longitude": 18.028894
+    },
+    {
+      "name": "Sběrný dvůr Kopřivnice",
+      "latitude": 49.603309,
+      "longitude": 18.162908
+    },
+    {
+      "name": "Sběrné místo odpadu Kozlovice",
+      "latitude": 49.591149,
+      "longitude": 18.255026
+    },
+    {
+      "name": "Kompostárna",
+      "latitude": 49.533671,
+      "longitude": 18.072098
+    },
+    {
+      "name": "Technické služby",
+      "latitude": 49.543981,
+      "longitude": 18.230286
+    },
+    {
+      "name": "Sběrný dvůr Rožnov pod Radhoštěm",
+      "latitude": 49.461773,
+      "longitude": 18.116021
+    },
+    {
+      "name": "Sběrný dvůr Vigantice",
+      "latitude": 49.444986,
+      "longitude": 18.181609
+    },
+    {
+      "name": "Sběrný dvůr Bystřička",
+      "latitude": 49.418178,
+      "longitude": 17.961206
+    },
+    {
+      "name": "Výkup železa",
+      "latitude": 49.430707,
+      "longitude": 18.228391
+    },
+    {
+      "name": "Sběrný dvůr Hutisko-Solanec",
+      "latitude": 49.433355,
+      "longitude": 18.207937
+    },
+    {
+      "name": "Sběrmý dvůr Valašská Bystřice",
+      "latitude": 49.409704,
+      "longitude": 18.115775
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.816131,
+      "longitude": 18.329791
+    },
+    {
+      "name": "Sběrný dvůr Petřvald",
+      "latitude": 49.829533,
+      "longitude": 18.380127
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.784839,
+      "longitude": 18.287926
+    },
+    {
+      "name": "Výkup druhotnách surovin",
+      "latitude": 49.803121,
+      "longitude": 18.448968
+    },
+    {
+      "name": "Kontejnerové stanoviště 316",
+      "latitude": 49.792023,
+      "longitude": 18.460587
+    },
+    {
+      "name": "Kontejnerové stanoviště  314",
+      "latitude": 49.792469,
+      "longitude": 18.459295
+    },
+    {
+      "name": "Kontejnerové stanoviště 311",
+      "latitude": 49.792306,
+      "longitude": 18.457484
+    },
+    {
+      "name": "Sběrný dvůr Albrechtice",
+      "latitude": 49.79245,
+      "longitude": 18.526774
+    },
+    {
+      "name": "Sběrný dvůr Horní Suchá",
+      "latitude": 49.798476,
+      "longitude": 18.489883
+    },
+    {
+      "name": "Sběrný dvůr Ostrava-Hrabová",
+      "latitude": 49.774294,
+      "longitude": 18.296506
+    },
+    {
+      "name": "Skup złomu",
+      "latitude": 49.762059,
+      "longitude": 18.615146
+    },
+    {
+      "name": "Sběrný dvůr Těrlicko",
+      "latitude": 49.748461,
+      "longitude": 18.490107
+    },
+    {
+      "name": "Sběrný dvůr Český Těšín",
+      "latitude": 49.740463,
+      "longitude": 18.616435
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.682376,
+      "longitude": 18.366256
+    },
+    {
+      "name": "žel. stanice Frýdek-Místek",
+      "latitude": 49.677592,
+      "longitude": 18.354423
+    },
+    {
+      "name": "Novodvorská 3076",
+      "latitude": 49.679348,
+      "longitude": 18.366062
+    },
+    {
+      "name": "Jana Čapka 3092",
+      "latitude": 49.679423,
+      "longitude": 18.366454
+    },
+    {
+      "name": "Bioskládka Sviadnov",
+      "latitude": 49.690479,
+      "longitude": 18.312173
+    },
+    {
+      "name": "Sběrný dvůr Dobrá",
+      "latitude": 49.675767,
+      "longitude": 18.412949
+    },
+    {
+      "name": "Sběrný dvůr Baška",
+      "latitude": 49.642189,
+      "longitude": 18.353968
+    },
+    {
+      "name": "Dvoreček Janovice",
+      "latitude": 49.618364,
+      "longitude": 18.410488
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.626282,
+      "longitude": 18.456788
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.635811,
+      "longitude": 18.456166
+    },
+    {
+      "name": "Sběrný dvůr a kompostárna Třinec",
+      "latitude": 49.663929,
+      "longitude": 18.651948
+    },
+    {
+      "name": "AVE CZ",
+      "latitude": 49.604763,
+      "longitude": 18.35979
+    },
+    {
+      "name": "Sběrný dvůr Čeladná",
+      "latitude": 49.559232,
+      "longitude": 18.348752
+    },
+    {
+      "name": "Sběrný dvůr Morávka",
+      "latitude": 49.602517,
+      "longitude": 18.519201
+    },
+    {
+      "name": "Sběrný dvůr Ostravice",
+      "latitude": 49.5306,
+      "longitude": 18.397293
+    },
+    {
+      "name": "Morávka, u Bebků",
+      "latitude": 49.529385,
+      "longitude": 18.551548
+    },
+    {
+      "name": "Sběrný dvůr SMOLO",
+      "latitude": 49.575455,
+      "longitude": 18.759114
+    },
+    {
+      "name": "Sběrný dvůr TS Jablunkov",
+      "latitude": 49.577062,
+      "longitude": 18.767736
+    },
+    {
+      "name": "Sběrný dvůr Kyselovice",
+      "latitude": 49.373902,
+      "longitude": 17.401962
+    },
+    {
+      "name": "Sběrný dvůr města Chropyně",
+      "latitude": 49.367439,
+      "longitude": 17.359311
+    },
+    {
+      "name": "Sběrný dvůr Rousínov",
+      "latitude": 49.194048,
+      "longitude": 16.884319
+    },
+    {
+      "name": "MS - ŠROT",
+      "latitude": 49.20208,
+      "longitude": 16.875721
+    },
+    {
+      "name": "Sběrný dvůr Kvasice",
+      "latitude": 49.243495,
+      "longitude": 17.471678
+    },
+    {
+      "name": "Sběrný dvůr Sazovice",
+      "latitude": 49.239307,
+      "longitude": 17.567926
+    },
+    {
+      "name": "Sběrné hnízdo Skály",
+      "latitude": 49.234499,
+      "longitude": 17.518997
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 49.218383,
+      "longitude": 17.508834
+    },
+    {
+      "name": "Sběrný dvůr města Napajedla",
+      "latitude": 49.165884,
+      "longitude": 17.514714
+    },
+    {
+      "name": "Sběrný dvůr Prusinovice",
+      "latitude": 49.37909,
+      "longitude": 17.584897
+    },
+    {
+      "name": "KST Holešov, s.r.o.",
+      "latitude": 49.325515,
+      "longitude": 17.580773
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.347474,
+      "longitude": 17.6786
+    },
+    {
+      "name": "Technické služby Holešov s.r.o.",
+      "latitude": 49.322484,
+      "longitude": 17.583628
+    },
+    {
+      "name": "Sběrné místo",
+      "latitude": 49.297804,
+      "longitude": 17.787116
+    },
+    {
+      "name": "Sběrný středisko odpadu Karolinka",
+      "latitude": 49.35019,
+      "longitude": 18.249178
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 49.216641,
+      "longitude": 17.642165
+    },
+    {
+      "name": "sběrný dvůr Zálešná",
+      "latitude": 49.234142,
+      "longitude": 17.686175
+    },
+    {
+      "name": "Sběrný dvůr Malenovice",
+      "latitude": 49.208635,
+      "longitude": 17.59217
+    },
+    {
+      "name": "Sběrné místo Lhota",
+      "latitude": 49.171123,
+      "longitude": 17.605706
+    },
+    {
+      "name": "Sběrné místo bioodpadu",
+      "latitude": 49.166129,
+      "longitude": 17.841402
+    },
+    {
+      "name": "sběrný dvůr Slopné",
+      "latitude": 49.154128,
+      "longitude": 17.851557
+    },
+    {
+      "name": "Odpadové centrum Lačnov",
+      "latitude": 49.17314,
+      "longitude": 18.013924
+    },
+    {
+      "name": "Odpadové centrum",
+      "latitude": 49.112918,
+      "longitude": 17.164507
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.137472,
+      "longitude": 17.497121
+    },
+    {
+      "name": "Sběrné místo tříděných odpadů Obce Huštěnovice",
+      "latitude": 49.102113,
+      "longitude": 17.469598
+    },
+    {
+      "name": "sběrné suroviny UH",
+      "latitude": 49.098282,
+      "longitude": 17.550302
+    },
+    {
+      "name": "Sběrný dvůr Buchlovice Křížné cesty",
+      "latitude": 49.07682,
+      "longitude": 17.358187
+    },
+    {
+      "name": "Puruplast, a.s.",
+      "latitude": 49.043123,
+      "longitude": 17.395586
+    },
+    {
+      "name": "Sběrný dvůr Mistřice",
+      "latitude": 49.084385,
+      "longitude": 17.5477
+    },
+    {
+      "name": "Cihlarska Recycling point",
+      "latitude": 49.039533,
+      "longitude": 17.470181
+    },
+    {
+      "name": "Bioodpad - pouze dřeviny",
+      "latitude": 48.982578,
+      "longitude": 17.219393
+    },
+    {
+      "name": "Sběrný dvůr Brumovice",
+      "latitude": 48.961676,
+      "longitude": 16.907399
+    },
+    {
+      "name": "Sběrný dvůr Milotice",
+      "latitude": 48.955432,
+      "longitude": 17.127289
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.957105,
+      "longitude": 17.174505
+    },
+    {
+      "name": "Sběrný dvůr Vracov",
+      "latitude": 48.97477,
+      "longitude": 17.222483
+    },
+    {
+      "name": "Cervena Cesta Recyclying point",
+      "latitude": 49.034484,
+      "longitude": 17.466213
+    },
+    {
+      "name": "sběrna Šrot Morava",
+      "latitude": 48.976048,
+      "longitude": 17.312173
+    },
+    {
+      "name": "Sběrný dvůr Bzenec",
+      "latitude": 48.973046,
+      "longitude": 17.263253
+    },
+    {
+      "name": "Podzemní kontejnery",
+      "latitude": 48.950298,
+      "longitude": 17.378036
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 48.976507,
+      "longitude": 17.461656
+    },
+    {
+      "name": "Sběrný dvůr Hluk",
+      "latitude": 48.980111,
+      "longitude": 17.520684
+    },
+    {
+      "name": "Sběrný dvůr Březolupy",
+      "latitude": 49.121455,
+      "longitude": 17.584146
+    },
+    {
+      "name": "Sběrný dvůr Luhačovice",
+      "latitude": 49.085088,
+      "longitude": 17.731275
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 49.039183,
+      "longitude": 17.797742
+    },
+    {
+      "name": "Sběrný dvůr Rokytnice",
+      "latitude": 49.066255,
+      "longitude": 17.911227
+    },
+    {
+      "name": "Sběrný dvůr Vlachovice",
+      "latitude": 49.123153,
+      "longitude": 17.946389
+    },
+    {
+      "name": "Sběrný dvůr Újezdec",
+      "latitude": 49.033112,
+      "longitude": 17.684571
+    },
+    {
+      "name": "Sběrný dvůr Slavkov",
+      "latitude": 48.94619,
+      "longitude": 17.610801
+    },
+    {
+      "name": "Sběrný dvůr Strážný",
+      "latitude": 48.906193,
+      "longitude": 13.719671
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.854219,
+      "longitude": 14.209662
+    },
+    {
+      "name": "Zita Kájov s.r.o.",
+      "latitude": 48.815692,
+      "longitude": 14.260758
+    },
+    {
+      "name": "Sběrné suroviny, a.s.",
+      "latitude": 48.83138,
+      "longitude": 14.332027
+    },
+    {
+      "name": "CELIA CZ s.r.o.",
+      "latitude": 48.831896,
+      "longitude": 14.343644
+    },
+    {
+      "name": "sběrný dvůr",
+      "latitude": 48.810301,
+      "longitude": 14.333082
+    },
+    {
+      "name": "Kontejnerové stání ve Svatém Janu nad Malší",
+      "latitude": 48.820729,
+      "longitude": 14.5079
+    },
+    {
+      "name": "Sběrný dvůr Větřní",
+      "latitude": 48.77816,
+      "longitude": 14.29302
+    },
+    {
+      "name": "Kovošrot",
+      "latitude": 48.7447,
+      "longitude": 14.487274
+    },
+    {
+      "name": "Sběrný dvůr Kaplice, Omlenická ulice",
+      "latitude": 48.735626,
+      "longitude": 14.484935
+    },
+    {
+      "name": "Sběrný dvůr Jižní město Nové Hrady",
+      "latitude": 48.78519,
+      "longitude": 14.783475
+    },
+    {
+      "name": "Altstoffsammelzentrum",
+      "latitude": 48.762387,
+      "longitude": 14.96926
+    },
+    {
+      "name": "Sběrné místo",
+      "latitude": 48.640116,
+      "longitude": 14.232091
+    },
+    {
+      "name": "Sběrný dvůr Přímětice",
+      "latitude": 48.886293,
+      "longitude": 16.039944
+    },
+    {
+      "name": "sběrna surovin",
+      "latitude": 48.870424,
+      "longitude": 16.039479
+    },
+    {
+      "name": "Sběrný dvůr Znojmo",
+      "latitude": 48.850681,
+      "longitude": 16.073424
+    },
+    {
+      "name": "ZN metal",
+      "latitude": 48.847327,
+      "longitude": 16.065903
+    },
+    {
+      "name": "Překladiště odpadů Drnholec",
+      "latitude": 48.867599,
+      "longitude": 16.468607
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.859284,
+      "longitude": 16.490239
+    },
+    {
+      "name": "Sběrné místo Nový Přerov",
+      "latitude": 48.810655,
+      "longitude": 16.494352
+    },
+    {
+      "name": "Sběrný dvůr Starovičky",
+      "latitude": 48.91092,
+      "longitude": 16.771728
+    },
+    {
+      "name": "Sběrné místo Milovice",
+      "latitude": 48.853988,
+      "longitude": 16.70279
+    },
+    {
+      "name": "Altstoffsammelzentrum Laa/Thaya",
+      "latitude": 48.727004,
+      "longitude": 16.382845
+    },
+    {
+      "name": "Výkupna surovin",
+      "latitude": 48.806846,
+      "longitude": 16.641074
+    },
+    {
+      "name": "Sběrný dvůr Valtice",
+      "latitude": 48.748961,
+      "longitude": 16.749982
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.747484,
+      "longitude": 16.853848
+    },
+    {
+      "name": "Sběrný dvůr Vrbice",
+      "latitude": 48.915566,
+      "longitude": 16.888564
+    },
+    {
+      "name": "Sběrný dvůr Dolní Bojanovice",
+      "latitude": 48.858982,
+      "longitude": 17.037457
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.829911,
+      "longitude": 16.981516
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.858838,
+      "longitude": 17.137858
+    },
+    {
+      "name": "Kovosteel Recycling",
+      "latitude": 48.85176,
+      "longitude": 17.113929
+    },
+    {
+      "name": "Sběrný dvůr Lužice",
+      "latitude": 48.838022,
+      "longitude": 17.072252
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.835198,
+      "longitude": 17.175252
+    },
+    {
+      "name": "Sběrný dvůr Strážnice",
+      "latitude": 48.897485,
+      "longitude": 17.315834
+    },
+    {
+      "name": "Sběrný dvůr Kozojídky",
+      "latitude": 48.921417,
+      "longitude": 17.400205
+    },
+    {
+      "name": "Sběrný dvůr",
+      "latitude": 48.761951,
+      "longitude": 16.89028
+    },
+    {
+      "name": "SH Šrot",
+      "latitude": 48.759295,
+      "longitude": 16.895196
+    },
+    {
+      "name": "Zberný dvor",
+      "latitude": 48.781301,
+      "longitude": 17.110526
+    },
+    {
+      "name": "Sběrný dvůr Březová",
+      "latitude": 48.917449,
+      "longitude": 17.74404
+    }
+  ],
+  "meta": {
+    "title": "Sběrná místa - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných sběrných míst v České republice (719 záznamů) — body zájmu z OpenStreetMap (tag amenity=recycling), výřez EU-POIS/CZ. Obsahuje 719 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Sběrná místa | ListBase",
+    "seo_description": "Stáhnout Sběrná místa — 719 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 719 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

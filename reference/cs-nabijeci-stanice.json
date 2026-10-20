@@ -1,0 +1,4151 @@
+{
+  "id": "cs-nabijeci-stanice",
+  "name": "České nabíjecí stanice",
+  "title": "České nabíjecí stanice",
+  "description": "Seznam pojmenovaných nabíjecích stanic pro elektromobily v Česku (amenity=charging_station) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 822,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "/E/mobilita",
+      "latitude": 50.103166,
+      "longitude": 14.517919
+    },
+    {
+      "name": "1. Mezinárodní cykloturistické centrum služeb a informací v ČR",
+      "latitude": 48.838425,
+      "longitude": 16.058029
+    },
+    {
+      "name": "Africké muzeum Dr. Emila Holuba",
+      "latitude": 50.071542,
+      "longitude": 15.988134
+    },
+    {
+      "name": "Africké muzeum Safari",
+      "latitude": 50.141243,
+      "longitude": 17.476707
+    },
+    {
+      "name": "Air Restaurant Petrovice",
+      "latitude": 50.807566,
+      "longitude": 13.980362
+    },
+    {
+      "name": "Alza Power",
+      "latitude": 48.991547,
+      "longitude": 14.469193
+    },
+    {
+      "name": "Aparthotel Svatý Vavřinec",
+      "latitude": 50.695554,
+      "longitude": 15.737158
+    },
+    {
+      "name": "Aprés restaurant",
+      "latitude": 50.404583,
+      "longitude": 12.984223
+    },
+    {
+      "name": "Areál Heroltická",
+      "latitude": 49.987339,
+      "longitude": 16.733856
+    },
+    {
+      "name": "Areál Kouty",
+      "latitude": 50.100281,
+      "longitude": 17.116308
+    },
+    {
+      "name": "Areál Loděnice v parku Boženy Němcové",
+      "latitude": 49.848191,
+      "longitude": 18.536077
+    },
+    {
+      "name": "Areál městských sportovišť Tachov - restaurace U Vodníka",
+      "latitude": 49.796736,
+      "longitude": 12.627503
+    },
+    {
+      "name": "Areál Obří sud Javorník",
+      "latitude": 50.701136,
+      "longitude": 15.075978
+    },
+    {
+      "name": "Areál Skiland - Hotel",
+      "latitude": 50.185263,
+      "longitude": 17.050859
+    },
+    {
+      "name": "Areál Skiland - Kemp a Cyklopoint",
+      "latitude": 50.185913,
+      "longitude": 17.052622
+    },
+    {
+      "name": "ARTIN Brno",
+      "latitude": 49.236515,
+      "longitude": 16.571507
+    },
+    {
+      "name": "Atletický stadion",
+      "latitude": 49.759556,
+      "longitude": 16.651834
+    },
+    {
+      "name": "Auto Hégr",
+      "latitude": 49.955113,
+      "longitude": 16.965742
+    },
+    {
+      "name": "Auto Kemp U Lesa",
+      "latitude": 50.370433,
+      "longitude": 13.308059
+    },
+    {
+      "name": "Autobusové nádraží Břidličná",
+      "latitude": 49.913151,
+      "longitude": 17.373547
+    },
+    {
+      "name": "Autocamp Červený Hrádek",
+      "latitude": 50.510643,
+      "longitude": 13.458137
+    },
+    {
+      "name": "Autokemp Buňkov",
+      "latitude": 50.054527,
+      "longitude": 15.586006
+    },
+    {
+      "name": "Autokemp Koryčany",
+      "latitude": 49.116061,
+      "longitude": 17.185395
+    },
+    {
+      "name": "Autokemp Na Terasách",
+      "latitude": 48.738249,
+      "longitude": 14.103052
+    },
+    {
+      "name": "Autokemp Podhradí",
+      "latitude": 49.809856,
+      "longitude": 17.754221
+    },
+    {
+      "name": "Autokemp Primátor Litomyšl",
+      "latitude": 49.867722,
+      "longitude": 16.32346
+    },
+    {
+      "name": "Autokemp Prunéřov",
+      "latitude": 50.433091,
+      "longitude": 13.259422
+    },
+    {
+      "name": "Autokemp Seč Pláž",
+      "latitude": 49.842827,
+      "longitude": 15.647571
+    },
+    {
+      "name": "Autokemp Vikletice",
+      "latitude": 50.351603,
+      "longitude": 13.394666
+    },
+    {
+      "name": "B\\V vinařství - prodejna",
+      "latitude": 48.966116,
+      "longitude": 17.141072
+    },
+    {
+      "name": "Bar V Sadu",
+      "latitude": 50.219674,
+      "longitude": 12.189464
+    },
+    {
+      "name": "Beerrarium Stará Sladovna",
+      "latitude": 49.894021,
+      "longitude": 12.728948
+    },
+    {
+      "name": "Bike Bistro U Všech andělů",
+      "latitude": 50.924325,
+      "longitude": 15.232592
+    },
+    {
+      "name": "Bila",
+      "latitude": 48.800569,
+      "longitude": 16.631576
+    },
+    {
+      "name": "BILA Mikulov",
+      "latitude": 48.801746,
+      "longitude": 16.628905
+    },
+    {
+      "name": "Bistro Andrea",
+      "latitude": 50.371135,
+      "longitude": 12.815214
+    },
+    {
+      "name": "Bistro Jakubov",
+      "latitude": 50.310001,
+      "longitude": 13.033518
+    },
+    {
+      "name": "Bistro U Trumpetky",
+      "latitude": 50.482616,
+      "longitude": 14.237533
+    },
+    {
+      "name": "Bistro Zelňačka",
+      "latitude": 50.421555,
+      "longitude": 13.112078
+    },
+    {
+      "name": "Bohunice Pod Nemocnicí",
+      "latitude": 49.173131,
+      "longitude": 16.572863
+    },
+    {
+      "name": "Bohunice Švermova",
+      "latitude": 49.169237,
+      "longitude": 16.573822
+    },
+    {
+      "name": "Bosch eBike Systems",
+      "latitude": 49.87075,
+      "longitude": 16.310392
+    },
+    {
+      "name": "Bowling Bar Peklo",
+      "latitude": 49.869461,
+      "longitude": 16.314271
+    },
+    {
+      "name": "BOWLING SPORT CENTRUM s.r.o.",
+      "latitude": 48.801546,
+      "longitude": 16.642805
+    },
+    {
+      "name": "Breda WEINSTEIN",
+      "latitude": 49.941327,
+      "longitude": 17.901223
+    },
+    {
+      "name": "Brno Sever Brožíkova",
+      "latitude": 49.226447,
+      "longitude": 16.621102
+    },
+    {
+      "name": "Brno Sever Marie Majerové",
+      "latitude": 49.220382,
+      "longitude": 16.633168
+    },
+    {
+      "name": "Brno Sever náměstí SNP",
+      "latitude": 49.219109,
+      "longitude": 16.619955
+    },
+    {
+      "name": "Brno Sever Zemědělská",
+      "latitude": 49.209448,
+      "longitude": 16.616491
+    },
+    {
+      "name": "Brno Sever Černopolní",
+      "latitude": 49.202997,
+      "longitude": 16.618428
+    },
+    {
+      "name": "Brno Střed Benešova",
+      "latitude": 49.192628,
+      "longitude": 16.613826
+    },
+    {
+      "name": "Brno střed Burešova",
+      "latitude": 49.204994,
+      "longitude": 16.602568
+    },
+    {
+      "name": "Brno Střed Křídlovická",
+      "latitude": 49.185285,
+      "longitude": 16.603691
+    },
+    {
+      "name": "Brno Střed Mendlovo náměstí",
+      "latitude": 49.190756,
+      "longitude": 16.594432
+    },
+    {
+      "name": "Brno Střed Rybářská",
+      "latitude": 49.187982,
+      "longitude": 16.591272
+    },
+    {
+      "name": "Brno Střed Táborského nábřeží",
+      "latitude": 49.185912,
+      "longitude": 16.595047
+    },
+    {
+      "name": "Brno Střed třída Kpt. Jaroše",
+      "latitude": 49.202049,
+      "longitude": 16.610615
+    },
+    {
+      "name": "Brno Střed Vídeňská",
+      "latitude": 49.176239,
+      "longitude": 16.597508
+    },
+    {
+      "name": "Brno Střed Ústřední hřbitov",
+      "latitude": 49.17025,
+      "longitude": 16.598314
+    },
+    {
+      "name": "Brno-Jih Hodonínská",
+      "latitude": 49.177438,
+      "longitude": 16.623117
+    },
+    {
+      "name": "Budova Jednotky sboru dobrovolných hasičů",
+      "latitude": 49.867972,
+      "longitude": 18.569044
+    },
+    {
+      "name": "Budova SDH Vranovice",
+      "latitude": 48.967983,
+      "longitude": 16.604982
+    },
+    {
+      "name": "BVV hlavní vchod 1",
+      "latitude": 49.188237,
+      "longitude": 16.586114
+    },
+    {
+      "name": "BVV hlavní vchod 2",
+      "latitude": 49.188209,
+      "longitude": 16.586066
+    },
+    {
+      "name": "BVV hlavní vchod 3",
+      "latitude": 49.18818,
+      "longitude": 16.586022
+    },
+    {
+      "name": "Bylinková čajovna a infocentrum Nobilis Tilia",
+      "latitude": 50.931904,
+      "longitude": 14.465234
+    },
+    {
+      "name": "Bystrc - Jih Černého",
+      "latitude": 49.216932,
+      "longitude": 16.526055
+    },
+    {
+      "name": "Bystrc Ečerova",
+      "latitude": 49.219189,
+      "longitude": 16.508681
+    },
+    {
+      "name": "Bystrc Jakuba Obrovského",
+      "latitude": 49.225611,
+      "longitude": 16.532527
+    },
+    {
+      "name": "Bystrc Lýskova",
+      "latitude": 49.217603,
+      "longitude": 16.507693
+    },
+    {
+      "name": "Bystrc OC Javor",
+      "latitude": 49.225246,
+      "longitude": 16.530951
+    },
+    {
+      "name": "Bystrc Panorama",
+      "latitude": 49.222313,
+      "longitude": 16.515435
+    },
+    {
+      "name": "Bystrc Přehrada",
+      "latitude": 49.2299,
+      "longitude": 16.518172
+    },
+    {
+      "name": "Bystrc Valouškova",
+      "latitude": 49.225868,
+      "longitude": 16.521748
+    },
+    {
+      "name": "Bystrc Černého",
+      "latitude": 49.215063,
+      "longitude": 16.52309
+    },
+    {
+      "name": "Bystrc Říčanská",
+      "latitude": 49.217433,
+      "longitude": 16.499061
+    },
+    {
+      "name": "Bystrc Štouračova",
+      "latitude": 49.216639,
+      "longitude": 16.518529
+    },
+    {
+      "name": "Bystřec",
+      "latitude": 50.012129,
+      "longitude": 16.623538
+    },
+    {
+      "name": "Bystřice nad Pernštejnem",
+      "latitude": 49.522796,
+      "longitude": 16.260706
+    },
+    {
+      "name": "Bánov Gemnet.cz",
+      "latitude": 48.994517,
+      "longitude": 17.711695
+    },
+    {
+      "name": "Cafe Sun Benedicto",
+      "latitude": 49.413366,
+      "longitude": 13.279487
+    },
+    {
+      "name": "CATEGORY",
+      "latitude": 49.148114,
+      "longitude": 16.602803
+    },
+    {
+      "name": "CCS/CHAdeMO and Mennekes type2",
+      "latitude": 49.846075,
+      "longitude": 18.149073
+    },
+    {
+      "name": "Centrum BENEDIKT",
+      "latitude": 50.492996,
+      "longitude": 13.67049
+    },
+    {
+      "name": "Centrum pro vzdělávání a kulturu Nový Oldřichov",
+      "latitude": 50.759949,
+      "longitude": 14.433739
+    },
+    {
+      "name": "Centrum volného času Košťálov",
+      "latitude": 50.571825,
+      "longitude": 15.399463
+    },
+    {
+      "name": "Centrum zdraví Bohuňovice",
+      "latitude": 49.661316,
+      "longitude": 17.283791
+    },
+    {
+      "name": "Chalupa Na Rozcestí",
+      "latitude": 50.705798,
+      "longitude": 15.674769
+    },
+    {
+      "name": "Chata a restaurace Na Zátiší",
+      "latitude": 50.026831,
+      "longitude": 17.27073
+    },
+    {
+      "name": "Chata AMOR OOCR Záhorie",
+      "latitude": 48.827701,
+      "longitude": 17.297996
+    },
+    {
+      "name": "Chata Barbora",
+      "latitude": 50.707521,
+      "longitude": 13.565491
+    },
+    {
+      "name": "Chata Bernava",
+      "latitude": 50.550114,
+      "longitude": 13.352895
+    },
+    {
+      "name": "Chata Florian",
+      "latitude": 50.734045,
+      "longitude": 13.905482
+    },
+    {
+      "name": "Chata Ořovský",
+      "latitude": 49.145118,
+      "longitude": 13.245688
+    },
+    {
+      "name": "Chata Paprsek",
+      "latitude": 50.210072,
+      "longitude": 16.990187
+    },
+    {
+      "name": "Chata Polanka",
+      "latitude": 49.844961,
+      "longitude": 16.127773
+    },
+    {
+      "name": "Chata Ski klub Zlatý Potok",
+      "latitude": 49.750505,
+      "longitude": 12.4358
+    },
+    {
+      "name": "Chata Skřítek",
+      "latitude": 49.998913,
+      "longitude": 17.154278
+    },
+    {
+      "name": "Chata Červenohorské sedlo",
+      "latitude": 50.125298,
+      "longitude": 17.152641
+    },
+    {
+      "name": "Chatová osada a kemp Ostaš",
+      "latitude": 50.558463,
+      "longitude": 16.213987
+    },
+    {
+      "name": "Chrám Chmele a Piva CZ",
+      "latitude": 50.324676,
+      "longitude": 13.545177
+    },
+    {
+      "name": "Chvaletická vyhlídka Hornická Čtvrť",
+      "latitude": 50.023459,
+      "longitude": 15.427724
+    },
+    {
+      "name": "Château Cihelny",
+      "latitude": 50.176788,
+      "longitude": 12.839372
+    },
+    {
+      "name": "Cimburkova",
+      "latitude": 49.217031,
+      "longitude": 16.606157
+    },
+    {
+      "name": "Cukrárna Ella",
+      "latitude": 49.065881,
+      "longitude": 13.622655
+    },
+    {
+      "name": "Cyklo Stratílek",
+      "latitude": 50.21503,
+      "longitude": 15.860042
+    },
+    {
+      "name": "CYKLOCENTRUM depo33",
+      "latitude": 49.898145,
+      "longitude": 14.727578
+    },
+    {
+      "name": "CYKLOSAFE LITE ATYP Čelákovice, ZŠ Čelákovice",
+      "latitude": 50.161264,
+      "longitude": 14.748724
+    },
+    {
+      "name": "Cyklostojan s nabíjecí stanicí elektrokol 36V",
+      "latitude": 50.025494,
+      "longitude": 15.779252
+    },
+    {
+      "name": "Cyklostojan s nabíjecí stanicí elektrokol 36V",
+      "latitude": 50.047677,
+      "longitude": 15.750905
+    },
+    {
+      "name": "CYKLOŠVEC s.r.o.",
+      "latitude": 49.296533,
+      "longitude": 14.161589
+    },
+    {
+      "name": "Daramis - Unicity",
+      "latitude": 49.728743,
+      "longitude": 13.353381
+    },
+    {
+      "name": "Dačice Náměstí",
+      "latitude": 49.079338,
+      "longitude": 15.43739
+    },
+    {
+      "name": "Dobrovická muzea",
+      "latitude": 50.36617,
+      "longitude": 14.96369
+    },
+    {
+      "name": "Dobíjecí stanice E.ON",
+      "latitude": 49.411015,
+      "longitude": 15.60501
+    },
+    {
+      "name": "Dobíjecí stanice Lidl",
+      "latitude": 49.298706,
+      "longitude": 14.14556
+    },
+    {
+      "name": "Domini park 1",
+      "latitude": 49.19457,
+      "longitude": 16.605546
+    },
+    {
+      "name": "Domini park 2",
+      "latitude": 49.194549,
+      "longitude": 16.605546
+    },
+    {
+      "name": "Doubravka - Komunitní domov Suché",
+      "latitude": 50.632109,
+      "longitude": 13.912655
+    },
+    {
+      "name": "Dvůr Perlová Voda",
+      "latitude": 50.394888,
+      "longitude": 14.091998
+    },
+    {
+      "name": "Dětské hřiště",
+      "latitude": 49.745252,
+      "longitude": 15.097511
+    },
+    {
+      "name": "Dům přírody Českého krasu",
+      "latitude": 49.916111,
+      "longitude": 14.068889
+    },
+    {
+      "name": "Dům sportu Stratílek",
+      "latitude": 49.869473,
+      "longitude": 16.312973
+    },
+    {
+      "name": "E-Bike Charger",
+      "latitude": 49.51021,
+      "longitude": 17.55623
+    },
+    {
+      "name": "E-Bike Charger",
+      "latitude": 49.510824,
+      "longitude": 17.560884
+    },
+    {
+      "name": "e-station",
+      "latitude": 50.569406,
+      "longitude": 15.89335
+    },
+    {
+      "name": "E-WALD",
+      "latitude": 48.825637,
+      "longitude": 13.775962
+    },
+    {
+      "name": "E-WALD Ladestation",
+      "latitude": 49.122198,
+      "longitude": 13.203423
+    },
+    {
+      "name": "E.ON",
+      "latitude": 48.788232,
+      "longitude": 14.78279
+    },
+    {
+      "name": "E.ON",
+      "latitude": 49.255704,
+      "longitude": 13.915677
+    },
+    {
+      "name": "E.ON",
+      "latitude": 49.470027,
+      "longitude": 17.430461
+    },
+    {
+      "name": "E.ON",
+      "latitude": 49.601058,
+      "longitude": 17.222286
+    },
+    {
+      "name": "e.on",
+      "latitude": 49.71169,
+      "longitude": 17.291806
+    },
+    {
+      "name": "E.ON",
+      "latitude": 49.807598,
+      "longitude": 18.270709
+    },
+    {
+      "name": "E.ON",
+      "latitude": 49.846911,
+      "longitude": 18.148145
+    },
+    {
+      "name": "E.ON Area Bory Plzeň",
+      "latitude": 49.729653,
+      "longitude": 13.362722
+    },
+    {
+      "name": "E.ON Drive",
+      "latitude": 49.528112,
+      "longitude": 17.592253
+    },
+    {
+      "name": "E.ON Globus Opava",
+      "latitude": 49.928679,
+      "longitude": 17.93999
+    },
+    {
+      "name": "E.ON Sulejovice UFC",
+      "latitude": 50.50469,
+      "longitude": 14.051673
+    },
+    {
+      "name": "E.ON ČS Benzina Lovosice",
+      "latitude": 50.519577,
+      "longitude": 14.047609
+    },
+    {
+      "name": "E.ON ČS Benzina Plzeň",
+      "latitude": 49.698825,
+      "longitude": 13.42424
+    },
+    {
+      "name": "E.ON ČS MOL Ostrava Rudná směr Havířov",
+      "latitude": 49.797538,
+      "longitude": 18.240139
+    },
+    {
+      "name": "e:bike bar",
+      "latitude": 49.399621,
+      "longitude": 17.672392
+    },
+    {
+      "name": "ejoin",
+      "latitude": 49.021391,
+      "longitude": 18.074033
+    },
+    {
+      "name": "ejon",
+      "latitude": 49.225784,
+      "longitude": 16.577638
+    },
+    {
+      "name": "Elektrárna Chvaletice",
+      "latitude": 50.029717,
+      "longitude": 15.451083
+    },
+    {
+      "name": "Elektrárna Dlouhé Stráně - Občerstvení Rejhotice",
+      "latitude": 50.077526,
+      "longitude": 17.162531
+    },
+    {
+      "name": "Enelion",
+      "latitude": 50.130598,
+      "longitude": 14.515099
+    },
+    {
+      "name": "EON",
+      "latitude": 49.279114,
+      "longitude": 16.226978
+    },
+    {
+      "name": "EON",
+      "latitude": 49.54011,
+      "longitude": 15.356627
+    },
+    {
+      "name": "Eurocamp Barbora",
+      "latitude": 50.639565,
+      "longitude": 13.753414
+    },
+    {
+      "name": "EVmapa",
+      "latitude": 49.827651,
+      "longitude": 17.681945
+    },
+    {
+      "name": "EVmapa",
+      "latitude": 49.908945,
+      "longitude": 17.578674
+    },
+    {
+      "name": "EVmapa",
+      "latitude": 50.064928,
+      "longitude": 15.988395
+    },
+    {
+      "name": "evnabijecka.cz",
+      "latitude": 50.07155,
+      "longitude": 15.988135
+    },
+    {
+      "name": "FAJNTRIP",
+      "latitude": 50.360244,
+      "longitude": 12.719313
+    },
+    {
+      "name": "Farma Hvozd",
+      "latitude": 50.825466,
+      "longitude": 14.699685
+    },
+    {
+      "name": "Fast charger EuroOil Vsetín",
+      "latitude": 49.341826,
+      "longitude": 17.993197
+    },
+    {
+      "name": "Fast charger OMV Nýrsko",
+      "latitude": 49.297567,
+      "longitude": 13.148592
+    },
+    {
+      "name": "Flop-Top potraviny",
+      "latitude": 49.151335,
+      "longitude": 14.997266
+    },
+    {
+      "name": "FN u sv. Anny v Brně",
+      "latitude": 49.190337,
+      "longitude": 16.596878
+    },
+    {
+      "name": "FotbalPark Litomyšl",
+      "latitude": 49.868924,
+      "longitude": 16.328581
+    },
+    {
+      "name": "Free chargers",
+      "latitude": 50.511819,
+      "longitude": 14.052662
+    },
+    {
+      "name": "FreeOne shop",
+      "latitude": 50.519165,
+      "longitude": 13.240268
+    },
+    {
+      "name": "Fuchsova 1",
+      "latitude": 49.186619,
+      "longitude": 16.606631
+    },
+    {
+      "name": "Fuchsova 2",
+      "latitude": 49.186615,
+      "longitude": 16.606637
+    },
+    {
+      "name": "futurego",
+      "latitude": 49.588279,
+      "longitude": 17.263013
+    },
+    {
+      "name": "futurego",
+      "latitude": 50.080738,
+      "longitude": 14.414511
+    },
+    {
+      "name": "futurego",
+      "latitude": 50.080804,
+      "longitude": 14.451271
+    },
+    {
+      "name": "futurego",
+      "latitude": 50.081067,
+      "longitude": 12.377096
+    },
+    {
+      "name": "futurego",
+      "latitude": 50.0834,
+      "longitude": 14.434319
+    },
+    {
+      "name": "futurego",
+      "latitude": 50.23167,
+      "longitude": 12.850075
+    },
+    {
+      "name": "futurego",
+      "latitude": 50.646127,
+      "longitude": 13.986873
+    },
+    {
+      "name": "futurego",
+      "latitude": 50.658361,
+      "longitude": 14.040629
+    },
+    {
+      "name": "Galerie Vaňkovka",
+      "latitude": 49.188589,
+      "longitude": 16.614719
+    },
+    {
+      "name": "Galvena 1",
+      "latitude": 49.054684,
+      "longitude": 17.467656
+    },
+    {
+      "name": "Galvena 2",
+      "latitude": 49.054639,
+      "longitude": 17.467637
+    },
+    {
+      "name": "Galvena 3",
+      "latitude": 49.054595,
+      "longitude": 17.467617
+    },
+    {
+      "name": "Golf Club Teplice",
+      "latitude": 50.728008,
+      "longitude": 13.753502
+    },
+    {
+      "name": "Golf Resort Lázně Bohdaneč",
+      "latitude": 50.089941,
+      "longitude": 15.690383
+    },
+    {
+      "name": "Golf Česká Lípa",
+      "latitude": 50.714734,
+      "longitude": 14.548916
+    },
+    {
+      "name": "Grill a Restaurace Pod Lípami",
+      "latitude": 50.495918,
+      "longitude": 13.030396
+    },
+    {
+      "name": "Gymnázium Hladnov",
+      "latitude": 49.84583,
+      "longitude": 18.304626
+    },
+    {
+      "name": "GynPor Centrum",
+      "latitude": 50.089308,
+      "longitude": 17.706663
+    },
+    {
+      "name": "Harmonie Město Albrechtice",
+      "latitude": 50.162752,
+      "longitude": 17.564565
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.249596,
+      "longitude": 13.706867
+    },
+    {
+      "name": "Horova",
+      "latitude": 49.213604,
+      "longitude": 16.575554
+    },
+    {
+      "name": "Horská chata Hvězda",
+      "latitude": 50.743941,
+      "longitude": 15.363989
+    },
+    {
+      "name": "Horská Chata Plzeňka",
+      "latitude": 50.366238,
+      "longitude": 12.782109
+    },
+    {
+      "name": "Horská chata Portášky",
+      "latitude": 50.702112,
+      "longitude": 15.769127
+    },
+    {
+      "name": "Horské lázně Karlova Studánka",
+      "latitude": 50.073498,
+      "longitude": 17.306179
+    },
+    {
+      "name": "Horský hotel Lesná",
+      "latitude": 50.564739,
+      "longitude": 13.430616
+    },
+    {
+      "name": "Horský hotel Svahová",
+      "latitude": 50.551899,
+      "longitude": 13.411871
+    },
+    {
+      "name": "Horský hotel Čarták",
+      "latitude": 49.389426,
+      "longitude": 18.242794
+    },
+    {
+      "name": "Horský Resort Buková Hora",
+      "latitude": 50.006264,
+      "longitude": 16.734339
+    },
+    {
+      "name": "Hospoda Na hřišti",
+      "latitude": 49.981173,
+      "longitude": 18.052099
+    },
+    {
+      "name": "Hospoda U Alberta",
+      "latitude": 48.961458,
+      "longitude": 17.031311
+    },
+    {
+      "name": "Hospoda u Kosáku",
+      "latitude": 49.900329,
+      "longitude": 12.782893
+    },
+    {
+      "name": "Hospoda U Sikory",
+      "latitude": 49.519662,
+      "longitude": 18.832301
+    },
+    {
+      "name": "Hospůdka kemp Liapor",
+      "latitude": 50.211481,
+      "longitude": 12.819584
+    },
+    {
+      "name": "Hospůdka na hřišti",
+      "latitude": 49.931602,
+      "longitude": 17.998783
+    },
+    {
+      "name": "Hospůdka na hřišti v Bělé",
+      "latitude": 49.97263,
+      "longitude": 18.148667
+    },
+    {
+      "name": "Hospůdka U Eriška a Messiho",
+      "latitude": 49.956619,
+      "longitude": 18.044301
+    },
+    {
+      "name": "Hospůdka U Jungmanna - Obec Hudlice",
+      "latitude": 49.961533,
+      "longitude": 13.974291
+    },
+    {
+      "name": "Hospůdka U Letního kina",
+      "latitude": 50.532008,
+      "longitude": 14.143292
+    },
+    {
+      "name": "Hospůdka U Sulana",
+      "latitude": 49.320719,
+      "longitude": 14.157032
+    },
+    {
+      "name": "Hospůdka v Podlesí",
+      "latitude": 49.52398,
+      "longitude": 17.314556
+    },
+    {
+      "name": "Hostinec pod rozhlednou Železný Újezd",
+      "latitude": 49.562621,
+      "longitude": 13.674355
+    },
+    {
+      "name": "Hostinec U Coufalů",
+      "latitude": 49.922069,
+      "longitude": 16.395946
+    },
+    {
+      "name": "Hostinec u Jezeří",
+      "latitude": 50.567286,
+      "longitude": 13.522455
+    },
+    {
+      "name": "Hostinec u Čižinských",
+      "latitude": 49.522598,
+      "longitude": 14.427082
+    },
+    {
+      "name": "Hostinec U Šípků",
+      "latitude": 49.890359,
+      "longitude": 13.268818
+    },
+    {
+      "name": "Hostinec ve Starém Smolivci",
+      "latitude": 49.531371,
+      "longitude": 13.749304
+    },
+    {
+      "name": "Hotel a Pension Seeberg",
+      "latitude": 50.13225,
+      "longitude": 12.284965
+    },
+    {
+      "name": "Hotel a restaurace Loučky",
+      "latitude": 50.614813,
+      "longitude": 13.622788
+    },
+    {
+      "name": "Hotel Alpská vyhlídka",
+      "latitude": 48.966729,
+      "longitude": 13.593073
+    },
+    {
+      "name": "Hotel Atlantis",
+      "latitude": 49.247388,
+      "longitude": 16.518414
+    },
+    {
+      "name": "Hotel Brdy",
+      "latitude": 49.615721,
+      "longitude": 13.606187
+    },
+    {
+      "name": "Hotel Cvilín",
+      "latitude": 50.079529,
+      "longitude": 17.720086
+    },
+    {
+      "name": "Hotel Franz",
+      "latitude": 50.229366,
+      "longitude": 17.313095
+    },
+    {
+      "name": "Hotel Pivovar Polička",
+      "latitude": 49.713109,
+      "longitude": 16.26424
+    },
+    {
+      "name": "Hotel Praděd vysílač",
+      "latitude": 50.083038,
+      "longitude": 17.230954
+    },
+    {
+      "name": "Hotel Ski",
+      "latitude": 49.578697,
+      "longitude": 16.051133
+    },
+    {
+      "name": "Hotel Sport Štětí",
+      "latitude": 50.456104,
+      "longitude": 14.38215
+    },
+    {
+      "name": "Hotel U Zeleného stromu",
+      "latitude": 50.860317,
+      "longitude": 14.265038
+    },
+    {
+      "name": "Hotel Švýcarský dům",
+      "latitude": 50.7941,
+      "longitude": 14.086703
+    },
+    {
+      "name": "Hotely Srní",
+      "latitude": 49.087384,
+      "longitude": 13.481903
+    },
+    {
+      "name": "Hrad Svojanov",
+      "latitude": 49.628,
+      "longitude": 16.409694
+    },
+    {
+      "name": "Hradec Králové Supercharger",
+      "latitude": 50.198905,
+      "longitude": 15.782594
+    },
+    {
+      "name": "Hypercharger Alpitronic",
+      "latitude": 50.020407,
+      "longitude": 14.498795
+    },
+    {
+      "name": "Hřiště SK Meteor",
+      "latitude": 50.004824,
+      "longitude": 18.089449
+    },
+    {
+      "name": "Hřiště Čímice",
+      "latitude": 49.253176,
+      "longitude": 13.608003
+    },
+    {
+      "name": "Infocentrum Kopřivnice",
+      "latitude": 49.599103,
+      "longitude": 18.144555
+    },
+    {
+      "name": "Infocentrum Spálené Poříčí",
+      "latitude": 49.614777,
+      "longitude": 13.605061
+    },
+    {
+      "name": "Informační centrum Bystré",
+      "latitude": 49.628361,
+      "longitude": 16.346361
+    },
+    {
+      "name": "Informační centrum jaderné elektrárny Dukovany",
+      "latitude": 49.089075,
+      "longitude": 16.144476
+    },
+    {
+      "name": "Informační centrum Jaderné elektrárny Temelín",
+      "latitude": 49.180962,
+      "longitude": 14.386341
+    },
+    {
+      "name": "Informační centrum Letohrad",
+      "latitude": 50.035801,
+      "longitude": 16.499935
+    },
+    {
+      "name": "Informační centrum Městská knihovna Děčín",
+      "latitude": 50.781058,
+      "longitude": 14.209584
+    },
+    {
+      "name": "Informační centrum obce Modrava",
+      "latitude": 49.023835,
+      "longitude": 13.498527
+    },
+    {
+      "name": "Informační centrum Přimda",
+      "latitude": 49.674938,
+      "longitude": 12.675939
+    },
+    {
+      "name": "Informační centrum Vimperk",
+      "latitude": 49.052487,
+      "longitude": 13.773679
+    },
+    {
+      "name": "Informační centrum Šternberk",
+      "latitude": 49.731999,
+      "longitude": 17.299507
+    },
+    {
+      "name": "Informační centrum Žinkovy",
+      "latitude": 49.484714,
+      "longitude": 13.491599
+    },
+    {
+      "name": "Innogy",
+      "latitude": 49.481819,
+      "longitude": 13.585026
+    },
+    {
+      "name": "Innogy",
+      "latitude": 49.90218,
+      "longitude": 16.444073
+    },
+    {
+      "name": "Innogy",
+      "latitude": 50.079538,
+      "longitude": 14.508991
+    },
+    {
+      "name": "Innogy",
+      "latitude": 50.080378,
+      "longitude": 14.510756
+    },
+    {
+      "name": "Innogy",
+      "latitude": 50.41854,
+      "longitude": 16.169013
+    },
+    {
+      "name": "Ionity",
+      "latitude": 48.809743,
+      "longitude": 16.892664
+    },
+    {
+      "name": "Ionity",
+      "latitude": 49.955781,
+      "longitude": 14.062718
+    },
+    {
+      "name": "Ionity",
+      "latitude": 49.984405,
+      "longitude": 14.602715
+    },
+    {
+      "name": "Ionity",
+      "latitude": 50.511891,
+      "longitude": 14.05262
+    },
+    {
+      "name": "Ionity Ostrava",
+      "latitude": 49.799876,
+      "longitude": 18.224945
+    },
+    {
+      "name": "IONITY Turnov",
+      "latitude": 50.595607,
+      "longitude": 15.131046
+    },
+    {
+      "name": "Jablonné nad Orlicí koupaliště",
+      "latitude": 50.026961,
+      "longitude": 16.609247
+    },
+    {
+      "name": "Jednota COOP TUTY",
+      "latitude": 49.13602,
+      "longitude": 13.729086
+    },
+    {
+      "name": "Just Jimramov, penzion a restaurace",
+      "latitude": 49.636841,
+      "longitude": 16.225563
+    },
+    {
+      "name": "Kamenice u Březové",
+      "latitude": 50.130433,
+      "longitude": 12.647626
+    },
+    {
+      "name": "Kapitanát přístav Marina Lipno",
+      "latitude": 48.641316,
+      "longitude": 14.219674
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 50.663231,
+      "longitude": 14.021827
+    },
+    {
+      "name": "Kaufland Klatovy",
+      "latitude": 49.388227,
+      "longitude": 13.295174
+    },
+    {
+      "name": "Kaufland Všebořická",
+      "latitude": 50.684425,
+      "longitude": 13.994449
+    },
+    {
+      "name": "Kavárna Jako doma a Ekocentrum Včelín",
+      "latitude": 50.722794,
+      "longitude": 14.70928
+    },
+    {
+      "name": "Kavárna u hradu",
+      "latitude": 50.170059,
+      "longitude": 12.361026
+    },
+    {
+      "name": "Kašperské Hory",
+      "latitude": 49.145179,
+      "longitude": 13.550763
+    },
+    {
+      "name": "KCK Cyklosport-Mode, s.r.o.",
+      "latitude": 49.202386,
+      "longitude": 17.563357
+    },
+    {
+      "name": "KD Tym - Mikroregion Radyně č. 5",
+      "latitude": 49.71909,
+      "longitude": 13.513983
+    },
+    {
+      "name": "Kemp Dobršín",
+      "latitude": 49.256734,
+      "longitude": 13.566408
+    },
+    {
+      "name": "Kemp Děčín",
+      "latitude": 50.7743,
+      "longitude": 14.209515
+    },
+    {
+      "name": "Kemp Jetřichovice",
+      "latitude": 50.843979,
+      "longitude": 14.395166
+    },
+    {
+      "name": "KEYLOG",
+      "latitude": 48.825209,
+      "longitude": 14.332402
+    },
+    {
+      "name": "Kiosek Kadov U Staré školy",
+      "latitude": 49.634694,
+      "longitude": 16.077837
+    },
+    {
+      "name": "Kiosek U Pařezáče v Plačkově",
+      "latitude": 49.528649,
+      "longitude": 15.39308
+    },
+    {
+      "name": "Klášter Želiv",
+      "latitude": 49.529411,
+      "longitude": 15.214045
+    },
+    {
+      "name": "Knížecí louka",
+      "latitude": 49.756164,
+      "longitude": 16.663587
+    },
+    {
+      "name": "Kohoutovice Axmanova",
+      "latitude": 49.189254,
+      "longitude": 16.536411
+    },
+    {
+      "name": "Kohoutovice Pavlovská",
+      "latitude": 49.189125,
+      "longitude": 16.529532
+    },
+    {
+      "name": "Kohoutovice Vaňhalova",
+      "latitude": 49.193709,
+      "longitude": 16.540599
+    },
+    {
+      "name": "Kohoutovice Voříškova",
+      "latitude": 49.198841,
+      "longitude": 16.532605
+    },
+    {
+      "name": "Kolby",
+      "latitude": 48.940089,
+      "longitude": 16.629443
+    },
+    {
+      "name": "Kolovna",
+      "latitude": 50.160934,
+      "longitude": 16.900398
+    },
+    {
+      "name": "Kolárna Radotín",
+      "latitude": 49.986359,
+      "longitude": 14.365182
+    },
+    {
+      "name": "Kolářovy sady Prostějov",
+      "latitude": 49.470203,
+      "longitude": 17.098436
+    },
+    {
+      "name": "Komín Vavřinecká",
+      "latitude": 49.22166,
+      "longitude": 16.551393
+    },
+    {
+      "name": "Koupaliště a minigolf Píšť",
+      "latitude": 49.976542,
+      "longitude": 18.185744
+    },
+    {
+      "name": "Koupaliště Horní Stropnice",
+      "latitude": 48.757577,
+      "longitude": 14.738392
+    },
+    {
+      "name": "Krajský úřad Moravskoslezského kraje",
+      "latitude": 49.829662,
+      "longitude": 18.270588
+    },
+    {
+      "name": "Královo Pole Bazény Lužánky",
+      "latitude": 49.214415,
+      "longitude": 16.606259
+    },
+    {
+      "name": "Královo Pole Dobrovského",
+      "latitude": 49.218114,
+      "longitude": 16.5884
+    },
+    {
+      "name": "Královo Pole Galandauerova",
+      "latitude": 49.23055,
+      "longitude": 16.587424
+    },
+    {
+      "name": "Královo Pole Herčíkova",
+      "latitude": 49.230736,
+      "longitude": 16.584659
+    },
+    {
+      "name": "Královo Pole Palackého třída",
+      "latitude": 49.232157,
+      "longitude": 16.589746
+    },
+    {
+      "name": "Krčma Vagon - Pošumavská jižní dráha",
+      "latitude": 48.82906,
+      "longitude": 13.793565
+    },
+    {
+      "name": "Kulturní a informační centrum Nepomuk",
+      "latitude": 49.486512,
+      "longitude": 13.582592
+    },
+    {
+      "name": "Kulturní a informační centrum Trhové Sviny",
+      "latitude": 48.840024,
+      "longitude": 14.636579
+    },
+    {
+      "name": "Kulturní centrum Sepekov",
+      "latitude": 49.427929,
+      "longitude": 14.418195
+    },
+    {
+      "name": "Kulturní centrum Vratislavice 101010",
+      "latitude": 50.743717,
+      "longitude": 15.092679
+    },
+    {
+      "name": "Kulturní dům Chvaletice",
+      "latitude": 50.03418,
+      "longitude": 15.412139
+    },
+    {
+      "name": "Kulturní dům Hať",
+      "latitude": 49.946823,
+      "longitude": 18.238598
+    },
+    {
+      "name": "Kulturní dům města Žulová",
+      "latitude": 50.309799,
+      "longitude": 17.098109
+    },
+    {
+      "name": "Kulturní dům Senomaty",
+      "latitude": 50.097939,
+      "longitude": 13.654672
+    },
+    {
+      "name": "Kulturní zařízení města Pelhřimova",
+      "latitude": 49.431192,
+      "longitude": 15.222585
+    },
+    {
+      "name": "Kulturní zařízení Města Počátky",
+      "latitude": 49.260992,
+      "longitude": 15.239957
+    },
+    {
+      "name": "Labská Bašta",
+      "latitude": 50.645516,
+      "longitude": 14.04699
+    },
+    {
+      "name": "Ladestation für E-Bikes",
+      "latitude": 49.445933,
+      "longitude": 12.644095
+    },
+    {
+      "name": "Letní parket Holkov",
+      "latitude": 48.839658,
+      "longitude": 14.455646
+    },
+    {
+      "name": "LIBEREC - OC NISA - 1",
+      "latitude": 50.741183,
+      "longitude": 15.048434
+    },
+    {
+      "name": "LIBEREC - OC NISA - 2",
+      "latitude": 50.74125,
+      "longitude": 15.048437
+    },
+    {
+      "name": "Libros",
+      "latitude": 49.850817,
+      "longitude": 18.25565
+    },
+    {
+      "name": "Lidl",
+      "latitude": 49.292092,
+      "longitude": 17.391316
+    },
+    {
+      "name": "Lidl",
+      "latitude": 49.804542,
+      "longitude": 18.243226
+    },
+    {
+      "name": "Lidl",
+      "latitude": 49.826332,
+      "longitude": 18.198069
+    },
+    {
+      "name": "Lidl",
+      "latitude": 50.023009,
+      "longitude": 15.780656
+    },
+    {
+      "name": "Lidl",
+      "latitude": 50.044339,
+      "longitude": 15.803613
+    },
+    {
+      "name": "LIDL",
+      "latitude": 50.190218,
+      "longitude": 15.850199
+    },
+    {
+      "name": "Lidl Charge Station",
+      "latitude": 50.032468,
+      "longitude": 14.382741
+    },
+    {
+      "name": "Lipová - Tvrdého",
+      "latitude": 49.194485,
+      "longitude": 16.585719
+    },
+    {
+      "name": "Lovosice Supercharger",
+      "latitude": 50.511689,
+      "longitude": 14.05262
+    },
+    {
+      "name": "Lázeňský hotel Jirásek",
+      "latitude": 49.883673,
+      "longitude": 12.976938
+    },
+    {
+      "name": "Líšeň Jírova",
+      "latitude": 49.208981,
+      "longitude": 16.686166
+    },
+    {
+      "name": "Líšeň Kotlanova",
+      "latitude": 49.211608,
+      "longitude": 16.679462
+    },
+    {
+      "name": "Líšeň Masarova",
+      "latitude": 49.206563,
+      "longitude": 16.674806
+    },
+    {
+      "name": "Líšeň Novolíšeňská",
+      "latitude": 49.205445,
+      "longitude": 16.679826
+    },
+    {
+      "name": "Líšeň Vlkova",
+      "latitude": 49.203747,
+      "longitude": 16.667471
+    },
+    {
+      "name": "Malá pekárna Nadi Pohlreichové",
+      "latitude": 49.924114,
+      "longitude": 14.258051
+    },
+    {
+      "name": "Manětín",
+      "latitude": 49.991894,
+      "longitude": 13.231759
+    },
+    {
+      "name": "Maximus 1",
+      "latitude": 49.243909,
+      "longitude": 16.513844
+    },
+    {
+      "name": "Maximus 2",
+      "latitude": 49.243909,
+      "longitude": 16.513913
+    },
+    {
+      "name": "Medlánky Matalova",
+      "latitude": 49.240386,
+      "longitude": 16.575561
+    },
+    {
+      "name": "Medlánky V Újezdech",
+      "latitude": 49.242208,
+      "longitude": 16.573293
+    },
+    {
+      "name": "MER Ladestation",
+      "latitude": 48.95528,
+      "longitude": 13.760173
+    },
+    {
+      "name": "MEVA-TEC s.r.o.",
+      "latitude": 50.432212,
+      "longitude": 14.254937
+    },
+    {
+      "name": "MIG POINT",
+      "latitude": 49.197624,
+      "longitude": 16.618603
+    },
+    {
+      "name": "Mini Spot",
+      "latitude": 49.699771,
+      "longitude": 16.178233
+    },
+    {
+      "name": "MKZ Šternberk",
+      "latitude": 49.72613,
+      "longitude": 17.292363
+    },
+    {
+      "name": "Mlýn Hrušky",
+      "latitude": 48.793874,
+      "longitude": 16.973476
+    },
+    {
+      "name": "Mohelnice RPSnet SPŠE",
+      "latitude": 49.774439,
+      "longitude": 16.917996
+    },
+    {
+      "name": "MOL",
+      "latitude": 49.010432,
+      "longitude": 16.687874
+    },
+    {
+      "name": "MOL",
+      "latitude": 49.30609,
+      "longitude": 17.030893
+    },
+    {
+      "name": "Moravské náměstí",
+      "latitude": 49.199873,
+      "longitude": 16.607767
+    },
+    {
+      "name": "Muzeum Rapotínské sklárny",
+      "latitude": 50.016259,
+      "longitude": 17.033954
+    },
+    {
+      "name": "Město Benešov na Ploučnicí",
+      "latitude": 50.741969,
+      "longitude": 14.311058
+    },
+    {
+      "name": "Město Brtnice",
+      "latitude": 49.303065,
+      "longitude": 15.678719
+    },
+    {
+      "name": "Město Kamenický Šenov, Cykloboxy na Parkovišti u Panské skály",
+      "latitude": 50.770714,
+      "longitude": 14.485772
+    },
+    {
+      "name": "Město Kardašova Řečice",
+      "latitude": 49.183467,
+      "longitude": 14.85073
+    },
+    {
+      "name": "Město Louny, Masarykovy sady",
+      "latitude": 50.362506,
+      "longitude": 13.788852
+    },
+    {
+      "name": "Město Luby",
+      "latitude": 50.253754,
+      "longitude": 12.402348
+    },
+    {
+      "name": "Město Polička",
+      "latitude": 49.71425,
+      "longitude": 16.265639
+    },
+    {
+      "name": "Město Prachatice - Velké náměstí",
+      "latitude": 49.012771,
+      "longitude": 13.99784
+    },
+    {
+      "name": "Město Rakovník",
+      "latitude": 50.104405,
+      "longitude": 13.729447
+    },
+    {
+      "name": "Město Vejprty",
+      "latitude": 50.494433,
+      "longitude": 13.032229
+    },
+    {
+      "name": "Město Velešín",
+      "latitude": 48.829032,
+      "longitude": 14.462978
+    },
+    {
+      "name": "Město Vítkov",
+      "latitude": 49.775611,
+      "longitude": 17.761493
+    },
+    {
+      "name": "Město Vítkov",
+      "latitude": 49.802212,
+      "longitude": 17.771169
+    },
+    {
+      "name": "Město Červená Řečice",
+      "latitude": 49.510817,
+      "longitude": 15.174157
+    },
+    {
+      "name": "Město Železná Ruda",
+      "latitude": 49.137531,
+      "longitude": 13.234594
+    },
+    {
+      "name": "Městská knihovna a informační centrum Hradec nad Moravicí",
+      "latitude": 49.871067,
+      "longitude": 17.875963
+    },
+    {
+      "name": "Městské informační centrum Karviná",
+      "latitude": 49.854171,
+      "longitude": 18.542496
+    },
+    {
+      "name": "Městské informační centrum Kolín",
+      "latitude": 50.027878,
+      "longitude": 15.198872
+    },
+    {
+      "name": "Městské informační centrum Zlaté Hory",
+      "latitude": 50.26318,
+      "longitude": 17.395294
+    },
+    {
+      "name": "Městské informační centrum Česká Kamenice",
+      "latitude": 50.799454,
+      "longitude": 14.416966
+    },
+    {
+      "name": "Městské koupaliště Bruntál",
+      "latitude": 49.993771,
+      "longitude": 17.460127
+    },
+    {
+      "name": "Městské koupaliště Česká Kamenice",
+      "latitude": 50.804676,
+      "longitude": 14.416569
+    },
+    {
+      "name": "Městské muzeum a infocentrum Česká Třebová",
+      "latitude": 49.902481,
+      "longitude": 16.447662
+    },
+    {
+      "name": "Městský plavecký bazén Rakovník",
+      "latitude": 50.100582,
+      "longitude": 13.736038
+    },
+    {
+      "name": "Městský úřad Boskovice",
+      "latitude": 49.486933,
+      "longitude": 16.661735
+    },
+    {
+      "name": "Městský úřad Javorník",
+      "latitude": 50.390741,
+      "longitude": 17.002131
+    },
+    {
+      "name": "Městský úřad Vrbno pod Pradědem",
+      "latitude": 50.118233,
+      "longitude": 17.38603
+    },
+    {
+      "name": "Na Bělidlech u Hrabalovy Vily",
+      "latitude": 50.181163,
+      "longitude": 15.039522
+    },
+    {
+      "name": "Nabíjecí stanice E.ON Třebíč",
+      "latitude": 49.214828,
+      "longitude": 15.877251
+    },
+    {
+      "name": "Nabíjecí stanice Jablunkov",
+      "latitude": 49.575808,
+      "longitude": 18.763591
+    },
+    {
+      "name": "Nabíjecí stanice kol",
+      "latitude": 49.019529,
+      "longitude": 15.102263
+    },
+    {
+      "name": "Nabíjecí stanice Moravská Třebová u Aquaparku",
+      "latitude": 49.765533,
+      "longitude": 16.661472
+    },
+    {
+      "name": "Nabíjecí Stanice Penny Lehovec",
+      "latitude": 50.108181,
+      "longitude": 14.546846
+    },
+    {
+      "name": "Nabíjecí stanice pro elektrokola",
+      "latitude": 49.290678,
+      "longitude": 16.578097
+    },
+    {
+      "name": "Nabíjecí stanice pro elektrokola - Kutloch",
+      "latitude": 48.895563,
+      "longitude": 16.711444
+    },
+    {
+      "name": "Nabíjecí stanice pro elektrokola a mobilní zařízení",
+      "latitude": 48.833988,
+      "longitude": 16.401085
+    },
+    {
+      "name": "Nabíjecí stanice pro elektrokola a mobilní zařízení",
+      "latitude": 48.90913,
+      "longitude": 16.364887
+    },
+    {
+      "name": "Nabíjecí stanice pro elektrokola a mobilní zařízení",
+      "latitude": 48.920002,
+      "longitude": 16.37789
+    },
+    {
+      "name": "Nabíjecí stanice pro elektrokola a mobilní zařízení",
+      "latitude": 48.946209,
+      "longitude": 16.311649
+    },
+    {
+      "name": "Nabíjecí stanice pro elektrokola a mobilní zařízení",
+      "latitude": 48.976627,
+      "longitude": 16.321028
+    },
+    {
+      "name": "nabíjecí stanice pro elektrokola, mobily, servisní stojan pro kola",
+      "latitude": 49.40131,
+      "longitude": 17.687189
+    },
+    {
+      "name": "Nabíjecí stanice pro eletrokola",
+      "latitude": 50.035664,
+      "longitude": 14.408988
+    },
+    {
+      "name": "Nabíjecí stanice Rovina",
+      "latitude": 49.157184,
+      "longitude": 13.421406
+    },
+    {
+      "name": "Nabíjecí stanice Střední škola automobilní",
+      "latitude": 49.960574,
+      "longitude": 16.40624
+    },
+    {
+      "name": "Nabíjecí stanice Svitavy Fabrika",
+      "latitude": 49.756329,
+      "longitude": 16.472153
+    },
+    {
+      "name": "Nabíjecí stanice Česká Třebová",
+      "latitude": 49.900745,
+      "longitude": 16.453501
+    },
+    {
+      "name": "Nabíjecí stanice ČEZ",
+      "latitude": 49.717586,
+      "longitude": 15.66911
+    },
+    {
+      "name": "nabíjecí stojan Lidl",
+      "latitude": 49.988556,
+      "longitude": 14.751301
+    },
+    {
+      "name": "NaNovo",
+      "latitude": 49.712352,
+      "longitude": 18.047144
+    },
+    {
+      "name": "Nemocnice Bílovec",
+      "latitude": 49.762531,
+      "longitude": 18.016934
+    },
+    {
+      "name": "Nová Karolina",
+      "latitude": 49.830332,
+      "longitude": 18.285001
+    },
+    {
+      "name": "Nová Ves",
+      "latitude": 49.990547,
+      "longitude": 17.274628
+    },
+    {
+      "name": "Nový Lískovec Kamínky",
+      "latitude": 49.181178,
+      "longitude": 16.559464
+    },
+    {
+      "name": "Nový Lískovec Oblá",
+      "latitude": 49.176334,
+      "longitude": 16.560007
+    },
+    {
+      "name": "Nový Lískovec Petra Křivky",
+      "latitude": 49.177438,
+      "longitude": 16.551837
+    },
+    {
+      "name": "Nový Lískovec Svážná",
+      "latitude": 49.174569,
+      "longitude": 16.551779
+    },
+    {
+      "name": "Nový Malín",
+      "latitude": 49.942653,
+      "longitude": 17.031894
+    },
+    {
+      "name": "NP České Švýcarsko - Infocentrum Jetřichovice",
+      "latitude": 50.85247,
+      "longitude": 14.396517
+    },
+    {
+      "name": "NP České Švýcarsko - Informační centrum Saula",
+      "latitude": 50.872853,
+      "longitude": 14.447044
+    },
+    {
+      "name": "NTM - Centrum stavitelského dědictví Plasy",
+      "latitude": 49.935413,
+      "longitude": 13.389006
+    },
+    {
+      "name": "Náměstí MuDr. Svobody",
+      "latitude": 49.743018,
+      "longitude": 15.103447
+    },
+    {
+      "name": "Návštěvnické centrum Dřevák",
+      "latitude": 49.023907,
+      "longitude": 13.494852
+    },
+    {
+      "name": "Návštěvnické centrum Králického Sněžníku",
+      "latitude": 50.095412,
+      "longitude": 16.755503
+    },
+    {
+      "name": "Obchodní centrum Šestka",
+      "latitude": 50.092748,
+      "longitude": 14.291912
+    },
+    {
+      "name": "Obec Bezvěrov",
+      "latitude": 49.99355,
+      "longitude": 13.058607
+    },
+    {
+      "name": "Obec Boleboř",
+      "latitude": 50.53876,
+      "longitude": 13.413215
+    },
+    {
+      "name": "Obec Branka u Opavy",
+      "latitude": 49.8883,
+      "longitude": 17.882331
+    },
+    {
+      "name": "Obec Dobřív - Stará Hospoda",
+      "latitude": 49.716767,
+      "longitude": 13.687969
+    },
+    {
+      "name": "Obec Dolní Újezd",
+      "latitude": 49.828166,
+      "longitude": 16.256282
+    },
+    {
+      "name": "Obec Kejžlice",
+      "latitude": 49.589801,
+      "longitude": 15.391994
+    },
+    {
+      "name": "Obec Kornatice v blízkosti Hostince u Lípy",
+      "latitude": 49.659432,
+      "longitude": 13.591076
+    },
+    {
+      "name": "Obec Krašovice",
+      "latitude": 49.87381,
+      "longitude": 13.309801
+    },
+    {
+      "name": "Obec Krsy",
+      "latitude": 49.924672,
+      "longitude": 13.054108
+    },
+    {
+      "name": "Obec Krásná - Restaurace & Penzion Sokolovna",
+      "latitude": 50.236552,
+      "longitude": 12.171766
+    },
+    {
+      "name": "Obec Křenov",
+      "latitude": 49.679928,
+      "longitude": 16.628322
+    },
+    {
+      "name": "Obec Ludgeřovice",
+      "latitude": 49.892059,
+      "longitude": 18.240918
+    },
+    {
+      "name": "Obec Milíkov",
+      "latitude": 50.056402,
+      "longitude": 12.547516
+    },
+    {
+      "name": "Obec Nebílovy",
+      "latitude": 49.63022,
+      "longitude": 13.428974
+    },
+    {
+      "name": "Obec Nemanice",
+      "latitude": 49.439499,
+      "longitude": 12.721909
+    },
+    {
+      "name": "Obec Orlické Záhoří",
+      "latitude": 50.278816,
+      "longitude": 16.473118
+    },
+    {
+      "name": "Obec Petrov",
+      "latitude": 48.886587,
+      "longitude": 17.272429
+    },
+    {
+      "name": "Obec Proseč pod Křemešníkem",
+      "latitude": 49.415181,
+      "longitude": 15.293639
+    },
+    {
+      "name": "Obec Písečná",
+      "latitude": 50.044793,
+      "longitude": 16.454517
+    },
+    {
+      "name": "Obec Slavhostice",
+      "latitude": 50.308128,
+      "longitude": 15.353608
+    },
+    {
+      "name": "Obec Vepříkov",
+      "latitude": 49.743626,
+      "longitude": 15.571354
+    },
+    {
+      "name": "Obec Zdechovice",
+      "latitude": 50.013579,
+      "longitude": 15.468595
+    },
+    {
+      "name": "Obec Závada",
+      "latitude": 49.953884,
+      "longitude": 18.165904
+    },
+    {
+      "name": "Obec Řečany nad Labem",
+      "latitude": 50.0374,
+      "longitude": 15.476102
+    },
+    {
+      "name": "Obec Šabina",
+      "latitude": 50.13504,
+      "longitude": 12.581419
+    },
+    {
+      "name": "Obec Ždírec",
+      "latitude": 49.549503,
+      "longitude": 13.573591
+    },
+    {
+      "name": "Obec Žihobce",
+      "latitude": 49.21484,
+      "longitude": 13.631661
+    },
+    {
+      "name": "Obecní úřad Býčkovice",
+      "latitude": 50.559456,
+      "longitude": 14.214017
+    },
+    {
+      "name": "Obecní úřad Bělá nad Radůzou",
+      "latitude": 49.591299,
+      "longitude": 12.715579
+    },
+    {
+      "name": "Obecní úřad Huzová",
+      "latitude": 49.819942,
+      "longitude": 17.298095
+    },
+    {
+      "name": "Obecní úřad Kobeřice",
+      "latitude": 49.986168,
+      "longitude": 18.052512
+    },
+    {
+      "name": "Obecní úřad Kozlovice",
+      "latitude": 49.593468,
+      "longitude": 18.25713
+    },
+    {
+      "name": "Obecní úřad Píšť",
+      "latitude": 49.978641,
+      "longitude": 18.193621
+    },
+    {
+      "name": "Obecní úřad Soběšice",
+      "latitude": 49.205948,
+      "longitude": 13.68441
+    },
+    {
+      "name": "Obecní úřad Strašín",
+      "latitude": 49.179021,
+      "longitude": 13.64027
+    },
+    {
+      "name": "Obecní úřad Řepice",
+      "latitude": 49.280689,
+      "longitude": 13.933563
+    },
+    {
+      "name": "Obecní úřad Široká Niva",
+      "latitude": 50.067361,
+      "longitude": 17.486688
+    },
+    {
+      "name": "Obora resort",
+      "latitude": 49.919208,
+      "longitude": 16.584871
+    },
+    {
+      "name": "Občerstvení letadlo",
+      "latitude": 50.465473,
+      "longitude": 14.942309
+    },
+    {
+      "name": "Občerstvení letadlo 2",
+      "latitude": 50.465534,
+      "longitude": 14.942529
+    },
+    {
+      "name": "Občerstvení Maringotka",
+      "latitude": 50.393005,
+      "longitude": 12.839757
+    },
+    {
+      "name": "Občerstvení Na Paloučku",
+      "latitude": 50.378578,
+      "longitude": 13.253275
+    },
+    {
+      "name": "Občerstvení U Jirásků",
+      "latitude": 48.815914,
+      "longitude": 13.878433
+    },
+    {
+      "name": "Občerstvení U Přívozu",
+      "latitude": 50.539261,
+      "longitude": 14.062529
+    },
+    {
+      "name": "Občerstvení U Sjezdovky",
+      "latitude": 50.6253,
+      "longitude": 13.592817
+    },
+    {
+      "name": "Občerstvení Z mechu a kapradí",
+      "latitude": 49.02327,
+      "longitude": 13.580525
+    },
+    {
+      "name": "Obří sud Lázně Libverda",
+      "latitude": 50.893689,
+      "longitude": 15.194866
+    },
+    {
+      "name": "Olympia 1",
+      "latitude": 49.136468,
+      "longitude": 16.631546
+    },
+    {
+      "name": "Olympia 2",
+      "latitude": 49.137761,
+      "longitude": 16.634844
+    },
+    {
+      "name": "Olympia 3",
+      "latitude": 49.137763,
+      "longitude": 16.634776
+    },
+    {
+      "name": "Olympia 4",
+      "latitude": 49.136524,
+      "longitude": 16.631592
+    },
+    {
+      "name": "Olympia 5",
+      "latitude": 49.136574,
+      "longitude": 16.631591
+    },
+    {
+      "name": "Olšany RPSnet",
+      "latitude": 49.969084,
+      "longitude": 16.861819
+    },
+    {
+      "name": "OMV PREpoint",
+      "latitude": 49.472669,
+      "longitude": 17.092495
+    },
+    {
+      "name": "Opatovská hospoda",
+      "latitude": 49.821534,
+      "longitude": 16.499214
+    },
+    {
+      "name": "Opava Masařská",
+      "latitude": 49.938588,
+      "longitude": 17.904726
+    },
+    {
+      "name": "OREA Hotel Santon",
+      "latitude": 49.23073,
+      "longitude": 16.518555
+    },
+    {
+      "name": "Outlet Arena Moravia",
+      "latitude": 49.859246,
+      "longitude": 18.25536
+    },
+    {
+      "name": "Outline centrum",
+      "latitude": 49.205702,
+      "longitude": 13.447408
+    },
+    {
+      "name": "OÚ Hrabyně",
+      "latitude": 49.882252,
+      "longitude": 18.054558
+    },
+    {
+      "name": "Památník Karla Čapka",
+      "latitude": 49.773999,
+      "longitude": 14.206881
+    },
+    {
+      "name": "Panský dvůr Telč",
+      "latitude": 49.187786,
+      "longitude": 15.449288
+    },
+    {
+      "name": "Park Inn (Tesla dest)",
+      "latitude": 49.842481,
+      "longitude": 18.26894
+    },
+    {
+      "name": "PARK SPORTU Hrubá Voda - restaurace",
+      "latitude": 49.668545,
+      "longitude": 17.43651
+    },
+    {
+      "name": "Parkovací dům",
+      "latitude": 49.940147,
+      "longitude": 17.907165
+    },
+    {
+      "name": "Parkovací dům P + R Kralupy nad Vltavou",
+      "latitude": 50.240251,
+      "longitude": 14.316103
+    },
+    {
+      "name": "Parkoviště Pod Eliškou",
+      "latitude": 50.184249,
+      "longitude": 15.041243
+    },
+    {
+      "name": "Parkoviště Špičácké sedlo - Enjoy Šumava s.r.o.",
+      "latitude": 49.173077,
+      "longitude": 13.225456
+    },
+    {
+      "name": "Parkoviště Štefánikova",
+      "latitude": 50.230579,
+      "longitude": 17.208099
+    },
+    {
+      "name": "Peklák - Eko Bi s.r.o.",
+      "latitude": 49.906001,
+      "longitude": 16.422711
+    },
+    {
+      "name": "Pellicova",
+      "latitude": 49.192912,
+      "longitude": 16.59771
+    },
+    {
+      "name": "Penny Odolena Voda",
+      "latitude": 50.226312,
+      "longitude": 14.410063
+    },
+    {
+      "name": "Penny Třebeš",
+      "latitude": 50.183715,
+      "longitude": 15.82652
+    },
+    {
+      "name": "Pension Heřman",
+      "latitude": 50.595056,
+      "longitude": 15.733031
+    },
+    {
+      "name": "Pension ŠD Karlovice",
+      "latitude": 50.100257,
+      "longitude": 17.453278
+    },
+    {
+      "name": "Penzion 100dola",
+      "latitude": 49.931561,
+      "longitude": 17.946367
+    },
+    {
+      "name": "Penzion a Hostinec Rakovec",
+      "latitude": 49.293139,
+      "longitude": 16.804307
+    },
+    {
+      "name": "Penzion a restaurace Oáza",
+      "latitude": 50.447533,
+      "longitude": 14.377372
+    },
+    {
+      "name": "Penzion a Restaurace Stará Škola",
+      "latitude": 50.630086,
+      "longitude": 13.559827
+    },
+    {
+      "name": "Penzion a Restaurace U Zámecké zahrady",
+      "latitude": 49.525452,
+      "longitude": 17.578004
+    },
+    {
+      "name": "Penzion Bublava",
+      "latitude": 50.372707,
+      "longitude": 12.512179
+    },
+    {
+      "name": "Penzion Haltmar",
+      "latitude": 50.191319,
+      "longitude": 17.064823
+    },
+    {
+      "name": "Penzion Harry",
+      "latitude": 50.699349,
+      "longitude": 15.388567
+    },
+    {
+      "name": "Penzion Kamzík",
+      "latitude": 50.844067,
+      "longitude": 14.438192
+    },
+    {
+      "name": "Penzion Kocourov",
+      "latitude": 50.524956,
+      "longitude": 13.943512
+    },
+    {
+      "name": "Penzion Medové údolí",
+      "latitude": 49.113954,
+      "longitude": 13.725934
+    },
+    {
+      "name": "Penzion Na Srubech",
+      "latitude": 50.597258,
+      "longitude": 13.434732
+    },
+    {
+      "name": "Penzion Na Stráni",
+      "latitude": 50.109341,
+      "longitude": 16.558382
+    },
+    {
+      "name": "Penzion Nad Vodopády",
+      "latitude": 49.880489,
+      "longitude": 17.219408
+    },
+    {
+      "name": "Penzion Pod Komínem",
+      "latitude": 50.169227,
+      "longitude": 12.358002
+    },
+    {
+      "name": "Penzion Pod Kunětickou horou",
+      "latitude": 50.08112,
+      "longitude": 15.805431
+    },
+    {
+      "name": "Penzion Pstruh",
+      "latitude": 48.859065,
+      "longitude": 13.819351
+    },
+    {
+      "name": "Penzion U Pohody",
+      "latitude": 50.443818,
+      "longitude": 13.05678
+    },
+    {
+      "name": "Penzion U Sousedů",
+      "latitude": 48.908634,
+      "longitude": 13.720948
+    },
+    {
+      "name": "Penzion U Splavu",
+      "latitude": 50.781257,
+      "longitude": 15.230336
+    },
+    {
+      "name": "Penzion U Zpěváků",
+      "latitude": 49.038824,
+      "longitude": 13.646808
+    },
+    {
+      "name": "Penzion Žabinec a vinotéka",
+      "latitude": 48.955883,
+      "longitude": 16.765171
+    },
+    {
+      "name": "Petrovice náměstí",
+      "latitude": 50.807213,
+      "longitude": 14.767217
+    },
+    {
+      "name": "Pivovar Faltus",
+      "latitude": 49.900994,
+      "longitude": 16.44947
+    },
+    {
+      "name": "Pivovar Kocour",
+      "latitude": 50.919895,
+      "longitude": 14.603379
+    },
+    {
+      "name": "Pivovar Kotouč",
+      "latitude": 50.798426,
+      "longitude": 14.415188
+    },
+    {
+      "name": "Pivovar Krušnohor",
+      "latitude": 50.34829,
+      "longitude": 12.511278
+    },
+    {
+      "name": "Pivovar Kujebák",
+      "latitude": 49.952381,
+      "longitude": 16.156307
+    },
+    {
+      "name": "Pivovar Rožmberk",
+      "latitude": 48.654497,
+      "longitude": 14.365184
+    },
+    {
+      "name": "Pivovar U Švelchů",
+      "latitude": 49.229049,
+      "longitude": 13.524025
+    },
+    {
+      "name": "Pivovarské muzeum Hanušovice",
+      "latitude": 50.069044,
+      "longitude": 16.927653
+    },
+    {
+      "name": "Pizzerie club Kuželna",
+      "latitude": 49.878434,
+      "longitude": 18.141164
+    },
+    {
+      "name": "Plesná",
+      "latitude": 49.860089,
+      "longitude": 18.160791
+    },
+    {
+      "name": "Plovárna Manětín",
+      "latitude": 49.990779,
+      "longitude": 13.242311
+    },
+    {
+      "name": "Plzeň Area Bory",
+      "latitude": 49.729436,
+      "longitude": 13.362401
+    },
+    {
+      "name": "Plzeň Supercharger",
+      "latitude": 49.725175,
+      "longitude": 13.326061
+    },
+    {
+      "name": "Plzeňský Prazdroj, a. s.",
+      "latitude": 49.7477,
+      "longitude": 13.387864
+    },
+    {
+      "name": "Pohostinství a řeznictví U Mizerů",
+      "latitude": 49.88362,
+      "longitude": 13.466242
+    },
+    {
+      "name": "Pohostinství Křižovatka",
+      "latitude": 50.621877,
+      "longitude": 14.263291
+    },
+    {
+      "name": "Pohostinství U Supa",
+      "latitude": 50.060307,
+      "longitude": 17.39026
+    },
+    {
+      "name": "Potraviny Přívrat",
+      "latitude": 49.92228,
+      "longitude": 16.395787
+    },
+    {
+      "name": "Poštovní štola",
+      "latitude": 50.219402,
+      "longitude": 17.406945
+    },
+    {
+      "name": "Pradědovo dětské muzeum",
+      "latitude": 49.942692,
+      "longitude": 16.92491
+    },
+    {
+      "name": "PRE",
+      "latitude": 49.514173,
+      "longitude": 15.418029
+    },
+    {
+      "name": "PRE",
+      "latitude": 49.658708,
+      "longitude": 15.118375
+    },
+    {
+      "name": "PRE",
+      "latitude": 49.737353,
+      "longitude": 13.349355
+    },
+    {
+      "name": "PRE",
+      "latitude": 50.061197,
+      "longitude": 14.429445
+    },
+    {
+      "name": "PRE",
+      "latitude": 50.091603,
+      "longitude": 14.305339
+    },
+    {
+      "name": "PRE point",
+      "latitude": 49.979244,
+      "longitude": 14.358509
+    },
+    {
+      "name": "PRE Point",
+      "latitude": 50.032753,
+      "longitude": 14.596857
+    },
+    {
+      "name": "PRE Point",
+      "latitude": 50.052199,
+      "longitude": 14.286363
+    },
+    {
+      "name": "PRE Point",
+      "latitude": 50.072401,
+      "longitude": 14.495107
+    },
+    {
+      "name": "PRE Point",
+      "latitude": 50.13162,
+      "longitude": 14.406971
+    },
+    {
+      "name": "PRE Point",
+      "latitude": 50.132063,
+      "longitude": 14.405405
+    },
+    {
+      "name": "PRE Point",
+      "latitude": 50.132111,
+      "longitude": 14.404442
+    },
+    {
+      "name": "PRE Point",
+      "latitude": 50.132112,
+      "longitude": 14.406462
+    },
+    {
+      "name": "PREPoint",
+      "latitude": 49.232822,
+      "longitude": 16.622132
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 49.806028,
+      "longitude": 18.268385
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.010078,
+      "longitude": 14.454064
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.010892,
+      "longitude": 14.449045
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.014427,
+      "longitude": 14.401661
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.014561,
+      "longitude": 14.436689
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.015132,
+      "longitude": 14.440924
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.016061,
+      "longitude": 14.432177
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.018765,
+      "longitude": 14.436918
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.024736,
+      "longitude": 14.424328
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.026154,
+      "longitude": 14.434296
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.035325,
+      "longitude": 14.423745
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.042057,
+      "longitude": 14.430984
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.042083,
+      "longitude": 14.433336
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.043683,
+      "longitude": 14.422638
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.049245,
+      "longitude": 14.434985
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.075559,
+      "longitude": 14.498189
+    },
+    {
+      "name": "PREpoint",
+      "latitude": 50.108112,
+      "longitude": 14.485723
+    },
+    {
+      "name": "PREpoint DBK",
+      "latitude": 50.043461,
+      "longitude": 14.448868
+    },
+    {
+      "name": "PREpoint nabíjecí stanice PRE",
+      "latitude": 49.990487,
+      "longitude": 14.40942
+    },
+    {
+      "name": "PREpoint Pražská energetika",
+      "latitude": 50.069021,
+      "longitude": 14.480802
+    },
+    {
+      "name": "Priessnitzovy léčebné lázně",
+      "latitude": 50.241264,
+      "longitude": 17.188719
+    },
+    {
+      "name": "Písařov Kocanda",
+      "latitude": 49.991599,
+      "longitude": 16.80275
+    },
+    {
+      "name": "Přeštice",
+      "latitude": 49.580217,
+      "longitude": 13.327549
+    },
+    {
+      "name": "Přírodní koupaliště v Darkovicích",
+      "latitude": 49.9374,
+      "longitude": 18.21485
+    },
+    {
+      "name": "Přístav Hluboká nad Vltavou",
+      "latitude": 49.048884,
+      "longitude": 14.44316
+    },
+    {
+      "name": "Přístav Petrov - Ředitelství vodních cest ČR",
+      "latitude": 48.887049,
+      "longitude": 17.27289
+    },
+    {
+      "name": "Přístřešek Koclířov",
+      "latitude": 49.768642,
+      "longitude": 16.528848
+    },
+    {
+      "name": "R290 - PÍSEK - KAUFLAND",
+      "latitude": 49.298928,
+      "longitude": 14.141962
+    },
+    {
+      "name": "Radegastův Šenk",
+      "latitude": 49.656301,
+      "longitude": 18.429048
+    },
+    {
+      "name": "Radotínský sportovní klub, z.s.",
+      "latitude": 49.979246,
+      "longitude": 14.358119
+    },
+    {
+      "name": "Raisova chata",
+      "latitude": 50.454824,
+      "longitude": 15.694709
+    },
+    {
+      "name": "Rapotín RestWhile",
+      "latitude": 49.9973,
+      "longitude": 17.013262
+    },
+    {
+      "name": "RAPTON 50",
+      "latitude": 49.200627,
+      "longitude": 15.889613
+    },
+    {
+      "name": "Rekreační areál Kamencové jezero",
+      "latitude": 50.469041,
+      "longitude": 13.422748
+    },
+    {
+      "name": "Rekreační areál Pilák",
+      "latitude": 49.589033,
+      "longitude": 15.931078
+    },
+    {
+      "name": "Rekreační zařízení Hejtman - jih",
+      "latitude": 48.960248,
+      "longitude": 14.942747
+    },
+    {
+      "name": "Residence Kavárna",
+      "latitude": 50.163853,
+      "longitude": 17.571333
+    },
+    {
+      "name": "Restaurace - Chata Mísečky",
+      "latitude": 50.73433,
+      "longitude": 15.566581
+    },
+    {
+      "name": "Restaurace - Hotel Jizerka 4",
+      "latitude": 50.814901,
+      "longitude": 15.352315
+    },
+    {
+      "name": "Restaurace a Penzion Rochota",
+      "latitude": 49.873056,
+      "longitude": 14.189114
+    },
+    {
+      "name": "Restaurace a ubytování Na Palubě",
+      "latitude": 50.301837,
+      "longitude": 17.324672
+    },
+    {
+      "name": "Restaurace Astra",
+      "latitude": 49.754075,
+      "longitude": 16.465601
+    },
+    {
+      "name": "Restaurace BIG FOOD GARAGE",
+      "latitude": 50.72908,
+      "longitude": 15.454477
+    },
+    {
+      "name": "Restaurace Bio Střela",
+      "latitude": 49.931641,
+      "longitude": 13.384052
+    },
+    {
+      "name": "Restaurace Isolde Račí Údolí",
+      "latitude": 50.371559,
+      "longitude": 16.999866
+    },
+    {
+      "name": "Restaurace Jan Svatoš",
+      "latitude": 50.192534,
+      "longitude": 12.814422
+    },
+    {
+      "name": "Restaurace Komáří Vížka",
+      "latitude": 50.706693,
+      "longitude": 13.856549
+    },
+    {
+      "name": "Restaurace Labe aréna Račice",
+      "latitude": 50.458408,
+      "longitude": 14.342323
+    },
+    {
+      "name": "Restaurace Lidová Zahrada",
+      "latitude": 50.898514,
+      "longitude": 14.618659
+    },
+    {
+      "name": "Restaurace Na Suché",
+      "latitude": 50.825394,
+      "longitude": 14.874657
+    },
+    {
+      "name": "Restaurace pod Ločenickým vrchem",
+      "latitude": 48.82322,
+      "longitude": 14.52735
+    },
+    {
+      "name": "Restaurace Pohoda",
+      "latitude": 48.851771,
+      "longitude": 14.371283
+    },
+    {
+      "name": "Restaurace resort Sněžné",
+      "latitude": 49.650935,
+      "longitude": 16.120699
+    },
+    {
+      "name": "Restaurace Rýchorská bouda",
+      "latitude": 50.660363,
+      "longitude": 15.850114
+    },
+    {
+      "name": "Restaurace Seeberg",
+      "latitude": 50.132031,
+      "longitude": 12.284107
+    },
+    {
+      "name": "Restaurace Slezská siesta",
+      "latitude": 49.959415,
+      "longitude": 17.967615
+    },
+    {
+      "name": "Restaurace Spartak",
+      "latitude": 49.988287,
+      "longitude": 18.120672
+    },
+    {
+      "name": "Restaurace Tivoli",
+      "latitude": 50.666004,
+      "longitude": 14.144031
+    },
+    {
+      "name": "Restaurace U Cvičáku",
+      "latitude": 50.786526,
+      "longitude": 15.056731
+    },
+    {
+      "name": "Restaurace U Kiliána",
+      "latitude": 50.045573,
+      "longitude": 13.36696
+    },
+    {
+      "name": "Restaurace U Kina",
+      "latitude": 50.303399,
+      "longitude": 12.563446
+    },
+    {
+      "name": "Restaurace U Medvěda",
+      "latitude": 49.793681,
+      "longitude": 17.444342
+    },
+    {
+      "name": "Restaurace U Orla",
+      "latitude": 48.963535,
+      "longitude": 17.025604
+    },
+    {
+      "name": "Restaurace U Piráta",
+      "latitude": 50.436893,
+      "longitude": 15.355183
+    },
+    {
+      "name": "Restaurace U Srubu",
+      "latitude": 50.366944,
+      "longitude": 16.050531
+    },
+    {
+      "name": "Restaurace U Vleku - Ski areál Horní Podluží",
+      "latitude": 50.878125,
+      "longitude": 14.556624
+    },
+    {
+      "name": "Restaurace u Šulců",
+      "latitude": 50.21898,
+      "longitude": 14.538222
+    },
+    {
+      "name": "Restaurace Veselka Litomyšl",
+      "latitude": 49.87093,
+      "longitude": 16.3167
+    },
+    {
+      "name": "Restaurace Vítkova hora",
+      "latitude": 50.205456,
+      "longitude": 12.896519
+    },
+    {
+      "name": "Restaurace Štípárna",
+      "latitude": 50.405489,
+      "longitude": 14.286966
+    },
+    {
+      "name": "Restaurant Dolní Grund",
+      "latitude": 50.842821,
+      "longitude": 14.217177
+    },
+    {
+      "name": "Rezidence U Jezera",
+      "latitude": 50.279926,
+      "longitude": 17.256619
+    },
+    {
+      "name": "Rezidence Vogelsang",
+      "latitude": 49.112884,
+      "longitude": 13.552381
+    },
+    {
+      "name": "Rodinná konzervárna Via Delicia",
+      "latitude": 49.875862,
+      "longitude": 16.893404
+    },
+    {
+      "name": "Rodinný penzion Javorina",
+      "latitude": 49.137512,
+      "longitude": 13.669867
+    },
+    {
+      "name": "Ruční papírna Velké Losiny",
+      "latitude": 50.030278,
+      "longitude": 17.038148
+    },
+    {
+      "name": "Rybí restaurace Hůrka",
+      "latitude": 48.750488,
+      "longitude": 14.072735
+    },
+    {
+      "name": "Rychlonabíjecí stanice (DC)",
+      "latitude": 49.67923,
+      "longitude": 12.603644
+    },
+    {
+      "name": "Ráj u vody",
+      "latitude": 50.171616,
+      "longitude": 14.763525
+    },
+    {
+      "name": "Rýmařov - Gymnázium",
+      "latitude": 49.934801,
+      "longitude": 17.26553
+    },
+    {
+      "name": "Rýmařov - Technické služby",
+      "latitude": 49.936376,
+      "longitude": 17.269177
+    },
+    {
+      "name": "SAKO Jedovnická",
+      "latitude": 49.190903,
+      "longitude": 16.666316
+    },
+    {
+      "name": "Sanatoria Klimkovice",
+      "latitude": 49.806265,
+      "longitude": 18.098094
+    },
+    {
+      "name": "Shell",
+      "latitude": 49.482951,
+      "longitude": 14.063581
+    },
+    {
+      "name": "Shell",
+      "latitude": 49.485452,
+      "longitude": 14.063463
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 49.290438,
+      "longitude": 17.097795
+    },
+    {
+      "name": "Shell Recharge",
+      "latitude": 50.156853,
+      "longitude": 13.968542
+    },
+    {
+      "name": "Singletrack Zdobnice",
+      "latitude": 50.23888,
+      "longitude": 16.405949
+    },
+    {
+      "name": "Ski Areál Hlubočky",
+      "latitude": 49.627602,
+      "longitude": 17.404669
+    },
+    {
+      "name": "Ski Areál Karlov - Restaurant Praděd",
+      "latitude": 50.019081,
+      "longitude": 17.289307
+    },
+    {
+      "name": "Ski areál Kopřivná",
+      "latitude": 50.034273,
+      "longitude": 17.308577
+    },
+    {
+      "name": "Ski-Bike Centrum",
+      "latitude": 49.944562,
+      "longitude": 16.150509
+    },
+    {
+      "name": "Slatina Jih. nám",
+      "latitude": 49.178762,
+      "longitude": 16.684296
+    },
+    {
+      "name": "Slavkov u Opavy",
+      "latitude": 49.922168,
+      "longitude": 17.836226
+    },
+    {
+      "name": "Slezská nemocnice",
+      "latitude": 49.93466,
+      "longitude": 17.879561
+    },
+    {
+      "name": "Služebna Městské policie Domažlice",
+      "latitude": 49.440896,
+      "longitude": 12.927435
+    },
+    {
+      "name": "SMIGHT Base Karlovo náměstí",
+      "latitude": 50.077961,
+      "longitude": 14.420513
+    },
+    {
+      "name": "Smýkalova Káva",
+      "latitude": 49.263537,
+      "longitude": 17.997216
+    },
+    {
+      "name": "Sokolovna TJ Sokol Plzeň Nová Hospoda",
+      "latitude": 49.728566,
+      "longitude": 13.309235
+    },
+    {
+      "name": "SOU Hlučín",
+      "latitude": 49.898622,
+      "longitude": 18.185682
+    },
+    {
+      "name": "Sport Bar Ke Hřišti",
+      "latitude": 50.029289,
+      "longitude": 18.067453
+    },
+    {
+      "name": "SPORT BÍLEK",
+      "latitude": 49.96292,
+      "longitude": 12.700301
+    },
+    {
+      "name": "Sport Hotel BK Pod Lipou",
+      "latitude": 50.428706,
+      "longitude": 14.265778
+    },
+    {
+      "name": "Sportoviště Karviná",
+      "latitude": 49.864166,
+      "longitude": 18.551203
+    },
+    {
+      "name": "Sportovní areál Borová",
+      "latitude": 49.736996,
+      "longitude": 16.165576
+    },
+    {
+      "name": "Sportovní areál Háj",
+      "latitude": 50.23085,
+      "longitude": 12.20318
+    },
+    {
+      "name": "Sportovní areál Olšinky",
+      "latitude": 49.924054,
+      "longitude": 18.042865
+    },
+    {
+      "name": "Sportovní areál Veslák",
+      "latitude": 50.184065,
+      "longitude": 15.05414
+    },
+    {
+      "name": "Sportovní areál Viktoria, Správa městských sportovišť, příspěvková společnost",
+      "latitude": 49.96153,
+      "longitude": 12.704969
+    },
+    {
+      "name": "Sportovní areál Za Sokolovnou",
+      "latitude": 49.865024,
+      "longitude": 16.318211
+    },
+    {
+      "name": "Sportovní areál Českého Švýcarska",
+      "latitude": 50.910402,
+      "longitude": 14.51074
+    },
+    {
+      "name": "Sportovně rekreační areál rybník Kocián",
+      "latitude": 50.06978,
+      "longitude": 17.092608
+    },
+    {
+      "name": "Sportovně relaxační areál Hluboká nad Vltavou",
+      "latitude": 49.042812,
+      "longitude": 14.444689
+    },
+    {
+      "name": "Spot",
+      "latitude": 50.010651,
+      "longitude": 15.229
+    },
+    {
+      "name": "Srub pod Medvědínem",
+      "latitude": 50.730038,
+      "longitude": 15.607049
+    },
+    {
+      "name": "Stanice Benešov nad Ploučnicí",
+      "latitude": 50.738612,
+      "longitude": 14.305361
+    },
+    {
+      "name": "Strakonice Kaufland",
+      "latitude": 49.262753,
+      "longitude": 13.891282
+    },
+    {
+      "name": "Stráž nad Nisou - 1",
+      "latitude": 50.783675,
+      "longitude": 15.02315
+    },
+    {
+      "name": "Stráž nad Nisou - 2",
+      "latitude": 50.783629,
+      "longitude": 15.023168
+    },
+    {
+      "name": "Státní hrad a zámek Bečov nad Teplou",
+      "latitude": 50.085008,
+      "longitude": 12.83957
+    },
+    {
+      "name": "SUMMIT - SPORT",
+      "latitude": 50.725951,
+      "longitude": 15.607604
+    },
+    {
+      "name": "Synkova",
+      "latitude": 49.208292,
+      "longitude": 16.676715
+    },
+    {
+      "name": "SŠP Krnov",
+      "latitude": 50.088041,
+      "longitude": 17.713002
+    },
+    {
+      "name": "SŠT Opava",
+      "latitude": 49.936652,
+      "longitude": 17.920849
+    },
+    {
+      "name": "Tanzberg - Tesla destin wallboxs",
+      "latitude": 48.808357,
+      "longitude": 16.635576
+    },
+    {
+      "name": "Technologický park Purkyňova 107 A",
+      "latitude": 49.230831,
+      "longitude": 16.57617
+    },
+    {
+      "name": "Technologický park Purkyňova 115 B",
+      "latitude": 49.231994,
+      "longitude": 16.575939
+    },
+    {
+      "name": "Teplo Hlučín",
+      "latitude": 49.90654,
+      "longitude": 18.191576
+    },
+    {
+      "name": "Terezín - město změny",
+      "latitude": 50.511797,
+      "longitude": 14.145173
+    },
+    {
+      "name": "Tesla",
+      "latitude": 49.226004,
+      "longitude": 16.581925
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 49.146138,
+      "longitude": 16.036733
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 49.981119,
+      "longitude": 14.762731
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 50.140728,
+      "longitude": 15.326802
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 50.227324,
+      "longitude": 17.195687
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 50.228099,
+      "longitude": 14.089974
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 50.372066,
+      "longitude": 15.810277
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 50.863005,
+      "longitude": 14.458169
+    },
+    {
+      "name": "Tesla Destination Charger",
+      "latitude": 50.889267,
+      "longitude": 14.457462
+    },
+    {
+      "name": "Tesla Destination Charger Avrio Point",
+      "latitude": 49.212776,
+      "longitude": 16.567281
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 48.887973,
+      "longitude": 14.436284
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 49.13845,
+      "longitude": 16.630695
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 49.428194,
+      "longitude": 15.701425
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 49.521724,
+      "longitude": 15.347513
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 49.560892,
+      "longitude": 17.262336
+    },
+    {
+      "name": "Tesla Supercharger",
+      "latitude": 49.800198,
+      "longitude": 18.223683
+    },
+    {
+      "name": "TILAK restaurace",
+      "latitude": 49.142153,
+      "longitude": 17.210279
+    },
+    {
+      "name": "Tip Spot",
+      "latitude": 49.853994,
+      "longitude": 14.410206
+    },
+    {
+      "name": "Top Spot",
+      "latitude": 49.127,
+      "longitude": 16.334204
+    },
+    {
+      "name": "Top Spot",
+      "latitude": 50.139906,
+      "longitude": 15.123774
+    },
+    {
+      "name": "Top Spot",
+      "latitude": 50.150996,
+      "longitude": 15.034721
+    },
+    {
+      "name": "Top Spot",
+      "latitude": 50.789023,
+      "longitude": 14.818435
+    },
+    {
+      "name": "Topkolo",
+      "latitude": 49.294771,
+      "longitude": 18.245281
+    },
+    {
+      "name": "Trail Bistro TOFL",
+      "latitude": 48.862055,
+      "longitude": 17.390296
+    },
+    {
+      "name": "Turistické informační centrum Horažďovice",
+      "latitude": 49.321448,
+      "longitude": 13.698562
+    },
+    {
+      "name": "Turistické informační centrum Humpolec",
+      "latitude": 49.541055,
+      "longitude": 15.35551
+    },
+    {
+      "name": "Turistické informační centrum Jemnice",
+      "latitude": 49.017729,
+      "longitude": 15.572802
+    },
+    {
+      "name": "Turistické informační centrum Kadaň",
+      "latitude": 50.381295,
+      "longitude": 13.273445
+    },
+    {
+      "name": "Turistické informační centrum Milevsko",
+      "latitude": 49.450142,
+      "longitude": 14.360156
+    },
+    {
+      "name": "Turistické informační centrum Rožmberk nad Vltavou - Hotel u Martina",
+      "latitude": 48.655388,
+      "longitude": 14.366592
+    },
+    {
+      "name": "Turistické informační centrum Slezská Harta",
+      "latitude": 49.905026,
+      "longitude": 17.571934
+    },
+    {
+      "name": "Turistické informační centrum Vrbno pod Pradědem",
+      "latitude": 50.121788,
+      "longitude": 17.379501
+    },
+    {
+      "name": "Turistický areál Bastion I a podzemí v Josefově",
+      "latitude": 50.338465,
+      "longitude": 15.924256
+    },
+    {
+      "name": "Tábor Černý Potok",
+      "latitude": 50.354267,
+      "longitude": 17.163759
+    },
+    {
+      "name": "Tábořiště Hamr",
+      "latitude": 49.157305,
+      "longitude": 14.767438
+    },
+    {
+      "name": "U Jiskrů",
+      "latitude": 49.296892,
+      "longitude": 13.989527
+    },
+    {
+      "name": "U Tety",
+      "latitude": 49.74827,
+      "longitude": 16.577609
+    },
+    {
+      "name": "UNIcharge",
+      "latitude": 50.094891,
+      "longitude": 14.295002
+    },
+    {
+      "name": "Unčovice McDonald's",
+      "latitude": 49.663366,
+      "longitude": 17.10514
+    },
+    {
+      "name": "USB porty, 5x2 zasuvky",
+      "latitude": 50.230293,
+      "longitude": 12.203484
+    },
+    {
+      "name": "Valašské muzeum v přírodě",
+      "latitude": 49.461573,
+      "longitude": 18.14962
+    },
+    {
+      "name": "Veolia FastCharger",
+      "latitude": 49.843588,
+      "longitude": 18.308627
+    },
+    {
+      "name": "Vestec Supercharger",
+      "latitude": 49.989865,
+      "longitude": 14.490463
+    },
+    {
+      "name": "Veřejné tábořiště Prášily",
+      "latitude": 49.108654,
+      "longitude": 13.38295
+    },
+    {
+      "name": "Vlakové nádraží Krásná Lípa",
+      "latitude": 50.918934,
+      "longitude": 14.512179
+    },
+    {
+      "name": "Vlastivědné muzeum v Šumperku, příspěvková organizace",
+      "latitude": 49.965744,
+      "longitude": 16.978346
+    },
+    {
+      "name": "Vlněna",
+      "latitude": 49.189302,
+      "longitude": 16.61695
+    },
+    {
+      "name": "Vlněna",
+      "latitude": 49.189815,
+      "longitude": 16.617144
+    },
+    {
+      "name": "Vodní mlýn Wesselsky",
+      "latitude": 49.685604,
+      "longitude": 17.798183
+    },
+    {
+      "name": "Vodova - Královo pole",
+      "latitude": 49.22574,
+      "longitude": 16.585206
+    },
+    {
+      "name": "VSH Slaný s.r.o.",
+      "latitude": 50.22461,
+      "longitude": 14.076259
+    },
+    {
+      "name": "Vysoká",
+      "latitude": 50.246552,
+      "longitude": 17.601073
+    },
+    {
+      "name": "Vyšehoří",
+      "latitude": 49.930144,
+      "longitude": 16.882241
+    },
+    {
+      "name": "Vzdělávací a rekreační centrum Lesná, o.p.s.",
+      "latitude": 50.56906,
+      "longitude": 13.432977
+    },
+    {
+      "name": "Věřejné koupaliště Hulák",
+      "latitude": 49.009181,
+      "longitude": 13.998541
+    },
+    {
+      "name": "VŠB CPIT",
+      "latitude": 49.833929,
+      "longitude": 18.160599
+    },
+    {
+      "name": "Wellness hotel Sauna",
+      "latitude": 50.01815,
+      "longitude": 17.294352
+    },
+    {
+      "name": "Wellness hotel Villa Grohmann",
+      "latitude": 50.226837,
+      "longitude": 17.145355
+    },
+    {
+      "name": "Zahradní restaurace Podvinný mlýn",
+      "latitude": 50.109744,
+      "longitude": 14.493395
+    },
+    {
+      "name": "Zahrádka na Rybníčku",
+      "latitude": 49.47868,
+      "longitude": 17.13236
+    },
+    {
+      "name": "Zimní stadion",
+      "latitude": 49.766267,
+      "longitude": 16.660356
+    },
+    {
+      "name": "Zlatokopecký skanzen",
+      "latitude": 50.253841,
+      "longitude": 17.366323
+    },
+    {
+      "name": "Zličín Supercharger",
+      "latitude": 50.049774,
+      "longitude": 14.293347
+    },
+    {
+      "name": "Zábřeh na Moravě - SOŠ a SŠ",
+      "latitude": 49.882917,
+      "longitude": 16.888101
+    },
+    {
+      "name": "Zámecké vinařství Třebívlice",
+      "latitude": 50.463619,
+      "longitude": 13.898381
+    },
+    {
+      "name": "Zámecký park Žichovice",
+      "latitude": 49.266976,
+      "longitude": 13.624209
+    },
+    {
+      "name": "Zámecký penzion Holiday Park Mlázovy",
+      "latitude": 49.31416,
+      "longitude": 13.405923
+    },
+    {
+      "name": "Zámek Choltice",
+      "latitude": 49.986138,
+      "longitude": 15.61859
+    },
+    {
+      "name": "Zámek Slezské Rudoltice",
+      "latitude": 50.205795,
+      "longitude": 17.689438
+    },
+    {
+      "name": "Zřícenina hradu Vrškamýk",
+      "latitude": 49.640107,
+      "longitude": 14.238203
+    },
+    {
+      "name": "ZŠ a MŠ Černá v Pošumaví",
+      "latitude": 48.737805,
+      "longitude": 14.109375
+    },
+    {
+      "name": "Čebín - Kirschbaum Miroslav",
+      "latitude": 49.312192,
+      "longitude": 16.479075
+    },
+    {
+      "name": "Čelákovice vlakové nádraží - zastávka Jiřina",
+      "latitude": 50.166979,
+      "longitude": 14.764568
+    },
+    {
+      "name": "České Budějovice - Benzina",
+      "latitude": 48.988508,
+      "longitude": 14.479005
+    },
+    {
+      "name": "Čestlice Supercharger",
+      "latitude": 50.002591,
+      "longitude": 14.573457
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 48.857354,
+      "longitude": 17.137354
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.182603,
+      "longitude": 16.690586
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.186129,
+      "longitude": 16.64976
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.186681,
+      "longitude": 15.448627
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.19129,
+      "longitude": 16.87872
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.212837,
+      "longitude": 17.616464
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.216635,
+      "longitude": 16.607722
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.217586,
+      "longitude": 17.629348
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.22078,
+      "longitude": 17.707289
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.308966,
+      "longitude": 16.534085
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.313365,
+      "longitude": 16.54006
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.348649,
+      "longitude": 16.023939
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.369782,
+      "longitude": 16.642438
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.451877,
+      "longitude": 17.454825
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.47576,
+      "longitude": 17.970643
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.515611,
+      "longitude": 15.416242
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.538785,
+      "longitude": 15.346016
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.658433,
+      "longitude": 15.118339
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.660349,
+      "longitude": 18.671763
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.693367,
+      "longitude": 18.119975
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.696279,
+      "longitude": 15.802802
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.702139,
+      "longitude": 13.427845
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.723291,
+      "longitude": 13.353821
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.750175,
+      "longitude": 16.658056
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.777974,
+      "longitude": 18.270673
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.78917,
+      "longitude": 18.131634
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.828055,
+      "longitude": 18.279493
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.842529,
+      "longitude": 18.268913
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.862863,
+      "longitude": 18.553033
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.8986,
+      "longitude": 18.349756
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 49.984708,
+      "longitude": 14.602554
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 50.09295,
+      "longitude": 14.322841
+    },
+    {
+      "name": "ČEZ",
+      "latitude": 50.225995,
+      "longitude": 17.19877
+    },
+    {
+      "name": "ČS ORLEN Benešov",
+      "latitude": 49.794716,
+      "longitude": 14.678984
+    },
+    {
+      "name": "ČS ORLEN Doksy",
+      "latitude": 50.571305,
+      "longitude": 14.644912
+    },
+    {
+      "name": "ČS ORLEN Klatovy",
+      "latitude": 49.384871,
+      "longitude": 13.296631
+    },
+    {
+      "name": "ČS ORLEN Lovosice",
+      "latitude": 50.519712,
+      "longitude": 14.047789
+    },
+    {
+      "name": "ČS ORLEN Rožnov pod Radhoštěm",
+      "latitude": 49.465876,
+      "longitude": 18.162482
+    },
+    {
+      "name": "ČS ORLEN Rynoltice",
+      "latitude": 50.787547,
+      "longitude": 14.809761
+    },
+    {
+      "name": "ČS ORLEN Slavonice",
+      "latitude": 48.996235,
+      "longitude": 15.349017
+    },
+    {
+      "name": "ČS ORLEN Suchdol nad Lužnicí",
+      "latitude": 48.896961,
+      "longitude": 14.880969
+    },
+    {
+      "name": "ČS ORLEN Třeboň",
+      "latitude": 49.011861,
+      "longitude": 14.788149
+    },
+    {
+      "name": "ČS ORLEN Velké Losiny",
+      "latitude": 50.026781,
+      "longitude": 17.037693
+    },
+    {
+      "name": "ČS ORLEN Vodňany",
+      "latitude": 49.140749,
+      "longitude": 14.183267
+    },
+    {
+      "name": "ČS ORLEN Vrchlabí",
+      "latitude": 50.620214,
+      "longitude": 15.598829
+    },
+    {
+      "name": "ČS ORLEN České Budějovice",
+      "latitude": 48.989786,
+      "longitude": 14.459334
+    },
+    {
+      "name": "ČS ORLEN Špindlerův mlýn",
+      "latitude": 50.724213,
+      "longitude": 15.596545
+    },
+    {
+      "name": "Řečkovice Novoměstská",
+      "latitude": 49.23855,
+      "longitude": 16.588221
+    },
+    {
+      "name": "Špitálka",
+      "latitude": 49.196001,
+      "longitude": 16.623239
+    },
+    {
+      "name": "Štěnovický Borek",
+      "latitude": 49.650709,
+      "longitude": 13.428852
+    },
+    {
+      "name": "Šumavská 1",
+      "latitude": 49.208832,
+      "longitude": 16.591414
+    },
+    {
+      "name": "Šumavská 2",
+      "latitude": 49.208815,
+      "longitude": 16.59135
+    },
+    {
+      "name": "Šumavská 3",
+      "latitude": 49.208987,
+      "longitude": 16.59132
+    },
+    {
+      "name": "Šumavská 4",
+      "latitude": 49.208969,
+      "longitude": 16.591255
+    },
+    {
+      "name": "Šumavská č. 01",
+      "latitude": 49.20967,
+      "longitude": 16.590907
+    },
+    {
+      "name": "Šumavská č. 02",
+      "latitude": 49.209653,
+      "longitude": 16.590841
+    },
+    {
+      "name": "Šumavská č. 03",
+      "latitude": 49.209635,
+      "longitude": 16.590775
+    },
+    {
+      "name": "Šumavská č. 04",
+      "latitude": 49.209577,
+      "longitude": 16.590561
+    },
+    {
+      "name": "Šumavská č. 05",
+      "latitude": 49.209561,
+      "longitude": 16.590502
+    },
+    {
+      "name": "Šumavská č. 06",
+      "latitude": 49.209545,
+      "longitude": 16.590443
+    },
+    {
+      "name": "Šumavská č. 07",
+      "latitude": 49.209529,
+      "longitude": 16.590383
+    },
+    {
+      "name": "Šumavská č. 08",
+      "latitude": 49.209513,
+      "longitude": 16.590324
+    },
+    {
+      "name": "Šumavská č. 09",
+      "latitude": 49.209253,
+      "longitude": 16.591163
+    },
+    {
+      "name": "Šumavská č. 10",
+      "latitude": 49.209235,
+      "longitude": 16.591096
+    },
+    {
+      "name": "Šumavská č. 11",
+      "latitude": 49.209218,
+      "longitude": 16.59103
+    },
+    {
+      "name": "Šumavská č. 12",
+      "latitude": 49.209118,
+      "longitude": 16.591242
+    },
+    {
+      "name": "Šumavská č. 13",
+      "latitude": 49.209101,
+      "longitude": 16.591176
+    },
+    {
+      "name": "Šumavská č. 14",
+      "latitude": 49.209085,
+      "longitude": 16.591112
+    },
+    {
+      "name": "Šumavská č. 15",
+      "latitude": 49.208953,
+      "longitude": 16.591192
+    },
+    {
+      "name": "Šumavská č. 16",
+      "latitude": 49.208799,
+      "longitude": 16.59129
+    },
+    {
+      "name": "Žabovřesky Korejská",
+      "latitude": 49.214593,
+      "longitude": 16.585365
+    },
+    {
+      "name": "Žabovřesky Makovského nám.",
+      "latitude": 49.217975,
+      "longitude": 16.575291
+    },
+    {
+      "name": "Žabovřesky Pod Kaštany",
+      "latitude": 49.211088,
+      "longitude": 16.590924
+    },
+    {
+      "name": "Železniční depozitář NTM Chomutov",
+      "latitude": 50.454865,
+      "longitude": 13.389948
+    },
+    {
+      "name": "Železniční stanice Třemešná ve Slezsku",
+      "latitude": 50.199808,
+      "longitude": 17.574049
+    },
+    {
+      "name": "Železniční stanice Zábřeh",
+      "latitude": 49.873257,
+      "longitude": 16.886578
+    },
+    {
+      "name": "Žichlínek - Pohostinství u Filipů",
+      "latitude": 49.881912,
+      "longitude": 16.638174
+    },
+    {
+      "name": "Židenice Gajdošova",
+      "latitude": 49.201565,
+      "longitude": 16.643878
+    },
+    {
+      "name": "Židenice Krásného",
+      "latitude": 49.189592,
+      "longitude": 16.659563
+    },
+    {
+      "name": "ŽS Bílovec",
+      "latitude": 49.75359,
+      "longitude": 18.013771
+    }
+  ],
+  "meta": {
+    "title": "České nabíjecí stanice - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných nabíjecích stanic pro elektromobily v Česku (amenity=charging_station) z OpenStreetMap. Obsahuje 822 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "České nabíjecí stanice | ListBase",
+    "seo_description": "Stáhnout České nabíjecí stanice — 822 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 822 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

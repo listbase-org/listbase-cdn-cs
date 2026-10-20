@@ -1,0 +1,1766 @@
+{
+  "id": "cs-kina",
+  "name": "Česká kina",
+  "title": "Česká kina",
+  "description": "Seznam pojmenovaných kin v Česku (amenity=cinema) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 345,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3D Kino",
+      "latitude": 48.828927,
+      "longitude": 14.460918
+    },
+    {
+      "name": "3D Kino",
+      "latitude": 49.079946,
+      "longitude": 15.437109
+    },
+    {
+      "name": "5D Cinema MAXIM",
+      "latitude": 49.191776,
+      "longitude": 16.612391
+    },
+    {
+      "name": "5d Cinema Maxim",
+      "latitude": 49.2297,
+      "longitude": 16.518802
+    },
+    {
+      "name": "5D cinema Maxim",
+      "latitude": 49.587524,
+      "longitude": 17.256854
+    },
+    {
+      "name": "5D Cinema Maxim",
+      "latitude": 50.640111,
+      "longitude": 13.822965
+    },
+    {
+      "name": "Admira",
+      "latitude": 50.146449,
+      "longitude": 12.644448
+    },
+    {
+      "name": "Amiteátr Jihlava",
+      "latitude": 49.399082,
+      "longitude": 15.593076
+    },
+    {
+      "name": "Art Kino Bar",
+      "latitude": 49.298075,
+      "longitude": 14.470963
+    },
+    {
+      "name": "Atlas",
+      "latitude": 50.091418,
+      "longitude": 14.438403
+    },
+    {
+      "name": "Beseda",
+      "latitude": 50.097097,
+      "longitude": 14.670671
+    },
+    {
+      "name": "Beseda Otrokovice",
+      "latitude": 49.206878,
+      "longitude": 17.536512
+    },
+    {
+      "name": "Bio Central",
+      "latitude": 50.214212,
+      "longitude": 15.822765
+    },
+    {
+      "name": "Bio luž",
+      "latitude": 50.882585,
+      "longitude": 14.579646
+    },
+    {
+      "name": "Bio Oko",
+      "latitude": 50.099958,
+      "longitude": 14.429952
+    },
+    {
+      "name": "Biograf",
+      "latitude": 50.585316,
+      "longitude": 14.345468
+    },
+    {
+      "name": "Biograf Na Špici",
+      "latitude": 50.363713,
+      "longitude": 15.631616
+    },
+    {
+      "name": "Biograf Český Ráj",
+      "latitude": 50.434602,
+      "longitude": 15.351477
+    },
+    {
+      "name": "Béla",
+      "latitude": 50.084765,
+      "longitude": 14.421762
+    },
+    {
+      "name": "bývalé Letní divadlo (Amfiteátr)",
+      "latitude": 50.780593,
+      "longitude": 15.082949
+    },
+    {
+      "name": "Bývalé letní kino",
+      "latitude": 50.505494,
+      "longitude": 13.614832
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 49.137722,
+      "longitude": 16.632499
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 49.749449,
+      "longitude": 13.368775
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 49.830137,
+      "longitude": 18.284488
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 50.03781,
+      "longitude": 15.768691
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 50.054177,
+      "longitude": 14.287453
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 50.079257,
+      "longitude": 14.461049
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 50.65876,
+      "longitude": 14.038461
+    },
+    {
+      "name": "Cinema City",
+      "latitude": 50.766526,
+      "longitude": 15.055093
+    },
+    {
+      "name": "Cinema City - Praha chodov",
+      "latitude": 50.032115,
+      "longitude": 14.491034
+    },
+    {
+      "name": "Cinema City Slovanský dům",
+      "latitude": 50.086178,
+      "longitude": 14.427725
+    },
+    {
+      "name": "Cinemax",
+      "latitude": 49.558925,
+      "longitude": 17.304371
+    },
+    {
+      "name": "Cineport",
+      "latitude": 49.821794,
+      "longitude": 18.27777
+    },
+    {
+      "name": "Cinestar",
+      "latitude": 48.983313,
+      "longitude": 14.441805
+    },
+    {
+      "name": "CineStar",
+      "latitude": 49.392493,
+      "longitude": 15.594663
+    },
+    {
+      "name": "Cinestar",
+      "latitude": 49.602604,
+      "longitude": 17.220556
+    },
+    {
+      "name": "CineStar",
+      "latitude": 49.701507,
+      "longitude": 13.427985
+    },
+    {
+      "name": "Cinestar",
+      "latitude": 49.832436,
+      "longitude": 18.266466
+    },
+    {
+      "name": "CineStar",
+      "latitude": 49.941387,
+      "longitude": 17.900555
+    },
+    {
+      "name": "CineStar",
+      "latitude": 50.037999,
+      "longitude": 15.775774
+    },
+    {
+      "name": "CineStar",
+      "latitude": 50.196923,
+      "longitude": 15.847715
+    },
+    {
+      "name": "Cinestar",
+      "latitude": 50.420609,
+      "longitude": 14.91614
+    },
+    {
+      "name": "Cinestar",
+      "latitude": 50.741547,
+      "longitude": 15.048499
+    },
+    {
+      "name": "CineStar Praha – Černý most",
+      "latitude": 50.109193,
+      "longitude": 14.585382
+    },
+    {
+      "name": "CIT",
+      "latitude": 49.193359,
+      "longitude": 16.608535
+    },
+    {
+      "name": "Crystal",
+      "latitude": 50.684821,
+      "longitude": 14.53404
+    },
+    {
+      "name": "Digitální kino Bílina",
+      "latitude": 50.549663,
+      "longitude": 13.774427
+    },
+    {
+      "name": "DinoKino",
+      "latitude": 49.759941,
+      "longitude": 13.357399
+    },
+    {
+      "name": "Divišovo divadlo",
+      "latitude": 50.082638,
+      "longitude": 16.464478
+    },
+    {
+      "name": "DUHA",
+      "latitude": 49.473162,
+      "longitude": 17.11032
+    },
+    {
+      "name": "Dukla",
+      "latitude": 49.397449,
+      "longitude": 15.586133
+    },
+    {
+      "name": "Dům kultury Letohrad",
+      "latitude": 50.033196,
+      "longitude": 16.509624
+    },
+    {
+      "name": "Edison Filmhub",
+      "latitude": 50.084866,
+      "longitude": 14.431305
+    },
+    {
+      "name": "Filmtheater Ebersbach",
+      "latitude": 51.00699,
+      "longitude": 14.579366
+    },
+    {
+      "name": "Golden Apple Cinema",
+      "latitude": 49.226426,
+      "longitude": 17.668541
+    },
+    {
+      "name": "Horské kino Kateřina",
+      "latitude": 50.605595,
+      "longitude": 13.438368
+    },
+    {
+      "name": "Hutník",
+      "latitude": 50.135092,
+      "longitude": 14.102965
+    },
+    {
+      "name": "Hvězda",
+      "latitude": 49.067577,
+      "longitude": 17.468836
+    },
+    {
+      "name": "Hvězda",
+      "latitude": 50.383221,
+      "longitude": 13.270107
+    },
+    {
+      "name": "IMAX",
+      "latitude": 50.079095,
+      "longitude": 14.461296
+    },
+    {
+      "name": "Jitřenka",
+      "latitude": 50.601795,
+      "longitude": 15.333496
+    },
+    {
+      "name": "Kino",
+      "latitude": 48.979621,
+      "longitude": 17.214643
+    },
+    {
+      "name": "Kino",
+      "latitude": 49.173499,
+      "longitude": 17.512222
+    },
+    {
+      "name": "kino",
+      "latitude": 49.18558,
+      "longitude": 17.304216
+    },
+    {
+      "name": "Kino",
+      "latitude": 49.635814,
+      "longitude": 18.718883
+    },
+    {
+      "name": "Kino",
+      "latitude": 49.788499,
+      "longitude": 18.16226
+    },
+    {
+      "name": "Kino",
+      "latitude": 50.114573,
+      "longitude": 12.531656
+    },
+    {
+      "name": "Kino",
+      "latitude": 50.158999,
+      "longitude": 15.45754
+    },
+    {
+      "name": "Kino",
+      "latitude": 50.519567,
+      "longitude": 14.975603
+    },
+    {
+      "name": "Kino",
+      "latitude": 50.619841,
+      "longitude": 13.607659
+    },
+    {
+      "name": "Kino 35",
+      "latitude": 50.078972,
+      "longitude": 14.424919
+    },
+    {
+      "name": "Kino 70",
+      "latitude": 50.35201,
+      "longitude": 16.149188
+    },
+    {
+      "name": "Kino 70",
+      "latitude": 50.604484,
+      "longitude": 15.510143
+    },
+    {
+      "name": "Kino 99",
+      "latitude": 50.025337,
+      "longitude": 15.206051
+    },
+    {
+      "name": "Kino Aero",
+      "latitude": 50.090396,
+      "longitude": 14.471891
+    },
+    {
+      "name": "Kino Alfa",
+      "latitude": 50.174245,
+      "longitude": 12.65767
+    },
+    {
+      "name": "Kino Art",
+      "latitude": 49.204216,
+      "longitude": 16.603366
+    },
+    {
+      "name": "Kino Art",
+      "latitude": 49.830977,
+      "longitude": 18.272946
+    },
+    {
+      "name": "Kino Balt",
+      "latitude": 50.083922,
+      "longitude": 14.414173
+    },
+    {
+      "name": "Kino Benešov",
+      "latitude": 49.781552,
+      "longitude": 14.689953
+    },
+    {
+      "name": "Kino Bijásek",
+      "latitude": 50.205756,
+      "longitude": 15.296928
+    },
+    {
+      "name": "Kino Blansko",
+      "latitude": 49.358919,
+      "longitude": 16.646831
+    },
+    {
+      "name": "Kino Bor",
+      "latitude": 49.712109,
+      "longitude": 12.773404
+    },
+    {
+      "name": "Kino Borovany",
+      "latitude": 48.898156,
+      "longitude": 14.641872
+    },
+    {
+      "name": "Kino Bystré",
+      "latitude": 49.628657,
+      "longitude": 16.343699
+    },
+    {
+      "name": "Kino Central",
+      "latitude": 49.745592,
+      "longitude": 18.623953
+    },
+    {
+      "name": "Kino Centrum",
+      "latitude": 49.778578,
+      "longitude": 18.431716
+    },
+    {
+      "name": "Kino Centrum",
+      "latitude": 49.856831,
+      "longitude": 18.55733
+    },
+    {
+      "name": "Kino club Loučovice",
+      "latitude": 48.621415,
+      "longitude": 14.256627
+    },
+    {
+      "name": "Kino Desná",
+      "latitude": 50.75466,
+      "longitude": 15.309249
+    },
+    {
+      "name": "Kino Dlabačov",
+      "latitude": 50.085509,
+      "longitude": 14.379452
+    },
+    {
+      "name": "KINO Dlouhá Loučka",
+      "latitude": 49.818605,
+      "longitude": 17.184803
+    },
+    {
+      "name": "Kino Dobruška",
+      "latitude": 50.290499,
+      "longitude": 16.159661
+    },
+    {
+      "name": "Kino Dolní Dobrouč",
+      "latitude": 49.99389,
+      "longitude": 16.49705
+    },
+    {
+      "name": "Kino Domoušice",
+      "latitude": 50.233497,
+      "longitude": 13.7309
+    },
+    {
+      "name": "Kino Družba",
+      "latitude": 49.71741,
+      "longitude": 15.67299
+    },
+    {
+      "name": "Kino Egerie",
+      "latitude": 50.385398,
+      "longitude": 13.192773
+    },
+    {
+      "name": "Kino Elektra",
+      "latitude": 49.101153,
+      "longitude": 17.758228
+    },
+    {
+      "name": "Kino Frenštát p. R.",
+      "latitude": 49.545392,
+      "longitude": 18.214762
+    },
+    {
+      "name": "Kino Gmünd",
+      "latitude": 48.773395,
+      "longitude": 14.98342
+    },
+    {
+      "name": "kino Hejnice",
+      "latitude": 50.876384,
+      "longitude": 15.183457
+    },
+    {
+      "name": "Kino Humpolec",
+      "latitude": 49.540942,
+      "longitude": 15.35575
+    },
+    {
+      "name": "Kino Hvězda",
+      "latitude": 49.451453,
+      "longitude": 17.455081
+    },
+    {
+      "name": "Kino Hvězda",
+      "latitude": 49.769564,
+      "longitude": 18.309312
+    },
+    {
+      "name": "Kino Janské Lázně",
+      "latitude": 50.630355,
+      "longitude": 15.780359
+    },
+    {
+      "name": "Kino Jas",
+      "latitude": 50.738488,
+      "longitude": 15.307538
+    },
+    {
+      "name": "Kino Junior",
+      "latitude": 50.723149,
+      "longitude": 15.171671
+    },
+    {
+      "name": "Kino Jupiter Club",
+      "latitude": 49.354397,
+      "longitude": 16.012733
+    },
+    {
+      "name": "Kino K3",
+      "latitude": 49.902713,
+      "longitude": 18.35865
+    },
+    {
+      "name": "Kino Kavalírka",
+      "latitude": 50.070078,
+      "longitude": 14.36796
+    },
+    {
+      "name": "Kino KD Neratovice",
+      "latitude": 50.259523,
+      "longitude": 14.515915
+    },
+    {
+      "name": "Kino Konice",
+      "latitude": 49.593334,
+      "longitude": 16.889081
+    },
+    {
+      "name": "kino Kosmos",
+      "latitude": 49.668524,
+      "longitude": 18.677444
+    },
+    {
+      "name": "Kino Kosmos",
+      "latitude": 50.497125,
+      "longitude": 13.640963
+    },
+    {
+      "name": "Kino Kotelna",
+      "latitude": 50.087038,
+      "longitude": 12.381486
+    },
+    {
+      "name": "Kino Kotva",
+      "latitude": 48.966756,
+      "longitude": 14.475359
+    },
+    {
+      "name": "Kino Kruh",
+      "latitude": 50.566457,
+      "longitude": 15.481087
+    },
+    {
+      "name": "Kino Krupka",
+      "latitude": 50.681197,
+      "longitude": 13.868564
+    },
+    {
+      "name": "Kino Květen",
+      "latitude": 49.595494,
+      "longitude": 18.009227
+    },
+    {
+      "name": "Kino Květen",
+      "latitude": 50.639821,
+      "longitude": 13.826053
+    },
+    {
+      "name": "Kino Lanškroun",
+      "latitude": 49.911222,
+      "longitude": 16.60887
+    },
+    {
+      "name": "Kino Luna",
+      "latitude": 48.816238,
+      "longitude": 14.317204
+    },
+    {
+      "name": "Kino Luna",
+      "latitude": 49.788544,
+      "longitude": 18.227389
+    },
+    {
+      "name": "Kino Luník",
+      "latitude": 50.472629,
+      "longitude": 16.095361
+    },
+    {
+      "name": "Kino Lysá nad Labem",
+      "latitude": 50.202463,
+      "longitude": 14.842632
+    },
+    {
+      "name": "Kino Lípa",
+      "latitude": 50.603951,
+      "longitude": 13.745784
+    },
+    {
+      "name": "Kino Malá scéna",
+      "latitude": 50.242002,
+      "longitude": 12.741019
+    },
+    {
+      "name": "Kino MAT",
+      "latitude": 50.077751,
+      "longitude": 14.419049
+    },
+    {
+      "name": "Kino Metro 70",
+      "latitude": 49.47365,
+      "longitude": 17.110525
+    },
+    {
+      "name": "Kino Miloše Formana",
+      "latitude": 49.909283,
+      "longitude": 15.395366
+    },
+    {
+      "name": "Kino Mladá Vožice",
+      "latitude": 49.531186,
+      "longitude": 14.808705
+    },
+    {
+      "name": "Kino Morava",
+      "latitude": 48.951294,
+      "longitude": 17.38371
+    },
+    {
+      "name": "Kino Máj",
+      "latitude": 49.029232,
+      "longitude": 17.657896
+    },
+    {
+      "name": "Kino Máj",
+      "latitude": 49.975001,
+      "longitude": 16.392047
+    },
+    {
+      "name": "Kino Máj",
+      "latitude": 49.998934,
+      "longitude": 16.223678
+    },
+    {
+      "name": "Kino Máj",
+      "latitude": 50.537123,
+      "longitude": 14.132253
+    },
+    {
+      "name": "Kino Máj",
+      "latitude": 50.569298,
+      "longitude": 14.653089
+    },
+    {
+      "name": "Kino Mír",
+      "latitude": 49.577072,
+      "longitude": 18.764123
+    },
+    {
+      "name": "Kino Mír",
+      "latitude": 49.946154,
+      "longitude": 15.666517
+    },
+    {
+      "name": "Kino Mír",
+      "latitude": 50.086349,
+      "longitude": 17.699232
+    },
+    {
+      "name": "Kino Mír (Městské kino Beroun)",
+      "latitude": 49.963977,
+      "longitude": 14.070385
+    },
+    {
+      "name": "Kino Mže",
+      "latitude": 49.79841,
+      "longitude": 12.629907
+    },
+    {
+      "name": "Kino na Valech",
+      "latitude": 49.054045,
+      "longitude": 15.807307
+    },
+    {
+      "name": "Kino Nadsklepí",
+      "latitude": 49.296466,
+      "longitude": 17.391677
+    },
+    {
+      "name": "Kino Nová Paka",
+      "latitude": 50.49626,
+      "longitude": 15.513714
+    },
+    {
+      "name": "Kino Nový Bor",
+      "latitude": 50.758259,
+      "longitude": 14.553397
+    },
+    {
+      "name": "Kino Nový Hrádek",
+      "latitude": 50.356871,
+      "longitude": 16.243562
+    },
+    {
+      "name": "Kino Národka",
+      "latitude": 49.023549,
+      "longitude": 13.996722
+    },
+    {
+      "name": "Kino OKO",
+      "latitude": 49.726735,
+      "longitude": 17.296352
+    },
+    {
+      "name": "Kino Olympia",
+      "latitude": 50.392694,
+      "longitude": 17.005716
+    },
+    {
+      "name": "Kino Ostrov",
+      "latitude": 49.604139,
+      "longitude": 15.581494
+    },
+    {
+      "name": "Kino Otava",
+      "latitude": 49.322479,
+      "longitude": 13.701593
+    },
+    {
+      "name": "Kino Panorama",
+      "latitude": 49.377677,
+      "longitude": 15.698414
+    },
+    {
+      "name": "Kino Panorama",
+      "latitude": 49.789258,
+      "longitude": 18.131751
+    },
+    {
+      "name": "Kino Panorama",
+      "latitude": 50.904429,
+      "longitude": 14.630275
+    },
+    {
+      "name": "Kino Panská",
+      "latitude": 50.085039,
+      "longitude": 14.427459
+    },
+    {
+      "name": "Kino Peruc",
+      "latitude": 50.342977,
+      "longitude": 13.957865
+    },
+    {
+      "name": "Kino Pilotů",
+      "latitude": 50.071408,
+      "longitude": 14.446855
+    },
+    {
+      "name": "Kino Pohoda",
+      "latitude": 50.227318,
+      "longitude": 17.207482
+    },
+    {
+      "name": "Kino Portyč",
+      "latitude": 49.311516,
+      "longitude": 14.14382
+    },
+    {
+      "name": "Kino Puls",
+      "latitude": 49.599262,
+      "longitude": 18.143988
+    },
+    {
+      "name": "kino Příbram",
+      "latitude": 49.681216,
+      "longitude": 14.001131
+    },
+    {
+      "name": "Kino Radium",
+      "latitude": 50.362251,
+      "longitude": 12.933667
+    },
+    {
+      "name": "Kino Radnice 70",
+      "latitude": 50.724657,
+      "longitude": 15.171313
+    },
+    {
+      "name": "Kino Radost",
+      "latitude": 49.756707,
+      "longitude": 18.017856
+    },
+    {
+      "name": "Kino Radotín",
+      "latitude": 49.984139,
+      "longitude": 14.35635
+    },
+    {
+      "name": "Kino Retro",
+      "latitude": 49.882592,
+      "longitude": 16.873876
+    },
+    {
+      "name": "Kino Réna",
+      "latitude": 49.101053,
+      "longitude": 16.376762
+    },
+    {
+      "name": "Kino Rýmařov",
+      "latitude": 49.930935,
+      "longitude": 17.274443
+    },
+    {
+      "name": "Kino Sedlčany",
+      "latitude": 49.659697,
+      "longitude": 14.421118
+    },
+    {
+      "name": "Kino Sféra",
+      "latitude": 50.585797,
+      "longitude": 15.158721
+    },
+    {
+      "name": "Kino Slavia - Městské kulturní středisko Stříbro",
+      "latitude": 49.754195,
+      "longitude": 12.999971
+    },
+    {
+      "name": "Kino Slavonice",
+      "latitude": 48.998251,
+      "longitude": 15.349875
+    },
+    {
+      "name": "Kino Slávia",
+      "latitude": 49.965774,
+      "longitude": 12.700286
+    },
+    {
+      "name": "Kino Sněžník",
+      "latitude": 50.77227,
+      "longitude": 14.19686
+    },
+    {
+      "name": "kino Sokol",
+      "latitude": 49.868763,
+      "longitude": 16.312429
+    },
+    {
+      "name": "Kino Sokol",
+      "latitude": 50.145234,
+      "longitude": 14.095614
+    },
+    {
+      "name": "Kino Sokol",
+      "latitude": 50.424445,
+      "longitude": 14.251687
+    },
+    {
+      "name": "Kino Sokolovna",
+      "latitude": 49.086838,
+      "longitude": 17.880441
+    },
+    {
+      "name": "kino Suchdol nad Lužnicí",
+      "latitude": 48.888859,
+      "longitude": 14.874724
+    },
+    {
+      "name": "Kino Sušice",
+      "latitude": 49.231101,
+      "longitude": 13.517421
+    },
+    {
+      "name": "kino Svoboda",
+      "latitude": 49.751662,
+      "longitude": 18.483042
+    },
+    {
+      "name": "Kino svět",
+      "latitude": 48.851161,
+      "longitude": 17.125911
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 48.898922,
+      "longitude": 17.320352
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 49.015262,
+      "longitude": 14.611302
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 49.140809,
+      "longitude": 18.009292
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 49.331602,
+      "longitude": 17.580343
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 49.472886,
+      "longitude": 17.971209
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 50.076094,
+      "longitude": 12.372088
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 50.076185,
+      "longitude": 14.864264
+    },
+    {
+      "name": "Kino Svět",
+      "latitude": 50.468346,
+      "longitude": 13.427309
+    },
+    {
+      "name": "Kino Svět Louny",
+      "latitude": 50.357122,
+      "longitude": 13.794417
+    },
+    {
+      "name": "kino Světlá nad Sázavou",
+      "latitude": 49.668897,
+      "longitude": 15.404825
+    },
+    {
+      "name": "Kino Světozor",
+      "latitude": 50.08182,
+      "longitude": 14.424718
+    },
+    {
+      "name": "Kino Vatra",
+      "latitude": 49.337709,
+      "longitude": 17.993768
+    },
+    {
+      "name": "Kino Velké Karlovice",
+      "latitude": 49.363803,
+      "longitude": 18.305747
+    },
+    {
+      "name": "Kino Velké Losiny",
+      "latitude": 50.031604,
+      "longitude": 17.040311
+    },
+    {
+      "name": "Kino Velké Přílepy",
+      "latitude": 50.160628,
+      "longitude": 14.312164
+    },
+    {
+      "name": "kino Vlast",
+      "latitude": 49.677066,
+      "longitude": 18.345368
+    },
+    {
+      "name": "kino Vltava",
+      "latitude": 50.247023,
+      "longitude": 14.315413
+    },
+    {
+      "name": "Kino Volyně",
+      "latitude": 49.16567,
+      "longitude": 13.887292
+    },
+    {
+      "name": "kino Vysočina",
+      "latitude": 49.563313,
+      "longitude": 15.9333
+    },
+    {
+      "name": "Kino Čas",
+      "latitude": 50.228812,
+      "longitude": 12.873013
+    },
+    {
+      "name": "Kino Čerčany",
+      "latitude": 49.848371,
+      "longitude": 14.704135
+    },
+    {
+      "name": "Kino Štěpánov",
+      "latitude": 49.684133,
+      "longitude": 17.220506
+    },
+    {
+      "name": "Kino Šumava",
+      "latitude": 49.055665,
+      "longitude": 13.778937
+    },
+    {
+      "name": "KINONEKINO",
+      "latitude": 49.868192,
+      "longitude": 12.736822
+    },
+    {
+      "name": "KinoO",
+      "latitude": 49.871188,
+      "longitude": 18.428376
+    },
+    {
+      "name": "Kinosál Benešov nad Ploučnicí",
+      "latitude": 50.740846,
+      "longitude": 14.31019
+    },
+    {
+      "name": "Komorní kino Evald",
+      "latitude": 50.08229,
+      "longitude": 14.420146
+    },
+    {
+      "name": "Komunitní centrum Pacov",
+      "latitude": 49.472269,
+      "longitude": 15.001673
+    },
+    {
+      "name": "Kono Habartov",
+      "latitude": 50.184226,
+      "longitude": 12.552185
+    },
+    {
+      "name": "Kulturní centrum Velký Šenov",
+      "latitude": 50.992351,
+      "longitude": 14.3814
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 49.841976,
+      "longitude": 15.998409
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 48.73689,
+      "longitude": 14.102778
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 48.815661,
+      "longitude": 14.310925
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 48.904839,
+      "longitude": 17.317896
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 48.94728,
+      "longitude": 16.314184
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.062426,
+      "longitude": 17.343596
+    },
+    {
+      "name": "letní kino",
+      "latitude": 49.148358,
+      "longitude": 14.180466
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.257838,
+      "longitude": 13.899432
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.309255,
+      "longitude": 14.141319
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.396984,
+      "longitude": 13.295996
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.439014,
+      "longitude": 12.919992
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.455134,
+      "longitude": 16.535631
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.478082,
+      "longitude": 17.966073
+    },
+    {
+      "name": "letní kino",
+      "latitude": 49.483864,
+      "longitude": 16.661788
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.545524,
+      "longitude": 17.737716
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.598405,
+      "longitude": 17.260723
+    },
+    {
+      "name": "letní kino",
+      "latitude": 49.636825,
+      "longitude": 13.158569
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.744218,
+      "longitude": 15.101084
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.755766,
+      "longitude": 18.015858
+    },
+    {
+      "name": "letní kino",
+      "latitude": 49.759596,
+      "longitude": 13.361212
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.784003,
+      "longitude": 14.283132
+    },
+    {
+      "name": "letní kino",
+      "latitude": 49.784633,
+      "longitude": 18.417086
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.866953,
+      "longitude": 17.872697
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.906778,
+      "longitude": 18.363323
+    },
+    {
+      "name": "Letní Kino",
+      "latitude": 49.943431,
+      "longitude": 14.728189
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.96461,
+      "longitude": 14.06776
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 49.981824,
+      "longitude": 13.484957
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.043586,
+      "longitude": 15.360555
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.105748,
+      "longitude": 13.729822
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.174183,
+      "longitude": 13.431258
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.203967,
+      "longitude": 14.838258
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.214191,
+      "longitude": 12.88877
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.257466,
+      "longitude": 14.52393
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.273422,
+      "longitude": 14.339097
+    },
+    {
+      "name": "letní kino",
+      "latitude": 50.322904,
+      "longitude": 13.544639
+    },
+    {
+      "name": "letní kino",
+      "latitude": 50.384785,
+      "longitude": 13.180287
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.503119,
+      "longitude": 15.074876
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.538086,
+      "longitude": 14.554903
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.544188,
+      "longitude": 13.757389
+    },
+    {
+      "name": "letní kino",
+      "latitude": 50.655758,
+      "longitude": 14.730809
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.728138,
+      "longitude": 15.171135
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.756293,
+      "longitude": 14.55244
+    },
+    {
+      "name": "Letní kino - stánek s občerstvením",
+      "latitude": 49.610309,
+      "longitude": 16.667435
+    },
+    {
+      "name": "Letní kino Brno střed",
+      "latitude": 49.193142,
+      "longitude": 16.605833
+    },
+    {
+      "name": "Letní kino Chomutov",
+      "latitude": 50.470163,
+      "longitude": 13.421485
+    },
+    {
+      "name": "Letní kino Chrudim",
+      "latitude": 49.95339,
+      "longitude": 15.792874
+    },
+    {
+      "name": "letní kino Hejnice",
+      "latitude": 50.874404,
+      "longitude": 15.189673
+    },
+    {
+      "name": "Letní kino Horní Planá",
+      "latitude": 48.770043,
+      "longitude": 14.031797
+    },
+    {
+      "name": "Letní kino Houšťka",
+      "latitude": 50.18825,
+      "longitude": 14.686621
+    },
+    {
+      "name": "Letní kino Hrádek",
+      "latitude": 49.708002,
+      "longitude": 13.660539
+    },
+    {
+      "name": "Letní kino Háječek",
+      "latitude": 48.971597,
+      "longitude": 14.471111
+    },
+    {
+      "name": "Letní kino Jenštejn",
+      "latitude": 50.154163,
+      "longitude": 14.608277
+    },
+    {
+      "name": "Letní kino Karviná",
+      "latitude": 49.85247,
+      "longitude": 18.53873
+    },
+    {
+      "name": "Letní Kino Kyjov",
+      "latitude": 49.011654,
+      "longitude": 17.127314
+    },
+    {
+      "name": "Letní kino Litoměřice",
+      "latitude": 50.531915,
+      "longitude": 14.144061
+    },
+    {
+      "name": "Letní kino Mostkovice",
+      "latitude": 49.471991,
+      "longitude": 17.035926
+    },
+    {
+      "name": "Letní kino Příbram",
+      "latitude": 49.672791,
+      "longitude": 14.002967
+    },
+    {
+      "name": "Letní kino Regina",
+      "latitude": 50.094533,
+      "longitude": 14.459766
+    },
+    {
+      "name": "Letní kino Rozkoš",
+      "latitude": 50.397875,
+      "longitude": 16.066936
+    },
+    {
+      "name": "Letní kino Sezimovo Ústí",
+      "latitude": 49.385474,
+      "longitude": 14.704325
+    },
+    {
+      "name": "Letní kino Slaný",
+      "latitude": 50.236629,
+      "longitude": 14.084744
+    },
+    {
+      "name": "Letní kino Slavičín",
+      "latitude": 49.090242,
+      "longitude": 17.876853
+    },
+    {
+      "name": "Letní kino Smetanovy sady",
+      "latitude": 49.067071,
+      "longitude": 17.46897
+    },
+    {
+      "name": "Letní kino Terešov",
+      "latitude": 49.894864,
+      "longitude": 13.701023
+    },
+    {
+      "name": "Letní kino Tišice",
+      "latitude": 50.262647,
+      "longitude": 14.559693
+    },
+    {
+      "name": "Letní kino Tuchlovice",
+      "latitude": 50.137451,
+      "longitude": 13.992785
+    },
+    {
+      "name": "Letní kino Turnov",
+      "latitude": 50.589979,
+      "longitude": 15.159475
+    },
+    {
+      "name": "Letní kino Širák",
+      "latitude": 50.205596,
+      "longitude": 15.836524
+    },
+    {
+      "name": "Letní kino Špilberk",
+      "latitude": 49.194102,
+      "longitude": 16.600688
+    },
+    {
+      "name": "Letní lesní kino Makov",
+      "latitude": 49.446967,
+      "longitude": 13.393488
+    },
+    {
+      "name": "Lucerna",
+      "latitude": 49.210439,
+      "longitude": 16.585401
+    },
+    {
+      "name": "Lucerna",
+      "latitude": 50.08107,
+      "longitude": 14.425749
+    },
+    {
+      "name": "Metropol",
+      "latitude": 49.596408,
+      "longitude": 17.252127
+    },
+    {
+      "name": "Minikino kavárna",
+      "latitude": 49.835788,
+      "longitude": 18.293788
+    },
+    {
+      "name": "Modrý kříž",
+      "latitude": 49.949669,
+      "longitude": 15.270764
+    },
+    {
+      "name": "Modřanský biograf",
+      "latitude": 50.003478,
+      "longitude": 14.404578
+    },
+    {
+      "name": "Multifunkční volnočasové centrum",
+      "latitude": 50.263634,
+      "longitude": 17.394989
+    },
+    {
+      "name": "Multikino - Premiere Cinemas",
+      "latitude": 49.586796,
+      "longitude": 17.257744
+    },
+    {
+      "name": "Multikino Cinestar – Anděl",
+      "latitude": 50.071095,
+      "longitude": 14.401568
+    },
+    {
+      "name": "Máj",
+      "latitude": 49.290537,
+      "longitude": 15.482615
+    },
+    {
+      "name": "Mír",
+      "latitude": 49.067398,
+      "longitude": 17.466807
+    },
+    {
+      "name": "Mír",
+      "latitude": 49.939855,
+      "longitude": 17.901457
+    },
+    {
+      "name": "Mír (zavřeno)",
+      "latitude": 49.896858,
+      "longitude": 18.193324
+    },
+    {
+      "name": "Městské Kino",
+      "latitude": 50.23037,
+      "longitude": 14.088582
+    },
+    {
+      "name": "Městské kino Chrudim",
+      "latitude": 49.947666,
+      "longitude": 15.795451
+    },
+    {
+      "name": "Městské kino Frýdlant",
+      "latitude": 50.919771,
+      "longitude": 15.077406
+    },
+    {
+      "name": "Městské kino Přelouč",
+      "latitude": 50.037274,
+      "longitude": 15.561282
+    },
+    {
+      "name": "Městské kino Týniště nad Orlicí",
+      "latitude": 50.147995,
+      "longitude": 16.075499
+    },
+    {
+      "name": "Městské kulturní zařízení Uničov",
+      "latitude": 49.770236,
+      "longitude": 17.112828
+    },
+    {
+      "name": "Na Fialce",
+      "latitude": 49.995163,
+      "longitude": 14.661892
+    },
+    {
+      "name": "Nákladové nádraží Žižkov, kino NFA",
+      "latitude": 50.084624,
+      "longitude": 14.472476
+    },
+    {
+      "name": "OKO",
+      "latitude": 49.256986,
+      "longitude": 13.904481
+    },
+    {
+      "name": "Oko",
+      "latitude": 49.963575,
+      "longitude": 16.977386
+    },
+    {
+      "name": "Palace Cinemas Letňany",
+      "latitude": 50.13683,
+      "longitude": 14.502729
+    },
+    {
+      "name": "Palace Cinemas Nový Smíchov",
+      "latitude": 50.073896,
+      "longitude": 14.402692
+    },
+    {
+      "name": "Palkovice",
+      "latitude": 49.636875,
+      "longitude": 18.319525
+    },
+    {
+      "name": "Panorama",
+      "latitude": 49.008175,
+      "longitude": 17.121819
+    },
+    {
+      "name": "Panorama",
+      "latitude": 49.029433,
+      "longitude": 17.348947
+    },
+    {
+      "name": "Panorama",
+      "latitude": 49.182527,
+      "longitude": 16.392247
+    },
+    {
+      "name": "Panorama Paskov",
+      "latitude": 49.732906,
+      "longitude": 18.293235
+    },
+    {
+      "name": "Pardubické letní kino Rebel",
+      "latitude": 50.041954,
+      "longitude": 15.766265
+    },
+    {
+      "name": "Pasáž",
+      "latitude": 49.213585,
+      "longitude": 15.880279
+    },
+    {
+      "name": "Piast",
+      "latitude": 49.748037,
+      "longitude": 18.633004
+    },
+    {
+      "name": "Ponrepo",
+      "latitude": 50.083129,
+      "longitude": 14.417408
+    },
+    {
+      "name": "Premiere Cinemas",
+      "latitude": 50.053179,
+      "longitude": 14.517472
+    },
+    {
+      "name": "Premiere Cinemas",
+      "latitude": 50.64007,
+      "longitude": 13.823104
+    },
+    {
+      "name": "Rychnovské kino",
+      "latitude": 50.163961,
+      "longitude": 16.276081
+    },
+    {
+      "name": "Scala",
+      "latitude": 49.197341,
+      "longitude": 16.608146
+    },
+    {
+      "name": "Sokolský dům",
+      "latitude": 49.277098,
+      "longitude": 17.004194
+    },
+    {
+      "name": "Spektrum",
+      "latitude": 49.378817,
+      "longitude": 14.701777
+    },
+    {
+      "name": "Spirála",
+      "latitude": 50.12674,
+      "longitude": 14.449423
+    },
+    {
+      "name": "Společenské centrum Soběslavska",
+      "latitude": 49.256957,
+      "longitude": 14.722998
+    },
+    {
+      "name": "Stálé kino",
+      "latitude": 49.610748,
+      "longitude": 16.668465
+    },
+    {
+      "name": "Střelnice",
+      "latitude": 49.145534,
+      "longitude": 15.004223
+    },
+    {
+      "name": "Svratka",
+      "latitude": 49.207602,
+      "longitude": 16.554912
+    },
+    {
+      "name": "Svratka",
+      "latitude": 49.347597,
+      "longitude": 16.42256
+    },
+    {
+      "name": "Svět",
+      "latitude": 48.85696,
+      "longitude": 16.054557
+    },
+    {
+      "name": "Svět",
+      "latitude": 49.413425,
+      "longitude": 14.664606
+    },
+    {
+      "name": "Svět CINEMA",
+      "latitude": 50.430629,
+      "longitude": 15.812526
+    },
+    {
+      "name": "Světozor",
+      "latitude": 49.003711,
+      "longitude": 14.771704
+    },
+    {
+      "name": "Tylovo divadlo Rakovník",
+      "latitude": 50.102775,
+      "longitude": 13.731308
+    },
+    {
+      "name": "U Mravenčí skály",
+      "latitude": 49.259681,
+      "longitude": 13.894474
+    },
+    {
+      "name": "Velký Špalíček",
+      "latitude": 49.193195,
+      "longitude": 16.60737
+    },
+    {
+      "name": "Vesmír",
+      "latitude": 49.429655,
+      "longitude": 15.220458
+    },
+    {
+      "name": "Vesmír",
+      "latitude": 50.416705,
+      "longitude": 16.165537
+    },
+    {
+      "name": "Vracovské letní kino",
+      "latitude": 48.979342,
+      "longitude": 17.218018
+    },
+    {
+      "name": "Vyšší Brod",
+      "latitude": 48.617001,
+      "longitude": 14.311431
+    },
+    {
+      "name": "Zámecký biograf",
+      "latitude": 50.141852,
+      "longitude": 15.119846
+    },
+    {
+      "name": "Čakan",
+      "latitude": 49.43977,
+      "longitude": 12.9305
+    },
+    {
+      "name": "Čekárna",
+      "latitude": 49.594068,
+      "longitude": 17.241382
+    },
+    {
+      "name": "Šumava",
+      "latitude": 49.393215,
+      "longitude": 13.294783
+    },
+    {
+      "name": "‎Letní kino Vodranty",
+      "latitude": 49.907613,
+      "longitude": 15.377683
+    }
+  ],
+  "meta": {
+    "title": "Česká kina - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných kin v Česku (amenity=cinema) z OpenStreetMap. Obsahuje 345 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Česká kina | ListBase",
+    "seo_description": "Stáhnout Česká kina — 345 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 345 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

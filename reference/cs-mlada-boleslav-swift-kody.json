@@ -1,0 +1,64 @@
+{
+  "id": "cs-mlada-boleslav-swift-kody",
+  "name": "SWIFT/BIC kódy — Mlada Boleslav",
+  "title": "SWIFT/BIC kódy — Mlada Boleslav",
+  "description": "SWIFT/BIC kódy bank a finančních institucí v Česku. Každý záznam uvádí název instituce, město, případnou pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Tato podmnožina obsahuje 3 institucí, které zdroj uvádí s městem \"MLADA BOLESLAV\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "SKO ENERGO",
+      "city": "MLADA BOLESLAV",
+      "branch": "",
+      "swift_code": "SKENCZ21"
+    },
+    {
+      "bank": "SKO ENERGO FIN.",
+      "city": "MLADA BOLESLAV",
+      "branch": "",
+      "swift_code": "SKEFCZ21"
+    },
+    {
+      "bank": "SKODA AUTO A.S.",
+      "city": "MLADA BOLESLAV",
+      "branch": "",
+      "swift_code": "SKOACZ21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC kódy — Mlada Boleslav - Stáhnout zdarma",
+    "description": "SWIFT/BIC kódy bank a finančních institucí v Česku. Každý záznam uvádí název instituce, město, případnou pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Tato podmnožina obsahuje 3 institucí, které zdroj uvádí s městem \"MLADA BOLESLAV\". Obsahuje 3 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "SWIFT/BIC kódy — Mlada Boleslav | ListBase",
+    "seo_description": "Stáhnout SWIFT/BIC kódy — Mlada Boleslav — 3 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 3 záznamů / 4 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

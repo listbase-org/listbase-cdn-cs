@@ -1,0 +1,379 @@
+{
+  "id": "tech-regex-patterns",
+  "name": "Sada Dat Základních Vzorů Regulárních Výrazů",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Pattern Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "pattern",
+      "label": "Regex Pattern",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "E-mailová adresa",
+      "category": "Kontakt",
+      "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$",
+      "example": "user@example.com",
+      "description": "Standardní validace e-mailu"
+    },
+    {
+      "name": "E-mail (Přísný)",
+      "category": "Kontakt",
+      "pattern": "^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$",
+      "example": "name+tag@sub.domain.com",
+      "description": "E-mail kompatibilní s RFC 5322"
+    },
+    {
+      "name": "Telefon (Mezinárodní)",
+      "category": "Kontakt",
+      "pattern": "^\\+?[1-9]\\d{1,14}$",
+      "example": "+14155551234",
+      "description": "Mezinárodní formát telefonu E.164"
+    },
+    {
+      "name": "Telefon (USA)",
+      "category": "Kontakt",
+      "pattern": "^\\(?([0-9]{3})\\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$",
+      "example": "(415) 555-1234",
+      "description": "Formáty telefonních čísel USA"
+    },
+    {
+      "name": "Telefon (Thajsko)",
+      "category": "Kontakt",
+      "pattern": "^(0[689]{1})\\d{8}$",
+      "example": "0812345678",
+      "description": "Thajské číslo mobilního telefonu"
+    },
+    {
+      "name": "URL (HTTP/HTTPS)",
+      "category": "Web",
+      "pattern": "^https?:\\/\\/(www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b([-a-zA-Z0-9()@:%_\\+.~#?&//=]*)$",
+      "example": "https://example.com/path",
+      "description": "Validace URL HTTP/HTTPS"
+    },
+    {
+      "name": "URL (Jednoduchá)",
+      "category": "Web",
+      "pattern": "^(https?:\\/\\/)?[\\w.-]+\\.[a-z]{2,}(\\/\\S*)?$",
+      "example": "example.com/page",
+      "description": "Jednoduchý vzor URL"
+    },
+    {
+      "name": "Název domény",
+      "category": "Web",
+      "pattern": "^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$",
+      "example": "sub.example.com",
+      "description": "Validace názvu domény"
+    },
+    {
+      "name": "IP adresa (IPv4)",
+      "category": "Web",
+      "pattern": "^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$",
+      "example": "192.168.1.1",
+      "description": "Validace IPv4 adresy"
+    },
+    {
+      "name": "IP adresa (IPv6)",
+      "category": "Web",
+      "pattern": "^([0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$",
+      "example": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+      "description": "IPv6 adresa (úplná forma)"
+    },
+    {
+      "name": "MAC adresa",
+      "category": "Web",
+      "pattern": "^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$",
+      "example": "00:1A:2B:3C:4D:5E",
+      "description": "Validace MAC adresy"
+    },
+    {
+      "name": "Slug (URL-přátelský)",
+      "category": "Web",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "example": "my-blog-post-title",
+      "description": "Formát URL slug"
+    },
+    {
+      "name": "Heslo (Silné)",
+      "category": "Zabezpečení",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)(?=.*[@$!%*?&])[A-Za-z\\d@$!%*?&]{8,}$",
+      "example": "Pass@123",
+      "description": "Min. 8 znaků, velké, malé, číslice, speciální"
+    },
+    {
+      "name": "Heslo (Střední)",
+      "category": "Zabezpečení",
+      "pattern": "^(?=.*[a-z])(?=.*[A-Z])(?=.*\\d)[A-Za-z\\d]{8,}$",
+      "example": "Password1",
+      "description": "Min. 8 znaků, velké, malé, číslice"
+    },
+    {
+      "name": "UUID v4",
+      "category": "Zabezpečení",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+      "example": "550e8400-e29b-41d4-a716-446655440000",
+      "description": "Formát UUID verze 4"
+    },
+    {
+      "name": "JWT Token",
+      "category": "Zabezpečení",
+      "pattern": "^[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]+\\.[A-Za-z0-9-_]*$",
+      "example": "eyJhbGc.eyJzdWI.SflKxw",
+      "description": "Formát JSON Web Token"
+    },
+    {
+      "name": "Hex barva",
+      "category": "Zabezpečení",
+      "pattern": "^#?([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$",
+      "example": "#FF5733",
+      "description": "Hex kód barvy"
+    },
+    {
+      "name": "Celé číslo",
+      "category": "Číslo",
+      "pattern": "^-?\\d+$",
+      "example": "-12345",
+      "description": "Kladné nebo záporné celé číslo"
+    },
+    {
+      "name": "Desetinné číslo",
+      "category": "Číslo",
+      "pattern": "^-?\\d*\\.?\\d+$",
+      "example": "123.45",
+      "description": "Desetinné číslo"
+    },
+    {
+      "name": "Měna (USD)",
+      "category": "Finance",
+      "pattern": "^\\$?\\d{1,3}(,\\d{3})*(\\.\\d{2})?$",
+      "example": "$1,234.56",
+      "description": "Formát měny USA"
+    },
+    {
+      "name": "Kreditní Karta",
+      "category": "Finance",
+      "pattern": "^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|3[47][0-9]{13}|6(?:011|5[0-9]{2})[0-9]{12})$",
+      "example": "4111111111111111",
+      "description": "Visa, MC, Amex, Discover"
+    },
+    {
+      "name": "CVV",
+      "category": "Finance",
+      "pattern": "^[0-9]{3,4}$",
+      "example": "123",
+      "description": "CVV/CVC kreditní karty"
+    },
+    {
+      "name": "IBAN",
+      "category": "Finance",
+      "pattern": "^[A-Z]{2}[0-9]{2}[A-Z0-9]{4}[0-9]{7}([A-Z0-9]?){0,16}$",
+      "example": "DE89370400440532013000",
+      "description": "Mezinárodní číslo bankovního účtu"
+    },
+    {
+      "name": "Datum (RRRR-MM-DD)",
+      "category": "DatumČas",
+      "pattern": "^\\d{4}-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])$",
+      "example": "2024-12-25",
+      "description": "Formát data ISO 8601"
+    },
+    {
+      "name": "Datum (DD/MM/RRRR)",
+      "category": "DatumČas",
+      "pattern": "^(0[1-9]|[12]\\d|3[01])\\/(0[1-9]|1[0-2])\\/\\d{4}$",
+      "example": "25/12/2024",
+      "description": "Evropský formát data"
+    },
+    {
+      "name": "Datum (MM/DD/RRRR)",
+      "category": "DatumČas",
+      "pattern": "^(0[1-9]|1[0-2])\\/(0[1-9]|[12]\\d|3[01])\\/\\d{4}$",
+      "example": "12/25/2024",
+      "description": "Americký formát data"
+    },
+    {
+      "name": "Čas (24h)",
+      "category": "DatumČas",
+      "pattern": "^([01]\\d|2[0-3]):([0-5]\\d)$",
+      "example": "23:59",
+      "description": "24hodinový formát času"
+    },
+    {
+      "name": "Čas (12h)",
+      "category": "DatumČas",
+      "pattern": "^(0?[1-9]|1[0-2]):[0-5][0-9]\\s?(AM|PM|am|pm)$",
+      "example": "11:30 PM",
+      "description": "12hodinový čas s AM/PM"
+    },
+    {
+      "name": "Datum a Čas ISO 8601",
+      "category": "DatumČas",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?(Z|[+-]\\d{2}:\\d{2})?$",
+      "example": "2024-12-25T10:30:00Z",
+      "description": "Datum a čas ISO 8601"
+    },
+    {
+      "name": "Uživatelské jméno",
+      "category": "Text",
+      "pattern": "^[a-zA-Z0-9_]{3,16}$",
+      "example": "user_name123",
+      "description": "Alfanumerické s podtržítkem, 3-16 znaků"
+    },
+    {
+      "name": "Alfanumerické",
+      "category": "Text",
+      "pattern": "^[a-zA-Z0-9]+$",
+      "example": "abc123",
+      "description": "Pouze písmena a čísla"
+    },
+    {
+      "name": "Pouze písmena",
+      "category": "Text",
+      "pattern": "^[a-zA-Z]+$",
+      "example": "HelloWorld",
+      "description": "Pouze anglická písmena"
+    },
+    {
+      "name": "Žádné speciální znaky",
+      "category": "Text",
+      "pattern": "^[a-zA-Z0-9\\s]+$",
+      "example": "Hello World 123",
+      "description": "Alfanumerické s mezerami"
+    },
+    {
+      "name": "Oříznutí mezer",
+      "category": "Text",
+      "pattern": "^\\S.*\\S$|^\\S$",
+      "example": "no leading/trailing spaces",
+      "description": "Žádné úvodní/koncové mezery"
+    },
+    {
+      "name": "US SSN",
+      "category": "ID",
+      "pattern": "^(?!000|666|9\\d{2})\\d{3}-(?!00)\\d{2}-(?!0000)\\d{4}$",
+      "example": "123-45-6789",
+      "description": "Rodné číslo USA (Social Security Number)"
+    },
+    {
+      "name": "PSČ USA",
+      "category": "ID",
+      "pattern": "^\\d{5}(-\\d{4})?$",
+      "example": "12345-6789",
+      "description": "PSČ USA (5 nebo 9 číslic)"
+    },
+    {
+      "name": "PSČ UK",
+      "category": "ID",
+      "pattern": "^[A-Z]{1,2}[0-9][A-Z0-9]?\\s?[0-9][A-Z]{2}$",
+      "example": "SW1A 1AA",
+      "description": "PSČ Velké Británie"
+    },
+    {
+      "name": "ISBN-10",
+      "category": "ID",
+      "pattern": "^(?:\\d{9}X|\\d{10})$",
+      "example": "0306406152",
+      "description": "Formát ISBN-10"
+    },
+    {
+      "name": "ISBN-13",
+      "category": "ID",
+      "pattern": "^97[89]\\d{10}$",
+      "example": "9780306406157",
+      "description": "Formát ISBN-13"
+    },
+    {
+      "name": "Přípona souboru",
+      "category": "Soubor",
+      "pattern": "^.*\\.(jpg|jpeg|png|gif|pdf|doc|docx)$",
+      "example": "document.pdf",
+      "description": "Běžné přípony souborů"
+    },
+    {
+      "name": "Cesta k souboru (Unix)",
+      "category": "Soubor",
+      "pattern": "^\\/([\\w.-]+\\/)*[\\w.-]+$",
+      "example": "/home/user/file.txt",
+      "description": "Cesta k souboru Unix"
+    },
+    {
+      "name": "Cesta k souboru (Windows)",
+      "category": "Soubor",
+      "pattern": "^[a-zA-Z]:\\\\(?:[\\w.-]+\\\\)*[\\w.-]+$",
+      "example": "C:\\Users\\file.txt",
+      "description": "Cesta k souboru Windows"
+    },
+    {
+      "name": "HTML Tag",
+      "category": "Kód",
+      "pattern": "<([a-z]+)([^<]+)*(?:>(.*)<\\/\\1>|\\s+\\/>)",
+      "example": "<div class=\"x\">content</div>",
+      "description": "Shoda HTML tagu"
+    },
+    {
+      "name": "Hashtag",
+      "category": "Sociální",
+      "pattern": "^#[a-zA-Z0-9_]+$",
+      "example": "#trending",
+      "description": "Hashtag sociálních médií"
+    },
+    {
+      "name": "Uživatelské jméno Twitter",
+      "category": "Sociální",
+      "pattern": "^@[a-zA-Z0-9_]{1,15}$",
+      "example": "@username",
+      "description": "Uživatelské jméno Twitter/X"
+    }
+  ],
+  "meta": {
+    "seo_title": "Běžné Regex Vzory - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si 45 běžných vzorů regulárních výrazů pro validaci a parsování dat. Zdarma ve formátech Excel, CSV a PDF pro vývojáře, analytiky a studenty.",
+    "title": "Sada Dat Základních Vzorů Regulárních Výrazů",
+    "description": "Tato sada dat poskytuje 45 široce používaných vzorů regulárních výrazů, pokrývajících různé kategorie, jako jsou kontaktní informace, datové formáty a validační pravidla. Každá položka obsahuje vzor, kategorii, příklad a popis.",
+    "key_takeaways": [
+      "Získejte přístup ke 45 předkompilovaným vzorům regulárních výrazů k okamžitému použití.",
+      "Prozkoumejte běžné regexy pro e-mail, telefonní čísla, URL a další.",
+      "Stáhněte si vzory pro různé programovací a datové validační úkoly.",
+      "Použijte připravené regexy k zefektivnění vašich vývojových a analytických pracovních postupů."
+    ],
+    "keywords": [
+      "regex vzory zdarma",
+      "seznam regulárních výrazů",
+      "stáhnout regex csv",
+      "regex validace email excel",
+      "regex telefonní číslo pdf",
+      "běžné regex příklady"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo Python skriptů k implementaci logiky validace dat pro uživatelské vstupy nebo čištění dat.",
+      "Použijte soubor **Excel** k filtrování, řazení a analýze běžných regex vzorů, nebo pro rychlé vyhledávání a reportování datovými analytiky.",
+      "Vytiskněte **PDF** verzi pro referenci ve třídě, offline studium nebo jako praktický tahák pro vývojáře a studenty.",
+      "Integrujte tyto vzory do webových formulářů, API nebo datových zpracovatelských pipeline, abyste zajistili integritu dat a dodržování formátů."
+    ]
+  },
+  "record_count": 45,
+  "title": "Sada Dat Základních Vzorů Regulárních Výrazů"
+}

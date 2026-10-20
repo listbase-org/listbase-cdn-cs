@@ -1,0 +1,88 @@
+{
+  "id": "cs-brno-mesto-obce",
+  "name": "Obce — okres Brno-město",
+  "title": "Obce — okres Brno-město",
+  "description": "Seznam všech 1 obcí okresu Brno-město — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (1 municipalities of okres Brno-město, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Brno",
+      "code": "582786",
+      "okres": "Brno-město",
+      "okres_code": "CZ0642",
+      "kraj": "Jihomoravský kraj",
+      "kraj_code": "CZ064",
+      "psc": "60200",
+      "latitude": 49.19516,
+      "longitude": 16.606937,
+      "slug": "brno"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Brno-město - Stáhnout zdarma",
+    "description": "Seznam všech 1 obcí okresu Brno-město — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (1 municipalities of okres Brno-město, split from the national cs-obce dataset.) Obsahuje 1 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Brno-město | ListBase",
+    "seo_description": "Stáhnout Obce — okres Brno-město — 1 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

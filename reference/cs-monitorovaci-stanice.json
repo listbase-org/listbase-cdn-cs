@@ -1,0 +1,1116 @@
+{
+  "id": "cs-monitorovaci-stanice",
+  "name": "Monitorovací stanice",
+  "title": "Monitorovací stanice",
+  "description": "Seznam pojmenovaných monitorovacích stanic v České republice (215 záznamů) — body zájmu z OpenStreetMap (tag man_made=monitoring_station), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 215,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Nysa Łużycka - trójpunkt graniczny",
+      "latitude": 50.870731,
+      "longitude": 14.823015
+    },
+    {
+      "name": "Stacja Chatka Górzystów",
+      "latitude": 50.854481,
+      "longitude": 15.360562
+    },
+    {
+      "name": "Lückendorf, 4/76",
+      "latitude": 50.827514,
+      "longitude": 14.784531
+    },
+    {
+      "name": "Waage",
+      "latitude": 50.839159,
+      "longitude": 15.072834
+    },
+    {
+      "name": "Liberec",
+      "latitude": 50.769873,
+      "longitude": 15.024025
+    },
+    {
+      "name": "SNMS Žulový vrch",
+      "latitude": 50.788848,
+      "longitude": 15.105819
+    },
+    {
+      "name": "Zinnwald-Georgenfeld",
+      "latitude": 50.731181,
+      "longitude": 13.751711
+    },
+    {
+      "name": "Ústí nad Labem",
+      "latitude": 50.683347,
+      "longitude": 14.041092
+    },
+    {
+      "name": "Hydrologische Meßstation",
+      "latitude": 50.618898,
+      "longitude": 13.359801
+    },
+    {
+      "name": "Kopisty",
+      "latitude": 50.544358,
+      "longitude": 13.622931
+    },
+    {
+      "name": "Milešovka",
+      "latitude": 50.555083,
+      "longitude": 13.930982
+    },
+    {
+      "name": "Fichtelberg",
+      "latitude": 50.428286,
+      "longitude": 12.953472
+    },
+    {
+      "name": "Jelení, u mostu",
+      "latitude": 50.394349,
+      "longitude": 12.672148
+    },
+    {
+      "name": "Tušimice",
+      "latitude": 50.376834,
+      "longitude": 13.327594
+    },
+    {
+      "name": "Cheb",
+      "latitude": 50.068115,
+      "longitude": 12.391441
+    },
+    {
+      "name": "Karlovy Vary",
+      "latitude": 50.20158,
+      "longitude": 12.914339
+    },
+    {
+      "name": "Sněhoměrná stanice Mariánské Lázně, vodárna",
+      "latitude": 49.990595,
+      "longitude": 12.695965
+    },
+    {
+      "name": "Srážkoměrná stanice Planá",
+      "latitude": 49.870945,
+      "longitude": 12.735086
+    },
+    {
+      "name": "Hlásný profil Planá",
+      "latitude": 49.861931,
+      "longitude": 12.718478
+    },
+    {
+      "name": "Sněhoměrná stanice Konstantinovy Lázně",
+      "latitude": 49.884773,
+      "longitude": 12.975949
+    },
+    {
+      "name": "Srážkoměrná stanice Karlova Ves",
+      "latitude": 49.990199,
+      "longitude": 13.861269
+    },
+    {
+      "name": "Ionosferická obesrvatoř",
+      "latitude": 50.527729,
+      "longitude": 14.567013
+    },
+    {
+      "name": "Meteostanice",
+      "latitude": 50.530176,
+      "longitude": 15.302053
+    },
+    {
+      "name": "Doksany",
+      "latitude": 50.458838,
+      "longitude": 14.169881
+    },
+    {
+      "name": "Martiněves",
+      "latitude": 50.36938,
+      "longitude": 14.149304
+    },
+    {
+      "name": "LG Vraňany",
+      "latitude": 50.313171,
+      "longitude": 14.362637
+    },
+    {
+      "name": "LG Vraňany",
+      "latitude": 50.31383,
+      "longitude": 14.362739
+    },
+    {
+      "name": "DGPS Obříství",
+      "latitude": 50.301383,
+      "longitude": 14.483458
+    },
+    {
+      "name": "LMG Mladá Boleslav-Klenice",
+      "latitude": 50.410744,
+      "longitude": 14.909283
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší Mladá Boleslav",
+      "latitude": 50.428644,
+      "longitude": 14.913871
+    },
+    {
+      "name": "Jičín",
+      "latitude": 50.439495,
+      "longitude": 15.352628
+    },
+    {
+      "name": "Rožďalovice - Ruská",
+      "latitude": 50.301957,
+      "longitude": 15.178279
+    },
+    {
+      "name": "Śnieżka",
+      "latitude": 50.736368,
+      "longitude": 15.739754
+    },
+    {
+      "name": "Pec pod Sněžkou",
+      "latitude": 50.692047,
+      "longitude": 15.728727
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší Rýchory",
+      "latitude": 50.660438,
+      "longitude": 15.850105
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší Trutnov",
+      "latitude": 50.581834,
+      "longitude": 15.893921
+    },
+    {
+      "name": "Měření kvality vzduchu",
+      "latitude": 50.565867,
+      "longitude": 15.903901
+    },
+    {
+      "name": "Monitorovací stanice ovzduší Krkonoše - Rýchory",
+      "latitude": 50.535238,
+      "longitude": 16.153923
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší Velichovky",
+      "latitude": 50.354477,
+      "longitude": 15.838391
+    },
+    {
+      "name": "Polom",
+      "latitude": 50.350142,
+      "longitude": 16.322152
+    },
+    {
+      "name": "Meteorologická stanice ČZU",
+      "latitude": 50.127997,
+      "longitude": 14.372073
+    },
+    {
+      "name": "Praha-Ruzyně",
+      "latitude": 50.100135,
+      "longitude": 14.255461
+    },
+    {
+      "name": "Praha-Kbely",
+      "latitude": 50.1232,
+      "longitude": 14.538
+    },
+    {
+      "name": "Praha-Karlov",
+      "latitude": 50.069304,
+      "longitude": 14.427784
+    },
+    {
+      "name": "Srážkoměrná stanice Praha, Komořany",
+      "latitude": 49.988649,
+      "longitude": 14.406376
+    },
+    {
+      "name": "Srážkoměrná stanice Praha, Radotín",
+      "latitude": 49.996139,
+      "longitude": 14.370828
+    },
+    {
+      "name": "Sčítač cyklistů a chodců",
+      "latitude": 50.059491,
+      "longitude": 14.419179
+    },
+    {
+      "name": "Praha-Libuš",
+      "latitude": 50.007818,
+      "longitude": 14.447055
+    },
+    {
+      "name": "Sněhoměrná stanice Praha, Libuš",
+      "latitude": 50.007778,
+      "longitude": 14.446979
+    },
+    {
+      "name": "U zimáku",
+      "latitude": 49.988213,
+      "longitude": 14.65926
+    },
+    {
+      "name": "Na vysoké",
+      "latitude": 50.00103,
+      "longitude": 14.647968
+    },
+    {
+      "name": "17. LISTOPADU X ŠTEFÁNIKOVA",
+      "latitude": 49.994119,
+      "longitude": 14.659195
+    },
+    {
+      "name": "OMRS Tehov",
+      "latitude": 49.971506,
+      "longitude": 14.704269
+    },
+    {
+      "name": "Tobolka-Čertovy schody",
+      "latitude": 49.917479,
+      "longitude": 14.093113
+    },
+    {
+      "name": "GOPE",
+      "latitude": 49.913702,
+      "longitude": 14.785618
+    },
+    {
+      "name": "Čáslav",
+      "latitude": 49.940998,
+      "longitude": 15.386484
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší",
+      "latitude": 50.211657,
+      "longitude": 15.814168
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší",
+      "latitude": 50.218536,
+      "longitude": 15.856984
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší",
+      "latitude": 50.177648,
+      "longitude": 15.838464
+    },
+    {
+      "name": "E6103 Býšť",
+      "latitude": 50.12467,
+      "longitude": 15.907282
+    },
+    {
+      "name": "SNMS Hradec Králové",
+      "latitude": 50.101984,
+      "longitude": 15.996119
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší Luisino údolí",
+      "latitude": 50.287021,
+      "longitude": 16.38858
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší",
+      "latitude": 50.042225,
+      "longitude": 15.739459
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší",
+      "latitude": 50.024044,
+      "longitude": 15.763562
+    },
+    {
+      "name": "Pardubice",
+      "latitude": 50.016082,
+      "longitude": 15.740306
+    },
+    {
+      "name": "ČHMÚ měření kvality ovzduší Sezemice",
+      "latitude": 50.06151,
+      "longitude": 15.850502
+    },
+    {
+      "name": "Žleby",
+      "latitude": 49.889481,
+      "longitude": 15.477345
+    },
+    {
+      "name": "Ústí nad Orlicí",
+      "latitude": 49.980344,
+      "longitude": 16.422121
+    },
+    {
+      "name": "Srážkoměrná stanice Tachov",
+      "latitude": 49.798363,
+      "longitude": 12.623123
+    },
+    {
+      "name": "Hlásný profil VD Lučina",
+      "latitude": 49.805832,
+      "longitude": 12.583565
+    },
+    {
+      "name": "Sněhoměrná stanice Knížecí strom",
+      "latitude": 49.764126,
+      "longitude": 12.483743
+    },
+    {
+      "name": "Srážkoměrná stanice Železná",
+      "latitude": 49.583402,
+      "longitude": 12.581037
+    },
+    {
+      "name": "Hlásný profil Kočov",
+      "latitude": 49.80412,
+      "longitude": 12.73712
+    },
+    {
+      "name": "LG Kočov II",
+      "latitude": 49.802558,
+      "longitude": 12.736299
+    },
+    {
+      "name": "Hlásný profil Třebel",
+      "latitude": 49.826644,
+      "longitude": 12.838924
+    },
+    {
+      "name": "Bor u Tachova H4 Ošelín",
+      "latitude": 49.788827,
+      "longitude": 12.842579
+    },
+    {
+      "name": "Bor u Tachova H1 - Čečkovice",
+      "latitude": 49.72746,
+      "longitude": 12.781648
+    },
+    {
+      "name": "Hlásný profil Stříbro U",
+      "latitude": 49.737324,
+      "longitude": 12.994493
+    },
+    {
+      "name": "Hlásný profil Trpísty",
+      "latitude": 49.82818,
+      "longitude": 13.063793
+    },
+    {
+      "name": "Hlásný profil Stříbro M",
+      "latitude": 49.752336,
+      "longitude": 13.008687
+    },
+    {
+      "name": "Bor u Tachova H3 - U stadionu",
+      "latitude": 49.711074,
+      "longitude": 12.77259
+    },
+    {
+      "name": "HSkviřín_H2 - Horní Skviřín",
+      "latitude": 49.713738,
+      "longitude": 12.798205
+    },
+    {
+      "name": "A3C_Skviřín",
+      "latitude": 49.714078,
+      "longitude": 12.814203
+    },
+    {
+      "name": "Přimda",
+      "latitude": 49.669366,
+      "longitude": 12.678076
+    },
+    {
+      "name": "Seismologická stanice Přimda",
+      "latitude": 49.669596,
+      "longitude": 12.677886
+    },
+    {
+      "name": "Hlásný profil Bonětice",
+      "latitude": 49.665281,
+      "longitude": 12.825795
+    },
+    {
+      "name": "Plzeň-Mikulka",
+      "latitude": 49.764627,
+      "longitude": 13.378868
+    },
+    {
+      "name": "SNMS Plzeň",
+      "latitude": 49.745158,
+      "longitude": 13.435149
+    },
+    {
+      "name": "Meteorologická věž Brdy",
+      "latitude": 49.6582,
+      "longitude": 13.818053
+    },
+    {
+      "name": "B1C_Bělá",
+      "latitude": 49.589873,
+      "longitude": 12.719709
+    },
+    {
+      "name": "Kocelovice",
+      "latitude": 49.467233,
+      "longitude": 13.838574
+    },
+    {
+      "name": "Sušice",
+      "latitude": 49.236628,
+      "longitude": 13.524852
+    },
+    {
+      "name": "Meteorologicka Stanize Polom",
+      "latitude": 49.126122,
+      "longitude": 13.296272
+    },
+    {
+      "name": "Rejštejn",
+      "latitude": 49.139828,
+      "longitude": 13.509009
+    },
+    {
+      "name": "seismografická stanice",
+      "latitude": 49.129345,
+      "longitude": 13.577021
+    },
+    {
+      "name": "Churáňov",
+      "latitude": 49.068225,
+      "longitude": 13.615158
+    },
+    {
+      "name": "Zálezly",
+      "latitude": 49.107746,
+      "longitude": 13.889236
+    },
+    {
+      "name": "Solarplatte-Wettermessung",
+      "latitude": 48.985828,
+      "longitude": 13.431303
+    },
+    {
+      "name": "Kubova Huť",
+      "latitude": 48.985259,
+      "longitude": 13.77112
+    },
+    {
+      "name": "Prachatice",
+      "latitude": 49.007764,
+      "longitude": 13.994423
+    },
+    {
+      "name": "Kovářov.Vepice",
+      "latitude": 49.52525,
+      "longitude": 14.301425
+    },
+    {
+      "name": "Milevsko",
+      "latitude": 49.451678,
+      "longitude": 14.370677
+    },
+    {
+      "name": "Jistebnice",
+      "latitude": 49.484355,
+      "longitude": 14.529309
+    },
+    {
+      "name": "Košetice",
+      "latitude": 49.573471,
+      "longitude": 15.080418
+    },
+    {
+      "name": "Chýnov",
+      "latitude": 49.414113,
+      "longitude": 14.810611
+    },
+    {
+      "name": "Pařížov",
+      "latitude": 49.829004,
+      "longitude": 15.567834
+    },
+    {
+      "name": "Svratouch",
+      "latitude": 49.735084,
+      "longitude": 16.034256
+    },
+    {
+      "name": "Moravská Třebová Piaristická",
+      "latitude": 49.759114,
+      "longitude": 16.666683
+    },
+    {
+      "name": "Přibyslav",
+      "latitude": 49.582643,
+      "longitude": 15.762517
+    },
+    {
+      "name": "Waage",
+      "latitude": 49.555564,
+      "longitude": 15.945419
+    },
+    {
+      "name": "Jihlava-Helenín",
+      "latitude": 49.405446,
+      "longitude": 15.605287
+    },
+    {
+      "name": "Jihlava-Romana Havelky",
+      "latitude": 49.406562,
+      "longitude": 15.580058
+    },
+    {
+      "name": "Monitoring hydrosítě",
+      "latitude": 49.401183,
+      "longitude": 16.733214
+    },
+    {
+      "name": "Planá nad Lužnicí",
+      "latitude": 49.342566,
+      "longitude": 14.714119
+    },
+    {
+      "name": "Temelín",
+      "latitude": 49.197839,
+      "longitude": 14.341863
+    },
+    {
+      "name": "Meteorologická observatoř Temelín",
+      "latitude": 49.197763,
+      "longitude": 14.341872
+    },
+    {
+      "name": "Tučapy",
+      "latitude": 49.291867,
+      "longitude": 14.8018
+    },
+    {
+      "name": "Kardašova Řečice",
+      "latitude": 49.18629,
+      "longitude": 14.855872
+    },
+    {
+      "name": "Kostelní Myslová",
+      "latitude": 49.159282,
+      "longitude": 15.43912
+    },
+    {
+      "name": "Bavorov",
+      "latitude": 49.123864,
+      "longitude": 14.089774
+    },
+    {
+      "name": "Ševětín",
+      "latitude": 49.101353,
+      "longitude": 14.566157
+    },
+    {
+      "name": "Hluboká nad Vltavou",
+      "latitude": 49.054127,
+      "longitude": 14.435766
+    },
+    {
+      "name": "Frantoly",
+      "latitude": 48.982461,
+      "longitude": 14.100302
+    },
+    {
+      "name": "Němčice",
+      "latitude": 49.030712,
+      "longitude": 14.271392
+    },
+    {
+      "name": "Brloh",
+      "latitude": 48.926866,
+      "longitude": 14.218915
+    },
+    {
+      "name": "Rudolfov.Jivno",
+      "latitude": 49.003566,
+      "longitude": 14.579802
+    },
+    {
+      "name": "České Budějovice.Rožnov",
+      "latitude": 48.951899,
+      "longitude": 14.469813
+    },
+    {
+      "name": "Šindlovy Dvory.Litvínovice",
+      "latitude": 48.964816,
+      "longitude": 14.426446
+    },
+    {
+      "name": "České Budějovice",
+      "latitude": 48.95187,
+      "longitude": 14.469889
+    },
+    {
+      "name": "Boršov nad Vltavou",
+      "latitude": 48.926648,
+      "longitude": 14.439741
+    },
+    {
+      "name": "Ledenice",
+      "latitude": 48.933292,
+      "longitude": 14.618354
+    },
+    {
+      "name": "Třebíč-Poušov",
+      "latitude": 49.211887,
+      "longitude": 15.861727
+    },
+    {
+      "name": "Vodoměrná stanice Ptáčov",
+      "latitude": 49.215078,
+      "longitude": 15.934825
+    },
+    {
+      "name": "Třebíč-Slavice",
+      "latitude": 49.188834,
+      "longitude": 15.878505
+    },
+    {
+      "name": "Náměšť nad Oslavou",
+      "latitude": 49.170926,
+      "longitude": 16.120714
+    },
+    {
+      "name": "Seismický pozorovací bod Vranov",
+      "latitude": 49.308408,
+      "longitude": 16.59324
+    },
+    {
+      "name": "Meteorologický sloupek",
+      "latitude": 49.269285,
+      "longitude": 16.628332
+    },
+    {
+      "name": "TSB: Veslařská",
+      "latitude": 49.229917,
+      "longitude": 16.517863
+    },
+    {
+      "name": "Svitava, Bílovice nad Svitavou",
+      "latitude": 49.245845,
+      "longitude": 16.674908
+    },
+    {
+      "name": "Melatín",
+      "latitude": 49.256254,
+      "longitude": 16.645018
+    },
+    {
+      "name": "Bílovice nad Svitavou",
+      "latitude": 49.245459,
+      "longitude": 16.675002
+    },
+    {
+      "name": "Královopolská",
+      "latitude": 49.218682,
+      "longitude": 16.575282
+    },
+    {
+      "name": "Komín",
+      "latitude": 49.218605,
+      "longitude": 16.540624
+    },
+    {
+      "name": "TSB: Sochorova",
+      "latitude": 49.21222,
+      "longitude": 16.56532
+    },
+    {
+      "name": "Český hydrometeorologický ústav",
+      "latitude": 49.216218,
+      "longitude": 16.567377
+    },
+    {
+      "name": "Obřany",
+      "latitude": 49.226259,
+      "longitude": 16.658715
+    },
+    {
+      "name": "Nové sady B",
+      "latitude": 49.18737,
+      "longitude": 16.605339
+    },
+    {
+      "name": "Nové sady A",
+      "latitude": 49.186237,
+      "longitude": 16.604507
+    },
+    {
+      "name": "Renneská 1",
+      "latitude": 49.183551,
+      "longitude": 16.602755
+    },
+    {
+      "name": "Renneská 2",
+      "latitude": 49.183519,
+      "longitude": 16.602725
+    },
+    {
+      "name": "Lidická A",
+      "latitude": 49.202888,
+      "longitude": 16.60726
+    },
+    {
+      "name": "Lidická B",
+      "latitude": 49.202875,
+      "longitude": 16.606917
+    },
+    {
+      "name": "Kounicova A",
+      "latitude": 49.202045,
+      "longitude": 16.601323
+    },
+    {
+      "name": "Kounicova B",
+      "latitude": 49.20227,
+      "longitude": 16.601343
+    },
+    {
+      "name": "Pisárky",
+      "latitude": 49.183469,
+      "longitude": 16.58542
+    },
+    {
+      "name": "Jundrov",
+      "latitude": 49.201917,
+      "longitude": 16.566516
+    },
+    {
+      "name": "Renneská 3",
+      "latitude": 49.183554,
+      "longitude": 16.60245
+    },
+    {
+      "name": "TSB: Veslařská",
+      "latitude": 49.20227,
+      "longitude": 16.566278
+    },
+    {
+      "name": "TSB: Veslařská",
+      "latitude": 49.206382,
+      "longitude": 16.569553
+    },
+    {
+      "name": "TSB: Riviéra",
+      "latitude": 49.185936,
+      "longitude": 16.569335
+    },
+    {
+      "name": "Černovice",
+      "latitude": 49.182792,
+      "longitude": 16.629961
+    },
+    {
+      "name": "Ikea",
+      "latitude": 49.155628,
+      "longitude": 16.625472
+    },
+    {
+      "name": "Brno-Tuřany",
+      "latitude": 49.153139,
+      "longitude": 16.688901
+    },
+    {
+      "name": "Dukovany",
+      "latitude": 49.095499,
+      "longitude": 16.13442
+    },
+    {
+      "name": "BV Přízřenice",
+      "latitude": 49.140809,
+      "longitude": 16.62835
+    },
+    {
+      "name": "Brněnské Ivanovice B",
+      "latitude": 49.145501,
+      "longitude": 16.630388
+    },
+    {
+      "name": "Brněnské Ivanovice A",
+      "latitude": 49.146298,
+      "longitude": 16.630624
+    },
+    {
+      "name": "BV Rajhrad",
+      "latitude": 49.096787,
+      "longitude": 16.622437
+    },
+    {
+      "name": "BV Opatovice",
+      "latitude": 49.080059,
+      "longitude": 16.638104
+    },
+    {
+      "name": "BV Židlochovice",
+      "latitude": 49.032828,
+      "longitude": 16.618959
+    },
+    {
+      "name": "BV Vranovice",
+      "latitude": 48.966085,
+      "longitude": 16.584155
+    },
+    {
+      "name": "Šerák",
+      "latitude": 50.187657,
+      "longitude": 17.108441
+    },
+    {
+      "name": "Šerák",
+      "latitude": 50.082968,
+      "longitude": 17.23068
+    },
+    {
+      "name": "Hlučínská",
+      "latitude": 49.865638,
+      "longitude": 18.256567
+    },
+    {
+      "name": "Červená u Libavé",
+      "latitude": 49.777111,
+      "longitude": 17.541868
+    },
+    {
+      "name": "Luká",
+      "latitude": 49.652144,
+      "longitude": 16.953228
+    },
+    {
+      "name": "Ostrava-Mošnov",
+      "latitude": 49.691915,
+      "longitude": 18.112831
+    },
+    {
+      "name": "Prostějov",
+      "latitude": 49.452598,
+      "longitude": 17.134794
+    },
+    {
+      "name": "OMRS Karlovice",
+      "latitude": 49.398171,
+      "longitude": 17.517752
+    },
+    {
+      "name": "Lučina",
+      "latitude": 49.730993,
+      "longitude": 18.442589
+    },
+    {
+      "name": "Stacja Hydrologiczna Cieszyn",
+      "latitude": 49.746041,
+      "longitude": 18.62976
+    },
+    {
+      "name": "Stacja hydrologiczna Cieszyn",
+      "latitude": 49.746183,
+      "longitude": 18.631287
+    },
+    {
+      "name": "Wodowskaz",
+      "latitude": 49.746247,
+      "longitude": 18.631336
+    },
+    {
+      "name": "Třinec-Kosmos",
+      "latitude": 49.668126,
+      "longitude": 18.677746
+    },
+    {
+      "name": "Lysa Hora",
+      "latitude": 49.545976,
+      "longitude": 18.447565
+    },
+    {
+      "name": "Lysá hora",
+      "latitude": 49.546034,
+      "longitude": 18.447513
+    },
+    {
+      "name": "Meteorologická stanice Lysá hora",
+      "latitude": 49.546199,
+      "longitude": 18.447625
+    },
+    {
+      "name": "Bílý Kříž",
+      "latitude": 49.502614,
+      "longitude": 18.538573
+    },
+    {
+      "name": "Bobhy - Meteo",
+      "latitude": 49.274464,
+      "longitude": 16.944517
+    },
+    {
+      "name": "Holešov",
+      "latitude": 49.320681,
+      "longitude": 17.569944
+    },
+    {
+      "name": "Hošťálková-Maruška",
+      "latitude": 49.365667,
+      "longitude": 17.827839
+    },
+    {
+      "name": "Maruška",
+      "latitude": 49.365732,
+      "longitude": 17.827809
+    },
+    {
+      "name": "Volary, Luční potok",
+      "latitude": 48.896712,
+      "longitude": 13.884737
+    },
+    {
+      "name": "Meteorologická stanice Volary, Tolarova ulice",
+      "latitude": 48.908458,
+      "longitude": 13.885993
+    },
+    {
+      "name": "Meteorologická stanice Volary",
+      "latitude": 48.901725,
+      "longitude": 13.89622
+    },
+    {
+      "name": "Stožec",
+      "latitude": 48.856935,
+      "longitude": 13.821682
+    },
+    {
+      "name": "Sněhoměrná lať",
+      "latitude": 48.771621,
+      "longitude": 13.828271
+    },
+    {
+      "name": "Křemže.Mříč",
+      "latitude": 48.906382,
+      "longitude": 14.302787
+    },
+    {
+      "name": "Červený Dvůr.Chvalšiny",
+      "latitude": 48.851323,
+      "longitude": 14.23782
+    },
+    {
+      "name": "Český Krumlov.Přísečná",
+      "latitude": 48.832157,
+      "longitude": 14.339417
+    },
+    {
+      "name": "Římov",
+      "latitude": 48.849351,
+      "longitude": 14.488889
+    },
+    {
+      "name": "Přídolí",
+      "latitude": 48.783157,
+      "longitude": 14.361012
+    },
+    {
+      "name": "Slavkov",
+      "latitude": 48.764168,
+      "longitude": 14.243325
+    },
+    {
+      "name": "Černá v Pošumaví",
+      "latitude": 48.735596,
+      "longitude": 14.107243
+    },
+    {
+      "name": "Rožmitál na Šumavě",
+      "latitude": 48.697747,
+      "longitude": 14.391126
+    },
+    {
+      "name": "Netřebice",
+      "latitude": 48.793067,
+      "longitude": 14.456144
+    },
+    {
+      "name": "Meteostanice",
+      "latitude": 48.724192,
+      "longitude": 14.723377
+    },
+    {
+      "name": "Lipno",
+      "latitude": 48.63359,
+      "longitude": 14.238344
+    },
+    {
+      "name": "Pasečná.Přední Výtoň",
+      "latitude": 48.610804,
+      "longitude": 14.107813
+    },
+    {
+      "name": "Vyšší Brod",
+      "latitude": 48.617475,
+      "longitude": 14.314462
+    },
+    {
+      "name": "Dolní Dvořiště",
+      "latitude": 48.657226,
+      "longitude": 14.453625
+    },
+    {
+      "name": "Kuchařovice",
+      "latitude": 48.881111,
+      "longitude": 16.085278
+    },
+    {
+      "name": "Meteorologický altánek",
+      "latitude": 48.856487,
+      "longitude": 16.051959
+    },
+    {
+      "name": "BV Pasohlávky",
+      "latitude": 48.900301,
+      "longitude": 16.533776
+    },
+    {
+      "name": "Laa/Thaya Kläranlage",
+      "latitude": 48.731074,
+      "longitude": 16.389663
+    }
+  ],
+  "meta": {
+    "title": "Monitorovací stanice - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných monitorovacích stanic v České republice (215 záznamů) — body zájmu z OpenStreetMap (tag man_made=monitoring_station), výřez EU-POIS/CZ. Obsahuje 215 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Monitorovací stanice | ListBase",
+    "seo_description": "Stáhnout Monitorovací stanice — 215 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 215 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

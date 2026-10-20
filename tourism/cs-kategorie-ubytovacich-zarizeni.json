@@ -1,0 +1,101 @@
+{
+  "id": "cs-kategorie-ubytovacich-zarizeni",
+  "name": "Kategorie hromadných ubytovacích zařízení (ČSÚ)",
+  "title": "Kategorie hromadných ubytovacích zařízení (ČSÚ)",
+  "description": "Číselník kategorií hromadných ubytovacích zařízení používaný Českým statistickým úřadem v datasetu CRU02. Zahrnuje hotelové kategorie 1*–5*, hotel garni, penziony, kempy, chatové osady, turistické ubytovny a další.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "kat_kod",
+      "label": "Kat Kod",
+      "type": "number"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kat_kod": "01",
+      "kategorie": "Hotel *****",
+      "slug": "hotel"
+    },
+    {
+      "kat_kod": "02",
+      "kategorie": "Hotel, motel, botel ****",
+      "slug": "hotel-motel-botel"
+    },
+    {
+      "kat_kod": "03",
+      "kategorie": "Hotel, motel, botel ***",
+      "slug": "hotel-motel-botel"
+    },
+    {
+      "kat_kod": "04",
+      "kategorie": "Hotel, motel, botel **",
+      "slug": "hotel-motel-botel"
+    },
+    {
+      "kat_kod": "05",
+      "kategorie": "Hotel, motel, botel *",
+      "slug": "hotel-motel-botel"
+    },
+    {
+      "kat_kod": "06",
+      "kategorie": "Hotel garni",
+      "slug": "hotel-garni"
+    },
+    {
+      "kat_kod": "07",
+      "kategorie": "Penzion",
+      "slug": "penzion"
+    },
+    {
+      "kat_kod": "08",
+      "kategorie": "Kemp",
+      "slug": "kemp"
+    },
+    {
+      "kat_kod": "09",
+      "kategorie": "Chatová osada",
+      "slug": "chatova-osada"
+    },
+    {
+      "kat_kod": "1",
+      "kategorie": "Hromadná ubytovací zařízení",
+      "slug": "hromadna-ubytovaci-zarizeni"
+    },
+    {
+      "kat_kod": "10",
+      "kategorie": "Turistická ubytovna",
+      "slug": "turisticka-ubytovna"
+    },
+    {
+      "kat_kod": "11",
+      "kategorie": "Ostatní hromadné ubytovací zařízení (splňující kapacitní ukazatele)",
+      "slug": "ostatni-hromadne-ubytovaci-zarizeni-splnujici-kapacitni-ukazatele"
+    }
+  ],
+  "meta": {
+    "title": "Kategorie hromadných ubytovacích zařízení (ČSÚ) - Stáhnout zdarma",
+    "description": "Číselník kategorií hromadných ubytovacích zařízení používaný Českým statistickým úřadem v datasetu CRU02. Zahrnuje hotelové kategorie 1*–5*, hotel garni, penziony, kempy, chatové osady, turistické ubytovny a další. Obsahuje 12 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Kategorie hromadných ubytovacích zařízení (ČSÚ) | ListBase",
+    "seo_description": "Stáhnout Kategorie hromadných ubytovacích zařízení (ČSÚ) — 12 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 12 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

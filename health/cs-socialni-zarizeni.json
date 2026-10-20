@@ -1,0 +1,2996 @@
+{
+  "id": "cs-socialni-zarizeni",
+  "name": "Sociální zařízení",
+  "title": "Sociální zařízení",
+  "description": "Sociální zařízení v České republice (591 záznamů) — body zájmu z OpenStreetMap (tag amenity=social_facility), výřez EU-POIS/CZ.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 591,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altenpflegeheim \"Anton Günther\"",
+      "latitude": 50.498788,
+      "longitude": 13.02246
+    },
+    {
+      "name": "Alzheimer centrum",
+      "latitude": 50.087276,
+      "longitude": 14.504318
+    },
+    {
+      "name": "Alzheimer centrum",
+      "latitude": 50.275902,
+      "longitude": 14.369018
+    },
+    {
+      "name": "Alzheimer centrum Pardubice",
+      "latitude": 50.047245,
+      "longitude": 15.76258
+    },
+    {
+      "name": "Alzheimer home",
+      "latitude": 48.994575,
+      "longitude": 14.448403
+    },
+    {
+      "name": "ALZHEIMER HOME",
+      "latitude": 49.74259,
+      "longitude": 18.619711
+    },
+    {
+      "name": "ALZHEIMER HOME OStrava",
+      "latitude": 49.821329,
+      "longitude": 18.187089
+    },
+    {
+      "name": "ALZHEIMER HOME Ostrava-Vítkovice",
+      "latitude": 49.813138,
+      "longitude": 18.251135
+    },
+    {
+      "name": "Amfion",
+      "latitude": 50.365152,
+      "longitude": 14.466411
+    },
+    {
+      "name": "ANNA Český Brod, sociální služby pro seniory",
+      "latitude": 50.074436,
+      "longitude": 14.853723
+    },
+    {
+      "name": "Armáda spásy",
+      "latitude": 50.233794,
+      "longitude": 12.8609
+    },
+    {
+      "name": "Asalto",
+      "latitude": 50.19587,
+      "longitude": 15.84077
+    },
+    {
+      "name": "Atrium",
+      "latitude": 50.778743,
+      "longitude": 15.053548
+    },
+    {
+      "name": "Autis-HB z. s.",
+      "latitude": 49.604236,
+      "longitude": 15.581229
+    },
+    {
+      "name": "Azylový dům",
+      "latitude": 49.613439,
+      "longitude": 17.223939
+    },
+    {
+      "name": "Azylový dům",
+      "latitude": 50.052977,
+      "longitude": 14.476363
+    },
+    {
+      "name": "Azylový dům",
+      "latitude": 50.141984,
+      "longitude": 14.10697
+    },
+    {
+      "name": "Azylový dům G-Centrum",
+      "latitude": 49.388077,
+      "longitude": 14.683993
+    },
+    {
+      "name": "Azylový dům Gloria",
+      "latitude": 50.037191,
+      "longitude": 14.38233
+    },
+    {
+      "name": "Azylový dům Jonáš",
+      "latitude": 50.682249,
+      "longitude": 14.532148
+    },
+    {
+      "name": "Azylový dům Jonáš",
+      "latitude": 50.684483,
+      "longitude": 14.600194
+    },
+    {
+      "name": "Azylový dům Petrklíč",
+      "latitude": 49.045509,
+      "longitude": 17.501654
+    },
+    {
+      "name": "Azylový dům pro matky s dětmi",
+      "latitude": 48.80812,
+      "longitude": 14.314395
+    },
+    {
+      "name": "Azylový dům pro muže a ženy",
+      "latitude": 49.455318,
+      "longitude": 17.099606
+    },
+    {
+      "name": "Azylový dům pro rodiny s dětmi",
+      "latitude": 50.045303,
+      "longitude": 14.435974
+    },
+    {
+      "name": "Azylový dům pro ženy",
+      "latitude": 50.006986,
+      "longitude": 14.413414
+    },
+    {
+      "name": "Bene Vita Domov Sychrov",
+      "latitude": 50.626773,
+      "longitude": 15.087271
+    },
+    {
+      "name": "Benediktus",
+      "latitude": 49.792166,
+      "longitude": 15.711438
+    },
+    {
+      "name": "Beránek - centrum pro rodinu",
+      "latitude": 50.256951,
+      "longitude": 15.759311
+    },
+    {
+      "name": "BETHEL",
+      "latitude": 49.666284,
+      "longitude": 18.343509
+    },
+    {
+      "name": "Bitcoin ATM",
+      "latitude": 49.794372,
+      "longitude": 13.491453
+    },
+    {
+      "name": "Boétheia - azylový dům",
+      "latitude": 50.234743,
+      "longitude": 17.202646
+    },
+    {
+      "name": "Braun",
+      "latitude": 49.158458,
+      "longitude": 16.882174
+    },
+    {
+      "name": "Bývalý soud",
+      "latitude": 49.593303,
+      "longitude": 16.889434
+    },
+    {
+      "name": "Caritas",
+      "latitude": 49.935868,
+      "longitude": 17.972919
+    },
+    {
+      "name": "Caritas",
+      "latitude": 50.207972,
+      "longitude": 15.832284
+    },
+    {
+      "name": "Centrin",
+      "latitude": 50.08506,
+      "longitude": 14.336772
+    },
+    {
+      "name": "Centrum Bazalka",
+      "latitude": 48.977171,
+      "longitude": 14.493473
+    },
+    {
+      "name": "Centrum denních služeb Vilová",
+      "latitude": 50.073304,
+      "longitude": 14.4865
+    },
+    {
+      "name": "Centrum duševního zdraví - FOKUS Mladá Boleslav z.s.",
+      "latitude": 50.422066,
+      "longitude": 14.909561
+    },
+    {
+      "name": "Centrum Hájek",
+      "latitude": 49.663737,
+      "longitude": 13.536531
+    },
+    {
+      "name": "Centrum pobytových a terénních sociálních služeb Zbůch",
+      "latitude": 49.684682,
+      "longitude": 13.238285
+    },
+    {
+      "name": "Centrum pre deti a rodiny",
+      "latitude": 48.850562,
+      "longitude": 17.231285
+    },
+    {
+      "name": "Centrum pro integraci osob se zdravotním postižením",
+      "latitude": 50.229131,
+      "longitude": 15.835841
+    },
+    {
+      "name": "Centrum pro integraci osob se zdravotním postižením Královehradeckého kraje, o.p.s.",
+      "latitude": 50.229048,
+      "longitude": 15.836017
+    },
+    {
+      "name": "Centrum pro seniory",
+      "latitude": 49.33459,
+      "longitude": 17.577094
+    },
+    {
+      "name": "Centrum pro zdravotně postižené",
+      "latitude": 49.675418,
+      "longitude": 18.335261
+    },
+    {
+      "name": "Centrum pro zdravotně postižené",
+      "latitude": 50.098005,
+      "longitude": 14.396299
+    },
+    {
+      "name": "Centrum seniorů",
+      "latitude": 50.356307,
+      "longitude": 14.475591
+    },
+    {
+      "name": "Centrum služeb pro seniory Kyjov",
+      "latitude": 49.006768,
+      "longitude": 17.111625
+    },
+    {
+      "name": "Centrum sociálních a zdravotních služeb",
+      "latitude": 50.146372,
+      "longitude": 15.122961
+    },
+    {
+      "name": "Centrum Sociálních Služeb",
+      "latitude": 49.227403,
+      "longitude": 16.527561
+    },
+    {
+      "name": "Centrum sociálních služeb",
+      "latitude": 49.356857,
+      "longitude": 16.424663
+    },
+    {
+      "name": "Centrum sociálních služeb",
+      "latitude": 49.463137,
+      "longitude": 17.113281
+    },
+    {
+      "name": "Centrum sociálních služeb Klíč",
+      "latitude": 49.603016,
+      "longitude": 17.242156
+    },
+    {
+      "name": "Centrum sociálních služeb Staroměstská",
+      "latitude": 48.984921,
+      "longitude": 14.466514
+    },
+    {
+      "name": "Centrum sociálních služeb Znojmo - Azylový dům",
+      "latitude": 48.864283,
+      "longitude": 16.044142
+    },
+    {
+      "name": "Centrum VELAN",
+      "latitude": 49.34349,
+      "longitude": 16.659249
+    },
+    {
+      "name": "Centrum volnočasových aktivit Lhota",
+      "latitude": 49.171408,
+      "longitude": 17.605674
+    },
+    {
+      "name": "Cesta domů",
+      "latitude": 50.053962,
+      "longitude": 14.455228
+    },
+    {
+      "name": "Cesta domů",
+      "latitude": 50.103441,
+      "longitude": 14.432268
+    },
+    {
+      "name": "Cestou necestou",
+      "latitude": 50.070738,
+      "longitude": 14.414812
+    },
+    {
+      "name": "Charita Uherský Brod - Pečovatelská služba",
+      "latitude": 48.93947,
+      "longitude": 17.66317
+    },
+    {
+      "name": "Charita Česká Lípa",
+      "latitude": 50.681804,
+      "longitude": 14.5318
+    },
+    {
+      "name": "Charitní dom sv. Anežki",
+      "latitude": 50.372636,
+      "longitude": 17.185382
+    },
+    {
+      "name": "Charitní domov Břevnov",
+      "latitude": 50.088333,
+      "longitude": 14.378023
+    },
+    {
+      "name": "Charitní dům pokojného stáří",
+      "latitude": 49.173751,
+      "longitude": 17.258814
+    },
+    {
+      "name": "Charitní dům sv. Alžběty - zařízení pro přechodný pobyt seniorů",
+      "latitude": 49.825313,
+      "longitude": 18.263038
+    },
+    {
+      "name": "Charitní pečovatelská služba",
+      "latitude": 50.195482,
+      "longitude": 16.000905
+    },
+    {
+      "name": "Chovánek – dětské centrum rodinného typu",
+      "latitude": 49.220787,
+      "longitude": 16.507376
+    },
+    {
+      "name": "Chráněné Bydlení",
+      "latitude": 49.577886,
+      "longitude": 17.253934
+    },
+    {
+      "name": "Chráněné bydlení Naplno",
+      "latitude": 49.001936,
+      "longitude": 14.760247
+    },
+    {
+      "name": "Chráněné bydlení Nosislav",
+      "latitude": 49.013852,
+      "longitude": 16.655859
+    },
+    {
+      "name": "Chráněné bydlení sv. Gabriela",
+      "latitude": 49.199618,
+      "longitude": 16.595736
+    },
+    {
+      "name": "Communio",
+      "latitude": 50.083114,
+      "longitude": 14.414434
+    },
+    {
+      "name": "Denní centrum Táborská",
+      "latitude": 49.193171,
+      "longitude": 16.638286
+    },
+    {
+      "name": "Denní stacionář",
+      "latitude": 50.129147,
+      "longitude": 14.471703
+    },
+    {
+      "name": "Denní stacionář Božetěchova",
+      "latitude": 49.227767,
+      "longitude": 16.594589
+    },
+    {
+      "name": "Denní stacionář Slunečnice",
+      "latitude": 49.321451,
+      "longitude": 18.155239
+    },
+    {
+      "name": "Denní stacionář Slunečnice",
+      "latitude": 50.021293,
+      "longitude": 15.761528
+    },
+    {
+      "name": "Denní stacionář sv. Josefa",
+      "latitude": 49.575151,
+      "longitude": 18.768943
+    },
+    {
+      "name": "Denní stacionář Šimon",
+      "latitude": 50.236583,
+      "longitude": 17.2083
+    },
+    {
+      "name": "Diagnostický ústav sociální péče Čížkovice",
+      "latitude": 50.491427,
+      "longitude": 14.018357
+    },
+    {
+      "name": "Diakonie",
+      "latitude": 49.070175,
+      "longitude": 17.454884
+    },
+    {
+      "name": "Diakonie Brno",
+      "latitude": 49.209532,
+      "longitude": 16.59964
+    },
+    {
+      "name": "DM Studentská",
+      "latitude": 50.101342,
+      "longitude": 14.389213
+    },
+    {
+      "name": "Dobrovolnické centrum",
+      "latitude": 50.132274,
+      "longitude": 14.134746
+    },
+    {
+      "name": "Dobré časy",
+      "latitude": 49.102715,
+      "longitude": 16.363629
+    },
+    {
+      "name": "Dom Dziecka",
+      "latitude": 50.658168,
+      "longitude": 16.211491
+    },
+    {
+      "name": "Dom Dziecka",
+      "latitude": 50.658624,
+      "longitude": 16.212275
+    },
+    {
+      "name": "Dom Dziecka w Krasnym Polu",
+      "latitude": 50.128092,
+      "longitude": 17.644426
+    },
+    {
+      "name": "Domov - penzion pro důchodce",
+      "latitude": 49.458074,
+      "longitude": 18.147682
+    },
+    {
+      "name": "Domov Alzheimer",
+      "latitude": 50.15891,
+      "longitude": 14.396911
+    },
+    {
+      "name": "Domov Alzheimer Přerov",
+      "latitude": 49.452733,
+      "longitude": 17.460158
+    },
+    {
+      "name": "Domov Arreta o.p.s.",
+      "latitude": 50.199486,
+      "longitude": 15.816887
+    },
+    {
+      "name": "Domov Daliborka",
+      "latitude": 49.477584,
+      "longitude": 17.109529
+    },
+    {
+      "name": "Domov Dolní Cetno",
+      "latitude": 50.406817,
+      "longitude": 14.802399
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 48.746196,
+      "longitude": 16.76294
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.231079,
+      "longitude": 13.522752
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.231751,
+      "longitude": 13.523082
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.297973,
+      "longitude": 17.404667
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.545,
+      "longitude": 18.20913
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.546637,
+      "longitude": 18.224788
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.59562,
+      "longitude": 13.868923
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.645283,
+      "longitude": 18.140422
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.699654,
+      "longitude": 17.08037
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.767985,
+      "longitude": 17.122229
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.779835,
+      "longitude": 14.17618
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 49.97811,
+      "longitude": 16.974673
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.136272,
+      "longitude": 14.473809
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.232811,
+      "longitude": 14.0864
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.245131,
+      "longitude": 14.306165
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.245317,
+      "longitude": 14.30728
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.27835,
+      "longitude": 14.239452
+    },
+    {
+      "name": "domov důchodců",
+      "latitude": 50.407442,
+      "longitude": 16.165816
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.614844,
+      "longitude": 15.605617
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.720471,
+      "longitude": 15.419881
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.731203,
+      "longitude": 15.192183
+    },
+    {
+      "name": "Domov důchodců",
+      "latitude": 50.962536,
+      "longitude": 15.25152
+    },
+    {
+      "name": "Domov důchodců Dobrá Voda",
+      "latitude": 48.970078,
+      "longitude": 14.527223
+    },
+    {
+      "name": "Domov důchodců Dvůr Králové nad Labem",
+      "latitude": 50.433149,
+      "longitude": 15.808465
+    },
+    {
+      "name": "Domov důchodců Frýdlant",
+      "latitude": 50.924195,
+      "longitude": 15.089379
+    },
+    {
+      "name": "Domov důchodců Horní Planá",
+      "latitude": 48.767752,
+      "longitude": 14.035147
+    },
+    {
+      "name": "Domov důchodců Hradec Králové",
+      "latitude": 50.174479,
+      "longitude": 15.853613
+    },
+    {
+      "name": "Domov důchodců Manželů Curieových",
+      "latitude": 49.226367,
+      "longitude": 15.890511
+    },
+    {
+      "name": "Domov důchodců Modrý kámen",
+      "latitude": 50.523979,
+      "longitude": 14.98158
+    },
+    {
+      "name": "Domov důchodců na zámku",
+      "latitude": 50.202966,
+      "longitude": 14.834446
+    },
+    {
+      "name": "Domov důchodců Pohoda",
+      "latitude": 50.589323,
+      "longitude": 15.166973
+    },
+    {
+      "name": "Domov důchodců Proseč-Obořiště",
+      "latitude": 49.407663,
+      "longitude": 15.12851
+    },
+    {
+      "name": "Domov důchodců Sloup v Čechách",
+      "latitude": 50.739999,
+      "longitude": 14.587734
+    },
+    {
+      "name": "Domov důchodců Třebíč",
+      "latitude": 49.205047,
+      "longitude": 15.878989
+    },
+    {
+      "name": "Domov důchodců Vlčí Pole",
+      "latitude": 50.414196,
+      "longitude": 15.138072
+    },
+    {
+      "name": "Domov důchodců Ústí nad Orlicí",
+      "latitude": 49.979422,
+      "longitude": 16.395577
+    },
+    {
+      "name": "Domov důchodců Čáslav",
+      "latitude": 49.913655,
+      "longitude": 15.38797
+    },
+    {
+      "name": "Domov důchodců Čáslav",
+      "latitude": 49.914332,
+      "longitude": 15.387037
+    },
+    {
+      "name": "Domov Harmonie",
+      "latitude": 49.681717,
+      "longitude": 13.672567
+    },
+    {
+      "name": "Domov Horizont Kyjov",
+      "latitude": 49.006555,
+      "longitude": 17.11049
+    },
+    {
+      "name": "Domov Hrubá Voda",
+      "latitude": 49.660214,
+      "longitude": 17.40829
+    },
+    {
+      "name": "Domov Iváň, poskytovatel sociálních služeb",
+      "latitude": 49.840309,
+      "longitude": 14.940805
+    },
+    {
+      "name": "Domov Kamélie",
+      "latitude": 49.600434,
+      "longitude": 18.025826
+    },
+    {
+      "name": "Domov Kateřinice",
+      "latitude": 49.671865,
+      "longitude": 18.182486
+    },
+    {
+      "name": "Domov Kladno - Švermov",
+      "latitude": 50.164594,
+      "longitude": 14.113252
+    },
+    {
+      "name": "Domov Libníč a Centrum sociálních služeb Empatie",
+      "latitude": 49.021177,
+      "longitude": 14.550975
+    },
+    {
+      "name": "Domov Maják o.p.s.",
+      "latitude": 49.66957,
+      "longitude": 13.996387
+    },
+    {
+      "name": "Domov Mladá",
+      "latitude": 50.222951,
+      "longitude": 14.868867
+    },
+    {
+      "name": "Domov mládeže",
+      "latitude": 50.075005,
+      "longitude": 14.41553
+    },
+    {
+      "name": "domov mládeže",
+      "latitude": 50.127671,
+      "longitude": 14.488184
+    },
+    {
+      "name": "Domov mládeže v Prostějově",
+      "latitude": 49.477453,
+      "longitude": 17.10876
+    },
+    {
+      "name": "Domov na Kalvárii",
+      "latitude": 49.620572,
+      "longitude": 16.750253
+    },
+    {
+      "name": "Domov na výsluní",
+      "latitude": 49.837754,
+      "longitude": 13.912501
+    },
+    {
+      "name": "Domov Nýdek",
+      "latitude": 49.648523,
+      "longitude": 18.771298
+    },
+    {
+      "name": "Domov pod Bílou horou",
+      "latitude": 49.604589,
+      "longitude": 18.137772
+    },
+    {
+      "name": "Domov pokojného stáří",
+      "latitude": 49.057005,
+      "longitude": 17.350911
+    },
+    {
+      "name": "Domov pokojného stáří a denní stacionář",
+      "latitude": 50.312438,
+      "longitude": 12.954683
+    },
+    {
+      "name": "Domov pokojného stáří sv. Františka",
+      "latitude": 50.390787,
+      "longitude": 17.005297
+    },
+    {
+      "name": "Domov pokojného stáří sv. Hedviky",
+      "latitude": 50.372822,
+      "longitude": 17.185546
+    },
+    {
+      "name": "Domov pro důchodce",
+      "latitude": 49.912189,
+      "longitude": 14.235138
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením",
+      "latitude": 49.036871,
+      "longitude": 17.473946
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením",
+      "latitude": 49.105986,
+      "longitude": 17.389546
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením",
+      "latitude": 50.381579,
+      "longitude": 13.269553
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením",
+      "latitude": 50.390566,
+      "longitude": 16.050324
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením Bystřice nad Úhlavou",
+      "latitude": 49.304822,
+      "longitude": 13.155275
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením Nojmánek",
+      "latitude": 49.193889,
+      "longitude": 16.580847
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením Srdíčko",
+      "latitude": 49.211968,
+      "longitude": 16.591243
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením v Újezdci",
+      "latitude": 49.357357,
+      "longitude": 13.33082
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 48.848483,
+      "longitude": 16.890835
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 48.997334,
+      "longitude": 14.540708
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.019356,
+      "longitude": 17.754552
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.104637,
+      "longitude": 17.160657
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.146996,
+      "longitude": 14.178792
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.178155,
+      "longitude": 17.52278
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.201443,
+      "longitude": 16.884408
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.208082,
+      "longitude": 16.154595
+    },
+    {
+      "name": "domov pro seniory",
+      "latitude": 49.234507,
+      "longitude": 17.689541
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.324959,
+      "longitude": 13.701939
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.452935,
+      "longitude": 17.472099
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.526927,
+      "longitude": 18.637561
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.594466,
+      "longitude": 18.357189
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.603181,
+      "longitude": 15.565044
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.617186,
+      "longitude": 15.579119
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.656521,
+      "longitude": 17.355533
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.681676,
+      "longitude": 13.989991
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.745452,
+      "longitude": 18.60753
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.875462,
+      "longitude": 15.060033
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.905635,
+      "longitude": 18.313779
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.920852,
+      "longitude": 17.833205
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.946544,
+      "longitude": 15.673073
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 49.948049,
+      "longitude": 16.150051
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.008035,
+      "longitude": 12.622918
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.05423,
+      "longitude": 14.502061
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.067627,
+      "longitude": 14.44789
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.093937,
+      "longitude": 17.696011
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.220795,
+      "longitude": 17.195682
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.360221,
+      "longitude": 15.50598
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.366818,
+      "longitude": 12.917315
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.390081,
+      "longitude": 16.049308
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.391245,
+      "longitude": 17.004048
+    },
+    {
+      "name": "Domov pro seniory",
+      "latitude": 50.563042,
+      "longitude": 14.65513
+    },
+    {
+      "name": "Domov pro seniory / Odlehčovací centrum Jihoměstská sociální a.s.",
+      "latitude": 50.031483,
+      "longitude": 14.536415
+    },
+    {
+      "name": "Domov pro seniory a pečovatelská služba Česká Kamenice",
+      "latitude": 50.804171,
+      "longitude": 14.420781
+    },
+    {
+      "name": "Domov pro seniory Anička",
+      "latitude": 50.116186,
+      "longitude": 16.284525
+    },
+    {
+      "name": "Domov pro seniory Blatná",
+      "latitude": 49.428131,
+      "longitude": 13.878706
+    },
+    {
+      "name": "Domov pro seniory Chodov",
+      "latitude": 50.036239,
+      "longitude": 14.506344
+    },
+    {
+      "name": "Domov pro seniory Dubina",
+      "latitude": 50.039521,
+      "longitude": 15.804899
+    },
+    {
+      "name": "Domov pro seniory Háje",
+      "latitude": 50.029086,
+      "longitude": 14.536409
+    },
+    {
+      "name": "Domov pro seniory IRIS",
+      "latitude": 49.834248,
+      "longitude": 18.247564
+    },
+    {
+      "name": "Domov pro seniory Kamenec",
+      "latitude": 49.846222,
+      "longitude": 18.294141
+    },
+    {
+      "name": "Domov pro seniory Kladno",
+      "latitude": 50.138432,
+      "longitude": 14.089194
+    },
+    {
+      "name": "Domov pro seniory Kobylisy",
+      "latitude": 50.128683,
+      "longitude": 14.44549
+    },
+    {
+      "name": "Domov pro seniory Koniklecová",
+      "latitude": 49.177841,
+      "longitude": 16.554366
+    },
+    {
+      "name": "Domov pro seniory Koryčany",
+      "latitude": 49.105199,
+      "longitude": 17.16064
+    },
+    {
+      "name": "Domov pro seniory Krásné Březno",
+      "latitude": 50.669397,
+      "longitude": 14.093468
+    },
+    {
+      "name": "Domov pro seniory Kurojedy",
+      "latitude": 49.755504,
+      "longitude": 12.820746
+    },
+    {
+      "name": "Domov pro seniory Loučka",
+      "latitude": 49.169908,
+      "longitude": 17.883046
+    },
+    {
+      "name": "Domov pro seniory Loučka",
+      "latitude": 49.169969,
+      "longitude": 17.88385
+    },
+    {
+      "name": "Domov pro seniory Ludmírov",
+      "latitude": 49.640374,
+      "longitude": 16.876501
+    },
+    {
+      "name": "Domov pro seniory Lukov, p. o.",
+      "latitude": 49.290488,
+      "longitude": 17.730037
+    },
+    {
+      "name": "Domov pro seniory Malešice",
+      "latitude": 50.087483,
+      "longitude": 14.504919
+    },
+    {
+      "name": "Domov pro seniory Mikuláškovo náměstí",
+      "latitude": 49.171747,
+      "longitude": 16.565446
+    },
+    {
+      "name": "Domov pro seniory Máj",
+      "latitude": 48.983938,
+      "longitude": 14.442037
+    },
+    {
+      "name": "Domov pro seniory Naděje",
+      "latitude": 49.250614,
+      "longitude": 16.585629
+    },
+    {
+      "name": "Domov pro seniory Nová slunečnice",
+      "latitude": 50.133955,
+      "longitude": 14.433385
+    },
+    {
+      "name": "Domov pro seniory Okružní",
+      "latitude": 49.234056,
+      "longitude": 16.621059
+    },
+    {
+      "name": "Domov pro seniory ONDRÁŠ, p.o.",
+      "latitude": 49.70052,
+      "longitude": 18.221333
+    },
+    {
+      "name": "Domov pro seniory Panny Marie Královny",
+      "latitude": 49.494932,
+      "longitude": 17.900742
+    },
+    {
+      "name": "Domov pro seniory Podpěrova",
+      "latitude": 49.237821,
+      "longitude": 16.584469
+    },
+    {
+      "name": "Domov pro seniory Senlife Mělník",
+      "latitude": 50.362483,
+      "longitude": 14.467223
+    },
+    {
+      "name": "Domov pro seniory Senlife Tmaň",
+      "latitude": 49.903295,
+      "longitude": 14.036776
+    },
+    {
+      "name": "Domov pro seniory Skalice, p.o.",
+      "latitude": 48.965421,
+      "longitude": 16.223807
+    },
+    {
+      "name": "Domov pro seniory SKALKA",
+      "latitude": 50.07568,
+      "longitude": 12.350049
+    },
+    {
+      "name": "Domov pro seniory SLEZSKÉ HUMANITY",
+      "latitude": 49.796251,
+      "longitude": 18.476477
+    },
+    {
+      "name": "Domov pro seniory Slunečnice",
+      "latitude": 49.836456,
+      "longitude": 18.165585
+    },
+    {
+      "name": "Domov pro seniory Soběsuky",
+      "latitude": 49.463287,
+      "longitude": 16.998063
+    },
+    {
+      "name": "Domov pro seniory Světlo",
+      "latitude": 49.303743,
+      "longitude": 14.156449
+    },
+    {
+      "name": "Domov pro seniory Světlo",
+      "latitude": 49.337213,
+      "longitude": 14.048604
+    },
+    {
+      "name": "Domov pro seniory Trutnov",
+      "latitude": 50.567176,
+      "longitude": 15.909144
+    },
+    {
+      "name": "Domov pro seniory U Kostelíčka",
+      "latitude": 50.036197,
+      "longitude": 15.787609
+    },
+    {
+      "name": "Domov pro seniory Vlčice",
+      "latitude": 49.569674,
+      "longitude": 13.542675
+    },
+    {
+      "name": "Domov pro seniory Vychodilova",
+      "latitude": 49.212229,
+      "longitude": 16.588981
+    },
+    {
+      "name": "Domov pro seniory Věstonická",
+      "latitude": 49.198852,
+      "longitude": 16.660964
+    },
+    {
+      "name": "Domov pro seniory Wágnerka",
+      "latitude": 48.812266,
+      "longitude": 14.326918
+    },
+    {
+      "name": "Domov pro seniory Zvonková",
+      "latitude": 50.054902,
+      "longitude": 14.505607
+    },
+    {
+      "name": "Domov pro seniory Česká Třebová",
+      "latitude": 49.899922,
+      "longitude": 16.45686
+    },
+    {
+      "name": "Domov pro zdravotně postižené Buchlovská",
+      "latitude": 49.106474,
+      "longitude": 17.388682
+    },
+    {
+      "name": "Domov pro ženy a matky s dětmi",
+      "latitude": 49.596275,
+      "longitude": 17.253322
+    },
+    {
+      "name": "Domov Přístav",
+      "latitude": 49.68802,
+      "longitude": 18.336296
+    },
+    {
+      "name": "Domov s pečovateslkou službou",
+      "latitude": 49.791154,
+      "longitude": 18.254739
+    },
+    {
+      "name": "Domov Santini – Lumina",
+      "latitude": 49.296116,
+      "longitude": 16.743278
+    },
+    {
+      "name": "Domov se zvláštním režimem Kvasice",
+      "latitude": 49.242971,
+      "longitude": 17.473752
+    },
+    {
+      "name": "Domov se zvláštním režimem Nové Zámky",
+      "latitude": 49.721283,
+      "longitude": 17.028815
+    },
+    {
+      "name": "Domov Sedlčany",
+      "latitude": 49.661451,
+      "longitude": 14.41931
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 48.945969,
+      "longitude": 17.174584
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 49.075156,
+      "longitude": 15.430764
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 49.632576,
+      "longitude": 16.707897
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 49.683289,
+      "longitude": 18.541131
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 49.783815,
+      "longitude": 14.693784
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 49.930912,
+      "longitude": 16.79492
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 50.099978,
+      "longitude": 14.485809
+    },
+    {
+      "name": "Domov seniorů",
+      "latitude": 50.249432,
+      "longitude": 12.833103
+    },
+    {
+      "name": "Domov seniorů Drachtinka",
+      "latitude": 49.765604,
+      "longitude": 15.908957
+    },
+    {
+      "name": "Domov seniorů Havířov - Helios",
+      "latitude": 49.800496,
+      "longitude": 18.402478
+    },
+    {
+      "name": "Domov seniorů Hranice",
+      "latitude": 49.548102,
+      "longitude": 17.750552
+    },
+    {
+      "name": "Domov seniorů Jindřichův Hradec",
+      "latitude": 49.144262,
+      "longitude": 15.032107
+    },
+    {
+      "name": "Domov seniorů Komárov",
+      "latitude": 49.76488,
+      "longitude": 17.242435
+    },
+    {
+      "name": "Domov seniorů Mistra Křišťana",
+      "latitude": 49.019002,
+      "longitude": 13.998982
+    },
+    {
+      "name": "Domov seniorů Mšeno",
+      "latitude": 50.437682,
+      "longitude": 14.634418
+    },
+    {
+      "name": "Domov seniorů Nové Strašecí,",
+      "latitude": 50.149021,
+      "longitude": 13.902435
+    },
+    {
+      "name": "Domov seniorů Pampeliška",
+      "latitude": 50.699173,
+      "longitude": 14.806007
+    },
+    {
+      "name": "Domov seniorů POHODA Chválkovice",
+      "latitude": 49.616759,
+      "longitude": 17.296314
+    },
+    {
+      "name": "Domov seniorů Praha - Petrovice",
+      "latitude": 50.031677,
+      "longitude": 14.559838
+    },
+    {
+      "name": "Domov seniorů Prostějov",
+      "latitude": 49.476525,
+      "longitude": 17.100381
+    },
+    {
+      "name": "Domov seniorů Radkova Lhota",
+      "latitude": 49.4535,
+      "longitude": 17.632157
+    },
+    {
+      "name": "Domov Seniorů Rakovník",
+      "latitude": 50.10184,
+      "longitude": 13.738263
+    },
+    {
+      "name": "Domov seniorů Seč",
+      "latitude": 49.838428,
+      "longitude": 15.639429
+    },
+    {
+      "name": "Domov seniorů Staříč",
+      "latitude": 49.686477,
+      "longitude": 18.27441
+    },
+    {
+      "name": "Domov seniorů Vysočany",
+      "latitude": 50.108542,
+      "longitude": 14.500055
+    },
+    {
+      "name": "Domov seniorů Úvaly",
+      "latitude": 50.074995,
+      "longitude": 14.717991
+    },
+    {
+      "name": "Domov Seniorů Říčany",
+      "latitude": 49.979889,
+      "longitude": 14.636657
+    },
+    {
+      "name": "Domov Sněženka",
+      "latitude": 50.221914,
+      "longitude": 17.196207
+    },
+    {
+      "name": "Domov sociální péče Hagibor",
+      "latitude": 50.078606,
+      "longitude": 14.477034
+    },
+    {
+      "name": "Domov sociálních služeb",
+      "latitude": 49.916691,
+      "longitude": 13.544065
+    },
+    {
+      "name": "Domov Sosna",
+      "latitude": 49.6777,
+      "longitude": 18.683926
+    },
+    {
+      "name": "Domov Sue Ryder",
+      "latitude": 50.053748,
+      "longitude": 14.453519
+    },
+    {
+      "name": "Domov sv. Alžběty",
+      "latitude": 49.334296,
+      "longitude": 16.389337
+    },
+    {
+      "name": "Domov sv. Alžběty",
+      "latitude": 49.580426,
+      "longitude": 18.77027
+    },
+    {
+      "name": "Domov sv. Františka",
+      "latitude": 49.746188,
+      "longitude": 13.389628
+    },
+    {
+      "name": "Domov sv. Jana Křtitele, s.r.o.",
+      "latitude": 49.667534,
+      "longitude": 18.296331
+    },
+    {
+      "name": "Domov sv. Vavřince",
+      "latitude": 50.820017,
+      "longitude": 14.969516
+    },
+    {
+      "name": "Domov u dybníka",
+      "latitude": 49.346109,
+      "longitude": 17.171083
+    },
+    {
+      "name": "Domov u Františka",
+      "latitude": 49.101604,
+      "longitude": 16.765144
+    },
+    {
+      "name": "Domov u Spasitele",
+      "latitude": 50.917846,
+      "longitude": 15.080846
+    },
+    {
+      "name": "Domov V Podzámčí",
+      "latitude": 50.147472,
+      "longitude": 15.449365
+    },
+    {
+      "name": "Domov ve Věži",
+      "latitude": 49.562996,
+      "longitude": 15.458163
+    },
+    {
+      "name": "Domov Vesna",
+      "latitude": 49.868562,
+      "longitude": 18.431049
+    },
+    {
+      "name": "Domov Větrný mlýn Skalička",
+      "latitude": 49.517934,
+      "longitude": 17.797059
+    },
+    {
+      "name": "Domov Černovice",
+      "latitude": 49.608255,
+      "longitude": 13.001539
+    },
+    {
+      "name": "domov-penzion pro seniory",
+      "latitude": 50.308511,
+      "longitude": 12.95961
+    },
+    {
+      "name": "Domovinka",
+      "latitude": 49.317946,
+      "longitude": 14.14616
+    },
+    {
+      "name": "Domovy s pečovatelskou službou",
+      "latitude": 49.978015,
+      "longitude": 18.194894
+    },
+    {
+      "name": "DPS",
+      "latitude": 49.083512,
+      "longitude": 15.435859
+    },
+    {
+      "name": "DPS",
+      "latitude": 49.175781,
+      "longitude": 17.536624
+    },
+    {
+      "name": "DPS",
+      "latitude": 49.511051,
+      "longitude": 12.797931
+    },
+    {
+      "name": "DPS",
+      "latitude": 49.681052,
+      "longitude": 13.990392
+    },
+    {
+      "name": "DpS a DOZP Mašťov",
+      "latitude": 50.26164,
+      "longitude": 13.277791
+    },
+    {
+      "name": "DPS Libušina",
+      "latitude": 49.44132,
+      "longitude": 14.369205
+    },
+    {
+      "name": "DPS Na Sadech",
+      "latitude": 50.233478,
+      "longitude": 14.081634
+    },
+    {
+      "name": "DPS Pohoda",
+      "latitude": 49.049811,
+      "longitude": 14.199706
+    },
+    {
+      "name": "DZP Vincentinum",
+      "latitude": 49.102573,
+      "longitude": 17.396142
+    },
+    {
+      "name": "Dúm domácí péče",
+      "latitude": 49.280158,
+      "longitude": 16.689227
+    },
+    {
+      "name": "Dětské centrum Ostrůvek",
+      "latitude": 49.575939,
+      "longitude": 17.260685
+    },
+    {
+      "name": "Dětský domov",
+      "latitude": 49.143052,
+      "longitude": 13.554617
+    },
+    {
+      "name": "Dětský domov",
+      "latitude": 49.525736,
+      "longitude": 17.572075
+    },
+    {
+      "name": "Dětský domov",
+      "latitude": 49.602074,
+      "longitude": 17.247072
+    },
+    {
+      "name": "Dětský domov",
+      "latitude": 50.238262,
+      "longitude": 14.295406
+    },
+    {
+      "name": "Dětský domov",
+      "latitude": 50.381632,
+      "longitude": 14.852025
+    },
+    {
+      "name": "dětský domov",
+      "latitude": 50.828019,
+      "longitude": 14.702207
+    },
+    {
+      "name": "Dětský domov Aš",
+      "latitude": 50.214562,
+      "longitude": 12.192126
+    },
+    {
+      "name": "Dětský domov Dagmar",
+      "latitude": 49.208016,
+      "longitude": 16.577296
+    },
+    {
+      "name": "Dětský domov Domino",
+      "latitude": 49.747018,
+      "longitude": 13.320076
+    },
+    {
+      "name": "Dětský domov Janovice u Rýmařova",
+      "latitude": 49.944127,
+      "longitude": 17.255342
+    },
+    {
+      "name": "Dětský domov Korálky",
+      "latitude": 49.536437,
+      "longitude": 15.351285
+    },
+    {
+      "name": "Dětský domov Melč",
+      "latitude": 49.846981,
+      "longitude": 17.765373
+    },
+    {
+      "name": "Dětský domov Nové Strašecí",
+      "latitude": 50.151721,
+      "longitude": 13.898186
+    },
+    {
+      "name": "Dětský domov Pardubice",
+      "latitude": 50.035765,
+      "longitude": 15.786287
+    },
+    {
+      "name": "Dětský domov Plumlov",
+      "latitude": 49.47068,
+      "longitude": 17.018708
+    },
+    {
+      "name": "Dětský domov Racek",
+      "latitude": 49.804754,
+      "longitude": 14.662168
+    },
+    {
+      "name": "Dětský domov Rovečné",
+      "latitude": 49.577736,
+      "longitude": 16.362543
+    },
+    {
+      "name": "Dětský domov se školou a základní škola",
+      "latitude": 49.754566,
+      "longitude": 18.490883
+    },
+    {
+      "name": "Dětský domov Řepiště",
+      "latitude": 49.753903,
+      "longitude": 18.339463
+    },
+    {
+      "name": "Dětský domov-Jemnice",
+      "latitude": 49.052304,
+      "longitude": 15.662017
+    },
+    {
+      "name": "Dům domácí péče Bílovice",
+      "latitude": 49.243156,
+      "longitude": 16.673318
+    },
+    {
+      "name": "Dům důchodců",
+      "latitude": 49.79503,
+      "longitude": 17.21926
+    },
+    {
+      "name": "Dům Esterka Centrum Psychosocialni Rehabiltace",
+      "latitude": 50.359744,
+      "longitude": 16.932681
+    },
+    {
+      "name": "Dům Josefa Korbela",
+      "latitude": 49.19025,
+      "longitude": 16.618842
+    },
+    {
+      "name": "Dům klidného stáří",
+      "latitude": 50.194375,
+      "longitude": 12.680666
+    },
+    {
+      "name": "Dům klidného stáří Glossus s.r.o.",
+      "latitude": 49.893618,
+      "longitude": 16.022873
+    },
+    {
+      "name": "Dům Matky Terezy, sociální služby pro lidi bez domova",
+      "latitude": 50.226538,
+      "longitude": 15.848016
+    },
+    {
+      "name": "Dům pečovatelské služby",
+      "latitude": 50.925161,
+      "longitude": 15.226026
+    },
+    {
+      "name": "Dům pokojného stáří",
+      "latitude": 49.048874,
+      "longitude": 17.15464
+    },
+    {
+      "name": "Dům pokojného stáří",
+      "latitude": 49.550662,
+      "longitude": 17.037837
+    },
+    {
+      "name": "Dům pokojného stáří - Charita Valašské Meziříčí",
+      "latitude": 49.403519,
+      "longitude": 18.142503
+    },
+    {
+      "name": "Dům pokojného stáří Bohuslavice",
+      "latitude": 49.623634,
+      "longitude": 16.94828
+    },
+    {
+      "name": "Dům pokojného stáří u Panny Marie Frýdecké",
+      "latitude": 49.689131,
+      "longitude": 18.347078
+    },
+    {
+      "name": "Dům pro seniory",
+      "latitude": 48.96425,
+      "longitude": 16.608808
+    },
+    {
+      "name": "Dům pro seniory",
+      "latitude": 49.294945,
+      "longitude": 13.146347
+    },
+    {
+      "name": "Dům pro seniory",
+      "latitude": 50.37563,
+      "longitude": 15.219696
+    },
+    {
+      "name": "Dům s chráněnými byty",
+      "latitude": 49.069913,
+      "longitude": 17.468994
+    },
+    {
+      "name": "Dům s chráněnými byty sv. Anežky České",
+      "latitude": 48.971767,
+      "longitude": 17.710866
+    },
+    {
+      "name": "Dům s peč. službou",
+      "latitude": 49.172739,
+      "longitude": 17.511457
+    },
+    {
+      "name": "dům s pečovatelskou péčí",
+      "latitude": 49.714092,
+      "longitude": 16.269786
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 48.832131,
+      "longitude": 16.850987
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 48.866368,
+      "longitude": 16.044881
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.034558,
+      "longitude": 17.338964
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.038139,
+      "longitude": 17.810309
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.039273,
+      "longitude": 17.814626
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.057827,
+      "longitude": 17.358449
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.150752,
+      "longitude": 16.880048
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.170377,
+      "longitude": 17.519002
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.170563,
+      "longitude": 16.727521
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.193273,
+      "longitude": 14.342538
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.229829,
+      "longitude": 13.518331
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.230741,
+      "longitude": 13.51548
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.402981,
+      "longitude": 18.144012
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.481877,
+      "longitude": 17.333223
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.538515,
+      "longitude": 18.205401
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.57141,
+      "longitude": 17.177244
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.59063,
+      "longitude": 18.754837
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.636926,
+      "longitude": 16.226662
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.704515,
+      "longitude": 13.281439
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.756397,
+      "longitude": 18.001868
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.763199,
+      "longitude": 15.911546
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.765107,
+      "longitude": 15.909152
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.845871,
+      "longitude": 18.378406
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.867166,
+      "longitude": 15.583477
+    },
+    {
+      "name": "DŮM S PEČOVATELSKOU SLUŽBOU",
+      "latitude": 49.933307,
+      "longitude": 17.972002
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.948024,
+      "longitude": 14.036479
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 49.951601,
+      "longitude": 14.315616
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.075419,
+      "longitude": 14.718441
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.14112,
+      "longitude": 14.071838
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.199563,
+      "longitude": 14.68698
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.236462,
+      "longitude": 12.742764
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.251559,
+      "longitude": 17.222555
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.439934,
+      "longitude": 15.126787
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.51477,
+      "longitude": 14.045539
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 50.521375,
+      "longitude": 14.974423
+    },
+    {
+      "name": "Dům s pečovatelskou službou Burešova",
+      "latitude": 50.129661,
+      "longitude": 14.468894
+    },
+    {
+      "name": "Dům s pečovatelskou službou Jablunkov",
+      "latitude": 49.570716,
+      "longitude": 18.757704
+    },
+    {
+      "name": "Dům s pečovatelskou službou Kunovice",
+      "latitude": 49.037745,
+      "longitude": 17.474524
+    },
+    {
+      "name": "Dům s pečovatelskou službou Praha 3",
+      "latitude": 50.086602,
+      "longitude": 14.455717
+    },
+    {
+      "name": "Dům s pečovatelskou službou pro seniory",
+      "latitude": 49.691061,
+      "longitude": 18.323763
+    },
+    {
+      "name": "Dům s pečovatelskou službou Senior",
+      "latitude": 49.991178,
+      "longitude": 14.664003
+    },
+    {
+      "name": "Dům s pečovatelskou službou Slavíkov",
+      "latitude": 49.743314,
+      "longitude": 15.781105
+    },
+    {
+      "name": "Dům s pečovatelskou službou sv. Jana Křtilete",
+      "latitude": 50.293146,
+      "longitude": 14.477103
+    },
+    {
+      "name": "Dům s pečovatelskou službou Sv.Jakuba",
+      "latitude": 50.275191,
+      "longitude": 14.505042
+    },
+    {
+      "name": "Dům s pečovatelskou službou Vavřinecká 13",
+      "latitude": 49.221928,
+      "longitude": 16.552392
+    },
+    {
+      "name": "Dům s pečovatelskou službou Zderadova 5",
+      "latitude": 49.189949,
+      "longitude": 16.627496
+    },
+    {
+      "name": "Dům sociálních služeb",
+      "latitude": 50.11899,
+      "longitude": 14.450173
+    },
+    {
+      "name": "Dům sociálních služeb Lukáš",
+      "latitude": 50.045201,
+      "longitude": 14.318353
+    },
+    {
+      "name": "Dům sociálních služeb Návojná",
+      "latitude": 49.109958,
+      "longitude": 18.053816
+    },
+    {
+      "name": "Dům sv. Františka",
+      "latitude": 49.177691,
+      "longitude": 14.693099
+    },
+    {
+      "name": "Dům s pečovatelskou službou",
+      "latitude": 48.992656,
+      "longitude": 14.463396
+    },
+    {
+      "name": "Effeta denní stacionář",
+      "latitude": 49.204907,
+      "longitude": 16.668338
+    },
+    {
+      "name": "Emausy",
+      "latitude": 48.965043,
+      "longitude": 14.532541
+    },
+    {
+      "name": "Filia",
+      "latitude": 48.984828,
+      "longitude": 14.464724
+    },
+    {
+      "name": "Fokus Vysočina",
+      "latitude": 49.763906,
+      "longitude": 15.903223
+    },
+    {
+      "name": "FOKUS České Budějovice, z. ú.",
+      "latitude": 48.8127,
+      "longitude": 14.326596
+    },
+    {
+      "name": "Frauenberatung Waldviertel in Gmünd",
+      "latitude": 48.767648,
+      "longitude": 14.978783
+    },
+    {
+      "name": "Fénix - domov pro seniory",
+      "latitude": 50.116884,
+      "longitude": 14.347674
+    },
+    {
+      "name": "G-centrum",
+      "latitude": 49.418643,
+      "longitude": 14.650483
+    },
+    {
+      "name": "Gerbera pečovatelský domov Dubňany",
+      "latitude": 48.917421,
+      "longitude": 17.08133
+    },
+    {
+      "name": "Gerontologické centrum",
+      "latitude": 50.129632,
+      "longitude": 14.448256
+    },
+    {
+      "name": "Gynekologicko - porodnická ambulance",
+      "latitude": 48.816084,
+      "longitude": 14.315087
+    },
+    {
+      "name": "Helios",
+      "latitude": 49.78666,
+      "longitude": 18.430207
+    },
+    {
+      "name": "Hortenzie",
+      "latitude": 50.179119,
+      "longitude": 14.482129
+    },
+    {
+      "name": "Hospic",
+      "latitude": 49.628527,
+      "longitude": 17.338555
+    },
+    {
+      "name": "Hospic sv. Alžběty",
+      "latitude": 49.185242,
+      "longitude": 16.590512
+    },
+    {
+      "name": "ICOS",
+      "latitude": 48.802829,
+      "longitude": 14.313415
+    },
+    {
+      "name": "Informační centrum Domova sociálních služeb Vlašská",
+      "latitude": 50.072673,
+      "longitude": 14.415162
+    },
+    {
+      "name": "Jah Jireh",
+      "latitude": 49.952139,
+      "longitude": 12.681703
+    },
+    {
+      "name": "Jihoměstská sociální a.s.",
+      "latitude": 50.0257,
+      "longitude": 14.509834
+    },
+    {
+      "name": "Jihočeské centrum pro zdravotně postižené a seniory, o.p.s.",
+      "latitude": 48.811013,
+      "longitude": 14.32386
+    },
+    {
+      "name": "Kinder- und Jugendhilfe Gmünd",
+      "latitude": 48.771627,
+      "longitude": 14.986708
+    },
+    {
+      "name": "Kinder- und Jugendwohngemeinschaft",
+      "latitude": 50.98303,
+      "longitude": 14.264313
+    },
+    {
+      "name": "Kinderheim Tannenmühle",
+      "latitude": 50.323478,
+      "longitude": 12.395912
+    },
+    {
+      "name": "KJH Deutschneudorf",
+      "latitude": 50.604929,
+      "longitude": 13.464417
+    },
+    {
+      "name": "Klokánek",
+      "latitude": 49.207433,
+      "longitude": 16.682548
+    },
+    {
+      "name": "Klub Beztíže",
+      "latitude": 50.095018,
+      "longitude": 14.481606
+    },
+    {
+      "name": "Klub důchodců a dům s pečovatelskou službou",
+      "latitude": 50.22895,
+      "longitude": 15.214693
+    },
+    {
+      "name": "Kojenecký ústav s dětským domovem",
+      "latitude": 49.74931,
+      "longitude": 13.41445
+    },
+    {
+      "name": "Kontaktní centrum Vlhká",
+      "latitude": 49.193617,
+      "longitude": 16.618014
+    },
+    {
+      "name": "Kontaktní centrum Vážka",
+      "latitude": 48.851245,
+      "longitude": 17.121689
+    },
+    {
+      "name": "Krizové centrum pro děti",
+      "latitude": 49.251388,
+      "longitude": 16.583113
+    },
+    {
+      "name": "LDN Horažďovice, s.r.o.",
+      "latitude": 49.323939,
+      "longitude": 13.707948
+    },
+    {
+      "name": "Ludmila",
+      "latitude": 49.193553,
+      "longitude": 16.638804
+    },
+    {
+      "name": "Luxor",
+      "latitude": 50.146482,
+      "longitude": 15.12252
+    },
+    {
+      "name": "Léčebna dlouhodobě nemocných",
+      "latitude": 50.622397,
+      "longitude": 15.608725
+    },
+    {
+      "name": "Marianum - Chráněné bydlení Velké Hoštice",
+      "latitude": 49.937638,
+      "longitude": 17.973984
+    },
+    {
+      "name": "Marta",
+      "latitude": 49.999652,
+      "longitude": 14.666846
+    },
+    {
+      "name": "Mateřské centrum Emma",
+      "latitude": 50.084831,
+      "longitude": 16.760162
+    },
+    {
+      "name": "Matáta - Rodinné centrum",
+      "latitude": 49.211185,
+      "longitude": 16.633762
+    },
+    {
+      "name": "Medela o.p.s.",
+      "latitude": 49.556823,
+      "longitude": 18.374975
+    },
+    {
+      "name": "Medou z.s.",
+      "latitude": 49.550314,
+      "longitude": 15.359353
+    },
+    {
+      "name": "META - bezbariérový dům",
+      "latitude": 50.132504,
+      "longitude": 14.137015
+    },
+    {
+      "name": "Miloš Zeman",
+      "latitude": 49.519372,
+      "longitude": 15.904858
+    },
+    {
+      "name": "Most poradna pro cizince",
+      "latitude": 50.033342,
+      "longitude": 15.770393
+    },
+    {
+      "name": "MSSS Oáza",
+      "latitude": 50.3604,
+      "longitude": 16.149569
+    },
+    {
+      "name": "Městské středisko sociálních služeb MARIE",
+      "latitude": 50.407933,
+      "longitude": 16.166778
+    },
+    {
+      "name": "Městský penzion pro seniory Blansko",
+      "latitude": 49.353452,
+      "longitude": 16.656524
+    },
+    {
+      "name": "Městský ústav sociálních služeb Jirkov, příspěvková organizace",
+      "latitude": 50.500839,
+      "longitude": 13.429855
+    },
+    {
+      "name": "Městský ústav sociálních služeb Klášterec nad Ohří",
+      "latitude": 50.393699,
+      "longitude": 13.178886
+    },
+    {
+      "name": "Naděje",
+      "latitude": 50.128811,
+      "longitude": 14.46
+    },
+    {
+      "name": "NADĚJE, středisko Nábřeží",
+      "latitude": 49.316351,
+      "longitude": 14.144938
+    },
+    {
+      "name": "Nemocnice následné péče Háj",
+      "latitude": 49.683205,
+      "longitude": 15.303671
+    },
+    {
+      "name": "Nona, o.p.s.",
+      "latitude": 50.352659,
+      "longitude": 16.144793
+    },
+    {
+      "name": "Nopova",
+      "latitude": 49.200206,
+      "longitude": 16.646159
+    },
+    {
+      "name": "Náš svět",
+      "latitude": 49.620113,
+      "longitude": 18.375547
+    },
+    {
+      "name": "Náš svět",
+      "latitude": 49.679376,
+      "longitude": 18.338608
+    },
+    {
+      "name": "Nízkoprahové centrum pro děti a mládež Jonáš",
+      "latitude": 49.220527,
+      "longitude": 16.516973
+    },
+    {
+      "name": "Nízkoprahový klub Zvole",
+      "latitude": 49.926898,
+      "longitude": 14.41697
+    },
+    {
+      "name": "Obec Mládežnická",
+      "latitude": 49.039624,
+      "longitude": 17.470321
+    },
+    {
+      "name": "Obecní penzion pro starší spoluobčany",
+      "latitude": 50.12394,
+      "longitude": 15.884482
+    },
+    {
+      "name": "Oblastní spolek Českého červeného kříže",
+      "latitude": 50.142472,
+      "longitude": 14.094606
+    },
+    {
+      "name": "Občanská poradna Teplice - Charita",
+      "latitude": 50.65015,
+      "longitude": 13.842249
+    },
+    {
+      "name": "Občanské sdružení JURTA",
+      "latitude": 50.730452,
+      "longitude": 14.190812
+    },
+    {
+      "name": "Oddělení sociální prevence pro mladistvé a mladé dospělé",
+      "latitude": 49.178725,
+      "longitude": 16.594917
+    },
+    {
+      "name": "Odlehčovací pobytová služba",
+      "latitude": 50.128573,
+      "longitude": 15.110469
+    },
+    {
+      "name": "Odlehčovací služba",
+      "latitude": 49.321422,
+      "longitude": 18.155204
+    },
+    {
+      "name": "Oáza pokoje",
+      "latitude": 49.692513,
+      "longitude": 18.349212
+    },
+    {
+      "name": "Ośrodek Pomocy Społecznej",
+      "latitude": 50.440287,
+      "longitude": 16.240091
+    },
+    {
+      "name": "Palata-Domov pro zrakově postižené",
+      "latitude": 50.075664,
+      "longitude": 14.385428
+    },
+    {
+      "name": "Pedagogicko-psychologická poradna Brno",
+      "latitude": 49.196706,
+      "longitude": 16.590814
+    },
+    {
+      "name": "Pedagogicko-psychologická poradna Brno",
+      "latitude": 49.220655,
+      "longitude": 16.623601
+    },
+    {
+      "name": "Penzion a Pečovatelský Domov",
+      "latitude": 49.52255,
+      "longitude": 17.586614
+    },
+    {
+      "name": "Penzion pro seniory",
+      "latitude": 50.497845,
+      "longitude": 13.659018
+    },
+    {
+      "name": "Pečovatelská služba",
+      "latitude": 49.474384,
+      "longitude": 17.10205
+    },
+    {
+      "name": "Pečovatelská Služba",
+      "latitude": 50.106141,
+      "longitude": 13.728759
+    },
+    {
+      "name": "Pečovatelská služba",
+      "latitude": 50.223062,
+      "longitude": 12.192523
+    },
+    {
+      "name": "Pečovatelská služba Brno střed",
+      "latitude": 49.182586,
+      "longitude": 16.598343
+    },
+    {
+      "name": "Pečovatelská služba Brno-Žabovřesky",
+      "latitude": 49.214453,
+      "longitude": 16.570261
+    },
+    {
+      "name": "Pečovatelská služba Bzenec",
+      "latitude": 48.973458,
+      "longitude": 17.267575
+    },
+    {
+      "name": "Pečovatelská služba Bzenec",
+      "latitude": 48.973957,
+      "longitude": 17.268113
+    },
+    {
+      "name": "Pečovatelská služba města Chodova",
+      "latitude": 50.23665,
+      "longitude": 12.742637
+    },
+    {
+      "name": "Pečovatelská služba Rotalova 13",
+      "latitude": 49.209406,
+      "longitude": 16.626476
+    },
+    {
+      "name": "Pečovatelská služba Vracov",
+      "latitude": 48.971394,
+      "longitude": 17.20718
+    },
+    {
+      "name": "Pečovatelská služba Česká Kamenice",
+      "latitude": 50.802172,
+      "longitude": 14.410445
+    },
+    {
+      "name": "Pflegeheim Sebnitz",
+      "latitude": 50.978497,
+      "longitude": 14.276443
+    },
+    {
+      "name": "Pflegestift Oberland",
+      "latitude": 50.992184,
+      "longitude": 14.605526
+    },
+    {
+      "name": "Pflegestift Seifhennersdorf",
+      "latitude": 50.928368,
+      "longitude": 14.624647
+    },
+    {
+      "name": "Pohoda",
+      "latitude": 50.041031,
+      "longitude": 14.426958
+    },
+    {
+      "name": "Portimo",
+      "latitude": 49.566769,
+      "longitude": 16.077495
+    },
+    {
+      "name": "Powiatowy Dom Dziecka",
+      "latitude": 49.941842,
+      "longitude": 18.39678
+    },
+    {
+      "name": "Protialkoholní záchytná stanice",
+      "latitude": 50.177742,
+      "longitude": 15.854686
+    },
+    {
+      "name": "Proxima sociale",
+      "latitude": 50.121173,
+      "longitude": 14.499553
+    },
+    {
+      "name": "Přístavek",
+      "latitude": 50.91783,
+      "longitude": 15.080877
+    },
+    {
+      "name": "Rangherka",
+      "latitude": 50.069863,
+      "longitude": 14.45242
+    },
+    {
+      "name": "RATOLEST, dětská péče a léčebná rehabilitace",
+      "latitude": 50.023859,
+      "longitude": 15.774599
+    },
+    {
+      "name": "Resocializační centrum",
+      "latitude": 49.184784,
+      "longitude": 16.638467
+    },
+    {
+      "name": "Respondeo",
+      "latitude": 50.523244,
+      "longitude": 14.975317
+    },
+    {
+      "name": "Rezidence Na Pleši",
+      "latitude": 49.834206,
+      "longitude": 14.28447
+    },
+    {
+      "name": "Rezidence Rosa",
+      "latitude": 50.125319,
+      "longitude": 14.459447
+    },
+    {
+      "name": "Rezidenci v Parku (Bydlení pro seniory)",
+      "latitude": 49.786639,
+      "longitude": 14.176698
+    },
+    {
+      "name": "RIAPS",
+      "latitude": 50.083841,
+      "longitude": 14.458392
+    },
+    {
+      "name": "Rodinné centrum klíček",
+      "latitude": 49.677322,
+      "longitude": 18.364578
+    },
+    {
+      "name": "Samaritán",
+      "latitude": 49.596677,
+      "longitude": 17.26121
+    },
+    {
+      "name": "Sanatorium Topas",
+      "latitude": 49.844547,
+      "longitude": 15.651221
+    },
+    {
+      "name": "SANATORIUM TOPAS s.r.o.",
+      "latitude": 50.073638,
+      "longitude": 15.985983
+    },
+    {
+      "name": "Sdružení MOST K ŽIVOTU",
+      "latitude": 49.45117,
+      "longitude": 17.472343
+    },
+    {
+      "name": "SeneCura",
+      "latitude": 49.804643,
+      "longitude": 18.417757
+    },
+    {
+      "name": "SeneCura",
+      "latitude": 50.023689,
+      "longitude": 15.204581
+    },
+    {
+      "name": "SeneCura",
+      "latitude": 50.185207,
+      "longitude": 15.834452
+    },
+    {
+      "name": "SeneCura SeniorCentrum Humpolec",
+      "latitude": 49.5507,
+      "longitude": 15.357133
+    },
+    {
+      "name": "SeneCura SeniorCentrum Modřice",
+      "latitude": 49.133904,
+      "longitude": 16.615834
+    },
+    {
+      "name": "Senior Centrum",
+      "latitude": 49.847538,
+      "longitude": 15.995902
+    },
+    {
+      "name": "Senior centrum",
+      "latitude": 50.000925,
+      "longitude": 15.939539
+    },
+    {
+      "name": "Senior centrum Blansko",
+      "latitude": 49.361685,
+      "longitude": 16.656146
+    },
+    {
+      "name": "Senior centrum Přepychy",
+      "latitude": 50.234358,
+      "longitude": 16.108067
+    },
+    {
+      "name": "Senior dům",
+      "latitude": 49.264171,
+      "longitude": 14.704534
+    },
+    {
+      "name": "Senior home",
+      "latitude": 48.995433,
+      "longitude": 14.448223
+    },
+    {
+      "name": "Senior Komplex",
+      "latitude": 50.012362,
+      "longitude": 14.512814
+    },
+    {
+      "name": "Senior komplex",
+      "latitude": 50.084071,
+      "longitude": 14.487291
+    },
+    {
+      "name": "Senior Park",
+      "latitude": 49.035345,
+      "longitude": 16.528781
+    },
+    {
+      "name": "Senior Park",
+      "latitude": 49.63755,
+      "longitude": 17.26959
+    },
+    {
+      "name": "Senior Park",
+      "latitude": 49.859204,
+      "longitude": 18.372085
+    },
+    {
+      "name": "Senior Park",
+      "latitude": 50.104953,
+      "longitude": 15.101621
+    },
+    {
+      "name": "Senior resort Štěpánka",
+      "latitude": 50.4057,
+      "longitude": 14.923299
+    },
+    {
+      "name": "SeniorCentrum Chotěboř",
+      "latitude": 49.716491,
+      "longitude": 15.676358
+    },
+    {
+      "name": "SeniorCentrum Liberec",
+      "latitude": 50.754351,
+      "longitude": 15.078593
+    },
+    {
+      "name": "Seniorenhaus \"Bernstein\"",
+      "latitude": 50.611011,
+      "longitude": 13.435659
+    },
+    {
+      "name": "Seniorenhaus an der Spree",
+      "latitude": 51.046036,
+      "longitude": 14.480962
+    },
+    {
+      "name": "Seniorenpension in Rübenau",
+      "latitude": 50.58218,
+      "longitude": 13.32214
+    },
+    {
+      "name": "Seniorresidenz",
+      "latitude": 48.912958,
+      "longitude": 13.762734
+    },
+    {
+      "name": "Slezská diakonie – Sociální asistence Jablunkov",
+      "latitude": 49.585746,
+      "longitude": 18.762392
+    },
+    {
+      "name": "Slunné stáří",
+      "latitude": 50.125096,
+      "longitude": 14.495391
+    },
+    {
+      "name": "Socio Info Point",
+      "latitude": 49.191421,
+      "longitude": 16.615344
+    },
+    {
+      "name": "Sociální centrum Kraje Vysočina",
+      "latitude": 49.396792,
+      "longitude": 15.567056
+    },
+    {
+      "name": "Sociální služby města Hradec Králové, z. ú.",
+      "latitude": 50.206867,
+      "longitude": 15.807084
+    },
+    {
+      "name": "Sociální služby města Pardubic",
+      "latitude": 50.031729,
+      "longitude": 15.782938
+    },
+    {
+      "name": "Sociální služby města Pardubic - Pečovatelská služba",
+      "latitude": 50.041569,
+      "longitude": 15.749157
+    },
+    {
+      "name": "Sociální služby Pačlavice",
+      "latitude": 49.257711,
+      "longitude": 17.16929
+    },
+    {
+      "name": "Sociální služby SOVY o.p.s.",
+      "latitude": 48.807807,
+      "longitude": 14.316728
+    },
+    {
+      "name": "Sociální služby Šebetov",
+      "latitude": 49.546749,
+      "longitude": 16.714796
+    },
+    {
+      "name": "SOS dětská vesnička",
+      "latitude": 49.3968,
+      "longitude": 17.699294
+    },
+    {
+      "name": "SOS Vesnička",
+      "latitude": 49.238109,
+      "longitude": 16.580137
+    },
+    {
+      "name": "Speciální domov pro mentálně postiženou mládež",
+      "latitude": 50.13046,
+      "longitude": 14.398019
+    },
+    {
+      "name": "Spokojený domov",
+      "latitude": 50.496031,
+      "longitude": 14.965251
+    },
+    {
+      "name": "Spokojna Przystań - Prywatny Dom Opieki",
+      "latitude": 50.112156,
+      "longitude": 17.651354
+    },
+    {
+      "name": "Společnost pro ranou péči",
+      "latitude": 49.171597,
+      "longitude": 16.581147
+    },
+    {
+      "name": "St. Vitusheim",
+      "latitude": 48.722541,
+      "longitude": 16.378759
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 50.248561,
+      "longitude": 15.203215
+    },
+    {
+      "name": "Středisko komplexní sociální péče",
+      "latitude": 50.137046,
+      "longitude": 14.109508
+    },
+    {
+      "name": "Středisko pomoci ohroženým dětem Rosa",
+      "latitude": 50.142065,
+      "longitude": 14.075867
+    },
+    {
+      "name": "Středisko rané péče v Pardubicích o.p.s.",
+      "latitude": 50.046981,
+      "longitude": 15.75952
+    },
+    {
+      "name": "Středisko sv. Alžběty - Pečovatelská služba",
+      "latitude": 49.57318,
+      "longitude": 17.251415
+    },
+    {
+      "name": "SÁRA - azylový dům pro ženy",
+      "latitude": 49.690387,
+      "longitude": 18.358817
+    },
+    {
+      "name": "Teen Challenge International ČR",
+      "latitude": 50.132114,
+      "longitude": 14.415792
+    },
+    {
+      "name": "Terasy Senior Residence",
+      "latitude": 49.773043,
+      "longitude": 13.368517
+    },
+    {
+      "name": "Toreal,s.r.o.",
+      "latitude": 50.193127,
+      "longitude": 12.682139
+    },
+    {
+      "name": "Trianon, z.s.",
+      "latitude": 49.740946,
+      "longitude": 18.61645
+    },
+    {
+      "name": "TyfloCentrum Pardubice, o.p.s.",
+      "latitude": 50.03626,
+      "longitude": 15.759221
+    },
+    {
+      "name": "U Přehrady, domov pro seniory",
+      "latitude": 50.734754,
+      "longitude": 15.178477
+    },
+    {
+      "name": "Valašskokloboucká poliklinika",
+      "latitude": 49.144032,
+      "longitude": 18.013956
+    },
+    {
+      "name": "VDK Ortsverband Philippsreut",
+      "latitude": 48.883772,
+      "longitude": 13.656114
+    },
+    {
+      "name": "Veřejné lednice Praha - Public fridges Prague",
+      "latitude": 50.049929,
+      "longitude": 14.431598
+    },
+    {
+      "name": "Vila Vlaďka",
+      "latitude": 49.296012,
+      "longitude": 16.578581
+    },
+    {
+      "name": "Villa Blume",
+      "latitude": 50.976525,
+      "longitude": 14.273244
+    },
+    {
+      "name": "VODA - linka důvěry",
+      "latitude": 50.14376,
+      "longitude": 14.12013
+    },
+    {
+      "name": "Výchovný ústav",
+      "latitude": 49.42714,
+      "longitude": 17.588879
+    },
+    {
+      "name": "Výchovný ústav Ostrava-Hrabůvka, oddělení Frýdek-Místek",
+      "latitude": 49.670673,
+      "longitude": 18.350924
+    },
+    {
+      "name": "Yamakawa Seniorenhaus",
+      "latitude": 50.094763,
+      "longitude": 12.222026
+    },
+    {
+      "name": "Za Sklem",
+      "latitude": 50.117052,
+      "longitude": 14.489622
+    },
+    {
+      "name": "Zahrada, poskytovatel sociálních služeb",
+      "latitude": 50.142173,
+      "longitude": 14.108406
+    },
+    {
+      "name": "Zet-My",
+      "latitude": 49.568652,
+      "longitude": 17.235226
+    },
+    {
+      "name": "Zvoneček Bylany",
+      "latitude": 50.008075,
+      "longitude": 15.208969
+    },
+    {
+      "name": "Záchytný uprchlický tábor Vyšní Lhoty",
+      "latitude": 49.63759,
+      "longitude": 18.462328
+    },
+    {
+      "name": "Zámeček",
+      "latitude": 49.433564,
+      "longitude": 15.211572
+    },
+    {
+      "name": "Zámeček Střelice",
+      "latitude": 49.151011,
+      "longitude": 16.471405
+    },
+    {
+      "name": "ústav Kociánka",
+      "latitude": 49.225643,
+      "longitude": 16.605203
+    },
+    {
+      "name": "Ústav soc. péče pro mládež",
+      "latitude": 49.044685,
+      "longitude": 17.457679
+    },
+    {
+      "name": "Ústav sociální péče pro zrakově postižené",
+      "latitude": 49.135741,
+      "longitude": 16.652477
+    },
+    {
+      "name": "Červený Mlýn Všestudy",
+      "latitude": 50.293032,
+      "longitude": 14.333864
+    },
+    {
+      "name": "Červánky - pobytové odlehčovací služby Třebosice",
+      "latitude": 49.998387,
+      "longitude": 15.733497
+    },
+    {
+      "name": "Česká správa sociálního zabezpečení",
+      "latitude": 49.95521,
+      "longitude": 15.270753
+    },
+    {
+      "name": "Świetlica Środowiskowa",
+      "latitude": 50.442122,
+      "longitude": 16.248721
+    },
+    {
+      "name": "Šance",
+      "latitude": 49.049503,
+      "longitude": 16.309165
+    },
+    {
+      "name": "Šarlota Resort & Care",
+      "latitude": 49.863627,
+      "longitude": 14.538818
+    },
+    {
+      "name": "Šatník",
+      "latitude": 49.192921,
+      "longitude": 16.603532
+    },
+    {
+      "name": "Štíbor - Mestské centrum sociálnych služieb",
+      "latitude": 48.846952,
+      "longitude": 17.231822
+    },
+    {
+      "name": "Žirafa - Integrované centrum",
+      "latitude": 49.673189,
+      "longitude": 18.337086
+    },
+    {
+      "name": "Žirafa - terapeutické dílny",
+      "latitude": 49.671372,
+      "longitude": 18.338179
+    },
+    {
+      "name": "Život 90",
+      "latitude": 50.083659,
+      "longitude": 14.414452
+    },
+    {
+      "name": "Život plus",
+      "latitude": 49.957442,
+      "longitude": 15.278011
+    }
+  ],
+  "meta": {
+    "title": "Sociální zařízení - Stáhnout zdarma",
+    "description": "Sociální zařízení v České republice (591 záznamů) — body zájmu z OpenStreetMap (tag amenity=social_facility), výřez EU-POIS/CZ. Obsahuje 591 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Sociální zařízení | ListBase",
+    "seo_description": "Stáhnout Sociální zařízení — 591 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 591 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

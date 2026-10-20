@@ -1,0 +1,2201 @@
+{
+  "id": "cs-zubni-ordinace",
+  "name": "České zubní ordinace",
+  "title": "České zubní ordinace",
+  "description": "Seznam pojmenovaných zubních ordinací v Česku (amenity=dentist) z OpenStreetMap.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 432,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2D Dent",
+      "latitude": 48.978469,
+      "longitude": 14.471218
+    },
+    {
+      "name": "3DK Dentální klinika",
+      "latitude": 50.074701,
+      "longitude": 14.468479
+    },
+    {
+      "name": "Acedental",
+      "latitude": 50.107937,
+      "longitude": 14.438011
+    },
+    {
+      "name": "ADent",
+      "latitude": 49.181747,
+      "longitude": 16.562597
+    },
+    {
+      "name": "Adonis Dental",
+      "latitude": 50.261417,
+      "longitude": 14.516886
+    },
+    {
+      "name": "Affident",
+      "latitude": 50.080472,
+      "longitude": 14.487251
+    },
+    {
+      "name": "AJNA dental clinic",
+      "latitude": 49.834795,
+      "longitude": 18.284938
+    },
+    {
+      "name": "Akribie H+B",
+      "latitude": 48.861066,
+      "longitude": 16.051816
+    },
+    {
+      "name": "Amati Dental Clinic",
+      "latitude": 50.101925,
+      "longitude": 14.425555
+    },
+    {
+      "name": "ANDENTAL s.r.o. Zubní ordinace",
+      "latitude": 49.313527,
+      "longitude": 16.478902
+    },
+    {
+      "name": "Anton Slupytský",
+      "latitude": 50.069222,
+      "longitude": 14.486885
+    },
+    {
+      "name": "APEX medical centrum",
+      "latitude": 49.514915,
+      "longitude": 17.063617
+    },
+    {
+      "name": "Arculum",
+      "latitude": 49.208933,
+      "longitude": 16.555077
+    },
+    {
+      "name": "ARIES - stomatologické centrum",
+      "latitude": 50.392508,
+      "longitude": 16.009906
+    },
+    {
+      "name": "ArtDental",
+      "latitude": 50.090821,
+      "longitude": 14.440413
+    },
+    {
+      "name": "Ascendent",
+      "latitude": 49.173767,
+      "longitude": 16.527829
+    },
+    {
+      "name": "ASTACUSTOM s.r.o.",
+      "latitude": 50.105435,
+      "longitude": 13.721614
+    },
+    {
+      "name": "Astella",
+      "latitude": 50.125813,
+      "longitude": 14.457724
+    },
+    {
+      "name": "AZ medica shop / alfadental",
+      "latitude": 50.106961,
+      "longitude": 14.449649
+    },
+    {
+      "name": "B & B Dent",
+      "latitude": 49.681962,
+      "longitude": 18.355618
+    },
+    {
+      "name": "Barrandov Smile",
+      "latitude": 50.030956,
+      "longitude": 14.365693
+    },
+    {
+      "name": "Bellis dent",
+      "latitude": 50.109584,
+      "longitude": 14.452991
+    },
+    {
+      "name": "Blackdent",
+      "latitude": 49.215308,
+      "longitude": 16.499619
+    },
+    {
+      "name": "BohemiaDent s.r.o",
+      "latitude": 50.055304,
+      "longitude": 14.42678
+    },
+    {
+      "name": "Brandeis Clinic",
+      "latitude": 50.08835,
+      "longitude": 14.426944
+    },
+    {
+      "name": "Cenessto",
+      "latitude": 49.202535,
+      "longitude": 16.606623
+    },
+    {
+      "name": "Collegium Dentalis",
+      "latitude": 49.59181,
+      "longitude": 17.269564
+    },
+    {
+      "name": "Czech Swiss Dental Clinic",
+      "latitude": 50.05256,
+      "longitude": 14.28584
+    },
+    {
+      "name": "d'vision",
+      "latitude": 50.07815,
+      "longitude": 14.439854
+    },
+    {
+      "name": "Dagmar Hrbková",
+      "latitude": 49.243259,
+      "longitude": 16.673389
+    },
+    {
+      "name": "DaliDENT",
+      "latitude": 49.207373,
+      "longitude": 16.620634
+    },
+    {
+      "name": "DD-DentaTech",
+      "latitude": 49.523796,
+      "longitude": 17.588048
+    },
+    {
+      "name": "DEC-Dent, s.r.o.",
+      "latitude": 50.382063,
+      "longitude": 13.268968
+    },
+    {
+      "name": "Delos Dental",
+      "latitude": 50.115738,
+      "longitude": 14.471191
+    },
+    {
+      "name": "Dent Clinic",
+      "latitude": 49.610996,
+      "longitude": 15.568704
+    },
+    {
+      "name": "Dent Medico",
+      "latitude": 50.084809,
+      "longitude": 14.43655
+    },
+    {
+      "name": "Dent Medico Futurama",
+      "latitude": 50.095276,
+      "longitude": 14.464158
+    },
+    {
+      "name": "Dental Academy s.r.o.",
+      "latitude": 50.220267,
+      "longitude": 12.19076
+    },
+    {
+      "name": "Dental Care Clinic, s.r.o.",
+      "latitude": 50.500321,
+      "longitude": 13.665727
+    },
+    {
+      "name": "Dental clinic Magic Smile",
+      "latitude": 50.076861,
+      "longitude": 14.418594
+    },
+    {
+      "name": "Dental Cover",
+      "latitude": 50.091367,
+      "longitude": 14.449203
+    },
+    {
+      "name": "Dental Estetik",
+      "latitude": 49.220892,
+      "longitude": 16.585469
+    },
+    {
+      "name": "Dental Lounge",
+      "latitude": 50.194705,
+      "longitude": 15.865062
+    },
+    {
+      "name": "Dental Smile",
+      "latitude": 50.201501,
+      "longitude": 15.844364
+    },
+    {
+      "name": "DENTAL SMILE s.r.o.",
+      "latitude": 48.806508,
+      "longitude": 14.312412
+    },
+    {
+      "name": "DentalCare",
+      "latitude": 48.939558,
+      "longitude": 14.464667
+    },
+    {
+      "name": "Dentalife - Stomatologické centrum",
+      "latitude": 49.592665,
+      "longitude": 18.148898
+    },
+    {
+      "name": "Dentapiro",
+      "latitude": 49.218459,
+      "longitude": 16.553257
+    },
+    {
+      "name": "Dentdelion - zubní ordinace",
+      "latitude": 49.836758,
+      "longitude": 18.295599
+    },
+    {
+      "name": "Dentino clinic",
+      "latitude": 49.200925,
+      "longitude": 16.625865
+    },
+    {
+      "name": "DentIQ",
+      "latitude": 49.1995,
+      "longitude": 16.590944
+    },
+    {
+      "name": "Dentista",
+      "latitude": 49.732241,
+      "longitude": 18.619488
+    },
+    {
+      "name": "Dentista",
+      "latitude": 49.7444,
+      "longitude": 13.334852
+    },
+    {
+      "name": "Dentistar",
+      "latitude": 49.151695,
+      "longitude": 16.881946
+    },
+    {
+      "name": "DentPra",
+      "latitude": 50.032905,
+      "longitude": 15.766726
+    },
+    {
+      "name": "DentPra",
+      "latitude": 50.037571,
+      "longitude": 15.760158
+    },
+    {
+      "name": "Dentální Hygiena",
+      "latitude": 49.179467,
+      "longitude": 16.679542
+    },
+    {
+      "name": "Dentální hygiena",
+      "latitude": 49.592989,
+      "longitude": 17.269779
+    },
+    {
+      "name": "Dentální hygiena",
+      "latitude": 49.596256,
+      "longitude": 17.250428
+    },
+    {
+      "name": "Dentální hygiena",
+      "latitude": 50.192261,
+      "longitude": 15.849663
+    },
+    {
+      "name": "Dentální hygiena - Žádné kazy",
+      "latitude": 50.085222,
+      "longitude": 14.421064
+    },
+    {
+      "name": "Dentální hygiena Andrea Osladilová, DiS.",
+      "latitude": 49.966501,
+      "longitude": 16.981984
+    },
+    {
+      "name": "Dentální hygiena Kučerová Iva, DiS.",
+      "latitude": 49.07704,
+      "longitude": 17.446326
+    },
+    {
+      "name": "Dentální hygiena Olexandr Semchuk",
+      "latitude": 50.024539,
+      "longitude": 15.207898
+    },
+    {
+      "name": "Devident",
+      "latitude": 50.071833,
+      "longitude": 14.503797
+    },
+    {
+      "name": "Dipl.-Stom. U. Fasold Zahnarzt",
+      "latitude": 50.97594,
+      "longitude": 14.280045
+    },
+    {
+      "name": "Dizzydent",
+      "latitude": 49.178767,
+      "longitude": 16.601799
+    },
+    {
+      "name": "Dobrizubari",
+      "latitude": 50.054887,
+      "longitude": 14.531529
+    },
+    {
+      "name": "Dolident",
+      "latitude": 50.738196,
+      "longitude": 15.027138
+    },
+    {
+      "name": "Dolident s.r.o.",
+      "latitude": 50.738571,
+      "longitude": 15.02733
+    },
+    {
+      "name": "Dovol si úsměv",
+      "latitude": 49.541405,
+      "longitude": 15.362305
+    },
+    {
+      "name": "Dr. Klešpová",
+      "latitude": 50.086444,
+      "longitude": 14.408156
+    },
+    {
+      "name": "Dr. Luboš Kudrna",
+      "latitude": 49.259931,
+      "longitude": 15.235746
+    },
+    {
+      "name": "Dr. med. dent. Alexander Steinberg",
+      "latitude": 51.043543,
+      "longitude": 14.47737
+    },
+    {
+      "name": "Dr. Pavel Cincibus",
+      "latitude": 50.078105,
+      "longitude": 12.231369
+    },
+    {
+      "name": "Dr. Smile",
+      "latitude": 50.089504,
+      "longitude": 14.463746
+    },
+    {
+      "name": "Dr. Stanislav Mrkva",
+      "latitude": 49.259903,
+      "longitude": 15.235551
+    },
+    {
+      "name": "Dr. Štíbr",
+      "latitude": 50.105437,
+      "longitude": 13.721637
+    },
+    {
+      "name": "duocare",
+      "latitude": 49.208413,
+      "longitude": 16.604134
+    },
+    {
+      "name": "Dyodont",
+      "latitude": 50.024582,
+      "longitude": 15.207916
+    },
+    {
+      "name": "EDENT, spol. s r.o.",
+      "latitude": 49.218082,
+      "longitude": 17.641281
+    },
+    {
+      "name": "Eldent",
+      "latitude": 50.780263,
+      "longitude": 14.214554
+    },
+    {
+      "name": "Elite Dental Praha",
+      "latitude": 50.085381,
+      "longitude": 14.424917
+    },
+    {
+      "name": "Enamelic s.r.o.",
+      "latitude": 50.032834,
+      "longitude": 15.800667
+    },
+    {
+      "name": "EuroDent Ostrava",
+      "latitude": 49.837687,
+      "longitude": 18.29407
+    },
+    {
+      "name": "Gala Ortodoncie",
+      "latitude": 49.212821,
+      "longitude": 16.564466
+    },
+    {
+      "name": "Gruberovi-stomatologie s.r.o.",
+      "latitude": 49.638937,
+      "longitude": 13.159399
+    },
+    {
+      "name": "HAVLÍK DENTAL CLINIC",
+      "latitude": 48.858225,
+      "longitude": 16.059102
+    },
+    {
+      "name": "HB klinika",
+      "latitude": 50.105932,
+      "longitude": 13.728568
+    },
+    {
+      "name": "Heliodent s.r.o",
+      "latitude": 49.775972,
+      "longitude": 18.446765
+    },
+    {
+      "name": "idealsmile",
+      "latitude": 50.077885,
+      "longitude": 14.427019
+    },
+    {
+      "name": "Ivadent",
+      "latitude": 50.087181,
+      "longitude": 14.456855
+    },
+    {
+      "name": "Ivana Kusá",
+      "latitude": 49.212307,
+      "longitude": 16.601351
+    },
+    {
+      "name": "J-dental s.r.o.",
+      "latitude": 49.069118,
+      "longitude": 17.462334
+    },
+    {
+      "name": "Jan Císař, s.r.o.",
+      "latitude": 49.200198,
+      "longitude": 18.109534
+    },
+    {
+      "name": "Jan Joukl",
+      "latitude": 50.196073,
+      "longitude": 15.83802
+    },
+    {
+      "name": "Jana Bušová",
+      "latitude": 49.101891,
+      "longitude": 16.374326
+    },
+    {
+      "name": "Jana Mertliková",
+      "latitude": 50.192231,
+      "longitude": 15.849669
+    },
+    {
+      "name": "Jandent",
+      "latitude": 49.219111,
+      "longitude": 16.622126
+    },
+    {
+      "name": "KaHoSmile",
+      "latitude": 49.969118,
+      "longitude": 14.529201
+    },
+    {
+      "name": "Kašperky Dent - zubní ordinace",
+      "latitude": 49.142404,
+      "longitude": 13.554659
+    },
+    {
+      "name": "Kieferorthopadie H. Miersch",
+      "latitude": 50.357455,
+      "longitude": 12.469503
+    },
+    {
+      "name": "KL Dental, s.r.o.",
+      "latitude": 49.654505,
+      "longitude": 13.198659
+    },
+    {
+      "name": "Kocánová-Wander",
+      "latitude": 48.979743,
+      "longitude": 14.477372
+    },
+    {
+      "name": "KOLDADENT s.r.o.",
+      "latitude": 49.454397,
+      "longitude": 17.466234
+    },
+    {
+      "name": "Komdent",
+      "latitude": 49.208637,
+      "longitude": 16.549505
+    },
+    {
+      "name": "Kováč dental",
+      "latitude": 49.836817,
+      "longitude": 18.291806
+    },
+    {
+      "name": "Krásný úsměv",
+      "latitude": 49.591018,
+      "longitude": 17.269072
+    },
+    {
+      "name": "KS Dent",
+      "latitude": 50.04813,
+      "longitude": 15.763748
+    },
+    {
+      "name": "Kuk na zub",
+      "latitude": 49.750853,
+      "longitude": 18.613637
+    },
+    {
+      "name": "KukuDent",
+      "latitude": 49.191084,
+      "longitude": 16.620798
+    },
+    {
+      "name": "Kvalident",
+      "latitude": 50.07079,
+      "longitude": 14.415797
+    },
+    {
+      "name": "KZ-Dent",
+      "latitude": 50.790713,
+      "longitude": 15.06858
+    },
+    {
+      "name": "Ladente",
+      "latitude": 50.034486,
+      "longitude": 15.777117
+    },
+    {
+      "name": "Lamm",
+      "latitude": 50.118097,
+      "longitude": 14.491063
+    },
+    {
+      "name": "LK Denta",
+      "latitude": 49.250507,
+      "longitude": 16.588091
+    },
+    {
+      "name": "Louda",
+      "latitude": 49.199989,
+      "longitude": 16.613439
+    },
+    {
+      "name": "LUNA Dental s.r.o.",
+      "latitude": 49.860602,
+      "longitude": 18.255845
+    },
+    {
+      "name": "Manhartova zubárna",
+      "latitude": 50.098566,
+      "longitude": 14.433432
+    },
+    {
+      "name": "Margitta Diener",
+      "latitude": 50.976654,
+      "longitude": 14.274005
+    },
+    {
+      "name": "Marta Slavíková",
+      "latitude": 50.215158,
+      "longitude": 15.811115
+    },
+    {
+      "name": "Martin Dolana",
+      "latitude": 50.192223,
+      "longitude": 15.849441
+    },
+    {
+      "name": "MCDental",
+      "latitude": 50.073254,
+      "longitude": 14.468682
+    },
+    {
+      "name": "MDDr. Anna Medviňková - Dental Care",
+      "latitude": 50.080268,
+      "longitude": 14.426075
+    },
+    {
+      "name": "MDDr. Eva Kalusová",
+      "latitude": 49.925919,
+      "longitude": 18.270484
+    },
+    {
+      "name": "MDDr. Karel Fišer",
+      "latitude": 49.231454,
+      "longitude": 13.520908
+    },
+    {
+      "name": "MDDr. Lukáš Kohout",
+      "latitude": 49.235465,
+      "longitude": 13.521324
+    },
+    {
+      "name": "MDDr. Magdalena Rudová",
+      "latitude": 49.231234,
+      "longitude": 13.519566
+    },
+    {
+      "name": "MDDr. Miloslav Shakkour",
+      "latitude": 49.531723,
+      "longitude": 17.591761
+    },
+    {
+      "name": "MDDr. Petra Tomášková",
+      "latitude": 50.233788,
+      "longitude": 12.74719
+    },
+    {
+      "name": "MDDr. Radka Malušová",
+      "latitude": 49.331058,
+      "longitude": 17.573356
+    },
+    {
+      "name": "MDDr. Sylvie Konečná",
+      "latitude": 49.102321,
+      "longitude": 16.378514
+    },
+    {
+      "name": "MDDr. Tomáš Slavíček",
+      "latitude": 49.215569,
+      "longitude": 16.595267
+    },
+    {
+      "name": "MDDr. Veronika Kubásková",
+      "latitude": 49.972933,
+      "longitude": 16.392107
+    },
+    {
+      "name": "Medi Dent",
+      "latitude": 49.844515,
+      "longitude": 18.305748
+    },
+    {
+      "name": "MediClever",
+      "latitude": 50.077625,
+      "longitude": 14.487013
+    },
+    {
+      "name": "Medidental s.r.o.",
+      "latitude": 50.125933,
+      "longitude": 14.504889
+    },
+    {
+      "name": "Medifis",
+      "latitude": 49.216125,
+      "longitude": 17.635172
+    },
+    {
+      "name": "Miklas Dental Class - MDDr. Jiří Miklas",
+      "latitude": 48.858354,
+      "longitude": 16.482697
+    },
+    {
+      "name": "MILES dental care",
+      "latitude": 50.071963,
+      "longitude": 14.401294
+    },
+    {
+      "name": "MM zubní studio, s.r.o.",
+      "latitude": 50.034492,
+      "longitude": 15.777159
+    },
+    {
+      "name": "Modesto",
+      "latitude": 50.086069,
+      "longitude": 14.459888
+    },
+    {
+      "name": "Monika Grützmann",
+      "latitude": 50.35275,
+      "longitude": 12.427346
+    },
+    {
+      "name": "Moyo Dental Care s.r.o.",
+      "latitude": 49.478317,
+      "longitude": 15.651617
+    },
+    {
+      "name": "MS Smile",
+      "latitude": 49.827577,
+      "longitude": 18.273432
+    },
+    {
+      "name": "MSDent",
+      "latitude": 50.062935,
+      "longitude": 14.440626
+    },
+    {
+      "name": "MUDr Martina Vydrželová",
+      "latitude": 49.701622,
+      "longitude": 17.076412
+    },
+    {
+      "name": "MUDr Věra Hrubá, MUDr Friedrichová Gabriela",
+      "latitude": 49.638959,
+      "longitude": 13.159458
+    },
+    {
+      "name": "MUDr. Adamová",
+      "latitude": 49.547181,
+      "longitude": 16.574385
+    },
+    {
+      "name": "MUDr. Andrea Teclová",
+      "latitude": 49.63104,
+      "longitude": 15.490449
+    },
+    {
+      "name": "MUDr. Antonín Doležal",
+      "latitude": 49.005032,
+      "longitude": 14.761019
+    },
+    {
+      "name": "MUDr. Blanka Stojanovičová",
+      "latitude": 49.210571,
+      "longitude": 16.62447
+    },
+    {
+      "name": "MUDr. Dagmar Johnová",
+      "latitude": 50.051062,
+      "longitude": 14.346979
+    },
+    {
+      "name": "MUDr. Dagmar Páčová",
+      "latitude": 49.213092,
+      "longitude": 16.577179
+    },
+    {
+      "name": "MUDr. Dana Vacková",
+      "latitude": 49.91072,
+      "longitude": 16.612161
+    },
+    {
+      "name": "MUDr. Dana Švejková",
+      "latitude": 50.034889,
+      "longitude": 15.804642
+    },
+    {
+      "name": "MUDr. Daniel Hvězda",
+      "latitude": 50.103114,
+      "longitude": 13.722896
+    },
+    {
+      "name": "MUDr. Diana Stodůlková",
+      "latitude": 49.069564,
+      "longitude": 17.462907
+    },
+    {
+      "name": "MUDr. Dita Bergmanová",
+      "latitude": 50.203203,
+      "longitude": 15.788225
+    },
+    {
+      "name": "MUDr. Eva Habětínková",
+      "latitude": 50.048282,
+      "longitude": 15.760917
+    },
+    {
+      "name": "MUDr. Eva Maříková",
+      "latitude": 49.064862,
+      "longitude": 17.470384
+    },
+    {
+      "name": "MUDr. Eva Vyhnalová",
+      "latitude": 48.973196,
+      "longitude": 17.269789
+    },
+    {
+      "name": "MUDr. Feduňová Karolína",
+      "latitude": 50.695937,
+      "longitude": 15.736752
+    },
+    {
+      "name": "MUDr. František Balský",
+      "latitude": 50.410111,
+      "longitude": 16.156412
+    },
+    {
+      "name": "MUDr. František Placheta",
+      "latitude": 49.203579,
+      "longitude": 16.592547
+    },
+    {
+      "name": "MUDr. Hana Vaculíková",
+      "latitude": 49.334549,
+      "longitude": 17.578667
+    },
+    {
+      "name": "MUDr. Helena Slováková",
+      "latitude": 49.33129,
+      "longitude": 17.574907
+    },
+    {
+      "name": "MUDr. Hábl",
+      "latitude": 50.098291,
+      "longitude": 14.355435
+    },
+    {
+      "name": "Mudr. Irena Marešová",
+      "latitude": 48.851412,
+      "longitude": 16.055333
+    },
+    {
+      "name": "MUDr. Ivan Svoboda",
+      "latitude": 49.238374,
+      "longitude": 13.517031
+    },
+    {
+      "name": "MUDr. Ivana Bartošová",
+      "latitude": 50.215959,
+      "longitude": 15.747252
+    },
+    {
+      "name": "MUDr. Jan Loukota",
+      "latitude": 50.267224,
+      "longitude": 16.115243
+    },
+    {
+      "name": "MUDr. Jan Přibyl",
+      "latitude": 49.786306,
+      "longitude": 18.259214
+    },
+    {
+      "name": "MUDr. Jan Řízek",
+      "latitude": 50.087427,
+      "longitude": 14.463153
+    },
+    {
+      "name": "MUDr. Jana Doležalová",
+      "latitude": 49.24487,
+      "longitude": 16.579578
+    },
+    {
+      "name": "MUDr. Jana Filípková",
+      "latitude": 50.045919,
+      "longitude": 14.435891
+    },
+    {
+      "name": "MUDr. Jana Hajnyšová",
+      "latitude": 49.547953,
+      "longitude": 16.833627
+    },
+    {
+      "name": "MUDr. Jana Illová",
+      "latitude": 49.627228,
+      "longitude": 16.522511
+    },
+    {
+      "name": "MUDr. Jana Kopáčková (Gebauerová)",
+      "latitude": 49.209784,
+      "longitude": 16.596679
+    },
+    {
+      "name": "MUDr. Jana Lamborová",
+      "latitude": 49.23123,
+      "longitude": 13.519579
+    },
+    {
+      "name": "MUDr. Jana Černá",
+      "latitude": 49.315935,
+      "longitude": 18.145482
+    },
+    {
+      "name": "MUDr. Jana Žlebková",
+      "latitude": 50.21766,
+      "longitude": 15.856068
+    },
+    {
+      "name": "MUDr. Jarmila Holmanová",
+      "latitude": 49.834329,
+      "longitude": 13.904432
+    },
+    {
+      "name": "MUDr. Jaroslav Herold",
+      "latitude": 50.149404,
+      "longitude": 12.648107
+    },
+    {
+      "name": "MUDr. Jitka Harabišová",
+      "latitude": 49.550056,
+      "longitude": 18.203421
+    },
+    {
+      "name": "MUDr. Jiřina Poljaková",
+      "latitude": 50.185133,
+      "longitude": 15.83224
+    },
+    {
+      "name": "Mudr. Jiří Jedlička",
+      "latitude": 49.23074,
+      "longitude": 16.590203
+    },
+    {
+      "name": "MUDr. Jiří Jeřábek",
+      "latitude": 49.069162,
+      "longitude": 17.462365
+    },
+    {
+      "name": "MUDr. Jiří Záplata",
+      "latitude": 50.42529,
+      "longitude": 15.87641
+    },
+    {
+      "name": "MUDr. Karel Pícha",
+      "latitude": 48.933971,
+      "longitude": 14.616161
+    },
+    {
+      "name": "MUDr. Katarína Dospivová - Stomatológia",
+      "latitude": 48.788368,
+      "longitude": 17.119527
+    },
+    {
+      "name": "MUDr. Kateřina Zrubcová",
+      "latitude": 50.10311,
+      "longitude": 13.722865
+    },
+    {
+      "name": "MUDr. Klára Blahutová",
+      "latitude": 49.777514,
+      "longitude": 13.375721
+    },
+    {
+      "name": "Mudr. Klára Matoušková",
+      "latitude": 50.209162,
+      "longitude": 15.838206
+    },
+    {
+      "name": "MUDr. Kopejtko",
+      "latitude": 49.963681,
+      "longitude": 12.701834
+    },
+    {
+      "name": "MUDr. Květa Stavělová",
+      "latitude": 49.450057,
+      "longitude": 17.163432
+    },
+    {
+      "name": "MUDr. Libor Milotínský",
+      "latitude": 49.920997,
+      "longitude": 15.820162
+    },
+    {
+      "name": "MUDr. Libuše Plášilová - stomatolog",
+      "latitude": 50.041326,
+      "longitude": 15.806393
+    },
+    {
+      "name": "MUDr. Lubomír Navrátil",
+      "latitude": 48.980182,
+      "longitude": 17.218595
+    },
+    {
+      "name": "MUDr. Ludmila Wiedermannová",
+      "latitude": 49.701611,
+      "longitude": 17.076413
+    },
+    {
+      "name": "MUDr. Lukáš Mer",
+      "latitude": 49.837693,
+      "longitude": 18.294143
+    },
+    {
+      "name": "Mudr. Látal",
+      "latitude": 49.222201,
+      "longitude": 15.88406
+    },
+    {
+      "name": "MUDr. Marcel Pekárek - Stomatologická s.r.o.",
+      "latitude": 50.041297,
+      "longitude": 15.80633
+    },
+    {
+      "name": "MUDr. Marcela Klementová",
+      "latitude": 50.539511,
+      "longitude": 14.536528
+    },
+    {
+      "name": "MUDr. Mariana Bárová",
+      "latitude": 49.186881,
+      "longitude": 16.586602
+    },
+    {
+      "name": "MUDr. Marie Kellermannová",
+      "latitude": 49.231258,
+      "longitude": 13.519579
+    },
+    {
+      "name": "MUDr. Markéta Sákrová - Praktický zubní lékař",
+      "latitude": 50.031987,
+      "longitude": 15.803807
+    },
+    {
+      "name": "MUDr. Martin Štefka",
+      "latitude": 49.601985,
+      "longitude": 17.259691
+    },
+    {
+      "name": "MUDr. Martina Vodičková",
+      "latitude": 50.045841,
+      "longitude": 14.443267
+    },
+    {
+      "name": "MUDr. Matyšková Margita",
+      "latitude": 48.984197,
+      "longitude": 16.149036
+    },
+    {
+      "name": "MUDr. Michal Schmalz",
+      "latitude": 49.705,
+      "longitude": 17.072377
+    },
+    {
+      "name": "MUDr. Michal Svoboda",
+      "latitude": 49.238357,
+      "longitude": 13.517019
+    },
+    {
+      "name": "MUDr. Michal Ugwitz",
+      "latitude": 49.203487,
+      "longitude": 16.877628
+    },
+    {
+      "name": "MUDr. Milan Semerád s.r.o.",
+      "latitude": 50.227282,
+      "longitude": 17.201494
+    },
+    {
+      "name": "MUDr. Miroslav Roháč",
+      "latitude": 50.543209,
+      "longitude": 15.710822
+    },
+    {
+      "name": "MUDr. Naděžda Benešová zubní praxe",
+      "latitude": 50.027543,
+      "longitude": 15.199403
+    },
+    {
+      "name": "MUDr. Naděžda Ildžová",
+      "latitude": 49.231224,
+      "longitude": 13.519563
+    },
+    {
+      "name": "MUDr. Naděžda Pavlíčková",
+      "latitude": 48.972138,
+      "longitude": 17.084766
+    },
+    {
+      "name": "Mudr. Ožďan",
+      "latitude": 50.395307,
+      "longitude": 16.042638
+    },
+    {
+      "name": "MUDr. Petr Blecha",
+      "latitude": 49.743041,
+      "longitude": 13.590508
+    },
+    {
+      "name": "MUDr. Petra Kolečková",
+      "latitude": 50.195735,
+      "longitude": 15.844957
+    },
+    {
+      "name": "MUDr. Petra Pauločáková",
+      "latitude": 49.168183,
+      "longitude": 16.56503
+    },
+    {
+      "name": "Mudr. Pumprová - zubní lékařka",
+      "latitude": 49.08316,
+      "longitude": 14.718428
+    },
+    {
+      "name": "MUDr. Přemek Votruba",
+      "latitude": 49.88797,
+      "longitude": 15.532898
+    },
+    {
+      "name": "MUDr. Renata Doubravská",
+      "latitude": 50.273274,
+      "longitude": 17.251426
+    },
+    {
+      "name": "MUDr. Richard Klail – zubní ambulance",
+      "latitude": 49.957355,
+      "longitude": 15.277439
+    },
+    {
+      "name": "MUDr. Soňa Dvořáčková",
+      "latitude": 49.210804,
+      "longitude": 16.62753
+    },
+    {
+      "name": "Mudr. Střítezská",
+      "latitude": 50.658308,
+      "longitude": 13.724366
+    },
+    {
+      "name": "MUDr. Sylva Stejskalová",
+      "latitude": 50.106481,
+      "longitude": 14.396016
+    },
+    {
+      "name": "MUDr. Sylva Urbančíková",
+      "latitude": 49.220768,
+      "longitude": 16.588017
+    },
+    {
+      "name": "MUDr. Tereza Mašková",
+      "latitude": 49.233946,
+      "longitude": 13.524444
+    },
+    {
+      "name": "MUDr. Varadinková",
+      "latitude": 49.200369,
+      "longitude": 16.874307
+    },
+    {
+      "name": "MUDr. Vladimír Ščigel, Ph.D, MBA",
+      "latitude": 50.072034,
+      "longitude": 14.456251
+    },
+    {
+      "name": "MUDr. Vojtěch Babič",
+      "latitude": 49.206854,
+      "longitude": 16.60166
+    },
+    {
+      "name": "MUDr. Václav Volf",
+      "latitude": 49.231243,
+      "longitude": 13.519574
+    },
+    {
+      "name": "MUDr. Zdeněk Nesvatba",
+      "latitude": 49.198719,
+      "longitude": 16.622513
+    },
+    {
+      "name": "MuDr. Zdeňka Malá",
+      "latitude": 49.779391,
+      "longitude": 13.374071
+    },
+    {
+      "name": "MUDr. Zdeňka Szufnarowská",
+      "latitude": 49.152605,
+      "longitude": 16.879631
+    },
+    {
+      "name": "MUDr. Zuzana Urbančíková",
+      "latitude": 49.220767,
+      "longitude": 16.588014
+    },
+    {
+      "name": "MUDr. Špok",
+      "latitude": 49.587819,
+      "longitude": 18.75727
+    },
+    {
+      "name": "MUDr.Irena Rybišarová",
+      "latitude": 50.128668,
+      "longitude": 14.483459
+    },
+    {
+      "name": "MUDr.Jan Havlovic",
+      "latitude": 49.958326,
+      "longitude": 15.290921
+    },
+    {
+      "name": "MUDr.Jiří Kubeš – JK Dental s.r.o.",
+      "latitude": 50.032028,
+      "longitude": 15.803843
+    },
+    {
+      "name": "myDENT",
+      "latitude": 50.083982,
+      "longitude": 14.37347
+    },
+    {
+      "name": "NatalDent",
+      "latitude": 49.979242,
+      "longitude": 15.210487
+    },
+    {
+      "name": "Nej dent",
+      "latitude": 50.078896,
+      "longitude": 14.446893
+    },
+    {
+      "name": "NesDent",
+      "latitude": 49.218704,
+      "longitude": 16.589245
+    },
+    {
+      "name": "Nikos s.r.o.",
+      "latitude": 50.194642,
+      "longitude": 15.840673
+    },
+    {
+      "name": "Norbert a Peter Braun",
+      "latitude": 49.964015,
+      "longitude": 16.987752
+    },
+    {
+      "name": "Novodent",
+      "latitude": 50.107986,
+      "longitude": 14.562506
+    },
+    {
+      "name": "Odstrčil",
+      "latitude": 49.214569,
+      "longitude": 16.629821
+    },
+    {
+      "name": "OK dental clinic",
+      "latitude": 50.14136,
+      "longitude": 14.481938
+    },
+    {
+      "name": "OneDent",
+      "latitude": 49.20687,
+      "longitude": 16.61892
+    },
+    {
+      "name": "Ortho Dent",
+      "latitude": 49.200917,
+      "longitude": 16.64492
+    },
+    {
+      "name": "Orthodontist s.r.o.",
+      "latitude": 50.025419,
+      "longitude": 15.772189
+    },
+    {
+      "name": "Orthopoint",
+      "latitude": 50.106502,
+      "longitude": 14.396182
+    },
+    {
+      "name": "Ortodoncie",
+      "latitude": 49.658255,
+      "longitude": 18.649767
+    },
+    {
+      "name": "Ortodoncie Krumlov",
+      "latitude": 48.801946,
+      "longitude": 14.310643
+    },
+    {
+      "name": "ParoDent",
+      "latitude": 50.07609,
+      "longitude": 14.433259
+    },
+    {
+      "name": "Parodontologie",
+      "latitude": 49.592934,
+      "longitude": 17.269723
+    },
+    {
+      "name": "Pekárek",
+      "latitude": 50.033064,
+      "longitude": 14.498338
+    },
+    {
+      "name": "Peldent",
+      "latitude": 50.068845,
+      "longitude": 14.504058
+    },
+    {
+      "name": "PERFECT DENTAL, s.r.o.",
+      "latitude": 48.805485,
+      "longitude": 14.315606
+    },
+    {
+      "name": "Petra Meintzschel",
+      "latitude": 50.976784,
+      "longitude": 14.273948
+    },
+    {
+      "name": "Podkovka",
+      "latitude": 50.054631,
+      "longitude": 14.42143
+    },
+    {
+      "name": "Pohotovost - zubní",
+      "latitude": 49.580742,
+      "longitude": 17.235989
+    },
+    {
+      "name": "Pokorný",
+      "latitude": 49.822872,
+      "longitude": 18.17389
+    },
+    {
+      "name": "poliklinika",
+      "latitude": 50.248845,
+      "longitude": 14.313068
+    },
+    {
+      "name": "Poliklinika Hájek",
+      "latitude": 49.219806,
+      "longitude": 15.885433
+    },
+    {
+      "name": "Pošumavská zubní",
+      "latitude": 49.293345,
+      "longitude": 13.140605
+    },
+    {
+      "name": "Pracownia Techniki Dentystycznej",
+      "latitude": 49.750054,
+      "longitude": 18.628708
+    },
+    {
+      "name": "Praktická zubní lékařka MUDr. Silvie Mládková",
+      "latitude": 49.47189,
+      "longitude": 17.096761
+    },
+    {
+      "name": "Praktický zubní lékař",
+      "latitude": 50.126164,
+      "longitude": 14.568604
+    },
+    {
+      "name": "Praktický zubní lékař, paradontolog, stomatochirurg MUDr. Zbyněk Navara",
+      "latitude": 49.471842,
+      "longitude": 17.09677
+    },
+    {
+      "name": "Pražské dentální centrum Hostivař",
+      "latitude": 50.052236,
+      "longitude": 14.540516
+    },
+    {
+      "name": "Press DENT",
+      "latitude": 50.057654,
+      "longitude": 14.367718
+    },
+    {
+      "name": "Privátní zubní ordinace Lenártová, Ohlídalová",
+      "latitude": 49.19241,
+      "longitude": 16.638008
+    },
+    {
+      "name": "Profident",
+      "latitude": 49.597226,
+      "longitude": 18.141184
+    },
+    {
+      "name": "ProMag Dental",
+      "latitude": 50.049417,
+      "longitude": 14.346374
+    },
+    {
+      "name": "PRYMA DENTES",
+      "latitude": 49.78501,
+      "longitude": 18.45434
+    },
+    {
+      "name": "PureDent",
+      "latitude": 50.127171,
+      "longitude": 14.472646
+    },
+    {
+      "name": "Resch Dent",
+      "latitude": 49.200896,
+      "longitude": 16.644737
+    },
+    {
+      "name": "RF Dental - Dentální hygiena Zlín",
+      "latitude": 49.221164,
+      "longitude": 17.654145
+    },
+    {
+      "name": "Ridere s.r.o",
+      "latitude": 49.217096,
+      "longitude": 16.61699
+    },
+    {
+      "name": "Ridet",
+      "latitude": 50.03404,
+      "longitude": 14.485277
+    },
+    {
+      "name": "Rodinné zubní centrum",
+      "latitude": 50.032773,
+      "longitude": 15.800622
+    },
+    {
+      "name": "Romana Čiháková",
+      "latitude": 50.192214,
+      "longitude": 15.849672
+    },
+    {
+      "name": "Royal dent",
+      "latitude": 50.22797,
+      "longitude": 12.857732
+    },
+    {
+      "name": "sadent",
+      "latitude": 50.306673,
+      "longitude": 12.950339
+    },
+    {
+      "name": "SalaDent",
+      "latitude": 50.048129,
+      "longitude": 15.763735
+    },
+    {
+      "name": "Sali medical dent",
+      "latitude": 50.128596,
+      "longitude": 14.477684
+    },
+    {
+      "name": "Salvadora",
+      "latitude": 50.101043,
+      "longitude": 14.396794
+    },
+    {
+      "name": "Sanus dens s.r.o.",
+      "latitude": 49.949556,
+      "longitude": 14.314476
+    },
+    {
+      "name": "Semančo",
+      "latitude": 49.222898,
+      "longitude": 16.598289
+    },
+    {
+      "name": "Senident",
+      "latitude": 50.056369,
+      "longitude": 14.368194
+    },
+    {
+      "name": "Sens Dental Clinic",
+      "latitude": 50.135594,
+      "longitude": 14.379747
+    },
+    {
+      "name": "Silesia dent - MDDr. Jiří ADAMEC",
+      "latitude": 49.68387,
+      "longitude": 18.355719
+    },
+    {
+      "name": "Smile centrum",
+      "latitude": 50.117819,
+      "longitude": 14.459733
+    },
+    {
+      "name": "Smile Centrum",
+      "latitude": 50.140886,
+      "longitude": 14.517573
+    },
+    {
+      "name": "Smile Centrum Vinohrady",
+      "latitude": 50.070615,
+      "longitude": 14.4319
+    },
+    {
+      "name": "Smile D.C. s.r.o.",
+      "latitude": 49.639477,
+      "longitude": 14.252868
+    },
+    {
+      "name": "Smile Time",
+      "latitude": 50.122804,
+      "longitude": 14.497273
+    },
+    {
+      "name": "SofiDent",
+      "latitude": 50.065054,
+      "longitude": 14.410001
+    },
+    {
+      "name": "Sorriso",
+      "latitude": 49.185337,
+      "longitude": 16.595001
+    },
+    {
+      "name": "Soukromá stomatologická ordinace",
+      "latitude": 48.812844,
+      "longitude": 14.324574
+    },
+    {
+      "name": "Soukromá stomatologická ordinace",
+      "latitude": 50.163196,
+      "longitude": 14.748503
+    },
+    {
+      "name": "SPADIA LAB",
+      "latitude": 49.771366,
+      "longitude": 18.449835
+    },
+    {
+      "name": "Star-Dent clinic s.r.o.",
+      "latitude": 49.524895,
+      "longitude": 18.751866
+    },
+    {
+      "name": "Stom Care Clinic",
+      "latitude": 49.223023,
+      "longitude": 16.513923
+    },
+    {
+      "name": "Stomat Art s. r. o.",
+      "latitude": 50.411492,
+      "longitude": 14.928663
+    },
+    {
+      "name": "Stomatochirurgie",
+      "latitude": 48.9417,
+      "longitude": 16.73719
+    },
+    {
+      "name": "Stomatolog - MUDr. Anna Býmová, MUDr. Jiří Býma",
+      "latitude": 49.798212,
+      "longitude": 18.480846
+    },
+    {
+      "name": "Stomatolog - MUDr. Dagmar Kubinová",
+      "latitude": 49.797256,
+      "longitude": 18.48336
+    },
+    {
+      "name": "Stomatologická ambulance",
+      "latitude": 50.519581,
+      "longitude": 14.976764
+    },
+    {
+      "name": "Stomatologická ordinace",
+      "latitude": 48.978471,
+      "longitude": 14.457736
+    },
+    {
+      "name": "Stomatologická ordinace",
+      "latitude": 49.223375,
+      "longitude": 16.582596
+    },
+    {
+      "name": "Stomatologická ordinace",
+      "latitude": 50.039556,
+      "longitude": 14.507086
+    },
+    {
+      "name": "Stomatologická ordinace",
+      "latitude": 50.049173,
+      "longitude": 14.326368
+    },
+    {
+      "name": "Stomatologická ordinace Klinovská, s.r.o.",
+      "latitude": 48.82089,
+      "longitude": 14.313801
+    },
+    {
+      "name": "Stomatologická pohotovost",
+      "latitude": 50.682345,
+      "longitude": 14.026687
+    },
+    {
+      "name": "Stomatologická praxe",
+      "latitude": 49.596246,
+      "longitude": 17.250431
+    },
+    {
+      "name": "Stomatologické centrum Háje",
+      "latitude": 50.032228,
+      "longitude": 14.530233
+    },
+    {
+      "name": "Stomatologické centrum u svaté Anny",
+      "latitude": 49.05506,
+      "longitude": 13.77763
+    },
+    {
+      "name": "Stomatologické středisko",
+      "latitude": 50.535585,
+      "longitude": 14.125557
+    },
+    {
+      "name": "Stomatologie",
+      "latitude": 50.104461,
+      "longitude": 14.395274
+    },
+    {
+      "name": "Stomatologie",
+      "latitude": 50.175598,
+      "longitude": 14.412928
+    },
+    {
+      "name": "Stomatologie Hronovická s.r.o.",
+      "latitude": 50.03361,
+      "longitude": 15.773029
+    },
+    {
+      "name": "Stomatologie Husova s.r.o.",
+      "latitude": 49.745403,
+      "longitude": 13.368995
+    },
+    {
+      "name": "Stomatologie Klonová",
+      "latitude": 50.034482,
+      "longitude": 14.554968
+    },
+    {
+      "name": "Stomatologie Smile Centrum",
+      "latitude": 50.105406,
+      "longitude": 14.502025
+    },
+    {
+      "name": "Stomatologie Vyhlídka",
+      "latitude": 50.047191,
+      "longitude": 14.344718
+    },
+    {
+      "name": "Stomatologie Česky Těšín s.r.o.",
+      "latitude": 49.737411,
+      "longitude": 18.620604
+    },
+    {
+      "name": "Stomcentrum",
+      "latitude": 50.024553,
+      "longitude": 15.20794
+    },
+    {
+      "name": "StomChirCentrum.cz",
+      "latitude": 49.592684,
+      "longitude": 17.275879
+    },
+    {
+      "name": "Stomma - Stomatologické centrum",
+      "latitude": 48.757369,
+      "longitude": 16.879366
+    },
+    {
+      "name": "Stomped",
+      "latitude": 50.034353,
+      "longitude": 14.411674
+    },
+    {
+      "name": "Studio 32",
+      "latitude": 50.058272,
+      "longitude": 14.464087
+    },
+    {
+      "name": "Studio Elite Smile",
+      "latitude": 49.214296,
+      "longitude": 16.571789
+    },
+    {
+      "name": "Supradent",
+      "latitude": 49.206527,
+      "longitude": 16.619913
+    },
+    {
+      "name": "Supreme dental",
+      "latitude": 49.21143,
+      "longitude": 16.589655
+    },
+    {
+      "name": "Syndenta",
+      "latitude": 49.190122,
+      "longitude": 16.58282
+    },
+    {
+      "name": "T&T Smile",
+      "latitude": 49.223934,
+      "longitude": 16.622768
+    },
+    {
+      "name": "T.S.Bohemia a.s.",
+      "latitude": 49.221198,
+      "longitude": 17.654485
+    },
+    {
+      "name": "Tichý zubař",
+      "latitude": 50.076096,
+      "longitude": 14.403251
+    },
+    {
+      "name": "Top Dental, s.r.o.",
+      "latitude": 48.640223,
+      "longitude": 14.224511
+    },
+    {
+      "name": "TrenDent",
+      "latitude": 50.08314,
+      "longitude": 14.341819
+    },
+    {
+      "name": "U2 Dent",
+      "latitude": 49.827454,
+      "longitude": 18.251638
+    },
+    {
+      "name": "UH Dental",
+      "latitude": 49.066448,
+      "longitude": 17.463154
+    },
+    {
+      "name": "V-DENS",
+      "latitude": 50.048137,
+      "longitude": 15.763732
+    },
+    {
+      "name": "Valeriana",
+      "latitude": 50.068215,
+      "longitude": 14.456796
+    },
+    {
+      "name": "VDental s.r.o.",
+      "latitude": 49.189091,
+      "longitude": 16.603866
+    },
+    {
+      "name": "Vlasta Semecká, Lucie Semecká",
+      "latitude": 50.20045,
+      "longitude": 15.848405
+    },
+    {
+      "name": "Vokáčova Dent",
+      "latitude": 50.048288,
+      "longitude": 14.44686
+    },
+    {
+      "name": "Wabi Clinic",
+      "latitude": 50.096741,
+      "longitude": 14.461579
+    },
+    {
+      "name": "White esthetic dental",
+      "latitude": 50.074176,
+      "longitude": 14.430104
+    },
+    {
+      "name": "Yurmax Dental Clinic",
+      "latitude": 50.043851,
+      "longitude": 14.339826
+    },
+    {
+      "name": "Zahnarzt Hommel",
+      "latitude": 50.973565,
+      "longitude": 14.273273
+    },
+    {
+      "name": "Zahnarzt Pflug",
+      "latitude": 50.973503,
+      "longitude": 14.273335
+    },
+    {
+      "name": "Zahnarztpraxis Anna Röder",
+      "latitude": 50.095549,
+      "longitude": 12.220957
+    },
+    {
+      "name": "Zahnarztpraxis Dr. med. dent. O. Brunner",
+      "latitude": 50.358756,
+      "longitude": 12.469665
+    },
+    {
+      "name": "Zahnarztpraxis Sobotta",
+      "latitude": 51.006394,
+      "longitude": 14.578428
+    },
+    {
+      "name": "Zidenta",
+      "latitude": 50.013753,
+      "longitude": 14.633507
+    },
+    {
+      "name": "Zubajda",
+      "latitude": 49.528045,
+      "longitude": 17.581499
+    },
+    {
+      "name": "Zubař",
+      "latitude": 49.875714,
+      "longitude": 17.874064
+    },
+    {
+      "name": "Zubař",
+      "latitude": 49.99385,
+      "longitude": 14.740211
+    },
+    {
+      "name": "Zubař",
+      "latitude": 50.032144,
+      "longitude": 17.038025
+    },
+    {
+      "name": "Zubař",
+      "latitude": 50.646298,
+      "longitude": 15.963725
+    },
+    {
+      "name": "Zubař - MuDR. Jančáriová",
+      "latitude": 50.922103,
+      "longitude": 15.089003
+    },
+    {
+      "name": "Zubař MDDr. Fomenko",
+      "latitude": 50.247779,
+      "longitude": 12.895459
+    },
+    {
+      "name": "Zubař MUDr. Dresler",
+      "latitude": 49.545938,
+      "longitude": 18.209158
+    },
+    {
+      "name": "Zubař – MUDr. Blažek",
+      "latitude": 50.531997,
+      "longitude": 16.23416
+    },
+    {
+      "name": "Zubař – MUDr. Kubec",
+      "latitude": 50.532059,
+      "longitude": 16.234158
+    },
+    {
+      "name": "Zubař – MUDr. Neoral ml",
+      "latitude": 50.532015,
+      "longitude": 16.23416
+    },
+    {
+      "name": "Zubař – MUDr. Neoral st.",
+      "latitude": 50.532036,
+      "longitude": 16.234158
+    },
+    {
+      "name": "Zubaři",
+      "latitude": 49.941846,
+      "longitude": 17.914106
+    },
+    {
+      "name": "Zubaři u pivovaru",
+      "latitude": 50.10856,
+      "longitude": 14.506946
+    },
+    {
+      "name": "Zubařka Dana Holešinská",
+      "latitude": 48.95406,
+      "longitude": 17.1518
+    },
+    {
+      "name": "Zubařka Dr. Dubišarová",
+      "latitude": 50.228592,
+      "longitude": 14.077993
+    },
+    {
+      "name": "Zubařka Plzeň",
+      "latitude": 49.773103,
+      "longitude": 13.369242
+    },
+    {
+      "name": "Zubni ordinace Šafaříkovi",
+      "latitude": 50.073333,
+      "longitude": 14.436348
+    },
+    {
+      "name": "Zubní ambulance",
+      "latitude": 49.198729,
+      "longitude": 16.605179
+    },
+    {
+      "name": "Zubní ambulance",
+      "latitude": 49.549378,
+      "longitude": 16.709671
+    },
+    {
+      "name": "zubní ambulatorium",
+      "latitude": 50.054823,
+      "longitude": 14.53155
+    },
+    {
+      "name": "Zubní centrum - Happy End",
+      "latitude": 50.040079,
+      "longitude": 15.778577
+    },
+    {
+      "name": "Zubní centrum Ořechovka",
+      "latitude": 50.095003,
+      "longitude": 14.373985
+    },
+    {
+      "name": "Zubní centrum Rostislavovo náměstí",
+      "latitude": 49.222918,
+      "longitude": 16.598275
+    },
+    {
+      "name": "Zubní chirurgie MUDr. Jiří Skalický",
+      "latitude": 50.045818,
+      "longitude": 14.435799
+    },
+    {
+      "name": "Zubní Krejčí",
+      "latitude": 50.673112,
+      "longitude": 14.544592
+    },
+    {
+      "name": "Zubní laboratoř",
+      "latitude": 48.796746,
+      "longitude": 14.309331
+    },
+    {
+      "name": "Zubní laboratoř Kateřina Spilková",
+      "latitude": 49.391345,
+      "longitude": 15.578368
+    },
+    {
+      "name": "Zubní lékař",
+      "latitude": 50.737308,
+      "longitude": 15.307082
+    },
+    {
+      "name": "Zubní Lékař Jelínková Vladimíra MUDr.",
+      "latitude": 49.29156,
+      "longitude": 16.220505
+    },
+    {
+      "name": "zubní lékař MUDr. Cihlář",
+      "latitude": 50.16691,
+      "longitude": 14.108942
+    },
+    {
+      "name": "Zubní lékařka",
+      "latitude": 50.074296,
+      "longitude": 14.445059
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 48.960478,
+      "longitude": 14.473439
+    },
+    {
+      "name": "zubní ordinace",
+      "latitude": 48.997083,
+      "longitude": 15.353778
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 49.172801,
+      "longitude": 17.511389
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 49.253255,
+      "longitude": 13.908305
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 49.264407,
+      "longitude": 16.713628
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 49.327889,
+      "longitude": 17.582522
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 49.446364,
+      "longitude": 17.457377
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 49.674015,
+      "longitude": 18.414676
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 50.338123,
+      "longitude": 12.506433
+    },
+    {
+      "name": "Zubní ordinace",
+      "latitude": 50.361943,
+      "longitude": 14.246731
+    },
+    {
+      "name": "Zubní ordinace a zubní laboratoř",
+      "latitude": 48.805874,
+      "longitude": 14.325499
+    },
+    {
+      "name": "Zubní Ordinace BH",
+      "latitude": 50.054477,
+      "longitude": 14.224465
+    },
+    {
+      "name": "Zubní ordinace Eva Cyrusová",
+      "latitude": 49.608318,
+      "longitude": 15.573933
+    },
+    {
+      "name": "Zubní ordinace Kůrovi",
+      "latitude": 49.392226,
+      "longitude": 13.294188
+    },
+    {
+      "name": "Zubní ordinace MDDr. Jiří Lopatka",
+      "latitude": 50.073584,
+      "longitude": 14.478267
+    },
+    {
+      "name": "Zubní ordinace MDDr. Lucie Václavková, DiS.",
+      "latitude": 49.966508,
+      "longitude": 16.981975
+    },
+    {
+      "name": "Zubní ordinace MDDr. Petra Čecháková",
+      "latitude": 49.587494,
+      "longitude": 17.244681
+    },
+    {
+      "name": "Zubní ordinace MUDr. Helena Novotná",
+      "latitude": 49.604601,
+      "longitude": 15.579002
+    },
+    {
+      "name": "Zubní ordinace MUDr. Jiří Kovář",
+      "latitude": 49.96649,
+      "longitude": 16.981914
+    },
+    {
+      "name": "ZUBNÍ ORDINACE MUDr. Lenka Koišová",
+      "latitude": 48.969422,
+      "longitude": 17.208755
+    },
+    {
+      "name": "Zubní ordinace MUDr. Růžičková",
+      "latitude": 49.289709,
+      "longitude": 16.575655
+    },
+    {
+      "name": "Zubní ordinace Nádražní",
+      "latitude": 49.846385,
+      "longitude": 18.280354
+    },
+    {
+      "name": "Zubní ordinace Vaše zubařka",
+      "latitude": 50.062023,
+      "longitude": 14.404222
+    },
+    {
+      "name": "Zubní pohotovost",
+      "latitude": 50.200368,
+      "longitude": 15.82703
+    },
+    {
+      "name": "Zubní pohotovost Praha",
+      "latitude": 50.110907,
+      "longitude": 14.496396
+    },
+    {
+      "name": "zubní poliklinika",
+      "latitude": 49.728927,
+      "longitude": 17.301859
+    },
+    {
+      "name": "Zubní praxe Posoldovi",
+      "latitude": 49.333267,
+      "longitude": 17.575662
+    },
+    {
+      "name": "Zubní rentgen",
+      "latitude": 49.198737,
+      "longitude": 16.605196
+    },
+    {
+      "name": "Zubní středisko",
+      "latitude": 49.773456,
+      "longitude": 17.122139
+    },
+    {
+      "name": "Zubní středisko Úpatní 9",
+      "latitude": 49.181519,
+      "longitude": 16.561153
+    },
+    {
+      "name": "Zubní technika",
+      "latitude": 50.024566,
+      "longitude": 15.207873
+    },
+    {
+      "name": "Zuboland",
+      "latitude": 49.593103,
+      "longitude": 17.269927
+    },
+    {
+      "name": "Zuby v Ostravě",
+      "latitude": 49.834608,
+      "longitude": 18.288833
+    },
+    {
+      "name": "Zubárna",
+      "latitude": 49.040204,
+      "longitude": 16.618335
+    },
+    {
+      "name": "Zubárna s.r.o.",
+      "latitude": 49.674717,
+      "longitude": 18.344625
+    },
+    {
+      "name": "Zuzana Sloupová",
+      "latitude": 49.527586,
+      "longitude": 17.577123
+    },
+    {
+      "name": "Šárka Kinclová",
+      "latitude": 49.101814,
+      "longitude": 16.374339
+    },
+    {
+      "name": "Žižlavská Stanislava",
+      "latitude": 49.221364,
+      "longitude": 16.589447
+    }
+  ],
+  "meta": {
+    "title": "České zubní ordinace - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných zubních ordinací v Česku (amenity=dentist) z OpenStreetMap. Obsahuje 432 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "České zubní ordinace | ListBase",
+    "seo_description": "Stáhnout České zubní ordinace — 432 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 432 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "id": "cs-jednotky-length",
+  "name": "Měrné jednotky: length (31)",
+  "title": "Měrné jednotky: length (31)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'length'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 104,
+      "unit_code": "length-astronomical-unit",
+      "kategorie": "length",
+      "nazev": "astronomické jednotky",
+      "vzor_jednotne": "{0} astronomická jednotka",
+      "vzor_mnozne": "{0} astronomických jednotek",
+      "kratky_vzor": "{0} au",
+      "uzky_vzor": "{0} au"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-centimeter",
+      "kategorie": "length",
+      "nazev": "centimetry",
+      "vzor_jednotne": "{0} centimetr",
+      "vzor_mnozne": "{0} centimetrů",
+      "kratky_vzor": "{0} cm",
+      "uzky_vzor": "{0} cm"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-chain",
+      "kategorie": "length",
+      "nazev": "chain",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} chain",
+      "kratky_vzor": "{0} chain",
+      "uzky_vzor": "{0} chain"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-decimeter",
+      "kategorie": "length",
+      "nazev": "decimetry",
+      "vzor_jednotne": "{0} decimetr",
+      "vzor_mnozne": "{0} decimetrů",
+      "kratky_vzor": "{0} dm",
+      "uzky_vzor": "{0} dm"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-earth-radius",
+      "kategorie": "length",
+      "nazev": "poloměr Země",
+      "vzor_jednotne": "{0} poloměr Země",
+      "vzor_mnozne": "{0} poloměrů Země",
+      "kratky_vzor": "{0} R⊕",
+      "uzky_vzor": "{0} R⊕"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-fathom",
+      "kategorie": "length",
+      "nazev": "sáhy",
+      "vzor_jednotne": "{0} sáh",
+      "vzor_mnozne": "{0} sáhů",
+      "kratky_vzor": "{0} fth",
+      "uzky_vzor": "{0} fth"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-foot",
+      "kategorie": "length",
+      "nazev": "stopy",
+      "vzor_jednotne": "{0} stopa",
+      "vzor_mnozne": "{0} stop",
+      "kratky_vzor": "{0} ft",
+      "uzky_vzor": "{0}′"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-furlong",
+      "kategorie": "length",
+      "nazev": "furlongy",
+      "vzor_jednotne": "{0} furlong",
+      "vzor_mnozne": "{0} furlongů",
+      "kratky_vzor": "{0} fur",
+      "uzky_vzor": "{0} fur"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-inch",
+      "kategorie": "length",
+      "nazev": "palce",
+      "vzor_jednotne": "{0} palec",
+      "vzor_mnozne": "{0} palců",
+      "kratky_vzor": "{0} in",
+      "uzky_vzor": "{0}″"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-jo-jp",
+      "kategorie": "length",
+      "nazev": "jo [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} jo [JP]",
+      "kratky_vzor": "{0} jo [JP]",
+      "uzky_vzor": "{0} jo [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-ken",
+      "kategorie": "length",
+      "nazev": "ken [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} ken [JP]",
+      "kratky_vzor": "{0} ken [JP]",
+      "uzky_vzor": "{0} ken [JP]"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-kilometer",
+      "kategorie": "length",
+      "nazev": "kilometry",
+      "vzor_jednotne": "{0} kilometr",
+      "vzor_mnozne": "{0} kilometrů",
+      "kratky_vzor": "{0} km",
+      "uzky_vzor": "{0} km"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-light-year",
+      "kategorie": "length",
+      "nazev": "světelné roky",
+      "vzor_jednotne": "{0} světelný rok",
+      "vzor_mnozne": "{0} světelných let",
+      "kratky_vzor": "{0} ly",
+      "uzky_vzor": "{0} ly"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-meter",
+      "kategorie": "length",
+      "nazev": "metry",
+      "vzor_jednotne": "{0} metr",
+      "vzor_mnozne": "{0} metrů",
+      "kratky_vzor": "{0} m",
+      "uzky_vzor": "{0} m"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-micrometer",
+      "kategorie": "length",
+      "nazev": "mikrometry",
+      "vzor_jednotne": "{0} mikrometr",
+      "vzor_mnozne": "{0} mikrometrů",
+      "kratky_vzor": "{0} μm",
+      "uzky_vzor": "{0} μm"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile",
+      "kategorie": "length",
+      "nazev": "míle",
+      "vzor_jednotne": "{0} míle",
+      "vzor_mnozne": "{0} mil",
+      "kratky_vzor": "{0} mi",
+      "uzky_vzor": "{0} mi"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-mile-scandinavian",
+      "kategorie": "length",
+      "nazev": "skandinávské míle",
+      "vzor_jednotne": "{0} skandinávská míle",
+      "vzor_mnozne": "{0} skandinávských mil",
+      "kratky_vzor": "{0} smi",
+      "uzky_vzor": "{0} smi"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-millimeter",
+      "kategorie": "length",
+      "nazev": "milimetry",
+      "vzor_jednotne": "{0} milimetr",
+      "vzor_mnozne": "{0} milimetrů",
+      "kratky_vzor": "{0} mm",
+      "uzky_vzor": "{0} mm"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nanometer",
+      "kategorie": "length",
+      "nazev": "nanometry",
+      "vzor_jednotne": "{0} nanometr",
+      "vzor_mnozne": "{0} nanometrů",
+      "kratky_vzor": "{0} nm",
+      "uzky_vzor": "{0} nm"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-nautical-mile",
+      "kategorie": "length",
+      "nazev": "námořní míle",
+      "vzor_jednotne": "{0} námořní míle",
+      "vzor_mnozne": "{0} námořních mil",
+      "kratky_vzor": "{0} nmi",
+      "uzky_vzor": "{0} nmi"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-parsec",
+      "kategorie": "length",
+      "nazev": "parseky",
+      "vzor_jednotne": "{0} parsek",
+      "vzor_mnozne": "{0} parseků",
+      "kratky_vzor": "{0} pc",
+      "uzky_vzor": "{0} pc"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-picometer",
+      "kategorie": "length",
+      "nazev": "pikometry",
+      "vzor_jednotne": "{0} pikometr",
+      "vzor_mnozne": "{0} pikometrů",
+      "kratky_vzor": "{0} pm",
+      "uzky_vzor": "{0} pm"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-point",
+      "kategorie": "length",
+      "nazev": "body",
+      "vzor_jednotne": "{0} bod",
+      "vzor_mnozne": "{0} bodů",
+      "kratky_vzor": "{0} pt",
+      "uzky_vzor": "{0} pt"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-ri-jp",
+      "kategorie": "length",
+      "nazev": "ri [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} ri [JP]",
+      "kratky_vzor": "{0} ri [JP]",
+      "uzky_vzor": "{0} ri [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rin",
+      "kategorie": "length",
+      "nazev": "rin [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} rin [JP]",
+      "kratky_vzor": "{0} rin [JP]",
+      "uzky_vzor": "{0} rin [JP]"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-rod",
+      "kategorie": "length",
+      "nazev": "rod",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} rod",
+      "kratky_vzor": "{0} rod",
+      "uzky_vzor": "{0} rod"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-cloth",
+      "kategorie": "length",
+      "nazev": "shaku [cloth, JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} shaku [cloth, JP]",
+      "kratky_vzor": "{0} shaku [cloth, JP]",
+      "uzky_vzor": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-shaku-length",
+      "kategorie": "length",
+      "nazev": "shaku [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} shaku [JP]",
+      "kratky_vzor": "{0} shaku [JP]",
+      "uzky_vzor": "{0} shaku [JP]"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-solar-radius",
+      "kategorie": "length",
+      "nazev": "poloměr Slunce",
+      "vzor_jednotne": "{0} poloměr Slunce",
+      "vzor_mnozne": "{0} poloměrů Slunce",
+      "kratky_vzor": "{0} R☉",
+      "uzky_vzor": "{0} R☉"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-sun",
+      "kategorie": "length",
+      "nazev": "sun [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} sun [JP]",
+      "kratky_vzor": "{0} sun [JP]",
+      "uzky_vzor": "{0} sun [JP]"
+    },
+    {
+      "id": 134,
+      "unit_code": "length-yard",
+      "kategorie": "length",
+      "nazev": "yardy",
+      "vzor_jednotne": "{0} yard",
+      "vzor_mnozne": "{0} yardů",
+      "kratky_vzor": "{0} yd",
+      "uzky_vzor": "{0} yd"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: length (31) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'length'. Obsahuje 31 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: length (31) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: length (31) — 31 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 31 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

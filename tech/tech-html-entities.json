@@ -1,0 +1,669 @@
+{
+  "id": "tech-html-entities",
+  "name": "Dataset HTML Znakových Entit a Speciálních Symbolů",
+  "category": "tech",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "entity",
+      "label": "Entity",
+      "type": "string"
+    },
+    {
+      "key": "character",
+      "label": "Character",
+      "type": "string"
+    },
+    {
+      "key": "code_point",
+      "label": "Code Point",
+      "type": "string"
+    },
+    {
+      "key": "decimal",
+      "label": "Decimal Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "entity": "&amp;",
+      "character": "&",
+      "code_point": "U+0026",
+      "decimal": "&#38;",
+      "name": "Ampersand",
+      "category": "Základní"
+    },
+    {
+      "entity": "&lt;",
+      "character": "<",
+      "code_point": "U+003C",
+      "decimal": "&#60;",
+      "name": "Znak menší než",
+      "category": "Základní"
+    },
+    {
+      "entity": "&gt;",
+      "character": ">",
+      "code_point": "U+003E",
+      "decimal": "&#62;",
+      "name": "Znak větší než",
+      "category": "Základní"
+    },
+    {
+      "entity": "&quot;",
+      "character": "\"",
+      "code_point": "U+0022",
+      "decimal": "&#34;",
+      "name": "Uvozovky",
+      "category": "Základní"
+    },
+    {
+      "entity": "&apos;",
+      "character": "'",
+      "code_point": "U+0027",
+      "decimal": "&#39;",
+      "name": "Apostrof",
+      "category": "Základní"
+    },
+    {
+      "entity": "&nbsp;",
+      "character": " ",
+      "code_point": "U+00A0",
+      "decimal": "&#160;",
+      "name": "Nedělitelná mezera",
+      "category": "Mezery"
+    },
+    {
+      "entity": "&ensp;",
+      "character": " ",
+      "code_point": "U+2002",
+      "decimal": "&#8194;",
+      "name": "Půlčtverčík",
+      "category": "Mezery"
+    },
+    {
+      "entity": "&emsp;",
+      "character": " ",
+      "code_point": "U+2003",
+      "decimal": "&#8195;",
+      "name": "Čtverčík",
+      "category": "Mezery"
+    },
+    {
+      "entity": "&thinsp;",
+      "character": " ",
+      "code_point": "U+2009",
+      "decimal": "&#8201;",
+      "name": "Tenká mezera",
+      "category": "Mezery"
+    },
+    {
+      "entity": "&shy;",
+      "character": "­",
+      "code_point": "U+00AD",
+      "decimal": "&#173;",
+      "name": "Měkký dělicí spojovník",
+      "category": "Mezery"
+    },
+    {
+      "entity": "&zwj;",
+      "character": "‍",
+      "code_point": "U+200D",
+      "decimal": "&#8205;",
+      "name": "Spojovač nulové šířky",
+      "category": "Mezery"
+    },
+    {
+      "entity": "&zwnj;",
+      "character": "‌",
+      "code_point": "U+200C",
+      "decimal": "&#8204;",
+      "name": "Nespojovač nulové šířky",
+      "category": "Mezery"
+    },
+    {
+      "entity": "&ndash;",
+      "character": "–",
+      "code_point": "U+2013",
+      "decimal": "&#8211;",
+      "name": "Půlčtverčíková pomlčka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&mdash;",
+      "character": "—",
+      "code_point": "U+2014",
+      "decimal": "&#8212;",
+      "name": "Čtverčíková pomlčka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&lsquo;",
+      "character": "‘",
+      "code_point": "U+2018",
+      "decimal": "&#8216;",
+      "name": "Levá jednoduchá uvozovka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&rsquo;",
+      "character": "’",
+      "code_point": "U+2019",
+      "decimal": "&#8217;",
+      "name": "Pravá jednoduchá uvozovka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&ldquo;",
+      "character": "“",
+      "code_point": "U+201C",
+      "decimal": "&#8220;",
+      "name": "Levá dvojitá uvozovka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&rdquo;",
+      "character": "”",
+      "code_point": "U+201D",
+      "decimal": "&#8221;",
+      "name": "Pravá dvojitá uvozovka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&laquo;",
+      "character": "«",
+      "code_point": "U+00AB",
+      "decimal": "&#171;",
+      "name": "Levá dvojitá úhlová uvozovka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&raquo;",
+      "character": "»",
+      "code_point": "U+00BB",
+      "decimal": "&#187;",
+      "name": "Pravá dvojitá úhlová uvozovka",
+      "category": "Interpunkce"
+    },
+    {
+      "entity": "&hellip;",
+      "character": "…",
+      "code_point": "U+2026",
+      "decimal": "&#8230;",
+      "name": "Vodorovné trojtečky",
+      "category": "Interpunkční znaménka"
+    },
+    {
+      "entity": "&bull;",
+      "character": "•",
+      "code_point": "U+2022",
+      "decimal": "&#8226;",
+      "name": "Odrážka",
+      "category": "Interpunkční znaménka"
+    },
+    {
+      "entity": "&middot;",
+      "character": "·",
+      "code_point": "U+00B7",
+      "decimal": "&#183;",
+      "name": "Střední tečka",
+      "category": "Interpunkční znaménka"
+    },
+    {
+      "entity": "&copy;",
+      "character": "©",
+      "code_point": "U+00A9",
+      "decimal": "&#169;",
+      "name": "Znak autorských práv",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&reg;",
+      "character": "®",
+      "code_point": "U+00AE",
+      "decimal": "&#174;",
+      "name": "Znak registrované ochranné známky",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&trade;",
+      "character": "™",
+      "code_point": "U+2122",
+      "decimal": "&#8482;",
+      "name": "Znak ochranné známky",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&deg;",
+      "character": "°",
+      "code_point": "U+00B0",
+      "decimal": "&#176;",
+      "name": "Znak stupně",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&sect;",
+      "character": "§",
+      "code_point": "U+00A7",
+      "decimal": "&#167;",
+      "name": "Znak paragrafu",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&para;",
+      "character": "¶",
+      "code_point": "U+00B6",
+      "decimal": "&#182;",
+      "name": "Znak odstavce",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&dagger;",
+      "character": "†",
+      "code_point": "U+2020",
+      "decimal": "&#8224;",
+      "name": "Křížek",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&Dagger;",
+      "character": "‡",
+      "code_point": "U+2021",
+      "decimal": "&#8225;",
+      "name": "Dvojitý křížek",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&prime;",
+      "character": "′",
+      "code_point": "U+2032",
+      "decimal": "&#8242;",
+      "name": "Znak primu",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&Prime;",
+      "character": "″",
+      "code_point": "U+2033",
+      "decimal": "&#8243;",
+      "name": "Dvojitý prim",
+      "category": "Typografické značky"
+    },
+    {
+      "entity": "&plus;",
+      "character": "+",
+      "code_point": "U+002B",
+      "decimal": "&#43;",
+      "name": "Znak plusu",
+      "category": "Matematické značky"
+    },
+    {
+      "entity": "&minus;",
+      "character": "−",
+      "code_point": "U+2212",
+      "decimal": "&#8722;",
+      "name": "Znak minusu",
+      "category": "Matematické značky"
+    },
+    {
+      "entity": "&times;",
+      "character": "×",
+      "code_point": "U+00D7",
+      "decimal": "&#215;",
+      "name": "Znak násobení",
+      "category": "Matematické značky"
+    },
+    {
+      "entity": "&divide;",
+      "character": "÷",
+      "code_point": "U+00F7",
+      "decimal": "&#247;",
+      "name": "Znak dělení",
+      "category": "Matematické značky"
+    },
+    {
+      "entity": "&plusmn;",
+      "character": "±",
+      "code_point": "U+00B1",
+      "decimal": "&#177;",
+      "name": "Znak plus-minus",
+      "category": "Matematické značky"
+    },
+    {
+      "entity": "&ne;",
+      "character": "≠",
+      "code_point": "U+2260",
+      "decimal": "&#8800;",
+      "name": "Znak nerovnosti",
+      "category": "Matematické značky"
+    },
+    {
+      "entity": "&le;",
+      "character": "≤",
+      "code_point": "U+2264",
+      "decimal": "&#8804;",
+      "name": "Znak menší nebo rovno",
+      "category": "Matematické značky"
+    },
+    {
+      "entity": "&ge;",
+      "character": "≥",
+      "code_point": "U+2265",
+      "decimal": "&#8805;",
+      "name": "Větší nebo Rovno",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&asymp;",
+      "character": "≈",
+      "code_point": "U+2248",
+      "decimal": "&#8776;",
+      "name": "Téměř Rovno",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&infin;",
+      "character": "∞",
+      "code_point": "U+221E",
+      "decimal": "&#8734;",
+      "name": "Nekonečno",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&radic;",
+      "character": "√",
+      "code_point": "U+221A",
+      "decimal": "&#8730;",
+      "name": "Druhá Odmocnina",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&sum;",
+      "character": "∑",
+      "code_point": "U+2211",
+      "decimal": "&#8721;",
+      "name": "N-ární Součet",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&prod;",
+      "character": "∏",
+      "code_point": "U+220F",
+      "decimal": "&#8719;",
+      "name": "N-ární Součin",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&int;",
+      "character": "∫",
+      "code_point": "U+222B",
+      "decimal": "&#8747;",
+      "name": "Integrál",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&permil;",
+      "character": "‰",
+      "code_point": "U+2030",
+      "decimal": "&#8240;",
+      "name": "Znak promile",
+      "category": "Matematika"
+    },
+    {
+      "entity": "&frac14;",
+      "character": "¼",
+      "code_point": "U+00BC",
+      "decimal": "&#188;",
+      "name": "Obecný Zlomek Jedna Čtvrtina",
+      "category": "Zlomky"
+    },
+    {
+      "entity": "&frac12;",
+      "character": "½",
+      "code_point": "U+00BD",
+      "decimal": "&#189;",
+      "name": "Obecný Zlomek Jedna Polovina",
+      "category": "Zlomky"
+    },
+    {
+      "entity": "&frac34;",
+      "character": "¾",
+      "code_point": "U+00BE",
+      "decimal": "&#190;",
+      "name": "Obecný Zlomek Tři Čtvrtiny",
+      "category": "Zlomky"
+    },
+    {
+      "entity": "&cent;",
+      "character": "¢",
+      "code_point": "U+00A2",
+      "decimal": "&#162;",
+      "name": "Znak Centu",
+      "category": "Měna"
+    },
+    {
+      "entity": "&pound;",
+      "character": "£",
+      "code_point": "U+00A3",
+      "decimal": "&#163;",
+      "name": "Znak Libry",
+      "category": "Měna"
+    },
+    {
+      "entity": "&yen;",
+      "character": "¥",
+      "code_point": "U+00A5",
+      "decimal": "&#165;",
+      "name": "Znak Jenu",
+      "category": "Měna"
+    },
+    {
+      "entity": "&euro;",
+      "character": "€",
+      "code_point": "U+20AC",
+      "decimal": "&#8364;",
+      "name": "Znak Eura",
+      "category": "Měna"
+    },
+    {
+      "entity": "&curren;",
+      "character": "¤",
+      "code_point": "U+00A4",
+      "decimal": "&#164;",
+      "name": "Znak Měny",
+      "category": "Měna"
+    },
+    {
+      "entity": "&larr;",
+      "character": "←",
+      "code_point": "U+2190",
+      "decimal": "&#8592;",
+      "name": "Šipka Vlevo",
+      "category": "Šipky"
+    },
+    {
+      "entity": "&uarr;",
+      "character": "↑",
+      "code_point": "U+2191",
+      "decimal": "&#8593;",
+      "name": "Šipka Nahoru",
+      "category": "Šipky"
+    },
+    {
+      "entity": "&rarr;",
+      "character": "→",
+      "code_point": "U+2192",
+      "decimal": "&#8594;",
+      "name": "Šipka Vpravo",
+      "category": "Šipky"
+    },
+    {
+      "entity": "&darr;",
+      "character": "↓",
+      "code_point": "U+2193",
+      "decimal": "&#8595;",
+      "name": "Šipka Dolů",
+      "category": "Šipky"
+    },
+    {
+      "entity": "&harr;",
+      "character": "↔",
+      "code_point": "U+2194",
+      "decimal": "&#8596;",
+      "name": "Obousměrná šipka",
+      "category": "Šipky"
+    },
+    {
+      "entity": "&lArr;",
+      "character": "⇐",
+      "code_point": "U+21D0",
+      "decimal": "&#8656;",
+      "name": "Dvojitá šipka doleva",
+      "category": "Šipky"
+    },
+    {
+      "entity": "&rArr;",
+      "character": "⇒",
+      "code_point": "U+21D2",
+      "decimal": "&#8658;",
+      "name": "Dvojitá šipka doprava",
+      "category": "Šipky"
+    },
+    {
+      "entity": "&Agrave;",
+      "character": "À",
+      "code_point": "U+00C0",
+      "decimal": "&#192;",
+      "name": "Latinské velké písmeno A s gravem",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Aacute;",
+      "character": "Á",
+      "code_point": "U+00C1",
+      "decimal": "&#193;",
+      "name": "Latinské velké písmeno A s akutem",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Acirc;",
+      "character": "Â",
+      "code_point": "U+00C2",
+      "decimal": "&#194;",
+      "name": "Latinské velké písmeno A s cirkumflexem",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Atilde;",
+      "character": "Ã",
+      "code_point": "U+00C3",
+      "decimal": "&#195;",
+      "name": "Latinské velké písmeno A s tildou",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Auml;",
+      "character": "Ä",
+      "code_point": "U+00C4",
+      "decimal": "&#196;",
+      "name": "Latinské velké písmeno A s tremou",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Ccedil;",
+      "character": "Ç",
+      "code_point": "U+00C7",
+      "decimal": "&#199;",
+      "name": "Latinské velké písmeno C s cedillou",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Egrave;",
+      "character": "È",
+      "code_point": "U+00C8",
+      "decimal": "&#200;",
+      "name": "Latinské velké písmeno E s gravem",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Eacute;",
+      "character": "É",
+      "code_point": "U+00C9",
+      "decimal": "&#201;",
+      "name": "Latinské velké písmeno E s akutem",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Ntilde;",
+      "character": "Ñ",
+      "code_point": "U+00D1",
+      "decimal": "&#209;",
+      "name": "Latinské velké písmeno N s tildou",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Ouml;",
+      "character": "Ö",
+      "code_point": "U+00D6",
+      "decimal": "&#214;",
+      "name": "Latinské velké písmeno O s tremou",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&Uuml;",
+      "character": "Ü",
+      "code_point": "U+00DC",
+      "decimal": "&#220;",
+      "name": "Latinské velké písmeno U s tremou",
+      "category": "S diakritikou"
+    },
+    {
+      "entity": "&szlig;",
+      "character": "ß",
+      "code_point": "U+00DF",
+      "decimal": "&#223;",
+      "name": "Latinské malé písmeno Eszett",
+      "category": "S diakritikou"
+    }
+  ],
+  "meta": {
+    "seo_title": "Seznam HTML Znakových Entit - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma 75 HTML znakových entit, včetně základních symbolů a kódů. Dostupné ve formátech Excel, CSV a PDF pro vývojáře a designéry.",
+    "title": "Dataset HTML Znakových Entit a Speciálních Symbolů",
+    "description": "Tento dataset poskytuje komplexní seznam 75 běžných HTML znakových entit, včetně jejich znaku, kódu, desítkového kódu, názvu a kategorie. Je to základní zdroj pro vývoj webu.",
+    "key_takeaways": [
+      "Získejte přístup k úplnému seznamu 75 HTML znakových entit a jejich podrobností.",
+      "Prozkoumejte základní symboly jako &amp;, &lt;, &gt;, &quot; a &apos;.",
+      "Stáhněte si znakové kódy (kódový bod, desítkový) pro snadnou referenci a integraci.",
+      "Použijte tato data k zajištění správného zobrazení speciálních znaků ve webových aplikacích."
+    ],
+    "keywords": [
+      "html znakové entity seznam",
+      "speciální html znaky",
+      "html entity kódy",
+      "stáhnout html znaky csv",
+      "html symboly excel",
+      "unicode html entity"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do své webové aplikace nebo databáze CMS, abyste zajistili přesné zobrazení speciálních znaků, nebo použijte ve skriptech Python pro analýzu obsahu.",
+      "Použijte soubor **Excel** k filtrování, řazení a analýze vlastností znaků pro dokumentaci nebo k rychlému vyhledávání konkrétních entit pro designové projekty.",
+      "Vytiskněte verzi **PDF** jako rychlý, offline referenční průvodce během kódovacích relací nebo pro vzdělávací účely v kurzech webdesignu.",
+      "Využijte tento dataset k ověření a vyčištění uživatelského vstupu, zabraňte útokům typu Cross-Site Scripting (XSS) správným kódováním speciálních HTML znaků."
+    ]
+  },
+  "record_count": 75,
+  "title": "Dataset HTML Znakových Entit a Speciálních Symbolů"
+}

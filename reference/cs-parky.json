@@ -1,0 +1,7226 @@
+{
+  "id": "cs-parky",
+  "name": "Parky",
+  "title": "Parky",
+  "description": "Seznam pojmenovaných parků v České republice (1437 záznamů) — body zájmu z OpenStreetMap (tag leisure=park), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1437,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Park Anni Frind",
+      "latitude": 50.965049,
+      "longitude": 14.362798
+    },
+    {
+      "name": "Schloßpark Oppach",
+      "latitude": 51.051378,
+      "longitude": 14.493811
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 51.004716,
+      "longitude": 14.455564
+    },
+    {
+      "name": "Spreepark",
+      "latitude": 51.008076,
+      "longitude": 14.581997
+    },
+    {
+      "name": "bývalý hřbitov",
+      "latitude": 50.994502,
+      "longitude": 14.564382
+    },
+    {
+      "name": "Park Jakuba Boehme",
+      "latitude": 51.028431,
+      "longitude": 15.057885
+    },
+    {
+      "name": "arboretum",
+      "latitude": 50.981982,
+      "longitude": 15.101062
+    },
+    {
+      "name": "park Rumburské vzpoury",
+      "latitude": 50.953567,
+      "longitude": 14.553215
+    },
+    {
+      "name": "Městský park",
+      "latitude": 50.910437,
+      "longitude": 14.503043
+    },
+    {
+      "name": "Gemeindepark",
+      "latitude": 50.894881,
+      "longitude": 14.657261
+    },
+    {
+      "name": "Kaštanka",
+      "latitude": 50.800942,
+      "longitude": 14.211492
+    },
+    {
+      "name": "Mariánská louka",
+      "latitude": 50.777021,
+      "longitude": 14.208902
+    },
+    {
+      "name": "Podmokelský park",
+      "latitude": 50.771345,
+      "longitude": 14.196589
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 50.778691,
+      "longitude": 14.210445
+    },
+    {
+      "name": "Nábřeží",
+      "latitude": 50.779629,
+      "longitude": 14.208485
+    },
+    {
+      "name": "Lesopark Děčín",
+      "latitude": 50.784314,
+      "longitude": 14.226004
+    },
+    {
+      "name": "Park Franze Preidla",
+      "latitude": 50.80185,
+      "longitude": 14.415402
+    },
+    {
+      "name": "Janurův Park",
+      "latitude": 50.775588,
+      "longitude": 14.468184
+    },
+    {
+      "name": "Dvořáčkův Park",
+      "latitude": 50.773278,
+      "longitude": 14.471592
+    },
+    {
+      "name": "Geopark",
+      "latitude": 50.766509,
+      "longitude": 14.527312
+    },
+    {
+      "name": "Palackého náměstí",
+      "latitude": 50.755482,
+      "longitude": 14.556142
+    },
+    {
+      "name": "Šervůd",
+      "latitude": 50.754187,
+      "longitude": 14.547639
+    },
+    {
+      "name": "Kapraska",
+      "latitude": 50.753585,
+      "longitude": 14.559315
+    },
+    {
+      "name": "Náměstí Osvobození",
+      "latitude": 50.777109,
+      "longitude": 14.63325
+    },
+    {
+      "name": "Městský park",
+      "latitude": 50.920966,
+      "longitude": 15.076403
+    },
+    {
+      "name": "Městský park",
+      "latitude": 50.851781,
+      "longitude": 14.845879
+    },
+    {
+      "name": "Arboretum Elbert",
+      "latitude": 50.86906,
+      "longitude": 15.166361
+    },
+    {
+      "name": "zahrada Bredovského letohrádku",
+      "latitude": 50.775206,
+      "longitude": 14.78749
+    },
+    {
+      "name": "Potomci Ódina",
+      "latitude": 50.783802,
+      "longitude": 15.080769
+    },
+    {
+      "name": "náměstí Českých bratří",
+      "latitude": 50.766083,
+      "longitude": 15.061892
+    },
+    {
+      "name": "Park Budyšínská (Mrtvolky)",
+      "latitude": 50.775344,
+      "longitude": 15.060773
+    },
+    {
+      "name": "Park Clam-Gallasů",
+      "latitude": 50.767744,
+      "longitude": 15.061439
+    },
+    {
+      "name": "Park Prokopa Holého",
+      "latitude": 50.778396,
+      "longitude": 15.066462
+    },
+    {
+      "name": "nám. Štefánikovo",
+      "latitude": 50.776149,
+      "longitude": 15.066468
+    },
+    {
+      "name": "Zahrada vzpomínek",
+      "latitude": 50.775554,
+      "longitude": 15.061261
+    },
+    {
+      "name": "Park Masarykova",
+      "latitude": 50.774158,
+      "longitude": 15.071032
+    },
+    {
+      "name": "Lesopark Zámecký vrch",
+      "latitude": 50.745797,
+      "longitude": 15.091877
+    },
+    {
+      "name": "Park Nové Vratislavice",
+      "latitude": 50.754954,
+      "longitude": 15.077755
+    },
+    {
+      "name": "Park Šumburk",
+      "latitude": 50.741942,
+      "longitude": 15.313106
+    },
+    {
+      "name": "Tribuna",
+      "latitude": 50.738241,
+      "longitude": 15.295956
+    },
+    {
+      "name": "Stadtpark",
+      "latitude": 50.357321,
+      "longitude": 12.46833
+    },
+    {
+      "name": "Městské sady",
+      "latitude": 50.33105,
+      "longitude": 12.510636
+    },
+    {
+      "name": "Areál Zdraví",
+      "latitude": 50.306287,
+      "longitude": 12.555198
+    },
+    {
+      "name": "park Na Plovárně",
+      "latitude": 50.682177,
+      "longitude": 13.867175
+    },
+    {
+      "name": "Park Herty Lindnerové",
+      "latitude": 50.680024,
+      "longitude": 13.870312
+    },
+    {
+      "name": "Proboštovský lesopark",
+      "latitude": 50.664281,
+      "longitude": 13.838073
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 50.634739,
+      "longitude": 13.824484
+    },
+    {
+      "name": "Havlíčkovy sady",
+      "latitude": 50.640548,
+      "longitude": 13.83481
+    },
+    {
+      "name": "sady Československé armády",
+      "latitude": 50.641685,
+      "longitude": 13.839366
+    },
+    {
+      "name": "Laubeho náměstí",
+      "latitude": 50.63922,
+      "longitude": 13.831069
+    },
+    {
+      "name": "Letná",
+      "latitude": 50.637021,
+      "longitude": 13.830385
+    },
+    {
+      "name": "Šanovské sady",
+      "latitude": 50.641944,
+      "longitude": 13.836785
+    },
+    {
+      "name": "sady Bedřicha Smetany",
+      "latitude": 50.661595,
+      "longitude": 14.03415
+    },
+    {
+      "name": "Městské sady",
+      "latitude": 50.667937,
+      "longitude": 14.026032
+    },
+    {
+      "name": "Mánesovy sady",
+      "latitude": 50.663627,
+      "longitude": 14.02991
+    },
+    {
+      "name": "Vrchlického sady",
+      "latitude": 50.668317,
+      "longitude": 14.017697
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.66428,
+      "longitude": 14.036626
+    },
+    {
+      "name": "Park T. G. Masaryka",
+      "latitude": 50.656277,
+      "longitude": 14.04897
+    },
+    {
+      "name": "Bělský Park",
+      "latitude": 50.646195,
+      "longitude": 14.00689
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.596449,
+      "longitude": 13.608461
+    },
+    {
+      "name": "zámecký park Duchcov",
+      "latitude": 50.60427,
+      "longitude": 13.742625
+    },
+    {
+      "name": "Sady B. Němcové",
+      "latitude": 50.608856,
+      "longitude": 13.753173
+    },
+    {
+      "name": "Sady Bedřicha Smetany",
+      "latitude": 50.607024,
+      "longitude": 13.75084
+    },
+    {
+      "name": "park Jana Koziny",
+      "latitude": 50.620789,
+      "longitude": 13.858531
+    },
+    {
+      "name": "Královské pole",
+      "latitude": 50.614509,
+      "longitude": 13.963277
+    },
+    {
+      "name": "Rastplatz Taubenfelsblick",
+      "latitude": 50.463601,
+      "longitude": 12.81586
+    },
+    {
+      "name": "Šlikův park",
+      "latitude": 50.364556,
+      "longitude": 12.92269
+    },
+    {
+      "name": "Bývalá železniční stanice Jáchymov",
+      "latitude": 50.360557,
+      "longitude": 12.935053
+    },
+    {
+      "name": "Hříště pro volejbal atd.",
+      "latitude": 50.311666,
+      "longitude": 12.695726
+    },
+    {
+      "name": "zámecký park Ostrov",
+      "latitude": 50.302918,
+      "longitude": 12.938553
+    },
+    {
+      "name": "Park u nemocnice",
+      "latitude": 50.311578,
+      "longitude": 12.96411
+    },
+    {
+      "name": "Lázeňský park Evženie",
+      "latitude": 50.378535,
+      "longitude": 13.169412
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 50.383885,
+      "longitude": 13.174938
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 50.501516,
+      "longitude": 13.444918
+    },
+    {
+      "name": "Kludského vila",
+      "latitude": 50.500835,
+      "longitude": 13.440643
+    },
+    {
+      "name": "Olejomlýnského Parku",
+      "latitude": 50.49627,
+      "longitude": 13.439272
+    },
+    {
+      "name": "Svojsíkovy sady",
+      "latitude": 50.497007,
+      "longitude": 13.448307
+    },
+    {
+      "name": "Městský park Chomutov",
+      "latitude": 50.464577,
+      "longitude": 13.415124
+    },
+    {
+      "name": "náměstí Dr. Beneše",
+      "latitude": 50.458753,
+      "longitude": 13.410514
+    },
+    {
+      "name": "Parčík s fontánkou",
+      "latitude": 50.460839,
+      "longitude": 13.416359
+    },
+    {
+      "name": "Sportovní areál Domovinka",
+      "latitude": 50.467315,
+      "longitude": 13.392085
+    },
+    {
+      "name": "Kaštanový sad",
+      "latitude": 50.476269,
+      "longitude": 13.424997
+    },
+    {
+      "name": "Šibeník",
+      "latitude": 50.501736,
+      "longitude": 13.65069
+    },
+    {
+      "name": "Radniční park",
+      "latitude": 50.50269,
+      "longitude": 13.641792
+    },
+    {
+      "name": "náměstí T. G. Masaryka",
+      "latitude": 50.457189,
+      "longitude": 13.415314
+    },
+    {
+      "name": "Sady pionýrů",
+      "latitude": 50.513198,
+      "longitude": 14.049873
+    },
+    {
+      "name": "Kapucínská zahrada",
+      "latitude": 50.325222,
+      "longitude": 13.547963
+    },
+    {
+      "name": "Lenešický park",
+      "latitude": 50.376436,
+      "longitude": 13.761417
+    },
+    {
+      "name": "nám. Rudé armády",
+      "latitude": 50.355637,
+      "longitude": 13.795876
+    },
+    {
+      "name": "Holánkovy sady",
+      "latitude": 50.352016,
+      "longitude": 13.795324
+    },
+    {
+      "name": "Masarykovy sady",
+      "latitude": 50.362093,
+      "longitude": 13.789312
+    },
+    {
+      "name": "Park generála Fajtla",
+      "latitude": 50.352146,
+      "longitude": 13.821486
+    },
+    {
+      "name": "park letců RAF",
+      "latitude": 50.355944,
+      "longitude": 13.810148
+    },
+    {
+      "name": "Riegrovy sady",
+      "latitude": 50.357495,
+      "longitude": 13.821247
+    },
+    {
+      "name": "Tyršovo náměstí",
+      "latitude": 50.331511,
+      "longitude": 13.813075
+    },
+    {
+      "name": "Zámecký park Peruc",
+      "latitude": 50.344539,
+      "longitude": 13.965514
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 50.344454,
+      "longitude": 13.965037
+    },
+    {
+      "name": "Paul-Schindel-Park",
+      "latitude": 50.275959,
+      "longitude": 12.24169
+    },
+    {
+      "name": "Park Karla Ašlera – svah Ašlerových snah",
+      "latitude": 50.225721,
+      "longitude": 12.187072
+    },
+    {
+      "name": "Park historie",
+      "latitude": 50.225664,
+      "longitude": 12.183315
+    },
+    {
+      "name": "Sady Míru",
+      "latitude": 50.219172,
+      "longitude": 12.18727
+    },
+    {
+      "name": "Park Sklípek",
+      "latitude": 50.221547,
+      "longitude": 12.34565
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.178515,
+      "longitude": 12.641136
+    },
+    {
+      "name": "Lesopark Bohemia",
+      "latitude": 50.183392,
+      "longitude": 12.651389
+    },
+    {
+      "name": "Husovy sady",
+      "latitude": 50.177784,
+      "longitude": 12.644456
+    },
+    {
+      "name": "Nábřežní park",
+      "latitude": 50.182131,
+      "longitude": 12.637284
+    },
+    {
+      "name": "Wiedermannův park",
+      "latitude": 50.118295,
+      "longitude": 12.366504
+    },
+    {
+      "name": "Lesopark Amerika",
+      "latitude": 50.111801,
+      "longitude": 12.33297
+    },
+    {
+      "name": "Sady Bedřicha Smetany",
+      "latitude": 50.114447,
+      "longitude": 12.356258
+    },
+    {
+      "name": "Městské sady",
+      "latitude": 50.074692,
+      "longitude": 12.368406
+    },
+    {
+      "name": "Sady míru",
+      "latitude": 50.076557,
+      "longitude": 12.374494
+    },
+    {
+      "name": "Riegerovy sady",
+      "latitude": 50.06854,
+      "longitude": 12.377715
+    },
+    {
+      "name": "Krajinka Cheb - procházková část",
+      "latitude": 50.078194,
+      "longitude": 12.363769
+    },
+    {
+      "name": "Schillerovy sady",
+      "latitude": 50.081133,
+      "longitude": 12.372225
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.114261,
+      "longitude": 12.619929
+    },
+    {
+      "name": "Kurpark",
+      "latitude": 49.98168,
+      "longitude": 12.424195
+    },
+    {
+      "name": "park náměstí ČSM",
+      "latitude": 50.242195,
+      "longitude": 12.742391
+    },
+    {
+      "name": "Městský park",
+      "latitude": 50.238541,
+      "longitude": 12.74778
+    },
+    {
+      "name": "Malý park Rybáře",
+      "latitude": 50.234921,
+      "longitude": 12.853847
+    },
+    {
+      "name": "park Westend",
+      "latitude": 50.225843,
+      "longitude": 12.879229
+    },
+    {
+      "name": "sady Karla IV.",
+      "latitude": 50.219445,
+      "longitude": 12.880366
+    },
+    {
+      "name": "Dvořákovy sady",
+      "latitude": 50.227611,
+      "longitude": 12.877938
+    },
+    {
+      "name": "park Anny Politkovské",
+      "latitude": 50.228554,
+      "longitude": 12.872647
+    },
+    {
+      "name": "Náplavka Ohře",
+      "latitude": 50.230306,
+      "longitude": 12.857342
+    },
+    {
+      "name": "Skalníkovy sady",
+      "latitude": 50.225378,
+      "longitude": 12.88132
+    },
+    {
+      "name": "Mozartovy sady",
+      "latitude": 50.227923,
+      "longitude": 12.881281
+    },
+    {
+      "name": "Park Jeana de Carro",
+      "latitude": 50.223786,
+      "longitude": 12.885829
+    },
+    {
+      "name": "býv. lázně Šternberk",
+      "latitude": 50.198115,
+      "longitude": 14.019857
+    },
+    {
+      "name": "Smetanovy Sady",
+      "latitude": 50.145694,
+      "longitude": 13.955909
+    },
+    {
+      "name": "Lesopark Jamka",
+      "latitude": 50.108505,
+      "longitude": 13.732399
+    },
+    {
+      "name": "Čermákovy sady",
+      "latitude": 50.101981,
+      "longitude": 13.735815
+    },
+    {
+      "name": "Park na Sídlišti",
+      "latitude": 50.062469,
+      "longitude": 12.987074
+    },
+    {
+      "name": "Geologický park",
+      "latitude": 49.978074,
+      "longitude": 12.708296
+    },
+    {
+      "name": "Bezručovy sady",
+      "latitude": 49.962002,
+      "longitude": 12.698745
+    },
+    {
+      "name": "Skalníkovy sady",
+      "latitude": 49.975978,
+      "longitude": 12.705772
+    },
+    {
+      "name": "Sochařský pohádkový ráj",
+      "latitude": 49.971881,
+      "longitude": 12.721315
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.958765,
+      "longitude": 13.159564
+    },
+    {
+      "name": "bývalá kasárna Hamrníky",
+      "latitude": 49.9496,
+      "longitude": 12.69773
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.871487,
+      "longitude": 12.741081
+    },
+    {
+      "name": "městský park",
+      "latitude": 49.866481,
+      "longitude": 12.748371
+    },
+    {
+      "name": "Naučný park",
+      "latitude": 49.863507,
+      "longitude": 12.753094
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 49.88197,
+      "longitude": 12.977936
+    },
+    {
+      "name": "Sokolovna",
+      "latitude": 49.841046,
+      "longitude": 13.35834
+    },
+    {
+      "name": "Zámecký park Slabce",
+      "latitude": 50.004507,
+      "longitude": 13.712542
+    },
+    {
+      "name": "rajský dvůr",
+      "latitude": 49.934851,
+      "longitude": 13.39041
+    },
+    {
+      "name": "klášterní zahrada",
+      "latitude": 49.936,
+      "longitude": 13.391043
+    },
+    {
+      "name": "Ve Zkratce",
+      "latitude": 49.894916,
+      "longitude": 13.38167
+    },
+    {
+      "name": "U Hasičárny",
+      "latitude": 49.892375,
+      "longitude": 13.382604
+    },
+    {
+      "name": "Pod Kinem",
+      "latitude": 49.894351,
+      "longitude": 13.379628
+    },
+    {
+      "name": "náměstí Míru",
+      "latitude": 49.945196,
+      "longitude": 14.038577
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.838419,
+      "longitude": 13.910651
+    },
+    {
+      "name": "Zámecký park Velké Březno",
+      "latitude": 50.662598,
+      "longitude": 14.138048
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.665786,
+      "longitude": 14.083163
+    },
+    {
+      "name": "Mariánský park",
+      "latitude": 50.688893,
+      "longitude": 14.540182
+    },
+    {
+      "name": "Městský park",
+      "latitude": 50.689923,
+      "longitude": 14.537364
+    },
+    {
+      "name": "Milady Horákové",
+      "latitude": 50.682758,
+      "longitude": 14.534236
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.725083,
+      "longitude": 14.59661
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.685601,
+      "longitude": 14.642706
+    },
+    {
+      "name": "Mírové náměstí",
+      "latitude": 50.687562,
+      "longitude": 14.645625
+    },
+    {
+      "name": "Arboretum Nové Zákupy",
+      "latitude": 50.697996,
+      "longitude": 14.65595
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.657046,
+      "longitude": 14.730416
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 50.537884,
+      "longitude": 14.136366
+    },
+    {
+      "name": "Park Václava Havla",
+      "latitude": 50.535648,
+      "longitude": 14.128033
+    },
+    {
+      "name": "Park Inspirace",
+      "latitude": 50.527764,
+      "longitude": 14.072915
+    },
+    {
+      "name": "Svatovítské náměstí",
+      "latitude": 50.69483,
+      "longitude": 14.920649
+    },
+    {
+      "name": "Zámecký park Sychrov",
+      "latitude": 50.626502,
+      "longitude": 15.09128
+    },
+    {
+      "name": "Vrchlického sady",
+      "latitude": 50.731426,
+      "longitude": 15.168923
+    },
+    {
+      "name": "park v Aleji",
+      "latitude": 50.715652,
+      "longitude": 15.167448
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 50.722335,
+      "longitude": 15.165165
+    },
+    {
+      "name": "park Gen. Mrázka",
+      "latitude": 50.725114,
+      "longitude": 15.168257
+    },
+    {
+      "name": "Máchův park",
+      "latitude": 50.728804,
+      "longitude": 15.168712
+    },
+    {
+      "name": "Pod přehradou",
+      "latitude": 50.732488,
+      "longitude": 15.173796
+    },
+    {
+      "name": "Park v Janáčkově ulici",
+      "latitude": 50.708918,
+      "longitude": 15.174353
+    },
+    {
+      "name": "Náměstí Míru",
+      "latitude": 50.684272,
+      "longitude": 15.148792
+    },
+    {
+      "name": "Městský park Pilišťata",
+      "latitude": 50.705075,
+      "longitude": 15.425293
+    },
+    {
+      "name": "Jenišovický park",
+      "latitude": 50.627204,
+      "longitude": 15.138045
+    },
+    {
+      "name": "Fotbalové hřiště Tomovy Parky",
+      "latitude": 50.641375,
+      "longitude": 15.265739
+    },
+    {
+      "name": "Jiráskovo hřiště",
+      "latitude": 50.641053,
+      "longitude": 15.259962
+    },
+    {
+      "name": "Dětský park Tomovy Parky",
+      "latitude": 50.641111,
+      "longitude": 15.263192
+    },
+    {
+      "name": "Panská zahrada",
+      "latitude": 50.641611,
+      "longitude": 15.248513
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.679816,
+      "longitude": 15.32087
+    },
+    {
+      "name": "Park U Nádraží",
+      "latitude": 50.518946,
+      "longitude": 14.977073
+    },
+    {
+      "name": "Náměstíčko",
+      "latitude": 50.520045,
+      "longitude": 14.968093
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.598734,
+      "longitude": 15.156989
+    },
+    {
+      "name": "Nový park",
+      "latitude": 50.599387,
+      "longitude": 15.168879
+    },
+    {
+      "name": "Metelkovy sady",
+      "latitude": 50.597586,
+      "longitude": 15.164701
+    },
+    {
+      "name": "Park Tomáše Garrigue Masaryka",
+      "latitude": 50.589075,
+      "longitude": 15.139201
+    },
+    {
+      "name": "U slunečních hodin",
+      "latitude": 50.584784,
+      "longitude": 15.15351
+    },
+    {
+      "name": "Studentská",
+      "latitude": 50.589948,
+      "longitude": 15.140327
+    },
+    {
+      "name": "Rývovy sady",
+      "latitude": 50.596228,
+      "longitude": 15.16242
+    },
+    {
+      "name": "Ostrov",
+      "latitude": 50.604546,
+      "longitude": 15.332116
+    },
+    {
+      "name": "Československé armády",
+      "latitude": 50.510815,
+      "longitude": 14.149515
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 50.512646,
+      "longitude": 14.146966
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 50.5119,
+      "longitude": 14.150279
+    },
+    {
+      "name": "Dukelských hrdinů",
+      "latitude": 50.510004,
+      "longitude": 14.146169
+    },
+    {
+      "name": "Hálkovy sady",
+      "latitude": 50.507615,
+      "longitude": 14.149909
+    },
+    {
+      "name": "Park pionýrů",
+      "latitude": 50.512282,
+      "longitude": 14.15151
+    },
+    {
+      "name": "Dětská Farma U Toníka",
+      "latitude": 50.449882,
+      "longitude": 14.151781
+    },
+    {
+      "name": "Bezručovy sady",
+      "latitude": 50.454307,
+      "longitude": 14.378267
+    },
+    {
+      "name": "Park Josefa Hory",
+      "latitude": 50.425855,
+      "longitude": 14.254584
+    },
+    {
+      "name": "U Rozhledny",
+      "latitude": 50.421149,
+      "longitude": 14.263421
+    },
+    {
+      "name": "Smetanovo náměstí",
+      "latitude": 50.4254,
+      "longitude": 14.25085
+    },
+    {
+      "name": "Lázeňský areál Mšené lázně",
+      "latitude": 50.364491,
+      "longitude": 14.13144
+    },
+    {
+      "name": "Neuberk",
+      "latitude": 50.359945,
+      "longitude": 14.497652
+    },
+    {
+      "name": "Sokolský park",
+      "latitude": 50.310202,
+      "longitude": 14.737092
+    },
+    {
+      "name": "Komenského sady",
+      "latitude": 50.483109,
+      "longitude": 14.942089
+    },
+    {
+      "name": "Archeopark Altamira",
+      "latitude": 50.439563,
+      "longitude": 14.921149
+    },
+    {
+      "name": "Výstaviště",
+      "latitude": 50.415621,
+      "longitude": 14.90842
+    },
+    {
+      "name": "Park u kostela Sv. Havla",
+      "latitude": 50.411918,
+      "longitude": 14.908514
+    },
+    {
+      "name": "Havelský park",
+      "latitude": 50.412432,
+      "longitude": 14.908904
+    },
+    {
+      "name": "Nový park",
+      "latitude": 50.429204,
+      "longitude": 14.908491
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.435588,
+      "longitude": 15.352839
+    },
+    {
+      "name": "Park Šibeňák",
+      "latitude": 50.435449,
+      "longitude": 15.366799
+    },
+    {
+      "name": "Řáholeček",
+      "latitude": 50.437419,
+      "longitude": 15.370764
+    },
+    {
+      "name": "Libosad",
+      "latitude": 50.449378,
+      "longitude": 15.378673
+    },
+    {
+      "name": "Park Sídliště Husova",
+      "latitude": 50.438231,
+      "longitude": 15.36429
+    },
+    {
+      "name": "U Isidora",
+      "latitude": 50.306588,
+      "longitude": 15.15531
+    },
+    {
+      "name": "Panská zahrada",
+      "latitude": 50.308422,
+      "longitude": 15.166846
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.627396,
+      "longitude": 15.608024
+    },
+    {
+      "name": "Městsky park Vrchlabí",
+      "latitude": 50.629064,
+      "longitude": 15.615417
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.610724,
+      "longitude": 15.504598
+    },
+    {
+      "name": "Lípové náměstí",
+      "latitude": 50.573665,
+      "longitude": 15.949388
+    },
+    {
+      "name": "náměstí Osvobození",
+      "latitude": 50.560088,
+      "longitude": 15.923648
+    },
+    {
+      "name": "Mariánský sad",
+      "latitude": 50.53679,
+      "longitude": 16.050421
+    },
+    {
+      "name": "Schrollův park",
+      "latitude": 50.588085,
+      "longitude": 16.331244
+    },
+    {
+      "name": "Alejka",
+      "latitude": 50.584175,
+      "longitude": 16.330928
+    },
+    {
+      "name": "Bezděkův sad",
+      "latitude": 50.535368,
+      "longitude": 16.233002
+    },
+    {
+      "name": "Pellyho park",
+      "latitude": 50.535068,
+      "longitude": 16.234214
+    },
+    {
+      "name": "Malý park",
+      "latitude": 50.493134,
+      "longitude": 15.513366
+    },
+    {
+      "name": "Jirovy sady",
+      "latitude": 50.494149,
+      "longitude": 15.51152
+    },
+    {
+      "name": "Parčík nad školou",
+      "latitude": 50.49233,
+      "longitude": 15.516842
+    },
+    {
+      "name": "Parčík mateřské školky",
+      "latitude": 50.492064,
+      "longitude": 15.517781
+    },
+    {
+      "name": "U Jezírek",
+      "latitude": 50.490459,
+      "longitude": 15.490015
+    },
+    {
+      "name": "Areál Environmentální Výchovy v Hájemství",
+      "latitude": 50.486259,
+      "longitude": 15.770566
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.430006,
+      "longitude": 15.580813
+    },
+    {
+      "name": "Schulzovy sady",
+      "latitude": 50.433298,
+      "longitude": 15.82005
+    },
+    {
+      "name": "Podharťský park",
+      "latitude": 50.438709,
+      "longitude": 15.813434
+    },
+    {
+      "name": "Podharťský park",
+      "latitude": 50.437671,
+      "longitude": 15.813446
+    },
+    {
+      "name": "park T.G.M.",
+      "latitude": 50.487287,
+      "longitude": 16.030641
+    },
+    {
+      "name": "Zahrada Boženy Němcové",
+      "latitude": 50.477035,
+      "longitude": 16.094174
+    },
+    {
+      "name": "Park u bývalé školy",
+      "latitude": 50.453911,
+      "longitude": 16.036769
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 50.365911,
+      "longitude": 15.638266
+    },
+    {
+      "name": "Park s detským hristem",
+      "latitude": 50.333309,
+      "longitude": 15.711356
+    },
+    {
+      "name": "Park s pomníkem",
+      "latitude": 50.333188,
+      "longitude": 15.709937
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.334755,
+      "longitude": 15.723789
+    },
+    {
+      "name": "Park prof. J. M. Lochmana",
+      "latitude": 50.36067,
+      "longitude": 16.149486
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 50.350081,
+      "longitude": 16.154327
+    },
+    {
+      "name": "nám. 17. listopadu",
+      "latitude": 50.35593,
+      "longitude": 16.156425
+    },
+    {
+      "name": "Masarykovy sady",
+      "latitude": 50.335944,
+      "longitude": 15.914616
+    },
+    {
+      "name": "Archlebovy sady",
+      "latitude": 50.289535,
+      "longitude": 16.154484
+    },
+    {
+      "name": "Freiwaldovo náměstí",
+      "latitude": 50.476825,
+      "longitude": 16.181226
+    },
+    {
+      "name": "Park Aloise Jiráska",
+      "latitude": 50.481931,
+      "longitude": 16.180658
+    },
+    {
+      "name": "Kamenný areál Velké Poříčí",
+      "latitude": 50.466103,
+      "longitude": 16.178327
+    },
+    {
+      "name": "Klidová zóna s naučnou stezkou Olšina",
+      "latitude": 50.460133,
+      "longitude": 16.187693
+    },
+    {
+      "name": "Park Zdrojowy",
+      "latitude": 50.444261,
+      "longitude": 16.241757
+    },
+    {
+      "name": "park u cukrovaru",
+      "latitude": 50.284361,
+      "longitude": 14.236104
+    },
+    {
+      "name": "Háje",
+      "latitude": 50.236009,
+      "longitude": 14.083113
+    },
+    {
+      "name": "park u školy",
+      "latitude": 50.279767,
+      "longitude": 14.238796
+    },
+    {
+      "name": "Veltruský zámecký park",
+      "latitude": 50.283609,
+      "longitude": 14.33193
+    },
+    {
+      "name": "Jaroslava Seiferta",
+      "latitude": 50.246771,
+      "longitude": 14.316809
+    },
+    {
+      "name": "U Školky",
+      "latitude": 50.229511,
+      "longitude": 14.082901
+    },
+    {
+      "name": "Park Skalka",
+      "latitude": 50.231523,
+      "longitude": 14.077051
+    },
+    {
+      "name": "Punk park",
+      "latitude": 50.230882,
+      "longitude": 14.078259
+    },
+    {
+      "name": "Louka Vítězná",
+      "latitude": 50.22896,
+      "longitude": 14.08176
+    },
+    {
+      "name": "Park U křižovatky",
+      "latitude": 50.229401,
+      "longitude": 14.084158
+    },
+    {
+      "name": "U Antoše",
+      "latitude": 50.229957,
+      "longitude": 14.088848
+    },
+    {
+      "name": "U Muzea",
+      "latitude": 50.230326,
+      "longitude": 14.088871
+    },
+    {
+      "name": "U Autobusového nádraží",
+      "latitude": 50.228926,
+      "longitude": 14.088411
+    },
+    {
+      "name": "Park Žižkova",
+      "latitude": 50.228572,
+      "longitude": 14.082624
+    },
+    {
+      "name": "Park Plynárenská",
+      "latitude": 50.228697,
+      "longitude": 14.079961
+    },
+    {
+      "name": "Masarykovo náměstí",
+      "latitude": 50.230756,
+      "longitude": 14.087245
+    },
+    {
+      "name": "Kumpánova zahrada",
+      "latitude": 50.224844,
+      "longitude": 14.078936
+    },
+    {
+      "name": "Kynologický klub Dolany nad Vltavou",
+      "latitude": 50.223842,
+      "longitude": 14.350448
+    },
+    {
+      "name": "Kostomlatského sady",
+      "latitude": 50.261324,
+      "longitude": 14.524233
+    },
+    {
+      "name": "Špičákova zahrada",
+      "latitude": 50.273965,
+      "longitude": 14.503539
+    },
+    {
+      "name": "Řepovy sady",
+      "latitude": 50.262531,
+      "longitude": 14.523882
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.194604,
+      "longitude": 14.522066
+    },
+    {
+      "name": "Zahrada Na Valech",
+      "latitude": 50.187183,
+      "longitude": 14.665752
+    },
+    {
+      "name": "Central park",
+      "latitude": 50.186624,
+      "longitude": 14.652592
+    },
+    {
+      "name": "náměstí 9. května",
+      "latitude": 50.165257,
+      "longitude": 14.118015
+    },
+    {
+      "name": "nám. Mikoláše Alše",
+      "latitude": 50.170324,
+      "longitude": 14.11133
+    },
+    {
+      "name": "Vinařice - náměstí",
+      "latitude": 50.176196,
+      "longitude": 14.090224
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.155473,
+      "longitude": 14.192018
+    },
+    {
+      "name": "Park Sítenské údolí",
+      "latitude": 50.138151,
+      "longitude": 14.102044
+    },
+    {
+      "name": "Park u Kauflandu",
+      "latitude": 50.131477,
+      "longitude": 14.118147
+    },
+    {
+      "name": "nám. Karla Kindla",
+      "latitude": 50.14533,
+      "longitude": 14.077253
+    },
+    {
+      "name": "Dvořákovy sady",
+      "latitude": 50.144189,
+      "longitude": 14.1062
+    },
+    {
+      "name": "náměstí Svobody",
+      "latitude": 50.144622,
+      "longitude": 14.093902
+    },
+    {
+      "name": "náměstí Karla Wittgensteina",
+      "latitude": 50.143644,
+      "longitude": 14.101201
+    },
+    {
+      "name": "Park Trilobit",
+      "latitude": 50.144387,
+      "longitude": 14.102757
+    },
+    {
+      "name": "Park v Bezručově ulici",
+      "latitude": 50.143111,
+      "longitude": 14.101802
+    },
+    {
+      "name": "Park Zoologická",
+      "latitude": 50.138879,
+      "longitude": 14.108487
+    },
+    {
+      "name": "náměstí starosty Pavla",
+      "latitude": 50.147748,
+      "longitude": 14.10257
+    },
+    {
+      "name": "nám. Edvarda Beneše",
+      "latitude": 50.14328,
+      "longitude": 14.097507
+    },
+    {
+      "name": "náměstí 17. listopadu",
+      "latitude": 50.142096,
+      "longitude": 14.098652
+    },
+    {
+      "name": "park Kovárna",
+      "latitude": 50.129987,
+      "longitude": 14.11106
+    },
+    {
+      "name": "Pietní území Lidice",
+      "latitude": 50.14232,
+      "longitude": 14.198824
+    },
+    {
+      "name": "Centrální Park",
+      "latitude": 50.160831,
+      "longitude": 14.310719
+    },
+    {
+      "name": "Park u Bláhy",
+      "latitude": 50.164647,
+      "longitude": 14.314048
+    },
+    {
+      "name": "V Lipkách",
+      "latitude": 50.160535,
+      "longitude": 14.318052
+    },
+    {
+      "name": "Tyršovo nám.",
+      "latitude": 50.161129,
+      "longitude": 14.393635
+    },
+    {
+      "name": "Park U Pasáčka",
+      "latitude": 50.171889,
+      "longitude": 14.368443
+    },
+    {
+      "name": "Komunitní zahrada",
+      "latitude": 50.137902,
+      "longitude": 14.381587
+    },
+    {
+      "name": "Libosad",
+      "latitude": 50.130195,
+      "longitude": 14.3685
+    },
+    {
+      "name": "Sady Legionářů",
+      "latitude": 50.087273,
+      "longitude": 14.124999
+    },
+    {
+      "name": "Gardenpark Jeneč",
+      "latitude": 50.088154,
+      "longitude": 14.223379
+    },
+    {
+      "name": "Vítězné náměstí (4. kvadrant)",
+      "latitude": 50.101498,
+      "longitude": 14.393799
+    },
+    {
+      "name": "Park Lotyšská",
+      "latitude": 50.103967,
+      "longitude": 14.396508
+    },
+    {
+      "name": "Strouhalák",
+      "latitude": 50.09713,
+      "longitude": 14.378152
+    },
+    {
+      "name": "Generála Lázaro Cárdenase",
+      "latitude": 50.106761,
+      "longitude": 14.399005
+    },
+    {
+      "name": "Park Bachmačské náměstí",
+      "latitude": 50.097632,
+      "longitude": 14.399342
+    },
+    {
+      "name": "park Willyho Brandta",
+      "latitude": 50.105059,
+      "longitude": 14.401392
+    },
+    {
+      "name": "park Sibiřské náměstí",
+      "latitude": 50.104846,
+      "longitude": 14.405576
+    },
+    {
+      "name": "Park v ulici Rooseveltova",
+      "latitude": 50.10288,
+      "longitude": 14.396117
+    },
+    {
+      "name": "Chotkovy sady",
+      "latitude": 50.093922,
+      "longitude": 14.407845
+    },
+    {
+      "name": "Hadovka",
+      "latitude": 50.097496,
+      "longitude": 14.369317
+    },
+    {
+      "name": "Park Marie Terezie",
+      "latitude": 50.094453,
+      "longitude": 14.394985
+    },
+    {
+      "name": "park Charlotty Garrigue Masarykové",
+      "latitude": 50.095878,
+      "longitude": 14.405014
+    },
+    {
+      "name": "Dětská zoo",
+      "latitude": 50.115471,
+      "longitude": 14.406526
+    },
+    {
+      "name": "Centrální park Hanspaulka",
+      "latitude": 50.106043,
+      "longitude": 14.379058
+    },
+    {
+      "name": "Park Jaroslava Meda",
+      "latitude": 50.101906,
+      "longitude": 14.38749
+    },
+    {
+      "name": "Morávkův park",
+      "latitude": 50.0953,
+      "longitude": 14.395947
+    },
+    {
+      "name": "Letenské sady",
+      "latitude": 50.096012,
+      "longitude": 14.413997
+    },
+    {
+      "name": "modelová železnice",
+      "latitude": 50.110408,
+      "longitude": 14.392573
+    },
+    {
+      "name": "Šabachův park",
+      "latitude": 50.098215,
+      "longitude": 14.397589
+    },
+    {
+      "name": "park Indíry Gándhíové",
+      "latitude": 50.104267,
+      "longitude": 14.389862
+    },
+    {
+      "name": "Královská obora",
+      "latitude": 50.108621,
+      "longitude": 14.412203
+    },
+    {
+      "name": "náměstí Interbrigády",
+      "latitude": 50.106,
+      "longitude": 14.395705
+    },
+    {
+      "name": "park Puškinovo náměstí",
+      "latitude": 50.102909,
+      "longitude": 14.402833
+    },
+    {
+      "name": "Třešňovka",
+      "latitude": 50.085384,
+      "longitude": 14.259043
+    },
+    {
+      "name": "Ziklův park",
+      "latitude": 50.075831,
+      "longitude": 14.258131
+    },
+    {
+      "name": "park T.G. Masaryka",
+      "latitude": 50.078325,
+      "longitude": 14.242415
+    },
+    {
+      "name": "Park Portheimka",
+      "latitude": 50.073892,
+      "longitude": 14.405204
+    },
+    {
+      "name": "Dienzenhoferovy sady",
+      "latitude": 50.074962,
+      "longitude": 14.408368
+    },
+    {
+      "name": "Vojanovy sady",
+      "latitude": 50.088668,
+      "longitude": 14.40808
+    },
+    {
+      "name": "Dolní Jelení příkop",
+      "latitude": 50.092203,
+      "longitude": 14.403637
+    },
+    {
+      "name": "Velká strahovská zahrada",
+      "latitude": 50.085579,
+      "longitude": 14.39199
+    },
+    {
+      "name": "park Holubička",
+      "latitude": 50.091926,
+      "longitude": 14.40915
+    },
+    {
+      "name": "Kampa",
+      "latitude": 50.083641,
+      "longitude": 14.407894
+    },
+    {
+      "name": "Klášterní zahrada",
+      "latitude": 50.08616,
+      "longitude": 14.355771
+    },
+    {
+      "name": "Horní Lumbeho zahrada",
+      "latitude": 50.091531,
+      "longitude": 14.390945
+    },
+    {
+      "name": "Sacré Coeur",
+      "latitude": 50.073899,
+      "longitude": 14.399495
+    },
+    {
+      "name": "Kajetánka",
+      "latitude": 50.087846,
+      "longitude": 14.372927
+    },
+    {
+      "name": "Horní Jelení příkop",
+      "latitude": 50.091,
+      "longitude": 14.395198
+    },
+    {
+      "name": "Husovy sady",
+      "latitude": 50.070211,
+      "longitude": 14.388449
+    },
+    {
+      "name": "park Cihelná",
+      "latitude": 50.089389,
+      "longitude": 14.410839
+    },
+    {
+      "name": "sady Na Skalce",
+      "latitude": 50.06705,
+      "longitude": 14.401062
+    },
+    {
+      "name": "Nosticova zahrada",
+      "latitude": 50.085148,
+      "longitude": 14.407005
+    },
+    {
+      "name": "Lobkovická zahrada",
+      "latitude": 50.085418,
+      "longitude": 14.395279
+    },
+    {
+      "name": "park Národního probuzení",
+      "latitude": 50.08297,
+      "longitude": 14.413615
+    },
+    {
+      "name": "Růžový sad",
+      "latitude": 50.081973,
+      "longitude": 14.396658
+    },
+    {
+      "name": "Park Cibulka",
+      "latitude": 50.066191,
+      "longitude": 14.355334
+    },
+    {
+      "name": "park Maxe van der Stoela",
+      "latitude": 50.090522,
+      "longitude": 14.387125
+    },
+    {
+      "name": "Petřínské sady – Seminářská zahrada",
+      "latitude": 50.083662,
+      "longitude": 14.40079
+    },
+    {
+      "name": "Kinského zahrada",
+      "latitude": 50.078784,
+      "longitude": 14.398738
+    },
+    {
+      "name": "Lumbeho zahrady",
+      "latitude": 50.092262,
+      "longitude": 14.395259
+    },
+    {
+      "name": "Mrázovka",
+      "latitude": 50.070045,
+      "longitude": 14.39659
+    },
+    {
+      "name": "Santoška",
+      "latitude": 50.064727,
+      "longitude": 14.400108
+    },
+    {
+      "name": "Park u petřínské rozhledny",
+      "latitude": 50.083291,
+      "longitude": 14.395423
+    },
+    {
+      "name": "Klamovka",
+      "latitude": 50.071684,
+      "longitude": 14.377824
+    },
+    {
+      "name": "Park Josefa Škvoreckého",
+      "latitude": 50.084106,
+      "longitude": 14.361811
+    },
+    {
+      "name": "Petřínské sady – zahrada Nebozízek",
+      "latitude": 50.082032,
+      "longitude": 14.401394
+    },
+    {
+      "name": "park Ladronka",
+      "latitude": 50.078674,
+      "longitude": 14.352607
+    },
+    {
+      "name": "Náměstí M. J. Husa",
+      "latitude": 50.167582,
+      "longitude": 14.452232
+    },
+    {
+      "name": "ZŠ Klecany",
+      "latitude": 50.176351,
+      "longitude": 14.424782
+    },
+    {
+      "name": "Čakovický zámecký park",
+      "latitude": 50.152823,
+      "longitude": 14.52119
+    },
+    {
+      "name": "Finská stezka",
+      "latitude": 50.15897,
+      "longitude": 14.516254
+    },
+    {
+      "name": "sady Husitské revoluce",
+      "latitude": 50.15097,
+      "longitude": 14.520546
+    },
+    {
+      "name": "růžový sad",
+      "latitude": 50.122624,
+      "longitude": 14.496299
+    },
+    {
+      "name": "Dlážděnka",
+      "latitude": 50.12117,
+      "longitude": 14.451293
+    },
+    {
+      "name": "Čámovka",
+      "latitude": 50.138921,
+      "longitude": 14.427014
+    },
+    {
+      "name": "park Přátelství",
+      "latitude": 50.125742,
+      "longitude": 14.491248
+    },
+    {
+      "name": "Park Kostřínská",
+      "latitude": 50.131946,
+      "longitude": 14.417258
+    },
+    {
+      "name": "Lesopark Havraňák",
+      "latitude": 50.142458,
+      "longitude": 14.531989
+    },
+    {
+      "name": "Novákovo náměstí",
+      "latitude": 50.136558,
+      "longitude": 14.553894
+    },
+    {
+      "name": "Centrální park Kbely",
+      "latitude": 50.13334,
+      "longitude": 14.553927
+    },
+    {
+      "name": "lesopark Zárybničí",
+      "latitude": 50.166344,
+      "longitude": 14.721801
+    },
+    {
+      "name": "Park profesora Procházky",
+      "latitude": 50.17129,
+      "longitude": 14.711958
+    },
+    {
+      "name": "Park U Kněžské louky",
+      "latitude": 50.093241,
+      "longitude": 14.492619
+    },
+    {
+      "name": "park Jana Podlipného",
+      "latitude": 50.107505,
+      "longitude": 14.471457
+    },
+    {
+      "name": "Sudkovy sady",
+      "latitude": 50.09603,
+      "longitude": 14.462127
+    },
+    {
+      "name": "park Srdce",
+      "latitude": 50.117763,
+      "longitude": 14.501211
+    },
+    {
+      "name": "Ladislavův park",
+      "latitude": 50.101879,
+      "longitude": 14.457043
+    },
+    {
+      "name": "Palmovecký kopec",
+      "latitude": 50.100945,
+      "longitude": 14.47396
+    },
+    {
+      "name": "park Pod Korábem",
+      "latitude": 50.112662,
+      "longitude": 14.470754
+    },
+    {
+      "name": "park Podviní",
+      "latitude": 50.110886,
+      "longitude": 14.492158
+    },
+    {
+      "name": "Thomayerovy sady",
+      "latitude": 50.108667,
+      "longitude": 14.467929
+    },
+    {
+      "name": "River Lofts Gardens",
+      "latitude": 50.110999,
+      "longitude": 14.4507
+    },
+    {
+      "name": "Kaizlovy sady",
+      "latitude": 50.094442,
+      "longitude": 14.45997
+    },
+    {
+      "name": "zahrada Za Svatyněmi",
+      "latitude": 50.092749,
+      "longitude": 14.424727
+    },
+    {
+      "name": "Lesopark Bílá skála",
+      "latitude": 50.115543,
+      "longitude": 14.453935
+    },
+    {
+      "name": "U Vody",
+      "latitude": 50.112106,
+      "longitude": 14.449748
+    },
+    {
+      "name": "Letenské sady",
+      "latitude": 50.095374,
+      "longitude": 14.42306
+    },
+    {
+      "name": "Letenské sady",
+      "latitude": 50.096062,
+      "longitude": 14.427215
+    },
+    {
+      "name": "náměstí Organizace spojených národů",
+      "latitude": 50.11015,
+      "longitude": 14.503064
+    },
+    {
+      "name": "Parčík u Rokytky",
+      "latitude": 50.096411,
+      "longitude": 14.527796
+    },
+    {
+      "name": "park Krále Alexandra",
+      "latitude": 50.10756,
+      "longitude": 14.504678
+    },
+    {
+      "name": "U Čeňku",
+      "latitude": 50.101018,
+      "longitude": 14.575676
+    },
+    {
+      "name": "Rokytka",
+      "latitude": 50.106773,
+      "longitude": 14.521778
+    },
+    {
+      "name": "Park Podkovářská",
+      "latitude": 50.104433,
+      "longitude": 14.513028
+    },
+    {
+      "name": "Čelakovského sady",
+      "latitude": 50.077865,
+      "longitude": 14.431101
+    },
+    {
+      "name": "Židovské pece",
+      "latitude": 50.088635,
+      "longitude": 14.477681
+    },
+    {
+      "name": "Čelakovského sady",
+      "latitude": 50.078199,
+      "longitude": 14.430209
+    },
+    {
+      "name": "Heroldovy sady",
+      "latitude": 50.0703,
+      "longitude": 14.453542
+    },
+    {
+      "name": "park Na Solidaritě",
+      "latitude": 50.076752,
+      "longitude": 14.499619
+    },
+    {
+      "name": "Františkánská zahrada",
+      "latitude": 50.082145,
+      "longitude": 14.423734
+    },
+    {
+      "name": "Parukářka",
+      "latitude": 50.084928,
+      "longitude": 14.460262
+    },
+    {
+      "name": "Mahlerovy sady",
+      "latitude": 50.081087,
+      "longitude": 14.45096
+    },
+    {
+      "name": "sady Bratří Čapků",
+      "latitude": 50.073054,
+      "longitude": 14.448199
+    },
+    {
+      "name": "park Mileny Jesenské",
+      "latitude": 50.077318,
+      "longitude": 14.470693
+    },
+    {
+      "name": "Brázdův park",
+      "latitude": 50.072449,
+      "longitude": 14.472301
+    },
+    {
+      "name": "Ztracenka",
+      "latitude": 50.068735,
+      "longitude": 14.427178
+    },
+    {
+      "name": "park Červená skála",
+      "latitude": 50.087791,
+      "longitude": 14.467333
+    },
+    {
+      "name": "U Hranic",
+      "latitude": 50.070075,
+      "longitude": 14.485358
+    },
+    {
+      "name": "park Přemysla Pittera",
+      "latitude": 50.084536,
+      "longitude": 14.464532
+    },
+    {
+      "name": "Rajská zahrada",
+      "latitude": 50.082152,
+      "longitude": 14.442587
+    },
+    {
+      "name": "Karlachovy sady",
+      "latitude": 50.064337,
+      "longitude": 14.420022
+    },
+    {
+      "name": "Štulcovy sady",
+      "latitude": 50.065677,
+      "longitude": 14.417321
+    },
+    {
+      "name": "Park na hradbách",
+      "latitude": 50.06834,
+      "longitude": 14.429322
+    },
+    {
+      "name": "sady Jana Švermy",
+      "latitude": 50.090692,
+      "longitude": 14.438152
+    },
+    {
+      "name": "Park Jiřího Karena",
+      "latitude": 50.083107,
+      "longitude": 14.485416
+    },
+    {
+      "name": "Dannerův park",
+      "latitude": 50.067709,
+      "longitude": 14.454763
+    },
+    {
+      "name": "park Ruth Bondyové",
+      "latitude": 50.072867,
+      "longitude": 14.483887
+    },
+    {
+      "name": "sady Svatopluka Čecha",
+      "latitude": 50.076679,
+      "longitude": 14.447178
+    },
+    {
+      "name": "Zítkovy sady",
+      "latitude": 50.07228,
+      "longitude": 14.414862
+    },
+    {
+      "name": "Park Jiřího Koláře",
+      "latitude": 50.066663,
+      "longitude": 14.448388
+    },
+    {
+      "name": "Park Jiřiny Haukové a Jindřicha Chalupeckého",
+      "latitude": 50.065767,
+      "longitude": 14.447134
+    },
+    {
+      "name": "Riegrovy sady",
+      "latitude": 50.080576,
+      "longitude": 14.440522
+    },
+    {
+      "name": "Bezručovy sady",
+      "latitude": 50.07231,
+      "longitude": 14.446398
+    },
+    {
+      "name": "Vrchlického sady",
+      "latitude": 50.083221,
+      "longitude": 14.433726
+    },
+    {
+      "name": "Ve vnitrobloku",
+      "latitude": 50.091396,
+      "longitude": 14.47754
+    },
+    {
+      "name": "Kostnické náměstí",
+      "latitude": 50.085854,
+      "longitude": 14.448113
+    },
+    {
+      "name": "Havlíčkovy sady",
+      "latitude": 50.06877,
+      "longitude": 14.444763
+    },
+    {
+      "name": "Park Františka Suchého",
+      "latitude": 50.074759,
+      "longitude": 14.486102
+    },
+    {
+      "name": "Folimanka",
+      "latitude": 50.067624,
+      "longitude": 14.429333
+    },
+    {
+      "name": "Malešický park",
+      "latitude": 50.084726,
+      "longitude": 14.49854
+    },
+    {
+      "name": "Kateřinská zahrada",
+      "latitude": 50.073223,
+      "longitude": 14.425377
+    },
+    {
+      "name": "Park Vrch Vítkov",
+      "latitude": 50.089419,
+      "longitude": 14.455303
+    },
+    {
+      "name": "park Ivana Jilemnického",
+      "latitude": 50.077455,
+      "longitude": 14.489541
+    },
+    {
+      "name": "Park Československých legionářů",
+      "latitude": 50.087211,
+      "longitude": 14.557554
+    },
+    {
+      "name": "park Pilská",
+      "latitude": 50.091363,
+      "longitude": 14.560461
+    },
+    {
+      "name": "Park Hrušov",
+      "latitude": 50.069319,
+      "longitude": 14.544904
+    },
+    {
+      "name": "Nolčův park",
+      "latitude": 50.116733,
+      "longitude": 14.626559
+    },
+    {
+      "name": "Park Poznání",
+      "latitude": 50.111372,
+      "longitude": 14.613421
+    },
+    {
+      "name": "Park Houslový klíč",
+      "latitude": 50.109645,
+      "longitude": 14.620839
+    },
+    {
+      "name": "Přímské náměstí",
+      "latitude": 50.099031,
+      "longitude": 14.678105
+    },
+    {
+      "name": "Rubešův sad",
+      "latitude": 50.078605,
+      "longitude": 14.602016
+    },
+    {
+      "name": "Kotrbův sad",
+      "latitude": 50.07716,
+      "longitude": 14.598234
+    },
+    {
+      "name": "park Běžců",
+      "latitude": 50.081345,
+      "longitude": 14.61502
+    },
+    {
+      "name": "DiscGolfPark Běchovice",
+      "latitude": 50.085978,
+      "longitude": 14.610983
+    },
+    {
+      "name": "Psí plácek Újezd",
+      "latitude": 50.076104,
+      "longitude": 14.66568
+    },
+    {
+      "name": "Park Vinice",
+      "latitude": 50.078506,
+      "longitude": 14.738019
+    },
+    {
+      "name": "Nachlingerův park",
+      "latitude": 50.073377,
+      "longitude": 14.715672
+    },
+    {
+      "name": "Ježkův park",
+      "latitude": 50.074763,
+      "longitude": 14.682995
+    },
+    {
+      "name": "Rosenbaumův park",
+      "latitude": 50.077397,
+      "longitude": 14.71766
+    },
+    {
+      "name": "Park Ferdinanda Bárty",
+      "latitude": 50.286069,
+      "longitude": 14.83129
+    },
+    {
+      "name": "Park Františka Šťastného",
+      "latitude": 50.274741,
+      "longitude": 14.78237
+    },
+    {
+      "name": "Lesopark Lišky",
+      "latitude": 50.236423,
+      "longitude": 14.866673
+    },
+    {
+      "name": "Císařský park Františka Josefa I.",
+      "latitude": 50.256444,
+      "longitude": 14.94733
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.202942,
+      "longitude": 14.83525
+    },
+    {
+      "name": "Park Štěpánky Rohanové",
+      "latitude": 50.200389,
+      "longitude": 14.84178
+    },
+    {
+      "name": "Park Ing. Wilhelma Hellwaga",
+      "latitude": 50.19318,
+      "longitude": 15.042452
+    },
+    {
+      "name": "Park Pod Hradbami",
+      "latitude": 50.18647,
+      "longitude": 15.045579
+    },
+    {
+      "name": "Park U Vodárenské věže",
+      "latitude": 50.187849,
+      "longitude": 15.042155
+    },
+    {
+      "name": "Park Hrdinů",
+      "latitude": 50.189031,
+      "longitude": 15.040977
+    },
+    {
+      "name": "Park v Kolonii",
+      "latitude": 50.192501,
+      "longitude": 15.038129
+    },
+    {
+      "name": "Park Na Hradišti",
+      "latitude": 50.185651,
+      "longitude": 15.043167
+    },
+    {
+      "name": "Park Ing. Emila Zimmlera",
+      "latitude": 50.184979,
+      "longitude": 15.043794
+    },
+    {
+      "name": "Park Dr. Antonína Brzoráda",
+      "latitude": 50.188307,
+      "longitude": 15.038454
+    },
+    {
+      "name": "Svatojiřský park",
+      "latitude": 50.182909,
+      "longitude": 15.034685
+    },
+    {
+      "name": "Svatojánský park",
+      "latitude": 50.184344,
+      "longitude": 15.041453
+    },
+    {
+      "name": "Park Na Ostrově",
+      "latitude": 50.183343,
+      "longitude": 15.04939
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.268737,
+      "longitude": 15.138848
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 50.159682,
+      "longitude": 14.82328
+    },
+    {
+      "name": "Hájek",
+      "latitude": 50.16499,
+      "longitude": 14.766934
+    },
+    {
+      "name": "Husovo náměstí",
+      "latitude": 50.087662,
+      "longitude": 15.027597
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 50.145568,
+      "longitude": 15.11913
+    },
+    {
+      "name": "Purkyňovy sady",
+      "latitude": 50.143163,
+      "longitude": 15.125438
+    },
+    {
+      "name": "Kubovy sady",
+      "latitude": 50.140458,
+      "longitude": 15.123852
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 50.141578,
+      "longitude": 15.126856
+    },
+    {
+      "name": "sady Stanislava Kostky Neumanna",
+      "latitude": 50.139719,
+      "longitude": 15.130847
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.159189,
+      "longitude": 15.45203
+    },
+    {
+      "name": "Parčík u Zubatovské kaple",
+      "latitude": 50.156235,
+      "longitude": 15.457197
+    },
+    {
+      "name": "Parčík a hřiště mezi sídlišti",
+      "latitude": 50.164085,
+      "longitude": 15.453421
+    },
+    {
+      "name": "Park Svobody",
+      "latitude": 50.133924,
+      "longitude": 15.389899
+    },
+    {
+      "name": "Višňovka",
+      "latitude": 50.058768,
+      "longitude": 14.221995
+    },
+    {
+      "name": "Opatovka",
+      "latitude": 50.056528,
+      "longitude": 14.221313
+    },
+    {
+      "name": "Tomáš Garrigue Masaryk",
+      "latitude": 50.034003,
+      "longitude": 14.232079
+    },
+    {
+      "name": "Husův dům",
+      "latitude": 50.029089,
+      "longitude": 14.219832
+    },
+    {
+      "name": "Lidl hřište",
+      "latitude": 50.031717,
+      "longitude": 14.22322
+    },
+    {
+      "name": "Dětské hřiště Drahelčice",
+      "latitude": 50.033975,
+      "longitude": 14.202984
+    },
+    {
+      "name": "Panská zahrada",
+      "latitude": 50.050725,
+      "longitude": 14.314917
+    },
+    {
+      "name": "park Na Prameništi",
+      "latitude": 50.061435,
+      "longitude": 14.285683
+    },
+    {
+      "name": "park Na Pláni",
+      "latitude": 50.061988,
+      "longitude": 14.393247
+    },
+    {
+      "name": "Jezerka",
+      "latitude": 50.040077,
+      "longitude": 14.410163
+    },
+    {
+      "name": "Park Waltrovka",
+      "latitude": 50.05739,
+      "longitude": 14.375829
+    },
+    {
+      "name": "Dalejský park",
+      "latitude": 50.036986,
+      "longitude": 14.331878
+    },
+    {
+      "name": "Centrální park",
+      "latitude": 50.047286,
+      "longitude": 14.32835
+    },
+    {
+      "name": "Social Impact 2",
+      "latitude": 50.057648,
+      "longitude": 14.387183
+    },
+    {
+      "name": "Husí plácek",
+      "latitude": 50.016817,
+      "longitude": 14.296302
+    },
+    {
+      "name": "Sloup s ukazatelem větru",
+      "latitude": 50.021875,
+      "longitude": 14.370519
+    },
+    {
+      "name": "Park Granátová",
+      "latitude": 50.02159,
+      "longitude": 14.370497
+    },
+    {
+      "name": "Geopark Barrandien",
+      "latitude": 49.962924,
+      "longitude": 14.072985
+    },
+    {
+      "name": "Soutok",
+      "latitude": 49.991842,
+      "longitude": 14.401356
+    },
+    {
+      "name": "Parkové muzeum Modřany",
+      "latitude": 49.998935,
+      "longitude": 14.409269
+    },
+    {
+      "name": "Sportpark Berounka",
+      "latitude": 49.96287,
+      "longitude": 14.326336
+    },
+    {
+      "name": "Lesopark Belveder",
+      "latitude": 49.964728,
+      "longitude": 14.39153
+    },
+    {
+      "name": "Sluneční náměstí",
+      "latitude": 49.969121,
+      "longitude": 14.386975
+    },
+    {
+      "name": "park Františka Langera",
+      "latitude": 50.061572,
+      "longitude": 14.468565
+    },
+    {
+      "name": "Geopark Spořilov",
+      "latitude": 50.040425,
+      "longitude": 14.474789
+    },
+    {
+      "name": "Baarův Park",
+      "latitude": 50.049388,
+      "longitude": 14.455479
+    },
+    {
+      "name": "Jezerka",
+      "latitude": 50.057603,
+      "longitude": 14.445963
+    },
+    {
+      "name": "Park Adolfa Borna",
+      "latitude": 50.042122,
+      "longitude": 14.423837
+    },
+    {
+      "name": "Antonína Engela",
+      "latitude": 50.055529,
+      "longitude": 14.419225
+    },
+    {
+      "name": "Kavčí hory",
+      "latitude": 50.049125,
+      "longitude": 14.420812
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 50.061349,
+      "longitude": 14.438393
+    },
+    {
+      "name": "Centrální park",
+      "latitude": 50.049496,
+      "longitude": 14.432121
+    },
+    {
+      "name": "Park u Chodovské vodní tvrze",
+      "latitude": 50.036181,
+      "longitude": 14.498373
+    },
+    {
+      "name": "Náměstí Hrdinů",
+      "latitude": 50.056716,
+      "longitude": 14.435593
+    },
+    {
+      "name": "Park Malinová-Chrpová",
+      "latitude": 50.057005,
+      "longitude": 14.50507
+    },
+    {
+      "name": "Zahrada Pivovaru Hostivar",
+      "latitude": 50.046298,
+      "longitude": 14.549934
+    },
+    {
+      "name": "Alšovy sady",
+      "latitude": 50.024116,
+      "longitude": 14.446267
+    },
+    {
+      "name": "park U Zahrádkářské kolonie",
+      "latitude": 50.012,
+      "longitude": 14.449845
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.010498,
+      "longitude": 14.483047
+    },
+    {
+      "name": "Park Povodňová",
+      "latitude": 50.007995,
+      "longitude": 14.414083
+    },
+    {
+      "name": "Pitkovické rybníky",
+      "latitude": 50.018468,
+      "longitude": 14.586126
+    },
+    {
+      "name": "Park Křitinská",
+      "latitude": 50.029072,
+      "longitude": 14.532928
+    },
+    {
+      "name": "Panská zahrada Dubeč",
+      "latitude": 50.062976,
+      "longitude": 14.598491
+    },
+    {
+      "name": "Park Malovka",
+      "latitude": 50.062368,
+      "longitude": 14.637919
+    },
+    {
+      "name": "Pangejt",
+      "latitude": 50.013998,
+      "longitude": 14.623864
+    },
+    {
+      "name": "Dětské hřiště u pošty",
+      "latitude": 50.013842,
+      "longitude": 14.626801
+    },
+    {
+      "name": "Průhonický park",
+      "latitude": 49.987532,
+      "longitude": 14.55016
+    },
+    {
+      "name": "Mlynářský park",
+      "latitude": 49.965286,
+      "longitude": 14.452585
+    },
+    {
+      "name": "Keltský park",
+      "latitude": 49.964785,
+      "longitude": 14.457007
+    },
+    {
+      "name": "Park Antonína Švehly",
+      "latitude": 49.994857,
+      "longitude": 14.659969
+    },
+    {
+      "name": "Park na náměstí ČSL armády",
+      "latitude": 50.000947,
+      "longitude": 14.670925
+    },
+    {
+      "name": "Park P. Koreše",
+      "latitude": 49.990749,
+      "longitude": 14.660765
+    },
+    {
+      "name": "Park NADIVOKO",
+      "latitude": 49.994418,
+      "longitude": 14.652863
+    },
+    {
+      "name": "Kouzelná zahrada",
+      "latitude": 49.992381,
+      "longitude": 14.65482
+    },
+    {
+      "name": "Lázeňská louka",
+      "latitude": 49.990044,
+      "longitude": 14.65289
+    },
+    {
+      "name": "Tichá poštovní zahrada",
+      "latitude": 49.992865,
+      "longitude": 14.65557
+    },
+    {
+      "name": "Školní zahrada všech smyslů",
+      "latitude": 49.99279,
+      "longitude": 14.656286
+    },
+    {
+      "name": "Park Václava Havla",
+      "latitude": 49.997214,
+      "longitude": 14.657396
+    },
+    {
+      "name": "park pod Tescem",
+      "latitude": 50.001068,
+      "longitude": 14.657415
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.906247,
+      "longitude": 14.14942
+    },
+    {
+      "name": "Havlíčkovy sady",
+      "latitude": 49.911524,
+      "longitude": 14.231065
+    },
+    {
+      "name": "Skalecké náměstí",
+      "latitude": 49.871681,
+      "longitude": 14.261532
+    },
+    {
+      "name": "náměstí F. X. Svobody",
+      "latitude": 49.866553,
+      "longitude": 14.260086
+    },
+    {
+      "name": "Obecní park Želivec",
+      "latitude": 49.916306,
+      "longitude": 14.579051
+    },
+    {
+      "name": "Park J. Holíka",
+      "latitude": 49.938401,
+      "longitude": 14.703608
+    },
+    {
+      "name": "Hřiště u tygra",
+      "latitude": 49.930395,
+      "longitude": 14.705252
+    },
+    {
+      "name": "Park Járy Cimrmana",
+      "latitude": 49.929777,
+      "longitude": 14.711532
+    },
+    {
+      "name": "Mírové náměstí",
+      "latitude": 50.003547,
+      "longitude": 14.976783
+    },
+    {
+      "name": "park Na Hradbách",
+      "latitude": 50.001658,
+      "longitude": 14.978472
+    },
+    {
+      "name": "Komenského park",
+      "latitude": 50.026095,
+      "longitude": 15.204353
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.979974,
+      "longitude": 15.20769
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 49.955192,
+      "longitude": 15.275795
+    },
+    {
+      "name": "Zahrada Hradec",
+      "latitude": 49.92609,
+      "longitude": 14.83008
+    },
+    {
+      "name": "Kulturní areál U Martina",
+      "latitude": 49.870304,
+      "longitude": 14.894695
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 49.88036,
+      "longitude": 15.068863
+    },
+    {
+      "name": "Náves",
+      "latitude": 49.838843,
+      "longitude": 15.010675
+    },
+    {
+      "name": "Park GASK",
+      "latitude": 49.946598,
+      "longitude": 15.262632
+    },
+    {
+      "name": "Vorlického Sady",
+      "latitude": 49.945028,
+      "longitude": 15.263317
+    },
+    {
+      "name": "Park u Kostela Nanebevzetí Panny Marie",
+      "latitude": 49.950132,
+      "longitude": 15.273078
+    },
+    {
+      "name": "Park u pomníku",
+      "latitude": 49.949546,
+      "longitude": 15.253045
+    },
+    {
+      "name": "Městské sady",
+      "latitude": 49.947334,
+      "longitude": 15.273627
+    },
+    {
+      "name": "Sad JUDr. Milady Horákové",
+      "latitude": 49.949815,
+      "longitude": 15.263663
+    },
+    {
+      "name": "park zámku Filipov",
+      "latitude": 49.893905,
+      "longitude": 15.42716
+    },
+    {
+      "name": "zámecký park Skřivany",
+      "latitude": 50.27101,
+      "longitude": 15.504077
+    },
+    {
+      "name": "Městký park u Novobydžovského hřbitova",
+      "latitude": 50.240404,
+      "longitude": 15.479156
+    },
+    {
+      "name": "Štrosovy sady",
+      "latitude": 50.234958,
+      "longitude": 15.632505
+    },
+    {
+      "name": "Pod Rozhlednou",
+      "latitude": 50.188671,
+      "longitude": 15.531584
+    },
+    {
+      "name": "Sady architekta Lisky",
+      "latitude": 50.208877,
+      "longitude": 15.819981
+    },
+    {
+      "name": "Sukovy sady",
+      "latitude": 50.211434,
+      "longitude": 15.813542
+    },
+    {
+      "name": "Park Skleněnka",
+      "latitude": 50.214355,
+      "longitude": 15.818979
+    },
+    {
+      "name": "park Sádky",
+      "latitude": 50.207678,
+      "longitude": 15.800519
+    },
+    {
+      "name": "park Kuklenka",
+      "latitude": 50.206381,
+      "longitude": 15.798264
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.265879,
+      "longitude": 16.11446
+    },
+    {
+      "name": "Žižkovy sady",
+      "latitude": 50.211126,
+      "longitude": 15.8357
+    },
+    {
+      "name": "Vonešovy sady",
+      "latitude": 50.20837,
+      "longitude": 15.842173
+    },
+    {
+      "name": "Šimkovy Sady",
+      "latitude": 50.214932,
+      "longitude": 15.835831
+    },
+    {
+      "name": "Kubištovy sady",
+      "latitude": 50.211519,
+      "longitude": 15.841642
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 50.206378,
+      "longitude": 15.826921
+    },
+    {
+      "name": "Bidlův park",
+      "latitude": 50.213596,
+      "longitude": 15.843992
+    },
+    {
+      "name": "Sady architekta Lisky",
+      "latitude": 50.209012,
+      "longitude": 15.821312
+    },
+    {
+      "name": "Kavčí plácek",
+      "latitude": 50.210872,
+      "longitude": 15.837298
+    },
+    {
+      "name": "Rozárka",
+      "latitude": 50.179747,
+      "longitude": 15.841549
+    },
+    {
+      "name": "Sady Františky Plamínkové",
+      "latitude": 50.195104,
+      "longitude": 15.837474
+    },
+    {
+      "name": "náměstí Václava Havla",
+      "latitude": 50.203795,
+      "longitude": 15.829162
+    },
+    {
+      "name": "Koutek ochrany přírody",
+      "latitude": 50.18833,
+      "longitude": 15.981817
+    },
+    {
+      "name": "Park u hřbitova",
+      "latitude": 50.203706,
+      "longitude": 15.989907
+    },
+    {
+      "name": "Park na Heldově náměstíé",
+      "latitude": 50.201228,
+      "longitude": 15.985704
+    },
+    {
+      "name": "Lázeňský park Lázně Bohdaneč",
+      "latitude": 50.07526,
+      "longitude": 15.682845
+    },
+    {
+      "name": "Městský park",
+      "latitude": 50.149982,
+      "longitude": 16.074954
+    },
+    {
+      "name": "Obecní park \"Za školkou\"",
+      "latitude": 50.136251,
+      "longitude": 16.096876
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.166107,
+      "longitude": 16.277512
+    },
+    {
+      "name": "Sady legií",
+      "latitude": 50.162473,
+      "longitude": 16.278429
+    },
+    {
+      "name": "Zámecký park Častolovice",
+      "latitude": 50.131649,
+      "longitude": 16.189788
+    },
+    {
+      "name": "Sokolská zahrada",
+      "latitude": 50.132965,
+      "longitude": 16.183795
+    },
+    {
+      "name": "Park u Stavebnin",
+      "latitude": 50.127073,
+      "longitude": 16.218206
+    },
+    {
+      "name": "Bělisko",
+      "latitude": 50.108345,
+      "longitude": 16.25606
+    },
+    {
+      "name": "Park u Zastávky",
+      "latitude": 50.119811,
+      "longitude": 16.204041
+    },
+    {
+      "name": "Náměstí Dr. Lützowa",
+      "latitude": 50.117374,
+      "longitude": 16.296415
+    },
+    {
+      "name": "Park u rozhledny",
+      "latitude": 50.092217,
+      "longitude": 16.246904
+    },
+    {
+      "name": "Park u Rybníku",
+      "latitude": 50.08907,
+      "longitude": 16.251306
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 50.083327,
+      "longitude": 16.308618
+    },
+    {
+      "name": "Vojáčkovy sady",
+      "latitude": 50.084517,
+      "longitude": 16.463642
+    },
+    {
+      "name": "Stamichman’s Educational Trail",
+      "latitude": 50.151781,
+      "longitude": 16.815204
+    },
+    {
+      "name": "Pernštýnské náměstí",
+      "latitude": 50.038444,
+      "longitude": 15.563976
+    },
+    {
+      "name": "park Jiřího Srbka",
+      "latitude": 50.044068,
+      "longitude": 15.75107
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 50.04073,
+      "longitude": 15.7754
+    },
+    {
+      "name": "Bubeníkovy sady",
+      "latitude": 50.036963,
+      "longitude": 15.784297
+    },
+    {
+      "name": "Park Ohrádka",
+      "latitude": 50.063005,
+      "longitude": 15.757961
+    },
+    {
+      "name": "Na Špici",
+      "latitude": 50.044742,
+      "longitude": 15.781301
+    },
+    {
+      "name": "náměstí 9. května",
+      "latitude": 50.042874,
+      "longitude": 15.734888
+    },
+    {
+      "name": "Lesopark Jiřího Potůčka",
+      "latitude": 50.051151,
+      "longitude": 15.7498
+    },
+    {
+      "name": "Park Pardubičky",
+      "latitude": 50.028329,
+      "longitude": 15.797012
+    },
+    {
+      "name": "Zborovské náměstí",
+      "latitude": 50.022043,
+      "longitude": 15.771559
+    },
+    {
+      "name": "Park Vinice",
+      "latitude": 50.028314,
+      "longitude": 15.785918
+    },
+    {
+      "name": "Náměstí Československých legií",
+      "latitude": 50.033967,
+      "longitude": 15.767418
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.956039,
+      "longitude": 15.788853
+    },
+    {
+      "name": "Střelnice",
+      "latitude": 49.9559,
+      "longitude": 15.807187
+    },
+    {
+      "name": "Klášterní zahrady",
+      "latitude": 49.952143,
+      "longitude": 15.797561
+    },
+    {
+      "name": "Sportovně relaxační park Mlynářka.",
+      "latitude": 50.062673,
+      "longitude": 15.852066
+    },
+    {
+      "name": "Havlíčkovy sady",
+      "latitude": 49.954078,
+      "longitude": 16.15795
+    },
+    {
+      "name": "Jungmannovy sady",
+      "latitude": 49.951789,
+      "longitude": 16.162607
+    },
+    {
+      "name": "park Otmara Vaňorného",
+      "latitude": 49.951886,
+      "longitude": 16.158282
+    },
+    {
+      "name": "Masarykovy sady",
+      "latitude": 49.955787,
+      "longitude": 16.15856
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.942576,
+      "longitude": 15.667537
+    },
+    {
+      "name": "Přírodní zahrada u sokolovny",
+      "latitude": 49.949713,
+      "longitude": 15.666248
+    },
+    {
+      "name": "Park Republiky",
+      "latitude": 49.950147,
+      "longitude": 15.792968
+    },
+    {
+      "name": "Zieglerovy sady",
+      "latitude": 49.950017,
+      "longitude": 15.799257
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.918024,
+      "longitude": 15.809433
+    },
+    {
+      "name": "zámecký park Žleby",
+      "latitude": 49.887444,
+      "longitude": 15.487627
+    },
+    {
+      "name": "Parčík Josefa Pospíšila",
+      "latitude": 49.853057,
+      "longitude": 15.653825
+    },
+    {
+      "name": "Kaštanka",
+      "latitude": 49.846762,
+      "longitude": 15.802592
+    },
+    {
+      "name": "U Koruny",
+      "latitude": 49.949579,
+      "longitude": 16.158876
+    },
+    {
+      "name": "Oranžerie",
+      "latitude": 49.85233,
+      "longitude": 16.144893
+    },
+    {
+      "name": "Arboretum",
+      "latitude": 50.038864,
+      "longitude": 16.431494
+    },
+    {
+      "name": "Mírové sady",
+      "latitude": 50.041046,
+      "longitude": 16.505467
+    },
+    {
+      "name": "zámecký park Letohrad",
+      "latitude": 50.034725,
+      "longitude": 16.497045
+    },
+    {
+      "name": "Kociánka",
+      "latitude": 49.972606,
+      "longitude": 16.397655
+    },
+    {
+      "name": "Park Československých Legií",
+      "latitude": 49.969793,
+      "longitude": 16.399095
+    },
+    {
+      "name": "Park u divadla",
+      "latitude": 49.975123,
+      "longitude": 16.391595
+    },
+    {
+      "name": "Wolkerovo Údolí",
+      "latitude": 49.968539,
+      "longitude": 16.406513
+    },
+    {
+      "name": "Nové Náměstí",
+      "latitude": 49.901055,
+      "longitude": 16.443202
+    },
+    {
+      "name": "Park Javorka",
+      "latitude": 49.898367,
+      "longitude": 16.436921
+    },
+    {
+      "name": "U Krematoria",
+      "latitude": 49.904873,
+      "longitude": 16.457111
+    },
+    {
+      "name": "Park u Tesca",
+      "latitude": 49.913216,
+      "longitude": 16.438123
+    },
+    {
+      "name": "Na Zámostí",
+      "latitude": 49.903939,
+      "longitude": 16.448863
+    },
+    {
+      "name": "Geopark",
+      "latitude": 49.903979,
+      "longitude": 16.44215
+    },
+    {
+      "name": "Francouzská zahrada",
+      "latitude": 49.873041,
+      "longitude": 16.312213
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.873658,
+      "longitude": 16.313418
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.874104,
+      "longitude": 16.313495
+    },
+    {
+      "name": "park na Jiráskově náměstí",
+      "latitude": 49.872793,
+      "longitude": 16.315674
+    },
+    {
+      "name": "Park u Pedagogické školy",
+      "latitude": 49.873468,
+      "longitude": 16.309183
+    },
+    {
+      "name": "Park u škol",
+      "latitude": 49.870158,
+      "longitude": 16.304264
+    },
+    {
+      "name": "Park U Smetanova domu",
+      "latitude": 49.872565,
+      "longitude": 16.307968
+    },
+    {
+      "name": "Park v nemocnici",
+      "latitude": 49.86439,
+      "longitude": 16.313106
+    },
+    {
+      "name": "Park Zdeňka Kopala",
+      "latitude": 49.860771,
+      "longitude": 16.309298
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.913953,
+      "longitude": 16.613989
+    },
+    {
+      "name": "Bezručovy sady",
+      "latitude": 49.883281,
+      "longitude": 16.867914
+    },
+    {
+      "name": "Knížecí sady",
+      "latitude": 49.879123,
+      "longitude": 16.87191
+    },
+    {
+      "name": "Václavský park",
+      "latitude": 49.796789,
+      "longitude": 12.634841
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.797264,
+      "longitude": 12.629846
+    },
+    {
+      "name": "Expozice STŘELNICE",
+      "latitude": 49.67287,
+      "longitude": 12.54243
+    },
+    {
+      "name": "Střelnice pistole",
+      "latitude": 49.67354,
+      "longitude": 12.544062
+    },
+    {
+      "name": "Park smíření",
+      "latitude": 49.583238,
+      "longitude": 12.579888
+    },
+    {
+      "name": "Zámecké zahrady a park",
+      "latitude": 49.767795,
+      "longitude": 12.910508
+    },
+    {
+      "name": "park U Jezírka",
+      "latitude": 49.771838,
+      "longitude": 13.356616
+    },
+    {
+      "name": "park Podzemník",
+      "latitude": 49.780143,
+      "longitude": 13.35877
+    },
+    {
+      "name": "park Zemník",
+      "latitude": 49.779113,
+      "longitude": 13.358418
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.685257,
+      "longitude": 12.69992
+    },
+    {
+      "name": "Univerzitní park",
+      "latitude": 49.724343,
+      "longitude": 13.35202
+    },
+    {
+      "name": "sportovní areál V Luhu",
+      "latitude": 49.816027,
+      "longitude": 13.361978
+    },
+    {
+      "name": "Husův park",
+      "latitude": 49.757364,
+      "longitude": 13.413475
+    },
+    {
+      "name": "Habrmannův park",
+      "latitude": 49.757072,
+      "longitude": 13.419728
+    },
+    {
+      "name": "park Potoční",
+      "latitude": 49.761523,
+      "longitude": 13.420558
+    },
+    {
+      "name": "park Manětínská",
+      "latitude": 49.779311,
+      "longitude": 13.366818
+    },
+    {
+      "name": "U Školky",
+      "latitude": 49.780277,
+      "longitude": 13.36739
+    },
+    {
+      "name": "park U Bazénu na Lochotíně",
+      "latitude": 49.770437,
+      "longitude": 13.369804
+    },
+    {
+      "name": "park Kralovická",
+      "latitude": 49.777276,
+      "longitude": 13.365156
+    },
+    {
+      "name": "Lochotínský park",
+      "latitude": 49.760348,
+      "longitude": 13.363611
+    },
+    {
+      "name": "Husovo náměstí",
+      "latitude": 49.745466,
+      "longitude": 13.365821
+    },
+    {
+      "name": "Lobezský park",
+      "latitude": 49.741699,
+      "longitude": 13.408152
+    },
+    {
+      "name": "Chvojkovy lomy",
+      "latitude": 49.734861,
+      "longitude": 13.400747
+    },
+    {
+      "name": "park Výstaviště",
+      "latitude": 49.751819,
+      "longitude": 13.370642
+    },
+    {
+      "name": "Park Miroslava Horníčka",
+      "latitude": 49.746427,
+      "longitude": 13.372355
+    },
+    {
+      "name": "sady 5. května",
+      "latitude": 49.747995,
+      "longitude": 13.381896
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.74499,
+      "longitude": 13.374838
+    },
+    {
+      "name": "Šafaříkovy sady",
+      "latitude": 49.745265,
+      "longitude": 13.379659
+    },
+    {
+      "name": "Papírenský park",
+      "latitude": 49.733699,
+      "longitude": 13.386181
+    },
+    {
+      "name": "Křižíkovy sady",
+      "latitude": 49.746539,
+      "longitude": 13.379984
+    },
+    {
+      "name": "Kopeckého sady",
+      "latitude": 49.744778,
+      "longitude": 13.376673
+    },
+    {
+      "name": "Plovárenský park",
+      "latitude": 49.731942,
+      "longitude": 13.382391
+    },
+    {
+      "name": "Park u Ježíška",
+      "latitude": 49.739959,
+      "longitude": 13.384577
+    },
+    {
+      "name": "Mikulášské náměstí",
+      "latitude": 49.739764,
+      "longitude": 13.387695
+    },
+    {
+      "name": "Štruncovy sady",
+      "latitude": 49.750146,
+      "longitude": 13.385947
+    },
+    {
+      "name": "sady Petatřicátníků",
+      "latitude": 49.749116,
+      "longitude": 13.373922
+    },
+    {
+      "name": "U Plzeňské brány",
+      "latitude": 49.741885,
+      "longitude": 13.589773
+    },
+    {
+      "name": "park U Rakováčku",
+      "latitude": 49.735565,
+      "longitude": 13.586488
+    },
+    {
+      "name": "Náměstí Míru",
+      "latitude": 49.806562,
+      "longitude": 13.85729
+    },
+    {
+      "name": "Panská zahrada",
+      "latitude": 49.837651,
+      "longitude": 13.90638
+    },
+    {
+      "name": "Lesopark Homolka",
+      "latitude": 49.722276,
+      "longitude": 13.397579
+    },
+    {
+      "name": "České údolí",
+      "latitude": 49.718701,
+      "longitude": 13.3677
+    },
+    {
+      "name": "Borský park",
+      "latitude": 49.720218,
+      "longitude": 13.369134
+    },
+    {
+      "name": "zámecký park zámku Kozel",
+      "latitude": 49.669395,
+      "longitude": 13.529795
+    },
+    {
+      "name": "Léčebna TRN Janov",
+      "latitude": 49.705146,
+      "longitude": 13.665046
+    },
+    {
+      "name": "Lesopark Vojtěch",
+      "latitude": 49.687654,
+      "longitude": 13.98581
+    },
+    {
+      "name": "Střelovna",
+      "latitude": 49.691477,
+      "longitude": 14.016672
+    },
+    {
+      "name": "Alšovo náměstí",
+      "latitude": 49.688734,
+      "longitude": 14.022649
+    },
+    {
+      "name": "Hornické náměstí",
+      "latitude": 49.689321,
+      "longitude": 14.01566
+    },
+    {
+      "name": "Zátiší",
+      "latitude": 49.690588,
+      "longitude": 14.012883
+    },
+    {
+      "name": "Valle di Ledro",
+      "latitude": 49.680548,
+      "longitude": 14.007465
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 49.689818,
+      "longitude": 14.012963
+    },
+    {
+      "name": "Památník Antonína Dvořáka",
+      "latitude": 49.636328,
+      "longitude": 13.942442
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.511585,
+      "longitude": 12.804616
+    },
+    {
+      "name": "Park Přátelství",
+      "latitude": 49.510829,
+      "longitude": 12.801063
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.532415,
+      "longitude": 12.939811
+    },
+    {
+      "name": "Nabburg park",
+      "latitude": 49.528906,
+      "longitude": 12.942031
+    },
+    {
+      "name": "náměstí T. G. Masaryka",
+      "latitude": 49.553842,
+      "longitude": 13.069893
+    },
+    {
+      "name": "Sad Komenského",
+      "latitude": 49.575886,
+      "longitude": 13.232934
+    },
+    {
+      "name": "Hanův park",
+      "latitude": 49.441292,
+      "longitude": 12.921518
+    },
+    {
+      "name": "sady Antonína Příhody",
+      "latitude": 49.440444,
+      "longitude": 12.926296
+    },
+    {
+      "name": "Steidlův park",
+      "latitude": 49.441008,
+      "longitude": 12.927019
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.45638,
+      "longitude": 13.164222
+    },
+    {
+      "name": "sady JUDr. K. Hostaše",
+      "latitude": 49.395301,
+      "longitude": 13.29644
+    },
+    {
+      "name": "sady Na valech",
+      "latitude": 49.394053,
+      "longitude": 13.29179
+    },
+    {
+      "name": "Vrchlického sady",
+      "latitude": 49.394068,
+      "longitude": 13.295819
+    },
+    {
+      "name": "Sady Mistra Jana Husa",
+      "latitude": 49.392921,
+      "longitude": 13.303811
+    },
+    {
+      "name": "Mercandinovy sady",
+      "latitude": 49.387599,
+      "longitude": 13.298622
+    },
+    {
+      "name": "Malé náměstí",
+      "latitude": 49.580007,
+      "longitude": 13.541816
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.556152,
+      "longitude": 13.959261
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.557552,
+      "longitude": 13.956265
+    },
+    {
+      "name": "Masarykovo náměstí",
+      "latitude": 49.51588,
+      "longitude": 14.036467
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.457308,
+      "longitude": 13.787856
+    },
+    {
+      "name": "Husovy sady",
+      "latitude": 49.430033,
+      "longitude": 13.877818
+    },
+    {
+      "name": "Křížek",
+      "latitude": 49.355885,
+      "longitude": 13.681288
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.313447,
+      "longitude": 13.405451
+    },
+    {
+      "name": "Panská zahrada",
+      "latitude": 49.322533,
+      "longitude": 13.696088
+    },
+    {
+      "name": "Park Ostrov Horažďovice",
+      "latitude": 49.319959,
+      "longitude": 13.683642
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.260338,
+      "longitude": 13.497855
+    },
+    {
+      "name": "Lesopark pod Kalichem",
+      "latitude": 49.226366,
+      "longitude": 13.532815
+    },
+    {
+      "name": "ostrov Santos",
+      "latitude": 49.2258,
+      "longitude": 13.517528
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.214772,
+      "longitude": 13.633682
+    },
+    {
+      "name": "Podskalí",
+      "latitude": 49.25962,
+      "longitude": 13.885089
+    },
+    {
+      "name": "Populární místo pro focení Strakonice",
+      "latitude": 49.251188,
+      "longitude": 13.938821
+    },
+    {
+      "name": "Lavička u lesa s výhledem na Strakonice",
+      "latitude": 49.24449,
+      "longitude": 13.92168
+    },
+    {
+      "name": "Vyhlídka na Strakonice od vodojemu",
+      "latitude": 49.246679,
+      "longitude": 13.923584
+    },
+    {
+      "name": "Rennerovy sady",
+      "latitude": 49.263478,
+      "longitude": 13.901171
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.267085,
+      "longitude": 13.997359
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.267461,
+      "longitude": 14.001151
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.166377,
+      "longitude": 13.804408
+    },
+    {
+      "name": "Zámek Hoštice",
+      "latitude": 49.193968,
+      "longitude": 13.908333
+    },
+    {
+      "name": "Wanderpark",
+      "latitude": 49.120382,
+      "longitude": 13.200572
+    },
+    {
+      "name": "Areál letní scéna",
+      "latitude": 49.05652,
+      "longitude": 13.77398
+    },
+    {
+      "name": "Štěpánčin park",
+      "latitude": 49.011346,
+      "longitude": 13.996326
+    },
+    {
+      "name": "park Parkán",
+      "latitude": 49.013055,
+      "longitude": 13.999864
+    },
+    {
+      "name": "Park sv. Jana Nepomuka Neumanna",
+      "latitude": 49.013656,
+      "longitude": 13.996309
+    },
+    {
+      "name": "Masarykovo sanatorium",
+      "latitude": 49.790525,
+      "longitude": 14.150057
+    },
+    {
+      "name": "Prokopova zahrada",
+      "latitude": 49.784139,
+      "longitude": 14.173832
+    },
+    {
+      "name": "Park u Krakonoše",
+      "latitude": 49.783545,
+      "longitude": 14.169386
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.777359,
+      "longitude": 14.179818
+    },
+    {
+      "name": "Husův parčík",
+      "latitude": 49.780737,
+      "longitude": 14.168008
+    },
+    {
+      "name": "Francouzský park",
+      "latitude": 49.780093,
+      "longitude": 14.179613
+    },
+    {
+      "name": "Anglický park",
+      "latitude": 49.778222,
+      "longitude": 14.179713
+    },
+    {
+      "name": "Drhovské hřiště",
+      "latitude": 49.737285,
+      "longitude": 14.234647
+    },
+    {
+      "name": "Zámek Jablonná",
+      "latitude": 49.780146,
+      "longitude": 14.44924
+    },
+    {
+      "name": "Zámecký park Konopiště",
+      "latitude": 49.77715,
+      "longitude": 14.658651
+    },
+    {
+      "name": "park Drama věků",
+      "latitude": 49.671644,
+      "longitude": 14.501708
+    },
+    {
+      "name": "lavička",
+      "latitude": 49.671016,
+      "longitude": 14.599768
+    },
+    {
+      "name": "Areál chovatelů",
+      "latitude": 49.657016,
+      "longitude": 14.430717
+    },
+    {
+      "name": "Park pod nemocnicí",
+      "latitude": 49.659253,
+      "longitude": 14.427454
+    },
+    {
+      "name": "Zámecký park Jemniště",
+      "latitude": 49.744943,
+      "longitude": 14.786406
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.744434,
+      "longitude": 15.100084
+    },
+    {
+      "name": "Children playground with Zipline",
+      "latitude": 49.701811,
+      "longitude": 15.272511
+    },
+    {
+      "name": "Šeptouchovský lesopark",
+      "latitude": 49.693325,
+      "longitude": 15.263874
+    },
+    {
+      "name": "park pátera Josefa Toufara",
+      "latitude": 49.695288,
+      "longitude": 15.27972
+    },
+    {
+      "name": "zámecký park Zboží",
+      "latitude": 49.718625,
+      "longitude": 15.459361
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.666623,
+      "longitude": 15.408373
+    },
+    {
+      "name": "památník Lety",
+      "latitude": 49.508273,
+      "longitude": 14.118564
+    },
+    {
+      "name": "zámecký park Orlík",
+      "latitude": 49.512061,
+      "longitude": 14.161433
+    },
+    {
+      "name": "Bažantnice",
+      "latitude": 49.457223,
+      "longitude": 14.364509
+    },
+    {
+      "name": "park U Popraviště",
+      "latitude": 49.421442,
+      "longitude": 14.652073
+    },
+    {
+      "name": "Holečkovy sady",
+      "latitude": 49.414551,
+      "longitude": 14.655559
+    },
+    {
+      "name": "Husův park",
+      "latitude": 49.412789,
+      "longitude": 14.673878
+    },
+    {
+      "name": "Pod Kotnovem",
+      "latitude": 49.409841,
+      "longitude": 14.655314
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.553225,
+      "longitude": 15.038883
+    },
+    {
+      "name": "Park plicní léčebny",
+      "latitude": 49.536096,
+      "longitude": 15.361418
+    },
+    {
+      "name": "Stromovka",
+      "latitude": 49.543639,
+      "longitude": 15.356909
+    },
+    {
+      "name": "nemocniční park",
+      "latitude": 49.538841,
+      "longitude": 15.365729
+    },
+    {
+      "name": "Park V Brance",
+      "latitude": 49.541561,
+      "longitude": 15.351306
+    },
+    {
+      "name": "Park Lnářská",
+      "latitude": 49.540147,
+      "longitude": 15.352108
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.474263,
+      "longitude": 14.999322
+    },
+    {
+      "name": "Park Antonína Sovy",
+      "latitude": 49.479641,
+      "longitude": 15.004358
+    },
+    {
+      "name": "Park Gabrielovo náměstí",
+      "latitude": 49.407418,
+      "longitude": 14.811468
+    },
+    {
+      "name": "Park Gabrielovo náměstí",
+      "latitude": 49.407888,
+      "longitude": 14.81164
+    },
+    {
+      "name": "Zámecký Park",
+      "latitude": 49.404954,
+      "longitude": 14.812251
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.404794,
+      "longitude": 14.812326
+    },
+    {
+      "name": "Zámecký Park",
+      "latitude": 49.404912,
+      "longitude": 14.813213
+    },
+    {
+      "name": "Park u rybníka",
+      "latitude": 49.40713,
+      "longitude": 14.804908
+    },
+    {
+      "name": "Městské sady",
+      "latitude": 49.439833,
+      "longitude": 15.223423
+    },
+    {
+      "name": "Děkanská zahrada",
+      "latitude": 49.43167,
+      "longitude": 15.219884
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.8118,
+      "longitude": 15.478986
+    },
+    {
+      "name": "Zámecký park Klášter",
+      "latitude": 49.809309,
+      "longitude": 15.528606
+    },
+    {
+      "name": "Panská zahrada",
+      "latitude": 49.832917,
+      "longitude": 16.040296
+    },
+    {
+      "name": "Rychtářovy sady",
+      "latitude": 49.799448,
+      "longitude": 16.110698
+    },
+    {
+      "name": "Park Budoucnost",
+      "latitude": 49.611371,
+      "longitude": 15.584294
+    },
+    {
+      "name": "Park Rovinka \"Urbánkovo\"",
+      "latitude": 49.828078,
+      "longitude": 16.256276
+    },
+    {
+      "name": "Park Jana Palacha",
+      "latitude": 49.757145,
+      "longitude": 16.4591
+    },
+    {
+      "name": "Park bytových domů Svitavy",
+      "latitude": 49.755393,
+      "longitude": 16.459914
+    },
+    {
+      "name": "Park u Quanta",
+      "latitude": 49.756976,
+      "longitude": 16.471371
+    },
+    {
+      "name": "Park u Sponerovy vily",
+      "latitude": 49.757746,
+      "longitude": 16.472856
+    },
+    {
+      "name": "Park Sídliště U Nádraží",
+      "latitude": 49.761872,
+      "longitude": 16.476371
+    },
+    {
+      "name": "Park PAPERA",
+      "latitude": 49.754149,
+      "longitude": 16.455277
+    },
+    {
+      "name": "Park Bytových domů Svitavy",
+      "latitude": 49.755809,
+      "longitude": 16.462087
+    },
+    {
+      "name": "Park vnitrobloku JŠ",
+      "latitude": 49.763373,
+      "longitude": 16.476805
+    },
+    {
+      "name": "Parková zóna U Tří dvorů",
+      "latitude": 49.757326,
+      "longitude": 16.475081
+    },
+    {
+      "name": "park Gorkého",
+      "latitude": 49.760592,
+      "longitude": 16.458948
+    },
+    {
+      "name": "Park Patriotů",
+      "latitude": 49.747879,
+      "longitude": 16.459167
+    },
+    {
+      "name": "Luční lázně",
+      "latitude": 49.759117,
+      "longitude": 16.659244
+    },
+    {
+      "name": "Městský naučný park",
+      "latitude": 49.713453,
+      "longitude": 16.267529
+    },
+    {
+      "name": "Obecní park",
+      "latitude": 49.704139,
+      "longitude": 16.485469
+    },
+    {
+      "name": "Emikuv park",
+      "latitude": 49.687001,
+      "longitude": 16.483506
+    },
+    {
+      "name": "Bludník",
+      "latitude": 49.638051,
+      "longitude": 16.224761
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.611301,
+      "longitude": 16.670668
+    },
+    {
+      "name": "Býv. druhý židovský hřbitov",
+      "latitude": 49.63434,
+      "longitude": 16.699158
+    },
+    {
+      "name": "park sanatoria",
+      "latitude": 49.633055,
+      "longitude": 16.667603
+    },
+    {
+      "name": "Park Budoucnost",
+      "latitude": 49.607886,
+      "longitude": 15.581629
+    },
+    {
+      "name": "Haškovy sady",
+      "latitude": 49.606575,
+      "longitude": 15.572737
+    },
+    {
+      "name": "Lesopark a odpočinková zóna Skorkov",
+      "latitude": 49.501862,
+      "longitude": 15.47554
+    },
+    {
+      "name": "Rekreační areál Pilák",
+      "latitude": 49.589739,
+      "longitude": 15.931553
+    },
+    {
+      "name": "Park \"U Ivana\"",
+      "latitude": 49.559152,
+      "longitude": 15.937133
+    },
+    {
+      "name": "Farská humna",
+      "latitude": 49.562033,
+      "longitude": 15.935904
+    },
+    {
+      "name": "Karlswald",
+      "latitude": 49.444473,
+      "longitude": 15.614812
+    },
+    {
+      "name": "náměstí Svobody",
+      "latitude": 49.399685,
+      "longitude": 15.589857
+    },
+    {
+      "name": "Štefánikovo náměstí",
+      "latitude": 49.395342,
+      "longitude": 15.578853
+    },
+    {
+      "name": "park Legionářů",
+      "latitude": 49.402848,
+      "longitude": 15.584995
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.397548,
+      "longitude": 15.58428
+    },
+    {
+      "name": "park Jana Masaryka",
+      "latitude": 49.397765,
+      "longitude": 15.586595
+    },
+    {
+      "name": "Březinovy sady",
+      "latitude": 49.396824,
+      "longitude": 15.594045
+    },
+    {
+      "name": "Keťásek",
+      "latitude": 49.40225,
+      "longitude": 15.580203
+    },
+    {
+      "name": "Dopravní hřistě",
+      "latitude": 49.392786,
+      "longitude": 15.597329
+    },
+    {
+      "name": "Park Gustava Mahlera",
+      "latitude": 49.395951,
+      "longitude": 15.585987
+    },
+    {
+      "name": "Minoritské náměstí",
+      "latitude": 49.394394,
+      "longitude": 15.58801
+    },
+    {
+      "name": "Jánský kopeček",
+      "latitude": 49.407558,
+      "longitude": 15.590384
+    },
+    {
+      "name": "Parčík Hokkaidó",
+      "latitude": 49.396482,
+      "longitude": 15.595821
+    },
+    {
+      "name": "Hradební parkán",
+      "latitude": 49.393187,
+      "longitude": 15.593852
+    },
+    {
+      "name": "Hradební parkán",
+      "latitude": 49.393216,
+      "longitude": 15.588985
+    },
+    {
+      "name": "Václavský parkán",
+      "latitude": 49.395143,
+      "longitude": 15.594592
+    },
+    {
+      "name": "Březinovy sady",
+      "latitude": 49.400345,
+      "longitude": 15.596572
+    },
+    {
+      "name": "Zahrada Habrůvka",
+      "latitude": 49.50211,
+      "longitude": 16.512285
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.610254,
+      "longitude": 16.665637
+    },
+    {
+      "name": "Park pod Kaštany",
+      "latitude": 49.453406,
+      "longitude": 16.328967
+    },
+    {
+      "name": "Vrchnostenská okrasná zahrada",
+      "latitude": 49.451037,
+      "longitude": 16.31586
+    },
+    {
+      "name": "Kovářova louka",
+      "latitude": 49.452653,
+      "longitude": 16.32647
+    },
+    {
+      "name": "Židovské náměstí",
+      "latitude": 49.40638,
+      "longitude": 16.412647
+    },
+    {
+      "name": "Arboretum Šmelcovna",
+      "latitude": 49.48985,
+      "longitude": 16.691169
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.485484,
+      "longitude": 16.659759
+    },
+    {
+      "name": "parčík U Koupadel",
+      "latitude": 49.487234,
+      "longitude": 16.657463
+    },
+    {
+      "name": "Lesní park Drnovice",
+      "latitude": 49.461082,
+      "longitude": 16.535179
+    },
+    {
+      "name": "náměstí Svobody",
+      "latitude": 49.435729,
+      "longitude": 16.629774
+    },
+    {
+      "name": "Lázně Vráž",
+      "latitude": 49.379064,
+      "longitude": 14.128131
+    },
+    {
+      "name": "Pietní park svaté Trojice",
+      "latitude": 49.307564,
+      "longitude": 14.143478
+    },
+    {
+      "name": "Palackého sady",
+      "latitude": 49.309437,
+      "longitude": 14.148984
+    },
+    {
+      "name": "Na Sadech",
+      "latitude": 49.302848,
+      "longitude": 14.147032
+    },
+    {
+      "name": "arboretum",
+      "latitude": 49.312113,
+      "longitude": 14.134466
+    },
+    {
+      "name": "Husovo náměstí",
+      "latitude": 49.304,
+      "longitude": 14.152025
+    },
+    {
+      "name": "Ohniště",
+      "latitude": 49.28072,
+      "longitude": 14.46281
+    },
+    {
+      "name": "Klášterní zahrada",
+      "latitude": 49.295555,
+      "longitude": 14.470734
+    },
+    {
+      "name": "Park u rozhledny",
+      "latitude": 49.230629,
+      "longitude": 14.410066
+    },
+    {
+      "name": "Park u Sv. Anny",
+      "latitude": 49.204563,
+      "longitude": 14.21551
+    },
+    {
+      "name": "Bedřichovy sady",
+      "latitude": 49.222624,
+      "longitude": 14.425244
+    },
+    {
+      "name": "park U Hřbitova",
+      "latitude": 49.225309,
+      "longitude": 14.421811
+    },
+    {
+      "name": "park Mládeže",
+      "latitude": 49.225764,
+      "longitude": 14.427244
+    },
+    {
+      "name": "Havlíčkova",
+      "latitude": 49.217926,
+      "longitude": 14.421984
+    },
+    {
+      "name": "Park U sv. Marka",
+      "latitude": 49.257331,
+      "longitude": 14.722765
+    },
+    {
+      "name": "Parky studií a reflexe - Pravíkov",
+      "latitude": 49.335587,
+      "longitude": 15.100148
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.301751,
+      "longitude": 15.079207
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.318852,
+      "longitude": 15.330089
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.247356,
+      "longitude": 14.886355
+    },
+    {
+      "name": "jardinet",
+      "latitude": 49.246696,
+      "longitude": 14.884902
+    },
+    {
+      "name": "Park Studená",
+      "latitude": 49.18633,
+      "longitude": 15.288677
+    },
+    {
+      "name": "Park U Koule",
+      "latitude": 49.16445,
+      "longitude": 15.207707
+    },
+    {
+      "name": "náměstí Bratří Čapků",
+      "latitude": 49.188989,
+      "longitude": 15.453739
+    },
+    {
+      "name": "Oldřichovo náměstí",
+      "latitude": 49.187194,
+      "longitude": 15.457853
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.185276,
+      "longitude": 15.451888
+    },
+    {
+      "name": "náměstí Hrdinů",
+      "latitude": 49.180897,
+      "longitude": 15.461067
+    },
+    {
+      "name": "Park Jana Pavla II.",
+      "latitude": 49.146172,
+      "longitude": 14.178968
+    },
+    {
+      "name": "Zeyerovy sady",
+      "latitude": 49.145908,
+      "longitude": 14.17723
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.054502,
+      "longitude": 14.437504
+    },
+    {
+      "name": "Park Centrum Máj",
+      "latitude": 48.985609,
+      "longitude": 14.43802
+    },
+    {
+      "name": "park Miroslava Chlajna",
+      "latitude": 48.985958,
+      "longitude": 14.43331
+    },
+    {
+      "name": "park Čtyři Dvory",
+      "latitude": 48.989346,
+      "longitude": 14.447439
+    },
+    {
+      "name": "Park Máj V. Volfa",
+      "latitude": 48.985117,
+      "longitude": 14.434934
+    },
+    {
+      "name": "Staroměstský park",
+      "latitude": 48.983558,
+      "longitude": 14.467127
+    },
+    {
+      "name": "náměstí Míru",
+      "latitude": 49.01491,
+      "longitude": 14.611983
+    },
+    {
+      "name": "Palackého náměstí",
+      "latitude": 49.014623,
+      "longitude": 14.614848
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 48.999976,
+      "longitude": 14.752139
+    },
+    {
+      "name": "Stromovka",
+      "latitude": 48.969766,
+      "longitude": 14.457947
+    },
+    {
+      "name": "Městské sady",
+      "latitude": 48.977011,
+      "longitude": 14.475645
+    },
+    {
+      "name": "Malý jez",
+      "latitude": 48.961488,
+      "longitude": 14.479227
+    },
+    {
+      "name": "Jungmannův park",
+      "latitude": 48.958772,
+      "longitude": 14.474264
+    },
+    {
+      "name": "Park Háječek",
+      "latitude": 48.972195,
+      "longitude": 14.471176
+    },
+    {
+      "name": "park Dukelská",
+      "latitude": 48.970791,
+      "longitude": 14.476932
+    },
+    {
+      "name": "park Sokolský ostrov",
+      "latitude": 48.974232,
+      "longitude": 14.47027
+    },
+    {
+      "name": "Dlouhá louka",
+      "latitude": 48.972545,
+      "longitude": 14.467129
+    },
+    {
+      "name": "Biskupská zahrada",
+      "latitude": 48.973577,
+      "longitude": 14.472136
+    },
+    {
+      "name": "Husovy sady",
+      "latitude": 49.145504,
+      "longitude": 15.000713
+    },
+    {
+      "name": "Husovy sady",
+      "latitude": 49.145741,
+      "longitude": 15.002539
+    },
+    {
+      "name": "SportPark R&F",
+      "latitude": 49.135753,
+      "longitude": 15.032003
+    },
+    {
+      "name": "Jurský parčík",
+      "latitude": 49.108841,
+      "longitude": 15.448902
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.078436,
+      "longitude": 15.430031
+    },
+    {
+      "name": "Kancnýřův sad",
+      "latitude": 49.079593,
+      "longitude": 15.437281
+    },
+    {
+      "name": "Juliánin parčík",
+      "latitude": 49.079794,
+      "longitude": 15.436007
+    },
+    {
+      "name": "letňák",
+      "latitude": 49.077838,
+      "longitude": 15.430469
+    },
+    {
+      "name": "MJH",
+      "latitude": 49.085448,
+      "longitude": 15.433647
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.066332,
+      "longitude": 15.325734
+    },
+    {
+      "name": "Komenského sady",
+      "latitude": 49.005624,
+      "longitude": 14.767228
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.002356,
+      "longitude": 14.769312
+    },
+    {
+      "name": "Zámecký park Třešť",
+      "latitude": 49.294861,
+      "longitude": 15.489313
+    },
+    {
+      "name": "Sáblíkův park",
+      "latitude": 49.345466,
+      "longitude": 15.971483
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.36099,
+      "longitude": 16.011914
+    },
+    {
+      "name": "Lanové centrum",
+      "latitude": 49.307412,
+      "longitude": 16.03346
+    },
+    {
+      "name": "Síť",
+      "latitude": 49.307597,
+      "longitude": 16.033001
+    },
+    {
+      "name": "Hasskova zahrada",
+      "latitude": 49.216828,
+      "longitude": 15.883782
+    },
+    {
+      "name": "Hrádek",
+      "latitude": 49.218153,
+      "longitude": 15.880378
+    },
+    {
+      "name": "Sady na Polance",
+      "latitude": 49.214252,
+      "longitude": 15.868482
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 49.213153,
+      "longitude": 15.878267
+    },
+    {
+      "name": "Týnské údolí",
+      "latitude": 49.221068,
+      "longitude": 15.880926
+    },
+    {
+      "name": "Hájek",
+      "latitude": 49.222125,
+      "longitude": 15.886647
+    },
+    {
+      "name": "Janáčkovo stromořadí",
+      "latitude": 49.212094,
+      "longitude": 15.893858
+    },
+    {
+      "name": "Máchovy sady",
+      "latitude": 49.212912,
+      "longitude": 15.887184
+    },
+    {
+      "name": "Radostínské sady (Lísčí)",
+      "latitude": 49.213786,
+      "longitude": 15.894891
+    },
+    {
+      "name": "Máchovy sady",
+      "latitude": 49.227193,
+      "longitude": 15.873116
+    },
+    {
+      "name": "Zámecká niva",
+      "latitude": 49.216386,
+      "longitude": 15.872962
+    },
+    {
+      "name": "Hadlíz",
+      "latitude": 49.214257,
+      "longitude": 15.873149
+    },
+    {
+      "name": "U Starého hřbitova",
+      "latitude": 49.211417,
+      "longitude": 15.879422
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 49.213287,
+      "longitude": 15.875744
+    },
+    {
+      "name": "Krajíčkova stráň",
+      "latitude": 49.212084,
+      "longitude": 15.862535
+    },
+    {
+      "name": "Lorenzovy sady",
+      "latitude": 49.209131,
+      "longitude": 15.902674
+    },
+    {
+      "name": "Park ZŠ Komenského",
+      "latitude": 49.207351,
+      "longitude": 16.158726
+    },
+    {
+      "name": "Zámecký park Náměšť nad Oslavou",
+      "latitude": 49.209249,
+      "longitude": 16.163544
+    },
+    {
+      "name": "Hájek",
+      "latitude": 49.204131,
+      "longitude": 16.156071
+    },
+    {
+      "name": "Park pod kostelem - Hrádek",
+      "latitude": 49.346861,
+      "longitude": 16.425065
+    },
+    {
+      "name": "Park pod kostelem - Farská zahrada",
+      "latitude": 49.348266,
+      "longitude": 16.424208
+    },
+    {
+      "name": "Obecní park Drásov",
+      "latitude": 49.342063,
+      "longitude": 16.474397
+    },
+    {
+      "name": "Park za Zámkem",
+      "latitude": 49.29716,
+      "longitude": 16.523183
+    },
+    {
+      "name": "Masarykovo náměstí",
+      "latitude": 49.27623,
+      "longitude": 16.434204
+    },
+    {
+      "name": "Geopark Rudice",
+      "latitude": 49.33353,
+      "longitude": 16.728223
+    },
+    {
+      "name": "Arboretum Habrůvka",
+      "latitude": 49.32687,
+      "longitude": 16.708354
+    },
+    {
+      "name": "Park na náměstí 1. května",
+      "latitude": 49.298874,
+      "longitude": 16.53171
+    },
+    {
+      "name": "park Pod Nádražím",
+      "latitude": 49.299782,
+      "longitude": 16.533665
+    },
+    {
+      "name": "Park Československých letců",
+      "latitude": 49.301794,
+      "longitude": 16.536533
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.296587,
+      "longitude": 16.741484
+    },
+    {
+      "name": "Marečkova louka",
+      "latitude": 49.214035,
+      "longitude": 16.390712
+    },
+    {
+      "name": "Park Poustka",
+      "latitude": 49.158606,
+      "longitude": 16.347446
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.183228,
+      "longitude": 16.386003
+    },
+    {
+      "name": "Křivánkovo náměstí",
+      "latitude": 49.206958,
+      "longitude": 16.487683
+    },
+    {
+      "name": "U svaté Trojice",
+      "latitude": 49.174059,
+      "longitude": 16.389254
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.239808,
+      "longitude": 16.573436
+    },
+    {
+      "name": "náměstí Vojtěšky Matyášové",
+      "latitude": 49.25584,
+      "longitude": 16.588511
+    },
+    {
+      "name": "Řečkovický HRáj",
+      "latitude": 49.248081,
+      "longitude": 16.577288
+    },
+    {
+      "name": "Park Kárníkova",
+      "latitude": 49.253891,
+      "longitude": 16.583356
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.252866,
+      "longitude": 16.582056
+    },
+    {
+      "name": "Husí park",
+      "latitude": 49.247234,
+      "longitude": 16.673457
+    },
+    {
+      "name": "Božetěchův sad",
+      "latitude": 49.227641,
+      "longitude": 16.596894
+    },
+    {
+      "name": "Slovanské náměstí",
+      "latitude": 49.223118,
+      "longitude": 16.590871
+    },
+    {
+      "name": "Park Národního odboje",
+      "latitude": 49.212394,
+      "longitude": 16.594005
+    },
+    {
+      "name": "parčík Generála Miloše Knorra",
+      "latitude": 49.221722,
+      "longitude": 16.591485
+    },
+    {
+      "name": "Cihelna",
+      "latitude": 49.227761,
+      "longitude": 16.588322
+    },
+    {
+      "name": "Ruský vrch",
+      "latitude": 49.219289,
+      "longitude": 16.552242
+    },
+    {
+      "name": "Park Kociánka",
+      "latitude": 49.229639,
+      "longitude": 16.610374
+    },
+    {
+      "name": "Parčík na Komínských loukách",
+      "latitude": 49.215264,
+      "longitude": 16.554962
+    },
+    {
+      "name": "Domov pro seniory Kociánka",
+      "latitude": 49.227753,
+      "longitude": 16.60895
+    },
+    {
+      "name": "park Stanislava Krátkého",
+      "latitude": 49.212816,
+      "longitude": 16.624801
+    },
+    {
+      "name": "Park Majdalenky",
+      "latitude": 49.23497,
+      "longitude": 16.625652
+    },
+    {
+      "name": "Park Marie Restituty",
+      "latitude": 49.214101,
+      "longitude": 16.629385
+    },
+    {
+      "name": "park Elišky Suché",
+      "latitude": 49.219636,
+      "longitude": 16.640206
+    },
+    {
+      "name": "Kopaniny",
+      "latitude": 49.221485,
+      "longitude": 16.820535
+    },
+    {
+      "name": "Park Legionářů",
+      "latitude": 49.217547,
+      "longitude": 16.795961
+    },
+    {
+      "name": "co.labs_park",
+      "latitude": 49.203202,
+      "longitude": 16.601506
+    },
+    {
+      "name": "Lužánky",
+      "latitude": 49.206888,
+      "longitude": 16.608772
+    },
+    {
+      "name": "Björnsonův sad",
+      "latitude": 49.20715,
+      "longitude": 16.59356
+    },
+    {
+      "name": "Anthropos",
+      "latitude": 49.192027,
+      "longitude": 16.566616
+    },
+    {
+      "name": "Denisovy sady",
+      "latitude": 49.190757,
+      "longitude": 16.607352
+    },
+    {
+      "name": "Tyršův sad",
+      "latitude": 49.202828,
+      "longitude": 16.602465
+    },
+    {
+      "name": "Studánka",
+      "latitude": 49.191273,
+      "longitude": 16.604692
+    },
+    {
+      "name": "park Danuše Muzikářové",
+      "latitude": 49.198248,
+      "longitude": 16.608444
+    },
+    {
+      "name": "Wilsonův les",
+      "latitude": 49.202362,
+      "longitude": 16.571536
+    },
+    {
+      "name": "Kraví hora",
+      "latitude": 49.203767,
+      "longitude": 16.582986
+    },
+    {
+      "name": "Místodržitelská zahrada",
+      "latitude": 49.190507,
+      "longitude": 16.607421
+    },
+    {
+      "name": "Parčík na nároží Vídeňská - Polní",
+      "latitude": 49.184614,
+      "longitude": 16.595534
+    },
+    {
+      "name": "Janáčkovo náměstí",
+      "latitude": 49.201478,
+      "longitude": 16.602767
+    },
+    {
+      "name": "Špilberk - park",
+      "latitude": 49.194823,
+      "longitude": 16.59978
+    },
+    {
+      "name": "Park Obilní trh",
+      "latitude": 49.198939,
+      "longitude": 16.597585
+    },
+    {
+      "name": "Lesopark Kamenný vrch",
+      "latitude": 49.183186,
+      "longitude": 16.5587
+    },
+    {
+      "name": "Janáčkův park",
+      "latitude": 49.198478,
+      "longitude": 16.610906
+    },
+    {
+      "name": "Kadetka",
+      "latitude": 49.206482,
+      "longitude": 16.589328
+    },
+    {
+      "name": "Moravské náměstí",
+      "latitude": 49.199054,
+      "longitude": 16.606876
+    },
+    {
+      "name": "Park pod hvězdami",
+      "latitude": 49.206574,
+      "longitude": 16.587361
+    },
+    {
+      "name": "náměstí 28. října",
+      "latitude": 49.202786,
+      "longitude": 16.612801
+    },
+    {
+      "name": "park Koliště",
+      "latitude": 49.197099,
+      "longitude": 16.614186
+    },
+    {
+      "name": "Pálavské náměstí",
+      "latitude": 49.205736,
+      "longitude": 16.657654
+    },
+    {
+      "name": "Šujanovo náměstí",
+      "latitude": 49.189617,
+      "longitude": 16.620317
+    },
+    {
+      "name": "Karas",
+      "latitude": 49.197445,
+      "longitude": 16.63965
+    },
+    {
+      "name": "Vrchlického sad",
+      "latitude": 49.204438,
+      "longitude": 16.612126
+    },
+    {
+      "name": "Park Řehořova",
+      "latitude": 49.18431,
+      "longitude": 16.636737
+    },
+    {
+      "name": "Schreberovy zahrádky",
+      "latitude": 49.207815,
+      "longitude": 16.621458
+    },
+    {
+      "name": "Park Bubeníčkova",
+      "latitude": 49.201622,
+      "longitude": 16.639894
+    },
+    {
+      "name": "Hvězdička - park Eugena Horvátha",
+      "latitude": 49.201242,
+      "longitude": 16.621604
+    },
+    {
+      "name": "Tyršův sad",
+      "latitude": 49.200631,
+      "longitude": 16.644892
+    },
+    {
+      "name": "Bzzzukot",
+      "latitude": 49.196978,
+      "longitude": 16.656921
+    },
+    {
+      "name": "Park Tišnovka",
+      "latitude": 49.209032,
+      "longitude": 16.625922
+    },
+    {
+      "name": "Pohoda",
+      "latitude": 49.196124,
+      "longitude": 16.617062
+    },
+    {
+      "name": "zahrada Orlovny",
+      "latitude": 49.201228,
+      "longitude": 16.695304
+    },
+    {
+      "name": "Vlněna",
+      "latitude": 49.189184,
+      "longitude": 16.616858
+    },
+    {
+      "name": "Park Richarda Federa",
+      "latitude": 49.191317,
+      "longitude": 16.642607
+    },
+    {
+      "name": "park Bohumila Hrabala",
+      "latitude": 49.2022,
+      "longitude": 16.649671
+    },
+    {
+      "name": "Pod radnicí",
+      "latitude": 49.204806,
+      "longitude": 16.660363
+    },
+    {
+      "name": "Líšeňská rokle",
+      "latitude": 49.208458,
+      "longitude": 16.681167
+    },
+    {
+      "name": "Park Škrobárenská",
+      "latitude": 49.182831,
+      "longitude": 16.623083
+    },
+    {
+      "name": "Akátky",
+      "latitude": 49.208452,
+      "longitude": 16.652736
+    },
+    {
+      "name": "Morávkovo náměstí",
+      "latitude": 49.167548,
+      "longitude": 16.577146
+    },
+    {
+      "name": "U Floriána",
+      "latitude": 49.177361,
+      "longitude": 16.634169
+    },
+    {
+      "name": "Lesopark Černovice",
+      "latitude": 49.178661,
+      "longitude": 16.637339
+    },
+    {
+      "name": "Heršpická Leskava",
+      "latitude": 49.155066,
+      "longitude": 16.614944
+    },
+    {
+      "name": "Heršpická Leskava",
+      "latitude": 49.155337,
+      "longitude": 16.613034
+    },
+    {
+      "name": "Mariacela",
+      "latitude": 49.181129,
+      "longitude": 16.624343
+    },
+    {
+      "name": "Pánská zahrada",
+      "latitude": 49.208864,
+      "longitude": 16.791774
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.169119,
+      "longitude": 16.72406
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.154381,
+      "longitude": 16.872645
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.052203,
+      "longitude": 15.807953
+    },
+    {
+      "name": "Dolní park",
+      "latitude": 49.052092,
+      "longitude": 15.806163
+    },
+    {
+      "name": "Tovačovského sady",
+      "latitude": 49.053097,
+      "longitude": 15.807597
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.147866,
+      "longitude": 16.036261
+    },
+    {
+      "name": "Zámecký park zámku Jaroměřice nad Rokytnou",
+      "latitude": 49.092638,
+      "longitude": 15.891141
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.032909,
+      "longitude": 16.108412
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 48.979265,
+      "longitude": 16.153137
+    },
+    {
+      "name": "Zahrada vily Panowských",
+      "latitude": 49.10004,
+      "longitude": 16.387968
+    },
+    {
+      "name": "U Studánky Víly Vrbičky",
+      "latitude": 49.139257,
+      "longitude": 16.564039
+    },
+    {
+      "name": "Pod kaštany",
+      "latitude": 49.130365,
+      "longitude": 16.598772
+    },
+    {
+      "name": "Jížní náměstí",
+      "latitude": 49.152689,
+      "longitude": 16.623166
+    },
+    {
+      "name": "Olympia park",
+      "latitude": 49.139006,
+      "longitude": 16.629406
+    },
+    {
+      "name": "Krchůvek",
+      "latitude": 49.145921,
+      "longitude": 16.814394
+    },
+    {
+      "name": "Zámecký park Sokolnice",
+      "latitude": 49.119862,
+      "longitude": 16.727112
+    },
+    {
+      "name": "JUDR. Jana Haluzy",
+      "latitude": 49.104905,
+      "longitude": 16.757313
+    },
+    {
+      "name": "městský park",
+      "latitude": 48.983411,
+      "longitude": 16.523242
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.033363,
+      "longitude": 16.611037
+    },
+    {
+      "name": "Pod Kopcem",
+      "latitude": 49.008918,
+      "longitude": 16.666765
+    },
+    {
+      "name": "park Hlinek",
+      "latitude": 48.961162,
+      "longitude": 16.599339
+    },
+    {
+      "name": "sady Kapitána Jaroše",
+      "latitude": 48.932599,
+      "longitude": 16.734247
+    },
+    {
+      "name": "Dolní park",
+      "latitude": 50.388728,
+      "longitude": 17.004648
+    },
+    {
+      "name": "Park Vidnava",
+      "latitude": 50.375595,
+      "longitude": 17.184235
+    },
+    {
+      "name": "Inhalatorium",
+      "latitude": 50.240185,
+      "longitude": 17.188556
+    },
+    {
+      "name": "Balneo-park",
+      "latitude": 50.243458,
+      "longitude": 17.188446
+    },
+    {
+      "name": "Priessnitzův park",
+      "latitude": 50.241128,
+      "longitude": 17.183936
+    },
+    {
+      "name": "Háj Víly Ozdravy",
+      "latitude": 50.243447,
+      "longitude": 17.190891
+    },
+    {
+      "name": "Reymannův park",
+      "latitude": 50.233357,
+      "longitude": 17.207051
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 50.228797,
+      "longitude": 17.211312
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 50.073293,
+      "longitude": 17.303526
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 50.138626,
+      "longitude": 17.613107
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 50.090055,
+      "longitude": 17.699408
+    },
+    {
+      "name": "Městský park",
+      "latitude": 50.087139,
+      "longitude": 17.695906
+    },
+    {
+      "name": "Chářovský park Krnov",
+      "latitude": 50.081947,
+      "longitude": 17.683945
+    },
+    {
+      "name": "Zámecký park Velké Losiny",
+      "latitude": 50.022908,
+      "longitude": 17.02896
+    },
+    {
+      "name": "lázeňský park",
+      "latitude": 50.03494,
+      "longitude": 17.033471
+    },
+    {
+      "name": "Hrobka rodu Kleinů",
+      "latitude": 50.014274,
+      "longitude": 17.081555
+    },
+    {
+      "name": "Discgolf Šumperk",
+      "latitude": 49.978175,
+      "longitude": 16.978666
+    },
+    {
+      "name": "Dvořákovo náměstí",
+      "latitude": 49.963493,
+      "longitude": 16.966159
+    },
+    {
+      "name": "Sady 1. Máje",
+      "latitude": 49.964294,
+      "longitude": 16.980162
+    },
+    {
+      "name": "Jiráskovy sady",
+      "latitude": 49.968004,
+      "longitude": 16.975485
+    },
+    {
+      "name": "Park Bohuslava Martinů",
+      "latitude": 49.972957,
+      "longitude": 16.974222
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.962537,
+      "longitude": 16.971589
+    },
+    {
+      "name": "In-line park Bruntál",
+      "latitude": 49.996254,
+      "longitude": 17.455194
+    },
+    {
+      "name": "Korea",
+      "latitude": 49.940394,
+      "longitude": 16.978315
+    },
+    {
+      "name": "Wolkerovy sady",
+      "latitude": 49.876301,
+      "longitude": 16.880528
+    },
+    {
+      "name": "Obecní park",
+      "latitude": 49.879289,
+      "longitude": 17.085761
+    },
+    {
+      "name": "Zámecký Park",
+      "latitude": 49.948759,
+      "longitude": 17.247862
+    },
+    {
+      "name": "Špulkárna",
+      "latitude": 49.944355,
+      "longitude": 17.256394
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.991737,
+      "longitude": 17.964101
+    },
+    {
+      "name": "Centrální park Kobeřice",
+      "latitude": 49.984092,
+      "longitude": 18.052204
+    },
+    {
+      "name": "Obecní park Štěpánkovice",
+      "latitude": 49.958053,
+      "longitude": 18.042457
+    },
+    {
+      "name": "Park s dětským hřištěm",
+      "latitude": 49.954518,
+      "longitude": 18.041423
+    },
+    {
+      "name": "Park u nádraží",
+      "latitude": 49.952003,
+      "longitude": 18.03614
+    },
+    {
+      "name": "Park Zámek Chuchelná",
+      "latitude": 49.989054,
+      "longitude": 18.117617
+    },
+    {
+      "name": "Park - Zámek Litultovice",
+      "latitude": 49.903433,
+      "longitude": 17.746506
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.936714,
+      "longitude": 17.90725
+    },
+    {
+      "name": "Janáčkovy sady",
+      "latitude": 49.939216,
+      "longitude": 17.907377
+    },
+    {
+      "name": "Dvořákovy sady",
+      "latitude": 49.937363,
+      "longitude": 17.899727
+    },
+    {
+      "name": "Sady Svobody",
+      "latitude": 49.935509,
+      "longitude": 17.903443
+    },
+    {
+      "name": "Městské sady",
+      "latitude": 49.951165,
+      "longitude": 17.887495
+    },
+    {
+      "name": "Park Joy Adamsonové",
+      "latitude": 49.935175,
+      "longitude": 17.89474
+    },
+    {
+      "name": "náměstí Slezského odboje",
+      "latitude": 49.938925,
+      "longitude": 17.892339
+    },
+    {
+      "name": "Palouček",
+      "latitude": 49.929403,
+      "longitude": 17.902893
+    },
+    {
+      "name": "Zámek Dolní Životice",
+      "latitude": 49.898679,
+      "longitude": 17.776531
+    },
+    {
+      "name": "park Přátelství",
+      "latitude": 49.911264,
+      "longitude": 17.912754
+    },
+    {
+      "name": "Dohnálkův park",
+      "latitude": 49.898101,
+      "longitude": 18.093206
+    },
+    {
+      "name": "Víceúčelové hřiště",
+      "latitude": 49.913066,
+      "longitude": 18.154239
+    },
+    {
+      "name": "Park Zámek Raduň",
+      "latitude": 49.888328,
+      "longitude": 17.945428
+    },
+    {
+      "name": "Zámecký park Dobroslavice",
+      "latitude": 49.879131,
+      "longitude": 18.143762
+    },
+    {
+      "name": "Park 8. obvodu",
+      "latitude": 49.843989,
+      "longitude": 18.162818
+    },
+    {
+      "name": "sad Boženy Němcové",
+      "latitude": 49.851033,
+      "longitude": 18.277356
+    },
+    {
+      "name": "Mecnarovského sad",
+      "latitude": 49.854287,
+      "longitude": 18.263286
+    },
+    {
+      "name": "Michalíkův sad",
+      "latitude": 49.859638,
+      "longitude": 18.271604
+    },
+    {
+      "name": "park Válečných veteránů",
+      "latitude": 49.845772,
+      "longitude": 18.280021
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.924637,
+      "longitude": 18.282186
+    },
+    {
+      "name": "Sady Petra Bezruče",
+      "latitude": 49.907398,
+      "longitude": 18.360468
+    },
+    {
+      "name": "Park pałacowy",
+      "latitude": 49.920962,
+      "longitude": 18.323795
+    },
+    {
+      "name": "Rafinérský lesík",
+      "latitude": 49.900588,
+      "longitude": 18.35037
+    },
+    {
+      "name": "výběh pro psy",
+      "latitude": 49.900629,
+      "longitude": 18.349409
+    },
+    {
+      "name": "Parčík zakladatelů nemocnice",
+      "latitude": 49.917118,
+      "longitude": 18.335317
+    },
+    {
+      "name": "Ottúv park",
+      "latitude": 49.907656,
+      "longitude": 18.344167
+    },
+    {
+      "name": "Lesopark Na Panském",
+      "latitude": 49.910156,
+      "longitude": 18.370643
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.901146,
+      "longitude": 18.550054
+    },
+    {
+      "name": "lesopark",
+      "latitude": 49.870152,
+      "longitude": 18.435305
+    },
+    {
+      "name": "Komenského sady",
+      "latitude": 49.844934,
+      "longitude": 18.290906
+    },
+    {
+      "name": "park Československých letců",
+      "latitude": 49.841202,
+      "longitude": 18.288057
+    },
+    {
+      "name": "Všehrdův sad",
+      "latitude": 49.842599,
+      "longitude": 18.301184
+    },
+    {
+      "name": "Tylův sad",
+      "latitude": 49.843499,
+      "longitude": 18.303795
+    },
+    {
+      "name": "Husův sad",
+      "latitude": 49.838595,
+      "longitude": 18.288147
+    },
+    {
+      "name": "Bezručův sad",
+      "latitude": 49.840307,
+      "longitude": 18.284405
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.84654,
+      "longitude": 18.430681
+    },
+    {
+      "name": "Zádomí",
+      "latitude": 49.853582,
+      "longitude": 18.405906
+    },
+    {
+      "name": "Lázeňský park, Lázně Darkov",
+      "latitude": 49.868148,
+      "longitude": 18.564422
+    },
+    {
+      "name": "Sad Boženy Němcové",
+      "latitude": 49.84926,
+      "longitude": 18.536841
+    },
+    {
+      "name": "sady Bedřicha Smetany",
+      "latitude": 49.851665,
+      "longitude": 18.545645
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 49.843699,
+      "longitude": 18.546765
+    },
+    {
+      "name": "Vrchlického sady",
+      "latitude": 49.86156,
+      "longitude": 18.546008
+    },
+    {
+      "name": "Univerzitní park",
+      "latitude": 49.854508,
+      "longitude": 18.547027
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.784788,
+      "longitude": 16.908791
+    },
+    {
+      "name": "parčík spartakiádní",
+      "latitude": 49.781409,
+      "longitude": 16.927772
+    },
+    {
+      "name": "Lesopark Skalky",
+      "latitude": 49.785965,
+      "longitude": 17.053858
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 49.726234,
+      "longitude": 17.301107
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.701757,
+      "longitude": 17.080159
+    },
+    {
+      "name": "Park Míru",
+      "latitude": 49.699393,
+      "longitude": 17.07606
+    },
+    {
+      "name": "Park TGM",
+      "latitude": 49.684412,
+      "longitude": 17.219748
+    },
+    {
+      "name": "Kouzelný les pocitů",
+      "latitude": 49.643654,
+      "longitude": 17.204156
+    },
+    {
+      "name": "Kouzelný les poznání",
+      "latitude": 49.644141,
+      "longitude": 17.200762
+    },
+    {
+      "name": "Kouzelný les zvuků",
+      "latitude": 49.644094,
+      "longitude": 17.203166
+    },
+    {
+      "name": "Stará cihelna",
+      "latitude": 49.640353,
+      "longitude": 17.31333
+    },
+    {
+      "name": "Koperník",
+      "latitude": 49.638857,
+      "longitude": 17.233064
+    },
+    {
+      "name": "Veverák",
+      "latitude": 49.634213,
+      "longitude": 17.346281
+    },
+    {
+      "name": "Park Zámek Dubová",
+      "latitude": 49.81548,
+      "longitude": 17.77223
+    },
+    {
+      "name": "Trail",
+      "latitude": 49.797125,
+      "longitude": 17.980962
+    },
+    {
+      "name": "Jilemnického náměstí",
+      "latitude": 49.828023,
+      "longitude": 18.184945
+    },
+    {
+      "name": "Nálepkovo náměstí",
+      "latitude": 49.828908,
+      "longitude": 18.181198
+    },
+    {
+      "name": "Liptaňské náměstí",
+      "latitude": 49.827201,
+      "longitude": 18.182658
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.822765,
+      "longitude": 18.170052
+    },
+    {
+      "name": "náměstí Jana Nerudy",
+      "latitude": 49.829013,
+      "longitude": 18.165858
+    },
+    {
+      "name": "náměstí Vítězslava Nováka",
+      "latitude": 49.827862,
+      "longitude": 18.170505
+    },
+    {
+      "name": "náměstí Družby",
+      "latitude": 49.835711,
+      "longitude": 18.181798
+    },
+    {
+      "name": "Havlíčkovo náměstí",
+      "latitude": 49.831812,
+      "longitude": 18.169309
+    },
+    {
+      "name": "náměstí Boženy Němcové",
+      "latitude": 49.826952,
+      "longitude": 18.162842
+    },
+    {
+      "name": "Geologická expozice",
+      "latitude": 49.831749,
+      "longitude": 18.163668
+    },
+    {
+      "name": "park Florida",
+      "latitude": 49.828578,
+      "longitude": 18.174847
+    },
+    {
+      "name": "sad Československé armády",
+      "latitude": 49.818611,
+      "longitude": 18.201636
+    },
+    {
+      "name": "náměstí Dr. Brauna",
+      "latitude": 49.821614,
+      "longitude": 18.20817
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.830927,
+      "longitude": 18.249988
+    },
+    {
+      "name": "sad Jožky Jabůrkové",
+      "latitude": 49.810116,
+      "longitude": 18.271265
+    },
+    {
+      "name": "sad Družby",
+      "latitude": 49.809906,
+      "longitude": 18.242801
+    },
+    {
+      "name": "Třebovický park",
+      "latitude": 49.83637,
+      "longitude": 18.195032
+    },
+    {
+      "name": "Lesopark Benátky",
+      "latitude": 49.826719,
+      "longitude": 18.242354
+    },
+    {
+      "name": "Park u kostela Krista Krále",
+      "latitude": 49.815621,
+      "longitude": 18.195761
+    },
+    {
+      "name": "Park Kozinova",
+      "latitude": 49.82847,
+      "longitude": 18.193591
+    },
+    {
+      "name": "Sady doktorky Milady Horákové",
+      "latitude": 49.831614,
+      "longitude": 18.270843
+    },
+    {
+      "name": "park Václava Nelhýbla",
+      "latitude": 49.788207,
+      "longitude": 18.163492
+    },
+    {
+      "name": "Park Petra Bezruče",
+      "latitude": 49.785656,
+      "longitude": 18.130375
+    },
+    {
+      "name": "Výukový areál Bělský les",
+      "latitude": 49.7862,
+      "longitude": 18.244281
+    },
+    {
+      "name": "náměstí Gen. Svobody",
+      "latitude": 49.798436,
+      "longitude": 18.25625
+    },
+    {
+      "name": "Mokřady Hrabová",
+      "latitude": 49.777449,
+      "longitude": 18.275282
+    },
+    {
+      "name": "Park Zámek Stará Ves nad Ondřejnicí",
+      "latitude": 49.727905,
+      "longitude": 18.188739
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.636067,
+      "longitude": 17.652294
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.662175,
+      "longitude": 17.832187
+    },
+    {
+      "name": "park Osvobození",
+      "latitude": 49.666788,
+      "longitude": 17.829162
+    },
+    {
+      "name": "park T. G. Masaryka",
+      "latitude": 49.720068,
+      "longitude": 18.076918
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.671266,
+      "longitude": 18.050633
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.643296,
+      "longitude": 17.989354
+    },
+    {
+      "name": "parčík základní školy",
+      "latitude": 49.640599,
+      "longitude": 18.139163
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.642295,
+      "longitude": 18.142238
+    },
+    {
+      "name": "zahrada hasičské stanice",
+      "latitude": 49.639147,
+      "longitude": 18.135285
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.589594,
+      "longitude": 16.890475
+    },
+    {
+      "name": "Park Pod Letištěm",
+      "latitude": 49.593187,
+      "longitude": 17.218392
+    },
+    {
+      "name": "Park u Hřbitova",
+      "latitude": 49.582792,
+      "longitude": 17.222016
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 49.562266,
+      "longitude": 17.096931
+    },
+    {
+      "name": "Park Ladislava Foltýna",
+      "latitude": 49.562496,
+      "longitude": 17.09497
+    },
+    {
+      "name": "Park u Památníku",
+      "latitude": 49.557076,
+      "longitude": 17.143847
+    },
+    {
+      "name": "tábořiště",
+      "latitude": 49.498615,
+      "longitude": 17.018175
+    },
+    {
+      "name": "Park Petra Bezruče",
+      "latitude": 49.51292,
+      "longitude": 17.057559
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.588463,
+      "longitude": 17.249211
+    },
+    {
+      "name": "Čechovy sady",
+      "latitude": 49.593099,
+      "longitude": 17.24493
+    },
+    {
+      "name": "Pod Dómem",
+      "latitude": 49.598216,
+      "longitude": 17.259503
+    },
+    {
+      "name": "Biskupské nám.",
+      "latitude": 49.595952,
+      "longitude": 17.260068
+    },
+    {
+      "name": "Pod Dómem",
+      "latitude": 49.59825,
+      "longitude": 17.262531
+    },
+    {
+      "name": "Bezručovy sady",
+      "latitude": 49.593863,
+      "longitude": 17.257868
+    },
+    {
+      "name": "Park Na Střelnici",
+      "latitude": 49.599429,
+      "longitude": 17.24975
+    },
+    {
+      "name": "Sejdeme se u vody",
+      "latitude": 49.60957,
+      "longitude": 17.235677
+    },
+    {
+      "name": "Okrasná zahrada",
+      "latitude": 49.604382,
+      "longitude": 17.266529
+    },
+    {
+      "name": "Park Horní lán",
+      "latitude": 49.576701,
+      "longitude": 17.231121
+    },
+    {
+      "name": "Park Holice",
+      "latitude": 49.57453,
+      "longitude": 17.281381
+    },
+    {
+      "name": "Park u památníku",
+      "latitude": 49.54021,
+      "longitude": 17.426494
+    },
+    {
+      "name": "Bývalý hřbitov",
+      "latitude": 49.518903,
+      "longitude": 17.421788
+    },
+    {
+      "name": "Alej malého Noe",
+      "latitude": 49.471117,
+      "longitude": 17.023606
+    },
+    {
+      "name": "Kolářovy sady",
+      "latitude": 49.469203,
+      "longitude": 17.099792
+    },
+    {
+      "name": "Spitznerovy sady",
+      "latitude": 49.469117,
+      "longitude": 17.117533
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.473602,
+      "longitude": 17.111904
+    },
+    {
+      "name": "Arboretum Vrahovice",
+      "latitude": 49.479647,
+      "longitude": 17.145125
+    },
+    {
+      "name": "Mládkovy sady",
+      "latitude": 49.463863,
+      "longitude": 17.096094
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.417945,
+      "longitude": 17.140385
+    },
+    {
+      "name": "Obecní park Bolelouc",
+      "latitude": 49.496173,
+      "longitude": 17.270155
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.49137,
+      "longitude": 17.425252
+    },
+    {
+      "name": "Michalov",
+      "latitude": 49.460316,
+      "longitude": 17.457232
+    },
+    {
+      "name": "nám. Svobody",
+      "latitude": 49.448456,
+      "longitude": 17.45255
+    },
+    {
+      "name": "Bývalý starý židovský hřbitov",
+      "latitude": 49.450719,
+      "longitude": 17.453564
+    },
+    {
+      "name": "zrušený evangelický hřbitov",
+      "latitude": 49.446138,
+      "longitude": 17.443288
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.429499,
+      "longitude": 17.290993
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.412444,
+      "longitude": 17.466832
+    },
+    {
+      "name": "Park na Výsluní",
+      "latitude": 49.533014,
+      "longitude": 17.596267
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.550301,
+      "longitude": 17.734102
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 49.534436,
+      "longitude": 17.744933
+    },
+    {
+      "name": "Klášterní Zahrada",
+      "latitude": 49.524352,
+      "longitude": 17.582827
+    },
+    {
+      "name": "Zámecký Park",
+      "latitude": 49.52419,
+      "longitude": 17.580095
+    },
+    {
+      "name": "Lešná",
+      "latitude": 49.519526,
+      "longitude": 17.928511
+    },
+    {
+      "name": "Janáčkovy sady",
+      "latitude": 49.590513,
+      "longitude": 18.011976
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.58948,
+      "longitude": 18.009767
+    },
+    {
+      "name": "Lesopark Skalky",
+      "latitude": 49.583836,
+      "longitude": 18.016026
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.593221,
+      "longitude": 18.010446
+    },
+    {
+      "name": "Nádvoří",
+      "latitude": 49.593675,
+      "longitude": 18.010645
+    },
+    {
+      "name": "park u divadla",
+      "latitude": 49.592174,
+      "longitude": 18.008222
+    },
+    {
+      "name": "Osvobození",
+      "latitude": 49.543206,
+      "longitude": 18.207972
+    },
+    {
+      "name": "Jandovo stromořadí",
+      "latitude": 49.547423,
+      "longitude": 18.205144
+    },
+    {
+      "name": "Park Dolní",
+      "latitude": 49.550818,
+      "longitude": 18.2029
+    },
+    {
+      "name": "Park Vojtěcha Jasného",
+      "latitude": 49.481306,
+      "longitude": 17.821346
+    },
+    {
+      "name": "Studánka",
+      "latitude": 49.412399,
+      "longitude": 17.603496
+    },
+    {
+      "name": "Park Botanika",
+      "latitude": 49.469482,
+      "longitude": 17.965676
+    },
+    {
+      "name": "U Abácie",
+      "latitude": 49.469191,
+      "longitude": 17.957056
+    },
+    {
+      "name": "Křížová cesta v klášterní zahradě",
+      "latitude": 49.478447,
+      "longitude": 18.042351
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.460227,
+      "longitude": 18.140706
+    },
+    {
+      "name": "Valašské muzeum v přírodě - Mlýnská dolina",
+      "latitude": 49.461884,
+      "longitude": 18.151191
+    },
+    {
+      "name": "Park Ernsta Kornera",
+      "latitude": 49.83331,
+      "longitude": 18.286441
+    },
+    {
+      "name": "Dalimilův park",
+      "latitude": 49.814008,
+      "longitude": 18.336786
+    },
+    {
+      "name": "Farská zahrada",
+      "latitude": 49.83497,
+      "longitude": 18.295512
+    },
+    {
+      "name": "Zahrada přítomnosti",
+      "latitude": 49.835767,
+      "longitude": 18.281294
+    },
+    {
+      "name": "Sad kapt. Jaroše",
+      "latitude": 49.789804,
+      "longitude": 18.34589
+    },
+    {
+      "name": "Zámecký Park",
+      "latitude": 49.784307,
+      "longitude": 18.37136
+    },
+    {
+      "name": "Park u Náměstí Republiky",
+      "latitude": 49.779036,
+      "longitude": 18.432616
+    },
+    {
+      "name": "Park pod soudem",
+      "latitude": 49.77366,
+      "longitude": 18.452589
+    },
+    {
+      "name": "Park na ul. Hálkova",
+      "latitude": 49.770847,
+      "longitude": 18.444233
+    },
+    {
+      "name": "Park Liburnia",
+      "latitude": 49.753173,
+      "longitude": 18.630363
+    },
+    {
+      "name": "Masarykovy sady",
+      "latitude": 49.74854,
+      "longitude": 18.623018
+    },
+    {
+      "name": "sady Komenského",
+      "latitude": 49.74451,
+      "longitude": 18.619596
+    },
+    {
+      "name": "Park Angielski na Górze Zamkowej",
+      "latitude": 49.751043,
+      "longitude": 18.62617
+    },
+    {
+      "name": "Park Adama Sikory",
+      "latitude": 49.736793,
+      "longitude": 18.626311
+    },
+    {
+      "name": "Park Sportowy",
+      "latitude": 49.737932,
+      "longitude": 18.628084
+    },
+    {
+      "name": "Park Pokoju",
+      "latitude": 49.747551,
+      "longitude": 18.633868
+    },
+    {
+      "name": "Lesopark Marlenka",
+      "latitude": 49.701989,
+      "longitude": 18.336775
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.685911,
+      "longitude": 18.345664
+    },
+    {
+      "name": "Sady B. Smetany",
+      "latitude": 49.675343,
+      "longitude": 18.347375
+    },
+    {
+      "name": "Janáčkův park",
+      "latitude": 49.667824,
+      "longitude": 18.350448
+    },
+    {
+      "name": "Malý park",
+      "latitude": 49.672341,
+      "longitude": 18.342567
+    },
+    {
+      "name": "sady Svobody",
+      "latitude": 49.682024,
+      "longitude": 18.360148
+    },
+    {
+      "name": "Park u kina Petra Bezruče",
+      "latitude": 49.671006,
+      "longitude": 18.345978
+    },
+    {
+      "name": "Park u kostela sv. Jošta",
+      "latitude": 49.683423,
+      "longitude": 18.353298
+    },
+    {
+      "name": "Koloredovský park",
+      "latitude": 49.68046,
+      "longitude": 18.334052
+    },
+    {
+      "name": "Jižní svahy",
+      "latitude": 49.68435,
+      "longitude": 18.348608
+    },
+    {
+      "name": "Puškinův park",
+      "latitude": 49.690582,
+      "longitude": 18.346261
+    },
+    {
+      "name": "Puškinův park",
+      "latitude": 49.691206,
+      "longitude": 18.346265
+    },
+    {
+      "name": "Park u Komerční banky",
+      "latitude": 49.678634,
+      "longitude": 18.354688
+    },
+    {
+      "name": "FaunaPark Frýdek-Místek",
+      "latitude": 49.682943,
+      "longitude": 18.34631
+    },
+    {
+      "name": "Třinecký Lesopark",
+      "latitude": 49.664663,
+      "longitude": 18.667053
+    },
+    {
+      "name": "Pizzerie Na Hřišti",
+      "latitude": 49.610506,
+      "longitude": 18.359541
+    },
+    {
+      "name": "Park u Janáčkovy síně",
+      "latitude": 49.592598,
+      "longitude": 18.35922
+    },
+    {
+      "name": "Park Nerudova ul.",
+      "latitude": 49.594054,
+      "longitude": 18.353018
+    },
+    {
+      "name": "Park u školy",
+      "latitude": 49.592791,
+      "longitude": 18.355606
+    },
+    {
+      "name": "Park Antoniho Szpyrce",
+      "latitude": 49.574817,
+      "longitude": 18.762827
+    },
+    {
+      "name": "Zámecý park",
+      "latitude": 49.351849,
+      "longitude": 17.159915
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.283329,
+      "longitude": 16.992768
+    },
+    {
+      "name": "zámecká zahrada",
+      "latitude": 49.27511,
+      "longitude": 16.997822
+    },
+    {
+      "name": "Kynologický klub",
+      "latitude": 49.274268,
+      "longitude": 16.974316
+    },
+    {
+      "name": "Park Podvalí",
+      "latitude": 49.355385,
+      "longitude": 17.309675
+    },
+    {
+      "name": "Chropyňský park I.",
+      "latitude": 49.357219,
+      "longitude": 17.36361
+    },
+    {
+      "name": "Chropyňský park II.",
+      "latitude": 49.358375,
+      "longitude": 17.361693
+    },
+    {
+      "name": "Park \"Za hokejkou\"",
+      "latitude": 49.364021,
+      "longitude": 17.365274
+    },
+    {
+      "name": "náměstí Republiky",
+      "latitude": 49.346803,
+      "longitude": 17.303823
+    },
+    {
+      "name": "Židovský Paark",
+      "latitude": 49.352776,
+      "longitude": 17.299912
+    },
+    {
+      "name": "Všetulský park",
+      "latitude": 49.326841,
+      "longitude": 17.555469
+    },
+    {
+      "name": "Park Přátelství",
+      "latitude": 49.335478,
+      "longitude": 17.574049
+    },
+    {
+      "name": "Bělidla",
+      "latitude": 49.300013,
+      "longitude": 17.401206
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.292208,
+      "longitude": 17.23443
+    },
+    {
+      "name": "Park Věžky",
+      "latitude": 49.283748,
+      "longitude": 17.281488
+    },
+    {
+      "name": "Bezručův park",
+      "latitude": 49.295069,
+      "longitude": 17.397213
+    },
+    {
+      "name": "Slovanské náměstí",
+      "latitude": 49.291421,
+      "longitude": 17.395662
+    },
+    {
+      "name": "park Mezivodí",
+      "latitude": 49.319499,
+      "longitude": 17.47123
+    },
+    {
+      "name": "Obecní park",
+      "latitude": 49.276959,
+      "longitude": 17.547946
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.229992,
+      "longitude": 16.877759
+    },
+    {
+      "name": "Bývalé letní kino",
+      "latitude": 49.247997,
+      "longitude": 17.210107
+    },
+    {
+      "name": "U Kapličky",
+      "latitude": 49.205041,
+      "longitude": 16.886469
+    },
+    {
+      "name": "U Mlýna",
+      "latitude": 49.205775,
+      "longitude": 16.883359
+    },
+    {
+      "name": "Lesopark Hrubé Kusy",
+      "latitude": 49.199596,
+      "longitude": 16.886761
+    },
+    {
+      "name": "Park A. B. Svojsíka",
+      "latitude": 49.154993,
+      "longitude": 16.878441
+    },
+    {
+      "name": "Lesopark Kalvárie",
+      "latitude": 49.153565,
+      "longitude": 17.002677
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.221623,
+      "longitude": 17.262339
+    },
+    {
+      "name": "lesopark",
+      "latitude": 49.219385,
+      "longitude": 17.506851
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.169179,
+      "longitude": 17.513851
+    },
+    {
+      "name": "Havlíčkovy sady",
+      "latitude": 49.170533,
+      "longitude": 17.513997
+    },
+    {
+      "name": "Švehlovy sady",
+      "latitude": 49.326882,
+      "longitude": 17.579921
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.335074,
+      "longitude": 17.58638
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.330524,
+      "longitude": 17.579657
+    },
+    {
+      "name": "Masarykův park",
+      "latitude": 49.329687,
+      "longitude": 17.584162
+    },
+    {
+      "name": "Park u kostela",
+      "latitude": 49.349114,
+      "longitude": 17.689247
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.32083,
+      "longitude": 17.61259
+    },
+    {
+      "name": "Arboretum",
+      "latitude": 49.358411,
+      "longitude": 17.952533
+    },
+    {
+      "name": "Panská zahrada",
+      "latitude": 49.33815,
+      "longitude": 17.996774
+    },
+    {
+      "name": "Park Trávníky",
+      "latitude": 49.339543,
+      "longitude": 17.985348
+    },
+    {
+      "name": "Park Rybníky",
+      "latitude": 49.339643,
+      "longitude": 17.983221
+    },
+    {
+      "name": "Park s dětským hřištěm",
+      "latitude": 49.333688,
+      "longitude": 18.007179
+    },
+    {
+      "name": "Park 1 - NH",
+      "latitude": 49.338175,
+      "longitude": 18.198587
+    },
+    {
+      "name": "Park 2 - NH",
+      "latitude": 49.338316,
+      "longitude": 18.199066
+    },
+    {
+      "name": "Japonská zahrada",
+      "latitude": 49.338301,
+      "longitude": 18.199902
+    },
+    {
+      "name": "Centrální park Jižní svahy",
+      "latitude": 49.241529,
+      "longitude": 17.674576
+    },
+    {
+      "name": "Skatepark",
+      "latitude": 49.240695,
+      "longitude": 17.668207
+    },
+    {
+      "name": "Sad Svobody",
+      "latitude": 49.226118,
+      "longitude": 17.663052
+    },
+    {
+      "name": "Gahurův prospekt",
+      "latitude": 49.222757,
+      "longitude": 17.663485
+    },
+    {
+      "name": "Univerzitní park",
+      "latitude": 49.221857,
+      "longitude": 17.658552
+    },
+    {
+      "name": "Park Milady Horákové",
+      "latitude": 49.221263,
+      "longitude": 17.6549
+    },
+    {
+      "name": "Park Komenského",
+      "latitude": 49.22448,
+      "longitude": 17.664057
+    },
+    {
+      "name": "Centrální park Jižní svahy",
+      "latitude": 49.238227,
+      "longitude": 17.669983
+    },
+    {
+      "name": "Parčík u kostela",
+      "latitude": 49.217084,
+      "longitude": 17.748352
+    },
+    {
+      "name": "Parčík u obecního úřadu",
+      "latitude": 49.217701,
+      "longitude": 17.747342
+    },
+    {
+      "name": "Zámecká zahrada",
+      "latitude": 49.219257,
+      "longitude": 17.848105
+    },
+    {
+      "name": "Velískova zahrada",
+      "latitude": 49.209107,
+      "longitude": 17.605707
+    },
+    {
+      "name": "lanový park",
+      "latitude": 49.257337,
+      "longitude": 17.967331
+    },
+    {
+      "name": "Litava Park",
+      "latitude": 49.148387,
+      "longitude": 17.000084
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.064865,
+      "longitude": 17.025511
+    },
+    {
+      "name": "Parčík s památníkem",
+      "latitude": 49.052286,
+      "longitude": 17.121533
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 49.098378,
+      "longitude": 17.548745
+    },
+    {
+      "name": "zámecký park Buchlovice",
+      "latitude": 49.083993,
+      "longitude": 17.339206
+    },
+    {
+      "name": "Smetanovy sady",
+      "latitude": 49.067284,
+      "longitude": 17.468327
+    },
+    {
+      "name": "Jezuitská zahrada",
+      "latitude": 49.067009,
+      "longitude": 17.458643
+    },
+    {
+      "name": "Palackého náměstí",
+      "latitude": 49.068116,
+      "longitude": 17.463791
+    },
+    {
+      "name": "Za Plotem",
+      "latitude": 49.071343,
+      "longitude": 17.470121
+    },
+    {
+      "name": "Zelené náměstí",
+      "latitude": 49.068983,
+      "longitude": 17.469724
+    },
+    {
+      "name": "Bastion",
+      "latitude": 49.067195,
+      "longitude": 17.463226
+    },
+    {
+      "name": "náměstí Velké Moravy",
+      "latitude": 49.078639,
+      "longitude": 17.445091
+    },
+    {
+      "name": "Psí park Mojmír",
+      "latitude": 49.07013,
+      "longitude": 17.449824
+    },
+    {
+      "name": "Mladeznický park",
+      "latitude": 49.039655,
+      "longitude": 17.470157
+    },
+    {
+      "name": "náměstí Republiky",
+      "latitude": 49.061593,
+      "longitude": 17.465059
+    },
+    {
+      "name": "Park u muzea",
+      "latitude": 49.001163,
+      "longitude": 17.030774
+    },
+    {
+      "name": "Park obce",
+      "latitude": 49.001875,
+      "longitude": 17.030449
+    },
+    {
+      "name": "Přirodní park Stavěšice",
+      "latitude": 48.998847,
+      "longitude": 17.034736
+    },
+    {
+      "name": "Seifertovo náměstí",
+      "latitude": 49.012303,
+      "longitude": 17.130993
+    },
+    {
+      "name": "náměstí Hrdinů - gymnaziální park",
+      "latitude": 49.012083,
+      "longitude": 17.125619
+    },
+    {
+      "name": "Městský park",
+      "latitude": 49.013194,
+      "longitude": 17.127454
+    },
+    {
+      "name": "Lesopark u Vodojemu",
+      "latitude": 49.014744,
+      "longitude": 17.138564
+    },
+    {
+      "name": "Zámecká zahrada Moštěnice",
+      "latitude": 49.033439,
+      "longitude": 17.1791
+    },
+    {
+      "name": "Bývalý starý židovský hřbitov",
+      "latitude": 49.007365,
+      "longitude": 17.119034
+    },
+    {
+      "name": "Park před školou",
+      "latitude": 48.97386,
+      "longitude": 17.08494
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 48.960341,
+      "longitude": 17.142358
+    },
+    {
+      "name": "Parčík u zámku",
+      "latitude": 48.957537,
+      "longitude": 17.13901
+    },
+    {
+      "name": "Parčík s kamenem",
+      "latitude": 48.953536,
+      "longitude": 17.143367
+    },
+    {
+      "name": "Plocha u kříže",
+      "latitude": 48.94786,
+      "longitude": 17.181245
+    },
+    {
+      "name": "Farní park",
+      "latitude": 48.946087,
+      "longitude": 17.171687
+    },
+    {
+      "name": "Malý park",
+      "latitude": 48.983184,
+      "longitude": 17.326942
+    },
+    {
+      "name": "Park u Tvrze",
+      "latitude": 48.987494,
+      "longitude": 17.526198
+    },
+    {
+      "name": "Park nad hřištěm",
+      "latitude": 48.985752,
+      "longitude": 17.523766
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 48.976489,
+      "longitude": 17.261775
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 48.952955,
+      "longitude": 17.374557
+    },
+    {
+      "name": "zámecký park",
+      "latitude": 48.94968,
+      "longitude": 17.373287
+    },
+    {
+      "name": "park Petra Bezruče",
+      "latitude": 48.949849,
+      "longitude": 17.379575
+    },
+    {
+      "name": "Park v Hájku",
+      "latitude": 48.970234,
+      "longitude": 17.57675
+    },
+    {
+      "name": "Zámecký park Březolupy",
+      "latitude": 49.120796,
+      "longitude": 17.584645
+    },
+    {
+      "name": "Bývalý hřbitov",
+      "latitude": 49.0971,
+      "longitude": 17.740892
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 49.102265,
+      "longitude": 17.763562
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 49.105551,
+      "longitude": 17.761176
+    },
+    {
+      "name": "Lázeňský park",
+      "latitude": 49.110436,
+      "longitude": 17.763871
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 49.090427,
+      "longitude": 17.876244
+    },
+    {
+      "name": "Výletiště",
+      "latitude": 49.050783,
+      "longitude": 17.87992
+    },
+    {
+      "name": "Park - Rozkvět, kaple",
+      "latitude": 49.093368,
+      "longitude": 18.02721
+    },
+    {
+      "name": "Odpočinková zóna - Lesopark",
+      "latitude": 49.084573,
+      "longitude": 18.019074
+    },
+    {
+      "name": "Pánská zahrada",
+      "latitude": 49.025605,
+      "longitude": 17.647798
+    },
+    {
+      "name": "Tyršovy sady",
+      "latitude": 49.026959,
+      "longitude": 17.643157
+    },
+    {
+      "name": "Starý židovský hřbitov",
+      "latitude": 49.021626,
+      "longitude": 17.646715
+    },
+    {
+      "name": "Park Parčík",
+      "latitude": 48.981387,
+      "longitude": 17.639382
+    },
+    {
+      "name": "Záhorovská kyselka",
+      "latitude": 49.024126,
+      "longitude": 17.788724
+    },
+    {
+      "name": "Park u kostela",
+      "latitude": 48.970077,
+      "longitude": 17.583526
+    },
+    {
+      "name": "Park u Hřbitova",
+      "latitude": 48.969918,
+      "longitude": 17.582794
+    },
+    {
+      "name": "Lesopark u sv. Trojice",
+      "latitude": 48.975135,
+      "longitude": 17.655733
+    },
+    {
+      "name": "Park Jana Ámose Komenského",
+      "latitude": 48.973544,
+      "longitude": 17.648061
+    },
+    {
+      "name": "Park u dětského hřiště",
+      "latitude": 48.966625,
+      "longitude": 17.590494
+    },
+    {
+      "name": "Park na Závodí",
+      "latitude": 48.979007,
+      "longitude": 17.641898
+    },
+    {
+      "name": "Park Na Požáře",
+      "latitude": 48.974992,
+      "longitude": 17.646896
+    },
+    {
+      "name": "Městský park",
+      "latitude": 48.976934,
+      "longitude": 17.644731
+    },
+    {
+      "name": "Vrbičky",
+      "latitude": 48.972614,
+      "longitude": 17.643964
+    },
+    {
+      "name": "Park u fary",
+      "latitude": 48.976313,
+      "longitude": 17.644685
+    },
+    {
+      "name": "Park Nábřežní",
+      "latitude": 48.976321,
+      "longitude": 17.641457
+    },
+    {
+      "name": "Geopark",
+      "latitude": 48.860876,
+      "longitude": 13.820614
+    },
+    {
+      "name": "Ekopark",
+      "latitude": 48.860811,
+      "longitude": 13.821121
+    },
+    {
+      "name": "Max-Pangerl-Garten",
+      "latitude": 48.827909,
+      "longitude": 13.775081
+    },
+    {
+      "name": "Seminární zahrada",
+      "latitude": 48.810614,
+      "longitude": 14.317255
+    },
+    {
+      "name": "Městský park",
+      "latitude": 48.808913,
+      "longitude": 14.317886
+    },
+    {
+      "name": "Jelení zahrada",
+      "latitude": 48.813702,
+      "longitude": 14.314515
+    },
+    {
+      "name": "zahrada Hlaholice",
+      "latitude": 48.920212,
+      "longitude": 14.430803
+    },
+    {
+      "name": "Pietní park",
+      "latitude": 48.842241,
+      "longitude": 14.636821
+    },
+    {
+      "name": "památný strom dub socha",
+      "latitude": 48.814389,
+      "longitude": 14.833758
+    },
+    {
+      "name": "Flüchtlingsfriedhof",
+      "latitude": 48.756894,
+      "longitude": 14.97193
+    },
+    {
+      "name": "Schlosspark",
+      "latitude": 48.771714,
+      "longitude": 14.983093
+    },
+    {
+      "name": "Hundepark Gmünd",
+      "latitude": 48.773972,
+      "longitude": 14.987986
+    },
+    {
+      "name": "Strebergarten",
+      "latitude": 48.615744,
+      "longitude": 14.504581
+    },
+    {
+      "name": "Bylinková zahrádka",
+      "latitude": 48.914109,
+      "longitude": 16.00604
+    },
+    {
+      "name": "Žižkovo náměstí",
+      "latitude": 48.859624,
+      "longitude": 16.053433
+    },
+    {
+      "name": "Jubilejní park",
+      "latitude": 48.863374,
+      "longitude": 16.046495
+    },
+    {
+      "name": "Dolní park",
+      "latitude": 48.854693,
+      "longitude": 16.052773
+    },
+    {
+      "name": "Horní park",
+      "latitude": 48.858694,
+      "longitude": 16.050315
+    },
+    {
+      "name": "Máchovo náměstí",
+      "latitude": 48.857332,
+      "longitude": 16.060331
+    },
+    {
+      "name": "Park ulice 17. listopadu",
+      "latitude": 48.854521,
+      "longitude": 16.055963
+    },
+    {
+      "name": "Střední park",
+      "latitude": 48.856116,
+      "longitude": 16.052407
+    },
+    {
+      "name": "Pocta sv. Urbanovi",
+      "latitude": 48.803183,
+      "longitude": 16.090312
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 48.87644,
+      "longitude": 16.23591
+    },
+    {
+      "name": "Domov pro osoby se zdravotním postižením",
+      "latitude": 48.868297,
+      "longitude": 16.338075
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 48.807121,
+      "longitude": 16.810649
+    },
+    {
+      "name": "Schillerpark",
+      "latitude": 48.725455,
+      "longitude": 16.387835
+    },
+    {
+      "name": "Neustiftpark",
+      "latitude": 48.726722,
+      "longitude": 16.385905
+    },
+    {
+      "name": "Zámecký park",
+      "latitude": 48.806638,
+      "longitude": 16.636073
+    },
+    {
+      "name": "Tyršův sad",
+      "latitude": 48.764303,
+      "longitude": 16.846531
+    },
+    {
+      "name": "Větrolam",
+      "latitude": 48.829245,
+      "longitude": 16.967867
+    },
+    {
+      "name": "Park u cihelny",
+      "latitude": 48.816906,
+      "longitude": 17.047259
+    },
+    {
+      "name": "Mírové náměstí",
+      "latitude": 48.856316,
+      "longitude": 17.129048
+    },
+    {
+      "name": "Park G. Preissové",
+      "latitude": 48.851042,
+      "longitude": 17.117269
+    },
+    {
+      "name": "Park Ploštiny",
+      "latitude": 48.843897,
+      "longitude": 17.086271
+    },
+    {
+      "name": "Park U Vrchnice",
+      "latitude": 48.841006,
+      "longitude": 17.076628
+    },
+    {
+      "name": "Dům přírody Hodonínské Dúbravy",
+      "latitude": 48.861529,
+      "longitude": 17.111806
+    },
+    {
+      "name": "Park Mikulčice",
+      "latitude": 48.818826,
+      "longitude": 17.052935
+    },
+    {
+      "name": "Skanzen Strážnice",
+      "latitude": 48.90314,
+      "longitude": 17.310068
+    },
+    {
+      "name": "Slovácký park",
+      "latitude": 48.891819,
+      "longitude": 17.307978
+    },
+    {
+      "name": "náměstí Petra Bezruče",
+      "latitude": 48.760288,
+      "longitude": 16.889212
+    },
+    {
+      "name": "náměstí Svobody",
+      "latitude": 48.758071,
+      "longitude": 16.892175
+    },
+    {
+      "name": "Park u vodárny",
+      "latitude": 48.759223,
+      "longitude": 16.887943
+    }
+  ],
+  "meta": {
+    "title": "Parky - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných parků v České republice (1437 záznamů) — body zájmu z OpenStreetMap (tag leisure=park), výřez EU-POIS/CZ. Obsahuje 1437 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Parky | ListBase",
+    "seo_description": "Stáhnout Parky — 1437 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1437 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

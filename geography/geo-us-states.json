@@ -1,0 +1,579 @@
+{
+  "id": "geo-us-states",
+  "name": "Komplexní Soubor Dat Států USA",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name",
+      "label": "State Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital City (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "division",
+      "label": "Division (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_sq_mi",
+      "label": "Area (sq mi)",
+      "type": "number"
+    },
+    {
+      "key": "statehood_year",
+      "label": "Statehood Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "region": "Jih",
+      "division": "Východní jihocentrální",
+      "population": 5024279,
+      "area_sq_mi": 52420,
+      "statehood_year": 1819
+    },
+    {
+      "name": "Aljaška",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "region": "Západ",
+      "division": "Tichomoří",
+      "population": 733391,
+      "area_sq_mi": 665384,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "region": "Západ",
+      "division": "Horská oblast",
+      "population": 7151502,
+      "area_sq_mi": 113990,
+      "statehood_year": 1912
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "region": "Jih",
+      "division": "Západní jihocentrální",
+      "population": 3011524,
+      "area_sq_mi": 53179,
+      "statehood_year": 1836
+    },
+    {
+      "name": "Kalifornie",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "region": "Západ",
+      "division": "Tichomoří",
+      "population": 39538223,
+      "area_sq_mi": 163695,
+      "statehood_year": 1850
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "region": "Západ",
+      "division": "Horská oblast",
+      "population": 5773714,
+      "area_sq_mi": 104094,
+      "statehood_year": 1876
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "region": "Severovýchod",
+      "division": "Nová Anglie",
+      "population": 3605944,
+      "area_sq_mi": 5543,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "region": "Jih",
+      "division": "Jižní Atlantik",
+      "population": 989948,
+      "area_sq_mi": 2489,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "region": "Jih",
+      "division": "Jižní Atlantik",
+      "population": 21538187,
+      "area_sq_mi": 65758,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Georgie",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "region": "Jih",
+      "division": "Jižní Atlantik",
+      "population": 10711908,
+      "area_sq_mi": 59425,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Havaj",
+      "abbreviation": "HI",
+      "capital": "Honolulu",
+      "region": "Západ",
+      "division": "Tichomoří",
+      "population": 1455271,
+      "area_sq_mi": 10932,
+      "statehood_year": 1959
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "capital": "Boise",
+      "region": "Západ",
+      "division": "Horská oblast",
+      "population": 1839106,
+      "area_sq_mi": 83569,
+      "statehood_year": 1890
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "region": "Středozápad",
+      "division": "Východní severocentrální",
+      "population": 12812508,
+      "area_sq_mi": 57914,
+      "statehood_year": 1818
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "capital": "Indianapolis",
+      "region": "Středozápad",
+      "division": "Východní severocentrální",
+      "population": 6785528,
+      "area_sq_mi": 36420,
+      "statehood_year": 1816
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "capital": "Des Moines",
+      "region": "Středozápad",
+      "division": "Západní severocentrální",
+      "population": 3190369,
+      "area_sq_mi": 56273,
+      "statehood_year": 1846
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "capital": "Topeka",
+      "region": "Středozápad",
+      "division": "Západní severocentrální",
+      "population": 2937880,
+      "area_sq_mi": 82278,
+      "statehood_year": 1861
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "region": "Jih",
+      "division": "Východní jihocentrální",
+      "population": 4505836,
+      "area_sq_mi": 40408,
+      "statehood_year": 1792
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "capital": "Baton Rouge",
+      "region": "Jih",
+      "division": "Západní jihocentrální",
+      "population": 4657757,
+      "area_sq_mi": 52378,
+      "statehood_year": 1812
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "region": "Severovýchod",
+      "division": "Nová Anglie",
+      "population": 1362359,
+      "area_sq_mi": 35380,
+      "statehood_year": 1820
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "region": "Jih",
+      "division": "Jižní Atlantik",
+      "population": 6177224,
+      "area_sq_mi": 12406,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "region": "Severovýchod",
+      "division": "Nová Anglie",
+      "population": 7029917,
+      "area_sq_mi": 10554,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "region": "Středozápad",
+      "division": "Východní severní centrální",
+      "population": 10077331,
+      "area_sq_mi": 96714,
+      "statehood_year": 1837
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "capital": "Saint Paul",
+      "region": "Středozápad",
+      "division": "Západní severní centrální",
+      "population": 5706494,
+      "area_sq_mi": 86936,
+      "statehood_year": 1858
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "capital": "Jackson",
+      "region": "Jih",
+      "division": "Východní jižní centrální",
+      "population": 2961279,
+      "area_sq_mi": 48432,
+      "statehood_year": 1817
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "capital": "Jefferson City",
+      "region": "Středozápad",
+      "division": "Západní severní centrální",
+      "population": 6154913,
+      "area_sq_mi": 69707,
+      "statehood_year": 1821
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "capital": "Helena",
+      "region": "Západ",
+      "division": "Horský",
+      "population": 1084225,
+      "area_sq_mi": 147040,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "capital": "Lincoln",
+      "region": "Středozápad",
+      "division": "Západní severní centrální",
+      "population": 1961504,
+      "area_sq_mi": 77348,
+      "statehood_year": 1867
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "region": "Západ",
+      "division": "Horský",
+      "population": 3104614,
+      "area_sq_mi": 110572,
+      "statehood_year": 1864
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "capital": "Concord",
+      "region": "Severovýchod",
+      "division": "Nová Anglie",
+      "population": 1377529,
+      "area_sq_mi": 9349,
+      "statehood_year": 1788
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "capital": "Trenton",
+      "region": "Severovýchod",
+      "division": "Středoatlantický",
+      "population": 9288994,
+      "area_sq_mi": 8723,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Nové Mexiko",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "region": "Západ",
+      "division": "Horský",
+      "population": 2117522,
+      "area_sq_mi": 121590,
+      "statehood_year": 1912
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "region": "Severovýchod",
+      "division": "Středoatlantický",
+      "population": 20201249,
+      "area_sq_mi": 54555,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Severní Karolína",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "region": "Jih",
+      "division": "Jihoatlantický",
+      "population": 10439388,
+      "area_sq_mi": 53819,
+      "statehood_year": 1789
+    },
+    {
+      "name": "Severní Dakota",
+      "abbreviation": "ND",
+      "capital": "Bismarck",
+      "region": "Středozápad",
+      "division": "Západní severní centrální",
+      "population": 779094,
+      "area_sq_mi": 70698,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "capital": "Columbus",
+      "region": "Středozápad",
+      "division": "Východní severní centrální",
+      "population": 11799448,
+      "area_sq_mi": 44826,
+      "statehood_year": 1803
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "capital": "Oklahoma City",
+      "region": "Jih",
+      "division": "Západní jižní centrální",
+      "population": 3959353,
+      "area_sq_mi": 69899,
+      "statehood_year": 1907
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "region": "Západ",
+      "division": "Pacifický",
+      "population": 4237256,
+      "area_sq_mi": 98379,
+      "statehood_year": 1859
+    },
+    {
+      "name": "Pensylvánie",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "region": "Severovýchod",
+      "division": "Středoatlantický",
+      "population": 13002700,
+      "area_sq_mi": 46054,
+      "statehood_year": 1787
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "capital": "Providence",
+      "region": "Severovýchod",
+      "division": "Nová Anglie",
+      "population": 1097379,
+      "area_sq_mi": 1545,
+      "statehood_year": 1790
+    },
+    {
+      "name": "Jižní Karolína",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "region": "Jih",
+      "division": "Jihoatlantický",
+      "population": 5118425,
+      "area_sq_mi": 32020,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Jižní Dakota",
+      "abbreviation": "SD",
+      "capital": "Pierre",
+      "region": "Středozápad",
+      "division": "Západní severní centrální",
+      "population": 886667,
+      "area_sq_mi": 77116,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "region": "Jih",
+      "division": "Východní jižní centrální",
+      "population": 6910840,
+      "area_sq_mi": 42144,
+      "statehood_year": 1796
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "region": "Jih",
+      "division": "Západní jižní centrální",
+      "population": 29145505,
+      "area_sq_mi": 268596,
+      "statehood_year": 1845
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Salt Lake City",
+      "region": "Západ",
+      "division": "Hory",
+      "population": 3271616,
+      "area_sq_mi": 84897,
+      "statehood_year": 1896
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "region": "Severovýchod",
+      "division": "Nová Anglie",
+      "population": 643077,
+      "area_sq_mi": 9616,
+      "statehood_year": 1791
+    },
+    {
+      "name": "Virginie",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "region": "Jih",
+      "division": "Jižní Atlantik",
+      "population": 8631393,
+      "area_sq_mi": 42775,
+      "statehood_year": 1788
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "capital": "Olympia",
+      "region": "Západ",
+      "division": "Pacifik",
+      "population": 7614893,
+      "area_sq_mi": 71298,
+      "statehood_year": 1889
+    },
+    {
+      "name": "Západní Virginie",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "region": "Jih",
+      "division": "Jižní Atlantik",
+      "population": 1793716,
+      "area_sq_mi": 24230,
+      "statehood_year": 1863
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "region": "Středozápad",
+      "division": "Východní severní centrální",
+      "population": 5893718,
+      "area_sq_mi": 65496,
+      "statehood_year": 1848
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "region": "Západ",
+      "division": "Hory",
+      "population": 576851,
+      "area_sq_mi": 97813,
+      "statehood_year": 1890
+    }
+  ],
+  "meta": {
+    "seo_title": "Data Států USA - Stáhnout zdarma (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si data 50 států USA: název, hlavní město, populace, region. Zdarma ve formátech Excel, CSV, PDF pro analýzu, vzdělávání a vývoj.",
+    "title": "Komplexní Soubor Dat Států USA",
+    "description": "Tento soubor dat poskytuje podrobné informace pro všech 50 států Spojených států amerických, včetně jejich názvů, zkratek, hlavních měst, regionů, divizí, populace, rozlohy a roku vzniku státu. Nabízí cenný zdroj pro geografickou a demografickou analýzu.",
+    "key_takeaways": [
+      "Získejte přístup ke klíčovým demografickým a geografickým datům pro všech 50 států USA.",
+      "Prozkoumejte názvy států, hlavní města, regiony, populaci a rozlohu.",
+      "Stáhněte si komplexní data států USA připravená k okamžitému použití v různých formátech.",
+      "Využijte přesné informace pro vzdělávací, výzkumné a vývojové projekty."
+    ],
+    "keywords": [
+      "data usa státy zdarma",
+      "fakta usa excel",
+      "hlavní města usa csv",
+      "data populace 50 států",
+      "regiony usa pdf",
+      "stáhnout informace státy usa"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do své SQL databáze nebo Python skriptů pro geografickou analýzu nebo vývoj aplikací s daty na úrovni států.",
+      "Použijte soubor **Excel** k vytváření kontingenčních tabulek, filtrování států podle regionu nebo populace a generování zpráv o demografických a geografických trendech v USA.",
+      "Vytiskněte verzi **PDF** pro referenční účely ve třídě, vzdělávací prezentace nebo rychlý offline přístup k faktům a číslům o státech USA.",
+      "Analyzujte historii vzniku států USA, změny populace a regionální demografii pro výzkumné nebo akademické projekty."
+    ]
+  },
+  "record_count": 50,
+  "title": "Komplexní Soubor Dat Států USA"
+}

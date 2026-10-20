@@ -1,0 +1,178 @@
+{
+  "id": "cs-iata-icao-letiste",
+  "name": "IATA/ICAO kódy letišť České republiky",
+  "title": "IATA/ICAO kódy letišť České republiky",
+  "description": "Seznam českých letišť s kódy IATA (3 znaky) a ICAO (4 znaky) podle databáze IP2Location.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "CZ",
+      "region_name": "Jihocesky kraj",
+      "iata": "JCL",
+      "icao": "LKCS",
+      "airport": "Ceske Budejovice Airport (Plana Airport)",
+      "latitude": 48.9464,
+      "longitude": 14.4275
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Jihomoravsky kraj",
+      "iata": "BRQ",
+      "icao": "LKTB",
+      "airport": "Brno-Turany Airport",
+      "latitude": 49.1513,
+      "longitude": 16.6944
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Karlovarsky kraj",
+      "iata": "KLV",
+      "icao": "LKKV",
+      "airport": "Karlovy Vary Airport",
+      "latitude": 50.203,
+      "longitude": 12.915
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Karlovarsky kraj",
+      "iata": "MKA",
+      "icao": "LKMR",
+      "airport": "Marianske Lazne Airport",
+      "latitude": 49.9228,
+      "longitude": 12.7247
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Moravskoslezsky kraj",
+      "iata": "OSR",
+      "icao": "LKMT",
+      "airport": "Leos Janacek Airport",
+      "latitude": 49.6963,
+      "longitude": 18.1111
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Moravskoslezsky kraj",
+      "iata": "ZBE",
+      "icao": "LKZA",
+      "airport": "Zabreh Airport",
+      "latitude": 49.9283,
+      "longitude": 18.0783
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Olomoucky kraj",
+      "iata": "OLO",
+      "icao": "LKOL",
+      "airport": "Olomouc Airport (Neredin Airport)",
+      "latitude": 49.5878,
+      "longitude": 17.2108
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Olomoucky kraj",
+      "iata": "PRV",
+      "icao": "LKPO",
+      "airport": "Prerov Airport",
+      "latitude": 49.4258,
+      "longitude": 17.4047
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Pardubicky kraj",
+      "iata": "PED",
+      "icao": "LKPD",
+      "airport": "Pardubice Airport",
+      "latitude": 50.0134,
+      "longitude": 15.7386
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Stredocesky kraj",
+      "iata": "PRG",
+      "icao": "LKPR",
+      "airport": "Vaclav Havel Airport Prague",
+      "latitude": 50.1008,
+      "longitude": 14.26
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Stredocesky kraj",
+      "iata": "VOD",
+      "icao": "LKVO",
+      "airport": "Vodochody Airport",
+      "latitude": 50.2166,
+      "longitude": 14.3958
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Zlinsky kraj",
+      "iata": "GTW",
+      "icao": "LKHO",
+      "airport": "Holesov Airport",
+      "latitude": 49.3144,
+      "longitude": 17.5689
+    },
+    {
+      "country_code": "CZ",
+      "region_name": "Zlinsky kraj",
+      "iata": "UHE",
+      "icao": "LKKU",
+      "airport": "Kunovice Airport",
+      "latitude": 49.0294,
+      "longitude": 17.4397
+    }
+  ],
+  "meta": {
+    "title": "IATA/ICAO kódy letišť České republiky - Stáhnout zdarma",
+    "description": "Seznam českých letišť s kódy IATA (3 znaky) a ICAO (4 znaky) podle databáze IP2Location. Obsahuje 13 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "IATA/ICAO kódy letišť České republiky | ListBase",
+    "seo_description": "Stáhnout IATA/ICAO kódy letišť České republiky — 13 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 13 záznamů / 7 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

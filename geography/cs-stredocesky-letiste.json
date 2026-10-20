@@ -1,0 +1,373 @@
+{
+  "id": "cs-stredocesky-letiste",
+  "name": "Letiště — Středočeský kraj",
+  "title": "Letiště — Středočeský kraj",
+  "description": "Seznam letišť v kraji „Středočeský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Central Bohemia region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKBE",
+      "iata": "",
+      "name": "Benesov Airport",
+      "name_slug": "benesov-airport",
+      "city": "Benesov",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1319,
+      "lat": 49.7407989502,
+      "lon": 14.6447000504,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKBU",
+      "iata": "",
+      "name": "Bubovice Airport",
+      "name_slug": "bubovice-airport",
+      "city": "Bubovice",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1401,
+      "lat": 49.9743995667,
+      "lon": 14.1780996323,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKCV",
+      "iata": "",
+      "name": "Caslav Air Base",
+      "name_slug": "caslav-air-base",
+      "city": "Caslav",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 794,
+      "lat": 49.9397010803,
+      "lon": 15.3817996979,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHV",
+      "iata": "",
+      "name": "Horovice Airport",
+      "name_slug": "horovice-airport",
+      "city": "Horovice",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1214,
+      "lat": 49.8480987549,
+      "lon": 13.8935003281,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKL",
+      "iata": "",
+      "name": "Kladno Airport",
+      "name_slug": "kladno-airport",
+      "city": "Kladno",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1421,
+      "lat": 50.1128005981,
+      "lon": 14.0896997452,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKO",
+      "iata": "",
+      "name": "Kolin Airport",
+      "name_slug": "kolin-airport",
+      "city": "Kolin",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 932,
+      "lat": 50.0018997192,
+      "lon": 15.1732997894,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKMB",
+      "iata": "",
+      "name": "Mlada Boleslav Airport",
+      "name_slug": "mlada-boleslav-airport",
+      "city": "Mlada Boleslav",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 781,
+      "lat": 50.3983001709,
+      "lon": 14.8983001709,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKMH",
+      "iata": "",
+      "name": "Mnichovo Hradiste Airport",
+      "name_slug": "mnichovo-hradiste-airport",
+      "city": "Mnichovo Hradiste",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 800,
+      "lat": 50.5401992798,
+      "lon": 15.0066003799,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKNY",
+      "iata": "",
+      "name": "Nymburk Ul Ploch Airport",
+      "name_slug": "nymburk-ul-ploch-airport",
+      "city": "Nymburk",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 607,
+      "lat": 50.168598175,
+      "lon": 15.0524997711,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPM",
+      "iata": "",
+      "name": "Pribram Airport",
+      "name_slug": "pribram-airport",
+      "city": "Pribram",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1529,
+      "lat": 49.7201004028,
+      "lon": 14.1006002426,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKRK",
+      "iata": "",
+      "name": "Rakovnik Glider Airport",
+      "name_slug": "rakovnik-glider-airport",
+      "city": "Rakovnik",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1270,
+      "lat": 50.0942001343,
+      "lon": 13.6888999939,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKSN",
+      "iata": "",
+      "name": "Slany Airport",
+      "name_slug": "slany-airport",
+      "city": "Slany",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1079,
+      "lat": 50.2167015076,
+      "lon": 14.0886001587,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKSZ",
+      "iata": "",
+      "name": "Sazena Kralupy Airport",
+      "name_slug": "sazena-kralupy-airport",
+      "city": "Sazena",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 761,
+      "lat": 50.3246994019,
+      "lon": 14.2588996887,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKVL",
+      "iata": "",
+      "name": "Vlasin Glider Airport",
+      "name_slug": "vlasin-glider-airport",
+      "city": "Vlasin",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1421,
+      "lat": 49.7289009094,
+      "lon": 14.8788995743,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKVO",
+      "iata": "VOD",
+      "name": "Vodochody Airport",
+      "name_slug": "vodochody-airport",
+      "city": "Vodochoky",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 919,
+      "lat": 50.2165985107,
+      "lon": 14.3957996368,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKZB",
+      "iata": "",
+      "name": "Zbraslavice Glider Airport",
+      "name_slug": "zbraslavice-glider-airport",
+      "city": "Zbraslavice",
+      "kraj": "Středočeský kraj",
+      "kraj_source": "Central-Bohemia",
+      "kraj_slug": "stredocesky",
+      "kraj_en": "Central Bohemia",
+      "country": "CZ",
+      "elevation_ft": 1621,
+      "lat": 49.814201355,
+      "lon": 15.2017002106,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Středočeský kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Středočeský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Central Bohemia region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 16 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Středočeský kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Středočeský kraj — 16 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 16 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

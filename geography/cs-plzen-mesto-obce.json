@@ -1,0 +1,256 @@
+{
+  "id": "cs-plzen-mesto-obce",
+  "name": "Obce — okres Plzeň-město",
+  "title": "Obce — okres Plzeň-město",
+  "description": "Seznam všech 15 obcí okresu Plzeň-město — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (15 municipalities of okres Plzeň-město, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Chrást",
+      "code": "558966",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33003",
+      "latitude": 49.793305,
+      "longitude": 13.49369,
+      "slug": "chrast"
+    },
+    {
+      "name": "Chválenice",
+      "code": "557846",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33205",
+      "latitude": 49.643095,
+      "longitude": 13.476053,
+      "slug": "chvalenice"
+    },
+    {
+      "name": "Dýšina",
+      "code": "558851",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33002",
+      "latitude": 49.777455,
+      "longitude": 13.491611,
+      "slug": "dysina"
+    },
+    {
+      "name": "Kyšice",
+      "code": "559130",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33001",
+      "latitude": 49.753353,
+      "longitude": 13.486312,
+      "slug": "kysice"
+    },
+    {
+      "name": "Letkov",
+      "code": "540561",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "32600",
+      "latitude": 49.730543,
+      "longitude": 13.465091,
+      "slug": "letkov"
+    },
+    {
+      "name": "Lhůta",
+      "code": "578606",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33201",
+      "latitude": 49.70137,
+      "longitude": 13.52891,
+      "slug": "lhuta"
+    },
+    {
+      "name": "Losiná",
+      "code": "558001",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33204",
+      "latitude": 49.6693,
+      "longitude": 13.448442,
+      "slug": "losina"
+    },
+    {
+      "name": "Mokrouše",
+      "code": "540641",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33201",
+      "latitude": 49.715159,
+      "longitude": 13.524657,
+      "slug": "mokrouse"
+    },
+    {
+      "name": "Nezbavětice",
+      "code": "553590",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33204",
+      "latitude": 49.655024,
+      "longitude": 13.477167,
+      "slug": "nezbavetice"
+    },
+    {
+      "name": "Nezvěstice",
+      "code": "558141",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33204",
+      "latitude": 49.640535,
+      "longitude": 13.519727,
+      "slug": "nezvestice"
+    },
+    {
+      "name": "PLZEŇ",
+      "code": "554791",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "30100",
+      "latitude": 49.738531,
+      "longitude": 13.373737,
+      "slug": "plzen"
+    },
+    {
+      "name": "Starý Plzenec",
+      "code": "558371",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33202",
+      "latitude": 49.697786,
+      "longitude": 13.47361,
+      "slug": "stary-plzenec"
+    },
+    {
+      "name": "Tymákov",
+      "code": "558460",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33201",
+      "latitude": 49.719174,
+      "longitude": 13.509931,
+      "slug": "tymakov"
+    },
+    {
+      "name": "Štěnovický Borek",
+      "code": "539741",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33209",
+      "latitude": 49.649772,
+      "longitude": 13.426875,
+      "slug": "stenovicky-borek"
+    },
+    {
+      "name": "Šťáhlavy",
+      "code": "558427",
+      "okres": "Plzeň-město",
+      "okres_code": "CZ0323",
+      "kraj": "Plzeňský kraj",
+      "kraj_code": "CZ032",
+      "psc": "33203",
+      "latitude": 49.675659,
+      "longitude": 13.504047,
+      "slug": "stahlavy"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Plzeň-město - Stáhnout zdarma",
+    "description": "Seznam všech 15 obcí okresu Plzeň-město — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (15 municipalities of okres Plzeň-město, split from the national cs-obce dataset.) Obsahuje 15 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Plzeň-město | ListBase",
+    "seo_description": "Stáhnout Obce — okres Plzeň-město — 15 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 15 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

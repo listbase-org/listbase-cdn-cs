@@ -1,0 +1,428 @@
+{
+  "id": "tech-http-codes",
+  "name": "HTTP Status Codes Dataset",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Status Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Status Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": 100,
+      "name": "Pokračovat",
+      "category": "Informační",
+      "description": "Server obdržel hlavičky požadavku a klient by měl pokračovat v odesílání těla požadavku."
+    },
+    {
+      "code": 101,
+      "name": "Přepínání protokolů",
+      "category": "Informační",
+      "description": "Žadatel požádal server o přepnutí protokolů a server s tím souhlasil."
+    },
+    {
+      "code": 102,
+      "name": "Zpracovává se",
+      "category": "Informační",
+      "description": "Server obdržel a zpracovává požadavek, ale zatím není k dispozici žádná odpověď."
+    },
+    {
+      "code": 103,
+      "name": "Předběžné nápovědy",
+      "category": "Informační",
+      "description": "Používá se k vrácení některých hlaviček odpovědi před finální HTTP zprávou."
+    },
+    {
+      "code": 200,
+      "name": "OK",
+      "category": "Úspěch",
+      "description": "Požadavek byl úspěšný. Význam závisí na použité metodě HTTP."
+    },
+    {
+      "code": 201,
+      "name": "Vytvořeno",
+      "category": "Úspěch",
+      "description": "Požadavek byl úspěšný a v důsledku toho byl vytvořen nový zdroj."
+    },
+    {
+      "code": 202,
+      "name": "Přijato",
+      "category": "Úspěch",
+      "description": "Požadavek byl přijat, ale dosud nebyl zpracován."
+    },
+    {
+      "code": 203,
+      "name": "Neautoritativní informace",
+      "category": "Úspěch",
+      "description": "Vrácená metadata nejsou přesně stejná jako ta dostupná z původního serveru."
+    },
+    {
+      "code": 204,
+      "name": "Bez obsahu",
+      "category": "Úspěch",
+      "description": "Pro tento požadavek není k dispozici žádný obsah k odeslání, ale hlavičky mohou být užitečné."
+    },
+    {
+      "code": 205,
+      "name": "Obnovit obsah",
+      "category": "Úspěch",
+      "description": "Říká uživatelskému agentovi, aby resetoval dokument, který odeslal tento požadavek."
+    },
+    {
+      "code": 206,
+      "name": "Částečný obsah",
+      "category": "Úspěch",
+      "description": "Používá se, když klient odešle hlavičku Range k vyžádání pouze části zdroje."
+    },
+    {
+      "code": 207,
+      "name": "Vícenásobný stav",
+      "category": "Úspěch",
+      "description": "Předává informace o více zdrojích pro situace, kdy by mohlo být vhodné více stavových kódů."
+    },
+    {
+      "code": 208,
+      "name": "Již nahlášeno",
+      "category": "Úspěch",
+      "description": "Používá se uvnitř odpovědi DAV: propstat k zamezení opakovaného výčtu interních členů."
+    },
+    {
+      "code": 226,
+      "name": "Použito IM",
+      "category": "Úspěch",
+      "description": "Server splnil požadavek GET a odpověď je reprezentací výsledku."
+    },
+    {
+      "code": 300,
+      "name": "Více možností",
+      "category": "Přesměrování",
+      "description": "Požadavek má více než jednu možnou odpověď. Uživatelský agent by měl vybrat jednu z nich."
+    },
+    {
+      "code": 301,
+      "name": "Trvale přesunuto",
+      "category": "Přesměrování",
+      "description": "URL požadovaného zdroje bylo trvale změněno. Nová URL je uvedena v odpovědi."
+    },
+    {
+      "code": 302,
+      "name": "Nalezeno",
+      "category": "Přesměrování",
+      "description": "URI požadovaného zdroje bylo dočasně změněno. Další změny mohou být provedeny v budoucnu."
+    },
+    {
+      "code": 303,
+      "name": "Viz jiné",
+      "category": "Přesměrování",
+      "description": "Server odeslal tuto odpověď, aby nasměroval klienta k získání požadovaného zdroje na jiné URI pomocí požadavku GET."
+    },
+    {
+      "code": 304,
+      "name": "Nezměněno",
+      "category": "Přesměrování",
+      "description": "Používá se pro účely ukládání do mezipaměti. Sdělí klientovi, že odpověď nebyla změněna."
+    },
+    {
+      "code": 305,
+      "name": "Použít proxy",
+      "category": "Přesměrování",
+      "description": "Zastaralé. Bylo definováno k označení, že k požadované odpovědi musí být přistupováno pomocí proxy."
+    },
+    {
+      "code": 307,
+      "name": "Dočasné přesměrování",
+      "category": "Přesměrování",
+      "description": "Server odesílá tuto odpověď, aby nasměroval klienta k získání požadovaného zdroje na jiném URI se stejnou metodou."
+    },
+    {
+      "code": 308,
+      "name": "Trvalé přesměrování",
+      "category": "Přesměrování",
+      "description": "Zdroj je nyní trvale umístěn na jiném URI, specifikovaném hlavičkou Location."
+    },
+    {
+      "code": 400,
+      "name": "Špatný požadavek",
+      "category": "Chyba klienta",
+      "description": "Server nemůže nebo nebude zpracovávat požadavek kvůli něčemu, co je vnímáno jako chyba klienta."
+    },
+    {
+      "code": 401,
+      "name": "Neautorizováno",
+      "category": "Chyba klienta",
+      "description": "Klient se musí ověřit, aby získal požadovanou odpověď."
+    },
+    {
+      "code": 402,
+      "name": "Vyžadována platba",
+      "category": "Chyba klienta",
+      "description": "Rezervováno pro budoucí použití. Původním cílem byly systémy digitálních plateb."
+    },
+    {
+      "code": 403,
+      "name": "Zakázáno",
+      "category": "Chyba klienta",
+      "description": "Klient nemá přístupová práva k obsahu; server odmítá poskytnout požadovaný zdroj."
+    },
+    {
+      "code": 404,
+      "name": "Nenalezeno",
+      "category": "Chyba klienta",
+      "description": "Server nemůže najít požadovaný zdroj. To může také znamenat, že koncový bod je platný, ale zdroj neexistuje."
+    },
+    {
+      "code": 405,
+      "name": "Metoda není povolena",
+      "category": "Chyba klienta",
+      "description": "Metoda požadavku je serveru známa, ale není podporována cílovým zdrojem."
+    },
+    {
+      "code": 406,
+      "name": "Nepřijatelné",
+      "category": "Chyba klienta",
+      "description": "Server nemůže vygenerovat odpověď odpovídající seznamu přijatelných hodnot definovaných v hlavičkách požadavku."
+    },
+    {
+      "code": 407,
+      "name": "Vyžadována proxy autentizace",
+      "category": "Chyba klienta",
+      "description": "Podobné 401 Neautorizováno, ale autentizace musí být provedena proxy serverem."
+    },
+    {
+      "code": 408,
+      "name": "Časový limit požadavku",
+      "category": "Chyba klienta",
+      "description": "Server by rád ukončil toto nevyužité připojení."
+    },
+    {
+      "code": 409,
+      "name": "Konflikt",
+      "category": "Chyba klienta",
+      "description": "Tato odpověď je odeslána, když požadavek koliduje se současným stavem serveru."
+    },
+    {
+      "code": 410,
+      "name": "Odebráno",
+      "category": "Chyba klienta",
+      "description": "Požadovaný obsah byl trvale odstraněn ze serveru, bez přesměrovací adresy."
+    },
+    {
+      "code": 411,
+      "name": "Vyžadována délka",
+      "category": "Chyba klienta",
+      "description": "Server odmítl požadavek, protože pole hlavičky Content-Length není definováno a server jej vyžaduje."
+    },
+    {
+      "code": 412,
+      "name": "Nesplněná prekoncepce",
+      "category": "Chyba klienta",
+      "description": "Klient v hlavičkách uvedl prekoncepce, které server nesplňuje."
+    },
+    {
+      "code": 413,
+      "name": "Příliš velký payload",
+      "category": "Chyba klienta",
+      "description": "Entita požadavku je větší než limity definované serverem."
+    },
+    {
+      "code": 414,
+      "name": "URI příliš dlouhé",
+      "category": "Chyba klienta",
+      "description": "URI požadované klientem je delší, než je server ochoten interpretovat."
+    },
+    {
+      "code": 415,
+      "name": "Nepodporovaný typ média",
+      "category": "Chyba klienta",
+      "description": "Formát média požadovaných dat není serverem podporován."
+    },
+    {
+      "code": 416,
+      "name": "Rozsah nesplnitelný",
+      "category": "Chyba klienta",
+      "description": "Rozsah specifikovaný polem hlavičky Range v požadavku nelze splnit."
+    },
+    {
+      "code": 417,
+      "name": "Očekávání selhalo",
+      "category": "Chyba klienta",
+      "description": "Očekávání uvedené v poli hlavičky požadavku Expect nemůže být serverem splněno."
+    },
+    {
+      "code": 418,
+      "name": "Jsem konvice na čaj",
+      "category": "Chyba klienta",
+      "description": "Server odmítá pokus o uvaření kávy v čajové konvici."
+    },
+    {
+      "code": 421,
+      "name": "Špatně směrovaný požadavek",
+      "category": "Chyba klienta",
+      "description": "Požadavek byl směrován na server, který není schopen vygenerovat odpověď."
+    },
+    {
+      "code": 422,
+      "name": "Nezpracovatelná entita",
+      "category": "Chyba klienta",
+      "description": "Požadavek byl dobře formátován, ale nemohl být zpracován kvůli sémantickým chybám."
+    },
+    {
+      "code": 423,
+      "name": "Uzamčeno",
+      "category": "Chyba klienta",
+      "description": "Přístupný zdroj je uzamčen."
+    },
+    {
+      "code": 424,
+      "name": "Selhala závislost",
+      "category": "Chyba klienta",
+      "description": "Požadavek selhal z důvodu selhání předchozího požadavku."
+    },
+    {
+      "code": 425,
+      "name": "Příliš brzy",
+      "category": "Chyba klienta",
+      "description": "Označuje, že server není ochoten riskovat zpracování požadavku, který by mohl být přehrán."
+    },
+    {
+      "code": 426,
+      "name": "Vyžadována aktualizace",
+      "category": "Chyba klienta",
+      "description": "Server odmítá provést požadavek pomocí aktuálního protokolu, ale může tak učinit po aktualizaci klienta."
+    },
+    {
+      "code": 428,
+      "name": "Požadována předběžná podmínka",
+      "category": "Chyba klienta",
+      "description": "Původní server vyžaduje, aby požadavek byl podmíněný."
+    },
+    {
+      "code": 429,
+      "name": "Příliš mnoho požadavků",
+      "category": "Chyba klienta",
+      "description": "Uživatel odeslal příliš mnoho požadavků v daném časovém intervalu (omezení rychlosti)."
+    },
+    {
+      "code": 431,
+      "name": "Pole záhlaví požadavku příliš velká",
+      "category": "Chyba klienta",
+      "description": "Server není ochoten zpracovat požadavek, protože jeho pole záhlaví jsou příliš velká."
+    },
+    {
+      "code": 451,
+      "name": "Nedostupné z právních důvodů",
+      "category": "Chyba klienta",
+      "description": "Uživatelský agent požadoval zdroj, který nelze legálně poskytnout."
+    },
+    {
+      "code": 500,
+      "name": "Interní chyba serveru",
+      "category": "Chyba serveru",
+      "description": "Server narazil na situaci, kterou neví, jak zpracovat."
+    },
+    {
+      "code": 501,
+      "name": "Není implementováno",
+      "category": "Chyba serveru",
+      "description": "Metoda požadavku není serverem podporována a nemůže být zpracována."
+    },
+    {
+      "code": 502,
+      "name": "Chybná brána",
+      "category": "Chyba serveru",
+      "description": "Server, pracující jako brána, obdržel neplatnou odpověď potřebnou ke zpracování požadavku."
+    },
+    {
+      "code": 503,
+      "name": "Služba nedostupná",
+      "category": "Chyba serveru",
+      "description": "Server není připraven zpracovat požadavek. Běžné příčiny jsou údržba nebo přetížení."
+    },
+    {
+      "code": 504,
+      "name": "Vypršel čas brány",
+      "category": "Chyba serveru",
+      "description": "Server funguje jako brána a nemůže včas získat odpověď."
+    },
+    {
+      "code": 505,
+      "name": "Verze HTTP není podporována",
+      "category": "Chyba serveru",
+      "description": "Verze HTTP použitá v požadavku není serverem podporována."
+    },
+    {
+      "code": 506,
+      "name": "Varianta také vyjednává",
+      "category": "Chyba serveru",
+      "description": "Server má interní chybu konfigurace."
+    },
+    {
+      "code": 507,
+      "name": "Nedostatek úložiště",
+      "category": "Chyba serveru",
+      "description": "Server není schopen uložit reprezentaci potřebnou k dokončení požadavku."
+    },
+    {
+      "code": 508,
+      "name": "Detekována smyčka",
+      "category": "Chyba serveru",
+      "description": "Server detekoval nekonečnou smyčku při zpracování požadavku."
+    },
+    {
+      "code": 510,
+      "name": "Nerozšířeno",
+      "category": "Chyba serveru",
+      "description": "Pro splnění požadavku serverem jsou nutná další rozšíření požadavku."
+    },
+    {
+      "code": 511,
+      "name": "Vyžadována autentizace sítě",
+      "category": "Chyba serveru",
+      "description": "Označuje, že se klient musí ověřit, aby získal přístup k síti."
+    }
+  ],
+  "meta": {
+    "seo_title": "HTTP Status Codes - Free Download (Excel/CSV/PDF)",
+    "seo_description": "Free download HTTP Status Codes with 62 records. Available in Excel, CSV, and PDF formats.",
+    "title": "HTTP Status Codes Dataset",
+    "description": "HTTP Status Codes containing 62 records.",
+    "key_takeaways": [
+      "Access 62 records in multiple formats.",
+      "Download data in Excel, CSV, or PDF format.",
+      "Use ISO codes for easy integration with other systems."
+    ],
+    "keywords": [
+      "http status codes excel",
+      "http status codes csv download",
+      "http status codes data",
+      "http status codes list"
+    ],
+    "use_cases": [
+      "Import the **CSV** file into your database or use it with Python/pandas for data analysis.",
+      "Open the **Excel** file to filter, sort, and create Pivot Tables for quick insights.",
+      "Print the **PDF** version for offline reference or classroom handouts.",
+      "Use the data to build applications, dashboards, or educational resources."
+    ]
+  },
+  "record_count": 62,
+  "title": "HTTP Status Codes Dataset"
+}

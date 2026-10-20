@@ -1,0 +1,146 @@
+{
+  "id": "cs-jednotky-electric",
+  "name": "Měrné jednotky: electric (8)",
+  "title": "Měrné jednotky: electric (8)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'electric'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 66,
+      "unit_code": "electric-ampere",
+      "kategorie": "electric",
+      "nazev": "ampéry",
+      "vzor_jednotne": "{0} ampér",
+      "vzor_mnozne": "{0} ampérů",
+      "kratky_vzor": "{0} A",
+      "uzky_vzor": "{0} A"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-coulomb",
+      "kategorie": "electric",
+      "nazev": "coulomby",
+      "vzor_jednotne": "{0} coulomb",
+      "vzor_mnozne": "{0} coulombů",
+      "kratky_vzor": "{0} C",
+      "uzky_vzor": "{0} C"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-farad",
+      "kategorie": "electric",
+      "nazev": "farady",
+      "vzor_jednotne": "{0} farad",
+      "vzor_mnozne": "{0} faradů",
+      "kratky_vzor": "{0} F",
+      "uzky_vzor": "{0} F"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-henry",
+      "kategorie": "electric",
+      "nazev": "henry",
+      "vzor_jednotne": "{0} henry",
+      "vzor_mnozne": "{0} henry",
+      "kratky_vzor": "{0} H",
+      "uzky_vzor": "{0} H"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-milliampere",
+      "kategorie": "electric",
+      "nazev": "miliampéry",
+      "vzor_jednotne": "{0} miliampér",
+      "vzor_mnozne": "{0} miliampérů",
+      "kratky_vzor": "{0} mA",
+      "uzky_vzor": "{0} mA"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-ohm",
+      "kategorie": "electric",
+      "nazev": "ohmy",
+      "vzor_jednotne": "{0} ohm",
+      "vzor_mnozne": "{0} ohmů",
+      "kratky_vzor": "{0} Ω",
+      "uzky_vzor": "{0} Ω"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-siemens",
+      "kategorie": "electric",
+      "nazev": "siemensy",
+      "vzor_jednotne": "{0} siemens",
+      "vzor_mnozne": "{0} siemensů",
+      "kratky_vzor": "{0} S",
+      "uzky_vzor": "{0} S"
+    },
+    {
+      "id": 73,
+      "unit_code": "electric-volt",
+      "kategorie": "electric",
+      "nazev": "volty",
+      "vzor_jednotne": "{0} volt",
+      "vzor_mnozne": "{0} voltů",
+      "kratky_vzor": "{0} V",
+      "uzky_vzor": "{0} V"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: electric (8) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'electric'. Obsahuje 8 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: electric (8) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: electric (8) — 8 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

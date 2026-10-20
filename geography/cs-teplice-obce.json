@@ -1,0 +1,484 @@
+{
+  "id": "cs-teplice-obce",
+  "name": "Obce — okres Teplice",
+  "title": "Obce — okres Teplice",
+  "description": "Seznam všech 34 obcí okresu Teplice — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (34 municipalities of okres Teplice, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bořislav",
+      "code": "567469",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41501",
+      "latitude": 50.579462,
+      "longitude": 13.929313,
+      "slug": "borislav"
+    },
+    {
+      "name": "Bystřany",
+      "code": "567477",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41761",
+      "latitude": 50.628776,
+      "longitude": 13.8643,
+      "slug": "bystrany"
+    },
+    {
+      "name": "Bílina",
+      "code": "567451",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41801",
+      "latitude": 50.548647,
+      "longitude": 13.775459,
+      "slug": "bilina"
+    },
+    {
+      "name": "Bžany",
+      "code": "567485",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41501",
+      "latitude": 50.589151,
+      "longitude": 13.879624,
+      "slug": "bzany"
+    },
+    {
+      "name": "Dubí",
+      "code": "567507",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41701",
+      "latitude": 50.681139,
+      "longitude": 13.788947,
+      "slug": "dubi"
+    },
+    {
+      "name": "Duchcov",
+      "code": "567515",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41901",
+      "latitude": 50.603871,
+      "longitude": 13.746322,
+      "slug": "duchcov"
+    },
+    {
+      "name": "Hostomice",
+      "code": "567531",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41752",
+      "latitude": 50.587806,
+      "longitude": 13.808142,
+      "slug": "hostomice"
+    },
+    {
+      "name": "Hrob",
+      "code": "567558",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41704",
+      "latitude": 50.659299,
+      "longitude": 13.726873,
+      "slug": "hrob"
+    },
+    {
+      "name": "Hrobčice",
+      "code": "567566",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41757",
+      "latitude": 50.517448,
+      "longitude": 13.785716,
+      "slug": "hrobcice"
+    },
+    {
+      "name": "Háj u Duchcova",
+      "code": "567523",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41722",
+      "latitude": 50.630921,
+      "longitude": 13.712691,
+      "slug": "haj-u-duchcova"
+    },
+    {
+      "name": "Jeníkov",
+      "code": "567582",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41724",
+      "latitude": 50.628702,
+      "longitude": 13.749019,
+      "slug": "jenikov"
+    },
+    {
+      "name": "Kladruby",
+      "code": "567604",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41501",
+      "latitude": 50.615093,
+      "longitude": 13.826385,
+      "slug": "kladruby"
+    },
+    {
+      "name": "Kostomlaty pod Milešovkou",
+      "code": "567612",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41754",
+      "latitude": 50.560217,
+      "longitude": 13.873166,
+      "slug": "kostomlaty-pod-milesovkou"
+    },
+    {
+      "name": "Košťany",
+      "code": "567621",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41723",
+      "latitude": 50.655181,
+      "longitude": 13.755656,
+      "slug": "kostany"
+    },
+    {
+      "name": "Krupka",
+      "code": "567639",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41741",
+      "latitude": 50.684596,
+      "longitude": 13.858264,
+      "slug": "krupka"
+    },
+    {
+      "name": "Lahošť",
+      "code": "567647",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41725",
+      "latitude": 50.618346,
+      "longitude": 13.765404,
+      "slug": "lahost"
+    },
+    {
+      "name": "Ledvice",
+      "code": "567655",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41772",
+      "latitude": 50.585119,
+      "longitude": 13.772139,
+      "slug": "ledvice"
+    },
+    {
+      "name": "Lukov",
+      "code": "546909",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41804",
+      "latitude": 50.528228,
+      "longitude": 13.885519,
+      "slug": "lukov"
+    },
+    {
+      "name": "Mikulov",
+      "code": "567701",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41901",
+      "latitude": 50.687713,
+      "longitude": 13.721712,
+      "slug": "mikulov"
+    },
+    {
+      "name": "Modlany",
+      "code": "567710",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41713",
+      "latitude": 50.650606,
+      "longitude": 13.895449,
+      "slug": "modlany"
+    },
+    {
+      "name": "Moldava",
+      "code": "567728",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41781",
+      "latitude": 50.720738,
+      "longitude": 13.657342,
+      "slug": "moldava"
+    },
+    {
+      "name": "Měrunice",
+      "code": "567698",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41804",
+      "latitude": 50.480523,
+      "longitude": 13.818088,
+      "slug": "merunice"
+    },
+    {
+      "name": "Novosedlice",
+      "code": "567752",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41731",
+      "latitude": 50.656439,
+      "longitude": 13.823154,
+      "slug": "novosedlice"
+    },
+    {
+      "name": "Ohníč",
+      "code": "567761",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41765",
+      "latitude": 50.587135,
+      "longitude": 13.844786,
+      "slug": "ohnic"
+    },
+    {
+      "name": "Osek",
+      "code": "567779",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41705",
+      "latitude": 50.622637,
+      "longitude": 13.691488,
+      "slug": "osek"
+    },
+    {
+      "name": "Proboštov",
+      "code": "567787",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41712",
+      "latitude": 50.667833,
+      "longitude": 13.836123,
+      "slug": "probostov"
+    },
+    {
+      "name": "Rtyně nad Bílinou",
+      "code": "567809",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41762",
+      "latitude": 50.603629,
+      "longitude": 13.908818,
+      "slug": "rtyne-nad-bilinou"
+    },
+    {
+      "name": "Srbice",
+      "code": "567833",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41501",
+      "latitude": 50.660759,
+      "longitude": 13.869399,
+      "slug": "srbice"
+    },
+    {
+      "name": "Světec",
+      "code": "567841",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41753",
+      "latitude": 50.576236,
+      "longitude": 13.811707,
+      "slug": "svetec"
+    },
+    {
+      "name": "Teplice",
+      "code": "567442",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41501",
+      "latitude": 50.644558,
+      "longitude": 13.835384,
+      "slug": "teplice"
+    },
+    {
+      "name": "Zabrušany",
+      "code": "567868",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41771",
+      "latitude": 50.605057,
+      "longitude": 13.787596,
+      "slug": "zabrusany"
+    },
+    {
+      "name": "Újezdeček",
+      "code": "567850",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41501",
+      "latitude": 50.645818,
+      "longitude": 13.789867,
+      "slug": "ujezdecek"
+    },
+    {
+      "name": "Žalany",
+      "code": "567876",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41763",
+      "latitude": 50.59013,
+      "longitude": 13.906447,
+      "slug": "zalany"
+    },
+    {
+      "name": "Žim",
+      "code": "567884",
+      "okres": "Teplice",
+      "okres_code": "CZ0426",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "41501",
+      "latitude": 50.585066,
+      "longitude": 13.965364,
+      "slug": "zim"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Teplice - Stáhnout zdarma",
+    "description": "Seznam všech 34 obcí okresu Teplice — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (34 municipalities of okres Teplice, split from the national cs-obce dataset.) Obsahuje 34 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Teplice | ListBase",
+    "seo_description": "Stáhnout Obce — okres Teplice — 34 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 34 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "id": "cs-jesenik-obce",
+  "name": "Obce — okres Jeseník",
+  "title": "Obce — okres Jeseník",
+  "description": "Seznam všech 24 obcí okresu Jeseník — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (24 municipalities of okres Jeseník, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bernartice",
+      "code": "524891",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79057",
+      "latitude": 50.389907,
+      "longitude": 17.078379,
+      "slug": "bernartice"
+    },
+    {
+      "name": "Bílá Voda",
+      "code": "525227",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79069",
+      "latitude": 50.442133,
+      "longitude": 16.916515,
+      "slug": "bila-voda"
+    },
+    {
+      "name": "Bělá pod Pradědem",
+      "code": "523917",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79001",
+      "latitude": 50.164036,
+      "longitude": 17.196677,
+      "slug": "bela-pod-pradedem"
+    },
+    {
+      "name": "Hradec-Nová Ves",
+      "code": "553301",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79084",
+      "latitude": 50.283247,
+      "longitude": 17.281327,
+      "slug": "hradec-nova-ves"
+    },
+    {
+      "name": "Javorník",
+      "code": "536148",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79070",
+      "latitude": 50.390868,
+      "longitude": 17.002821,
+      "slug": "javornik"
+    },
+    {
+      "name": "Jeseník",
+      "code": "536385",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79001",
+      "latitude": 50.224725,
+      "longitude": 17.198147,
+      "slug": "jesenik"
+    },
+    {
+      "name": "Kobylá nad Vidnavkou",
+      "code": "557218",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79065",
+      "latitude": 50.342045,
+      "longitude": 17.123713,
+      "slug": "kobyla-nad-vidnavkou"
+    },
+    {
+      "name": "Lipová-lázně",
+      "code": "540030",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79061",
+      "latitude": 50.227866,
+      "longitude": 17.14055,
+      "slug": "lipova-lazne"
+    },
+    {
+      "name": "Mikulovice",
+      "code": "540382",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79084",
+      "latitude": 50.298634,
+      "longitude": 17.321655,
+      "slug": "mikulovice"
+    },
+    {
+      "name": "Ostružná",
+      "code": "569330",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "78825",
+      "latitude": 50.185253,
+      "longitude": 17.051691,
+      "slug": "ostruzna"
+    },
+    {
+      "name": "Písečná",
+      "code": "540684",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79082",
+      "latitude": 50.273123,
+      "longitude": 17.253835,
+      "slug": "pisecna"
+    },
+    {
+      "name": "Skorošice",
+      "code": "553484",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79065",
+      "latitude": 50.308643,
+      "longitude": 17.080738,
+      "slug": "skorosice"
+    },
+    {
+      "name": "Stará Červená Voda",
+      "code": "541036",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79053",
+      "latitude": 50.329431,
+      "longitude": 17.201256,
+      "slug": "stara-cervena-voda"
+    },
+    {
+      "name": "Supíkovice",
+      "code": "541117",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79051",
+      "latitude": 50.297785,
+      "longitude": 17.255253,
+      "slug": "supikovice"
+    },
+    {
+      "name": "Uhelná",
+      "code": "541214",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79070",
+      "latitude": 50.365038,
+      "longitude": 17.027399,
+      "slug": "uhelna"
+    },
+    {
+      "name": "Velká Kraš",
+      "code": "553468",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79058",
+      "latitude": 50.363176,
+      "longitude": 17.146487,
+      "slug": "velka-kras"
+    },
+    {
+      "name": "Velké Kunětice",
+      "code": "569453",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79052",
+      "latitude": 50.316673,
+      "longitude": 17.266034,
+      "slug": "velke-kunetice"
+    },
+    {
+      "name": "Vidnava",
+      "code": "541303",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79055",
+      "latitude": 50.372435,
+      "longitude": 17.18636,
+      "slug": "vidnava"
+    },
+    {
+      "name": "Vlčice",
+      "code": "541346",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79065",
+      "latitude": 50.345377,
+      "longitude": 17.046051,
+      "slug": "vlcice"
+    },
+    {
+      "name": "Vápenná",
+      "code": "541249",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79064",
+      "latitude": 50.283473,
+      "longitude": 17.097722,
+      "slug": "vapenna"
+    },
+    {
+      "name": "Zlaté Hory",
+      "code": "597996",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79376",
+      "latitude": 50.263894,
+      "longitude": 17.396122,
+      "slug": "zlate-hory"
+    },
+    {
+      "name": "Černá Voda",
+      "code": "533491",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79054",
+      "latitude": 50.308312,
+      "longitude": 17.1471,
+      "slug": "cerna-voda"
+    },
+    {
+      "name": "Česká Ves",
+      "code": "569356",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79081",
+      "latitude": 50.257454,
+      "longitude": 17.228153,
+      "slug": "ceska-ves"
+    },
+    {
+      "name": "Žulová",
+      "code": "541575",
+      "okres": "Jeseník",
+      "okres_code": "CZ0711",
+      "kraj": "Olomoucký kraj",
+      "kraj_code": "CZ071",
+      "psc": "79065",
+      "latitude": 50.30943,
+      "longitude": 17.098814,
+      "slug": "zulova"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Jeseník - Stáhnout zdarma",
+    "description": "Seznam všech 24 obcí okresu Jeseník — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (24 municipalities of okres Jeseník, split from the national cs-obce dataset.) Obsahuje 24 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Jeseník | ListBase",
+    "seo_description": "Stáhnout Obce — okres Jeseník — 24 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 24 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

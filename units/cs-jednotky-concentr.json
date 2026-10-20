@@ -1,0 +1,196 @@
+{
+  "id": "cs-jednotky-concentr",
+  "name": "Měrné jednotky: concentr (13)",
+  "title": "Měrné jednotky: concentr (13)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'concentr'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategorie": "concentr",
+      "nazev": "položky",
+      "vzor_jednotne": "{0} položka",
+      "vzor_mnozne": "{0} položek",
+      "kratky_vzor": "{0} položek",
+      "uzky_vzor": "{0} pol."
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategorie": "concentr",
+      "nazev": "karáty",
+      "vzor_jednotne": "{0} karát",
+      "vzor_mnozne": "{0} karátů",
+      "kratky_vzor": "{0} kt",
+      "uzky_vzor": "{0} kt"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategorie": "concentr",
+      "nazev": "kataly",
+      "vzor_jednotne": "{0} katal",
+      "vzor_mnozne": "{0} katalů",
+      "kratky_vzor": "{0} kat",
+      "uzky_vzor": "{0} kat"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategorie": "concentr",
+      "nazev": "miligramy na decilitr",
+      "vzor_jednotne": "{0} miligram na decilitr",
+      "vzor_mnozne": "{0} miligramů na decilitr",
+      "kratky_vzor": "{0} mg/dl",
+      "uzky_vzor": "{0} mg/dl"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategorie": "concentr",
+      "nazev": "milimoly na litr",
+      "vzor_jednotne": "{0} milimol na litr",
+      "vzor_mnozne": "{0} milimolů na litr",
+      "kratky_vzor": "{0} mmol/l",
+      "uzky_vzor": "{0} mmol/l"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategorie": "concentr",
+      "nazev": "moly",
+      "vzor_jednotne": "{0} mol",
+      "vzor_mnozne": "{0} molů",
+      "kratky_vzor": "{0} mol",
+      "uzky_vzor": "{0} mol"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategorie": "concentr",
+      "nazev": "glukózy",
+      "vzor_jednotne": "{0} glukózy",
+      "vzor_mnozne": "{0} glukózy",
+      "kratky_vzor": "{0} Glc",
+      "uzky_vzor": "{0} Glc"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategorie": "concentr",
+      "nazev": "díly",
+      "vzor_jednotne": "{0} díl",
+      "vzor_mnozne": "{0} dílů",
+      "kratky_vzor": "{0} dílů",
+      "uzky_vzor": "{0} dílů"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategorie": "concentr",
+      "nazev": "díly z milionu",
+      "vzor_jednotne": "{0} díl z milionu",
+      "vzor_mnozne": "{0} dílů z milionu",
+      "kratky_vzor": "{0} ppm",
+      "uzky_vzor": "{0} ppm"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategorie": "concentr",
+      "nazev": "částice na miliardu",
+      "vzor_jednotne": "{0} částice na miliardu",
+      "vzor_mnozne": "{0} částic na miliardu",
+      "kratky_vzor": "{0} částic na mld",
+      "uzky_vzor": "{0} částic na mld"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategorie": "concentr",
+      "nazev": "procenta",
+      "vzor_jednotne": "{0} procento",
+      "vzor_mnozne": "{0} procent",
+      "kratky_vzor": "{0} %",
+      "uzky_vzor": "{0} %"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategorie": "concentr",
+      "nazev": "promile",
+      "vzor_jednotne": "{0} promile",
+      "vzor_mnozne": "{0} promile",
+      "kratky_vzor": "{0} ‰",
+      "uzky_vzor": "{0} ‰"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategorie": "concentr",
+      "nazev": "desetiny promile",
+      "vzor_jednotne": "{0} desetina promile",
+      "vzor_mnozne": "{0} desetin promile",
+      "kratky_vzor": "{0} ‱",
+      "uzky_vzor": "{0} ‱"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: concentr (13) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'concentr'. Obsahuje 13 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: concentr (13) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: concentr (13) — 13 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 13 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

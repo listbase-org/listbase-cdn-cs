@@ -1,0 +1,6881 @@
+{
+  "id": "cs-vyhlidky",
+  "name": "Vyhlídky",
+  "title": "Vyhlídky",
+  "description": "Seznam pojmenovaných vyhlídek v České republice (1368 záznamů) — body zájmu z OpenStreetMap (tag tourism=viewpoint), výřez EU-POIS/CZ.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1368,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Zeisigstein",
+      "latitude": 50.824175,
+      "longitude": 13.999667
+    },
+    {
+      "name": "Oelsener Höhe",
+      "latitude": 50.796433,
+      "longitude": 13.93033
+    },
+    {
+      "name": "Grenzplatte",
+      "latitude": 50.812678,
+      "longitude": 14.047003
+    },
+    {
+      "name": "Buchberg",
+      "latitude": 50.968269,
+      "longitude": 14.28401
+    },
+    {
+      "name": "Spitzbergsicht",
+      "latitude": 50.966742,
+      "longitude": 14.297989
+    },
+    {
+      "name": "Alter Rosengartenblick",
+      "latitude": 50.964878,
+      "longitude": 14.30177
+    },
+    {
+      "name": "rozhledna Tanečníce;rozhledna Tanečnice",
+      "latitude": 50.966127,
+      "longitude": 14.319983
+    },
+    {
+      "name": "Galgenberg",
+      "latitude": 51.036245,
+      "longitude": 14.48581
+    },
+    {
+      "name": "Dutý buk",
+      "latitude": 50.974175,
+      "longitude": 14.423829
+    },
+    {
+      "name": "Bismarckturm Neugersdorf",
+      "latitude": 50.969688,
+      "longitude": 14.597621
+    },
+    {
+      "name": "Pohanské kameny",
+      "latitude": 50.971379,
+      "longitude": 15.021113
+    },
+    {
+      "name": "Ruiny wieży widokowej Giersberga",
+      "latitude": 50.985899,
+      "longitude": 15.265689
+    },
+    {
+      "name": "Saupsdorfblick",
+      "latitude": 50.947213,
+      "longitude": 14.331745
+    },
+    {
+      "name": "Kaltenbergblick",
+      "latitude": 50.936446,
+      "longitude": 14.367686
+    },
+    {
+      "name": "Weifbergturm",
+      "latitude": 50.936889,
+      "longitude": 14.365306
+    },
+    {
+      "name": "Taubenstein",
+      "latitude": 50.916614,
+      "longitude": 14.384123
+    },
+    {
+      "name": "Hermannseck",
+      "latitude": 50.903449,
+      "longitude": 14.386559
+    },
+    {
+      "name": "Käs",
+      "latitude": 50.903122,
+      "longitude": 14.407972
+    },
+    {
+      "name": "Labská vyhlídka Elisafex",
+      "latitude": 50.873807,
+      "longitude": 14.236406
+    },
+    {
+      "name": "Belvedér",
+      "latitude": 50.849549,
+      "longitude": 14.221441
+    },
+    {
+      "name": "Tauberts Aussicht",
+      "latitude": 50.860705,
+      "longitude": 14.22093
+    },
+    {
+      "name": "Křížový kámen",
+      "latitude": 50.884143,
+      "longitude": 14.280223
+    },
+    {
+      "name": "Horní vyhlídka Edmundova kamene",
+      "latitude": 50.8852,
+      "longitude": 14.280761
+    },
+    {
+      "name": "Kipphornaussicht",
+      "latitude": 50.891456,
+      "longitude": 14.250802
+    },
+    {
+      "name": "Dolní vyhlídka Edmundova kamene",
+      "latitude": 50.885225,
+      "longitude": 14.280674
+    },
+    {
+      "name": "Brot",
+      "latitude": 50.902599,
+      "longitude": 14.404889
+    },
+    {
+      "name": "Rabensteinaussicht",
+      "latitude": 50.899935,
+      "longitude": 14.359833
+    },
+    {
+      "name": "Mariensruh",
+      "latitude": 50.879218,
+      "longitude": 14.413036
+    },
+    {
+      "name": "Dolní Bílý ostroh",
+      "latitude": 50.874065,
+      "longitude": 14.244341
+    },
+    {
+      "name": "Janovská vyhlídka",
+      "latitude": 50.873778,
+      "longitude": 14.244984
+    },
+    {
+      "name": "Rozhledna Janovský vrch",
+      "latitude": 50.860949,
+      "longitude": 14.269728
+    },
+    {
+      "name": "Vyhlídka Fénix",
+      "latitude": 50.8742,
+      "longitude": 14.286114
+    },
+    {
+      "name": "Ptačí kámen",
+      "latitude": 50.85888,
+      "longitude": 14.333945
+    },
+    {
+      "name": "Vilemínina stěna",
+      "latitude": 50.863178,
+      "longitude": 14.403897
+    },
+    {
+      "name": "Kamenická vyhlídka",
+      "latitude": 50.850297,
+      "longitude": 14.344393
+    },
+    {
+      "name": "Mariina skála",
+      "latitude": 50.860428,
+      "longitude": 14.404998
+    },
+    {
+      "name": "Šaunštejn",
+      "latitude": 50.868658,
+      "longitude": 14.352095
+    },
+    {
+      "name": "Treppenstein",
+      "latitude": 50.85978,
+      "longitude": 14.393619
+    },
+    {
+      "name": "Soví vyhlídka",
+      "latitude": 50.934186,
+      "longitude": 14.429175
+    },
+    {
+      "name": "rozhl. Vlčí hora",
+      "latitude": 50.939676,
+      "longitude": 14.465437
+    },
+    {
+      "name": "Kinského vyhlídka",
+      "latitude": 50.91198,
+      "longitude": 14.456257
+    },
+    {
+      "name": "U Köglerova kříže",
+      "latitude": 50.910393,
+      "longitude": 14.488085
+    },
+    {
+      "name": "Varnsdorf, Tolštejn, Hrádek",
+      "latitude": 50.926826,
+      "longitude": 14.63159
+    },
+    {
+      "name": "Karlova vyhlídka",
+      "latitude": 50.887362,
+      "longitude": 14.486156
+    },
+    {
+      "name": "Tolštejn",
+      "latitude": 50.856858,
+      "longitude": 14.581704
+    },
+    {
+      "name": "rozhledna Jedlová",
+      "latitude": 50.856663,
+      "longitude": 14.5604
+    },
+    {
+      "name": "Lausche",
+      "latitude": 50.849223,
+      "longitude": 14.646474
+    },
+    {
+      "name": "Rübezahlskanzel",
+      "latitude": 50.854104,
+      "longitude": 14.660615
+    },
+    {
+      "name": "Labska vyhlidka",
+      "latitude": 50.828553,
+      "longitude": 14.219238
+    },
+    {
+      "name": "Drážďanská vyhlídka",
+      "latitude": 50.794767,
+      "longitude": 14.098072
+    },
+    {
+      "name": "Koňská hlava",
+      "latitude": 50.800017,
+      "longitude": 14.120865
+    },
+    {
+      "name": "Vyhlídka kováře Popolce",
+      "latitude": 50.793429,
+      "longitude": 14.182667
+    },
+    {
+      "name": "Válečná díra",
+      "latitude": 50.821276,
+      "longitude": 14.356986
+    },
+    {
+      "name": "Růžový hřbety",
+      "latitude": 50.801254,
+      "longitude": 14.244536
+    },
+    {
+      "name": "Růžová vyhlídka",
+      "latitude": 50.806302,
+      "longitude": 14.244131
+    },
+    {
+      "name": "výhled na Lužické hory",
+      "latitude": 50.795111,
+      "longitude": 14.308319
+    },
+    {
+      "name": "vyhlídka nad soutěskou",
+      "latitude": 50.800291,
+      "longitude": 14.362587
+    },
+    {
+      "name": "výhled na Lužické hory a Markvartickou kotlinu",
+      "latitude": 50.795901,
+      "longitude": 14.379008
+    },
+    {
+      "name": "výhled na Růžovský vrch",
+      "latitude": 50.796401,
+      "longitude": 14.376264
+    },
+    {
+      "name": "Děčínská výšina",
+      "latitude": 50.788992,
+      "longitude": 14.235261
+    },
+    {
+      "name": "Stoličná hora",
+      "latitude": 50.785153,
+      "longitude": 14.227597
+    },
+    {
+      "name": "Sněžnická vyhlídka",
+      "latitude": 50.787961,
+      "longitude": 14.23319
+    },
+    {
+      "name": "Přípeřská vyhlídka",
+      "latitude": 50.79041,
+      "longitude": 14.203261
+    },
+    {
+      "name": "Dolní vyhlídka",
+      "latitude": 50.786402,
+      "longitude": 14.209516
+    },
+    {
+      "name": "Červená skála (Nad vlajkou)",
+      "latitude": 50.782942,
+      "longitude": 14.207132
+    },
+    {
+      "name": "Horní vyhlídka",
+      "latitude": 50.7871,
+      "longitude": 14.211101
+    },
+    {
+      "name": "rozhl. Pastýřská stěna",
+      "latitude": 50.78014,
+      "longitude": 14.204403
+    },
+    {
+      "name": "Rozhledna Velký Chlum",
+      "latitude": 50.747648,
+      "longitude": 14.228268
+    },
+    {
+      "name": "velká vyhlídka na Lužické hory",
+      "latitude": 50.774908,
+      "longitude": 14.310843
+    },
+    {
+      "name": "výhled na Markvartice",
+      "latitude": 50.776825,
+      "longitude": 14.313877
+    },
+    {
+      "name": "výhled na Markvartice",
+      "latitude": 50.771981,
+      "longitude": 14.312562
+    },
+    {
+      "name": "výhled na Růžovský vrch a České Švýcarsko",
+      "latitude": 50.7818,
+      "longitude": 14.310281
+    },
+    {
+      "name": "Vyhlídka ševce a krále Miroslava (Pyšná princezna)",
+      "latitude": 50.785135,
+      "longitude": 14.311424
+    },
+    {
+      "name": "výhled na Českosaské Švýcarsko",
+      "latitude": 50.764368,
+      "longitude": 14.375485
+    },
+    {
+      "name": "val",
+      "latitude": 50.770784,
+      "longitude": 14.383998
+    },
+    {
+      "name": "myslivecká vyhlídka",
+      "latitude": 50.776539,
+      "longitude": 14.327082
+    },
+    {
+      "name": "výhled na Českosaské Švýcarsko",
+      "latitude": 50.780882,
+      "longitude": 14.400933
+    },
+    {
+      "name": "výhled",
+      "latitude": 50.761283,
+      "longitude": 14.292863
+    },
+    {
+      "name": "výhled",
+      "latitude": 50.761331,
+      "longitude": 14.289969
+    },
+    {
+      "name": "výhled",
+      "latitude": 50.757829,
+      "longitude": 14.292352
+    },
+    {
+      "name": "výhled na Benešov",
+      "latitude": 50.744079,
+      "longitude": 14.31109
+    },
+    {
+      "name": "Ploučnická vyhlídka",
+      "latitude": 50.736947,
+      "longitude": 14.308408
+    },
+    {
+      "name": "vyhlídka",
+      "latitude": 50.755297,
+      "longitude": 14.371153
+    },
+    {
+      "name": "vyhlídka",
+      "latitude": 50.748183,
+      "longitude": 14.366027
+    },
+    {
+      "name": "výhled na Lužické hory",
+      "latitude": 50.763744,
+      "longitude": 14.377438
+    },
+    {
+      "name": "výhled 291,2",
+      "latitude": 50.762089,
+      "longitude": 14.329511
+    },
+    {
+      "name": "Studenec",
+      "latitude": 50.832109,
+      "longitude": 14.454407
+    },
+    {
+      "name": "výhled na Chřibskou",
+      "latitude": 50.826043,
+      "longitude": 14.501146
+    },
+    {
+      "name": "výhled Jedlová, Sokol",
+      "latitude": 50.823704,
+      "longitude": 14.502803
+    },
+    {
+      "name": "Ponorka",
+      "latitude": 50.810572,
+      "longitude": 14.422187
+    },
+    {
+      "name": "Žába",
+      "latitude": 50.810383,
+      "longitude": 14.420749
+    },
+    {
+      "name": "Žába II",
+      "latitude": 50.808695,
+      "longitude": 14.426001
+    },
+    {
+      "name": "Tell-Platte",
+      "latitude": 50.80928,
+      "longitude": 14.425929
+    },
+    {
+      "name": "Vyhlídka republiky",
+      "latitude": 50.816899,
+      "longitude": 14.528434
+    },
+    {
+      "name": "Hochwald/Hvozd",
+      "latitude": 50.822514,
+      "longitude": 14.726387
+    },
+    {
+      "name": "Sudetenblick",
+      "latitude": 50.83055,
+      "longitude": 14.748257
+    },
+    {
+      "name": "Johannisstein",
+      "latitude": 50.834949,
+      "longitude": 14.718726
+    },
+    {
+      "name": "Lubischhöhe",
+      "latitude": 50.834913,
+      "longitude": 14.7541
+    },
+    {
+      "name": "Heinrich-Singwitz-Bank",
+      "latitude": 50.834624,
+      "longitude": 14.754767
+    },
+    {
+      "name": "Ludwigshöhe",
+      "latitude": 50.836667,
+      "longitude": 14.72488
+    },
+    {
+      "name": "Mönchskanzel",
+      "latitude": 50.834248,
+      "longitude": 14.75189
+    },
+    {
+      "name": "Adolfs Ruhebank",
+      "latitude": 50.834393,
+      "longitude": 14.757179
+    },
+    {
+      "name": "Kaiserbörnel",
+      "latitude": 50.830156,
+      "longitude": 14.746942
+    },
+    {
+      "name": "Johannisstein Aussicht",
+      "latitude": 50.834513,
+      "longitude": 14.717808
+    },
+    {
+      "name": "Knesplova vyhlídka",
+      "latitude": 50.805033,
+      "longitude": 14.647998
+    },
+    {
+      "name": "Drobošova vyhlídka",
+      "latitude": 50.806173,
+      "longitude": 14.650349
+    },
+    {
+      "name": "Klíč",
+      "latitude": 50.788548,
+      "longitude": 14.572819
+    },
+    {
+      "name": "Havraní skály",
+      "latitude": 50.766872,
+      "longitude": 14.587713
+    },
+    {
+      "name": "Hřebenka",
+      "latitude": 50.748971,
+      "longitude": 14.564687
+    },
+    {
+      "name": "průhled na Klíč",
+      "latitude": 50.739526,
+      "longitude": 14.545658
+    },
+    {
+      "name": "Schillerova vyhlídka",
+      "latitude": 50.787338,
+      "longitude": 14.657056
+    },
+    {
+      "name": "Nad Perníkovou věží",
+      "latitude": 50.766696,
+      "longitude": 14.602846
+    },
+    {
+      "name": "bývalá Švýcarská bouda",
+      "latitude": 50.778557,
+      "longitude": 14.653981
+    },
+    {
+      "name": "Nad Strží",
+      "latitude": 50.758092,
+      "longitude": 14.708386
+    },
+    {
+      "name": "Radniční věž",
+      "latitude": 50.921969,
+      "longitude": 15.07853
+    },
+    {
+      "name": "Rozhledna Heřmanice",
+      "latitude": 50.897428,
+      "longitude": 15.016997
+    },
+    {
+      "name": "Stary kamieniołom/odsłonięcie",
+      "latitude": 50.892958,
+      "longitude": 14.991725
+    },
+    {
+      "name": "Na Výhledu",
+      "latitude": 50.861139,
+      "longitude": 14.964854
+    },
+    {
+      "name": "Skalní Hrad",
+      "latitude": 50.872171,
+      "longitude": 15.089403
+    },
+    {
+      "name": "Špičák",
+      "latitude": 50.864446,
+      "longitude": 15.074156
+    },
+    {
+      "name": "Vyhlídka Triangl",
+      "latitude": 50.911471,
+      "longitude": 15.198605
+    },
+    {
+      "name": "Vyhlídka Jaruš",
+      "latitude": 50.906969,
+      "longitude": 15.205833
+    },
+    {
+      "name": "Dobrý duch MUHU",
+      "latitude": 50.894129,
+      "longitude": 15.196351
+    },
+    {
+      "name": "Vyhlídka „Libverdských pramenů“",
+      "latitude": 50.892108,
+      "longitude": 15.18999
+    },
+    {
+      "name": "Triangl",
+      "latitude": 50.876239,
+      "longitude": 15.174332
+    },
+    {
+      "name": "Kočičí kameny",
+      "latitude": 50.886902,
+      "longitude": 15.231117
+    },
+    {
+      "name": "Pechova smrt",
+      "latitude": 50.895738,
+      "longitude": 15.254869
+    },
+    {
+      "name": "Rozhledna na Smrku",
+      "latitude": 50.889318,
+      "longitude": 15.271821
+    },
+    {
+      "name": "Hájníkův kohout",
+      "latitude": 50.890176,
+      "longitude": 15.217196
+    },
+    {
+      "name": "Krásná Máří",
+      "latitude": 50.852445,
+      "longitude": 15.182023
+    },
+    {
+      "name": "Paličník",
+      "latitude": 50.871467,
+      "longitude": 15.25758
+    },
+    {
+      "name": "Frýdlantské Cimbuří",
+      "latitude": 50.856207,
+      "longitude": 15.217106
+    },
+    {
+      "name": "Černá stěna",
+      "latitude": 50.857911,
+      "longitude": 15.230571
+    },
+    {
+      "name": "Hajní Kostel",
+      "latitude": 50.861385,
+      "longitude": 15.215331
+    },
+    {
+      "name": "Mühlsteinberg",
+      "latitude": 50.838373,
+      "longitude": 14.796266
+    },
+    {
+      "name": "Vyhlídková věž hradu Grabštejn",
+      "latitude": 50.846191,
+      "longitude": 14.876337
+    },
+    {
+      "name": "Dračí vrch",
+      "latitude": 50.809507,
+      "longitude": 15.077792
+    },
+    {
+      "name": "Jezdec",
+      "latitude": 50.797477,
+      "longitude": 15.092796
+    },
+    {
+      "name": "Vápenný",
+      "latitude": 50.788836,
+      "longitude": 14.897375
+    },
+    {
+      "name": "Krkavčí skály",
+      "latitude": 50.74207,
+      "longitude": 14.891673
+    },
+    {
+      "name": "Rozhledna Lidové sady",
+      "latitude": 50.777385,
+      "longitude": 15.080931
+    },
+    {
+      "name": "Rozhledna Liberecká výšina",
+      "latitude": 50.778192,
+      "longitude": 15.091657
+    },
+    {
+      "name": "Kamenná vrata",
+      "latitude": 50.737246,
+      "longitude": 14.976965
+    },
+    {
+      "name": "Dánské kameny",
+      "latitude": 50.7487,
+      "longitude": 14.959476
+    },
+    {
+      "name": "Holubník",
+      "latitude": 50.8407,
+      "longitude": 15.183504
+    },
+    {
+      "name": "Ptačí kupy",
+      "latitude": 50.846994,
+      "longitude": 15.173728
+    },
+    {
+      "name": "Čertův odpočinek",
+      "latitude": 50.824487,
+      "longitude": 15.213018
+    },
+    {
+      "name": "Na Čihadle",
+      "latitude": 50.833013,
+      "longitude": 15.231597
+    },
+    {
+      "name": "Velká klečová louka",
+      "latitude": 50.831243,
+      "longitude": 15.244374
+    },
+    {
+      "name": "Zelený vrch",
+      "latitude": 50.82065,
+      "longitude": 15.282267
+    },
+    {
+      "name": "Rozhledna Královka",
+      "latitude": 50.792058,
+      "longitude": 15.157524
+    },
+    {
+      "name": "Výhled Čertův Kámen",
+      "latitude": 50.83046,
+      "longitude": 15.298603
+    },
+    {
+      "name": "Výhled na přehradu Souš",
+      "latitude": 50.79943,
+      "longitude": 15.324552
+    },
+    {
+      "name": "Výhled u posedu",
+      "latitude": 50.795223,
+      "longitude": 15.332501
+    },
+    {
+      "name": "Trniště",
+      "latitude": 50.774125,
+      "longitude": 15.157756
+    },
+    {
+      "name": "rozhledna Slovanka",
+      "latitude": 50.773282,
+      "longitude": 15.196266
+    },
+    {
+      "name": "Vyhlídka Finkenstein 688m",
+      "latitude": 50.742645,
+      "longitude": 15.243147
+    },
+    {
+      "name": "Skalní vyhlídka",
+      "latitude": 50.751683,
+      "longitude": 15.281289
+    },
+    {
+      "name": "Tanvaldský Špičák",
+      "latitude": 50.751442,
+      "longitude": 15.282407
+    },
+    {
+      "name": "Krásná vyhlídka",
+      "latitude": 50.763923,
+      "longitude": 15.286321
+    },
+    {
+      "name": "Vyhlídka k Jizerkám",
+      "latitude": 50.751445,
+      "longitude": 15.282734
+    },
+    {
+      "name": "Výhled na Krkonoše",
+      "latitude": 50.736682,
+      "longitude": 15.257924
+    },
+    {
+      "name": "Výhled na viadukt",
+      "latitude": 50.738326,
+      "longitude": 15.250312
+    },
+    {
+      "name": "Buková - viklan",
+      "latitude": 50.763296,
+      "longitude": 15.243429
+    },
+    {
+      "name": "Rozhledna Bramberk",
+      "latitude": 50.756247,
+      "longitude": 15.205902
+    },
+    {
+      "name": "Pěkný výhled",
+      "latitude": 50.78365,
+      "longitude": 15.328959
+    },
+    {
+      "name": "Bílá skála",
+      "latitude": 50.739617,
+      "longitude": 15.375349
+    },
+    {
+      "name": "Skalní vyhlídka",
+      "latitude": 50.750354,
+      "longitude": 15.375767
+    },
+    {
+      "name": "Výhled na Štěpánku",
+      "latitude": 50.761934,
+      "longitude": 15.36176
+    },
+    {
+      "name": "U Čtyř buků",
+      "latitude": 50.75869,
+      "longitude": 15.431017
+    },
+    {
+      "name": "Skalní vyhlídka",
+      "latitude": 50.739163,
+      "longitude": 15.406745
+    },
+    {
+      "name": "vyhlídka na Harrachov",
+      "latitude": 50.762279,
+      "longitude": 15.430745
+    },
+    {
+      "name": "Hala Szrenicka",
+      "latitude": 50.793101,
+      "longitude": 15.503448
+    },
+    {
+      "name": "Szrenica",
+      "latitude": 50.791599,
+      "longitude": 15.514106
+    },
+    {
+      "name": "Czeskie Kamienie / Mužské kameny",
+      "latitude": 50.776879,
+      "longitude": 15.591102
+    },
+    {
+      "name": "Śląskie Kamienie",
+      "latitude": 50.776021,
+      "longitude": 15.602776
+    },
+    {
+      "name": "Ambrožova vyhlídka",
+      "latitude": 50.76263,
+      "longitude": 15.545534
+    },
+    {
+      "name": "Pančavský vodopád",
+      "latitude": 50.761215,
+      "longitude": 15.545205
+    },
+    {
+      "name": "Sedlo Lysé hory",
+      "latitude": 50.752342,
+      "longitude": 15.519743
+    },
+    {
+      "name": "Šmídova vyhlídka",
+      "latitude": 50.744229,
+      "longitude": 15.569048
+    },
+    {
+      "name": "Vyhlídka na Obřím hřebeni",
+      "latitude": 50.740376,
+      "longitude": 15.748535
+    },
+    {
+      "name": "Auersbergblick",
+      "latitude": 50.410969,
+      "longitude": 12.643851
+    },
+    {
+      "name": "Längste Bank des Vogtlands",
+      "latitude": 50.358083,
+      "longitude": 12.435795
+    },
+    {
+      "name": "Max Schmerler Bank",
+      "latitude": 50.35848,
+      "longitude": 12.440782
+    },
+    {
+      "name": "Otto Hermann Böhm Turm",
+      "latitude": 50.390339,
+      "longitude": 12.506974
+    },
+    {
+      "name": "Olověný vrch",
+      "latitude": 50.367483,
+      "longitude": 12.511531
+    },
+    {
+      "name": "Otevřené dveře Nová Ves",
+      "latitude": 50.351459,
+      "longitude": 12.545386
+    },
+    {
+      "name": "Vysoký kámen",
+      "latitude": 50.30058,
+      "longitude": 12.408054
+    },
+    {
+      "name": "Vyhlídka Josefa II.",
+      "latitude": 50.324825,
+      "longitude": 12.519792
+    },
+    {
+      "name": "Kleiner Stößerfelsen",
+      "latitude": 50.617469,
+      "longitude": 13.355086
+    },
+    {
+      "name": "Aussichtsplattform",
+      "latitude": 50.575583,
+      "longitude": 13.216212
+    },
+    {
+      "name": "Puklá skála",
+      "latitude": 50.694629,
+      "longitude": 13.585728
+    },
+    {
+      "name": "Mravenečník",
+      "latitude": 50.700303,
+      "longitude": 13.564622
+    },
+    {
+      "name": "Sophienstein",
+      "latitude": 50.630408,
+      "longitude": 13.368491
+    },
+    {
+      "name": "Hexentanzplatz",
+      "latitude": 50.651784,
+      "longitude": 13.372538
+    },
+    {
+      "name": "Dušanova vyhlídka",
+      "latitude": 50.64958,
+      "longitude": 13.6846
+    },
+    {
+      "name": "Hochmooraussichtspunkt",
+      "latitude": 50.728205,
+      "longitude": 13.744854
+    },
+    {
+      "name": "Talblick",
+      "latitude": 50.722007,
+      "longitude": 13.776941
+    },
+    {
+      "name": "Komáří hůrka",
+      "latitude": 50.706617,
+      "longitude": 13.85645
+    },
+    {
+      "name": "Hrad Krupka",
+      "latitude": 50.684863,
+      "longitude": 13.855878
+    },
+    {
+      "name": "Sedmihůrská Vyhlídka",
+      "latitude": 50.708411,
+      "longitude": 13.827497
+    },
+    {
+      "name": "Komáří vížka",
+      "latitude": 50.706642,
+      "longitude": 13.856558
+    },
+    {
+      "name": "Vyhlídka u laviček",
+      "latitude": 50.701144,
+      "longitude": 13.913992
+    },
+    {
+      "name": "Vyhlídka Na Hřebeni",
+      "latitude": 50.701015,
+      "longitude": 14.030233
+    },
+    {
+      "name": "Vlčí kámen",
+      "latitude": 50.677719,
+      "longitude": 13.735658
+    },
+    {
+      "name": "Doubravská hora",
+      "latitude": 50.639026,
+      "longitude": 13.85974
+    },
+    {
+      "name": "Rozhledna - Stráž Františka Josefa",
+      "latitude": 50.637158,
+      "longitude": 13.833845
+    },
+    {
+      "name": "Vyhlídková věž Jana Křtitele",
+      "latitude": 50.637676,
+      "longitude": 13.82701
+    },
+    {
+      "name": "Vyhlídka",
+      "latitude": 50.637924,
+      "longitude": 13.86029
+    },
+    {
+      "name": "Rozhledna Doubravka",
+      "latitude": 50.638765,
+      "longitude": 13.860235
+    },
+    {
+      "name": "Erbenova vyhlídka",
+      "latitude": 50.678647,
+      "longitude": 14.050895
+    },
+    {
+      "name": "Vrkoč",
+      "latitude": 50.630905,
+      "longitude": 14.045201
+    },
+    {
+      "name": "Humboldtova vyhlídka",
+      "latitude": 50.649284,
+      "longitude": 14.03711
+    },
+    {
+      "name": "Střekovská vyhlídka",
+      "latitude": 50.652527,
+      "longitude": 14.060387
+    },
+    {
+      "name": "Stößerfelsen",
+      "latitude": 50.621659,
+      "longitude": 13.360252
+    },
+    {
+      "name": "Dolní vyhlídka",
+      "latitude": 50.572071,
+      "longitude": 13.51802
+    },
+    {
+      "name": "Horní vyhlídka",
+      "latitude": 50.573079,
+      "longitude": 13.518066
+    },
+    {
+      "name": "Kočičí skála",
+      "latitude": 50.549171,
+      "longitude": 13.423941
+    },
+    {
+      "name": "Lom ČSA",
+      "latitude": 50.545615,
+      "longitude": 13.491874
+    },
+    {
+      "name": "Vláďulina vyhlídka",
+      "latitude": 50.548093,
+      "longitude": 13.468047
+    },
+    {
+      "name": "Terezina vyhlídka",
+      "latitude": 50.541802,
+      "longitude": 13.47444
+    },
+    {
+      "name": "rozhledna Hněvín",
+      "latitude": 50.520721,
+      "longitude": 13.633175
+    },
+    {
+      "name": "Liptická vyhlídka",
+      "latitude": 50.597592,
+      "longitude": 13.731796
+    },
+    {
+      "name": "Malá Skála",
+      "latitude": 50.619327,
+      "longitude": 14.055078
+    },
+    {
+      "name": "Vaňovská Skála",
+      "latitude": 50.619916,
+      "longitude": 14.054536
+    },
+    {
+      "name": "Svah Čertovka",
+      "latitude": 50.623691,
+      "longitude": 14.054093
+    },
+    {
+      "name": "Mlynářův kámen",
+      "latitude": 50.596096,
+      "longitude": 14.031439
+    },
+    {
+      "name": "Radejčín rozhledna",
+      "latitude": 50.582967,
+      "longitude": 14.011177
+    },
+    {
+      "name": "Vyhídka u Dubice",
+      "latitude": 50.593258,
+      "longitude": 14.028291
+    },
+    {
+      "name": "Doerellova vyhlídka",
+      "latitude": 50.586255,
+      "longitude": 14.025265
+    },
+    {
+      "name": "Milešovka rozhledna",
+      "latitude": 50.554847,
+      "longitude": 13.931279
+    },
+    {
+      "name": "Ostrý",
+      "latitude": 50.531534,
+      "longitude": 13.951514
+    },
+    {
+      "name": "Lovošská Pískovna",
+      "latitude": 50.524199,
+      "longitude": 14.039361
+    },
+    {
+      "name": "Kibička",
+      "latitude": 50.528824,
+      "longitude": 14.023628
+    },
+    {
+      "name": "Vyhlídková plošina Lovoš",
+      "latitude": 50.527823,
+      "longitude": 14.018324
+    },
+    {
+      "name": "Mílova vyhlídka",
+      "latitude": 50.529031,
+      "longitude": 14.023646
+    },
+    {
+      "name": "Rittersgrün",
+      "latitude": 50.461428,
+      "longitude": 12.819782
+    },
+    {
+      "name": "Holubí skály",
+      "latitude": 50.441707,
+      "longitude": 12.80947
+    },
+    {
+      "name": "Okno",
+      "latitude": 50.40187,
+      "longitude": 12.749827
+    },
+    {
+      "name": "Boží vyhlídka",
+      "latitude": 50.405361,
+      "longitude": 12.932452
+    },
+    {
+      "name": "Irenina Skala",
+      "latitude": 50.462219,
+      "longitude": 13.268861
+    },
+    {
+      "name": "Mufloní vyhlídka",
+      "latitude": 50.461011,
+      "longitude": 13.276481
+    },
+    {
+      "name": "Rozhledna Blatenský vrch",
+      "latitude": 50.400205,
+      "longitude": 12.781672
+    },
+    {
+      "name": "Strašidlo",
+      "latitude": 50.401335,
+      "longitude": 12.749579
+    },
+    {
+      "name": "Borůvčí",
+      "latitude": 50.401028,
+      "longitude": 12.750625
+    },
+    {
+      "name": "Vyhlídka",
+      "latitude": 50.367828,
+      "longitude": 12.805047
+    },
+    {
+      "name": "Mohyla Karla Klostermanna",
+      "latitude": 50.37216,
+      "longitude": 12.828191
+    },
+    {
+      "name": "Hadí hora",
+      "latitude": 50.384616,
+      "longitude": 12.934692
+    },
+    {
+      "name": "Klínovec",
+      "latitude": 50.395946,
+      "longitude": 12.967866
+    },
+    {
+      "name": "Pohled na lázně",
+      "latitude": 50.367377,
+      "longitude": 12.926039
+    },
+    {
+      "name": "Rajmanova vyhlídka",
+      "latitude": 50.323098,
+      "longitude": 12.734282
+    },
+    {
+      "name": "Popovský kříž",
+      "latitude": 50.338034,
+      "longitude": 12.923829
+    },
+    {
+      "name": "Rogalová rampa",
+      "latitude": 50.361612,
+      "longitude": 13.170398
+    },
+    {
+      "name": "Rozhledna na Svatém kopečku",
+      "latitude": 50.38406,
+      "longitude": 13.25777
+    },
+    {
+      "name": "Karlova Výšina",
+      "latitude": 50.511336,
+      "longitude": 13.410925
+    },
+    {
+      "name": "důl Nástup",
+      "latitude": 50.432652,
+      "longitude": 13.384339
+    },
+    {
+      "name": "Výhled na trať a Chomutov",
+      "latitude": 50.4219,
+      "longitude": 13.431854
+    },
+    {
+      "name": "Košťál",
+      "latitude": 50.490235,
+      "longitude": 13.984843
+    },
+    {
+      "name": "Holý vrch",
+      "latitude": 50.502588,
+      "longitude": 13.97843
+    },
+    {
+      "name": "Krásná vyhlídka",
+      "latitude": 50.35604,
+      "longitude": 13.971245
+    },
+    {
+      "name": "Stradonka",
+      "latitude": 50.37237,
+      "longitude": 13.971308
+    },
+    {
+      "name": "rozhledna Háj u Aše",
+      "latitude": 50.23346,
+      "longitude": 12.201848
+    },
+    {
+      "name": "Rozhledna Stráž u Aše",
+      "latitude": 50.22784,
+      "longitude": 12.271971
+    },
+    {
+      "name": "Blick vom Richtersberg",
+      "latitude": 50.192254,
+      "longitude": 12.283708
+    },
+    {
+      "name": "Blick ins Egerland",
+      "latitude": 50.181491,
+      "longitude": 12.300019
+    },
+    {
+      "name": "U Strejců",
+      "latitude": 50.263416,
+      "longitude": 12.387191
+    },
+    {
+      "name": "rozhledna Cibulka",
+      "latitude": 50.236899,
+      "longitude": 12.557816
+    },
+    {
+      "name": "Salingburg",
+      "latitude": 50.109768,
+      "longitude": 12.360142
+    },
+    {
+      "name": "Pozorovatelna vodního ptactva",
+      "latitude": 50.113881,
+      "longitude": 12.317806
+    },
+    {
+      "name": "Chebská stráž",
+      "latitude": 50.083463,
+      "longitude": 12.341586
+    },
+    {
+      "name": "Zlatý vrch",
+      "latitude": 50.088562,
+      "longitude": 12.374612
+    },
+    {
+      "name": "Hvězdárna",
+      "latitude": 50.088311,
+      "longitude": 12.375049
+    },
+    {
+      "name": "Bismarckova rozhledna",
+      "latitude": 50.070745,
+      "longitude": 12.306379
+    },
+    {
+      "name": "Lohhauser",
+      "latitude": 49.934354,
+      "longitude": 12.5337
+    },
+    {
+      "name": "Panský Vrch",
+      "latitude": 49.935195,
+      "longitude": 12.638286
+    },
+    {
+      "name": "Aussichtsturm Pfaffenbühl",
+      "latitude": 49.911539,
+      "longitude": 12.537161
+    },
+    {
+      "name": "Vyhlídka pod Liščím vrchem",
+      "latitude": 50.282505,
+      "longitude": 12.999832
+    },
+    {
+      "name": "rozhledna Hard",
+      "latitude": 50.177783,
+      "longitude": 12.656827
+    },
+    {
+      "name": "Goethova vyhlídka",
+      "latitude": 50.185387,
+      "longitude": 12.754494
+    },
+    {
+      "name": "Jeskynní vyhlídka",
+      "latitude": 50.194154,
+      "longitude": 12.789295
+    },
+    {
+      "name": "Lovecká vyhlídka",
+      "latitude": 50.184506,
+      "longitude": 12.790706
+    },
+    {
+      "name": "Lesní vyhlídka nad Ohří",
+      "latitude": 50.197165,
+      "longitude": 12.802929
+    },
+    {
+      "name": "Vyhlídka Na Kouli",
+      "latitude": 50.182112,
+      "longitude": 12.790504
+    },
+    {
+      "name": "Korunní vyhlídka",
+      "latitude": 50.187568,
+      "longitude": 12.796477
+    },
+    {
+      "name": "Altán Camera Obscura",
+      "latitude": 50.228127,
+      "longitude": 12.884638
+    },
+    {
+      "name": "Altán u Tří Křížů",
+      "latitude": 50.227122,
+      "longitude": 12.886462
+    },
+    {
+      "name": "Kazatelna",
+      "latitude": 50.211832,
+      "longitude": 12.86645
+    },
+    {
+      "name": "Vyhlídka Petra Velikého",
+      "latitude": 50.222771,
+      "longitude": 12.879423
+    },
+    {
+      "name": "Mayerův gloriet",
+      "latitude": 50.222706,
+      "longitude": 12.879931
+    },
+    {
+      "name": "Vyhlídka Jelení skok",
+      "latitude": 50.223287,
+      "longitude": 12.880775
+    },
+    {
+      "name": "Rozhledna Diana",
+      "latitude": 50.218985,
+      "longitude": 12.872254
+    },
+    {
+      "name": "vyhlídka Karla IV.",
+      "latitude": 50.216319,
+      "longitude": 12.880498
+    },
+    {
+      "name": "Pozorovací lávka u Lučních rybníků",
+      "latitude": 50.213804,
+      "longitude": 12.854226
+    },
+    {
+      "name": "rozhledna Doubská hora",
+      "latitude": 50.203969,
+      "longitude": 12.846622
+    },
+    {
+      "name": "Vyhlídkový altán Josefa Jungmanna",
+      "latitude": 50.199953,
+      "longitude": 12.842981
+    },
+    {
+      "name": "Vyhlídková plošina",
+      "latitude": 50.201892,
+      "longitude": 12.912354
+    },
+    {
+      "name": "Radechovské skály",
+      "latitude": 50.278084,
+      "longitude": 13.26395
+    },
+    {
+      "name": "Vyhlídka Hartwiga Rupperta",
+      "latitude": 50.10071,
+      "longitude": 12.789561
+    },
+    {
+      "name": "Schillerova rozhledna",
+      "latitude": 50.172211,
+      "longitude": 13.429948
+    },
+    {
+      "name": "Louštín",
+      "latitude": 50.163918,
+      "longitude": 13.793701
+    },
+    {
+      "name": "Duncanova vyhlídka",
+      "latitude": 49.996744,
+      "longitude": 12.693197
+    },
+    {
+      "name": "Clementsova vyhlídka",
+      "latitude": 49.977671,
+      "longitude": 12.712723
+    },
+    {
+      "name": "Hamelika",
+      "latitude": 49.972106,
+      "longitude": 12.709533
+    },
+    {
+      "name": "Vyhlídka královny Karoly",
+      "latitude": 49.978538,
+      "longitude": 12.69867
+    },
+    {
+      "name": "Hraběcí kříž",
+      "latitude": 50.039946,
+      "longitude": 13.296139
+    },
+    {
+      "name": "Chlumská hora",
+      "latitude": 49.999704,
+      "longitude": 13.232127
+    },
+    {
+      "name": "Chlumská hora",
+      "latitude": 50.005479,
+      "longitude": 13.205281
+    },
+    {
+      "name": "Vyhlídkový altán",
+      "latitude": 49.901755,
+      "longitude": 12.780793
+    },
+    {
+      "name": "Bohušův vrch",
+      "latitude": 49.8666,
+      "longitude": 12.752808
+    },
+    {
+      "name": "Vyhlídka Na Plazích",
+      "latitude": 49.967421,
+      "longitude": 13.705983
+    },
+    {
+      "name": "U Trojice",
+      "latitude": 50.037472,
+      "longitude": 13.874885
+    },
+    {
+      "name": "Na hřebínku",
+      "latitude": 50.031981,
+      "longitude": 13.862631
+    },
+    {
+      "name": "Rozhledna Velká Buková",
+      "latitude": 50.032504,
+      "longitude": 13.837981
+    },
+    {
+      "name": "Vyhlídka Pěnčina",
+      "latitude": 50.039948,
+      "longitude": 13.925913
+    },
+    {
+      "name": "Masarykova vyhlídka",
+      "latitude": 50.035176,
+      "longitude": 13.922998
+    },
+    {
+      "name": "Oskarova vyhlídka",
+      "latitude": 49.968874,
+      "longitude": 13.78116
+    },
+    {
+      "name": "Čerchov u Nižbora",
+      "latitude": 50.004802,
+      "longitude": 13.977858
+    },
+    {
+      "name": "Rozhledna Máminka",
+      "latitude": 49.963334,
+      "longitude": 13.930046
+    },
+    {
+      "name": "Nad Zdejcinou",
+      "latitude": 49.978661,
+      "longitude": 14.038066
+    },
+    {
+      "name": "Nad Zdejcinou",
+      "latitude": 49.978896,
+      "longitude": 14.044797
+    },
+    {
+      "name": "Karvánka",
+      "latitude": 49.914112,
+      "longitude": 13.528969
+    },
+    {
+      "name": "Krašov",
+      "latitude": 49.948889,
+      "longitude": 13.588709
+    },
+    {
+      "name": "skalní vyhlídka Pavučina",
+      "latitude": 49.930896,
+      "longitude": 13.557277
+    },
+    {
+      "name": "Na Plazu",
+      "latitude": 49.938501,
+      "longitude": 13.655771
+    },
+    {
+      "name": "Vyhlídka Havlova skála",
+      "latitude": 49.90983,
+      "longitude": 13.552617
+    },
+    {
+      "name": "Výhled na Liblín",
+      "latitude": 49.919581,
+      "longitude": 13.556895
+    },
+    {
+      "name": "Radost",
+      "latitude": 49.880388,
+      "longitude": 13.463047
+    },
+    {
+      "name": "Výhled na Kamenec",
+      "latitude": 49.882462,
+      "longitude": 13.597428
+    },
+    {
+      "name": "Rozhledna Na Vrších",
+      "latitude": 49.846079,
+      "longitude": 13.575726
+    },
+    {
+      "name": "Vraní skála",
+      "latitude": 49.927676,
+      "longitude": 13.941099
+    },
+    {
+      "name": "Jelínkův most",
+      "latitude": 49.91553,
+      "longitude": 14.048503
+    },
+    {
+      "name": "Koukolova hora",
+      "latitude": 49.920189,
+      "longitude": 14.023296
+    },
+    {
+      "name": "Zdice",
+      "latitude": 49.91656,
+      "longitude": 13.986171
+    },
+    {
+      "name": "Vyhlídka u lomu Čertovy schody",
+      "latitude": 49.91724,
+      "longitude": 14.05388
+    },
+    {
+      "name": "Světovina",
+      "latitude": 49.868261,
+      "longitude": 13.742327
+    },
+    {
+      "name": "Wessenstein",
+      "latitude": 50.68351,
+      "longitude": 14.120753
+    },
+    {
+      "name": "Vyhlídka Vladimíra Horáka",
+      "latitude": 50.698841,
+      "longitude": 14.062528
+    },
+    {
+      "name": "Březový vrch",
+      "latitude": 50.686937,
+      "longitude": 14.172697
+    },
+    {
+      "name": "rozhledna Kohout",
+      "latitude": 50.71039,
+      "longitude": 14.314292
+    },
+    {
+      "name": "vyhlídka Liščí Hory",
+      "latitude": 50.73234,
+      "longitude": 14.357041
+    },
+    {
+      "name": "vyhlídka",
+      "latitude": 50.724718,
+      "longitude": 14.363331
+    },
+    {
+      "name": "výhled na Sedlo",
+      "latitude": 50.68973,
+      "longitude": 14.283348
+    },
+    {
+      "name": "vyhlídka",
+      "latitude": 50.675972,
+      "longitude": 14.075119
+    },
+    {
+      "name": "Kozí vrch",
+      "latitude": 50.67582,
+      "longitude": 14.136839
+    },
+    {
+      "name": "Fričova vyhlídka",
+      "latitude": 50.6755,
+      "longitude": 14.076006
+    },
+    {
+      "name": "Humboldtova vyhlídka",
+      "latitude": 50.671796,
+      "longitude": 14.227062
+    },
+    {
+      "name": "Vysoký Ostrý",
+      "latitude": 50.6364,
+      "longitude": 14.080227
+    },
+    {
+      "name": "Víťova vyhlídka",
+      "latitude": 50.64943,
+      "longitude": 14.276751
+    },
+    {
+      "name": "Papinova vyhlídka",
+      "latitude": 50.628658,
+      "longitude": 14.402886
+    },
+    {
+      "name": "Na stráži",
+      "latitude": 50.733804,
+      "longitude": 14.584421
+    },
+    {
+      "name": "vyhlídka E. Maxe",
+      "latitude": 50.731798,
+      "longitude": 14.588397
+    },
+    {
+      "name": "Česká Lípa, Ralsko",
+      "latitude": 50.686026,
+      "longitude": 14.481646
+    },
+    {
+      "name": "Hraběnčina vyhlídka",
+      "latitude": 50.733062,
+      "longitude": 14.590489
+    },
+    {
+      "name": "Maxmiliánova vyhlídka",
+      "latitude": 50.733787,
+      "longitude": 14.593666
+    },
+    {
+      "name": "Mikovcova vyhlídka",
+      "latitude": 50.734683,
+      "longitude": 14.596246
+    },
+    {
+      "name": "Slavíček",
+      "latitude": 50.72994,
+      "longitude": 14.602111
+    },
+    {
+      "name": "Hradní vyhlídka",
+      "latitude": 50.733603,
+      "longitude": 14.591955
+    },
+    {
+      "name": "Dědovy kameny",
+      "latitude": 50.725249,
+      "longitude": 14.598442
+    },
+    {
+      "name": "Rabštejnská vyhlídka",
+      "latitude": 50.727191,
+      "longitude": 14.656905
+    },
+    {
+      "name": "Brýlařský lom",
+      "latitude": 50.735113,
+      "longitude": 14.593146
+    },
+    {
+      "name": "Vyhlídka poštolek",
+      "latitude": 50.733324,
+      "longitude": 14.597782
+    },
+    {
+      "name": "Ralsko, Bezděz",
+      "latitude": 50.715717,
+      "longitude": 14.700992
+    },
+    {
+      "name": "Ferdinandova vyhlídka",
+      "latitude": 50.687923,
+      "longitude": 14.668674
+    },
+    {
+      "name": "Průrva Ploučnice",
+      "latitude": 50.687157,
+      "longitude": 14.763351
+    },
+    {
+      "name": "výhled na Českou Lípu",
+      "latitude": 50.672128,
+      "longitude": 14.435716
+    },
+    {
+      "name": "výhled na Nový Bor",
+      "latitude": 50.669766,
+      "longitude": 14.435801
+    },
+    {
+      "name": "výhled na Nový Oldřichov",
+      "latitude": 50.668834,
+      "longitude": 14.437877
+    },
+    {
+      "name": "výhled na Lužické hory",
+      "latitude": 50.665335,
+      "longitude": 14.438953
+    },
+    {
+      "name": "Bezděz",
+      "latitude": 50.663956,
+      "longitude": 14.459845
+    },
+    {
+      "name": "Česká Lípa",
+      "latitude": 50.672843,
+      "longitude": 14.490849
+    },
+    {
+      "name": "Česká Lípa, Bezděz",
+      "latitude": 50.661949,
+      "longitude": 14.481672
+    },
+    {
+      "name": "Smrtka",
+      "latitude": 50.637033,
+      "longitude": 14.44004
+    },
+    {
+      "name": "Ptačí pozorovatelna",
+      "latitude": 50.629995,
+      "longitude": 14.546367
+    },
+    {
+      "name": "ptačí pozorovatelna",
+      "latitude": 50.628125,
+      "longitude": 14.539954
+    },
+    {
+      "name": "Juliina vyhlídka",
+      "latitude": 50.668158,
+      "longitude": 14.756422
+    },
+    {
+      "name": "Krkavčí skála",
+      "latitude": 50.586412,
+      "longitude": 14.084642
+    },
+    {
+      "name": "Mache",
+      "latitude": 50.594265,
+      "longitude": 14.082842
+    },
+    {
+      "name": "Vyhlídka",
+      "latitude": 50.608987,
+      "longitude": 14.279485
+    },
+    {
+      "name": "výhled na Helfenburk",
+      "latitude": 50.581904,
+      "longitude": 14.378354
+    },
+    {
+      "name": "výhled na Opičí skálu",
+      "latitude": 50.589604,
+      "longitude": 14.377984
+    },
+    {
+      "name": "Pod Budinou",
+      "latitude": 50.579948,
+      "longitude": 14.356624
+    },
+    {
+      "name": "výhled na Helfenburk",
+      "latitude": 50.581518,
+      "longitude": 14.381934
+    },
+    {
+      "name": "Helfenburk",
+      "latitude": 50.579187,
+      "longitude": 14.384197
+    },
+    {
+      "name": "Plešivec",
+      "latitude": 50.565975,
+      "longitude": 14.088082
+    },
+    {
+      "name": "Hradiště",
+      "latitude": 50.56894,
+      "longitude": 14.113832
+    },
+    {
+      "name": "Mostka rozhledna",
+      "latitude": 50.546643,
+      "longitude": 14.137208
+    },
+    {
+      "name": "Laffitova vyhlídka",
+      "latitude": 50.567865,
+      "longitude": 14.163426
+    },
+    {
+      "name": "Ronov",
+      "latitude": 50.620396,
+      "longitude": 14.414662
+    },
+    {
+      "name": "Dlouhý hřeben",
+      "latitude": 50.610529,
+      "longitude": 14.569482
+    },
+    {
+      "name": "Máchova vyhlídka",
+      "latitude": 50.612372,
+      "longitude": 14.507393
+    },
+    {
+      "name": "Medvědí vyhlídka",
+      "latitude": 50.61051,
+      "longitude": 14.563171
+    },
+    {
+      "name": "Hradčanská vyhlídka",
+      "latitude": 50.617945,
+      "longitude": 14.69758
+    },
+    {
+      "name": "vyhlídka Miloše Formana",
+      "latitude": 50.587111,
+      "longitude": 14.636982
+    },
+    {
+      "name": "Bezděz",
+      "latitude": 50.594932,
+      "longitude": 14.747981
+    },
+    {
+      "name": "Břehyňský rybník a Máchovo jezero",
+      "latitude": 50.592558,
+      "longitude": 14.751844
+    },
+    {
+      "name": "Čap",
+      "latitude": 50.55466,
+      "longitude": 14.47585
+    },
+    {
+      "name": "Králův stolec",
+      "latitude": 50.56674,
+      "longitude": 14.686237
+    },
+    {
+      "name": "Rufusova vyhlídka",
+      "latitude": 50.566583,
+      "longitude": 14.684576
+    },
+    {
+      "name": "Malý Bezděz",
+      "latitude": 50.539919,
+      "longitude": 14.713734
+    },
+    {
+      "name": "Vyhlídka na Bezděz",
+      "latitude": 50.525542,
+      "longitude": 14.687428
+    },
+    {
+      "name": "Krásná vyhlídka",
+      "latitude": 50.690351,
+      "longitude": 14.884778
+    },
+    {
+      "name": "Červený kámen",
+      "latitude": 50.731188,
+      "longitude": 14.973839
+    },
+    {
+      "name": "Vápenice",
+      "latitude": 50.712722,
+      "longitude": 14.99832
+    },
+    {
+      "name": "Rozhledna na Císařském kameni",
+      "latitude": 50.713236,
+      "longitude": 15.10438
+    },
+    {
+      "name": "Rudolfova vyhlídka",
+      "latitude": 50.62759,
+      "longitude": 15.089555
+    },
+    {
+      "name": "Hrobka",
+      "latitude": 50.648723,
+      "longitude": 15.113584
+    },
+    {
+      "name": "rozhledna Vrchovina",
+      "latitude": 50.645485,
+      "longitude": 15.075256
+    },
+    {
+      "name": "Výhled na Smržovku",
+      "latitude": 50.73567,
+      "longitude": 15.251847
+    },
+    {
+      "name": "Rozhledna Nisanka",
+      "latitude": 50.730931,
+      "longitude": 15.214162
+    },
+    {
+      "name": "Vyhlídka U Kříže",
+      "latitude": 50.682905,
+      "longitude": 15.219354
+    },
+    {
+      "name": "Šulíkova skála",
+      "latitude": 50.730412,
+      "longitude": 15.32369
+    },
+    {
+      "name": "Terezínka",
+      "latitude": 50.730414,
+      "longitude": 15.305884
+    },
+    {
+      "name": "Vyhlídka nad Tanvaldem",
+      "latitude": 50.734961,
+      "longitude": 15.311359
+    },
+    {
+      "name": "Muchov",
+      "latitude": 50.724733,
+      "longitude": 15.293371
+    },
+    {
+      "name": "Výhled na Český Šumburk",
+      "latitude": 50.729588,
+      "longitude": 15.339454
+    },
+    {
+      "name": "BOROVSKÉ SKÁLY",
+      "latitude": 50.731044,
+      "longitude": 15.405691
+    },
+    {
+      "name": "Vyhlídka Liška",
+      "latitude": 50.719921,
+      "longitude": 15.448903
+    },
+    {
+      "name": "Bosenská skála",
+      "latitude": 50.736234,
+      "longitude": 15.384037
+    },
+    {
+      "name": "Vyhlídka Medvěd",
+      "latitude": 50.719689,
+      "longitude": 15.448723
+    },
+    {
+      "name": "Vyhlídka Ovce",
+      "latitude": 50.719587,
+      "longitude": 15.447507
+    },
+    {
+      "name": "Vyhlídka Horník",
+      "latitude": 50.719323,
+      "longitude": 15.446508
+    },
+    {
+      "name": "Mikšova hora 578m",
+      "latitude": 50.696858,
+      "longitude": 15.301087
+    },
+    {
+      "name": "Vyhlídkový altán",
+      "latitude": 50.684863,
+      "longitude": 15.404265
+    },
+    {
+      "name": "Vranovský hřeben",
+      "latitude": 50.645342,
+      "longitude": 15.180997
+    },
+    {
+      "name": "Pecinova vyhlídka",
+      "latitude": 50.629444,
+      "longitude": 15.177698
+    },
+    {
+      "name": "Hořákova",
+      "latitude": 50.629564,
+      "longitude": 15.19854
+    },
+    {
+      "name": "Husníkova vyhlídka",
+      "latitude": 50.629637,
+      "longitude": 15.198499
+    },
+    {
+      "name": "Kde domov můj",
+      "latitude": 50.629783,
+      "longitude": 15.198555
+    },
+    {
+      "name": "Kinského",
+      "latitude": 50.63051,
+      "longitude": 15.199243
+    },
+    {
+      "name": "Vyhlídka Kde domov muj",
+      "latitude": 50.629907,
+      "longitude": 15.198617
+    },
+    {
+      "name": "Vyhlídka českých bratří",
+      "latitude": 50.626231,
+      "longitude": 15.201497
+    },
+    {
+      "name": "Paraplíčko",
+      "latitude": 50.636056,
+      "longitude": 15.290539
+    },
+    {
+      "name": "Besedická",
+      "latitude": 50.62742,
+      "longitude": 15.207152
+    },
+    {
+      "name": "Chloudov",
+      "latitude": 50.6275,
+      "longitude": 15.238619
+    },
+    {
+      "name": "Výhled na Suché skály",
+      "latitude": 50.632299,
+      "longitude": 15.205681
+    },
+    {
+      "name": "Vyhlídka Šibeňák",
+      "latitude": 50.646008,
+      "longitude": 15.259118
+    },
+    {
+      "name": "Myší Skála",
+      "latitude": 50.629252,
+      "longitude": 15.310849
+    },
+    {
+      "name": "Vyhlídka na Janečku",
+      "latitude": 50.630412,
+      "longitude": 15.317275
+    },
+    {
+      "name": "Taková hezká skála",
+      "latitude": 50.603374,
+      "longitude": 14.975399
+    },
+    {
+      "name": "Klamorna",
+      "latitude": 50.527847,
+      "longitude": 15.034231
+    },
+    {
+      "name": "Mužský",
+      "latitude": 50.527863,
+      "longitude": 15.046058
+    },
+    {
+      "name": "Čertík",
+      "latitude": 50.525126,
+      "longitude": 15.071013
+    },
+    {
+      "name": "Heroldova vyhlídka",
+      "latitude": 50.531873,
+      "longitude": 15.033005
+    },
+    {
+      "name": "Zdenčina skála",
+      "latitude": 50.606606,
+      "longitude": 15.193157
+    },
+    {
+      "name": "Kopalova vyhlídka",
+      "latitude": 50.60065,
+      "longitude": 15.1706
+    },
+    {
+      "name": "Na Chocholce",
+      "latitude": 50.613492,
+      "longitude": 15.186164
+    },
+    {
+      "name": "Hlavatice",
+      "latitude": 50.56959,
+      "longitude": 15.155508
+    },
+    {
+      "name": "Rotštejn",
+      "latitude": 50.594332,
+      "longitude": 15.224224
+    },
+    {
+      "name": "Rozhledna Dubecko",
+      "latitude": 50.583614,
+      "longitude": 15.222559
+    },
+    {
+      "name": "Böhmova vyhlídka",
+      "latitude": 50.620559,
+      "longitude": 15.305342
+    },
+    {
+      "name": "Krkavčí skála",
+      "latitude": 50.619911,
+      "longitude": 15.303107
+    },
+    {
+      "name": "Jiřička",
+      "latitude": 50.616887,
+      "longitude": 15.310521
+    },
+    {
+      "name": "Moravská Jiřička",
+      "latitude": 50.62057,
+      "longitude": 15.307549
+    },
+    {
+      "name": "Cimrmanova nejnižší rozhledna",
+      "latitude": 50.6126,
+      "longitude": 15.360407
+    },
+    {
+      "name": "U Peršinky",
+      "latitude": 50.61822,
+      "longitude": 15.308547
+    },
+    {
+      "name": "U Bakala",
+      "latitude": 50.62161,
+      "longitude": 15.305179
+    },
+    {
+      "name": "Peretka",
+      "latitude": 50.616009,
+      "longitude": 15.309869
+    },
+    {
+      "name": "U Lvíčka",
+      "latitude": 50.552958,
+      "longitude": 15.176276
+    },
+    {
+      "name": "Mariánská vyhlidka",
+      "latitude": 50.547978,
+      "longitude": 15.193524
+    },
+    {
+      "name": "Kalvárie",
+      "latitude": 50.564296,
+      "longitude": 15.16453
+    },
+    {
+      "name": "Janova vyhlídka",
+      "latitude": 50.55654,
+      "longitude": 15.173445
+    },
+    {
+      "name": "Zámecká vyhlídka",
+      "latitude": 50.546429,
+      "longitude": 15.193233
+    },
+    {
+      "name": "Raisova vyhlídka",
+      "latitude": 50.561774,
+      "longitude": 15.127582
+    },
+    {
+      "name": "Vyhlídka na Kapelu",
+      "latitude": 50.551175,
+      "longitude": 15.179007
+    },
+    {
+      "name": "Vyhlídka Na Bezděz",
+      "latitude": 50.55305,
+      "longitude": 15.120533
+    },
+    {
+      "name": "Prachovna",
+      "latitude": 50.54423,
+      "longitude": 15.192133
+    },
+    {
+      "name": "Vyhlídka Svatopluka Čecha",
+      "latitude": 50.536081,
+      "longitude": 15.243453
+    },
+    {
+      "name": "Vyhlidka na Český ráj",
+      "latitude": 50.567836,
+      "longitude": 15.299287
+    },
+    {
+      "name": "Holenická vyhlídka na Trosky",
+      "latitude": 50.521708,
+      "longitude": 15.316825
+    },
+    {
+      "name": "Smetanova vyhlídka",
+      "latitude": 50.53143,
+      "longitude": 15.338098
+    },
+    {
+      "name": "Na horách",
+      "latitude": 50.451484,
+      "longitude": 14.210242
+    },
+    {
+      "name": "Kamenná Hláska",
+      "latitude": 50.425625,
+      "longitude": 14.259267
+    },
+    {
+      "name": "Nedvězí",
+      "latitude": 50.507022,
+      "longitude": 14.529248
+    },
+    {
+      "name": "Řípská vyhlídka",
+      "latitude": 50.504842,
+      "longitude": 14.540385
+    },
+    {
+      "name": "Jestřebické pokličky",
+      "latitude": 50.463208,
+      "longitude": 14.58678
+    },
+    {
+      "name": "Rozhledna na Vrátenské hoře",
+      "latitude": 50.477027,
+      "longitude": 14.651604
+    },
+    {
+      "name": "Máchova vyhlídka",
+      "latitude": 50.440249,
+      "longitude": 14.578785
+    },
+    {
+      "name": "Pokličky",
+      "latitude": 50.455241,
+      "longitude": 14.589361
+    },
+    {
+      "name": "Mělnická vyhlídka",
+      "latitude": 50.387985,
+      "longitude": 14.292297
+    },
+    {
+      "name": "Pražská vyhlídka",
+      "latitude": 50.384105,
+      "longitude": 14.288637
+    },
+    {
+      "name": "vyhlídka na České středohoří (západní část)",
+      "latitude": 50.389104,
+      "longitude": 14.287955
+    },
+    {
+      "name": "Roudnická vyhlídka",
+      "latitude": 50.389283,
+      "longitude": 14.288368
+    },
+    {
+      "name": "Vyhlídka na jihozápad",
+      "latitude": 50.385176,
+      "longitude": 14.287808
+    },
+    {
+      "name": "Vyhlídka",
+      "latitude": 50.385399,
+      "longitude": 14.291064
+    },
+    {
+      "name": "Pražská brána",
+      "latitude": 50.351466,
+      "longitude": 14.475963
+    },
+    {
+      "name": "Rozhledna Hradišť",
+      "latitude": 50.39565,
+      "longitude": 14.706762
+    },
+    {
+      "name": "Radniční věž",
+      "latitude": 50.411513,
+      "longitude": 14.90306
+    },
+    {
+      "name": "Šrámkova vyhlídka",
+      "latitude": 50.485771,
+      "longitude": 15.25881
+    },
+    {
+      "name": "Vyhlídka Jaroslava Kuby",
+      "latitude": 50.493301,
+      "longitude": 15.257274
+    },
+    {
+      "name": "Šikmá věž",
+      "latitude": 50.462924,
+      "longitude": 15.290427
+    },
+    {
+      "name": "Pechova vyhlídka",
+      "latitude": 50.466742,
+      "longitude": 15.286827
+    },
+    {
+      "name": "vyhlídka Míru",
+      "latitude": 50.466601,
+      "longitude": 15.291189
+    },
+    {
+      "name": "vyhlídka Českého ráje",
+      "latitude": 50.46666,
+      "longitude": 15.289671
+    },
+    {
+      "name": "Všetečkova vyhlídka",
+      "latitude": 50.467749,
+      "longitude": 15.290624
+    },
+    {
+      "name": "Ervínův hrad",
+      "latitude": 50.46762,
+      "longitude": 15.274305
+    },
+    {
+      "name": "Schlikova vyhlídka",
+      "latitude": 50.467918,
+      "longitude": 15.290374
+    },
+    {
+      "name": "Seifertova vyhlídka",
+      "latitude": 50.470446,
+      "longitude": 15.291862
+    },
+    {
+      "name": "Skautská vyhlídka",
+      "latitude": 50.470584,
+      "longitude": 15.28941
+    },
+    {
+      "name": "Lípa svobody",
+      "latitude": 50.490202,
+      "longitude": 15.315545
+    },
+    {
+      "name": "Hlaholská vyhlídka",
+      "latitude": 50.46701,
+      "longitude": 15.295689
+    },
+    {
+      "name": "Vyhlídka pražského pěveckého sboru Křížkovský",
+      "latitude": 50.466368,
+      "longitude": 15.299247
+    },
+    {
+      "name": "rozhledna Čeřovka (Milohlídka)",
+      "latitude": 50.444823,
+      "longitude": 15.360352
+    },
+    {
+      "name": "Valdická brána",
+      "latitude": 50.436658,
+      "longitude": 15.353385
+    },
+    {
+      "name": "Hradek",
+      "latitude": 50.378222,
+      "longitude": 14.925018
+    },
+    {
+      "name": "Švédské šance",
+      "latitude": 50.388757,
+      "longitude": 14.927033
+    },
+    {
+      "name": "Vyhlídková věž",
+      "latitude": 50.290689,
+      "longitude": 14.823196
+    },
+    {
+      "name": "Harrachova skála",
+      "latitude": 50.728483,
+      "longitude": 15.57467
+    },
+    {
+      "name": "Jájina vyhlídka",
+      "latitude": 50.727866,
+      "longitude": 15.561243
+    },
+    {
+      "name": "Černá skála",
+      "latitude": 50.709081,
+      "longitude": 15.565577
+    },
+    {
+      "name": "Krakonoš",
+      "latitude": 50.734037,
+      "longitude": 15.664947
+    },
+    {
+      "name": "Vyhlídka nad Výrovkou",
+      "latitude": 50.717883,
+      "longitude": 15.682848
+    },
+    {
+      "name": "Na Kose",
+      "latitude": 50.724932,
+      "longitude": 15.774791
+    },
+    {
+      "name": "Rottrovy domky",
+      "latitude": 50.729824,
+      "longitude": 15.812572
+    },
+    {
+      "name": "rozhledna Hnědý vrch",
+      "latitude": 50.688326,
+      "longitude": 15.70707
+    },
+    {
+      "name": "Na kamenech. Pohled na hřeben a Sněžku.",
+      "latitude": 50.668938,
+      "longitude": 15.570196
+    },
+    {
+      "name": "Luisino údolí",
+      "latitude": 50.659064,
+      "longitude": 15.648587
+    },
+    {
+      "name": "Hubertova vyhlídka",
+      "latitude": 50.664539,
+      "longitude": 15.751485
+    },
+    {
+      "name": "Bönischovy Boudy",
+      "latitude": 50.644651,
+      "longitude": 15.700113
+    },
+    {
+      "name": "Modré kameny",
+      "latitude": 50.64562,
+      "longitude": 15.780959
+    },
+    {
+      "name": "Stezka korunami stromů Krkonoše",
+      "latitude": 50.631095,
+      "longitude": 15.757643
+    },
+    {
+      "name": "Rozhledna Panorama",
+      "latitude": 50.648926,
+      "longitude": 15.751978
+    },
+    {
+      "name": "Lasocki Grzbiet",
+      "latitude": 50.730148,
+      "longitude": 15.831711
+    },
+    {
+      "name": "Nad Horními Albeřicemi",
+      "latitude": 50.69024,
+      "longitude": 15.856881
+    },
+    {
+      "name": "Widok na Czechy",
+      "latitude": 50.688722,
+      "longitude": 15.977526
+    },
+    {
+      "name": "Roh hranic",
+      "latitude": 50.674424,
+      "longitude": 15.860752
+    },
+    {
+      "name": "Maxova bouda",
+      "latitude": 50.661176,
+      "longitude": 15.849444
+    },
+    {
+      "name": "rozhledna Eliška",
+      "latitude": 50.62939,
+      "longitude": 15.911214
+    },
+    {
+      "name": "Kralovecky Spicak, Karkonosze",
+      "latitude": 50.666254,
+      "longitude": 15.998729
+    },
+    {
+      "name": "Róg - punkt widokowy",
+      "latitude": 50.670996,
+      "longitude": 16.100508
+    },
+    {
+      "name": "Widok na Góry Krucze i Karkonosze",
+      "latitude": 50.668408,
+      "longitude": 16.101735
+    },
+    {
+      "name": "Chocholka",
+      "latitude": 50.58624,
+      "longitude": 15.469016
+    },
+    {
+      "name": "Rozhledna Kozinec",
+      "latitude": 50.519232,
+      "longitude": 15.558577
+    },
+    {
+      "name": "Krausova vyhlídka",
+      "latitude": 50.609538,
+      "longitude": 15.992985
+    },
+    {
+      "name": "Graniczny Grzbiet",
+      "latitude": 50.618779,
+      "longitude": 16.057871
+    },
+    {
+      "name": "Velká Panoráma",
+      "latitude": 50.611708,
+      "longitude": 16.113162
+    },
+    {
+      "name": "Křížový Vrch",
+      "latitude": 50.624422,
+      "longitude": 16.126446
+    },
+    {
+      "name": "Hrad Adršpach",
+      "latitude": 50.617398,
+      "longitude": 16.100351
+    },
+    {
+      "name": "Baronova vyhlídka",
+      "latitude": 50.609458,
+      "longitude": 16.113232
+    },
+    {
+      "name": "Starosta a Starostová",
+      "latitude": 50.612299,
+      "longitude": 16.113167
+    },
+    {
+      "name": "Markoušovická rozhledna",
+      "latitude": 50.575472,
+      "longitude": 16.012383
+    },
+    {
+      "name": "Hrad Střmen",
+      "latitude": 50.594248,
+      "longitude": 16.1384
+    },
+    {
+      "name": "U Roklin",
+      "latitude": 50.591648,
+      "longitude": 16.122637
+    },
+    {
+      "name": "Lokomotiva",
+      "latitude": 50.591909,
+      "longitude": 16.146237
+    },
+    {
+      "name": "Lysý vrch",
+      "latitude": 50.595961,
+      "longitude": 16.152677
+    },
+    {
+      "name": "Vyhlídka kouzel",
+      "latitude": 50.572297,
+      "longitude": 16.139806
+    },
+    {
+      "name": "Vyhlídka na Střmen",
+      "latitude": 50.594399,
+      "longitude": 16.131407
+    },
+    {
+      "name": "Výhled na Teplické skalní město",
+      "latitude": 50.580412,
+      "longitude": 16.113923
+    },
+    {
+      "name": "Šibenik",
+      "latitude": 50.556099,
+      "longitude": 15.906305
+    },
+    {
+      "name": "Žaltman",
+      "latitude": 50.552581,
+      "longitude": 16.052101
+    },
+    {
+      "name": "Výhled Vysoký kámen",
+      "latitude": 50.535273,
+      "longitude": 16.163534
+    },
+    {
+      "name": "Widok na Masyw Stożka, Lesistej i Dzikowca",
+      "latitude": 50.679664,
+      "longitude": 16.227557
+    },
+    {
+      "name": "Punkt widokowy pod Średniakiem",
+      "latitude": 50.670638,
+      "longitude": 16.239013
+    },
+    {
+      "name": "Widok na Góry Suche, Masyw Śnieżnika, Jeseniky",
+      "latitude": 50.677498,
+      "longitude": 16.278123
+    },
+    {
+      "name": "Kostrzyna",
+      "latitude": 50.679904,
+      "longitude": 16.260244
+    },
+    {
+      "name": "Ruprechtický Špičák",
+      "latitude": 50.661063,
+      "longitude": 16.281356
+    },
+    {
+      "name": "Widok na Góry Suche, Javori hory",
+      "latitude": 50.631824,
+      "longitude": 16.189382
+    },
+    {
+      "name": "Platforma widokowa pod Bukową Górą",
+      "latitude": 50.629448,
+      "longitude": 16.179713
+    },
+    {
+      "name": "Vyhlídka Kačenka",
+      "latitude": 50.577733,
+      "longitude": 16.258077
+    },
+    {
+      "name": "Frýdlantská skála",
+      "latitude": 50.56111,
+      "longitude": 16.205685
+    },
+    {
+      "name": "Vyhlídka dědy z Dědova",
+      "latitude": 50.559934,
+      "longitude": 16.202783
+    },
+    {
+      "name": "Krtičkova vyhlídka",
+      "latitude": 50.560581,
+      "longitude": 16.208106
+    },
+    {
+      "name": "Vyhlídka na Čertovu tchyni",
+      "latitude": 50.543965,
+      "longitude": 16.298578
+    },
+    {
+      "name": "Supí hnízdo",
+      "latitude": 50.564006,
+      "longitude": 16.27608
+    },
+    {
+      "name": "Skalní divadlo",
+      "latitude": 50.564914,
+      "longitude": 16.273176
+    },
+    {
+      "name": "Vyhlídka Ovčín",
+      "latitude": 50.548924,
+      "longitude": 16.297527
+    },
+    {
+      "name": "Vyhlídka do Zaječí rokle",
+      "latitude": 50.541364,
+      "longitude": 16.297828
+    },
+    {
+      "name": "Kamenná brána",
+      "latitude": 50.531061,
+      "longitude": 16.31067
+    },
+    {
+      "name": "Koruna",
+      "latitude": 50.521865,
+      "longitude": 16.325388
+    },
+    {
+      "name": "Junácká vyhlídka",
+      "latitude": 50.514669,
+      "longitude": 16.309123
+    },
+    {
+      "name": "Božanovský Špičák",
+      "latitude": 50.514387,
+      "longitude": 16.317561
+    },
+    {
+      "name": "Slavenská vyhlídka",
+      "latitude": 50.53643,
+      "longitude": 16.298408
+    },
+    {
+      "name": "Polické Insta dveře",
+      "latitude": 50.523204,
+      "longitude": 16.261115
+    },
+    {
+      "name": "vyhlídka Cyrila Boudy",
+      "latitude": 50.489577,
+      "longitude": 15.48644
+    },
+    {
+      "name": "Kazabrud",
+      "latitude": 50.496455,
+      "longitude": 15.609529
+    },
+    {
+      "name": "Krkonošská vyhlídka",
+      "latitude": 50.466476,
+      "longitude": 15.60548
+    },
+    {
+      "name": "Karolínina vyhlídka",
+      "latitude": 50.496693,
+      "longitude": 15.767825
+    },
+    {
+      "name": "Byšičky",
+      "latitude": 50.419168,
+      "longitude": 15.610084
+    },
+    {
+      "name": "Zvičina",
+      "latitude": 50.454936,
+      "longitude": 15.694175
+    },
+    {
+      "name": "Alžbětina vyhlídka",
+      "latitude": 50.453747,
+      "longitude": 15.707194
+    },
+    {
+      "name": "U transformátoru",
+      "latitude": 50.46787,
+      "longitude": 16.022333
+    },
+    {
+      "name": "Mečov",
+      "latitude": 50.464394,
+      "longitude": 16.016989
+    },
+    {
+      "name": "Barunčina vyhlídka",
+      "latitude": 50.447657,
+      "longitude": 15.998104
+    },
+    {
+      "name": "Hromobitka",
+      "latitude": 50.453452,
+      "longitude": 16.021271
+    },
+    {
+      "name": "U třešně",
+      "latitude": 50.446893,
+      "longitude": 16.037566
+    },
+    {
+      "name": "Výhled z Faltova kopce",
+      "latitude": 50.456658,
+      "longitude": 16.04009
+    },
+    {
+      "name": "Kaple Zvěstování Panny Marie",
+      "latitude": 50.421981,
+      "longitude": 16.168933
+    },
+    {
+      "name": "Klosova vyhlídka",
+      "latitude": 50.349358,
+      "longitude": 16.153508
+    },
+    {
+      "name": "vyhlídka Boženy Němcové",
+      "latitude": 50.341634,
+      "longitude": 15.928312
+    },
+    {
+      "name": "Juránkova vyhlídka",
+      "latitude": 50.340906,
+      "longitude": 16.159162
+    },
+    {
+      "name": "Dvořáčkova vyhlídka",
+      "latitude": 50.339594,
+      "longitude": 16.155945
+    },
+    {
+      "name": "Český betlém",
+      "latitude": 50.338777,
+      "longitude": 16.160658
+    },
+    {
+      "name": "Radniční věž",
+      "latitude": 50.292014,
+      "longitude": 16.16005
+    },
+    {
+      "name": "Nad Pasterką",
+      "latitude": 50.486343,
+      "longitude": 16.323861
+    },
+    {
+      "name": "Szczeliniec Wielki",
+      "latitude": 50.484814,
+      "longitude": 16.341006
+    },
+    {
+      "name": "Tarasy południowe",
+      "latitude": 50.482031,
+      "longitude": 16.344986
+    },
+    {
+      "name": "Punkt widokowy na Szczeliniec Wielki",
+      "latitude": 50.478234,
+      "longitude": 16.295147
+    },
+    {
+      "name": "Krásná vyhlídka",
+      "latitude": 50.481061,
+      "longitude": 16.288245
+    },
+    {
+      "name": "Taras widokowy na Guzowatej",
+      "latitude": 50.50408,
+      "longitude": 16.373045
+    },
+    {
+      "name": "Altana Miłości",
+      "latitude": 50.445183,
+      "longitude": 16.24622
+    },
+    {
+      "name": "Widok na Kudowę",
+      "latitude": 50.405727,
+      "longitude": 16.253276
+    },
+    {
+      "name": "Nad kamieniołomem",
+      "latitude": 50.437033,
+      "longitude": 16.870608
+    },
+    {
+      "name": "Jiráskova chata",
+      "latitude": 50.400782,
+      "longitude": 16.191085
+    },
+    {
+      "name": "Pańska Góra",
+      "latitude": 50.380443,
+      "longitude": 16.331738
+    },
+    {
+      "name": "Koníček",
+      "latitude": 50.373178,
+      "longitude": 16.186168
+    },
+    {
+      "name": "rozhledna Varta",
+      "latitude": 50.37249,
+      "longitude": 16.203877
+    },
+    {
+      "name": "vyhlídka pod Šerlichem",
+      "latitude": 50.326078,
+      "longitude": 16.386865
+    },
+    {
+      "name": "Velká Deštná - jih",
+      "latitude": 50.300619,
+      "longitude": 16.397792
+    },
+    {
+      "name": "vyhlídka na Studeném",
+      "latitude": 50.292816,
+      "longitude": 16.371542
+    },
+    {
+      "name": "vyhlídka Radovič",
+      "latitude": 50.272864,
+      "longitude": 14.250802
+    },
+    {
+      "name": "řopík",
+      "latitude": 50.242224,
+      "longitude": 14.305565
+    },
+    {
+      "name": "Vinařická hora",
+      "latitude": 50.185142,
+      "longitude": 14.086353
+    },
+    {
+      "name": "Minická skála",
+      "latitude": 50.218573,
+      "longitude": 14.287741
+    },
+    {
+      "name": "Otvovická skála",
+      "latitude": 50.215589,
+      "longitude": 14.279007
+    },
+    {
+      "name": "Farní vyhlídka",
+      "latitude": 50.232429,
+      "longitude": 14.409768
+    },
+    {
+      "name": "Posed",
+      "latitude": 50.206729,
+      "longitude": 14.340965
+    },
+    {
+      "name": "Liběhrad",
+      "latitude": 50.203727,
+      "longitude": 14.362573
+    },
+    {
+      "name": "rozhledna Kostelní Hlavno",
+      "latitude": 50.261611,
+      "longitude": 14.702874
+    },
+    {
+      "name": "Výhledna Bořanovice",
+      "latitude": 50.178946,
+      "longitude": 14.468758
+    },
+    {
+      "name": "Kamýcká vyhlídka",
+      "latitude": 50.155199,
+      "longitude": 14.308084
+    },
+    {
+      "name": "Vyhlídka Stříbrník",
+      "latitude": 50.168554,
+      "longitude": 14.351403
+    },
+    {
+      "name": "Vyhlídka sv. Ludmily",
+      "latitude": 50.170218,
+      "longitude": 14.373451
+    },
+    {
+      "name": "Vyhlídková plošina",
+      "latitude": 50.125557,
+      "longitude": 14.280837
+    },
+    {
+      "name": "Vyhlídka Špička Brnky",
+      "latitude": 50.148434,
+      "longitude": 14.401892
+    },
+    {
+      "name": "vyhlídka na Housle",
+      "latitude": 50.124539,
+      "longitude": 14.356218
+    },
+    {
+      "name": "Vyhlídka Zámky",
+      "latitude": 50.143965,
+      "longitude": 14.400068
+    },
+    {
+      "name": "Alšova vyhlídka",
+      "latitude": 50.148603,
+      "longitude": 14.36709
+    },
+    {
+      "name": "Jurkova jáma",
+      "latitude": 50.066778,
+      "longitude": 14.106003
+    },
+    {
+      "name": "LKPR Spotting Point",
+      "latitude": 50.11552,
+      "longitude": 14.265054
+    },
+    {
+      "name": "LKPR Spotting Point",
+      "latitude": 50.103228,
+      "longitude": 14.250129
+    },
+    {
+      "name": "LKPR Spotting Point",
+      "latitude": 50.0966,
+      "longitude": 14.2452
+    },
+    {
+      "name": "Vyhlídková Terasa pro veřejnost",
+      "latitude": 50.106543,
+      "longitude": 14.265462
+    },
+    {
+      "name": "LKPR spotting point",
+      "latitude": 50.11534,
+      "longitude": 14.278814
+    },
+    {
+      "name": "Baba",
+      "latitude": 50.118808,
+      "longitude": 14.39072
+    },
+    {
+      "name": "Vyhlídka na Kalvárii",
+      "latitude": 50.066717,
+      "longitude": 14.325825
+    },
+    {
+      "name": "Masarykova vyhlídka",
+      "latitude": 50.091586,
+      "longitude": 14.395116
+    },
+    {
+      "name": "Na Kalvárii",
+      "latitude": 50.066034,
+      "longitude": 14.327645
+    },
+    {
+      "name": "Moravská bašta",
+      "latitude": 50.091174,
+      "longitude": 14.404715
+    },
+    {
+      "name": "Vyhlídka Maleni",
+      "latitude": 50.08872,
+      "longitude": 14.411122
+    },
+    {
+      "name": "Malý belvedér",
+      "latitude": 50.089672,
+      "longitude": 14.401278
+    },
+    {
+      "name": "Petřínská rozhledna",
+      "latitude": 50.08353,
+      "longitude": 14.395142
+    },
+    {
+      "name": "Svatomikulášská městská zvonice",
+      "latitude": 50.087838,
+      "longitude": 14.403635
+    },
+    {
+      "name": "Staroměstská mostecká věž",
+      "latitude": 50.086149,
+      "longitude": 14.413598
+    },
+    {
+      "name": "Malostranská mostecká věž",
+      "latitude": 50.087303,
+      "longitude": 14.406851
+    },
+    {
+      "name": "Rozhledna Šiška",
+      "latitude": 50.079001,
+      "longitude": 14.356926
+    },
+    {
+      "name": "Vyhlídka Emy Destinnové",
+      "latitude": 50.117421,
+      "longitude": 14.482022
+    },
+    {
+      "name": "Vyhlídka Havránka",
+      "latitude": 50.119881,
+      "longitude": 14.421858
+    },
+    {
+      "name": "Vyhlídka Alexeje Navalného",
+      "latitude": 50.104597,
+      "longitude": 14.414734
+    },
+    {
+      "name": "Prosecká vyhlídka",
+      "latitude": 50.116946,
+      "longitude": 14.488338
+    },
+    {
+      "name": "Novomlýnská vodárenská věž",
+      "latitude": 50.092312,
+      "longitude": 14.428301
+    },
+    {
+      "name": "Národní muzeum věž",
+      "latitude": 50.079134,
+      "longitude": 14.43062
+    },
+    {
+      "name": "Dancing House viewpoint",
+      "latitude": 50.075503,
+      "longitude": 14.414071
+    },
+    {
+      "name": "Novoměstská radnice",
+      "latitude": 50.078153,
+      "longitude": 14.421312
+    },
+    {
+      "name": "Exilvorstand der deutschen Sozialdemokratie 1933 bis 1938",
+      "latitude": 50.091927,
+      "longitude": 14.449168
+    },
+    {
+      "name": "Prašná brána",
+      "latitude": 50.087262,
+      "longitude": 14.427755
+    },
+    {
+      "name": "Radniční věž",
+      "latitude": 50.087026,
+      "longitude": 14.420673
+    },
+    {
+      "name": "Rozhledna Vinice",
+      "latitude": 50.0777,
+      "longitude": 14.730397
+    },
+    {
+      "name": "rozhledna Romanka",
+      "latitude": 50.253788,
+      "longitude": 15.082757
+    },
+    {
+      "name": "Dědova vyhlídka",
+      "latitude": 50.21261,
+      "longitude": 14.854074
+    },
+    {
+      "name": "Vyhlídka na Jiráskově stezce",
+      "latitude": 50.206906,
+      "longitude": 15.283299
+    },
+    {
+      "name": "Přerovská hůra",
+      "latitude": 50.161984,
+      "longitude": 14.83975
+    },
+    {
+      "name": "Břístevská hůra",
+      "latitude": 50.137617,
+      "longitude": 14.851592
+    },
+    {
+      "name": "Málkova rozhledna",
+      "latitude": 50.046602,
+      "longitude": 14.135243
+    },
+    {
+      "name": "Vysoký vrch",
+      "latitude": 50.05841,
+      "longitude": 14.063955
+    },
+    {
+      "name": "Vávrova vyhlídka",
+      "latitude": 50.04244,
+      "longitude": 14.413713
+    },
+    {
+      "name": "Skála Rozloučení",
+      "latitude": 50.042013,
+      "longitude": 14.41289
+    },
+    {
+      "name": "Homolka 295 m n m",
+      "latitude": 50.015253,
+      "longitude": 14.373328
+    },
+    {
+      "name": "Rozhledna Lhotka",
+      "latitude": 49.996006,
+      "longitude": 14.107425
+    },
+    {
+      "name": "Třesina",
+      "latitude": 49.964518,
+      "longitude": 14.132907
+    },
+    {
+      "name": "Vyhlídka",
+      "latitude": 49.951531,
+      "longitude": 14.096891
+    },
+    {
+      "name": "Rozhledna Městská Hora",
+      "latitude": 49.962639,
+      "longitude": 14.065116
+    },
+    {
+      "name": "Vyhlídka Kulivá hora",
+      "latitude": 49.964446,
+      "longitude": 14.286316
+    },
+    {
+      "name": "Vyhlídka Homole",
+      "latitude": 49.955206,
+      "longitude": 14.278138
+    },
+    {
+      "name": "Nickerlova vyhlídka",
+      "latitude": 49.966391,
+      "longitude": 14.41152
+    },
+    {
+      "name": "rozhledna Hradiště - Závist",
+      "latitude": 49.962293,
+      "longitude": 14.407962
+    },
+    {
+      "name": "Roztylská vyhlídka",
+      "latitude": 50.039054,
+      "longitude": 14.483309
+    },
+    {
+      "name": "Panoramic view of the lake, Pruhonice",
+      "latitude": 50.000271,
+      "longitude": 14.557289
+    },
+    {
+      "name": "Vyhlídková vež Gloriet",
+      "latitude": 49.995251,
+      "longitude": 14.557228
+    },
+    {
+      "name": "Prdlák",
+      "latitude": 49.929199,
+      "longitude": 14.137593
+    },
+    {
+      "name": "Zlatý kůň",
+      "latitude": 49.916289,
+      "longitude": 14.065971
+    },
+    {
+      "name": "Krásná stráň",
+      "latitude": 49.942107,
+      "longitude": 14.270372
+    },
+    {
+      "name": "Vyhlídka na Karlík",
+      "latitude": 49.938333,
+      "longitude": 14.261782
+    },
+    {
+      "name": "Homole",
+      "latitude": 49.944265,
+      "longitude": 14.398194
+    },
+    {
+      "name": "Hvíždinec",
+      "latitude": 49.906788,
+      "longitude": 14.267296
+    },
+    {
+      "name": "Korunka",
+      "latitude": 49.915922,
+      "longitude": 14.29805
+    },
+    {
+      "name": "Poutníkův trůn",
+      "latitude": 49.848265,
+      "longitude": 14.226226
+    },
+    {
+      "name": "Kámen",
+      "latitude": 49.893128,
+      "longitude": 14.406684
+    },
+    {
+      "name": "Křížka",
+      "latitude": 49.926432,
+      "longitude": 14.570622
+    },
+    {
+      "name": "Vápenka",
+      "latitude": 49.932234,
+      "longitude": 14.518198
+    },
+    {
+      "name": "Bílý kámen",
+      "latitude": 49.929842,
+      "longitude": 14.651222
+    },
+    {
+      "name": "Třeštibok",
+      "latitude": 49.87702,
+      "longitude": 14.452122
+    },
+    {
+      "name": "U obrázku",
+      "latitude": 49.891168,
+      "longitude": 14.467772
+    },
+    {
+      "name": "Žampašská vyhlídka",
+      "latitude": 49.870185,
+      "longitude": 14.487857
+    },
+    {
+      "name": "Hadí skála",
+      "latitude": 49.87729,
+      "longitude": 14.449782
+    },
+    {
+      "name": "Panská skála",
+      "latitude": 49.875053,
+      "longitude": 14.564747
+    },
+    {
+      "name": "Boží skála",
+      "latitude": 49.890225,
+      "longitude": 14.502076
+    },
+    {
+      "name": "Klimentova vyhlídka",
+      "latitude": 49.864786,
+      "longitude": 14.457938
+    },
+    {
+      "name": "Raisova vyhlídka",
+      "latitude": 49.860368,
+      "longitude": 14.465478
+    },
+    {
+      "name": "Vyhlídka Vildy Jakše",
+      "latitude": 49.862915,
+      "longitude": 14.46024
+    },
+    {
+      "name": "Smetanova vyhlídka",
+      "latitude": 49.848423,
+      "longitude": 14.452225
+    },
+    {
+      "name": "Skrytá vyhlídka",
+      "latitude": 49.860811,
+      "longitude": 14.467022
+    },
+    {
+      "name": "Rozhledna Ládví u Kamenice",
+      "latitude": 49.886984,
+      "longitude": 14.612453
+    },
+    {
+      "name": "Rozhledna Skalka",
+      "latitude": 49.98971,
+      "longitude": 14.782999
+    },
+    {
+      "name": "Rozhledna",
+      "latitude": 49.995493,
+      "longitude": 14.858776
+    },
+    {
+      "name": "Emergency hut",
+      "latitude": 49.954415,
+      "longitude": 14.773625
+    },
+    {
+      "name": "Výhled od Lechova kamene na město Kouřim",
+      "latitude": 50.002257,
+      "longitude": 14.986211
+    },
+    {
+      "name": "Na Vinici",
+      "latitude": 50.044183,
+      "longitude": 15.23345
+    },
+    {
+      "name": "Kaňk",
+      "latitude": 49.97074,
+      "longitude": 15.284943
+    },
+    {
+      "name": "Skála",
+      "latitude": 49.882066,
+      "longitude": 14.879212
+    },
+    {
+      "name": "Minirozhledna",
+      "latitude": 49.855508,
+      "longitude": 14.820817
+    },
+    {
+      "name": "hradiště Denemark",
+      "latitude": 49.929061,
+      "longitude": 15.252408
+    },
+    {
+      "name": "Tisá skála",
+      "latitude": 49.845166,
+      "longitude": 15.418961
+    },
+    {
+      "name": "Jehlický vrch",
+      "latitude": 50.233521,
+      "longitude": 15.665431
+    },
+    {
+      "name": "Švamberk view",
+      "latitude": 50.266231,
+      "longitude": 16.11639
+    },
+    {
+      "name": "Chateau view",
+      "latitude": 50.263291,
+      "longitude": 16.117174
+    },
+    {
+      "name": "Lama a klokan",
+      "latitude": 50.205762,
+      "longitude": 15.917335
+    },
+    {
+      "name": "Nývltova vyhlídka",
+      "latitude": 50.217275,
+      "longitude": 15.968404
+    },
+    {
+      "name": "Trávník",
+      "latitude": 50.151696,
+      "longitude": 15.686415
+    },
+    {
+      "name": "Kunětická hora",
+      "latitude": 50.079932,
+      "longitude": 15.813186
+    },
+    {
+      "name": "Prase divoké",
+      "latitude": 50.17424,
+      "longitude": 15.911082
+    },
+    {
+      "name": "Joštova vyhlídka",
+      "latitude": 50.149478,
+      "longitude": 15.963801
+    },
+    {
+      "name": "Muflon a daněk",
+      "latitude": 50.174359,
+      "longitude": 15.911076
+    },
+    {
+      "name": "Jelen sika Dybowského",
+      "latitude": 50.170772,
+      "longitude": 15.913802
+    },
+    {
+      "name": "Jelen evropský",
+      "latitude": 50.156879,
+      "longitude": 15.926632
+    },
+    {
+      "name": "Okklania",
+      "latitude": 50.279668,
+      "longitude": 16.469944
+    },
+    {
+      "name": "Rozhledna Annenský vrch",
+      "latitude": 50.216157,
+      "longitude": 16.512664
+    },
+    {
+      "name": "Husova vyhlídka",
+      "latitude": 50.111079,
+      "longitude": 16.220885
+    },
+    {
+      "name": "Vyhlídka na hrad Potštejn",
+      "latitude": 50.075385,
+      "longitude": 16.301392
+    },
+    {
+      "name": "U Spáleného mostu",
+      "latitude": 50.086786,
+      "longitude": 16.312468
+    },
+    {
+      "name": "Kalvárie",
+      "latitude": 50.065627,
+      "longitude": 16.439409
+    },
+    {
+      "name": "Tyršova rozhledna",
+      "latitude": 50.08498,
+      "longitude": 16.457057
+    },
+    {
+      "name": "kamenné moře",
+      "latitude": 50.156798,
+      "longitude": 16.790641
+    },
+    {
+      "name": "Opevnění",
+      "latitude": 50.168832,
+      "longitude": 16.865725
+    },
+    {
+      "name": "Wieża widokowa na Trójmorskim Wierchu",
+      "latitude": 50.157448,
+      "longitude": 16.790779
+    },
+    {
+      "name": "Barborka",
+      "latitude": 49.96363,
+      "longitude": 15.636696
+    },
+    {
+      "name": "Vinice vyhlídka",
+      "latitude": 50.046603,
+      "longitude": 16.055261
+    },
+    {
+      "name": "Rozhledna Bára",
+      "latitude": 49.91629,
+      "longitude": 15.780657
+    },
+    {
+      "name": "Dívčí kámen",
+      "latitude": 49.881218,
+      "longitude": 15.587001
+    },
+    {
+      "name": "Rozhledna Milada na Lichnici",
+      "latitude": 49.879503,
+      "longitude": 15.586382
+    },
+    {
+      "name": "Hráz rybníku Dolní Peklo",
+      "latitude": 49.866963,
+      "longitude": 15.609276
+    },
+    {
+      "name": "Boika",
+      "latitude": 49.846518,
+      "longitude": 15.78408
+    },
+    {
+      "name": "Vyhlídka na Kaňon",
+      "latitude": 49.838933,
+      "longitude": 15.97117
+    },
+    {
+      "name": "Doskočilova vyhlídka",
+      "latitude": 50.003477,
+      "longitude": 16.234307
+    },
+    {
+      "name": "rozhledna Lanšperk",
+      "latitude": 49.994951,
+      "longitude": 16.454082
+    },
+    {
+      "name": "Stříbrná krasavice",
+      "latitude": 49.960175,
+      "longitude": 16.373951
+    },
+    {
+      "name": "Otova vyhlídka",
+      "latitude": 50.053882,
+      "longitude": 16.696242
+    },
+    {
+      "name": "Hanesova vyhlídka",
+      "latitude": 50.009073,
+      "longitude": 16.698005
+    },
+    {
+      "name": "rozhledna Křížová hora",
+      "latitude": 50.037974,
+      "longitude": 16.757313
+    },
+    {
+      "name": "Vyhlídka na Červenou Vodu",
+      "latitude": 50.04573,
+      "longitude": 16.752631
+    },
+    {
+      "name": "Výhled na Alpy",
+      "latitude": 50.005245,
+      "longitude": 16.725346
+    },
+    {
+      "name": "Podhledna Svinná",
+      "latitude": 49.894062,
+      "longitude": 16.388889
+    },
+    {
+      "name": "rozhledna Lázek",
+      "latitude": 49.925712,
+      "longitude": 16.705379
+    },
+    {
+      "name": "Nadhledna Háječek",
+      "latitude": 49.937771,
+      "longitude": 16.836171
+    },
+    {
+      "name": "Vysoká",
+      "latitude": 49.796338,
+      "longitude": 12.61223
+    },
+    {
+      "name": "Rozhledna Havran",
+      "latitude": 49.743152,
+      "longitude": 12.409245
+    },
+    {
+      "name": "pozorovatelna Pohraniční stráže",
+      "latitude": 49.673546,
+      "longitude": 12.544607
+    },
+    {
+      "name": "Milíře u Rozvadova",
+      "latitude": 49.665269,
+      "longitude": 12.62242
+    },
+    {
+      "name": "Vyhlídka Dominiky Kolowrat Krakovské",
+      "latitude": 49.629767,
+      "longitude": 12.599961
+    },
+    {
+      "name": "Böhmerwaldturm",
+      "latitude": 49.524164,
+      "longitude": 12.632611
+    },
+    {
+      "name": "Goethova vyhlídka",
+      "latitude": 49.812418,
+      "longitude": 12.852277
+    },
+    {
+      "name": "Krkavec",
+      "latitude": 49.802818,
+      "longitude": 13.34154
+    },
+    {
+      "name": "Dva kameny",
+      "latitude": 49.78264,
+      "longitude": 13.346796
+    },
+    {
+      "name": "Vyhlidka pod Krkavcem",
+      "latitude": 49.798297,
+      "longitude": 13.334014
+    },
+    {
+      "name": "Sylván",
+      "latitude": 49.769711,
+      "longitude": 13.347496
+    },
+    {
+      "name": "Malesická vyhlídka",
+      "latitude": 49.774412,
+      "longitude": 13.314069
+    },
+    {
+      "name": "vyhlídka Na Cihelně",
+      "latitude": 49.690796,
+      "longitude": 13.120159
+    },
+    {
+      "name": "Kluk",
+      "latitude": 49.657547,
+      "longitude": 13.357107
+    },
+    {
+      "name": "Křížový vrch rozhledna",
+      "latitude": 49.621929,
+      "longitude": 13.212786
+    },
+    {
+      "name": "Hradiště",
+      "latitude": 49.811267,
+      "longitude": 13.617784
+    },
+    {
+      "name": "Bílá skála",
+      "latitude": 49.821567,
+      "longitude": 13.650564
+    },
+    {
+      "name": "Černá skála",
+      "latitude": 49.816235,
+      "longitude": 13.637598
+    },
+    {
+      "name": "Chlum",
+      "latitude": 49.767217,
+      "longitude": 13.430137
+    },
+    {
+      "name": "Holý vrch",
+      "latitude": 49.772104,
+      "longitude": 13.445811
+    },
+    {
+      "name": "vyhlídka na Mikulce",
+      "latitude": 49.76583,
+      "longitude": 13.382234
+    },
+    {
+      "name": "Vyhlídka na řeku Berounku",
+      "latitude": 49.767439,
+      "longitude": 13.419665
+    },
+    {
+      "name": "Vyhlídka Na pilíři",
+      "latitude": 49.730576,
+      "longitude": 13.382146
+    },
+    {
+      "name": "Vyhlídka na Žďár",
+      "latitude": 49.729062,
+      "longitude": 13.689132
+    },
+    {
+      "name": "Jindřichova skála",
+      "latitude": 49.768033,
+      "longitude": 13.881815
+    },
+    {
+      "name": "Velký kámen",
+      "latitude": 49.728221,
+      "longitude": 13.736759
+    },
+    {
+      "name": "Dopadová plocha",
+      "latitude": 49.725578,
+      "longitude": 13.867537
+    },
+    {
+      "name": "Svatý jezevčík",
+      "latitude": 49.73172,
+      "longitude": 13.868635
+    },
+    {
+      "name": "Pozorovatelny",
+      "latitude": 49.762616,
+      "longitude": 13.923538
+    },
+    {
+      "name": "Pozorovatelny",
+      "latitude": 49.763689,
+      "longitude": 13.926461
+    },
+    {
+      "name": "vyhlídka Na Horizontu",
+      "latitude": 49.724019,
+      "longitude": 13.438127
+    },
+    {
+      "name": "Melicharka - Vyhlídka na Plzeň",
+      "latitude": 49.682252,
+      "longitude": 13.515454
+    },
+    {
+      "name": "Melicharka (skála)",
+      "latitude": 49.683512,
+      "longitude": 13.515953
+    },
+    {
+      "name": "Vyhlídka na Pavlovsko",
+      "latitude": 49.723554,
+      "longitude": 13.659818
+    },
+    {
+      "name": "Komárova vyhlídka",
+      "latitude": 49.638387,
+      "longitude": 13.375096
+    },
+    {
+      "name": "vyhlídkový altán Mariina skála",
+      "latitude": 49.655222,
+      "longitude": 13.565296
+    },
+    {
+      "name": "Výhled na Měšno",
+      "latitude": 49.651366,
+      "longitude": 13.62839
+    },
+    {
+      "name": "Příkosická vyhlídka",
+      "latitude": 49.664706,
+      "longitude": 13.644179
+    },
+    {
+      "name": "Těnovická vyhlídka",
+      "latitude": 49.62466,
+      "longitude": 13.634392
+    },
+    {
+      "name": "Skalní vyhlídka z Vlče na Strašice",
+      "latitude": 49.722656,
+      "longitude": 13.726581
+    },
+    {
+      "name": "Třitrubecká vyhlídka",
+      "latitude": 49.703763,
+      "longitude": 13.784505
+    },
+    {
+      "name": "Chlukov",
+      "latitude": 49.714785,
+      "longitude": 13.786179
+    },
+    {
+      "name": "Kazatelna",
+      "latitude": 49.692512,
+      "longitude": 13.943144
+    },
+    {
+      "name": "Motýlí vrch, Ferdinandka",
+      "latitude": 49.694544,
+      "longitude": 13.991016
+    },
+    {
+      "name": "Malý Tok - Vyhlídka",
+      "latitude": 49.65363,
+      "longitude": 13.845937
+    },
+    {
+      "name": "Čákova vyhlídka",
+      "latitude": 49.65515,
+      "longitude": 13.817522
+    },
+    {
+      "name": "rozhledna Šibeniční vrch",
+      "latitude": 49.521266,
+      "longitude": 12.96047
+    },
+    {
+      "name": "Všekarská vyhlídka",
+      "latitude": 49.607884,
+      "longitude": 13.044743
+    },
+    {
+      "name": "Hrádek",
+      "latitude": 49.431193,
+      "longitude": 12.862208
+    },
+    {
+      "name": "Sokolova vyhlídka",
+      "latitude": 49.388928,
+      "longitude": 12.843611
+    },
+    {
+      "name": "gloriet Klobouk",
+      "latitude": 49.408266,
+      "longitude": 12.993416
+    },
+    {
+      "name": "Bolfánek",
+      "latitude": 49.459615,
+      "longitude": 13.162618
+    },
+    {
+      "name": "Koráb rozhledna",
+      "latitude": 49.395453,
+      "longitude": 13.075241
+    },
+    {
+      "name": "Rýzmberk",
+      "latitude": 49.407021,
+      "longitude": 13.031024
+    },
+    {
+      "name": "Branžovský les",
+      "latitude": 49.426671,
+      "longitude": 13.261335
+    },
+    {
+      "name": "Plánický hřeben",
+      "latitude": 49.428497,
+      "longitude": 13.275188
+    },
+    {
+      "name": "Šumavská vyhlídka",
+      "latitude": 49.429159,
+      "longitude": 13.296729
+    },
+    {
+      "name": "Černá věž",
+      "latitude": 49.394716,
+      "longitude": 13.292754
+    },
+    {
+      "name": "Rozhledna Kožich",
+      "latitude": 49.571286,
+      "longitude": 13.443972
+    },
+    {
+      "name": "Na Skále",
+      "latitude": 49.561349,
+      "longitude": 13.667377
+    },
+    {
+      "name": "Vyhlídka pod Bukovou horou",
+      "latitude": 49.528799,
+      "longitude": 13.549901
+    },
+    {
+      "name": "Nad Marastkem",
+      "latitude": 49.592825,
+      "longitude": 13.728392
+    },
+    {
+      "name": "Voltušská vyhlídka",
+      "latitude": 49.584068,
+      "longitude": 13.83964
+    },
+    {
+      "name": "jihovýchodní výhled",
+      "latitude": 49.572252,
+      "longitude": 14.027834
+    },
+    {
+      "name": "severozápadní výhled",
+      "latitude": 49.573891,
+      "longitude": 14.026475
+    },
+    {
+      "name": "Vyhlídka na Šumavu",
+      "latitude": 49.435268,
+      "longitude": 13.659414
+    },
+    {
+      "name": "rozhledna Chanovice",
+      "latitude": 49.406745,
+      "longitude": 13.71074
+    },
+    {
+      "name": "9-StoneStand",
+      "latitude": 49.448827,
+      "longitude": 13.84025
+    },
+    {
+      "name": "Pavlova vyhlídka",
+      "latitude": 49.367354,
+      "longitude": 12.773235
+    },
+    {
+      "name": "Blick nach Waldmünchen",
+      "latitude": 49.343959,
+      "longitude": 12.784474
+    },
+    {
+      "name": "Helena Ausblick",
+      "latitude": 49.328838,
+      "longitude": 12.867609
+    },
+    {
+      "name": "Vyhlídka Pohoří",
+      "latitude": 49.35034,
+      "longitude": 13.148751
+    },
+    {
+      "name": "na Hadrava",
+      "latitude": 49.306573,
+      "longitude": 13.157865
+    },
+    {
+      "name": "na Kaple Nejsvětější Trojice",
+      "latitude": 49.305752,
+      "longitude": 13.13053
+    },
+    {
+      "name": "Šumavská vyhlídka Zdeňka Hodka a strážovských turistů",
+      "latitude": 49.307939,
+      "longitude": 13.248202
+    },
+    {
+      "name": "Osserblick",
+      "latitude": 49.211377,
+      "longitude": 13.113496
+    },
+    {
+      "name": "Liebeshöhe",
+      "latitude": 49.21211,
+      "longitude": 13.19071
+    },
+    {
+      "name": "Bayernwald-Blick",
+      "latitude": 49.173263,
+      "longitude": 13.164508
+    },
+    {
+      "name": "Vyhlídka Seppa Wudyho",
+      "latitude": 49.200112,
+      "longitude": 13.216291
+    },
+    {
+      "name": "rozhledna Špičák",
+      "latitude": 49.172975,
+      "longitude": 13.20844
+    },
+    {
+      "name": "Dveře",
+      "latitude": 49.178183,
+      "longitude": 13.253686
+    },
+    {
+      "name": "Zdebořická vyhlídka",
+      "latitude": 49.367724,
+      "longitude": 13.413202
+    },
+    {
+      "name": "Drkolna, 729 m.n.m.",
+      "latitude": 49.338113,
+      "longitude": 13.393064
+    },
+    {
+      "name": "Vyhlídka v Holubu",
+      "latitude": 49.27398,
+      "longitude": 13.435265
+    },
+    {
+      "name": "Vyhlídka na Kalvárii",
+      "latitude": 49.271259,
+      "longitude": 13.431019
+    },
+    {
+      "name": "Vyhlídka na Plášti",
+      "latitude": 49.26005,
+      "longitude": 13.438847
+    },
+    {
+      "name": "Stará Vodárna",
+      "latitude": 49.228742,
+      "longitude": 13.50664
+    },
+    {
+      "name": "Svatobor - rozhledna",
+      "latitude": 49.235537,
+      "longitude": 13.487549
+    },
+    {
+      "name": "Kosatce Skelna",
+      "latitude": 49.15816,
+      "longitude": 13.402477
+    },
+    {
+      "name": "Sedlo",
+      "latitude": 49.189978,
+      "longitude": 13.569272
+    },
+    {
+      "name": "Výhled na hrad Kašperk",
+      "latitude": 49.165286,
+      "longitude": 13.569392
+    },
+    {
+      "name": "Okno na Kašperk",
+      "latitude": 49.171418,
+      "longitude": 13.569132
+    },
+    {
+      "name": "Rozhledna",
+      "latitude": 49.166058,
+      "longitude": 13.797571
+    },
+    {
+      "name": "Arberblick",
+      "latitude": 49.128064,
+      "longitude": 13.231695
+    },
+    {
+      "name": "Kremelna",
+      "latitude": 49.144419,
+      "longitude": 13.398255
+    },
+    {
+      "name": "Klostermannova vyhlídka",
+      "latitude": 49.101368,
+      "longitude": 13.480118
+    },
+    {
+      "name": "Draci skaly",
+      "latitude": 49.117931,
+      "longitude": 13.501199
+    },
+    {
+      "name": "Vyhled do udoli Zlateho potoka u Retenice",
+      "latitude": 49.126687,
+      "longitude": 13.613015
+    },
+    {
+      "name": "Zelenohorská vyhlídka",
+      "latitude": 49.082733,
+      "longitude": 13.436066
+    },
+    {
+      "name": "Aussichts-Kanzel",
+      "latitude": 49.06115,
+      "longitude": 13.395743
+    },
+    {
+      "name": "Poledník",
+      "latitude": 49.064103,
+      "longitude": 13.395134
+    },
+    {
+      "name": "Jezerní slať",
+      "latitude": 49.039752,
+      "longitude": 13.575428
+    },
+    {
+      "name": "Helfenburk",
+      "latitude": 49.136199,
+      "longitude": 14.006724
+    },
+    {
+      "name": "Panorama vimperských kopců",
+      "latitude": 49.068649,
+      "longitude": 13.768032
+    },
+    {
+      "name": "Rozhledna Mařský vrch",
+      "latitude": 49.072772,
+      "longitude": 13.847933
+    },
+    {
+      "name": "Chalupská Slat",
+      "latitude": 48.998163,
+      "longitude": 13.659229
+    },
+    {
+      "name": "Alpská vyhlídka",
+      "latitude": 49.004212,
+      "longitude": 13.693134
+    },
+    {
+      "name": "Lusen",
+      "latitude": 48.939196,
+      "longitude": 13.506778
+    },
+    {
+      "name": "Vyhlídka Václava Hrubého",
+      "latitude": 48.933379,
+      "longitude": 13.70845
+    },
+    {
+      "name": "rozhledna Boubín",
+      "latitude": 48.991275,
+      "longitude": 13.817416
+    },
+    {
+      "name": "Rozhledna Libín",
+      "latitude": 48.978837,
+      "longitude": 14.011758
+    },
+    {
+      "name": "Studený vrch",
+      "latitude": 49.805116,
+      "longitude": 14.083167
+    },
+    {
+      "name": "svatý Jan Nepomucký",
+      "latitude": 49.746675,
+      "longitude": 14.364078
+    },
+    {
+      "name": "Albertovy skály",
+      "latitude": 49.725411,
+      "longitude": 14.368098
+    },
+    {
+      "name": "Vyhlídka Opata Zaorala",
+      "latitude": 49.739829,
+      "longitude": 14.404394
+    },
+    {
+      "name": "Rozhledna Veselý vrch",
+      "latitude": 49.744793,
+      "longitude": 14.343216
+    },
+    {
+      "name": "Máj (448 m)",
+      "latitude": 49.831083,
+      "longitude": 14.45604
+    },
+    {
+      "name": "Bednář",
+      "latitude": 49.825924,
+      "longitude": 14.450564
+    },
+    {
+      "name": "Myšák",
+      "latitude": 49.833942,
+      "longitude": 14.455982
+    },
+    {
+      "name": "Vyhlídka Skalka",
+      "latitude": 49.828278,
+      "longitude": 14.450218
+    },
+    {
+      "name": "Mařenka",
+      "latitude": 49.832567,
+      "longitude": 14.456229
+    },
+    {
+      "name": "Vyhlídka Bednář",
+      "latitude": 49.825307,
+      "longitude": 14.450148
+    },
+    {
+      "name": "Vyhlídka Homolka",
+      "latitude": 49.799825,
+      "longitude": 14.436574
+    },
+    {
+      "name": "Neštětická hora",
+      "latitude": 49.76915,
+      "longitude": 14.568405
+    },
+    {
+      "name": "Vyhlídka na Konopiště",
+      "latitude": 49.771001,
+      "longitude": 14.614106
+    },
+    {
+      "name": "Bartůňkova vyhlídka",
+      "latitude": 49.72131,
+      "longitude": 14.367212
+    },
+    {
+      "name": "Nad podkovou",
+      "latitude": 49.627274,
+      "longitude": 14.202149
+    },
+    {
+      "name": "Vyhlídka Lavička",
+      "latitude": 49.665571,
+      "longitude": 14.2475
+    },
+    {
+      "name": "Vyhlídka u Sedlčan",
+      "latitude": 49.63404,
+      "longitude": 14.465397
+    },
+    {
+      "name": "Špulka",
+      "latitude": 49.793529,
+      "longitude": 14.825807
+    },
+    {
+      "name": "Čertova vyhlídka",
+      "latitude": 49.785867,
+      "longitude": 15.027224
+    },
+    {
+      "name": "Rozhledna Babka",
+      "latitude": 49.758567,
+      "longitude": 15.098727
+    },
+    {
+      "name": "Vyhlídka Chabeřické skály",
+      "latitude": 49.751002,
+      "longitude": 15.087833
+    },
+    {
+      "name": "Veřejová skála",
+      "latitude": 49.645869,
+      "longitude": 14.86867
+    },
+    {
+      "name": "Rozhledna Velký Blaník",
+      "latitude": 49.641864,
+      "longitude": 14.873245
+    },
+    {
+      "name": "Šeptouchovská skála",
+      "latitude": 49.69436,
+      "longitude": 15.271754
+    },
+    {
+      "name": "pod Šeptouchovskou skálou",
+      "latitude": 49.694481,
+      "longitude": 15.271513
+    },
+    {
+      "name": "Stvořidla",
+      "latitude": 49.66592,
+      "longitude": 15.335448
+    },
+    {
+      "name": "Skála",
+      "latitude": 49.665714,
+      "longitude": 15.391198
+    },
+    {
+      "name": "Zatopený lom Trojka",
+      "latitude": 49.620099,
+      "longitude": 15.410641
+    },
+    {
+      "name": "Holý vrch",
+      "latitude": 49.622261,
+      "longitude": 15.39783
+    },
+    {
+      "name": "Langova rozhledna",
+      "latitude": 49.559061,
+      "longitude": 14.23789
+    },
+    {
+      "name": "Rozhledna Kuníček",
+      "latitude": 49.564152,
+      "longitude": 14.31321
+    },
+    {
+      "name": "Vyhlídka u altánku",
+      "latitude": 49.543124,
+      "longitude": 14.606321
+    },
+    {
+      "name": "Na Vlčí skále",
+      "latitude": 49.437951,
+      "longitude": 14.198394
+    },
+    {
+      "name": "Vyhlídka U Rybárny",
+      "latitude": 49.386623,
+      "longitude": 14.168261
+    },
+    {
+      "name": "Krkavčí skála",
+      "latitude": 49.409951,
+      "longitude": 14.163918
+    },
+    {
+      "name": "rozhledna Kupa",
+      "latitude": 49.390974,
+      "longitude": 14.391051
+    },
+    {
+      "name": "Vyhlídková věž děkanského kostela Proměnění Páně",
+      "latitude": 49.414609,
+      "longitude": 14.658365
+    },
+    {
+      "name": "Vyhlídka Větrovy",
+      "latitude": 49.390847,
+      "longitude": 14.647285
+    },
+    {
+      "name": "Na Altánku",
+      "latitude": 49.555152,
+      "longitude": 15.050426
+    },
+    {
+      "name": "Vožický výhled",
+      "latitude": 49.532274,
+      "longitude": 14.81455
+    },
+    {
+      "name": "Orlík",
+      "latitude": 49.5652,
+      "longitude": 15.41044
+    },
+    {
+      "name": "Vřesník - přehrada",
+      "latitude": 49.529809,
+      "longitude": 15.242546
+    },
+    {
+      "name": "Vřesník",
+      "latitude": 49.534301,
+      "longitude": 15.249677
+    },
+    {
+      "name": "Vyhlídková věž kostela sv. Mikuláše",
+      "latitude": 49.541471,
+      "longitude": 15.359187
+    },
+    {
+      "name": "Pípalka",
+      "latitude": 49.403591,
+      "longitude": 15.327019
+    },
+    {
+      "name": "Zuberský kopec",
+      "latitude": 49.781498,
+      "longitude": 15.801778
+    },
+    {
+      "name": "Toulovcova rozhledna",
+      "latitude": 49.814479,
+      "longitude": 16.163434
+    },
+    {
+      "name": "Terezka",
+      "latitude": 49.786037,
+      "longitude": 16.12261
+    },
+    {
+      "name": "Velké Hradisko",
+      "latitude": 49.801907,
+      "longitude": 16.170536
+    },
+    {
+      "name": "Zámeček",
+      "latitude": 49.80275,
+      "longitude": 16.168482
+    },
+    {
+      "name": "Malé Hradisko",
+      "latitude": 49.802599,
+      "longitude": 16.170219
+    },
+    {
+      "name": "Vojtěchův kopec",
+      "latitude": 49.728129,
+      "longitude": 15.977255
+    },
+    {
+      "name": "Tis, u kapličky",
+      "latitude": 49.712789,
+      "longitude": 15.488343
+    },
+    {
+      "name": "Čertův stolek",
+      "latitude": 49.714034,
+      "longitude": 15.712381
+    },
+    {
+      "name": "Sokolohrady",
+      "latitude": 49.714761,
+      "longitude": 15.713717
+    },
+    {
+      "name": "Devět skal",
+      "latitude": 49.670733,
+      "longitude": 16.032237
+    },
+    {
+      "name": "Milovské perníčky",
+      "latitude": 49.693598,
+      "longitude": 16.087941
+    },
+    {
+      "name": "Čtyři palice",
+      "latitude": 49.686808,
+      "longitude": 16.093247
+    },
+    {
+      "name": "Čtyři palice",
+      "latitude": 49.686147,
+      "longitude": 16.093318
+    },
+    {
+      "name": "Malinská skála",
+      "latitude": 49.661034,
+      "longitude": 16.071507
+    },
+    {
+      "name": "Pasecká skála",
+      "latitude": 49.615561,
+      "longitude": 16.081481
+    },
+    {
+      "name": "Bohdalec",
+      "latitude": 49.622638,
+      "longitude": 16.143847
+    },
+    {
+      "name": "Strážný vrch",
+      "latitude": 49.786189,
+      "longitude": 16.582814
+    },
+    {
+      "name": "Nad Doly",
+      "latitude": 49.766417,
+      "longitude": 16.583377
+    },
+    {
+      "name": "U Tety",
+      "latitude": 49.747794,
+      "longitude": 16.579431
+    },
+    {
+      "name": "Pastýřka",
+      "latitude": 49.746132,
+      "longitude": 16.664482
+    },
+    {
+      "name": "Na Špici",
+      "latitude": 49.70233,
+      "longitude": 16.256133
+    },
+    {
+      "name": "Kabačka",
+      "latitude": 49.639019,
+      "longitude": 16.227229
+    },
+    {
+      "name": "Kočího kopec",
+      "latitude": 49.61257,
+      "longitude": 16.315702
+    },
+    {
+      "name": "Ločarův kámen",
+      "latitude": 49.545867,
+      "longitude": 15.540931
+    },
+    {
+      "name": "Metodka",
+      "latitude": 49.606381,
+      "longitude": 16.147288
+    },
+    {
+      "name": "Rosička",
+      "latitude": 49.538543,
+      "longitude": 15.842593
+    },
+    {
+      "name": "Strom života - památník 100 let Republiky",
+      "latitude": 49.536179,
+      "longitude": 16.012597
+    },
+    {
+      "name": "vyhlídka Vejdoch",
+      "latitude": 49.536115,
+      "longitude": 16.012705
+    },
+    {
+      "name": "Zaječí skok",
+      "latitude": 49.41375,
+      "longitude": 15.534502
+    },
+    {
+      "name": "Vyhlídková věž Gustava Mahlera",
+      "latitude": 49.396128,
+      "longitude": 15.586134
+    },
+    {
+      "name": "Vyhlídka Karla Löwa",
+      "latitude": 49.406653,
+      "longitude": 15.619994
+    },
+    {
+      "name": "Vyhlídková věž kostela",
+      "latitude": 49.395171,
+      "longitude": 15.593031
+    },
+    {
+      "name": "Horní les",
+      "latitude": 49.590791,
+      "longitude": 16.341078
+    },
+    {
+      "name": "Javorový kopec",
+      "latitude": 49.586335,
+      "longitude": 16.326261
+    },
+    {
+      "name": "Vyhlídka Klubačice",
+      "latitude": 49.560287,
+      "longitude": 16.314169
+    },
+    {
+      "name": "vyhlídka Kobylí skála",
+      "latitude": 49.568716,
+      "longitude": 16.295393
+    },
+    {
+      "name": "Horymírka",
+      "latitude": 49.558236,
+      "longitude": 16.334807
+    },
+    {
+      "name": "Rossiho vyhlídka",
+      "latitude": 49.557392,
+      "longitude": 16.311084
+    },
+    {
+      "name": "Výhled na Chudobínskou borovici",
+      "latitude": 49.569476,
+      "longitude": 16.280057
+    },
+    {
+      "name": "Chalupníkova lavička",
+      "latitude": 49.558972,
+      "longitude": 16.327156
+    },
+    {
+      "name": "Karasín",
+      "latitude": 49.5582,
+      "longitude": 16.279034
+    },
+    {
+      "name": "Kopaniny",
+      "latitude": 49.55687,
+      "longitude": 16.404744
+    },
+    {
+      "name": "Zelenkův kopec",
+      "latitude": 49.570999,
+      "longitude": 16.455587
+    },
+    {
+      "name": "Hraběcí stolek",
+      "latitude": 49.549401,
+      "longitude": 16.345901
+    },
+    {
+      "name": "Vyhlídka TGM",
+      "latitude": 49.517301,
+      "longitude": 16.511946
+    },
+    {
+      "name": "Lhotský vrchol",
+      "latitude": 49.536698,
+      "longitude": 16.567318
+    },
+    {
+      "name": "Chochola",
+      "latitude": 49.537929,
+      "longitude": 16.868638
+    },
+    {
+      "name": "Skalní vyhlídka",
+      "latitude": 49.44838,
+      "longitude": 16.320537
+    },
+    {
+      "name": "Výhled na vilu Mittrovských",
+      "latitude": 49.451879,
+      "longitude": 16.32302
+    },
+    {
+      "name": "Výří skála",
+      "latitude": 49.450019,
+      "longitude": 16.302117
+    },
+    {
+      "name": "Vyhlídkové místo Kamínky",
+      "latitude": 49.481291,
+      "longitude": 16.512044
+    },
+    {
+      "name": "Babylon",
+      "latitude": 49.443696,
+      "longitude": 16.463914
+    },
+    {
+      "name": "Babylon",
+      "latitude": 49.384773,
+      "longitude": 16.359846
+    },
+    {
+      "name": "Malý Chlum",
+      "latitude": 49.451355,
+      "longitude": 16.585836
+    },
+    {
+      "name": "Krahulcova vyhlídka",
+      "latitude": 49.462998,
+      "longitude": 16.72021
+    },
+    {
+      "name": "Rozhledna Žernovník",
+      "latitude": 49.405159,
+      "longitude": 16.540486
+    },
+    {
+      "name": "Spešovská rozhledna",
+      "latitude": 49.401178,
+      "longitude": 16.60914
+    },
+    {
+      "name": "Helišova skála",
+      "latitude": 49.412463,
+      "longitude": 16.758735
+    },
+    {
+      "name": "rozhledna Podvrší u Veselice",
+      "latitude": 49.389092,
+      "longitude": 16.704005
+    },
+    {
+      "name": "Rozhledna Jarník",
+      "latitude": 49.307994,
+      "longitude": 14.192456
+    },
+    {
+      "name": "Rozhledna Radětice",
+      "latitude": 49.319263,
+      "longitude": 14.429047
+    },
+    {
+      "name": "Vyhlídka Vojty Náprstka",
+      "latitude": 49.295519,
+      "longitude": 14.479945
+    },
+    {
+      "name": "vyhlídková terasa",
+      "latitude": 49.225744,
+      "longitude": 14.127509
+    },
+    {
+      "name": "rozhledna Vysoký Kamýk",
+      "latitude": 49.231322,
+      "longitude": 14.297218
+    },
+    {
+      "name": "Vyhlídka na soutok",
+      "latitude": 49.234498,
+      "longitude": 14.384522
+    },
+    {
+      "name": "Kořenská skála",
+      "latitude": 49.235496,
+      "longitude": 14.384936
+    },
+    {
+      "name": "rozhledna Semenec",
+      "latitude": 49.2306,
+      "longitude": 14.410074
+    },
+    {
+      "name": "Šumavská vyhlídka",
+      "latitude": 49.167791,
+      "longitude": 14.091294
+    },
+    {
+      "name": "Vyhlídka u rybářské školy",
+      "latitude": 49.160114,
+      "longitude": 14.177677
+    },
+    {
+      "name": "Hasičská vyhlídka",
+      "latitude": 49.171496,
+      "longitude": 14.258259
+    },
+    {
+      "name": "rozhledna Svákov",
+      "latitude": 49.266424,
+      "longitude": 14.694762
+    },
+    {
+      "name": "Ve smrčí",
+      "latitude": 49.166339,
+      "longitude": 14.554358
+    },
+    {
+      "name": "Rozhledna Krátošice",
+      "latitude": 49.325704,
+      "longitude": 14.784239
+    },
+    {
+      "name": "Sněžník",
+      "latitude": 49.276019,
+      "longitude": 14.89521
+    },
+    {
+      "name": "Rýdův kopec Děbolín",
+      "latitude": 49.159105,
+      "longitude": 14.939623
+    },
+    {
+      "name": "Vyhlídka Karla Zvěřiny",
+      "latitude": 49.15369,
+      "longitude": 14.969091
+    },
+    {
+      "name": "Věž sv. Jakuba",
+      "latitude": 49.185162,
+      "longitude": 15.450956
+    },
+    {
+      "name": "Oslednice",
+      "latitude": 49.180411,
+      "longitude": 15.468064
+    },
+    {
+      "name": "Jelení skok",
+      "latitude": 49.103182,
+      "longitude": 14.465568
+    },
+    {
+      "name": "pidirozhledna",
+      "latitude": 49.072629,
+      "longitude": 14.514463
+    },
+    {
+      "name": "výhled z věže",
+      "latitude": 49.051057,
+      "longitude": 14.441552
+    },
+    {
+      "name": "vyhlídková věž Lomnice",
+      "latitude": 49.095423,
+      "longitude": 14.714639
+    },
+    {
+      "name": "Kraví pole",
+      "latitude": 49.011815,
+      "longitude": 14.093088
+    },
+    {
+      "name": "U kapličky",
+      "latitude": 49.002484,
+      "longitude": 14.532162
+    },
+    {
+      "name": "vyhlídka Karlov",
+      "latitude": 49.140194,
+      "longitude": 14.998508
+    },
+    {
+      "name": "rozhledna U Jakuba",
+      "latitude": 49.087634,
+      "longitude": 15.271011
+    },
+    {
+      "name": "Urbanečský vrch",
+      "latitude": 49.04263,
+      "longitude": 15.417138
+    },
+    {
+      "name": "Věž Landštejn",
+      "latitude": 49.023973,
+      "longitude": 15.230946
+    },
+    {
+      "name": "Rozhledna Kotlacke",
+      "latitude": 48.996588,
+      "longitude": 15.14141
+    },
+    {
+      "name": "fotopoint",
+      "latitude": 49.291745,
+      "longitude": 15.489172
+    },
+    {
+      "name": "U Spáleného mostu",
+      "latitude": 49.275946,
+      "longitude": 15.77792
+    },
+    {
+      "name": "Rubačka",
+      "latitude": 49.323151,
+      "longitude": 15.957534
+    },
+    {
+      "name": "Hubertova Vyhlídka",
+      "latitude": 49.164906,
+      "longitude": 15.56082
+    },
+    {
+      "name": "Mařenka",
+      "latitude": 49.170557,
+      "longitude": 15.702875
+    },
+    {
+      "name": "Městská věž",
+      "latitude": 49.214804,
+      "longitude": 15.87978
+    },
+    {
+      "name": "Masarykova vyhlídka",
+      "latitude": 49.216826,
+      "longitude": 15.884602
+    },
+    {
+      "name": "Rozhledna Ocmanice",
+      "latitude": 49.22774,
+      "longitude": 16.117567
+    },
+    {
+      "name": "Astronomical observatory",
+      "latitude": 49.207055,
+      "longitude": 15.875861
+    },
+    {
+      "name": "Strážná hora",
+      "latitude": 49.2099,
+      "longitude": 15.873694
+    },
+    {
+      "name": "Pekelný kopec",
+      "latitude": 49.182859,
+      "longitude": 15.850209
+    },
+    {
+      "name": "Halířova skála",
+      "latitude": 49.186183,
+      "longitude": 16.015965
+    },
+    {
+      "name": "Dvořákova vyhlídka",
+      "latitude": 49.171794,
+      "longitude": 16.046191
+    },
+    {
+      "name": "Wilsonova vyhlídka",
+      "latitude": 49.161481,
+      "longitude": 16.089799
+    },
+    {
+      "name": "vyhlídka u Heřmanova (608m n.m.)",
+      "latitude": 49.3765,
+      "longitude": 16.185321
+    },
+    {
+      "name": "Sochorská skála",
+      "latitude": 49.364091,
+      "longitude": 16.282905
+    },
+    {
+      "name": "Pochopova skála",
+      "latitude": 49.350695,
+      "longitude": 16.283687
+    },
+    {
+      "name": "Velká skála",
+      "latitude": 49.354544,
+      "longitude": 16.418285
+    },
+    {
+      "name": "Květnice",
+      "latitude": 49.358382,
+      "longitude": 16.414593
+    },
+    {
+      "name": "Křivoš",
+      "latitude": 49.372998,
+      "longitude": 16.371483
+    },
+    {
+      "name": "Orlí hnízdo",
+      "latitude": 49.352168,
+      "longitude": 16.369709
+    },
+    {
+      "name": "Sychrák",
+      "latitude": 49.345265,
+      "longitude": 16.436096
+    },
+    {
+      "name": "Klucanina rozhledna",
+      "latitude": 49.34673,
+      "longitude": 16.440496
+    },
+    {
+      "name": "Čebínka",
+      "latitude": 49.319898,
+      "longitude": 16.484705
+    },
+    {
+      "name": "Krkatá bába",
+      "latitude": 49.382081,
+      "longitude": 16.529265
+    },
+    {
+      "name": "Čtyři douglasky",
+      "latitude": 49.354847,
+      "longitude": 16.68227
+    },
+    {
+      "name": "Výří skála",
+      "latitude": 49.334105,
+      "longitude": 16.647243
+    },
+    {
+      "name": "Výrovka",
+      "latitude": 49.349844,
+      "longitude": 16.678772
+    },
+    {
+      "name": "Dolní můstek",
+      "latitude": 49.373656,
+      "longitude": 16.729199
+    },
+    {
+      "name": "Horní můstek",
+      "latitude": 49.373142,
+      "longitude": 16.729316
+    },
+    {
+      "name": "Strážná",
+      "latitude": 49.354624,
+      "longitude": 16.742225
+    },
+    {
+      "name": "Alexandrova rozhledna",
+      "latitude": 49.297892,
+      "longitude": 16.672717
+    },
+    {
+      "name": "Babická vyhlídka",
+      "latitude": 49.27944,
+      "longitude": 16.678273
+    },
+    {
+      "name": "velke skalky",
+      "latitude": 49.278011,
+      "longitude": 16.700088
+    },
+    {
+      "name": "Vyhlídka na Veveří",
+      "latitude": 49.263058,
+      "longitude": 16.466712
+    },
+    {
+      "name": "Chvalovka",
+      "latitude": 49.223482,
+      "longitude": 16.496098
+    },
+    {
+      "name": "Lipa sp.",
+      "latitude": 49.195977,
+      "longitude": 16.515044
+    },
+    {
+      "name": "Tribuna T2",
+      "latitude": 49.203042,
+      "longitude": 16.443596
+    },
+    {
+      "name": "Tribuna T3",
+      "latitude": 49.202439,
+      "longitude": 16.445725
+    },
+    {
+      "name": "Tribuna T5",
+      "latitude": 49.202617,
+      "longitude": 16.445081
+    },
+    {
+      "name": "Tribuna",
+      "latitude": 49.203656,
+      "longitude": 16.459435
+    },
+    {
+      "name": "Tribuna T1",
+      "latitude": 49.20748,
+      "longitude": 16.454094
+    },
+    {
+      "name": "Skalka",
+      "latitude": 49.247617,
+      "longitude": 16.590444
+    },
+    {
+      "name": "Hradisko",
+      "latitude": 49.246506,
+      "longitude": 16.675301
+    },
+    {
+      "name": "Louka nad Husovou",
+      "latitude": 49.249658,
+      "longitude": 16.662696
+    },
+    {
+      "name": "Velký medlánecký kopec",
+      "latitude": 49.234397,
+      "longitude": 16.567892
+    },
+    {
+      "name": "Lom Hády",
+      "latitude": 49.219929,
+      "longitude": 16.67422
+    },
+    {
+      "name": "Lom Hády",
+      "latitude": 49.218632,
+      "longitude": 16.673813
+    },
+    {
+      "name": "Planýrka",
+      "latitude": 49.216762,
+      "longitude": 16.611972
+    },
+    {
+      "name": "vyhlídka",
+      "latitude": 49.244203,
+      "longitude": 16.738732
+    },
+    {
+      "name": "Lesní bar U Krav",
+      "latitude": 49.243174,
+      "longitude": 16.783982
+    },
+    {
+      "name": "Hornek",
+      "latitude": 49.231516,
+      "longitude": 16.717189
+    },
+    {
+      "name": "Skalka",
+      "latitude": 49.224055,
+      "longitude": 16.754171
+    },
+    {
+      "name": "Kamenný vrch",
+      "latitude": 49.182851,
+      "longitude": 16.555976
+    },
+    {
+      "name": "Hotel Myslivna",
+      "latitude": 49.188667,
+      "longitude": 16.553842
+    },
+    {
+      "name": "věž Staré radnice",
+      "latitude": 49.193113,
+      "longitude": 16.608673
+    },
+    {
+      "name": "Kamenný vrch",
+      "latitude": 49.184984,
+      "longitude": 16.553846
+    },
+    {
+      "name": "Tržnice na Zelném trhu",
+      "latitude": 49.192721,
+      "longitude": 16.608564
+    },
+    {
+      "name": "Vyhlídka Pálavské náměstí",
+      "latitude": 49.205792,
+      "longitude": 16.656147
+    },
+    {
+      "name": "Skautská vyhlídka",
+      "latitude": 49.200515,
+      "longitude": 16.648472
+    },
+    {
+      "name": "Vyhlídka Bohumila Hrabala",
+      "latitude": 49.200898,
+      "longitude": 16.648376
+    },
+    {
+      "name": "Vinohrady Révová",
+      "latitude": 49.202985,
+      "longitude": 16.653226
+    },
+    {
+      "name": "Žuráň",
+      "latitude": 49.179755,
+      "longitude": 16.738424
+    },
+    {
+      "name": "U Tří Líp",
+      "latitude": 49.135521,
+      "longitude": 15.673122
+    },
+    {
+      "name": "František",
+      "latitude": 49.141008,
+      "longitude": 15.648412
+    },
+    {
+      "name": "Zatopený mlýn",
+      "latitude": 49.133025,
+      "longitude": 16.100616
+    },
+    {
+      "name": "Babylon",
+      "latitude": 49.127213,
+      "longitude": 16.148763
+    },
+    {
+      "name": "Čertice",
+      "latitude": 48.93558,
+      "longitude": 15.723748
+    },
+    {
+      "name": "Hvězdička",
+      "latitude": 48.941327,
+      "longitude": 15.723763
+    },
+    {
+      "name": "Horka",
+      "latitude": 48.936711,
+      "longitude": 15.717849
+    },
+    {
+      "name": "Výří skála",
+      "latitude": 48.935427,
+      "longitude": 15.708228
+    },
+    {
+      "name": "Malá skála",
+      "latitude": 49.136432,
+      "longitude": 16.246708
+    },
+    {
+      "name": "Magdalenina skála",
+      "latitude": 49.140294,
+      "longitude": 16.236178
+    },
+    {
+      "name": "Na babách",
+      "latitude": 49.099448,
+      "longitude": 16.223722
+    },
+    {
+      "name": "Velký kačer",
+      "latitude": 49.101615,
+      "longitude": 16.245895
+    },
+    {
+      "name": "Velká skála",
+      "latitude": 49.10239,
+      "longitude": 16.240698
+    },
+    {
+      "name": "Velká Baba",
+      "latitude": 49.09934,
+      "longitude": 16.225307
+    },
+    {
+      "name": "Vladimíra Menšíka na Hlíně",
+      "latitude": 49.11738,
+      "longitude": 16.426069
+    },
+    {
+      "name": "Rozhledna Alfonse Muchy",
+      "latitude": 49.097039,
+      "longitude": 16.385707
+    },
+    {
+      "name": "Na Oklikách",
+      "latitude": 49.098506,
+      "longitude": 16.399599
+    },
+    {
+      "name": "Křížák",
+      "latitude": 49.052624,
+      "longitude": 16.319002
+    },
+    {
+      "name": "tvrziště Stráž",
+      "latitude": 49.113042,
+      "longitude": 16.718456
+    },
+    {
+      "name": "rozhledna Vodojem Bratčice",
+      "latitude": 49.06256,
+      "longitude": 16.540218
+    },
+    {
+      "name": "Akátová věž",
+      "latitude": 49.041801,
+      "longitude": 16.639049
+    },
+    {
+      "name": "Vyhlídka z Domaniny",
+      "latitude": 49.012047,
+      "longitude": 16.783699
+    },
+    {
+      "name": "rozhledna Nedánov",
+      "latitude": 48.98057,
+      "longitude": 16.819464
+    },
+    {
+      "name": "Rozhledna Hustopeče",
+      "latitude": 48.953472,
+      "longitude": 16.742622
+    },
+    {
+      "name": "Rozhledna Kraví Hora",
+      "latitude": 48.928526,
+      "longitude": 16.847016
+    },
+    {
+      "name": "Nad Bajcerówką",
+      "latitude": 50.44263,
+      "longitude": 16.881272
+    },
+    {
+      "name": "Šafářova skála",
+      "latitude": 50.408854,
+      "longitude": 16.896151
+    },
+    {
+      "name": "Vysoký kámen",
+      "latitude": 50.405536,
+      "longitude": 16.931452
+    },
+    {
+      "name": "Čertovy kazatelny",
+      "latitude": 50.368644,
+      "longitude": 16.992716
+    },
+    {
+      "name": "Zamek Rychleby",
+      "latitude": 50.363716,
+      "longitude": 16.981956
+    },
+    {
+      "name": "Venušiny misky",
+      "latitude": 50.33539,
+      "longitude": 17.147087
+    },
+    {
+      "name": "Skála smrti",
+      "latitude": 50.25523,
+      "longitude": 17.054167
+    },
+    {
+      "name": "Heckelovy skály",
+      "latitude": 50.253409,
+      "longitude": 17.191664
+    },
+    {
+      "name": "Brousek",
+      "latitude": 50.227293,
+      "longitude": 17.024596
+    },
+    {
+      "name": "Laďova vyhlídka",
+      "latitude": 50.20942,
+      "longitude": 17.029855
+    },
+    {
+      "name": "Panoramata",
+      "latitude": 50.231655,
+      "longitude": 17.051015
+    },
+    {
+      "name": "Skalní vyhlídka",
+      "latitude": 50.198802,
+      "longitude": 17.098892
+    },
+    {
+      "name": "Koňská vyhlídka",
+      "latitude": 50.183154,
+      "longitude": 17.101512
+    },
+    {
+      "name": "Gräfova vyhlídka",
+      "latitude": 50.191144,
+      "longitude": 17.177396
+    },
+    {
+      "name": "Čertovy kameny",
+      "latitude": 50.245426,
+      "longitude": 17.2363
+    },
+    {
+      "name": "Zlatý Chlum",
+      "latitude": 50.238053,
+      "longitude": 17.237477
+    },
+    {
+      "name": "Zamkowa Góra",
+      "latitude": 50.2727,
+      "longitude": 17.458804
+    },
+    {
+      "name": "Biskupská kupa (rozhledna)",
+      "latitude": 50.256746,
+      "longitude": 17.428588
+    },
+    {
+      "name": "Tři kameny",
+      "latitude": 50.104957,
+      "longitude": 17.047854
+    },
+    {
+      "name": "Kouty nad Desnou kolejka linowa",
+      "latitude": 50.099984,
+      "longitude": 17.116017
+    },
+    {
+      "name": "Sokolí skála",
+      "latitude": 50.112992,
+      "longitude": 17.207632
+    },
+    {
+      "name": "Divoký důl",
+      "latitude": 50.079347,
+      "longitude": 17.202866
+    },
+    {
+      "name": "Rysí skála",
+      "latitude": 50.088281,
+      "longitude": 17.148573
+    },
+    {
+      "name": "Jelení kameny",
+      "latitude": 50.133,
+      "longitude": 17.306421
+    },
+    {
+      "name": "Kamzičí skály",
+      "latitude": 50.148181,
+      "longitude": 17.234992
+    },
+    {
+      "name": "Vyhlídka Praděd",
+      "latitude": 50.122048,
+      "longitude": 17.397591
+    },
+    {
+      "name": "Rozhledna Na Skalce",
+      "latitude": 50.14427,
+      "longitude": 17.450888
+    },
+    {
+      "name": "Rolandův kámen",
+      "latitude": 50.081304,
+      "longitude": 17.306876
+    },
+    {
+      "name": "Strážnice",
+      "latitude": 50.23199,
+      "longitude": 17.598502
+    },
+    {
+      "name": "Rozhledna Ježník",
+      "latitude": 50.096959,
+      "longitude": 17.63101
+    },
+    {
+      "name": "Šelenburk",
+      "latitude": 50.068937,
+      "longitude": 17.727712
+    },
+    {
+      "name": "Lichtensteinova rozhledna",
+      "latitude": 50.082078,
+      "longitude": 17.72253
+    },
+    {
+      "name": "Voštinová skála",
+      "latitude": 50.01059,
+      "longitude": 16.9718
+    },
+    {
+      "name": "Městské skály (675 m)",
+      "latitude": 50.007273,
+      "longitude": 16.977542
+    },
+    {
+      "name": "Háj u Šumperka",
+      "latitude": 49.970656,
+      "longitude": 16.933844
+    },
+    {
+      "name": "Radniční věž",
+      "latitude": 49.965407,
+      "longitude": 16.970503
+    },
+    {
+      "name": "Prostřední skála",
+      "latitude": 49.985065,
+      "longitude": 17.058265
+    },
+    {
+      "name": "Nad Hraběšicemi",
+      "latitude": 49.986525,
+      "longitude": 17.079178
+    },
+    {
+      "name": "Novoveský vrch",
+      "latitude": 49.996394,
+      "longitude": 17.271483
+    },
+    {
+      "name": "Rozhledna Nová Ves",
+      "latitude": 49.996146,
+      "longitude": 17.265699
+    },
+    {
+      "name": "Nízký Jeseník",
+      "latitude": 49.972476,
+      "longitude": 17.440078
+    },
+    {
+      "name": "Hrubý Jeseník",
+      "latitude": 49.972608,
+      "longitude": 17.43951
+    },
+    {
+      "name": "Brusná",
+      "latitude": 49.931683,
+      "longitude": 16.93447
+    },
+    {
+      "name": "Mrtvý muž",
+      "latitude": 49.949008,
+      "longitude": 17.098285
+    },
+    {
+      "name": "Rabštejn",
+      "latitude": 49.947952,
+      "longitude": 17.150338
+    },
+    {
+      "name": "Výhled na Janoslavice",
+      "latitude": 49.848536,
+      "longitude": 16.982197
+    },
+    {
+      "name": "Bradlo",
+      "latitude": 49.854073,
+      "longitude": 17.054327
+    },
+    {
+      "name": "Křížový vrch",
+      "latitude": 49.862854,
+      "longitude": 17.178379
+    },
+    {
+      "name": "Rozhledna Velký Roudný",
+      "latitude": 49.891222,
+      "longitude": 17.522596
+    },
+    {
+      "name": "Rozhledna Hanse Kudlicha",
+      "latitude": 50.050491,
+      "longitude": 17.733262
+    },
+    {
+      "name": "Struhalův dub",
+      "latitude": 49.953698,
+      "longitude": 18.124643
+    },
+    {
+      "name": "Vyhlídkové místo",
+      "latitude": 49.881708,
+      "longitude": 17.862187
+    },
+    {
+      "name": "Vyhlídkové místo",
+      "latitude": 49.875505,
+      "longitude": 17.84994
+    },
+    {
+      "name": "Bellarie",
+      "latitude": 49.845886,
+      "longitude": 17.8476
+    },
+    {
+      "name": "Bezručova vyhlídka",
+      "latitude": 49.855998,
+      "longitude": 17.8682
+    },
+    {
+      "name": "Beethovenova vyhlídka",
+      "latitude": 49.86102,
+      "longitude": 17.874096
+    },
+    {
+      "name": "Leonardova vyhlídka",
+      "latitude": 49.861185,
+      "longitude": 17.873519
+    },
+    {
+      "name": "U Krizove Cesty",
+      "latitude": 49.862355,
+      "longitude": 17.884638
+    },
+    {
+      "name": "Vyhlídka Žimrovická skála",
+      "latitude": 49.86114,
+      "longitude": 17.858748
+    },
+    {
+      "name": "Šance",
+      "latitude": 49.850455,
+      "longitude": 17.915924
+    },
+    {
+      "name": "Kaple Nejsvětější Trojice",
+      "latitude": 49.915636,
+      "longitude": 18.269094
+    },
+    {
+      "name": "Brdlice",
+      "latitude": 49.880993,
+      "longitude": 17.935795
+    },
+    {
+      "name": "Fotopoint Vršovice",
+      "latitude": 49.882488,
+      "longitude": 17.93874
+    },
+    {
+      "name": "Englišova vyhlídka",
+      "latitude": 49.889902,
+      "longitude": 18.042317
+    },
+    {
+      "name": "Vyhlídková plošina",
+      "latitude": 49.874196,
+      "longitude": 18.259399
+    },
+    {
+      "name": "Wieża widokowa Graniczne Meandry Odry",
+      "latitude": 49.935041,
+      "longitude": 18.341294
+    },
+    {
+      "name": "Halda Ema",
+      "latitude": 49.839694,
+      "longitude": 18.3146
+    },
+    {
+      "name": "Výhled na celou Ostravu",
+      "latitude": 49.84331,
+      "longitude": 18.30084
+    },
+    {
+      "name": "Chacharova vyhlídka",
+      "latitude": 49.846142,
+      "longitude": 18.300741
+    },
+    {
+      "name": "Nová Radnice",
+      "latitude": 49.841729,
+      "longitude": 18.291693
+    },
+    {
+      "name": "Arboretum",
+      "latitude": 49.817301,
+      "longitude": 17.222492
+    },
+    {
+      "name": "Kočičí vrch",
+      "latitude": 49.801656,
+      "longitude": 17.431014
+    },
+    {
+      "name": "Zelená budka",
+      "latitude": 49.733315,
+      "longitude": 17.306973
+    },
+    {
+      "name": "Baba - 639",
+      "latitude": 49.732051,
+      "longitude": 17.424721
+    },
+    {
+      "name": "Panoráma Jeseníků",
+      "latitude": 49.657002,
+      "longitude": 17.038771
+    },
+    {
+      "name": "Malý Rabštýn",
+      "latitude": 49.722911,
+      "longitude": 17.45175
+    },
+    {
+      "name": "swing_gate",
+      "latitude": 49.693891,
+      "longitude": 17.481294
+    },
+    {
+      "name": "Ornitologická pozorovatelna",
+      "latitude": 49.653058,
+      "longitude": 17.231219
+    },
+    {
+      "name": "Svatý Kopeček",
+      "latitude": 49.629085,
+      "longitude": 17.337533
+    },
+    {
+      "name": "vyhlídková věž",
+      "latitude": 49.634138,
+      "longitude": 17.340447
+    },
+    {
+      "name": "Bílý kámen",
+      "latitude": 49.619853,
+      "longitude": 17.453098
+    },
+    {
+      "name": "Strážisko",
+      "latitude": 49.637006,
+      "longitude": 17.478428
+    },
+    {
+      "name": "Kašparova vyhlídka",
+      "latitude": 49.624496,
+      "longitude": 17.445121
+    },
+    {
+      "name": "Rozhledna Halaška",
+      "latitude": 49.811542,
+      "longitude": 17.608847
+    },
+    {
+      "name": "Vyhlídka u osady Jánské Koupele",
+      "latitude": 49.834362,
+      "longitude": 17.711615
+    },
+    {
+      "name": "Těchanovická vyhlídka",
+      "latitude": 49.816306,
+      "longitude": 17.681031
+    },
+    {
+      "name": "Lorelei",
+      "latitude": 49.819548,
+      "longitude": 17.710558
+    },
+    {
+      "name": "Hradní věž",
+      "latitude": 49.804336,
+      "longitude": 17.773164
+    },
+    {
+      "name": "Skalní ostroh",
+      "latitude": 49.803373,
+      "longitude": 17.774715
+    },
+    {
+      "name": "Vyhlídková věž \"Vikšejn\"",
+      "latitude": 49.80433,
+      "longitude": 17.773167
+    },
+    {
+      "name": "Rozhledna Slatina",
+      "latitude": 49.803229,
+      "longitude": 17.9843
+    },
+    {
+      "name": "Bolt Tower",
+      "latitude": 49.819391,
+      "longitude": 18.276676
+    },
+    {
+      "name": "Památná lípa na Láni",
+      "latitude": 49.792855,
+      "longitude": 18.116933
+    },
+    {
+      "name": "ptačí pozorovatelna",
+      "latitude": 49.803335,
+      "longitude": 18.202203
+    },
+    {
+      "name": "rozhledna Kanihůra",
+      "latitude": 49.732408,
+      "longitude": 18.010195
+    },
+    {
+      "name": "Hoher Stein",
+      "latitude": 49.721072,
+      "longitude": 17.639082
+    },
+    {
+      "name": "Orlí skála",
+      "latitude": 49.723164,
+      "longitude": 17.731645
+    },
+    {
+      "name": "Švédská skála",
+      "latitude": 49.713736,
+      "longitude": 17.754395
+    },
+    {
+      "name": "Vyhlídka U jelena",
+      "latitude": 49.621531,
+      "longitude": 17.620696
+    },
+    {
+      "name": "Výhled na Beskydy",
+      "latitude": 49.630615,
+      "longitude": 17.712843
+    },
+    {
+      "name": "Veselská rozhledna",
+      "latitude": 49.643151,
+      "longitude": 17.809302
+    },
+    {
+      "name": "rozhledna Olšová",
+      "latitude": 49.661674,
+      "longitude": 17.877321
+    },
+    {
+      "name": "Okrouhlá",
+      "latitude": 49.680616,
+      "longitude": 18.277475
+    },
+    {
+      "name": "Prchalovská vyhlídka",
+      "latitude": 49.644247,
+      "longitude": 18.111199
+    },
+    {
+      "name": "Rozhledna Panorama",
+      "latitude": 49.649104,
+      "longitude": 18.270945
+    },
+    {
+      "name": "LOVEčka",
+      "latitude": 49.61742,
+      "longitude": 18.188087
+    },
+    {
+      "name": "Vyhlídka Myslík",
+      "latitude": 49.617257,
+      "longitude": 18.261242
+    },
+    {
+      "name": "Strážná",
+      "latitude": 49.561575,
+      "longitude": 16.971611
+    },
+    {
+      "name": "Bašta",
+      "latitude": 49.513044,
+      "longitude": 16.88496
+    },
+    {
+      "name": "Rozhledna Velký Kosíř",
+      "latitude": 49.548292,
+      "longitude": 17.061886
+    },
+    {
+      "name": "Vyhlídkové místo u Honzíkova kříže",
+      "latitude": 49.460832,
+      "longitude": 16.877894
+    },
+    {
+      "name": "Vyhlídka na vodní nádrž Plumlov",
+      "latitude": 49.467956,
+      "longitude": 17.040267
+    },
+    {
+      "name": "Sřed Moravy",
+      "latitude": 49.385645,
+      "longitude": 17.122914
+    },
+    {
+      "name": "Římská věž",
+      "latitude": 49.451964,
+      "longitude": 17.532733
+    },
+    {
+      "name": "Vyhlídka",
+      "latitude": 49.577576,
+      "longitude": 17.62476
+    },
+    {
+      "name": "Obírka",
+      "latitude": 49.576646,
+      "longitude": 17.586714
+    },
+    {
+      "name": "Vyhlídka u sv. Jana",
+      "latitude": 49.538232,
+      "longitude": 17.745478
+    },
+    {
+      "name": "Zřícenina hradu Svrčov",
+      "latitude": 49.537146,
+      "longitude": 17.747593
+    },
+    {
+      "name": "Věž",
+      "latitude": 49.583184,
+      "longitude": 17.963197
+    },
+    {
+      "name": "Raškova vyhlídka",
+      "latitude": 49.583637,
+      "longitude": 18.162861
+    },
+    {
+      "name": "Bezručova vyhlídka",
+      "latitude": 49.589957,
+      "longitude": 18.158897
+    },
+    {
+      "name": "Vyhlídkové místo na Štramberk",
+      "latitude": 49.593083,
+      "longitude": 18.120881
+    },
+    {
+      "name": "Rozhledna Bílá hora",
+      "latitude": 49.594295,
+      "longitude": 18.126401
+    },
+    {
+      "name": "Štramberská trúba",
+      "latitude": 49.592351,
+      "longitude": 18.116245
+    },
+    {
+      "name": "zvonička",
+      "latitude": 49.605799,
+      "longitude": 18.251234
+    },
+    {
+      "name": "Kabuďův vrch",
+      "latitude": 49.604221,
+      "longitude": 18.195047
+    },
+    {
+      "name": "Výhled na Štramberk",
+      "latitude": 49.536621,
+      "longitude": 18.178623
+    },
+    {
+      "name": "Pod Janíkem",
+      "latitude": 49.546194,
+      "longitude": 18.197869
+    },
+    {
+      "name": "Radniční věž",
+      "latitude": 49.54715,
+      "longitude": 18.211746
+    },
+    {
+      "name": "Vlčina",
+      "latitude": 49.542674,
+      "longitude": 18.195067
+    },
+    {
+      "name": "Markův kopec",
+      "latitude": 49.537979,
+      "longitude": 18.223748
+    },
+    {
+      "name": "rozhledna Kelčský Javorník",
+      "latitude": 49.400111,
+      "longitude": 17.765495
+    },
+    {
+      "name": "Vyhlídka na zvonici",
+      "latitude": 49.491965,
+      "longitude": 18.222662
+    },
+    {
+      "name": "Vyhlídka od hotelu Radegast",
+      "latitude": 49.489128,
+      "longitude": 18.225218
+    },
+    {
+      "name": "Stezka Valaška",
+      "latitude": 49.493382,
+      "longitude": 18.267921
+    },
+    {
+      "name": "Cyrilka",
+      "latitude": 49.484936,
+      "longitude": 18.261232
+    },
+    {
+      "name": "Jurkovičova rozhledna",
+      "latitude": 49.462393,
+      "longitude": 18.158718
+    },
+    {
+      "name": "Vyhlídka na Beskydy",
+      "latitude": 49.779048,
+      "longitude": 18.425002
+    },
+    {
+      "name": "Rozhledna Soběšovice",
+      "latitude": 49.728572,
+      "longitude": 18.462543
+    },
+    {
+      "name": "Widok na Czeski Cieszyn",
+      "latitude": 49.75103,
+      "longitude": 18.625162
+    },
+    {
+      "name": "Bezručova vyhlídka",
+      "latitude": 49.712783,
+      "longitude": 18.363411
+    },
+    {
+      "name": "Lišky",
+      "latitude": 49.624011,
+      "longitude": 18.33229
+    },
+    {
+      "name": "Na Magoni",
+      "latitude": 49.619734,
+      "longitude": 18.306309
+    },
+    {
+      "name": "Vyhlídka nad Vysutým",
+      "latitude": 49.623883,
+      "longitude": 18.497251
+    },
+    {
+      "name": "Rozhledna Velká Čantoryje",
+      "latitude": 49.678705,
+      "longitude": 18.804559
+    },
+    {
+      "name": "chata Hrádek",
+      "latitude": 49.616894,
+      "longitude": 18.770883
+    },
+    {
+      "name": "Loučka",
+      "latitude": 49.625407,
+      "longitude": 18.781994
+    },
+    {
+      "name": "tvrz Zamčiska",
+      "latitude": 49.611134,
+      "longitude": 18.737324
+    },
+    {
+      "name": "Solárka",
+      "latitude": 49.580854,
+      "longitude": 18.31982
+    },
+    {
+      "name": "Pohled od sjezdovky Morávka - Sviňorky směrem severovýchod",
+      "latitude": 49.588695,
+      "longitude": 18.516891
+    },
+    {
+      "name": "Vyhled Nad Jizdarnou",
+      "latitude": 49.605269,
+      "longitude": 18.526621
+    },
+    {
+      "name": "Pohled z úbočí Malého Travného",
+      "latitude": 49.560675,
+      "longitude": 18.543572
+    },
+    {
+      "name": "Opálená",
+      "latitude": 49.553574,
+      "longitude": 18.312051
+    },
+    {
+      "name": "Medvědí skála",
+      "latitude": 49.552062,
+      "longitude": 18.399894
+    },
+    {
+      "name": "Widok na Kotlinę Ostrawską",
+      "latitude": 49.605614,
+      "longitude": 18.823135
+    },
+    {
+      "name": "Girova",
+      "latitude": 49.531643,
+      "longitude": 18.800123
+    },
+    {
+      "name": "Rozhledna Tetřev",
+      "latitude": 49.51072,
+      "longitude": 18.696427
+    },
+    {
+      "name": "Zbojnická",
+      "latitude": 49.436291,
+      "longitude": 18.464706
+    },
+    {
+      "name": "Vyhlídková plošina na kopci Kozlov",
+      "latitude": 49.346824,
+      "longitude": 17.182371
+    },
+    {
+      "name": "Chocholík",
+      "latitude": 49.279678,
+      "longitude": 16.937711
+    },
+    {
+      "name": "Vyhlídka Vladimíra Foltánka",
+      "latitude": 49.282407,
+      "longitude": 16.946127
+    },
+    {
+      "name": "Vyhlídka U andílka",
+      "latitude": 49.312419,
+      "longitude": 17.249254
+    },
+    {
+      "name": "Štátula",
+      "latitude": 49.30296,
+      "longitude": 17.238121
+    },
+    {
+      "name": "Vyhlídka \"u Martina\"",
+      "latitude": 49.250597,
+      "longitude": 16.914481
+    },
+    {
+      "name": "Zouvalka",
+      "latitude": 49.252178,
+      "longitude": 17.0162
+    },
+    {
+      "name": "Kamenný stůl",
+      "latitude": 49.222295,
+      "longitude": 17.252571
+    },
+    {
+      "name": "Rozhledna Zdenička",
+      "latitude": 49.217064,
+      "longitude": 17.282488
+    },
+    {
+      "name": "Rozhledna Brdo",
+      "latitude": 49.170684,
+      "longitude": 17.308221
+    },
+    {
+      "name": "Výhled na chatu Bunč",
+      "latitude": 49.181627,
+      "longitude": 17.348111
+    },
+    {
+      "name": "Rozhledna Maruška",
+      "latitude": 49.365913,
+      "longitude": 17.828383
+    },
+    {
+      "name": "Vartovna",
+      "latitude": 49.269996,
+      "longitude": 17.938775
+    },
+    {
+      "name": "Na Strážné",
+      "latitude": 49.255434,
+      "longitude": 17.596004
+    },
+    {
+      "name": "21",
+      "latitude": 49.223154,
+      "longitude": 17.658902
+    },
+    {
+      "name": "Vyhlídka pod Barabášem",
+      "latitude": 49.214174,
+      "longitude": 17.66575
+    },
+    {
+      "name": "Vyhlídka Barborka",
+      "latitude": 49.2665,
+      "longitude": 17.828572
+    },
+    {
+      "name": "Šibeniční vrch",
+      "latitude": 49.223092,
+      "longitude": 17.872049
+    },
+    {
+      "name": "Vyhlídka u hrušky",
+      "latitude": 49.233434,
+      "longitude": 17.915203
+    },
+    {
+      "name": "Vyhlídka Samuela Šroma",
+      "latitude": 49.162312,
+      "longitude": 17.623977
+    },
+    {
+      "name": "Doubrava",
+      "latitude": 49.183773,
+      "longitude": 17.872877
+    },
+    {
+      "name": "Vyhlídkové místo Nad vlekem",
+      "latitude": 49.166403,
+      "longitude": 17.835683
+    },
+    {
+      "name": "Vyhlídka Malhotky 269 m.n.m",
+      "latitude": 49.149002,
+      "longitude": 17.05424
+    },
+    {
+      "name": "Cimburk",
+      "latitude": 49.103556,
+      "longitude": 17.215553
+    },
+    {
+      "name": "Koryčanská kaple",
+      "latitude": 49.081679,
+      "longitude": 17.199117
+    },
+    {
+      "name": "Bukovanský mlýn",
+      "latitude": 49.040278,
+      "longitude": 17.09125
+    },
+    {
+      "name": "kamen s vyhlidkou",
+      "latitude": 49.139013,
+      "longitude": 17.252578
+    },
+    {
+      "name": "rozhledna Salaš",
+      "latitude": 49.142858,
+      "longitude": 17.352212
+    },
+    {
+      "name": "Vrše",
+      "latitude": 49.120875,
+      "longitude": 17.262389
+    },
+    {
+      "name": "Rozhledna Modrá",
+      "latitude": 49.119027,
+      "longitude": 17.403294
+    },
+    {
+      "name": "rozhledna Doubí",
+      "latitude": 49.039138,
+      "longitude": 17.303703
+    },
+    {
+      "name": "Rozhledna Rovnina",
+      "latitude": 49.0715,
+      "longitude": 17.513163
+    },
+    {
+      "name": "Vyhlídka Soudek",
+      "latitude": 48.981885,
+      "longitude": 17.033413
+    },
+    {
+      "name": "Náklo",
+      "latitude": 48.938372,
+      "longitude": 17.137362
+    },
+    {
+      "name": "Rozhledna Floriánka",
+      "latitude": 49.03782,
+      "longitude": 17.326398
+    },
+    {
+      "name": "Výpust u Vlčnova",
+      "latitude": 49.012088,
+      "longitude": 17.546905
+    },
+    {
+      "name": "Rozhledna Radošov",
+      "latitude": 48.925021,
+      "longitude": 17.428162
+    },
+    {
+      "name": "Jardova vyhlídka",
+      "latitude": 49.139688,
+      "longitude": 17.737953
+    },
+    {
+      "name": "Rozhledna Lhotka",
+      "latitude": 49.056799,
+      "longitude": 17.588228
+    },
+    {
+      "name": "Vyhlídka sv. Kryštofa",
+      "latitude": 49.08045,
+      "longitude": 17.872469
+    },
+    {
+      "name": "Pozorovatelna Durch",
+      "latitude": 49.146743,
+      "longitude": 18.079057
+    },
+    {
+      "name": "Rozhledna U Cyrila Bureše",
+      "latitude": 49.133931,
+      "longitude": 18.038405
+    },
+    {
+      "name": "Na Skalce",
+      "latitude": 49.02512,
+      "longitude": 17.844448
+    },
+    {
+      "name": "Machnáč",
+      "latitude": 48.926346,
+      "longitude": 17.889394
+    },
+    {
+      "name": "Rozhledna Miloňová",
+      "latitude": 49.380708,
+      "longitude": 18.337963
+    },
+    {
+      "name": "Rozhľadňa Stratenec",
+      "latitude": 49.315065,
+      "longitude": 18.334999
+    },
+    {
+      "name": "Hajnýho vyhlídka u Májky",
+      "latitude": 48.915006,
+      "longitude": 13.798741
+    },
+    {
+      "name": "Soumarské rašeliniště",
+      "latitude": 48.901564,
+      "longitude": 13.836702
+    },
+    {
+      "name": "Stožecká skála",
+      "latitude": 48.873502,
+      "longitude": 13.821267
+    },
+    {
+      "name": "vyhlídková plošina",
+      "latitude": 48.922337,
+      "longitude": 13.905798
+    },
+    {
+      "name": "Hochstein",
+      "latitude": 48.784807,
+      "longitude": 13.802759
+    },
+    {
+      "name": "Výhled na Plešné jezero",
+      "latitude": 48.776503,
+      "longitude": 13.857523
+    },
+    {
+      "name": "Kučerova vyhlídka",
+      "latitude": 48.774682,
+      "longitude": 13.855401
+    },
+    {
+      "name": "Dreisesselblick",
+      "latitude": 48.771885,
+      "longitude": 13.845029
+    },
+    {
+      "name": "Blick zum Plöckenstein",
+      "latitude": 48.770846,
+      "longitude": 13.853604
+    },
+    {
+      "name": "vyhlídka do dálky \"Koňský vrch\"",
+      "latitude": 48.776009,
+      "longitude": 13.871484
+    },
+    {
+      "name": "Výhled na Plešné jezero",
+      "latitude": 48.777738,
+      "longitude": 13.858435
+    },
+    {
+      "name": "Na Nebičku",
+      "latitude": 48.799666,
+      "longitude": 14.05625
+    },
+    {
+      "name": "Vyhlídka nad Fedlem",
+      "latitude": 48.765686,
+      "longitude": 14.054666
+    },
+    {
+      "name": "Rozhledna Dobrá Voda",
+      "latitude": 48.772445,
+      "longitude": 14.032651
+    },
+    {
+      "name": "Stinglfelsen",
+      "latitude": 48.734502,
+      "longitude": 13.913142
+    },
+    {
+      "name": "Bayerische Au",
+      "latitude": 48.673057,
+      "longitude": 14.05919
+    },
+    {
+      "name": "Panorama Jamné",
+      "latitude": 48.906497,
+      "longitude": 14.405377
+    },
+    {
+      "name": "Kleť rozhledna",
+      "latitude": 48.865525,
+      "longitude": 14.283261
+    },
+    {
+      "name": "Rajovské skály",
+      "latitude": 48.84296,
+      "longitude": 14.374922
+    },
+    {
+      "name": "Vyhlídka u kostela",
+      "latitude": 48.809973,
+      "longitude": 14.315981
+    },
+    {
+      "name": "Vyhlídka Oldřicha Fencla",
+      "latitude": 48.843633,
+      "longitude": 14.557183
+    },
+    {
+      "name": "Vyhlídka na samotě u lesa",
+      "latitude": 48.750606,
+      "longitude": 14.30546
+    },
+    {
+      "name": "Lipno Panorama",
+      "latitude": 48.716394,
+      "longitude": 14.079317
+    },
+    {
+      "name": "Slabošovka",
+      "latitude": 48.790408,
+      "longitude": 14.538433
+    },
+    {
+      "name": "No motor vehicles",
+      "latitude": 48.890695,
+      "longitude": 14.9612
+    },
+    {
+      "name": "Hoch über Harbach",
+      "latitude": 48.719536,
+      "longitude": 14.792721
+    },
+    {
+      "name": "Stezka korunami stromů Lipno",
+      "latitude": 48.652673,
+      "longitude": 14.230653
+    },
+    {
+      "name": "Kraví hora",
+      "latitude": 48.633994,
+      "longitude": 14.320251
+    },
+    {
+      "name": "Kuhberg -  Kraví Hora",
+      "latitude": 48.633988,
+      "longitude": 14.320269
+    },
+    {
+      "name": "Vyhlídka pana Šalamouna",
+      "latitude": 48.653818,
+      "longitude": 14.365546
+    },
+    {
+      "name": "Malonty U Jákla",
+      "latitude": 48.682152,
+      "longitude": 14.587954
+    },
+    {
+      "name": "Nad Vaněčkem",
+      "latitude": 48.656828,
+      "longitude": 14.599054
+    },
+    {
+      "name": "U Ludvických Hor",
+      "latitude": 48.659849,
+      "longitude": 14.600801
+    },
+    {
+      "name": "Grázlova vyhlídka",
+      "latitude": 48.891737,
+      "longitude": 15.636686
+    },
+    {
+      "name": "Vyhlídka zamilovaných",
+      "latitude": 48.89519,
+      "longitude": 15.818941
+    },
+    {
+      "name": "Hallamasskova vyhlídka",
+      "latitude": 48.893495,
+      "longitude": 15.81008
+    },
+    {
+      "name": "Claryho kříž",
+      "latitude": 48.906287,
+      "longitude": 15.822405
+    },
+    {
+      "name": "Schwalbenfelsen",
+      "latitude": 48.865088,
+      "longitude": 15.840599
+    },
+    {
+      "name": "Überstieg",
+      "latitude": 48.843482,
+      "longitude": 15.892109
+    },
+    {
+      "name": "Henner",
+      "latitude": 48.850396,
+      "longitude": 15.864339
+    },
+    {
+      "name": "Hardegger Warte",
+      "latitude": 48.85743,
+      "longitude": 15.860993
+    },
+    {
+      "name": "Umlaufblick",
+      "latitude": 48.840585,
+      "longitude": 15.888472
+    },
+    {
+      "name": "Železné schody",
+      "latitude": 48.824981,
+      "longitude": 15.967401
+    },
+    {
+      "name": "vyhlídka Devět mlýnů",
+      "latitude": 48.810892,
+      "longitude": 15.980889
+    },
+    {
+      "name": "Vyhlídka čtyř ročních období",
+      "latitude": 48.855397,
+      "longitude": 16.041978
+    },
+    {
+      "name": "Králův stolec",
+      "latitude": 48.844544,
+      "longitude": 16.003463
+    },
+    {
+      "name": "Sealsfieldův kámen",
+      "latitude": 48.837162,
+      "longitude": 15.998215
+    },
+    {
+      "name": "rotunda Sv. Kateřiny",
+      "latitude": 48.855007,
+      "longitude": 16.043401
+    },
+    {
+      "name": "Karolínina brána",
+      "latitude": 48.854239,
+      "longitude": 16.045931
+    },
+    {
+      "name": "Špalkova vyhlídka",
+      "latitude": 48.839964,
+      "longitude": 16.031388
+    },
+    {
+      "name": "Vlkova věž",
+      "latitude": 48.853595,
+      "longitude": 16.05129
+    },
+    {
+      "name": "Radniční věž",
+      "latitude": 48.855496,
+      "longitude": 16.048787
+    },
+    {
+      "name": "Rozhledna Heidbergwarte",
+      "latitude": 48.74276,
+      "longitude": 16.097823
+    },
+    {
+      "name": "Vyhlídka Nad Soutěskou",
+      "latitude": 48.864784,
+      "longitude": 16.643227
+    },
+    {
+      "name": "Pavlov",
+      "latitude": 48.87198,
+      "longitude": 16.655645
+    },
+    {
+      "name": "U Obrázku",
+      "latitude": 48.915099,
+      "longitude": 16.784204
+    },
+    {
+      "name": "Rozhledna Slunečná",
+      "latitude": 48.905362,
+      "longitude": 16.833721
+    },
+    {
+      "name": "Vyhlídka Floriánek",
+      "latitude": 48.908303,
+      "longitude": 16.824754
+    },
+    {
+      "name": "Kozí hrádek",
+      "latitude": 48.809545,
+      "longitude": 16.638067
+    },
+    {
+      "name": "Rozhledna U majáku na Přítlucké hoře",
+      "latitude": 48.863854,
+      "longitude": 16.771059
+    },
+    {
+      "name": "Svatý kopeček",
+      "latitude": 48.806259,
+      "longitude": 16.646733
+    },
+    {
+      "name": "Vyhlídková věž Lednická kolonáda",
+      "latitude": 48.792575,
+      "longitude": 16.818526
+    },
+    {
+      "name": "Weingartlhöhe",
+      "latitude": 48.709089,
+      "longitude": 16.842599
+    },
+    {
+      "name": "Vyhlídka na výsluní",
+      "latitude": 48.902828,
+      "longitude": 16.947173
+    },
+    {
+      "name": "rozhledna Vyšicko",
+      "latitude": 48.920548,
+      "longitude": 17.021792
+    },
+    {
+      "name": "Na Podluží",
+      "latitude": 48.862878,
+      "longitude": 16.967409
+    },
+    {
+      "name": "Čertova stěna",
+      "latitude": 48.920541,
+      "longitude": 17.274073
+    },
+    {
+      "name": "Travičná",
+      "latitude": 48.860061,
+      "longitude": 17.365644
+    },
+    {
+      "name": "Rozhladňa Žalostiná",
+      "latitude": 48.817639,
+      "longitude": 17.42739
+    },
+    {
+      "name": "Vtáčia pozorovateľňa",
+      "latitude": 48.72668,
+      "longitude": 17.032314
+    },
+    {
+      "name": "Lesná",
+      "latitude": 48.89768,
+      "longitude": 17.649365
+    },
+    {
+      "name": "Rozhledna Obecnice",
+      "latitude": 48.91411,
+      "longitude": 17.670224
+    },
+    {
+      "name": "Korytňanská rozhledna",
+      "latitude": 48.914103,
+      "longitude": 17.670213
+    },
+    {
+      "name": "Rozhledna Velký Lopeník",
+      "latitude": 48.916748,
+      "longitude": 17.782594
+    },
+    {
+      "name": "Jelenec",
+      "latitude": 48.860533,
+      "longitude": 17.702963
+    },
+    {
+      "name": "Veľká Javorina",
+      "latitude": 48.857733,
+      "longitude": 17.675702
+    },
+    {
+      "name": "Soutok Moravy a Dyje",
+      "latitude": 48.617151,
+      "longitude": 16.940484
+    }
+  ],
+  "meta": {
+    "title": "Vyhlídky - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných vyhlídek v České republice (1368 záznamů) — body zájmu z OpenStreetMap (tag tourism=viewpoint), výřez EU-POIS/CZ. Obsahuje 1368 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Vyhlídky | ListBase",
+    "seo_description": "Stáhnout Vyhlídky — 1368 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1368 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

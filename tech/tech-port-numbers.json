@@ -1,0 +1,575 @@
+{
+  "id": "tech-port-numbers",
+  "name": "Dataset Běžných Čísel Síťových Portů a Služeb",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "number"
+    },
+    {
+      "key": "protocol",
+      "label": "Protocol",
+      "type": "string"
+    },
+    {
+      "key": "service",
+      "label": "Service (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": 20,
+      "protocol": "TCP",
+      "service": "Data FTP",
+      "category": "Přenos Souborů",
+      "description": "Protokol pro přenos souborů - přenos dat"
+    },
+    {
+      "port": 21,
+      "protocol": "TCP",
+      "service": "Ovládání FTP",
+      "category": "Přenos Souborů",
+      "description": "Protokol pro přenos souborů - příkaz/řízení"
+    },
+    {
+      "port": 22,
+      "protocol": "TCP",
+      "service": "SSH",
+      "category": "Vzdálený Přístup",
+      "description": "Secure Shell - šifrované vzdálené přihlášení"
+    },
+    {
+      "port": 23,
+      "protocol": "TCP",
+      "service": "Telnet",
+      "category": "Vzdálený Přístup",
+      "description": "Telnet - nešifrované vzdálené přihlášení (starší)"
+    },
+    {
+      "port": 25,
+      "protocol": "TCP",
+      "service": "SMTP",
+      "category": "E-mail",
+      "description": "Simple Mail Transfer Protocol - odesílání e-mailů"
+    },
+    {
+      "port": 53,
+      "protocol": "TCP/UDP",
+      "service": "DNS",
+      "category": "Síť",
+      "description": "Domain Name System - překlad názvů hostitelů"
+    },
+    {
+      "port": 67,
+      "protocol": "UDP",
+      "service": "DHCP Server",
+      "category": "Síť",
+      "description": "Dynamic Host Configuration Protocol - server"
+    },
+    {
+      "port": 68,
+      "protocol": "UDP",
+      "service": "DHCP Klient",
+      "category": "Síť",
+      "description": "Dynamic Host Configuration Protocol - klient"
+    },
+    {
+      "port": 69,
+      "protocol": "UDP",
+      "service": "TFTP",
+      "category": "Přenos Souborů",
+      "description": "Trivial File Transfer Protocol"
+    },
+    {
+      "port": 80,
+      "protocol": "TCP",
+      "service": "HTTP",
+      "category": "Web",
+      "description": "Hypertext Transfer Protocol - webový provoz"
+    },
+    {
+      "port": 110,
+      "protocol": "TCP",
+      "service": "POP3",
+      "category": "E-mail",
+      "description": "Post Office Protocol v3 - příjem e-mailů"
+    },
+    {
+      "port": 119,
+      "protocol": "TCP",
+      "service": "NNTP",
+      "category": "Zprávy",
+      "description": "Network News Transfer Protocol"
+    },
+    {
+      "port": 123,
+      "protocol": "UDP",
+      "service": "NTP",
+      "category": "Síť",
+      "description": "Network Time Protocol - synchronizace času"
+    },
+    {
+      "port": 135,
+      "protocol": "TCP",
+      "service": "RPC",
+      "category": "Windows",
+      "description": "Microsoft RPC Endpoint Mapper"
+    },
+    {
+      "port": 137,
+      "protocol": "UDP",
+      "service": "NetBIOS-NS",
+      "category": "Windows",
+      "description": "Služba názvů NetBIOS"
+    },
+    {
+      "port": 138,
+      "protocol": "UDP",
+      "service": "NetBIOS-DGM",
+      "category": "Windows",
+      "description": "Služba datagramů NetBIOS"
+    },
+    {
+      "port": 139,
+      "protocol": "TCP",
+      "service": "NetBIOS-SSN",
+      "category": "Windows",
+      "description": "Služba relací NetBIOS"
+    },
+    {
+      "port": 143,
+      "protocol": "TCP",
+      "service": "IMAP",
+      "category": "E-mail",
+      "description": "Internet Message Access Protocol"
+    },
+    {
+      "port": 161,
+      "protocol": "UDP",
+      "service": "SNMP",
+      "category": "Síť",
+      "description": "Simple Network Management Protocol"
+    },
+    {
+      "port": 162,
+      "protocol": "UDP",
+      "service": "SNMP Trap",
+      "category": "Síť",
+      "description": "SNMP Trap - oznámení"
+    },
+    {
+      "port": 179,
+      "protocol": "TCP",
+      "service": "BGP",
+      "category": "Síť",
+      "description": "Protokol Border Gateway - směrování"
+    },
+    {
+      "port": 194,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Chat",
+      "description": "Internet Relay Chat"
+    },
+    {
+      "port": 389,
+      "protocol": "TCP",
+      "service": "LDAP",
+      "category": "Adresář",
+      "description": "Protokol pro odlehčený přístup k adresářům"
+    },
+    {
+      "port": 443,
+      "protocol": "TCP",
+      "service": "HTTPS",
+      "category": "Web",
+      "description": "HTTP Secure - šifrovaný webový provoz"
+    },
+    {
+      "port": 445,
+      "protocol": "TCP",
+      "service": "SMB",
+      "category": "Sdílení souborů",
+      "description": "Server Message Block - sdílení souborů Windows"
+    },
+    {
+      "port": 465,
+      "protocol": "TCP",
+      "service": "SMTPS",
+      "category": "E-mail",
+      "description": "SMTP přes SSL (zastaralé, použijte 587)"
+    },
+    {
+      "port": 500,
+      "protocol": "UDP",
+      "service": "IKE",
+      "category": "VPN",
+      "description": "Internet Key Exchange - IPsec VPN"
+    },
+    {
+      "port": 514,
+      "protocol": "UDP",
+      "service": "Syslog",
+      "category": "Protokolování",
+      "description": "Protokol systémového logování"
+    },
+    {
+      "port": 515,
+      "protocol": "TCP",
+      "service": "LPD",
+      "category": "Tisk",
+      "description": "Line Printer Daemon - tisk"
+    },
+    {
+      "port": 520,
+      "protocol": "UDP",
+      "service": "RIP",
+      "category": "Síť",
+      "description": "Protokol směrovacích informací"
+    },
+    {
+      "port": 546,
+      "protocol": "UDP",
+      "service": "Klient DHCPv6",
+      "category": "Síť",
+      "description": "DHCP pro IPv6 - klient"
+    },
+    {
+      "port": 547,
+      "protocol": "UDP",
+      "service": "Server DHCPv6",
+      "category": "Síť",
+      "description": "DHCP pro IPv6 - server"
+    },
+    {
+      "port": 587,
+      "protocol": "TCP",
+      "service": "Odesílání pošty SMTP",
+      "category": "E-mail",
+      "description": "Odesílání pošty (preferováno pro odesílání)"
+    },
+    {
+      "port": 636,
+      "protocol": "TCP",
+      "service": "LDAPS",
+      "category": "Adresář",
+      "description": "LDAP přes SSL/TLS"
+    },
+    {
+      "port": 993,
+      "protocol": "TCP",
+      "service": "IMAPS",
+      "category": "E-mail",
+      "description": "IMAP přes SSL/TLS"
+    },
+    {
+      "port": 995,
+      "protocol": "TCP",
+      "service": "POP3S",
+      "category": "E-mail",
+      "description": "POP3 přes SSL/TLS"
+    },
+    {
+      "port": 1080,
+      "protocol": "TCP",
+      "service": "SOCKS",
+      "category": "Proxy",
+      "description": "Protokol proxy SOCKS"
+    },
+    {
+      "port": 1194,
+      "protocol": "UDP",
+      "service": "OpenVPN",
+      "category": "VPN",
+      "description": "Výchozí port OpenVPN"
+    },
+    {
+      "port": 1433,
+      "protocol": "TCP",
+      "service": "MSSQL",
+      "category": "Databáze",
+      "description": "Microsoft SQL Server"
+    },
+    {
+      "port": 1434,
+      "protocol": "UDP",
+      "service": "Prohlížeč MSSQL",
+      "category": "Databáze",
+      "description": "Služba Prohlížeče SQL Server"
+    },
+    {
+      "port": 1521,
+      "protocol": "TCP",
+      "service": "Oracle DB",
+      "category": "Databáze",
+      "description": "Posluchač databáze Oracle"
+    },
+    {
+      "port": 1723,
+      "protocol": "TCP",
+      "service": "PPTP",
+      "category": "VPN",
+      "description": "Point-to-Point Tunneling Protocol"
+    },
+    {
+      "port": 1883,
+      "protocol": "TCP",
+      "service": "MQTT",
+      "category": "IoT",
+      "description": "Protokol pro přenos telemetrických zpráv ve frontě"
+    },
+    {
+      "port": 2049,
+      "protocol": "TCP/UDP",
+      "service": "NFS",
+      "category": "Sdílení souborů",
+      "description": "Síťový souborový systém"
+    },
+    {
+      "port": 2082,
+      "protocol": "TCP",
+      "service": "cPanel",
+      "category": "Webhosting",
+      "description": "Výchozí port cPanelu"
+    },
+    {
+      "port": 2083,
+      "protocol": "TCP",
+      "service": "cPanel SSL",
+      "category": "Webhosting",
+      "description": "cPanel přes SSL"
+    },
+    {
+      "port": 2181,
+      "protocol": "TCP",
+      "service": "ZooKeeper",
+      "category": "Distribuované",
+      "description": "Apache ZooKeeper"
+    },
+    {
+      "port": 2375,
+      "protocol": "TCP",
+      "service": "Docker",
+      "category": "Kontejnery",
+      "description": "Docker REST API (nešifrované)"
+    },
+    {
+      "port": 2376,
+      "protocol": "TCP",
+      "service": "Docker TLS",
+      "category": "Kontejnery",
+      "description": "Docker REST API (TLS)"
+    },
+    {
+      "port": 3000,
+      "protocol": "TCP",
+      "service": "Dev Server",
+      "category": "Vývoj",
+      "description": "Vývojový server Node.js/React/Rails"
+    },
+    {
+      "port": 3306,
+      "protocol": "TCP",
+      "service": "MySQL",
+      "category": "Databáze",
+      "description": "Databáze MySQL/MariaDB"
+    },
+    {
+      "port": 3389,
+      "protocol": "TCP",
+      "service": "RDP",
+      "category": "Vzdálený přístup",
+      "description": "Protokol vzdálené plochy (Windows)"
+    },
+    {
+      "port": 4443,
+      "protocol": "TCP",
+      "service": "Pharos",
+      "category": "Web",
+      "description": "Alternativní HTTPS port"
+    },
+    {
+      "port": 5000,
+      "protocol": "TCP",
+      "service": "Flask/UPnP",
+      "category": "Vývoj",
+      "description": "Python Flask / objevování UPnP"
+    },
+    {
+      "port": 5432,
+      "protocol": "TCP",
+      "service": "PostgreSQL",
+      "category": "Databáze",
+      "description": "Databáze PostgreSQL"
+    },
+    {
+      "port": 5672,
+      "protocol": "TCP",
+      "service": "AMQP",
+      "category": "Zasílání zpráv",
+      "description": "Výchozí port RabbitMQ"
+    },
+    {
+      "port": 5900,
+      "protocol": "TCP",
+      "service": "VNC",
+      "category": "Vzdálený přístup",
+      "description": "Virtuální síťové počítání"
+    },
+    {
+      "port": 6379,
+      "protocol": "TCP",
+      "service": "Redis",
+      "category": "Databáze",
+      "description": "Databáze Redis v paměti"
+    },
+    {
+      "port": 6443,
+      "protocol": "TCP",
+      "service": "Kubernetes API",
+      "category": "Kontejnery",
+      "description": "Server Kubernetes API"
+    },
+    {
+      "port": 6667,
+      "protocol": "TCP",
+      "service": "IRC",
+      "category": "Chat",
+      "description": "Výchozí port IRC"
+    },
+    {
+      "port": 8000,
+      "protocol": "TCP",
+      "service": "Alternativní HTTP",
+      "category": "Vývoj",
+      "description": "Alternativní HTTP / Vývoj Django"
+    },
+    {
+      "port": 8080,
+      "protocol": "TCP",
+      "service": "HTTP Proxy",
+      "category": "Web",
+      "description": "HTTP proxy / alternativní HTTP"
+    },
+    {
+      "port": 8443,
+      "protocol": "TCP",
+      "service": "Alternativní HTTPS",
+      "category": "Web",
+      "description": "Alternativní port HTTPS"
+    },
+    {
+      "port": 8888,
+      "protocol": "TCP",
+      "service": "Jupyter",
+      "category": "Vývoj",
+      "description": "Výchozí Jupyter Notebook"
+    },
+    {
+      "port": 9000,
+      "protocol": "TCP",
+      "service": "PHP-FPM",
+      "category": "Web",
+      "description": "Správce procesů PHP FastCGI"
+    },
+    {
+      "port": 9090,
+      "protocol": "TCP",
+      "service": "Prometheus",
+      "category": "Monitorování",
+      "description": "Server metrik Prometheus"
+    },
+    {
+      "port": 9092,
+      "protocol": "TCP",
+      "service": "Kafka",
+      "category": "Zasílání zpráv",
+      "description": "Broker Apache Kafka"
+    },
+    {
+      "port": 9200,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Vyhledávání",
+      "description": "Elasticsearch REST API"
+    },
+    {
+      "port": 9300,
+      "protocol": "TCP",
+      "service": "Elasticsearch",
+      "category": "Vyhledávání",
+      "description": "Komunikace uzlů Elasticsearch"
+    },
+    {
+      "port": 11211,
+      "protocol": "TCP",
+      "service": "Memcached",
+      "category": "Mezipaměť",
+      "description": "Systém ukládání do mezipaměti Memcached"
+    },
+    {
+      "port": 27017,
+      "protocol": "TCP",
+      "service": "MongoDB",
+      "category": "Databáze",
+      "description": "Databáze MongoDB"
+    },
+    {
+      "port": 27018,
+      "protocol": "TCP",
+      "service": "MongoDB Shard",
+      "category": "Databáze",
+      "description": "Server shardů MongoDB"
+    },
+    {
+      "port": 27019,
+      "protocol": "TCP",
+      "service": "Konfigurace MongoDB",
+      "category": "Databáze",
+      "description": "Server konfigurace MongoDB"
+    }
+  ],
+  "meta": {
+    "seo_title": "Seznam Běžných Síťových Portů - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma dataset 73 běžných síťových portů (TCP/UDP), služeb a protokolů. K dispozici ve formátech Excel, CSV a PDF pro síťové správce, vývojáře a studenty.",
+    "title": "Dataset Běžných Čísel Síťových Portů a Služeb",
+    "description": "Tento dataset poskytuje komplexní seznam 73 běžných čísel síťových portů, včetně jejich souvisejících protokolů (TCP/UDP), služeb, kategorií a popisů. Ideální pro síťové profesionály, vývojáře a studenty.",
+    "key_takeaways": [
+      "Získejte přístup k vybranému seznamu 73 základních čísel síťových portů TCP/UDP a služeb.",
+      "Prozkoumejte podrobné popisy a kategorie pro běžné síťové protokoly.",
+      "Stáhněte si data čísel portů okamžitě ve formátech Excel, CSV nebo PDF.",
+      "Využijte tato data pro audity zabezpečení sítě, konfiguraci a učení."
+    ],
+    "keywords": [
+      "běžné síťové porty",
+      "tcp udp porty",
+      "dataset síťových služeb",
+      "stáhnout porty excel csv",
+      "seznam síťových protokolů",
+      "data portů zdarma"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do své databáze SQL nebo jej použijte se skripty Python pro automatizaci a analýzu sítě.",
+      "Použijte soubor **Excel** k filtrování, řazení a analýze dat portů, vytváření zpráv nebo referenčních listů pro správu sítě.",
+      "Vytiskněte **PDF** verzi pro rychlou offline referenci, materiály pro výuku ve třídě nebo interní síťovou dokumentaci.",
+      "Odkazujte se na tento dataset k rychlé identifikaci neznámého síťového provozu, konfiguraci firewallů nebo řešení problémů s připojením."
+    ]
+  },
+  "record_count": 73,
+  "title": "Dataset Běžných Čísel Síťových Portů a Služeb"
+}

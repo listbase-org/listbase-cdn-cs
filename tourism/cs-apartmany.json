@@ -1,0 +1,3161 @@
+{
+  "id": "cs-apartmany",
+  "name": "Apartmány",
+  "title": "Apartmány",
+  "description": "Seznam pojmenovaných apartmánů v České republice (624 záznamů) — body zájmu z OpenStreetMap (tag tourism=apartment), výřez EU-POIS/CZ.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 624,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Fox House",
+      "latitude": 50.805687,
+      "longitude": 14.014465
+    },
+    {
+      "name": "Ferienwohnung Kubis",
+      "latitude": 50.736494,
+      "longitude": 13.772535
+    },
+    {
+      "name": "Refugio",
+      "latitude": 50.785837,
+      "longitude": 14.029733
+    },
+    {
+      "name": "U Sylwii",
+      "latitude": 50.965792,
+      "longitude": 14.355668
+    },
+    {
+      "name": "Ferienwohnung Annelies",
+      "latitude": 50.980878,
+      "longitude": 14.601814
+    },
+    {
+      "name": "Waldhufenhaus Schöna",
+      "latitude": 50.883741,
+      "longitude": 14.229984
+    },
+    {
+      "name": "Apartmány Celnice",
+      "latitude": 50.873838,
+      "longitude": 14.318176
+    },
+    {
+      "name": "Hrensko31",
+      "latitude": 50.874795,
+      "longitude": 14.243552
+    },
+    {
+      "name": "Ferienwohnung Bykowski",
+      "latitude": 50.925901,
+      "longitude": 14.610577
+    },
+    {
+      "name": "Kozí farma Žofín",
+      "latitude": 50.884517,
+      "longitude": 14.557541
+    },
+    {
+      "name": "AVe Ubytováni",
+      "latitude": 50.875204,
+      "longitude": 14.575411
+    },
+    {
+      "name": "Apartment Deny",
+      "latitude": 50.775291,
+      "longitude": 14.196463
+    },
+    {
+      "name": "Apartmány Jakubské náměstí",
+      "latitude": 50.799042,
+      "longitude": 14.417221
+    },
+    {
+      "name": "Sternedomizil",
+      "latitude": 50.839614,
+      "longitude": 14.73169
+    },
+    {
+      "name": "Ferienwohnung Oybinblick",
+      "latitude": 50.832753,
+      "longitude": 14.72152
+    },
+    {
+      "name": "Johannishof",
+      "latitude": 50.833275,
+      "longitude": 14.721297
+    },
+    {
+      "name": "Ferienwohnung-in-Jonsdorf",
+      "latitude": 50.844043,
+      "longitude": 14.702237
+    },
+    {
+      "name": "Haus Els",
+      "latitude": 50.845195,
+      "longitude": 14.703928
+    },
+    {
+      "name": "Villa Tanneck & Red Rock Resort",
+      "latitude": 50.832725,
+      "longitude": 14.723031
+    },
+    {
+      "name": "Ferienhaus Isabelle",
+      "latitude": 50.83368,
+      "longitude": 14.721682
+    },
+    {
+      "name": "CHALUPA",
+      "latitude": 50.791885,
+      "longitude": 14.488819
+    },
+    {
+      "name": "Apartmany HABR",
+      "latitude": 50.923355,
+      "longitude": 15.243348
+    },
+    {
+      "name": "Apartmány Smrk.eu",
+      "latitude": 50.915914,
+      "longitude": 15.205261
+    },
+    {
+      "name": "JCamp",
+      "latitude": 50.918901,
+      "longitude": 15.234996
+    },
+    {
+      "name": "U sloních kamenů",
+      "latitude": 50.794059,
+      "longitude": 14.85024
+    },
+    {
+      "name": "Apartmány Friday",
+      "latitude": 50.772979,
+      "longitude": 15.05584
+    },
+    {
+      "name": "Apartmány Terasy Café",
+      "latitude": 50.77348,
+      "longitude": 15.055241
+    },
+    {
+      "name": "Pension Rafael",
+      "latitude": 50.789493,
+      "longitude": 15.146926
+    },
+    {
+      "name": "Apartmány U Dostálů",
+      "latitude": 50.789288,
+      "longitude": 15.144748
+    },
+    {
+      "name": "PRIM Apartmány",
+      "latitude": 50.789257,
+      "longitude": 15.146695
+    },
+    {
+      "name": "Penzion Pod Kostelem",
+      "latitude": 50.789824,
+      "longitude": 15.146366
+    },
+    {
+      "name": "Apartmány Kunc",
+      "latitude": 50.789933,
+      "longitude": 15.145215
+    },
+    {
+      "name": "Apartmány Maxov",
+      "latitude": 50.762331,
+      "longitude": 15.219042
+    },
+    {
+      "name": "Pod Špičákem",
+      "latitude": 50.749807,
+      "longitude": 15.251719
+    },
+    {
+      "name": "U Ludvíčka",
+      "latitude": 50.749801,
+      "longitude": 15.251558
+    },
+    {
+      "name": "Am Aschberg",
+      "latitude": 50.377158,
+      "longitude": 12.489915
+    },
+    {
+      "name": "Ferienwohnung Schindler",
+      "latitude": 50.386779,
+      "longitude": 12.496082
+    },
+    {
+      "name": "Apartmány Bublava",
+      "latitude": 50.372787,
+      "longitude": 12.506726
+    },
+    {
+      "name": "Am Hengstfelsen",
+      "latitude": 50.598525,
+      "longitude": 13.31711
+    },
+    {
+      "name": "Ferienhaus Rosemarie",
+      "latitude": 50.60716,
+      "longitude": 13.324494
+    },
+    {
+      "name": "Baldauf",
+      "latitude": 50.594995,
+      "longitude": 13.284266
+    },
+    {
+      "name": "Ferienwohnung Haustein",
+      "latitude": 50.52503,
+      "longitude": 13.199245
+    },
+    {
+      "name": "Holiday Home Moldava",
+      "latitude": 50.720642,
+      "longitude": 13.656996
+    },
+    {
+      "name": "Chata u Koníků",
+      "latitude": 50.720392,
+      "longitude": 13.655669
+    },
+    {
+      "name": "Ferienwohnungen Rasehorn",
+      "latitude": 50.720911,
+      "longitude": 13.686414
+    },
+    {
+      "name": "Oleschinsky",
+      "latitude": 50.735391,
+      "longitude": 13.657809
+    },
+    {
+      "name": "Ferienwohnung im Wiesenblick",
+      "latitude": 50.735638,
+      "longitude": 13.659484
+    },
+    {
+      "name": "Ski-Sonne-Rehefeld Ferienwohnungen",
+      "latitude": 50.728351,
+      "longitude": 13.704207
+    },
+    {
+      "name": "Ferienwohnung im Morgengründ`l Christian Reichelt",
+      "latitude": 50.614308,
+      "longitude": 13.446224
+    },
+    {
+      "name": "Ferienwohnung Rothen-Adler",
+      "latitude": 50.463661,
+      "longitude": 12.815541
+    },
+    {
+      "name": "Gästehaus Bleyl",
+      "latitude": 50.462158,
+      "longitude": 12.814111
+    },
+    {
+      "name": "Ferienzimmervermietung \"Zur alten Poststraße\"",
+      "latitude": 50.434015,
+      "longitude": 12.738698
+    },
+    {
+      "name": "Ferienwohnungen Rogowski",
+      "latitude": 50.457234,
+      "longitude": 12.830406
+    },
+    {
+      "name": "Ferienwohnung Sternknopf",
+      "latitude": 50.45703,
+      "longitude": 12.829452
+    },
+    {
+      "name": "Ferienvermietung Riedel",
+      "latitude": 50.433451,
+      "longitude": 12.894273
+    },
+    {
+      "name": "Schneider pension",
+      "latitude": 50.436544,
+      "longitude": 12.889873
+    },
+    {
+      "name": "apartman Boží Dar 211",
+      "latitude": 50.4134,
+      "longitude": 12.919729
+    },
+    {
+      "name": "Apartman 211",
+      "latitude": 50.413363,
+      "longitude": 12.919782
+    },
+    {
+      "name": "Apartmány Chajdovka",
+      "latitude": 50.411215,
+      "longitude": 12.919033
+    },
+    {
+      "name": "Lang's Ferienwohnungen",
+      "latitude": 50.418993,
+      "longitude": 12.972752
+    },
+    {
+      "name": "Ferienwohnung Hänel",
+      "latitude": 50.419888,
+      "longitude": 12.966033
+    },
+    {
+      "name": "Lehmann´s Ferienwohnungen",
+      "latitude": 50.419009,
+      "longitude": 12.966162
+    },
+    {
+      "name": "Haus Nietzoldt",
+      "latitude": 50.419621,
+      "longitude": 12.968262
+    },
+    {
+      "name": "Ferienhaus KuckucksNest",
+      "latitude": 50.429277,
+      "longitude": 12.954661
+    },
+    {
+      "name": "Fichtelberger Blick",
+      "latitude": 50.419743,
+      "longitude": 12.968942
+    },
+    {
+      "name": "Hollandhaus",
+      "latitude": 50.420784,
+      "longitude": 12.968896
+    },
+    {
+      "name": "Summit of Saxony",
+      "latitude": 50.422588,
+      "longitude": 12.969399
+    },
+    {
+      "name": "Rezidence Klínovec",
+      "latitude": 50.403107,
+      "longitude": 12.984512
+    },
+    {
+      "name": "Apartmány 126",
+      "latitude": 50.411542,
+      "longitude": 12.920015
+    },
+    {
+      "name": "Apartmány U tří smrků",
+      "latitude": 50.412456,
+      "longitude": 12.92217
+    },
+    {
+      "name": "Ferienhaus Freitag",
+      "latitude": 50.418903,
+      "longitude": 12.965069
+    },
+    {
+      "name": "Krušné Apartmany",
+      "latitude": 50.419798,
+      "longitude": 12.996997
+    },
+    {
+      "name": "Ferienwohnung Schmiedel",
+      "latitude": 50.50446,
+      "longitude": 13.020872
+    },
+    {
+      "name": "Waldzauber",
+      "latitude": 50.492111,
+      "longitude": 13.019493
+    },
+    {
+      "name": "Ferienwohnung Dick",
+      "latitude": 50.496479,
+      "longitude": 13.022523
+    },
+    {
+      "name": "Ferienwohnungen Markus Nitsch",
+      "latitude": 50.498736,
+      "longitude": 13.026286
+    },
+    {
+      "name": "Ferienwohnung Göckeritz",
+      "latitude": 50.49687,
+      "longitude": 13.025914
+    },
+    {
+      "name": "Chata Krušnohorka",
+      "latitude": 50.436469,
+      "longitude": 13.041223
+    },
+    {
+      "name": "Lejček",
+      "latitude": 50.420573,
+      "longitude": 13.116235
+    },
+    {
+      "name": "Apartmány Slanda",
+      "latitude": 50.421314,
+      "longitude": 13.115872
+    },
+    {
+      "name": "Chalupa pod Mědníkem",
+      "latitude": 50.420943,
+      "longitude": 13.116139
+    },
+    {
+      "name": "Apartmán Pod Mědníkem",
+      "latitude": 50.421511,
+      "longitude": 13.113561
+    },
+    {
+      "name": "Chalupa Mědník",
+      "latitude": 50.421633,
+      "longitude": 13.11651
+    },
+    {
+      "name": "Sport",
+      "latitude": 50.420572,
+      "longitude": 13.116476
+    },
+    {
+      "name": "U medvěda",
+      "latitude": 50.420771,
+      "longitude": 13.116308
+    },
+    {
+      "name": "Chalupa Bärringen",
+      "latitude": 50.368092,
+      "longitude": 12.783702
+    },
+    {
+      "name": "Bytovka",
+      "latitude": 50.339671,
+      "longitude": 13.120776
+    },
+    {
+      "name": "Dvorec černiv",
+      "latitude": 50.44489,
+      "longitude": 14.059908
+    },
+    {
+      "name": "Apartmán Penelope",
+      "latitude": 50.326265,
+      "longitude": 13.542533
+    },
+    {
+      "name": "Ferienwohnungen König",
+      "latitude": 50.277316,
+      "longitude": 12.234785
+    },
+    {
+      "name": "Ferienwohnungen Dr. Hofmann",
+      "latitude": 50.277063,
+      "longitude": 12.230891
+    },
+    {
+      "name": "Haus Waldeck",
+      "latitude": 50.277307,
+      "longitude": 12.231667
+    },
+    {
+      "name": "Ubytování Dukelská",
+      "latitude": 50.221334,
+      "longitude": 12.193883
+    },
+    {
+      "name": "HD Apartmán",
+      "latitude": 50.124618,
+      "longitude": 12.347001
+    },
+    {
+      "name": "Česká",
+      "latitude": 50.125921,
+      "longitude": 12.346423
+    },
+    {
+      "name": "Apartma Františkovy Lázně",
+      "latitude": 50.123397,
+      "longitude": 12.348027
+    },
+    {
+      "name": "Apartments Dream",
+      "latitude": 50.126077,
+      "longitude": 12.34821
+    },
+    {
+      "name": "Apartmán Provence",
+      "latitude": 50.125488,
+      "longitude": 12.347872
+    },
+    {
+      "name": "Luxury homes",
+      "latitude": 50.087383,
+      "longitude": 12.380223
+    },
+    {
+      "name": "Komuna",
+      "latitude": 50.0883,
+      "longitude": 12.381536
+    },
+    {
+      "name": "Bydlení Na konci ulice",
+      "latitude": 50.088101,
+      "longitude": 12.383466
+    },
+    {
+      "name": "Cazare CHEB",
+      "latitude": 50.064899,
+      "longitude": 12.375074
+    },
+    {
+      "name": "Ferienhaus Zintl",
+      "latitude": 50.011093,
+      "longitude": 12.377105
+    },
+    {
+      "name": "Ferienwohnung Rustler",
+      "latitude": 50.009031,
+      "longitude": 12.379095
+    },
+    {
+      "name": "Ferienwohnung Gmeiner",
+      "latitude": 50.010928,
+      "longitude": 12.374603
+    },
+    {
+      "name": "Apartmán U Trnků",
+      "latitude": 50.049334,
+      "longitude": 12.630966
+    },
+    {
+      "name": "Ferienwohnung Bayer",
+      "latitude": 49.985949,
+      "longitude": 12.418611
+    },
+    {
+      "name": "Holiday Apartments",
+      "latitude": 50.234655,
+      "longitude": 12.875383
+    },
+    {
+      "name": "Holiday Apartments",
+      "latitude": 50.233872,
+      "longitude": 12.871949
+    },
+    {
+      "name": "Apartmány Svatošské skály",
+      "latitude": 50.192515,
+      "longitude": 12.814222
+    },
+    {
+      "name": "Nostalgia",
+      "latitude": 50.230681,
+      "longitude": 12.869426
+    },
+    {
+      "name": "Apartments Nicol",
+      "latitude": 50.223349,
+      "longitude": 12.891498
+    },
+    {
+      "name": "Zeyerova17",
+      "latitude": 50.230519,
+      "longitude": 12.869432
+    },
+    {
+      "name": "Petrin14",
+      "latitude": 50.222248,
+      "longitude": 12.888014
+    },
+    {
+      "name": "U Zabora",
+      "latitude": 50.223032,
+      "longitude": 12.886017
+    },
+    {
+      "name": "Apartmány U Arény",
+      "latitude": 50.223198,
+      "longitude": 12.843058
+    },
+    {
+      "name": "Apartmán Maxmilián",
+      "latitude": 50.229749,
+      "longitude": 12.870313
+    },
+    {
+      "name": "Karlsbad Prestige",
+      "latitude": 50.223345,
+      "longitude": 12.883541
+    },
+    {
+      "name": "Holiday Apartments",
+      "latitude": 50.230123,
+      "longitude": 12.870438
+    },
+    {
+      "name": "Festival",
+      "latitude": 50.223414,
+      "longitude": 12.88535
+    },
+    {
+      "name": "Relax apartmán Mlejnice",
+      "latitude": 50.147951,
+      "longitude": 13.907181
+    },
+    {
+      "name": "Vinný apartmán",
+      "latitude": 50.105736,
+      "longitude": 13.731027
+    },
+    {
+      "name": "Apartmány Rozmarýn",
+      "latitude": 50.106727,
+      "longitude": 13.730616
+    },
+    {
+      "name": "Prameny 15",
+      "latitude": 50.048286,
+      "longitude": 12.730052
+    },
+    {
+      "name": "Marienbad Apartment",
+      "latitude": 49.973988,
+      "longitude": 12.702888
+    },
+    {
+      "name": "Chalupa Garage U Barbory",
+      "latitude": 50.001006,
+      "longitude": 13.71504
+    },
+    {
+      "name": "Apartmány Olšinky",
+      "latitude": 50.65928,
+      "longitude": 14.081796
+    },
+    {
+      "name": "Apartmány Meandry",
+      "latitude": 50.660857,
+      "longitude": 14.724814
+    },
+    {
+      "name": "Apartmány Atrium",
+      "latitude": 50.535668,
+      "longitude": 14.13208
+    },
+    {
+      "name": "Apartmány v Zátiší",
+      "latitude": 50.586488,
+      "longitude": 14.628574
+    },
+    {
+      "name": "U Leknínu",
+      "latitude": 50.574778,
+      "longitude": 14.692453
+    },
+    {
+      "name": "Statek Pod Sluncem",
+      "latitude": 50.689058,
+      "longitude": 14.904434
+    },
+    {
+      "name": "Penzion Král",
+      "latitude": 50.71363,
+      "longitude": 15.166909
+    },
+    {
+      "name": "Apartmány Nedrik",
+      "latitude": 50.720531,
+      "longitude": 15.423806
+    },
+    {
+      "name": "Apartmán u Nováků",
+      "latitude": 50.728437,
+      "longitude": 15.43568
+    },
+    {
+      "name": "Na Zvonici",
+      "latitude": 50.725437,
+      "longitude": 15.399317
+    },
+    {
+      "name": "Penzion Ve Stodole",
+      "latitude": 50.702404,
+      "longitude": 15.348363
+    },
+    {
+      "name": "Apartmány Jabloneček",
+      "latitude": 50.704256,
+      "longitude": 15.428881
+    },
+    {
+      "name": "Apartmány Bejby Turnov",
+      "latitude": 50.592377,
+      "longitude": 15.162327
+    },
+    {
+      "name": "Apartments Šimákova Vila",
+      "latitude": 50.589702,
+      "longitude": 15.157773
+    },
+    {
+      "name": "Holiday home Loukov IV",
+      "latitude": 50.615827,
+      "longitude": 15.4075
+    },
+    {
+      "name": "Holiday home Loukov I",
+      "latitude": 50.615195,
+      "longitude": 15.407528
+    },
+    {
+      "name": "Apartmány Caffe & Grill",
+      "latitude": 50.420797,
+      "longitude": 14.252181
+    },
+    {
+      "name": "Apartments Kokořín",
+      "latitude": 50.430105,
+      "longitude": 14.566809
+    },
+    {
+      "name": "Penzion Kovárna",
+      "latitude": 50.411989,
+      "longitude": 15.295961
+    },
+    {
+      "name": "Apartman 3",
+      "latitude": 50.715139,
+      "longitude": 15.587276
+    },
+    {
+      "name": "Svatý Vavřinec",
+      "latitude": 50.695568,
+      "longitude": 15.737152
+    },
+    {
+      "name": "Apartmany Zlaty Hamr",
+      "latitude": 50.636462,
+      "longitude": 15.790543
+    },
+    {
+      "name": "Apartmány u lyžařského vleku",
+      "latitude": 50.634417,
+      "longitude": 15.782051
+    },
+    {
+      "name": "Horské Apartmány Zlatá Vyhlídka",
+      "latitude": 50.625867,
+      "longitude": 15.759321
+    },
+    {
+      "name": "Chalupa Baba Jaga",
+      "latitude": 50.649111,
+      "longitude": 15.899246
+    },
+    {
+      "name": "Villa Anna",
+      "latitude": 50.618551,
+      "longitude": 15.709642
+    },
+    {
+      "name": "Apartmány Hladíkova Výšina",
+      "latitude": 50.617822,
+      "longitude": 15.770216
+    },
+    {
+      "name": "Apartmán KLUGE 1909",
+      "latitude": 50.595462,
+      "longitude": 15.73304
+    },
+    {
+      "name": "Apartmán u starého pivovaru",
+      "latitude": 50.595357,
+      "longitude": 15.733053
+    },
+    {
+      "name": "Soví Hnízdo Apartment De Lux",
+      "latitude": 50.595487,
+      "longitude": 15.732862
+    },
+    {
+      "name": "Apartmány Sklípek",
+      "latitude": 50.578063,
+      "longitude": 15.944033
+    },
+    {
+      "name": "Apartmány Ve Mlýně",
+      "latitude": 50.584847,
+      "longitude": 16.172037
+    },
+    {
+      "name": "Apartmán233",
+      "latitude": 50.538054,
+      "longitude": 16.240681
+    },
+    {
+      "name": "Chata Mateřidouška",
+      "latitude": 50.511458,
+      "longitude": 16.026158
+    },
+    {
+      "name": "Pokoje Gościnne \"Pod Lwami\"",
+      "latitude": 50.439352,
+      "longitude": 16.235359
+    },
+    {
+      "name": "Apartamenty u Harrego",
+      "latitude": 50.438171,
+      "longitude": 16.206107
+    },
+    {
+      "name": "Apartamenty u Harrego II",
+      "latitude": 50.437888,
+      "longitude": 16.205578
+    },
+    {
+      "name": "Apartmány Olešnice",
+      "latitude": 50.372501,
+      "longitude": 16.308822
+    },
+    {
+      "name": "Nata",
+      "latitude": 50.339861,
+      "longitude": 16.382379
+    },
+    {
+      "name": "Bajka",
+      "latitude": 50.339646,
+      "longitude": 16.382497
+    },
+    {
+      "name": "Roubenka Petra",
+      "latitude": 50.298783,
+      "longitude": 16.371622
+    },
+    {
+      "name": "Strażnica pod Lasem",
+      "latitude": 50.302802,
+      "longitude": 16.463531
+    },
+    {
+      "name": "Hunger Wall Residence",
+      "latitude": 50.080726,
+      "longitude": 14.40567
+    },
+    {
+      "name": "St.Terezie - Baroque Residence apartment",
+      "latitude": 50.074953,
+      "longitude": 14.382706
+    },
+    {
+      "name": "Honest Apartments",
+      "latitude": 50.064327,
+      "longitude": 14.410252
+    },
+    {
+      "name": "Apartment Vltava Prague",
+      "latitude": 50.07775,
+      "longitude": 14.406026
+    },
+    {
+      "name": "Airbnb for Bitcoin",
+      "latitude": 50.100656,
+      "longitude": 14.452788
+    },
+    {
+      "name": "Pragueforyou Apartments",
+      "latitude": 50.086356,
+      "longitude": 14.442575
+    },
+    {
+      "name": "Castle And Charles Bridge View Apartment",
+      "latitude": 50.078811,
+      "longitude": 14.41431
+    },
+    {
+      "name": "Gabby's Place Apartment - short term rentals",
+      "latitude": 50.078013,
+      "longitude": 14.415162
+    },
+    {
+      "name": "MOOo Downtown",
+      "latitude": 50.077733,
+      "longitude": 14.417883
+    },
+    {
+      "name": "Ruterra apartment",
+      "latitude": 50.0848,
+      "longitude": 14.433204
+    },
+    {
+      "name": "Luxury Apartments Prag",
+      "latitude": 50.083105,
+      "longitude": 14.467295
+    },
+    {
+      "name": "Harry Potter apartments",
+      "latitude": 50.080123,
+      "longitude": 14.415191
+    },
+    {
+      "name": "Apartment Aida",
+      "latitude": 50.090273,
+      "longitude": 14.426093
+    },
+    {
+      "name": "Apartment Rybná 24",
+      "latitude": 50.090242,
+      "longitude": 14.426026
+    },
+    {
+      "name": "Residence V Tůních 14",
+      "latitude": 50.076844,
+      "longitude": 14.426889
+    },
+    {
+      "name": "Ai Quattro Angeli",
+      "latitude": 50.07964,
+      "longitude": 14.417649
+    },
+    {
+      "name": "Luxury apartment Spálená",
+      "latitude": 50.078882,
+      "longitude": 14.419141
+    },
+    {
+      "name": "Amadeus",
+      "latitude": 50.083531,
+      "longitude": 14.419933
+    },
+    {
+      "name": "A&A",
+      "latitude": 50.085254,
+      "longitude": 14.447592
+    },
+    {
+      "name": "Celetná 27 Residence",
+      "latitude": 50.087301,
+      "longitude": 14.425737
+    },
+    {
+      "name": "Týn Yard Residence",
+      "latitude": 50.088268,
+      "longitude": 14.424055
+    },
+    {
+      "name": "Pragueforyou apartments",
+      "latitude": 50.087142,
+      "longitude": 14.434061
+    },
+    {
+      "name": "Vinohradský dům",
+      "latitude": 50.074946,
+      "longitude": 14.430457
+    },
+    {
+      "name": "Roof apartments",
+      "latitude": 50.077435,
+      "longitude": 14.44028
+    },
+    {
+      "name": "Emporio",
+      "latitude": 50.09074,
+      "longitude": 14.42856
+    },
+    {
+      "name": "Nobilis Residence Prague",
+      "latitude": 50.075839,
+      "longitude": 14.429476
+    },
+    {
+      "name": "Art House Apartments by Adrez",
+      "latitude": 50.08817,
+      "longitude": 14.415707
+    },
+    {
+      "name": "Žižkov Cosy Studio Apartments",
+      "latitude": 50.083607,
+      "longitude": 14.44933
+    },
+    {
+      "name": "NaNa Flat",
+      "latitude": 50.078047,
+      "longitude": 14.432356
+    },
+    {
+      "name": "Valentina Apartments",
+      "latitude": 50.077534,
+      "longitude": 14.430725
+    },
+    {
+      "name": "City Nest",
+      "latitude": 50.080637,
+      "longitude": 14.421405
+    },
+    {
+      "name": "Hapimag Resort Prag",
+      "latitude": 50.079531,
+      "longitude": 14.429087
+    },
+    {
+      "name": "Chalupa Chotěšice",
+      "latitude": 50.277517,
+      "longitude": 15.272019
+    },
+    {
+      "name": "Apartmán Karlík",
+      "latitude": 50.151859,
+      "longitude": 15.133165
+    },
+    {
+      "name": "Apartmány Gráf",
+      "latitude": 50.059461,
+      "longitude": 14.221862
+    },
+    {
+      "name": "Germany",
+      "latitude": 50.063913,
+      "longitude": 14.441307
+    },
+    {
+      "name": "Bytovka stará Hostivařská přehrada",
+      "latitude": 50.037404,
+      "longitude": 14.541332
+    },
+    {
+      "name": "Wine Pension Prague",
+      "latitude": 50.002522,
+      "longitude": 14.424646
+    },
+    {
+      "name": "Na 15 kopách",
+      "latitude": 50.018455,
+      "longitude": 15.207519
+    },
+    {
+      "name": "Apartmany Za branou",
+      "latitude": 49.951645,
+      "longitude": 15.26603
+    },
+    {
+      "name": "Apartmány Ve starém pivovaru",
+      "latitude": 49.911281,
+      "longitude": 15.222445
+    },
+    {
+      "name": "Apartments Tomkova",
+      "latitude": 50.210306,
+      "longitude": 15.834347
+    },
+    {
+      "name": "Ubytovna Na Háječku",
+      "latitude": 50.217862,
+      "longitude": 15.85631
+    },
+    {
+      "name": "Stodola Borohrádek",
+      "latitude": 50.096417,
+      "longitude": 16.078645
+    },
+    {
+      "name": "Penzion Pašta",
+      "latitude": 50.217132,
+      "longitude": 16.462915
+    },
+    {
+      "name": "Nová Hájovna",
+      "latitude": 50.216845,
+      "longitude": 16.454515
+    },
+    {
+      "name": "Penzion Říčky",
+      "latitude": 50.214353,
+      "longitude": 16.464929
+    },
+    {
+      "name": "U Sněžného lva",
+      "latitude": 50.207354,
+      "longitude": 16.454021
+    },
+    {
+      "name": "Spaní na medu",
+      "latitude": 50.216353,
+      "longitude": 16.469114
+    },
+    {
+      "name": "Luz Blues",
+      "latitude": 50.169873,
+      "longitude": 16.559362
+    },
+    {
+      "name": "Apartmens VÍNO HRUŠKA",
+      "latitude": 50.040571,
+      "longitude": 15.780152
+    },
+    {
+      "name": "Ubytovna U Trojice",
+      "latitude": 50.032337,
+      "longitude": 15.745273
+    },
+    {
+      "name": "Vila Justyna",
+      "latitude": 50.028688,
+      "longitude": 15.808376
+    },
+    {
+      "name": "Ubytování Demokratické Mládeže 2704",
+      "latitude": 50.020154,
+      "longitude": 15.765346
+    },
+    {
+      "name": "Petra domu",
+      "latitude": 49.954728,
+      "longitude": 15.76054
+    },
+    {
+      "name": "Apartmán U Louky",
+      "latitude": 49.852709,
+      "longitude": 15.656159
+    },
+    {
+      "name": "Apartmány 13 Seč",
+      "latitude": 49.846797,
+      "longitude": 15.656299
+    },
+    {
+      "name": "Apartmány U Lípy",
+      "latitude": 49.844833,
+      "longitude": 15.802643
+    },
+    {
+      "name": "Budova fary",
+      "latitude": 49.718794,
+      "longitude": 12.859234
+    },
+    {
+      "name": "Apartmánový dům Americká",
+      "latitude": 49.55289,
+      "longitude": 13.069152
+    },
+    {
+      "name": "Chalupa Pivoň",
+      "latitude": 49.482587,
+      "longitude": 12.736392
+    },
+    {
+      "name": "Camping and guesthouse Pliskovice",
+      "latitude": 49.516077,
+      "longitude": 14.018947
+    },
+    {
+      "name": "Ferienhof J. Wurm",
+      "latitude": 49.263417,
+      "longitude": 13.049039
+    },
+    {
+      "name": "Penzion Keply a ekofarma Bílek",
+      "latitude": 49.201579,
+      "longitude": 13.352401
+    },
+    {
+      "name": "Penzion U Fanouše",
+      "latitude": 49.220915,
+      "longitude": 13.478998
+    },
+    {
+      "name": "Baron Apartment Sušice",
+      "latitude": 49.23173,
+      "longitude": 13.519027
+    },
+    {
+      "name": "Bašta",
+      "latitude": 49.229595,
+      "longitude": 13.518076
+    },
+    {
+      "name": "Apartmány U vlny",
+      "latitude": 49.166973,
+      "longitude": 13.451035
+    },
+    {
+      "name": "Ubytování u Volenců",
+      "latitude": 49.166791,
+      "longitude": 13.451172
+    },
+    {
+      "name": "Eden",
+      "latitude": 49.179928,
+      "longitude": 13.503073
+    },
+    {
+      "name": "Apartmán Červenka",
+      "latitude": 49.170128,
+      "longitude": 13.457619
+    },
+    {
+      "name": "Apartmán Mourek",
+      "latitude": 49.170142,
+      "longitude": 13.457689
+    },
+    {
+      "name": "Apartmán Sýkorka",
+      "latitude": 49.170167,
+      "longitude": 13.457707
+    },
+    {
+      "name": "Ubytování v Hartmanicích",
+      "latitude": 49.169924,
+      "longitude": 13.454529
+    },
+    {
+      "name": "Apartmány u Koláčků",
+      "latitude": 49.171198,
+      "longitude": 13.455869
+    },
+    {
+      "name": "Apartmány Nezdice na Šumavě",
+      "latitude": 49.173457,
+      "longitude": 13.612131
+    },
+    {
+      "name": "Ferienwohnung Wittenzellner",
+      "latitude": 49.125264,
+      "longitude": 13.195782
+    },
+    {
+      "name": "Rezidence Šumava",
+      "latitude": 49.13714,
+      "longitude": 13.233497
+    },
+    {
+      "name": "Restaurant Javor",
+      "latitude": 49.137047,
+      "longitude": 13.233115
+    },
+    {
+      "name": "Chata Rozhlas",
+      "latitude": 49.149019,
+      "longitude": 13.221885
+    },
+    {
+      "name": "Rezidence Klostermann",
+      "latitude": 49.137132,
+      "longitude": 13.233527
+    },
+    {
+      "name": "Ferienwohnungen Familie Gattermann",
+      "latitude": 49.124834,
+      "longitude": 13.190805
+    },
+    {
+      "name": "Apartmány Elisabeth",
+      "latitude": 49.121838,
+      "longitude": 13.209178
+    },
+    {
+      "name": "Falkenhof Ferienwohnungen",
+      "latitude": 49.123619,
+      "longitude": 13.195963
+    },
+    {
+      "name": "Apartmány Vydrýsek",
+      "latitude": 49.0971,
+      "longitude": 13.482485
+    },
+    {
+      "name": "Apartmány Karolína",
+      "latitude": 49.143377,
+      "longitude": 13.557355
+    },
+    {
+      "name": "Apartmány A.Ša",
+      "latitude": 49.142842,
+      "longitude": 13.553686
+    },
+    {
+      "name": "Apartmány Zámek - Vimperk",
+      "latitude": 49.055074,
+      "longitude": 13.772452
+    },
+    {
+      "name": "Dům U Jelena",
+      "latitude": 49.053609,
+      "longitude": 13.774559
+    },
+    {
+      "name": "Apartman Kublovi",
+      "latitude": 49.052266,
+      "longitude": 13.784776
+    },
+    {
+      "name": "Apartmán Na Strání",
+      "latitude": 49.057252,
+      "longitude": 13.767497
+    },
+    {
+      "name": "Apartmán U Štefků",
+      "latitude": 49.06662,
+      "longitude": 13.832685
+    },
+    {
+      "name": "Apartmány Na Soutoku",
+      "latitude": 49.024949,
+      "longitude": 13.498941
+    },
+    {
+      "name": "Chata Terezka",
+      "latitude": 49.019867,
+      "longitude": 13.578635
+    },
+    {
+      "name": "U hamru",
+      "latitude": 49.018717,
+      "longitude": 13.578196
+    },
+    {
+      "name": "Apartmá Kvilda",
+      "latitude": 49.016729,
+      "longitude": 13.579677
+    },
+    {
+      "name": "Apartmá Kvilda",
+      "latitude": 49.017374,
+      "longitude": 13.579619
+    },
+    {
+      "name": "Apartmán Šumavakvilda.cz",
+      "latitude": 49.017366,
+      "longitude": 13.579515
+    },
+    {
+      "name": "Bohemica Rustica",
+      "latitude": 49.020664,
+      "longitude": 13.580196
+    },
+    {
+      "name": "Kaštánek",
+      "latitude": 49.014673,
+      "longitude": 13.581308
+    },
+    {
+      "name": "Rosnatka",
+      "latitude": 49.015057,
+      "longitude": 13.581082
+    },
+    {
+      "name": "Apartmány Florian",
+      "latitude": 49.018133,
+      "longitude": 13.578845
+    },
+    {
+      "name": "U Špirků",
+      "latitude": 49.016584,
+      "longitude": 13.579704
+    },
+    {
+      "name": "Apartmány Hrachov",
+      "latitude": 49.664461,
+      "longitude": 14.29638
+    },
+    {
+      "name": "Chalupa - Záluží",
+      "latitude": 49.52768,
+      "longitude": 14.284875
+    },
+    {
+      "name": "Penzion Pod Moníncem",
+      "latitude": 49.551825,
+      "longitude": 14.518576
+    },
+    {
+      "name": "Apartmán Ve škole",
+      "latitude": 49.382654,
+      "longitude": 14.128037
+    },
+    {
+      "name": "Chata Jistec",
+      "latitude": 49.383201,
+      "longitude": 14.148061
+    },
+    {
+      "name": "Chata Vráž",
+      "latitude": 49.384279,
+      "longitude": 14.147365
+    },
+    {
+      "name": "Farma Hejlov",
+      "latitude": 49.444451,
+      "longitude": 14.635459
+    },
+    {
+      "name": "Stodola Želiv",
+      "latitude": 49.523509,
+      "longitude": 15.224007
+    },
+    {
+      "name": "Kamenná chalupa",
+      "latitude": 49.399899,
+      "longitude": 14.813145
+    },
+    {
+      "name": "Chata Pařížov",
+      "latitude": 49.830073,
+      "longitude": 15.569699
+    },
+    {
+      "name": "Chata U Hráze",
+      "latitude": 49.837326,
+      "longitude": 15.657123
+    },
+    {
+      "name": "Roubenka v Modletíně",
+      "latitude": 49.792718,
+      "longitude": 15.711132
+    },
+    {
+      "name": "Apartmány Toulovcovy Maštale \"Na Šumavě\"",
+      "latitude": 49.808593,
+      "longitude": 16.11411
+    },
+    {
+      "name": "Penzion U Šlechtičen",
+      "latitude": 49.666632,
+      "longitude": 16.094519
+    },
+    {
+      "name": "Apartmány Tři studně",
+      "latitude": 49.611926,
+      "longitude": 16.033163
+    },
+    {
+      "name": "Apartmány Tři studně",
+      "latitude": 49.612366,
+      "longitude": 16.032652
+    },
+    {
+      "name": "Ubytování Na Mlýně",
+      "latitude": 49.624462,
+      "longitude": 16.117432
+    },
+    {
+      "name": "Selské stavení",
+      "latitude": 49.618138,
+      "longitude": 16.200174
+    },
+    {
+      "name": "Apartmány Bystré",
+      "latitude": 49.628939,
+      "longitude": 16.346571
+    },
+    {
+      "name": "Chata NMNM",
+      "latitude": 49.582403,
+      "longitude": 16.059341
+    },
+    {
+      "name": "Penzion U Kocoura",
+      "latitude": 49.59421,
+      "longitude": 16.658946
+    },
+    {
+      "name": "Penzion U statkářky",
+      "latitude": 49.429543,
+      "longitude": 16.223627
+    },
+    {
+      "name": "Apartmán Moravský Kras",
+      "latitude": 49.408553,
+      "longitude": 16.640078
+    },
+    {
+      "name": "Apartmány U jeskyni",
+      "latitude": 49.408341,
+      "longitude": 16.736978
+    },
+    {
+      "name": "Apartmány Broušek",
+      "latitude": 49.405726,
+      "longitude": 16.738543
+    },
+    {
+      "name": "U devíti lvů",
+      "latitude": 49.296683,
+      "longitude": 14.468732
+    },
+    {
+      "name": "Bytovka",
+      "latitude": 49.266103,
+      "longitude": 14.524689
+    },
+    {
+      "name": "Apartmán Soběslav",
+      "latitude": 49.260417,
+      "longitude": 14.717825
+    },
+    {
+      "name": "Apartmán na náměstí",
+      "latitude": 49.25971,
+      "longitude": 14.720502
+    },
+    {
+      "name": "Dům Skala",
+      "latitude": 49.236843,
+      "longitude": 15.402879
+    },
+    {
+      "name": "JK Apollo",
+      "latitude": 49.129166,
+      "longitude": 14.129526
+    },
+    {
+      "name": "Residence Hluboká",
+      "latitude": 49.049839,
+      "longitude": 14.438852
+    },
+    {
+      "name": "Apartmány Přeseka",
+      "latitude": 49.039053,
+      "longitude": 14.730276
+    },
+    {
+      "name": "Marine Závlahy",
+      "latitude": 49.026255,
+      "longitude": 14.445635
+    },
+    {
+      "name": "Apartmány Elzet",
+      "latitude": 49.003672,
+      "longitude": 14.763379
+    },
+    {
+      "name": "Hroznovka",
+      "latitude": 48.975843,
+      "longitude": 14.475996
+    },
+    {
+      "name": "Penzion relax Martina",
+      "latitude": 48.942194,
+      "longitude": 14.478722
+    },
+    {
+      "name": "Statek Číměř",
+      "latitude": 49.061491,
+      "longitude": 15.076178
+    },
+    {
+      "name": "nádraží Hůrky",
+      "latitude": 49.045383,
+      "longitude": 15.158061
+    },
+    {
+      "name": "Ekofarma Happy Goat, s.r.o.",
+      "latitude": 49.059406,
+      "longitude": 15.273582
+    },
+    {
+      "name": "Apartmany 21 Třeboň",
+      "latitude": 49.004324,
+      "longitude": 14.772059
+    },
+    {
+      "name": "Apartmany Na sadech",
+      "latitude": 49.004491,
+      "longitude": 14.7661
+    },
+    {
+      "name": "Fafliku",
+      "latitude": 49.002992,
+      "longitude": 14.771803
+    },
+    {
+      "name": "Altes Zollhaus",
+      "latitude": 48.962798,
+      "longitude": 14.979439
+    },
+    {
+      "name": "U kolobezky",
+      "latitude": 48.997975,
+      "longitude": 15.350298
+    },
+    {
+      "name": "Ubytování na faře",
+      "latitude": 48.999007,
+      "longitude": 15.350359
+    },
+    {
+      "name": "U Tomana",
+      "latitude": 49.195178,
+      "longitude": 16.607088
+    },
+    {
+      "name": "Euro Apartments",
+      "latitude": 49.19138,
+      "longitude": 16.62568
+    },
+    {
+      "name": "Design apartments Lužánky",
+      "latitude": 49.20454,
+      "longitude": 16.613252
+    },
+    {
+      "name": "Apartmány Vranov",
+      "latitude": 48.937158,
+      "longitude": 15.714866
+    },
+    {
+      "name": "U lesního muže",
+      "latitude": 48.994549,
+      "longitude": 15.981424
+    },
+    {
+      "name": "Chalupa na Mlatě",
+      "latitude": 48.971812,
+      "longitude": 15.897817
+    },
+    {
+      "name": "Penzion u Jandů",
+      "latitude": 49.044317,
+      "longitude": 16.318147
+    },
+    {
+      "name": "Apartmán V aleji",
+      "latitude": 49.152217,
+      "longitude": 16.863323
+    },
+    {
+      "name": "Kovárna Černá Voda",
+      "latitude": 50.310359,
+      "longitude": 17.153009
+    },
+    {
+      "name": "Apartmá Domeček",
+      "latitude": 50.226356,
+      "longitude": 17.136176
+    },
+    {
+      "name": "Apartmány Růženka",
+      "latitude": 50.228853,
+      "longitude": 17.149
+    },
+    {
+      "name": "Mezi pařezy",
+      "latitude": 50.280292,
+      "longitude": 17.312773
+    },
+    {
+      "name": "Na samotě u lesa",
+      "latitude": 50.279883,
+      "longitude": 17.313367
+    },
+    {
+      "name": "Apartmány pod Sokolkou",
+      "latitude": 50.104156,
+      "longitude": 17.134154
+    },
+    {
+      "name": "Apartmány Vojtěška",
+      "latitude": 50.091859,
+      "longitude": 17.0942
+    },
+    {
+      "name": "Apartmány Pod Zálesím",
+      "latitude": 50.092032,
+      "longitude": 17.094329
+    },
+    {
+      "name": "Apartmán U Zámku",
+      "latitude": 50.070856,
+      "longitude": 17.089853
+    },
+    {
+      "name": "Kristian",
+      "latitude": 50.015727,
+      "longitude": 17.080401
+    },
+    {
+      "name": "Apartmány Karlov",
+      "latitude": 50.022923,
+      "longitude": 17.279412
+    },
+    {
+      "name": "Chalupa Mezi Kopci",
+      "latitude": 50.021563,
+      "longitude": 17.331524
+    },
+    {
+      "name": "Vila Liběna",
+      "latitude": 49.868118,
+      "longitude": 18.26323
+    },
+    {
+      "name": "Vila Na Landeku",
+      "latitude": 49.867869,
+      "longitude": 18.259131
+    },
+    {
+      "name": "Apartmány a Ubytování Mlýnice",
+      "latitude": 49.702145,
+      "longitude": 17.073118
+    },
+    {
+      "name": "Na VRŠKU",
+      "latitude": 49.633253,
+      "longitude": 16.944258
+    },
+    {
+      "name": "Maringotka ZA HUMNY",
+      "latitude": 49.632345,
+      "longitude": 16.949246
+    },
+    {
+      "name": "U Šípků",
+      "latitude": 49.824278,
+      "longitude": 18.124015
+    },
+    {
+      "name": "Domov",
+      "latitude": 49.83142,
+      "longitude": 18.249292
+    },
+    {
+      "name": "Vodní mlýn Wesselsky",
+      "latitude": 49.685597,
+      "longitude": 17.797997
+    },
+    {
+      "name": "Byty",
+      "latitude": 49.612561,
+      "longitude": 18.107421
+    },
+    {
+      "name": "U babičky na venkově",
+      "latitude": 49.539336,
+      "longitude": 17.519908
+    },
+    {
+      "name": "Resort Radslavice",
+      "latitude": 49.480624,
+      "longitude": 17.517135
+    },
+    {
+      "name": "Sušilova 14",
+      "latitude": 49.449203,
+      "longitude": 17.454001
+    },
+    {
+      "name": "Vila Rosenaw",
+      "latitude": 49.457444,
+      "longitude": 18.138957
+    },
+    {
+      "name": "Apartmány u Holubů",
+      "latitude": 49.457979,
+      "longitude": 18.139603
+    },
+    {
+      "name": "Chalupa na Hutisku",
+      "latitude": 49.434897,
+      "longitude": 18.205264
+    },
+    {
+      "name": "Vila u Urbana",
+      "latitude": 49.787174,
+      "longitude": 18.456027
+    },
+    {
+      "name": "Jízdárna",
+      "latitude": 49.561244,
+      "longitude": 18.426739
+    },
+    {
+      "name": "Apartmány Na Faře",
+      "latitude": 49.442245,
+      "longitude": 18.454635
+    },
+    {
+      "name": "Bačovská Chyža",
+      "latitude": 49.490637,
+      "longitude": 18.499226
+    },
+    {
+      "name": "Na samotě u lesa",
+      "latitude": 49.412043,
+      "longitude": 18.311399
+    },
+    {
+      "name": "Apartmán Hulín",
+      "latitude": 49.298733,
+      "longitude": 17.493108
+    },
+    {
+      "name": "Chalupa Barunka",
+      "latitude": 49.348565,
+      "longitude": 17.677409
+    },
+    {
+      "name": "Apartmány Fux, s.r.o.",
+      "latitude": 49.347494,
+      "longitude": 17.688276
+    },
+    {
+      "name": "Valašská chalupa",
+      "latitude": 49.347437,
+      "longitude": 17.688027
+    },
+    {
+      "name": "Apartmány Fux, s.r.o.",
+      "latitude": 49.353103,
+      "longitude": 17.700149
+    },
+    {
+      "name": "Vila Anna",
+      "latitude": 49.35803,
+      "longitude": 18.14647
+    },
+    {
+      "name": "Apartmány Jezerné",
+      "latitude": 49.374167,
+      "longitude": 18.276584
+    },
+    {
+      "name": "Penzion U Bečvy",
+      "latitude": 49.351445,
+      "longitude": 18.23853
+    },
+    {
+      "name": "Rustico",
+      "latitude": 49.152005,
+      "longitude": 17.001099
+    },
+    {
+      "name": "Apartmány Břestek",
+      "latitude": 49.105461,
+      "longitude": 17.345747
+    },
+    {
+      "name": "U Štipčáků",
+      "latitude": 49.004275,
+      "longitude": 17.163425
+    },
+    {
+      "name": "U Sidonie",
+      "latitude": 49.006093,
+      "longitude": 17.164001
+    },
+    {
+      "name": "Sklípek pod Dubňanskou horou",
+      "latitude": 48.923697,
+      "longitude": 17.030523
+    },
+    {
+      "name": "Chamartin",
+      "latitude": 48.97242,
+      "longitude": 17.208701
+    },
+    {
+      "name": "Vila Šumná",
+      "latitude": 49.10009,
+      "longitude": 17.7527
+    },
+    {
+      "name": "Apartmán Na Podhradí",
+      "latitude": 49.137161,
+      "longitude": 17.773822
+    },
+    {
+      "name": "Apartmány Eden",
+      "latitude": 49.099481,
+      "longitude": 17.755502
+    },
+    {
+      "name": "Apartmány Frýda",
+      "latitude": 49.10028,
+      "longitude": 17.75816
+    },
+    {
+      "name": "Vila Evička",
+      "latitude": 49.098866,
+      "longitude": 17.758811
+    },
+    {
+      "name": "Vila Laura",
+      "latitude": 49.098532,
+      "longitude": 17.75875
+    },
+    {
+      "name": "Vila EVA",
+      "latitude": 49.100736,
+      "longitude": 17.76428
+    },
+    {
+      "name": "Apartmán Vila Radmila",
+      "latitude": 49.100882,
+      "longitude": 17.754893
+    },
+    {
+      "name": "Kapsle Luhačovice",
+      "latitude": 49.102944,
+      "longitude": 17.75657
+    },
+    {
+      "name": "Apartmán Marica",
+      "latitude": 49.100797,
+      "longitude": 17.762526
+    },
+    {
+      "name": "Vila Marica",
+      "latitude": 49.100753,
+      "longitude": 17.762521
+    },
+    {
+      "name": "Apartmány Kolonáda",
+      "latitude": 49.102862,
+      "longitude": 17.759563
+    },
+    {
+      "name": "Apartmány Gizela",
+      "latitude": 49.10312,
+      "longitude": 17.759544
+    },
+    {
+      "name": "Ubytování Solné 660",
+      "latitude": 49.098637,
+      "longitude": 17.767674
+    },
+    {
+      "name": "Apartmán Anežka",
+      "latitude": 49.103232,
+      "longitude": 17.758913
+    },
+    {
+      "name": "Apartmány Ivana Marhoulová",
+      "latitude": 49.103387,
+      "longitude": 17.759019
+    },
+    {
+      "name": "Apartmány Luhačovice",
+      "latitude": 49.103367,
+      "longitude": 17.759566
+    },
+    {
+      "name": "Domek U Matěje",
+      "latitude": 49.100819,
+      "longitude": 17.762294
+    },
+    {
+      "name": "Apartmány Magion",
+      "latitude": 49.099729,
+      "longitude": 17.764641
+    },
+    {
+      "name": "Dům Tamara",
+      "latitude": 49.099503,
+      "longitude": 17.765998
+    },
+    {
+      "name": "Apartmán Rudice",
+      "latitude": 49.06035,
+      "longitude": 17.739115
+    },
+    {
+      "name": "Wellness apartmán Apawell",
+      "latitude": 49.021518,
+      "longitude": 17.755906
+    },
+    {
+      "name": "Pod Žítkovským Vrchem",
+      "latitude": 48.981072,
+      "longitude": 17.874626
+    },
+    {
+      "name": "Ubytování Na Baště",
+      "latitude": 48.967275,
+      "longitude": 17.725073
+    },
+    {
+      "name": "Apartmány Velké Karlovice",
+      "latitude": 49.362295,
+      "longitude": 18.297255
+    },
+    {
+      "name": "Apartement 270 Sporthotel",
+      "latitude": 48.895258,
+      "longitude": 13.644837
+    },
+    {
+      "name": "Apartmán k pronájmu",
+      "latitude": 48.89517,
+      "longitude": 13.645259
+    },
+    {
+      "name": "Apartmány Šumava Mitterdorf",
+      "latitude": 48.895421,
+      "longitude": 13.644858
+    },
+    {
+      "name": "FitApartman",
+      "latitude": 48.895309,
+      "longitude": 13.64509
+    },
+    {
+      "name": "Chata Mytinka",
+      "latitude": 48.893659,
+      "longitude": 13.649885
+    },
+    {
+      "name": "Ferienwohnungen Erhard Eder",
+      "latitude": 48.894592,
+      "longitude": 13.644805
+    },
+    {
+      "name": "Apartmány Almberg",
+      "latitude": 48.892704,
+      "longitude": 13.650111
+    },
+    {
+      "name": "Woidrausch´n",
+      "latitude": 48.890422,
+      "longitude": 13.653422
+    },
+    {
+      "name": "Prima apartmány",
+      "latitude": 48.892916,
+      "longitude": 13.649068
+    },
+    {
+      "name": "FeWo Almberg - Appartement 7",
+      "latitude": 48.892832,
+      "longitude": 13.649642
+    },
+    {
+      "name": "Haus Annemarie",
+      "latitude": 48.884754,
+      "longitude": 13.653975
+    },
+    {
+      "name": "Ferienwohnung - Haus Monika",
+      "latitude": 48.877016,
+      "longitude": 13.666291
+    },
+    {
+      "name": "FeWo Eberle",
+      "latitude": 48.890782,
+      "longitude": 13.654059
+    },
+    {
+      "name": "Ferienwohnung Elvira",
+      "latitude": 48.88563,
+      "longitude": 13.653487
+    },
+    {
+      "name": "Ferienwohnung Knaus",
+      "latitude": 48.881988,
+      "longitude": 13.657417
+    },
+    {
+      "name": "Sigrid's Ferienwohnung",
+      "latitude": 48.890483,
+      "longitude": 13.65424
+    },
+    {
+      "name": "Ferienwohnung Schäfer im Landhaus Almberg App. 11",
+      "latitude": 48.892823,
+      "longitude": 13.649472
+    },
+    {
+      "name": "Woidliebe",
+      "latitude": 48.892802,
+      "longitude": 13.649704
+    },
+    {
+      "name": "Fewo \"Sportalm-Hideaway\"",
+      "latitude": 48.892787,
+      "longitude": 13.649672
+    },
+    {
+      "name": "Pension U Kuboňů",
+      "latitude": 48.910452,
+      "longitude": 13.883662
+    },
+    {
+      "name": "apartmany Kadleců",
+      "latitude": 48.906935,
+      "longitude": 13.903502
+    },
+    {
+      "name": "Apartmán Na Šumavě",
+      "latitude": 48.918399,
+      "longitude": 13.89332
+    },
+    {
+      "name": "Apartmán Srub",
+      "latitude": 48.913156,
+      "longitude": 13.89017
+    },
+    {
+      "name": "Apartment Haidmühle Hochstein",
+      "latitude": 48.823469,
+      "longitude": 13.778615
+    },
+    {
+      "name": "Apartmány Nové Chalupy",
+      "latitude": 48.790581,
+      "longitude": 13.948241
+    },
+    {
+      "name": "Nova Lake Resort",
+      "latitude": 48.786298,
+      "longitude": 13.959231
+    },
+    {
+      "name": "Pension Adam",
+      "latitude": 48.767175,
+      "longitude": 14.031656
+    },
+    {
+      "name": "Habert",
+      "latitude": 48.767606,
+      "longitude": 14.032697
+    },
+    {
+      "name": "Chatrč Strašidýlka Emílka",
+      "latitude": 48.741223,
+      "longitude": 14.017138
+    },
+    {
+      "name": "Pension Na Pastvině",
+      "latitude": 48.733106,
+      "longitude": 14.011274
+    },
+    {
+      "name": "Apartments Zvonková",
+      "latitude": 48.72421,
+      "longitude": 13.983197
+    },
+    {
+      "name": "Schöneben Apartment Zollhaus",
+      "latitude": 48.71271,
+      "longitude": 13.961849
+    },
+    {
+      "name": "Červený dvůr",
+      "latitude": 48.851357,
+      "longitude": 14.234417
+    },
+    {
+      "name": "Apartmán Chvalšiny",
+      "latitude": 48.852336,
+      "longitude": 14.214359
+    },
+    {
+      "name": "Apartmán PodHájí",
+      "latitude": 48.838014,
+      "longitude": 14.304351
+    },
+    {
+      "name": "Apartmány u zámku",
+      "latitude": 48.814615,
+      "longitude": 14.312521
+    },
+    {
+      "name": "Kovarna",
+      "latitude": 48.810715,
+      "longitude": 14.316714
+    },
+    {
+      "name": "U Tří havranů",
+      "latitude": 48.812532,
+      "longitude": 14.317519
+    },
+    {
+      "name": "Exclusive castle view apartment",
+      "latitude": 48.814663,
+      "longitude": 14.313189
+    },
+    {
+      "name": "Ubytování U Rytířů",
+      "latitude": 48.812101,
+      "longitude": 14.316057
+    },
+    {
+      "name": "Latron 98",
+      "latitude": 48.814668,
+      "longitude": 14.317253
+    },
+    {
+      "name": "Apartments 511",
+      "latitude": 48.816353,
+      "longitude": 14.319858
+    },
+    {
+      "name": "Apartmány U Zvonu",
+      "latitude": 48.807585,
+      "longitude": 14.320143
+    },
+    {
+      "name": "Prvorepubliková vila",
+      "latitude": 48.810613,
+      "longitude": 14.321302
+    },
+    {
+      "name": "Ubytování Jungwirth",
+      "latitude": 48.815135,
+      "longitude": 14.321326
+    },
+    {
+      "name": "Apartment Topview",
+      "latitude": 48.814481,
+      "longitude": 14.322366
+    },
+    {
+      "name": "Ubytování Okýnka",
+      "latitude": 48.814649,
+      "longitude": 14.318174
+    },
+    {
+      "name": "Apartmán Romantika",
+      "latitude": 48.817056,
+      "longitude": 14.318224
+    },
+    {
+      "name": "Apartmán Zahradní",
+      "latitude": 48.819192,
+      "longitude": 14.315645
+    },
+    {
+      "name": "Apartmán Vyšný",
+      "latitude": 48.83448,
+      "longitude": 14.308723
+    },
+    {
+      "name": "Apartmány Pod Kamenem",
+      "latitude": 48.818764,
+      "longitude": 14.323581
+    },
+    {
+      "name": "Apartmán Krumlov",
+      "latitude": 48.815706,
+      "longitude": 14.314177
+    },
+    {
+      "name": "apartmány IDEA a RIXY",
+      "latitude": 48.81548,
+      "longitude": 14.313469
+    },
+    {
+      "name": "U Kalíšku",
+      "latitude": 48.809032,
+      "longitude": 14.314063
+    },
+    {
+      "name": "Downtown Apartment",
+      "latitude": 48.811739,
+      "longitude": 14.314805
+    },
+    {
+      "name": "Ubytování Věra Bártová",
+      "latitude": 48.807894,
+      "longitude": 14.320258
+    },
+    {
+      "name": "Apartmány",
+      "latitude": 48.810037,
+      "longitude": 14.319117
+    },
+    {
+      "name": "Apartmány Domestika",
+      "latitude": 48.810989,
+      "longitude": 14.314025
+    },
+    {
+      "name": "Rožmberská bašta",
+      "latitude": 48.80909,
+      "longitude": 14.31395
+    },
+    {
+      "name": "Orange Loft Apartment",
+      "latitude": 48.812213,
+      "longitude": 14.251172
+    },
+    {
+      "name": "Ubytování Element",
+      "latitude": 48.807869,
+      "longitude": 14.324618
+    },
+    {
+      "name": "U Svaté Trojice",
+      "latitude": 48.819709,
+      "longitude": 14.325902
+    },
+    {
+      "name": "Krumlovský dům v zahradě",
+      "latitude": 48.819829,
+      "longitude": 14.322768
+    },
+    {
+      "name": "Apartmá Moon by Jary",
+      "latitude": 48.815533,
+      "longitude": 14.314854
+    },
+    {
+      "name": "U Svatého Petra",
+      "latitude": 48.808475,
+      "longitude": 14.271341
+    },
+    {
+      "name": "MiJa apartmán",
+      "latitude": 48.808621,
+      "longitude": 14.272623
+    },
+    {
+      "name": "Apartmán L M",
+      "latitude": 48.809723,
+      "longitude": 14.274122
+    },
+    {
+      "name": "Apartman Galerie Marie",
+      "latitude": 48.810621,
+      "longitude": 14.316715
+    },
+    {
+      "name": "Apartmán Masaryk",
+      "latitude": 48.816634,
+      "longitude": 14.315688
+    },
+    {
+      "name": "Muzeon c.k.",
+      "latitude": 48.811682,
+      "longitude": 14.31404
+    },
+    {
+      "name": "Apartmán Marie",
+      "latitude": 48.808648,
+      "longitude": 14.315896
+    },
+    {
+      "name": "Masná 130 House",
+      "latitude": 48.811337,
+      "longitude": 14.315574
+    },
+    {
+      "name": "Casarosa",
+      "latitude": 48.807702,
+      "longitude": 14.314438
+    },
+    {
+      "name": "Krumlovský mlýn Apartments",
+      "latitude": 48.81186,
+      "longitude": 14.313506
+    },
+    {
+      "name": "Apartmán Bára",
+      "latitude": 48.823047,
+      "longitude": 14.337375
+    },
+    {
+      "name": "Apartmán La Guccinela",
+      "latitude": 48.820419,
+      "longitude": 14.327154
+    },
+    {
+      "name": "Ubytování ABC",
+      "latitude": 48.820627,
+      "longitude": 14.327957
+    },
+    {
+      "name": "Apartmán Augsten",
+      "latitude": 48.821636,
+      "longitude": 14.328196
+    },
+    {
+      "name": "Za skalami",
+      "latitude": 48.819812,
+      "longitude": 14.326812
+    },
+    {
+      "name": "Apartmán Adam",
+      "latitude": 48.819705,
+      "longitude": 14.326369
+    },
+    {
+      "name": "Ubytování v soukromí",
+      "latitude": 48.833798,
+      "longitude": 14.345699
+    },
+    {
+      "name": "Ubytování pod střechou",
+      "latitude": 48.8335,
+      "longitude": 14.34549
+    },
+    {
+      "name": "Penzion Hastrman",
+      "latitude": 48.900774,
+      "longitude": 14.504803
+    },
+    {
+      "name": "Prvok",
+      "latitude": 48.891451,
+      "longitude": 14.672575
+    },
+    {
+      "name": "Loft Polná",
+      "latitude": 48.798268,
+      "longitude": 14.14713
+    },
+    {
+      "name": "Kamenný Potok",
+      "latitude": 48.792374,
+      "longitude": 14.253228
+    },
+    {
+      "name": "Apartmány Středová",
+      "latitude": 48.806654,
+      "longitude": 14.325545
+    },
+    {
+      "name": "A - apartmán",
+      "latitude": 48.806577,
+      "longitude": 14.324695
+    },
+    {
+      "name": "Apartmán Spirit by Jary",
+      "latitude": 48.803592,
+      "longitude": 14.314484
+    },
+    {
+      "name": "Apartmán U Krumlova",
+      "latitude": 48.782613,
+      "longitude": 14.287094
+    },
+    {
+      "name": "Apartment Alžběta",
+      "latitude": 48.776431,
+      "longitude": 14.288689
+    },
+    {
+      "name": "Apartmán u Vrbů",
+      "latitude": 48.74092,
+      "longitude": 14.114233
+    },
+    {
+      "name": "Apartmán U AKVARISTY",
+      "latitude": 48.740811,
+      "longitude": 14.116857
+    },
+    {
+      "name": "Apartmány Světlík",
+      "latitude": 48.729769,
+      "longitude": 14.210557
+    },
+    {
+      "name": "Apartmány Cederika",
+      "latitude": 48.769857,
+      "longitude": 14.41724
+    },
+    {
+      "name": "Statek Happy Home",
+      "latitude": 48.767618,
+      "longitude": 14.70386
+    },
+    {
+      "name": "Rodinny apartman U Pralesa",
+      "latitude": 48.696512,
+      "longitude": 14.672182
+    },
+    {
+      "name": "Apartmány Bella Vista Lipno",
+      "latitude": 48.65635,
+      "longitude": 14.16085
+    },
+    {
+      "name": "Landal Marina Lipno",
+      "latitude": 48.642217,
+      "longitude": 14.218133
+    },
+    {
+      "name": "Restaurace Pohoda",
+      "latitude": 48.661575,
+      "longitude": 14.166376
+    },
+    {
+      "name": "Penzion Jája",
+      "latitude": 48.638816,
+      "longitude": 14.233731
+    },
+    {
+      "name": "OTRE",
+      "latitude": 48.660956,
+      "longitude": 14.166453
+    },
+    {
+      "name": "Apartments JBX Lipno",
+      "latitude": 48.637926,
+      "longitude": 14.226326
+    },
+    {
+      "name": "Lipno Home",
+      "latitude": 48.640133,
+      "longitude": 14.224553
+    },
+    {
+      "name": "Canada Lipno",
+      "latitude": 48.640043,
+      "longitude": 14.224594
+    },
+    {
+      "name": "Apartmány INSAP",
+      "latitude": 48.640402,
+      "longitude": 14.224422
+    },
+    {
+      "name": "Aparmány Beach and Ski Promenáda",
+      "latitude": 48.639622,
+      "longitude": 14.225677
+    },
+    {
+      "name": "Lipnoapartments",
+      "latitude": 48.639787,
+      "longitude": 14.225611
+    },
+    {
+      "name": "Lipno Home - Apartmán Lipnoapartment 88A",
+      "latitude": 48.639741,
+      "longitude": 14.2257
+    },
+    {
+      "name": "Apartmán Anemos Lipno",
+      "latitude": 48.639068,
+      "longitude": 14.228793
+    },
+    {
+      "name": "Apartmán Lipno nad Vltavou",
+      "latitude": 48.639188,
+      "longitude": 14.229194
+    },
+    {
+      "name": "Apartmán 23",
+      "latitude": 48.639233,
+      "longitude": 14.228846
+    },
+    {
+      "name": "FajnUbytko",
+      "latitude": 48.639012,
+      "longitude": 14.229128
+    },
+    {
+      "name": "Apartman DvacetSedm",
+      "latitude": 48.639386,
+      "longitude": 14.229077
+    },
+    {
+      "name": "Lipno-Apartman29",
+      "latitude": 48.639039,
+      "longitude": 14.228972
+    },
+    {
+      "name": "Apartmán 22",
+      "latitude": 48.639404,
+      "longitude": 14.228892
+    },
+    {
+      "name": "Apartmán Lipno 20",
+      "latitude": 48.639359,
+      "longitude": 14.229251
+    },
+    {
+      "name": "Apartmán Nikolka",
+      "latitude": 48.639295,
+      "longitude": 14.230628
+    },
+    {
+      "name": "Apartmán Galerie",
+      "latitude": 48.639186,
+      "longitude": 14.230599
+    },
+    {
+      "name": "Apartmán Lukáš",
+      "latitude": 48.639412,
+      "longitude": 14.230654
+    },
+    {
+      "name": "Apartmán Linda",
+      "latitude": 48.639336,
+      "longitude": 14.230749
+    },
+    {
+      "name": "Apartmány Exclusive",
+      "latitude": 48.6389,
+      "longitude": 14.231033
+    },
+    {
+      "name": "Apartmán Lipno Šumava",
+      "latitude": 48.638804,
+      "longitude": 14.230921
+    },
+    {
+      "name": "Apartmány Lipno-1",
+      "latitude": 48.638696,
+      "longitude": 14.230983
+    },
+    {
+      "name": "Apartmány Lipno 11",
+      "latitude": 48.638355,
+      "longitude": 14.231422
+    },
+    {
+      "name": "Mezonet Lipno nad Vltavou",
+      "latitude": 48.640413,
+      "longitude": 14.227246
+    },
+    {
+      "name": "Lipno Home - Apartmán Korzo 319/7",
+      "latitude": 48.640124,
+      "longitude": 14.226637
+    },
+    {
+      "name": "Apartmán Lipno",
+      "latitude": 48.639757,
+      "longitude": 14.226591
+    },
+    {
+      "name": "Lipno Home - Apartmán Korzo 318/3",
+      "latitude": 48.639878,
+      "longitude": 14.227128
+    },
+    {
+      "name": "Apartmán Riviera 41",
+      "latitude": 48.638942,
+      "longitude": 14.227418
+    },
+    {
+      "name": "Apartmán Lipánek",
+      "latitude": 48.638773,
+      "longitude": 14.227404
+    },
+    {
+      "name": "Apartmány Doky - PLA",
+      "latitude": 48.637577,
+      "longitude": 14.225886
+    },
+    {
+      "name": "DOKY Holiday resort",
+      "latitude": 48.637467,
+      "longitude": 14.226173
+    },
+    {
+      "name": "Lipno Home - Řadový dům Orange Antik 112",
+      "latitude": 48.640942,
+      "longitude": 14.22623
+    },
+    {
+      "name": "Lipno Home - Apartmán Orange Antik 97",
+      "latitude": 48.640403,
+      "longitude": 14.226248
+    },
+    {
+      "name": "Ubytování Lipno 99",
+      "latitude": 48.639977,
+      "longitude": 14.226169
+    },
+    {
+      "name": "Lipno Home - Řadový dům Blue Antik 101",
+      "latitude": 48.639846,
+      "longitude": 14.226171
+    },
+    {
+      "name": "Ubytování U Žižků",
+      "latitude": 48.639454,
+      "longitude": 14.226161
+    },
+    {
+      "name": "Ubytování Irová",
+      "latitude": 48.639383,
+      "longitude": 14.226157
+    },
+    {
+      "name": "Apartmány Sunny Lipno",
+      "latitude": 48.636586,
+      "longitude": 14.226297
+    },
+    {
+      "name": "Element Lakeside Apartments",
+      "latitude": 48.636306,
+      "longitude": 14.226801
+    },
+    {
+      "name": "Lipnoport Lakeside Apartment",
+      "latitude": 48.636233,
+      "longitude": 14.226128
+    },
+    {
+      "name": "Apartmán Adam",
+      "latitude": 48.63704,
+      "longitude": 14.224502
+    },
+    {
+      "name": "Apartmán DOKY Lipno",
+      "latitude": 48.636823,
+      "longitude": 14.225213
+    },
+    {
+      "name": "lipno-dovolena.cz",
+      "latitude": 48.637577,
+      "longitude": 14.224945
+    },
+    {
+      "name": "Apartmán Klárka",
+      "latitude": 48.639232,
+      "longitude": 14.230721
+    },
+    {
+      "name": "Lipno Pearl",
+      "latitude": 48.637956,
+      "longitude": 14.230706
+    },
+    {
+      "name": "Apartmány Ernesta Club Lipno",
+      "latitude": 48.63803,
+      "longitude": 14.229502
+    },
+    {
+      "name": "Harmonie Apartment",
+      "latitude": 48.638023,
+      "longitude": 14.229022
+    },
+    {
+      "name": "Lipno Relax",
+      "latitude": 48.641533,
+      "longitude": 14.230005
+    },
+    {
+      "name": "Apartmán na Lipně s výhledem na jezero",
+      "latitude": 48.641836,
+      "longitude": 14.231297
+    },
+    {
+      "name": "Apartmány Allis",
+      "latitude": 48.641529,
+      "longitude": 14.231395
+    },
+    {
+      "name": "Lipno Serafin - Holiday Apartments",
+      "latitude": 48.641604,
+      "longitude": 14.232029
+    },
+    {
+      "name": "Apartmán u Šedů",
+      "latitude": 48.640998,
+      "longitude": 14.232005
+    },
+    {
+      "name": "Ubytování U Vongrejů",
+      "latitude": 48.640716,
+      "longitude": 14.230809
+    },
+    {
+      "name": "apartmán U Dvou boxerů",
+      "latitude": 48.641136,
+      "longitude": 14.230941
+    },
+    {
+      "name": "Apartmány u Macháčků",
+      "latitude": 48.641879,
+      "longitude": 14.228915
+    },
+    {
+      "name": "Apartmán Marta",
+      "latitude": 48.641842,
+      "longitude": 14.228426
+    },
+    {
+      "name": "Apartmany Tereza",
+      "latitude": 48.641791,
+      "longitude": 14.22807
+    },
+    {
+      "name": "Myši v botě",
+      "latitude": 48.642229,
+      "longitude": 14.228322
+    },
+    {
+      "name": "Ubytování Lipno - Koutský, KTA electronic s.r.o.",
+      "latitude": 48.642266,
+      "longitude": 14.22868
+    },
+    {
+      "name": "Lipa v ceste",
+      "latitude": 48.642236,
+      "longitude": 14.228447
+    },
+    {
+      "name": "Lipno 207",
+      "latitude": 48.643184,
+      "longitude": 14.234329
+    },
+    {
+      "name": "Villapark Lipno 212",
+      "latitude": 48.642971,
+      "longitude": 14.234286
+    },
+    {
+      "name": "Apartmán 206",
+      "latitude": 48.643019,
+      "longitude": 14.234557
+    },
+    {
+      "name": "Villapark Lipno 205 Lipno -in",
+      "latitude": 48.642849,
+      "longitude": 14.234839
+    },
+    {
+      "name": "Chata Mrazkovi",
+      "latitude": 48.64254,
+      "longitude": 14.23452
+    },
+    {
+      "name": "INDEX NOSLUŠ Apartmán Lipno",
+      "latitude": 48.643091,
+      "longitude": 14.235024
+    },
+    {
+      "name": "Vila Lanovka",
+      "latitude": 48.64329,
+      "longitude": 14.235088
+    },
+    {
+      "name": "Ubytováni U Effoucha",
+      "latitude": 48.649858,
+      "longitude": 14.217881
+    },
+    {
+      "name": "Rezidence Lipenská Louka",
+      "latitude": 48.649205,
+      "longitude": 14.218285
+    },
+    {
+      "name": "Miraka",
+      "latitude": 48.648507,
+      "longitude": 14.217958
+    },
+    {
+      "name": "Lipno Doky A12 Apparmán",
+      "latitude": 48.648508,
+      "longitude": 14.217841
+    },
+    {
+      "name": "Promenáda Lipno",
+      "latitude": 48.640218,
+      "longitude": 14.207807
+    },
+    {
+      "name": "Apartmánový dům Pink Antik 104",
+      "latitude": 48.638762,
+      "longitude": 14.199387
+    },
+    {
+      "name": "Sfinx",
+      "latitude": 48.638102,
+      "longitude": 14.199467
+    },
+    {
+      "name": "Chata Sandra",
+      "latitude": 48.635913,
+      "longitude": 14.198511
+    },
+    {
+      "name": "Chata u Lipna",
+      "latitude": 48.636027,
+      "longitude": 14.198882
+    },
+    {
+      "name": "Chata Pišanka",
+      "latitude": 48.636057,
+      "longitude": 14.199638
+    },
+    {
+      "name": "Chata Kobylnice Lipno",
+      "latitude": 48.63486,
+      "longitude": 14.198679
+    },
+    {
+      "name": "Chata Sára",
+      "latitude": 48.635677,
+      "longitude": 14.19852
+    },
+    {
+      "name": "Lipno Vision",
+      "latitude": 48.636179,
+      "longitude": 14.202192
+    },
+    {
+      "name": "Apartmány Pinie Lipno",
+      "latitude": 48.636057,
+      "longitude": 14.20208
+    },
+    {
+      "name": "Moderní Domek Lipno",
+      "latitude": 48.635854,
+      "longitude": 14.202153
+    },
+    {
+      "name": "Apartmány Kobylnice",
+      "latitude": 48.635753,
+      "longitude": 14.202497
+    },
+    {
+      "name": "Sunny House",
+      "latitude": 48.635953,
+      "longitude": 14.20306
+    },
+    {
+      "name": "Chalupa na Lipně 2",
+      "latitude": 48.636079,
+      "longitude": 14.202415
+    },
+    {
+      "name": "HausLipno",
+      "latitude": 48.635296,
+      "longitude": 14.202616
+    },
+    {
+      "name": "Prázdninový Domek Kobylnice",
+      "latitude": 48.635359,
+      "longitude": 14.202126
+    },
+    {
+      "name": "Chalupa na Lipně 1",
+      "latitude": 48.635451,
+      "longitude": 14.20175
+    },
+    {
+      "name": "Apartmán Lipno nad Vltavou",
+      "latitude": 48.635736,
+      "longitude": 14.201647
+    },
+    {
+      "name": "Ubytování Kobylnice",
+      "latitude": 48.636503,
+      "longitude": 14.201992
+    },
+    {
+      "name": "Residence Lipno",
+      "latitude": 48.636685,
+      "longitude": 14.201954
+    },
+    {
+      "name": "Apartmány U jezera",
+      "latitude": 48.659509,
+      "longitude": 14.165092
+    },
+    {
+      "name": "Chata na Kobylnici",
+      "latitude": 48.634116,
+      "longitude": 14.200106
+    },
+    {
+      "name": "Apartmány Větrná 29",
+      "latitude": 48.673681,
+      "longitude": 14.311926
+    },
+    {
+      "name": "Lipno Home - Dům U Hájenky 9P",
+      "latitude": 48.637815,
+      "longitude": 14.242265
+    },
+    {
+      "name": "Apartmány Aktiv Lipno",
+      "latitude": 48.637044,
+      "longitude": 14.240071
+    },
+    {
+      "name": "Apartmány Rožmberk",
+      "latitude": 48.655868,
+      "longitude": 14.368098
+    },
+    {
+      "name": "Holiday House U Kapitána",
+      "latitude": 48.654053,
+      "longitude": 14.364981
+    },
+    {
+      "name": "No 42",
+      "latitude": 48.653889,
+      "longitude": 14.365264
+    },
+    {
+      "name": "Apartmány Rosenberg",
+      "latitude": 48.652586,
+      "longitude": 14.361151
+    },
+    {
+      "name": "Marie Píglová",
+      "latitude": 48.656033,
+      "longitude": 14.368963
+    },
+    {
+      "name": "Čertovy proudy",
+      "latitude": 48.622419,
+      "longitude": 14.261024
+    },
+    {
+      "name": "Apartmán Maria",
+      "latitude": 48.621898,
+      "longitude": 14.258154
+    },
+    {
+      "name": "Ubytování Stanislav Marek",
+      "latitude": 48.62075,
+      "longitude": 14.249904
+    },
+    {
+      "name": "Apartmán Lipno",
+      "latitude": 48.620874,
+      "longitude": 14.248243
+    },
+    {
+      "name": "Apartmány Na samotě u lesa",
+      "latitude": 48.617133,
+      "longitude": 14.245402
+    },
+    {
+      "name": "Koller's Ferienparadies",
+      "latitude": 48.61781,
+      "longitude": 14.454188
+    },
+    {
+      "name": "Penzion Zlatý vůl",
+      "latitude": 48.856825,
+      "longitude": 16.047551
+    },
+    {
+      "name": "Apartmán Znojmo 1+1",
+      "latitude": 48.857481,
+      "longitude": 16.068479
+    },
+    {
+      "name": "Apartmán Podyjí",
+      "latitude": 48.859495,
+      "longitude": 16.027388
+    },
+    {
+      "name": "Apartmán Hradiště",
+      "latitude": 48.859599,
+      "longitude": 16.031814
+    },
+    {
+      "name": "Penzion Na Perku",
+      "latitude": 48.85977,
+      "longitude": 16.031587
+    },
+    {
+      "name": "Apartmán U Bobule",
+      "latitude": 48.828477,
+      "longitude": 16.054161
+    },
+    {
+      "name": "Apartmány U Venuše",
+      "latitude": 48.875563,
+      "longitude": 16.668898
+    },
+    {
+      "name": "Chytrý apartmán U Venuše - Chauve",
+      "latitude": 48.875549,
+      "longitude": 16.668917
+    },
+    {
+      "name": "PENZION CITADELA",
+      "latitude": 48.870958,
+      "longitude": 16.630436
+    },
+    {
+      "name": "Ubytovani Lila",
+      "latitude": 48.808369,
+      "longitude": 16.642016
+    },
+    {
+      "name": "Apartmán U Šilhanů",
+      "latitude": 48.830855,
+      "longitude": 16.852014
+    },
+    {
+      "name": "ubytovani-dyjakovice",
+      "latitude": 48.770205,
+      "longitude": 16.300015
+    },
+    {
+      "name": "Penzion u Vinice",
+      "latitude": 48.78118,
+      "longitude": 16.695675
+    },
+    {
+      "name": "Frajárka",
+      "latitude": 48.778763,
+      "longitude": 16.699074
+    },
+    {
+      "name": "Apartmány na kolonádě",
+      "latitude": 48.797765,
+      "longitude": 16.810602
+    },
+    {
+      "name": "Vila Veronika",
+      "latitude": 48.798029,
+      "longitude": 16.809436
+    },
+    {
+      "name": "Na knížecí cestě",
+      "latitude": 48.740745,
+      "longitude": 16.756615
+    },
+    {
+      "name": "Domov",
+      "latitude": 48.831969,
+      "longitude": 16.97535
+    },
+    {
+      "name": "Domov",
+      "latitude": 48.751803,
+      "longitude": 16.88908
+    }
+  ],
+  "meta": {
+    "title": "Apartmány - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných apartmánů v České republice (624 záznamů) — body zájmu z OpenStreetMap (tag tourism=apartment), výřez EU-POIS/CZ. Obsahuje 624 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Apartmány | ListBase",
+    "seo_description": "Stáhnout Apartmány — 624 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 624 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "id": "cs-zoo",
+  "name": "Zoologické zahrady",
+  "title": "Zoologické zahrady",
+  "description": "Zoologické zahrady v České republice (138 záznamů) — body zájmu z OpenStreetMap (tag tourism=zoo), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 138,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akva Tera ZOO Plzeň",
+      "latitude": 49.747013,
+      "longitude": 13.372456
+    },
+    {
+      "name": "Dančí obora Karviná",
+      "latitude": 49.849169,
+      "longitude": 18.539345
+    },
+    {
+      "name": "daňčí obora",
+      "latitude": 50.275134,
+      "longitude": 14.327797
+    },
+    {
+      "name": "Dinopark",
+      "latitude": 49.283669,
+      "longitude": 17.022021
+    },
+    {
+      "name": "Divoká zahrada",
+      "latitude": 50.039705,
+      "longitude": 14.517281
+    },
+    {
+      "name": "Doksyland",
+      "latitude": 50.569349,
+      "longitude": 14.654363
+    },
+    {
+      "name": "Dětská zoo",
+      "latitude": 50.43487,
+      "longitude": 15.802218
+    },
+    {
+      "name": "Ekocentrum",
+      "latitude": 50.305647,
+      "longitude": 12.935549
+    },
+    {
+      "name": "Ekocentrum Vrátkov",
+      "latitude": 50.032075,
+      "longitude": 14.818217
+    },
+    {
+      "name": "Farma Wenet",
+      "latitude": 50.573851,
+      "longitude": 16.346719
+    },
+    {
+      "name": "FarmaPark",
+      "latitude": 49.825754,
+      "longitude": 14.742358
+    },
+    {
+      "name": "Farmapark Muchomůrka",
+      "latitude": 50.629872,
+      "longitude": 15.807121
+    },
+    {
+      "name": "Farmapark u Toma",
+      "latitude": 49.811493,
+      "longitude": 13.344088
+    },
+    {
+      "name": "Farmička Chaba z.s.",
+      "latitude": 50.666133,
+      "longitude": 13.925987
+    },
+    {
+      "name": "Faunapark Horní Lipová",
+      "latitude": 50.224658,
+      "longitude": 17.112221
+    },
+    {
+      "name": "Fibinka",
+      "latitude": 49.830306,
+      "longitude": 16.638369
+    },
+    {
+      "name": "Hrad Vildstejn",
+      "latitude": 50.16974,
+      "longitude": 12.360415
+    },
+    {
+      "name": "Hradní Zoo",
+      "latitude": 48.944529,
+      "longitude": 15.699272
+    },
+    {
+      "name": "Jelení safari",
+      "latitude": 50.216054,
+      "longitude": 17.232099
+    },
+    {
+      "name": "Jelení výběh",
+      "latitude": 49.029978,
+      "longitude": 13.585506
+    },
+    {
+      "name": "Kontaktní minizoo",
+      "latitude": 50.241573,
+      "longitude": 14.860595
+    },
+    {
+      "name": "kontaktní ZOO a osli",
+      "latitude": 50.2412,
+      "longitude": 14.860409
+    },
+    {
+      "name": "koně a velbloudi",
+      "latitude": 49.992815,
+      "longitude": 13.619319
+    },
+    {
+      "name": "Kovozoo",
+      "latitude": 49.073436,
+      "longitude": 17.424954
+    },
+    {
+      "name": "Kozí zahrada",
+      "latitude": 49.225371,
+      "longitude": 16.605873
+    },
+    {
+      "name": "Kočkovité šelmy",
+      "latitude": 50.113456,
+      "longitude": 15.913792
+    },
+    {
+      "name": "Krokodýlí zoo",
+      "latitude": 49.200377,
+      "longitude": 14.217622
+    },
+    {
+      "name": "Lamacentrum Hády",
+      "latitude": 49.220203,
+      "longitude": 16.666653
+    },
+    {
+      "name": "lamy",
+      "latitude": 49.452985,
+      "longitude": 17.969524
+    },
+    {
+      "name": "Lesní koutek Ralsko - Mini ZOO",
+      "latitude": 50.616862,
+      "longitude": 14.708607
+    },
+    {
+      "name": "Lesní minizoo",
+      "latitude": 50.241588,
+      "longitude": 14.861613
+    },
+    {
+      "name": "Little Farmers",
+      "latitude": 50.671439,
+      "longitude": 15.14895
+    },
+    {
+      "name": "Malá ZOO",
+      "latitude": 50.627511,
+      "longitude": 15.606523
+    },
+    {
+      "name": "medvěd hnědý",
+      "latitude": 49.891261,
+      "longitude": 13.887739
+    },
+    {
+      "name": "Medvěd Ludvík",
+      "latitude": 50.419026,
+      "longitude": 16.16209
+    },
+    {
+      "name": "Medvědárium",
+      "latitude": 49.963171,
+      "longitude": 14.066106
+    },
+    {
+      "name": "Medvědárium",
+      "latitude": 50.147759,
+      "longitude": 14.100483
+    },
+    {
+      "name": "Medvědárium Kladenského zámku",
+      "latitude": 50.14771,
+      "longitude": 14.100557
+    },
+    {
+      "name": "Medvědí výběh",
+      "latitude": 50.687097,
+      "longitude": 14.643875
+    },
+    {
+      "name": "Mini ZOO",
+      "latitude": 49.929014,
+      "longitude": 14.668171
+    },
+    {
+      "name": "mini ZOO",
+      "latitude": 50.021621,
+      "longitude": 14.473357
+    },
+    {
+      "name": "Mini zoo",
+      "latitude": 50.08193,
+      "longitude": 15.806929
+    },
+    {
+      "name": "Mini zoo - Paví dvůr",
+      "latitude": 49.302573,
+      "longitude": 17.394103
+    },
+    {
+      "name": "Mini zoo - voliéry",
+      "latitude": 49.301472,
+      "longitude": 17.392596
+    },
+    {
+      "name": "Mini zoo koutek",
+      "latitude": 50.372381,
+      "longitude": 17.000964
+    },
+    {
+      "name": "Mini ZOO Wapiti",
+      "latitude": 48.797055,
+      "longitude": 13.98482
+    },
+    {
+      "name": "Minifarma Falbgery",
+      "latitude": 49.751131,
+      "longitude": 16.152314
+    },
+    {
+      "name": "Minizoo",
+      "latitude": 48.806567,
+      "longitude": 16.62447
+    },
+    {
+      "name": "MiniZoo",
+      "latitude": 49.819639,
+      "longitude": 18.138783
+    },
+    {
+      "name": "Minizoo",
+      "latitude": 49.937101,
+      "longitude": 17.891005
+    },
+    {
+      "name": "MiniZoo",
+      "latitude": 50.53953,
+      "longitude": 16.235367
+    },
+    {
+      "name": "Minizoo Blato",
+      "latitude": 49.041141,
+      "longitude": 15.167003
+    },
+    {
+      "name": "MiniZOO Diana",
+      "latitude": 50.218652,
+      "longitude": 12.871181
+    },
+    {
+      "name": "minizoo farma Pěnčín",
+      "latitude": 50.688626,
+      "longitude": 15.234587
+    },
+    {
+      "name": "MiniZOO Vendryně",
+      "latitude": 49.650978,
+      "longitude": 18.707916
+    },
+    {
+      "name": "Minizoo Vrchbělá",
+      "latitude": 50.525684,
+      "longitude": 14.770645
+    },
+    {
+      "name": "Mořský svět",
+      "latitude": 50.105739,
+      "longitude": 14.431727
+    },
+    {
+      "name": "Obora Dvojhradí",
+      "latitude": 50.669025,
+      "longitude": 13.769102
+    },
+    {
+      "name": "Obora Morašice",
+      "latitude": 49.997138,
+      "longitude": 15.496709
+    },
+    {
+      "name": "Obora Morašice",
+      "latitude": 49.997432,
+      "longitude": 15.49514
+    },
+    {
+      "name": "Obora Skorotín",
+      "latitude": 49.717847,
+      "longitude": 14.027394
+    },
+    {
+      "name": "Obora Široká mez",
+      "latitude": 49.746171,
+      "longitude": 15.87684
+    },
+    {
+      "name": "obůrka Bílá",
+      "latitude": 49.438266,
+      "longitude": 18.447215
+    },
+    {
+      "name": "Obůrka pod hůrkou",
+      "latitude": 49.490542,
+      "longitude": 17.799355
+    },
+    {
+      "name": "obůrka Stará myslivna",
+      "latitude": 49.781008,
+      "longitude": 14.657401
+    },
+    {
+      "name": "Obůrka Žleby",
+      "latitude": 49.884368,
+      "longitude": 15.484713
+    },
+    {
+      "name": "Opičí výběh",
+      "latitude": 50.63431,
+      "longitude": 13.826599
+    },
+    {
+      "name": "Oslí stezka",
+      "latitude": 50.059099,
+      "longitude": 14.139897
+    },
+    {
+      "name": "Papilonia",
+      "latitude": 48.640706,
+      "longitude": 14.223333
+    },
+    {
+      "name": "Papilonia",
+      "latitude": 50.662834,
+      "longitude": 13.865979
+    },
+    {
+      "name": "Papilonia - Motýlí dům Brno",
+      "latitude": 49.193867,
+      "longitude": 16.608257
+    },
+    {
+      "name": "Papilonia - Motýlí dům Praha",
+      "latitude": 50.08528,
+      "longitude": 14.425498
+    },
+    {
+      "name": "Papouščí zoologická zahrada",
+      "latitude": 49.055677,
+      "longitude": 16.8369
+    },
+    {
+      "name": "Pastvina",
+      "latitude": 49.213764,
+      "longitude": 13.512689
+    },
+    {
+      "name": "Pohádková zahrada",
+      "latitude": 50.02133,
+      "longitude": 15.783293
+    },
+    {
+      "name": "Rysí výběh",
+      "latitude": 49.033769,
+      "longitude": 13.583235
+    },
+    {
+      "name": "Safari resort",
+      "latitude": 48.89021,
+      "longitude": 14.671482
+    },
+    {
+      "name": "Samoobslužný ZOO BAR pro čestné pocestné",
+      "latitude": 50.172961,
+      "longitude": 16.03639
+    },
+    {
+      "name": "Slepičky z Rokle",
+      "latitude": 49.208872,
+      "longitude": 16.682405
+    },
+    {
+      "name": "Sochy zvířátek",
+      "latitude": 50.091577,
+      "longitude": 15.976133
+    },
+    {
+      "name": "Soví voliéry",
+      "latitude": 48.992126,
+      "longitude": 13.663311
+    },
+    {
+      "name": "Statek u Merlina",
+      "latitude": 50.025757,
+      "longitude": 14.077413
+    },
+    {
+      "name": "Terárium Modrá",
+      "latitude": 49.103353,
+      "longitude": 17.404403
+    },
+    {
+      "name": "Tierpark Klingenthal",
+      "latitude": 50.361418,
+      "longitude": 12.464805
+    },
+    {
+      "name": "Tropic",
+      "latitude": 49.625107,
+      "longitude": 18.226579
+    },
+    {
+      "name": "u Slaniny",
+      "latitude": 49.677996,
+      "longitude": 13.935772
+    },
+    {
+      "name": "Ukázková část Lánské obory s vyhlídkou",
+      "latitude": 50.106529,
+      "longitude": 13.932359
+    },
+    {
+      "name": "Veřejné akvárium Česká Lípa",
+      "latitude": 50.68501,
+      "longitude": 14.536467
+    },
+    {
+      "name": "Vlk venkovní výběh",
+      "latitude": 49.071406,
+      "longitude": 13.490256
+    },
+    {
+      "name": "Vodní park Čabárna",
+      "latitude": 50.179562,
+      "longitude": 14.138718
+    },
+    {
+      "name": "Voliera pláku",
+      "latitude": 50.476858,
+      "longitude": 13.422471
+    },
+    {
+      "name": "Výběh  pro kamerunské ovce a kozy",
+      "latitude": 49.990871,
+      "longitude": 15.215634
+    },
+    {
+      "name": "Výběh koní Převalského",
+      "latitude": 50.050047,
+      "longitude": 14.392959
+    },
+    {
+      "name": "Výběh pro kamerunské ovce a kozy",
+      "latitude": 49.989727,
+      "longitude": 15.21376
+    },
+    {
+      "name": "Výběh s bizony",
+      "latitude": 49.105243,
+      "longitude": 13.382083
+    },
+    {
+      "name": "výzkumný chov jelenů",
+      "latitude": 50.04912,
+      "longitude": 14.59365
+    },
+    {
+      "name": "wild boar",
+      "latitude": 49.662922,
+      "longitude": 15.846116
+    },
+    {
+      "name": "Zelland",
+      "latitude": 50.327931,
+      "longitude": 14.435953
+    },
+    {
+      "name": "ZOO a botanický park Ostrava",
+      "latitude": 49.846366,
+      "longitude": 18.321968
+    },
+    {
+      "name": "ZOO Biopark Štít",
+      "latitude": 50.11366,
+      "longitude": 15.476564
+    },
+    {
+      "name": "Zoo Chleby",
+      "latitude": 50.22217,
+      "longitude": 15.091663
+    },
+    {
+      "name": "ZOO Dvorec",
+      "latitude": 48.873718,
+      "longitude": 14.655341
+    },
+    {
+      "name": "ZOO Dvůr Králové",
+      "latitude": 50.433284,
+      "longitude": 15.795687
+    },
+    {
+      "name": "ZOO Dvůr Králové",
+      "latitude": 50.433953,
+      "longitude": 15.800061
+    },
+    {
+      "name": "Zoo Hodonín",
+      "latitude": 48.863639,
+      "longitude": 17.107373
+    },
+    {
+      "name": "Zoo Na Hrádečku",
+      "latitude": 49.107692,
+      "longitude": 15.031121
+    },
+    {
+      "name": "Zoo Ohrada",
+      "latitude": 49.0419,
+      "longitude": 14.419192
+    },
+    {
+      "name": "ZOO Olomouc",
+      "latitude": 49.634916,
+      "longitude": 17.339863
+    },
+    {
+      "name": "ZOO Ostrava",
+      "latitude": 49.843617,
+      "longitude": 18.319214
+    },
+    {
+      "name": "Zoo park Bohatice",
+      "latitude": 50.671549,
+      "longitude": 14.67126
+    },
+    {
+      "name": "Zoo Plasy",
+      "latitude": 49.932597,
+      "longitude": 13.389779
+    },
+    {
+      "name": "Zoo Plzeň",
+      "latitude": 49.758508,
+      "longitude": 13.35743
+    },
+    {
+      "name": "Zoo Praha",
+      "latitude": 50.117335,
+      "longitude": 14.407792
+    },
+    {
+      "name": "Zoo Sedlec",
+      "latitude": 48.776632,
+      "longitude": 16.688921
+    },
+    {
+      "name": "Zoo Tábor",
+      "latitude": 49.387883,
+      "longitude": 14.649663
+    },
+    {
+      "name": "ZOO Zlín - Lešná",
+      "latitude": 49.275742,
+      "longitude": 17.718411
+    },
+    {
+      "name": "Zoo Zájezd",
+      "latitude": 50.166579,
+      "longitude": 14.22211
+    },
+    {
+      "name": "ZOO Ústí nad Labem",
+      "latitude": 50.666084,
+      "longitude": 14.05888
+    },
+    {
+      "name": "Zoocentrum Srdov",
+      "latitude": 50.598416,
+      "longitude": 14.290994
+    },
+    {
+      "name": "Zookoutek Amerika",
+      "latitude": 50.111538,
+      "longitude": 12.333796
+    },
+    {
+      "name": "Zookoutek Malá Chuchle",
+      "latitude": 50.022797,
+      "longitude": 14.388176
+    },
+    {
+      "name": "Zoologická a botanická zahrada města Plzně",
+      "latitude": 49.757795,
+      "longitude": 13.359981
+    },
+    {
+      "name": "Zoologická zahrada Děčín - Pastýřská stěna",
+      "latitude": 50.779129,
+      "longitude": 14.199053
+    },
+    {
+      "name": "Zoologická zahrada Liberec",
+      "latitude": 50.777954,
+      "longitude": 15.077321
+    },
+    {
+      "name": "Zoologická zahrada města Brna",
+      "latitude": 49.233469,
+      "longitude": 16.53384
+    },
+    {
+      "name": "Zoologická zahrada Vyškov",
+      "latitude": 49.273137,
+      "longitude": 16.997772
+    },
+    {
+      "name": "zoopark",
+      "latitude": 49.058088,
+      "longitude": 13.736887
+    },
+    {
+      "name": "Zoopark Chomutov",
+      "latitude": 50.474734,
+      "longitude": 13.422449
+    },
+    {
+      "name": "Zoopark Milíčov",
+      "latitude": 50.028017,
+      "longitude": 14.539587
+    },
+    {
+      "name": "Zoopark Nehvizdy",
+      "latitude": 50.128664,
+      "longitude": 14.734561
+    },
+    {
+      "name": "Zoopark Obůrka Podháj",
+      "latitude": 50.191389,
+      "longitude": 14.084511
+    },
+    {
+      "name": "ZOOPARK STĚŽERY, o.p.s.",
+      "latitude": 50.213408,
+      "longitude": 15.754925
+    },
+    {
+      "name": "Zoopark Zájezd",
+      "latitude": 50.165671,
+      "longitude": 14.224036
+    },
+    {
+      "name": "Zvířátka",
+      "latitude": 49.263747,
+      "longitude": 14.116356
+    },
+    {
+      "name": "Zvířátkov",
+      "latitude": 49.782046,
+      "longitude": 13.80854
+    },
+    {
+      "name": "Záchranná stanice Pavlov",
+      "latitude": 49.701294,
+      "longitude": 15.337564
+    },
+    {
+      "name": "Zámecká obora",
+      "latitude": 50.420443,
+      "longitude": 16.158469
+    },
+    {
+      "name": "Želví zahrada",
+      "latitude": 49.631697,
+      "longitude": 12.724041
+    }
+  ],
+  "meta": {
+    "title": "Zoologické zahrady - Stáhnout zdarma",
+    "description": "Zoologické zahrady v České republice (138 záznamů) — body zájmu z OpenStreetMap (tag tourism=zoo), výřez EU-POIS/CZ. Obsahuje 138 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Zoologické zahrady | ListBase",
+    "seo_description": "Stáhnout Zoologické zahrady — 138 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 138 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

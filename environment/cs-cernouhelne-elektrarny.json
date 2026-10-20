@@ -1,0 +1,352 @@
+{
+  "id": "cs-cernouhelne-elektrarny",
+  "name": "Černouhelné elektrárny v Česku",
+  "title": "Černouhelné elektrárny v Česku",
+  "description": "Černouhelné elektrárny v Česku. All 11 hard coal power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1235,
+      "name": "Detmarovice",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 800,
+      "efficiency": "",
+      "date_in": 1975,
+      "date_retrofit": "",
+      "date_out": 2025,
+      "lat": 49.907184,
+      "lon": 18.464559,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-7-1, BEYOND-CZ-7-2, BEYOND-CZ-7-3, BEYOND-CZ-7-4; GEM: G100000102324, G100000102325, G100000102326, G100000102327; GEO: GEO-42198; OPSD: OEU-524, OEU-525, OEU-526, OEU-527"
+    },
+    {
+      "id": 2673,
+      "name": "Karvina",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 55,
+      "efficiency": "",
+      "date_in": 1970,
+      "date_retrofit": "",
+      "date_out": 2028,
+      "lat": 49.823463,
+      "lon": 18.480287,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-17-1; GEM: G100000105604; OPSD: OEU-437, OEU-438"
+    },
+    {
+      "id": 2674,
+      "name": "Malesice",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 110,
+      "efficiency": "",
+      "date_in": 1969,
+      "date_retrofit": "",
+      "date_out": 2033,
+      "lat": 50.084967,
+      "lon": 14.525273,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-41-3, BEYOND-CZ-41-4; GEM: G100000106610, G100000106611; OPSD: OEU-536"
+    },
+    {
+      "id": 2675,
+      "name": "Olomouc Timepoint",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 50,
+      "efficiency": "",
+      "date_in": 1952,
+      "date_retrofit": "",
+      "date_out": 2028,
+      "lat": 49.570879,
+      "lon": 17.304121,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-26-1; GEM: G100000107623; OPSD: OEU-459, OEU-460"
+    },
+    {
+      "id": 2677,
+      "name": "Sko Energo",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 70,
+      "efficiency": "",
+      "date_in": 1999,
+      "date_retrofit": "",
+      "date_out": 2027,
+      "lat": 50.41721,
+      "lon": 14.93293,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-22-1, BEYOND-CZ-22-2; GEM: G100000106962, G100000106963; OPSD: OEU-507"
+    },
+    {
+      "id": 2678,
+      "name": "Trebovice",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 177,
+      "efficiency": "",
+      "date_in": 1964,
+      "date_retrofit": "",
+      "date_out": 2033,
+      "lat": 49.831905,
+      "lon": 18.211305,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-29-1, BEYOND-CZ-29-2, BEYOND-CZ-29-3; GEM: G100000110310, G100000110311, G100000110312; OPSD: OEU-517, OEU-518, OEU-519"
+    },
+    {
+      "id": 3347,
+      "name": "Marianske Hory",
+      "fueltype": "Hard Coal",
+      "technology": "",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 30,
+      "efficiency": "",
+      "date_in": 1970,
+      "date_retrofit": "",
+      "date_out": 2008,
+      "lat": 49.86,
+      "lon": 18.27,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-67-1; GEM: G100000106662"
+    },
+    {
+      "id": 5029,
+      "name": "Vitkovice",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 79,
+      "efficiency": "",
+      "date_in": 1970,
+      "date_retrofit": "",
+      "date_out": 2020,
+      "lat": 49.816,
+      "lon": 18.2733,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-31-1, BEYOND-CZ-31-2, BEYOND-CZ-31-3, BEYOND-CZ-31-4; OPSD: OEU-528"
+    },
+    {
+      "id": 5031,
+      "name": "Teplarna Ceskoslovenske Armady Csa",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 24,
+      "efficiency": "",
+      "date_in": 1952,
+      "date_retrofit": "",
+      "date_out": 2030,
+      "lat": 49.8443,
+      "lon": 18.496,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-16-2; OPSD: OEU-530"
+    },
+    {
+      "id": 8672,
+      "name": "Kladno Tg",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 135,
+      "efficiency": "",
+      "date_in": 2000,
+      "date_retrofit": 2010,
+      "date_out": "",
+      "lat": 50.1535,
+      "lon": 14.12858,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000105792; GEO: GEO-42323"
+    },
+    {
+      "id": 165494,
+      "name": "Koprivnice Tg",
+      "fueltype": "Hard Coal",
+      "technology": "",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 18,
+      "efficiency": "",
+      "date_in": 1970,
+      "date_retrofit": "",
+      "date_out": 2033,
+      "lat": 49.5833,
+      "lon": 18.1334,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-CZ-65-1, BEYOND-CZ-65-2"
+    }
+  ],
+  "meta": {
+    "title": "Černouhelné elektrárny v Česku - Stáhnout zdarma",
+    "description": "Černouhelné elektrárny v Česku. All 11 hard coal power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation). Obsahuje 11 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Černouhelné elektrárny v Česku | ListBase",
+    "seo_description": "Stáhnout Černouhelné elektrárny v Česku — 11 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 11 záznamů / 19 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

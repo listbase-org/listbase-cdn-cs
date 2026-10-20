@@ -1,0 +1,1511 @@
+{
+  "id": "cs-mosty",
+  "name": "Mosty",
+  "title": "Mosty",
+  "description": "Seznam pojmenovaných mostů v České republice (294 záznamů) — body zájmu z OpenStreetMap (tag man_made=bridge), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 294,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Nasenbachtalbrücke",
+      "latitude": 50.789256,
+      "longitude": 13.891001
+    },
+    {
+      "name": "Grenzbrücke",
+      "latitude": 50.783109,
+      "longitude": 13.898419
+    },
+    {
+      "name": "Vilémovský viadukt",
+      "latitude": 50.987817,
+      "longitude": 14.323312
+    },
+    {
+      "name": "Viadukt Ebersbach",
+      "latitude": 51.011293,
+      "longitude": 14.581531
+    },
+    {
+      "name": "Alte Landbrücke",
+      "latitude": 50.886274,
+      "longitude": 14.644128
+    },
+    {
+      "name": "Tyršův most",
+      "latitude": 50.78131,
+      "longitude": 14.207202
+    },
+    {
+      "name": "Novinský viadukt",
+      "latitude": 50.758244,
+      "longitude": 14.939958
+    },
+    {
+      "name": "Jizerský viadukt",
+      "latitude": 50.780205,
+      "longitude": 15.369443
+    },
+    {
+      "name": "Eiserne Brücke",
+      "latitude": 50.355506,
+      "longitude": 12.465763
+    },
+    {
+      "name": "Most Dr. E. Beneše",
+      "latitude": 50.659336,
+      "longitude": 14.04692
+    },
+    {
+      "name": "Mariánský most",
+      "latitude": 50.660786,
+      "longitude": 14.053261
+    },
+    {
+      "name": "estakáda Prackovice",
+      "latitude": 50.574171,
+      "longitude": 14.020548
+    },
+    {
+      "name": "estakáda Prackovice",
+      "latitude": 50.573716,
+      "longitude": 14.020268
+    },
+    {
+      "name": "most přes Uhelnou strouhu",
+      "latitude": 50.580481,
+      "longitude": 14.013803
+    },
+    {
+      "name": "most Dobkovičky",
+      "latitude": 50.555481,
+      "longitude": 14.013219
+    },
+    {
+      "name": "most Oparno",
+      "latitude": 50.53871,
+      "longitude": 13.997514
+    },
+    {
+      "name": "most Vchynice",
+      "latitude": 50.513139,
+      "longitude": 14.023612
+    },
+    {
+      "name": "Fleißenbachtalbrücke",
+      "latitude": 50.220192,
+      "longitude": 12.318601
+    },
+    {
+      "name": "Röslautalbrücke",
+      "latitude": 50.084704,
+      "longitude": 12.235158
+    },
+    {
+      "name": "Chebský viadukt",
+      "latitude": 50.08517,
+      "longitude": 12.383849
+    },
+    {
+      "name": "bývalý Všebořský most",
+      "latitude": 50.047062,
+      "longitude": 12.409095
+    },
+    {
+      "name": "Radošovský most",
+      "latitude": 50.275721,
+      "longitude": 12.994662
+    },
+    {
+      "name": "Ostrovský most",
+      "latitude": 50.234545,
+      "longitude": 12.869521
+    },
+    {
+      "name": "Drahovický most",
+      "latitude": 50.236709,
+      "longitude": 12.879981
+    },
+    {
+      "name": "Dvorský most",
+      "latitude": 50.224169,
+      "longitude": 12.840909
+    },
+    {
+      "name": "most 17. listopadu",
+      "latitude": 50.231317,
+      "longitude": 12.872658
+    },
+    {
+      "name": "Koptův most",
+      "latitude": 50.23314,
+      "longitude": 12.871101
+    },
+    {
+      "name": "Hochbergerova lávka",
+      "latitude": 50.228121,
+      "longitude": 12.87851
+    },
+    {
+      "name": "Školní lávka",
+      "latitude": 50.230526,
+      "longitude": 12.873354
+    },
+    {
+      "name": "Poštovní most",
+      "latitude": 50.229414,
+      "longitude": 12.874309
+    },
+    {
+      "name": "Dvořákova lávka",
+      "latitude": 50.228122,
+      "longitude": 12.876866
+    },
+    {
+      "name": "Atrium",
+      "latitude": 50.227665,
+      "longitude": 12.879589
+    },
+    {
+      "name": "Lázeňský most",
+      "latitude": 50.227121,
+      "longitude": 12.880341
+    },
+    {
+      "name": "Gogolova lávka",
+      "latitude": 50.226087,
+      "longitude": 12.881336
+    },
+    {
+      "name": "Mlýnský most",
+      "latitude": 50.224936,
+      "longitude": 12.882783
+    },
+    {
+      "name": "Špitálská lávka",
+      "latitude": 50.224196,
+      "longitude": 12.883816
+    },
+    {
+      "name": "Vřídelní lávka",
+      "latitude": 50.223209,
+      "longitude": 12.88363
+    },
+    {
+      "name": "Jánský most",
+      "latitude": 50.222262,
+      "longitude": 12.882583
+    },
+    {
+      "name": "Divadelní lávka",
+      "latitude": 50.221392,
+      "longitude": 12.881275
+    },
+    {
+      "name": "Dvořákova lávka",
+      "latitude": 50.220643,
+      "longitude": 12.879805
+    },
+    {
+      "name": "Labitzkého lávka",
+      "latitude": 50.219641,
+      "longitude": 12.879551
+    },
+    {
+      "name": "Festivalový most",
+      "latitude": 50.218789,
+      "longitude": 12.880563
+    },
+    {
+      "name": "Goethova lávka",
+      "latitude": 50.218285,
+      "longitude": 12.882191
+    },
+    {
+      "name": "most U Galerie",
+      "latitude": 50.218045,
+      "longitude": 12.885682
+    },
+    {
+      "name": "most Karla IV.",
+      "latitude": 50.217429,
+      "longitude": 12.887944
+    },
+    {
+      "name": "Mickiewiczův most",
+      "latitude": 50.217625,
+      "longitude": 12.889272
+    },
+    {
+      "name": "Richmondský most",
+      "latitude": 50.217284,
+      "longitude": 12.890673
+    },
+    {
+      "name": "Toskánská lávka",
+      "latitude": 50.213392,
+      "longitude": 12.880211
+    },
+    {
+      "name": "Gejzírpark",
+      "latitude": 50.21362,
+      "longitude": 12.876941
+    },
+    {
+      "name": "Chebský most",
+      "latitude": 50.231472,
+      "longitude": 12.86619
+    },
+    {
+      "name": "Kruhový most",
+      "latitude": 50.232081,
+      "longitude": 12.872063
+    },
+    {
+      "name": "Kruhový most",
+      "latitude": 50.232492,
+      "longitude": 12.871698
+    },
+    {
+      "name": "Zvíkovecký most",
+      "latitude": 49.959492,
+      "longitude": 13.695689
+    },
+    {
+      "name": "Roztocký most",
+      "latitude": 50.029251,
+      "longitude": 13.864942
+    },
+    {
+      "name": "Zbečenský most",
+      "latitude": 50.039752,
+      "longitude": 13.919653
+    },
+    {
+      "name": "Skryjský most",
+      "latitude": 49.970113,
+      "longitude": 13.773666
+    },
+    {
+      "name": "Nižborský most",
+      "latitude": 50.001643,
+      "longitude": 14.00265
+    },
+    {
+      "name": "Velký most",
+      "latitude": 49.914006,
+      "longitude": 13.396033
+    },
+    {
+      "name": "Liblínský most",
+      "latitude": 49.918876,
+      "longitude": 13.546041
+    },
+    {
+      "name": "Kamenný most",
+      "latitude": 50.704677,
+      "longitude": 14.40436
+    },
+    {
+      "name": "Most v Zahrádkách",
+      "latitude": 50.6401,
+      "longitude": 14.51512
+    },
+    {
+      "name": "Sychrovský viadukt",
+      "latitude": 50.63112,
+      "longitude": 15.078952
+    },
+    {
+      "name": "Edův most",
+      "latitude": 50.638834,
+      "longitude": 15.311412
+    },
+    {
+      "name": "Historický obloukový most",
+      "latitude": 50.463609,
+      "longitude": 14.614755
+    },
+    {
+      "name": "Lužecký zdvihací železniční most",
+      "latitude": 50.324667,
+      "longitude": 14.398977
+    },
+    {
+      "name": "Lužecký zdvihací silniční most",
+      "latitude": 50.324982,
+      "longitude": 14.400072
+    },
+    {
+      "name": "most Josefa Straky",
+      "latitude": 50.351526,
+      "longitude": 14.467897
+    },
+    {
+      "name": "Podsemínský most",
+      "latitude": 50.506445,
+      "longitude": 15.185946
+    },
+    {
+      "name": "Stránovský viadukt",
+      "latitude": 50.371418,
+      "longitude": 14.865791
+    },
+    {
+      "name": "estakáda Hořice",
+      "latitude": 50.354937,
+      "longitude": 15.624553
+    },
+    {
+      "name": "most Jordán",
+      "latitude": 50.31726,
+      "longitude": 15.858183
+    },
+    {
+      "name": "most Trotina",
+      "latitude": 50.290672,
+      "longitude": 15.826718
+    },
+    {
+      "name": "Tyršův most",
+      "latitude": 50.298804,
+      "longitude": 15.87575
+    },
+    {
+      "name": "Masarykův most",
+      "latitude": 50.244402,
+      "longitude": 14.313278
+    },
+    {
+      "name": "Mánesův most",
+      "latitude": 50.089586,
+      "longitude": 14.412465
+    },
+    {
+      "name": "Prašný most",
+      "latitude": 50.091387,
+      "longitude": 14.398651
+    },
+    {
+      "name": "Palackého most",
+      "latitude": 50.072852,
+      "longitude": 14.412193
+    },
+    {
+      "name": "Mozartův most",
+      "latitude": 50.072109,
+      "longitude": 14.398631
+    },
+    {
+      "name": "Železniční most",
+      "latitude": 50.066857,
+      "longitude": 14.412929
+    },
+    {
+      "name": "Jiráskův most",
+      "latitude": 50.075542,
+      "longitude": 14.411338
+    },
+    {
+      "name": "Nový Smíchov Most",
+      "latitude": 50.073155,
+      "longitude": 14.40082
+    },
+    {
+      "name": "Štefánikův most",
+      "latitude": 50.09454,
+      "longitude": 14.426914
+    },
+    {
+      "name": "Hlávkův most",
+      "latitude": 50.094448,
+      "longitude": 14.437079
+    },
+    {
+      "name": "Hlávkův most",
+      "latitude": 50.096668,
+      "longitude": 14.437101
+    },
+    {
+      "name": "Libeňský most",
+      "latitude": 50.103338,
+      "longitude": 14.459427
+    },
+    {
+      "name": "Negrelliho viadukt",
+      "latitude": 50.094515,
+      "longitude": 14.44144
+    },
+    {
+      "name": "Trojský most",
+      "latitude": 50.112507,
+      "longitude": 14.435975
+    },
+    {
+      "name": "most Barikádníků",
+      "latitude": 50.114769,
+      "longitude": 14.44569
+    },
+    {
+      "name": "Čechův most",
+      "latitude": 50.093051,
+      "longitude": 14.417023
+    },
+    {
+      "name": "Holešovický železniční most",
+      "latitude": 50.113468,
+      "longitude": 14.450234
+    },
+    {
+      "name": "železniční estakáda Sluncová",
+      "latitude": 50.092841,
+      "longitude": 14.466792
+    },
+    {
+      "name": "Štvanická lávka",
+      "latitude": 50.096459,
+      "longitude": 14.445842
+    },
+    {
+      "name": "Skakunův most",
+      "latitude": 50.102149,
+      "longitude": 14.416294
+    },
+    {
+      "name": "Trojská lávka",
+      "latitude": 50.114832,
+      "longitude": 14.416646
+    },
+    {
+      "name": "estakáda přes údolí Rokytky",
+      "latitude": 50.110464,
+      "longitude": 14.47643
+    },
+    {
+      "name": "železniční most",
+      "latitude": 50.067441,
+      "longitude": 14.416446
+    },
+    {
+      "name": "Nuselský most",
+      "latitude": 50.065881,
+      "longitude": 14.430397
+    },
+    {
+      "name": "Nové spojení",
+      "latitude": 50.087642,
+      "longitude": 14.442046
+    },
+    {
+      "name": "Karlínský spojovací viadukt",
+      "latitude": 50.089368,
+      "longitude": 14.444009
+    },
+    {
+      "name": "Karlínský spojovací viadukt",
+      "latitude": 50.090179,
+      "longitude": 14.442721
+    },
+    {
+      "name": "Karlínský spojovací viadukt",
+      "latitude": 50.089689,
+      "longitude": 14.44323
+    },
+    {
+      "name": "Železniční viadukt Devět kanálů",
+      "latitude": 50.07158,
+      "longitude": 14.72822
+    },
+    {
+      "name": "Nymburská lávka",
+      "latitude": 50.182871,
+      "longitude": 15.041574
+    },
+    {
+      "name": "lanový most",
+      "latitude": 50.118355,
+      "longitude": 15.159756
+    },
+    {
+      "name": "Barrandovský most",
+      "latitude": 50.039355,
+      "longitude": 14.406322
+    },
+    {
+      "name": "most metra Hůrka–Lužiny",
+      "latitude": 50.047698,
+      "longitude": 14.337136
+    },
+    {
+      "name": "Dvorecký most",
+      "latitude": 50.050265,
+      "longitude": 14.412314
+    },
+    {
+      "name": "Branický most",
+      "latitude": 50.026832,
+      "longitude": 14.397931
+    },
+    {
+      "name": "Slavičí most",
+      "latitude": 49.998754,
+      "longitude": 14.35339
+    },
+    {
+      "name": "Radotínský most",
+      "latitude": 49.985717,
+      "longitude": 14.392668
+    },
+    {
+      "name": "Lochkovský most",
+      "latitude": 50.001471,
+      "longitude": 14.343839
+    },
+    {
+      "name": "Lahovický most",
+      "latitude": 49.99357,
+      "longitude": 14.398227
+    },
+    {
+      "name": "ekodukt Šabatka",
+      "latitude": 49.982923,
+      "longitude": 14.40265
+    },
+    {
+      "name": "most Závodu míru",
+      "latitude": 49.971987,
+      "longitude": 14.398101
+    },
+    {
+      "name": "lanový most",
+      "latitude": 50.061325,
+      "longitude": 14.507969
+    },
+    {
+      "name": "Most Šmejkalka",
+      "latitude": 49.900106,
+      "longitude": 14.740141
+    },
+    {
+      "name": "Hvězdonický most",
+      "latitude": 49.872918,
+      "longitude": 14.765107
+    },
+    {
+      "name": "Nadjezd - Koutníkova",
+      "latitude": 50.220002,
+      "longitude": 15.811052
+    },
+    {
+      "name": "lávka Na Podhůrkách",
+      "latitude": 50.194323,
+      "longitude": 15.81593
+    },
+    {
+      "name": "lávka Hradubické cyklostezky",
+      "latitude": 50.182276,
+      "longitude": 15.808304
+    },
+    {
+      "name": "Labský most",
+      "latitude": 50.217247,
+      "longitude": 15.827319
+    },
+    {
+      "name": "Orlický most",
+      "latitude": 50.208792,
+      "longitude": 15.848163
+    },
+    {
+      "name": "Mostek u městských lázní",
+      "latitude": 50.214536,
+      "longitude": 15.828062
+    },
+    {
+      "name": "Pražský most",
+      "latitude": 50.209925,
+      "longitude": 15.828092
+    },
+    {
+      "name": "Tyršův most",
+      "latitude": 50.212181,
+      "longitude": 15.827776
+    },
+    {
+      "name": "jez Hučák",
+      "latitude": 50.207124,
+      "longitude": 15.82536
+    },
+    {
+      "name": "Železniční most",
+      "latitude": 50.222904,
+      "longitude": 15.825624
+    },
+    {
+      "name": "Kamenný most",
+      "latitude": 50.230337,
+      "longitude": 15.824302
+    },
+    {
+      "name": "lávka u Jiráskových sadů",
+      "latitude": 50.205822,
+      "longitude": 15.828653
+    },
+    {
+      "name": "Moravský most",
+      "latitude": 50.206128,
+      "longitude": 15.832166
+    },
+    {
+      "name": "Malšovický most",
+      "latitude": 50.207544,
+      "longitude": 15.841657
+    },
+    {
+      "name": "lávka u Aldisu",
+      "latitude": 50.216027,
+      "longitude": 15.827487
+    },
+    {
+      "name": "most Klapák",
+      "latitude": 50.210255,
+      "longitude": 15.856511
+    },
+    {
+      "name": "most Plukovníka Šrámka",
+      "latitude": 50.215836,
+      "longitude": 15.908036
+    },
+    {
+      "name": "Malšovický nadjezd",
+      "latitude": 50.204304,
+      "longitude": 15.847004
+    },
+    {
+      "name": "most U Soutoku",
+      "latitude": 50.202491,
+      "longitude": 15.824307
+    },
+    {
+      "name": "Estakáda přes Labe",
+      "latitude": 50.131331,
+      "longitude": 15.810848
+    },
+    {
+      "name": "Estakáda Opatovice",
+      "latitude": 50.138718,
+      "longitude": 15.78935
+    },
+    {
+      "name": "most Pavla Wonky",
+      "latitude": 50.041447,
+      "longitude": 15.768142
+    },
+    {
+      "name": "Červeňák",
+      "latitude": 50.020582,
+      "longitude": 15.786372
+    },
+    {
+      "name": "Most přes železniční stanici Uhersko",
+      "latitude": 49.98828,
+      "longitude": 16.010406
+    },
+    {
+      "name": "Most přes Loučnou",
+      "latitude": 49.992571,
+      "longitude": 16.006226
+    },
+    {
+      "name": "Lávka pro pěší v ulici Vodní",
+      "latitude": 49.793377,
+      "longitude": 12.634328
+    },
+    {
+      "name": "kamenný most",
+      "latitude": 49.750241,
+      "longitude": 13.001159
+    },
+    {
+      "name": "Barokní mostek",
+      "latitude": 49.791947,
+      "longitude": 13.017194
+    },
+    {
+      "name": "estakáda Třemošná",
+      "latitude": 49.822074,
+      "longitude": 13.381336
+    },
+    {
+      "name": "Dolanský most",
+      "latitude": 49.798987,
+      "longitude": 13.468435
+    },
+    {
+      "name": "Masarykův most",
+      "latitude": 49.766199,
+      "longitude": 13.401163
+    },
+    {
+      "name": "lávka u svatého Jiří",
+      "latitude": 49.765114,
+      "longitude": 13.418398
+    },
+    {
+      "name": "most U Jána",
+      "latitude": 49.746201,
+      "longitude": 13.384349
+    },
+    {
+      "name": "most Generála Pattona",
+      "latitude": 49.750827,
+      "longitude": 13.374796
+    },
+    {
+      "name": "Kalikovský most",
+      "latitude": 49.75007,
+      "longitude": 13.364941
+    },
+    {
+      "name": "Rooseveltův most",
+      "latitude": 49.750546,
+      "longitude": 13.379398
+    },
+    {
+      "name": "Malostranský most",
+      "latitude": 49.725373,
+      "longitude": 13.389483
+    },
+    {
+      "name": "Wilsonův most",
+      "latitude": 49.743383,
+      "longitude": 13.38039
+    },
+    {
+      "name": "most Nad Nádražím",
+      "latitude": 49.744786,
+      "longitude": 13.391782
+    },
+    {
+      "name": "Pražský most",
+      "latitude": 49.747416,
+      "longitude": 13.38077
+    },
+    {
+      "name": "most Milénia",
+      "latitude": 49.741263,
+      "longitude": 13.382673
+    },
+    {
+      "name": "Papírenská lávka",
+      "latitude": 49.736876,
+      "longitude": 13.384201
+    },
+    {
+      "name": "Lochotínská lávka",
+      "latitude": 49.750697,
+      "longitude": 13.376695
+    },
+    {
+      "name": "most Ivana Magora Jirouse",
+      "latitude": 49.740164,
+      "longitude": 13.366845
+    },
+    {
+      "name": "Kožíškova lávka",
+      "latitude": 49.740379,
+      "longitude": 13.381631
+    },
+    {
+      "name": "Doudlevecká lávka",
+      "latitude": 49.72888,
+      "longitude": 13.384694
+    },
+    {
+      "name": "Tyršův most",
+      "latitude": 49.718018,
+      "longitude": 13.381953
+    },
+    {
+      "name": "Vokounova lávka",
+      "latitude": 49.716213,
+      "longitude": 13.399872
+    },
+    {
+      "name": "Slunečná lávka",
+      "latitude": 49.718047,
+      "longitude": 13.368547
+    },
+    {
+      "name": "most přes Úhlavu",
+      "latitude": 49.681589,
+      "longitude": 13.397789
+    },
+    {
+      "name": "Kamenný most přes Radbuzu",
+      "latitude": 49.590446,
+      "longitude": 12.717451
+    },
+    {
+      "name": "kamenný most přes Bezděkovský potok",
+      "latitude": 49.591497,
+      "longitude": 12.714784
+    },
+    {
+      "name": "Klostermannův most",
+      "latitude": 49.072595,
+      "longitude": 13.509584
+    },
+    {
+      "name": "Hradlový most",
+      "latitude": 49.040077,
+      "longitude": 13.504525
+    },
+    {
+      "name": "Historický most u IV. hamru",
+      "latitude": 49.771451,
+      "longitude": 14.22744
+    },
+    {
+      "name": "Cholínský most",
+      "latitude": 49.7173,
+      "longitude": 14.327985
+    },
+    {
+      "name": "Most u Hulic",
+      "latitude": 49.701439,
+      "longitude": 15.09748
+    },
+    {
+      "name": "Borovský most",
+      "latitude": 49.699318,
+      "longitude": 15.101648
+    },
+    {
+      "name": "Žďákovský most",
+      "latitude": 49.504306,
+      "longitude": 14.182962
+    },
+    {
+      "name": "Estakáda Radíč",
+      "latitude": 49.582476,
+      "longitude": 14.589003
+    },
+    {
+      "name": "Estakády Heřmaničky",
+      "latitude": 49.603963,
+      "longitude": 14.584897
+    },
+    {
+      "name": "Historický most s kapličkou",
+      "latitude": 49.440287,
+      "longitude": 14.127284
+    },
+    {
+      "name": "Kamenný viadukt Milevsko – Staňkov",
+      "latitude": 49.445187,
+      "longitude": 14.385234
+    },
+    {
+      "name": "Zvíkovský otavský most",
+      "latitude": 49.425367,
+      "longitude": 14.195434
+    },
+    {
+      "name": "Zvíkovský vltavský most",
+      "latitude": 49.427791,
+      "longitude": 14.225214
+    },
+    {
+      "name": "Kamenný viadukt Božetice",
+      "latitude": 49.438952,
+      "longitude": 14.44263
+    },
+    {
+      "name": "Harfový mos",
+      "latitude": 49.426987,
+      "longitude": 14.664365
+    },
+    {
+      "name": "Vojslavický most",
+      "latitude": 49.596061,
+      "longitude": 15.207048
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.635334,
+      "longitude": 16.69692
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.627859,
+      "longitude": 16.698547
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.612724,
+      "longitude": 16.701782
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.615085,
+      "longitude": 16.701753
+    },
+    {
+      "name": "barokní most",
+      "latitude": 49.581157,
+      "longitude": 15.936049
+    },
+    {
+      "name": "Lávka na Farských humnech",
+      "latitude": 49.563099,
+      "longitude": 15.935767
+    },
+    {
+      "name": "Pražský most",
+      "latitude": 49.405989,
+      "longitude": 15.585011
+    },
+    {
+      "name": "Znojemský most",
+      "latitude": 49.392069,
+      "longitude": 15.591965
+    },
+    {
+      "name": "Brněnský most",
+      "latitude": 49.394129,
+      "longitude": 15.597549
+    },
+    {
+      "name": "most U Jánů",
+      "latitude": 49.406824,
+      "longitude": 15.591288
+    },
+    {
+      "name": "viadukt U Jánů",
+      "latitude": 49.406582,
+      "longitude": 15.588679
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.602031,
+      "longitude": 16.698849
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.58788,
+      "longitude": 16.692682
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.561913,
+      "longitude": 16.681409
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.530172,
+      "longitude": 16.662534
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.494414,
+      "longitude": 16.607341
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň–Vratislav",
+      "latitude": 49.466837,
+      "longitude": 16.564183
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň-Vratislav",
+      "latitude": 49.449738,
+      "longitude": 16.557003
+    },
+    {
+      "name": "Plynová lávka",
+      "latitude": 49.349949,
+      "longitude": 14.144565
+    },
+    {
+      "name": "Podolský most",
+      "latitude": 49.357275,
+      "longitude": 14.273293
+    },
+    {
+      "name": "železniční most na Červené",
+      "latitude": 49.381441,
+      "longitude": 14.252379
+    },
+    {
+      "name": "Schwarzenberský železniční most",
+      "latitude": 49.381483,
+      "longitude": 14.252144
+    },
+    {
+      "name": "Kamenný most",
+      "latitude": 49.309849,
+      "longitude": 14.145727
+    },
+    {
+      "name": "Nový most",
+      "latitude": 49.31275,
+      "longitude": 14.144745
+    },
+    {
+      "name": "Šrámkův most",
+      "latitude": 49.306138,
+      "longitude": 14.137471
+    },
+    {
+      "name": "Lávka Dagmar Šimkové",
+      "latitude": 49.307691,
+      "longitude": 14.130555
+    },
+    {
+      "name": "Zátavský most",
+      "latitude": 49.290099,
+      "longitude": 14.119099
+    },
+    {
+      "name": "Bechyňský most Duha",
+      "latitude": 49.296013,
+      "longitude": 14.48067
+    },
+    {
+      "name": "Černovická estakáda",
+      "latitude": 49.276679,
+      "longitude": 14.734989
+    },
+    {
+      "name": "Nový most",
+      "latitude": 48.992865,
+      "longitude": 14.459394
+    },
+    {
+      "name": "Železný most",
+      "latitude": 48.972461,
+      "longitude": 14.472886
+    },
+    {
+      "name": "Zlatý most",
+      "latitude": 48.972025,
+      "longitude": 14.474475
+    },
+    {
+      "name": "Dlouhý most",
+      "latitude": 48.977742,
+      "longitude": 14.466438
+    },
+    {
+      "name": "Most Kosmonautů",
+      "latitude": 48.969133,
+      "longitude": 14.477375
+    },
+    {
+      "name": "Krumlovský most",
+      "latitude": 48.971407,
+      "longitude": 14.475747
+    },
+    {
+      "name": "Modrý most",
+      "latitude": 48.966096,
+      "longitude": 14.477833
+    },
+    {
+      "name": "Dlouhá lávka",
+      "latitude": 48.973593,
+      "longitude": 14.468667
+    },
+    {
+      "name": "estakáda Vidov",
+      "latitude": 48.931921,
+      "longitude": 14.492435
+    },
+    {
+      "name": "kamenný most",
+      "latitude": 49.320156,
+      "longitude": 15.480624
+    },
+    {
+      "name": "kamenný most",
+      "latitude": 49.322037,
+      "longitude": 15.484918
+    },
+    {
+      "name": "most Vysočina",
+      "latitude": 49.360699,
+      "longitude": 16.014253
+    },
+    {
+      "name": "Borovinský most",
+      "latitude": 49.211926,
+      "longitude": 15.870993
+    },
+    {
+      "name": "Velký říkonínský viadukt",
+      "latitude": 49.362735,
+      "longitude": 16.287461
+    },
+    {
+      "name": "Malý říkonínský viadukt",
+      "latitude": 49.358522,
+      "longitude": 16.287842
+    },
+    {
+      "name": "Most Míru",
+      "latitude": 49.355901,
+      "longitude": 16.351902
+    },
+    {
+      "name": "Kateřinský most",
+      "latitude": 49.326578,
+      "longitude": 16.631685
+    },
+    {
+      "name": "Hitlerův pilíř",
+      "latitude": 49.233256,
+      "longitude": 16.521497
+    },
+    {
+      "name": "Maloměřický most",
+      "latitude": 49.215651,
+      "longitude": 16.641992
+    },
+    {
+      "name": "Obřanský most",
+      "latitude": 49.227918,
+      "longitude": 16.649059
+    },
+    {
+      "name": "Husovický most",
+      "latitude": 49.21275,
+      "longitude": 16.63978
+    },
+    {
+      "name": "Lávka Simony Monyové",
+      "latitude": 49.227297,
+      "longitude": 16.643811
+    },
+    {
+      "name": "Makovského lávka",
+      "latitude": 49.228569,
+      "longitude": 16.653224
+    },
+    {
+      "name": "Novosadský most",
+      "latitude": 49.184091,
+      "longitude": 16.602106
+    },
+    {
+      "name": "Kamenomlýnský most",
+      "latitude": 49.20237,
+      "longitude": 16.566478
+    },
+    {
+      "name": "Lávka Berthy Suttnerové",
+      "latitude": 49.206239,
+      "longitude": 16.569974
+    },
+    {
+      "name": "Viadukt Křenová",
+      "latitude": 49.194175,
+      "longitude": 16.619609
+    },
+    {
+      "name": "Zderadův most",
+      "latitude": 49.191222,
+      "longitude": 16.628419
+    },
+    {
+      "name": "Heršpický most",
+      "latitude": 49.174847,
+      "longitude": 16.618636
+    },
+    {
+      "name": "Železniční viadukt u Střelic",
+      "latitude": 49.146255,
+      "longitude": 16.465597
+    },
+    {
+      "name": "Ivančický viadukt",
+      "latitude": 49.082222,
+      "longitude": 16.409641
+    },
+    {
+      "name": "Ivančický viadukt",
+      "latitude": 49.082297,
+      "longitude": 16.411511
+    },
+    {
+      "name": "Most exteritoriální dálnice Vídeň–Vratislav",
+      "latitude": 49.120126,
+      "longitude": 16.566378
+    },
+    {
+      "name": "Židlochovický most",
+      "latitude": 49.036636,
+      "longitude": 16.616237
+    },
+    {
+      "name": "Most Pionýrů",
+      "latitude": 49.84219,
+      "longitude": 18.295576
+    },
+    {
+      "name": "Most Sokolovských hrdinů",
+      "latitude": 49.84041,
+      "longitude": 18.545851
+    },
+    {
+      "name": "Svinovské mosty",
+      "latitude": 49.824193,
+      "longitude": 18.210754
+    },
+    {
+      "name": "most presidenta Masaryka",
+      "latitude": 49.649258,
+      "longitude": 18.216872
+    },
+    {
+      "name": "most Václava Rendera",
+      "latitude": 49.595366,
+      "longitude": 17.26771
+    },
+    {
+      "name": "most - průchod",
+      "latitude": 49.596368,
+      "longitude": 17.244018
+    },
+    {
+      "name": "Ekodukt Krčmaň",
+      "latitude": 49.523086,
+      "longitude": 17.330488
+    },
+    {
+      "name": "estakáda Haná",
+      "latitude": 49.474568,
+      "longitude": 17.132612
+    },
+    {
+      "name": "most Legií",
+      "latitude": 49.45244,
+      "longitude": 17.44196
+    },
+    {
+      "name": "most Dr. Miroslava Tyrše",
+      "latitude": 49.456894,
+      "longitude": 17.448227
+    },
+    {
+      "name": "estakáda Předmostí",
+      "latitude": 49.462528,
+      "longitude": 17.438189
+    },
+    {
+      "name": "lávka U Loděnice",
+      "latitude": 49.457047,
+      "longitude": 17.452601
+    },
+    {
+      "name": "most Míru",
+      "latitude": 49.455885,
+      "longitude": 17.445939
+    },
+    {
+      "name": "Hranický viadukt",
+      "latitude": 49.561647,
+      "longitude": 17.729053
+    },
+    {
+      "name": "Jezernický viadukt",
+      "latitude": 49.537211,
+      "longitude": 17.630765
+    },
+    {
+      "name": "Most 40. Výročí osvobození Československa Sovětskou armádou",
+      "latitude": 49.522726,
+      "longitude": 17.592731
+    },
+    {
+      "name": "Tichavský most",
+      "latitude": 49.548829,
+      "longitude": 18.214287
+    },
+    {
+      "name": "Frýdlantské mosty",
+      "latitude": 49.831941,
+      "longitude": 18.282252
+    },
+    {
+      "name": "Most Miloše Sýkory",
+      "latitude": 49.837432,
+      "longitude": 18.296158
+    },
+    {
+      "name": "Hrabovský most",
+      "latitude": 49.771245,
+      "longitude": 18.296419
+    },
+    {
+      "name": "Most Svobody / Most Wolności",
+      "latitude": 49.743226,
+      "longitude": 18.628914
+    },
+    {
+      "name": "Estakáda",
+      "latitude": 49.68094,
+      "longitude": 18.34947
+    },
+    {
+      "name": "Nedokončený dálniční most",
+      "latitude": 49.201298,
+      "longitude": 17.380549
+    },
+    {
+      "name": "nedokončený dálniční most",
+      "latitude": 49.155104,
+      "longitude": 17.22802
+    },
+    {
+      "name": "Hladný most",
+      "latitude": 49.165221,
+      "longitude": 17.331011
+    },
+    {
+      "name": "nedokončený dálniční most",
+      "latitude": 49.15206,
+      "longitude": 17.235835
+    },
+    {
+      "name": "most - nedokončená dálnice",
+      "latitude": 49.149558,
+      "longitude": 17.244346
+    },
+    {
+      "name": "most nedokončené silnice Zlín – Luhačovice přes Ludkovický potok",
+      "latitude": 49.112275,
+      "longitude": 17.723509
+    },
+    {
+      "name": "Soumarský most",
+      "latitude": 48.908549,
+      "longitude": 13.82491
+    },
+    {
+      "name": "Plášťový most",
+      "latitude": 48.812611,
+      "longitude": 14.312922
+    },
+    {
+      "name": "U Poráků",
+      "latitude": 48.815673,
+      "longitude": 14.318283
+    },
+    {
+      "name": "Lazebnický most",
+      "latitude": 48.811821,
+      "longitude": 14.315706
+    },
+    {
+      "name": "most Dr. E. Beneše",
+      "latitude": 48.809296,
+      "longitude": 14.314787
+    },
+    {
+      "name": "Jelení lávka",
+      "latitude": 48.812161,
+      "longitude": 14.31351
+    },
+    {
+      "name": "most U Jatek",
+      "latitude": 48.814244,
+      "longitude": 14.319897
+    },
+    {
+      "name": "most Rozsyp",
+      "latitude": 48.818309,
+      "longitude": 14.325557
+    },
+    {
+      "name": "visutá chodba",
+      "latitude": 48.813032,
+      "longitude": 14.314953
+    },
+    {
+      "name": "estakáda Plavnice",
+      "latitude": 48.893371,
+      "longitude": 14.469834
+    },
+    {
+      "name": "Most Otmanka",
+      "latitude": 48.881207,
+      "longitude": 14.46283
+    },
+    {
+      "name": "Kozákův most",
+      "latitude": 48.820363,
+      "longitude": 14.482888
+    },
+    {
+      "name": "U Zelené ratolesti",
+      "latitude": 48.8054,
+      "longitude": 14.312625
+    },
+    {
+      "name": "Lávka Rechle",
+      "latitude": 48.800465,
+      "longitude": 14.314336
+    },
+    {
+      "name": "Červeňák",
+      "latitude": 48.859579,
+      "longitude": 16.067245
+    },
+    {
+      "name": "Eisernes Bett",
+      "latitude": 48.731014,
+      "longitude": 16.339538
+    },
+    {
+      "name": "Steinernes Bett",
+      "latitude": 48.723129,
+      "longitude": 16.356576
+    },
+    {
+      "name": "Oskar",
+      "latitude": 48.736951,
+      "longitude": 16.877263
+    }
+  ],
+  "meta": {
+    "title": "Mosty - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných mostů v České republice (294 záznamů) — body zájmu z OpenStreetMap (tag man_made=bridge), výřez EU-POIS/CZ. Obsahuje 294 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Mosty | ListBase",
+    "seo_description": "Stáhnout Mosty — 294 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 294 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

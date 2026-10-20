@@ -1,0 +1,1411 @@
+{
+  "id": "cs-osm-univerzity",
+  "name": "Univerzity (OSM)",
+  "title": "Univerzity (OSM)",
+  "description": "Seznam pojmenovaných univerzit v České republice (274 záznamů) — body zájmu z OpenStreetMap (tag amenity=university), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 274,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ČVUT",
+      "latitude": 50.778984,
+      "longitude": 14.215964
+    },
+    {
+      "name": "Technická univerzita v Liberci, budova H",
+      "latitude": 50.77218,
+      "longitude": 15.061275
+    },
+    {
+      "name": "Technická univerzita",
+      "latitude": 50.773583,
+      "longitude": 15.074781
+    },
+    {
+      "name": "Vysokoškolské koleje Harcov",
+      "latitude": 50.770577,
+      "longitude": 15.087193
+    },
+    {
+      "name": "Technická univerzita v Liberci budova P",
+      "latitude": 50.768354,
+      "longitude": 15.063048
+    },
+    {
+      "name": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "latitude": 50.67513,
+      "longitude": 14.036036
+    },
+    {
+      "name": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem - rektorát/Kolej K6",
+      "latitude": 50.67492,
+      "longitude": 14.036308
+    },
+    {
+      "name": "koleje UJEP",
+      "latitude": 50.665927,
+      "longitude": 14.013404
+    },
+    {
+      "name": "Univerzita J.E. Purkyně (UJEP), Pedagogická fakulta",
+      "latitude": 50.66575,
+      "longitude": 14.021855
+    },
+    {
+      "name": "sportovní hala UJEP",
+      "latitude": 50.666012,
+      "longitude": 14.020618
+    },
+    {
+      "name": "Fakulta sociálně ekonomická Univerzity J. E. Purkyně v Ústí nad Labem",
+      "latitude": 50.665163,
+      "longitude": 14.028893
+    },
+    {
+      "name": "Katedra biologie UJEP",
+      "latitude": 50.665091,
+      "longitude": 14.003484
+    },
+    {
+      "name": "UJEP Kampus",
+      "latitude": 50.665385,
+      "longitude": 14.024112
+    },
+    {
+      "name": "FZS",
+      "latitude": 50.661738,
+      "longitude": 14.037621
+    },
+    {
+      "name": "Konzultační středisko při SPŠ a VOŠ Chomutov",
+      "latitude": 50.457876,
+      "longitude": 13.414644
+    },
+    {
+      "name": "Česká zemědělská univerzita v Praze ŠZP Lány - Vinařské středisko Mělník",
+      "latitude": 50.369533,
+      "longitude": 14.496037
+    },
+    {
+      "name": "Škoda Auto Vysoká škola",
+      "latitude": 50.414653,
+      "longitude": 14.90312
+    },
+    {
+      "name": "Pedagogická fakulta Univerzity Karlovy",
+      "latitude": 50.184813,
+      "longitude": 14.666867
+    },
+    {
+      "name": "ČVUT - FBMI",
+      "latitude": 50.135212,
+      "longitude": 14.104805
+    },
+    {
+      "name": "Vysoká škola finanční a správní",
+      "latitude": 50.14608,
+      "longitude": 14.100782
+    },
+    {
+      "name": "Vysoká škola manažerské informatiky, ekonomiky a práva",
+      "latitude": 50.13557,
+      "longitude": 14.095403
+    },
+    {
+      "name": "ČVUT FBMI - areál Kasárna",
+      "latitude": 50.137612,
+      "longitude": 14.086512
+    },
+    {
+      "name": "Kokos",
+      "latitude": 50.135365,
+      "longitude": 14.104428
+    },
+    {
+      "name": "Vysoká škola hotelová",
+      "latitude": 50.128238,
+      "longitude": 14.410862
+    },
+    {
+      "name": "Rektorát",
+      "latitude": 50.130023,
+      "longitude": 14.37342
+    },
+    {
+      "name": "Fakulta lesnická a dřevařská",
+      "latitude": 50.130006,
+      "longitude": 14.369903
+    },
+    {
+      "name": "Česká zemědělská univerzita v Praze",
+      "latitude": 50.129919,
+      "longitude": 14.373024
+    },
+    {
+      "name": "Dřevařský pavilon",
+      "latitude": 50.130658,
+      "longitude": 14.369233
+    },
+    {
+      "name": "Laboratoře a dílny",
+      "latitude": 50.12862,
+      "longitude": 14.37452
+    },
+    {
+      "name": "Fakulta životního prostředí",
+      "latitude": 50.129622,
+      "longitude": 14.370391
+    },
+    {
+      "name": "Studijní a informační centrum",
+      "latitude": 50.128778,
+      "longitude": 14.372802
+    },
+    {
+      "name": "Technická Fakulta",
+      "latitude": 50.129296,
+      "longitude": 14.374275
+    },
+    {
+      "name": "Provozně ekonomická fakulta",
+      "latitude": 50.131077,
+      "longitude": 14.373442
+    },
+    {
+      "name": "Fakulta agrobiologie, potravinových a přírodních zdojů",
+      "latitude": 50.130101,
+      "longitude": 14.372166
+    },
+    {
+      "name": "Kruhová hala ČZU",
+      "latitude": 50.12872,
+      "longitude": 14.37601
+    },
+    {
+      "name": "Fakulta elektrotechnická ČVUT",
+      "latitude": 50.10263,
+      "longitude": 14.392979
+    },
+    {
+      "name": "Fakulta strojní ČVUT",
+      "latitude": 50.103326,
+      "longitude": 14.391682
+    },
+    {
+      "name": "Kloknerův výzkumný a zkušební ústav hmot a konstrukcí stavebních ČVUT",
+      "latitude": 50.101497,
+      "longitude": 14.391997
+    },
+    {
+      "name": "Centrum informačních a poradenských služeb ČVUT",
+      "latitude": 50.105783,
+      "longitude": 14.389039
+    },
+    {
+      "name": "Mezinárodní baptistický teologický seminář",
+      "latitude": 50.10579,
+      "longitude": 14.351601
+    },
+    {
+      "name": "CESNET",
+      "latitude": 50.098804,
+      "longitude": 14.388678
+    },
+    {
+      "name": "České vysoké učení technické v Praze",
+      "latitude": 50.102903,
+      "longitude": 14.394635
+    },
+    {
+      "name": "Fakulta stavební ČVUT",
+      "latitude": 50.104109,
+      "longitude": 14.38815
+    },
+    {
+      "name": "Fakulta architektury ČVUT",
+      "latitude": 50.105037,
+      "longitude": 14.38989
+    },
+    {
+      "name": "Fakulta informačních technologií ČVUT",
+      "latitude": 50.105007,
+      "longitude": 14.389523
+    },
+    {
+      "name": "Ústav organické chemie a biochemie AV ČR",
+      "latitude": 50.105854,
+      "longitude": 14.391256
+    },
+    {
+      "name": "Masarykův ústav vyšších studií Českého vysokého učení technického",
+      "latitude": 50.101078,
+      "longitude": 14.386031
+    },
+    {
+      "name": "Vysoká škola chemicko-technologická v Praze",
+      "latitude": 50.102604,
+      "longitude": 14.389013
+    },
+    {
+      "name": "Kampus Dejvice",
+      "latitude": 50.103588,
+      "longitude": 14.392021
+    },
+    {
+      "name": "Hudební a taneční fakulta AMU",
+      "latitude": 50.087892,
+      "longitude": 14.402016
+    },
+    {
+      "name": "Akademie můzických umění",
+      "latitude": 50.087548,
+      "longitude": 14.401268
+    },
+    {
+      "name": "Akademie múzických umění v Praze",
+      "latitude": 50.087649,
+      "longitude": 14.402354
+    },
+    {
+      "name": "Filmová a televizní fakulta Akademie múzických umění v Praze",
+      "latitude": 50.081683,
+      "longitude": 14.41321
+    },
+    {
+      "name": "Fakulta sociálních věd Univerzity Karlovy, Hollar",
+      "latitude": 50.084315,
+      "longitude": 14.413613
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy",
+      "latitude": 50.088328,
+      "longitude": 14.403194
+    },
+    {
+      "name": "2. lékařská fakulta",
+      "latitude": 50.074018,
+      "longitude": 14.341078
+    },
+    {
+      "name": "Fakulta tělesné výchovy a sportu Univerzity Karlovy",
+      "latitude": 50.091803,
+      "longitude": 14.333148
+    },
+    {
+      "name": "Anglo-americká vysoká škola",
+      "latitude": 50.089766,
+      "longitude": 14.408708
+    },
+    {
+      "name": "Vysoká škola finanční a správní",
+      "latitude": 50.07013,
+      "longitude": 14.408328
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy",
+      "latitude": 50.115732,
+      "longitude": 14.449739
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy",
+      "latitude": 50.115073,
+      "longitude": 14.450195
+    },
+    {
+      "name": "Fakulta humanitních studií, Univerzita Karlova",
+      "latitude": 50.116189,
+      "longitude": 14.442267
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy",
+      "latitude": 50.114923,
+      "longitude": 14.449234
+    },
+    {
+      "name": "Akademie výtvarných umění",
+      "latitude": 50.102748,
+      "longitude": 14.424585
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy, FJFI ČVUT",
+      "latitude": 50.115216,
+      "longitude": 14.448882
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy",
+      "latitude": 50.1157,
+      "longitude": 14.450589
+    },
+    {
+      "name": "IMPAKT",
+      "latitude": 50.116248,
+      "longitude": 14.449684
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy",
+      "latitude": 50.094137,
+      "longitude": 14.450405
+    },
+    {
+      "name": "Filozofická fakulta Univerzity Karlovy – Šporkův palác",
+      "latitude": 50.08731,
+      "longitude": 14.430367
+    },
+    {
+      "name": "North Carolina State University - Prague Institute",
+      "latitude": 50.086462,
+      "longitude": 14.418993
+    },
+    {
+      "name": "Filozofická fakulta Univerzity Karlovy, Celetná 20",
+      "latitude": 50.086997,
+      "longitude": 14.424191
+    },
+    {
+      "name": "Newton College",
+      "latitude": 50.083435,
+      "longitude": 14.425401
+    },
+    {
+      "name": "Vysoká škola obchodní",
+      "latitude": 50.080751,
+      "longitude": 14.420339
+    },
+    {
+      "name": "Business Institut EDU",
+      "latitude": 50.071476,
+      "longitude": 14.454264
+    },
+    {
+      "name": "Studio FAMU",
+      "latitude": 50.091475,
+      "longitude": 14.428549
+    },
+    {
+      "name": "Děkanát 1. LF UK",
+      "latitude": 50.073704,
+      "longitude": 14.427791
+    },
+    {
+      "name": "Přírodovědecká fakulta UK, Sekce Biologie",
+      "latitude": 50.072259,
+      "longitude": 14.424179
+    },
+    {
+      "name": "Metropolitní univerzita Praha",
+      "latitude": 50.068939,
+      "longitude": 14.498107
+    },
+    {
+      "name": "Pedagogická fakulta",
+      "latitude": 50.077699,
+      "longitude": 14.415723
+    },
+    {
+      "name": "Pedagogická fakulta Univerzity Karlovy",
+      "latitude": 50.079652,
+      "longitude": 14.420665
+    },
+    {
+      "name": "University of New York in Prague",
+      "latitude": 50.073489,
+      "longitude": 14.433948
+    },
+    {
+      "name": "Katedra botaniky a Ústav pro životní prostředí",
+      "latitude": 50.071372,
+      "longitude": 14.420992
+    },
+    {
+      "name": "Fakulta dopravní, Masarykův ústav vyšších studií ČVUT",
+      "latitude": 50.067198,
+      "longitude": 14.424294
+    },
+    {
+      "name": "Přírodovědecká fakulta Univerzity Karlovy",
+      "latitude": 50.068625,
+      "longitude": 14.424554
+    },
+    {
+      "name": "Fakulta dopravní ČVUT",
+      "latitude": 50.083388,
+      "longitude": 14.416968
+    },
+    {
+      "name": "Univerzita Karlova v Praze – 3. lékařská fakulta",
+      "latitude": 50.074233,
+      "longitude": 14.473967
+    },
+    {
+      "name": "Vysoká škola finanční a správní",
+      "latitude": 50.071092,
+      "longitude": 14.452867
+    },
+    {
+      "name": "Fakulta dopravní ČVUT",
+      "latitude": 50.089405,
+      "longitude": 14.4368
+    },
+    {
+      "name": "Vysoká škola ekonomická v Praze",
+      "latitude": 50.083157,
+      "longitude": 14.441063
+    },
+    {
+      "name": "Filozofická fakulta Univerzity Karlovy, Na Příkopě 29",
+      "latitude": 50.086534,
+      "longitude": 14.426637
+    },
+    {
+      "name": "Filozofická fakulta Univerzity Karlovy",
+      "latitude": 50.088772,
+      "longitude": 14.416247
+    },
+    {
+      "name": "Vysoká škola uměleckoprůmyslová v Praze",
+      "latitude": 50.088427,
+      "longitude": 14.414863
+    },
+    {
+      "name": "České vysoké učení technické v Praze",
+      "latitude": 50.07665,
+      "longitude": 14.417927
+    },
+    {
+      "name": "Přírodovědecká fakulta UK biologie",
+      "latitude": 50.071823,
+      "longitude": 14.423731
+    },
+    {
+      "name": "Přírodovědecká fakulta Univerzity Karlovy - budova chemické sekce",
+      "latitude": 50.067812,
+      "longitude": 14.424978
+    },
+    {
+      "name": "Studijní odbor Přírodovědecké fakulty Univerzity Karlovy",
+      "latitude": 50.070487,
+      "longitude": 14.419901
+    },
+    {
+      "name": "Matematicko-fyzikální fakulta Univerzity Karlovy",
+      "latitude": 50.070234,
+      "longitude": 14.427824
+    },
+    {
+      "name": "Divadelní fakulta Akademie múzických umění v Praze",
+      "latitude": 50.085727,
+      "longitude": 14.417166
+    },
+    {
+      "name": "Kampus Hybernská",
+      "latitude": 50.086635,
+      "longitude": 14.429678
+    },
+    {
+      "name": "Bankovní Institut Vysoká škola",
+      "latitude": 50.052986,
+      "longitude": 14.332997
+    },
+    {
+      "name": "Fakulta Sociálních Věd UK",
+      "latitude": 50.054557,
+      "longitude": 14.350731
+    },
+    {
+      "name": "Vysoká škola ekonomie a managementu",
+      "latitude": 50.052773,
+      "longitude": 14.332672
+    },
+    {
+      "name": "Husitská teologická fakulta UK",
+      "latitude": 50.045047,
+      "longitude": 14.441679
+    },
+    {
+      "name": "Pražská vysoká škola psychosociálních studií",
+      "latitude": 50.038097,
+      "longitude": 14.517281
+    },
+    {
+      "name": "Koleje a menzy UK - kolej Hostivař",
+      "latitude": 50.052209,
+      "longitude": 14.539926
+    },
+    {
+      "name": "Policejní akademie",
+      "latitude": 50.017573,
+      "longitude": 14.430215
+    },
+    {
+      "name": "Vysoká škola ekonomická",
+      "latitude": 50.020509,
+      "longitude": 14.492394
+    },
+    {
+      "name": "Univerzita Karlova, Lékařská Fakulta, Hradec Králové",
+      "latitude": 50.213374,
+      "longitude": 15.835121
+    },
+    {
+      "name": "Univerzita Hradec Králové Pedagogická fakulta Dekanat",
+      "latitude": 50.209464,
+      "longitude": 15.826651
+    },
+    {
+      "name": "Univerzita Hradec Králové",
+      "latitude": 50.20937,
+      "longitude": 15.826596
+    },
+    {
+      "name": "Lékařská Fakulta",
+      "latitude": 50.213717,
+      "longitude": 15.835183
+    },
+    {
+      "name": "Farmaceutická fakulta UK",
+      "latitude": 50.201614,
+      "longitude": 15.835685
+    },
+    {
+      "name": "Pedagogická fakulta, UHK, Budova A",
+      "latitude": 50.203608,
+      "longitude": 15.829983
+    },
+    {
+      "name": "Fakulta informatiky a managementu, UHK, budova J",
+      "latitude": 50.204257,
+      "longitude": 15.829337
+    },
+    {
+      "name": "Universita Hradec Králové",
+      "latitude": 50.203341,
+      "longitude": 15.829715
+    },
+    {
+      "name": "HC - FChT - laboratoře, katedry",
+      "latitude": 50.050016,
+      "longitude": 15.768337
+    },
+    {
+      "name": "Univerzitní aula",
+      "latitude": 50.04964,
+      "longitude": 15.766421
+    },
+    {
+      "name": "HB - FChT - laboratoře, katedry",
+      "latitude": 50.050188,
+      "longitude": 15.767005
+    },
+    {
+      "name": "Menza",
+      "latitude": 50.049599,
+      "longitude": 15.768333
+    },
+    {
+      "name": "HA - FChT - děkanát, učebny",
+      "latitude": 50.049827,
+      "longitude": 15.767664
+    },
+    {
+      "name": "KD - Koleje, pavilon D",
+      "latitude": 50.048558,
+      "longitude": 15.766744
+    },
+    {
+      "name": "KC - Koleje, pavilon C",
+      "latitude": 50.048677,
+      "longitude": 15.767725
+    },
+    {
+      "name": "KB - Koleje, pavilon B",
+      "latitude": 50.048783,
+      "longitude": 15.768734
+    },
+    {
+      "name": "KA - Koleje, pavilon A",
+      "latitude": 50.048902,
+      "longitude": 15.769709
+    },
+    {
+      "name": "Vysokoškolský klub",
+      "latitude": 50.048885,
+      "longitude": 15.770448
+    },
+    {
+      "name": "EA - FES, FF - děkanáty, učebny",
+      "latitude": 50.047957,
+      "longitude": 15.770588
+    },
+    {
+      "name": "EB - DFJP, FF, FES - učebny",
+      "latitude": 50.047781,
+      "longitude": 15.770071
+    },
+    {
+      "name": "DB - Jazykové centrum, DFJP, FES - posluchárny, učebny",
+      "latitude": 50.048097,
+      "longitude": 15.769773
+    },
+    {
+      "name": "EC - Univezitní dílny",
+      "latitude": 50.047488,
+      "longitude": 15.770679
+    },
+    {
+      "name": "TA - Katedra tělovýchovy a sportu, tělocvičny",
+      "latitude": 50.047205,
+      "longitude": 15.772218
+    },
+    {
+      "name": "Rektorát",
+      "latitude": 50.04726,
+      "longitude": 15.769276
+    },
+    {
+      "name": "DA - DFJP - děkanát, učebny",
+      "latitude": 50.047909,
+      "longitude": 15.76874
+    },
+    {
+      "name": "DC - DFJP - katedry",
+      "latitude": 50.047757,
+      "longitude": 15.769172
+    },
+    {
+      "name": "KE - Koleje, pavilon E",
+      "latitude": 50.047605,
+      "longitude": 15.766874
+    },
+    {
+      "name": "KF - Koleje, pavilon F",
+      "latitude": 50.046923,
+      "longitude": 15.767194
+    },
+    {
+      "name": "G - Katedry - FF, KEMCh",
+      "latitude": 50.046785,
+      "longitude": 15.768264
+    },
+    {
+      "name": "Galerie umění",
+      "latitude": 50.04914,
+      "longitude": 15.76663
+    },
+    {
+      "name": "TA - Katedra tělovýchovy a sportu, Areál vodních sportů a tenisu",
+      "latitude": 50.048366,
+      "longitude": 15.784322
+    },
+    {
+      "name": "DD, CC-CG - Fakulta chemicko-technologická UPCE (FChT, DFJP)",
+      "latitude": 50.061292,
+      "longitude": 15.739229
+    },
+    {
+      "name": "CB - UNIT, CEMNAT",
+      "latitude": 50.03322,
+      "longitude": 15.768247
+    },
+    {
+      "name": "Univerzita Pardubice, Fakulta Zdravotnických studií",
+      "latitude": 50.022594,
+      "longitude": 15.804957
+    },
+    {
+      "name": "Univerzita Pardubice - Fakulta elektrotechniky a informatiky",
+      "latitude": 50.033282,
+      "longitude": 15.76775
+    },
+    {
+      "name": "Fakulta restaurování Univerzity Pardubice",
+      "latitude": 49.872264,
+      "longitude": 16.312585
+    },
+    {
+      "name": "Západočeská Univerzita",
+      "latitude": 49.724858,
+      "longitude": 13.35225
+    },
+    {
+      "name": "Fakulta aplikovaných věd",
+      "latitude": 49.726659,
+      "longitude": 13.351967
+    },
+    {
+      "name": "Fakulta ekonomická",
+      "latitude": 49.725245,
+      "longitude": 13.350157
+    },
+    {
+      "name": "Centrum informatizace a výpočetní techniky (CIV)",
+      "latitude": 49.725105,
+      "longitude": 13.352874
+    },
+    {
+      "name": "Ústav jazykové přípravy",
+      "latitude": 49.724886,
+      "longitude": 13.351971
+    },
+    {
+      "name": "Fakulta strojní",
+      "latitude": 49.725216,
+      "longitude": 13.351228
+    },
+    {
+      "name": "Fakulta designu a umění Ladislava Sutnara",
+      "latitude": 49.725123,
+      "longitude": 13.348337
+    },
+    {
+      "name": "Fakulta elektrotechnická",
+      "latitude": 49.723941,
+      "longitude": 13.349907
+    },
+    {
+      "name": "Ústav tělesné výchovy a sportu",
+      "latitude": 49.724348,
+      "longitude": 13.354027
+    },
+    {
+      "name": "Ústav tělesné výchovy, Lékařská fakulta v Plzni",
+      "latitude": 49.759953,
+      "longitude": 13.373091
+    },
+    {
+      "name": "Procháskův pavilon",
+      "latitude": 49.761401,
+      "longitude": 13.369101
+    },
+    {
+      "name": "Pavlovův pavilon",
+      "latitude": 49.761643,
+      "longitude": 13.367955
+    },
+    {
+      "name": "Univerzita Karlova, Lékařská fakulta v Plzni",
+      "latitude": 49.762728,
+      "longitude": 13.374784
+    },
+    {
+      "name": "Lékařská fakulta v Plzni, Univerzita Karlova",
+      "latitude": 49.767896,
+      "longitude": 13.367014
+    },
+    {
+      "name": "Fakulta pedagogická",
+      "latitude": 49.74944,
+      "longitude": 13.375398
+    },
+    {
+      "name": "Děkanát Lékařská Fakulta v Plzni - Univerzita Karlova",
+      "latitude": 49.745054,
+      "longitude": 13.371825
+    },
+    {
+      "name": "Fakulta zdravotnických studií ZČU",
+      "latitude": 49.745126,
+      "longitude": 13.370224
+    },
+    {
+      "name": "Fakulta pedagogická Západočeské univerzity",
+      "latitude": 49.736963,
+      "longitude": 13.370852
+    },
+    {
+      "name": "Fakulta právnická",
+      "latitude": 49.747166,
+      "longitude": 13.374331
+    },
+    {
+      "name": "Pedagogická fakulta Západočeské univerzity",
+      "latitude": 49.736657,
+      "longitude": 13.371008
+    },
+    {
+      "name": "Fakulta zdravotnických studií",
+      "latitude": 49.745075,
+      "longitude": 13.370159
+    },
+    {
+      "name": "Fakulta filozofická",
+      "latitude": 49.747698,
+      "longitude": 13.374494
+    },
+    {
+      "name": "Vysoká škola polytechnická Jihlava",
+      "latitude": 49.399012,
+      "longitude": 15.582332
+    },
+    {
+      "name": "Univerzitní centrum Telč",
+      "latitude": 49.184783,
+      "longitude": 15.451236
+    },
+    {
+      "name": "MEVPIS FROV JU",
+      "latitude": 49.152173,
+      "longitude": 14.178171
+    },
+    {
+      "name": "VŠTE",
+      "latitude": 48.995887,
+      "longitude": 14.494786
+    },
+    {
+      "name": "Pedagogická fakulta Jihočeské univerzity",
+      "latitude": 48.971164,
+      "longitude": 14.477457
+    },
+    {
+      "name": "Pedagogicka fakulta Jihočeské univerzity",
+      "latitude": 48.973733,
+      "longitude": 14.482417
+    },
+    {
+      "name": "PřF JČU budova O",
+      "latitude": 48.97733,
+      "longitude": 14.445913
+    },
+    {
+      "name": "Katedra botaniky PřF JU",
+      "latitude": 48.974112,
+      "longitude": 14.455125
+    },
+    {
+      "name": "PřF Budova A",
+      "latitude": 48.977056,
+      "longitude": 14.446281
+    },
+    {
+      "name": "PřF JCU Budova B",
+      "latitude": 48.97794,
+      "longitude": 14.445806
+    },
+    {
+      "name": "Jihočeská univerzita",
+      "latitude": 48.977043,
+      "longitude": 14.451682
+    },
+    {
+      "name": "PřF JČU Budova C",
+      "latitude": 48.977423,
+      "longitude": 14.44511
+    },
+    {
+      "name": "Jihočeská univerzita",
+      "latitude": 48.974545,
+      "longitude": 14.455756
+    },
+    {
+      "name": "VŠE v Praze - Fakulta managementu",
+      "latitude": 49.148854,
+      "longitude": 15.005905
+    },
+    {
+      "name": "Gymnázium Blansko",
+      "latitude": 49.361026,
+      "longitude": 16.64673
+    },
+    {
+      "name": "ŠLP Křtiny",
+      "latitude": 49.291992,
+      "longitude": 16.635998
+    },
+    {
+      "name": "Fakulta informačních technologií VUT",
+      "latitude": 49.226572,
+      "longitude": 16.595378
+    },
+    {
+      "name": "Fakulta chemická",
+      "latitude": 49.231592,
+      "longitude": 16.578199
+    },
+    {
+      "name": "Fakulta podnikatelská",
+      "latitude": 49.231112,
+      "longitude": 16.573364
+    },
+    {
+      "name": "Fakulta informačních technologií VUT",
+      "latitude": 49.226881,
+      "longitude": 16.596594
+    },
+    {
+      "name": "Fakulta strojního inženýrství VUT v Brně",
+      "latitude": 49.224556,
+      "longitude": 16.575772
+    },
+    {
+      "name": "Fakulta elektrotechniky a komunikačních technologií VUT v Brně",
+      "latitude": 49.226768,
+      "longitude": 16.574564
+    },
+    {
+      "name": "Fakulta podnikatelská - VUT Brno",
+      "latitude": 49.231106,
+      "longitude": 16.573499
+    },
+    {
+      "name": "Veterinární univerzita Brno",
+      "latitude": 49.217799,
+      "longitude": 16.596154
+    },
+    {
+      "name": "Fakulta regionálního rozvoje a mezinárodních studií",
+      "latitude": 49.218389,
+      "longitude": 16.614265
+    },
+    {
+      "name": "Mendelova univerzita v Brně",
+      "latitude": 49.210889,
+      "longitude": 16.615012
+    },
+    {
+      "name": "Ekonomicko-správní fakulta Masarykovy Univerzity",
+      "latitude": 49.193478,
+      "longitude": 16.577257
+    },
+    {
+      "name": "Přírodovědecká fakulta Masarykovy univerzity",
+      "latitude": 49.204229,
+      "longitude": 16.597489
+    },
+    {
+      "name": "VUT",
+      "latitude": 49.18636,
+      "longitude": 16.58853
+    },
+    {
+      "name": "Právnická fakulta MU",
+      "latitude": 49.208311,
+      "longitude": 16.592624
+    },
+    {
+      "name": "VUT",
+      "latitude": 49.196822,
+      "longitude": 16.60032
+    },
+    {
+      "name": "Moravák Brno",
+      "latitude": 49.199961,
+      "longitude": 16.60607
+    },
+    {
+      "name": "Filozofická fakulta MU – budova N",
+      "latitude": 49.201013,
+      "longitude": 16.603794
+    },
+    {
+      "name": "Fakulta výtvarných umění VUT",
+      "latitude": 49.197689,
+      "longitude": 16.592665
+    },
+    {
+      "name": "Pedagogická fakulta MU",
+      "latitude": 49.187089,
+      "longitude": 16.595972
+    },
+    {
+      "name": "Pedagogická fakulta MU",
+      "latitude": 49.186276,
+      "longitude": 16.598857
+    },
+    {
+      "name": "Fakulta architektury VUT",
+      "latitude": 49.18706,
+      "longitude": 16.593846
+    },
+    {
+      "name": "Filozofická fakulta Masarykovy Univerzity",
+      "latitude": 49.200458,
+      "longitude": 16.597988
+    },
+    {
+      "name": "Rektorát MU",
+      "latitude": 49.198622,
+      "longitude": 16.605438
+    },
+    {
+      "name": "Fakulta stavební VUT v Brně",
+      "latitude": 49.205594,
+      "longitude": 16.590185
+    },
+    {
+      "name": "Rektorát Masarykovy univerzity",
+      "latitude": 49.196651,
+      "longitude": 16.602327
+    },
+    {
+      "name": "Fakulta sociálních studií Masarykovy univerzity",
+      "latitude": 49.197463,
+      "longitude": 16.602388
+    },
+    {
+      "name": "Fakulta informatiky Masarykovy univerzity",
+      "latitude": 49.209961,
+      "longitude": 16.599267
+    },
+    {
+      "name": "Univerzita obrany",
+      "latitude": 49.20751,
+      "longitude": 16.594908
+    },
+    {
+      "name": "Ambis",
+      "latitude": 49.189054,
+      "longitude": 16.620149
+    },
+    {
+      "name": "Vyšší policejní škola MV v Brně",
+      "latitude": 49.174478,
+      "longitude": 16.5912
+    },
+    {
+      "name": "Univerzitní kampus Bohunice",
+      "latitude": 49.177057,
+      "longitude": 16.570915
+    },
+    {
+      "name": "Přírodovědecká fakulta Uni. Palackého OL",
+      "latitude": 50.019293,
+      "longitude": 17.299583
+    },
+    {
+      "name": "Slezská Univerzita - Filozoficko-přírodovědecká fakulta",
+      "latitude": 49.936549,
+      "longitude": 17.904226
+    },
+    {
+      "name": "Slezská Univerzita - Filozoficko-přírodovědecká fakulta",
+      "latitude": 49.933181,
+      "longitude": 17.901725
+    },
+    {
+      "name": "Slezská univerzita FPF",
+      "latitude": 49.936876,
+      "longitude": 17.897665
+    },
+    {
+      "name": "Slezská univerzita FVP",
+      "latitude": 49.936009,
+      "longitude": 17.896975
+    },
+    {
+      "name": "Areál FAST na Ludvíka Podéště v Porubě",
+      "latitude": 49.845349,
+      "longitude": 18.153466
+    },
+    {
+      "name": "Janáčkova konzervatoř",
+      "latitude": 49.83851,
+      "longitude": 18.283073
+    },
+    {
+      "name": "Fakulta filosofická (dočasně budova XH)",
+      "latitude": 49.840128,
+      "longitude": 18.293108
+    },
+    {
+      "name": "Kartové centrum",
+      "latitude": 49.840088,
+      "longitude": 18.289035
+    },
+    {
+      "name": "Katedra biologie a ekologie, Přírodovědecká fakulta, Ostravská univerzita v Ostravě",
+      "latitude": 49.84344,
+      "longitude": 18.304536
+    },
+    {
+      "name": "Ostravská univerzita (PřF, FSS, CIT, UK)",
+      "latitude": 49.840037,
+      "longitude": 18.288767
+    },
+    {
+      "name": "Akademie J. A. Komenského Karviná",
+      "latitude": 49.865198,
+      "longitude": 18.533367
+    },
+    {
+      "name": "Slezská univerzita - Obchodně podnikatelská fakulta",
+      "latitude": 49.854188,
+      "longitude": 18.548624
+    },
+    {
+      "name": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "latitude": 49.833324,
+      "longitude": 18.160468
+    },
+    {
+      "name": "Ostravská univerzita - Lékařská fakulta (budova ZY)",
+      "latitude": 49.811893,
+      "longitude": 18.247896
+    },
+    {
+      "name": "Ostravská univerzita - Lékařská fakulta (Budova ZO)",
+      "latitude": 49.811835,
+      "longitude": 18.250504
+    },
+    {
+      "name": "P - Fakulta umění (výtvarné obory)",
+      "latitude": 49.832722,
+      "longitude": 18.255302
+    },
+    {
+      "name": "P - Fakulta umění (sochařství)",
+      "latitude": 49.8331,
+      "longitude": 18.25554
+    },
+    {
+      "name": "Lékařské fakulta Ostravské univerzity",
+      "latitude": 49.811365,
+      "longitude": 18.249144
+    },
+    {
+      "name": "SOŠ AHOL",
+      "latitude": 49.812878,
+      "longitude": 18.270448
+    },
+    {
+      "name": "areál Dr. Malého",
+      "latitude": 49.826595,
+      "longitude": 18.274559
+    },
+    {
+      "name": "Pedagogická fakulta Ostravské univerzity",
+      "latitude": 49.826916,
+      "longitude": 18.262913
+    },
+    {
+      "name": "Areál FBI, Lumírova, Výškovice",
+      "latitude": 49.777552,
+      "longitude": 18.218587
+    },
+    {
+      "name": "Univerzita Palackého – areál Neředín",
+      "latitude": 49.593944,
+      "longitude": 17.213998
+    },
+    {
+      "name": "UPOL - Lékařská fakulta",
+      "latitude": 49.586574,
+      "longitude": 17.23626
+    },
+    {
+      "name": "Střední škola technických profesí",
+      "latitude": 49.596205,
+      "longitude": 17.262147
+    },
+    {
+      "name": "Vyšší odborná škola sociální a teologická",
+      "latitude": 49.59089,
+      "longitude": 17.25537
+    },
+    {
+      "name": "UPOL - FTV",
+      "latitude": 49.596855,
+      "longitude": 17.243764
+    },
+    {
+      "name": "UPOL - fakulta přírodovědecká",
+      "latitude": 49.593827,
+      "longitude": 17.265415
+    },
+    {
+      "name": "UP – Právnická fakulta",
+      "latitude": 49.590425,
+      "longitude": 17.262785
+    },
+    {
+      "name": "Filozofická fakulta UP",
+      "latitude": 49.594519,
+      "longitude": 17.2599
+    },
+    {
+      "name": "UP - Katedra zoologie a geoinformatiky",
+      "latitude": 49.593707,
+      "longitude": 17.265357
+    },
+    {
+      "name": "Fakulta zdravotnických věd UP",
+      "latitude": 49.594366,
+      "longitude": 17.246892
+    },
+    {
+      "name": "Cyrilometodějská teologická fakulta UP",
+      "latitude": 49.594222,
+      "longitude": 17.254603
+    },
+    {
+      "name": "Rektorát UP",
+      "latitude": 49.595049,
+      "longitude": 17.259265
+    },
+    {
+      "name": "bývalý jezuitský Konvikt",
+      "latitude": 49.594832,
+      "longitude": 17.255444
+    },
+    {
+      "name": "Zbrojnice",
+      "latitude": 49.595479,
+      "longitude": 17.260125
+    },
+    {
+      "name": "Filozofická fakulta UP",
+      "latitude": 49.59478,
+      "longitude": 17.260846
+    },
+    {
+      "name": "Právnická fakulta UP",
+      "latitude": 49.590191,
+      "longitude": 17.261782
+    },
+    {
+      "name": "Filozofická fakulta UP",
+      "latitude": 49.590094,
+      "longitude": 17.251259
+    },
+    {
+      "name": "Střední škola technických profesí - Odborný výcvik",
+      "latitude": 49.602852,
+      "longitude": 17.277722
+    },
+    {
+      "name": "UPOL - fakulta Pedagogická",
+      "latitude": 49.595615,
+      "longitude": 17.264565
+    },
+    {
+      "name": "Univerzita Palackého v Olomouci – areál Šlechtitelů (Holice)",
+      "latitude": 49.574658,
+      "longitude": 17.281449
+    },
+    {
+      "name": "Vysoká škola logistiky o.p.s.",
+      "latitude": 49.452563,
+      "longitude": 17.449242
+    },
+    {
+      "name": "Gymnázium Hranice",
+      "latitude": 49.551985,
+      "longitude": 17.738209
+    },
+    {
+      "name": "Vysoká škola podnikání",
+      "latitude": 49.589129,
+      "longitude": 17.997259
+    },
+    {
+      "name": "Veterinární a farmaceutická univerzita Brno Školní zemědělský podnik Nový Jičín",
+      "latitude": 49.606404,
+      "longitude": 18.007597
+    },
+    {
+      "name": "Filozofická fakulta, Ostravská univerzita (Budova D)",
+      "latitude": 49.836432,
+      "longitude": 18.29017
+    },
+    {
+      "name": "Ostravská univerzita - Filozofická fakulta (budova DM)",
+      "latitude": 49.836425,
+      "longitude": 18.289188
+    },
+    {
+      "name": "City Campus Ostravská univerzita",
+      "latitude": 49.831552,
+      "longitude": 18.292637
+    },
+    {
+      "name": "Akademia WSB Wydział Zamiejscowy w Cieszynie",
+      "latitude": 49.756745,
+      "longitude": 18.626093
+    },
+    {
+      "name": "GOODWILL - vyšší odborná škola, s. r. o.",
+      "latitude": 49.688211,
+      "longitude": 18.355077
+    },
+    {
+      "name": "GOODWILL - vyšší odborná škola, s. r. o.",
+      "latitude": 49.687975,
+      "longitude": 18.356048
+    },
+    {
+      "name": "Školní a výcvikové zařízení HZS ČR",
+      "latitude": 49.665029,
+      "longitude": 18.337273
+    },
+    {
+      "name": "TBU (U15)",
+      "latitude": 49.225252,
+      "longitude": 17.660266
+    },
+    {
+      "name": "Centrum aplikovaného ekonomického výzkumu Fakulty managementu a ekonomiky",
+      "latitude": 49.221454,
+      "longitude": 17.665135
+    },
+    {
+      "name": "Univerzita Tomáše Bati ve Zlíně",
+      "latitude": 49.222607,
+      "longitude": 17.66488
+    },
+    {
+      "name": "Fakulta humanitních studií UTB",
+      "latitude": 49.223164,
+      "longitude": 17.666566
+    },
+    {
+      "name": "Klvaňovo gymnázium",
+      "latitude": 49.011767,
+      "longitude": 17.125577
+    },
+    {
+      "name": "CEVRO Institute",
+      "latitude": 48.808961,
+      "longitude": 14.315245
+    },
+    {
+      "name": "Soukromá vysoká škola ekonomická",
+      "latitude": 48.855939,
+      "longitude": 16.046469
+    },
+    {
+      "name": "Zahradnická fakulta Mendelovy univerzity v Brně",
+      "latitude": 48.796269,
+      "longitude": 16.799708
+    }
+  ],
+  "meta": {
+    "title": "Univerzity (OSM) - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných univerzit v České republice (274 záznamů) — body zájmu z OpenStreetMap (tag amenity=university), výřez EU-POIS/CZ. Obsahuje 274 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Univerzity (OSM) | ListBase",
+    "seo_description": "Stáhnout Univerzity (OSM) — 274 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 274 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

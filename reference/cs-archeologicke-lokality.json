@@ -1,0 +1,1461 @@
+{
+  "id": "cs-archeologicke-lokality",
+  "name": "Archeologické lokality",
+  "title": "Archeologické lokality",
+  "description": "Seznam pojmenovaných archeologických lokalit v České republice (284 záznamů) — body zájmu z OpenStreetMap (tag historic=archaeological_site), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 284,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Grodzisko Zawidów",
+      "latitude": 51.02067,
+      "longitude": 15.069668
+    },
+    {
+      "name": "Hradiště Loučná",
+      "latitude": 50.989303,
+      "longitude": 15.002628
+    },
+    {
+      "name": "Mušličkový kámen",
+      "latitude": 50.924794,
+      "longitude": 14.43956
+    },
+    {
+      "name": "Klenotnice",
+      "latitude": 50.90961,
+      "longitude": 14.449089
+    },
+    {
+      "name": "Kyjovský hrádek",
+      "latitude": 50.911137,
+      "longitude": 14.452751
+    },
+    {
+      "name": "Reduta - zbytky opevnění z války o bavorské dědictví 1778–79",
+      "latitude": 50.741007,
+      "longitude": 15.108683
+    },
+    {
+      "name": "Altes Schloss Schönfeld",
+      "latitude": 50.300279,
+      "longitude": 12.210883
+    },
+    {
+      "name": "Dreirainsteine",
+      "latitude": 50.333166,
+      "longitude": 12.435307
+    },
+    {
+      "name": "Georgensdorf",
+      "latitude": 50.708384,
+      "longitude": 13.541621
+    },
+    {
+      "name": "Menhir",
+      "latitude": 50.54127,
+      "longitude": 13.398442
+    },
+    {
+      "name": "Pohřebiště u dolu Bílina",
+      "latitude": 50.569173,
+      "longitude": 13.685294
+    },
+    {
+      "name": "Archeologický skanzen Březno u Loun",
+      "latitude": 50.359775,
+      "longitude": 13.745285
+    },
+    {
+      "name": "Hradiště na Čertovce",
+      "latitude": 50.32915,
+      "longitude": 14.036407
+    },
+    {
+      "name": "Hradiště Starý zámek (Kager)",
+      "latitude": 50.121871,
+      "longitude": 12.553342
+    },
+    {
+      "name": "Hradiště Liščí Vrch",
+      "latitude": 50.283611,
+      "longitude": 12.998848
+    },
+    {
+      "name": "Hradiště Stengelberg",
+      "latitude": 50.278437,
+      "longitude": 12.996297
+    },
+    {
+      "name": "Bývalá tvrz Velichov",
+      "latitude": 50.2779,
+      "longitude": 13.003678
+    },
+    {
+      "name": "Vykopávky kostela sv. Mikuláše",
+      "latitude": 50.147021,
+      "longitude": 12.729977
+    },
+    {
+      "name": "Viklan",
+      "latitude": 50.152108,
+      "longitude": 12.950596
+    },
+    {
+      "name": "vodní tvrz Jeřeň",
+      "latitude": 50.165713,
+      "longitude": 13.257516
+    },
+    {
+      "name": "Mazanec",
+      "latitude": 50.093562,
+      "longitude": 13.158288
+    },
+    {
+      "name": "Zřícenina hradu Nevděk",
+      "latitude": 50.083194,
+      "longitude": 13.166572
+    },
+    {
+      "name": "Hradiště Vladař",
+      "latitude": 50.078716,
+      "longitude": 13.213039
+    },
+    {
+      "name": "Hradiště Rubín",
+      "latitude": 50.254056,
+      "longitude": 13.437532
+    },
+    {
+      "name": "Gibbon",
+      "latitude": 50.226047,
+      "longitude": 13.695634
+    },
+    {
+      "name": "Kounovské kamenné řady",
+      "latitude": 50.225535,
+      "longitude": 13.693681
+    },
+    {
+      "name": "Pegas",
+      "latitude": 50.22398,
+      "longitude": 13.692208
+    },
+    {
+      "name": "Druantia",
+      "latitude": 50.225782,
+      "longitude": 13.692288
+    },
+    {
+      "name": "Tvrz Tlesky",
+      "latitude": 50.074558,
+      "longitude": 13.465866
+    },
+    {
+      "name": "Ringval Strážiště",
+      "latitude": 50.022349,
+      "longitude": 12.714292
+    },
+    {
+      "name": "Slovanské hradiště s mohylami",
+      "latitude": 49.837992,
+      "longitude": 12.752968
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.851698,
+      "longitude": 13.025195
+    },
+    {
+      "name": "Slovanské hradiště Bezemín",
+      "latitude": 49.854821,
+      "longitude": 13.02743
+    },
+    {
+      "name": "Raně středověké hradiště Šipín",
+      "latitude": 49.857049,
+      "longitude": 13.03305
+    },
+    {
+      "name": "Vrtba",
+      "latitude": 49.88207,
+      "longitude": 13.249692
+    },
+    {
+      "name": "tvrziště Smrk",
+      "latitude": 50.056909,
+      "longitude": 13.526808
+    },
+    {
+      "name": "Tvrz Hluboký",
+      "latitude": 50.040509,
+      "longitude": 13.488261
+    },
+    {
+      "name": "Šebíkov",
+      "latitude": 49.970683,
+      "longitude": 13.404787
+    },
+    {
+      "name": "Kotýz",
+      "latitude": 49.915955,
+      "longitude": 14.049706
+    },
+    {
+      "name": "Werk N. III",
+      "latitude": 50.536508,
+      "longitude": 14.175812
+    },
+    {
+      "name": "Werk N. II",
+      "latitude": 50.537378,
+      "longitude": 14.171648
+    },
+    {
+      "name": "Werk N. IV",
+      "latitude": 50.534497,
+      "longitude": 14.181549
+    },
+    {
+      "name": "Werk N. V",
+      "latitude": 50.531686,
+      "longitude": 14.186601
+    },
+    {
+      "name": "Brückenschanze N. IX",
+      "latitude": 50.528596,
+      "longitude": 14.183887
+    },
+    {
+      "name": "Brückenschanze N. X",
+      "latitude": 50.529211,
+      "longitude": 14.178469
+    },
+    {
+      "name": "N. VI",
+      "latitude": 50.530221,
+      "longitude": 14.185095
+    },
+    {
+      "name": "Werk Giefshof",
+      "latitude": 50.533022,
+      "longitude": 14.162988
+    },
+    {
+      "name": "Werk N. I",
+      "latitude": 50.534991,
+      "longitude": 14.168968
+    },
+    {
+      "name": "Fort Křemín",
+      "latitude": 50.527734,
+      "longitude": 14.209134
+    },
+    {
+      "name": "Drábovna",
+      "latitude": 50.63009,
+      "longitude": 15.174944
+    },
+    {
+      "name": "tvrz Vlastibořice",
+      "latitude": 50.617593,
+      "longitude": 15.051557
+    },
+    {
+      "name": "tvrz Albrechtice",
+      "latitude": 50.604565,
+      "longitude": 15.069626
+    },
+    {
+      "name": "Sídliště z mladší doby kamenné",
+      "latitude": 50.579375,
+      "longitude": 15.075883
+    },
+    {
+      "name": "Pohřebiště z pozdní doby bronzové",
+      "latitude": 50.581084,
+      "longitude": 15.097075
+    },
+    {
+      "name": "Hrada",
+      "latitude": 50.531032,
+      "longitude": 15.0352
+    },
+    {
+      "name": "Dolánky",
+      "latitude": 50.603967,
+      "longitude": 15.167447
+    },
+    {
+      "name": "Bohušovické předsunuté opevnění",
+      "latitude": 50.490323,
+      "longitude": 14.146952
+    },
+    {
+      "name": "Hradiště Předliška",
+      "latitude": 50.455774,
+      "longitude": 14.882441
+    },
+    {
+      "name": "Poráň",
+      "latitude": 50.480396,
+      "longitude": 15.130777
+    },
+    {
+      "name": "reduta z třicetileté války",
+      "latitude": 50.326091,
+      "longitude": 15.354858
+    },
+    {
+      "name": "reduta z třicetileté války",
+      "latitude": 50.324751,
+      "longitude": 15.356877
+    },
+    {
+      "name": "Třebovětický pravěký rondel",
+      "latitude": 50.353549,
+      "longitude": 15.715569
+    },
+    {
+      "name": "Zaniklé hradiště Malý Vřešťov",
+      "latitude": 50.355668,
+      "longitude": 15.760699
+    },
+    {
+      "name": "Średniowieczna Kopalnia Złota w Złotym Stoku",
+      "latitude": 50.432136,
+      "longitude": 16.870161
+    },
+    {
+      "name": "Menhir",
+      "latitude": 50.24022,
+      "longitude": 14.191579
+    },
+    {
+      "name": "Hradiště",
+      "latitude": 50.214837,
+      "longitude": 14.293072
+    },
+    {
+      "name": "Únětická kultura",
+      "latitude": 50.151866,
+      "longitude": 14.374251
+    },
+    {
+      "name": "Řivnáč",
+      "latitude": 50.166066,
+      "longitude": 14.361363
+    },
+    {
+      "name": "Hradiště",
+      "latitude": 50.173199,
+      "longitude": 14.403598
+    },
+    {
+      "name": "hradiště Zámka",
+      "latitude": 50.145409,
+      "longitude": 14.403031
+    },
+    {
+      "name": "mohylové pohřebiště Hora",
+      "latitude": 50.11852,
+      "longitude": 14.069183
+    },
+    {
+      "name": "Stětí svatého Jana Křtitele",
+      "latitude": 50.064224,
+      "longitude": 14.421796
+    },
+    {
+      "name": "Zaniklá ves Slavětice",
+      "latitude": 50.092751,
+      "longitude": 14.64998
+    },
+    {
+      "name": "Mohyla",
+      "latitude": 50.186546,
+      "longitude": 15.044048
+    },
+    {
+      "name": "hradiště Přerovská hůra",
+      "latitude": 50.162727,
+      "longitude": 14.840174
+    },
+    {
+      "name": "Hradiště Libice",
+      "latitude": 50.127104,
+      "longitude": 15.172579
+    },
+    {
+      "name": "Hradiště Děvín",
+      "latitude": 50.047077,
+      "longitude": 14.401323
+    },
+    {
+      "name": "Zbuzanský menhir",
+      "latitude": 50.02277,
+      "longitude": 14.28155
+    },
+    {
+      "name": "Naleziště trilobitů",
+      "latitude": 50.031346,
+      "longitude": 14.332972
+    },
+    {
+      "name": "Hradiště Hostivař",
+      "latitude": 50.045226,
+      "longitude": 14.533534
+    },
+    {
+      "name": "Hradiště Březí",
+      "latitude": 50.023389,
+      "longitude": 14.698849
+    },
+    {
+      "name": "Hradiště Kazín",
+      "latitude": 49.947886,
+      "longitude": 14.339183
+    },
+    {
+      "name": "Hradiště Malá Babka",
+      "latitude": 49.889603,
+      "longitude": 14.225525
+    },
+    {
+      "name": "klášter Stětí sv. Jana Křtitele na Ostrově",
+      "latitude": 49.880636,
+      "longitude": 14.390695
+    },
+    {
+      "name": "hradiště Tismice",
+      "latitude": 50.052217,
+      "longitude": 14.820444
+    },
+    {
+      "name": "hradiště Svatováclavské Šance",
+      "latitude": 50.056708,
+      "longitude": 14.881325
+    },
+    {
+      "name": "hradiště Staré Zámky",
+      "latitude": 50.015153,
+      "longitude": 14.804243
+    },
+    {
+      "name": "Zaniklá ves Ve Spáleném",
+      "latitude": 49.987444,
+      "longitude": 14.798022
+    },
+    {
+      "name": "Zaniklá ves Lažany a Tvrziště Lažany",
+      "latitude": 49.9966,
+      "longitude": 14.790842
+    },
+    {
+      "name": "Zaniklá ves Aldašín",
+      "latitude": 49.966897,
+      "longitude": 14.831791
+    },
+    {
+      "name": "Zaniklá ves Dubina",
+      "latitude": 49.976378,
+      "longitude": 14.801453
+    },
+    {
+      "name": "Zaniklá ves cukmantl",
+      "latitude": 49.975904,
+      "longitude": 14.848669
+    },
+    {
+      "name": "zaniklá ves Drbohlavy",
+      "latitude": 49.961926,
+      "longitude": 14.848421
+    },
+    {
+      "name": "KOSTNICE/ charnel house",
+      "latitude": 50.026357,
+      "longitude": 15.202056
+    },
+    {
+      "name": "Hrad Stříbrná Skalice",
+      "latitude": 49.896186,
+      "longitude": 14.845418
+    },
+    {
+      "name": "Talmberk castle ruins",
+      "latitude": 49.867226,
+      "longitude": 14.955855
+    },
+    {
+      "name": "Cimburk",
+      "latitude": 49.928022,
+      "longitude": 15.246711
+    },
+    {
+      "name": "tvrz Nechanice",
+      "latitude": 50.240782,
+      "longitude": 15.6329
+    },
+    {
+      "name": "slovanské hradiště u Horního Přímu",
+      "latitude": 50.22842,
+      "longitude": 15.713271
+    },
+    {
+      "name": "mlýnek Na Hlinách",
+      "latitude": 50.177528,
+      "longitude": 15.814704
+    },
+    {
+      "name": "Vodní tvrz Kalthaus",
+      "latitude": 50.2842,
+      "longitude": 15.938171
+    },
+    {
+      "name": "Tvrziště Přestavlky",
+      "latitude": 50.17628,
+      "longitude": 15.522526
+    },
+    {
+      "name": "tvrz Vavřinek",
+      "latitude": 50.160444,
+      "longitude": 15.582286
+    },
+    {
+      "name": "tvrz Rohoznice - Na kotli",
+      "latitude": 50.13188,
+      "longitude": 15.645533
+    },
+    {
+      "name": "Labský humenský převoz - cca do r. 1950",
+      "latitude": 50.128952,
+      "longitude": 15.815682
+    },
+    {
+      "name": "Přívoz do r. cca 1880",
+      "latitude": 50.12434,
+      "longitude": 15.812369
+    },
+    {
+      "name": "Zde stával větrný mlýn (1790-1914)",
+      "latitude": 50.12175,
+      "longitude": 15.884642
+    },
+    {
+      "name": "tvrziště Na baště",
+      "latitude": 50.109092,
+      "longitude": 15.934972
+    },
+    {
+      "name": "tvrz Štěpánov",
+      "latitude": 50.015113,
+      "longitude": 15.591853
+    },
+    {
+      "name": "Tvrziště Krchleby",
+      "latitude": 50.034917,
+      "longitude": 15.688132
+    },
+    {
+      "name": "tvrz Staré Čívice",
+      "latitude": 50.015067,
+      "longitude": 15.685077
+    },
+    {
+      "name": "V loučkách",
+      "latitude": 49.993422,
+      "longitude": 15.776498
+    },
+    {
+      "name": "Hradiště Vraclav",
+      "latitude": 49.969476,
+      "longitude": 16.092498
+    },
+    {
+      "name": "Tvrziště Popovec",
+      "latitude": 49.938907,
+      "longitude": 16.08057
+    },
+    {
+      "name": "Tvrziště Štěnec",
+      "latitude": 49.935119,
+      "longitude": 16.059882
+    },
+    {
+      "name": "tvrziště Chlumek",
+      "latitude": 50.033523,
+      "longitude": 16.273505
+    },
+    {
+      "name": "Zaniklá usedlost Kolm",
+      "latitude": 49.727963,
+      "longitude": 12.544476
+    },
+    {
+      "name": "Zaniklá ves Bažantov",
+      "latitude": 49.74447,
+      "longitude": 12.57169
+    },
+    {
+      "name": "Zaniklá osada Cirk",
+      "latitude": 49.664901,
+      "longitude": 12.54829
+    },
+    {
+      "name": "Zaniklý hrad Brod nad Tichou",
+      "latitude": 49.834966,
+      "longitude": 12.746364
+    },
+    {
+      "name": "Zaniklá tvrz v Kočově",
+      "latitude": 49.808788,
+      "longitude": 12.735044
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.831729,
+      "longitude": 12.899843
+    },
+    {
+      "name": "Tvrziště",
+      "latitude": 49.807764,
+      "longitude": 12.901431
+    },
+    {
+      "name": "Zaniklá osada Volfštejn",
+      "latitude": 49.808416,
+      "longitude": 12.86158
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.803693,
+      "longitude": 12.942541
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.802145,
+      "longitude": 12.953828
+    },
+    {
+      "name": "Zaniklá osada Pustina",
+      "latitude": 49.765163,
+      "longitude": 12.806432
+    },
+    {
+      "name": "Tvrziště",
+      "latitude": 49.730154,
+      "longitude": 12.675374
+    },
+    {
+      "name": "Dolní Plezom",
+      "latitude": 49.761702,
+      "longitude": 12.8395
+    },
+    {
+      "name": "Otročínský hrádek",
+      "latitude": 49.74929,
+      "longitude": 12.950383
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.731907,
+      "longitude": 12.941318
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.730691,
+      "longitude": 12.946876
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.802846,
+      "longitude": 13.062012
+    },
+    {
+      "name": "Mohyla střední doby bronzové",
+      "latitude": 49.776814,
+      "longitude": 13.047918
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.780332,
+      "longitude": 13.055518
+    },
+    {
+      "name": "pravěké hradiště Sulislav",
+      "latitude": 49.75215,
+      "longitude": 13.041412
+    },
+    {
+      "name": "Hradiště na vrchu Chlum",
+      "latitude": 49.631234,
+      "longitude": 12.87007
+    },
+    {
+      "name": "Hradiště na Racovském vrchu",
+      "latitude": 49.622885,
+      "longitude": 12.856213
+    },
+    {
+      "name": "Tvrz Drahlín",
+      "latitude": 49.73205,
+      "longitude": 13.964069
+    },
+    {
+      "name": "Melichárek",
+      "latitude": 49.621968,
+      "longitude": 13.899111
+    },
+    {
+      "name": "Žárové pohřebiště",
+      "latitude": 49.629832,
+      "longitude": 14.012881
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.606549,
+      "longitude": 12.811033
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.609615,
+      "longitude": 12.815846
+    },
+    {
+      "name": "Pravěké hradiště Přetín",
+      "latitude": 49.501006,
+      "longitude": 13.17791
+    },
+    {
+      "name": "Hradiště Srnčí vrch",
+      "latitude": 49.54058,
+      "longitude": 13.184676
+    },
+    {
+      "name": "Lučina",
+      "latitude": 49.433129,
+      "longitude": 12.680213
+    },
+    {
+      "name": "Řakom",
+      "latitude": 49.429388,
+      "longitude": 13.215694
+    },
+    {
+      "name": "Šance (Bozeň)",
+      "latitude": 49.546995,
+      "longitude": 13.986307
+    },
+    {
+      "name": "Úpravna zlaté rudy",
+      "latitude": 49.141993,
+      "longitude": 13.560923
+    },
+    {
+      "name": "Obří hrad",
+      "latitude": 49.104179,
+      "longitude": 13.592034
+    },
+    {
+      "name": "Věnec",
+      "latitude": 49.099001,
+      "longitude": 13.868307
+    },
+    {
+      "name": "MG-Schützenstand",
+      "latitude": 48.956297,
+      "longitude": 13.622837
+    },
+    {
+      "name": "Hradiště Dvory",
+      "latitude": 49.034277,
+      "longitude": 13.946274
+    },
+    {
+      "name": "Zlatá stezka",
+      "latitude": 48.949146,
+      "longitude": 13.755249
+    },
+    {
+      "name": "Šance",
+      "latitude": 49.83725,
+      "longitude": 14.075794
+    },
+    {
+      "name": "Hradiště",
+      "latitude": 49.801287,
+      "longitude": 14.171075
+    },
+    {
+      "name": "Kovárna a původní hlavní šachta",
+      "latitude": 49.732348,
+      "longitude": 14.351396
+    },
+    {
+      "name": "Oppidum Hrazany",
+      "latitude": 49.735879,
+      "longitude": 14.404803
+    },
+    {
+      "name": "Velké kolo",
+      "latitude": 49.718195,
+      "longitude": 14.34382
+    },
+    {
+      "name": "Malé Kolo",
+      "latitude": 49.716026,
+      "longitude": 14.337803
+    },
+    {
+      "name": "Hradiště Nalžovické podhájí",
+      "latitude": 49.715706,
+      "longitude": 14.375429
+    },
+    {
+      "name": "Menhir Přítel",
+      "latitude": 49.645794,
+      "longitude": 14.867949
+    },
+    {
+      "name": "Pravěké mohylové pohřebiště",
+      "latitude": 49.423187,
+      "longitude": 14.457895
+    },
+    {
+      "name": "Pustá studna",
+      "latitude": 49.543998,
+      "longitude": 15.385225
+    },
+    {
+      "name": "Keltský archeoskanzen Nasavrky",
+      "latitude": 49.834898,
+      "longitude": 15.799979
+    },
+    {
+      "name": "Třebovské Hradisko",
+      "latitude": 49.768946,
+      "longitude": 16.681802
+    },
+    {
+      "name": "Hradiště Mařín",
+      "latitude": 49.672703,
+      "longitude": 16.645603
+    },
+    {
+      "name": "Hradiště Hrubé Kolo",
+      "latitude": 49.645388,
+      "longitude": 16.764804
+    },
+    {
+      "name": "Opatovické hradisko",
+      "latitude": 49.599019,
+      "longitude": 16.671277
+    },
+    {
+      "name": "Malý Chlum",
+      "latitude": 49.451336,
+      "longitude": 16.585751
+    },
+    {
+      "name": "Hradiště Hradec u Nuzic",
+      "latitude": 49.277913,
+      "longitude": 14.461811
+    },
+    {
+      "name": "Žárové pohřebiště",
+      "latitude": 49.258314,
+      "longitude": 14.241035
+    },
+    {
+      "name": "hradiště U Svaté Anny",
+      "latitude": 49.227676,
+      "longitude": 14.390522
+    },
+    {
+      "name": "Slovanské Hradiště Svákov",
+      "latitude": 49.266742,
+      "longitude": 14.693447
+    },
+    {
+      "name": "Višněvice",
+      "latitude": 49.361459,
+      "longitude": 15.031949
+    },
+    {
+      "name": "Ústrašín - tvrziště",
+      "latitude": 49.381381,
+      "longitude": 15.17243
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.098136,
+      "longitude": 14.539739
+    },
+    {
+      "name": "Machovice",
+      "latitude": 48.99999,
+      "longitude": 14.377068
+    },
+    {
+      "name": "Machovice",
+      "latitude": 49.004045,
+      "longitude": 14.375647
+    },
+    {
+      "name": "Slovanské hradiště U Ondřeje",
+      "latitude": 48.927861,
+      "longitude": 14.194458
+    },
+    {
+      "name": "Kostelík sv. Ducha",
+      "latitude": 49.121556,
+      "longitude": 15.344742
+    },
+    {
+      "name": "Kostel Sv. Jana Křtitele",
+      "latitude": 49.024716,
+      "longitude": 15.226516
+    },
+    {
+      "name": "původní hrad Markl",
+      "latitude": 49.024535,
+      "longitude": 15.226915
+    },
+    {
+      "name": "zaniklá obec Pfaffenschlag",
+      "latitude": 49.015022,
+      "longitude": 15.302824
+    },
+    {
+      "name": "zaniklá osada Vilémov",
+      "latitude": 49.317891,
+      "longitude": 16.824612
+    },
+    {
+      "name": "Černov",
+      "latitude": 49.301947,
+      "longitude": 16.867588
+    },
+    {
+      "name": "Bystřec",
+      "latitude": 49.321677,
+      "longitude": 16.802982
+    },
+    {
+      "name": "Kralická tvrz",
+      "latitude": 49.200302,
+      "longitude": 16.201847
+    },
+    {
+      "name": "Hradisko Bosonohy",
+      "latitude": 49.187802,
+      "longitude": 16.509632
+    },
+    {
+      "name": "bývalá Kaple Ostrá Horka",
+      "latitude": 49.248122,
+      "longitude": 16.621802
+    },
+    {
+      "name": "Obřanské hradisko",
+      "latitude": 49.232275,
+      "longitude": 16.66322
+    },
+    {
+      "name": "hradiště Staré Zámky",
+      "latitude": 49.217784,
+      "longitude": 16.711994
+    },
+    {
+      "name": "rotunda",
+      "latitude": 49.18461,
+      "longitude": 16.594917
+    },
+    {
+      "name": "Kostel sv. Anny, rotunda",
+      "latitude": 49.191602,
+      "longitude": 16.593806
+    },
+    {
+      "name": "Kostel svatého Oldřicha a Prokopa",
+      "latitude": 49.189021,
+      "longitude": 16.594669
+    },
+    {
+      "name": "hrad Bílkov",
+      "latitude": 49.086467,
+      "longitude": 15.477365
+    },
+    {
+      "name": "Hradisko Kramolín",
+      "latitude": 49.139363,
+      "longitude": 16.104747
+    },
+    {
+      "name": "Mstěnice, zanikla středověká vesnice",
+      "latitude": 49.078304,
+      "longitude": 16.070709
+    },
+    {
+      "name": "Mstěnice, základy věže",
+      "latitude": 49.077286,
+      "longitude": 16.071144
+    },
+    {
+      "name": "Mstěnice-hrádek(základy)",
+      "latitude": 49.08257,
+      "longitude": 16.072799
+    },
+    {
+      "name": "Tvrz Senorady",
+      "latitude": 49.12594,
+      "longitude": 16.239831
+    },
+    {
+      "name": "hradiště Rokytná",
+      "latitude": 49.066415,
+      "longitude": 16.318901
+    },
+    {
+      "name": "Hradiště Réna",
+      "latitude": 49.093123,
+      "longitude": 16.386188
+    },
+    {
+      "name": "Kopeček",
+      "latitude": 49.115523,
+      "longitude": 16.813523
+    },
+    {
+      "name": "Obilné jámy",
+      "latitude": 48.997043,
+      "longitude": 16.311773
+    },
+    {
+      "name": "Základová deska objektu LO",
+      "latitude": 49.001145,
+      "longitude": 16.34856
+    },
+    {
+      "name": "Zaniklá obec Vlčí Keř",
+      "latitude": 48.948124,
+      "longitude": 16.41824
+    },
+    {
+      "name": "Rdzenie po wierceniach geologicznych",
+      "latitude": 50.431648,
+      "longitude": 16.894193
+    },
+    {
+      "name": "Mestský kostel - kostel svaté máří magdalenny - destroyed",
+      "latitude": 50.273922,
+      "longitude": 17.714884
+    },
+    {
+      "name": "Grodzisko Boboluszki",
+      "latitude": 50.015745,
+      "longitude": 17.805707
+    },
+    {
+      "name": "Zniszczone grodzisko Ściborzyce Wielkie",
+      "latitude": 50.018181,
+      "longitude": 18.031542
+    },
+    {
+      "name": "Šance Hanuše",
+      "latitude": 49.874646,
+      "longitude": 17.858166
+    },
+    {
+      "name": "Landek",
+      "latitude": 49.867691,
+      "longitude": 18.272873
+    },
+    {
+      "name": "Hradiště Obersko",
+      "latitude": 49.725681,
+      "longitude": 16.893434
+    },
+    {
+      "name": "Nový Dvůr",
+      "latitude": 49.613824,
+      "longitude": 17.035122
+    },
+    {
+      "name": "Kartouzka",
+      "latitude": 49.652876,
+      "longitude": 17.33618
+    },
+    {
+      "name": "Trosky hrádku Dětřichovice",
+      "latitude": 49.625015,
+      "longitude": 18.156083
+    },
+    {
+      "name": "Rmíz",
+      "latitude": 49.589976,
+      "longitude": 17.017422
+    },
+    {
+      "name": "Hradiště Dubový kopec",
+      "latitude": 49.566261,
+      "longitude": 17.058364
+    },
+    {
+      "name": "Starověké hradiště Bílovický hrad",
+      "latitude": 49.527119,
+      "longitude": 16.988828
+    },
+    {
+      "name": "Hradiště Varhany",
+      "latitude": 49.542882,
+      "longitude": 17.080211
+    },
+    {
+      "name": "Fort V",
+      "latitude": 49.587246,
+      "longitude": 17.315167
+    },
+    {
+      "name": "Fort VII",
+      "latitude": 49.562199,
+      "longitude": 17.293296
+    },
+    {
+      "name": "Fort VIII",
+      "latitude": 49.559781,
+      "longitude": 17.276693
+    },
+    {
+      "name": "Fort Va",
+      "latitude": 49.577015,
+      "longitude": 17.311513
+    },
+    {
+      "name": "Býv. tvrz Sedlec",
+      "latitude": 49.58252,
+      "longitude": 17.460526
+    },
+    {
+      "name": "Hradisko Čekyně",
+      "latitude": 49.505247,
+      "longitude": 17.420782
+    },
+    {
+      "name": "Hradiště Oberská vrata",
+      "latitude": 49.469433,
+      "longitude": 16.946004
+    },
+    {
+      "name": "Čubernice",
+      "latitude": 49.474216,
+      "longitude": 17.022355
+    },
+    {
+      "name": "Hradiště Obírka",
+      "latitude": 49.577194,
+      "longitude": 17.590774
+    },
+    {
+      "name": "Šutyrova studánka",
+      "latitude": 49.583765,
+      "longitude": 18.141939
+    },
+    {
+      "name": "Hradiště Kotouč",
+      "latitude": 49.584288,
+      "longitude": 18.113744
+    },
+    {
+      "name": "hradisko",
+      "latitude": 49.639744,
+      "longitude": 18.37605
+    },
+    {
+      "name": "hradisko Zelená hora",
+      "latitude": 49.325781,
+      "longitude": 17.00832
+    },
+    {
+      "name": "Keltské sídliště Němčice nad Hanou",
+      "latitude": 49.356415,
+      "longitude": 17.177805
+    },
+    {
+      "name": "Hradiště Hradisko",
+      "latitude": 49.32166,
+      "longitude": 17.34655
+    },
+    {
+      "name": "Neuhof",
+      "latitude": 49.256069,
+      "longitude": 17.238323
+    },
+    {
+      "name": "Mohylové pohřebiště Tabarky",
+      "latitude": 49.204994,
+      "longitude": 17.427263
+    },
+    {
+      "name": "hrádek Žeranovice",
+      "latitude": 49.283017,
+      "longitude": 17.617161
+    },
+    {
+      "name": "Tvrz Újezd",
+      "latitude": 49.169878,
+      "longitude": 17.908225
+    },
+    {
+      "name": "tvrziště Hrádek",
+      "latitude": 49.152392,
+      "longitude": 17.133356
+    },
+    {
+      "name": "Hrádek",
+      "latitude": 49.109247,
+      "longitude": 17.091773
+    },
+    {
+      "name": "Mohylník Kolibské",
+      "latitude": 49.076775,
+      "longitude": 16.883304
+    },
+    {
+      "name": "Tvrziště Mezilesice",
+      "latitude": 49.070914,
+      "longitude": 16.901937
+    },
+    {
+      "name": "Konůvky",
+      "latitude": 49.089491,
+      "longitude": 16.967018
+    },
+    {
+      "name": "Hradiště na Velkém kopci",
+      "latitude": 49.103413,
+      "longitude": 17.282961
+    },
+    {
+      "name": "základy Opatského domu",
+      "latitude": 49.103223,
+      "longitude": 17.396853
+    },
+    {
+      "name": "Modrá - Na Díle",
+      "latitude": 49.104028,
+      "longitude": 17.406667
+    },
+    {
+      "name": "základy kostela",
+      "latitude": 49.104032,
+      "longitude": 17.406698
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 49.019991,
+      "longitude": 17.039514
+    },
+    {
+      "name": "Tvrziště Věteřov",
+      "latitude": 49.025652,
+      "longitude": 17.05986
+    },
+    {
+      "name": "Hradiště Věteřov (severní část)",
+      "latitude": 49.02841,
+      "longitude": 17.064573
+    },
+    {
+      "name": "Hradiště Vala",
+      "latitude": 49.021722,
+      "longitude": 17.071882
+    },
+    {
+      "name": "Hradiště Věteřov (jižní část)",
+      "latitude": 49.023333,
+      "longitude": 17.065151
+    },
+    {
+      "name": "Tvrziště",
+      "latitude": 49.129209,
+      "longitude": 17.935473
+    },
+    {
+      "name": "Tvrziště Vlachovice (Kaštýl)",
+      "latitude": 49.122654,
+      "longitude": 17.937454
+    },
+    {
+      "name": "Zlatá stezka",
+      "latitude": 48.897147,
+      "longitude": 13.715259
+    },
+    {
+      "name": "keltske opidum",
+      "latitude": 48.887074,
+      "longitude": 14.352587
+    },
+    {
+      "name": "Keltské oppidum Třísov",
+      "latitude": 48.885396,
+      "longitude": 14.348805
+    },
+    {
+      "name": "Základy hřbitovní kaple svaté Anny",
+      "latitude": 48.81287,
+      "longitude": 14.318455
+    },
+    {
+      "name": "Mohylové pohřebiště",
+      "latitude": 48.89863,
+      "longitude": 14.473754
+    },
+    {
+      "name": "hradiště Doudleby",
+      "latitude": 48.893487,
+      "longitude": 14.506001
+    },
+    {
+      "name": "Mikšův dvorec",
+      "latitude": 48.893706,
+      "longitude": 14.607214
+    },
+    {
+      "name": "Kamenná věž",
+      "latitude": 48.842129,
+      "longitude": 14.477804
+    },
+    {
+      "name": "Koněspřežní železnice",
+      "latitude": 48.839305,
+      "longitude": 14.454938
+    },
+    {
+      "name": "Schofsutten",
+      "latitude": 48.744108,
+      "longitude": 16.118159
+    },
+    {
+      "name": "Římská stanice 2.st. n.l.",
+      "latitude": 48.905818,
+      "longitude": 16.570887
+    },
+    {
+      "name": "Římská stanice 2.st. n.l.",
+      "latitude": 48.907657,
+      "longitude": 16.568409
+    },
+    {
+      "name": "Římská vojenská pevnost 2.st. n.l.",
+      "latitude": 48.906571,
+      "longitude": 16.569613
+    },
+    {
+      "name": "Mikve",
+      "latitude": 48.80896,
+      "longitude": 16.635472
+    },
+    {
+      "name": "MUNA - muniční továrna",
+      "latitude": 48.73484,
+      "longitude": 16.84071
+    },
+    {
+      "name": "VII. kostel",
+      "latitude": 48.807962,
+      "longitude": 17.082271
+    },
+    {
+      "name": "III. kostel",
+      "latitude": 48.803634,
+      "longitude": 17.088154
+    },
+    {
+      "name": "knížecí palác",
+      "latitude": 48.803814,
+      "longitude": 17.089251
+    },
+    {
+      "name": "IV. kostel",
+      "latitude": 48.80426,
+      "longitude": 17.089986
+    },
+    {
+      "name": "V. kostel",
+      "latitude": 48.804727,
+      "longitude": 17.090514
+    },
+    {
+      "name": "VIII. kostel",
+      "latitude": 48.806226,
+      "longitude": 17.085634
+    },
+    {
+      "name": "IX. kostel",
+      "latitude": 48.80114,
+      "longitude": 17.088223
+    },
+    {
+      "name": "VI. kostel",
+      "latitude": 48.805212,
+      "longitude": 17.091675
+    },
+    {
+      "name": "X. kostel",
+      "latitude": 48.803784,
+      "longitude": 17.084494
+    },
+    {
+      "name": "I, II. kostel",
+      "latitude": 48.804256,
+      "longitude": 17.087422
+    },
+    {
+      "name": "Pfarrwiesnausgrabung",
+      "latitude": 48.712868,
+      "longitude": 16.87927
+    },
+    {
+      "name": "Krautgärten",
+      "latitude": 48.684156,
+      "longitude": 16.909793
+    },
+    {
+      "name": "Feldl",
+      "latitude": 48.679537,
+      "longitude": 16.908656
+    }
+  ],
+  "meta": {
+    "title": "Archeologické lokality - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných archeologických lokalit v České republice (284 záznamů) — body zájmu z OpenStreetMap (tag historic=archaeological_site), výřez EU-POIS/CZ. Obsahuje 284 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Archeologické lokality | ListBase",
+    "seo_description": "Stáhnout Archeologické lokality — 284 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 284 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

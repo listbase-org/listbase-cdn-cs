@@ -1,0 +1,1281 @@
+{
+  "id": "cs-prodejni-automaty",
+  "name": "Prodejní automaty",
+  "title": "Prodejní automaty",
+  "description": "Seznam pojmenovaných prodejních automatů v České republice (248 záznamů) — body zájmu z OpenStreetMap (tag amenity=vending_machine), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 248,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Deutsche Bahn",
+      "latitude": 50.889966,
+      "longitude": 14.228548
+    },
+    {
+      "name": "Samoobslužný kiosek IS EDAZ - D8",
+      "latitude": 50.712732,
+      "longitude": 13.969303
+    },
+    {
+      "name": "Replay's restaurant",
+      "latitude": 50.667372,
+      "longitude": 14.017093
+    },
+    {
+      "name": "Kratom CDB",
+      "latitude": 50.215639,
+      "longitude": 12.171005
+    },
+    {
+      "name": "Parkovaci automat",
+      "latitude": 50.124076,
+      "longitude": 12.351619
+    },
+    {
+      "name": "Parkovací automat",
+      "latitude": 50.123626,
+      "longitude": 12.353111
+    },
+    {
+      "name": "Nonstop",
+      "latitude": 50.118977,
+      "longitude": 12.351204
+    },
+    {
+      "name": "Parkovací automat",
+      "latitude": 50.119745,
+      "longitude": 12.355045
+    },
+    {
+      "name": "Parkovací automat",
+      "latitude": 50.120041,
+      "longitude": 12.354038
+    },
+    {
+      "name": "Čerpací stanice CNG",
+      "latitude": 49.993569,
+      "longitude": 12.604316
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.104552,
+      "longitude": 13.728019
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.104397,
+      "longitude": 13.729595
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.104138,
+      "longitude": 13.730346
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.104004,
+      "longitude": 13.731784
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.104302,
+      "longitude": 13.73275
+    },
+    {
+      "name": "Perla",
+      "latitude": 49.950781,
+      "longitude": 14.04211
+    },
+    {
+      "name": "Parkoviště nemocnice Jablonec nad Nisou",
+      "latitude": 50.730126,
+      "longitude": 15.159376
+    },
+    {
+      "name": "Dolní Náměstí",
+      "latitude": 50.729058,
+      "longitude": 15.450819
+    },
+    {
+      "name": "LNG Kosmonosy (GasNet)",
+      "latitude": 50.43005,
+      "longitude": 14.937053
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.425566,
+      "longitude": 14.911069
+    },
+    {
+      "name": "Vratné lahve",
+      "latitude": 50.411784,
+      "longitude": 14.935504
+    },
+    {
+      "name": "Automat na mléko",
+      "latitude": 50.467069,
+      "longitude": 15.399594
+    },
+    {
+      "name": "Krkonošský limobar",
+      "latitude": 50.716125,
+      "longitude": 15.575294
+    },
+    {
+      "name": "Pec pod Sněžkou",
+      "latitude": 50.688108,
+      "longitude": 15.727846
+    },
+    {
+      "name": "Automat na Skipasy",
+      "latitude": 50.684021,
+      "longitude": 15.722751
+    },
+    {
+      "name": "sKiosek",
+      "latitude": 50.688199,
+      "longitude": 15.727701
+    },
+    {
+      "name": "Vjezdový automat",
+      "latitude": 50.690345,
+      "longitude": 15.769593
+    },
+    {
+      "name": "Mlekomat farma Chlum",
+      "latitude": 50.381143,
+      "longitude": 15.599578
+    },
+    {
+      "name": "Automat na mléko - Farma U Lofů",
+      "latitude": 50.461284,
+      "longitude": 16.189667
+    },
+    {
+      "name": "Samoobslužný bar U Šklebejštěte",
+      "latitude": 50.311588,
+      "longitude": 16.264237
+    },
+    {
+      "name": "Drobné láhudky",
+      "latitude": 50.178077,
+      "longitude": 14.359713
+    },
+    {
+      "name": "Medomat",
+      "latitude": 50.249336,
+      "longitude": 14.423344
+    },
+    {
+      "name": "LNG Klecany",
+      "latitude": 50.184235,
+      "longitude": 14.449547
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.196819,
+      "longitude": 14.676058
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 50.084415,
+      "longitude": 14.375466
+    },
+    {
+      "name": "P9-0116",
+      "latitude": 50.122617,
+      "longitude": 14.496829
+    },
+    {
+      "name": "CBD cannio mat",
+      "latitude": 50.130254,
+      "longitude": 14.423187
+    },
+    {
+      "name": "Lavazza",
+      "latitude": 50.12369,
+      "longitude": 14.452643
+    },
+    {
+      "name": "Coca-Cola",
+      "latitude": 50.121269,
+      "longitude": 14.506927
+    },
+    {
+      "name": "HS",
+      "latitude": 50.171556,
+      "longitude": 14.704343
+    },
+    {
+      "name": "AlzaDrive",
+      "latitude": 50.122338,
+      "longitude": 14.607095
+    },
+    {
+      "name": "Samoobslužný kiosek IS EDAZ - SFDI Praha",
+      "latitude": 50.107549,
+      "longitude": 14.491365
+    },
+    {
+      "name": "Coca-Cola",
+      "latitude": 50.114604,
+      "longitude": 14.467697
+    },
+    {
+      "name": "Weed Feed",
+      "latitude": 50.076825,
+      "longitude": 14.419096
+    },
+    {
+      "name": "validátor parkovacích průkazů pro ZTP",
+      "latitude": 50.074621,
+      "longitude": 14.479088
+    },
+    {
+      "name": "Perla",
+      "latitude": 50.067855,
+      "longitude": 14.508651
+    },
+    {
+      "name": "Automat na jízdenky PID",
+      "latitude": 50.195778,
+      "longitude": 14.842978
+    },
+    {
+      "name": "RoboCopy",
+      "latitude": 50.031416,
+      "longitude": 14.374804
+    },
+    {
+      "name": "Perla",
+      "latitude": 50.031413,
+      "longitude": 14.374793
+    },
+    {
+      "name": "Cannio mat",
+      "latitude": 50.027864,
+      "longitude": 14.508042
+    },
+    {
+      "name": "mlékomat",
+      "latitude": 49.855896,
+      "longitude": 14.571375
+    },
+    {
+      "name": "Automatická pokladna",
+      "latitude": 50.018204,
+      "longitude": 15.19631
+    },
+    {
+      "name": "Květobox",
+      "latitude": 50.019673,
+      "longitude": 15.196156
+    },
+    {
+      "name": "Arriva",
+      "latitude": 50.024914,
+      "longitude": 15.214082
+    },
+    {
+      "name": "AutoGas",
+      "latitude": 50.194109,
+      "longitude": 15.810643
+    },
+    {
+      "name": "Mléčný automat",
+      "latitude": 50.256511,
+      "longitude": 15.850157
+    },
+    {
+      "name": "Samoobslužný kiosek IS EDAZ - D11",
+      "latitude": 50.138542,
+      "longitude": 15.698665
+    },
+    {
+      "name": "VerbisBox / nonstop knihovna",
+      "latitude": 50.066149,
+      "longitude": 15.852768
+    },
+    {
+      "name": "Parkovací automat Na Sboře",
+      "latitude": 50.163569,
+      "longitude": 16.271664
+    },
+    {
+      "name": "Touch Coffee",
+      "latitude": 50.036339,
+      "longitude": 15.767893
+    },
+    {
+      "name": "F&M R Cukrová Vata",
+      "latitude": 50.036479,
+      "longitude": 15.769353
+    },
+    {
+      "name": "Levandulomat",
+      "latitude": 50.036455,
+      "longitude": 15.769395
+    },
+    {
+      "name": "Coca-Cola",
+      "latitude": 50.037607,
+      "longitude": 15.769063
+    },
+    {
+      "name": "Kartičkomat",
+      "latitude": 50.03761,
+      "longitude": 15.769086
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 50.026986,
+      "longitude": 15.72897
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 50.029632,
+      "longitude": 15.789949
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 50.032342,
+      "longitude": 15.755968
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 50.034065,
+      "longitude": 15.761938
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 50.033597,
+      "longitude": 15.770321
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 50.022044,
+      "longitude": 15.771419
+    },
+    {
+      "name": "Arriva",
+      "latitude": 50.032341,
+      "longitude": 15.755999
+    },
+    {
+      "name": "Automat na mléko, Obživa",
+      "latitude": 50.028995,
+      "longitude": 16.370213
+    },
+    {
+      "name": "Automat na mléko",
+      "latitude": 50.053174,
+      "longitude": 16.559464
+    },
+    {
+      "name": "Zona F",
+      "latitude": 49.745581,
+      "longitude": 13.358606
+    },
+    {
+      "name": "LNG Nýřany (GasNet)",
+      "latitude": 49.707067,
+      "longitude": 13.222755
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.763614,
+      "longitude": 13.379119
+    },
+    {
+      "name": "Zona F",
+      "latitude": 49.745403,
+      "longitude": 13.360673
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.40439,
+      "longitude": 13.293546
+    },
+    {
+      "name": "Bramboromat",
+      "latitude": 49.265114,
+      "longitude": 13.397635
+    },
+    {
+      "name": "kytky z chalupky",
+      "latitude": 49.058783,
+      "longitude": 13.781795
+    },
+    {
+      "name": "Gouda z Pošné",
+      "latitude": 49.389706,
+      "longitude": 14.690148
+    },
+    {
+      "name": "Vjezd do centra Poličky",
+      "latitude": 49.714738,
+      "longitude": 16.262411
+    },
+    {
+      "name": "Vjezd do centra Poličky",
+      "latitude": 49.716568,
+      "longitude": 16.265993
+    },
+    {
+      "name": "Čerstvá vajíčka od Šudomů",
+      "latitude": 49.624743,
+      "longitude": 16.347279
+    },
+    {
+      "name": "mlékomat Budeč",
+      "latitude": 49.535021,
+      "longitude": 15.913133
+    },
+    {
+      "name": "Kořeníčkomat",
+      "latitude": 49.144512,
+      "longitude": 14.942778
+    },
+    {
+      "name": "Nový svět - osvěžovna",
+      "latitude": 49.080783,
+      "longitude": 15.257652
+    },
+    {
+      "name": "West Pay",
+      "latitude": 49.201716,
+      "longitude": 15.890099
+    },
+    {
+      "name": "Automat na zeleninu BRAMAT",
+      "latitude": 49.24831,
+      "longitude": 16.581117
+    },
+    {
+      "name": "Automat na zeleninu Bramat",
+      "latitude": 49.214789,
+      "longitude": 16.626591
+    },
+    {
+      "name": "Mendlovo nám.",
+      "latitude": 49.190795,
+      "longitude": 16.594767
+    },
+    {
+      "name": "1-14-12 Mezírka",
+      "latitude": 49.200616,
+      "longitude": 16.603829
+    },
+    {
+      "name": "1-13-20 Kounicova ul.",
+      "latitude": 49.200318,
+      "longitude": 16.603581
+    },
+    {
+      "name": "1-02-10 tř. Kpt. Jaroše",
+      "latitude": 49.200455,
+      "longitude": 16.610757
+    },
+    {
+      "name": "1-01-03 Roosveltova ul.",
+      "latitude": 49.198367,
+      "longitude": 16.609288
+    },
+    {
+      "name": "1-01-04 Roosveltova ul.",
+      "latitude": 49.19768,
+      "longitude": 16.610944
+    },
+    {
+      "name": "1-02-09 tř. Kpt. Jaroše",
+      "latitude": 49.200499,
+      "longitude": 16.611209
+    },
+    {
+      "name": "1-01-13 Besední",
+      "latitude": 49.195635,
+      "longitude": 16.604683
+    },
+    {
+      "name": "1-02-01 tř. Kpt. Jaroše",
+      "latitude": 49.201612,
+      "longitude": 16.610833
+    },
+    {
+      "name": "1-02-04 tř. Kpt. Jaroše",
+      "latitude": 49.203116,
+      "longitude": 16.61065
+    },
+    {
+      "name": "1-02-06 Lužánecká ul.",
+      "latitude": 49.204548,
+      "longitude": 16.608475
+    },
+    {
+      "name": "1-13-11 Grohova ul.",
+      "latitude": 49.200668,
+      "longitude": 16.596294
+    },
+    {
+      "name": "1-13-13 Grohova ul.",
+      "latitude": 49.200963,
+      "longitude": 16.598424
+    },
+    {
+      "name": "1-14-05 Cihlářská ul.",
+      "latitude": 49.204113,
+      "longitude": 16.604407
+    },
+    {
+      "name": "1-14-03 Smetanova ul.",
+      "latitude": 49.202751,
+      "longitude": 16.60426
+    },
+    {
+      "name": "1-14-01 Mášova ul.",
+      "latitude": 49.201203,
+      "longitude": 16.605333
+    },
+    {
+      "name": "1-14-02 Antonínská ul.",
+      "latitude": 49.20275,
+      "longitude": 16.606242
+    },
+    {
+      "name": "1-14-14 Lidická tř.",
+      "latitude": 49.202555,
+      "longitude": 16.60705
+    },
+    {
+      "name": "1-02-07 Lidická tř.",
+      "latitude": 49.20115,
+      "longitude": 16.607749
+    },
+    {
+      "name": "1-02-08 Lidická tř.",
+      "latitude": 49.203647,
+      "longitude": 16.607018
+    },
+    {
+      "name": "1-14-10 Sušilova ul.",
+      "latitude": 49.20548,
+      "longitude": 16.599628
+    },
+    {
+      "name": "1-14-11 Sušilova ul.",
+      "latitude": 49.204845,
+      "longitude": 16.598382
+    },
+    {
+      "name": "1-14-04 Botanická ul.",
+      "latitude": 49.203798,
+      "longitude": 16.603335
+    },
+    {
+      "name": "1-14-08 Lidická tř.",
+      "latitude": 49.205829,
+      "longitude": 16.605157
+    },
+    {
+      "name": "1-14-06 Bayerova ul.",
+      "latitude": 49.205304,
+      "longitude": 16.602867
+    },
+    {
+      "name": "1-14-07 Sokolská ul.",
+      "latitude": 49.20433,
+      "longitude": 16.60079
+    },
+    {
+      "name": "1-14-09 Botanická ul.",
+      "latitude": 49.205955,
+      "longitude": 16.60058
+    },
+    {
+      "name": "1-13-05 Údolní ul.",
+      "latitude": 49.196791,
+      "longitude": 16.601202
+    },
+    {
+      "name": "1-13-19 Komenského nám.",
+      "latitude": 49.198128,
+      "longitude": 16.602732
+    },
+    {
+      "name": "1-13-07 Jaselská ul.",
+      "latitude": 49.198938,
+      "longitude": 16.600512
+    },
+    {
+      "name": "1-13-02 Smetanova ul.",
+      "latitude": 49.201219,
+      "longitude": 16.601258
+    },
+    {
+      "name": "1-13-10 Gorkého",
+      "latitude": 49.199272,
+      "longitude": 16.595012
+    },
+    {
+      "name": "1-13-09 Obilní trh",
+      "latitude": 49.19968,
+      "longitude": 16.597833
+    },
+    {
+      "name": "1-13-06 Obilní trh",
+      "latitude": 49.198119,
+      "longitude": 16.598282
+    },
+    {
+      "name": "1-13-17 Jiráskova ul.",
+      "latitude": 49.204314,
+      "longitude": 16.595344
+    },
+    {
+      "name": "1-13-15 Jana Uhra",
+      "latitude": 49.202162,
+      "longitude": 16.594751
+    },
+    {
+      "name": "1-13-04 Kounicova ul.",
+      "latitude": 49.202737,
+      "longitude": 16.600088
+    },
+    {
+      "name": "1-13-16 Jana Uhra",
+      "latitude": 49.202586,
+      "longitude": 16.597704
+    },
+    {
+      "name": "1-14-13 Kounicova ul.",
+      "latitude": 49.200123,
+      "longitude": 16.60472
+    },
+    {
+      "name": "1-13-21 Kounicova ul.",
+      "latitude": 49.199625,
+      "longitude": 16.604664
+    },
+    {
+      "name": "1-13-03 Pekárenská ul.",
+      "latitude": 49.201386,
+      "longitude": 16.599716
+    },
+    {
+      "name": "1-13-01 Slovákova ul.",
+      "latitude": 49.200732,
+      "longitude": 16.602514
+    },
+    {
+      "name": "50 - Vaňkovo náměstí",
+      "latitude": 49.194523,
+      "longitude": 16.585893
+    },
+    {
+      "name": "1-13-12 Grohova ul.",
+      "latitude": 49.200386,
+      "longitude": 16.594526
+    },
+    {
+      "name": "1-13-08 Gorkého",
+      "latitude": 49.200214,
+      "longitude": 16.60087
+    },
+    {
+      "name": "1-13-18 Čápkova ul.",
+      "latitude": 49.20311,
+      "longitude": 16.594173
+    },
+    {
+      "name": "1-13-14 Jana Uhra",
+      "latitude": 49.202343,
+      "longitude": 16.596113
+    },
+    {
+      "name": "1-01-02 Moravské nám (Lidická)",
+      "latitude": 49.199891,
+      "longitude": 16.607763
+    },
+    {
+      "name": "1-01-01 Moravské nám",
+      "latitude": 49.19805,
+      "longitude": 16.606676
+    },
+    {
+      "name": "Uloženka",
+      "latitude": 49.189339,
+      "longitude": 16.597138
+    },
+    {
+      "name": "1-11-04 Kopečná ul.",
+      "latitude": 49.19183,
+      "longitude": 16.602524
+    },
+    {
+      "name": "1-11-07 Studánka",
+      "latitude": 49.191872,
+      "longitude": 16.604046
+    },
+    {
+      "name": "1-11-06 Kopečná ul.",
+      "latitude": 49.190922,
+      "longitude": 16.603904
+    },
+    {
+      "name": "1-11-02 Anenská ul.",
+      "latitude": 49.191083,
+      "longitude": 16.601232
+    },
+    {
+      "name": "1-11-05 Jircháře",
+      "latitude": 49.190295,
+      "longitude": 16.602886
+    },
+    {
+      "name": "1-11-08 Vodní ul.",
+      "latitude": 49.189806,
+      "longitude": 16.603729
+    },
+    {
+      "name": "1-11-10 Nové sady",
+      "latitude": 49.189277,
+      "longitude": 16.606845
+    },
+    {
+      "name": "1-12-01 Pellicova ul.",
+      "latitude": 49.196728,
+      "longitude": 16.595381
+    },
+    {
+      "name": "1-12-02 Pellicova ul.",
+      "latitude": 49.194451,
+      "longitude": 16.595864
+    },
+    {
+      "name": "1-12-04 Pellicova ul.",
+      "latitude": 49.19272,
+      "longitude": 16.597982
+    },
+    {
+      "name": "1-12-05 Pellicova ul.",
+      "latitude": 49.192556,
+      "longitude": 16.600758
+    },
+    {
+      "name": "1-12-06 Pellicova ul.",
+      "latitude": 49.192721,
+      "longitude": 16.60319
+    },
+    {
+      "name": "1-11-09 Nové sady",
+      "latitude": 49.189551,
+      "longitude": 16.607523
+    },
+    {
+      "name": "1-16-02 Grohova",
+      "latitude": 49.198897,
+      "longitude": 16.588291
+    },
+    {
+      "name": "1-16-01 Grohova",
+      "latitude": 49.200318,
+      "longitude": 16.592878
+    },
+    {
+      "name": "1-10-06 Leitnerova ul.",
+      "latitude": 49.189152,
+      "longitude": 16.602424
+    },
+    {
+      "name": "FlowerBox",
+      "latitude": 49.190236,
+      "longitude": 16.61027
+    },
+    {
+      "name": "1-01-11 Benešova",
+      "latitude": 49.195046,
+      "longitude": 16.614985
+    },
+    {
+      "name": "1-01-05 Za Divadlem",
+      "latitude": 49.19627,
+      "longitude": 16.613826
+    },
+    {
+      "name": "1-01-06 Za Divadlem",
+      "latitude": 49.197114,
+      "longitude": 16.613071
+    },
+    {
+      "name": "Automat na jízdenky MHD",
+      "latitude": 49.18496,
+      "longitude": 16.636713
+    },
+    {
+      "name": "1-01-09 Benešova",
+      "latitude": 49.193572,
+      "longitude": 16.614185
+    },
+    {
+      "name": "1-01-22 Roosveltova ul.",
+      "latitude": 49.196676,
+      "longitude": 16.612269
+    },
+    {
+      "name": "1-01-10 Benešova",
+      "latitude": 49.193888,
+      "longitude": 16.614001
+    },
+    {
+      "name": "1-01-08 Benešova",
+      "latitude": 49.193233,
+      "longitude": 16.613632
+    },
+    {
+      "name": "1-01-12 Benešova",
+      "latitude": 49.191904,
+      "longitude": 16.612877
+    },
+    {
+      "name": "1-04-06 Nádražní",
+      "latitude": 49.191482,
+      "longitude": 16.612313
+    },
+    {
+      "name": "1-01-07 Malinovského nám.",
+      "latitude": 49.196036,
+      "longitude": 16.615224
+    },
+    {
+      "name": "Bratislavská - Příkop",
+      "latitude": 49.198599,
+      "longitude": 16.614912
+    },
+    {
+      "name": "1-02-05 Vrchlického sad",
+      "latitude": 49.203965,
+      "longitude": 16.612114
+    },
+    {
+      "name": "1-02-02 Kudelova ul.",
+      "latitude": 49.201784,
+      "longitude": 16.613511
+    },
+    {
+      "name": "1-02-03 Bartošova ul.",
+      "latitude": 49.202477,
+      "longitude": 16.612205
+    },
+    {
+      "name": "Automat na zeleninu Bramat",
+      "latitude": 49.20579,
+      "longitude": 16.659948
+    },
+    {
+      "name": "AmericanDrinks.com",
+      "latitude": 49.154856,
+      "longitude": 16.597915
+    },
+    {
+      "name": "American Drinks",
+      "latitude": 49.159878,
+      "longitude": 16.641614
+    },
+    {
+      "name": "U mlsné kozy",
+      "latitude": 49.11752,
+      "longitude": 16.584972
+    },
+    {
+      "name": "Smetanova",
+      "latitude": 48.940061,
+      "longitude": 16.737937
+    },
+    {
+      "name": "Kosmákova",
+      "latitude": 48.939388,
+      "longitude": 16.737808
+    },
+    {
+      "name": "Bratislavská COOP",
+      "latitude": 48.939008,
+      "longitude": 16.735001
+    },
+    {
+      "name": "Janáčkova",
+      "latitude": 48.938472,
+      "longitude": 16.737118
+    },
+    {
+      "name": "Dukelské náměstí",
+      "latitude": 48.940197,
+      "longitude": 16.736866
+    },
+    {
+      "name": "Mrštíkova",
+      "latitude": 48.941525,
+      "longitude": 16.737247
+    },
+    {
+      "name": "Husova",
+      "latitude": 48.940875,
+      "longitude": 16.736131
+    },
+    {
+      "name": "Šafaříkova",
+      "latitude": 48.944666,
+      "longitude": 16.734526
+    },
+    {
+      "name": "Tyršova",
+      "latitude": 48.944206,
+      "longitude": 16.732693
+    },
+    {
+      "name": "SPOZAM",
+      "latitude": 48.94462,
+      "longitude": 16.732059
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.241696,
+      "longitude": 17.189425
+    },
+    {
+      "name": "Samoobslužný kiosek IS EDAZ - D1",
+      "latitude": 49.904896,
+      "longitude": 18.307747
+    },
+    {
+      "name": "Vejcomat",
+      "latitude": 49.653366,
+      "longitude": 18.145842
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.590458,
+      "longitude": 17.250406
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.582881,
+      "longitude": 17.238791
+    },
+    {
+      "name": "P3",
+      "latitude": 49.587345,
+      "longitude": 17.257096
+    },
+    {
+      "name": "P3",
+      "latitude": 49.58617,
+      "longitude": 17.257773
+    },
+    {
+      "name": "Bit.plus",
+      "latitude": 49.586674,
+      "longitude": 17.25793
+    },
+    {
+      "name": "snack4track",
+      "latitude": 49.493108,
+      "longitude": 17.083241
+    },
+    {
+      "name": "snack4track",
+      "latitude": 49.480309,
+      "longitude": 17.103686
+    },
+    {
+      "name": "snack4track",
+      "latitude": 49.468727,
+      "longitude": 17.117591
+    },
+    {
+      "name": "snack4track",
+      "latitude": 49.479503,
+      "longitude": 17.082383
+    },
+    {
+      "name": "snack4track",
+      "latitude": 49.465538,
+      "longitude": 17.096847
+    },
+    {
+      "name": "Frgály",
+      "latitude": 49.550357,
+      "longitude": 17.92167
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.594915,
+      "longitude": 18.008377
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.597503,
+      "longitude": 18.010189
+    },
+    {
+      "name": "Květomat",
+      "latitude": 49.60364,
+      "longitude": 18.140408
+    },
+    {
+      "name": "Automat na povolenky vjezdu na Hostýn",
+      "latitude": 49.395145,
+      "longitude": 17.680109
+    },
+    {
+      "name": "Frgály",
+      "latitude": 49.473787,
+      "longitude": 17.970534
+    },
+    {
+      "name": "Samoobslužný kiosek IS EDAZ - I/48",
+      "latitude": 49.762322,
+      "longitude": 18.608887
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.685531,
+      "longitude": 18.352801
+    },
+    {
+      "name": "Fresh milk",
+      "latitude": 49.348248,
+      "longitude": 17.199148
+    },
+    {
+      "name": "pokladna",
+      "latitude": 49.21509,
+      "longitude": 17.518643
+    },
+    {
+      "name": "pokladna",
+      "latitude": 49.223104,
+      "longitude": 17.522577
+    },
+    {
+      "name": "pokladna",
+      "latitude": 49.228859,
+      "longitude": 17.661602
+    },
+    {
+      "name": "Lidl káva",
+      "latitude": 49.147074,
+      "longitude": 16.876486
+    },
+    {
+      "name": "P1 Schmelzer Straße",
+      "latitude": 48.894556,
+      "longitude": 13.646861
+    },
+    {
+      "name": "P3 Kißlinger",
+      "latitude": 48.892934,
+      "longitude": 13.650732
+    },
+    {
+      "name": "Platební automat pro přívoz",
+      "latitude": 48.760378,
+      "longitude": 14.021568
+    },
+    {
+      "name": "Platební automat pro přívoz",
+      "latitude": 48.757604,
+      "longitude": 14.014594
+    },
+    {
+      "name": "7",
+      "latitude": 48.805729,
+      "longitude": 14.312249
+    },
+    {
+      "name": "LNG Kaplice GasNet",
+      "latitude": 48.775804,
+      "longitude": 14.469125
+    },
+    {
+      "name": "Samoobslužný kiosek IS EDAZ - I/3",
+      "latitude": 48.649271,
+      "longitude": 14.453368
+    },
+    {
+      "name": "Parkovací kasa",
+      "latitude": 48.870562,
+      "longitude": 16.050199
+    },
+    {
+      "name": "Dog-Station",
+      "latitude": 48.726836,
+      "longitude": 16.386227
+    },
+    {
+      "name": "Informační systém Elektronické dálniční známky",
+      "latitude": 48.789811,
+      "longitude": 16.636659
+    },
+    {
+      "name": "P11",
+      "latitude": 48.849374,
+      "longitude": 17.128629
+    },
+    {
+      "name": "P01",
+      "latitude": 48.84916,
+      "longitude": 17.128182
+    },
+    {
+      "name": "P12",
+      "latitude": 48.851309,
+      "longitude": 17.125039
+    },
+    {
+      "name": "P05",
+      "latitude": 48.852086,
+      "longitude": 17.125588
+    },
+    {
+      "name": "P10",
+      "latitude": 48.850331,
+      "longitude": 17.129107
+    },
+    {
+      "name": "P08",
+      "latitude": 48.851437,
+      "longitude": 17.129057
+    },
+    {
+      "name": "P09",
+      "latitude": 48.850813,
+      "longitude": 17.129184
+    },
+    {
+      "name": "P24",
+      "latitude": 48.852334,
+      "longitude": 17.123594
+    },
+    {
+      "name": "P23",
+      "latitude": 48.853172,
+      "longitude": 17.123214
+    },
+    {
+      "name": "P22",
+      "latitude": 48.854099,
+      "longitude": 17.122879
+    },
+    {
+      "name": "P21",
+      "latitude": 48.854399,
+      "longitude": 17.12565
+    },
+    {
+      "name": "P20",
+      "latitude": 48.853822,
+      "longitude": 17.126698
+    },
+    {
+      "name": "P03",
+      "latitude": 48.853297,
+      "longitude": 17.125668
+    },
+    {
+      "name": "P18",
+      "latitude": 48.853041,
+      "longitude": 17.127222
+    },
+    {
+      "name": "P17",
+      "latitude": 48.853051,
+      "longitude": 17.126603
+    },
+    {
+      "name": "P16",
+      "latitude": 48.851256,
+      "longitude": 17.131315
+    },
+    {
+      "name": "P15",
+      "latitude": 48.849715,
+      "longitude": 17.129802
+    },
+    {
+      "name": "P14",
+      "latitude": 48.847766,
+      "longitude": 17.127635
+    },
+    {
+      "name": "P13",
+      "latitude": 48.849953,
+      "longitude": 17.130916
+    },
+    {
+      "name": "P19",
+      "latitude": 48.855158,
+      "longitude": 17.124517
+    },
+    {
+      "name": "P07",
+      "latitude": 48.855689,
+      "longitude": 17.125178
+    },
+    {
+      "name": "P04",
+      "latitude": 48.85627,
+      "longitude": 17.122808
+    },
+    {
+      "name": "P02",
+      "latitude": 48.850427,
+      "longitude": 17.12733
+    },
+    {
+      "name": "P06",
+      "latitude": 48.856003,
+      "longitude": 17.123818
+    },
+    {
+      "name": "Výkup lahví",
+      "latitude": 48.85196,
+      "longitude": 17.116182
+    },
+    {
+      "name": "Samoobslužný kiosek IS EDAZ - D2",
+      "latitude": 48.727982,
+      "longitude": 16.982654
+    }
+  ],
+  "meta": {
+    "title": "Prodejní automaty - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných prodejních automatů v České republice (248 záznamů) — body zájmu z OpenStreetMap (tag amenity=vending_machine), výřez EU-POIS/CZ. Obsahuje 248 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Prodejní automaty | ListBase",
+    "seo_description": "Stáhnout Prodejní automaty — 248 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 248 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

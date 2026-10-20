@@ -1,0 +1,7086 @@
+{
+  "id": "cs-hasicske-stanice",
+  "name": "Hasičské stanice",
+  "title": "Hasičské stanice",
+  "description": "Hasičské stanice v České republice (1409 záznamů) — body zájmu z OpenStreetMap (tag amenity=fire_station), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1409,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "511 Garáže a Hasiči",
+      "latitude": 50.178137,
+      "longitude": 14.359919
+    },
+    {
+      "name": "bývalá požární zbrojnice",
+      "latitude": 50.345134,
+      "longitude": 16.023964
+    },
+    {
+      "name": "Centrální hasičská stanice Nový Jičín",
+      "latitude": 49.605412,
+      "longitude": 18.032801
+    },
+    {
+      "name": "Chobot",
+      "latitude": 49.461893,
+      "longitude": 13.933869
+    },
+    {
+      "name": "CHS Karlovy Vary",
+      "latitude": 50.234608,
+      "longitude": 12.850233
+    },
+    {
+      "name": "CHS Sokolov",
+      "latitude": 50.175921,
+      "longitude": 12.646845
+    },
+    {
+      "name": "CPS HZSOL",
+      "latitude": 49.577755,
+      "longitude": 17.249189
+    },
+    {
+      "name": "CPS Ostrava",
+      "latitude": 49.802306,
+      "longitude": 18.230707
+    },
+    {
+      "name": "DHZO Brodské",
+      "latitude": 48.693382,
+      "longitude": 17.013329
+    },
+    {
+      "name": "DHZO Kopčany",
+      "latitude": 48.787186,
+      "longitude": 17.116069
+    },
+    {
+      "name": "DHZO Makov",
+      "latitude": 49.376806,
+      "longitude": 18.440001
+    },
+    {
+      "name": "DHZO Skalica",
+      "latitude": 48.84747,
+      "longitude": 17.23451
+    },
+    {
+      "name": "DHZO Vrbovce - Šance",
+      "latitude": 48.819022,
+      "longitude": 17.512936
+    },
+    {
+      "name": "Dobrovolni hasici Utechov",
+      "latitude": 49.2873,
+      "longitude": 16.63138
+    },
+    {
+      "name": "dobrovolní hasiči",
+      "latitude": 49.018126,
+      "longitude": 13.914671
+    },
+    {
+      "name": "Dobrovolní hasiči",
+      "latitude": 49.304533,
+      "longitude": 15.072928
+    },
+    {
+      "name": "Dobrovolní hasiči",
+      "latitude": 49.670226,
+      "longitude": 18.362584
+    },
+    {
+      "name": "Dobrovolní hasiči",
+      "latitude": 49.893285,
+      "longitude": 12.731996
+    },
+    {
+      "name": "Dobrovolní hasiči Zelinkovice",
+      "latitude": 49.663798,
+      "longitude": 18.293717
+    },
+    {
+      "name": "Dobrovolný HZ Jinošov",
+      "latitude": 49.231327,
+      "longitude": 16.195437
+    },
+    {
+      "name": "Dobrovolný sbor",
+      "latitude": 49.192782,
+      "longitude": 14.349089
+    },
+    {
+      "name": "Dvůr Králové nad Labem",
+      "latitude": 50.440351,
+      "longitude": 15.823417
+    },
+    {
+      "name": "Dŭm Hasičŭ Želízy",
+      "latitude": 50.423288,
+      "longitude": 14.465462
+    },
+    {
+      "name": "Dům hasičů",
+      "latitude": 49.339235,
+      "longitude": 18.202572
+    },
+    {
+      "name": "Dům hasičů",
+      "latitude": 49.374708,
+      "longitude": 15.7023
+    },
+    {
+      "name": "Dům požárníků",
+      "latitude": 49.608648,
+      "longitude": 16.861764
+    },
+    {
+      "name": "Feuerwehr Hohenberg",
+      "latitude": 50.09653,
+      "longitude": 12.221419
+    },
+    {
+      "name": "Feuerwehr Kühnhaide",
+      "latitude": 50.58205,
+      "longitude": 13.233651
+    },
+    {
+      "name": "Feuerwehr Oedt",
+      "latitude": 48.601034,
+      "longitude": 14.057283
+    },
+    {
+      "name": "Feuerwehr Rothenthal",
+      "latitude": 50.630703,
+      "longitude": 13.374937
+    },
+    {
+      "name": "FF Gmünd-Breitensee",
+      "latitude": 48.799656,
+      "longitude": 14.968215
+    },
+    {
+      "name": "FF Hörleinsödt",
+      "latitude": 48.592844,
+      "longitude": 14.071409
+    },
+    {
+      "name": "FFW Schönberg",
+      "latitude": 50.181944,
+      "longitude": 12.306718
+    },
+    {
+      "name": "fire department",
+      "latitude": 49.462907,
+      "longitude": 13.052679
+    },
+    {
+      "name": "Freiw Feuerwehr",
+      "latitude": 50.446371,
+      "longitude": 13.01398
+    },
+    {
+      "name": "Freiwillige Feuerwehr Bayerisch Eisenstein",
+      "latitude": 49.121143,
+      "longitude": 13.200512
+    },
+    {
+      "name": "Freiwillige Feuerwehr Brünst",
+      "latitude": 49.690182,
+      "longitude": 12.453903
+    },
+    {
+      "name": "Freiwillige Feuerwehr Bärenstein",
+      "latitude": 50.499471,
+      "longitude": 13.024933
+    },
+    {
+      "name": "Freiwillige Feuerwehr Deutscheinsiedel",
+      "latitude": 50.632711,
+      "longitude": 13.49235
+    },
+    {
+      "name": "Freiwillige Feuerwehr Deutschneudorf",
+      "latitude": 50.604882,
+      "longitude": 13.465759
+    },
+    {
+      "name": "Freiwillige Feuerwehr Haidmühle",
+      "latitude": 48.826921,
+      "longitude": 13.777581
+    },
+    {
+      "name": "Freiwillige Feuerwehr Hartau",
+      "latitude": 50.859426,
+      "longitude": 14.810591
+    },
+    {
+      "name": "Freiwillige Feuerwehr Klingenthal",
+      "latitude": 50.353545,
+      "longitude": 12.471916
+    },
+    {
+      "name": "Freiwillige Feuerwehr Klingenthal Wache 3",
+      "latitude": 50.383352,
+      "longitude": 12.48631
+    },
+    {
+      "name": "Freiwillige Feuerwehr Luden",
+      "latitude": 48.895372,
+      "longitude": 15.57297
+    },
+    {
+      "name": "Freiwillige Feuerwehr Lückendorf",
+      "latitude": 50.831791,
+      "longitude": 14.764177
+    },
+    {
+      "name": "Freiwillige Feuerwehr Neudorf bei Georgenberg",
+      "latitude": 49.712859,
+      "longitude": 12.431626
+    },
+    {
+      "name": "Freiwillige Feuerwehr Neugersdorf",
+      "latitude": 50.972749,
+      "longitude": 14.599627
+    },
+    {
+      "name": "Freiwillige Feuerwehr Neuhausen",
+      "latitude": 50.225044,
+      "longitude": 12.143319
+    },
+    {
+      "name": "Freiwillige Feuerwehr Reitzenhain",
+      "latitude": 50.550973,
+      "longitude": 13.221448
+    },
+    {
+      "name": "Freiwillige Feuerwehr Rittersgrün",
+      "latitude": 50.461352,
+      "longitude": 12.814682
+    },
+    {
+      "name": "Freiwillige Feuerwehr Rohrbach",
+      "latitude": 50.244125,
+      "longitude": 12.327735
+    },
+    {
+      "name": "Freiwillige Feuerwehr Satzung",
+      "latitude": 50.526747,
+      "longitude": 13.194131
+    },
+    {
+      "name": "Freiwillige Feuerwehr Schirnding",
+      "latitude": 50.080988,
+      "longitude": 12.228462
+    },
+    {
+      "name": "Freiwillige Feuerwehr Taubenheim",
+      "latitude": 51.043846,
+      "longitude": 14.479573
+    },
+    {
+      "name": "Freiwillige Feuerwehr Untergrafenried",
+      "latitude": 49.421277,
+      "longitude": 12.681438
+    },
+    {
+      "name": "Freiwillige Feuerwehr Unterwiesenthal",
+      "latitude": 50.425026,
+      "longitude": 12.984706
+    },
+    {
+      "name": "Freiwillige Feuerwehr Wernitzgrün",
+      "latitude": 50.292117,
+      "longitude": 12.368225
+    },
+    {
+      "name": "Freiwillige Feuerwehr Zinnwald-Georgenfeld",
+      "latitude": 50.736545,
+      "longitude": 13.763638
+    },
+    {
+      "name": "Freiwillige Feuerwehr Zwota",
+      "latitude": 50.355293,
+      "longitude": 12.434672
+    },
+    {
+      "name": "Generální ředitelství hasicskeho zachranneho sboru CR",
+      "latitude": 49.895439,
+      "longitude": 14.500696
+    },
+    {
+      "name": "Generální ředitelství HZS",
+      "latitude": 50.036282,
+      "longitude": 14.488264
+    },
+    {
+      "name": "Hadrava",
+      "latitude": 49.310237,
+      "longitude": 13.123567
+    },
+    {
+      "name": "Hardegg",
+      "latitude": 48.85257,
+      "longitude": 15.859551
+    },
+    {
+      "name": "Hasici",
+      "latitude": 50.719576,
+      "longitude": 14.712205
+    },
+    {
+      "name": "Hasici",
+      "latitude": 50.897259,
+      "longitude": 15.140492
+    },
+    {
+      "name": "Hasicska Zbrojnice",
+      "latitude": 49.186838,
+      "longitude": 14.707782
+    },
+    {
+      "name": "Hasičcká zbrojnice",
+      "latitude": 50.65827,
+      "longitude": 15.130865
+    },
+    {
+      "name": "Hasičcká zbrojnice a knihovna",
+      "latitude": 50.713034,
+      "longitude": 15.074968
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 48.770663,
+      "longitude": 14.961506
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 48.785656,
+      "longitude": 16.081865
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 48.826039,
+      "longitude": 16.845194
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 48.827826,
+      "longitude": 16.399466
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 48.831682,
+      "longitude": 16.747397
+    },
+    {
+      "name": "hasiči",
+      "latitude": 48.974869,
+      "longitude": 17.75577
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.039138,
+      "longitude": 16.770131
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.067623,
+      "longitude": 15.324087
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.08484,
+      "longitude": 16.435288
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.152413,
+      "longitude": 16.505498
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.177542,
+      "longitude": 17.934071
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.203075,
+      "longitude": 16.880777
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.22345,
+      "longitude": 17.853697
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.244586,
+      "longitude": 16.347279
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.254177,
+      "longitude": 17.496588
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.254413,
+      "longitude": 16.356772
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.262067,
+      "longitude": 17.264339
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.286358,
+      "longitude": 17.681333
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.295929,
+      "longitude": 17.39896
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.297438,
+      "longitude": 17.786805
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.302942,
+      "longitude": 16.723372
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.310403,
+      "longitude": 17.762587
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.33871,
+      "longitude": 17.994693
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.428402,
+      "longitude": 15.392842
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.434885,
+      "longitude": 18.036176
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.446018,
+      "longitude": 13.354522
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.479268,
+      "longitude": 13.280385
+    },
+    {
+      "name": "hasiči",
+      "latitude": 49.502888,
+      "longitude": 17.334483
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.554292,
+      "longitude": 17.336532
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.554307,
+      "longitude": 17.592141
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.580425,
+      "longitude": 18.394074
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.659137,
+      "longitude": 18.762613
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.674077,
+      "longitude": 13.999411
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.760826,
+      "longitude": 18.017879
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.83362,
+      "longitude": 13.903139
+    },
+    {
+      "name": "hasiči",
+      "latitude": 49.902512,
+      "longitude": 14.621921
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.909561,
+      "longitude": 17.213862
+    },
+    {
+      "name": "hasiči",
+      "latitude": 49.912248,
+      "longitude": 14.633616
+    },
+    {
+      "name": "hasiči",
+      "latitude": 49.935978,
+      "longitude": 14.668754
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.974293,
+      "longitude": 14.483425
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.991341,
+      "longitude": 15.723731
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 49.997598,
+      "longitude": 16.495129
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.04603,
+      "longitude": 14.809525
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.101991,
+      "longitude": 14.102017
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.123351,
+      "longitude": 16.215421
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.152756,
+      "longitude": 13.899131
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.231155,
+      "longitude": 14.590172
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.241015,
+      "longitude": 12.746477
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.292926,
+      "longitude": 13.990868
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.295672,
+      "longitude": 13.28496
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.334541,
+      "longitude": 14.967767
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.337934,
+      "longitude": 14.800205
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.342157,
+      "longitude": 13.964137
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.351213,
+      "longitude": 14.48633
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.364717,
+      "longitude": 13.847421
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.383176,
+      "longitude": 13.191113
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.435901,
+      "longitude": 15.00547
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.441857,
+      "longitude": 16.914717
+    },
+    {
+      "name": "hasiči",
+      "latitude": 50.480376,
+      "longitude": 16.180714
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.61996,
+      "longitude": 13.610652
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.7649,
+      "longitude": 14.876786
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.853357,
+      "longitude": 14.847242
+    },
+    {
+      "name": "Hasiči",
+      "latitude": 50.91466,
+      "longitude": 14.508006
+    },
+    {
+      "name": "Hasiči (JSDH)",
+      "latitude": 50.364696,
+      "longitude": 13.847919
+    },
+    {
+      "name": "Hasiči - Bukovina u Čisté",
+      "latitude": 50.542902,
+      "longitude": 15.581676
+    },
+    {
+      "name": "Hasiči - Slavičín",
+      "latitude": 49.08858,
+      "longitude": 17.879631
+    },
+    {
+      "name": "Hasiči Adamov u českých Budějovicích",
+      "latitude": 49.002446,
+      "longitude": 14.543181
+    },
+    {
+      "name": "Hasiči Bolevec",
+      "latitude": 49.777253,
+      "longitude": 13.375389
+    },
+    {
+      "name": "Hasiči Boží Dar",
+      "latitude": 50.408752,
+      "longitude": 12.927961
+    },
+    {
+      "name": "Hasiči Brno-Chrlice",
+      "latitude": 49.134334,
+      "longitude": 16.654154
+    },
+    {
+      "name": "Hasiči Brno-Obřany",
+      "latitude": 49.234527,
+      "longitude": 16.645807
+    },
+    {
+      "name": "Hasiči Brumov",
+      "latitude": 49.461334,
+      "longitude": 16.425943
+    },
+    {
+      "name": "Hasiči Bystré",
+      "latitude": 49.628287,
+      "longitude": 16.343239
+    },
+    {
+      "name": "Hasiči Bílovice",
+      "latitude": 49.245784,
+      "longitude": 16.673762
+    },
+    {
+      "name": "Hasiči Bělá pod Bezdězem",
+      "latitude": 50.504453,
+      "longitude": 14.799153
+    },
+    {
+      "name": "HASIČI BŘEZHRAD",
+      "latitude": 50.174256,
+      "longitude": 15.785922
+    },
+    {
+      "name": "Hasiči Chloumek",
+      "latitude": 50.373251,
+      "longitude": 14.506073
+    },
+    {
+      "name": "Hasiči Chrlice",
+      "latitude": 49.135807,
+      "longitude": 16.653643
+    },
+    {
+      "name": "Hasiči Chýně",
+      "latitude": 50.061459,
+      "longitude": 14.225544
+    },
+    {
+      "name": "Hasiči DP",
+      "latitude": 50.071873,
+      "longitude": 14.521172
+    },
+    {
+      "name": "Hasiči DP Metro",
+      "latitude": 50.042375,
+      "longitude": 14.469464
+    },
+    {
+      "name": "Hasiči Drahelčice",
+      "latitude": 50.031641,
+      "longitude": 14.203808
+    },
+    {
+      "name": "Hasiči Hejnice",
+      "latitude": 50.876181,
+      "longitude": 15.183985
+    },
+    {
+      "name": "Hasiči Horní Blatné",
+      "latitude": 50.390132,
+      "longitude": 12.771802
+    },
+    {
+      "name": "Hasiči Horní Počernice",
+      "latitude": 50.044142,
+      "longitude": 14.558408
+    },
+    {
+      "name": "Hasiči Hrabství",
+      "latitude": 49.819781,
+      "longitude": 17.945557
+    },
+    {
+      "name": "Hasiči Hrabyně",
+      "latitude": 49.883577,
+      "longitude": 18.056399
+    },
+    {
+      "name": "hasiči Hranice",
+      "latitude": 50.303583,
+      "longitude": 12.177627
+    },
+    {
+      "name": "Hasiči HUOPH",
+      "latitude": 50.092736,
+      "longitude": 14.397345
+    },
+    {
+      "name": "Hasiči Hůrka",
+      "latitude": 49.598665,
+      "longitude": 17.932806
+    },
+    {
+      "name": "Hasiči Jablonné v Podještědí",
+      "latitude": 50.762812,
+      "longitude": 14.759274
+    },
+    {
+      "name": "Hasiči Janovice nad Úhlavou",
+      "latitude": 49.343971,
+      "longitude": 13.217992
+    },
+    {
+      "name": "Hasiči Jaroměřice nad Rokytnou (ve výstavbě)",
+      "latitude": 49.096621,
+      "longitude": 15.888609
+    },
+    {
+      "name": "Hasiči Jelenice",
+      "latitude": 49.805472,
+      "longitude": 17.835498
+    },
+    {
+      "name": "Hasiči Jundrov",
+      "latitude": 49.208466,
+      "longitude": 16.553078
+    },
+    {
+      "name": "Hasiči Kařez",
+      "latitude": 49.822119,
+      "longitude": 13.78302
+    },
+    {
+      "name": "Hasiči Kašperské Hory",
+      "latitude": 49.143935,
+      "longitude": 13.55923
+    },
+    {
+      "name": "Hasiči Kobylí",
+      "latitude": 48.933083,
+      "longitude": 16.884212
+    },
+    {
+      "name": "Hasiči Kolovraty",
+      "latitude": 50.012414,
+      "longitude": 14.624337
+    },
+    {
+      "name": "Hasiči Komín",
+      "latitude": 49.214136,
+      "longitude": 16.558679
+    },
+    {
+      "name": "Hasiči Krupka",
+      "latitude": 50.678029,
+      "longitude": 13.874647
+    },
+    {
+      "name": "Hasiči Královo Pole",
+      "latitude": 49.223634,
+      "longitude": 16.599867
+    },
+    {
+      "name": "Hasiči Kunovicea JPO II",
+      "latitude": 49.042145,
+      "longitude": 17.467799
+    },
+    {
+      "name": "Hasiči Kuřim",
+      "latitude": 49.29952,
+      "longitude": 16.531766
+    },
+    {
+      "name": "Hasiči Kyjovice",
+      "latitude": 49.832209,
+      "longitude": 18.041678
+    },
+    {
+      "name": "Hasiči Liberec - Pilínkov",
+      "latitude": 50.725999,
+      "longitude": 15.03701
+    },
+    {
+      "name": "Hasiči Lukavice",
+      "latitude": 49.886883,
+      "longitude": 15.838983
+    },
+    {
+      "name": "Hasiči Lukov",
+      "latitude": 49.290775,
+      "longitude": 17.732611
+    },
+    {
+      "name": "Hasiči Lysice",
+      "latitude": 49.45132,
+      "longitude": 16.53372
+    },
+    {
+      "name": "Hasiči Lípa nad Orlicí",
+      "latitude": 50.135451,
+      "longitude": 16.096191
+    },
+    {
+      "name": "Hasiči Malešov",
+      "latitude": 49.911617,
+      "longitude": 15.22203
+    },
+    {
+      "name": "Hasiči Modletice",
+      "latitude": 49.972238,
+      "longitude": 14.588452
+    },
+    {
+      "name": "Hasiči Modřice",
+      "latitude": 49.128031,
+      "longitude": 16.611307
+    },
+    {
+      "name": "Hasiči Mojžíř",
+      "latitude": 50.681438,
+      "longitude": 14.118445
+    },
+    {
+      "name": "Hasiči Města Bruntál",
+      "latitude": 49.986949,
+      "longitude": 17.466423
+    },
+    {
+      "name": "Hasiči města Česká Lípa",
+      "latitude": 50.683765,
+      "longitude": 14.553234
+    },
+    {
+      "name": "Hasiči Napajedla",
+      "latitude": 49.174026,
+      "longitude": 17.513041
+    },
+    {
+      "name": "Hasiči Nelahozeves",
+      "latitude": 50.261824,
+      "longitude": 14.301937
+    },
+    {
+      "name": "Hasiči Nosislav",
+      "latitude": 49.011771,
+      "longitude": 16.654226
+    },
+    {
+      "name": "Hasiči Nový Bor",
+      "latitude": 50.763517,
+      "longitude": 14.553228
+    },
+    {
+      "name": "Hasiči Obříství",
+      "latitude": 50.297484,
+      "longitude": 14.471704
+    },
+    {
+      "name": "Hasiči Olšany u Prostějova",
+      "latitude": 49.533634,
+      "longitude": 17.160961
+    },
+    {
+      "name": "hasiči Osek",
+      "latitude": 49.779118,
+      "longitude": 13.593404
+    },
+    {
+      "name": "Hasiči Osiky",
+      "latitude": 49.456784,
+      "longitude": 16.421436
+    },
+    {
+      "name": "Hasiči Osnice",
+      "latitude": 49.969604,
+      "longitude": 14.551218
+    },
+    {
+      "name": "Hasiči Ostrata",
+      "latitude": 49.26848,
+      "longitude": 17.765701
+    },
+    {
+      "name": "Hasiči Ostřešany",
+      "latitude": 49.993492,
+      "longitude": 15.804828
+    },
+    {
+      "name": "Hasiči Perknov",
+      "latitude": 49.616937,
+      "longitude": 15.543615
+    },
+    {
+      "name": "Hasiči Ponětovice",
+      "latitude": 49.153149,
+      "longitude": 16.744045
+    },
+    {
+      "name": "Hasiči Přídolí",
+      "latitude": 48.781334,
+      "longitude": 14.349774
+    },
+    {
+      "name": "Hasiči Rudná",
+      "latitude": 50.031717,
+      "longitude": 14.223499
+    },
+    {
+      "name": "Hasiči Sedlejovice",
+      "latitude": 50.638748,
+      "longitude": 15.094088
+    },
+    {
+      "name": "Hasiči Skoronice",
+      "latitude": 48.983537,
+      "longitude": 17.151142
+    },
+    {
+      "name": "Hasiči Stará Boleslav",
+      "latitude": 50.19707,
+      "longitude": 14.681613
+    },
+    {
+      "name": "Hasiči Studenec",
+      "latitude": 50.553551,
+      "longitude": 15.550178
+    },
+    {
+      "name": "Hasiči Svinčany",
+      "latitude": 49.972003,
+      "longitude": 15.642493
+    },
+    {
+      "name": "Hasiči Svitávka",
+      "latitude": 49.501151,
+      "longitude": 16.600222
+    },
+    {
+      "name": "Hasiči Telnice",
+      "latitude": 49.10071,
+      "longitude": 16.715246
+    },
+    {
+      "name": "Hasiči Varnsdorf",
+      "latitude": 50.90483,
+      "longitude": 14.629379
+    },
+    {
+      "name": "Hasiči Vesec",
+      "latitude": 50.737975,
+      "longitude": 15.065474
+    },
+    {
+      "name": "Hasiči VM - Lhota",
+      "latitude": 49.479567,
+      "longitude": 17.913663
+    },
+    {
+      "name": "Hasiči Vracov",
+      "latitude": 48.972634,
+      "longitude": 17.212905
+    },
+    {
+      "name": "Hasiči Věžovatá Pláně",
+      "latitude": 48.776409,
+      "longitude": 14.409972
+    },
+    {
+      "name": "Hasiči Závada",
+      "latitude": 49.952382,
+      "longitude": 18.16747
+    },
+    {
+      "name": "Hasiči Červený Kostelec",
+      "latitude": 50.477844,
+      "longitude": 16.088541
+    },
+    {
+      "name": "Hasiči Čerčany",
+      "latitude": 49.848329,
+      "longitude": 14.707814
+    },
+    {
+      "name": "Hasiči Řícmanice",
+      "latitude": 49.257833,
+      "longitude": 16.694502
+    },
+    {
+      "name": "Hasiči Žandov",
+      "latitude": 50.71215,
+      "longitude": 14.391769
+    },
+    {
+      "name": "Hasiči Železná Ruda",
+      "latitude": 49.138922,
+      "longitude": 13.228837
+    },
+    {
+      "name": "Hasička",
+      "latitude": 49.057318,
+      "longitude": 16.64727
+    },
+    {
+      "name": "Hasička",
+      "latitude": 49.206145,
+      "longitude": 16.243469
+    },
+    {
+      "name": "Hasička",
+      "latitude": 49.59421,
+      "longitude": 17.32356
+    },
+    {
+      "name": "Hasičký záchranný zbor Vsetín",
+      "latitude": 49.338551,
+      "longitude": 17.9947
+    },
+    {
+      "name": "Hasičská jednotka",
+      "latitude": 49.763569,
+      "longitude": 15.905178
+    },
+    {
+      "name": "Hasičská sbrojnice SDH Parník",
+      "latitude": 49.914898,
+      "longitude": 16.440324
+    },
+    {
+      "name": "Hasičská stanice",
+      "latitude": 49.545761,
+      "longitude": 18.150247
+    },
+    {
+      "name": "Hasičská stanice",
+      "latitude": 49.654618,
+      "longitude": 16.407038
+    },
+    {
+      "name": "Hasičská stanice",
+      "latitude": 50.032608,
+      "longitude": 15.558044
+    },
+    {
+      "name": "Hasičská stanice",
+      "latitude": 50.684207,
+      "longitude": 14.599153
+    },
+    {
+      "name": "Hasičská stanice Blansko",
+      "latitude": 49.370465,
+      "longitude": 16.641875
+    },
+    {
+      "name": "Hasičská stanice Holešovice",
+      "latitude": 50.107533,
+      "longitude": 14.443954
+    },
+    {
+      "name": "Hasičská stanice HZS Milevsko",
+      "latitude": 49.444595,
+      "longitude": 14.364106
+    },
+    {
+      "name": "Hasičská stanice Lipník nad Bečvou",
+      "latitude": 49.531064,
+      "longitude": 17.582248
+    },
+    {
+      "name": "Hasičská stanice Orlová",
+      "latitude": 49.879144,
+      "longitude": 18.434237
+    },
+    {
+      "name": "Hasičská stanice Praha 5",
+      "latitude": 50.059593,
+      "longitude": 14.372795
+    },
+    {
+      "name": "Hasičská stanice Příbor",
+      "latitude": 49.639178,
+      "longitude": 18.135515
+    },
+    {
+      "name": "Hasičská stanice SDH Sobotovice",
+      "latitude": 49.06061,
+      "longitude": 16.555344
+    },
+    {
+      "name": "Hasičská stanice Slavkov u Brna",
+      "latitude": 49.148284,
+      "longitude": 16.876747
+    },
+    {
+      "name": "HASIČSKÁ STANICE č. 4 - Chodov",
+      "latitude": 50.032744,
+      "longitude": 14.502751
+    },
+    {
+      "name": "Hasičská Stanice č. 5 - Strašnice",
+      "latitude": 50.065555,
+      "longitude": 14.500248
+    },
+    {
+      "name": "Hasičská Stanice č. 6 - Krč",
+      "latitude": 50.040953,
+      "longitude": 14.448898
+    },
+    {
+      "name": "Hasičská stanice Český Těšín",
+      "latitude": 49.740093,
+      "longitude": 18.608771
+    },
+    {
+      "name": "Hasičská stanice, Praha - Kbely",
+      "latitude": 50.132415,
+      "longitude": 14.549109
+    },
+    {
+      "name": "Hasičská zborjnice",
+      "latitude": 49.328688,
+      "longitude": 16.917579
+    },
+    {
+      "name": "Hasičská zbrojnica",
+      "latitude": 49.857851,
+      "longitude": 17.877861
+    },
+    {
+      "name": "Hasičská zbrojnica",
+      "latitude": 49.942568,
+      "longitude": 18.130625
+    },
+    {
+      "name": "Hasičská zbrojnica",
+      "latitude": 49.978811,
+      "longitude": 18.197427
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.772976,
+      "longitude": 16.302783
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.77832,
+      "longitude": 16.204441
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.824044,
+      "longitude": 14.527642
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.830711,
+      "longitude": 14.458191
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.853871,
+      "longitude": 14.368616
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.929219,
+      "longitude": 15.646393
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.931601,
+      "longitude": 16.819653
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.9356,
+      "longitude": 14.510646
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 48.986739,
+      "longitude": 14.077378
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.016601,
+      "longitude": 17.752304
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.047761,
+      "longitude": 14.074222
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.115267,
+      "longitude": 13.932398
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.116426,
+      "longitude": 16.581601
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.123038,
+      "longitude": 15.539536
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.130647,
+      "longitude": 17.748846
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.137488,
+      "longitude": 18.011262
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.137847,
+      "longitude": 16.731455
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.139135,
+      "longitude": 16.765384
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.153852,
+      "longitude": 17.38889
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.1714,
+      "longitude": 17.604938
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.172667,
+      "longitude": 15.027902
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.177257,
+      "longitude": 16.958628
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.17951,
+      "longitude": 14.526518
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.186825,
+      "longitude": 17.665462
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.191119,
+      "longitude": 16.774823
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.201456,
+      "longitude": 18.111004
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.207163,
+      "longitude": 16.220834
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.209543,
+      "longitude": 16.795241
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.217989,
+      "longitude": 16.755188
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.219797,
+      "longitude": 17.006239
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.23002,
+      "longitude": 17.268296
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.243068,
+      "longitude": 18.014393
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.254414,
+      "longitude": 16.929616
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.273195,
+      "longitude": 16.89253
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.277055,
+      "longitude": 16.871062
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.278664,
+      "longitude": 16.606163
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.279932,
+      "longitude": 17.039153
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.284266,
+      "longitude": 16.697126
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.311226,
+      "longitude": 16.612383
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.317949,
+      "longitude": 18.150725
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.327911,
+      "longitude": 16.613839
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.330544,
+      "longitude": 14.596384
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.353672,
+      "longitude": 16.805152
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.35917,
+      "longitude": 16.452768
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.360745,
+      "longitude": 18.284164
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.376846,
+      "longitude": 16.69053
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.383831,
+      "longitude": 16.80602
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.394657,
+      "longitude": 17.994885
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.413451,
+      "longitude": 16.700548
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.414178,
+      "longitude": 18.109121
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.421149,
+      "longitude": 16.698534
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.432628,
+      "longitude": 16.383137
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.437682,
+      "longitude": 15.33961
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.439998,
+      "longitude": 16.625447
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.443287,
+      "longitude": 17.808007
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.444747,
+      "longitude": 14.36426
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.452646,
+      "longitude": 16.602612
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.46404,
+      "longitude": 14.770315
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.46549,
+      "longitude": 15.320412
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.466628,
+      "longitude": 17.083248
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.46838,
+      "longitude": 16.090217
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.479127,
+      "longitude": 15.657542
+    },
+    {
+      "name": "hasičská zbrojnice",
+      "latitude": 49.489214,
+      "longitude": 17.763936
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.492965,
+      "longitude": 16.878381
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.498433,
+      "longitude": 16.571006
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.503539,
+      "longitude": 16.506929
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.508497,
+      "longitude": 12.802992
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.509072,
+      "longitude": 16.123472
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.520337,
+      "longitude": 16.196915
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.521614,
+      "longitude": 16.514508
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.524355,
+      "longitude": 13.270091
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.525544,
+      "longitude": 16.463
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.535908,
+      "longitude": 17.166701
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.540567,
+      "longitude": 16.692704
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.550344,
+      "longitude": 18.380261
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.561292,
+      "longitude": 17.09782
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.581527,
+      "longitude": 17.956461
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.586256,
+      "longitude": 17.382542
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.589551,
+      "longitude": 18.120637
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.593009,
+      "longitude": 17.358344
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.600953,
+      "longitude": 14.617673
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.615824,
+      "longitude": 18.735466
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.616458,
+      "longitude": 17.332093
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.625036,
+      "longitude": 16.372936
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.63076,
+      "longitude": 16.299975
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.632502,
+      "longitude": 13.984531
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.636898,
+      "longitude": 14.850628
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.639882,
+      "longitude": 17.231164
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.664713,
+      "longitude": 16.808413
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.66809,
+      "longitude": 16.958278
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.674451,
+      "longitude": 15.130301
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.676438,
+      "longitude": 18.227981
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.68722,
+      "longitude": 15.02652
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.689101,
+      "longitude": 18.13215
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.69449,
+      "longitude": 13.26047
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.737324,
+      "longitude": 15.975333
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.741249,
+      "longitude": 17.405481
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.792472,
+      "longitude": 18.014474
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.824016,
+      "longitude": 15.914722
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.82625,
+      "longitude": 16.083154
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.840029,
+      "longitude": 15.010217
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.840912,
+      "longitude": 15.951227
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.845192,
+      "longitude": 15.958611
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.847004,
+      "longitude": 15.777184
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.849925,
+      "longitude": 14.407762
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.856502,
+      "longitude": 14.558116
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.889327,
+      "longitude": 16.156538
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.901594,
+      "longitude": 16.565162
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.934744,
+      "longitude": 17.973434
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.942619,
+      "longitude": 17.032659
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.958227,
+      "longitude": 14.656744
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.964906,
+      "longitude": 14.454524
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 49.972264,
+      "longitude": 13.162737
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.034188,
+      "longitude": 16.203046
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.075164,
+      "longitude": 17.300674
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.123796,
+      "longitude": 15.200618
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.130505,
+      "longitude": 15.240198
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.153771,
+      "longitude": 15.241877
+    },
+    {
+      "name": "Hasičská Zbrojnice",
+      "latitude": 50.16169,
+      "longitude": 16.360368
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.164651,
+      "longitude": 14.875391
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.167911,
+      "longitude": 15.385285
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.176096,
+      "longitude": 16.344712
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.181495,
+      "longitude": 14.798452
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.200708,
+      "longitude": 14.843254
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.204724,
+      "longitude": 14.799081
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.210097,
+      "longitude": 16.148842
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.227173,
+      "longitude": 14.937824
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.246554,
+      "longitude": 14.154505
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.249284,
+      "longitude": 14.771251
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.296071,
+      "longitude": 15.557423
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.305332,
+      "longitude": 15.168891
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.308042,
+      "longitude": 15.013257
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.308056,
+      "longitude": 17.098092
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.308771,
+      "longitude": 14.961161
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.333638,
+      "longitude": 15.711446
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.365564,
+      "longitude": 14.876235
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.366644,
+      "longitude": 15.38249
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.381242,
+      "longitude": 16.11503
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.392137,
+      "longitude": 17.003423
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.393651,
+      "longitude": 15.416697
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.395829,
+      "longitude": 15.2462
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.406961,
+      "longitude": 14.512777
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.408124,
+      "longitude": 15.106552
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.412567,
+      "longitude": 15.524751
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.413794,
+      "longitude": 14.975034
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.42044,
+      "longitude": 15.104561
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.425281,
+      "longitude": 14.791878
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.441143,
+      "longitude": 15.109692
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.446639,
+      "longitude": 14.962413
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.447173,
+      "longitude": 14.778718
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.44806,
+      "longitude": 15.064618
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.451276,
+      "longitude": 14.909671
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.45455,
+      "longitude": 14.146079
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.458576,
+      "longitude": 15.235046
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.459288,
+      "longitude": 15.081727
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.461711,
+      "longitude": 15.117422
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.47082,
+      "longitude": 14.733409
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.478473,
+      "longitude": 14.891714
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.480115,
+      "longitude": 15.155158
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.492275,
+      "longitude": 15.161547
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.503304,
+      "longitude": 15.021598
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.503681,
+      "longitude": 15.151229
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.50826,
+      "longitude": 15.264513
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.509401,
+      "longitude": 15.142212
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.514331,
+      "longitude": 15.025768
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.515369,
+      "longitude": 15.280337
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.524451,
+      "longitude": 15.186587
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.528604,
+      "longitude": 15.563289
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.533788,
+      "longitude": 14.723112
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.534765,
+      "longitude": 14.992629
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.543627,
+      "longitude": 14.927243
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.543637,
+      "longitude": 15.222876
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.547095,
+      "longitude": 15.032677
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.547849,
+      "longitude": 15.035727
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.550457,
+      "longitude": 15.357578
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.551015,
+      "longitude": 15.14521
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.559859,
+      "longitude": 15.03539
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.567574,
+      "longitude": 15.142164
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.570551,
+      "longitude": 15.241888
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.572171,
+      "longitude": 15.056179
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.572528,
+      "longitude": 15.149661
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.585659,
+      "longitude": 15.266407
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.592231,
+      "longitude": 15.100854
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.601482,
+      "longitude": 15.400915
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.601586,
+      "longitude": 15.298403
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.606565,
+      "longitude": 15.175901
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.617816,
+      "longitude": 15.218232
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.629987,
+      "longitude": 15.021535
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.632822,
+      "longitude": 15.520452
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.644152,
+      "longitude": 14.918388
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.670933,
+      "longitude": 14.952113
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.684734,
+      "longitude": 15.524054
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.700502,
+      "longitude": 15.120037
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.700631,
+      "longitude": 15.435259
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.741393,
+      "longitude": 15.350648
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.742104,
+      "longitude": 14.591674
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.940804,
+      "longitude": 15.129966
+    },
+    {
+      "name": "Hasičská zbrojnice",
+      "latitude": 50.963739,
+      "longitude": 14.36423
+    },
+    {
+      "name": "Hasičská zbrojnice (stará)",
+      "latitude": 49.987891,
+      "longitude": 15.569863
+    },
+    {
+      "name": "Hasičská zbrojnice - jednotka sboru dobrovolných hasičů obce Hať",
+      "latitude": 49.945718,
+      "longitude": 18.241097
+    },
+    {
+      "name": "Hasičská zbrojnice - JSDH Antošovice",
+      "latitude": 49.90528,
+      "longitude": 18.314176
+    },
+    {
+      "name": "Hasičská zbrojnice 1903",
+      "latitude": 49.008676,
+      "longitude": 14.089197
+    },
+    {
+      "name": "Hasičská zbrojnice Bavorovice",
+      "latitude": 49.025662,
+      "longitude": 14.442013
+    },
+    {
+      "name": "Hasičská zbrojnice Brno-Žebětín",
+      "latitude": 49.207171,
+      "longitude": 16.486922
+    },
+    {
+      "name": "Hasičská zbrojnice Dobrá",
+      "latitude": 49.673323,
+      "longitude": 18.416425
+    },
+    {
+      "name": "Hasičská zbrojnice Haukovice",
+      "latitude": 49.782127,
+      "longitude": 17.1921
+    },
+    {
+      "name": "Hasičská zbrojnice Hodonice",
+      "latitude": 48.836014,
+      "longitude": 16.164927
+    },
+    {
+      "name": "Hasičská zbrojnice Holásky",
+      "latitude": 49.143786,
+      "longitude": 16.653019
+    },
+    {
+      "name": "Hasičská zbrojnice Jehnice",
+      "latitude": 49.271342,
+      "longitude": 16.596622
+    },
+    {
+      "name": "Hasičská zbrojnice Jindřichov",
+      "latitude": 50.252937,
+      "longitude": 17.513113
+    },
+    {
+      "name": "Hasičská zbrojnice Kladruby",
+      "latitude": 49.722962,
+      "longitude": 14.95108
+    },
+    {
+      "name": "Hasičská zbrojnice Lešany",
+      "latitude": 49.497898,
+      "longitude": 17.023052
+    },
+    {
+      "name": "Hasičská zbrojnice Libhošť",
+      "latitude": 49.626204,
+      "longitude": 18.07357
+    },
+    {
+      "name": "Hasičská zbrojnice Milíkov",
+      "latitude": 49.586431,
+      "longitude": 18.719977
+    },
+    {
+      "name": "Hasičská zbrojnice Mojné",
+      "latitude": 48.834794,
+      "longitude": 14.406501
+    },
+    {
+      "name": "Hasičská zbrojnice Morkovice",
+      "latitude": 49.248763,
+      "longitude": 17.210443
+    },
+    {
+      "name": "Hasičská zbrojnice Nový Rychnov",
+      "latitude": 49.382886,
+      "longitude": 15.361917
+    },
+    {
+      "name": "Hasičská zbrojnice obce Měnín",
+      "latitude": 49.084811,
+      "longitude": 16.694116
+    },
+    {
+      "name": "Hasičská zbrojnice Panské Dubenky",
+      "latitude": 49.21964,
+      "longitude": 15.265959
+    },
+    {
+      "name": "Hasičská zbrojnice Prchalov",
+      "latitude": 49.64685,
+      "longitude": 18.119146
+    },
+    {
+      "name": "Hasičská zbrojnice SDH Lhotka",
+      "latitude": 49.053736,
+      "longitude": 17.58959
+    },
+    {
+      "name": "Hasičská zbrojnice SDH Lubina",
+      "latitude": 49.613571,
+      "longitude": 18.161313
+    },
+    {
+      "name": "Hasičská zbrojnice SDH Lubina II. Větřkovice",
+      "latitude": 49.616949,
+      "longitude": 18.176621
+    },
+    {
+      "name": "Hasičská zbrojnice SDH Roudný",
+      "latitude": 50.635,
+      "longitude": 15.155334
+    },
+    {
+      "name": "Hasičská zbrojnice SDH Vidochov",
+      "latitude": 50.513098,
+      "longitude": 15.5627
+    },
+    {
+      "name": "Hasičská zbrojnice SDH Čechovice",
+      "latitude": 49.468683,
+      "longitude": 17.076089
+    },
+    {
+      "name": "Hasičská zbrojnice Sivice",
+      "latitude": 49.201762,
+      "longitude": 16.785623
+    },
+    {
+      "name": "Hasičská zbrojnice Středolesí",
+      "latitude": 49.600613,
+      "longitude": 17.633228
+    },
+    {
+      "name": "Hasičská zbrojnice Turkovice",
+      "latitude": 49.901681,
+      "longitude": 14.75808
+    },
+    {
+      "name": "Hasičská zbrojnice v Kroměříži",
+      "latitude": 49.296329,
+      "longitude": 17.398571
+    },
+    {
+      "name": "Hasičská zbrojnice Čejkovice",
+      "latitude": 49.012291,
+      "longitude": 14.380543
+    },
+    {
+      "name": "Hasičská zbrojnice Šenov",
+      "latitude": 49.78534,
+      "longitude": 18.376388
+    },
+    {
+      "name": "Hasičská zbrojnice, SDH Šilheřovice",
+      "latitude": 49.925495,
+      "longitude": 18.270099
+    },
+    {
+      "name": "Hasičská záchranná služba SŽDC",
+      "latitude": 49.215746,
+      "longitude": 16.654407
+    },
+    {
+      "name": "Hasičská základna",
+      "latitude": 49.054249,
+      "longitude": 13.796221
+    },
+    {
+      "name": "Hasičský Dům",
+      "latitude": 49.105942,
+      "longitude": 16.470013
+    },
+    {
+      "name": "Hasičský dům",
+      "latitude": 49.539808,
+      "longitude": 18.113704
+    },
+    {
+      "name": "Hasičský dům",
+      "latitude": 49.56426,
+      "longitude": 18.16892
+    },
+    {
+      "name": "Hasičský dům Kobeřice",
+      "latitude": 49.986799,
+      "longitude": 18.049139
+    },
+    {
+      "name": "Hasičský sbor JČ kraje",
+      "latitude": 48.970767,
+      "longitude": 14.505392
+    },
+    {
+      "name": "Hasičský sbor města Kadaně",
+      "latitude": 50.378579,
+      "longitude": 13.272466
+    },
+    {
+      "name": "Hasičský sbor Plzeň Skvrňany",
+      "latitude": 49.744289,
+      "longitude": 13.346628
+    },
+    {
+      "name": "Hasičský zbrojnice",
+      "latitude": 49.371565,
+      "longitude": 17.29117
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 48.824547,
+      "longitude": 14.336705
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 48.86254,
+      "longitude": 16.038013
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 49.064388,
+      "longitude": 17.464822
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 49.253008,
+      "longitude": 13.919308
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 49.291261,
+      "longitude": 15.076914
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 49.336071,
+      "longitude": 16.434945
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 49.665619,
+      "longitude": 18.336057
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 50.172855,
+      "longitude": 16.264307
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 50.204512,
+      "longitude": 15.857626
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 50.3252,
+      "longitude": 13.541249
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 50.455894,
+      "longitude": 14.375011
+    },
+    {
+      "name": "Hasičský záchranný sbor",
+      "latitude": 50.59109,
+      "longitude": 16.335661
+    },
+    {
+      "name": "Hasičský záchranný sbor Jihomoravského kraje - požární stanice Mikulov",
+      "latitude": 48.802997,
+      "longitude": 16.626439
+    },
+    {
+      "name": "Hasičský Záchranný Sbor Jihočeského Kraje",
+      "latitude": 48.906485,
+      "longitude": 14.305277
+    },
+    {
+      "name": "Hasičský záchranný sbor Jihočeského kraje",
+      "latitude": 48.987928,
+      "longitude": 14.473361
+    },
+    {
+      "name": "Hasičský záchranný sbor Jmk",
+      "latitude": 49.163944,
+      "longitude": 16.561978
+    },
+    {
+      "name": "Hasičský záchranný sbor Jč. kraje",
+      "latitude": 49.088284,
+      "longitude": 15.428091
+    },
+    {
+      "name": "Hasičský záchranný sbor Kraje Vysočina",
+      "latitude": 49.200837,
+      "longitude": 15.901085
+    },
+    {
+      "name": "Hasičský záchranný sbor Libereckého kraje",
+      "latitude": 50.600542,
+      "longitude": 15.333703
+    },
+    {
+      "name": "Hasičský záchranný sbor Libereckého kraje",
+      "latitude": 50.767954,
+      "longitude": 15.053694
+    },
+    {
+      "name": "Hasičský záchranný sbor Moravskoslezského kraje, stanice Havířov",
+      "latitude": 49.787584,
+      "longitude": 18.437131
+    },
+    {
+      "name": "Hasičský záchranný sbor Olomouckého kraje",
+      "latitude": 49.960752,
+      "longitude": 16.972654
+    },
+    {
+      "name": "Hasičský záchranný sbor Ostrov",
+      "latitude": 50.31348,
+      "longitude": 12.944441
+    },
+    {
+      "name": "Hasičský záchranný sbor Plzeňského kraje - Krajské ředitelství",
+      "latitude": 49.726184,
+      "longitude": 13.361509
+    },
+    {
+      "name": "Hasičský záchranný sbor podniku Synthesia a.s.",
+      "latitude": 50.065243,
+      "longitude": 15.721472
+    },
+    {
+      "name": "HASIČSKÝ ZÁCHRANNÝ SBOR PŘEROV",
+      "latitude": 49.434886,
+      "longitude": 17.458243
+    },
+    {
+      "name": "Hasičský záchranný sbor Slaný",
+      "latitude": 50.232783,
+      "longitude": 14.09158
+    },
+    {
+      "name": "Hasičský záchranný sbor Správy železnic",
+      "latitude": 49.757586,
+      "longitude": 13.398023
+    },
+    {
+      "name": "Hasičský záchranný sbor Správy železnic",
+      "latitude": 49.853096,
+      "longitude": 18.271786
+    },
+    {
+      "name": "Hasičský záchranný sbor Středočeského kraje",
+      "latitude": 49.957315,
+      "longitude": 15.287924
+    },
+    {
+      "name": "Hasičský záchranný sbor Středočeského kraje",
+      "latitude": 50.142215,
+      "longitude": 14.094126
+    },
+    {
+      "name": "Hasičský záchranný sbor Středočeského kraje",
+      "latitude": 50.14273,
+      "longitude": 14.094039
+    },
+    {
+      "name": "Hasičský záchranný sbor Středočeského kraje - Hasičská stanice Rakovník",
+      "latitude": 50.109243,
+      "longitude": 13.708078
+    },
+    {
+      "name": "Hasičský Záchranný Sbor Zlínského Kraje",
+      "latitude": 49.023607,
+      "longitude": 17.652059
+    },
+    {
+      "name": "Hasičský záchranný sbor Zlínského kraje - Stanice Bystřice pod Hostýnem",
+      "latitude": 49.397534,
+      "longitude": 17.660278
+    },
+    {
+      "name": "Hasičský záchranný sbor Zlínského kraje - Stanice Holešov",
+      "latitude": 49.319548,
+      "longitude": 17.571962
+    },
+    {
+      "name": "Hasičský záchranný sbor Ústeckého kraje",
+      "latitude": 50.506439,
+      "longitude": 14.051525
+    },
+    {
+      "name": "Hasičský záchranný sbor ČR",
+      "latitude": 50.027304,
+      "longitude": 15.764736
+    },
+    {
+      "name": "Hasičský záchranný sbor ČT",
+      "latitude": 50.04874,
+      "longitude": 14.428082
+    },
+    {
+      "name": "hasičárna",
+      "latitude": 49.270659,
+      "longitude": 15.672988
+    },
+    {
+      "name": "Hasičárna",
+      "latitude": 49.397543,
+      "longitude": 12.863605
+    },
+    {
+      "name": "Hasičárna",
+      "latitude": 49.704599,
+      "longitude": 18.14793
+    },
+    {
+      "name": "Hasičárna",
+      "latitude": 50.102097,
+      "longitude": 14.100318
+    },
+    {
+      "name": "hasičárna",
+      "latitude": 50.438284,
+      "longitude": 15.627845
+    },
+    {
+      "name": "Hasičárna",
+      "latitude": 50.574422,
+      "longitude": 15.118891
+    },
+    {
+      "name": "Hasičárna",
+      "latitude": 50.58414,
+      "longitude": 15.112276
+    },
+    {
+      "name": "Hasičárna v Bolaticích-Borová",
+      "latitude": 49.95999,
+      "longitude": 18.105064
+    },
+    {
+      "name": "Hasičí",
+      "latitude": 48.905768,
+      "longitude": 13.719658
+    },
+    {
+      "name": "Hasišká zbrojnice",
+      "latitude": 49.527425,
+      "longitude": 16.121765
+    },
+    {
+      "name": "Historická budova hasičské zbrojnice",
+      "latitude": 50.745076,
+      "longitude": 15.089729
+    },
+    {
+      "name": "Historická hasičská stanice Sobotovice",
+      "latitude": 49.060474,
+      "longitude": 16.555136
+    },
+    {
+      "name": "HS Karviná",
+      "latitude": 49.854221,
+      "longitude": 18.532817
+    },
+    {
+      "name": "HS Ostrava-Fifejdy",
+      "latitude": 49.832371,
+      "longitude": 18.277912
+    },
+    {
+      "name": "HZ",
+      "latitude": 49.256602,
+      "longitude": 17.360125
+    },
+    {
+      "name": "HZ",
+      "latitude": 49.349706,
+      "longitude": 17.434231
+    },
+    {
+      "name": "HZS",
+      "latitude": 49.400133,
+      "longitude": 17.674285
+    },
+    {
+      "name": "HZS",
+      "latitude": 50.065057,
+      "longitude": 15.233634
+    },
+    {
+      "name": "HZS Brno",
+      "latitude": 49.210974,
+      "longitude": 16.602887
+    },
+    {
+      "name": "HZS Brno-Přehrada",
+      "latitude": 49.235457,
+      "longitude": 16.518381
+    },
+    {
+      "name": "HZS Břeclav",
+      "latitude": 48.755391,
+      "longitude": 16.885736
+    },
+    {
+      "name": "HZS Chotěboř",
+      "latitude": 49.719261,
+      "longitude": 15.666782
+    },
+    {
+      "name": "HZS Dobříš",
+      "latitude": 49.786283,
+      "longitude": 14.164939
+    },
+    {
+      "name": "HZS Humpolec",
+      "latitude": 49.537472,
+      "longitude": 15.357466
+    },
+    {
+      "name": "HZS Jihlava",
+      "latitude": 49.407377,
+      "longitude": 15.584595
+    },
+    {
+      "name": "HZS Jihomoravského kraje - ÚO Brno",
+      "latitude": 49.205196,
+      "longitude": 16.605434
+    },
+    {
+      "name": "HZS Jihočeského kraje - Požární stanice Trhové Sviny",
+      "latitude": 48.842776,
+      "longitude": 14.639898
+    },
+    {
+      "name": "HZS Jihočeského kraje - požární stanice Třeboň",
+      "latitude": 49.00885,
+      "longitude": 14.782369
+    },
+    {
+      "name": "HZS Jihočeského kraje, Stanice Frymburk",
+      "latitude": 48.665746,
+      "longitude": 14.165281
+    },
+    {
+      "name": "HZS Jindřichův Hradec",
+      "latitude": 49.150239,
+      "longitude": 15.012795
+    },
+    {
+      "name": "Hzs Jirkov",
+      "latitude": 50.499218,
+      "longitude": 13.446798
+    },
+    {
+      "name": "HZS Karlovarského kraje - stanice C2",
+      "latitude": 50.234329,
+      "longitude": 12.850101
+    },
+    {
+      "name": "HZS kraje Vysočina - Pobočná stanice Světlá nad Sázavou",
+      "latitude": 49.671789,
+      "longitude": 15.395397
+    },
+    {
+      "name": "HZS Kraje Vysočina - Stanice Třešť",
+      "latitude": 49.293776,
+      "longitude": 15.485875
+    },
+    {
+      "name": "HZS Královéhradeckého kraje - požární stanice Hradec Králové",
+      "latitude": 50.205479,
+      "longitude": 15.8302
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Dobruška",
+      "latitude": 50.289462,
+      "longitude": 16.16598
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Hradeck Králové - Pražská",
+      "latitude": 50.201181,
+      "longitude": 15.777685
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Jičín",
+      "latitude": 50.431224,
+      "longitude": 15.360495
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Nová Paka",
+      "latitude": 50.49392,
+      "longitude": 15.510515
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Rychnov nad Kněžnou",
+      "latitude": 50.172444,
+      "longitude": 16.263802
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Trutnov",
+      "latitude": 50.570614,
+      "longitude": 15.939118
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Velké Poříčí",
+      "latitude": 50.461614,
+      "longitude": 16.183975
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, požární stanice Vrchlabí",
+      "latitude": 50.619539,
+      "longitude": 15.607227
+    },
+    {
+      "name": "HZS Královéhradeckého kraje, stanice Hořice",
+      "latitude": 50.371304,
+      "longitude": 15.6333
+    },
+    {
+      "name": "HZS Libereckého kraje - Doksy",
+      "latitude": 50.567232,
+      "longitude": 14.645789
+    },
+    {
+      "name": "HZS Libereckého kraje, centrální hasičská stanice Liberec",
+      "latitude": 50.757216,
+      "longitude": 15.053764
+    },
+    {
+      "name": "HZS Libereckého kraje, požární stanice Jablonec nad Nisou",
+      "latitude": 50.743459,
+      "longitude": 15.15874
+    },
+    {
+      "name": "HZS Libereckého kraje, požární stanice Jilemnice",
+      "latitude": 50.6042,
+      "longitude": 15.51046
+    },
+    {
+      "name": "HZS Libereckého kraje, požární stanice Raspenava",
+      "latitude": 50.897342,
+      "longitude": 15.125046
+    },
+    {
+      "name": "HZS Libereckého kraje, požární stanice Tanvald",
+      "latitude": 50.741352,
+      "longitude": 15.310315
+    },
+    {
+      "name": "HZS Libereckého kraje, požární stanice Turnov",
+      "latitude": 50.589182,
+      "longitude": 15.154424
+    },
+    {
+      "name": "HZS LK - UÓ Česká Lípa",
+      "latitude": 50.670627,
+      "longitude": 14.543494
+    },
+    {
+      "name": "HZS Mladoboleslavského kraje, požární stanice Mladá Boleslav",
+      "latitude": 50.412363,
+      "longitude": 14.919577
+    },
+    {
+      "name": "HZS Moravskoslezského kraje, požární stanice Bohumín",
+      "latitude": 49.905583,
+      "longitude": 18.348461
+    },
+    {
+      "name": "HZS Moravské Budějovice",
+      "latitude": 49.044429,
+      "longitude": 15.80112
+    },
+    {
+      "name": "HZS Nymburk",
+      "latitude": 50.194302,
+      "longitude": 15.039664
+    },
+    {
+      "name": "HZS OL PS Jeseník",
+      "latitude": 50.221417,
+      "longitude": 17.188571
+    },
+    {
+      "name": "HZS PaK",
+      "latitude": 49.762025,
+      "longitude": 16.656914
+    },
+    {
+      "name": "HZS Pardubického kraje",
+      "latitude": 49.909971,
+      "longitude": 16.619188
+    },
+    {
+      "name": "HZS Pardubického kraje",
+      "latitude": 49.955568,
+      "longitude": 16.415517
+    },
+    {
+      "name": "HZS Pardubického Kraje - Stanice Holice",
+      "latitude": 50.070624,
+      "longitude": 15.98734
+    },
+    {
+      "name": "HZS Petrovice",
+      "latitude": 50.773168,
+      "longitude": 13.978542
+    },
+    {
+      "name": "HZS Petřiny",
+      "latitude": 50.086237,
+      "longitude": 14.340104
+    },
+    {
+      "name": "HZS PK - Stanice Plasy",
+      "latitude": 49.934869,
+      "longitude": 13.388117
+    },
+    {
+      "name": "HZS PK Stanice Plzeň - Košutka",
+      "latitude": 49.775275,
+      "longitude": 13.349005
+    },
+    {
+      "name": "HZS PK Stanice Plzeň - Slovany",
+      "latitude": 49.719295,
+      "longitude": 13.416278
+    },
+    {
+      "name": "HZS Radotín",
+      "latitude": 49.983086,
+      "longitude": 14.356022
+    },
+    {
+      "name": "HZS Rotava",
+      "latitude": 50.306263,
+      "longitude": 12.560327
+    },
+    {
+      "name": "HZS Sedlčany",
+      "latitude": 49.665999,
+      "longitude": 14.421265
+    },
+    {
+      "name": "HZS Seč",
+      "latitude": 49.844293,
+      "longitude": 15.647662
+    },
+    {
+      "name": "HZS Stochov",
+      "latitude": 50.148171,
+      "longitude": 13.950881
+    },
+    {
+      "name": "HZS Středočeského kraje, požární stanice Benátky nad Jizerou",
+      "latitude": 50.294822,
+      "longitude": 14.831347
+    },
+    {
+      "name": "HZS Středočeského kraje, požární stanice Mnichovo Hradiště",
+      "latitude": 50.522482,
+      "longitude": 14.977818
+    },
+    {
+      "name": "HZS SŽ",
+      "latitude": 49.441501,
+      "longitude": 17.44965
+    },
+    {
+      "name": "HZS Telč",
+      "latitude": 49.178692,
+      "longitude": 15.453419
+    },
+    {
+      "name": "HZS Třinec",
+      "latitude": 49.670481,
+      "longitude": 18.658765
+    },
+    {
+      "name": "HZS Uhlířské Janovice",
+      "latitude": 49.883639,
+      "longitude": 15.062374
+    },
+    {
+      "name": "HZS Zruč nad Sázavou",
+      "latitude": 49.748423,
+      "longitude": 15.102937
+    },
+    {
+      "name": "HZS Ústeckeho kraje",
+      "latitude": 50.687633,
+      "longitude": 13.995398
+    },
+    {
+      "name": "HZS Ústeckého kraje",
+      "latitude": 50.456003,
+      "longitude": 13.418151
+    },
+    {
+      "name": "HZS Ústeckého kraje, centrální hasičská stanice Litoměřice",
+      "latitude": 50.538298,
+      "longitude": 14.153699
+    },
+    {
+      "name": "HZS Ústeckého kraje, hasičská stanice Roudnice nad Labem",
+      "latitude": 50.416222,
+      "longitude": 14.247431
+    },
+    {
+      "name": "HZS Ústeckého kraje, ÚO Žatec, HS Louny",
+      "latitude": 50.358919,
+      "longitude": 13.808942
+    },
+    {
+      "name": "HZS ČR - stanice Benešov",
+      "latitude": 49.777581,
+      "longitude": 14.692176
+    },
+    {
+      "name": "HZS Čáslav",
+      "latitude": 49.91703,
+      "longitude": 15.396307
+    },
+    {
+      "name": "HZSp aircraft industries JPO IV",
+      "latitude": 49.040631,
+      "longitude": 17.439133
+    },
+    {
+      "name": "HZSp JE Dukovany",
+      "latitude": 49.085662,
+      "longitude": 16.143647
+    },
+    {
+      "name": "HZSP SZDC",
+      "latitude": 49.893222,
+      "longitude": 16.452097
+    },
+    {
+      "name": "HZSP Třinecké Železárny, a.s.",
+      "latitude": 49.691464,
+      "longitude": 18.645112
+    },
+    {
+      "name": "HZSp ČEPRO a. s. - stanice Cerekvice nad Bystřicí",
+      "latitude": 50.323876,
+      "longitude": 15.736682
+    },
+    {
+      "name": "Integrované výjezdové centrum",
+      "latitude": 49.855532,
+      "longitude": 18.25853
+    },
+    {
+      "name": "Integrované výjezdové centrum HZS MSK Nošovice",
+      "latitude": 49.670426,
+      "longitude": 18.436549
+    },
+    {
+      "name": "Integrované výjezdové centrum Jablunkov",
+      "latitude": 49.575798,
+      "longitude": 18.761983
+    },
+    {
+      "name": "Integrované výjezdové centrum Ostrava-Poruba",
+      "latitude": 49.842838,
+      "longitude": 18.18369
+    },
+    {
+      "name": "Integrované výjezdové centrum Ostrava‑Jih",
+      "latitude": 49.770695,
+      "longitude": 18.255316
+    },
+    {
+      "name": "Integrované výjezdové centrum Slezská Ostrava",
+      "latitude": 49.841594,
+      "longitude": 18.332596
+    },
+    {
+      "name": "IZS",
+      "latitude": 50.070679,
+      "longitude": 12.363511
+    },
+    {
+      "name": "Jednostka Ratowniczo-Gaśnicza Państwowej Straży Pożarnej w Cieszynie",
+      "latitude": 49.771522,
+      "longitude": 18.613811
+    },
+    {
+      "name": "Jednotka sboru dobrovolných hasičů",
+      "latitude": 50.59518,
+      "longitude": 13.655175
+    },
+    {
+      "name": "Jednotka sboru dobrovolných hasičů Drnholec",
+      "latitude": 48.858237,
+      "longitude": 16.482624
+    },
+    {
+      "name": "Jednotka sboru dobrovolných hasičů Nasavrky",
+      "latitude": 49.845391,
+      "longitude": 15.7992
+    },
+    {
+      "name": "JPO 1",
+      "latitude": 49.703187,
+      "longitude": 17.073475
+    },
+    {
+      "name": "JPO I",
+      "latitude": 49.530591,
+      "longitude": 17.582529
+    },
+    {
+      "name": "JPO III",
+      "latitude": 49.512378,
+      "longitude": 17.527174
+    },
+    {
+      "name": "JPO III",
+      "latitude": 49.531336,
+      "longitude": 17.582166
+    },
+    {
+      "name": "JPO III",
+      "latitude": 49.550859,
+      "longitude": 17.524048
+    },
+    {
+      "name": "JSDH a SDH Praha Řepy",
+      "latitude": 50.071916,
+      "longitude": 14.303538
+    },
+    {
+      "name": "JSDH Bohumín Vrbice",
+      "latitude": 49.883781,
+      "longitude": 18.321213
+    },
+    {
+      "name": "JSDH Bukovec JPO III",
+      "latitude": 49.556295,
+      "longitude": 18.834463
+    },
+    {
+      "name": "JSDH Březová",
+      "latitude": 50.147002,
+      "longitude": 12.649483
+    },
+    {
+      "name": "JSDH Dolní Lhota",
+      "latitude": 49.840272,
+      "longitude": 18.091976
+    },
+    {
+      "name": "JSDH Golčův Jeníkov",
+      "latitude": 49.815865,
+      "longitude": 15.476308
+    },
+    {
+      "name": "JSDH Hluboké Mašůvky",
+      "latitude": 48.92427,
+      "longitude": 16.025637
+    },
+    {
+      "name": "JSDH Horní Řasnice",
+      "latitude": 50.964341,
+      "longitude": 15.199262
+    },
+    {
+      "name": "JSDH Hradištko",
+      "latitude": 49.86713,
+      "longitude": 14.410559
+    },
+    {
+      "name": "JSDH Křenovice",
+      "latitude": 49.141237,
+      "longitude": 16.829716
+    },
+    {
+      "name": "JSDH obce Zhoř",
+      "latitude": 49.442296,
+      "longitude": 15.770819
+    },
+    {
+      "name": "JSDH Veltrusy",
+      "latitude": 50.270244,
+      "longitude": 14.324365
+    },
+    {
+      "name": "JSDH Vlašim",
+      "latitude": 49.700707,
+      "longitude": 14.895185
+    },
+    {
+      "name": "JSDH Zbraslav",
+      "latitude": 49.957846,
+      "longitude": 14.384892
+    },
+    {
+      "name": "JSDH Újezd",
+      "latitude": 49.76475,
+      "longitude": 17.179942
+    },
+    {
+      "name": "JSDHO Omlenice JPO V.",
+      "latitude": 48.735105,
+      "longitude": 14.440597
+    },
+    {
+      "name": "JSDHo Osová Bitýška",
+      "latitude": 49.324229,
+      "longitude": 16.167033
+    },
+    {
+      "name": "JSDHO Želechovice nad Dřevnicí",
+      "latitude": 49.221233,
+      "longitude": 17.745366
+    },
+    {
+      "name": "JSDHO Želechovice nad Dřevnicí - Paseky",
+      "latitude": 49.196202,
+      "longitude": 17.742138
+    },
+    {
+      "name": "JSDO Slatina",
+      "latitude": 49.629357,
+      "longitude": 16.607973
+    },
+    {
+      "name": "Jílové u Držkova",
+      "latitude": 50.673673,
+      "longitude": 15.292118
+    },
+    {
+      "name": "Klepačov",
+      "latitude": 49.342597,
+      "longitude": 16.661221
+    },
+    {
+      "name": "Kluky",
+      "latitude": 49.314471,
+      "longitude": 14.248183
+    },
+    {
+      "name": "Kojetín",
+      "latitude": 49.351303,
+      "longitude": 17.305757
+    },
+    {
+      "name": "Komenda Powiatowa Państwowej Straży Pożarnej w Cieszynie",
+      "latitude": 49.771361,
+      "longitude": 18.613895
+    },
+    {
+      "name": "Kunratická hasičská zbrojnice",
+      "latitude": 50.011812,
+      "longitude": 14.4864
+    },
+    {
+      "name": "Maršovice",
+      "latitude": 49.580193,
+      "longitude": 16.078986
+    },
+    {
+      "name": "Milonice",
+      "latitude": 49.157709,
+      "longitude": 17.074224
+    },
+    {
+      "name": "Minkovičtí hasiči",
+      "latitude": 50.951648,
+      "longitude": 15.028046
+    },
+    {
+      "name": "Miřetice",
+      "latitude": 49.839708,
+      "longitude": 15.883782
+    },
+    {
+      "name": "Nová Cerekev",
+      "latitude": 49.420433,
+      "longitude": 15.116666
+    },
+    {
+      "name": "Obec Bratčice Hasičská zbrojnice",
+      "latitude": 49.065547,
+      "longitude": 16.521979
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna Cieszyn-Boguszowice",
+      "latitude": 49.76542,
+      "longitude": 18.61437
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna Gorzyczki",
+      "latitude": 49.942864,
+      "longitude": 18.397979
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna Olza",
+      "latitude": 49.949848,
+      "longitude": 18.345343
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna Owsiszcze",
+      "latitude": 49.97618,
+      "longitude": 18.219875
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna Pietraszyn",
+      "latitude": 50.035119,
+      "longitude": 18.08801
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna Uchylsko",
+      "latitude": 49.945767,
+      "longitude": 18.381037
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Brzozowiu",
+      "latitude": 50.412942,
+      "longitude": 16.220442
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Cieszynie-Marklowicach",
+      "latitude": 49.788586,
+      "longitude": 18.606249
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Dziewiętlicach",
+      "latitude": 50.411276,
+      "longitude": 17.08141
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Gościcach",
+      "latitude": 50.432494,
+      "longitude": 16.980066
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Kopaczowie",
+      "latitude": 50.872555,
+      "longitude": 14.849832
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Kudowie Czermnej",
+      "latitude": 50.452974,
+      "longitude": 16.242588
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Kudowie Zdroju",
+      "latitude": 50.445529,
+      "longitude": 16.254501
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Kudowie-Słonem",
+      "latitude": 50.436528,
+      "longitude": 16.212054
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Okrzeszynie",
+      "latitude": 50.612801,
+      "longitude": 16.026305
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Pobiednej",
+      "latitude": 50.940612,
+      "longitude": 15.29508
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Tłumaczowie",
+      "latitude": 50.553664,
+      "longitude": 16.429841
+    },
+    {
+      "name": "Ochotnicza Straż Pożarna w Zawidowie",
+      "latitude": 51.027787,
+      "longitude": 15.056293
+    },
+    {
+      "name": "OFW Tellerhäuser",
+      "latitude": 50.435099,
+      "longitude": 12.893476
+    },
+    {
+      "name": "OSP Chomiąża",
+      "latitude": 50.108475,
+      "longitude": 17.663274
+    },
+    {
+      "name": "OSP Wiechowice",
+      "latitude": 49.979415,
+      "longitude": 17.867001
+    },
+    {
+      "name": "Pošumavské hasičské muzeum",
+      "latitude": 49.10134,
+      "longitude": 13.658938
+    },
+    {
+      "name": "požarní zbrojnice",
+      "latitude": 48.912258,
+      "longitude": 13.894603
+    },
+    {
+      "name": "Požární dům",
+      "latitude": 49.100758,
+      "longitude": 16.671969
+    },
+    {
+      "name": "Požární dům",
+      "latitude": 49.958593,
+      "longitude": 14.684954
+    },
+    {
+      "name": "Požární stanice",
+      "latitude": 48.802464,
+      "longitude": 17.01274
+    },
+    {
+      "name": "Požární stanice",
+      "latitude": 50.508894,
+      "longitude": 16.22717
+    },
+    {
+      "name": "Požární stanice",
+      "latitude": 50.586233,
+      "longitude": 14.34795
+    },
+    {
+      "name": "Požární stanice",
+      "latitude": 50.593706,
+      "longitude": 16.041209
+    },
+    {
+      "name": "Požární stanice Bílina",
+      "latitude": 50.550665,
+      "longitude": 13.775261
+    },
+    {
+      "name": "Požární stanice Meopta",
+      "latitude": 49.456135,
+      "longitude": 17.475543
+    },
+    {
+      "name": "požární stanice Střed",
+      "latitude": 49.749686,
+      "longitude": 13.371351
+    },
+    {
+      "name": "Požární stanice Teplice",
+      "latitude": 50.653353,
+      "longitude": 13.837803
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 48.902041,
+      "longitude": 17.318588
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.117551,
+      "longitude": 14.731997
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.135955,
+      "longitude": 14.703084
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.35441,
+      "longitude": 13.504675
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.432467,
+      "longitude": 17.174472
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.441628,
+      "longitude": 14.002088
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.566962,
+      "longitude": 16.667113
+    },
+    {
+      "name": "požární zbrojnice",
+      "latitude": 49.682021,
+      "longitude": 17.958876
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.716991,
+      "longitude": 13.946075
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.872617,
+      "longitude": 14.370047
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 49.945324,
+      "longitude": 13.874622
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.154694,
+      "longitude": 14.190062
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.350759,
+      "longitude": 13.875679
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.356893,
+      "longitude": 16.190665
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.36162,
+      "longitude": 15.230388
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.374416,
+      "longitude": 13.961737
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.415534,
+      "longitude": 15.077311
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.49062,
+      "longitude": 15.058719
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.593101,
+      "longitude": 14.929801
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.62767,
+      "longitude": 15.163256
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.643585,
+      "longitude": 15.29827
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.649028,
+      "longitude": 14.927659
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.684542,
+      "longitude": 14.981065
+    },
+    {
+      "name": "Požární zbrojnice",
+      "latitude": 50.716664,
+      "longitude": 15.323278
+    },
+    {
+      "name": "Požární zbrojnice JSDHo Milevsko",
+      "latitude": 49.45148,
+      "longitude": 14.358891
+    },
+    {
+      "name": "Požární zbrojnice Nudvojovice",
+      "latitude": 50.581266,
+      "longitude": 15.134433
+    },
+    {
+      "name": "Požární zbrojnice SDH Lipová-lázně",
+      "latitude": 50.229447,
+      "longitude": 17.145504
+    },
+    {
+      "name": "Požární zbrojnice Trojanovice",
+      "latitude": 49.525803,
+      "longitude": 18.235873
+    },
+    {
+      "name": "Požární zbrojnice Třebom",
+      "latitude": 50.045611,
+      "longitude": 18.025307
+    },
+    {
+      "name": "PS Kunštát",
+      "latitude": 49.50749,
+      "longitude": 16.524898
+    },
+    {
+      "name": "Pulčín",
+      "latitude": 49.219867,
+      "longitude": 18.076576
+    },
+    {
+      "name": "Sbod dobrovolných hasičů Kosmonosy",
+      "latitude": 50.439338,
+      "longitude": 14.92836
+    },
+    {
+      "name": "Sbor doborvolných hasičů Petřvald-Březiny",
+      "latitude": 49.84362,
+      "longitude": 18.397778
+    },
+    {
+      "name": "Sbor dobrovolných hasiči Lhánice",
+      "latitude": 49.110286,
+      "longitude": 16.21873
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 48.761218,
+      "longitude": 16.992049
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 48.819333,
+      "longitude": 16.568155
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 48.977966,
+      "longitude": 16.32271
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.255168,
+      "longitude": 16.73572
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.311992,
+      "longitude": 17.599444
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.374573,
+      "longitude": 17.512375
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.410489,
+      "longitude": 16.74978
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.502383,
+      "longitude": 14.972978
+    },
+    {
+      "name": "Sbor Dobrovolných Hasičů",
+      "latitude": 49.512235,
+      "longitude": 17.527094
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.537406,
+      "longitude": 13.157913
+    },
+    {
+      "name": "Sbor dobrovolných Hasičů",
+      "latitude": 49.692082,
+      "longitude": 16.762444
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.840494,
+      "longitude": 18.348765
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 49.920752,
+      "longitude": 18.106652
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 50.055496,
+      "longitude": 16.399144
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 50.149381,
+      "longitude": 16.297473
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 50.22718,
+      "longitude": 14.937781
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 50.25626,
+      "longitude": 14.784944
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 50.544183,
+      "longitude": 15.084754
+    },
+    {
+      "name": "Sbor dobrovolných hasičů",
+      "latitude": 50.555033,
+      "longitude": 15.06858
+    },
+    {
+      "name": "Sbor dobrovolných hasičů - Hostovice",
+      "latitude": 50.00349,
+      "longitude": 15.865441
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Adršpach",
+      "latitude": 50.627931,
+      "longitude": 16.079951
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Bakov nad Jizerou",
+      "latitude": 50.480148,
+      "longitude": 14.935781
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Benátky nad Jizerou",
+      "latitude": 50.294749,
+      "longitude": 14.831386
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Bohunice",
+      "latitude": 49.170745,
+      "longitude": 16.586219
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Bradlecká Lhota",
+      "latitude": 50.488019,
+      "longitude": 15.396209
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Branišovice",
+      "latitude": 48.962609,
+      "longitude": 16.427755
+    },
+    {
+      "name": "Sbor Dobrovolných hasičů Brno Slatina",
+      "latitude": 49.176081,
+      "longitude": 16.687254
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Budišovice",
+      "latitude": 49.861185,
+      "longitude": 18.039903
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Bukovinka",
+      "latitude": 49.292655,
+      "longitude": 16.805512
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Bzenec",
+      "latitude": 48.972922,
+      "longitude": 17.263368
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Bílovice nad Svitavou",
+      "latitude": 49.247644,
+      "longitude": 16.672278
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Bílá Třemešná",
+      "latitude": 50.444502,
+      "longitude": 15.742297
+    },
+    {
+      "name": "Sbor Dobrovolných Hasičů Býšť",
+      "latitude": 50.128855,
+      "longitude": 15.908886
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Březina",
+      "latitude": 49.282161,
+      "longitude": 16.758413
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Březno",
+      "latitude": 50.406709,
+      "longitude": 15.006493
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Cidlina",
+      "latitude": 50.494315,
+      "longitude": 15.345773
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Desná II",
+      "latitude": 50.757047,
+      "longitude": 15.314393
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dešná",
+      "latitude": 48.957895,
+      "longitude": 15.546429
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Deštná",
+      "latitude": 49.265639,
+      "longitude": 14.922817
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dobrovice",
+      "latitude": 50.366357,
+      "longitude": 14.960967
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dobruška - Domašín",
+      "latitude": 50.290539,
+      "longitude": 16.199675
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dobruška - město",
+      "latitude": 50.289498,
+      "longitude": 16.165571
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dobřív",
+      "latitude": 49.714976,
+      "longitude": 13.688266
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Doksy",
+      "latitude": 50.566957,
+      "longitude": 14.653756
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dolní Bousov",
+      "latitude": 50.439734,
+      "longitude": 15.129524
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dolní Branná",
+      "latitude": 50.592406,
+      "longitude": 15.593365
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Drnovice",
+      "latitude": 49.273831,
+      "longitude": 16.950402
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Drnovice",
+      "latitude": 49.467888,
+      "longitude": 16.540121
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Držkov",
+      "latitude": 50.687093,
+      "longitude": 15.303471
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Dřevěnice",
+      "latitude": 50.452856,
+      "longitude": 15.445948
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Frymburk",
+      "latitude": 48.665916,
+      "longitude": 14.165081
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hajnice",
+      "latitude": 50.487904,
+      "longitude": 15.917328
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Halže",
+      "latitude": 49.829982,
+      "longitude": 12.57829
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Harrachov",
+      "latitude": 50.778227,
+      "longitude": 15.423881
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Havlovice",
+      "latitude": 50.487254,
+      "longitude": 16.029099
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Havířov Město",
+      "latitude": 49.793279,
+      "longitude": 18.417087
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hnanice",
+      "latitude": 48.799071,
+      "longitude": 15.985338
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hodkovice nad Mohelkou",
+      "latitude": 50.665121,
+      "longitude": 15.089156
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Horní Lánov",
+      "latitude": 50.634073,
+      "longitude": 15.659164
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Horní Maršov",
+      "latitude": 50.661462,
+      "longitude": 15.819127
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hostinné",
+      "latitude": 50.53918,
+      "longitude": 15.723983
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hořice",
+      "latitude": 50.371316,
+      "longitude": 15.633574
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hořičky",
+      "latitude": 50.444053,
+      "longitude": 15.98498
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hradec Králové - Malšovice",
+      "latitude": 50.196888,
+      "longitude": 15.857701
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hradec Králové - Plačice",
+      "latitude": 50.193064,
+      "longitude": 15.771405
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hradec Králové - Třebeš",
+      "latitude": 50.189871,
+      "longitude": 15.835182
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hrubá Skála",
+      "latitude": 50.547146,
+      "longitude": 15.211965
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hrusice",
+      "latitude": 49.91028,
+      "longitude": 14.737397
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hrádek",
+      "latitude": 49.70967,
+      "longitude": 13.650643
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Huť",
+      "latitude": 50.693711,
+      "longitude": 15.239699
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Hříměždice",
+      "latitude": 49.6876,
+      "longitude": 14.276071
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Jablonec nad Nisou - Kokonín",
+      "latitude": 50.70506,
+      "longitude": 15.186325
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Jablonec nad Nisou - Paseky",
+      "latitude": 50.732766,
+      "longitude": 15.187967
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Jablonec nad Nisou - Proseč nad Nisou",
+      "latitude": 50.727416,
+      "longitude": 15.118683
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Jestřebí",
+      "latitude": 49.410731,
+      "longitude": 16.615876
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Jilemnice",
+      "latitude": 50.604293,
+      "longitude": 15.510386
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Jičín",
+      "latitude": 50.430853,
+      "longitude": 15.360599
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kamýk nad Vltavou",
+      "latitude": 49.636135,
+      "longitude": 14.251514
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Karlovice",
+      "latitude": 50.562258,
+      "longitude": 15.209629
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kněžmost",
+      "latitude": 50.485849,
+      "longitude": 15.033657
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Koberovy",
+      "latitude": 50.622257,
+      "longitude": 15.226993
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kopidlno",
+      "latitude": 50.336101,
+      "longitude": 15.267972
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kopytov",
+      "latitude": 49.941057,
+      "longitude": 18.354658
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kopřivnice",
+      "latitude": 49.59196,
+      "longitude": 18.142969
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kotvrdovice",
+      "latitude": 49.354763,
+      "longitude": 16.784458
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Košťálov",
+      "latitude": 50.573419,
+      "longitude": 15.400969
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kruh",
+      "latitude": 50.56571,
+      "longitude": 15.480476
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kuks",
+      "latitude": 50.400553,
+      "longitude": 15.892124
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kvasice",
+      "latitude": 49.236532,
+      "longitude": 17.472434
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kvasiny",
+      "latitude": 50.21249,
+      "longitude": 16.264188
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kyje",
+      "latitude": 50.494346,
+      "longitude": 15.377687
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Křtiny",
+      "latitude": 49.29566,
+      "longitude": 16.741245
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Kříše",
+      "latitude": 49.829034,
+      "longitude": 13.553436
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Letky",
+      "latitude": 50.187834,
+      "longitude": 14.369769
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Letovice",
+      "latitude": 49.545664,
+      "longitude": 16.576068
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Lhota",
+      "latitude": 50.481759,
+      "longitude": 16.077136
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Liberec - Vratislavice nad Nisou",
+      "latitude": 50.745351,
+      "longitude": 15.089705
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Libiš",
+      "latitude": 50.279596,
+      "longitude": 14.502638
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Libčice nad Vltavou",
+      "latitude": 50.199648,
+      "longitude": 14.360269
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Libštát",
+      "latitude": 50.560029,
+      "longitude": 15.414786
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Litoměřice",
+      "latitude": 50.536313,
+      "longitude": 14.122285
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Lochenice",
+      "latitude": 50.274488,
+      "longitude": 15.820203
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Lomnice nad Popelkou",
+      "latitude": 50.533886,
+      "longitude": 15.370294
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Lučany nad Nisou",
+      "latitude": 50.741848,
+      "longitude": 15.224718
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Luštěnice",
+      "latitude": 50.323398,
+      "longitude": 14.937684
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Lužany",
+      "latitude": 50.429818,
+      "longitude": 15.468394
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Malá Skála",
+      "latitude": 50.635928,
+      "longitude": 15.191137
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Markvartice",
+      "latitude": 50.431622,
+      "longitude": 15.195813
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Maršovice",
+      "latitude": 50.695124,
+      "longitude": 15.205241
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Maršíkov",
+      "latitude": 50.034413,
+      "longitude": 17.075236
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mirošov",
+      "latitude": 49.687422,
+      "longitude": 13.656529
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mistřice",
+      "latitude": 49.085508,
+      "longitude": 17.538069
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mladá Boleslav",
+      "latitude": 50.429157,
+      "longitude": 14.892976
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mladé Buky",
+      "latitude": 50.603232,
+      "longitude": 15.85456
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mnichovo Hradiště",
+      "latitude": 50.521988,
+      "longitude": 14.978274
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mnichovo Hradiště - Veselá",
+      "latitude": 50.496499,
+      "longitude": 14.965606
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mostek",
+      "latitude": 50.485166,
+      "longitude": 15.696006
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Mukařov",
+      "latitude": 49.991145,
+      "longitude": 14.741632
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Nechanice",
+      "latitude": 50.23662,
+      "longitude": 15.634267
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Nová Paka",
+      "latitude": 50.494135,
+      "longitude": 15.510359
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Nová Ves nad Popelkou",
+      "latitude": 50.519978,
+      "longitude": 15.409779
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Nové Město nad Metují",
+      "latitude": 50.354067,
+      "longitude": 16.149358
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Náchod",
+      "latitude": 50.415263,
+      "longitude": 16.165697
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Nýřany",
+      "latitude": 49.711715,
+      "longitude": 13.198249
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Ohnišťany",
+      "latitude": 50.329196,
+      "longitude": 15.511929
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Olešnice na Moravě",
+      "latitude": 49.560125,
+      "longitude": 16.426293
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Olešnice v Orlických horách",
+      "latitude": 50.372255,
+      "longitude": 16.307719
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Ostrava-Pustkovec",
+      "latitude": 49.840119,
+      "longitude": 18.166205
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Ostroměř",
+      "latitude": 50.373155,
+      "longitude": 15.549112
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Padochov",
+      "latitude": 49.134924,
+      "longitude": 16.354748
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Pec pod Sněžkou - Velká Úpa",
+      "latitude": 50.686337,
+      "longitude": 15.78068
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Pilníkov",
+      "latitude": 50.531627,
+      "longitude": 15.81765
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Podolí",
+      "latitude": 49.190748,
+      "longitude": 16.726891
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Poděbrady - Velké Zboží",
+      "latitude": 50.160703,
+      "longitude": 15.100005
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Poniklá",
+      "latitude": 50.660767,
+      "longitude": 15.463623
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Přísednice",
+      "latitude": 49.882345,
+      "longitude": 13.750198
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Robousy",
+      "latitude": 50.432469,
+      "longitude": 15.401812
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Rokytnice nad Jizerou",
+      "latitude": 50.730055,
+      "longitude": 15.448615
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Rokytnice v Orlických Horách",
+      "latitude": 50.162368,
+      "longitude": 16.463826
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Roudnice nad Labem",
+      "latitude": 50.424241,
+      "longitude": 14.247633
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Rovensko pod Troskami",
+      "latitude": 50.534805,
+      "longitude": 15.260943
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Roztoky u Jilemnice",
+      "latitude": 50.565619,
+      "longitude": 15.501609
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Rudka",
+      "latitude": 49.241643,
+      "longitude": 16.331189
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Rudník - Arnultovice",
+      "latitude": 50.553275,
+      "longitude": 15.722494
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Rychnov u Jablonce nad Nisou",
+      "latitude": 50.681938,
+      "longitude": 15.150809
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Semily-Podmoklice",
+      "latitude": 50.605439,
+      "longitude": 15.326383
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Semčice",
+      "latitude": 50.368423,
+      "longitude": 15.005975
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Skorotice",
+      "latitude": 49.457217,
+      "longitude": 16.359485
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Slavhostice",
+      "latitude": 50.308462,
+      "longitude": 15.345854
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Slavoňov",
+      "latitude": 50.343755,
+      "longitude": 16.204659
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Smidary",
+      "latitude": 50.292681,
+      "longitude": 15.47712
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Smiřice",
+      "latitude": 50.298803,
+      "longitude": 15.862448
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Smržovka",
+      "latitude": 50.738349,
+      "longitude": 15.248861
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Sobotka",
+      "latitude": 50.468036,
+      "longitude": 15.170337
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Stará Břeclav",
+      "latitude": 48.778441,
+      "longitude": 16.893388
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Stará Paka",
+      "latitude": 50.51044,
+      "longitude": 15.494741
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Staré Hamry",
+      "latitude": 49.467485,
+      "longitude": 18.431828
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Staré místo",
+      "latitude": 50.405799,
+      "longitude": 15.343016
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Svinary, Hradec Králové",
+      "latitude": 50.210601,
+      "longitude": 15.902609
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Svoboda nad Úpou",
+      "latitude": 50.625875,
+      "longitude": 15.813679
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Tanvald - Šumburk",
+      "latitude": 50.741205,
+      "longitude": 15.310408
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Tatobity",
+      "latitude": 50.572527,
+      "longitude": 15.272277
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Terezín",
+      "latitude": 50.512888,
+      "longitude": 14.145464
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Tlučná",
+      "latitude": 49.724272,
+      "longitude": 13.242455
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Trhonice",
+      "latitude": 49.636064,
+      "longitude": 16.251871
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Trhová Kamenice",
+      "latitude": 49.787973,
+      "longitude": 15.814947
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Trutnov - Horní Staré Město",
+      "latitude": 50.589232,
+      "longitude": 15.884
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Turnov - Daliměřice",
+      "latitude": 50.592939,
+      "longitude": 15.145622
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Třebechovice pod Orebem",
+      "latitude": 50.201796,
+      "longitude": 15.985521
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Třebnuška",
+      "latitude": 49.891725,
+      "longitude": 13.720277
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Uničov",
+      "latitude": 49.773342,
+      "longitude": 17.12255
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Velká Jesenice",
+      "latitude": 50.360828,
+      "longitude": 16.039085
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Velká Jesenice",
+      "latitude": 50.361475,
+      "longitude": 16.037323
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Velké Bílovice",
+      "latitude": 48.849582,
+      "longitude": 16.891829
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Velké Hamry",
+      "latitude": 50.720587,
+      "longitude": 15.315883
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Ves",
+      "latitude": 51.017301,
+      "longitude": 15.028634
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Vidče",
+      "latitude": 49.441191,
+      "longitude": 18.09675
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Volyně",
+      "latitude": 49.166522,
+      "longitude": 13.882442
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Vrchlabí 3 - Podhůří",
+      "latitude": 50.598146,
+      "longitude": 15.624465
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Vyskeř",
+      "latitude": 50.53008,
+      "longitude": 15.157653
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Vysoká nad Jizerou",
+      "latitude": 50.686537,
+      "longitude": 15.402188
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Vávrovice",
+      "latitude": 49.974404,
+      "longitude": 17.865301
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Vír",
+      "latitude": 49.556879,
+      "longitude": 16.321679
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Všeň",
+      "latitude": 50.557298,
+      "longitude": 15.104428
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Zlaté Hory",
+      "latitude": 50.263055,
+      "longitude": 17.394886
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Zliv",
+      "latitude": 49.070305,
+      "longitude": 14.370856
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Úbislavice",
+      "latitude": 50.472563,
+      "longitude": 15.470721
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Úbislavice - Stav",
+      "latitude": 50.464797,
+      "longitude": 15.474024
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Úlibice",
+      "latitude": 50.43351,
+      "longitude": 15.436595
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Úpice",
+      "latitude": 50.510521,
+      "longitude": 16.016791
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Ústeckého kraje",
+      "latitude": 50.378077,
+      "longitude": 13.759096
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Úžice",
+      "latitude": 50.252819,
+      "longitude": 14.377989
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Čeladná",
+      "latitude": 49.545729,
+      "longitude": 18.334521
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Černá Hora",
+      "latitude": 49.414971,
+      "longitude": 16.585539
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Černá v Pošumaví",
+      "latitude": 48.736303,
+      "longitude": 14.112129
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Česká Skalice",
+      "latitude": 50.39424,
+      "longitude": 16.051093
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Čistá v Krkonoších, Černý Důl",
+      "latitude": 50.621798,
+      "longitude": 15.710396
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Číměř",
+      "latitude": 49.0617,
+      "longitude": 15.076111
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Škrdlovice",
+      "latitude": 49.635068,
+      "longitude": 15.926008
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Šumperk",
+      "latitude": 49.977027,
+      "longitude": 16.95128
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Žacléř",
+      "latitude": 50.664321,
+      "longitude": 15.915449
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Žehrov",
+      "latitude": 50.529824,
+      "longitude": 15.101331
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Železnice",
+      "latitude": 50.472022,
+      "longitude": 15.381095
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Železný Brod",
+      "latitude": 50.645586,
+      "longitude": 15.255208
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Židenice",
+      "latitude": 49.2047,
+      "longitude": 16.640374
+    },
+    {
+      "name": "Sbor dobrovolných hasičů Žireč",
+      "latitude": 50.412513,
+      "longitude": 15.850619
+    },
+    {
+      "name": "Sbor dobrovolnÿch hadičů",
+      "latitude": 49.402468,
+      "longitude": 16.720459
+    },
+    {
+      "name": "SDF Horní Dunajovice",
+      "latitude": 48.944901,
+      "longitude": 16.167424
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.130634,
+      "longitude": 17.10138
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.166097,
+      "longitude": 18.053768
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.178954,
+      "longitude": 15.594688
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.305695,
+      "longitude": 17.336416
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.471097,
+      "longitude": 17.620928
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.614495,
+      "longitude": 17.256028
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.656905,
+      "longitude": 14.167587
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.664425,
+      "longitude": 18.487212
+    },
+    {
+      "name": "SDH",
+      "latitude": 49.695673,
+      "longitude": 15.608244
+    },
+    {
+      "name": "SDH",
+      "latitude": 50.184642,
+      "longitude": 16.241181
+    },
+    {
+      "name": "SDH",
+      "latitude": 50.274336,
+      "longitude": 17.255181
+    },
+    {
+      "name": "SDH",
+      "latitude": 50.396104,
+      "longitude": 14.868902
+    },
+    {
+      "name": "SDH",
+      "latitude": 50.440698,
+      "longitude": 15.223747
+    },
+    {
+      "name": "SDH",
+      "latitude": 50.472264,
+      "longitude": 15.131658
+    },
+    {
+      "name": "SDH",
+      "latitude": 50.659177,
+      "longitude": 14.997764
+    },
+    {
+      "name": "SDH a JSDH Míčov - Sušice",
+      "latitude": 49.905717,
+      "longitude": 15.604528
+    },
+    {
+      "name": "SDH a JSDH Třemošnice",
+      "latitude": 49.872725,
+      "longitude": 15.580101
+    },
+    {
+      "name": "SDH Albrechtičky",
+      "latitude": 49.699107,
+      "longitude": 18.096069
+    },
+    {
+      "name": "SDH Babice",
+      "latitude": 49.121925,
+      "longitude": 17.474742
+    },
+    {
+      "name": "SDH Babice",
+      "latitude": 49.635344,
+      "longitude": 15.474753
+    },
+    {
+      "name": "SDH Bartovice",
+      "latitude": 49.789813,
+      "longitude": 18.347126
+    },
+    {
+      "name": "SDH Bačkovice",
+      "latitude": 48.96616,
+      "longitude": 15.588812
+    },
+    {
+      "name": "SDH Baška",
+      "latitude": 49.645117,
+      "longitude": 18.371215
+    },
+    {
+      "name": "SDH Bedřichov",
+      "latitude": 49.420603,
+      "longitude": 15.595565
+    },
+    {
+      "name": "SDH Benešov nad Černou",
+      "latitude": 48.729437,
+      "longitude": 14.625623
+    },
+    {
+      "name": "SDH Bezměrov",
+      "latitude": 49.32941,
+      "longitude": 17.337202
+    },
+    {
+      "name": "SDH Blažovice",
+      "latitude": 49.165383,
+      "longitude": 16.787592
+    },
+    {
+      "name": "SDH Blišice",
+      "latitude": 49.124928,
+      "longitude": 17.165964
+    },
+    {
+      "name": "SDH Bobrovníky",
+      "latitude": 49.872221,
+      "longitude": 18.206839
+    },
+    {
+      "name": "SDH Bohumín-Skřečoň",
+      "latitude": 49.904146,
+      "longitude": 18.378556
+    },
+    {
+      "name": "SDH Bohumín-Záblatí",
+      "latitude": 49.883625,
+      "longitude": 18.37489
+    },
+    {
+      "name": "SDH Bojanov",
+      "latitude": 49.840644,
+      "longitude": 15.70599
+    },
+    {
+      "name": "SDH Bojkovice",
+      "latitude": 49.03889,
+      "longitude": 17.815555
+    },
+    {
+      "name": "SDH Borovany",
+      "latitude": 48.90365,
+      "longitude": 14.641706
+    },
+    {
+      "name": "SDH Boršice",
+      "latitude": 49.06139,
+      "longitude": 17.349853
+    },
+    {
+      "name": "SDH Boršice u Blatnice",
+      "latitude": 48.93531,
+      "longitude": 17.568197
+    },
+    {
+      "name": "SDH Bousov",
+      "latitude": 49.901502,
+      "longitude": 15.536681
+    },
+    {
+      "name": "SDH Bořenovice",
+      "latitude": 49.361707,
+      "longitude": 17.565202
+    },
+    {
+      "name": "SDH Brandýs nad Labem",
+      "latitude": 50.185424,
+      "longitude": 14.650468
+    },
+    {
+      "name": "SDH Braňany",
+      "latitude": 50.542302,
+      "longitude": 13.708858
+    },
+    {
+      "name": "SDH Brno-Husovice",
+      "latitude": 49.212131,
+      "longitude": 16.63352
+    },
+    {
+      "name": "SDH Brusné",
+      "latitude": 49.363957,
+      "longitude": 17.662366
+    },
+    {
+      "name": "SDH Bruzovice",
+      "latitude": 49.717168,
+      "longitude": 18.408458
+    },
+    {
+      "name": "SDH Buchlovice",
+      "latitude": 49.087181,
+      "longitude": 17.33653
+    },
+    {
+      "name": "SDH Bukovina",
+      "latitude": 49.298842,
+      "longitude": 16.773926
+    },
+    {
+      "name": "SDH Bukovka",
+      "latitude": 50.100551,
+      "longitude": 15.62808
+    },
+    {
+      "name": "SDH Bystřice",
+      "latitude": 49.637653,
+      "longitude": 18.723975
+    },
+    {
+      "name": "SDH Bánov",
+      "latitude": 48.988113,
+      "longitude": 17.718153
+    },
+    {
+      "name": "SDH Běloves",
+      "latitude": 50.421398,
+      "longitude": 16.190293
+    },
+    {
+      "name": "SDH Bělá pod Pradědem",
+      "latitude": 50.18026,
+      "longitude": 17.198833
+    },
+    {
+      "name": "SDH Běstvina",
+      "latitude": 49.836792,
+      "longitude": 15.596754
+    },
+    {
+      "name": "SDH Březolupy",
+      "latitude": 49.121798,
+      "longitude": 17.581524
+    },
+    {
+      "name": "SDH Březové Hory",
+      "latitude": 49.681156,
+      "longitude": 13.989765
+    },
+    {
+      "name": "SDH Břidličná",
+      "latitude": 49.909356,
+      "longitude": 17.360671
+    },
+    {
+      "name": "SDH Cheb",
+      "latitude": 50.061307,
+      "longitude": 12.37325
+    },
+    {
+      "name": "SDH Chlum",
+      "latitude": 49.715925,
+      "longitude": 15.867816
+    },
+    {
+      "name": "SDH Chlumín",
+      "latitude": 50.288588,
+      "longitude": 14.451305
+    },
+    {
+      "name": "SDH Chlébské",
+      "latitude": 49.470755,
+      "longitude": 16.36279
+    },
+    {
+      "name": "SDH Chmelná",
+      "latitude": 49.248654,
+      "longitude": 13.570246
+    },
+    {
+      "name": "SDH Chodová Lhota",
+      "latitude": 49.357148,
+      "longitude": 13.07697
+    },
+    {
+      "name": "SDH Choltice",
+      "latitude": 49.987109,
+      "longitude": 15.619531
+    },
+    {
+      "name": "SDH Cholupice",
+      "latitude": 49.988693,
+      "longitude": 14.448424
+    },
+    {
+      "name": "SDH Chotěšov",
+      "latitude": 49.652907,
+      "longitude": 13.201382
+    },
+    {
+      "name": "SDH Chvalnov - Lísky",
+      "latitude": 49.166918,
+      "longitude": 17.23366
+    },
+    {
+      "name": "SDH Chvalčov",
+      "latitude": 49.39072,
+      "longitude": 17.707962
+    },
+    {
+      "name": "SDH Chvalšiny",
+      "latitude": 48.853969,
+      "longitude": 14.208548
+    },
+    {
+      "name": "SDH Chřenovice",
+      "latitude": 49.716517,
+      "longitude": 15.216209
+    },
+    {
+      "name": "SDH Dačice",
+      "latitude": 49.088663,
+      "longitude": 15.427439
+    },
+    {
+      "name": "SDH Divnice",
+      "latitude": 49.08652,
+      "longitude": 17.911761
+    },
+    {
+      "name": "SDH Dobromilice",
+      "latitude": 49.358966,
+      "longitude": 17.138501
+    },
+    {
+      "name": "SDH Dobronín",
+      "latitude": 49.479181,
+      "longitude": 15.65747
+    },
+    {
+      "name": "SDH Dobřichovice",
+      "latitude": 49.927088,
+      "longitude": 14.273251
+    },
+    {
+      "name": "SDH Dobříč",
+      "latitude": 49.884251,
+      "longitude": 13.471204
+    },
+    {
+      "name": "SDH Dolní Bojanovice",
+      "latitude": 48.856706,
+      "longitude": 17.024956
+    },
+    {
+      "name": "SDH Dolní Domaslavice",
+      "latitude": 49.712401,
+      "longitude": 18.482524
+    },
+    {
+      "name": "SDH DOLNÍ LOUČKY",
+      "latitude": 49.361266,
+      "longitude": 16.35415
+    },
+    {
+      "name": "SDH Dolní Němčí",
+      "latitude": 48.967069,
+      "longitude": 17.586771
+    },
+    {
+      "name": "SDH Dolní Tošanovice",
+      "latitude": 49.683987,
+      "longitude": 18.488062
+    },
+    {
+      "name": "SDH Drahotěšice",
+      "latitude": 49.124127,
+      "longitude": 14.5487
+    },
+    {
+      "name": "SDH Držková",
+      "latitude": 49.320342,
+      "longitude": 17.786726
+    },
+    {
+      "name": "SDH Dukovany",
+      "latitude": 49.08031,
+      "longitude": 16.191531
+    },
+    {
+      "name": "SDH Děhylov",
+      "latitude": 49.870362,
+      "longitude": 18.166028
+    },
+    {
+      "name": "SDH Dřevíkov",
+      "latitude": 49.763935,
+      "longitude": 15.828775
+    },
+    {
+      "name": "SDH Dřevčice",
+      "latitude": 50.168633,
+      "longitude": 14.627782
+    },
+    {
+      "name": "SDH Frymburk",
+      "latitude": 49.249533,
+      "longitude": 13.706862
+    },
+    {
+      "name": "SDH Frýdek",
+      "latitude": 49.689283,
+      "longitude": 18.359084
+    },
+    {
+      "name": "SDH Frýdlant",
+      "latitude": 50.923233,
+      "longitude": 15.07795
+    },
+    {
+      "name": "SDH Frýdlant nad Ostravicí",
+      "latitude": 49.593311,
+      "longitude": 18.35649
+    },
+    {
+      "name": "SDH Fulnek",
+      "latitude": 49.712671,
+      "longitude": 17.898626
+    },
+    {
+      "name": "SDH Guty",
+      "latitude": 49.648894,
+      "longitude": 18.59724
+    },
+    {
+      "name": "SDH Habartov",
+      "latitude": 50.181661,
+      "longitude": 12.550878
+    },
+    {
+      "name": "SDH Habry",
+      "latitude": 49.753158,
+      "longitude": 15.482908
+    },
+    {
+      "name": "SDH Hartmanice",
+      "latitude": 49.168778,
+      "longitude": 13.45342
+    },
+    {
+      "name": "SDH Hartvíkovice",
+      "latitude": 49.17198,
+      "longitude": 16.088154
+    },
+    {
+      "name": "SDH Havlíčkova Borová",
+      "latitude": 49.637133,
+      "longitude": 15.781525
+    },
+    {
+      "name": "SDH Havraníky",
+      "latitude": 48.808901,
+      "longitude": 16.010284
+    },
+    {
+      "name": "SDH Havířov - Životice",
+      "latitude": 49.766948,
+      "longitude": 18.47239
+    },
+    {
+      "name": "SDH Hačky",
+      "latitude": 49.622138,
+      "longitude": 16.93752
+    },
+    {
+      "name": "SDH Heřmanice",
+      "latitude": 49.860774,
+      "longitude": 18.331463
+    },
+    {
+      "name": "SDH Hluk",
+      "latitude": 48.988727,
+      "longitude": 17.527362
+    },
+    {
+      "name": "SDH Hoješín",
+      "latitude": 49.814831,
+      "longitude": 15.643911
+    },
+    {
+      "name": "SDH Hojšín",
+      "latitude": 49.655758,
+      "longitude": 14.267897
+    },
+    {
+      "name": "SDH Holešov",
+      "latitude": 49.336046,
+      "longitude": 17.573565
+    },
+    {
+      "name": "SDH Holice",
+      "latitude": 49.571339,
+      "longitude": 17.294182
+    },
+    {
+      "name": "SDH Holštejn",
+      "latitude": 49.405979,
+      "longitude": 16.777639
+    },
+    {
+      "name": "SDH Honbice",
+      "latitude": 49.933364,
+      "longitude": 15.892983
+    },
+    {
+      "name": "SDH Horní Benešov",
+      "latitude": 49.966663,
+      "longitude": 17.604312
+    },
+    {
+      "name": "SDH Horní Bludovice",
+      "latitude": 49.749722,
+      "longitude": 18.428269
+    },
+    {
+      "name": "SDH Horní Bříza",
+      "latitude": 49.84146,
+      "longitude": 13.35662
+    },
+    {
+      "name": "SDH Horní Datyně",
+      "latitude": 49.767158,
+      "longitude": 18.356335
+    },
+    {
+      "name": "SDH Horní Dubenky",
+      "latitude": 49.258448,
+      "longitude": 15.316876
+    },
+    {
+      "name": "SDH Horní Loučky",
+      "latitude": 49.366752,
+      "longitude": 16.34289
+    },
+    {
+      "name": "SDH Horní Němčí",
+      "latitude": 48.934735,
+      "longitude": 17.623316
+    },
+    {
+      "name": "SDH Horní Podluží",
+      "latitude": 50.882459,
+      "longitude": 14.557952
+    },
+    {
+      "name": "SDH Hostivice",
+      "latitude": 50.083251,
+      "longitude": 14.254719
+    },
+    {
+      "name": "SDH Hostěnice",
+      "latitude": 49.239292,
+      "longitude": 16.771909
+    },
+    {
+      "name": "SDH Hostětín",
+      "latitude": 49.050302,
+      "longitude": 17.879526
+    },
+    {
+      "name": "SDH Houdkovice",
+      "latitude": 50.22826,
+      "longitude": 16.168162
+    },
+    {
+      "name": "SDH Hrabová",
+      "latitude": 49.772884,
+      "longitude": 18.284157
+    },
+    {
+      "name": "SDH Hrachov",
+      "latitude": 49.666035,
+      "longitude": 14.295503
+    },
+    {
+      "name": "SDH Hradčovice",
+      "latitude": 49.048783,
+      "longitude": 17.582105
+    },
+    {
+      "name": "SDH Hranice",
+      "latitude": 49.785199,
+      "longitude": 15.17811
+    },
+    {
+      "name": "SDH Hrdlořezy",
+      "latitude": 50.453111,
+      "longitude": 14.877306
+    },
+    {
+      "name": "SDH Hrádek na Vlárské dráze",
+      "latitude": 49.076677,
+      "longitude": 17.892227
+    },
+    {
+      "name": "SDH Hvozd",
+      "latitude": 49.636645,
+      "longitude": 16.913167
+    },
+    {
+      "name": "SDH Hřensko",
+      "latitude": 50.87509,
+      "longitude": 14.245108
+    },
+    {
+      "name": "SDH Janovice",
+      "latitude": 49.621151,
+      "longitude": 18.405591
+    },
+    {
+      "name": "SDH Jaroměřice nad Rokytnou",
+      "latitude": 49.095589,
+      "longitude": 15.889501
+    },
+    {
+      "name": "SDH Jaroslavice",
+      "latitude": 49.21045,
+      "longitude": 17.704235
+    },
+    {
+      "name": "SDH Jedovnice",
+      "latitude": 49.344981,
+      "longitude": 16.756865
+    },
+    {
+      "name": "SDH Jenišovice",
+      "latitude": 50.628304,
+      "longitude": 15.138079
+    },
+    {
+      "name": "SDH Jevany",
+      "latitude": 49.970273,
+      "longitude": 14.809111
+    },
+    {
+      "name": "SDH Jimramov",
+      "latitude": 49.638448,
+      "longitude": 16.222397
+    },
+    {
+      "name": "SDH Jindřichův Hradec",
+      "latitude": 49.151113,
+      "longitude": 15.011695
+    },
+    {
+      "name": "SDH Jistebník",
+      "latitude": 49.753429,
+      "longitude": 18.130687
+    },
+    {
+      "name": "SDH Jistebsko",
+      "latitude": 50.686913,
+      "longitude": 15.223451
+    },
+    {
+      "name": "SDH Jiříkov",
+      "latitude": 50.993023,
+      "longitude": 14.566818
+    },
+    {
+      "name": "SDH Jílovice",
+      "latitude": 48.88759,
+      "longitude": 14.727825
+    },
+    {
+      "name": "SDH Jílové",
+      "latitude": 50.653112,
+      "longitude": 15.107571
+    },
+    {
+      "name": "SDH Karlovice",
+      "latitude": 49.384641,
+      "longitude": 17.517587
+    },
+    {
+      "name": "SDH Karolín",
+      "latitude": 49.230551,
+      "longitude": 17.434278
+    },
+    {
+      "name": "SDH Katov",
+      "latitude": 49.332473,
+      "longitude": 16.280854
+    },
+    {
+      "name": "SDH Kaznějov",
+      "latitude": 49.892264,
+      "longitude": 13.382935
+    },
+    {
+      "name": "SDH Kejžlice",
+      "latitude": 49.590629,
+      "longitude": 15.392531
+    },
+    {
+      "name": "SDH Kladruby",
+      "latitude": 49.714683,
+      "longitude": 12.980662
+    },
+    {
+      "name": "SDH Klečůvka",
+      "latitude": 49.228727,
+      "longitude": 17.772157
+    },
+    {
+      "name": "SDH Klimkovice",
+      "latitude": 49.787466,
+      "longitude": 18.130684
+    },
+    {
+      "name": "SDH Kluk",
+      "latitude": 50.129929,
+      "longitude": 15.110909
+    },
+    {
+      "name": "SDH Kněždub",
+      "latitude": 48.88613,
+      "longitude": 17.396009
+    },
+    {
+      "name": "SDH Kněževes",
+      "latitude": 50.145435,
+      "longitude": 13.636987
+    },
+    {
+      "name": "SDH Kněžice",
+      "latitude": 49.860204,
+      "longitude": 15.528715
+    },
+    {
+      "name": "SDH Kobeřice",
+      "latitude": 49.370353,
+      "longitude": 17.112275
+    },
+    {
+      "name": "SDH Koloděje",
+      "latitude": 50.063575,
+      "longitude": 14.637523
+    },
+    {
+      "name": "SDH Komárov",
+      "latitude": 49.808232,
+      "longitude": 13.858971
+    },
+    {
+      "name": "SDH Komárovice",
+      "latitude": 49.070111,
+      "longitude": 15.699676
+    },
+    {
+      "name": "SDH Komňa",
+      "latitude": 48.993702,
+      "longitude": 17.800022
+    },
+    {
+      "name": "SDH Konice",
+      "latitude": 49.591375,
+      "longitude": 16.888309
+    },
+    {
+      "name": "SDH Korytná",
+      "latitude": 48.939207,
+      "longitude": 17.663213
+    },
+    {
+      "name": "SDH KOSICE",
+      "latitude": 50.180107,
+      "longitude": 15.535422
+    },
+    {
+      "name": "SDH Kosova Hora",
+      "latitude": 49.654123,
+      "longitude": 14.473773
+    },
+    {
+      "name": "SDH Kostelany nad Moravou",
+      "latitude": 49.045363,
+      "longitude": 17.406966
+    },
+    {
+      "name": "SDH Kostelec na Hané",
+      "latitude": 49.517838,
+      "longitude": 17.061418
+    },
+    {
+      "name": "SDH Kozinec",
+      "latitude": 50.197542,
+      "longitude": 14.295048
+    },
+    {
+      "name": "SDH Kozlovice",
+      "latitude": 49.594608,
+      "longitude": 18.257382
+    },
+    {
+      "name": "SDH Kozmice",
+      "latitude": 49.913415,
+      "longitude": 18.152805
+    },
+    {
+      "name": "SDH Košíky",
+      "latitude": 49.157825,
+      "longitude": 17.414838
+    },
+    {
+      "name": "SDH Kožlí",
+      "latitude": 49.669688,
+      "longitude": 15.25335
+    },
+    {
+      "name": "SDH Kraskov",
+      "latitude": 49.869385,
+      "longitude": 15.626708
+    },
+    {
+      "name": "SDH Krmelín",
+      "latitude": 49.730966,
+      "longitude": 18.235965
+    },
+    {
+      "name": "SDH Krupka",
+      "latitude": 50.68711,
+      "longitude": 13.854937
+    },
+    {
+      "name": "SDH Královské Poříčí",
+      "latitude": 50.193523,
+      "longitude": 12.679748
+    },
+    {
+      "name": "SDH Království",
+      "latitude": 50.997033,
+      "longitude": 14.493002
+    },
+    {
+      "name": "SDH Králův Dvůr",
+      "latitude": 49.944505,
+      "longitude": 14.039733
+    },
+    {
+      "name": "SDH Krásná-Mohelnice",
+      "latitude": 49.582834,
+      "longitude": 18.478973
+    },
+    {
+      "name": "SDH Kudlovice",
+      "latitude": 49.131484,
+      "longitude": 17.4574
+    },
+    {
+      "name": "SDH Kujavy",
+      "latitude": 49.703431,
+      "longitude": 17.969923
+    },
+    {
+      "name": "SDH Kuklík",
+      "latitude": 49.628138,
+      "longitude": 16.115142
+    },
+    {
+      "name": "SDH Kunemil",
+      "latitude": 49.707873,
+      "longitude": 15.432028
+    },
+    {
+      "name": "SDH Kunice",
+      "latitude": 49.478267,
+      "longitude": 16.48943
+    },
+    {
+      "name": "SDH Kunčice pod Ondřejníkem",
+      "latitude": 49.548509,
+      "longitude": 18.263831
+    },
+    {
+      "name": "SDH Kunžak",
+      "latitude": 49.121845,
+      "longitude": 15.188802
+    },
+    {
+      "name": "SDH Květinov",
+      "latitude": 49.565316,
+      "longitude": 15.507537
+    },
+    {
+      "name": "SDH Květnov",
+      "latitude": 49.543416,
+      "longitude": 15.593949
+    },
+    {
+      "name": "SDH Kájov",
+      "latitude": 48.812469,
+      "longitude": 14.257779
+    },
+    {
+      "name": "SDH Křešice",
+      "latitude": 50.338653,
+      "longitude": 15.199894
+    },
+    {
+      "name": "SDH Lažany",
+      "latitude": 49.354269,
+      "longitude": 16.549618
+    },
+    {
+      "name": "SDH Ledenice",
+      "latitude": 48.931743,
+      "longitude": 14.620166
+    },
+    {
+      "name": "SDH Lelekovice",
+      "latitude": 49.290177,
+      "longitude": 16.578228
+    },
+    {
+      "name": "SDH Lhota",
+      "latitude": 49.245907,
+      "longitude": 17.155325
+    },
+    {
+      "name": "SDH Lhota",
+      "latitude": 49.497234,
+      "longitude": 17.617557
+    },
+    {
+      "name": "SDH Lhota u Vsetína",
+      "latitude": 49.303972,
+      "longitude": 17.957428
+    },
+    {
+      "name": "SDH Lhotka",
+      "latitude": 49.232505,
+      "longitude": 17.589657
+    },
+    {
+      "name": "SDH Lhotka",
+      "latitude": 49.597135,
+      "longitude": 18.298417
+    },
+    {
+      "name": "SDH Lhoty u Potštejna",
+      "latitude": 50.058412,
+      "longitude": 16.268015
+    },
+    {
+      "name": "SDH Libosváry",
+      "latitude": 49.431393,
+      "longitude": 17.714201
+    },
+    {
+      "name": "SDH Lipina",
+      "latitude": 49.131243,
+      "longitude": 17.984987
+    },
+    {
+      "name": "SDH Lipotice",
+      "latitude": 49.988301,
+      "longitude": 15.56782
+    },
+    {
+      "name": "SDH Litice",
+      "latitude": 49.699541,
+      "longitude": 13.355056
+    },
+    {
+      "name": "SDH Litovany",
+      "latitude": 49.054593,
+      "longitude": 16.04471
+    },
+    {
+      "name": "SDH Lišov",
+      "latitude": 49.019314,
+      "longitude": 14.607153
+    },
+    {
+      "name": "SDH Lomnička",
+      "latitude": 49.367873,
+      "longitude": 16.429585
+    },
+    {
+      "name": "SDH Loukov",
+      "latitude": 49.421918,
+      "longitude": 17.721361
+    },
+    {
+      "name": "SDH Louky",
+      "latitude": 49.219875,
+      "longitude": 17.617786
+    },
+    {
+      "name": "SDH Lubno",
+      "latitude": 49.599635,
+      "longitude": 18.38401
+    },
+    {
+      "name": "SDH Lubná",
+      "latitude": 49.217718,
+      "longitude": 17.403807
+    },
+    {
+      "name": "SDH Lubojaty",
+      "latitude": 49.780565,
+      "longitude": 18.048147
+    },
+    {
+      "name": "SDH Ludslavice",
+      "latitude": 49.300324,
+      "longitude": 17.542344
+    },
+    {
+      "name": "SDH Lutopecny",
+      "latitude": 49.302212,
+      "longitude": 17.344814
+    },
+    {
+      "name": "SDH Lužná",
+      "latitude": 50.124989,
+      "longitude": 13.766635
+    },
+    {
+      "name": "SDH Lískovec",
+      "latitude": 49.710093,
+      "longitude": 18.328777
+    },
+    {
+      "name": "SDH Malenovice",
+      "latitude": 49.204238,
+      "longitude": 17.594918
+    },
+    {
+      "name": "SDH Malínky",
+      "latitude": 49.160478,
+      "longitude": 17.160031
+    },
+    {
+      "name": "SDH Martinov",
+      "latitude": 49.854991,
+      "longitude": 18.180198
+    },
+    {
+      "name": "SDH Medlešice",
+      "latitude": 49.978546,
+      "longitude": 15.770466
+    },
+    {
+      "name": "SDH Metylovice",
+      "latitude": 49.615308,
+      "longitude": 18.334489
+    },
+    {
+      "name": "SDH Miklůvka",
+      "latitude": 49.413506,
+      "longitude": 17.923422
+    },
+    {
+      "name": "SDH Milešovice",
+      "latitude": 49.082392,
+      "longitude": 16.854119
+    },
+    {
+      "name": "SDH Mirošov",
+      "latitude": 49.148828,
+      "longitude": 17.980883
+    },
+    {
+      "name": "SDH Mladcová",
+      "latitude": 49.237027,
+      "longitude": 17.644088
+    },
+    {
+      "name": "SDH Mokrsko",
+      "latitude": 49.745269,
+      "longitude": 14.338196
+    },
+    {
+      "name": "SDH Mosty",
+      "latitude": 49.524651,
+      "longitude": 18.752705
+    },
+    {
+      "name": "SDH Možděnice",
+      "latitude": 49.765419,
+      "longitude": 15.796705
+    },
+    {
+      "name": "SDH Muglinov",
+      "latitude": 49.8549,
+      "longitude": 18.294307
+    },
+    {
+      "name": "SDH Mukařov u Malé Skály",
+      "latitude": 50.668182,
+      "longitude": 15.191778
+    },
+    {
+      "name": "SDH Nabočany",
+      "latitude": 49.944313,
+      "longitude": 15.887283
+    },
+    {
+      "name": "SDH Nedakonice",
+      "latitude": 49.031469,
+      "longitude": 17.38574
+    },
+    {
+      "name": "SDH Nedrahovice",
+      "latitude": 49.609309,
+      "longitude": 14.455706
+    },
+    {
+      "name": "SDH Nesovice",
+      "latitude": 49.150388,
+      "longitude": 17.081949
+    },
+    {
+      "name": "SDH Nesvačily",
+      "latitude": 49.732456,
+      "longitude": 14.637985
+    },
+    {
+      "name": "SDH Nižní Lhoty",
+      "latitude": 49.647247,
+      "longitude": 18.43535
+    },
+    {
+      "name": "SDH Nová Ves",
+      "latitude": 49.570096,
+      "longitude": 18.367004
+    },
+    {
+      "name": "SDH Nová Ves",
+      "latitude": 49.685959,
+      "longitude": 13.293563
+    },
+    {
+      "name": "SDH Nová Ves",
+      "latitude": 50.206222,
+      "longitude": 16.122066
+    },
+    {
+      "name": "SDH Nová Ves u Chotěboře",
+      "latitude": 49.756317,
+      "longitude": 15.648786
+    },
+    {
+      "name": "SDH Nová Ves u Světlé",
+      "latitude": 49.646114,
+      "longitude": 15.438129
+    },
+    {
+      "name": "SDH Obora",
+      "latitude": 49.890194,
+      "longitude": 13.412723
+    },
+    {
+      "name": "SDH Odolenovice",
+      "latitude": 50.634862,
+      "longitude": 15.125797
+    },
+    {
+      "name": "SDH Okrouhlice",
+      "latitude": 49.630229,
+      "longitude": 15.490938
+    },
+    {
+      "name": "SDH Olešná",
+      "latitude": 50.129642,
+      "longitude": 13.694941
+    },
+    {
+      "name": "SDH Olomučany",
+      "latitude": 49.333236,
+      "longitude": 16.669273
+    },
+    {
+      "name": "SDH Olšany",
+      "latitude": 49.250306,
+      "longitude": 16.862976
+    },
+    {
+      "name": "SDH Ondřejov",
+      "latitude": 49.904555,
+      "longitude": 14.785732
+    },
+    {
+      "name": "SDH Orlová-Poruba",
+      "latitude": 49.852032,
+      "longitude": 18.419702
+    },
+    {
+      "name": "SDH Ostrava-Hošťálkovice",
+      "latitude": 49.847258,
+      "longitude": 18.212062
+    },
+    {
+      "name": "SDH Ostrava-Koblov",
+      "latitude": 49.873657,
+      "longitude": 18.284856
+    },
+    {
+      "name": "SDH Ostrava-Krásné Pole",
+      "latitude": 49.843194,
+      "longitude": 18.124937
+    },
+    {
+      "name": "SDH Ostrava-Kunčičky",
+      "latitude": 49.808409,
+      "longitude": 18.306698
+    },
+    {
+      "name": "SDH Ostrava-Nová Ves",
+      "latitude": 49.822004,
+      "longitude": 18.221911
+    },
+    {
+      "name": "SDH Ostrava-Plesná",
+      "latitude": 49.861576,
+      "longitude": 18.14799
+    },
+    {
+      "name": "SDH Ostrava-Svinov",
+      "latitude": 49.813539,
+      "longitude": 18.191626
+    },
+    {
+      "name": "SDH Ostrava-Třebovice",
+      "latitude": 49.83573,
+      "longitude": 18.192512
+    },
+    {
+      "name": "SDH Ostrava-Zábřeh",
+      "latitude": 49.806944,
+      "longitude": 18.243685
+    },
+    {
+      "name": "SDH Ostrožská Nová Ves",
+      "latitude": 48.997688,
+      "longitude": 17.430378
+    },
+    {
+      "name": "SDH Osíčko",
+      "latitude": 49.424867,
+      "longitude": 17.744471
+    },
+    {
+      "name": "SDH Pacetluky",
+      "latitude": 49.379619,
+      "longitude": 17.566095
+    },
+    {
+      "name": "SDH Paceřice",
+      "latitude": 50.619432,
+      "longitude": 15.112781
+    },
+    {
+      "name": "SDH Palkovice",
+      "latitude": 49.636418,
+      "longitude": 18.318721
+    },
+    {
+      "name": "SDH Paskov",
+      "latitude": 49.731349,
+      "longitude": 18.290918
+    },
+    {
+      "name": "SDH Pavlovice",
+      "latitude": 49.213208,
+      "longitude": 17.061101
+    },
+    {
+      "name": "SDH Pazderna",
+      "latitude": 49.699494,
+      "longitude": 18.43606
+    },
+    {
+      "name": "SDH Pačlavice",
+      "latitude": 49.258446,
+      "longitude": 17.168959
+    },
+    {
+      "name": "SDH Petrkov",
+      "latitude": 49.567453,
+      "longitude": 15.558946
+    },
+    {
+      "name": "SDH Petrovice",
+      "latitude": 50.788688,
+      "longitude": 13.977104
+    },
+    {
+      "name": "SDH Petřkovice",
+      "latitude": 49.875059,
+      "longitude": 18.257621
+    },
+    {
+      "name": "SDH Ploukonice",
+      "latitude": 50.562609,
+      "longitude": 15.085538
+    },
+    {
+      "name": "SDH Podhradní Lhota",
+      "latitude": 49.419917,
+      "longitude": 17.795282
+    },
+    {
+      "name": "SDH Polabec",
+      "latitude": 50.141699,
+      "longitude": 15.103032
+    },
+    {
+      "name": "SDH Polanka nad Odrou",
+      "latitude": 49.780417,
+      "longitude": 18.169531
+    },
+    {
+      "name": "SDH Polom",
+      "latitude": 49.57801,
+      "longitude": 17.840091
+    },
+    {
+      "name": "SDH Počenice",
+      "latitude": 49.269901,
+      "longitude": 17.226631
+    },
+    {
+      "name": "SDH Počátky",
+      "latitude": 49.855433,
+      "longitude": 15.617159
+    },
+    {
+      "name": "SDH Prachovice",
+      "latitude": 49.894647,
+      "longitude": 15.629192
+    },
+    {
+      "name": "SDH Praha - Stodůlky",
+      "latitude": 50.039911,
+      "longitude": 14.334008
+    },
+    {
+      "name": "SDH PRAHA 11",
+      "latitude": 50.024088,
+      "longitude": 14.522544
+    },
+    {
+      "name": "SDH Prasklice",
+      "latitude": 49.27006,
+      "longitude": 17.186983
+    },
+    {
+      "name": "SDH Pravčice",
+      "latitude": 49.325249,
+      "longitude": 17.493728
+    },
+    {
+      "name": "SDH Pražmo",
+      "latitude": 49.610137,
+      "longitude": 18.490231
+    },
+    {
+      "name": "SDH Prosenická Lhota",
+      "latitude": 49.68914,
+      "longitude": 14.483683
+    },
+    {
+      "name": "SDH Prusinovice",
+      "latitude": 49.377875,
+      "longitude": 17.588647
+    },
+    {
+      "name": "SDH Prušánky",
+      "latitude": 48.827225,
+      "longitude": 16.981952
+    },
+    {
+      "name": "SDH PRŠTNÉ",
+      "latitude": 49.222431,
+      "longitude": 17.634197
+    },
+    {
+      "name": "SDH Pržno",
+      "latitude": 49.619188,
+      "longitude": 18.365451
+    },
+    {
+      "name": "SDH Pstruží",
+      "latitude": 49.567312,
+      "longitude": 18.33154
+    },
+    {
+      "name": "SDH Pustá Polom",
+      "latitude": 49.848783,
+      "longitude": 18.003424
+    },
+    {
+      "name": "SDH Pěčíov",
+      "latitude": 49.718364,
+      "longitude": 16.783122
+    },
+    {
+      "name": "SDH Příbram na Moravě",
+      "latitude": 49.194966,
+      "longitude": 16.30389
+    },
+    {
+      "name": "SDH Přídolí",
+      "latitude": 48.781148,
+      "longitude": 14.354033
+    },
+    {
+      "name": "SDH Přílepy",
+      "latitude": 49.320469,
+      "longitude": 17.613657
+    },
+    {
+      "name": "SDH Přísečná",
+      "latitude": 48.832796,
+      "longitude": 14.345577
+    },
+    {
+      "name": "SDH Příšovice",
+      "latitude": 50.57861,
+      "longitude": 15.085944
+    },
+    {
+      "name": "SDH Racková",
+      "latitude": 49.275666,
+      "longitude": 17.623937
+    },
+    {
+      "name": "SDH Radonice",
+      "latitude": 49.144777,
+      "longitude": 14.548151
+    },
+    {
+      "name": "SDH Radvanice",
+      "latitude": 49.816565,
+      "longitude": 18.33562
+    },
+    {
+      "name": "SDH Radňov",
+      "latitude": 49.554751,
+      "longitude": 15.501253
+    },
+    {
+      "name": "SDH Raková",
+      "latitude": 49.238327,
+      "longitude": 17.818079
+    },
+    {
+      "name": "SDH Rokytnice",
+      "latitude": 49.066748,
+      "longitude": 17.91619
+    },
+    {
+      "name": "SDH Ronov nad Doubravou",
+      "latitude": 49.88553,
+      "longitude": 15.527053
+    },
+    {
+      "name": "SDH Rosovice",
+      "latitude": 49.75694,
+      "longitude": 14.108636
+    },
+    {
+      "name": "SDH Rouchovany",
+      "latitude": 49.069829,
+      "longitude": 16.105991
+    },
+    {
+      "name": "SDH Rozstání",
+      "latitude": 49.728845,
+      "longitude": 16.727993
+    },
+    {
+      "name": "SDH Roštín",
+      "latitude": 49.189418,
+      "longitude": 17.285568
+    },
+    {
+      "name": "SDH Roštění",
+      "latitude": 49.36639,
+      "longitude": 17.53296
+    },
+    {
+      "name": "SDH Rožmitál pod Třemšínem",
+      "latitude": 49.60004,
+      "longitude": 13.871684
+    },
+    {
+      "name": "SDH Rudimov",
+      "latitude": 49.081309,
+      "longitude": 17.830311
+    },
+    {
+      "name": "SDH Rumburk",
+      "latitude": 50.951363,
+      "longitude": 14.556241
+    },
+    {
+      "name": "SDH Ruprechtov",
+      "latitude": 49.328099,
+      "longitude": 16.852553
+    },
+    {
+      "name": "SDH Rusava",
+      "latitude": 49.347426,
+      "longitude": 17.689342
+    },
+    {
+      "name": "SDH Rychvald",
+      "latitude": 49.865762,
+      "longitude": 18.378967
+    },
+    {
+      "name": "SDH Rymice",
+      "latitude": 49.344381,
+      "longitude": 17.528023
+    },
+    {
+      "name": "SDH Satalice",
+      "latitude": 50.123043,
+      "longitude": 14.567702
+    },
+    {
+      "name": "SDH Sazovice",
+      "latitude": 49.236602,
+      "longitude": 17.569385
+    },
+    {
+      "name": "SDH Sedliště",
+      "latitude": 49.718636,
+      "longitude": 18.368986
+    },
+    {
+      "name": "SDH Sedlčany",
+      "latitude": 49.664322,
+      "longitude": 14.421442
+    },
+    {
+      "name": "SDH Sehradice",
+      "latitude": 49.144209,
+      "longitude": 17.824139
+    },
+    {
+      "name": "SDH Senomaty",
+      "latitude": 50.100448,
+      "longitude": 13.656492
+    },
+    {
+      "name": "SDH Seč",
+      "latitude": 49.846639,
+      "longitude": 15.661619
+    },
+    {
+      "name": "SDH Skrbeň",
+      "latitude": 49.642349,
+      "longitude": 17.179283
+    },
+    {
+      "name": "SDH Skuhrov",
+      "latitude": 49.684186,
+      "longitude": 15.532561
+    },
+    {
+      "name": "SDH Slabce",
+      "latitude": 49.999251,
+      "longitude": 13.711844
+    },
+    {
+      "name": "SDH Slatina",
+      "latitude": 49.79134,
+      "longitude": 17.979217
+    },
+    {
+      "name": "SDH Slatina nad Úpou",
+      "latitude": 50.453918,
+      "longitude": 16.038783
+    },
+    {
+      "name": "SDH Slavičín",
+      "latitude": 49.088656,
+      "longitude": 17.879655
+    },
+    {
+      "name": "SDH Slavkov",
+      "latitude": 48.764306,
+      "longitude": 14.243418
+    },
+    {
+      "name": "SDH Slavkov",
+      "latitude": 48.946339,
+      "longitude": 17.610729
+    },
+    {
+      "name": "SDH Slezské Rudoltice",
+      "latitude": 50.205996,
+      "longitude": 17.686146
+    },
+    {
+      "name": "SDH Slopné",
+      "latitude": 49.155363,
+      "longitude": 17.846388
+    },
+    {
+      "name": "SDH Slušovice",
+      "latitude": 49.248347,
+      "longitude": 17.799827
+    },
+    {
+      "name": "SDH Smolina",
+      "latitude": 49.158753,
+      "longitude": 17.997933
+    },
+    {
+      "name": "SDH Sněžné",
+      "latitude": 49.648823,
+      "longitude": 16.12209
+    },
+    {
+      "name": "SDH Soběsuky",
+      "latitude": 49.460709,
+      "longitude": 16.997633
+    },
+    {
+      "name": "SDH Soběšice",
+      "latitude": 49.253205,
+      "longitude": 16.620486
+    },
+    {
+      "name": "SDH Spešov",
+      "latitude": 49.394168,
+      "longitude": 16.624796
+    },
+    {
+      "name": "SDH Spytihněv",
+      "latitude": 49.140943,
+      "longitude": 17.499485
+    },
+    {
+      "name": "SDH Staměřice",
+      "latitude": 49.550888,
+      "longitude": 17.524086
+    },
+    {
+      "name": "SDH Stará Bělá",
+      "latitude": 49.76215,
+      "longitude": 18.22629
+    },
+    {
+      "name": "SDH Stará Lysá",
+      "latitude": 50.223143,
+      "longitude": 14.803351
+    },
+    {
+      "name": "SDH Stará Ves nad Ondřejnicí",
+      "latitude": 49.72566,
+      "longitude": 18.189883
+    },
+    {
+      "name": "SDH Staré Jesenčany",
+      "latitude": 50.000885,
+      "longitude": 15.754146
+    },
+    {
+      "name": "SDH Starý Hrozenkov",
+      "latitude": 48.970969,
+      "longitude": 17.861404
+    },
+    {
+      "name": "SDH Staříč",
+      "latitude": 49.68586,
+      "longitude": 18.27213
+    },
+    {
+      "name": "SDH Strachotín",
+      "latitude": 48.903472,
+      "longitude": 16.651439
+    },
+    {
+      "name": "SDH Strmilov",
+      "latitude": 49.158093,
+      "longitude": 15.199597
+    },
+    {
+      "name": "SDH Struhařov",
+      "latitude": 49.955541,
+      "longitude": 14.748164
+    },
+    {
+      "name": "SDH Strání",
+      "latitude": 48.90342,
+      "longitude": 17.703453
+    },
+    {
+      "name": "SDH Studená",
+      "latitude": 49.185749,
+      "longitude": 15.284221
+    },
+    {
+      "name": "SDH Studénka-Butovice",
+      "latitude": 49.714925,
+      "longitude": 18.04201
+    },
+    {
+      "name": "SDH Studénka-město",
+      "latitude": 49.722405,
+      "longitude": 18.079511
+    },
+    {
+      "name": "SDH Studénka-nádraží",
+      "latitude": 49.713035,
+      "longitude": 18.070694
+    },
+    {
+      "name": "SDH Stupava",
+      "latitude": 49.114317,
+      "longitude": 17.248812
+    },
+    {
+      "name": "SDH Střelice",
+      "latitude": 48.994203,
+      "longitude": 15.983348
+    },
+    {
+      "name": "SDH Stříbrnice",
+      "latitude": 49.055716,
+      "longitude": 17.30634
+    },
+    {
+      "name": "SDH Suchdol nad Lužnicí",
+      "latitude": 48.89629,
+      "longitude": 14.880922
+    },
+    {
+      "name": "SDH Suchá Loz",
+      "latitude": 48.970064,
+      "longitude": 17.713738
+    },
+    {
+      "name": "SDH Sudkov",
+      "latitude": 49.918846,
+      "longitude": 16.944533
+    },
+    {
+      "name": "SDH Sudkov",
+      "latitude": 49.919636,
+      "longitude": 16.945936
+    },
+    {
+      "name": "SDH Sulimov",
+      "latitude": 49.226506,
+      "longitude": 17.422619
+    },
+    {
+      "name": "SDH Sulkovec",
+      "latitude": 49.610805,
+      "longitude": 16.310262
+    },
+    {
+      "name": "SDH Svratka",
+      "latitude": 49.70982,
+      "longitude": 16.035431
+    },
+    {
+      "name": "SDH Tasovice",
+      "latitude": 49.496328,
+      "longitude": 16.441334
+    },
+    {
+      "name": "SDH Tetětice",
+      "latitude": 49.272292,
+      "longitude": 17.246592
+    },
+    {
+      "name": "SDH Tis",
+      "latitude": 49.705073,
+      "longitude": 15.492884
+    },
+    {
+      "name": "SDH Tisá",
+      "latitude": 50.786722,
+      "longitude": 14.026313
+    },
+    {
+      "name": "SDH Tlustice",
+      "latitude": 49.848391,
+      "longitude": 13.885585
+    },
+    {
+      "name": "SDH Topolany",
+      "latitude": 49.586145,
+      "longitude": 17.179108
+    },
+    {
+      "name": "SDH Tovéř",
+      "latitude": 49.639934,
+      "longitude": 17.319301
+    },
+    {
+      "name": "SDH Traplice",
+      "latitude": 49.130916,
+      "longitude": 17.436876
+    },
+    {
+      "name": "SDH Trnávka",
+      "latitude": 49.684848,
+      "longitude": 18.177488
+    },
+    {
+      "name": "SDH Tulešice",
+      "latitude": 49.038861,
+      "longitude": 16.207256
+    },
+    {
+      "name": "SDH Tábor",
+      "latitude": 49.406555,
+      "longitude": 14.678352
+    },
+    {
+      "name": "SDH Těrlicko",
+      "latitude": 49.753579,
+      "longitude": 18.492266
+    },
+    {
+      "name": "SDH Těčovice",
+      "latitude": 49.221516,
+      "longitude": 17.590369
+    },
+    {
+      "name": "SDH Třebětín",
+      "latitude": 49.771305,
+      "longitude": 15.26908
+    },
+    {
+      "name": "SDH Třemblat",
+      "latitude": 49.930139,
+      "longitude": 14.759618
+    },
+    {
+      "name": "SDH Uhřice",
+      "latitude": 49.048665,
+      "longitude": 16.948174
+    },
+    {
+      "name": "SDH Unčín",
+      "latitude": 50.685381,
+      "longitude": 13.891976
+    },
+    {
+      "name": "SDH Velatice",
+      "latitude": 49.197531,
+      "longitude": 16.754622
+    },
+    {
+      "name": "SDH Velešovice",
+      "latitude": 49.175885,
+      "longitude": 16.848791
+    },
+    {
+      "name": "SDH Velichov",
+      "latitude": 50.283703,
+      "longitude": 13.010089
+    },
+    {
+      "name": "SDH Velká",
+      "latitude": 49.660053,
+      "longitude": 14.251995
+    },
+    {
+      "name": "SDH Velké Opatovice",
+      "latitude": 49.61033,
+      "longitude": 16.676112
+    },
+    {
+      "name": "SDH Velké Pavlovice",
+      "latitude": 48.90455,
+      "longitude": 16.814982
+    },
+    {
+      "name": "SDH Velké Těšany",
+      "latitude": 49.243986,
+      "longitude": 17.403945
+    },
+    {
+      "name": "SDH Velký Rybník",
+      "latitude": 49.49075,
+      "longitude": 15.30754
+    },
+    {
+      "name": "SDH Velvary",
+      "latitude": 50.278487,
+      "longitude": 14.236183
+    },
+    {
+      "name": "SDH Velíková",
+      "latitude": 49.280582,
+      "longitude": 17.756393
+    },
+    {
+      "name": "SDH Veselice",
+      "latitude": 49.393378,
+      "longitude": 16.706689
+    },
+    {
+      "name": "SDH Vilémovice",
+      "latitude": 49.362279,
+      "longitude": 16.747696
+    },
+    {
+      "name": "SDH Vojkovice",
+      "latitude": 49.680881,
+      "longitude": 18.465188
+    },
+    {
+      "name": "SDH Volšovy",
+      "latitude": 49.214942,
+      "longitude": 13.487912
+    },
+    {
+      "name": "SDH Vranov",
+      "latitude": 49.852993,
+      "longitude": 14.774185
+    },
+    {
+      "name": "SDH Vratimov",
+      "latitude": 49.767942,
+      "longitude": 18.321551
+    },
+    {
+      "name": "SDH Vrchoviny",
+      "latitude": 50.367826,
+      "longitude": 16.143427
+    },
+    {
+      "name": "SDH Vysoká",
+      "latitude": 49.561869,
+      "longitude": 15.62309
+    },
+    {
+      "name": "SDH Václavovice",
+      "latitude": 49.755449,
+      "longitude": 18.382003
+    },
+    {
+      "name": "SDH Věžky",
+      "latitude": 49.285807,
+      "longitude": 17.282789
+    },
+    {
+      "name": "SDH Vřesina",
+      "latitude": 49.822696,
+      "longitude": 18.123994
+    },
+    {
+      "name": "SDH Zahnašovice",
+      "latitude": 49.304677,
+      "longitude": 17.558128
+    },
+    {
+      "name": "SDH Zahrádky",
+      "latitude": 49.200243,
+      "longitude": 15.241522
+    },
+    {
+      "name": "SDH Zaječov",
+      "latitude": 49.766548,
+      "longitude": 13.842796
+    },
+    {
+      "name": "SDH Zborná",
+      "latitude": 49.438739,
+      "longitude": 15.575074
+    },
+    {
+      "name": "SDH Zborovice",
+      "latitude": 49.249356,
+      "longitude": 17.284958
+    },
+    {
+      "name": "SDH Zboží",
+      "latitude": 49.719544,
+      "longitude": 15.456056
+    },
+    {
+      "name": "SDH Zdice",
+      "latitude": 49.908081,
+      "longitude": 13.983256
+    },
+    {
+      "name": "SDH Zdounky",
+      "latitude": 49.230376,
+      "longitude": 17.311239
+    },
+    {
+      "name": "SDH Zdětín",
+      "latitude": 49.506536,
+      "longitude": 16.990889
+    },
+    {
+      "name": "SDH Zličín",
+      "latitude": 50.063449,
+      "longitude": 14.28703
+    },
+    {
+      "name": "SDH Zlín - Lužkovice",
+      "latitude": 49.221738,
+      "longitude": 17.746579
+    },
+    {
+      "name": "SDH Záhlinice",
+      "latitude": 49.290803,
+      "longitude": 17.487435
+    },
+    {
+      "name": "SDH Zápy",
+      "latitude": 50.16493,
+      "longitude": 14.680741
+    },
+    {
+      "name": "SDH Záryby",
+      "latitude": 50.22139,
+      "longitude": 14.625108
+    },
+    {
+      "name": "SDH Záříčí",
+      "latitude": 49.38335,
+      "longitude": 17.352278
+    },
+    {
+      "name": "SDH Úhonice",
+      "latitude": 50.043736,
+      "longitude": 14.186856
+    },
+    {
+      "name": "SDH Úhřetice",
+      "latitude": 49.978882,
+      "longitude": 15.866252
+    },
+    {
+      "name": "SDH Újezd",
+      "latitude": 49.507535,
+      "longitude": 16.53884
+    },
+    {
+      "name": "SDH Újezd nad Lesy",
+      "latitude": 50.0722,
+      "longitude": 14.652427
+    },
+    {
+      "name": "SDH Čebín",
+      "latitude": 49.312264,
+      "longitude": 16.479272
+    },
+    {
+      "name": "SDH Čelákovice",
+      "latitude": 50.161223,
+      "longitude": 14.741008
+    },
+    {
+      "name": "SDH Čenkov",
+      "latitude": 49.776449,
+      "longitude": 14.006714
+    },
+    {
+      "name": "SDH Červenka",
+      "latitude": 49.720668,
+      "longitude": 17.080719
+    },
+    {
+      "name": "SDH Česká Bělá",
+      "latitude": 49.644523,
+      "longitude": 15.692367
+    },
+    {
+      "name": "SDH Česká Ves",
+      "latitude": 50.241981,
+      "longitude": 17.211492
+    },
+    {
+      "name": "SDH Číhošť",
+      "latitude": 49.742614,
+      "longitude": 15.339442
+    },
+    {
+      "name": "SDH Řepiště",
+      "latitude": 49.73518,
+      "longitude": 18.318072
+    },
+    {
+      "name": "SDH Řeporyje",
+      "latitude": 50.031574,
+      "longitude": 14.312699
+    },
+    {
+      "name": "SDH Řestoky",
+      "latitude": 49.919778,
+      "longitude": 15.915277
+    },
+    {
+      "name": "SDH Řídelov",
+      "latitude": 49.235848,
+      "longitude": 15.405729
+    },
+    {
+      "name": "SDH Šanov",
+      "latitude": 49.046771,
+      "longitude": 17.897025
+    },
+    {
+      "name": "SDH Šardice",
+      "latitude": 48.963604,
+      "longitude": 17.02874
+    },
+    {
+      "name": "SDH Šebetov",
+      "latitude": 49.548094,
+      "longitude": 16.712434
+    },
+    {
+      "name": "SDH Štípa",
+      "latitude": 49.269081,
+      "longitude": 17.728589
+    },
+    {
+      "name": "SDH Štěpánovice",
+      "latitude": 49.37272,
+      "longitude": 16.388568
+    },
+    {
+      "name": "SDH Štěpánovice",
+      "latitude": 49.427377,
+      "longitude": 13.2831
+    },
+    {
+      "name": "SDH Šťáhlavy",
+      "latitude": 49.673599,
+      "longitude": 13.503607
+    },
+    {
+      "name": "SDH Žalkovice",
+      "latitude": 49.371204,
+      "longitude": 17.438611
+    },
+    {
+      "name": "SDH Žernovka",
+      "latitude": 49.999598,
+      "longitude": 14.753747
+    },
+    {
+      "name": "SDH Žlutava",
+      "latitude": 49.201206,
+      "longitude": 17.487639
+    },
+    {
+      "name": "SDH Žďárec u Seče",
+      "latitude": 49.855148,
+      "longitude": 15.635015
+    },
+    {
+      "name": "SDH ‎Leškovice",
+      "latitude": 49.763421,
+      "longitude": 15.536601
+    },
+    {
+      "name": "Sdružení dobrovolných hasičů",
+      "latitude": 49.634334,
+      "longitude": 16.186902
+    },
+    {
+      "name": "Sdružení dobrovolných hasičů Krásná",
+      "latitude": 49.60535,
+      "longitude": 18.437636
+    },
+    {
+      "name": "Sdružení hasičů Čech, Moravy a Slezska okresní sdružení hasičů Pardubice",
+      "latitude": 50.020641,
+      "longitude": 15.733959
+    },
+    {
+      "name": "SDŽ Lovčice",
+      "latitude": 49.0644,
+      "longitude": 17.055463
+    },
+    {
+      "name": "SH ČMS - Okresní sdružení hasičů Zlín",
+      "latitude": 49.22157,
+      "longitude": 17.699107
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Nevšová",
+      "latitude": 49.105206,
+      "longitude": 17.844732
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Podkopná Lhota",
+      "latitude": 49.304755,
+      "longitude": 17.832085
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Pohořelice",
+      "latitude": 49.176179,
+      "longitude": 17.538101
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Topolná",
+      "latitude": 49.121605,
+      "longitude": 17.544333
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Tvrdonice",
+      "latitude": 48.762233,
+      "longitude": 16.989594
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Vápenný Podol",
+      "latitude": 49.888693,
+      "longitude": 15.666708
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Větřní",
+      "latitude": 48.7781,
+      "longitude": 14.293278
+    },
+    {
+      "name": "SH ČMS - Sbor dobrovolných hasičů Zlín - Salaš",
+      "latitude": 49.173227,
+      "longitude": 17.626444
+    },
+    {
+      "name": "SH ČMS - SDH Hvozdná",
+      "latitude": 49.254583,
+      "longitude": 17.754939
+    },
+    {
+      "name": "SHD Horní Bělá",
+      "latitude": 49.888666,
+      "longitude": 13.265056
+    },
+    {
+      "name": "SHD Rozsedly",
+      "latitude": 49.205347,
+      "longitude": 13.608826
+    },
+    {
+      "name": "SHČMS - Sbor dobrovolných hasičů Zlín - Kostelec",
+      "latitude": 49.264679,
+      "longitude": 17.701558
+    },
+    {
+      "name": "Stanice dobrovolných hasičů",
+      "latitude": 49.17956,
+      "longitude": 16.721111
+    },
+    {
+      "name": "Stanice HZS",
+      "latitude": 49.700373,
+      "longitude": 14.895001
+    },
+    {
+      "name": "Stanice HZS",
+      "latitude": 50.0145,
+      "longitude": 15.206147
+    },
+    {
+      "name": "Stanice HZS Milovice",
+      "latitude": 50.230135,
+      "longitude": 14.854399
+    },
+    {
+      "name": "Stanice HZS Nymburk",
+      "latitude": 50.183252,
+      "longitude": 15.035668
+    },
+    {
+      "name": "Stanice Modřany",
+      "latitude": 50.006533,
+      "longitude": 14.439894
+    },
+    {
+      "name": "stará hasičská zbrojnice Zubří",
+      "latitude": 49.776947,
+      "longitude": 15.80041
+    },
+    {
+      "name": "Stará požární zbrojnice",
+      "latitude": 49.250572,
+      "longitude": 17.752026
+    },
+    {
+      "name": "Vojenská hasičská jednotka Boletice",
+      "latitude": 48.797779,
+      "longitude": 14.146818
+    },
+    {
+      "name": "Zbrojnice dobrovolných hasičů",
+      "latitude": 49.876937,
+      "longitude": 13.574908
+    },
+    {
+      "name": "Zdravotní záchraná služba",
+      "latitude": 49.466969,
+      "longitude": 14.996961
+    },
+    {
+      "name": "Záchranný útvar HZS ČR -ůčelové zařízení Hať",
+      "latitude": 49.970774,
+      "longitude": 18.233977
+    },
+    {
+      "name": "Záchranný útvar HZS ČR – Záchranná rota Zbiroh",
+      "latitude": 49.859131,
+      "longitude": 13.754883
+    }
+  ],
+  "meta": {
+    "title": "Hasičské stanice - Stáhnout zdarma",
+    "description": "Hasičské stanice v České republice (1409 záznamů) — body zájmu z OpenStreetMap (tag amenity=fire_station), výřez EU-POIS/CZ. Obsahuje 1409 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Hasičské stanice | ListBase",
+    "seo_description": "Stáhnout Hasičské stanice — 1409 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1409 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

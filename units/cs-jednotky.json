@@ -1,0 +1,2386 @@
+{
+  "id": "cs-jednotky",
+  "name": "Měrné jednotky (CLDR, 232)",
+  "title": "Měrné jednotky (CLDR, 232)",
+  "description": "Měrné jednotky a jejich české názvy a vzory z CLDR cs-locale units.json (long/short/narrow).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 232,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategorie": "acceleration",
+      "nazev": "gravitační síla",
+      "vzor_jednotne": "{0} gravitační síla",
+      "vzor_mnozne": "{0} gravitačních sil",
+      "kratky_vzor": "{0} G",
+      "uzky_vzor": "{0} G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategorie": "acceleration",
+      "nazev": "metry za sekundu na druhou",
+      "vzor_jednotne": "{0} metr za sekundu na druhou",
+      "vzor_mnozne": "{0} metrů za sekundu na druhou",
+      "kratky_vzor": "{0} m/s²",
+      "uzky_vzor": "{0} m/s²"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategorie": "angle",
+      "nazev": "minuty",
+      "vzor_jednotne": "{0} minuta",
+      "vzor_mnozne": "{0} minut",
+      "kratky_vzor": "{0}′",
+      "uzky_vzor": "{0}′"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategorie": "angle",
+      "nazev": "vteřiny",
+      "vzor_jednotne": "{0} vteřina",
+      "vzor_mnozne": "{0} vteřin",
+      "kratky_vzor": "{0}″",
+      "uzky_vzor": "{0}″"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategorie": "angle",
+      "nazev": "stupně",
+      "vzor_jednotne": "{0} stupeň",
+      "vzor_mnozne": "{0} stupňů",
+      "kratky_vzor": "{0}°",
+      "uzky_vzor": "{0}°"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategorie": "angle",
+      "nazev": "radiány",
+      "vzor_jednotne": "{0} radián",
+      "vzor_mnozne": "{0} radiánů",
+      "kratky_vzor": "{0} rad",
+      "uzky_vzor": "{0} rad"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategorie": "angle",
+      "nazev": "otáčky",
+      "vzor_jednotne": "{0} otáčka",
+      "vzor_mnozne": "{0} otáček",
+      "kratky_vzor": "{0} ot.",
+      "uzky_vzor": "{0} ot."
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategorie": "angle",
+      "nazev": "steradiány",
+      "vzor_jednotne": "{0} steradián",
+      "vzor_mnozne": "{0} steradiánů",
+      "kratky_vzor": "{0} sr",
+      "uzky_vzor": "{0} sr"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategorie": "area",
+      "nazev": "akry",
+      "vzor_jednotne": "{0} akr",
+      "vzor_mnozne": "{0} akrů",
+      "kratky_vzor": "{0} ac",
+      "uzky_vzor": "{0} ac"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategorie": "area",
+      "nazev": "bu [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} bu [JP]",
+      "kratky_vzor": "{0} bu [JP]",
+      "uzky_vzor": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategorie": "area",
+      "nazev": "cho [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} cho [JP]",
+      "kratky_vzor": "{0} cho [JP]",
+      "uzky_vzor": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategorie": "area",
+      "nazev": "dunamy",
+      "vzor_jednotne": "{0} dunam",
+      "vzor_mnozne": "{0} dunamů",
+      "kratky_vzor": "{0} dun.",
+      "uzky_vzor": "{0} dun."
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategorie": "area",
+      "nazev": "hektary",
+      "vzor_jednotne": "{0} hektar",
+      "vzor_mnozne": "{0} hektarů",
+      "kratky_vzor": "{0} ha",
+      "uzky_vzor": "{0} ha"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategorie": "area",
+      "nazev": "se [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} se [JP]",
+      "kratky_vzor": "{0} se [JP]",
+      "uzky_vzor": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategorie": "area",
+      "nazev": "centimetry čtvereční",
+      "vzor_jednotne": "{0} centimetr čtvereční",
+      "vzor_mnozne": "{0} centimetrů čtverečních",
+      "kratky_vzor": "{0} cm²",
+      "uzky_vzor": "{0} cm²"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategorie": "area",
+      "nazev": "stopy čtvereční",
+      "vzor_jednotne": "{0} stopa čtvereční",
+      "vzor_mnozne": "{0} stop čtverečních",
+      "kratky_vzor": "{0} ft²",
+      "uzky_vzor": "{0} ft²"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategorie": "area",
+      "nazev": "palce čtvereční",
+      "vzor_jednotne": "{0} palec čtvereční",
+      "vzor_mnozne": "{0} palců čtverečních",
+      "kratky_vzor": "{0} in²",
+      "uzky_vzor": "{0} in²"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategorie": "area",
+      "nazev": "kilometry čtvereční",
+      "vzor_jednotne": "{0} kilometr čtvereční",
+      "vzor_mnozne": "{0} kilometrů čtverečních",
+      "kratky_vzor": "{0} km²",
+      "uzky_vzor": "{0} km²"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategorie": "area",
+      "nazev": "metry čtvereční",
+      "vzor_jednotne": "{0} metr čtvereční",
+      "vzor_mnozne": "{0} metrů čtverečních",
+      "kratky_vzor": "{0} m²",
+      "uzky_vzor": "{0} m²"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategorie": "area",
+      "nazev": "míle čtvereční",
+      "vzor_jednotne": "{0} míle čtvereční",
+      "vzor_mnozne": "{0} mil čtverečních",
+      "kratky_vzor": "{0} mi²",
+      "uzky_vzor": "{0} mi²"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategorie": "area",
+      "nazev": "yardy čtvereční",
+      "vzor_jednotne": "{0} yard čtvereční",
+      "vzor_mnozne": "{0} yardů čtverečních",
+      "kratky_vzor": "{0} yd²",
+      "uzky_vzor": "{0} yd²"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategorie": "concentr",
+      "nazev": "položky",
+      "vzor_jednotne": "{0} položka",
+      "vzor_mnozne": "{0} položek",
+      "kratky_vzor": "{0} položek",
+      "uzky_vzor": "{0} pol."
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategorie": "concentr",
+      "nazev": "karáty",
+      "vzor_jednotne": "{0} karát",
+      "vzor_mnozne": "{0} karátů",
+      "kratky_vzor": "{0} kt",
+      "uzky_vzor": "{0} kt"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategorie": "concentr",
+      "nazev": "kataly",
+      "vzor_jednotne": "{0} katal",
+      "vzor_mnozne": "{0} katalů",
+      "kratky_vzor": "{0} kat",
+      "uzky_vzor": "{0} kat"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategorie": "concentr",
+      "nazev": "miligramy na decilitr",
+      "vzor_jednotne": "{0} miligram na decilitr",
+      "vzor_mnozne": "{0} miligramů na decilitr",
+      "kratky_vzor": "{0} mg/dl",
+      "uzky_vzor": "{0} mg/dl"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategorie": "concentr",
+      "nazev": "milimoly na litr",
+      "vzor_jednotne": "{0} milimol na litr",
+      "vzor_mnozne": "{0} milimolů na litr",
+      "kratky_vzor": "{0} mmol/l",
+      "uzky_vzor": "{0} mmol/l"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategorie": "concentr",
+      "nazev": "moly",
+      "vzor_jednotne": "{0} mol",
+      "vzor_mnozne": "{0} molů",
+      "kratky_vzor": "{0} mol",
+      "uzky_vzor": "{0} mol"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategorie": "concentr",
+      "nazev": "glukózy",
+      "vzor_jednotne": "{0} glukózy",
+      "vzor_mnozne": "{0} glukózy",
+      "kratky_vzor": "{0} Glc",
+      "uzky_vzor": "{0} Glc"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategorie": "concentr",
+      "nazev": "díly",
+      "vzor_jednotne": "{0} díl",
+      "vzor_mnozne": "{0} dílů",
+      "kratky_vzor": "{0} dílů",
+      "uzky_vzor": "{0} dílů"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategorie": "concentr",
+      "nazev": "díly z milionu",
+      "vzor_jednotne": "{0} díl z milionu",
+      "vzor_mnozne": "{0} dílů z milionu",
+      "kratky_vzor": "{0} ppm",
+      "uzky_vzor": "{0} ppm"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategorie": "concentr",
+      "nazev": "částice na miliardu",
+      "vzor_jednotne": "{0} částice na miliardu",
+      "vzor_mnozne": "{0} částic na miliardu",
+      "kratky_vzor": "{0} částic na mld",
+      "uzky_vzor": "{0} částic na mld"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategorie": "concentr",
+      "nazev": "procenta",
+      "vzor_jednotne": "{0} procento",
+      "vzor_mnozne": "{0} procent",
+      "kratky_vzor": "{0} %",
+      "uzky_vzor": "{0} %"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategorie": "concentr",
+      "nazev": "promile",
+      "vzor_jednotne": "{0} promile",
+      "vzor_mnozne": "{0} promile",
+      "kratky_vzor": "{0} ‰",
+      "uzky_vzor": "{0} ‰"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategorie": "concentr",
+      "nazev": "desetiny promile",
+      "vzor_jednotne": "{0} desetina promile",
+      "vzor_mnozne": "{0} desetin promile",
+      "kratky_vzor": "{0} ‱",
+      "uzky_vzor": "{0} ‱"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategorie": "consumption",
+      "nazev": "litry na sto kilometrů",
+      "vzor_jednotne": "{0} litr na sto kilometrů",
+      "vzor_mnozne": "{0} litrů na sto kilometrů",
+      "kratky_vzor": "{0} l/100 km",
+      "uzky_vzor": "{0} l/100km"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategorie": "consumption",
+      "nazev": "litry na kilometr",
+      "vzor_jednotne": "{0} litr na kilometr",
+      "vzor_mnozne": "{0} litrů na kilometr",
+      "kratky_vzor": "{0} l/km",
+      "uzky_vzor": "{0} l/km"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategorie": "consumption",
+      "nazev": "míle na galon",
+      "vzor_jednotne": "{0} míle na galon",
+      "vzor_mnozne": "{0} mil na galon",
+      "kratky_vzor": "{0} mpg",
+      "uzky_vzor": "{0} mpg"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategorie": "consumption",
+      "nazev": "míle na britský galon",
+      "vzor_jednotne": "{0} míle na britský galon",
+      "vzor_mnozne": "{0} mil na britský galon",
+      "kratky_vzor": "{0} mpg Imp.",
+      "uzky_vzor": "{0} mpgIm"
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategorie": "digital",
+      "nazev": "bity",
+      "vzor_jednotne": "{0} bit",
+      "vzor_mnozne": "{0} bitů",
+      "kratky_vzor": "{0} b",
+      "uzky_vzor": "{0} b"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategorie": "digital",
+      "nazev": "bajty",
+      "vzor_jednotne": "{0} bajt",
+      "vzor_mnozne": "{0} bajtů",
+      "kratky_vzor": "{0} B",
+      "uzky_vzor": "{0} B"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategorie": "digital",
+      "nazev": "gigabity",
+      "vzor_jednotne": "{0} gigabit",
+      "vzor_mnozne": "{0} gigabitů",
+      "kratky_vzor": "{0} Gb",
+      "uzky_vzor": "{0} Gb"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategorie": "digital",
+      "nazev": "gigabajty",
+      "vzor_jednotne": "{0} gigabajt",
+      "vzor_mnozne": "{0} gigabajtů",
+      "kratky_vzor": "{0} GB",
+      "uzky_vzor": "{0} GB"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategorie": "digital",
+      "nazev": "kilobity",
+      "vzor_jednotne": "{0} kilobit",
+      "vzor_mnozne": "{0} kilobitů",
+      "kratky_vzor": "{0} kb",
+      "uzky_vzor": "{0} kb"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategorie": "digital",
+      "nazev": "kilobajty",
+      "vzor_jednotne": "{0} kilobajt",
+      "vzor_mnozne": "{0} kilobajtů",
+      "kratky_vzor": "{0} kB",
+      "uzky_vzor": "{0} kB"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategorie": "digital",
+      "nazev": "megabity",
+      "vzor_jednotne": "{0} megabit",
+      "vzor_mnozne": "{0} megabitů",
+      "kratky_vzor": "{0} Mb",
+      "uzky_vzor": "{0} Mb"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategorie": "digital",
+      "nazev": "megabajty",
+      "vzor_jednotne": "{0} megabajt",
+      "vzor_mnozne": "{0} megabajtů",
+      "kratky_vzor": "{0} MB",
+      "uzky_vzor": "{0} MB"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategorie": "digital",
+      "nazev": "petabajty",
+      "vzor_jednotne": "{0} petabajt",
+      "vzor_mnozne": "{0} petabajtů",
+      "kratky_vzor": "{0} PB",
+      "uzky_vzor": "{0} PB"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategorie": "digital",
+      "nazev": "terabity",
+      "vzor_jednotne": "{0} terabit",
+      "vzor_mnozne": "{0} terabitů",
+      "kratky_vzor": "{0} Tb",
+      "uzky_vzor": "{0} Tb"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategorie": "digital",
+      "nazev": "terabajty",
+      "vzor_jednotne": "{0} terabajt",
+      "vzor_mnozne": "{0} terabajtů",
+      "kratky_vzor": "{0} TB",
+      "uzky_vzor": "{0} TB"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategorie": "duration",
+      "nazev": "století",
+      "vzor_jednotne": "{0} století",
+      "vzor_mnozne": "{0} století",
+      "kratky_vzor": "{0} stol.",
+      "uzky_vzor": "{0} stol."
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategorie": "duration",
+      "nazev": "dny",
+      "vzor_jednotne": "{0} den",
+      "vzor_mnozne": "{0} dnů",
+      "kratky_vzor": "{0} dnů",
+      "uzky_vzor": "{0} d."
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-day-person",
+      "kategorie": "duration",
+      "nazev": "",
+      "vzor_jednotne": "{0} den",
+      "vzor_mnozne": "{0} dnů",
+      "kratky_vzor": "",
+      "uzky_vzor": ""
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-decade",
+      "kategorie": "duration",
+      "nazev": "desetiletí",
+      "vzor_jednotne": "{0} desetiletí",
+      "vzor_mnozne": "{0} desetiletí",
+      "kratky_vzor": "{0} desetil.",
+      "uzky_vzor": "{0} dek."
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-fortnight",
+      "kategorie": "duration",
+      "nazev": "fortnight",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} fw",
+      "kratky_vzor": "{0} fw",
+      "uzky_vzor": "{0} fw"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-hour",
+      "kategorie": "duration",
+      "nazev": "hodiny",
+      "vzor_jednotne": "{0} hodina",
+      "vzor_mnozne": "{0} hodin",
+      "kratky_vzor": "{0} h",
+      "uzky_vzor": "{0} h"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-microsecond",
+      "kategorie": "duration",
+      "nazev": "mikrosekundy",
+      "vzor_jednotne": "{0} mikrosekunda",
+      "vzor_mnozne": "{0} mikrosekund",
+      "kratky_vzor": "{0} μs",
+      "uzky_vzor": "{0} μs"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-millisecond",
+      "kategorie": "duration",
+      "nazev": "milisekundy",
+      "vzor_jednotne": "{0} milisekunda",
+      "vzor_mnozne": "{0} milisekund",
+      "kratky_vzor": "{0} ms",
+      "uzky_vzor": "{0} ms"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-minute",
+      "kategorie": "duration",
+      "nazev": "minuty",
+      "vzor_jednotne": "{0} minuta",
+      "vzor_mnozne": "{0} minut",
+      "kratky_vzor": "{0} min",
+      "uzky_vzor": "{0} m"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-month",
+      "kategorie": "duration",
+      "nazev": "měsíce",
+      "vzor_jednotne": "{0} měsíc",
+      "vzor_mnozne": "{0} měsíců",
+      "kratky_vzor": "{0} měs.",
+      "uzky_vzor": "{0} m."
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-nanosecond",
+      "kategorie": "duration",
+      "nazev": "nanosekundy",
+      "vzor_jednotne": "{0} nanosekunda",
+      "vzor_mnozne": "{0} nanosekund",
+      "kratky_vzor": "{0} ns",
+      "uzky_vzor": "{0} ns"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-night",
+      "kategorie": "duration",
+      "nazev": "noci",
+      "vzor_jednotne": "{0} noc",
+      "vzor_mnozne": "{0} nocí",
+      "kratky_vzor": "{0} nocí",
+      "uzky_vzor": "{0} nocí"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-quarter",
+      "kategorie": "duration",
+      "nazev": "čtvrtletí",
+      "vzor_jednotne": "{0} čtvrtletí",
+      "vzor_mnozne": "{0} čtvrtletí",
+      "kratky_vzor": "{0} čtvrtl.",
+      "uzky_vzor": "{0} kv."
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-second",
+      "kategorie": "duration",
+      "nazev": "sekundy",
+      "vzor_jednotne": "{0} sekunda",
+      "vzor_mnozne": "{0} sekund",
+      "kratky_vzor": "{0} s",
+      "uzky_vzor": "{0} s"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-week",
+      "kategorie": "duration",
+      "nazev": "týdny",
+      "vzor_jednotne": "{0} týden",
+      "vzor_mnozne": "{0} týdnů",
+      "kratky_vzor": "{0} týd.",
+      "uzky_vzor": "{0} t."
+    },
+    {
+      "id": 65,
+      "unit_code": "duration-year",
+      "kategorie": "duration",
+      "nazev": "roky",
+      "vzor_jednotne": "{0} rok",
+      "vzor_mnozne": "{0} let",
+      "kratky_vzor": "{0} let",
+      "uzky_vzor": "{0} l."
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-ampere",
+      "kategorie": "electric",
+      "nazev": "ampéry",
+      "vzor_jednotne": "{0} ampér",
+      "vzor_mnozne": "{0} ampérů",
+      "kratky_vzor": "{0} A",
+      "uzky_vzor": "{0} A"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-coulomb",
+      "kategorie": "electric",
+      "nazev": "coulomby",
+      "vzor_jednotne": "{0} coulomb",
+      "vzor_mnozne": "{0} coulombů",
+      "kratky_vzor": "{0} C",
+      "uzky_vzor": "{0} C"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-farad",
+      "kategorie": "electric",
+      "nazev": "farady",
+      "vzor_jednotne": "{0} farad",
+      "vzor_mnozne": "{0} faradů",
+      "kratky_vzor": "{0} F",
+      "uzky_vzor": "{0} F"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-henry",
+      "kategorie": "electric",
+      "nazev": "henry",
+      "vzor_jednotne": "{0} henry",
+      "vzor_mnozne": "{0} henry",
+      "kratky_vzor": "{0} H",
+      "uzky_vzor": "{0} H"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-milliampere",
+      "kategorie": "electric",
+      "nazev": "miliampéry",
+      "vzor_jednotne": "{0} miliampér",
+      "vzor_mnozne": "{0} miliampérů",
+      "kratky_vzor": "{0} mA",
+      "uzky_vzor": "{0} mA"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-ohm",
+      "kategorie": "electric",
+      "nazev": "ohmy",
+      "vzor_jednotne": "{0} ohm",
+      "vzor_mnozne": "{0} ohmů",
+      "kratky_vzor": "{0} Ω",
+      "uzky_vzor": "{0} Ω"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-siemens",
+      "kategorie": "electric",
+      "nazev": "siemensy",
+      "vzor_jednotne": "{0} siemens",
+      "vzor_mnozne": "{0} siemensů",
+      "kratky_vzor": "{0} S",
+      "uzky_vzor": "{0} S"
+    },
+    {
+      "id": 73,
+      "unit_code": "electric-volt",
+      "kategorie": "electric",
+      "nazev": "volty",
+      "vzor_jednotne": "{0} volt",
+      "vzor_mnozne": "{0} voltů",
+      "kratky_vzor": "{0} V",
+      "uzky_vzor": "{0} V"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-becquerel",
+      "kategorie": "energy",
+      "nazev": "becquerely",
+      "vzor_jednotne": "{0} becquerel",
+      "vzor_mnozne": "{0} becquerelů",
+      "kratky_vzor": "{0} Bq",
+      "uzky_vzor": "{0} Bq"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit",
+      "kategorie": "energy",
+      "nazev": "britské tepelné jednotky",
+      "vzor_jednotne": "{0} britská tepelná jednotka",
+      "vzor_mnozne": "{0} britských tepelných jednotek",
+      "kratky_vzor": "{0} BTU",
+      "uzky_vzor": "{0} BTU"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategorie": "energy",
+      "nazev": "BTU-IT",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} BTU-IT",
+      "kratky_vzor": "{0} BTU-IT",
+      "uzky_vzor": "{0} BTU-IT"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie",
+      "kategorie": "energy",
+      "nazev": "kalorie",
+      "vzor_jednotne": "{0} kalorie",
+      "vzor_mnozne": "{0} kalorií",
+      "kratky_vzor": "{0} cal",
+      "uzky_vzor": "{0} cal"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-calorie-it",
+      "kategorie": "energy",
+      "nazev": "kalorie-IT",
+      "vzor_jednotne": "{0} kalorie-IT",
+      "vzor_mnozne": "{0} kalorií-IT",
+      "kratky_vzor": "{0} cal-IT",
+      "uzky_vzor": "{0} cal-IT"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-electronvolt",
+      "kategorie": "energy",
+      "nazev": "elektronvolty",
+      "vzor_jednotne": "{0} elektronvolt",
+      "vzor_mnozne": "{0} elektronvoltů",
+      "kratky_vzor": "{0} eV",
+      "uzky_vzor": "{0} eV"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-foodcalorie",
+      "kategorie": "energy",
+      "nazev": "kilokalorie",
+      "vzor_jednotne": "{0} kilokalorie",
+      "vzor_mnozne": "{0} kilokalorií",
+      "kratky_vzor": "",
+      "uzky_vzor": ""
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-gray",
+      "kategorie": "energy",
+      "nazev": "graye",
+      "vzor_jednotne": "{0} gray",
+      "vzor_mnozne": "{0} grayů",
+      "kratky_vzor": "{0} Gy",
+      "uzky_vzor": "{0} Gy"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-joule",
+      "kategorie": "energy",
+      "nazev": "jouly",
+      "vzor_jednotne": "{0} joule",
+      "vzor_mnozne": "{0} joulů",
+      "kratky_vzor": "{0} J",
+      "uzky_vzor": "{0} J"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilocalorie",
+      "kategorie": "energy",
+      "nazev": "kilokalorie",
+      "vzor_jednotne": "{0} kilokalorie",
+      "vzor_mnozne": "{0} kilokalorií",
+      "kratky_vzor": "{0} kcal",
+      "uzky_vzor": "{0} kcal"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilojoule",
+      "kategorie": "energy",
+      "nazev": "kilojouly",
+      "vzor_jednotne": "{0} kilojoule",
+      "vzor_mnozne": "{0} kilojoulů",
+      "kratky_vzor": "{0} kJ",
+      "uzky_vzor": "{0} kJ"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-kilowatt-hour",
+      "kategorie": "energy",
+      "nazev": "kilowatthodiny",
+      "vzor_jednotne": "{0} kilowatthodina",
+      "vzor_mnozne": "{0} kilowatthodin",
+      "kratky_vzor": "{0} kWh",
+      "uzky_vzor": "{0} kWh"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-sievert",
+      "kategorie": "energy",
+      "nazev": "sieverty",
+      "vzor_jednotne": "{0} sievert",
+      "vzor_mnozne": "{0} sievertu",
+      "kratky_vzor": "{0} Sv",
+      "uzky_vzor": "{0} Sv"
+    },
+    {
+      "id": 87,
+      "unit_code": "energy-therm-us",
+      "kategorie": "energy",
+      "nazev": "thermy",
+      "vzor_jednotne": "{0} therm",
+      "vzor_mnozne": "{0} thermů",
+      "kratky_vzor": "{0} therm",
+      "uzky_vzor": "{0} therm"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilogram-force",
+      "kategorie": "force",
+      "nazev": "kilogramy síly",
+      "vzor_jednotne": "{0} kilogram síly",
+      "vzor_mnozne": "{0} kilogramů síly",
+      "kratky_vzor": "{0} kgf",
+      "uzky_vzor": "{0} kgf"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategorie": "force",
+      "nazev": "kilowatthodiny na sto kilometrů",
+      "vzor_jednotne": "{0} kilowatthodina na sto kilometrů",
+      "vzor_mnozne": "{0} kilowatthodin na sto kilometrů",
+      "kratky_vzor": "{0} kWh/100km",
+      "uzky_vzor": "{0} kWh/100km"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-newton",
+      "kategorie": "force",
+      "nazev": "newtony",
+      "vzor_jednotne": "{0} newton",
+      "vzor_mnozne": "{0} newtonů",
+      "kratky_vzor": "{0} N",
+      "uzky_vzor": "{0} N"
+    },
+    {
+      "id": 91,
+      "unit_code": "force-pound-force",
+      "kategorie": "force",
+      "nazev": "libry síly",
+      "vzor_jednotne": "{0} libra síly",
+      "vzor_mnozne": "{0} liber síly",
+      "kratky_vzor": "{0} lbf",
+      "uzky_vzor": "{0} lbf"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-gigahertz",
+      "kategorie": "frequency",
+      "nazev": "gigahertzy",
+      "vzor_jednotne": "{0} gigahertz",
+      "vzor_mnozne": "{0} gigahertzů",
+      "kratky_vzor": "{0} GHz",
+      "uzky_vzor": "{0} GHz"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-hertz",
+      "kategorie": "frequency",
+      "nazev": "hertzy",
+      "vzor_jednotne": "{0} hertz",
+      "vzor_mnozne": "{0} hertzů",
+      "kratky_vzor": "{0} Hz",
+      "uzky_vzor": "{0} Hz"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-kilohertz",
+      "kategorie": "frequency",
+      "nazev": "kilohertzy",
+      "vzor_jednotne": "{0} kilohertz",
+      "vzor_mnozne": "{0} kilohertzů",
+      "kratky_vzor": "{0} kHz",
+      "uzky_vzor": "{0} kHz"
+    },
+    {
+      "id": 95,
+      "unit_code": "frequency-megahertz",
+      "kategorie": "frequency",
+      "nazev": "megahertzy",
+      "vzor_jednotne": "{0} megahertz",
+      "vzor_mnozne": "{0} megahertzů",
+      "kratky_vzor": "{0} MHz",
+      "uzky_vzor": "{0} MHz"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot",
+      "kategorie": "graphics",
+      "nazev": "obrazové body",
+      "vzor_jednotne": "{0} obrazový bod",
+      "vzor_mnozne": "{0} obrazových bodů",
+      "kratky_vzor": "",
+      "uzky_vzor": ""
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategorie": "graphics",
+      "nazev": "body na centimetr",
+      "vzor_jednotne": "{0} bod na centimetr",
+      "vzor_mnozne": "{0} bodů na centimetr",
+      "kratky_vzor": "{0} DPCM",
+      "uzky_vzor": "{0} DPCM"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-dot-per-inch",
+      "kategorie": "graphics",
+      "nazev": "body na palec",
+      "vzor_jednotne": "{0} bod na palec",
+      "vzor_mnozne": "{0} bodů na palec",
+      "kratky_vzor": "{0} DPI",
+      "uzky_vzor": "{0} DPI"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-em",
+      "kategorie": "graphics",
+      "nazev": "čtverčíky",
+      "vzor_jednotne": "{0} čtverčík",
+      "vzor_mnozne": "{0} čtverčíků",
+      "kratky_vzor": "{0} em",
+      "uzky_vzor": "{0} em"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-megapixel",
+      "kategorie": "graphics",
+      "nazev": "megapixely",
+      "vzor_jednotne": "{0} megapixel",
+      "vzor_mnozne": "{0} megapixelů",
+      "kratky_vzor": "{0} Mpx",
+      "uzky_vzor": "{0} Mpx"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel",
+      "kategorie": "graphics",
+      "nazev": "pixely",
+      "vzor_jednotne": "{0} pixel",
+      "vzor_mnozne": "{0} pixelů",
+      "kratky_vzor": "{0} px",
+      "uzky_vzor": "{0} px"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategorie": "graphics",
+      "nazev": "pixely na centimetr",
+      "vzor_jednotne": "{0} pixel na centimetr",
+      "vzor_mnozne": "{0} pixelů na centimetr",
+      "kratky_vzor": "{0} PPCM",
+      "uzky_vzor": "{0} PPCM"
+    },
+    {
+      "id": 103,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategorie": "graphics",
+      "nazev": "pixely na palec",
+      "vzor_jednotne": "{0} pixel na palec",
+      "vzor_mnozne": "{0} pixelů na palec",
+      "kratky_vzor": "{0} PPI",
+      "uzky_vzor": "{0} PPI"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-astronomical-unit",
+      "kategorie": "length",
+      "nazev": "astronomické jednotky",
+      "vzor_jednotne": "{0} astronomická jednotka",
+      "vzor_mnozne": "{0} astronomických jednotek",
+      "kratky_vzor": "{0} au",
+      "uzky_vzor": "{0} au"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-centimeter",
+      "kategorie": "length",
+      "nazev": "centimetry",
+      "vzor_jednotne": "{0} centimetr",
+      "vzor_mnozne": "{0} centimetrů",
+      "kratky_vzor": "{0} cm",
+      "uzky_vzor": "{0} cm"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-chain",
+      "kategorie": "length",
+      "nazev": "chain",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} chain",
+      "kratky_vzor": "{0} chain",
+      "uzky_vzor": "{0} chain"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-decimeter",
+      "kategorie": "length",
+      "nazev": "decimetry",
+      "vzor_jednotne": "{0} decimetr",
+      "vzor_mnozne": "{0} decimetrů",
+      "kratky_vzor": "{0} dm",
+      "uzky_vzor": "{0} dm"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-earth-radius",
+      "kategorie": "length",
+      "nazev": "poloměr Země",
+      "vzor_jednotne": "{0} poloměr Země",
+      "vzor_mnozne": "{0} poloměrů Země",
+      "kratky_vzor": "{0} R⊕",
+      "uzky_vzor": "{0} R⊕"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-fathom",
+      "kategorie": "length",
+      "nazev": "sáhy",
+      "vzor_jednotne": "{0} sáh",
+      "vzor_mnozne": "{0} sáhů",
+      "kratky_vzor": "{0} fth",
+      "uzky_vzor": "{0} fth"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-foot",
+      "kategorie": "length",
+      "nazev": "stopy",
+      "vzor_jednotne": "{0} stopa",
+      "vzor_mnozne": "{0} stop",
+      "kratky_vzor": "{0} ft",
+      "uzky_vzor": "{0}′"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-furlong",
+      "kategorie": "length",
+      "nazev": "furlongy",
+      "vzor_jednotne": "{0} furlong",
+      "vzor_mnozne": "{0} furlongů",
+      "kratky_vzor": "{0} fur",
+      "uzky_vzor": "{0} fur"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-inch",
+      "kategorie": "length",
+      "nazev": "palce",
+      "vzor_jednotne": "{0} palec",
+      "vzor_mnozne": "{0} palců",
+      "kratky_vzor": "{0} in",
+      "uzky_vzor": "{0}″"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-jo-jp",
+      "kategorie": "length",
+      "nazev": "jo [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} jo [JP]",
+      "kratky_vzor": "{0} jo [JP]",
+      "uzky_vzor": "{0} jo [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-ken",
+      "kategorie": "length",
+      "nazev": "ken [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} ken [JP]",
+      "kratky_vzor": "{0} ken [JP]",
+      "uzky_vzor": "{0} ken [JP]"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-kilometer",
+      "kategorie": "length",
+      "nazev": "kilometry",
+      "vzor_jednotne": "{0} kilometr",
+      "vzor_mnozne": "{0} kilometrů",
+      "kratky_vzor": "{0} km",
+      "uzky_vzor": "{0} km"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-light-year",
+      "kategorie": "length",
+      "nazev": "světelné roky",
+      "vzor_jednotne": "{0} světelný rok",
+      "vzor_mnozne": "{0} světelných let",
+      "kratky_vzor": "{0} ly",
+      "uzky_vzor": "{0} ly"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-meter",
+      "kategorie": "length",
+      "nazev": "metry",
+      "vzor_jednotne": "{0} metr",
+      "vzor_mnozne": "{0} metrů",
+      "kratky_vzor": "{0} m",
+      "uzky_vzor": "{0} m"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-micrometer",
+      "kategorie": "length",
+      "nazev": "mikrometry",
+      "vzor_jednotne": "{0} mikrometr",
+      "vzor_mnozne": "{0} mikrometrů",
+      "kratky_vzor": "{0} μm",
+      "uzky_vzor": "{0} μm"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile",
+      "kategorie": "length",
+      "nazev": "míle",
+      "vzor_jednotne": "{0} míle",
+      "vzor_mnozne": "{0} mil",
+      "kratky_vzor": "{0} mi",
+      "uzky_vzor": "{0} mi"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-mile-scandinavian",
+      "kategorie": "length",
+      "nazev": "skandinávské míle",
+      "vzor_jednotne": "{0} skandinávská míle",
+      "vzor_mnozne": "{0} skandinávských mil",
+      "kratky_vzor": "{0} smi",
+      "uzky_vzor": "{0} smi"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-millimeter",
+      "kategorie": "length",
+      "nazev": "milimetry",
+      "vzor_jednotne": "{0} milimetr",
+      "vzor_mnozne": "{0} milimetrů",
+      "kratky_vzor": "{0} mm",
+      "uzky_vzor": "{0} mm"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nanometer",
+      "kategorie": "length",
+      "nazev": "nanometry",
+      "vzor_jednotne": "{0} nanometr",
+      "vzor_mnozne": "{0} nanometrů",
+      "kratky_vzor": "{0} nm",
+      "uzky_vzor": "{0} nm"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-nautical-mile",
+      "kategorie": "length",
+      "nazev": "námořní míle",
+      "vzor_jednotne": "{0} námořní míle",
+      "vzor_mnozne": "{0} námořních mil",
+      "kratky_vzor": "{0} nmi",
+      "uzky_vzor": "{0} nmi"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-parsec",
+      "kategorie": "length",
+      "nazev": "parseky",
+      "vzor_jednotne": "{0} parsek",
+      "vzor_mnozne": "{0} parseků",
+      "kratky_vzor": "{0} pc",
+      "uzky_vzor": "{0} pc"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-picometer",
+      "kategorie": "length",
+      "nazev": "pikometry",
+      "vzor_jednotne": "{0} pikometr",
+      "vzor_mnozne": "{0} pikometrů",
+      "kratky_vzor": "{0} pm",
+      "uzky_vzor": "{0} pm"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-point",
+      "kategorie": "length",
+      "nazev": "body",
+      "vzor_jednotne": "{0} bod",
+      "vzor_mnozne": "{0} bodů",
+      "kratky_vzor": "{0} pt",
+      "uzky_vzor": "{0} pt"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-ri-jp",
+      "kategorie": "length",
+      "nazev": "ri [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} ri [JP]",
+      "kratky_vzor": "{0} ri [JP]",
+      "uzky_vzor": "{0} ri [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rin",
+      "kategorie": "length",
+      "nazev": "rin [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} rin [JP]",
+      "kratky_vzor": "{0} rin [JP]",
+      "uzky_vzor": "{0} rin [JP]"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-rod",
+      "kategorie": "length",
+      "nazev": "rod",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} rod",
+      "kratky_vzor": "{0} rod",
+      "uzky_vzor": "{0} rod"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-cloth",
+      "kategorie": "length",
+      "nazev": "shaku [cloth, JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} shaku [cloth, JP]",
+      "kratky_vzor": "{0} shaku [cloth, JP]",
+      "uzky_vzor": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-shaku-length",
+      "kategorie": "length",
+      "nazev": "shaku [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} shaku [JP]",
+      "kratky_vzor": "{0} shaku [JP]",
+      "uzky_vzor": "{0} shaku [JP]"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-solar-radius",
+      "kategorie": "length",
+      "nazev": "poloměr Slunce",
+      "vzor_jednotne": "{0} poloměr Slunce",
+      "vzor_mnozne": "{0} poloměrů Slunce",
+      "kratky_vzor": "{0} R☉",
+      "uzky_vzor": "{0} R☉"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-sun",
+      "kategorie": "length",
+      "nazev": "sun [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} sun [JP]",
+      "kratky_vzor": "{0} sun [JP]",
+      "uzky_vzor": "{0} sun [JP]"
+    },
+    {
+      "id": 134,
+      "unit_code": "length-yard",
+      "kategorie": "length",
+      "nazev": "yardy",
+      "vzor_jednotne": "{0} yard",
+      "vzor_mnozne": "{0} yardů",
+      "kratky_vzor": "{0} yd",
+      "uzky_vzor": "{0} yd"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-candela",
+      "kategorie": "light",
+      "nazev": "kandely",
+      "vzor_jednotne": "{0} kandela",
+      "vzor_mnozne": "{0} kandel",
+      "kratky_vzor": "{0} cd",
+      "uzky_vzor": "{0} cd"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lumen",
+      "kategorie": "light",
+      "nazev": "lumeny",
+      "vzor_jednotne": "{0} lumen",
+      "vzor_mnozne": "{0} lumenů",
+      "kratky_vzor": "{0} lm",
+      "uzky_vzor": "{0} lm"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-lux",
+      "kategorie": "light",
+      "nazev": "luxy",
+      "vzor_jednotne": "{0} lux",
+      "vzor_mnozne": "{0} luxů",
+      "kratky_vzor": "{0} lx",
+      "uzky_vzor": "{0} lx"
+    },
+    {
+      "id": 138,
+      "unit_code": "light-solar-luminosity",
+      "kategorie": "light",
+      "nazev": "zářivé výkony Slunce",
+      "vzor_jednotne": "{0} zářivý výkon Slunce",
+      "vzor_mnozne": "{0} zářivých výkonů Slunce",
+      "kratky_vzor": "{0} L☉",
+      "uzky_vzor": "{0} L☉"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-tesla",
+      "kategorie": "magnetic",
+      "nazev": "tesly",
+      "vzor_jednotne": "{0} tesla",
+      "vzor_mnozne": "{0} tesel",
+      "kratky_vzor": "{0} T",
+      "uzky_vzor": "{0} T"
+    },
+    {
+      "id": 140,
+      "unit_code": "magnetic-weber",
+      "kategorie": "magnetic",
+      "nazev": "webery",
+      "vzor_jednotne": "{0} weber",
+      "vzor_mnozne": "{0} weberů",
+      "kratky_vzor": "{0} Wb",
+      "uzky_vzor": "{0} Wb"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-carat",
+      "kategorie": "mass",
+      "nazev": "karáty",
+      "vzor_jednotne": "{0} karát",
+      "vzor_mnozne": "{0} karátů",
+      "kratky_vzor": "{0} CD",
+      "uzky_vzor": "{0} CD"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-dalton",
+      "kategorie": "mass",
+      "nazev": "daltony",
+      "vzor_jednotne": "{0} dalton",
+      "vzor_mnozne": "{0} daltonů",
+      "kratky_vzor": "{0} Da",
+      "uzky_vzor": "{0} Da"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-earth-mass",
+      "kategorie": "mass",
+      "nazev": "hmotnosti Země",
+      "vzor_jednotne": "{0} hmotnost Země",
+      "vzor_mnozne": "{0} hmotností Země",
+      "kratky_vzor": "{0} M⊕",
+      "uzky_vzor": "{0} M⊕"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-fun",
+      "kategorie": "mass",
+      "nazev": "fun [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} fun [JP]",
+      "kratky_vzor": "{0} fun [JP]",
+      "uzky_vzor": "{0} fun [JP]"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-grain",
+      "kategorie": "mass",
+      "nazev": "grainy",
+      "vzor_jednotne": "{0} grain",
+      "vzor_mnozne": "{0} grainů",
+      "kratky_vzor": "{0} gr",
+      "uzky_vzor": "{0} gr"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-gram",
+      "kategorie": "mass",
+      "nazev": "gramy",
+      "vzor_jednotne": "{0} gram",
+      "vzor_mnozne": "{0} gramů",
+      "kratky_vzor": "{0} g",
+      "uzky_vzor": "{0} g"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-kilogram",
+      "kategorie": "mass",
+      "nazev": "kilogramy",
+      "vzor_jednotne": "{0} kilogram",
+      "vzor_mnozne": "{0} kilogramů",
+      "kratky_vzor": "{0} kg",
+      "uzky_vzor": "{0} kg"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-microgram",
+      "kategorie": "mass",
+      "nazev": "mikrogramy",
+      "vzor_jednotne": "{0} mikrogram",
+      "vzor_mnozne": "{0} mikrogramů",
+      "kratky_vzor": "{0} μg",
+      "uzky_vzor": "{0} μg"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-milligram",
+      "kategorie": "mass",
+      "nazev": "miligramy",
+      "vzor_jednotne": "{0} miligram",
+      "vzor_mnozne": "{0} miligramů",
+      "kratky_vzor": "{0} mg",
+      "uzky_vzor": "{0} mg"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce",
+      "kategorie": "mass",
+      "nazev": "unce",
+      "vzor_jednotne": "{0} unce",
+      "vzor_mnozne": "{0} uncí",
+      "kratky_vzor": "{0} oz",
+      "uzky_vzor": "{0} oz"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-ounce-troy",
+      "kategorie": "mass",
+      "nazev": "trojské unce",
+      "vzor_jednotne": "{0} trojská unce",
+      "vzor_mnozne": "{0} trojských uncí",
+      "kratky_vzor": "{0} oz t",
+      "uzky_vzor": "{0} oz t"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-pound",
+      "kategorie": "mass",
+      "nazev": "libry",
+      "vzor_jednotne": "{0} libra",
+      "vzor_mnozne": "{0} liber",
+      "kratky_vzor": "{0} lb",
+      "uzky_vzor": "{0} lb"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-slug",
+      "kategorie": "mass",
+      "nazev": "slug",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} slug",
+      "kratky_vzor": "{0} slug",
+      "uzky_vzor": "{0} slug"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-solar-mass",
+      "kategorie": "mass",
+      "nazev": "hmotnosti Slunce",
+      "vzor_jednotne": "{0} hmotnost Slunce",
+      "vzor_mnozne": "{0} hmotností Slunce",
+      "kratky_vzor": "{0} M☉",
+      "uzky_vzor": "{0} M☉"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-stone",
+      "kategorie": "mass",
+      "nazev": "kameny",
+      "vzor_jednotne": "{0} kámen",
+      "vzor_mnozne": "{0} kamenů",
+      "kratky_vzor": "{0} st",
+      "uzky_vzor": "{0} st"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-ton",
+      "kategorie": "mass",
+      "nazev": "americké tuny",
+      "vzor_jednotne": "{0} americká tuna",
+      "vzor_mnozne": "{0} amerických tun",
+      "kratky_vzor": "{0} sht",
+      "uzky_vzor": "{0} sht"
+    },
+    {
+      "id": 157,
+      "unit_code": "mass-tonne",
+      "kategorie": "mass",
+      "nazev": "tuny",
+      "vzor_jednotne": "{0} tuna",
+      "vzor_mnozne": "{0} tun",
+      "kratky_vzor": "{0} t",
+      "uzky_vzor": "{0} t"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-gigawatt",
+      "kategorie": "power",
+      "nazev": "gigawatty",
+      "vzor_jednotne": "{0} gigawatt",
+      "vzor_mnozne": "{0} gigawattů",
+      "kratky_vzor": "{0} GW",
+      "uzky_vzor": "{0} GW"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-horsepower",
+      "kategorie": "power",
+      "nazev": "koňská síla",
+      "vzor_jednotne": "{0} koňská síla",
+      "vzor_mnozne": "{0} koňských sil",
+      "kratky_vzor": "{0} hp",
+      "uzky_vzor": "{0} hp"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-kilowatt",
+      "kategorie": "power",
+      "nazev": "kilowatty",
+      "vzor_jednotne": "{0} kilowatt",
+      "vzor_mnozne": "{0} kilowattů",
+      "kratky_vzor": "{0} kW",
+      "uzky_vzor": "{0} kW"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-megawatt",
+      "kategorie": "power",
+      "nazev": "megawatty",
+      "vzor_jednotne": "{0} megawatt",
+      "vzor_mnozne": "{0} megawattů",
+      "kratky_vzor": "{0} MW",
+      "uzky_vzor": "{0} MW"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-milliwatt",
+      "kategorie": "power",
+      "nazev": "miliwatty",
+      "vzor_jednotne": "{0} miliwatt",
+      "vzor_mnozne": "{0} miliwattů",
+      "kratky_vzor": "{0} mW",
+      "uzky_vzor": "{0} mW"
+    },
+    {
+      "id": 163,
+      "unit_code": "power-watt",
+      "kategorie": "power",
+      "nazev": "watty",
+      "vzor_jednotne": "{0} watt",
+      "vzor_mnozne": "{0} wattů",
+      "kratky_vzor": "{0} W",
+      "uzky_vzor": "{0} W"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-atmosphere",
+      "kategorie": "pressure",
+      "nazev": "atmosféry",
+      "vzor_jednotne": "{0} atmosféra",
+      "vzor_mnozne": "{0} atmosfér",
+      "kratky_vzor": "{0} atm",
+      "uzky_vzor": "{0} atm"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-bar",
+      "kategorie": "pressure",
+      "nazev": "bary",
+      "vzor_jednotne": "{0} bar",
+      "vzor_mnozne": "{0} barů",
+      "kratky_vzor": "{0} bar",
+      "uzky_vzor": "{0} bar"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategorie": "pressure",
+      "nazev": "gas E",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} gas E",
+      "kratky_vzor": "{0} gas E",
+      "uzky_vzor": "{0} gas E"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-hectopascal",
+      "kategorie": "pressure",
+      "nazev": "hektopascaly",
+      "vzor_jednotne": "{0} hektopascal",
+      "vzor_mnozne": "{0} hektopascalů",
+      "kratky_vzor": "{0} hPa",
+      "uzky_vzor": "{0} hPa"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-inch-ofhg",
+      "kategorie": "pressure",
+      "nazev": "palce rtuťového sloupce",
+      "vzor_jednotne": "{0} palec rtuťového sloupce",
+      "vzor_mnozne": "{0} palců rtuťového sloupce",
+      "kratky_vzor": "{0} inHg",
+      "uzky_vzor": "{0}″ Hg"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-kilopascal",
+      "kategorie": "pressure",
+      "nazev": "kilopascaly",
+      "vzor_jednotne": "{0} kilopascal",
+      "vzor_mnozne": "{0} kilopascalů",
+      "kratky_vzor": "{0} kPa",
+      "uzky_vzor": "{0} kPa"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-megapascal",
+      "kategorie": "pressure",
+      "nazev": "megapascaly",
+      "vzor_jednotne": "{0} megapascal",
+      "vzor_mnozne": "{0} megapascalů",
+      "kratky_vzor": "{0} MPa",
+      "uzky_vzor": "{0} MPa"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millibar",
+      "kategorie": "pressure",
+      "nazev": "milibary",
+      "vzor_jednotne": "{0} milibar",
+      "vzor_mnozne": "{0} milibarů",
+      "kratky_vzor": "{0} mb",
+      "uzky_vzor": "{0} mb"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategorie": "pressure",
+      "nazev": "milimetry rtuťového sloupce",
+      "vzor_jednotne": "{0} milimetr rtuťového sloupce",
+      "vzor_mnozne": "{0} milimetrů rtuťového sloupce",
+      "kratky_vzor": "{0} mm Hg",
+      "uzky_vzor": "{0} mmHg"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-ofhg",
+      "kategorie": "pressure",
+      "nazev": "rtuťový sloupec",
+      "vzor_jednotne": "{0} rtuťového sloupce",
+      "vzor_mnozne": "{0} rtuťového sloupce",
+      "kratky_vzor": "{0} Hg",
+      "uzky_vzor": "{0} Hg"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pascal",
+      "kategorie": "pressure",
+      "nazev": "pascaly",
+      "vzor_jednotne": "{0} pascal",
+      "vzor_mnozne": "{0} pascalů",
+      "kratky_vzor": "{0} Pa",
+      "uzky_vzor": "{0} Pa"
+    },
+    {
+      "id": 175,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategorie": "pressure",
+      "nazev": "libry na čtvereční palec",
+      "vzor_jednotne": "{0} libra na čtvereční palec",
+      "vzor_mnozne": "{0} liber na čtvereční palec",
+      "kratky_vzor": "{0} psi",
+      "uzky_vzor": "{0} psi"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-beaufort",
+      "kategorie": "speed",
+      "nazev": "stupně Beaufortovy stupnice",
+      "vzor_jednotne": "{0}. stupeň Beaufortovy stupnice",
+      "vzor_mnozne": "{0}. stupeň Beaufortovy stupnice",
+      "kratky_vzor": "{0} Bft",
+      "uzky_vzor": "{0} Bft"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategorie": "speed",
+      "nazev": "kilometry za hodinu",
+      "vzor_jednotne": "{0} kilometr za hodinu",
+      "vzor_mnozne": "{0} kilometrů za hodinu",
+      "kratky_vzor": "{0} km/h",
+      "uzky_vzor": "{0} km/h"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-knot",
+      "kategorie": "speed",
+      "nazev": "uzly",
+      "vzor_jednotne": "{0} uzel",
+      "vzor_mnozne": "{0} uzlů",
+      "kratky_vzor": "{0} kn",
+      "uzky_vzor": "{0} kn"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-light-speed",
+      "kategorie": "speed",
+      "nazev": "světlo",
+      "vzor_jednotne": "{0} světlo",
+      "vzor_mnozne": "{0} světel",
+      "kratky_vzor": "{0} světel",
+      "uzky_vzor": "{0} sv."
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-meter-per-second",
+      "kategorie": "speed",
+      "nazev": "metry za sekundu",
+      "vzor_jednotne": "{0} metr za sekundu",
+      "vzor_mnozne": "{0} metrů za sekundu",
+      "kratky_vzor": "{0} m/s",
+      "uzky_vzor": "{0} m/s"
+    },
+    {
+      "id": 181,
+      "unit_code": "speed-mile-per-hour",
+      "kategorie": "speed",
+      "nazev": "míle za hodinu",
+      "vzor_jednotne": "{0} míle za hodinu",
+      "vzor_mnozne": "{0} mil za hodinu",
+      "kratky_vzor": "{0} mi/h",
+      "uzky_vzor": "{0} mi/h"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-celsius",
+      "kategorie": "temperature",
+      "nazev": "stupně Celsia",
+      "vzor_jednotne": "{0} stupeň Celsia",
+      "vzor_mnozne": "{0} stupňů Celsia",
+      "kratky_vzor": "{0} °C",
+      "uzky_vzor": "{0} °C"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-fahrenheit",
+      "kategorie": "temperature",
+      "nazev": "stupně Fahrenheita",
+      "vzor_jednotne": "{0} stupeň Fahrenheita",
+      "vzor_mnozne": "{0} stupňů Fahrenheita",
+      "kratky_vzor": "{0} °F",
+      "uzky_vzor": "{0} °F"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-generic",
+      "kategorie": "temperature",
+      "nazev": "stupně",
+      "vzor_jednotne": "{0} stupeň",
+      "vzor_mnozne": "{0} stupňů",
+      "kratky_vzor": "{0}°",
+      "uzky_vzor": "{0}°"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-kelvin",
+      "kategorie": "temperature",
+      "nazev": "kelviny",
+      "vzor_jednotne": "{0} kelvin",
+      "vzor_mnozne": "{0} kelvinů",
+      "kratky_vzor": "{0} K",
+      "uzky_vzor": "{0} K"
+    },
+    {
+      "id": 186,
+      "unit_code": "temperature-rankine",
+      "kategorie": "temperature",
+      "nazev": "°R",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} °R",
+      "kratky_vzor": "{0} °R",
+      "uzky_vzor": "{0} °R"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-newton-meter",
+      "kategorie": "torque",
+      "nazev": "newtonmetry",
+      "vzor_jednotne": "{0} newtonmetr",
+      "vzor_mnozne": "{0} newtonmetrů",
+      "kratky_vzor": "{0} Nm",
+      "uzky_vzor": "{0} Nm"
+    },
+    {
+      "id": 188,
+      "unit_code": "torque-pound-force-foot",
+      "kategorie": "torque",
+      "nazev": "librostopy",
+      "vzor_jednotne": "{0} librostopa",
+      "vzor_mnozne": "{0} librostop",
+      "kratky_vzor": "{0} lbf⋅ft",
+      "uzky_vzor": "{0} lbf⋅ft"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-acre-foot",
+      "kategorie": "volume",
+      "nazev": "akro-stopy",
+      "vzor_jednotne": "{0} akro-stopa",
+      "vzor_mnozne": "{0} akro-stop",
+      "kratky_vzor": "{0} ac ft",
+      "uzky_vzor": "{0} ac ft"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-barrel",
+      "kategorie": "volume",
+      "nazev": "barely",
+      "vzor_jednotne": "{0} barel",
+      "vzor_mnozne": "{0} barelů",
+      "kratky_vzor": "{0} bbl",
+      "uzky_vzor": "{0} bbl"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-bushel",
+      "kategorie": "volume",
+      "nazev": "bušly",
+      "vzor_jednotne": "{0} bušl",
+      "vzor_mnozne": "{0} bušlů",
+      "kratky_vzor": "{0} bu",
+      "uzky_vzor": "{0} bu"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-centiliter",
+      "kategorie": "volume",
+      "nazev": "centilitry",
+      "vzor_jednotne": "{0} centilitr",
+      "vzor_mnozne": "{0} centilitrů",
+      "kratky_vzor": "{0} cl",
+      "uzky_vzor": "{0} cl"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-centimeter",
+      "kategorie": "volume",
+      "nazev": "centimetry krychlové",
+      "vzor_jednotne": "{0} centimetr krychlový",
+      "vzor_mnozne": "{0} centimetrů krychlových",
+      "kratky_vzor": "{0} cm³",
+      "uzky_vzor": "{0} cm³"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-foot",
+      "kategorie": "volume",
+      "nazev": "stopy krychlové",
+      "vzor_jednotne": "{0} stopa krychlová",
+      "vzor_mnozne": "{0} stop krychlových",
+      "kratky_vzor": "{0} ft³",
+      "uzky_vzor": "{0} ft³"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-inch",
+      "kategorie": "volume",
+      "nazev": "palce krychlové",
+      "vzor_jednotne": "{0} palec krychlový",
+      "vzor_mnozne": "{0} palců krychlových",
+      "kratky_vzor": "{0} in³",
+      "uzky_vzor": "{0} in³"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-kilometer",
+      "kategorie": "volume",
+      "nazev": "kilometry krychlové",
+      "vzor_jednotne": "{0} kilometr krychlový",
+      "vzor_mnozne": "{0} kilometrů krychlových",
+      "kratky_vzor": "{0} km³",
+      "uzky_vzor": "{0} km³"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-meter",
+      "kategorie": "volume",
+      "nazev": "metry krychlové",
+      "vzor_jednotne": "{0} metr krychlový",
+      "vzor_mnozne": "{0} metrů krychlových",
+      "kratky_vzor": "{0} m³",
+      "uzky_vzor": "{0} m³"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-mile",
+      "kategorie": "volume",
+      "nazev": "míle krychlové",
+      "vzor_jednotne": "{0} míle krychlová",
+      "vzor_mnozne": "{0} mil krychlových",
+      "kratky_vzor": "{0} mi³",
+      "uzky_vzor": "{0} mi³"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cubic-yard",
+      "kategorie": "volume",
+      "nazev": "yardy krychlové",
+      "vzor_jednotne": "{0} yard krychlový",
+      "vzor_mnozne": "{0} yardů krychlových",
+      "kratky_vzor": "{0} yd³",
+      "uzky_vzor": "{0} yd³"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup",
+      "kategorie": "volume",
+      "nazev": "šálky",
+      "vzor_jednotne": "{0} šálek",
+      "vzor_mnozne": "{0} šálků",
+      "kratky_vzor": "{0} c",
+      "uzky_vzor": "{0} c"
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-imperial",
+      "kategorie": "volume",
+      "nazev": "cup Imp.",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} cup Imp.",
+      "kratky_vzor": "{0} cup Imp.",
+      "uzky_vzor": "{0} cup Imp."
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-jp",
+      "kategorie": "volume",
+      "nazev": "cup [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} cup [JP]",
+      "kratky_vzor": "{0} cup [JP]",
+      "uzky_vzor": "{0} cup [JP]"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-cup-metric",
+      "kategorie": "volume",
+      "nazev": "metrické šálky",
+      "vzor_jednotne": "{0} metrický šálek",
+      "vzor_mnozne": "{0} metrických šálků",
+      "kratky_vzor": "{0} mc",
+      "uzky_vzor": "{0} mc"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-deciliter",
+      "kategorie": "volume",
+      "nazev": "decilitry",
+      "vzor_jednotne": "{0} decilitr",
+      "vzor_mnozne": "{0} decilitrů",
+      "kratky_vzor": "{0} dl",
+      "uzky_vzor": "{0} dl"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon",
+      "kategorie": "volume",
+      "nazev": "dezertní lžičky",
+      "vzor_jednotne": "{0} dezertní lžička",
+      "vzor_mnozne": "{0} dezertních lžiček",
+      "kratky_vzor": "{0} dstspn",
+      "uzky_vzor": "{0} dstspn"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategorie": "volume",
+      "nazev": "britské dezertní lžičky",
+      "vzor_jednotne": "{0} britská dezertní lžička",
+      "vzor_mnozne": "{0} britských dezertních lžiček",
+      "kratky_vzor": "{0} dstspn Imp.",
+      "uzky_vzor": "{0} dspIm"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-dram",
+      "kategorie": "volume",
+      "nazev": "duté dramy",
+      "vzor_jednotne": "{0} dutý dram",
+      "vzor_mnozne": "{0} dutých dramů",
+      "kratky_vzor": "{0} fl dr",
+      "uzky_vzor": "{0} fl dr"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-drop",
+      "kategorie": "volume",
+      "nazev": "kapky",
+      "vzor_jednotne": "{0} kapka",
+      "vzor_mnozne": "{0} kapek",
+      "kratky_vzor": "{0} kapek",
+      "uzky_vzor": "{0} kapek"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce",
+      "kategorie": "volume",
+      "nazev": "duté unce",
+      "vzor_jednotne": "{0} dutá unce",
+      "vzor_mnozne": "{0} dutých uncí",
+      "kratky_vzor": "{0} fl oz",
+      "uzky_vzor": "{0} fl oz"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategorie": "volume",
+      "nazev": "britské duté unce",
+      "vzor_jednotne": "{0} britská dutá unce",
+      "vzor_mnozne": "{0} britských dutých uncí",
+      "kratky_vzor": "{0} fl oz Imp.",
+      "uzky_vzor": "{0} fl oz Im"
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategorie": "volume",
+      "nazev": "metrické duté unce",
+      "vzor_jednotne": "{0} metrická dutá unce",
+      "vzor_mnozne": "{0} metrických dutých uncí",
+      "kratky_vzor": "{0} fl oz m.",
+      "uzky_vzor": "{0} fl oz m."
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon",
+      "kategorie": "volume",
+      "nazev": "galony",
+      "vzor_jednotne": "{0} galon",
+      "vzor_mnozne": "{0} galonů",
+      "kratky_vzor": "{0} gal",
+      "uzky_vzor": "{0} gal"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-gallon-imperial",
+      "kategorie": "volume",
+      "nazev": "britské galony",
+      "vzor_jednotne": "{0} britský galon",
+      "vzor_mnozne": "{0} britských galonů",
+      "kratky_vzor": "{0} gal Imp.",
+      "uzky_vzor": "{0} galIm"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-hectoliter",
+      "kategorie": "volume",
+      "nazev": "hektolitry",
+      "vzor_jednotne": "{0} hektolitr",
+      "vzor_mnozne": "{0} hektolitrů",
+      "kratky_vzor": "{0} hl",
+      "uzky_vzor": "{0} hl"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-jigger",
+      "kategorie": "volume",
+      "nazev": "barmanské odměrky",
+      "vzor_jednotne": "{0} barmanská odměrka",
+      "vzor_mnozne": "{0} barmanských odměrek",
+      "kratky_vzor": "{0} odměrek",
+      "uzky_vzor": "{0} odm."
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-koku",
+      "kategorie": "volume",
+      "nazev": "koku [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} koku [JP]",
+      "kratky_vzor": "{0} koku [JP]",
+      "uzky_vzor": "{0} koku [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-kosaji",
+      "kategorie": "volume",
+      "nazev": "kosaji [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} kosaji [JP]",
+      "kratky_vzor": "{0} kosaji [JP]",
+      "uzky_vzor": "{0} kosaji [JP]"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-liter",
+      "kategorie": "volume",
+      "nazev": "litry",
+      "vzor_jednotne": "{0} litr",
+      "vzor_mnozne": "{0} litrů",
+      "kratky_vzor": "{0} l",
+      "uzky_vzor": "{0} l"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-megaliter",
+      "kategorie": "volume",
+      "nazev": "megalitry",
+      "vzor_jednotne": "{0} megalitr",
+      "vzor_mnozne": "{0} megalitrů",
+      "kratky_vzor": "{0} Ml",
+      "uzky_vzor": "{0} Ml"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-milliliter",
+      "kategorie": "volume",
+      "nazev": "mililitry",
+      "vzor_jednotne": "{0} mililitr",
+      "vzor_mnozne": "{0} mililitrů",
+      "kratky_vzor": "{0} ml",
+      "uzky_vzor": "{0} ml"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-osaji",
+      "kategorie": "volume",
+      "nazev": "osaji [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} osaji [JP]",
+      "kratky_vzor": "{0} osaji [JP]",
+      "uzky_vzor": "{0} osaji [JP]"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pinch",
+      "kategorie": "volume",
+      "nazev": "špetky",
+      "vzor_jednotne": "{0} špetka",
+      "vzor_mnozne": "{0} špetek",
+      "kratky_vzor": "{0} špetek",
+      "uzky_vzor": "{0} šp."
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint",
+      "kategorie": "volume",
+      "nazev": "pinty",
+      "vzor_jednotne": "{0} pinta",
+      "vzor_mnozne": "{0} pint",
+      "kratky_vzor": "{0} pt",
+      "uzky_vzor": "{0} pt"
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-imperial",
+      "kategorie": "volume",
+      "nazev": "pint Imp.",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} pt Imp.",
+      "kratky_vzor": "{0} pt Imp.",
+      "uzky_vzor": "{0} pt Imp."
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-pint-metric",
+      "kategorie": "volume",
+      "nazev": "metrické pinty",
+      "vzor_jednotne": "{0} metrická pinta",
+      "vzor_mnozne": "{0} metrických pint",
+      "kratky_vzor": "{0} mpt",
+      "uzky_vzor": "{0} mpt"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart",
+      "kategorie": "volume",
+      "nazev": "kvarty",
+      "vzor_jednotne": "{0} kvart",
+      "vzor_mnozne": "{0} kvartů",
+      "kratky_vzor": "{0} qt",
+      "uzky_vzor": "{0} qt"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-quart-imperial",
+      "kategorie": "volume",
+      "nazev": "britské kvarty",
+      "vzor_jednotne": "{0} britský kvart",
+      "vzor_mnozne": "{0} britských kvartů",
+      "kratky_vzor": "{0} qt Imp.",
+      "uzky_vzor": "{0} qt Imp."
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-sai",
+      "kategorie": "volume",
+      "nazev": "sai [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} sai [JP]",
+      "kratky_vzor": "{0} sai [JP]",
+      "uzky_vzor": "{0} sai [JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-shaku",
+      "kategorie": "volume",
+      "nazev": "shaku [vol, JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} shaku [vol, JP]",
+      "kratky_vzor": "{0} shaku [vol, JP]",
+      "uzky_vzor": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-tablespoon",
+      "kategorie": "volume",
+      "nazev": "lžíce",
+      "vzor_jednotne": "{0} lžíce",
+      "vzor_mnozne": "{0} lžic",
+      "kratky_vzor": "{0} tbsp",
+      "uzky_vzor": "{0} tbsp"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-teaspoon",
+      "kategorie": "volume",
+      "nazev": "lžičky",
+      "vzor_jednotne": "{0} lžička",
+      "vzor_mnozne": "{0} lžiček",
+      "kratky_vzor": "{0} tsp",
+      "uzky_vzor": "{0} tsp"
+    },
+    {
+      "id": 232,
+      "unit_code": "volume-to-jp",
+      "kategorie": "volume",
+      "nazev": "to [JP]",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} to [JP]",
+      "kratky_vzor": "{0} to [JP]",
+      "uzky_vzor": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky (CLDR, 232) - Stáhnout zdarma",
+    "description": "Měrné jednotky a jejich české názvy a vzory z CLDR cs-locale units.json (long/short/narrow). Obsahuje 232 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky (CLDR, 232) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky (CLDR, 232) — 232 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 232 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

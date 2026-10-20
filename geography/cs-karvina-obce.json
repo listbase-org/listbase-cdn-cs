@@ -1,0 +1,280 @@
+{
+  "id": "cs-karvina-obce",
+  "name": "Obce — okres Karviná",
+  "title": "Obce — okres Karviná",
+  "description": "Seznam všech 17 obcí okresu Karviná — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (17 municipalities of okres Karviná, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Albrechtice",
+      "code": "598925",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73543",
+      "latitude": 49.786552,
+      "longitude": 18.524545,
+      "slug": "albrechtice"
+    },
+    {
+      "name": "Bohumín",
+      "code": "599051",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73581",
+      "latitude": 49.904426,
+      "longitude": 18.357074,
+      "slug": "bohumin"
+    },
+    {
+      "name": "Chotěbuz",
+      "code": "555291",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73561",
+      "latitude": 49.768592,
+      "longitude": 18.569232,
+      "slug": "chotebuz"
+    },
+    {
+      "name": "Dolní Lutyně",
+      "code": "598968",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73553",
+      "latitude": 49.898856,
+      "longitude": 18.428262,
+      "slug": "dolni-lutyne"
+    },
+    {
+      "name": "Doubrava",
+      "code": "568864",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73533",
+      "latitude": 49.858829,
+      "longitude": 18.480287,
+      "slug": "doubrava"
+    },
+    {
+      "name": "Dětmarovice",
+      "code": "598941",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73571",
+      "latitude": 49.894214,
+      "longitude": 18.460901,
+      "slug": "detmarovice"
+    },
+    {
+      "name": "HAVÍŘOV",
+      "code": "555088",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73601",
+      "latitude": 49.780492,
+      "longitude": 18.430725,
+      "slug": "havirov"
+    },
+    {
+      "name": "Horní Bludovice",
+      "code": "598178",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73937",
+      "latitude": 49.749749,
+      "longitude": 18.436881,
+      "slug": "horni-bludovice"
+    },
+    {
+      "name": "Horní Suchá",
+      "code": "552739",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73535",
+      "latitude": 49.797901,
+      "longitude": 18.481997,
+      "slug": "horni-sucha"
+    },
+    {
+      "name": "KARVINÁ",
+      "code": "598917",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73301",
+      "latitude": 49.856752,
+      "longitude": 18.543319,
+      "slug": "karvina"
+    },
+    {
+      "name": "Orlová",
+      "code": "599069",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73511",
+      "latitude": 49.870238,
+      "longitude": 18.425108,
+      "slug": "orlova"
+    },
+    {
+      "name": "Petrovice u Karviné",
+      "code": "599077",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73572",
+      "latitude": 49.895965,
+      "longitude": 18.547898,
+      "slug": "petrovice-u-karvine"
+    },
+    {
+      "name": "Petřvald",
+      "code": "599085",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73541",
+      "latitude": 49.831096,
+      "longitude": 18.389513,
+      "slug": "petrvald"
+    },
+    {
+      "name": "Rychvald",
+      "code": "599107",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73532",
+      "latitude": 49.86635,
+      "longitude": 18.376369,
+      "slug": "rychvald"
+    },
+    {
+      "name": "Stonava",
+      "code": "599140",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73534",
+      "latitude": 49.817011,
+      "longitude": 18.525286,
+      "slug": "stonava"
+    },
+    {
+      "name": "Těrlicko",
+      "code": "599158",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73542",
+      "latitude": 49.752419,
+      "longitude": 18.48302,
+      "slug": "terlicko"
+    },
+    {
+      "name": "Český Těšín",
+      "code": "598933",
+      "okres": "Karviná",
+      "okres_code": "CZ0803",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_code": "CZ080",
+      "psc": "73701",
+      "latitude": 49.747144,
+      "longitude": 18.623896,
+      "slug": "cesky-tesin"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Karviná - Stáhnout zdarma",
+    "description": "Seznam všech 17 obcí okresu Karviná — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (17 municipalities of okres Karviná, split from the national cs-obce dataset.) Obsahuje 17 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Karviná | ListBase",
+    "seo_description": "Stáhnout Obce — okres Karviná — 17 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 17 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

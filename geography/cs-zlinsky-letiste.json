@@ -1,0 +1,169 @@
+{
+  "id": "cs-zlinsky-letiste",
+  "name": "Letiště — Zlínský kraj",
+  "title": "Letiště — Zlínský kraj",
+  "description": "Seznam letišť v kraji „Zlínský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Zlín region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKHO",
+      "iata": "GTW",
+      "name": "Holesov Airport",
+      "name_slug": "holesov-airport",
+      "city": "Holesov",
+      "kraj": "Zlínský kraj",
+      "kraj_source": "Zlin",
+      "kraj_slug": "zlinsky",
+      "kraj_en": "Zlín",
+      "country": "CZ",
+      "elevation_ft": 761,
+      "lat": 49.3143997192,
+      "lon": 17.5688991547,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKKM",
+      "iata": "",
+      "name": "Kromeriz Airport",
+      "name_slug": "kromeriz-airport",
+      "city": "Kromeriz",
+      "kraj": "Zlínský kraj",
+      "kraj_source": "Zlin",
+      "kraj_slug": "zlinsky",
+      "kraj_en": "Zlín",
+      "country": "CZ",
+      "elevation_ft": 620,
+      "lat": 49.2855987549,
+      "lon": 17.4158000946,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKU",
+      "iata": "UHE",
+      "name": "Kunovice Airport",
+      "name_slug": "kunovice-airport",
+      "city": "Uherske Hradiste",
+      "kraj": "Zlínský kraj",
+      "kraj_source": "Zlin",
+      "kraj_slug": "zlinsky",
+      "kraj_en": "Zlín",
+      "country": "CZ",
+      "elevation_ft": 581,
+      "lat": 49.0293998718,
+      "lon": 17.439699173,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKOT",
+      "iata": "",
+      "name": "Otrokovice Zlin Airport",
+      "name_slug": "otrokovice-zlin-airport",
+      "city": "Otrokovice",
+      "kraj": "Zlínský kraj",
+      "kraj_source": "Zlin",
+      "kraj_slug": "zlinsky",
+      "kraj_en": "Zlín",
+      "country": "CZ",
+      "elevation_ft": 600,
+      "lat": 49.198299408,
+      "lon": 17.5177993774,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Zlínský kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Zlínský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Zlín region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Zlínský kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Zlínský kraj — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

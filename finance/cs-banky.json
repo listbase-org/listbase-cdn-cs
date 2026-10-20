@@ -1,0 +1,538 @@
+{
+  "id": "cs-banky",
+  "name": "Banky v České republice — kódy platebního styku",
+  "title": "Banky v České republice — kódy platebního styku",
+  "description": "Seznam všech bank a poskytovatelů platebních služeb v České republice podle 4místného kódu platebního styku (např. 0100 Komerční banka, 0300 ČSOB, 0800 Česká spořitelna, 2010 Fio banka, 2700 UniCredit Bank, 5500 Raiffeisenbank). Obsahuje BIC/SWIFT kód a příznak účasti v zúčtovacím systému CERTIS provozovaném Českou národní bankou. (Czech bank registry with payment-system codes, BIC/SWIFT codes, and CERTIS clearing-system membership flag.)",
+  "category": "finance",
+  "source": "https://github.com/heureka/bank-account-validator",
+  "source_url": "https://github.com/heureka/bank-account-validator",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "bic",
+      "label": "Bic",
+      "type": "string"
+    },
+    {
+      "key": "has_bic",
+      "label": "Has Bic",
+      "type": "boolean"
+    },
+    {
+      "key": "in_certis",
+      "label": "In Certis",
+      "type": "boolean"
+    },
+    {
+      "key": "certis_flag",
+      "label": "Certis Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "0100",
+      "name": "Komerční banka, a.s.",
+      "slug": "komercni-banka-a-s",
+      "bic": "KOMBCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "0300",
+      "name": "Československá obchodní banka, a.s.",
+      "slug": "ceskoslovenska-obchodni-banka-a-s",
+      "bic": "CEKOCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "0600",
+      "name": "MONETA Money Bank, a.s.",
+      "slug": "moneta-money-bank-a-s",
+      "bic": "AGBACZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "0710",
+      "name": "Česká národní banka",
+      "slug": "ceska-narodni-banka",
+      "bic": "CNBACZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "0800",
+      "name": "Česká spořitelna, a.s.",
+      "slug": "ceska-sporitelna-a-s",
+      "bic": "GIBACZPX",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2010",
+      "name": "Fio banka, a.s.",
+      "slug": "fio-banka-a-s",
+      "bic": "FIOBCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2020",
+      "name": "MUFG Bank (Europe) N.V. Prague Branch",
+      "slug": "mufg-bank-europe-n-v-prague-branch",
+      "bic": "BOTKCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2030",
+      "name": "AKCENTA, spořitelní a úvěrní družstvo",
+      "slug": "akcenta-sporitelni-a-uverni-druzstvo",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2060",
+      "name": "Citfin, spořitelní družstvo",
+      "slug": "citfin-sporitelni-druzstvo",
+      "bic": "CITFCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2070",
+      "name": "Moravský Peněžní Ústav – spořitelní družstvo",
+      "slug": "moravsky-penezni-ustav-sporitelni-druzstvo",
+      "bic": "MPUBCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2100",
+      "name": "Hypoteční banka, a.s.",
+      "slug": "hypotecni-banka-a-s",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2200",
+      "name": "Peněžní dům, spořitelní družstvo",
+      "slug": "penezni-dum-sporitelni-druzstvo",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2210",
+      "name": "ERB bank, a.s.",
+      "slug": "erb-bank-a-s",
+      "bic": "FICHCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2220",
+      "name": "Artesa, spořitelní družstvo",
+      "slug": "artesa-sporitelni-druzstvo",
+      "bic": "ARTTCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2240",
+      "name": "Poštová banka, a.s., pobočka Česká republika",
+      "slug": "postova-banka-a-s-pobocka-ceska-republika",
+      "bic": "POBNCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2250",
+      "name": "Záložna CREDITAS, spořitelní družstvo",
+      "slug": "zalozna-creditas-sporitelni-druzstvo",
+      "bic": "CTASCZ22",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2260",
+      "name": "ANO spořitelní družstvo",
+      "slug": "ano-sporitelni-druzstvo",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": false,
+      "certis_flag": "-"
+    },
+    {
+      "code": "2310",
+      "name": "ZUNO BANK AG, organizační složka",
+      "slug": "zuno-bank-ag-organizacni-slozka",
+      "bic": "ZUNOCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2600",
+      "name": "Citibank Europe plc, organizační složka",
+      "slug": "citibank-europe-plc-organizacni-slozka",
+      "bic": "CITICZPX",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "2700",
+      "name": "UniCredit Bank Czech Republic and Slovakia, a.s.",
+      "slug": "unicredit-bank-czech-republic-and-slovakia-a-s",
+      "bic": "BACXCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "3030",
+      "name": "Air Bank a.s.",
+      "slug": "air-bank-a-s",
+      "bic": "AIRACZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "3050",
+      "name": "BNP Paribas Personal Finance SA, odštěpný závod",
+      "slug": "bnp-paribas-personal-finance-sa-odstepny-zavod",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": false,
+      "certis_flag": "-"
+    },
+    {
+      "code": "3500",
+      "name": "ING Bank N.V.",
+      "slug": "ing-bank-n-v",
+      "bic": "INGBCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "4000",
+      "name": "Expobank CZ a.s.",
+      "slug": "expobank-cz-a-s",
+      "bic": "EXPNCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "4300",
+      "name": "Českomoravská záruční a rozvojová banka, a.s.",
+      "slug": "ceskomoravska-zarucni-a-rozvojova-banka-a-s",
+      "bic": "CMZRCZP1",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "5400",
+      "name": "The Royal Bank of Scotland plc, organizační složka",
+      "slug": "the-royal-bank-of-scotland-plc-organizacni-slozka",
+      "bic": "ABNACZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "5500",
+      "name": "Raiffeisenbank a.s.",
+      "slug": "raiffeisenbank-a-s",
+      "bic": "RZBCCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "5800",
+      "name": "J & T BANKA, a.s.",
+      "slug": "j-t-banka-a-s",
+      "bic": "JTBPCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "6000",
+      "name": "PPF banka a.s.",
+      "slug": "ppf-banka-a-s",
+      "bic": "PMBPCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "6100",
+      "name": "Equa bank a.s.",
+      "slug": "equa-bank-a-s",
+      "bic": "EQBKCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "6200",
+      "name": "COMMERZBANK Aktiengesellschaft, pobočka Praha",
+      "slug": "commerzbank-aktiengesellschaft-pobocka-praha",
+      "bic": "COBACZPX",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "6210",
+      "name": "mBank S.A., organizační složka",
+      "slug": "mbank-s-a-organizacni-slozka",
+      "bic": "BREXCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "6300",
+      "name": "BNP Paribas Fortis SA/NV, pobočka Česká republika",
+      "slug": "bnp-paribas-fortis-sa-nv-pobocka-ceska-republika",
+      "bic": "GEBACZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "6363",
+      "name": "Partners Banka, a.s.",
+      "slug": "partners-banka-a-s",
+      "bic": "PTBNCZPP",
+      "has_bic": true,
+      "in_certis": false,
+      "certis_flag": "-"
+    },
+    {
+      "code": "6700",
+      "name": "Všeobecná úverová banka a.s., pobočka Praha",
+      "slug": "vseobecna-uverova-banka-a-s-pobocka-praha",
+      "bic": "SUBACZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "6800",
+      "name": "Sberbank CZ, a.s.",
+      "slug": "sberbank-cz-a-s",
+      "bic": "VBOECZ2X",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "7910",
+      "name": "Deutsche Bank Aktiengesellschaft Filiale Prag, organizační složka",
+      "slug": "deutsche-bank-aktiengesellschaft-filiale-prag-organizacni-slozka",
+      "bic": "DEUTCZPX",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "7940",
+      "name": "Waldviertler Sparkasse Bank AG",
+      "slug": "waldviertler-sparkasse-bank-ag",
+      "bic": "SPWTCZ21",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "7950",
+      "name": "Raiffeisen stavební spořitelna a.s.",
+      "slug": "raiffeisen-stavebni-sporitelna-a-s",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "7960",
+      "name": "Českomoravská stavební spořitelna, a.s.",
+      "slug": "ceskomoravska-stavebni-sporitelna-a-s",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "7970",
+      "name": "Wüstenrot-stavební spořitelna a.s.",
+      "slug": "wustenrot-stavebni-sporitelna-a-s",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "7980",
+      "name": "Wüstenrot hypoteční banka a.s.",
+      "slug": "wustenrot-hypotecni-banka-a-s",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "7990",
+      "name": "Modrá pyramida stavební spořitelna, a.s.",
+      "slug": "modra-pyramida-stavebni-sporitelna-a-s",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "8030",
+      "name": "Raiffeisenbank im Stiftland eG pobočka Cheb, odštěpný závod",
+      "slug": "raiffeisenbank-im-stiftland-eg-pobocka-cheb-odstepny-zavod",
+      "bic": "GENOCZ21",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "8040",
+      "name": "Oberbank AG pobočka Česká republika",
+      "slug": "oberbank-ag-pobocka-ceska-republika",
+      "bic": "OBKLCZ2X",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "8060",
+      "name": "Stavební spořitelna České spořitelny, a.s.",
+      "slug": "stavebni-sporitelna-ceske-sporitelny-a-s",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "8090",
+      "name": "Česká exportní banka, a.s.",
+      "slug": "ceska-exportni-banka-a-s",
+      "bic": "CZEECZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "8150",
+      "name": "HSBC Bank plc - pobočka Praha",
+      "slug": "hsbc-bank-plc-pobocka-praha",
+      "bic": "MIDLCZPP",
+      "has_bic": true,
+      "in_certis": true,
+      "certis_flag": "A"
+    },
+    {
+      "code": "8200",
+      "name": "PRIVAT BANK AG der Raiffeisenlandesbank Oberösterreich Aktiengesellschaft, pobočka Česká republika",
+      "slug": "privat-bank-ag-der-raiffeisenlandesbank-oberosterreich-aktiengesellschaft-pobocka-ceska-republika",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": false,
+      "certis_flag": "-"
+    },
+    {
+      "code": "8220",
+      "name": "Payment Execution s.r.o.",
+      "slug": "payment-execution-s-r-o",
+      "bic": "PAERCZP1",
+      "has_bic": true,
+      "in_certis": false,
+      "certis_flag": "-"
+    },
+    {
+      "code": "8230",
+      "name": "EEPAYS s.r.o.",
+      "slug": "eepays-s-r-o",
+      "bic": "EEPSCZPP",
+      "has_bic": true,
+      "in_certis": false,
+      "certis_flag": "-"
+    },
+    {
+      "code": "8240",
+      "name": "Družstevní záložna Kredit",
+      "slug": "druzstevni-zalozna-kredit",
+      "bic": "",
+      "has_bic": false,
+      "in_certis": false,
+      "certis_flag": "-"
+    },
+    {
+      "code": "8250",
+      "name": "Bank of China (Hungary) Close Ltd. Prague branch, odštěpný závod",
+      "slug": "bank-of-china-hungary-close-ltd-prague-branch-odstepny-zavod",
+      "bic": "BKCHCZPP",
+      "has_bic": true,
+      "in_certis": false,
+      "certis_flag": "-"
+    }
+  ],
+  "meta": {
+    "title": "Banky v České republice — kódy platebního styku - Stáhnout zdarma",
+    "description": "Seznam všech bank a poskytovatelů platebních služeb v České republice podle 4místného kódu platebního styku (např. 0100 Komerční banka, 0300 ČSOB, 0800 Česká spořitelna, 2010 Fio banka, 2700 UniCredit Bank, 5500 Raiffeisenbank). Obsahuje BIC/SWIFT kód a příznak účasti v zúčtovacím systému CERTIS provozovaném Českou národní bankou. (Czech bank registry with payment-system codes, BIC/SWIFT codes, and CERTIS clearing-system membership flag.) Obsahuje 53 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Banky v České republice — kódy platebního styku | ListBase",
+    "seo_description": "Stáhnout Banky v České republice — kódy platebního styku — 53 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 53 záznamů / 7 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/heureka/bank-account-validator"
+    ]
+  }
+}

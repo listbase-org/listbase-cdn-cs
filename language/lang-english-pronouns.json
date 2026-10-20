@@ -1,0 +1,769 @@
+{
+  "id": "lang-english-pronouns",
+  "name": "Datová Sada Tabulky Klasifikace Anglických Zájmen",
+  "category": "language",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "pronoun",
+      "label": "Pronoun",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "case",
+      "label": "Case (EN)",
+      "type": "string"
+    },
+    {
+      "key": "person",
+      "label": "Person (EN)",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number (EN)",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender (EN)",
+      "type": "string"
+    },
+    {
+      "key": "example",
+      "label": "Example",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pronoun": "I",
+      "type": "Osobní",
+      "case": "Nominativ",
+      "person": "První",
+      "number": "Jednotné",
+      "gender": "Neutrální",
+      "example": "I am happy.",
+      "function": "Podmět slovesa"
+    },
+    {
+      "pronoun": "you",
+      "type": "Osobní",
+      "case": "Nominativ",
+      "person": "Druhá",
+      "number": "Jednotné/Množné",
+      "gender": "Neutrální",
+      "example": "You are kind.",
+      "function": "Podmět slovesa"
+    },
+    {
+      "pronoun": "he",
+      "type": "Osobní",
+      "case": "Nominativ",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Mužský",
+      "example": "He runs fast.",
+      "function": "Podmět slovesa"
+    },
+    {
+      "pronoun": "she",
+      "type": "Osobní",
+      "case": "Nominativ",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Ženský",
+      "example": "She sings well.",
+      "function": "Podmět slovesa"
+    },
+    {
+      "pronoun": "it",
+      "type": "Osobní",
+      "case": "Nominativ",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Střední",
+      "example": "It is raining.",
+      "function": "Podmět slovesa"
+    },
+    {
+      "pronoun": "we",
+      "type": "Osobní",
+      "case": "Nominativ",
+      "person": "První",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "We are friends.",
+      "function": "Podmět slovesa"
+    },
+    {
+      "pronoun": "they",
+      "type": "Osobní",
+      "case": "Nominativ",
+      "person": "Třetí",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "They work hard.",
+      "function": "Podmět slovesa"
+    },
+    {
+      "pronoun": "me",
+      "type": "Osobní",
+      "case": "Akuzativ",
+      "person": "První",
+      "number": "Jednotné",
+      "gender": "Neutrální",
+      "example": "She called me.",
+      "function": "Předmět slovesa/předložky"
+    },
+    {
+      "pronoun": "you",
+      "type": "Osobní",
+      "case": "Akuzativ",
+      "person": "Druhá",
+      "number": "Jednotné/Množné",
+      "gender": "Neutrální",
+      "example": "I saw you.",
+      "function": "Předmět slovesa/předložky"
+    },
+    {
+      "pronoun": "him",
+      "type": "Osobní",
+      "case": "Akuzativ",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Mužský",
+      "example": "We helped him.",
+      "function": "Předmět slovesa/předložky"
+    },
+    {
+      "pronoun": "her",
+      "type": "Osobní",
+      "case": "Akuzativ",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Ženský",
+      "example": "They met her.",
+      "function": "Předmět slovesa/předložky"
+    },
+    {
+      "pronoun": "it",
+      "type": "Osobní",
+      "case": "Akuzativ",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Střední",
+      "example": "I found it.",
+      "function": "Předmět slovesa/předložky"
+    },
+    {
+      "pronoun": "us",
+      "type": "Osobní",
+      "case": "Akuzativ",
+      "person": "První",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "She joined us.",
+      "function": "Předmět slovesa/předložky"
+    },
+    {
+      "pronoun": "them",
+      "type": "Osobní",
+      "case": "Akuzativ",
+      "person": "Třetí",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "We invited them.",
+      "function": "Předmět slovesa/předložky"
+    },
+    {
+      "pronoun": "my",
+      "type": "Přivlastňovací",
+      "case": "Přídavné jméno",
+      "person": "První",
+      "number": "Jednotné",
+      "gender": "Neutrální",
+      "example": "This is my book.",
+      "function": "Určuje podstatné jméno"
+    },
+    {
+      "pronoun": "your",
+      "type": "Přivlastňovací",
+      "case": "Přídavné jméno",
+      "person": "Druhá",
+      "number": "Jednotné/Množné",
+      "gender": "Neutrální",
+      "example": "Is this your car?",
+      "function": "Určuje podstatné jméno"
+    },
+    {
+      "pronoun": "his",
+      "type": "Přivlastňovací",
+      "case": "Přídavné jméno",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Mužský",
+      "example": "That is his phone.",
+      "function": "Určuje podstatné jméno"
+    },
+    {
+      "pronoun": "her",
+      "type": "Přivlastňovací",
+      "case": "Přídavné jméno",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Ženský",
+      "example": "I like her dress.",
+      "function": "Určuje podstatné jméno"
+    },
+    {
+      "pronoun": "its",
+      "type": "Přivlastňovací",
+      "case": "Přídavné jméno",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Střední",
+      "example": "The dog wagged its tail.",
+      "function": "Určuje podstatné jméno"
+    },
+    {
+      "pronoun": "our",
+      "type": "Přivlastňovací",
+      "case": "Přídavné jméno",
+      "person": "První",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "This is our house.",
+      "function": "Určuje podstatné jméno"
+    },
+    {
+      "pronoun": "their",
+      "type": "Přivlastňovací",
+      "case": "Přídavný",
+      "person": "Třetí",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "They lost their keys.",
+      "function": "Modifikuje podstatné jméno"
+    },
+    {
+      "pronoun": "mine",
+      "type": "Přivlastňovací",
+      "case": "Nezávislý",
+      "person": "První",
+      "number": "Jednotné číslo",
+      "gender": "Neutrální",
+      "example": "This book is mine.",
+      "function": "Nahrazuje jmennou frázi"
+    },
+    {
+      "pronoun": "yours",
+      "type": "Přivlastňovací",
+      "case": "Nezávislý",
+      "person": "Druhá",
+      "number": "Jednotné/Množné číslo",
+      "gender": "Neutrální",
+      "example": "Is this car yours?",
+      "function": "Nahrazuje jmennou frázi"
+    },
+    {
+      "pronoun": "his",
+      "type": "Přivlastňovací",
+      "case": "Nezávislý",
+      "person": "Třetí",
+      "number": "Jednotné číslo",
+      "gender": "Mužský",
+      "example": "The phone is his.",
+      "function": "Nahrazuje jmennou frázi"
+    },
+    {
+      "pronoun": "hers",
+      "type": "Přivlastňovací",
+      "case": "Nezávislý",
+      "person": "Třetí",
+      "number": "Jednotné číslo",
+      "gender": "Ženský",
+      "example": "The dress is hers.",
+      "function": "Nahrazuje jmennou frázi"
+    },
+    {
+      "pronoun": "its",
+      "type": "Přivlastňovací",
+      "case": "Nezávislý",
+      "person": "Třetí",
+      "number": "Jednotné číslo",
+      "gender": "Střední",
+      "example": "The responsibility is its.",
+      "function": "Nahrazuje jmennou frázi"
+    },
+    {
+      "pronoun": "ours",
+      "type": "Přivlastňovací",
+      "case": "Nezávislý",
+      "person": "První",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "The house is ours.",
+      "function": "Nahrazuje jmennou frázi"
+    },
+    {
+      "pronoun": "theirs",
+      "type": "Přivlastňovací",
+      "case": "Nezávislý",
+      "person": "Třetí",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "The car is theirs.",
+      "function": "Nahrazuje jmennou frázi"
+    },
+    {
+      "pronoun": "myself",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "První",
+      "number": "Jednotné číslo",
+      "gender": "Neutrální",
+      "example": "I hurt myself.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "yourself",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "Druhá",
+      "number": "Jednotné číslo",
+      "gender": "Neutrální",
+      "example": "You should believe in yourself.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "himself",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "Třetí",
+      "number": "Jednotné číslo",
+      "gender": "Mužský",
+      "example": "He taught himself.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "herself",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "Třetí",
+      "number": "Jednotné číslo",
+      "gender": "Ženský",
+      "example": "She introduced herself.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "itself",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "Třetí",
+      "number": "Jednotné číslo",
+      "gender": "Střední",
+      "example": "The cat cleaned itself.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "ourselves",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "První",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "We enjoyed ourselves.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "yourselves",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "Druhá",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "Help yourselves.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "themselves",
+      "type": "Zvratný",
+      "case": "Zvratný",
+      "person": "Třetí",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "They blamed themselves.",
+      "function": "Předmět odkazuje na podmět"
+    },
+    {
+      "pronoun": "this",
+      "type": "Ukazovací",
+      "case": "-",
+      "person": "-",
+      "number": "Jednotné číslo",
+      "gender": "Neutrální",
+      "example": "This is delicious.",
+      "function": "Ukazuje na blízký předmět"
+    },
+    {
+      "pronoun": "that",
+      "type": "Ukazovací",
+      "case": "-",
+      "person": "-",
+      "number": "Jednotné číslo",
+      "gender": "Neutrální",
+      "example": "That is beautiful.",
+      "function": "Ukazuje na vzdálený předmět"
+    },
+    {
+      "pronoun": "these",
+      "type": "Ukazovací",
+      "case": "-",
+      "person": "-",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "These are my books.",
+      "function": "Ukazuje na blízké předměty"
+    },
+    {
+      "pronoun": "those",
+      "type": "Ukazovací",
+      "case": "-",
+      "person": "-",
+      "number": "Množné číslo",
+      "gender": "Neutrální",
+      "example": "Those are expensive.",
+      "function": "Ukazuje na vzdálené předměty"
+    },
+    {
+      "pronoun": "who",
+      "type": "Tázací",
+      "case": "Podmět",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "Who called?",
+      "function": "Ptá se na osobu (podmět)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Tázací",
+      "case": "Předmět",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "Whom did you call?",
+      "function": "Ptá se na osobu (předmět)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Tázací",
+      "case": "Přivlastňovací",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "Whose is this?",
+      "function": "Ptá se na vlastnictví"
+    },
+    {
+      "pronoun": "what",
+      "type": "Tázací",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Věc",
+      "example": "What happened?",
+      "function": "Ptá se na věc/činnost"
+    },
+    {
+      "pronoun": "which",
+      "type": "Tázací",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba/Věc",
+      "example": "Which do you prefer?",
+      "function": "Ptá se na výběr"
+    },
+    {
+      "pronoun": "who",
+      "type": "Vztažné",
+      "case": "Podmět",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "The man who called is here.",
+      "function": "Uvádí vztažnou větu (podmět)"
+    },
+    {
+      "pronoun": "whom",
+      "type": "Vztažné",
+      "case": "Předmět",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba",
+      "example": "The person whom I met was kind.",
+      "function": "Uvádí vztažnou větu (předmět)"
+    },
+    {
+      "pronoun": "whose",
+      "type": "Vztažné",
+      "case": "Přivlastňovací",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba/Věc",
+      "example": "The author whose book I read.",
+      "function": "Ukazuje vlastnictví ve vztažné větě"
+    },
+    {
+      "pronoun": "which",
+      "type": "Vztažné",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Věc",
+      "example": "The book which I read was good.",
+      "function": "Uvádí vztažnou větu (věc)"
+    },
+    {
+      "pronoun": "that",
+      "type": "Vztažné",
+      "case": "-",
+      "person": "-",
+      "number": "-",
+      "gender": "Osoba/Věc",
+      "example": "The house that Jack built.",
+      "function": "Uvádí omezující vztažnou větu"
+    },
+    {
+      "pronoun": "anyone",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Osoba",
+      "example": "Anyone can join.",
+      "function": "Odkazuje na jakoukoli osobu"
+    },
+    {
+      "pronoun": "everyone",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Osoba",
+      "example": "Everyone is welcome.",
+      "function": "Odkazuje na všechny lidi"
+    },
+    {
+      "pronoun": "someone",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Osoba",
+      "example": "Someone called you.",
+      "function": "Odkazuje na neurčenou osobu"
+    },
+    {
+      "pronoun": "no one",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Osoba",
+      "example": "No one was there.",
+      "function": "Odkazuje na žádnou osobu"
+    },
+    {
+      "pronoun": "anything",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Věc",
+      "example": "Is there anything to eat?",
+      "function": "Odkazuje na jakoukoli věc"
+    },
+    {
+      "pronoun": "everything",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Věc",
+      "example": "Everything is ready.",
+      "function": "Odkazuje na všechny věci"
+    },
+    {
+      "pronoun": "something",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Věc",
+      "example": "I heard something.",
+      "function": "Odkazuje na neurčenou věc"
+    },
+    {
+      "pronoun": "nothing",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Věc",
+      "example": "Nothing happened.",
+      "function": "Odkazuje na žádnou věc"
+    },
+    {
+      "pronoun": "all",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné/Množné",
+      "gender": "Neutrální",
+      "example": "All are welcome.",
+      "function": "Odkazuje na celé množství"
+    },
+    {
+      "pronoun": "some",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné/Množné",
+      "gender": "Neutrální",
+      "example": "Some are missing.",
+      "function": "Odkazuje na část množství"
+    },
+    {
+      "pronoun": "none",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné/Množné",
+      "gender": "Neutrální",
+      "example": "None were found.",
+      "function": "Odkazuje na nulové množství"
+    },
+    {
+      "pronoun": "both",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "Both are correct.",
+      "function": "Odkazuje na dvě věci dohromady"
+    },
+    {
+      "pronoun": "each",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Neutrální",
+      "example": "Each has a role.",
+      "function": "Odkazuje na jednotlivce"
+    },
+    {
+      "pronoun": "either",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Neutrální",
+      "example": "Either will work.",
+      "function": "Odkazuje na jednu ze dvou"
+    },
+    {
+      "pronoun": "neither",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Neutrální",
+      "example": "Neither is correct.",
+      "function": "Odkazuje na žádnou ze dvou"
+    },
+    {
+      "pronoun": "few",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "Few attended.",
+      "function": "Odkazuje na malé množství"
+    },
+    {
+      "pronoun": "many",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "Many have tried.",
+      "function": "Odkazuje na velké množství"
+    },
+    {
+      "pronoun": "several",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Množné",
+      "gender": "Neutrální",
+      "example": "Several are broken.",
+      "function": "Odkazuje na více než dvě"
+    },
+    {
+      "pronoun": "one",
+      "type": "Neurčité",
+      "case": "-",
+      "person": "Třetí",
+      "number": "Jednotné",
+      "gender": "Neutrální",
+      "example": "One must be careful.",
+      "function": "Odkazuje na jakoukoli osobu (formální)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabulka Anglických Zájmen - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si komplexní datovou sadu anglických zájmen. Získejte přístup k 69 záznamům pokrývajícím typ, pád, osobu, rod a příklady zájmen. Zdarma v Excel, CSV, PDF.",
+    "title": "Datová Sada Tabulky Klasifikace Anglických Zájmen",
+    "description": "Tato datová sada poskytuje podrobnou klasifikaci 69 anglických zájmen, včetně jejich typu, gramatického pádu, osoby, čísla, rodu, příkladových vět a funkce. Je to nezbytný zdroj pro lingvisty, pedagogy a studenty jazyků.",
+    "key_takeaways": [
+      "Získejte přístup ke komplexnímu seznamu 69 anglických zájmen s podrobnými gramatickými atributy.",
+      "Prozkoumejte typy zájmen, pády, osoby, čísla, rody a funkce.",
+      "Stáhněte si příkladové věty pro praktické pochopení používání zájmen.",
+      "Využijte strukturovaná data pro lingvistickou analýzu a tvorbu vzdělávacích materiálů."
+    ],
+    "keywords": [
+      "anglická zájmena seznam",
+      "tabulka zájmen",
+      "anglická gramatika excel",
+      "typy zájmen",
+      "příklady zájmen csv",
+      "stáhnout zájmena"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší databáze SQL nebo skriptu Python pro vytvoření nástroje pro analýzu zájmen nebo API.",
+      "Použijte soubor **Excel** k filtrování zájmen podle typu, pádu nebo rodu, vytváření kontingenčních tabulek pro statistickou analýzu nebo přípravě gramatických zpráv.",
+      "Vytiskněte **PDF** verzi pro referenci ve třídě, studijní materiály pro výuku jazyků nebo jako rychlého offline průvodce anglickými zájmeny.",
+      "Integrujte tuto strukturovanou datovou sadu do vzdělávacího softwaru nebo e-learningových platforem k vylepšení lekcí anglické gramatiky."
+    ]
+  },
+  "record_count": 69,
+  "title": "Datová Sada Tabulky Klasifikace Anglických Zájmen"
+}

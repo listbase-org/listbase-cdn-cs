@@ -1,0 +1,146 @@
+{
+  "id": "cs-jednotky-graphics",
+  "name": "Měrné jednotky: graphics (8)",
+  "title": "Měrné jednotky: graphics (8)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'graphics'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 96,
+      "unit_code": "graphics-dot",
+      "kategorie": "graphics",
+      "nazev": "obrazové body",
+      "vzor_jednotne": "{0} obrazový bod",
+      "vzor_mnozne": "{0} obrazových bodů",
+      "kratky_vzor": "",
+      "uzky_vzor": ""
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategorie": "graphics",
+      "nazev": "body na centimetr",
+      "vzor_jednotne": "{0} bod na centimetr",
+      "vzor_mnozne": "{0} bodů na centimetr",
+      "kratky_vzor": "{0} DPCM",
+      "uzky_vzor": "{0} DPCM"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-dot-per-inch",
+      "kategorie": "graphics",
+      "nazev": "body na palec",
+      "vzor_jednotne": "{0} bod na palec",
+      "vzor_mnozne": "{0} bodů na palec",
+      "kratky_vzor": "{0} DPI",
+      "uzky_vzor": "{0} DPI"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-em",
+      "kategorie": "graphics",
+      "nazev": "čtverčíky",
+      "vzor_jednotne": "{0} čtverčík",
+      "vzor_mnozne": "{0} čtverčíků",
+      "kratky_vzor": "{0} em",
+      "uzky_vzor": "{0} em"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-megapixel",
+      "kategorie": "graphics",
+      "nazev": "megapixely",
+      "vzor_jednotne": "{0} megapixel",
+      "vzor_mnozne": "{0} megapixelů",
+      "kratky_vzor": "{0} Mpx",
+      "uzky_vzor": "{0} Mpx"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel",
+      "kategorie": "graphics",
+      "nazev": "pixely",
+      "vzor_jednotne": "{0} pixel",
+      "vzor_mnozne": "{0} pixelů",
+      "kratky_vzor": "{0} px",
+      "uzky_vzor": "{0} px"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategorie": "graphics",
+      "nazev": "pixely na centimetr",
+      "vzor_jednotne": "{0} pixel na centimetr",
+      "vzor_mnozne": "{0} pixelů na centimetr",
+      "kratky_vzor": "{0} PPCM",
+      "uzky_vzor": "{0} PPCM"
+    },
+    {
+      "id": 103,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategorie": "graphics",
+      "nazev": "pixely na palec",
+      "vzor_jednotne": "{0} pixel na palec",
+      "vzor_mnozne": "{0} pixelů na palec",
+      "kratky_vzor": "{0} PPI",
+      "uzky_vzor": "{0} PPI"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: graphics (8) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'graphics'. Obsahuje 8 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: graphics (8) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: graphics (8) — 8 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

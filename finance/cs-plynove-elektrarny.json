@@ -1,0 +1,352 @@
+{
+  "id": "cs-plynove-elektrarny",
+  "name": "Plynové elektrárny v Česku",
+  "title": "Plynové elektrárny v Česku",
+  "description": "Plynové elektrárny v Česku. All 11 natural gas power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1914,
+      "name": "Kladno",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 51,
+      "efficiency": "",
+      "date_in": 1999,
+      "date_retrofit": 2010,
+      "date_out": "",
+      "lat": 50.1535,
+      "lon": 14.12858,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400061; GEO: GEO-42323; GPD: WRI1019208"
+    },
+    {
+      "id": 5058,
+      "name": "Kralupy",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 101,
+      "efficiency": "",
+      "date_in": 1993,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.25877,
+      "lon": 14.3207,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400062, G100000400063, G100000400064; OPSD: OEU-553"
+    },
+    {
+      "id": 5086,
+      "name": "Spitalka",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 81,
+      "efficiency": "",
+      "date_in": 1930,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.19643,
+      "lon": 16.622566,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000406316; OPSD: OEU-508"
+    },
+    {
+      "id": 5088,
+      "name": "Prostejov",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 58,
+      "efficiency": "",
+      "date_in": 2013,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.462471,
+      "lon": 17.143524,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000406314; OPSD: OEU-551"
+    },
+    {
+      "id": 12186,
+      "name": "Cerveny Mlyn",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 98,
+      "efficiency": "",
+      "date_in": 1998,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.21617,
+      "lon": 16.60633,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400060"
+    },
+    {
+      "id": 16994,
+      "name": "Kyjov Chp",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 23,
+      "efficiency": "",
+      "date_in": 2001,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.00462,
+      "lon": 17.12882,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400065"
+    },
+    {
+      "id": 19787,
+      "name": "Olomouc",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 50,
+      "efficiency": "",
+      "date_in": 2028,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.570879,
+      "lon": 17.304121,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001022358"
+    },
+    {
+      "id": 19867,
+      "name": "Opatovice",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 390,
+      "efficiency": "",
+      "date_in": 2029,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.12283,
+      "lon": 15.790765,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001027894"
+    },
+    {
+      "id": 20749,
+      "name": "Plana Nad Luznici",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 60,
+      "efficiency": "",
+      "date_in": 2014,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.368459,
+      "lon": 14.702139,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001031252, G100001031259"
+    },
+    {
+      "id": 20897,
+      "name": "Pocerady",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 847,
+      "efficiency": "",
+      "date_in": 2014,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.4267,
+      "lon": 13.6747,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400066"
+    },
+    {
+      "id": 24824,
+      "name": "Vresova",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Czechia",
+      "capacity_mw": 400,
+      "efficiency": "",
+      "date_in": 1996,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.25648,
+      "lon": 12.6908,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000411132, G100000411133"
+    }
+  ],
+  "meta": {
+    "title": "Plynové elektrárny v Česku - Stáhnout zdarma",
+    "description": "Plynové elektrárny v Česku. All 11 natural gas power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation). Obsahuje 11 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Plynové elektrárny v Česku | ListBase",
+    "seo_description": "Stáhnout Plynové elektrárny v Česku — 11 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 11 záznamů / 19 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

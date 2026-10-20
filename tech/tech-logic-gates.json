@@ -1,0 +1,361 @@
+{
+  "id": "tech-logic-gates",
+  "name": "Dataset Tabulek Pravdivosti Logických Hradel",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "gate",
+      "label": "Gate Type",
+      "type": "string"
+    },
+    {
+      "key": "inputs",
+      "label": "Number of Inputs",
+      "type": "number"
+    },
+    {
+      "key": "input_a",
+      "label": "Input A",
+      "type": "number"
+    },
+    {
+      "key": "input_b",
+      "label": "Input B",
+      "type": "number"
+    },
+    {
+      "key": "output",
+      "label": "Output",
+      "type": "number"
+    },
+    {
+      "key": "expression",
+      "label": "Boolean Expression",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 1,
+      "expression": "¬A",
+      "description": "Invertuje vstup"
+    },
+    {
+      "gate": "NOT",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 0,
+      "expression": "¬A",
+      "description": "Invertuje vstup"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Výstup 1 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Výstup 1 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∧ B",
+      "description": "Výstup 1 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "AND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∧ B",
+      "description": "Výstup 1 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ∨ B",
+      "description": "Výstup 1, pokud je kterýkoli vstup 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Výstup 1, pokud je kterýkoli vstup 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Výstup 1, pokud je kterýkoli vstup 1"
+    },
+    {
+      "gate": "OR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ∨ B",
+      "description": "Výstup 1, pokud je kterýkoli vstup 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NE A (NAND) - Výstup 0 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NE A (NAND) - Výstup 0 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∧ B)",
+      "description": "NE A (NAND) - Výstup 0 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "NAND",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∧ B)",
+      "description": "NE A (NAND) - Výstup 0 pouze tehdy, jsou-li oba vstupy 1"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ∨ B)",
+      "description": "NEBO (NOR) - Výstup 1 pouze tehdy, jsou-li oba vstupy 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NEBO (NOR) - Výstup 1 pouze tehdy, jsou-li oba vstupy 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NEBO (NOR) - Výstup 1 pouze tehdy, jsou-li oba vstupy 0"
+    },
+    {
+      "gate": "NOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ∨ B)",
+      "description": "NEBO (NOR) - Výstup 1 pouze tehdy, jsou-li oba vstupy 0"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Výstup 1, pokud jsou vstupy různé"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Výstup 1, pokud jsou vstupy různé"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A ⊕ B",
+      "description": "Výstup 1, pokud jsou vstupy různé"
+    },
+    {
+      "gate": "XOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 0,
+      "expression": "A ⊕ B",
+      "description": "Výstup 1, pokud jsou vstupy různé"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Výstup 1, pokud jsou vstupy stejné"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Výstup 1, pokud jsou vstupy stejné"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "¬(A ⊕ B)",
+      "description": "Výstup 1, pokud jsou vstupy stejné"
+    },
+    {
+      "gate": "XNOR",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "¬(A ⊕ B)",
+      "description": "Výstup 1, pokud jsou vstupy stejné"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 0,
+      "input_b": "-",
+      "output": 0,
+      "expression": "A",
+      "description": "Výstup se rovná vstupu (zesilovač signálu)"
+    },
+    {
+      "gate": "BUFFER",
+      "inputs": 1,
+      "input_a": 1,
+      "input_b": "-",
+      "output": 1,
+      "expression": "A",
+      "description": "Výstup se rovná vstupu (zesilovač signálu)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 0,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Logická implikace (pokud A, pak B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 0,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Logická implikace (pokud A, pak B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 0,
+      "output": 0,
+      "expression": "A → B",
+      "description": "Logická implikace (pokud A, pak B)"
+    },
+    {
+      "gate": "IMPLY",
+      "inputs": 2,
+      "input_a": 1,
+      "input_b": 1,
+      "output": 1,
+      "expression": "A → B",
+      "description": "Logická implikace (pokud A, pak B)"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabulky Pravdivosti Logických Hradel - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Zdarma ke stažení 32 tabulek pravdivosti logických hradel s Booleovskými výrazy. Nezbytné pro digitální elektroniku. Dostupné ve formátech Excel, CSV a PDF.",
+    "title": "Dataset Tabulek Pravdivosti Logických Hradel",
+    "description": "Tento dataset poskytuje komplexní tabulky pravdivosti pro 32 běžných logických hradel, včetně jejich vstupních/výstupních stavů, Booleovských výrazů a popisů. Ideální pro učení a referenci v digitální elektronice.",
+    "key_takeaways": [
+      "Získejte přístup k tabulkám pravdivosti pro 32 základních logických hradel.",
+      "Prozkoumejte Booleovské výrazy a operační popisy pro každé hradlo.",
+      "Stáhněte si hotová data pro návrh a studium digitální logiky.",
+      "Použijte typy hradel, vstupy a výstupy k simulaci digitálních obvodů."
+    ],
+    "keywords": [
+      "tabulky pravdivosti logických hradel excel",
+      "dataset booleovy algebry csv",
+      "digitální logická hradla pdf",
+      "elektronika data tabulek pravdivosti",
+      "zdarma ke stažení logická hradla"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vašich skriptů Python nebo SQL databází, abyste programově analyzovali chování hradel nebo vytvářeli simulátory digitálních obvodů.",
+      "Použijte soubor **Excel** k filtrování hradel podle typu, vytváření vlastních pohledů tabulek pravdivosti nebo výpočtu logiky hradel pro vzdělávací účely.",
+      "Vytiskněte **PDF** verzi pro referenci ve třídě, offline studium nebo pro zařazení do prezentací o základech digitální elektroniky.",
+      "Využijte tento dataset k rychlému ověření výstupů logických hradel nebo jako základní zdroj pro návrh složitých digitálních systémů."
+    ]
+  },
+  "record_count": 32,
+  "title": "Dataset Tabulek Pravdivosti Logických Hradel"
+}

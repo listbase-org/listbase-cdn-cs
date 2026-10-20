@@ -1,0 +1,186 @@
+{
+  "id": "cs-antarktida-zeme",
+  "name": "Země — Antarktida",
+  "title": "Země — Antarktida",
+  "description": "Země a závislá území světadílu Antarktida (5 záznamů) — výřez z cs-zeme.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_cs",
+      "label": "Name Cs",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_cs",
+      "label": "Continent Cs",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    },
+    {
+      "key": "part_of_iso2",
+      "label": "Part Of Iso2",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "name_cs": "Antarktida",
+      "name_en": "Antarctica",
+      "name_native": "Antarctica",
+      "slug": "antarktida",
+      "phone_codes": "672",
+      "phone_codes_formatted": "+672",
+      "continent_code": "AN",
+      "continent_cs": "Antarktida",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "",
+      "emoji_flag": "🇦🇶",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "name_cs": "Bouvetův ostrov",
+      "name_en": "Bouvet Island",
+      "name_native": "Bouvetøya",
+      "slug": "bouvetuv-ostrov",
+      "phone_codes": "47",
+      "phone_codes_formatted": "+47",
+      "continent_code": "AN",
+      "continent_cs": "Antarktida",
+      "capital": "",
+      "currency_codes": "NOK",
+      "language_codes": "no, nb, nn",
+      "emoji_flag": "🇧🇻",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "name_cs": "Francouzská jižní a antarktická území",
+      "name_en": "French Southern Territories",
+      "name_native": "Territoire des Terres australes et antarctiques fr",
+      "slug": "francouzska-jizni-a-antarkticka-uzemi",
+      "phone_codes": "262",
+      "phone_codes_formatted": "+262",
+      "continent_code": "AN",
+      "continent_cs": "Antarktida",
+      "capital": "Port-aux-Français",
+      "currency_codes": "EUR",
+      "language_codes": "fr",
+      "emoji_flag": "🇹🇫",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "name_cs": "Heardův ostrov a McDonaldovy ostrovy",
+      "name_en": "Heard Island and McDonald Islands",
+      "name_native": "Heard Island and McDonald Islands",
+      "slug": "hearduv-ostrov-a-mcdonaldovy-ostrovy",
+      "phone_codes": "61",
+      "phone_codes_formatted": "+61",
+      "continent_code": "AN",
+      "continent_cs": "Antarktida",
+      "capital": "",
+      "currency_codes": "AUD",
+      "language_codes": "en",
+      "emoji_flag": "🇭🇲",
+      "part_of_iso2": ""
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "name_cs": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+      "name_en": "South Georgia and the South Sandwich Islands",
+      "name_native": "South Georgia",
+      "slug": "jizni-georgie-a-jizni-sandwichovy-ostrovy",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "AN",
+      "continent_cs": "Antarktida",
+      "capital": "King Edward Point",
+      "currency_codes": "GBP",
+      "language_codes": "en",
+      "emoji_flag": "🇬🇸",
+      "part_of_iso2": ""
+    }
+  ],
+  "meta": {
+    "title": "Země — Antarktida - Stáhnout zdarma",
+    "description": "Země a závislá území světadílu Antarktida (5 záznamů) — výřez z cs-zeme. Obsahuje 5 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Země — Antarktida | ListBase",
+    "seo_description": "Stáhnout Země — Antarktida — 5 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 5 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

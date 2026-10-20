@@ -1,0 +1,544 @@
+{
+  "id": "cs-fotbalove-kluby",
+  "name": "Česká republika — Fotbalové kluby",
+  "title": "Česká republika — Fotbalové kluby",
+  "description": "Komplexní registr českých fotbalových klubů (současné i historické) zahrnující ročník Chance Ligy (1. liga) 2024/25. Záznamy obsahují kanonický název, rok založení, stadion, město a alternativní názvy (přezdívky, anglické a německé varianty). Příznak `in_top_division_2024_25` označuje kluby aktuální nejvyšší soutěže.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    },
+    {
+      "key": "in_top_division_2024_25",
+      "label": "In Top Division 2024 25",
+      "type": "boolean"
+    },
+    {
+      "key": "league_2024_25",
+      "label": "League 2024 25",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "1. FC Slovácko",
+      "slug": "1-fc-slovacko",
+      "founded": 1927,
+      "defunct": "",
+      "stadium": "Městský fotbalový stadion Miroslava Valenty",
+      "city": "Uherské Hradiště",
+      "aliases": "Slovácko, 1. Fotbalový Klub Slovácko",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 2,
+      "name": "1. SC Znojmo FK",
+      "slug": "1-sc-znojmo-fk",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Znojmo",
+      "aliases": "Znojmo, 1. SC Znojmo",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 3,
+      "name": "1. SK Prostějov",
+      "slug": "1-sk-prostejov",
+      "founded": 1904,
+      "defunct": "",
+      "stadium": "",
+      "city": "Prostějov",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 4,
+      "name": "AC Sparta Praha",
+      "slug": "ac-sparta-praha",
+      "founded": 1893,
+      "defunct": "",
+      "stadium": "Generali Arena",
+      "city": "Praha",
+      "aliases": "Sparta Praha, Sparta Prague, Athletic Club Sparta Praha, Athletic Club Sparta Praha fotbal, AC Sparta Prague, Sparta Prag, AC Sparta Prag B",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 5,
+      "name": "Bohemians Praha 1905",
+      "slug": "bohemians-praha-1905",
+      "founded": 1905,
+      "defunct": "",
+      "stadium": "Ďolíček",
+      "city": "Praha",
+      "aliases": "Bohemians Praha, Bohemians 1905, Bohem. Prag 1905, FC Bohemians Prag 1905, Bohemians EKD Praha, Bohemians Prague 1905, Bohem. Prag",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 6,
+      "name": "FC Baník Ostrava",
+      "slug": "fc-banik-ostrava",
+      "founded": 1922,
+      "defunct": "",
+      "stadium": "Městský stadion v Ostravě-Vítkovicích",
+      "city": "Ostrava",
+      "aliases": "Baník, Baník Ostrava, Fotbalový club Baník Ostrava",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 7,
+      "name": "FC Hradec Králové",
+      "slug": "fc-hradec-kralove",
+      "founded": 1905,
+      "defunct": "",
+      "stadium": "",
+      "city": "Hradec Králové",
+      "aliases": "Hradec Králové, Football Club Hradec Králové, DSO Spartak Hradec Králové",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 8,
+      "name": "FC LeRK Brno",
+      "slug": "fc-lerk-brno",
+      "founded": 1910,
+      "defunct": 1995,
+      "stadium": "",
+      "city": "Brno",
+      "aliases": "Spartak Brno KPS",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 9,
+      "name": "FC Sellier & Bellot Vlašim",
+      "slug": "fc-sellier-bellot-vlasim",
+      "founded": 1922,
+      "defunct": "",
+      "stadium": "",
+      "city": "Vlašim",
+      "aliases": "FC Vlašim, FC Graffin Vlašim",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 10,
+      "name": "FC Silon Táborsko",
+      "slug": "fc-silon-taborsko",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Tábor",
+      "aliases": "Football Club Silon Táborsko, FK MAS Táborsko, FK Táborsko, MAS Táborsko",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 11,
+      "name": "FC Slovan Liberec",
+      "slug": "fc-slovan-liberec",
+      "founded": 1958,
+      "defunct": "",
+      "stadium": "Stadion u Nisy",
+      "city": "Liberec",
+      "aliases": "Liberec, Slovan Liberec, Fotbal Club Slovan Liberec, Football Club Slovan Liberec",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 12,
+      "name": "FC Vysočina Jihlava",
+      "slug": "fc-vysocina-jihlava",
+      "founded": 1948,
+      "defunct": "",
+      "stadium": "",
+      "city": "Jihlava",
+      "aliases": "Jihlava, FC Jihlava, Vysočina Jihlava",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 13,
+      "name": "FC Zbrojovka Brno",
+      "slug": "fc-zbrojovka-brno",
+      "founded": 1913,
+      "defunct": "",
+      "stadium": "Městský fotbalový stadion",
+      "city": "Brno",
+      "aliases": "Brno, Zbrojovka Brno, Football Club Zbrojovka Brno",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 14,
+      "name": "FC Zlín",
+      "slug": "fc-zlin",
+      "founded": 1919,
+      "defunct": "",
+      "stadium": "Letná",
+      "city": "Zlín",
+      "aliases": "Zlín, FC Fastav Zlín, Fastav Zlín, Football Club Fastav Zlín, Trinity Zlín, Football Club Trinity Zlín, FC Trinity Zlín",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 15,
+      "name": "FK Baník Sokolov",
+      "slug": "fk-banik-sokolov",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Sokolov",
+      "aliases": "",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 16,
+      "name": "FK Drnovice",
+      "slug": "fk-drnovice",
+      "founded": 1932,
+      "defunct": 2006,
+      "stadium": "",
+      "city": "Drnovice",
+      "aliases": "1. FK Drnovice, Petra Drnovice, Drnovice",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 17,
+      "name": "FK Dukla Praha",
+      "slug": "fk-dukla-praha",
+      "founded": 1958,
+      "defunct": "",
+      "stadium": "",
+      "city": "Praha",
+      "aliases": "Dukla, Dukla Prague, FK Dukla Prague, FK Dukla Prag, Dukla Praha",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 18,
+      "name": "FK Jablonec",
+      "slug": "fk-jablonec",
+      "founded": 1945,
+      "defunct": "",
+      "stadium": "Střelnice",
+      "city": "Jablonec nad Nisou",
+      "aliases": "Jablonec, Fotbalový klub Jablonec, FK Baumit Jablonec      ## check - $$$ Baumit is a sponsor?",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 19,
+      "name": "FK Mladá Boleslav",
+      "slug": "fk-mlada-boleslav",
+      "founded": 1902,
+      "defunct": "",
+      "stadium": "Lokotrans Aréna",
+      "city": "Mladá Boleslav",
+      "aliases": "Mladá Boleslav, Fotbalový klub Mladá Boleslav",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 20,
+      "name": "FK Pardubice",
+      "slug": "fk-pardubice",
+      "founded": 2008,
+      "defunct": "",
+      "stadium": "",
+      "city": "Pardubice",
+      "aliases": "Fotbalový Klub Pardubice, Pardubice",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 21,
+      "name": "FK Příbram",
+      "slug": "fk-pribram",
+      "founded": 1928,
+      "defunct": "",
+      "stadium": "Na Litavce",
+      "city": "Příbram",
+      "aliases": "Příbram, Fotbalový klub Příbram, FK Viagem Příbram, 1. FK Příbram, 1. Fotbalový klub Příbram",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 22,
+      "name": "FK Slavoj Vyšehrad",
+      "slug": "fk-slavoj-vysehrad",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Praha (Nusle)",
+      "aliases": "FC Slavoj Vyšehrad",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 23,
+      "name": "FK Teplice",
+      "slug": "fk-teplice",
+      "founded": 1945,
+      "defunct": "",
+      "stadium": "AGC Arena Na Stínadlech",
+      "city": "Teplice",
+      "aliases": "Teplice, Fotbalový klub Teplice",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 24,
+      "name": "FK Třinec",
+      "slug": "fk-trinec",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Třinec",
+      "aliases": "FK Fotbal Třinec",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 25,
+      "name": "FK Varnsdorf",
+      "slug": "fk-varnsdorf",
+      "founded": 1938,
+      "defunct": "",
+      "stadium": "",
+      "city": "Varnsdorf",
+      "aliases": "Fotbalový klub Varnsdorf",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 26,
+      "name": "FK Viktoria Žižkov",
+      "slug": "fk-viktoria-zizkov",
+      "founded": 1903,
+      "defunct": "",
+      "stadium": "",
+      "city": "Praha (Žižkov)",
+      "aliases": "Viktoria Žižkov, Žižkov",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 27,
+      "name": "FK Ústí nad Labem",
+      "slug": "fk-usti-nad-labem",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Ústí nad Labem",
+      "aliases": "Ústí nad Labem",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 28,
+      "name": "Hanácká Slávia Kroměříž",
+      "slug": "hanacka-slavia-kromeriz",
+      "founded": 1919,
+      "defunct": "",
+      "stadium": "",
+      "city": "Kroměříž",
+      "aliases": "SK Hanácká Slavia, SK Hanácká Slavia Kroměříž",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 29,
+      "name": "MFK Chrudim",
+      "slug": "mfk-chrudim",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Chrudim",
+      "aliases": "Městský fotbalový klub Chrudim, AFK Chrudim",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 30,
+      "name": "MFK Karviná",
+      "slug": "mfk-karvina",
+      "founded": 2003,
+      "defunct": "",
+      "stadium": "Městský",
+      "city": "",
+      "aliases": "Karviná, Městský fotbalový klub Ostravsko-karvinské doly Karviná",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 31,
+      "name": "MFK Vyškov",
+      "slug": "mfk-vyskov",
+      "founded": 1921,
+      "defunct": "",
+      "stadium": "",
+      "city": "Vyškov",
+      "aliases": "Městský fotbalový klub Vyškov",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 32,
+      "name": "MFK Vítkovice",
+      "slug": "mfk-vitkovice",
+      "founded": 1919,
+      "defunct": "",
+      "stadium": "",
+      "city": "Ostrava (Vítkovice)",
+      "aliases": "Městský fotbalový klub Vítkovice, TJ Vítkovice",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 33,
+      "name": "SFC Opava",
+      "slug": "sfc-opava",
+      "founded": 1907,
+      "defunct": "",
+      "stadium": "Městský stadion Opava",
+      "city": "",
+      "aliases": "Opava, Slezský fotbalový club Opava",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 34,
+      "name": "SK Dynamo České Budějovice",
+      "slug": "sk-dynamo-ceske-budejovice",
+      "founded": 1905,
+      "defunct": "",
+      "stadium": "Střelecký ostrov",
+      "city": "",
+      "aliases": "Dynamo České Budějovice, České Budĕjov., České Budějovice, SK Dynamo Budweis, Sportovní klub Dynamo České Budějovice",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 35,
+      "name": "SK Kladno",
+      "slug": "sk-kladno",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Kladno",
+      "aliases": "Kladno, Sportovní Klub Kladno",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 36,
+      "name": "SK Líšeň",
+      "slug": "sk-lisen",
+      "founded": "",
+      "defunct": "",
+      "stadium": "",
+      "city": "Brno",
+      "aliases": "SK Líšeň Brno",
+      "in_top_division_2024_25": false,
+      "league_2024_25": ""
+    },
+    {
+      "id": 37,
+      "name": "SK Sigma Olomouc",
+      "slug": "sk-sigma-olomouc",
+      "founded": 1919,
+      "defunct": "",
+      "stadium": "Andrův",
+      "city": "Olomouc",
+      "aliases": "Olomouc, Sigma, Sigma Olomouc, Sportovní klub Sigma Olomouc, SK Sigma Olmütz, SK Sigma Olmütz B",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 38,
+      "name": "SK Slavia Praha",
+      "slug": "sk-slavia-praha",
+      "founded": 1892,
+      "defunct": "",
+      "stadium": "Sinobo Stadium",
+      "city": "Praha",
+      "aliases": "Slavia Praha, Sportovní klub Slavia Praha, Sportovní klub Slavia Praha fotbal, SK Slavia Prague, Slavia Prague, Slavia Prag, SK Slavia Prag",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    },
+    {
+      "id": 39,
+      "name": "Viktoria Plzeň",
+      "slug": "viktoria-plzen",
+      "founded": 1911,
+      "defunct": "",
+      "stadium": "Doosan Aréna",
+      "city": "Plzeň",
+      "aliases": "Plzeň, FC Viktoria Plzeň, Fotbal Club Viktoria Plzeň, Football Club Viktoria Plzeň, Vikt. Pilsen, Viktoria Pilsen",
+      "in_top_division_2024_25": true,
+      "league_2024_25": "Chance Liga (1. liga) 2024/25"
+    }
+  ],
+  "meta": {
+    "title": "Česká republika — Fotbalové kluby - Stáhnout zdarma",
+    "description": "Komplexní registr českých fotbalových klubů (současné i historické) zahrnující ročník Chance Ligy (1. liga) 2024/25. Záznamy obsahují kanonický název, rok založení, stadion, město a alternativní názvy (přezdívky, anglické a německé varianty). Příznak `in_top_division_2024_25` označuje kluby aktuální nejvyšší soutěže. Obsahuje 39 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Česká republika — Fotbalové kluby | ListBase",
+    "seo_description": "Stáhnout Česká republika — Fotbalové kluby — 39 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 39 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

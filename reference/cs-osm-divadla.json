@@ -1,0 +1,2081 @@
+{
+  "id": "cs-osm-divadla",
+  "name": "Divadla (OSM)",
+  "title": "Divadla (OSM)",
+  "description": "Seznam pojmenovaných divadel v České republice (408 záznamů) — body zájmu z OpenStreetMap (tag amenity=theatre), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 408,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Divadlo",
+      "latitude": 50.909092,
+      "longitude": 14.632817
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 50.849001,
+      "longitude": 14.478895
+    },
+    {
+      "name": "Lesní divadlo Srbská Kamenice",
+      "latitude": 50.82234,
+      "longitude": 14.357886
+    },
+    {
+      "name": "Městské Divadlo Děčín",
+      "latitude": 50.775723,
+      "longitude": 14.192045
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 50.800597,
+      "longitude": 14.418683
+    },
+    {
+      "name": "Lesní divadlo Mlýny",
+      "latitude": 50.816654,
+      "longitude": 14.517274
+    },
+    {
+      "name": "Městské divadlo Nový Bor",
+      "latitude": 50.764335,
+      "longitude": 14.550521
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 50.799623,
+      "longitude": 15.083714
+    },
+    {
+      "name": "Divadlo F.X.Šaldy",
+      "latitude": 50.773359,
+      "longitude": 15.051977
+    },
+    {
+      "name": "Divadlo F. X. Šaldy",
+      "latitude": 50.770482,
+      "longitude": 15.058784
+    },
+    {
+      "name": "Malé divadlo",
+      "latitude": 50.773304,
+      "longitude": 15.051523
+    },
+    {
+      "name": "Naivní divadlo",
+      "latitude": 50.767843,
+      "longitude": 15.057801
+    },
+    {
+      "name": "Freilichtbühne am Torfhaus",
+      "latitude": 50.715784,
+      "longitude": 13.605635
+    },
+    {
+      "name": "Krušnohorské divadlo",
+      "latitude": 50.640079,
+      "longitude": 13.828059
+    },
+    {
+      "name": "Mušle",
+      "latitude": 50.641294,
+      "longitude": 13.839648
+    },
+    {
+      "name": "Severočeské divadlo opery a baletu",
+      "latitude": 50.660193,
+      "longitude": 14.034608
+    },
+    {
+      "name": "Čínoherní studio",
+      "latitude": 50.656305,
+      "longitude": 14.048057
+    },
+    {
+      "name": "Docela velké divadlo",
+      "latitude": 50.600583,
+      "longitude": 13.611639
+    },
+    {
+      "name": "Citadela",
+      "latitude": 50.60925,
+      "longitude": 13.626517
+    },
+    {
+      "name": "Divadlo M",
+      "latitude": 50.601439,
+      "longitude": 13.751209
+    },
+    {
+      "name": "Kulturní Dům Bílina",
+      "latitude": 50.549633,
+      "longitude": 13.774534
+    },
+    {
+      "name": "Pódium",
+      "latitude": 50.51695,
+      "longitude": 14.052566
+    },
+    {
+      "name": "Venkovní divadlo",
+      "latitude": 50.359784,
+      "longitude": 12.933142
+    },
+    {
+      "name": "Letní kino",
+      "latitude": 50.305039,
+      "longitude": 12.936881
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 50.386585,
+      "longitude": 13.179162
+    },
+    {
+      "name": "Amfík",
+      "latitude": 50.377419,
+      "longitude": 13.258401
+    },
+    {
+      "name": "Kulturní dům Jirkov",
+      "latitude": 50.498411,
+      "longitude": 13.449457
+    },
+    {
+      "name": "Městské divadlo Chomutov",
+      "latitude": 50.463923,
+      "longitude": 13.414037
+    },
+    {
+      "name": "Divadlo rozmanitostí",
+      "latitude": 50.495833,
+      "longitude": 13.64954
+    },
+    {
+      "name": "Městské divadlo v Mostě",
+      "latitude": 50.501673,
+      "longitude": 13.641856
+    },
+    {
+      "name": "Kulturní středisko",
+      "latitude": 50.406458,
+      "longitude": 14.044792
+    },
+    {
+      "name": "Divadlo",
+      "latitude": 50.32726,
+      "longitude": 13.543508
+    },
+    {
+      "name": "Vrchlického divadlo",
+      "latitude": 50.355547,
+      "longitude": 13.798673
+    },
+    {
+      "name": "Loutkové divadlo",
+      "latitude": 50.357731,
+      "longitude": 13.804123
+    },
+    {
+      "name": "Loutkové divadlo kahánek",
+      "latitude": 50.184231,
+      "longitude": 12.55202
+    },
+    {
+      "name": "Divadlo Boženy Němcové",
+      "latitude": 50.119761,
+      "longitude": 12.353971
+    },
+    {
+      "name": "Západočeské divadlo v Chebu",
+      "latitude": 50.076625,
+      "longitude": 12.367225
+    },
+    {
+      "name": "Amatérské divadlo",
+      "latitude": 50.114514,
+      "longitude": 12.531512
+    },
+    {
+      "name": "Karlovarské městské divadlo",
+      "latitude": 50.220969,
+      "longitude": 12.881689
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 50.084598,
+      "longitude": 13.623511
+    },
+    {
+      "name": "Dům osvěty Rakovník",
+      "latitude": 50.105248,
+      "longitude": 13.72432
+    },
+    {
+      "name": "Kulturní centrum Rakovník",
+      "latitude": 50.102843,
+      "longitude": 13.730894
+    },
+    {
+      "name": "Tylovo divadlo Rakovník",
+      "latitude": 50.102741,
+      "longitude": 13.731274
+    },
+    {
+      "name": "Městské divadlo Mariánské Lázně",
+      "latitude": 49.977936,
+      "longitude": 12.70245
+    },
+    {
+      "name": "KOS Kulturní dům",
+      "latitude": 49.882118,
+      "longitude": 12.980361
+    },
+    {
+      "name": "bývalé lesní divadlo",
+      "latitude": 49.972243,
+      "longitude": 13.648544
+    },
+    {
+      "name": "Areál Velká louka",
+      "latitude": 49.937583,
+      "longitude": 13.385812
+    },
+    {
+      "name": "Štace",
+      "latitude": 49.893788,
+      "longitude": 13.384911
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 50.732714,
+      "longitude": 14.58217
+    },
+    {
+      "name": "Jiráskovo divadlo",
+      "latitude": 50.686667,
+      "longitude": 14.538697
+    },
+    {
+      "name": "Divadlo K. H. Máchy",
+      "latitude": 50.533167,
+      "longitude": 14.13178
+    },
+    {
+      "name": "přírodní anfiteátr",
+      "latitude": 50.535681,
+      "longitude": 14.719843
+    },
+    {
+      "name": "Městské divadlo Jablonec nad Nisou, o. p. s.",
+      "latitude": 50.724686,
+      "longitude": 15.166454
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 50.705958,
+      "longitude": 15.428071
+    },
+    {
+      "name": "Divadlo Krakonoš",
+      "latitude": 50.685007,
+      "longitude": 15.403234
+    },
+    {
+      "name": "Městské divadlo Železný Brod",
+      "latitude": 50.642639,
+      "longitude": 15.254144
+    },
+    {
+      "name": "Divadlo",
+      "latitude": 50.522741,
+      "longitude": 14.974355
+    },
+    {
+      "name": "Městské divadlo",
+      "latitude": 50.587039,
+      "longitude": 15.154992
+    },
+    {
+      "name": "Tylovo divadlo",
+      "latitude": 50.532801,
+      "longitude": 15.372525
+    },
+    {
+      "name": "Divadelní sdružení Tyl",
+      "latitude": 50.48102,
+      "longitude": 14.936006
+    },
+    {
+      "name": "Městské divadlo",
+      "latitude": 50.415489,
+      "longitude": 14.906975
+    },
+    {
+      "name": "Kulturní dům - Bradlecká Lhota",
+      "latitude": 50.488168,
+      "longitude": 15.396109
+    },
+    {
+      "name": "Masarykovo divadlo",
+      "latitude": 50.435718,
+      "longitude": 15.358005
+    },
+    {
+      "name": "Divadelní klub",
+      "latitude": 50.628247,
+      "longitude": 15.612844
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 50.535863,
+      "longitude": 15.513116
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 50.529006,
+      "longitude": 15.563129
+    },
+    {
+      "name": "Amphitheater",
+      "latitude": 50.553113,
+      "longitude": 15.906925
+    },
+    {
+      "name": "UFFO",
+      "latitude": 50.563423,
+      "longitude": 15.910283
+    },
+    {
+      "name": "Městské Divadlo",
+      "latitude": 50.585767,
+      "longitude": 16.331918
+    },
+    {
+      "name": "Kolárovo divadlo",
+      "latitude": 50.537232,
+      "longitude": 16.237437
+    },
+    {
+      "name": "MKS",
+      "latitude": 50.495185,
+      "longitude": 15.513805
+    },
+    {
+      "name": "Hankův dům",
+      "latitude": 50.43105,
+      "longitude": 15.811896
+    },
+    {
+      "name": "Divadlo Aloise Jiráska Úpice",
+      "latitude": 50.511584,
+      "longitude": 16.015672
+    },
+    {
+      "name": "Divadlo J. K. Tyla",
+      "latitude": 50.478603,
+      "longitude": 16.091725
+    },
+    {
+      "name": "Přírodní parket",
+      "latitude": 50.453692,
+      "longitude": 16.045939
+    },
+    {
+      "name": "Dr. Josefa Čížka",
+      "latitude": 50.417096,
+      "longitude": 16.162184
+    },
+    {
+      "name": "Divadélko pod Zámkem",
+      "latitude": 50.416154,
+      "longitude": 16.161147
+    },
+    {
+      "name": "Theatre DK Koruna",
+      "latitude": 50.37039,
+      "longitude": 15.631735
+    },
+    {
+      "name": "Městské kulturní středisko Jaroměř",
+      "latitude": 50.352776,
+      "longitude": 15.918449
+    },
+    {
+      "name": "Přírodní divadlo De Spiel",
+      "latitude": 50.459826,
+      "longitude": 16.182078
+    },
+    {
+      "name": "Jiráskovo divadlo",
+      "latitude": 50.480239,
+      "longitude": 16.182863
+    },
+    {
+      "name": "Přírodní amfiteátr De Spiel",
+      "latitude": 50.45982,
+      "longitude": 16.182081
+    },
+    {
+      "name": "Teatr Zdrojowy",
+      "latitude": 50.442347,
+      "longitude": 16.245457
+    },
+    {
+      "name": "Přírodní divadlo Val",
+      "latitude": 50.306682,
+      "longitude": 16.185944
+    },
+    {
+      "name": "Slanske divadlo",
+      "latitude": 50.230148,
+      "longitude": 14.082276
+    },
+    {
+      "name": "Divadlo kouzel Pavla Kožíška",
+      "latitude": 50.193253,
+      "longitude": 14.493056
+    },
+    {
+      "name": "Divadlo Lampion",
+      "latitude": 50.14679,
+      "longitude": 14.101758
+    },
+    {
+      "name": "Městské divadlo Kladno",
+      "latitude": 50.144092,
+      "longitude": 14.106196
+    },
+    {
+      "name": "Kladenské divadélko",
+      "latitude": 50.144038,
+      "longitude": 14.104753
+    },
+    {
+      "name": "Divadelní soubor MANETKA",
+      "latitude": 50.161392,
+      "longitude": 14.258865
+    },
+    {
+      "name": "Přírodní divadlo Divoká Šárka",
+      "latitude": 50.099495,
+      "longitude": 14.324459
+    },
+    {
+      "name": "Divadlo Spejbla a Hurvínka",
+      "latitude": 50.098995,
+      "longitude": 14.398878
+    },
+    {
+      "name": "Semafor",
+      "latitude": 50.099157,
+      "longitude": 14.39762
+    },
+    {
+      "name": "Dejvické divadlo",
+      "latitude": 50.106678,
+      "longitude": 14.393144
+    },
+    {
+      "name": "Tineola",
+      "latitude": 50.096018,
+      "longitude": 14.344274
+    },
+    {
+      "name": "Letní shakespearovské slavnosti",
+      "latitude": 50.092919,
+      "longitude": 14.401274
+    },
+    {
+      "name": "Archa",
+      "latitude": 50.115569,
+      "longitude": 14.406607
+    },
+    {
+      "name": "Inspirace",
+      "latitude": 50.088349,
+      "longitude": 14.402038
+    },
+    {
+      "name": "Divadlo Kampa",
+      "latitude": 50.084301,
+      "longitude": 14.406992
+    },
+    {
+      "name": "Divadlo Lávka",
+      "latitude": 50.085465,
+      "longitude": 14.413008
+    },
+    {
+      "name": "Na Prádle",
+      "latitude": 50.082297,
+      "longitude": 14.405675
+    },
+    {
+      "name": "A studio Rubín",
+      "latitude": 50.087562,
+      "longitude": 14.402873
+    },
+    {
+      "name": "Metro Comedy Club",
+      "latitude": 50.087628,
+      "longitude": 14.403183
+    },
+    {
+      "name": "Letní scéna Divadla Ungelt",
+      "latitude": 50.090897,
+      "longitude": 14.3921
+    },
+    {
+      "name": "Divadlo Orfeus",
+      "latitude": 50.071931,
+      "longitude": 14.388873
+    },
+    {
+      "name": "Národní divadlo",
+      "latitude": 50.080805,
+      "longitude": 14.413547
+    },
+    {
+      "name": "Švandovo divadlo",
+      "latitude": 50.077803,
+      "longitude": 14.403848
+    },
+    {
+      "name": "Divadlo Karla Hackera",
+      "latitude": 50.124001,
+      "longitude": 14.456169
+    },
+    {
+      "name": "Divadlo Za plotem",
+      "latitude": 50.134396,
+      "longitude": 14.419692
+    },
+    {
+      "name": "Salesiánské divadlo",
+      "latitude": 50.123085,
+      "longitude": 14.451559
+    },
+    {
+      "name": "Tau divadlo",
+      "latitude": 50.131451,
+      "longitude": 14.448916
+    },
+    {
+      "name": "amfiteátr",
+      "latitude": 50.133082,
+      "longitude": 14.553329
+    },
+    {
+      "name": "Městský kulturní dům",
+      "latitude": 50.160566,
+      "longitude": 14.749972
+    },
+    {
+      "name": "Divadlo Gong",
+      "latitude": 50.107083,
+      "longitude": 14.48844
+    },
+    {
+      "name": "Vila Štvanice",
+      "latitude": 50.0956,
+      "longitude": 14.436059
+    },
+    {
+      "name": "Alfred ve dvoře",
+      "latitude": 50.101185,
+      "longitude": 14.430472
+    },
+    {
+      "name": "Divadlo pod Palmovkou",
+      "latitude": 50.105468,
+      "longitude": 14.473096
+    },
+    {
+      "name": "Radar",
+      "latitude": 50.099678,
+      "longitude": 14.435291
+    },
+    {
+      "name": "Divadlo Kámen",
+      "latitude": 50.095597,
+      "longitude": 14.468466
+    },
+    {
+      "name": "pidivadlo",
+      "latitude": 50.098221,
+      "longitude": 14.425426
+    },
+    {
+      "name": "NABLÍZKO",
+      "latitude": 50.101026,
+      "longitude": 14.41728
+    },
+    {
+      "name": "Mimotaurus",
+      "latitude": 50.102332,
+      "longitude": 14.433707
+    },
+    {
+      "name": "The Bear Theatre",
+      "latitude": 50.097849,
+      "longitude": 14.430528
+    },
+    {
+      "name": "La Fabrika",
+      "latitude": 50.103825,
+      "longitude": 14.450446
+    },
+    {
+      "name": "RockOpera Praha",
+      "latitude": 50.099874,
+      "longitude": 14.449815
+    },
+    {
+      "name": "JATKA78",
+      "latitude": 50.100026,
+      "longitude": 14.446523
+    },
+    {
+      "name": "Studio hrdinů",
+      "latitude": 50.101003,
+      "longitude": 14.432694
+    },
+    {
+      "name": "Divadlo Na Maninách",
+      "latitude": 50.103808,
+      "longitude": 14.453147
+    },
+    {
+      "name": "GoJa Music Hall",
+      "latitude": 50.108069,
+      "longitude": 14.431897
+    },
+    {
+      "name": "Spirála",
+      "latitude": 50.108377,
+      "longitude": 14.429922
+    },
+    {
+      "name": "Park Zahrádky",
+      "latitude": 50.106694,
+      "longitude": 14.51756
+    },
+    {
+      "name": "Divadlo Komedie",
+      "latitude": 50.079443,
+      "longitude": 14.421508
+    },
+    {
+      "name": "Studio Ypsilon",
+      "latitude": 50.080888,
+      "longitude": 14.420284
+    },
+    {
+      "name": "Divadlo V Dlouhé",
+      "latitude": 50.091235,
+      "longitude": 14.42675
+    },
+    {
+      "name": "ARCHA+",
+      "latitude": 50.089508,
+      "longitude": 14.434176
+    },
+    {
+      "name": "Hudební divadlo Karlín",
+      "latitude": 50.090122,
+      "longitude": 14.441241
+    },
+    {
+      "name": "Divadlo Hybernia",
+      "latitude": 50.087409,
+      "longitude": 14.428697
+    },
+    {
+      "name": "P.M. Club & Cocktail bar",
+      "latitude": 50.070597,
+      "longitude": 14.416042
+    },
+    {
+      "name": "Divadlo Bez zábradlí",
+      "latitude": 50.082481,
+      "longitude": 14.42178
+    },
+    {
+      "name": "Palác Akropolis",
+      "latitude": 50.08233,
+      "longitude": 14.448743
+    },
+    {
+      "name": "Rokoko",
+      "latitude": 50.081391,
+      "longitude": 14.426269
+    },
+    {
+      "name": "Divadlo ABC",
+      "latitude": 50.080365,
+      "longitude": 14.424881
+    },
+    {
+      "name": "All Colours Theatre",
+      "latitude": 50.085546,
+      "longitude": 14.42286
+    },
+    {
+      "name": "Divadlo Disk",
+      "latitude": 50.085939,
+      "longitude": 14.417291
+    },
+    {
+      "name": "Divadlo Minor",
+      "latitude": 50.078522,
+      "longitude": 14.421879
+    },
+    {
+      "name": "Divadlo v Řeznické",
+      "latitude": 50.078145,
+      "longitude": 14.423691
+    },
+    {
+      "name": "Divadlo Kalich",
+      "latitude": 50.080286,
+      "longitude": 14.421794
+    },
+    {
+      "name": "Divadlo Kolowrat",
+      "latitude": 50.085998,
+      "longitude": 14.424214
+    },
+    {
+      "name": "Divadlo v Celetné",
+      "latitude": 50.087284,
+      "longitude": 14.424647
+    },
+    {
+      "name": "Tingl Tangl",
+      "latitude": 50.082514,
+      "longitude": 14.414824
+    },
+    {
+      "name": "Divadlo Metro",
+      "latitude": 50.082601,
+      "longitude": 14.41828
+    },
+    {
+      "name": "Divadlo Viola",
+      "latitude": 50.081846,
+      "longitude": 14.415189
+    },
+    {
+      "name": "Divadlo Lucie Bílé",
+      "latitude": 50.085786,
+      "longitude": 14.415097
+    },
+    {
+      "name": "Divadlo Na zábradlí",
+      "latitude": 50.08502,
+      "longitude": 14.414578
+    },
+    {
+      "name": "Divadlo 90: U Valšů",
+      "latitude": 50.083723,
+      "longitude": 14.414471
+    },
+    {
+      "name": "Divadlo Broadway",
+      "latitude": 50.086687,
+      "longitude": 14.427009
+    },
+    {
+      "name": "Národní divadlo Marionet",
+      "latitude": 50.087772,
+      "longitude": 14.417595
+    },
+    {
+      "name": "Strašnické divadlo",
+      "latitude": 50.075342,
+      "longitude": 14.499108
+    },
+    {
+      "name": "Divadlo Ungelt",
+      "latitude": 50.087844,
+      "longitude": 14.424308
+    },
+    {
+      "name": "Divadlo U Hasičů",
+      "latitude": 50.076664,
+      "longitude": 14.438498
+    },
+    {
+      "name": "Činoherní klub",
+      "latitude": 50.079284,
+      "longitude": 14.427484
+    },
+    {
+      "name": "Divadlo Radka Brzobohatého",
+      "latitude": 50.081457,
+      "longitude": 14.42954
+    },
+    {
+      "name": "Žižkovské divadlo Járy Cimrmana",
+      "latitude": 50.085675,
+      "longitude": 14.449377
+    },
+    {
+      "name": "Divadlo Ponec",
+      "latitude": 50.087138,
+      "longitude": 14.442887
+    },
+    {
+      "name": "Divadlo D21",
+      "latitude": 50.07267,
+      "longitude": 14.436873
+    },
+    {
+      "name": "IMAGE Black Light Theatre",
+      "latitude": 50.082439,
+      "longitude": 14.418032
+    },
+    {
+      "name": "Black Light Theatre Srnec",
+      "latitude": 50.084592,
+      "longitude": 14.425278
+    },
+    {
+      "name": "Komorní Fidlovačka",
+      "latitude": 50.064315,
+      "longitude": 14.439136
+    },
+    {
+      "name": "Divadlo v Korunní",
+      "latitude": 50.075214,
+      "longitude": 14.44283
+    },
+    {
+      "name": "Říše loutek",
+      "latitude": 50.087783,
+      "longitude": 14.417656
+    },
+    {
+      "name": "Divadlo bez hranic",
+      "latitude": 50.064893,
+      "longitude": 14.439165
+    },
+    {
+      "name": "Studio Dva",
+      "latitude": 50.080057,
+      "longitude": 14.42844
+    },
+    {
+      "name": "Divadlo Minaret",
+      "latitude": 50.081821,
+      "longitude": 14.418611
+    },
+    {
+      "name": "studio dva",
+      "latitude": 50.083072,
+      "longitude": 14.419106
+    },
+    {
+      "name": "Vršovické divadlo Mana",
+      "latitude": 50.068925,
+      "longitude": 14.454036
+    },
+    {
+      "name": "Miriam",
+      "latitude": 50.068702,
+      "longitude": 14.494694
+    },
+    {
+      "name": "Komorní divadlo kalich",
+      "latitude": 50.085623,
+      "longitude": 14.422997
+    },
+    {
+      "name": "V Rytířské",
+      "latitude": 50.085573,
+      "longitude": 14.422932
+    },
+    {
+      "name": "Divadlo Palace",
+      "latitude": 50.08171,
+      "longitude": 14.428924
+    },
+    {
+      "name": "Venuše ve Švehlovce",
+      "latitude": 50.0805,
+      "longitude": 14.447547
+    },
+    {
+      "name": "Kalich",
+      "latitude": 50.080261,
+      "longitude": 14.422214
+    },
+    {
+      "name": "Divadlo Františka Troníčka",
+      "latitude": 50.081368,
+      "longitude": 14.421296
+    },
+    {
+      "name": "X10",
+      "latitude": 50.0823,
+      "longitude": 14.420827
+    },
+    {
+      "name": "Loď Tajemství",
+      "latitude": 50.069245,
+      "longitude": 14.414144
+    },
+    {
+      "name": "Divadlo Procity",
+      "latitude": 50.07617,
+      "longitude": 14.450596
+    },
+    {
+      "name": "Foersterova síň",
+      "latitude": 50.07852,
+      "longitude": 14.415138
+    },
+    {
+      "name": "Divadlo Na Rejdišti",
+      "latitude": 50.090544,
+      "longitude": 14.416196
+    },
+    {
+      "name": "Divadlo Debut",
+      "latitude": 50.064422,
+      "longitude": 14.439056
+    },
+    {
+      "name": "Nová scéna Národního Divadla",
+      "latitude": 50.081189,
+      "longitude": 14.414617
+    },
+    {
+      "name": "svatý Šimon a Juda",
+      "latitude": 50.091997,
+      "longitude": 14.420655
+    },
+    {
+      "name": "Státní opera Praha",
+      "latitude": 50.080428,
+      "longitude": 14.433003
+    },
+    {
+      "name": "Divadlo na Vinohradech",
+      "latitude": 50.076296,
+      "longitude": 14.437082
+    },
+    {
+      "name": "Divadlo Na Fidlovačce",
+      "latitude": 50.064509,
+      "longitude": 14.435833
+    },
+    {
+      "name": "Stavovské divadlo",
+      "latitude": 50.085862,
+      "longitude": 14.423485
+    },
+    {
+      "name": "Letní scéna",
+      "latitude": 50.066428,
+      "longitude": 14.416687
+    },
+    {
+      "name": "Koncertní sál Pražské konzervatoře",
+      "latitude": 50.090669,
+      "longitude": 14.41586
+    },
+    {
+      "name": "Smetanova síň",
+      "latitude": 50.087726,
+      "longitude": 14.427678
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 50.087751,
+      "longitude": 14.58041
+    },
+    {
+      "name": "Divadlo Horní Počernice",
+      "latitude": 50.116465,
+      "longitude": 14.621724
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 50.118297,
+      "longitude": 14.696041
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.240665,
+      "longitude": 14.860353
+    },
+    {
+      "name": "A-Z Divadlo",
+      "latitude": 50.229245,
+      "longitude": 14.877273
+    },
+    {
+      "name": "Hálkovo městské divadlo",
+      "latitude": 50.184508,
+      "longitude": 15.0397
+    },
+    {
+      "name": "Divadlo Na Kovárně",
+      "latitude": 50.142137,
+      "longitude": 15.119478
+    },
+    {
+      "name": "Konzervatoř Duncan centre",
+      "latitude": 50.037822,
+      "longitude": 14.412054
+    },
+    {
+      "name": "Branické divadlo",
+      "latitude": 50.035825,
+      "longitude": 14.413852
+    },
+    {
+      "name": "divadlo Jana Kašky",
+      "latitude": 49.975646,
+      "longitude": 14.396254
+    },
+    {
+      "name": "Srnec Theatre",
+      "latitude": 49.974925,
+      "longitude": 14.394796
+    },
+    {
+      "name": "Divadlo Na Jezerce",
+      "latitude": 50.057916,
+      "longitude": 14.444491
+    },
+    {
+      "name": "Dobeška",
+      "latitude": 50.040755,
+      "longitude": 14.415297
+    },
+    {
+      "name": "Divadlo Bolka Polívky U22",
+      "latitude": 50.029073,
+      "longitude": 14.60575
+    },
+    {
+      "name": "Voděrádky",
+      "latitude": 49.98048,
+      "longitude": 14.632333
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 49.907496,
+      "longitude": 14.233224
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 50.033737,
+      "longitude": 15.193311
+    },
+    {
+      "name": "Městské divadlo",
+      "latitude": 50.026236,
+      "longitude": 15.20598
+    },
+    {
+      "name": "Tylovo divadlo",
+      "latitude": 49.951737,
+      "longitude": 15.275471
+    },
+    {
+      "name": "Vodní scéna GASK",
+      "latitude": 49.947001,
+      "longitude": 15.261996
+    },
+    {
+      "name": "Dusíkovo divadlo Čáslav",
+      "latitude": 49.911101,
+      "longitude": 15.393823
+    },
+    {
+      "name": "Divadlo Aloise Jiráska",
+      "latitude": 50.239054,
+      "longitude": 15.492472
+    },
+    {
+      "name": "Amfiteatr Chlum",
+      "latitude": 50.280019,
+      "longitude": 15.740175
+    },
+    {
+      "name": "Obecní Amfiteátr",
+      "latitude": 50.180043,
+      "longitude": 15.537585
+    },
+    {
+      "name": "Kodymův národní dům",
+      "latitude": 50.268346,
+      "longitude": 16.115907
+    },
+    {
+      "name": "Beseda",
+      "latitude": 50.210513,
+      "longitude": 15.83689
+    },
+    {
+      "name": "Drak",
+      "latitude": 50.207706,
+      "longitude": 15.838484
+    },
+    {
+      "name": "Klicperovo Divadlo",
+      "latitude": 50.210928,
+      "longitude": 15.833925
+    },
+    {
+      "name": "Adalbertinum Hradecka Kulturni",
+      "latitude": 50.21121,
+      "longitude": 15.831113
+    },
+    {
+      "name": "Divadlo Jesličky",
+      "latitude": 50.215036,
+      "longitude": 15.855035
+    },
+    {
+      "name": "Lodivadlo",
+      "latitude": 50.210895,
+      "longitude": 15.837396
+    },
+    {
+      "name": "Přírodní divadlo",
+      "latitude": 50.182058,
+      "longitude": 15.86127
+    },
+    {
+      "name": "Kulturní centrum",
+      "latitude": 50.147204,
+      "longitude": 16.07493
+    },
+    {
+      "name": "přírodní divadlo",
+      "latitude": 50.108251,
+      "longitude": 15.976453
+    },
+    {
+      "name": "Přírodní divadlo",
+      "latitude": 50.227811,
+      "longitude": 16.288536
+    },
+    {
+      "name": "Pelclovo divadlo",
+      "latitude": 50.164628,
+      "longitude": 16.275463
+    },
+    {
+      "name": "Přírodní divadlo",
+      "latitude": 50.168379,
+      "longitude": 16.321595
+    },
+    {
+      "name": "SK Rabštejn",
+      "latitude": 50.123342,
+      "longitude": 16.210829
+    },
+    {
+      "name": "Divišovo divadlo",
+      "latitude": 50.082624,
+      "longitude": 16.464721
+    },
+    {
+      "name": "Střelnice",
+      "latitude": 50.080585,
+      "longitude": 16.765938
+    },
+    {
+      "name": "Divadlo 29",
+      "latitude": 50.040012,
+      "longitude": 15.779854
+    },
+    {
+      "name": "Sukova síň",
+      "latitude": 50.038334,
+      "longitude": 15.775174
+    },
+    {
+      "name": "Východočeské divadlo",
+      "latitude": 50.036815,
+      "longitude": 15.777721
+    },
+    {
+      "name": "Exil",
+      "latitude": 50.033611,
+      "longitude": 15.7664
+    },
+    {
+      "name": "Malá scéna ve dvoře",
+      "latitude": 50.035824,
+      "longitude": 15.777958
+    },
+    {
+      "name": "Šemberovo divadlo",
+      "latitude": 49.954346,
+      "longitude": 16.157307
+    },
+    {
+      "name": "Divadlo Karla Pippicha",
+      "latitude": 49.950609,
+      "longitude": 15.792104
+    },
+    {
+      "name": "Roškotovo divadlo",
+      "latitude": 49.975106,
+      "longitude": 16.391997
+    },
+    {
+      "name": "zámecké divadlo",
+      "latitude": 49.874012,
+      "longitude": 16.312512
+    },
+    {
+      "name": "Přírodní divadlo Podkova",
+      "latitude": 49.824769,
+      "longitude": 12.7857
+    },
+    {
+      "name": "Amfiteátr",
+      "latitude": 49.761292,
+      "longitude": 13.355392
+    },
+    {
+      "name": "Loutkové divadlo V Boudě",
+      "latitude": 49.745232,
+      "longitude": 13.327072
+    },
+    {
+      "name": "Loutkové divadlo Třemošná",
+      "latitude": 49.816106,
+      "longitude": 13.388804
+    },
+    {
+      "name": "Venkovní divadlo Habrmannovo nám.",
+      "latitude": 49.757275,
+      "longitude": 13.41932
+    },
+    {
+      "name": "Divadlo Alfa",
+      "latitude": 49.748431,
+      "longitude": 13.406877
+    },
+    {
+      "name": "Divadlo Josefa Kajetána Tyla - Velké divadlo",
+      "latitude": 49.745416,
+      "longitude": 13.37329
+    },
+    {
+      "name": "Pluto",
+      "latitude": 49.751752,
+      "longitude": 13.415252
+    },
+    {
+      "name": "Malá scéna DJKT",
+      "latitude": 49.749355,
+      "longitude": 13.372312
+    },
+    {
+      "name": "Za Plazou",
+      "latitude": 49.750263,
+      "longitude": 13.369859
+    },
+    {
+      "name": "Dialog",
+      "latitude": 49.744282,
+      "longitude": 13.373548
+    },
+    {
+      "name": "Nové divadlo",
+      "latitude": 49.749093,
+      "longitude": 13.372056
+    },
+    {
+      "name": "Divadlo Na Vísce",
+      "latitude": 49.836315,
+      "longitude": 13.909286
+    },
+    {
+      "name": "Klub Labe",
+      "latitude": 49.8364,
+      "longitude": 13.909215
+    },
+    {
+      "name": "Divadlo za vodou",
+      "latitude": 49.776316,
+      "longitude": 14.006608
+    },
+    {
+      "name": "divadlo Příbram",
+      "latitude": 49.681331,
+      "longitude": 14.001126
+    },
+    {
+      "name": "malá scéna",
+      "latitude": 49.681447,
+      "longitude": 14.001114
+    },
+    {
+      "name": "divadelní stodola",
+      "latitude": 49.368555,
+      "longitude": 13.572385
+    },
+    {
+      "name": "amfiteátr",
+      "latitude": 49.354694,
+      "longitude": 13.61849
+    },
+    {
+      "name": "Divadlo Mladějovice",
+      "latitude": 49.230436,
+      "longitude": 14.048557
+    },
+    {
+      "name": "Městské kulturní středisko",
+      "latitude": 49.055694,
+      "longitude": 13.779019
+    },
+    {
+      "name": "Městské divadlo",
+      "latitude": 49.012718,
+      "longitude": 13.997281
+    },
+    {
+      "name": "Městské divadlo Na Poště",
+      "latitude": 49.782511,
+      "longitude": 14.688682
+    },
+    {
+      "name": "Přírodní divadlo Konopiště",
+      "latitude": 49.777862,
+      "longitude": 14.652584
+    },
+    {
+      "name": "HogoFogo",
+      "latitude": 49.650397,
+      "longitude": 14.287223
+    },
+    {
+      "name": "Kulturní dům Josefa Suka",
+      "latitude": 49.659708,
+      "longitude": 14.420637
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 49.72107,
+      "longitude": 14.994749
+    },
+    {
+      "name": "Amfiteátr Lipnice n.Sáz.",
+      "latitude": 49.614735,
+      "longitude": 15.411864
+    },
+    {
+      "name": "Divadlo Oskara Nedbala",
+      "latitude": 49.413086,
+      "longitude": 14.662005
+    },
+    {
+      "name": "Divadlo Za komínem",
+      "latitude": 49.544165,
+      "longitude": 15.354094
+    },
+    {
+      "name": "Loutkové divadlo Humpolec",
+      "latitude": 49.537118,
+      "longitude": 15.352402
+    },
+    {
+      "name": "Městské divadlo",
+      "latitude": 49.430639,
+      "longitude": 15.221565
+    },
+    {
+      "name": "Kongresový a divadelní sál",
+      "latitude": 49.756259,
+      "longitude": 16.472277
+    },
+    {
+      "name": "Tylův dům",
+      "latitude": 49.71267,
+      "longitude": 16.26195
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.708416,
+      "longitude": 16.73306
+    },
+    {
+      "name": "amfiteátr",
+      "latitude": 49.589747,
+      "longitude": 15.932072
+    },
+    {
+      "name": "Městské divadlo Žďár nad Sázavou",
+      "latitude": 49.560773,
+      "longitude": 15.940603
+    },
+    {
+      "name": "DIOD",
+      "latitude": 49.398886,
+      "longitude": 15.584298
+    },
+    {
+      "name": "Horácké divadlo",
+      "latitude": 49.398187,
+      "longitude": 15.589362
+    },
+    {
+      "name": "amfiteatr",
+      "latitude": 49.5226,
+      "longitude": 16.261212
+    },
+    {
+      "name": "Pod čarou",
+      "latitude": 49.310802,
+      "longitude": 14.149296
+    },
+    {
+      "name": "Divadlo Fráni Šrámka",
+      "latitude": 49.309936,
+      "longitude": 14.150016
+    },
+    {
+      "name": "otáčivé hlediště",
+      "latitude": 49.222488,
+      "longitude": 14.425646
+    },
+    {
+      "name": "MDK Sokolovna",
+      "latitude": 49.226567,
+      "longitude": 14.421262
+    },
+    {
+      "name": "Kulturní dům Lišov",
+      "latitude": 49.016016,
+      "longitude": 14.609451
+    },
+    {
+      "name": "Jihočeská Filharmonie",
+      "latitude": 48.974086,
+      "longitude": 14.476551
+    },
+    {
+      "name": "Divadlo u Kapličky",
+      "latitude": 48.978985,
+      "longitude": 14.457328
+    },
+    {
+      "name": "Malé Divadlo",
+      "latitude": 48.97714,
+      "longitude": 14.475593
+    },
+    {
+      "name": "Jihočeské divadlo",
+      "latitude": 48.972471,
+      "longitude": 14.475132
+    },
+    {
+      "name": "Střelnice",
+      "latitude": 49.145702,
+      "longitude": 15.003611
+    },
+    {
+      "name": "Divadlo Josefa Kajetána Tyla",
+      "latitude": 49.003521,
+      "longitude": 14.772063
+    },
+    {
+      "name": "Národní Dům",
+      "latitude": 49.21564,
+      "longitude": 15.879946
+    },
+    {
+      "name": "Pasáž",
+      "latitude": 49.213388,
+      "longitude": 15.88019
+    },
+    {
+      "name": "Lesní divadlo",
+      "latitude": 49.357619,
+      "longitude": 16.456729
+    },
+    {
+      "name": "Divadlo Prkno",
+      "latitude": 49.276785,
+      "longitude": 16.438817
+    },
+    {
+      "name": "Barka",
+      "latitude": 49.221505,
+      "longitude": 16.591439
+    },
+    {
+      "name": "Husa na provázku",
+      "latitude": 49.191955,
+      "longitude": 16.607888
+    },
+    {
+      "name": "Městské Divadlo- Hudební scéna",
+      "latitude": 49.201319,
+      "longitude": 16.609185
+    },
+    {
+      "name": "Divadlo Polárka",
+      "latitude": 49.20823,
+      "longitude": 16.598013
+    },
+    {
+      "name": "Hadivadlo",
+      "latitude": 49.194558,
+      "longitude": 16.610012
+    },
+    {
+      "name": "Divadlo V",
+      "latitude": 49.210134,
+      "longitude": 16.587008
+    },
+    {
+      "name": "SONO Centrum",
+      "latitude": 49.209561,
+      "longitude": 16.588721
+    },
+    {
+      "name": "Za Hradbami",
+      "latitude": 49.18791,
+      "longitude": 16.59396
+    },
+    {
+      "name": "Cabaret des Péchés",
+      "latitude": 49.194491,
+      "longitude": 16.606151
+    },
+    {
+      "name": "Divadlo Bolka Polívky scéna",
+      "latitude": 49.198279,
+      "longitude": 16.602697
+    },
+    {
+      "name": "Divadlo na výstavišti",
+      "latitude": 49.189276,
+      "longitude": 16.582376
+    },
+    {
+      "name": "Janáčkovo divadlo",
+      "latitude": 49.198182,
+      "longitude": 16.611065
+    },
+    {
+      "name": "Reduta",
+      "latitude": 49.192078,
+      "longitude": 16.609829
+    },
+    {
+      "name": "Besední dům",
+      "latitude": 49.195994,
+      "longitude": 16.604274
+    },
+    {
+      "name": "Divadelní studio Marta",
+      "latitude": 49.205833,
+      "longitude": 16.601925
+    },
+    {
+      "name": "Divadlo Bolka Polívky",
+      "latitude": 49.196996,
+      "longitude": 16.608343
+    },
+    {
+      "name": "Letní scéna Divadla Bolka Polívky",
+      "latitude": 49.200336,
+      "longitude": 16.587433
+    },
+    {
+      "name": "Městské divadlo Brno",
+      "latitude": 49.201566,
+      "longitude": 16.608407
+    },
+    {
+      "name": "Varhanní sál",
+      "latitude": 49.197046,
+      "longitude": 16.604286
+    },
+    {
+      "name": "Divadlo Radost",
+      "latitude": 49.19891,
+      "longitude": 16.617797
+    },
+    {
+      "name": "Líšeňský Dělňák",
+      "latitude": 49.209226,
+      "longitude": 16.693523
+    },
+    {
+      "name": "Divadlo Neslyším",
+      "latitude": 49.199577,
+      "longitude": 16.624925
+    },
+    {
+      "name": "Divadlo Špílberg",
+      "latitude": 49.200821,
+      "longitude": 16.63786
+    },
+    {
+      "name": "Mahenovo divadlo",
+      "latitude": 49.196088,
+      "longitude": 16.61351
+    },
+    {
+      "name": "Divadlo Na Orlí",
+      "latitude": 49.194245,
+      "longitude": 16.612167
+    },
+    {
+      "name": "divadelní soubor J.K. Tyla",
+      "latitude": 49.17761,
+      "longitude": 16.685685
+    },
+    {
+      "name": "Lesní divadlo na Hlíně",
+      "latitude": 49.118077,
+      "longitude": 16.429662
+    },
+    {
+      "name": "Ořechovské divadlo",
+      "latitude": 49.110734,
+      "longitude": 16.514854
+    },
+    {
+      "name": "Přírodní amfiteátr v Šelši",
+      "latitude": 49.152807,
+      "longitude": 16.546202
+    },
+    {
+      "name": "Divadlo Boleradice",
+      "latitude": 48.967989,
+      "longitude": 16.814821
+    },
+    {
+      "name": "Letní divadlo",
+      "latitude": 50.228375,
+      "longitude": 17.212307
+    },
+    {
+      "name": "Divadlo Petra Bezruče",
+      "latitude": 50.225738,
+      "longitude": 17.206924
+    },
+    {
+      "name": "Amfiteátr",
+      "latitude": 50.254558,
+      "longitude": 17.365592
+    },
+    {
+      "name": "Městské divadlo",
+      "latitude": 50.089833,
+      "longitude": 17.695541
+    },
+    {
+      "name": "Divadlo Šumperk",
+      "latitude": 49.965444,
+      "longitude": 16.976531
+    },
+    {
+      "name": "Městské divadlo Rýmařov, z.s.",
+      "latitude": 49.934046,
+      "longitude": 17.270138
+    },
+    {
+      "name": "Loutkové divadlo",
+      "latitude": 49.937313,
+      "longitude": 17.890733
+    },
+    {
+      "name": "Slezské divadlo Opava",
+      "latitude": 49.939047,
+      "longitude": 17.901127
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 49.92054,
+      "longitude": 18.11198
+    },
+    {
+      "name": "Studio G",
+      "latitude": 49.838021,
+      "longitude": 18.28626
+    },
+    {
+      "name": "Amfiteátr",
+      "latitude": 49.843455,
+      "longitude": 18.320597
+    },
+    {
+      "name": "Městský dům kultury",
+      "latitude": 49.862732,
+      "longitude": 18.53812
+    },
+    {
+      "name": "Tylovo divadlo",
+      "latitude": 49.726809,
+      "longitude": 17.294501
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 49.794423,
+      "longitude": 17.62675
+    },
+    {
+      "name": "Divadlo Petra Bezruče",
+      "latitude": 49.830982,
+      "longitude": 18.275113
+    },
+    {
+      "name": "Divadlo Mír",
+      "latitude": 49.812255,
+      "longitude": 18.269386
+    },
+    {
+      "name": "Kulturní sál",
+      "latitude": 49.675503,
+      "longitude": 18.227745
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.598253,
+      "longitude": 17.056949
+    },
+    {
+      "name": "Moravské divadlo",
+      "latitude": 49.593311,
+      "longitude": 17.250499
+    },
+    {
+      "name": "Divadlo hudby",
+      "latitude": 49.596492,
+      "longitude": 17.256097
+    },
+    {
+      "name": "Divadlo Tramtárie",
+      "latitude": 49.597478,
+      "longitude": 17.245643
+    },
+    {
+      "name": "Divadlo na Šantovce, o.p.s.",
+      "latitude": 49.586808,
+      "longitude": 17.258171
+    },
+    {
+      "name": "Na Cucky",
+      "latitude": 49.592229,
+      "longitude": 17.251931
+    },
+    {
+      "name": "Moravská filharmonie",
+      "latitude": 49.593351,
+      "longitude": 17.250459
+    },
+    {
+      "name": "Amfiteátr Velká Bystřice",
+      "latitude": 49.593563,
+      "longitude": 17.357271
+    },
+    {
+      "name": "Národní dům",
+      "latitude": 49.473604,
+      "longitude": 17.11437
+    },
+    {
+      "name": "Loutkové divadlo Sokola Přerov",
+      "latitude": 49.457527,
+      "longitude": 17.448218
+    },
+    {
+      "name": "Divadlo Stará střelnice",
+      "latitude": 49.54131,
+      "longitude": 17.734162
+    },
+    {
+      "name": "Beskydské divadlo",
+      "latitude": 49.592449,
+      "longitude": 18.007938
+    },
+    {
+      "name": "Amfiteátr Skalky",
+      "latitude": 49.578466,
+      "longitude": 18.008372
+    },
+    {
+      "name": "Amfiteátr v Dřevěném městečku",
+      "latitude": 49.461732,
+      "longitude": 18.147854
+    },
+    {
+      "name": "amfiteátr",
+      "latitude": 49.461027,
+      "longitude": 18.151057
+    },
+    {
+      "name": "Amfiteatr",
+      "latitude": 49.461654,
+      "longitude": 18.147824
+    },
+    {
+      "name": "Komorní scéna Aréna",
+      "latitude": 49.83735,
+      "longitude": 18.295576
+    },
+    {
+      "name": "Divadlo \"12\"",
+      "latitude": 49.836646,
+      "longitude": 18.288977
+    },
+    {
+      "name": "Divadlo loutek",
+      "latitude": 49.833914,
+      "longitude": 18.292603
+    },
+    {
+      "name": "Divadlo Jiřího Myrona",
+      "latitude": 49.836396,
+      "longitude": 18.288236
+    },
+    {
+      "name": "Divadlo Antonína Dvořáka",
+      "latitude": 49.832722,
+      "longitude": 18.290825
+    },
+    {
+      "name": "Stará aréna",
+      "latitude": 49.835368,
+      "longitude": 18.292381
+    },
+    {
+      "name": "Kulturní dům Petra Bezruče",
+      "latitude": 49.784262,
+      "longitude": 18.424271
+    },
+    {
+      "name": "Těšínské Divadlo",
+      "latitude": 49.745868,
+      "longitude": 18.612991
+    },
+    {
+      "name": "Teatr im. Adama Mickiewicza",
+      "latitude": 49.749981,
+      "longitude": 18.630323
+    },
+    {
+      "name": "Divadlo Čtyřlístek",
+      "latitude": 49.681302,
+      "longitude": 18.359766
+    },
+    {
+      "name": "Kulturní dům",
+      "latitude": 49.6676,
+      "longitude": 18.711644
+    },
+    {
+      "name": "Amfiteátr v Městském lese",
+      "latitude": 49.573805,
+      "longitude": 18.772668
+    },
+    {
+      "name": "Dům kultury",
+      "latitude": 49.29831,
+      "longitude": 17.399446
+    },
+    {
+      "name": "Beseda Otrokovice",
+      "latitude": 49.206845,
+      "longitude": 17.536519
+    },
+    {
+      "name": "loutkový sál",
+      "latitude": 49.168307,
+      "longitude": 17.514767
+    },
+    {
+      "name": "divadelní sál",
+      "latitude": 49.168799,
+      "longitude": 17.515169
+    },
+    {
+      "name": "Orlovna Kašava",
+      "latitude": 49.295381,
+      "longitude": 17.785734
+    },
+    {
+      "name": "Divadlo v Lidovém domě",
+      "latitude": 49.339985,
+      "longitude": 17.992137
+    },
+    {
+      "name": "Valašské národní divadlo",
+      "latitude": 49.351068,
+      "longitude": 18.238481
+    },
+    {
+      "name": "Divadlo Hvozdná",
+      "latitude": 49.251391,
+      "longitude": 17.751848
+    },
+    {
+      "name": "Sál Evy Jiřičné",
+      "latitude": 49.223121,
+      "longitude": 17.664243
+    },
+    {
+      "name": "Pokladna MDZ",
+      "latitude": 49.22524,
+      "longitude": 17.668949
+    },
+    {
+      "name": "Městské divadlo Zlín",
+      "latitude": 49.22496,
+      "longitude": 17.669723
+    },
+    {
+      "name": "Malá scéna",
+      "latitude": 49.224851,
+      "longitude": 17.679862
+    },
+    {
+      "name": "Slovácké divadlo",
+      "latitude": 49.071579,
+      "longitude": 17.460465
+    },
+    {
+      "name": "Loutkové divadélko T. J. Sokol UH",
+      "latitude": 49.07199,
+      "longitude": 17.459782
+    },
+    {
+      "name": "Slovácké divadlo - Malá scéna",
+      "latitude": 49.070872,
+      "longitude": 17.459656
+    },
+    {
+      "name": "amfiteátr",
+      "latitude": 49.071712,
+      "longitude": 17.48727
+    },
+    {
+      "name": "Malý amfík",
+      "latitude": 49.060132,
+      "longitude": 17.519761
+    },
+    {
+      "name": "Velký amfík",
+      "latitude": 49.061804,
+      "longitude": 17.517442
+    },
+    {
+      "name": "Lázeňské divadlo",
+      "latitude": 49.104966,
+      "longitude": 17.760701
+    },
+    {
+      "name": "Areál Kopaničářských slavností",
+      "latitude": 48.959703,
+      "longitude": 17.878847
+    },
+    {
+      "name": "Chalupa Eden",
+      "latitude": 48.785191,
+      "longitude": 13.959547
+    },
+    {
+      "name": "Městské divadlo Český Krumlov",
+      "latitude": 48.810527,
+      "longitude": 14.318904
+    },
+    {
+      "name": "Zámecké barokní divadlo",
+      "latitude": 48.812501,
+      "longitude": 14.312287
+    },
+    {
+      "name": "Otáčivé hlediště",
+      "latitude": 48.810478,
+      "longitude": 14.307693
+    },
+    {
+      "name": "Hořické pašijové hry",
+      "latitude": 48.758968,
+      "longitude": 14.17222
+    },
+    {
+      "name": "Pohádková rezervace",
+      "latitude": 48.758961,
+      "longitude": 14.17598
+    },
+    {
+      "name": "Městské divadlo Znojmo",
+      "latitude": 48.853225,
+      "longitude": 16.053991
+    },
+    {
+      "name": "Amfiteátr pod Turoldem",
+      "latitude": 48.813443,
+      "longitude": 16.638988
+    },
+    {
+      "name": "Zámecké divadlo",
+      "latitude": 48.739308,
+      "longitude": 16.756215
+    },
+    {
+      "name": "amfiteátr Zámek",
+      "latitude": 48.906561,
+      "longitude": 17.313453
+    },
+    {
+      "name": "Stadion Zahrada",
+      "latitude": 48.904671,
+      "longitude": 17.317668
+    },
+    {
+      "name": "Amfiteátr Bludník",
+      "latitude": 48.906417,
+      "longitude": 17.317418
+    }
+  ],
+  "meta": {
+    "title": "Divadla (OSM) - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných divadel v České republice (408 záznamů) — body zájmu z OpenStreetMap (tag amenity=theatre), výřez EU-POIS/CZ. Obsahuje 408 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Divadla (OSM) | ListBase",
+    "seo_description": "Stáhnout Divadla (OSM) — 408 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 408 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

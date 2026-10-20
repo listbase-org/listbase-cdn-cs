@@ -1,0 +1,1191 @@
+{
+  "id": "cs-prodejny-vstupenek",
+  "name": "Prodejny vstupenek",
+  "title": "Prodejny vstupenek",
+  "description": "Prodejny vstupenek v České republice (230 záznamů) — body zájmu z OpenStreetMap (tag shop=ticket), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 230,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adršpašské skály",
+      "latitude": 50.615207,
+      "longitude": 16.122934
+    },
+    {
+      "name": "Andrlův chlum",
+      "latitude": 49.960106,
+      "longitude": 16.373957
+    },
+    {
+      "name": "Arriva",
+      "latitude": 48.974409,
+      "longitude": 14.488084
+    },
+    {
+      "name": "Arriva",
+      "latitude": 49.066771,
+      "longitude": 17.457557
+    },
+    {
+      "name": "Biotop Brno-Jih",
+      "latitude": 49.169473,
+      "longitude": 16.620196
+    },
+    {
+      "name": "Bobovka Brno",
+      "latitude": 49.209675,
+      "longitude": 16.7111
+    },
+    {
+      "name": "Botanická zahrada Přírodovědecké fakulty Univerzity Karlovy",
+      "latitude": 50.071061,
+      "longitude": 14.420002
+    },
+    {
+      "name": "bruslení pro veřejnost",
+      "latitude": 48.815822,
+      "longitude": 14.311666
+    },
+    {
+      "name": "CFIG arena",
+      "latitude": 50.040391,
+      "longitude": 15.771209
+    },
+    {
+      "name": "Cimburk",
+      "latitude": 49.103813,
+      "longitude": 17.21595
+    },
+    {
+      "name": "Czech Airlines Handling",
+      "latitude": 50.108902,
+      "longitude": 14.269571
+    },
+    {
+      "name": "Dendrologická zahrada - vstupenky",
+      "latitude": 50.007967,
+      "longitude": 14.567809
+    },
+    {
+      "name": "Divadlo na Vinohradech",
+      "latitude": 50.076463,
+      "longitude": 14.436625
+    },
+    {
+      "name": "Dopravní infocentrum ODIS",
+      "latitude": 49.879297,
+      "longitude": 18.432437
+    },
+    {
+      "name": "Dopravní infocentrum ODIS Jablunkov",
+      "latitude": 49.578443,
+      "longitude": 18.768211
+    },
+    {
+      "name": "DPMO - prodejna jízdenek na MHD a IDSOK",
+      "latitude": 49.59266,
+      "longitude": 17.277776
+    },
+    {
+      "name": "DPP",
+      "latitude": 50.126638,
+      "longitude": 14.468927
+    },
+    {
+      "name": "Dálniční známky",
+      "latitude": 48.756704,
+      "longitude": 16.876486
+    },
+    {
+      "name": "Dívčí kámen",
+      "latitude": 48.888993,
+      "longitude": 14.355899
+    },
+    {
+      "name": "Dětská tramvaj",
+      "latitude": 50.11599,
+      "longitude": 14.406481
+    },
+    {
+      "name": "Důl Jeroným",
+      "latitude": 50.102185,
+      "longitude": 12.712064
+    },
+    {
+      "name": "Fajnpark",
+      "latitude": 50.171307,
+      "longitude": 15.461319
+    },
+    {
+      "name": "Fajtův kopec",
+      "latitude": 49.359834,
+      "longitude": 16.026456
+    },
+    {
+      "name": "GW Train",
+      "latitude": 48.974415,
+      "longitude": 14.488114
+    },
+    {
+      "name": "Hlavní vstup",
+      "latitude": 49.396662,
+      "longitude": 15.599595
+    },
+    {
+      "name": "Hrad Hartenberg",
+      "latitude": 50.22107,
+      "longitude": 12.575064
+    },
+    {
+      "name": "IDS JMK",
+      "latitude": 49.191137,
+      "longitude": 16.613294
+    },
+    {
+      "name": "Informační centrum Sedlec",
+      "latitude": 49.960339,
+      "longitude": 15.288931
+    },
+    {
+      "name": "INFOTUR",
+      "latitude": 50.089232,
+      "longitude": 14.43688
+    },
+    {
+      "name": "Javoříčské jeskyně",
+      "latitude": 49.670375,
+      "longitude": 16.91396
+    },
+    {
+      "name": "Jeskyně Na Pomezí",
+      "latitude": 50.246223,
+      "longitude": 17.138118
+    },
+    {
+      "name": "Jižní přesunutá bašta",
+      "latitude": 49.806904,
+      "longitude": 14.926317
+    },
+    {
+      "name": "Jízdní doklady DPMB",
+      "latitude": 49.190632,
+      "longitude": 16.594108
+    },
+    {
+      "name": "Jízdní doklady DPMB",
+      "latitude": 49.193551,
+      "longitude": 16.570041
+    },
+    {
+      "name": "Jízdní doklady DPMB",
+      "latitude": 49.193581,
+      "longitude": 16.613175
+    },
+    {
+      "name": "Jízdní doklady DPMB",
+      "latitude": 49.20231,
+      "longitude": 16.641587
+    },
+    {
+      "name": "Jízdní doklady DPMB",
+      "latitude": 49.23061,
+      "longitude": 16.595125
+    },
+    {
+      "name": "Kasa",
+      "latitude": 50.329731,
+      "longitude": 16.391998
+    },
+    {
+      "name": "Kasa",
+      "latitude": 50.440204,
+      "longitude": 16.874754
+    },
+    {
+      "name": "Kasa",
+      "latitude": 50.443214,
+      "longitude": 16.878613
+    },
+    {
+      "name": "Kasa",
+      "latitude": 50.485433,
+      "longitude": 16.339796
+    },
+    {
+      "name": "kasa",
+      "latitude": 50.60447,
+      "longitude": 15.466446
+    },
+    {
+      "name": "Kasa Nartorama",
+      "latitude": 50.329017,
+      "longitude": 16.395531
+    },
+    {
+      "name": "Kasa Winterpol",
+      "latitude": 50.337135,
+      "longitude": 16.385765
+    },
+    {
+      "name": "Kasa wyciągu",
+      "latitude": 50.747552,
+      "longitude": 15.727241
+    },
+    {
+      "name": "Kassa",
+      "latitude": 50.736706,
+      "longitude": 15.010756
+    },
+    {
+      "name": "Kasse",
+      "latitude": 50.760897,
+      "longitude": 15.287047
+    },
+    {
+      "name": "Kateřinská jeskyně",
+      "latitude": 49.361025,
+      "longitude": 16.709231
+    },
+    {
+      "name": "Klicperovo Divadlo",
+      "latitude": 50.210291,
+      "longitude": 15.826441
+    },
+    {
+      "name": "Klientské centrum Opuscard",
+      "latitude": 50.770057,
+      "longitude": 15.057656
+    },
+    {
+      "name": "Koupaliště Cihelna",
+      "latitude": 50.04795,
+      "longitude": 15.778688
+    },
+    {
+      "name": "koupaliště Hejnice",
+      "latitude": 50.875113,
+      "longitude": 15.189384
+    },
+    {
+      "name": "Koupaliště Královo Pole",
+      "latitude": 49.224007,
+      "longitude": 16.608661
+    },
+    {
+      "name": "la_fabrika",
+      "latitude": 50.103552,
+      "longitude": 14.450157
+    },
+    {
+      "name": "Lanovka Pustevny",
+      "latitude": 49.500302,
+      "longitude": 18.249213
+    },
+    {
+      "name": "LeoExpress",
+      "latitude": 49.821034,
+      "longitude": 18.209256
+    },
+    {
+      "name": "Letní kino - Prodej vstupenek",
+      "latitude": 49.385029,
+      "longitude": 14.703437
+    },
+    {
+      "name": "letuška.cz",
+      "latitude": 50.10864,
+      "longitude": 14.268667
+    },
+    {
+      "name": "Lichnice",
+      "latitude": 49.880161,
+      "longitude": 15.587213
+    },
+    {
+      "name": "Lyžařský areál Kobyla",
+      "latitude": 49.066631,
+      "longitude": 13.631583
+    },
+    {
+      "name": "Lístky MHD",
+      "latitude": 50.100448,
+      "longitude": 14.392774
+    },
+    {
+      "name": "Lítačka",
+      "latitude": 50.081802,
+      "longitude": 14.422246
+    },
+    {
+      "name": "Martin Tour",
+      "latitude": 50.087906,
+      "longitude": 14.428634
+    },
+    {
+      "name": "Martin Tour",
+      "latitude": 50.087919,
+      "longitude": 14.420255
+    },
+    {
+      "name": "MEGA ZIPLINE",
+      "latitude": 49.818367,
+      "longitude": 18.138001
+    },
+    {
+      "name": "mezinárodní jízdenky",
+      "latitude": 50.677314,
+      "longitude": 14.532761
+    },
+    {
+      "name": "Mořský svět",
+      "latitude": 50.105701,
+      "longitude": 14.43175
+    },
+    {
+      "name": "Muzeum fantastických iluzí",
+      "latitude": 50.081269,
+      "longitude": 14.424411
+    },
+    {
+      "name": "Městská divadla pražská",
+      "latitude": 50.080606,
+      "longitude": 14.425538
+    },
+    {
+      "name": "Městské koupaliště Rokycany",
+      "latitude": 49.747008,
+      "longitude": 13.598875
+    },
+    {
+      "name": "Národní divadlo Brno zákaznické centrum",
+      "latitude": 49.196503,
+      "longitude": 16.612762
+    },
+    {
+      "name": "Návštěvnické centrum",
+      "latitude": 48.813137,
+      "longitude": 14.320194
+    },
+    {
+      "name": "Obludiště",
+      "latitude": 49.113716,
+      "longitude": 15.025095
+    },
+    {
+      "name": "Park Narodowy Gór Stołowych",
+      "latitude": 50.480267,
+      "longitude": 16.287143
+    },
+    {
+      "name": "Park Průhonice",
+      "latitude": 49.99149,
+      "longitude": 14.551058
+    },
+    {
+      "name": "Parking Kasa",
+      "latitude": 49.215727,
+      "longitude": 16.408921
+    },
+    {
+      "name": "Plovárna města Slatiňany",
+      "latitude": 49.913719,
+      "longitude": 15.812703
+    },
+    {
+      "name": "Podorlický skanzen Krňovice",
+      "latitude": 50.190307,
+      "longitude": 15.982361
+    },
+    {
+      "name": "Podzemí Vřídla",
+      "latitude": 50.222467,
+      "longitude": 12.883218
+    },
+    {
+      "name": "pokladna",
+      "latitude": 49.042322,
+      "longitude": 14.422381
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.142092,
+      "longitude": 15.001088
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.343365,
+      "longitude": 13.212795
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.599728,
+      "longitude": 17.247204
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.645198,
+      "longitude": 13.288891
+    },
+    {
+      "name": "pokladna",
+      "latitude": 49.685266,
+      "longitude": 14.017499
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 49.791381,
+      "longitude": 18.412105
+    },
+    {
+      "name": "pokladna",
+      "latitude": 50.238518,
+      "longitude": 14.859832
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.434019,
+      "longitude": 14.015483
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.468368,
+      "longitude": 14.91577
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.518612,
+      "longitude": 14.978237
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.52771,
+      "longitude": 14.970664
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.539502,
+      "longitude": 14.720874
+    },
+    {
+      "name": "Pokladna",
+      "latitude": 50.658781,
+      "longitude": 15.594725
+    },
+    {
+      "name": "pokladna",
+      "latitude": 50.734623,
+      "longitude": 13.923205
+    },
+    {
+      "name": "Pokladna - Kasse",
+      "latitude": 50.787671,
+      "longitude": 14.039253
+    },
+    {
+      "name": "Pokladna - lodě",
+      "latitude": 50.6076,
+      "longitude": 16.115194
+    },
+    {
+      "name": "pokladna 1",
+      "latitude": 49.246502,
+      "longitude": 13.5418
+    },
+    {
+      "name": "Pokladna 1",
+      "latitude": 49.472308,
+      "longitude": 17.129019
+    },
+    {
+      "name": "pokladna 2",
+      "latitude": 49.246476,
+      "longitude": 13.541805
+    },
+    {
+      "name": "Pokladna 2",
+      "latitude": 49.47228,
+      "longitude": 17.129021
+    },
+    {
+      "name": "pokladna Botanické zahrady Praha",
+      "latitude": 50.117578,
+      "longitude": 14.416529
+    },
+    {
+      "name": "Pokladna hlavní vchod",
+      "latitude": 50.116845,
+      "longitude": 14.411149
+    },
+    {
+      "name": "Pokladna Hosté",
+      "latitude": 49.600655,
+      "longitude": 17.249245
+    },
+    {
+      "name": "pokladna Jih",
+      "latitude": 50.119189,
+      "longitude": 14.412946
+    },
+    {
+      "name": "Pokladna jižní vchod",
+      "latitude": 50.115014,
+      "longitude": 14.4084
+    },
+    {
+      "name": "Pokladna Kláštery",
+      "latitude": 48.813221,
+      "longitude": 14.317971
+    },
+    {
+      "name": "pokladna Národního divadla",
+      "latitude": 50.080681,
+      "longitude": 14.414139
+    },
+    {
+      "name": "Pokladna Rozhledna U borovice",
+      "latitude": 50.660406,
+      "longitude": 15.401709
+    },
+    {
+      "name": "pokladna Sever",
+      "latitude": 50.124183,
+      "longitude": 14.419613
+    },
+    {
+      "name": "Pokladna Skiareál Benecko",
+      "latitude": 50.65827,
+      "longitude": 15.54791
+    },
+    {
+      "name": "Pokladna Snowtubing",
+      "latitude": 50.664371,
+      "longitude": 15.556797
+    },
+    {
+      "name": "pokladna Stavovského divadla",
+      "latitude": 50.085771,
+      "longitude": 14.422883
+    },
+    {
+      "name": "pokladna vinice",
+      "latitude": 50.117711,
+      "longitude": 14.416356
+    },
+    {
+      "name": "Pokladna vleku",
+      "latitude": 49.141289,
+      "longitude": 13.230776
+    },
+    {
+      "name": "pokladna zámek Žleby",
+      "latitude": 49.88851,
+      "longitude": 15.483839
+    },
+    {
+      "name": "pokladna ČD",
+      "latitude": 49.599046,
+      "longitude": 15.58805
+    },
+    {
+      "name": "Pokladna ČD",
+      "latitude": 49.714659,
+      "longitude": 13.209338
+    },
+    {
+      "name": "Pokladna ČD",
+      "latitude": 49.842905,
+      "longitude": 13.899041
+    },
+    {
+      "name": "Pokladni Hlavní pláž",
+      "latitude": 50.574668,
+      "longitude": 14.645766
+    },
+    {
+      "name": "Pokladni Hlavní pláž",
+      "latitude": 50.575979,
+      "longitude": 14.650539
+    },
+    {
+      "name": "Pokladny U Slona",
+      "latitude": 50.142572,
+      "longitude": 16.808175
+    },
+    {
+      "name": "Prachovské skály",
+      "latitude": 50.468334,
+      "longitude": 15.285072
+    },
+    {
+      "name": "Prague Boats",
+      "latitude": 50.092525,
+      "longitude": 14.417864
+    },
+    {
+      "name": "Prague Sightseeing Tours",
+      "latitude": 50.08778,
+      "longitude": 14.42862
+    },
+    {
+      "name": "Prašná brána - Pokladna",
+      "latitude": 50.087367,
+      "longitude": 14.427841
+    },
+    {
+      "name": "Premiant City Tour",
+      "latitude": 50.08588,
+      "longitude": 14.425962
+    },
+    {
+      "name": "Premiere Cinemas",
+      "latitude": 50.053498,
+      "longitude": 14.517867
+    },
+    {
+      "name": "Prodej jízdních dokladů",
+      "latitude": 49.186219,
+      "longitude": 16.616308
+    },
+    {
+      "name": "Prodej skipasů",
+      "latitude": 50.704031,
+      "longitude": 13.866076
+    },
+    {
+      "name": "Prodejna jízdenek",
+      "latitude": 49.348095,
+      "longitude": 16.02086
+    },
+    {
+      "name": "Prodejna jízdenek DPMB",
+      "latitude": 49.175566,
+      "longitude": 16.567441
+    },
+    {
+      "name": "Prodejna jízdenek DPP Praha - Roztyly",
+      "latitude": 50.037499,
+      "longitude": 14.477611
+    },
+    {
+      "name": "Prodejna Jízdenek ČD",
+      "latitude": 49.204121,
+      "longitude": 16.636639
+    },
+    {
+      "name": "Prodejna skipasů",
+      "latitude": 49.415861,
+      "longitude": 18.312155
+    },
+    {
+      "name": "Prodejna vstupenek",
+      "latitude": 49.279647,
+      "longitude": 13.618874
+    },
+    {
+      "name": "Prohlídka pivovaru",
+      "latitude": 48.813267,
+      "longitude": 14.319654
+    },
+    {
+      "name": "Průhonický park - pokladna hlavní vstup",
+      "latitude": 50.001202,
+      "longitude": 14.558721
+    },
+    {
+      "name": "Předprodej Filharmonie Brno",
+      "latitude": 49.19571,
+      "longitude": 16.604566
+    },
+    {
+      "name": "Předprodej vstupenek VČD",
+      "latitude": 50.036386,
+      "longitude": 15.77767
+    },
+    {
+      "name": "recepce",
+      "latitude": 48.796754,
+      "longitude": 14.306491
+    },
+    {
+      "name": "RegioJet",
+      "latitude": 48.753904,
+      "longitude": 16.89269
+    },
+    {
+      "name": "Regiojet",
+      "latitude": 49.191027,
+      "longitude": 16.613222
+    },
+    {
+      "name": "RegioJet",
+      "latitude": 49.565177,
+      "longitude": 17.742271
+    },
+    {
+      "name": "RegioJet",
+      "latitude": 49.821097,
+      "longitude": 18.209299
+    },
+    {
+      "name": "RegioJet",
+      "latitude": 49.850967,
+      "longitude": 18.267224
+    },
+    {
+      "name": "RegioJet",
+      "latitude": 50.025126,
+      "longitude": 15.213709
+    },
+    {
+      "name": "RegioJet",
+      "latitude": 50.032223,
+      "longitude": 15.755861
+    },
+    {
+      "name": "Rozhledna Okrouhlá",
+      "latitude": 49.680546,
+      "longitude": 18.27744
+    },
+    {
+      "name": "Rozhledna Velký Lopeník",
+      "latitude": 48.916732,
+      "longitude": 17.782604
+    },
+    {
+      "name": "Rozhledna Zlatý Chlum",
+      "latitude": 50.237915,
+      "longitude": 17.237447
+    },
+    {
+      "name": "Safaribus",
+      "latitude": 50.432229,
+      "longitude": 15.788662
+    },
+    {
+      "name": "Samoobslužné pokladny",
+      "latitude": 50.23834,
+      "longitude": 14.859698
+    },
+    {
+      "name": "SK Vignette",
+      "latitude": 48.678188,
+      "longitude": 16.986703
+    },
+    {
+      "name": "Ski areál Šacberk",
+      "latitude": 49.437916,
+      "longitude": 15.579241
+    },
+    {
+      "name": "Ski Kasse",
+      "latitude": 50.759839,
+      "longitude": 15.281715
+    },
+    {
+      "name": "SKI LIBÍN",
+      "latitude": 48.973917,
+      "longitude": 13.990089
+    },
+    {
+      "name": "Skiarena R3 Ramzová",
+      "latitude": 50.191904,
+      "longitude": 17.065026
+    },
+    {
+      "name": "Skiareál Neklid",
+      "latitude": 50.403658,
+      "longitude": 12.93826
+    },
+    {
+      "name": "Skiareál Olešnice",
+      "latitude": 50.362551,
+      "longitude": 16.306462
+    },
+    {
+      "name": "Skiareál Velflink",
+      "latitude": 50.361103,
+      "longitude": 12.784558
+    },
+    {
+      "name": "SkiMU - pokladna U Kostela",
+      "latitude": 50.728233,
+      "longitude": 15.817481
+    },
+    {
+      "name": "Sloupsko-šošůvské jeskyně",
+      "latitude": 49.411203,
+      "longitude": 16.738138
+    },
+    {
+      "name": "Spindl Motion",
+      "latitude": 50.720844,
+      "longitude": 15.612469
+    },
+    {
+      "name": "Sportovní areál Harrachov",
+      "latitude": 50.77266,
+      "longitude": 15.426336
+    },
+    {
+      "name": "Stezka v korunách stromů",
+      "latitude": 50.632154,
+      "longitude": 15.758088
+    },
+    {
+      "name": "Stezka Valaška",
+      "latitude": 49.491841,
+      "longitude": 18.266394
+    },
+    {
+      "name": "Stříbrný důl",
+      "latitude": 49.91107,
+      "longitude": 17.2133
+    },
+    {
+      "name": "Ticket Office Caves",
+      "latitude": 49.363656,
+      "longitude": 16.708981
+    },
+    {
+      "name": "Tribuna JIH",
+      "latitude": 49.59932,
+      "longitude": 17.248575
+    },
+    {
+      "name": "Tribuna Východ",
+      "latitude": 49.599329,
+      "longitude": 17.248691
+    },
+    {
+      "name": "Vignetten Tschechische und Österreich",
+      "latitude": 48.779974,
+      "longitude": 16.639908
+    },
+    {
+      "name": "Vláček",
+      "latitude": 50.434783,
+      "longitude": 15.803034
+    },
+    {
+      "name": "Vnitrostátní jízdenky",
+      "latitude": 49.542112,
+      "longitude": 18.224358
+    },
+    {
+      "name": "vnitrostátní jízdenky",
+      "latitude": 50.677321,
+      "longitude": 14.5328
+    },
+    {
+      "name": "Vodní hamr Dobřív",
+      "latitude": 49.719078,
+      "longitude": 13.692019
+    },
+    {
+      "name": "vstup do areálu",
+      "latitude": 49.404059,
+      "longitude": 17.813308
+    },
+    {
+      "name": "Vstup do ZOOparku",
+      "latitude": 50.477326,
+      "longitude": 13.422269
+    },
+    {
+      "name": "Vstupenky",
+      "latitude": 49.517582,
+      "longitude": 17.627087
+    },
+    {
+      "name": "Vstupenky do Zoo",
+      "latitude": 49.271595,
+      "longitude": 17.714827
+    },
+    {
+      "name": "Vstupenky, zámek Telč",
+      "latitude": 49.185338,
+      "longitude": 15.451506
+    },
+    {
+      "name": "Výstaviště Praha",
+      "latitude": 50.104863,
+      "longitude": 14.431339
+    },
+    {
+      "name": "Winning Group Arena - prodej vstupenek",
+      "latitude": 49.185734,
+      "longitude": 16.602885
+    },
+    {
+      "name": "Wolf Music",
+      "latitude": 49.195918,
+      "longitude": 16.610002
+    },
+    {
+      "name": "Zlatokopecké Sruby",
+      "latitude": 50.253771,
+      "longitude": 17.366314
+    },
+    {
+      "name": "Zoo Děčín vstup",
+      "latitude": 50.778747,
+      "longitude": 14.199561
+    },
+    {
+      "name": "Zoo Na Hrádečku",
+      "latitude": 49.109046,
+      "longitude": 15.030874
+    },
+    {
+      "name": "Zoologická a botanická zahrada Plzeň (vstup)",
+      "latitude": 49.757767,
+      "longitude": 13.359951
+    },
+    {
+      "name": "Zoopark",
+      "latitude": 50.473296,
+      "longitude": 13.41939
+    },
+    {
+      "name": "Zákaznické centrum Arriva",
+      "latitude": 49.82899,
+      "longitude": 18.278408
+    },
+    {
+      "name": "Zákaznické centrum DPMLJ",
+      "latitude": 50.765799,
+      "longitude": 15.057749
+    },
+    {
+      "name": "Zákaznické centrum DPMP",
+      "latitude": 50.032223,
+      "longitude": 15.755834
+    },
+    {
+      "name": "Zákaznické centrum DPMP",
+      "latitude": 50.037332,
+      "longitude": 15.771202
+    },
+    {
+      "name": "Zákaznické centrum DPO",
+      "latitude": 49.832819,
+      "longitude": 18.286339
+    },
+    {
+      "name": "Zámecká pokladna - Mincovna",
+      "latitude": 48.812651,
+      "longitude": 14.314944
+    },
+    {
+      "name": "Zámek Boskovice",
+      "latitude": 49.484853,
+      "longitude": 16.659827
+    },
+    {
+      "name": "Zámek Letovice",
+      "latitude": 49.543214,
+      "longitude": 16.576897
+    },
+    {
+      "name": "Zámek Nebílovy",
+      "latitude": 49.629869,
+      "longitude": 13.430553
+    },
+    {
+      "name": "zřícenina kláštera Rosa Coeli",
+      "latitude": 49.06891,
+      "longitude": 16.470924
+    },
+    {
+      "name": "ČD",
+      "latitude": 49.537689,
+      "longitude": 18.393463
+    },
+    {
+      "name": "ČD",
+      "latitude": 49.565167,
+      "longitude": 17.742046
+    },
+    {
+      "name": "ČD",
+      "latitude": 50.02505,
+      "longitude": 15.21391
+    },
+    {
+      "name": "ČD - pokladna",
+      "latitude": 50.087327,
+      "longitude": 14.663738
+    },
+    {
+      "name": "ČD centrum",
+      "latitude": 49.821195,
+      "longitude": 18.209334
+    },
+    {
+      "name": "ČD centrum",
+      "latitude": 49.850542,
+      "longitude": 18.267371
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 48.753786,
+      "longitude": 16.892553
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 48.974399,
+      "longitude": 14.488027
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.066797,
+      "longitude": 17.457615
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.190983,
+      "longitude": 16.613122
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.230513,
+      "longitude": 16.59653
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.447483,
+      "longitude": 17.445254
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.59026,
+      "longitude": 18.754463
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.670254,
+      "longitude": 18.681089
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.687615,
+      "longitude": 18.662011
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.740531,
+      "longitude": 13.592065
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.743882,
+      "longitude": 18.622943
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.790736,
+      "longitude": 18.29081
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.829163,
+      "longitude": 18.282561
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.834997,
+      "longitude": 18.280427
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.850903,
+      "longitude": 18.267129
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.87234,
+      "longitude": 16.887557
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.907495,
+      "longitude": 13.979717
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 49.962193,
+      "longitude": 16.982821
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 50.032222,
+      "longitude": 15.755994
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 50.061587,
+      "longitude": 14.408509
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 50.087521,
+      "longitude": 14.433414
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 50.214343,
+      "longitude": 15.810538
+    },
+    {
+      "name": "České dráhy",
+      "latitude": 50.227602,
+      "longitude": 17.19376
+    },
+    {
+      "name": "České Dráhy a.s.",
+      "latitude": 49.901036,
+      "longitude": 18.093091
+    },
+    {
+      "name": "Říčky",
+      "latitude": 50.225988,
+      "longitude": 16.460622
+    },
+    {
+      "name": "Švihov",
+      "latitude": 49.479072,
+      "longitude": 13.284498
+    }
+  ],
+  "meta": {
+    "title": "Prodejny vstupenek - Stáhnout zdarma",
+    "description": "Prodejny vstupenek v České republice (230 záznamů) — body zájmu z OpenStreetMap (tag shop=ticket), výřez EU-POIS/CZ. Obsahuje 230 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Prodejny vstupenek | ListBase",
+    "seo_description": "Stáhnout Prodejny vstupenek — 230 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 230 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

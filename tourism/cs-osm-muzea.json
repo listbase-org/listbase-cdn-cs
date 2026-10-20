@@ -1,0 +1,7031 @@
+{
+  "id": "cs-osm-muzea",
+  "name": "Muzea (OSM)",
+  "title": "Muzea (OSM)",
+  "description": "Seznam pojmenovaných muzeí v České republice (1398 záznamů) — body zájmu z OpenStreetMap (tag tourism=museum), výřez EU-POIS/CZ.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1398,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Modellbahngalerie",
+      "latitude": 50.973329,
+      "longitude": 14.279398
+    },
+    {
+      "name": "Zündfunke",
+      "latitude": 50.976006,
+      "longitude": 14.271984
+    },
+    {
+      "name": "Muzeum nožířské výroby",
+      "latitude": 50.968673,
+      "longitude": 14.349368
+    },
+    {
+      "name": "Vesnické Muzeum",
+      "latitude": 50.978961,
+      "longitude": 15.076664
+    },
+    {
+      "name": "Geologická mapa",
+      "latitude": 50.934914,
+      "longitude": 14.47871
+    },
+    {
+      "name": "Muzeum Rumburk",
+      "latitude": 50.949925,
+      "longitude": 14.557745
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.912841,
+      "longitude": 14.628928
+    },
+    {
+      "name": "Muzeum Doubice",
+      "latitude": 50.888954,
+      "longitude": 14.46436
+    },
+    {
+      "name": "štola Jana Evangelisty",
+      "latitude": 50.87497,
+      "longitude": 14.56526
+    },
+    {
+      "name": "Deutsches Damast- und Frottiermuseum",
+      "latitude": 50.899516,
+      "longitude": 14.66094
+    },
+    {
+      "name": "Podzemní letecká továrna",
+      "latitude": 50.802143,
+      "longitude": 14.369356
+    },
+    {
+      "name": "venkovské zemědělské muzeum",
+      "latitude": 50.815881,
+      "longitude": 14.353733
+    },
+    {
+      "name": "Exposice Rajské Ostrovy (Aquarium)",
+      "latitude": 50.77577,
+      "longitude": 14.198578
+    },
+    {
+      "name": "Oblastní muzeum Děčín",
+      "latitude": 50.775102,
+      "longitude": 14.201014
+    },
+    {
+      "name": "Muzejní expozice sdělovací a zabezpečovací techniky Děčín",
+      "latitude": 50.77579,
+      "longitude": 14.202314
+    },
+    {
+      "name": "Hasičské muzeum",
+      "latitude": 50.765665,
+      "longitude": 14.437371
+    },
+    {
+      "name": "Sklářské muzeum",
+      "latitude": 50.775961,
+      "longitude": 14.469893
+    },
+    {
+      "name": "Ajeto Art Glass",
+      "latitude": 50.753527,
+      "longitude": 14.553051
+    },
+    {
+      "name": "Sklářské muzeum Nový Bor",
+      "latitude": 50.759577,
+      "longitude": 14.557531
+    },
+    {
+      "name": "železniční expozice",
+      "latitude": 50.769294,
+      "longitude": 14.758115
+    },
+    {
+      "name": "Železniční muzeum",
+      "latitude": 50.920452,
+      "longitude": 15.066995
+    },
+    {
+      "name": "Městké muzeum Radnice",
+      "latitude": 50.922127,
+      "longitude": 15.078621
+    },
+    {
+      "name": "Městké muzeum Špitálek",
+      "latitude": 50.922673,
+      "longitude": 15.076542
+    },
+    {
+      "name": "Muzeum v podstávkovém domě",
+      "latitude": 50.907223,
+      "longitude": 15.114368
+    },
+    {
+      "name": "Bergsteigermuseum",
+      "latitude": 50.877008,
+      "longitude": 15.182927
+    },
+    {
+      "name": "Jizerskohorské Technické Muzeum",
+      "latitude": 50.874145,
+      "longitude": 15.218303
+    },
+    {
+      "name": "Hasičské muzeum",
+      "latitude": 50.816996,
+      "longitude": 14.96235
+    },
+    {
+      "name": "Führichův dům",
+      "latitude": 50.818918,
+      "longitude": 14.970404
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.817068,
+      "longitude": 14.969917
+    },
+    {
+      "name": "Muzeum betlémů",
+      "latitude": 50.772797,
+      "longitude": 14.932449
+    },
+    {
+      "name": "Muzeum betlémů a hraček",
+      "latitude": 50.741541,
+      "longitude": 14.858615
+    },
+    {
+      "name": "Technické muzeum Liberec",
+      "latitude": 50.773844,
+      "longitude": 15.066495
+    },
+    {
+      "name": "Památník obětem šoa",
+      "latitude": 50.780341,
+      "longitude": 15.063314
+    },
+    {
+      "name": "MUZA | Severočeské muzeum v Liberci",
+      "latitude": 50.774661,
+      "longitude": 15.068659
+    },
+    {
+      "name": "Automobilmuseum",
+      "latitude": 50.751939,
+      "longitude": 15.089509
+    },
+    {
+      "name": "Rodný dům Ferdinanda Porsche",
+      "latitude": 50.745395,
+      "longitude": 15.086571
+    },
+    {
+      "name": "Muzeum skla",
+      "latitude": 50.812194,
+      "longitude": 15.186258
+    },
+    {
+      "name": "Hnojový Dům",
+      "latitude": 50.824717,
+      "longitude": 15.338517
+    },
+    {
+      "name": "Muzeum Jizerských hor",
+      "latitude": 50.819329,
+      "longitude": 15.345849
+    },
+    {
+      "name": "Muzeum místní historie",
+      "latitude": 50.780994,
+      "longitude": 15.237662
+    },
+    {
+      "name": "Muzeum výroby hraček - Detoa",
+      "latitude": 50.756683,
+      "longitude": 15.264701
+    },
+    {
+      "name": "Muzeum místní historie",
+      "latitude": 50.73959,
+      "longitude": 15.243585
+    },
+    {
+      "name": "Muzeum panenek",
+      "latitude": 50.73931,
+      "longitude": 15.246525
+    },
+    {
+      "name": "Muzeum ozubnicové dráhy",
+      "latitude": 50.769973,
+      "longitude": 15.365176
+    },
+    {
+      "name": "Výtopna Kořenov",
+      "latitude": 50.770534,
+      "longitude": 15.363641
+    },
+    {
+      "name": "Muzeum skla",
+      "latitude": 50.781951,
+      "longitude": 15.418976
+    },
+    {
+      "name": "Šindelka",
+      "latitude": 50.769863,
+      "longitude": 15.437506
+    },
+    {
+      "name": "Ski museum",
+      "latitude": 50.769699,
+      "longitude": 15.435506
+    },
+    {
+      "name": "Hornické muzeum",
+      "latitude": 50.768407,
+      "longitude": 15.444267
+    },
+    {
+      "name": "Muzeum Járy Cimrmana",
+      "latitude": 50.739935,
+      "longitude": 15.345289
+    },
+    {
+      "name": "Museum",
+      "latitude": 50.355925,
+      "longitude": 12.467872
+    },
+    {
+      "name": "Harmonikamuseum",
+      "latitude": 50.354734,
+      "longitude": 12.431659
+    },
+    {
+      "name": "Freilichtmuseum Eubabrunn (Kasse)",
+      "latitude": 50.306853,
+      "longitude": 12.378778
+    },
+    {
+      "name": "Freilichtmuseum Eubabrunn",
+      "latitude": 50.305489,
+      "longitude": 12.379667
+    },
+    {
+      "name": "Muzeum venkova",
+      "latitude": 50.318525,
+      "longitude": 12.51738
+    },
+    {
+      "name": "Muzeum Kraslické dráhy",
+      "latitude": 50.330689,
+      "longitude": 12.5031
+    },
+    {
+      "name": "Kupferhammer Museum Saigerhütte",
+      "latitude": 50.650096,
+      "longitude": 13.370077
+    },
+    {
+      "name": "Saigerhütte Grünthal",
+      "latitude": 50.649776,
+      "longitude": 13.368858
+    },
+    {
+      "name": "Prohlídková štola Starý Martin",
+      "latitude": 50.697304,
+      "longitude": 13.84684
+    },
+    {
+      "name": "Muzeum Krupka",
+      "latitude": 50.686851,
+      "longitude": 13.854973
+    },
+    {
+      "name": "Hornické muzeum Hrob",
+      "latitude": 50.656397,
+      "longitude": 13.722144
+    },
+    {
+      "name": "Archeologický depozitář a specializovaná muzejní pracoviště",
+      "latitude": 50.660825,
+      "longitude": 13.857264
+    },
+    {
+      "name": "Regionální muzeum v Teplicích",
+      "latitude": 50.637355,
+      "longitude": 13.825817
+    },
+    {
+      "name": "Museum města Chabařovice",
+      "latitude": 50.672197,
+      "longitude": 13.943698
+    },
+    {
+      "name": "Muzeum města Ústí nad Labem",
+      "latitude": 50.660875,
+      "longitude": 14.034364
+    },
+    {
+      "name": "Galerie Emila Fily",
+      "latitude": 50.662144,
+      "longitude": 14.007348
+    },
+    {
+      "name": "Parní vodárna Střekov",
+      "latitude": 50.64776,
+      "longitude": 14.047434
+    },
+    {
+      "name": "Fortuna-Stolln",
+      "latitude": 50.611558,
+      "longitude": 13.438965
+    },
+    {
+      "name": "Heimatmuseum „Haus der erzgebirgischen Tradition“",
+      "latitude": 50.604186,
+      "longitude": 13.463297
+    },
+    {
+      "name": "Veteráni Litvínov",
+      "latitude": 50.59288,
+      "longitude": 13.608917
+    },
+    {
+      "name": "Podkrušnohorské technické muzeum",
+      "latitude": 50.555231,
+      "longitude": 13.621565
+    },
+    {
+      "name": "Oblastní muzeum a galerie",
+      "latitude": 50.517387,
+      "longitude": 13.638975
+    },
+    {
+      "name": "Muzeum města Duchcova",
+      "latitude": 50.602979,
+      "longitude": 13.746016
+    },
+    {
+      "name": "Technisches Museum Papiermühle Weigel",
+      "latitude": 50.464389,
+      "longitude": 12.810768
+    },
+    {
+      "name": "Schaubergwerk Glöckl",
+      "latitude": 50.428522,
+      "longitude": 12.731504
+    },
+    {
+      "name": "Štola Johannes",
+      "latitude": 50.432974,
+      "longitude": 12.871394
+    },
+    {
+      "name": "Wiesenthaler K3",
+      "latitude": 50.419232,
+      "longitude": 12.969079
+    },
+    {
+      "name": "Štola Marie Pomocné",
+      "latitude": 50.423878,
+      "longitude": 13.113166
+    },
+    {
+      "name": "Venkovní expozice důlní techniky",
+      "latitude": 50.422521,
+      "longitude": 13.115299
+    },
+    {
+      "name": "Důl Mauritius",
+      "latitude": 50.3871,
+      "longitude": 12.831055
+    },
+    {
+      "name": "Muzeum Horní Blatná",
+      "latitude": 50.391454,
+      "longitude": 12.770038
+    },
+    {
+      "name": "Muzeum Abertamy",
+      "latitude": 50.368929,
+      "longitude": 12.81821
+    },
+    {
+      "name": "Královská mincovna",
+      "latitude": 50.371394,
+      "longitude": 12.913163
+    },
+    {
+      "name": "Štola č. 1",
+      "latitude": 50.371087,
+      "longitude": 12.910644
+    },
+    {
+      "name": "Muzeum hodin",
+      "latitude": 50.384552,
+      "longitude": 13.171956
+    },
+    {
+      "name": "Muzeum porcelánu",
+      "latitude": 50.384225,
+      "longitude": 13.17343
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.37881,
+      "longitude": 13.258374
+    },
+    {
+      "name": "Lapidárium zaniklých obcí Doupovských hor",
+      "latitude": 50.311037,
+      "longitude": 13.27363
+    },
+    {
+      "name": "Galerie Jirkov",
+      "latitude": 50.49887,
+      "longitude": 13.447859
+    },
+    {
+      "name": "Oblastní muzeum v Chomutově",
+      "latitude": 50.45969,
+      "longitude": 13.417634
+    },
+    {
+      "name": "Železniční depozitář Národního technického muzea v Chomutově",
+      "latitude": 50.454731,
+      "longitude": 13.389833
+    },
+    {
+      "name": "Muzeum českého granátu",
+      "latitude": 50.477782,
+      "longitude": 13.984164
+    },
+    {
+      "name": "Regionální muzeum K. A. Polánka v Žatci",
+      "latitude": 50.322617,
+      "longitude": 13.540508
+    },
+    {
+      "name": "Retro Computer",
+      "latitude": 50.33059,
+      "longitude": 13.54385
+    },
+    {
+      "name": "Muzeum pivovarnictví Žatecka",
+      "latitude": 50.332134,
+      "longitude": 13.542475
+    },
+    {
+      "name": "Letecké muzeum",
+      "latitude": 50.325437,
+      "longitude": 13.585512
+    },
+    {
+      "name": "Renesanční sladovna",
+      "latitude": 50.326485,
+      "longitude": 13.544667
+    },
+    {
+      "name": "Křížova Vila",
+      "latitude": 50.324728,
+      "longitude": 13.538938
+    },
+    {
+      "name": "Chrám Chmele a Piva",
+      "latitude": 50.324577,
+      "longitude": 13.545073
+    },
+    {
+      "name": "Chmelařské muzeum",
+      "latitude": 50.324828,
+      "longitude": 13.544868
+    },
+    {
+      "name": "Muzeum české vesnice",
+      "latitude": 50.343786,
+      "longitude": 13.965357
+    },
+    {
+      "name": "Muzeum Ašska",
+      "latitude": 50.221569,
+      "longitude": 12.189067
+    },
+    {
+      "name": "Muzeum Aš",
+      "latitude": 50.224758,
+      "longitude": 12.188788
+    },
+    {
+      "name": "guitars",
+      "latitude": 50.254461,
+      "longitude": 12.405577
+    },
+    {
+      "name": "Muzeum bezpečnostních sborů Habartov",
+      "latitude": 50.187278,
+      "longitude": 12.565865
+    },
+    {
+      "name": "Porzellanikon - Staatliches Museum für Porzellan",
+      "latitude": 50.092597,
+      "longitude": 12.218631
+    },
+    {
+      "name": "Künstlerhaus",
+      "latitude": 50.08111,
+      "longitude": 12.229833
+    },
+    {
+      "name": "Deutsches Porzellanmuseum mit Zentralem Archiv der Deutschen Porzellanindustrie",
+      "latitude": 50.092056,
+      "longitude": 12.218224
+    },
+    {
+      "name": "Bayerisches Grenzmuseum Schirnding",
+      "latitude": 50.080634,
+      "longitude": 12.227079
+    },
+    {
+      "name": "Fire Fighter Museum at Hrad Vildstejn",
+      "latitude": 50.169457,
+      "longitude": 12.359975
+    },
+    {
+      "name": "Geofyzikální expozice Skalná",
+      "latitude": 50.172169,
+      "longitude": 12.364887
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.121576,
+      "longitude": 12.345736
+    },
+    {
+      "name": "SOOS",
+      "latitude": 50.146129,
+      "longitude": 12.401719
+    },
+    {
+      "name": "Auto-moto muzeum",
+      "latitude": 50.11303,
+      "longitude": 12.350234
+    },
+    {
+      "name": "Chebské muzeum",
+      "latitude": 50.080098,
+      "longitude": 12.37002
+    },
+    {
+      "name": "Retromuseum",
+      "latitude": 50.078647,
+      "longitude": 12.371333
+    },
+    {
+      "name": "Hrázděný statek Milíkov",
+      "latitude": 50.057872,
+      "longitude": 12.547851
+    },
+    {
+      "name": "Minimuzeum Bouda",
+      "latitude": 49.942173,
+      "longitude": 12.613071
+    },
+    {
+      "name": "Minimuzeum přírody \"U nás doma\"",
+      "latitude": 49.940987,
+      "longitude": 12.619772
+    },
+    {
+      "name": "Mineralienmuseum",
+      "latitude": 49.909642,
+      "longitude": 12.531731
+    },
+    {
+      "name": "Vánoční dům",
+      "latitude": 50.211484,
+      "longitude": 12.824787
+    },
+    {
+      "name": "Venkovská usedlost",
+      "latitude": 50.187232,
+      "longitude": 12.6726
+    },
+    {
+      "name": "Muzeum řemesel Královské Poříčí",
+      "latitude": 50.195033,
+      "longitude": 12.673527
+    },
+    {
+      "name": "Venkovská usedlost",
+      "latitude": 50.187744,
+      "longitude": 12.67189
+    },
+    {
+      "name": "Muzeum Tajnych Spolku",
+      "latitude": 50.185836,
+      "longitude": 12.753467
+    },
+    {
+      "name": "Jan Becher",
+      "latitude": 50.230375,
+      "longitude": 12.866981
+    },
+    {
+      "name": "Muzeum Karlovy Vary",
+      "latitude": 50.220259,
+      "longitude": 12.879708
+    },
+    {
+      "name": "Museum Moser",
+      "latitude": 50.227876,
+      "longitude": 12.837567
+    },
+    {
+      "name": "důl Jeroným",
+      "latitude": 50.107455,
+      "longitude": 12.69856
+    },
+    {
+      "name": "Hornické muzeum Krásno",
+      "latitude": 50.116249,
+      "longitude": 12.796422
+    },
+    {
+      "name": "Muzeum historické motorcykly",
+      "latitude": 50.084165,
+      "longitude": 12.839167
+    },
+    {
+      "name": "Kovářské muzeum",
+      "latitude": 50.084677,
+      "longitude": 12.838397
+    },
+    {
+      "name": "Muzeum předválečného opevnění",
+      "latitude": 50.282209,
+      "longitude": 13.557066
+    },
+    {
+      "name": "Kaolin na Podbořansku",
+      "latitude": 50.227636,
+      "longitude": 13.393485
+    },
+    {
+      "name": "Kounovské kamenné řady",
+      "latitude": 50.211835,
+      "longitude": 13.678315
+    },
+    {
+      "name": "Vojenská technika",
+      "latitude": 50.188408,
+      "longitude": 14.032314
+    },
+    {
+      "name": "Muzeum Vlečka Kněževes",
+      "latitude": 50.141962,
+      "longitude": 13.641434
+    },
+    {
+      "name": "Vlastivědní muzeum Jesenice",
+      "latitude": 50.098253,
+      "longitude": 13.472816
+    },
+    {
+      "name": "Muzeum amerických veteránů JK CLASSICS",
+      "latitude": 50.139097,
+      "longitude": 13.787355
+    },
+    {
+      "name": "Muzeum Českých drah",
+      "latitude": 50.145371,
+      "longitude": 13.774047
+    },
+    {
+      "name": "Nové Strašecí",
+      "latitude": 50.152717,
+      "longitude": 13.902432
+    },
+    {
+      "name": "Muz. sport. vozů",
+      "latitude": 50.124971,
+      "longitude": 13.949697
+    },
+    {
+      "name": "T. G. Masaryka",
+      "latitude": 50.12605,
+      "longitude": 13.955147
+    },
+    {
+      "name": "Pamětní síň Alice Garrigue Masarykové a Českého červeného kříže",
+      "latitude": 50.126553,
+      "longitude": 13.952718
+    },
+    {
+      "name": "Muzeum T. G. Masaryka Rakovník",
+      "latitude": 50.103501,
+      "longitude": 13.734031
+    },
+    {
+      "name": "Muzeum Prameny",
+      "latitude": 50.048022,
+      "longitude": 12.730338
+    },
+    {
+      "name": "Muzeum Kladská",
+      "latitude": 50.026256,
+      "longitude": 12.667485
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.977001,
+      "longitude": 12.708487
+    },
+    {
+      "name": "Regionální muzeum Nečtiny",
+      "latitude": 49.97486,
+      "longitude": 13.164604
+    },
+    {
+      "name": "Vesnické muzeum Harlosee",
+      "latitude": 49.899309,
+      "longitude": 12.931969
+    },
+    {
+      "name": "Pivovarské muzeum",
+      "latitude": 49.893305,
+      "longitude": 12.728085
+    },
+    {
+      "name": "Hornické muzeum",
+      "latitude": 49.866286,
+      "longitude": 12.737179
+    },
+    {
+      "name": "Muzeum historické hasičské techniky",
+      "latitude": 49.881275,
+      "longitude": 12.981244
+    },
+    {
+      "name": "Muzeum těžby borové smoly",
+      "latitude": 49.928568,
+      "longitude": 13.333663
+    },
+    {
+      "name": "Muzeum a galerie severního Plzeňska v Mariánské Týnici",
+      "latitude": 49.98484,
+      "longitude": 13.462304
+    },
+    {
+      "name": "Městské muzeum Kožlany",
+      "latitude": 49.994124,
+      "longitude": 13.547142
+    },
+    {
+      "name": "Muzeum každodennosti",
+      "latitude": 49.971278,
+      "longitude": 13.648345
+    },
+    {
+      "name": "Muzem veteránů Pavlíkov",
+      "latitude": 50.055186,
+      "longitude": 13.736529
+    },
+    {
+      "name": "Muzeum motocyklů Křivoklát",
+      "latitude": 50.03806,
+      "longitude": 13.870259
+    },
+    {
+      "name": "Pamětní síň Oty Pavla",
+      "latitude": 50.011844,
+      "longitude": 13.834106
+    },
+    {
+      "name": "Hamousův statek",
+      "latitude": 50.041526,
+      "longitude": 13.920685
+    },
+    {
+      "name": "Elektroskanzen Čechův mlýn",
+      "latitude": 49.968184,
+      "longitude": 13.747984
+    },
+    {
+      "name": "Památník Joachima Barranda",
+      "latitude": 49.964484,
+      "longitude": 13.76583
+    },
+    {
+      "name": "Rodný domek J. Jungmanna",
+      "latitude": 49.962209,
+      "longitude": 13.973087
+    },
+    {
+      "name": "Centrum stavitelského dědictví Plasy",
+      "latitude": 49.935775,
+      "longitude": 13.38894
+    },
+    {
+      "name": "Muzeum centrum stavitelského dědictví",
+      "latitude": 49.935592,
+      "longitude": 13.388891
+    },
+    {
+      "name": "Muzeum keramiky",
+      "latitude": 49.850168,
+      "longitude": 13.378022
+    },
+    {
+      "name": "Výtopna Zdice",
+      "latitude": 49.906828,
+      "longitude": 13.97424
+    },
+    {
+      "name": "Expozice požární ochrany Zbiroh",
+      "latitude": 49.857961,
+      "longitude": 13.752686
+    },
+    {
+      "name": "Městské muzeum Josefa Václava Sládka",
+      "latitude": 49.859156,
+      "longitude": 13.770434
+    },
+    {
+      "name": "Muzeum Žebráku",
+      "latitude": 49.87575,
+      "longitude": 13.89521
+    },
+    {
+      "name": "Muzeum Hořovicka",
+      "latitude": 49.838314,
+      "longitude": 13.906581
+    },
+    {
+      "name": "Zubrnická museální železnice",
+      "latitude": 50.647104,
+      "longitude": 14.217545
+    },
+    {
+      "name": "Elektrotechnické Muzeum",
+      "latitude": 50.647757,
+      "longitude": 14.219762
+    },
+    {
+      "name": "Skanzen Zubrnice",
+      "latitude": 50.648849,
+      "longitude": 14.221055
+    },
+    {
+      "name": "Mineralogické muzeum",
+      "latitude": 50.628933,
+      "longitude": 14.185979
+    },
+    {
+      "name": "Vísecká rychta",
+      "latitude": 50.635562,
+      "longitude": 14.392379
+    },
+    {
+      "name": "Centrum textilního tisku",
+      "latitude": 50.68428,
+      "longitude": 14.539616
+    },
+    {
+      "name": "Archeologické muzeum Šatlava v České Lípě",
+      "latitude": 50.687352,
+      "longitude": 14.537364
+    },
+    {
+      "name": "Vlastivědné muzeum a galerie",
+      "latitude": 50.685858,
+      "longitude": 14.534311
+    },
+    {
+      "name": "Hornické mini muzeum UD Hamr",
+      "latitude": 50.714027,
+      "longitude": 14.729465
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.661517,
+      "longitude": 14.725692
+    },
+    {
+      "name": "Obecní minimuzeum Lovečkovice",
+      "latitude": 50.62262,
+      "longitude": 14.265256
+    },
+    {
+      "name": "Muzeum čertů",
+      "latitude": 50.583961,
+      "longitude": 14.343444
+    },
+    {
+      "name": "Muzeum pohlednic Úštěk",
+      "latitude": 50.584075,
+      "longitude": 14.338843
+    },
+    {
+      "name": "Severočeská galerie výtvarného umění v Litoměřicích",
+      "latitude": 50.534176,
+      "longitude": 14.129436
+    },
+    {
+      "name": "Galerie a muzeum litoměřické diecéze",
+      "latitude": 50.533978,
+      "longitude": 14.130183
+    },
+    {
+      "name": "Památník Karla Hynka Máchy",
+      "latitude": 50.531723,
+      "longitude": 14.130267
+    },
+    {
+      "name": "Oblastní muzeum v Litoměřicích",
+      "latitude": 50.533867,
+      "longitude": 14.132925
+    },
+    {
+      "name": "Auto Muzeum",
+      "latitude": 50.513999,
+      "longitude": 14.159343
+    },
+    {
+      "name": "Muzeum Čtyřlístek",
+      "latitude": 50.568569,
+      "longitude": 14.65328
+    },
+    {
+      "name": "Památník Karla Hynka Máchy",
+      "latitude": 50.566321,
+      "longitude": 14.654126
+    },
+    {
+      "name": "Muzeum vystěhovalectví do Brazílie",
+      "latitude": 50.661764,
+      "longitude": 14.906534
+    },
+    {
+      "name": "Podještědské muzeum",
+      "latitude": 50.6591,
+      "longitude": 14.991403
+    },
+    {
+      "name": "Johanitská komenda sv. Zdislavy a Havla z Lemberka",
+      "latitude": 50.659556,
+      "longitude": 14.994312
+    },
+    {
+      "name": "Muzeum skla a bižuterie",
+      "latitude": 50.722626,
+      "longitude": 15.172083
+    },
+    {
+      "name": "Muzeum Hraček",
+      "latitude": 50.72157,
+      "longitude": 15.168788
+    },
+    {
+      "name": "Muzeum obrněné techniky Smržovka",
+      "latitude": 50.725842,
+      "longitude": 15.231242
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.683772,
+      "longitude": 15.149745
+    },
+    {
+      "name": "Muzeum zemědělské techniky Pěnčín",
+      "latitude": 50.688791,
+      "longitude": 15.235706
+    },
+    {
+      "name": "automobily socialismu",
+      "latitude": 50.722299,
+      "longitude": 15.3166
+    },
+    {
+      "name": "Památník zapadlých vlastenců",
+      "latitude": 50.724054,
+      "longitude": 15.400634
+    },
+    {
+      "name": "Janatův mlýn",
+      "latitude": 50.70773,
+      "longitude": 15.457357
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.642857,
+      "longitude": 15.254007
+    },
+    {
+      "name": "Muzeum krkonoškých řemesel",
+      "latitude": 50.66224,
+      "longitude": 15.466739
+    },
+    {
+      "name": "Museum na Janečku",
+      "latitude": 50.630418,
+      "longitude": 15.31728
+    },
+    {
+      "name": "Stálá expozice pyrotechnické asanace Ralska",
+      "latitude": 50.590159,
+      "longitude": 14.798179
+    },
+    {
+      "name": "Zámek Svijany",
+      "latitude": 50.573689,
+      "longitude": 15.055547
+    },
+    {
+      "name": "Muzeum města Mnichovo Hradiště",
+      "latitude": 50.527599,
+      "longitude": 14.970787
+    },
+    {
+      "name": "Dům přírody Českého ráje",
+      "latitude": 50.603591,
+      "longitude": 15.171589
+    },
+    {
+      "name": "Dlaskův statek",
+      "latitude": 50.602935,
+      "longitude": 15.17194
+    },
+    {
+      "name": "Muzeum Českého ráje",
+      "latitude": 50.58887,
+      "longitude": 15.157913
+    },
+    {
+      "name": "Galerie veteránů",
+      "latitude": 50.587431,
+      "longitude": 15.154423
+    },
+    {
+      "name": "Muzeum a Pojizerská galerie",
+      "latitude": 50.603377,
+      "longitude": 15.33487
+    },
+    {
+      "name": "Muzeum techniky v Loukově",
+      "latitude": 50.613774,
+      "longitude": 15.403375
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.534704,
+      "longitude": 15.259704
+    },
+    {
+      "name": "Motomuzeum",
+      "latitude": 50.536093,
+      "longitude": 15.231057
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.530891,
+      "longitude": 15.37229
+    },
+    {
+      "name": "Kolumbárium",
+      "latitude": 50.50616,
+      "longitude": 14.149862
+    },
+    {
+      "name": "Židovská a křesťanská síň",
+      "latitude": 50.506207,
+      "longitude": 14.149266
+    },
+    {
+      "name": "Muzeum Ghetta: židovská modlitebna a replika mansardy",
+      "latitude": 50.510548,
+      "longitude": 14.147039
+    },
+    {
+      "name": "Muzeum Ghetta",
+      "latitude": 50.511831,
+      "longitude": 14.14959
+    },
+    {
+      "name": "Magdeburská kasárna",
+      "latitude": 50.508618,
+      "longitude": 14.15196
+    },
+    {
+      "name": "Muzeum nostalgie",
+      "latitude": 50.50705,
+      "longitude": 14.151335
+    },
+    {
+      "name": "Muzeum Geocachingu",
+      "latitude": 50.507244,
+      "longitude": 14.152149
+    },
+    {
+      "name": "Krematorium",
+      "latitude": 50.502438,
+      "longitude": 14.151851
+    },
+    {
+      "name": "Simson Museum",
+      "latitude": 50.41362,
+      "longitude": 14.089408
+    },
+    {
+      "name": "Podřipské muzeum",
+      "latitude": 50.426402,
+      "longitude": 14.259855
+    },
+    {
+      "name": "Muzeum Eduarda Štorcha",
+      "latitude": 50.460179,
+      "longitude": 14.667432
+    },
+    {
+      "name": "Muzeum železniční historie Sudoměř u Mladé Boleslavi",
+      "latitude": 50.438193,
+      "longitude": 14.744792
+    },
+    {
+      "name": "Pevnostní muzeum Sazená",
+      "latitude": 50.306454,
+      "longitude": 14.288131
+    },
+    {
+      "name": "Kostnice",
+      "latitude": 50.35046,
+      "longitude": 14.474041
+    },
+    {
+      "name": "Regionální muzeum Mělník",
+      "latitude": 50.352669,
+      "longitude": 14.47459
+    },
+    {
+      "name": "Skalní obydlí",
+      "latitude": 50.369706,
+      "longitude": 14.548542
+    },
+    {
+      "name": "Památník Bedřicha Smetany",
+      "latitude": 50.29562,
+      "longitude": 14.468261
+    },
+    {
+      "name": "Muzeum Bělá pod Bezdězem",
+      "latitude": 50.501368,
+      "longitude": 14.807405
+    },
+    {
+      "name": "Muzeum Betlémů",
+      "latitude": 50.490712,
+      "longitude": 14.835172
+    },
+    {
+      "name": "Muzeum Bakovska",
+      "latitude": 50.482201,
+      "longitude": 14.936478
+    },
+    {
+      "name": "Okresní museum Mladá Boleslav - palác Templ",
+      "latitude": 50.410049,
+      "longitude": 14.901046
+    },
+    {
+      "name": "Muzeum Mladoboleslavska",
+      "latitude": 50.408724,
+      "longitude": 14.900854
+    },
+    {
+      "name": "ŠKODA Muzeum",
+      "latitude": 50.418592,
+      "longitude": 14.913982
+    },
+    {
+      "name": "Sbor českých bratří",
+      "latitude": 50.413758,
+      "longitude": 14.905866
+    },
+    {
+      "name": "Letecké muzeum Metoděje Vlacha",
+      "latitude": 50.401797,
+      "longitude": 14.899647
+    },
+    {
+      "name": "Muzeum panenek a medvídků",
+      "latitude": 50.510982,
+      "longitude": 15.224508
+    },
+    {
+      "name": "Válečné muzeum, letecká expozice",
+      "latitude": 50.50684,
+      "longitude": 15.262261
+    },
+    {
+      "name": "Železnice - Vlastivědné muzeum",
+      "latitude": 50.471735,
+      "longitude": 15.382152
+    },
+    {
+      "name": "Muzeum Rumcajsova ševcovna",
+      "latitude": 50.435711,
+      "longitude": 15.353686
+    },
+    {
+      "name": "Motomuzeum Jawa",
+      "latitude": 50.379714,
+      "longitude": 15.101777
+    },
+    {
+      "name": "Dobrovická muza",
+      "latitude": 50.366227,
+      "longitude": 14.963873
+    },
+    {
+      "name": "Muzeum Hraček",
+      "latitude": 50.290783,
+      "longitude": 14.822982
+    },
+    {
+      "name": "Muzeum Bedřicha Smetany",
+      "latitude": 50.322896,
+      "longitude": 15.016895
+    },
+    {
+      "name": "Muzeum knihařství",
+      "latitude": 50.305285,
+      "longitude": 15.169901
+    },
+    {
+      "name": "Stary Kravin",
+      "latitude": 50.716458,
+      "longitude": 15.479423
+    },
+    {
+      "name": "Muzeum Kostek LEGO",
+      "latitude": 50.726108,
+      "longitude": 15.605548
+    },
+    {
+      "name": "Krkonošské muzeum Vrchlabí - čtyři historické domky",
+      "latitude": 50.629578,
+      "longitude": 15.607135
+    },
+    {
+      "name": "Krkonošské muzeum",
+      "latitude": 50.628833,
+      "longitude": 15.605292
+    },
+    {
+      "name": "Muzeum Podzemí Krkonoš",
+      "latitude": 50.634388,
+      "longitude": 15.710905
+    },
+    {
+      "name": "Muzeum Vápenka",
+      "latitude": 50.696197,
+      "longitude": 15.845631
+    },
+    {
+      "name": "Geologická expozice Žacléř",
+      "latitude": 50.661705,
+      "longitude": 15.908511
+    },
+    {
+      "name": "Hornický skanzen Žacléř",
+      "latitude": 50.667359,
+      "longitude": 15.927935
+    },
+    {
+      "name": "Městské muzeum Žacléř",
+      "latitude": 50.652852,
+      "longitude": 15.907458
+    },
+    {
+      "name": "Krkonošské muzeum Jilemnice",
+      "latitude": 50.610438,
+      "longitude": 15.504435
+    },
+    {
+      "name": "Muzeum lyžování Dolní Branná",
+      "latitude": 50.591039,
+      "longitude": 15.591558
+    },
+    {
+      "name": "Galerie antického umění",
+      "latitude": 50.539997,
+      "longitude": 15.727388
+    },
+    {
+      "name": "Městské muzeum a knihovna",
+      "latitude": 50.539897,
+      "longitude": 15.727853
+    },
+    {
+      "name": "Muzeum Podkrkonoší",
+      "latitude": 50.561909,
+      "longitude": 15.913368
+    },
+    {
+      "name": "Měděný důl Bohumír",
+      "latitude": 50.547544,
+      "longitude": 16.093607
+    },
+    {
+      "name": "Muzeum bratří Čapků",
+      "latitude": 50.534024,
+      "longitude": 16.050603
+    },
+    {
+      "name": "Výstava důlní techniky",
+      "latitude": 50.527498,
+      "longitude": 16.056278
+    },
+    {
+      "name": "Muzeum Broumovského Pivovaru",
+      "latitude": 50.603676,
+      "longitude": 16.334964
+    },
+    {
+      "name": "Muzeum Broumovska",
+      "latitude": 50.586728,
+      "longitude": 16.333608
+    },
+    {
+      "name": "Expozice zemědělských a hasičských strojů",
+      "latitude": 50.542837,
+      "longitude": 16.213064
+    },
+    {
+      "name": "Muzeum stavebnice MERKUR",
+      "latitude": 50.535249,
+      "longitude": 16.232309
+    },
+    {
+      "name": "Muzeum papírových modelů",
+      "latitude": 50.535379,
+      "longitude": 16.232024
+    },
+    {
+      "name": "Muzeum města Police nad Metují",
+      "latitude": 50.538287,
+      "longitude": 16.23467
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 50.537221,
+      "longitude": 16.2347
+    },
+    {
+      "name": "Auto-moto museum",
+      "latitude": 50.494982,
+      "longitude": 15.521284
+    },
+    {
+      "name": "Klenotnice",
+      "latitude": 50.495524,
+      "longitude": 15.513625
+    },
+    {
+      "name": "Suchardův dům",
+      "latitude": 50.495639,
+      "longitude": 15.514052
+    },
+    {
+      "name": "Stará škola",
+      "latitude": 50.510342,
+      "longitude": 15.493737
+    },
+    {
+      "name": "Památník Karla Václava Raise",
+      "latitude": 50.430672,
+      "longitude": 15.581295
+    },
+    {
+      "name": "Fričovo muzeum",
+      "latitude": 50.427545,
+      "longitude": 15.582835
+    },
+    {
+      "name": "Městské muzeum - Špýchar",
+      "latitude": 50.435023,
+      "longitude": 15.816138
+    },
+    {
+      "name": "Městské muzeum - hlavní budova",
+      "latitude": 50.435198,
+      "longitude": 15.816141
+    },
+    {
+      "name": "Muzeum amatéského divadla",
+      "latitude": 50.404598,
+      "longitude": 15.678597
+    },
+    {
+      "name": "Galerie minerálů",
+      "latitude": 50.416446,
+      "longitude": 15.815763
+    },
+    {
+      "name": "Muzeum zemědělské techniky",
+      "latitude": 50.508769,
+      "longitude": 15.990335
+    },
+    {
+      "name": "Příběh ztraceného hradu",
+      "latitude": 50.488174,
+      "longitude": 16.030496
+    },
+    {
+      "name": "Městské muzeum Rtyně v Podkrkonoší",
+      "latitude": 50.504211,
+      "longitude": 16.071755
+    },
+    {
+      "name": "T-S 19",
+      "latitude": 50.505376,
+      "longitude": 16.13359
+    },
+    {
+      "name": "Domek Boženy Němcové",
+      "latitude": 50.476773,
+      "longitude": 16.094091
+    },
+    {
+      "name": "Cyklomuzeum Žireč",
+      "latitude": 50.415278,
+      "longitude": 15.851466
+    },
+    {
+      "name": "Regionální Muzeum Náchod",
+      "latitude": 50.415868,
+      "longitude": 16.16122
+    },
+    {
+      "name": "Regionální Muzeum Náchod",
+      "latitude": 50.417227,
+      "longitude": 16.163298
+    },
+    {
+      "name": "Muzeum Eduarda Štorcha a Karla Zemana",
+      "latitude": 50.374832,
+      "longitude": 15.543368
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.369321,
+      "longitude": 15.632697
+    },
+    {
+      "name": "Galerie plastik Hořice",
+      "latitude": 50.365176,
+      "longitude": 15.642356
+    },
+    {
+      "name": "Muzeum motocyklů",
+      "latitude": 50.317363,
+      "longitude": 15.621097
+    },
+    {
+      "name": "Rodný dům Václava Hanky",
+      "latitude": 50.312004,
+      "longitude": 15.76501
+    },
+    {
+      "name": "Rentzovo muzeum",
+      "latitude": 50.400945,
+      "longitude": 15.88941
+    },
+    {
+      "name": "Městské muzeum - Wenkeův dům",
+      "latitude": 50.353471,
+      "longitude": 15.913552
+    },
+    {
+      "name": "Muzeum Magie",
+      "latitude": 50.36188,
+      "longitude": 15.934794
+    },
+    {
+      "name": "Barunčina škola",
+      "latitude": 50.395616,
+      "longitude": 16.041995
+    },
+    {
+      "name": "Muzeum Boženy Němcové",
+      "latitude": 50.395596,
+      "longitude": 16.036342
+    },
+    {
+      "name": "Textilní muzeum",
+      "latitude": 50.395566,
+      "longitude": 16.036378
+    },
+    {
+      "name": "Železniční výtopna Jaroměř",
+      "latitude": 50.341542,
+      "longitude": 15.906078
+    },
+    {
+      "name": "Městské muzeum v Josefově",
+      "latitude": 50.337461,
+      "longitude": 15.926331
+    },
+    {
+      "name": "První vojenskohistorické muzeum M. Frosta a muzeum W. Matušky",
+      "latitude": 50.338307,
+      "longitude": 15.925522
+    },
+    {
+      "name": "Pevnost Josefov",
+      "latitude": 50.337723,
+      "longitude": 15.924829
+    },
+    {
+      "name": "Ravelin No. XIV",
+      "latitude": 50.338037,
+      "longitude": 15.936255
+    },
+    {
+      "name": "Muzeum motocyklů Šestajovice",
+      "latitude": 50.341772,
+      "longitude": 16.006887
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.344095,
+      "longitude": 16.153025
+    },
+    {
+      "name": "Rodný domek F. V. Heka",
+      "latitude": 50.292667,
+      "longitude": 16.159393
+    },
+    {
+      "name": "Ruchoma szopka w Czermnej",
+      "latitude": 50.463728,
+      "longitude": 16.255088
+    },
+    {
+      "name": "Jiráskovo muzeum",
+      "latitude": 50.480223,
+      "longitude": 16.183257
+    },
+    {
+      "name": "Rodný dům A. Jiráska",
+      "latitude": 50.482007,
+      "longitude": 16.181524
+    },
+    {
+      "name": "Muzeum Kultury Ludowej Pogórza Sudeckiego",
+      "latitude": 50.473696,
+      "longitude": 16.261164
+    },
+    {
+      "name": "Muzeum zabawek",
+      "latitude": 50.442042,
+      "longitude": 16.244145
+    },
+    {
+      "name": "Muzeum světelných reklam",
+      "latitude": 50.449653,
+      "longitude": 16.199204
+    },
+    {
+      "name": "Interaktywne Muzeum Ziemii Kłodzkiej",
+      "latitude": 50.441933,
+      "longitude": 16.246063
+    },
+    {
+      "name": "Szlak Ginących Zawodów",
+      "latitude": 50.452547,
+      "longitude": 16.240495
+    },
+    {
+      "name": "Skansen \"Szlak Ginących Zawodów\"",
+      "latitude": 50.453238,
+      "longitude": 16.239983
+    },
+    {
+      "name": "Pevnost Dobrošov",
+      "latitude": 50.402569,
+      "longitude": 16.202232
+    },
+    {
+      "name": "Běloveský pevnostní skanzen, N-S 81 Lom",
+      "latitude": 50.413309,
+      "longitude": 16.199938
+    },
+    {
+      "name": "Běloveský pevnostní skanzen, N-S 82 Březinka",
+      "latitude": 50.415409,
+      "longitude": 16.197934
+    },
+    {
+      "name": "Běloveský pevnostní skanzen, N-S 84 Voda",
+      "latitude": 50.42165,
+      "longitude": 16.189927
+    },
+    {
+      "name": "Pevnost Dobrošov Dělnický domek",
+      "latitude": 50.402301,
+      "longitude": 16.201937
+    },
+    {
+      "name": "Pevnost Dobrošov N-D-S 75 Zelený",
+      "latitude": 50.402363,
+      "longitude": 16.202238
+    },
+    {
+      "name": "Pevnost Dobrošov N-D-S 72 Můstek",
+      "latitude": 50.403363,
+      "longitude": 16.203873
+    },
+    {
+      "name": "Pevnost Dobrošov N-D-S 73 Jeřáb",
+      "latitude": 50.408104,
+      "longitude": 16.200027
+    },
+    {
+      "name": "N-S 78 Polsko",
+      "latitude": 50.410485,
+      "longitude": 16.204723
+    },
+    {
+      "name": "Izba Górnictwa i Historii Złotego Stoku",
+      "latitude": 50.43976,
+      "longitude": 16.874765
+    },
+    {
+      "name": "Muzeum Przestróg, Uwag i Apeli",
+      "latitude": 50.439689,
+      "longitude": 16.874283
+    },
+    {
+      "name": "Kopalnia Złota w Złotym Stoku",
+      "latitude": 50.439864,
+      "longitude": 16.874687
+    },
+    {
+      "name": "KAHAN III",
+      "latitude": 50.401499,
+      "longitude": 16.211593
+    },
+    {
+      "name": "Muzeum zimních sportů, turistiky a řemesel",
+      "latitude": 50.303614,
+      "longitude": 16.351306
+    },
+    {
+      "name": "Památník Antonína Dvořáka",
+      "latitude": 50.283907,
+      "longitude": 14.092852
+    },
+    {
+      "name": "Železniční muzeum Zlonice",
+      "latitude": 50.28725,
+      "longitude": 14.065739
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.280751,
+      "longitude": 14.236211
+    },
+    {
+      "name": "MUZEUM TECHNICKÝCH HRAČEK",
+      "latitude": 50.281786,
+      "longitude": 14.236636
+    },
+    {
+      "name": "Barokní špýchar",
+      "latitude": 50.280635,
+      "longitude": 14.234137
+    },
+    {
+      "name": "Muzeum Antonína Dvořáka",
+      "latitude": 50.262469,
+      "longitude": 14.301379
+    },
+    {
+      "name": "Galerie VK 37",
+      "latitude": 50.245742,
+      "longitude": 14.302653
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.24009,
+      "longitude": 14.304212
+    },
+    {
+      "name": "Vlastivědné muzeum ve Slaném",
+      "latitude": 50.230437,
+      "longitude": 14.088027
+    },
+    {
+      "name": "Bunkr Drnov - Muzeum studené války a protivzdušné obrany",
+      "latitude": 50.229046,
+      "longitude": 14.159209
+    },
+    {
+      "name": "Muzeum másla",
+      "latitude": 50.209102,
+      "longitude": 14.379795
+    },
+    {
+      "name": "Památník Jana Palacha",
+      "latitude": 50.284713,
+      "longitude": 14.591442
+    },
+    {
+      "name": "Hasičské muzeum Florián",
+      "latitude": 50.282945,
+      "longitude": 14.593567
+    },
+    {
+      "name": "Malý vesnický skanzen",
+      "latitude": 50.255155,
+      "longitude": 14.697959
+    },
+    {
+      "name": "Památník národního útlaku a odboje",
+      "latitude": 50.212968,
+      "longitude": 14.437126
+    },
+    {
+      "name": "Muzeum Avia",
+      "latitude": 50.214573,
+      "longitude": 14.440913
+    },
+    {
+      "name": "Oblastní muzeum Praha-Východ Brandýs nad Labem – Stará Boleslav",
+      "latitude": 50.185707,
+      "longitude": 14.65897
+    },
+    {
+      "name": "Archeologická expozice",
+      "latitude": 50.194944,
+      "longitude": 14.673805
+    },
+    {
+      "name": "bývalý důl Mayrau",
+      "latitude": 50.166019,
+      "longitude": 14.084023
+    },
+    {
+      "name": "Sládečkovo Vlastivědné Muzeum",
+      "latitude": 50.149674,
+      "longitude": 14.110361
+    },
+    {
+      "name": "Bachrovna",
+      "latitude": 50.148831,
+      "longitude": 14.107675
+    },
+    {
+      "name": "Buštěhradské muzeum Oty Pavla",
+      "latitude": 50.152189,
+      "longitude": 14.183416
+    },
+    {
+      "name": "Muzeum věžáků",
+      "latitude": 50.140363,
+      "longitude": 14.072785
+    },
+    {
+      "name": "Muzeum Památníku Lidice",
+      "latitude": 50.144501,
+      "longitude": 14.200844
+    },
+    {
+      "name": "Středočeské muzeum v Roztokách u Prahy",
+      "latitude": 50.158198,
+      "longitude": 14.399411
+    },
+    {
+      "name": "Dinosauria",
+      "latitude": 50.126279,
+      "longitude": 14.279412
+    },
+    {
+      "name": "Melicharovo muzeum",
+      "latitude": 50.085411,
+      "longitude": 14.13059
+    },
+    {
+      "name": "Muzeum Arcade hry",
+      "latitude": 50.073192,
+      "longitude": 14.164146
+    },
+    {
+      "name": "Skanzen",
+      "latitude": 50.072655,
+      "longitude": 14.1648
+    },
+    {
+      "name": "Muzeum městské hromadné dopravy v Praze",
+      "latitude": 50.093953,
+      "longitude": 14.388674
+    },
+    {
+      "name": "Galerie hlavního města Prahy",
+      "latitude": 50.095195,
+      "longitude": 14.408364
+    },
+    {
+      "name": "Müllerova vila",
+      "latitude": 50.092593,
+      "longitude": 14.378428
+    },
+    {
+      "name": "Muzeum literatury",
+      "latitude": 50.102248,
+      "longitude": 14.408205
+    },
+    {
+      "name": "Stará čistírna odpadních vod;Stará čistírna odpadních vod v Bubeneči",
+      "latitude": 50.110115,
+      "longitude": 14.402182
+    },
+    {
+      "name": "Muzeum Kouzlo starých časů",
+      "latitude": 50.091434,
+      "longitude": 14.408889
+    },
+    {
+      "name": "Kafka Museum",
+      "latitude": 50.087984,
+      "longitude": 14.410511
+    },
+    {
+      "name": "Království železnic",
+      "latitude": 50.071324,
+      "longitude": 14.402534
+    },
+    {
+      "name": "Památník národního písemnictví",
+      "latitude": 50.086643,
+      "longitude": 14.390086
+    },
+    {
+      "name": "Museum Kampa",
+      "latitude": 50.083999,
+      "longitude": 14.408491
+    },
+    {
+      "name": "Muzeum Bedřicha Smetany",
+      "latitude": 50.085613,
+      "longitude": 14.412925
+    },
+    {
+      "name": "Muzeum Karlova mostu",
+      "latitude": 50.086511,
+      "longitude": 14.413927
+    },
+    {
+      "name": "Galerie Hollar",
+      "latitude": 50.082237,
+      "longitude": 14.413318
+    },
+    {
+      "name": "Muzeum alchymistů a mágů staré Prahy",
+      "latitude": 50.087955,
+      "longitude": 14.398906
+    },
+    {
+      "name": "Trčkovská galerie",
+      "latitude": 50.090169,
+      "longitude": 14.405533
+    },
+    {
+      "name": "Císařská konírna",
+      "latitude": 50.090776,
+      "longitude": 14.398934
+    },
+    {
+      "name": "Obrazárna Pražského hradu",
+      "latitude": 50.090679,
+      "longitude": 14.398544
+    },
+    {
+      "name": "Národní pedagogické muzeum a knihovna J. A. Komenského",
+      "latitude": 50.090412,
+      "longitude": 14.40528
+    },
+    {
+      "name": "Galerie Josefa Sudka",
+      "latitude": 50.08827,
+      "longitude": 14.394677
+    },
+    {
+      "name": "Muzeum miniatur",
+      "latitude": 50.087266,
+      "longitude": 14.389339
+    },
+    {
+      "name": "Muzeum Karla Zemana",
+      "latitude": 50.086802,
+      "longitude": 14.407638
+    },
+    {
+      "name": "Muzeum hraček",
+      "latitude": 50.091949,
+      "longitude": 14.404481
+    },
+    {
+      "name": "Muzeum pražských pověstí a strašidel",
+      "latitude": 50.087503,
+      "longitude": 14.405906
+    },
+    {
+      "name": "Gingerbread Museum",
+      "latitude": 50.088393,
+      "longitude": 14.400502
+    },
+    {
+      "name": "Museum Montanelli",
+      "latitude": 50.088383,
+      "longitude": 14.400184
+    },
+    {
+      "name": "Národopisné muzeum - Musaion",
+      "latitude": 50.076977,
+      "longitude": 14.398803
+    },
+    {
+      "name": "Strahovská obrazárna",
+      "latitude": 50.08637,
+      "longitude": 14.389847
+    },
+    {
+      "name": "Národní galerie v Praze - Salmovský palác",
+      "latitude": 50.089331,
+      "longitude": 14.397444
+    },
+    {
+      "name": "Národní galerie v Praze - Schwarzenberský palác",
+      "latitude": 50.089115,
+      "longitude": 14.396872
+    },
+    {
+      "name": "Národní galerie v Praze - Šternberský palác",
+      "latitude": 50.090286,
+      "longitude": 14.396695
+    },
+    {
+      "name": "Archeologický park Liboc",
+      "latitude": 50.087069,
+      "longitude": 14.330415
+    },
+    {
+      "name": "Trabant muzeum Praha Motol",
+      "latitude": 50.06793,
+      "longitude": 14.348963
+    },
+    {
+      "name": "Popmuseum",
+      "latitude": 50.083577,
+      "longitude": 14.360872
+    },
+    {
+      "name": "Muzeum města Prahy",
+      "latitude": 50.086141,
+      "longitude": 14.413599
+    },
+    {
+      "name": "Lobkovický palác",
+      "latitude": 50.091551,
+      "longitude": 14.404868
+    },
+    {
+      "name": "Prague Beer Museum",
+      "latitude": 50.08505,
+      "longitude": 14.414037
+    },
+    {
+      "name": "Muzeum slivovice R. Jelínek",
+      "latitude": 50.089765,
+      "longitude": 14.410122
+    },
+    {
+      "name": "Mozartovo interaktivní muzeum",
+      "latitude": 50.087558,
+      "longitude": 14.403602
+    },
+    {
+      "name": "České muzeum hudby",
+      "latitude": 50.084709,
+      "longitude": 14.404635
+    },
+    {
+      "name": "Ateliér Josefa Sudka",
+      "latitude": 50.082435,
+      "longitude": 14.405236
+    },
+    {
+      "name": "Rothmayerova vila",
+      "latitude": 50.091299,
+      "longitude": 14.364262
+    },
+    {
+      "name": "Bertramka",
+      "latitude": 50.070497,
+      "longitude": 14.39501
+    },
+    {
+      "name": "muzeum kočárů",
+      "latitude": 50.149028,
+      "longitude": 14.564581
+    },
+    {
+      "name": "Vojenské letecké muzeum Kbely",
+      "latitude": 50.125449,
+      "longitude": 14.536494
+    },
+    {
+      "name": "Areal Staré Aerovky",
+      "latitude": 50.128804,
+      "longitude": 14.529651
+    },
+    {
+      "name": "Areal Staré Aerovky",
+      "latitude": 50.12932,
+      "longitude": 14.529196
+    },
+    {
+      "name": "Městské muzeum Čelákovice",
+      "latitude": 50.166036,
+      "longitude": 14.751667
+    },
+    {
+      "name": "DOX",
+      "latitude": 50.106785,
+      "longitude": 14.447555
+    },
+    {
+      "name": "Národní galerie v Praze - Veletržní palác",
+      "latitude": 50.101523,
+      "longitude": 14.432334
+    },
+    {
+      "name": "Galerie Scarabeus",
+      "latitude": 50.100939,
+      "longitude": 14.41724
+    },
+    {
+      "name": "Národní zemědělské muzeum",
+      "latitude": 50.097073,
+      "longitude": 14.423243
+    },
+    {
+      "name": "Artwall Gallery",
+      "latitude": 50.095806,
+      "longitude": 14.428102
+    },
+    {
+      "name": "Síň slávy českého hokeje",
+      "latitude": 50.104791,
+      "longitude": 14.492074
+    },
+    {
+      "name": "Film Legends Museum Prague",
+      "latitude": 50.105148,
+      "longitude": 14.484618
+    },
+    {
+      "name": "Lapidárium Národního muzea",
+      "latitude": 50.105491,
+      "longitude": 14.431326
+    },
+    {
+      "name": "Planetárium",
+      "latitude": 50.105513,
+      "longitude": 14.427528
+    },
+    {
+      "name": "Maroldovo panorama",
+      "latitude": 50.106654,
+      "longitude": 14.427507
+    },
+    {
+      "name": "Národní technické muzeum",
+      "latitude": 50.097543,
+      "longitude": 14.424834
+    },
+    {
+      "name": "Gorlice",
+      "latitude": 50.06524,
+      "longitude": 14.421215
+    },
+    {
+      "name": "Vyšehradské kasematy",
+      "latitude": 50.065205,
+      "longitude": 14.419272
+    },
+    {
+      "name": "Czech Beer Museum",
+      "latitude": 50.086039,
+      "longitude": 14.41795
+    },
+    {
+      "name": "Prague Museum of Meissen Porcelain",
+      "latitude": 50.083601,
+      "longitude": 14.422356
+    },
+    {
+      "name": "Galerie Troba",
+      "latitude": 50.080312,
+      "longitude": 14.453272
+    },
+    {
+      "name": "Vojenský historický ústav Praha",
+      "latitude": 50.087663,
+      "longitude": 14.445164
+    },
+    {
+      "name": "Náprstkovo muzeum",
+      "latitude": 50.084094,
+      "longitude": 14.415969
+    },
+    {
+      "name": "Galerie VIA ART",
+      "latitude": 50.075572,
+      "longitude": 14.415782
+    },
+    {
+      "name": "Chlupáčovo muzeum historie Země",
+      "latitude": 50.068753,
+      "longitude": 14.424277
+    },
+    {
+      "name": "Židovské muzeum",
+      "latitude": 50.090285,
+      "longitude": 14.4211
+    },
+    {
+      "name": "Galerie ART+UM",
+      "latitude": 50.080572,
+      "longitude": 14.417269
+    },
+    {
+      "name": "Galerie České pojišťovny",
+      "latitude": 50.08062,
+      "longitude": 14.420409
+    },
+    {
+      "name": "Galerie Zlatá lilie",
+      "latitude": 50.086296,
+      "longitude": 14.419528
+    },
+    {
+      "name": "Galerie Václava Špály",
+      "latitude": 50.082412,
+      "longitude": 14.420334
+    },
+    {
+      "name": "Galerie Smečky",
+      "latitude": 50.079169,
+      "longitude": 14.4273
+    },
+    {
+      "name": "Galerie Rudolfinum",
+      "latitude": 50.090163,
+      "longitude": 14.41528
+    },
+    {
+      "name": "Museum of Medieval Torture Instruments",
+      "latitude": 50.085985,
+      "longitude": 14.41417
+    },
+    {
+      "name": "Madame Tussauds",
+      "latitude": 50.087153,
+      "longitude": 14.422691
+    },
+    {
+      "name": "Speculum Alchemiæ Prague",
+      "latitude": 50.090759,
+      "longitude": 14.42256
+    },
+    {
+      "name": "Muzeum Policie ČR",
+      "latitude": 50.0689,
+      "longitude": 14.428098
+    },
+    {
+      "name": "Galerie Deset - Waldesovo muzeum",
+      "latitude": 50.068766,
+      "longitude": 14.457974
+    },
+    {
+      "name": "Sex Machines Museum",
+      "latitude": 50.086261,
+      "longitude": 14.420819
+    },
+    {
+      "name": "Muzeum Antonína Dvořáka",
+      "latitude": 50.073688,
+      "longitude": 14.426921
+    },
+    {
+      "name": "Mucha museum",
+      "latitude": 50.084176,
+      "longitude": 14.42772
+    },
+    {
+      "name": "Museum of Bricks Praha",
+      "latitude": 50.082625,
+      "longitude": 14.41943
+    },
+    {
+      "name": "Památník Jaroslava Ježka (Modrý pokoj)",
+      "latitude": 50.088181,
+      "longitude": 14.417302
+    },
+    {
+      "name": "Národní galerie v Praze - Palác Kinských",
+      "latitude": 50.087958,
+      "longitude": 14.421713
+    },
+    {
+      "name": "Poštovní muzeum",
+      "latitude": 50.092312,
+      "longitude": 14.428601
+    },
+    {
+      "name": "Mapová sbírka Přírodovědecké fakulty UK",
+      "latitude": 50.068516,
+      "longitude": 14.424841
+    },
+    {
+      "name": "Hrdličkovo muzeum člověka",
+      "latitude": 50.07253,
+      "longitude": 14.42419
+    },
+    {
+      "name": "Sklářské muzeum Moser",
+      "latitude": 50.087401,
+      "longitude": 14.422175
+    },
+    {
+      "name": "Národní galerie v Praze - Klášter sv. Anežky České",
+      "latitude": 50.092257,
+      "longitude": 14.423994
+    },
+    {
+      "name": "Choco-Story Muzeum čokolády",
+      "latitude": 50.086973,
+      "longitude": 14.423055
+    },
+    {
+      "name": "Colloredo - Mansfeldský palác",
+      "latitude": 50.085871,
+      "longitude": 14.414658
+    },
+    {
+      "name": "Pinball museum 1990",
+      "latitude": 50.079231,
+      "longitude": 14.42977
+    },
+    {
+      "name": "Galerie Leica",
+      "latitude": 50.079362,
+      "longitude": 14.424276
+    },
+    {
+      "name": "Kryt Folimanka",
+      "latitude": 50.067795,
+      "longitude": 14.432426
+    },
+    {
+      "name": "Muzeum komunismu",
+      "latitude": 50.087851,
+      "longitude": 14.430011
+    },
+    {
+      "name": "Muzeum hlavního města Prahy - Dům U Zlatého prstenu",
+      "latitude": 50.08809,
+      "longitude": 14.423055
+    },
+    {
+      "name": "Muzeum smyslů",
+      "latitude": 50.08415,
+      "longitude": 14.428899
+    },
+    {
+      "name": "Czech Repubrick – Lego země českých památek",
+      "latitude": 50.085347,
+      "longitude": 14.425615
+    },
+    {
+      "name": "Národní Filmové Muzeum: NaFilm",
+      "latitude": 50.082234,
+      "longitude": 14.42306
+    },
+    {
+      "name": "Mineralia Gemstone Museum",
+      "latitude": 50.087803,
+      "longitude": 14.432314
+    },
+    {
+      "name": "Český granát",
+      "latitude": 50.085783,
+      "longitude": 14.415149
+    },
+    {
+      "name": "Slavia museum",
+      "latitude": 50.067513,
+      "longitude": 14.470779
+    },
+    {
+      "name": "Invisible exhibition",
+      "latitude": 50.078408,
+      "longitude": 14.421362
+    },
+    {
+      "name": "Podskalská celnice na Výtoni",
+      "latitude": 50.067823,
+      "longitude": 14.415498
+    },
+    {
+      "name": "Muzeum fantastických iluzi",
+      "latitude": 50.081255,
+      "longitude": 14.424402
+    },
+    {
+      "name": "Muzeum Legií",
+      "latitude": 50.075311,
+      "longitude": 14.428658
+    },
+    {
+      "name": "Museum of Torture",
+      "latitude": 50.087113,
+      "longitude": 14.423378
+    },
+    {
+      "name": "Historie Karlovy Univerzity",
+      "latitude": 50.086328,
+      "longitude": 14.423342
+    },
+    {
+      "name": "IAM Illusion Art Museum",
+      "latitude": 50.085251,
+      "longitude": 14.421914
+    },
+    {
+      "name": "Galerie u Zlatého Kohouta",
+      "latitude": 50.084581,
+      "longitude": 14.419724
+    },
+    {
+      "name": "Central Gallery",
+      "latitude": 50.087458,
+      "longitude": 14.422162
+    },
+    {
+      "name": "Film Legends Museum",
+      "latitude": 50.080843,
+      "longitude": 14.429481
+    },
+    {
+      "name": "Muzeum studené války",
+      "latitude": 50.081428,
+      "longitude": 14.431195
+    },
+    {
+      "name": "Lumia Gallery",
+      "latitude": 50.08747,
+      "longitude": 14.424404
+    },
+    {
+      "name": "Síň slávy českého hokeje",
+      "latitude": 50.085927,
+      "longitude": 14.426673
+    },
+    {
+      "name": "CNB Visitor Centre",
+      "latitude": 50.087032,
+      "longitude": 14.428679
+    },
+    {
+      "name": "Armádní muzeum Žižkov",
+      "latitude": 50.087502,
+      "longitude": 14.445048
+    },
+    {
+      "name": "Španělská synagoga",
+      "latitude": 50.090397,
+      "longitude": 14.420819
+    },
+    {
+      "name": "Muzeum Prahy",
+      "latitude": 50.089961,
+      "longitude": 14.438563
+    },
+    {
+      "name": "Uměleckoprůmyslové muzeum v Praze",
+      "latitude": 50.089964,
+      "longitude": 14.416479
+    },
+    {
+      "name": "Gallery Of Steel Figures",
+      "latitude": 50.087333,
+      "longitude": 14.4243
+    },
+    {
+      "name": "Pinkasova synagoga",
+      "latitude": 50.08931,
+      "longitude": 14.41701
+    },
+    {
+      "name": "Vršovický skanzen",
+      "latitude": 50.068185,
+      "longitude": 14.452604
+    },
+    {
+      "name": "Obřadní síň",
+      "latitude": 50.090056,
+      "longitude": 14.417032
+    },
+    {
+      "name": "Národní památník na Vítkově",
+      "latitude": 50.088544,
+      "longitude": 14.450077
+    },
+    {
+      "name": "Národní muzeum",
+      "latitude": 50.078943,
+      "longitude": 14.430862
+    },
+    {
+      "name": "Regionální muzeum",
+      "latitude": 50.088899,
+      "longitude": 14.578666
+    },
+    {
+      "name": "Lenčino muzeum hraček s vůní perníku",
+      "latitude": 50.283547,
+      "longitude": 15.019895
+    },
+    {
+      "name": "Muzeum vojenského prostoru Milovice",
+      "latitude": 50.229128,
+      "longitude": 14.876814
+    },
+    {
+      "name": "Polabské muzeum - Muzeum Bedřicha Hrozného",
+      "latitude": 50.201351,
+      "longitude": 14.838327
+    },
+    {
+      "name": "Muzeum starých kamen",
+      "latitude": 50.18533,
+      "longitude": 14.892403
+    },
+    {
+      "name": "Vlastivědné muzeum",
+      "latitude": 50.184921,
+      "longitude": 15.039595
+    },
+    {
+      "name": "Skanzen lidové architektury",
+      "latitude": 50.161121,
+      "longitude": 14.823906
+    },
+    {
+      "name": "Moto-velo muzeum",
+      "latitude": 50.159161,
+      "longitude": 14.823641
+    },
+    {
+      "name": "Museum socialistických vozů",
+      "latitude": 50.126027,
+      "longitude": 14.77871
+    },
+    {
+      "name": "Podlipanské muzeum",
+      "latitude": 50.074863,
+      "longitude": 14.85406
+    },
+    {
+      "name": "Památník krále Jiřího z Poděbrad",
+      "latitude": 50.141433,
+      "longitude": 15.119434
+    },
+    {
+      "name": "Film Legends Muzeum",
+      "latitude": 50.142915,
+      "longitude": 15.11768
+    },
+    {
+      "name": "Polabské muzeum",
+      "latitude": 50.14197,
+      "longitude": 15.12275
+    },
+    {
+      "name": "Muzeum keltů",
+      "latitude": 50.134224,
+      "longitude": 15.268456
+    },
+    {
+      "name": "Keltské muzeum",
+      "latitude": 50.134558,
+      "longitude": 15.2663
+    },
+    {
+      "name": "Muzeum Loreta",
+      "latitude": 50.15931,
+      "longitude": 15.460319
+    },
+    {
+      "name": "Sklářská huť",
+      "latitude": 50.018858,
+      "longitude": 14.143548
+    },
+    {
+      "name": "Muzeum Nučice",
+      "latitude": 50.016765,
+      "longitude": 14.229126
+    },
+    {
+      "name": "středověká vesnice Řepora",
+      "latitude": 50.041189,
+      "longitude": 14.306675
+    },
+    {
+      "name": "Musoleum",
+      "latitude": 50.052116,
+      "longitude": 14.409539
+    },
+    {
+      "name": "Automuseum Praga",
+      "latitude": 50.025664,
+      "longitude": 14.286672
+    },
+    {
+      "name": "Viniční Domek",
+      "latitude": 50.010877,
+      "longitude": 14.403466
+    },
+    {
+      "name": "Muzeum trati a filmu Ostře sledované vlaky",
+      "latitude": 49.992838,
+      "longitude": 14.162696
+    },
+    {
+      "name": "Chrustenická šachta",
+      "latitude": 50.00457,
+      "longitude": 14.165502
+    },
+    {
+      "name": "Obecní muzeum Svatý Jan pod Skalou",
+      "latitude": 49.96857,
+      "longitude": 14.133305
+    },
+    {
+      "name": "Muzeum berounské keramiky",
+      "latitude": 49.965018,
+      "longitude": 14.072018
+    },
+    {
+      "name": "Muzeum Českého krasu v Berouně",
+      "latitude": 49.963454,
+      "longitude": 14.07263
+    },
+    {
+      "name": "Svatojanské muzeum",
+      "latitude": 49.968483,
+      "longitude": 14.133156
+    },
+    {
+      "name": "Mlýn u Veselých",
+      "latitude": 49.988921,
+      "longitude": 14.290134
+    },
+    {
+      "name": "Muzeum historických nočníků a toalet",
+      "latitude": 50.001906,
+      "longitude": 14.408878
+    },
+    {
+      "name": "Muzeum zvonařství rodu Manoušků",
+      "latitude": 49.978762,
+      "longitude": 14.394373
+    },
+    {
+      "name": "Galerie Vyšehrad",
+      "latitude": 50.06357,
+      "longitude": 14.416456
+    },
+    {
+      "name": "Gotický sklep",
+      "latitude": 50.063434,
+      "longitude": 14.41684
+    },
+    {
+      "name": "Plynárenské muzeum",
+      "latitude": 50.056201,
+      "longitude": 14.464723
+    },
+    {
+      "name": "Muzeum Říčany",
+      "latitude": 49.992893,
+      "longitude": 14.663028
+    },
+    {
+      "name": "Tetínské muzeum",
+      "latitude": 49.949817,
+      "longitude": 14.101068
+    },
+    {
+      "name": "Muzeum betlémů",
+      "latitude": 49.937494,
+      "longitude": 14.186764
+    },
+    {
+      "name": "Bunkermuseum#",
+      "latitude": 49.933689,
+      "longitude": 14.182997
+    },
+    {
+      "name": "Dům hodin",
+      "latitude": 49.936557,
+      "longitude": 14.184653
+    },
+    {
+      "name": "Muzeum voskových figurín",
+      "latitude": 49.940263,
+      "longitude": 14.188912
+    },
+    {
+      "name": "B-7/12/A-160 Z",
+      "latitude": 49.93368,
+      "longitude": 14.182998
+    },
+    {
+      "name": "Muzeum Jarmily Novotné a Svatopluka Čecha",
+      "latitude": 49.904687,
+      "longitude": 14.148016
+    },
+    {
+      "name": "Galerie a muzeum M.D. Rettigové",
+      "latitude": 49.873397,
+      "longitude": 14.110086
+    },
+    {
+      "name": "Výstava čínského umění",
+      "latitude": 49.897437,
+      "longitude": 14.49023
+    },
+    {
+      "name": "Památník Josefa Lady",
+      "latitude": 49.905212,
+      "longitude": 14.736608
+    },
+    {
+      "name": "Regionální muzeum v Jílovém u Prahy",
+      "latitude": 49.893853,
+      "longitude": 14.494084
+    },
+    {
+      "name": "Regionální muzeum",
+      "latitude": 49.893926,
+      "longitude": 14.494023
+    },
+    {
+      "name": "Muzeum Štola Halíře",
+      "latitude": 49.884035,
+      "longitude": 14.513575
+    },
+    {
+      "name": "Vojenské technické muzeum Lešany",
+      "latitude": 49.85507,
+      "longitude": 14.543703
+    },
+    {
+      "name": "Pyšelské muzeum",
+      "latitude": 49.876671,
+      "longitude": 14.676376
+    },
+    {
+      "name": "Svět Škodovek",
+      "latitude": 49.843723,
+      "longitude": 14.694174
+    },
+    {
+      "name": "Vondráčkova továrna",
+      "latitude": 49.997519,
+      "longitude": 14.863894
+    },
+    {
+      "name": "Pivovarské muzeum",
+      "latitude": 49.997763,
+      "longitude": 14.865435
+    },
+    {
+      "name": "Skansen Kouřim",
+      "latitude": 49.994825,
+      "longitude": 14.972801
+    },
+    {
+      "name": "Muzeum Kouřimska",
+      "latitude": 50.002823,
+      "longitude": 14.977231
+    },
+    {
+      "name": "muzeum Josefa Gočára a galerie kubistického designu",
+      "latitude": 50.006253,
+      "longitude": 15.087712
+    },
+    {
+      "name": "Regionální muzeum v Kolíně",
+      "latitude": 50.026891,
+      "longitude": 15.201802
+    },
+    {
+      "name": "Regionální muzeum v Kolíně − Dvořákovo muzeum pravěku",
+      "latitude": 50.026697,
+      "longitude": 15.202274
+    },
+    {
+      "name": "Regionální muzeum v Kolíně",
+      "latitude": 50.027788,
+      "longitude": 15.200728
+    },
+    {
+      "name": "Městské Muzeum",
+      "latitude": 50.040404,
+      "longitude": 15.358352
+    },
+    {
+      "name": "Námořní muzeum",
+      "latitude": 50.030077,
+      "longitude": 15.305513
+    },
+    {
+      "name": "Kostnice v Sedlci (Ossuary)",
+      "latitude": 49.961776,
+      "longitude": 15.288092
+    },
+    {
+      "name": "Katedrála Nanebevzetí Panny Marie a sv. Jana Křtitele",
+      "latitude": 49.959824,
+      "longitude": 15.290135
+    },
+    {
+      "name": "Muzeum tabáku",
+      "latitude": 49.960197,
+      "longitude": 15.29061
+    },
+    {
+      "name": "Astronomické muzeum Vojtěcha Šafaříka",
+      "latitude": 49.908986,
+      "longitude": 14.781242
+    },
+    {
+      "name": "Muzeum panenek",
+      "latitude": 49.8808,
+      "longitude": 15.06329
+    },
+    {
+      "name": "České muzeum stříbra",
+      "latitude": 49.947626,
+      "longitude": 15.26547
+    },
+    {
+      "name": "GASK",
+      "latitude": 49.946262,
+      "longitude": 15.264119
+    },
+    {
+      "name": "Dačického dům",
+      "latitude": 49.948534,
+      "longitude": 15.265178
+    },
+    {
+      "name": "Muzeum kutnohorské čokolády a čokoládovna",
+      "latitude": 49.948753,
+      "longitude": 15.265827
+    },
+    {
+      "name": "Aliens vs. Predators",
+      "latitude": 49.949697,
+      "longitude": 15.26642
+    },
+    {
+      "name": "Kamenný dům",
+      "latitude": 49.949998,
+      "longitude": 15.265237
+    },
+    {
+      "name": "Tylův dům",
+      "latitude": 49.949329,
+      "longitude": 15.269933
+    },
+    {
+      "name": "Muzeum Malešov",
+      "latitude": 49.911944,
+      "longitude": 15.221933
+    },
+    {
+      "name": "Národní zemědělské muzeum - pokladna",
+      "latitude": 49.899995,
+      "longitude": 15.410091
+    },
+    {
+      "name": "Muzeum starých hraček",
+      "latitude": 50.236669,
+      "longitude": 15.636882
+    },
+    {
+      "name": "Muzeum války 1866",
+      "latitude": 50.278423,
+      "longitude": 15.74102
+    },
+    {
+      "name": "Vesnický mini skanzen",
+      "latitude": 50.241402,
+      "longitude": 15.656308
+    },
+    {
+      "name": "Archeopark Všestary",
+      "latitude": 50.259125,
+      "longitude": 15.761976
+    },
+    {
+      "name": "Stálá expozice Františka Kupky a Luboše Sluky",
+      "latitude": 50.265419,
+      "longitude": 16.115848
+    },
+    {
+      "name": "Galerie moderního umění",
+      "latitude": 50.209815,
+      "longitude": 15.834342
+    },
+    {
+      "name": "Železniční muzeum sdělovací a zabezpečovací techniky",
+      "latitude": 50.22253,
+      "longitude": 15.82269
+    },
+    {
+      "name": "Muzeum české lékárny",
+      "latitude": 50.209418,
+      "longitude": 15.83446
+    },
+    {
+      "name": "Petrof muzeum",
+      "latitude": 50.211018,
+      "longitude": 15.829008
+    },
+    {
+      "name": "Muzeum východních Čech v Hradci Králové",
+      "latitude": 50.211652,
+      "longitude": 15.828994
+    },
+    {
+      "name": "Muzeum východních Čech",
+      "latitude": 50.211619,
+      "longitude": 15.828995
+    },
+    {
+      "name": "Muzeum Petrof",
+      "latitude": 50.192595,
+      "longitude": 15.852303
+    },
+    {
+      "name": "Třebechovické muzeum Betlémů",
+      "latitude": 50.201362,
+      "longitude": 15.993994
+    },
+    {
+      "name": "Podorlický skanzen Krňovice",
+      "latitude": 50.189766,
+      "longitude": 15.981614
+    },
+    {
+      "name": "CABRIO GALLERY, z.s.",
+      "latitude": 50.146325,
+      "longitude": 15.641094
+    },
+    {
+      "name": "Klukovský sen, holčičkám vstup dovolen",
+      "latitude": 50.105392,
+      "longitude": 15.890237
+    },
+    {
+      "name": "Emila Holuba",
+      "latitude": 50.070963,
+      "longitude": 15.988175
+    },
+    {
+      "name": "Skanzen Villa Nova",
+      "latitude": 50.249771,
+      "longitude": 16.341111
+    },
+    {
+      "name": "Muzeum R-S 87 Průsek",
+      "latitude": 50.223488,
+      "longitude": 16.501534
+    },
+    {
+      "name": "R-S 87 Průsek",
+      "latitude": 50.223499,
+      "longitude": 16.501542
+    },
+    {
+      "name": "Hanička",
+      "latitude": 50.196441,
+      "longitude": 16.509508
+    },
+    {
+      "name": "Pěchotní srub na Holém",
+      "latitude": 50.186368,
+      "longitude": 16.509035
+    },
+    {
+      "name": "Muzeum a galerie Orlických hor",
+      "latitude": 50.170628,
+      "longitude": 16.268125
+    },
+    {
+      "name": "Muzeum Častolovicka",
+      "latitude": 50.129756,
+      "longitude": 16.184621
+    },
+    {
+      "name": "Sýpka - muzeum Orlických hor",
+      "latitude": 50.166166,
+      "longitude": 16.466234
+    },
+    {
+      "name": "Železniční muzeum Rokytnice v Orlických horách",
+      "latitude": 50.160184,
+      "longitude": 16.466207
+    },
+    {
+      "name": "Domek Prokopa Diviše",
+      "latitude": 50.094743,
+      "longitude": 16.446043
+    },
+    {
+      "name": "Muzeum starých strojů a technologií",
+      "latitude": 50.095794,
+      "longitude": 16.458655
+    },
+    {
+      "name": "Rodný domek Prokopa Diviše",
+      "latitude": 50.094731,
+      "longitude": 16.44602
+    },
+    {
+      "name": "Městské muzeum Žamberk",
+      "latitude": 50.086782,
+      "longitude": 16.460494
+    },
+    {
+      "name": "Tvrz Bouda",
+      "latitude": 50.069333,
+      "longitude": 16.677039
+    },
+    {
+      "name": "Vojenské Muzeum Králíky",
+      "latitude": 50.094828,
+      "longitude": 16.755707
+    },
+    {
+      "name": "Cihelna,bunkr",
+      "latitude": 50.095797,
+      "longitude": 16.755187
+    },
+    {
+      "name": "K-S 8 \"U nádraží\"",
+      "latitude": 50.105076,
+      "longitude": 16.781753
+    },
+    {
+      "name": "Pěchotní srub K-S 5 U potoka",
+      "latitude": 50.109998,
+      "longitude": 16.80747
+    },
+    {
+      "name": "K-Bg-S 12b \"Utržený\"",
+      "latitude": 50.095704,
+      "longitude": 16.787671
+    },
+    {
+      "name": "Dělostřelecká tvrz Hůrka",
+      "latitude": 50.088086,
+      "longitude": 16.769174
+    },
+    {
+      "name": "Městské muzeum Králíky",
+      "latitude": 50.084641,
+      "longitude": 16.760695
+    },
+    {
+      "name": "Východočeský památník celnictví",
+      "latitude": 50.084762,
+      "longitude": 16.760303
+    },
+    {
+      "name": "Památník obětem internace Králíky",
+      "latitude": 50.08472,
+      "longitude": 16.760377
+    },
+    {
+      "name": "Muzeum čs. opevnění z let 1935-1938",
+      "latitude": 50.084797,
+      "longitude": 16.760229
+    },
+    {
+      "name": "Městské muzeum Přelouč",
+      "latitude": 50.039065,
+      "longitude": 15.560835
+    },
+    {
+      "name": "Muzeum Historie železniční dopravy a městské hromadné dopravy",
+      "latitude": 50.044759,
+      "longitude": 15.743406
+    },
+    {
+      "name": "Východočeské muzeum v Pardubicích",
+      "latitude": 50.041479,
+      "longitude": 15.776343
+    },
+    {
+      "name": "Institut Paměti národa",
+      "latitude": 50.03666,
+      "longitude": 15.775091
+    },
+    {
+      "name": "Východočeské muzeum v Pardubicích - depozitář",
+      "latitude": 50.060705,
+      "longitude": 15.751895
+    },
+    {
+      "name": "Letecké muzeum Jana Kašpara",
+      "latitude": 50.020399,
+      "longitude": 15.733002
+    },
+    {
+      "name": "Památník Zámeček",
+      "latitude": 50.027515,
+      "longitude": 15.808187
+    },
+    {
+      "name": "Museum kouzel Pardubice",
+      "latitude": 50.027987,
+      "longitude": 15.770883
+    },
+    {
+      "name": "Regionální muzeum v Chrudimi",
+      "latitude": 49.952794,
+      "longitude": 15.791932
+    },
+    {
+      "name": "Václav Jaroslav Klofáč",
+      "latitude": 50.001498,
+      "longitude": 16.133936
+    },
+    {
+      "name": "Regionální muzeum",
+      "latitude": 49.952912,
+      "longitude": 16.162909
+    },
+    {
+      "name": "Muzeum českého karosářství",
+      "latitude": 49.952922,
+      "longitude": 16.161605
+    },
+    {
+      "name": "bývalé lázně",
+      "latitude": 49.970814,
+      "longitude": 16.092418
+    },
+    {
+      "name": "Muzeum loutkářských kultur",
+      "latitude": 49.950518,
+      "longitude": 15.795208
+    },
+    {
+      "name": "Muzeum barokních soch",
+      "latitude": 49.950979,
+      "longitude": 15.797555
+    },
+    {
+      "name": "Švýcárna",
+      "latitude": 49.913577,
+      "longitude": 15.800539
+    },
+    {
+      "name": "Zemědělské muzeum",
+      "latitude": 49.875906,
+      "longitude": 15.570664
+    },
+    {
+      "name": "Muzeum vápenictví",
+      "latitude": 49.876191,
+      "longitude": 15.570905
+    },
+    {
+      "name": "Hradní muzeum Lichnice",
+      "latitude": 49.87912,
+      "longitude": 15.585678
+    },
+    {
+      "name": "Hasičské muzeum Kočí",
+      "latitude": 49.950244,
+      "longitude": 15.85418
+    },
+    {
+      "name": "Muzeum",
+      "latitude": 49.844497,
+      "longitude": 15.997223
+    },
+    {
+      "name": "Rodný dům V. J. Tomáška",
+      "latitude": 49.840815,
+      "longitude": 15.998452
+    },
+    {
+      "name": "První české muzeum cyklistiky",
+      "latitude": 49.853834,
+      "longitude": 16.146503
+    },
+    {
+      "name": "Muzeum Klobouků",
+      "latitude": 49.853455,
+      "longitude": 16.147007
+    },
+    {
+      "name": "Muzeum řemesel",
+      "latitude": 50.034794,
+      "longitude": 16.502748
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 50.035744,
+      "longitude": 16.499976
+    },
+    {
+      "name": "Hernychova vila",
+      "latitude": 49.973235,
+      "longitude": 16.396149
+    },
+    {
+      "name": "Kulturní centrum",
+      "latitude": 49.899188,
+      "longitude": 16.446246
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.90247,
+      "longitude": 16.447364
+    },
+    {
+      "name": "Portmoneum",
+      "latitude": 49.870574,
+      "longitude": 16.316317
+    },
+    {
+      "name": "Regionální museum v Litomyšli",
+      "latitude": 49.872406,
+      "longitude": 16.311761
+    },
+    {
+      "name": "Muzeum domečků panenek a hraček Litomyšl",
+      "latitude": 49.872673,
+      "longitude": 16.314054
+    },
+    {
+      "name": "Rodný byt Bedřicha Smetany",
+      "latitude": 49.873057,
+      "longitude": 16.313665
+    },
+    {
+      "name": "pravěká osada Křivolík",
+      "latitude": 49.888168,
+      "longitude": 16.417989
+    },
+    {
+      "name": "Chaloupka Maxa Švabinského v Kozlově",
+      "latitude": 49.884884,
+      "longitude": 16.410086
+    },
+    {
+      "name": "Městské muzeum Lanškroun",
+      "latitude": 49.913315,
+      "longitude": 16.613784
+    },
+    {
+      "name": "Muzeum",
+      "latitude": 49.883289,
+      "longitude": 16.872294
+    },
+    {
+      "name": "Vesnické muzeum",
+      "latitude": 49.827471,
+      "longitude": 12.582288
+    },
+    {
+      "name": "Muzeum Českého lesa v Tachově",
+      "latitude": 49.79442,
+      "longitude": 12.636304
+    },
+    {
+      "name": "Muzeum Pohraniční stráže, objekt Rota",
+      "latitude": 49.673718,
+      "longitude": 12.545026
+    },
+    {
+      "name": "Muzeum POHRANIČNÍ STRÁŽE",
+      "latitude": 49.673698,
+      "longitude": 12.545004
+    },
+    {
+      "name": "Muzeum POHRANIČNÍ STRÁŽE objekt KOTCE",
+      "latitude": 49.673368,
+      "longitude": 12.545881
+    },
+    {
+      "name": "Muzeum železné opony",
+      "latitude": 49.65579,
+      "longitude": 12.525811
+    },
+    {
+      "name": "Zemědělské muzeum",
+      "latitude": 49.767746,
+      "longitude": 12.910892
+    },
+    {
+      "name": "Muzeum minerálů Duchmaus",
+      "latitude": 49.751803,
+      "longitude": 13.001817
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.752658,
+      "longitude": 13.006983
+    },
+    {
+      "name": "Muzeum Přimda",
+      "latitude": 49.674971,
+      "longitude": 12.675696
+    },
+    {
+      "name": "Regionální muzeum Kladrubska",
+      "latitude": 49.714883,
+      "longitude": 12.981418
+    },
+    {
+      "name": "letecké muzeum",
+      "latitude": 49.677901,
+      "longitude": 13.272377
+    },
+    {
+      "name": "Air Park Zruč",
+      "latitude": 49.808929,
+      "longitude": 13.415032
+    },
+    {
+      "name": "Plzeňské historické podzemí",
+      "latitude": 49.748263,
+      "longitude": 13.380344
+    },
+    {
+      "name": "Muzeum strašidel",
+      "latitude": 49.747462,
+      "longitude": 13.376549
+    },
+    {
+      "name": "Patton Memorial Plzeň",
+      "latitude": 49.750075,
+      "longitude": 13.373758
+    },
+    {
+      "name": "Muzeum loutek",
+      "latitude": 49.74638,
+      "longitude": 13.376937
+    },
+    {
+      "name": "Národopisné muzeum Plzeňska",
+      "latitude": 49.746779,
+      "longitude": 13.378433
+    },
+    {
+      "name": "Západočeské muzeum",
+      "latitude": 49.74497,
+      "longitude": 13.379277
+    },
+    {
+      "name": "Historická varna",
+      "latitude": 49.748804,
+      "longitude": 13.388229
+    },
+    {
+      "name": "Současná varna",
+      "latitude": 49.749024,
+      "longitude": 13.388002
+    },
+    {
+      "name": "Historické podzemí a Pivovarnické muzeum",
+      "latitude": 49.748718,
+      "longitude": 13.380527
+    },
+    {
+      "name": "Muzeum her - Game Station",
+      "latitude": 49.73595,
+      "longitude": 13.377942
+    },
+    {
+      "name": "Techmania Science Center",
+      "latitude": 49.740539,
+      "longitude": 13.361847
+    },
+    {
+      "name": "Muzeum Lobzy",
+      "latitude": 49.737977,
+      "longitude": 13.410692
+    },
+    {
+      "name": "Muzeum knihy a knihtisku",
+      "latitude": 49.735708,
+      "longitude": 13.379392
+    },
+    {
+      "name": "Muzeum církevního umění plzeňské diecéze",
+      "latitude": 49.745132,
+      "longitude": 13.378594
+    },
+    {
+      "name": "Pivovarské muzeum v Plzni",
+      "latitude": 49.748892,
+      "longitude": 13.380782
+    },
+    {
+      "name": "Plzeňské historické podzemí",
+      "latitude": 49.748933,
+      "longitude": 13.380949
+    },
+    {
+      "name": "Prohlídkové trasy Pilsner Urquell",
+      "latitude": 49.74769,
+      "longitude": 13.387493
+    },
+    {
+      "name": "Depo Moto Art Plzeň",
+      "latitude": 49.737515,
+      "longitude": 13.380943
+    },
+    {
+      "name": "Muzeum Dr. Bohuslava Horáka v Rokycanech",
+      "latitude": 49.743186,
+      "longitude": 13.596549
+    },
+    {
+      "name": "Muzeum na demarkační linii",
+      "latitude": 49.727003,
+      "longitude": 13.587198
+    },
+    {
+      "name": "Muzeum Středních Brd",
+      "latitude": 49.733842,
+      "longitude": 13.761055
+    },
+    {
+      "name": "Muzeum dopravy",
+      "latitude": 49.731533,
+      "longitude": 13.766647
+    },
+    {
+      "name": "Pamětní síň Jindřicha Mošny",
+      "latitude": 49.716707,
+      "longitude": 13.688113
+    },
+    {
+      "name": "Vodní hamr Dobřív",
+      "latitude": 49.719633,
+      "longitude": 13.692032
+    },
+    {
+      "name": "Atommuzeum Javor 51",
+      "latitude": 49.626278,
+      "longitude": 13.707725
+    },
+    {
+      "name": "Muzeum",
+      "latitude": 49.689996,
+      "longitude": 14.010454
+    },
+    {
+      "name": "Hornické muzeum Příbram",
+      "latitude": 49.683427,
+      "longitude": 13.986893
+    },
+    {
+      "name": "Hornické muzeum Důl Anna",
+      "latitude": 49.687627,
+      "longitude": 13.994177
+    },
+    {
+      "name": "Hornické muzeum Příbram",
+      "latitude": 49.686169,
+      "longitude": 13.991599
+    },
+    {
+      "name": "Svatohorské poutní muzeum",
+      "latitude": 49.685288,
+      "longitude": 14.017595
+    },
+    {
+      "name": "Ševčinský důl",
+      "latitude": 49.683241,
+      "longitude": 13.987149
+    },
+    {
+      "name": "Býv. důl Řimbaba",
+      "latitude": 49.666453,
+      "longitude": 13.965203
+    },
+    {
+      "name": "Památník Vojna u Příbrami",
+      "latitude": 49.640209,
+      "longitude": 14.001957
+    },
+    {
+      "name": "Památník Antonína Dvořáka",
+      "latitude": 49.636872,
+      "longitude": 13.940158
+    },
+    {
+      "name": "Dům historie Přešticka",
+      "latitude": 49.570489,
+      "longitude": 13.329288
+    },
+    {
+      "name": "Muzeum krojů",
+      "latitude": 49.458208,
+      "longitude": 12.806571
+    },
+    {
+      "name": "Jindřicha Jindřicha",
+      "latitude": 49.441127,
+      "longitude": 12.934239
+    },
+    {
+      "name": "Muzeum J. Š. Baara",
+      "latitude": 49.435374,
+      "longitude": 12.815206
+    },
+    {
+      "name": "Kozinův statek",
+      "latitude": 49.435064,
+      "longitude": 12.872919
+    },
+    {
+      "name": "Chodský hrad",
+      "latitude": 49.439071,
+      "longitude": 12.927703
+    },
+    {
+      "name": "Muzeum techniky a řemesel",
+      "latitude": 49.486979,
+      "longitude": 13.106978
+    },
+    {
+      "name": "Barokní lékárna u Bílého jednorožce",
+      "latitude": 49.395451,
+      "longitude": 13.292771
+    },
+    {
+      "name": "Galerie Klatovy",
+      "latitude": 49.395392,
+      "longitude": 13.292771
+    },
+    {
+      "name": "Klatovské katakomby",
+      "latitude": 49.395031,
+      "longitude": 13.291982
+    },
+    {
+      "name": "PASK",
+      "latitude": 49.39334,
+      "longitude": 13.297352
+    },
+    {
+      "name": "Vlastivědné muzeum Dr. Hostaše",
+      "latitude": 49.393783,
+      "longitude": 13.297271
+    },
+    {
+      "name": "Muzeum jižního plzeňska",
+      "latitude": 49.577961,
+      "longitude": 13.54415
+    },
+    {
+      "name": "Modelová železnice",
+      "latitude": 49.508411,
+      "longitude": 13.618931
+    },
+    {
+      "name": "Železniční muzeum",
+      "latitude": 49.500616,
+      "longitude": 13.608595
+    },
+    {
+      "name": "Podbrdské muzeum",
+      "latitude": 49.601625,
+      "longitude": 13.865011
+    },
+    {
+      "name": "Cvokařské muzeum",
+      "latitude": 49.606397,
+      "longitude": 13.852266
+    },
+    {
+      "name": "Památník Ladislava Stehlíka",
+      "latitude": 49.502972,
+      "longitude": 13.870695
+    },
+    {
+      "name": "Expozice veteránů Zelenohorská pošta",
+      "latitude": 49.488334,
+      "longitude": 13.583309
+    },
+    {
+      "name": "Městské muzeum Nepomuk",
+      "latitude": 49.486455,
+      "longitude": 13.582624
+    },
+    {
+      "name": "Svatojánské muzeum Nepomuk",
+      "latitude": 49.483983,
+      "longitude": 13.577366
+    },
+    {
+      "name": "Rodný domek Františka Křižíka",
+      "latitude": 49.391022,
+      "longitude": 13.465576
+    },
+    {
+      "name": "Městské Muzeum Blatná",
+      "latitude": 49.424634,
+      "longitude": 13.881745
+    },
+    {
+      "name": "galerie Nositelů tradice lidových řemesel",
+      "latitude": 49.40581,
+      "longitude": 13.715454
+    },
+    {
+      "name": "Muzeum lidových řemesel",
+      "latitude": 49.405022,
+      "longitude": 13.714998
+    },
+    {
+      "name": "Voithenberghammer",
+      "latitude": 49.335118,
+      "longitude": 12.827509
+    },
+    {
+      "name": "Muzeum šumavského pivovarnictví",
+      "latitude": 49.274582,
+      "longitude": 13.172141
+    },
+    {
+      "name": "Městské muzeum HORAŽĎOVICE",
+      "latitude": 49.321439,
+      "longitude": 13.698451
+    },
+    {
+      "name": "Geostezka",
+      "latitude": 49.32008,
+      "longitude": 13.698374
+    },
+    {
+      "name": "Geopark ve zdi",
+      "latitude": 49.320997,
+      "longitude": 13.698488
+    },
+    {
+      "name": "Muzeum remesel",
+      "latitude": 49.280564,
+      "longitude": 13.619082
+    },
+    {
+      "name": "Muzeum Radomyšl",
+      "latitude": 49.316971,
+      "longitude": 13.932277
+    },
+    {
+      "name": "Muzeum šumavských minerálů",
+      "latitude": 49.265914,
+      "longitude": 13.391336
+    },
+    {
+      "name": "Muzeum Šumavy v Sušici",
+      "latitude": 49.230386,
+      "longitude": 13.520392
+    },
+    {
+      "name": "Muzeum dřevařství",
+      "latitude": 49.19507,
+      "longitude": 13.506914
+    },
+    {
+      "name": "Museum dr. Šimona Adlera",
+      "latitude": 49.155818,
+      "longitude": 13.436868
+    },
+    {
+      "name": "H-40/16/A-120",
+      "latitude": 49.176968,
+      "longitude": 13.517958
+    },
+    {
+      "name": "Muzeum skla",
+      "latitude": 49.173547,
+      "longitude": 13.514861
+    },
+    {
+      "name": "Muzeum Středního Pootaví",
+      "latitude": 49.258141,
+      "longitude": 13.901745
+    },
+    {
+      "name": "Mlýn Hoslovice",
+      "latitude": 49.185655,
+      "longitude": 13.769045
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.167447,
+      "longitude": 13.886438
+    },
+    {
+      "name": "Hasičské muzeum Hoštice",
+      "latitude": 49.194216,
+      "longitude": 13.908651
+    },
+    {
+      "name": "Muzeum historických motocyklů",
+      "latitude": 49.137623,
+      "longitude": 13.234309
+    },
+    {
+      "name": "Muzeum Železná Ruda",
+      "latitude": 49.137752,
+      "longitude": 13.230262
+    },
+    {
+      "name": "Localbahnmuseum Bayerisch Eisenstein",
+      "latitude": 49.11968,
+      "longitude": 13.204265
+    },
+    {
+      "name": "Muzeum historických motocyklů",
+      "latitude": 49.144303,
+      "longitude": 13.5567
+    },
+    {
+      "name": "Muzeum hraček",
+      "latitude": 49.144548,
+      "longitude": 13.556872
+    },
+    {
+      "name": "Muzeum Šumavy",
+      "latitude": 49.143299,
+      "longitude": 13.555891
+    },
+    {
+      "name": "Muzeum seismologie",
+      "latitude": 49.129642,
+      "longitude": 13.577396
+    },
+    {
+      "name": "Dům historie Javornicka",
+      "latitude": 49.137918,
+      "longitude": 13.663989
+    },
+    {
+      "name": "Hasičské muzeum",
+      "latitude": 49.101451,
+      "longitude": 13.658967
+    },
+    {
+      "name": "Geologická expozice",
+      "latitude": 49.061439,
+      "longitude": 13.504876
+    },
+    {
+      "name": "Machův včelín",
+      "latitude": 49.143839,
+      "longitude": 13.811912
+    },
+    {
+      "name": "Stálá expozice Kvildy a Bučiny",
+      "latitude": 49.018846,
+      "longitude": 13.579548
+    },
+    {
+      "name": "Galerie Šumava",
+      "latitude": 49.0034,
+      "longitude": 13.619041
+    },
+    {
+      "name": "Muzeum krajky",
+      "latitude": 49.012265,
+      "longitude": 13.998212
+    },
+    {
+      "name": "Prachatické muzeum",
+      "latitude": 49.013343,
+      "longitude": 13.998229
+    },
+    {
+      "name": "Muzeum loutek",
+      "latitude": 49.012427,
+      "longitude": 13.998061
+    },
+    {
+      "name": "Muzeum trabantů",
+      "latitude": 49.833749,
+      "longitude": 14.275831
+    },
+    {
+      "name": "Muzeum zlata",
+      "latitude": 49.787872,
+      "longitude": 14.293647
+    },
+    {
+      "name": "Čechova stodola",
+      "latitude": 49.754579,
+      "longitude": 14.068349
+    },
+    {
+      "name": "Památník Karla Čapka",
+      "latitude": 49.773791,
+      "longitude": 14.207069
+    },
+    {
+      "name": "Křižovnický špýchar",
+      "latitude": 49.75295,
+      "longitude": 14.341081
+    },
+    {
+      "name": "Muzeum balónového létání",
+      "latitude": 49.77008,
+      "longitude": 14.352659
+    },
+    {
+      "name": "muzeum smaltu",
+      "latitude": 49.817645,
+      "longitude": 14.517376
+    },
+    {
+      "name": "Motocyklové a technické muzeum",
+      "latitude": 49.816542,
+      "longitude": 14.521602
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.830658,
+      "longitude": 14.592956
+    },
+    {
+      "name": "Muzeum motocyklů Konopiště",
+      "latitude": 49.782898,
+      "longitude": 14.657063
+    },
+    {
+      "name": "Muzeum umění a designu",
+      "latitude": 49.783646,
+      "longitude": 14.690952
+    },
+    {
+      "name": "Váchův špejchar",
+      "latitude": 49.650796,
+      "longitude": 14.285828
+    },
+    {
+      "name": "Skanzen Vysoký Chlumec",
+      "latitude": 49.621398,
+      "longitude": 14.386211
+    },
+    {
+      "name": "Muzeum Josefa Suka",
+      "latitude": 49.722023,
+      "longitude": 14.476731
+    },
+    {
+      "name": "RETROAUTOMUZEUM",
+      "latitude": 49.697969,
+      "longitude": 14.548809
+    },
+    {
+      "name": "Městské muzeum Sedlčany",
+      "latitude": 49.658433,
+      "longitude": 14.426382
+    },
+    {
+      "name": "Muzeum života židovské obce Divišov",
+      "latitude": 49.789098,
+      "longitude": 14.878113
+    },
+    {
+      "name": "Malé muzeum techniky",
+      "latitude": 49.777852,
+      "longitude": 15.027674
+    },
+    {
+      "name": "Království panenek",
+      "latitude": 49.744486,
+      "longitude": 15.101249
+    },
+    {
+      "name": "Vodácké muzeum",
+      "latitude": 49.744822,
+      "longitude": 15.0994
+    },
+    {
+      "name": "Hasičské muzeum Číhošť",
+      "latitude": 49.741581,
+      "longitude": 15.335549
+    },
+    {
+      "name": "Vlašimský zámek - Muzeum Podblanicka",
+      "latitude": 49.707265,
+      "longitude": 14.895199
+    },
+    {
+      "name": "Včelí Svět",
+      "latitude": 49.709471,
+      "longitude": 15.085838
+    },
+    {
+      "name": "Vodní dům",
+      "latitude": 49.718682,
+      "longitude": 15.086842
+    },
+    {
+      "name": "Muzeum Podblanicka",
+      "latitude": 49.636978,
+      "longitude": 14.846539
+    },
+    {
+      "name": "Muzeum Jaroslava Foglara",
+      "latitude": 49.696698,
+      "longitude": 15.280806
+    },
+    {
+      "name": "Světelské podzemí",
+      "latitude": 49.668164,
+      "longitude": 15.404823
+    },
+    {
+      "name": "Selské muzeum Michalův statek",
+      "latitude": 49.658853,
+      "longitude": 15.452871
+    },
+    {
+      "name": "Muzeum Jaroslava Haška",
+      "latitude": 49.613343,
+      "longitude": 15.414327
+    },
+    {
+      "name": "Milevské maškary",
+      "latitude": 49.455874,
+      "longitude": 14.368359
+    },
+    {
+      "name": "Muzeum veteránů Janecký",
+      "latitude": 49.473465,
+      "longitude": 14.674139
+    },
+    {
+      "name": "Muzeum čokolády a marcipánu",
+      "latitude": 49.412966,
+      "longitude": 14.658266
+    },
+    {
+      "name": "Strašidelné podzemí a muzeum starých řemesel",
+      "latitude": 49.414751,
+      "longitude": 14.658582
+    },
+    {
+      "name": "Muzeum hudby Tábor",
+      "latitude": 49.414829,
+      "longitude": 14.660463
+    },
+    {
+      "name": "Muzeum lega",
+      "latitude": 49.415047,
+      "longitude": 14.659427
+    },
+    {
+      "name": "Muzeum loutkařského umění",
+      "latitude": 49.412878,
+      "longitude": 14.657923
+    },
+    {
+      "name": "Husitské muzeum",
+      "latitude": 49.413995,
+      "longitude": 14.655609
+    },
+    {
+      "name": "Housův mlýn",
+      "latitude": 49.415265,
+      "longitude": 14.65446
+    },
+    {
+      "name": "Táborský poklad",
+      "latitude": 49.41126,
+      "longitude": 14.656222
+    },
+    {
+      "name": "Husitské muzeum",
+      "latitude": 49.413937,
+      "longitude": 14.657849
+    },
+    {
+      "name": "Galerie čokolády",
+      "latitude": 49.415068,
+      "longitude": 14.658864
+    },
+    {
+      "name": "Muzeum iluzí Tábor",
+      "latitude": 49.412742,
+      "longitude": 14.671003
+    },
+    {
+      "name": "Vodárenská věž",
+      "latitude": 49.415037,
+      "longitude": 14.660415
+    },
+    {
+      "name": "HLINÍKárium",
+      "latitude": 49.540928,
+      "longitude": 15.355667
+    },
+    {
+      "name": "Muzeum dr. Aleše Hrdličky",
+      "latitude": 49.541371,
+      "longitude": 15.359665
+    },
+    {
+      "name": "Železniční muzeum Kamenice u Humpolce",
+      "latitude": 49.52025,
+      "longitude": 15.425096
+    },
+    {
+      "name": "zemědělské stroje",
+      "latitude": 49.425314,
+      "longitude": 15.013808
+    },
+    {
+      "name": "Muzeum izolátorů a bleskojistek",
+      "latitude": 49.424306,
+      "longitude": 14.979567
+    },
+    {
+      "name": "Muzeum izolatoru",
+      "latitude": 49.424208,
+      "longitude": 14.980274
+    },
+    {
+      "name": "Zemědělské museum - Pachtův špejchar",
+      "latitude": 49.434551,
+      "longitude": 15.1377
+    },
+    {
+      "name": "Muzeum rekordů a kuriozit",
+      "latitude": 49.432061,
+      "longitude": 15.225249
+    },
+    {
+      "name": "Muzeum rekordů a kuriozit",
+      "latitude": 49.433427,
+      "longitude": 15.225681
+    },
+    {
+      "name": "Stodola krásných krámů",
+      "latitude": 49.74394,
+      "longitude": 15.571738
+    },
+    {
+      "name": "Zámek Chotěboř",
+      "latitude": 49.725362,
+      "longitude": 15.673872
+    },
+    {
+      "name": "NKP - Pietní území Ležáky",
+      "latitude": 49.831963,
+      "longitude": 15.89931
+    },
+    {
+      "name": "Muzeum dýmek",
+      "latitude": 49.805872,
+      "longitude": 16.116027
+    },
+    {
+      "name": "Hlinecký Betlém",
+      "latitude": 49.762565,
+      "longitude": 15.906337
+    },
+    {
+      "name": "Hamr ve Svobodných Hamrech",
+      "latitude": 49.774313,
+      "longitude": 15.833749
+    },
+    {
+      "name": "Veselý Kopec",
+      "latitude": 49.761237,
+      "longitude": 15.837767
+    },
+    {
+      "name": "Vlastivědné muzeum",
+      "latitude": 49.660701,
+      "longitude": 15.604416
+    },
+    {
+      "name": "Vlastivědné muzeum",
+      "latitude": 49.661097,
+      "longitude": 15.603715
+    },
+    {
+      "name": "Galerie Albert",
+      "latitude": 49.711724,
+      "longitude": 16.035524
+    },
+    {
+      "name": "Dům přírody Žďárských vrchů",
+      "latitude": 49.64198,
+      "longitude": 16.096296
+    },
+    {
+      "name": "Muzeum vesnice",
+      "latitude": 49.823981,
+      "longitude": 16.2522
+    },
+    {
+      "name": "Městské muzeum a galerie",
+      "latitude": 49.754259,
+      "longitude": 16.472615
+    },
+    {
+      "name": "Muzeum Esperanta",
+      "latitude": 49.7546,
+      "longitude": 16.472588
+    },
+    {
+      "name": "Ottendorferova knihovna",
+      "latitude": 49.754713,
+      "longitude": 16.472693
+    },
+    {
+      "name": "Průmyslové muzeum Mladějov",
+      "latitude": 49.824798,
+      "longitude": 16.586396
+    },
+    {
+      "name": "Městské muzeum Moravská Třebová",
+      "latitude": 49.758252,
+      "longitude": 16.65848
+    },
+    {
+      "name": "Hřebečský grunt",
+      "latitude": 49.765413,
+      "longitude": 16.817673
+    },
+    {
+      "name": "Centrum Bohuslava Martinů",
+      "latitude": 49.71516,
+      "longitude": 16.264496
+    },
+    {
+      "name": "Výstavní síň u sv. Jana - Síň rodáků Jimramova",
+      "latitude": 49.636735,
+      "longitude": 16.22607
+    },
+    {
+      "name": "Brtounova chalupa",
+      "latitude": 49.630513,
+      "longitude": 16.34363
+    },
+    {
+      "name": "Muzeum přeživších",
+      "latitude": 49.627527,
+      "longitude": 16.523183
+    },
+    {
+      "name": "Barokní fara Křenov",
+      "latitude": 49.679615,
+      "longitude": 16.628883
+    },
+    {
+      "name": "Pila Ludmírov",
+      "latitude": 49.622162,
+      "longitude": 16.87052
+    },
+    {
+      "name": "Galerie výtvarného umění",
+      "latitude": 49.60745,
+      "longitude": 15.578835
+    },
+    {
+      "name": "Muzeum Vysočiny Havl. Brod",
+      "latitude": 49.607353,
+      "longitude": 15.578854
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.577068,
+      "longitude": 15.739916
+    },
+    {
+      "name": "Šlakhamr v Hamrech nad Sázavou",
+      "latitude": 49.56629,
+      "longitude": 15.878591
+    },
+    {
+      "name": "Regionální muzeum města Žďáru nad Sázavou",
+      "latitude": 49.563746,
+      "longitude": 15.937794
+    },
+    {
+      "name": "Stará radnice",
+      "latitude": 49.562763,
+      "longitude": 15.939295
+    },
+    {
+      "name": "Muzeum nové generace Žďár",
+      "latitude": 49.581596,
+      "longitude": 15.936653
+    },
+    {
+      "name": "Modelové Království",
+      "latitude": 49.565997,
+      "longitude": 15.938196
+    },
+    {
+      "name": "Horácké muzeum",
+      "latitude": 49.560809,
+      "longitude": 16.07291
+    },
+    {
+      "name": "Na křídlech za lva - Muzeum čs. letců RAF",
+      "latitude": 49.475657,
+      "longitude": 15.477985
+    },
+    {
+      "name": "Muzeum Vysočiny",
+      "latitude": 49.396524,
+      "longitude": 15.588924
+    },
+    {
+      "name": "Muzeum strašidel a postav pověstí Olešnicka",
+      "latitude": 49.557325,
+      "longitude": 16.421445
+    },
+    {
+      "name": "Modrotisk",
+      "latitude": 49.555368,
+      "longitude": 16.420366
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.523253,
+      "longitude": 16.261063
+    },
+    {
+      "name": "Památník holokaustu Romů a Sintů na Moravě",
+      "latitude": 49.507557,
+      "longitude": 16.420729
+    },
+    {
+      "name": "Moravské kartografické centrum",
+      "latitude": 49.610411,
+      "longitude": 16.668996
+    },
+    {
+      "name": "Památník města Velké Opatovice",
+      "latitude": 49.610268,
+      "longitude": 16.668599
+    },
+    {
+      "name": "Muzeum zemědělských strojů",
+      "latitude": 49.543086,
+      "longitude": 16.576655
+    },
+    {
+      "name": "Muzeum města Letovice",
+      "latitude": 49.537947,
+      "longitude": 16.581157
+    },
+    {
+      "name": "Muzeum Kořenecka",
+      "latitude": 49.529804,
+      "longitude": 16.754378
+    },
+    {
+      "name": "Výstavní síň",
+      "latitude": 49.451441,
+      "longitude": 16.3175
+    },
+    {
+      "name": "Muzeum Boskovicka",
+      "latitude": 49.48632,
+      "longitude": 16.661887
+    },
+    {
+      "name": "Historické zemědělské stroje",
+      "latitude": 49.488913,
+      "longitude": 16.663332
+    },
+    {
+      "name": "Muzeum včelařství Moravského krasu",
+      "latitude": 49.393515,
+      "longitude": 16.706733
+    },
+    {
+      "name": "Prácheňské muzeum",
+      "latitude": 49.308853,
+      "longitude": 14.146538
+    },
+    {
+      "name": "Vodní elektrárna královského města Písku",
+      "latitude": 49.307644,
+      "longitude": 14.146179
+    },
+    {
+      "name": "Luštírna",
+      "latitude": 49.293936,
+      "longitude": 14.190717
+    },
+    {
+      "name": "Geo expozice",
+      "latitude": 49.294298,
+      "longitude": 14.190617
+    },
+    {
+      "name": "Muzeum turistiky",
+      "latitude": 49.296562,
+      "longitude": 14.469281
+    },
+    {
+      "name": "Mezinárodní muzeum keramiky",
+      "latitude": 49.298311,
+      "longitude": 14.468946
+    },
+    {
+      "name": "Hasičské muzeum Bechyně",
+      "latitude": 49.302185,
+      "longitude": 14.475369
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.294455,
+      "longitude": 14.467732
+    },
+    {
+      "name": "Muzeum zemědělských strojů",
+      "latitude": 49.321115,
+      "longitude": 14.650198
+    },
+    {
+      "name": "Přírodovědné muzeum Semenec",
+      "latitude": 49.233663,
+      "longitude": 14.405879
+    },
+    {
+      "name": "Království času",
+      "latitude": 49.200533,
+      "longitude": 14.214551
+    },
+    {
+      "name": "Hasičské minimuzeum",
+      "latitude": 49.170102,
+      "longitude": 14.254025
+    },
+    {
+      "name": "Blatské muzeum - Smrčkův dům",
+      "latitude": 49.260219,
+      "longitude": 14.720231
+    },
+    {
+      "name": "Blatské muzeum - Rožmberský dům",
+      "latitude": 49.258806,
+      "longitude": 14.721214
+    },
+    {
+      "name": "Muzeum historických vozidel a staré zemědělské techniky",
+      "latitude": 49.173753,
+      "longitude": 14.496219
+    },
+    {
+      "name": "Muzeum historických vozidel",
+      "latitude": 49.173681,
+      "longitude": 14.495911
+    },
+    {
+      "name": "Blatské muzeum",
+      "latitude": 49.187316,
+      "longitude": 14.699269
+    },
+    {
+      "name": "Expozice Městyse Dolní Cerekve",
+      "latitude": 49.344479,
+      "longitude": 15.460079
+    },
+    {
+      "name": "Metánovské muzeum – Kabinet profesora Hrona",
+      "latitude": 49.293842,
+      "longitude": 15.169725
+    },
+    {
+      "name": "Muzeum města Horní Cerekev",
+      "latitude": 49.319444,
+      "longitude": 15.328385
+    },
+    {
+      "name": "Cihelna Hříběcí",
+      "latitude": 49.318406,
+      "longitude": 15.29313
+    },
+    {
+      "name": "Provaznické muzeum",
+      "latitude": 49.264546,
+      "longitude": 14.922347
+    },
+    {
+      "name": "Letecké muzeum",
+      "latitude": 49.265181,
+      "longitude": 14.922862
+    },
+    {
+      "name": "Muzeum Motorových Kol",
+      "latitude": 49.256939,
+      "longitude": 15.005157
+    },
+    {
+      "name": "Mlynářské muzeum",
+      "latitude": 49.254202,
+      "longitude": 15.304868
+    },
+    {
+      "name": "Muzeum Vysočiny Roštejn",
+      "latitude": 49.252171,
+      "longitude": 15.425894
+    },
+    {
+      "name": "Tkalcovna Kubák",
+      "latitude": 49.157189,
+      "longitude": 15.198183
+    },
+    {
+      "name": "Muzeum techniky",
+      "latitude": 49.188472,
+      "longitude": 15.445476
+    },
+    {
+      "name": "Telčský dům",
+      "latitude": 49.183472,
+      "longitude": 15.454313
+    },
+    {
+      "name": "Na Panství",
+      "latitude": 49.187473,
+      "longitude": 15.45105
+    },
+    {
+      "name": "Expozice historie železniční dopravy",
+      "latitude": 49.179843,
+      "longitude": 15.464128
+    },
+    {
+      "name": "Muzeum Vysočiny, Telč",
+      "latitude": 49.176246,
+      "longitude": 15.458569
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 49.148458,
+      "longitude": 14.177338
+    },
+    {
+      "name": "Muzeum JUDr. Otakara Kudrny",
+      "latitude": 49.048738,
+      "longitude": 14.19578
+    },
+    {
+      "name": "Síň voroplavby",
+      "latitude": 49.126838,
+      "longitude": 14.452666
+    },
+    {
+      "name": "Národní zemědělské muzeum",
+      "latitude": 49.041773,
+      "longitude": 14.422216
+    },
+    {
+      "name": "Skanzen Ludmila",
+      "latitude": 49.062974,
+      "longitude": 14.755577
+    },
+    {
+      "name": "Dobčická tvrz",
+      "latitude": 48.996771,
+      "longitude": 14.232295
+    },
+    {
+      "name": "Vesnická památková rezervace Vodice",
+      "latitude": 48.98014,
+      "longitude": 14.181346
+    },
+    {
+      "name": "Hornické muzeum Rudolfov",
+      "latitude": 48.993264,
+      "longitude": 14.53888
+    },
+    {
+      "name": "Muzeum starých hudebních přístrojů",
+      "latitude": 49.014912,
+      "longitude": 14.616054
+    },
+    {
+      "name": "Muzeum Františka Miroslava Čapka",
+      "latitude": 49.014915,
+      "longitude": 14.616009
+    },
+    {
+      "name": "Muzeum energetiky",
+      "latitude": 48.968967,
+      "longitude": 14.484101
+    },
+    {
+      "name": "Muzeum pivovarnictví",
+      "latitude": 48.974936,
+      "longitude": 14.455886
+    },
+    {
+      "name": "Jihočeské muzeum",
+      "latitude": 48.972521,
+      "longitude": 14.476636
+    },
+    {
+      "name": "Muzeum koňspřežky",
+      "latitude": 48.968372,
+      "longitude": 14.471792
+    },
+    {
+      "name": "Venkovské muzeum Kojákovice",
+      "latitude": 48.929539,
+      "longitude": 14.738424
+    },
+    {
+      "name": "Muzeum Jindřichohradecka",
+      "latitude": 49.143513,
+      "longitude": 15.000428
+    },
+    {
+      "name": "Muzeum fotografie a moderních obrazových médií",
+      "latitude": 49.144085,
+      "longitude": 15.001129
+    },
+    {
+      "name": "Muzeum Jindřichohradecka",
+      "latitude": 49.14475,
+      "longitude": 15.00486
+    },
+    {
+      "name": "Dům gobelínů",
+      "latitude": 49.142738,
+      "longitude": 15.000798
+    },
+    {
+      "name": "Muzeum Čs. armády 1938",
+      "latitude": 49.142482,
+      "longitude": 15.001317
+    },
+    {
+      "name": "Muzeum Emy Destinnové",
+      "latitude": 49.068626,
+      "longitude": 14.909712
+    },
+    {
+      "name": "stará márnice",
+      "latitude": 49.140908,
+      "longitude": 15.335385
+    },
+    {
+      "name": "Městské muzeum a galerie Dačice",
+      "latitude": 49.079288,
+      "longitude": 15.431278
+    },
+    {
+      "name": "letecké muzeum",
+      "latitude": 49.07867,
+      "longitude": 15.436133
+    },
+    {
+      "name": "Třeboň v marcipánu",
+      "latitude": 49.003779,
+      "longitude": 14.771206
+    },
+    {
+      "name": "Zámecká lékárna",
+      "latitude": 49.003828,
+      "longitude": 14.769681
+    },
+    {
+      "name": "Veteran muzeum",
+      "latitude": 49.018536,
+      "longitude": 15.105774
+    },
+    {
+      "name": "Muzeum československého opevnění - Klášter",
+      "latitude": 49.027161,
+      "longitude": 15.193883
+    },
+    {
+      "name": "Expozice k historii hradu",
+      "latitude": 49.024389,
+      "longitude": 15.230044
+    },
+    {
+      "name": "Muzeum čs. opevnění 1935-1938",
+      "latitude": 49.004525,
+      "longitude": 15.32533
+    },
+    {
+      "name": "Muzeum samorostů",
+      "latitude": 49.00441,
+      "longitude": 15.334213
+    },
+    {
+      "name": "Kautzner Computermuseum",
+      "latitude": 48.942156,
+      "longitude": 15.196777
+    },
+    {
+      "name": "Museum Humanum Fratres",
+      "latitude": 48.978825,
+      "longitude": 15.344981
+    },
+    {
+      "name": "Muzeum Luka nad Jihlavou",
+      "latitude": 49.373539,
+      "longitude": 15.702438
+    },
+    {
+      "name": "Muzeum autíček",
+      "latitude": 49.338991,
+      "longitude": 15.646858
+    },
+    {
+      "name": "Muzeum Tesla",
+      "latitude": 49.297987,
+      "longitude": 15.476724
+    },
+    {
+      "name": "Muzeum Vysočiny Jihlava - pobočka Třešť",
+      "latitude": 49.293094,
+      "longitude": 15.482871
+    },
+    {
+      "name": "Expozice železniční tratě Kostelec - Slavonice",
+      "latitude": 49.27163,
+      "longitude": 15.483902
+    },
+    {
+      "name": "Muzeum meteoritů",
+      "latitude": 49.281932,
+      "longitude": 15.586215
+    },
+    {
+      "name": "Hoffmannův dům",
+      "latitude": 49.304012,
+      "longitude": 15.679058
+    },
+    {
+      "name": "Muzeum dálnic",
+      "latitude": 49.357794,
+      "longitude": 16.012397
+    },
+    {
+      "name": "Muzeum živé a nežíve přírody v okolí Kněžic",
+      "latitude": 49.266324,
+      "longitude": 15.671559
+    },
+    {
+      "name": "Muzeum knoflíkářsvi a perleťařství",
+      "latitude": 49.195577,
+      "longitude": 15.678718
+    },
+    {
+      "name": "Muzeum Vysočiny",
+      "latitude": 49.216689,
+      "longitude": 15.873055
+    },
+    {
+      "name": "Židovské muzeum",
+      "latitude": 49.217747,
+      "longitude": 15.87916
+    },
+    {
+      "name": "Muzeum automobilů Jaguár",
+      "latitude": 49.217671,
+      "longitude": 15.869663
+    },
+    {
+      "name": "rodný dům Bohumíra Šmerala",
+      "latitude": 49.214722,
+      "longitude": 15.88943
+    },
+    {
+      "name": "Technické muzeum Studenec",
+      "latitude": 49.22368,
+      "longitude": 16.06866
+    },
+    {
+      "name": "Depozitář Muzeum Vysočiny",
+      "latitude": 49.208624,
+      "longitude": 15.885884
+    },
+    {
+      "name": "Alternátor",
+      "latitude": 49.20716,
+      "longitude": 15.861719
+    },
+    {
+      "name": "Rodný dům Jana Kubiše",
+      "latitude": 49.154392,
+      "longitude": 15.976195
+    },
+    {
+      "name": "Letecké muzeum",
+      "latitude": 49.189193,
+      "longitude": 16.053616
+    },
+    {
+      "name": "Jamborův dům",
+      "latitude": 49.347534,
+      "longitude": 16.423336
+    },
+    {
+      "name": "Podhorácké muzeum Předklášteří",
+      "latitude": 49.353101,
+      "longitude": 16.40001
+    },
+    {
+      "name": "Muzeum města Tišnova",
+      "latitude": 49.350167,
+      "longitude": 16.417702
+    },
+    {
+      "name": "Jarošův mlýn",
+      "latitude": 49.273562,
+      "longitude": 16.43051
+    },
+    {
+      "name": "Speleomuzeum Vilémovice",
+      "latitude": 49.362199,
+      "longitude": 16.747477
+    },
+    {
+      "name": "Dům přírody Moravského krasu",
+      "latitude": 49.362962,
+      "longitude": 16.710044
+    },
+    {
+      "name": "Větrný mlýn Rudice",
+      "latitude": 49.333764,
+      "longitude": 16.72798
+    },
+    {
+      "name": "Větrný mlýn s turbínou",
+      "latitude": 49.332671,
+      "longitude": 16.848039
+    },
+    {
+      "name": "Stará huť u Adamova",
+      "latitude": 49.306665,
+      "longitude": 16.678592
+    },
+    {
+      "name": "Jeskyně a lidé",
+      "latitude": 49.291142,
+      "longitude": 16.723863
+    },
+    {
+      "name": "Památník Pohádky máje",
+      "latitude": 49.211337,
+      "longitude": 16.408406
+    },
+    {
+      "name": "Památník Bible kralické",
+      "latitude": 49.199813,
+      "longitude": 16.201475
+    },
+    {
+      "name": "Muzeum hornictví",
+      "latitude": 49.153156,
+      "longitude": 16.348247
+    },
+    {
+      "name": "Muzeum průmyslových železnic",
+      "latitude": 49.164948,
+      "longitude": 16.351851
+    },
+    {
+      "name": "Kubova vila",
+      "latitude": 49.251848,
+      "longitude": 16.588812
+    },
+    {
+      "name": "Depozitář Technického muzea v Brně",
+      "latitude": 49.252438,
+      "longitude": 16.571723
+    },
+    {
+      "name": "Technické muzeum",
+      "latitude": 49.228262,
+      "longitude": 16.581703
+    },
+    {
+      "name": "Klub modelářů železnic Brno I",
+      "latitude": 49.211224,
+      "longitude": 16.634105
+    },
+    {
+      "name": "Místodržitelský palác",
+      "latitude": 49.197637,
+      "longitude": 16.608183
+    },
+    {
+      "name": "Hvězdárna a planetárium Brno",
+      "latitude": 49.204766,
+      "longitude": 16.583642
+    },
+    {
+      "name": "Kasematy",
+      "latitude": 49.193919,
+      "longitude": 16.599784
+    },
+    {
+      "name": "Mendelovo muzeum",
+      "latitude": 49.1913,
+      "longitude": 16.593795
+    },
+    {
+      "name": "Diecézní muzeum Petrov",
+      "latitude": 49.191394,
+      "longitude": 16.607371
+    },
+    {
+      "name": "Biskupský dvůr",
+      "latitude": 49.191216,
+      "longitude": 16.608329
+    },
+    {
+      "name": "Anthropos",
+      "latitude": 49.192115,
+      "longitude": 16.567164
+    },
+    {
+      "name": "Vila Stiassny",
+      "latitude": 49.196975,
+      "longitude": 16.572908
+    },
+    {
+      "name": "Moravské zemské muzeum",
+      "latitude": 49.191752,
+      "longitude": 16.608584
+    },
+    {
+      "name": "Etnografický ústav MZM",
+      "latitude": 49.195418,
+      "longitude": 16.609142
+    },
+    {
+      "name": "Brněnská kostnice",
+      "latitude": 49.196345,
+      "longitude": 16.607959
+    },
+    {
+      "name": "10-Z",
+      "latitude": 49.193859,
+      "longitude": 16.604464
+    },
+    {
+      "name": "Muzeum českého a slovenského exilu 20. století",
+      "latitude": 49.209796,
+      "longitude": 16.603718
+    },
+    {
+      "name": "Dětské muzeum",
+      "latitude": 49.191861,
+      "longitude": 16.608474
+    },
+    {
+      "name": "Muzeum starobrněnského opatství",
+      "latitude": 49.19137,
+      "longitude": 16.593827
+    },
+    {
+      "name": "Kapucínská hrobka",
+      "latitude": 49.191114,
+      "longitude": 16.609861
+    },
+    {
+      "name": "Stálé expozice hradu Špilberk",
+      "latitude": 49.194294,
+      "longitude": 16.598995
+    },
+    {
+      "name": "Mendelianum",
+      "latitude": 49.1914,
+      "longitude": 16.608276
+    },
+    {
+      "name": "Vodojemy na Žlutém kopci",
+      "latitude": 49.195672,
+      "longitude": 16.591322
+    },
+    {
+      "name": "Vila Wittal",
+      "latitude": 49.197019,
+      "longitude": 16.569598
+    },
+    {
+      "name": "Památník Leoše Janáčka",
+      "latitude": 49.201543,
+      "longitude": 16.602719
+    },
+    {
+      "name": "Dům pánů z Kunštátu",
+      "latitude": 49.19308,
+      "longitude": 16.606555
+    },
+    {
+      "name": "Uměleckoprůmyslové muzeum",
+      "latitude": 49.194313,
+      "longitude": 16.604781
+    },
+    {
+      "name": "Pražákův palác - Moravian Gallery",
+      "latitude": 49.195448,
+      "longitude": 16.60441
+    },
+    {
+      "name": "Jurkovičova vila",
+      "latitude": 49.206633,
+      "longitude": 16.576116
+    },
+    {
+      "name": "Muzeum romské kultury",
+      "latitude": 49.200528,
+      "longitude": 16.623388
+    },
+    {
+      "name": "Galerie MATHIAS - akad.malíř Josef Minařík",
+      "latitude": 49.193389,
+      "longitude": 16.6119
+    },
+    {
+      "name": "Vila Löw-Beer v Brně",
+      "latitude": 49.206094,
+      "longitude": 16.613722
+    },
+    {
+      "name": "Wanieck gallery",
+      "latitude": 49.187242,
+      "longitude": 16.616106
+    },
+    {
+      "name": "Dům umění města Brna",
+      "latitude": 49.196349,
+      "longitude": 16.614606
+    },
+    {
+      "name": "Měnínská brána",
+      "latitude": 49.19427,
+      "longitude": 16.612697
+    },
+    {
+      "name": "Vila Tugendhat",
+      "latitude": 49.207215,
+      "longitude": 16.616061
+    },
+    {
+      "name": "Muzeum MHD",
+      "latitude": 49.200316,
+      "longitude": 16.694294
+    },
+    {
+      "name": "Muzeum Brněnska",
+      "latitude": 49.169284,
+      "longitude": 16.727087
+    },
+    {
+      "name": "Muzeum Vincence Lesného",
+      "latitude": 49.070121,
+      "longitude": 15.70057
+    },
+    {
+      "name": "Muzeum Masné krámy",
+      "latitude": 49.050828,
+      "longitude": 15.808817
+    },
+    {
+      "name": "Muzeum řemesel",
+      "latitude": 49.051714,
+      "longitude": 15.808824
+    },
+    {
+      "name": "Muzeum Otokara Březiny",
+      "latitude": 49.096663,
+      "longitude": 15.890643
+    },
+    {
+      "name": "Muzeum Hrotovicka",
+      "latitude": 49.10877,
+      "longitude": 16.057051
+    },
+    {
+      "name": "Veterán - Tatra Bítov",
+      "latitude": 48.936645,
+      "longitude": 15.728089
+    },
+    {
+      "name": "Muzeum Jevišovicka",
+      "latitude": 48.990719,
+      "longitude": 15.98764
+    },
+    {
+      "name": "Přeskačské podzemí",
+      "latitude": 49.013057,
+      "longitude": 16.108747
+    },
+    {
+      "name": "galerie Čertův ocas",
+      "latitude": 49.102953,
+      "longitude": 16.189269
+    },
+    {
+      "name": "Památník Alfonse Muchy",
+      "latitude": 49.101835,
+      "longitude": 16.376328
+    },
+    {
+      "name": "Městské muzeum a galerie Knížecí dům",
+      "latitude": 49.049154,
+      "longitude": 16.313855
+    },
+    {
+      "name": "Mohyla míru",
+      "latitude": 49.128058,
+      "longitude": 16.762935
+    },
+    {
+      "name": "Památník písemnictví na Moravě",
+      "latitude": 49.089165,
+      "longitude": 16.615624
+    },
+    {
+      "name": "Kovárna",
+      "latitude": 49.039902,
+      "longitude": 16.770008
+    },
+    {
+      "name": "Muzeum a informační centrum Vedrovice",
+      "latitude": 49.020242,
+      "longitude": 16.376584
+    },
+    {
+      "name": "Hasičské",
+      "latitude": 48.936721,
+      "longitude": 16.180894
+    },
+    {
+      "name": "Památník Bratři Mrštíků",
+      "latitude": 48.989017,
+      "longitude": 16.787913
+    },
+    {
+      "name": "Muzeum generálporučíka Františka Peřiny",
+      "latitude": 48.967545,
+      "longitude": 16.861125
+    },
+    {
+      "name": "Muzeum izolace, internace a integrace",
+      "latitude": 50.442383,
+      "longitude": 16.917672
+    },
+    {
+      "name": "Budova soudu a šatlavy Javorník",
+      "latitude": 50.39064,
+      "longitude": 17.002514
+    },
+    {
+      "name": "Muzeum dýmek",
+      "latitude": 50.389972,
+      "longitude": 17.000203
+    },
+    {
+      "name": "Městské muzeum Javorník",
+      "latitude": 50.392789,
+      "longitude": 17.005663
+    },
+    {
+      "name": "Minimuzeum Zálesí",
+      "latitude": 50.35942,
+      "longitude": 16.93381
+    },
+    {
+      "name": "Kamenické muzeum",
+      "latitude": 50.309202,
+      "longitude": 17.099816
+    },
+    {
+      "name": "Auto moto veterán klub",
+      "latitude": 50.251146,
+      "longitude": 17.221968
+    },
+    {
+      "name": "Muzeum historie obce a zajateckých táborů na Jesenicku",
+      "latitude": 50.251519,
+      "longitude": 17.221252
+    },
+    {
+      "name": "Priessnitzovo muzeum",
+      "latitude": 50.240408,
+      "longitude": 17.187573
+    },
+    {
+      "name": "Expozice hudebních nástrojů",
+      "latitude": 50.184868,
+      "longitude": 17.050672
+    },
+    {
+      "name": "Muzeum Slezského Semmeringu",
+      "latitude": 50.22472,
+      "longitude": 17.083598
+    },
+    {
+      "name": "Muzeum Johanna Schrotha",
+      "latitude": 50.227826,
+      "longitude": 17.130808
+    },
+    {
+      "name": "Vlastivědné muzeum Jesenicka",
+      "latitude": 50.229747,
+      "longitude": 17.2069
+    },
+    {
+      "name": "Městské hornické muzeum",
+      "latitude": 50.262865,
+      "longitude": 17.396129
+    },
+    {
+      "name": "Muzeum",
+      "latitude": 50.244877,
+      "longitude": 17.48119
+    },
+    {
+      "name": "Tkalcovna na Rejvízu",
+      "latitude": 50.229744,
+      "longitude": 17.308376
+    },
+    {
+      "name": "Vojenské muzeum Staré Město",
+      "latitude": 50.154004,
+      "longitude": 16.950867
+    },
+    {
+      "name": "muzeum Staroměstska",
+      "latitude": 50.161923,
+      "longitude": 16.946569
+    },
+    {
+      "name": "Muzeum vojenské historie a Staroměstska - Staroměstští Patrioti",
+      "latitude": 50.153658,
+      "longitude": 16.949716
+    },
+    {
+      "name": "Venkovský skanzen",
+      "latitude": 50.151089,
+      "longitude": 17.202268
+    },
+    {
+      "name": "Pivovarské muzeum",
+      "latitude": 50.068477,
+      "longitude": 16.927777
+    },
+    {
+      "name": "Africké muzeum Safari",
+      "latitude": 50.141787,
+      "longitude": 17.476964
+    },
+    {
+      "name": "Kosárna",
+      "latitude": 50.105052,
+      "longitude": 17.446759
+    },
+    {
+      "name": "Městské muzeum - Flemmichova vila",
+      "latitude": 50.091991,
+      "longitude": 17.710523
+    },
+    {
+      "name": "Ruční papírna Velké Losiny",
+      "latitude": 50.029743,
+      "longitude": 17.038101
+    },
+    {
+      "name": "Muzeum rapotínské sklárny",
+      "latitude": 50.016245,
+      "longitude": 17.034105
+    },
+    {
+      "name": "Vlastivědné muzeum v Šumperku",
+      "latitude": 49.965145,
+      "longitude": 16.978391
+    },
+    {
+      "name": "Muzeum silnic",
+      "latitude": 49.96727,
+      "longitude": 16.999358
+    },
+    {
+      "name": "muzeum Kapličkový vrch",
+      "latitude": 50.019739,
+      "longitude": 17.30899
+    },
+    {
+      "name": "Muzeum Bruntálska",
+      "latitude": 49.990429,
+      "longitude": 17.465096
+    },
+    {
+      "name": "muzeum Turistických známek",
+      "latitude": 49.944189,
+      "longitude": 17.260272
+    },
+    {
+      "name": "Muzeum Rýmařov",
+      "latitude": 49.931322,
+      "longitude": 17.27221
+    },
+    {
+      "name": "Muzeum Na faře",
+      "latitude": 50.047348,
+      "longitude": 17.743783
+    },
+    {
+      "name": "Muzeum Slezský venkov Holasovice",
+      "latitude": 49.998974,
+      "longitude": 17.809411
+    },
+    {
+      "name": "Armádní muzeum",
+      "latitude": 49.951838,
+      "longitude": 17.838036
+    },
+    {
+      "name": "Vojenské muzeum Chuchelná",
+      "latitude": 49.987069,
+      "longitude": 18.117875
+    },
+    {
+      "name": "Slezské zemské muzeum Opava",
+      "latitude": 49.937387,
+      "longitude": 17.908273
+    },
+    {
+      "name": "Muzeum Otice",
+      "latitude": 49.916851,
+      "longitude": 17.868756
+    },
+    {
+      "name": "Městské muzeum Hradce nad Moravicí",
+      "latitude": 49.871787,
+      "longitude": 17.876128
+    },
+    {
+      "name": "Zámek Hradec nad Moravicí",
+      "latitude": 49.864236,
+      "longitude": 17.874273
+    },
+    {
+      "name": "Zámek Kravaře",
+      "latitude": 49.928797,
+      "longitude": 17.999128
+    },
+    {
+      "name": "Areál čs. opevnění Hlučín - Darkovičky",
+      "latitude": 49.925212,
+      "longitude": 18.221338
+    },
+    {
+      "name": "Muzeum Hlučínska",
+      "latitude": 49.89668,
+      "longitude": 18.185294
+    },
+    {
+      "name": "Zámek Raduň",
+      "latitude": 49.891237,
+      "longitude": 17.944305
+    },
+    {
+      "name": "Národní památník II. světové války",
+      "latitude": 49.885685,
+      "longitude": 18.051435
+    },
+    {
+      "name": "Hornické muzeum",
+      "latitude": 49.868667,
+      "longitude": 18.26535
+    },
+    {
+      "name": "Hasičské muzeum města Ostravy",
+      "latitude": 49.852043,
+      "longitude": 18.27327
+    },
+    {
+      "name": "MO-S 5 \"Na trati\"",
+      "latitude": 49.910968,
+      "longitude": 18.331317
+    },
+    {
+      "name": "Důl Michal",
+      "latitude": 49.842472,
+      "longitude": 18.344551
+    },
+    {
+      "name": "Zámek v Karviné-Fryštátě",
+      "latitude": 49.85349,
+      "longitude": 18.541065
+    },
+    {
+      "name": "Muzeum města Úsov",
+      "latitude": 49.79772,
+      "longitude": 17.015131
+    },
+    {
+      "name": "Muzeum města Úsov",
+      "latitude": 49.798689,
+      "longitude": 17.010792
+    },
+    {
+      "name": "Lovecko-lesnické muzeum",
+      "latitude": 49.798669,
+      "longitude": 17.014588
+    },
+    {
+      "name": "Muzeum Úsov - Život v podzámčí",
+      "latitude": 49.797056,
+      "longitude": 17.016439
+    },
+    {
+      "name": "Muzeum Mohelnice",
+      "latitude": 49.777648,
+      "longitude": 16.919269
+    },
+    {
+      "name": "Muzeum Olomouckých tvarůžků A. W.",
+      "latitude": 49.745541,
+      "longitude": 16.927802
+    },
+    {
+      "name": "Památník Adolfa Kašpara v Lošticích",
+      "latitude": 49.746393,
+      "longitude": 16.925505
+    },
+    {
+      "name": "Šatlava - muzeum vězeňství",
+      "latitude": 49.769167,
+      "longitude": 17.121656
+    },
+    {
+      "name": "Městské muzeum U Vodní brány",
+      "latitude": 49.769216,
+      "longitude": 17.124068
+    },
+    {
+      "name": "Handkeho galerie",
+      "latitude": 49.731262,
+      "longitude": 17.301949
+    },
+    {
+      "name": "Expozice času",
+      "latitude": 49.72959,
+      "longitude": 17.297414
+    },
+    {
+      "name": "Ecce Homo Park",
+      "latitude": 49.73089,
+      "longitude": 17.301461
+    },
+    {
+      "name": "Šternberský klášter",
+      "latitude": 49.731262,
+      "longitude": 17.301016
+    },
+    {
+      "name": "Muzeum harmonik",
+      "latitude": 49.704165,
+      "longitude": 17.073514
+    },
+    {
+      "name": "Hanácký skanzen",
+      "latitude": 49.644989,
+      "longitude": 17.139069
+    },
+    {
+      "name": "Imaginárium břidlice",
+      "latitude": 49.832186,
+      "longitude": 17.718332
+    },
+    {
+      "name": "Muzeum břidlice",
+      "latitude": 49.793848,
+      "longitude": 17.62867
+    },
+    {
+      "name": "Muzeum Vítkovic",
+      "latitude": 49.816964,
+      "longitude": 18.272428
+    },
+    {
+      "name": "U6",
+      "latitude": 49.819316,
+      "longitude": 18.280648
+    },
+    {
+      "name": "Muzeum hraček",
+      "latitude": 49.830803,
+      "longitude": 18.280246
+    },
+    {
+      "name": "Národní zemědělské muzeum",
+      "latitude": 49.821534,
+      "longitude": 18.281094
+    },
+    {
+      "name": "FUTUREUM",
+      "latitude": 49.821324,
+      "longitude": 18.279836
+    },
+    {
+      "name": "Muzeum",
+      "latitude": 49.755992,
+      "longitude": 18.016403
+    },
+    {
+      "name": "Vagonářské muzeum",
+      "latitude": 49.725508,
+      "longitude": 18.074964
+    },
+    {
+      "name": "Památník J. A. Komenského",
+      "latitude": 49.712625,
+      "longitude": 17.905091
+    },
+    {
+      "name": "Katovna",
+      "latitude": 49.661712,
+      "longitude": 17.828608
+    },
+    {
+      "name": "Mendel - Rodný dům",
+      "latitude": 49.619429,
+      "longitude": 17.835083
+    },
+    {
+      "name": "Dům přírody Poodří",
+      "latitude": 49.670688,
+      "longitude": 18.053039
+    },
+    {
+      "name": "Zámek Bartošovice",
+      "latitude": 49.671389,
+      "longitude": 18.05063
+    },
+    {
+      "name": "Muzeum Moravských bratří",
+      "latitude": 49.647262,
+      "longitude": 17.934687
+    },
+    {
+      "name": "Muzeum vojenské historie",
+      "latitude": 49.647748,
+      "longitude": 17.936238
+    },
+    {
+      "name": "Muzeum městyse Suchdol nad Odrou",
+      "latitude": 49.647626,
+      "longitude": 17.93604
+    },
+    {
+      "name": "Muzeum a pamětní síň Sigmunda Freuda v Příboře",
+      "latitude": 49.641143,
+      "longitude": 18.140953
+    },
+    {
+      "name": "Rodný dům Sigmunda Freuda",
+      "latitude": 49.639344,
+      "longitude": 18.142539
+    },
+    {
+      "name": "Včelařské muzeum",
+      "latitude": 49.655628,
+      "longitude": 18.27851
+    },
+    {
+      "name": "Památník Leoše Janáčka",
+      "latitude": 49.626239,
+      "longitude": 18.227314
+    },
+    {
+      "name": "Muzeum olomouckého komplexu opevnění na Fortu Křelov",
+      "latitude": 49.608908,
+      "longitude": 17.193537
+    },
+    {
+      "name": "Muzeum Josefa Mánesa",
+      "latitude": 49.549426,
+      "longitude": 17.037217
+    },
+    {
+      "name": "Muzeum kočárů",
+      "latitude": 49.551336,
+      "longitude": 17.034688
+    },
+    {
+      "name": "Hasičské muzeum",
+      "latitude": 49.550863,
+      "longitude": 17.03452
+    },
+    {
+      "name": "Pamětní síň Petra Bezruče",
+      "latitude": 49.515826,
+      "longitude": 17.054191
+    },
+    {
+      "name": "Veteran Arena - Muzeum historických automobilů",
+      "latitude": 49.604126,
+      "longitude": 17.276815
+    },
+    {
+      "name": "Vlastivědné muzeum v Olomouci",
+      "latitude": 49.596389,
+      "longitude": 17.257038
+    },
+    {
+      "name": "Pevnost poznání",
+      "latitude": 49.592926,
+      "longitude": 17.258083
+    },
+    {
+      "name": "Muzeum umění Olomouc",
+      "latitude": 49.596224,
+      "longitude": 17.256189
+    },
+    {
+      "name": "Válečná prachárna",
+      "latitude": 49.592561,
+      "longitude": 17.258834
+    },
+    {
+      "name": "Veteran aréna",
+      "latitude": 49.60405,
+      "longitude": 17.276759
+    },
+    {
+      "name": "Arcidiecézní muzeum",
+      "latitude": 49.59829,
+      "longitude": 17.261931
+    },
+    {
+      "name": "Bunkr Přáslavice",
+      "latitude": 49.597216,
+      "longitude": 17.404227
+    },
+    {
+      "name": "Záhoří",
+      "latitude": 49.533995,
+      "longitude": 17.513233
+    },
+    {
+      "name": "Galerie Špalíček",
+      "latitude": 49.470981,
+      "longitude": 17.112081
+    },
+    {
+      "name": "Muzeum Prostějovska",
+      "latitude": 49.472049,
+      "longitude": 17.111729
+    },
+    {
+      "name": "Muzeum Drahanské vrchoviny",
+      "latitude": 49.435444,
+      "longitude": 16.902141
+    },
+    {
+      "name": "Old Radiomuseum",
+      "latitude": 49.387336,
+      "longitude": 17.100814
+    },
+    {
+      "name": "Muzeum Josefa Františka",
+      "latitude": 49.38802,
+      "longitude": 17.07106
+    },
+    {
+      "name": "Automuzeum Praga Piccolo",
+      "latitude": 49.386544,
+      "longitude": 17.098703
+    },
+    {
+      "name": "Hasičské muzeum Josefa Eichhoffa",
+      "latitude": 49.466063,
+      "longitude": 17.391712
+    },
+    {
+      "name": "Muzeum Jana Ámose Komenského",
+      "latitude": 49.455296,
+      "longitude": 17.451193
+    },
+    {
+      "name": "Ornitologická stanice",
+      "latitude": 49.459521,
+      "longitude": 17.461467
+    },
+    {
+      "name": "Muzeum obce Jezernice",
+      "latitude": 49.547099,
+      "longitude": 17.625306
+    },
+    {
+      "name": "Muzeum Bedřicha Smetany",
+      "latitude": 49.517176,
+      "longitude": 17.618374
+    },
+    {
+      "name": "Muzeum námořníka Tomáše Vítka",
+      "latitude": 49.51506,
+      "longitude": 17.795544
+    },
+    {
+      "name": "Návštěvnické centrum Nový Jičín",
+      "latitude": 49.594266,
+      "longitude": 18.010714
+    },
+    {
+      "name": "Žerotínský zámek",
+      "latitude": 49.593567,
+      "longitude": 18.01016
+    },
+    {
+      "name": "Lašské muzeum",
+      "latitude": 49.596056,
+      "longitude": 18.146364
+    },
+    {
+      "name": "Muzeum Zdeňka Buriana",
+      "latitude": 49.591926,
+      "longitude": 18.117463
+    },
+    {
+      "name": "Expozice Emila a Dany Zátopkových",
+      "latitude": 49.596052,
+      "longitude": 18.146398
+    },
+    {
+      "name": "Auto Moto muzeum - Old Timer",
+      "latitude": 49.602421,
+      "longitude": 18.148723
+    },
+    {
+      "name": "Galerii lidového řemesla a umění",
+      "latitude": 49.592292,
+      "longitude": 18.116148
+    },
+    {
+      "name": "Muzeum Šipka",
+      "latitude": 49.590998,
+      "longitude": 18.117776
+    },
+    {
+      "name": "Muzeum loutek",
+      "latitude": 49.591339,
+      "longitude": 18.116647
+    },
+    {
+      "name": "Muzeum Fojtství",
+      "latitude": 49.590078,
+      "longitude": 18.138386
+    },
+    {
+      "name": "Muzeum nákladních automobilů Tatra",
+      "latitude": 49.594185,
+      "longitude": 18.148446
+    },
+    {
+      "name": "Muzeum osobních automobilů Tatra",
+      "latitude": 49.599565,
+      "longitude": 18.143782
+    },
+    {
+      "name": "Depozitář Slovenské strely",
+      "latitude": 49.594396,
+      "longitude": 18.147458
+    },
+    {
+      "name": "Muzeum obecné školy",
+      "latitude": 49.592779,
+      "longitude": 18.256079
+    },
+    {
+      "name": "Naděje ma jméno Texas",
+      "latitude": 49.564324,
+      "longitude": 18.168275
+    },
+    {
+      "name": "Památník Františka Palackého",
+      "latitude": 49.538445,
+      "longitude": 18.022397
+    },
+    {
+      "name": "Muzeum vystěhovalectví",
+      "latitude": 49.546051,
+      "longitude": 18.214377
+    },
+    {
+      "name": "Pohankový mlýn Šmajstrla",
+      "latitude": 49.524712,
+      "longitude": 18.217663
+    },
+    {
+      "name": "Pamětní síň Bratří Strnadlů a Jana Knebla",
+      "latitude": 49.509695,
+      "longitude": 18.230507
+    },
+    {
+      "name": "Muzeum regionu Valašsko",
+      "latitude": 49.478449,
+      "longitude": 17.968341
+    },
+    {
+      "name": "Muzeum Zubří",
+      "latitude": 49.469808,
+      "longitude": 18.092759
+    },
+    {
+      "name": "Muzeum valašských strašidel",
+      "latitude": 49.465315,
+      "longitude": 17.968424
+    },
+    {
+      "name": "Muzeum veteránů Podlesí",
+      "latitude": 49.452782,
+      "longitude": 17.969479
+    },
+    {
+      "name": "Český svaz muzeí v přírodě",
+      "latitude": 49.4611,
+      "longitude": 18.148279
+    },
+    {
+      "name": "Valašské muzeum v přírodě - Dřevěné městečko",
+      "latitude": 49.462503,
+      "longitude": 18.148703
+    },
+    {
+      "name": "Valašské muzeum v přírodě - Mlýnská dolina",
+      "latitude": 49.461187,
+      "longitude": 18.149582
+    },
+    {
+      "name": "Valašské muzeum v přírodě - Valašská dědina",
+      "latitude": 49.460353,
+      "longitude": 18.15555
+    },
+    {
+      "name": "Dům pod strání, expozice Valašská dědina",
+      "latitude": 49.461041,
+      "longitude": 18.149999
+    },
+    {
+      "name": "Valašské muzeum v přírode - Kolibiska",
+      "latitude": 49.460983,
+      "longitude": 18.161023
+    },
+    {
+      "name": "Mikulův mlýn",
+      "latitude": 49.417111,
+      "longitude": 17.94475
+    },
+    {
+      "name": "Hasičské muzeum Hutisko-Solanec",
+      "latitude": 49.428922,
+      "longitude": 18.217302
+    },
+    {
+      "name": "Muzeum Keltičkova kovárna",
+      "latitude": 49.837792,
+      "longitude": 18.298834
+    },
+    {
+      "name": "Železniční muzeum moravskoslezské",
+      "latitude": 49.828934,
+      "longitude": 18.282485
+    },
+    {
+      "name": "Ostravské muzeum",
+      "latitude": 49.835099,
+      "longitude": 18.293008
+    },
+    {
+      "name": "Galerie výtvarného umění v Ostravě",
+      "latitude": 49.834056,
+      "longitude": 18.286783
+    },
+    {
+      "name": "Vojenské muzeum",
+      "latitude": 49.830385,
+      "longitude": 18.306793
+    },
+    {
+      "name": "Malý Svět techniky U6",
+      "latitude": 49.818957,
+      "longitude": 18.281389
+    },
+    {
+      "name": "Velký Svět techniky",
+      "latitude": 49.819554,
+      "longitude": 18.283
+    },
+    {
+      "name": "Knihovna & Šenovské muzeum",
+      "latitude": 49.783635,
+      "longitude": 18.368927
+    },
+    {
+      "name": "Archeopark Chotěbuz",
+      "latitude": 49.78765,
+      "longitude": 18.590148
+    },
+    {
+      "name": "Památník Životice",
+      "latitude": 49.769329,
+      "longitude": 18.474798
+    },
+    {
+      "name": "Muzeum Těšínska",
+      "latitude": 49.747319,
+      "longitude": 18.624161
+    },
+    {
+      "name": "Muzeum Drukarstwa",
+      "latitude": 49.749998,
+      "longitude": 18.628753
+    },
+    {
+      "name": "Muzeum Lašská jizba",
+      "latitude": 49.718715,
+      "longitude": 18.367059
+    },
+    {
+      "name": "Lašské muzeum",
+      "latitude": 49.718721,
+      "longitude": 18.36718
+    },
+    {
+      "name": "Štola historický skanzen",
+      "latitude": 49.699561,
+      "longitude": 18.282042
+    },
+    {
+      "name": "Zámek ve Frýdku-Místku, Muzeum Beskyd",
+      "latitude": 49.685875,
+      "longitude": 18.346331
+    },
+    {
+      "name": "Muzeum meteoritů",
+      "latitude": 49.674168,
+      "longitude": 18.341446
+    },
+    {
+      "name": "Muzeum Jiřího Třanovského",
+      "latitude": 49.710733,
+      "longitude": 18.535351
+    },
+    {
+      "name": "Kožané město",
+      "latitude": 49.617891,
+      "longitude": 18.331922
+    },
+    {
+      "name": "Památník Raškovic",
+      "latitude": 49.619764,
+      "longitude": 18.472819
+    },
+    {
+      "name": "Muzeum Třineckých železáren a města Třince",
+      "latitude": 49.67699,
+      "longitude": 18.663177
+    },
+    {
+      "name": "Dřevěnky na Borku",
+      "latitude": 49.687083,
+      "longitude": 18.667986
+    },
+    {
+      "name": "Muzeum a informační centrum obce Bystřice",
+      "latitude": 49.635838,
+      "longitude": 18.718834
+    },
+    {
+      "name": "Bylinková zahrada a muzeum života na venkově Bystřice",
+      "latitude": 49.626888,
+      "longitude": 18.76463
+    },
+    {
+      "name": "Srub Petra Bezruče",
+      "latitude": 49.554977,
+      "longitude": 18.38155
+    },
+    {
+      "name": "Památník Josefa Kaluse",
+      "latitude": 49.528135,
+      "longitude": 18.32949
+    },
+    {
+      "name": "Muzeum trojmezí",
+      "latitude": 49.576265,
+      "longitude": 18.763203
+    },
+    {
+      "name": "Světové muzeum a knihovna Bible",
+      "latitude": 49.577894,
+      "longitude": 18.76596
+    },
+    {
+      "name": "Lomňanské muzeum",
+      "latitude": 49.548165,
+      "longitude": 18.706428
+    },
+    {
+      "name": "Návštěvnické centrum opevnění Šance",
+      "latitude": 49.497129,
+      "longitude": 18.742859
+    },
+    {
+      "name": "Regionální muzeum Dobromilice",
+      "latitude": 49.359533,
+      "longitude": 17.141755
+    },
+    {
+      "name": "Muzeum letecké a pozemní techniky Vyškov",
+      "latitude": 49.302141,
+      "longitude": 17.023142
+    },
+    {
+      "name": "zemědělských strojů Hoštice",
+      "latitude": 49.28928,
+      "longitude": 17.054278
+    },
+    {
+      "name": "obecní muzeum",
+      "latitude": 49.272568,
+      "longitude": 17.121337
+    },
+    {
+      "name": "Muzeum pohraniční stráže a SNB",
+      "latitude": 49.277939,
+      "longitude": 17.173513
+    },
+    {
+      "name": "Areál Hejnice",
+      "latitude": 49.343568,
+      "longitude": 17.533466
+    },
+    {
+      "name": "hospodářský dvůr",
+      "latitude": 49.342997,
+      "longitude": 17.529342
+    },
+    {
+      "name": "Vesnická památková rezervace - Náves",
+      "latitude": 49.342304,
+      "longitude": 17.526058
+    },
+    {
+      "name": "sedlárna",
+      "latitude": 49.343337,
+      "longitude": 17.526909
+    },
+    {
+      "name": "Muzeum v přírodě Rymice",
+      "latitude": 49.342734,
+      "longitude": 17.529103
+    },
+    {
+      "name": "kovárna",
+      "latitude": 49.342404,
+      "longitude": 17.526478
+    },
+    {
+      "name": "podsedek",
+      "latitude": 49.341862,
+      "longitude": 17.524967
+    },
+    {
+      "name": "Muzeum Kroměříž",
+      "latitude": 49.299223,
+      "longitude": 17.393005
+    },
+    {
+      "name": "Museum of Kroměříž",
+      "latitude": 49.299117,
+      "longitude": 17.392535
+    },
+    {
+      "name": "Muzeum zemědělské techniky našich dědů",
+      "latitude": 49.320778,
+      "longitude": 17.495882
+    },
+    {
+      "name": "Muzeum Františka Skopalíka",
+      "latitude": 49.289943,
+      "longitude": 17.484134
+    },
+    {
+      "name": "muzeum Tomáše E. Müllera",
+      "latitude": 49.214293,
+      "longitude": 17.030759
+    },
+    {
+      "name": "Košíkářské muzeum",
+      "latitude": 49.248325,
+      "longitude": 17.207862
+    },
+    {
+      "name": "Zámek Litenčice",
+      "latitude": 49.201766,
+      "longitude": 17.206989
+    },
+    {
+      "name": "Venkovské muzeum Aloise Otýpky",
+      "latitude": 49.228607,
+      "longitude": 17.411832
+    },
+    {
+      "name": "Místní muzeum Sazovice",
+      "latitude": 49.238851,
+      "longitude": 17.57002
+    },
+    {
+      "name": "Veteran Muzeum Praga",
+      "latitude": 49.191822,
+      "longitude": 17.533319
+    },
+    {
+      "name": "městské muzeum",
+      "latitude": 49.17217,
+      "longitude": 17.515275
+    },
+    {
+      "name": "Muzeum v Jurkovičově sále",
+      "latitude": 49.376088,
+      "longitude": 17.699858
+    },
+    {
+      "name": "Hvězdárna",
+      "latitude": 49.332211,
+      "longitude": 17.584106
+    },
+    {
+      "name": "Malé Muzeum Kovářství",
+      "latitude": 49.334427,
+      "longitude": 17.58014
+    },
+    {
+      "name": "Městské muzeum a galerie Holešov",
+      "latitude": 49.332954,
+      "longitude": 17.581105
+    },
+    {
+      "name": "Zemanova kovárna",
+      "latitude": 49.334477,
+      "longitude": 17.580027
+    },
+    {
+      "name": "Muzeum Rusava",
+      "latitude": 49.347753,
+      "longitude": 17.689544
+    },
+    {
+      "name": "Muzeum lidových řemesel",
+      "latitude": 49.301762,
+      "longitude": 17.669359
+    },
+    {
+      "name": "Muzeum dřevěného porculánu",
+      "latitude": 49.317014,
+      "longitude": 17.783451
+    },
+    {
+      "name": "Dřevěná Zoo Ostrata",
+      "latitude": 49.270502,
+      "longitude": 17.766737
+    },
+    {
+      "name": "Vojenské muzeum Ludvíka Hynka",
+      "latitude": 49.359669,
+      "longitude": 17.930437
+    },
+    {
+      "name": "Muzeum regionu Valašsko",
+      "latitude": 49.340652,
+      "longitude": 17.999158
+    },
+    {
+      "name": "Fojství",
+      "latitude": 49.355964,
+      "longitude": 18.266558
+    },
+    {
+      "name": "Památník Antonína Strnadla",
+      "latitude": 49.338134,
+      "longitude": 18.20107
+    },
+    {
+      "name": "Muzeum sklářství Karolinka",
+      "latitude": 49.35253,
+      "longitude": 18.239243
+    },
+    {
+      "name": "Retro muzeum",
+      "latitude": 49.251338,
+      "longitude": 17.751873
+    },
+    {
+      "name": "Obuvnické muzeum",
+      "latitude": 49.224912,
+      "longitude": 17.659171
+    },
+    {
+      "name": "Muzeum jihovýchodní moravy ve Zlíně",
+      "latitude": 49.224795,
+      "longitude": 17.658564
+    },
+    {
+      "name": "Pojízdná kancelář J. A. Bati ve výtahu 21. budovy",
+      "latitude": 49.223218,
+      "longitude": 17.658877
+    },
+    {
+      "name": "Památník Tomáše Bati",
+      "latitude": 49.219135,
+      "longitude": 17.665762
+    },
+    {
+      "name": "Muzeum map Zlín",
+      "latitude": 49.229151,
+      "longitude": 17.668198
+    },
+    {
+      "name": "Skanzen Mikuláštíkovo fojtství",
+      "latitude": 49.260574,
+      "longitude": 17.895493
+    },
+    {
+      "name": "R. Jelínek distillery centre",
+      "latitude": 49.214921,
+      "longitude": 17.838355
+    },
+    {
+      "name": "Hasičské muzeum",
+      "latitude": 49.219034,
+      "longitude": 17.848426
+    },
+    {
+      "name": "Tjiwara muzeum",
+      "latitude": 49.211439,
+      "longitude": 17.850049
+    },
+    {
+      "name": "Muzeum Hájenka",
+      "latitude": 49.204244,
+      "longitude": 17.599594
+    },
+    {
+      "name": "Vojenské muzeum",
+      "latitude": 49.169783,
+      "longitude": 17.877562
+    },
+    {
+      "name": "Machův válcový mlýn",
+      "latitude": 49.156313,
+      "longitude": 17.847394
+    },
+    {
+      "name": "Muzeum Prlovské tragedie",
+      "latitude": 49.248065,
+      "longitude": 17.961616
+    },
+    {
+      "name": "Muzeum hasičské techniky ve Zděchově",
+      "latitude": 49.259973,
+      "longitude": 18.07742
+    },
+    {
+      "name": "expozice Nová Ploština",
+      "latitude": 49.197467,
+      "longitude": 17.958275
+    },
+    {
+      "name": "Muzeum vypálených usedlostí Vařákovy paseky",
+      "latitude": 49.191556,
+      "longitude": 18.009225
+    },
+    {
+      "name": "Expozice Tragédie na Ploštině",
+      "latitude": 49.196493,
+      "longitude": 17.956797
+    },
+    {
+      "name": "Štěpána kardinála Trochty",
+      "latitude": 49.197549,
+      "longitude": 18.09741
+    },
+    {
+      "name": "Betlém",
+      "latitude": 49.179538,
+      "longitude": 18.062771
+    },
+    {
+      "name": "zámek Ždánice - Vrbasovo muzeum",
+      "latitude": 49.06498,
+      "longitude": 17.025342
+    },
+    {
+      "name": "Muzeum sklářství",
+      "latitude": 49.117411,
+      "longitude": 17.248714
+    },
+    {
+      "name": "Muzeum lesnictví a myslivosti Chřibů",
+      "latitude": 49.114268,
+      "longitude": 17.301622
+    },
+    {
+      "name": "Dům Strmenských",
+      "latitude": 49.130181,
+      "longitude": 17.455629
+    },
+    {
+      "name": "Muzeum obce",
+      "latitude": 49.106194,
+      "longitude": 17.466442
+    },
+    {
+      "name": "Živá voda",
+      "latitude": 49.10332,
+      "longitude": 17.409172
+    },
+    {
+      "name": "Centrum slováckých tradic",
+      "latitude": 49.103065,
+      "longitude": 17.408976
+    },
+    {
+      "name": "Muzeum Tupeské keramiky",
+      "latitude": 49.083051,
+      "longitude": 17.371629
+    },
+    {
+      "name": "Muzeum Podhradí",
+      "latitude": 49.084928,
+      "longitude": 17.336412
+    },
+    {
+      "name": "Muzeum veteránů",
+      "latitude": 49.073047,
+      "longitude": 17.423956
+    },
+    {
+      "name": "Bonsaicentrum-museum Isabelia",
+      "latitude": 49.080318,
+      "longitude": 17.4448
+    },
+    {
+      "name": "Človíčkova stezka",
+      "latitude": 49.081156,
+      "longitude": 17.432394
+    },
+    {
+      "name": "Uherské Hradiště - město královské",
+      "latitude": 49.067578,
+      "longitude": 17.459536
+    },
+    {
+      "name": "Slovácké muzeum",
+      "latitude": 49.067345,
+      "longitude": 17.467564
+    },
+    {
+      "name": "Centrum slovanské archeologie",
+      "latitude": 49.071345,
+      "longitude": 17.464568
+    },
+    {
+      "name": "Památník Velké Moravy",
+      "latitude": 49.078495,
+      "longitude": 17.443921
+    },
+    {
+      "name": "Muzeum v přírodě Rochus",
+      "latitude": 49.07176,
+      "longitude": 17.489209
+    },
+    {
+      "name": "Památkový domek - lidová architektura",
+      "latitude": 49.039862,
+      "longitude": 17.46686
+    },
+    {
+      "name": "Potomákovo muzeum krojů",
+      "latitude": 49.053016,
+      "longitude": 17.529351
+    },
+    {
+      "name": "Sál a muzeum obce",
+      "latitude": 49.000955,
+      "longitude": 17.031004
+    },
+    {
+      "name": "Obecní muzeum",
+      "latitude": 49.031634,
+      "longitude": 17.053969
+    },
+    {
+      "name": "Vlastivědné muzeum Kyjov",
+      "latitude": 49.009348,
+      "longitude": 17.128599
+    },
+    {
+      "name": "Military muzeum generála Sergěje Jana Ingra Vlkoš",
+      "latitude": 48.98901,
+      "longitude": 17.164884
+    },
+    {
+      "name": "Venkovské muzeum Vracov 1",
+      "latitude": 48.98091,
+      "longitude": 17.218933
+    },
+    {
+      "name": "Venkovské muzeum Vracov 2",
+      "latitude": 48.981072,
+      "longitude": 17.218685
+    },
+    {
+      "name": "Muzeum jízdy králů a lidového bydlení Skoronice",
+      "latitude": 48.981605,
+      "longitude": 17.154126
+    },
+    {
+      "name": "Muzeum obce Kobylí",
+      "latitude": 48.932718,
+      "longitude": 16.890511
+    },
+    {
+      "name": "Konírna - tradiční remesla",
+      "latitude": 48.960093,
+      "longitude": 17.137854
+    },
+    {
+      "name": "Muzeum Železnic Vracov",
+      "latitude": 48.979593,
+      "longitude": 17.217507
+    },
+    {
+      "name": "Muzeum ve Vagónu",
+      "latitude": 48.925351,
+      "longitude": 17.172533
+    },
+    {
+      "name": "Rodinné muzeum zemědělství Stodůlka",
+      "latitude": 49.031811,
+      "longitude": 17.301445
+    },
+    {
+      "name": "Veteran muzeum",
+      "latitude": 48.985276,
+      "longitude": 17.390175
+    },
+    {
+      "name": "Letecké muzeum Kunovice",
+      "latitude": 49.035029,
+      "longitude": 17.457857
+    },
+    {
+      "name": "Obecní muzeum Ostrožská Lhota",
+      "latitude": 48.976348,
+      "longitude": 17.466805
+    },
+    {
+      "name": "Bunkr Jitulka",
+      "latitude": 48.962908,
+      "longitude": 17.471881
+    },
+    {
+      "name": "Muzeum Blatnice",
+      "latitude": 48.944495,
+      "longitude": 17.466959
+    },
+    {
+      "name": "Rolnická usedlost č.p. 19",
+      "latitude": 49.109827,
+      "longitude": 17.700308
+    },
+    {
+      "name": "Muzeum Luhačovicského Zálesí",
+      "latitude": 49.100651,
+      "longitude": 17.758674
+    },
+    {
+      "name": "Vodoléčebný ústav",
+      "latitude": 49.11054,
+      "longitude": 17.765961
+    },
+    {
+      "name": "Městské muzeum Slavičín",
+      "latitude": 49.088353,
+      "longitude": 17.874248
+    },
+    {
+      "name": "Muzeum vojenské techniky",
+      "latitude": 49.095138,
+      "longitude": 17.907429
+    },
+    {
+      "name": "Muzeum Bojkovska",
+      "latitude": 49.038653,
+      "longitude": 17.815106
+    },
+    {
+      "name": "Muzeum Letecké bitvy nad Bílými Karpaty",
+      "latitude": 49.04441,
+      "longitude": 17.898793
+    },
+    {
+      "name": "Červený Dům",
+      "latitude": 49.139734,
+      "longitude": 18.007923
+    },
+    {
+      "name": "Stará radnice",
+      "latitude": 49.140376,
+      "longitude": 18.007474
+    },
+    {
+      "name": "Hasičské muzeum",
+      "latitude": 49.148518,
+      "longitude": 17.950896
+    },
+    {
+      "name": "Muzeum lidové kultury a tradic Vlachovska",
+      "latitude": 49.127647,
+      "longitude": 17.939147
+    },
+    {
+      "name": "Muzeum bednářství",
+      "latitude": 49.123879,
+      "longitude": 17.940966
+    },
+    {
+      "name": "Minimuzeum Gabry a Málinky",
+      "latitude": 49.069054,
+      "longitude": 17.979111
+    },
+    {
+      "name": "Muzeum Jana Amose Komenského",
+      "latitude": 49.027822,
+      "longitude": 17.645013
+    },
+    {
+      "name": "Šumické muzeum",
+      "latitude": 49.028232,
+      "longitude": 17.723917
+    },
+    {
+      "name": "Rolnický dům č.p. 57",
+      "latitude": 49.006796,
+      "longitude": 17.58306
+    },
+    {
+      "name": "Obydlí zvěrokleštiče",
+      "latitude": 48.995847,
+      "longitude": 17.799573
+    },
+    {
+      "name": "Památník J. A. Komenského",
+      "latitude": 48.991213,
+      "longitude": 17.80293
+    },
+    {
+      "name": "Muzeum na Mlýně",
+      "latitude": 48.965919,
+      "longitude": 17.58532
+    },
+    {
+      "name": "Sedlcká chalupa",
+      "latitude": 48.975924,
+      "longitude": 17.643652
+    },
+    {
+      "name": "Sucholožská chalupa",
+      "latitude": 48.96974,
+      "longitude": 17.711002
+    },
+    {
+      "name": "Domeček",
+      "latitude": 48.924948,
+      "longitude": 17.740084
+    },
+    {
+      "name": "Muzeum Bystřice pod Lopeníkem",
+      "latitude": 48.975669,
+      "longitude": 17.757557
+    },
+    {
+      "name": "Muzeum Velké Karlovice",
+      "latitude": 49.360464,
+      "longitude": 18.284265
+    },
+    {
+      "name": "Muzeum lehkého opevnění (2. světová válka)",
+      "latitude": 48.905375,
+      "longitude": 13.825959
+    },
+    {
+      "name": "Volarské muzeum",
+      "latitude": 48.911409,
+      "longitude": 13.890577
+    },
+    {
+      "name": "Pošumavská jižní dráha",
+      "latitude": 48.829036,
+      "longitude": 13.793505
+    },
+    {
+      "name": "KANÁL EXPO",
+      "latitude": 48.815042,
+      "longitude": 13.88117
+    },
+    {
+      "name": "Rodný domek Adalberta Stiftera",
+      "latitude": 48.765633,
+      "longitude": 14.03493
+    },
+    {
+      "name": "Muzeum Zvonková",
+      "latitude": 48.723316,
+      "longitude": 13.982739
+    },
+    {
+      "name": "Böhmerwaldschule",
+      "latitude": 48.707795,
+      "longitude": 13.978515
+    },
+    {
+      "name": "Muzeum Schwarzenberského plavebního kanálu",
+      "latitude": 48.853619,
+      "longitude": 14.210404
+    },
+    {
+      "name": "Muzeum marionet",
+      "latitude": 48.811921,
+      "longitude": 14.316344
+    },
+    {
+      "name": "Muzeum vltavínů",
+      "latitude": 48.811272,
+      "longitude": 14.314477
+    },
+    {
+      "name": "Muzeum loutek - Pohádkový dům",
+      "latitude": 48.811393,
+      "longitude": 14.315172
+    },
+    {
+      "name": "Wax museum",
+      "latitude": 48.810291,
+      "longitude": 14.313871
+    },
+    {
+      "name": "Muzeum útrpného práva",
+      "latitude": 48.810933,
+      "longitude": 14.315028
+    },
+    {
+      "name": "Grafitový důl",
+      "latitude": 48.816972,
+      "longitude": 14.304771
+    },
+    {
+      "name": "Galerie české kultury",
+      "latitude": 48.813073,
+      "longitude": 14.314758
+    },
+    {
+      "name": "Hradní muzeum",
+      "latitude": 48.812225,
+      "longitude": 14.315833
+    },
+    {
+      "name": "Mezinárodní galerie výtvarného umění",
+      "latitude": 48.812806,
+      "longitude": 14.313364
+    },
+    {
+      "name": "Zámecká kovárna",
+      "latitude": 48.813381,
+      "longitude": 14.316531
+    },
+    {
+      "name": "Muzeum obchodu",
+      "latitude": 48.811455,
+      "longitude": 14.315122
+    },
+    {
+      "name": "3D Muzeum",
+      "latitude": 48.81128,
+      "longitude": 14.315466
+    },
+    {
+      "name": "Muzeum historických motocyklů",
+      "latitude": 48.811631,
+      "longitude": 14.313427
+    },
+    {
+      "name": "Film legends muzeum",
+      "latitude": 48.810788,
+      "longitude": 14.315848
+    },
+    {
+      "name": "Regionální muzeum v Českém Krumlově",
+      "latitude": 48.810687,
+      "longitude": 14.317792
+    },
+    {
+      "name": "Muzeon c.k.",
+      "latitude": 48.811713,
+      "longitude": 14.314154
+    },
+    {
+      "name": "Port 1560",
+      "latitude": 48.81307,
+      "longitude": 14.320014
+    },
+    {
+      "name": "Muzeum zahradnictví",
+      "latitude": 48.809571,
+      "longitude": 14.311687
+    },
+    {
+      "name": "Interaktivní expozice s historickou hernou",
+      "latitude": 48.813496,
+      "longitude": 14.318165
+    },
+    {
+      "name": "Klášterní muzeum",
+      "latitude": 48.813312,
+      "longitude": 14.318299
+    },
+    {
+      "name": "Letohrádek Bellarie",
+      "latitude": 48.810774,
+      "longitude": 14.307435
+    },
+    {
+      "name": "Kvítkův Dvůr",
+      "latitude": 48.809448,
+      "longitude": 14.294079
+    },
+    {
+      "name": "sv. Jošta",
+      "latitude": 48.811926,
+      "longitude": 14.316298
+    },
+    {
+      "name": "Ateliér Egona Schieleho",
+      "latitude": 48.807284,
+      "longitude": 14.316396
+    },
+    {
+      "name": "Museum Fotoateliér Seidel",
+      "latitude": 48.808337,
+      "longitude": 14.316423
+    },
+    {
+      "name": "Vesnická památková rezervace Mirkovice",
+      "latitude": 48.811805,
+      "longitude": 14.390154
+    },
+    {
+      "name": "Památník Jana Žižky",
+      "latitude": 48.891624,
+      "longitude": 14.606471
+    },
+    {
+      "name": "Muzeum Roubenka",
+      "latitude": 48.857208,
+      "longitude": 14.487072
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 48.830018,
+      "longitude": 14.46609
+    },
+    {
+      "name": "Muzeum loutek a stálá expozice obce",
+      "latitude": 48.823853,
+      "longitude": 14.509628
+    },
+    {
+      "name": "Rybářská bašta Olšina",
+      "latitude": 48.778341,
+      "longitude": 14.101852
+    },
+    {
+      "name": "Muzeum historických radiopřijímačů",
+      "latitude": 48.765117,
+      "longitude": 14.175892
+    },
+    {
+      "name": "Muzeum pašijových her",
+      "latitude": 48.765035,
+      "longitude": 14.176041
+    },
+    {
+      "name": "Obecní Muzeum",
+      "latitude": 48.700601,
+      "longitude": 14.388668
+    },
+    {
+      "name": "Hradní muzeum",
+      "latitude": 48.775882,
+      "longitude": 14.510154
+    },
+    {
+      "name": "Muzeum Vysídlených obcí Novohradska",
+      "latitude": 48.780634,
+      "longitude": 14.669155
+    },
+    {
+      "name": "Muzeum Novohradských hor",
+      "latitude": 48.762268,
+      "longitude": 14.739215
+    },
+    {
+      "name": "Panna Maria Lurdská",
+      "latitude": 48.749907,
+      "longitude": 14.743832
+    },
+    {
+      "name": "Muzeum koněspřežné dráhy",
+      "latitude": 48.701721,
+      "longitude": 14.432307
+    },
+    {
+      "name": "Skanzen železné opony",
+      "latitude": 48.780152,
+      "longitude": 14.808491
+    },
+    {
+      "name": "Zevlův mlýn",
+      "latitude": 48.782541,
+      "longitude": 14.789605
+    },
+    {
+      "name": "Glas und Stein",
+      "latitude": 48.772793,
+      "longitude": 14.986253
+    },
+    {
+      "name": "Muzeum Frymburk",
+      "latitude": 48.661743,
+      "longitude": 14.166399
+    },
+    {
+      "name": "Czech Repubrick",
+      "latitude": 48.635482,
+      "longitude": 14.203976
+    },
+    {
+      "name": "Poštovní muzeum",
+      "latitude": 48.620696,
+      "longitude": 14.307614
+    },
+    {
+      "name": "Hafnerhaus",
+      "latitude": 48.615452,
+      "longitude": 14.498603
+    },
+    {
+      "name": "Zollmuseum Hammern",
+      "latitude": 48.613983,
+      "longitude": 14.5447
+    },
+    {
+      "name": "Muzeum Pohraničního opevnění",
+      "latitude": 48.894565,
+      "longitude": 15.800968
+    },
+    {
+      "name": "Guckkastenmuseum",
+      "latitude": 48.854389,
+      "longitude": 15.858186
+    },
+    {
+      "name": "ehem. Zollhaus",
+      "latitude": 48.852548,
+      "longitude": 15.862323
+    },
+    {
+      "name": "Pivovar",
+      "latitude": 48.85567,
+      "longitude": 16.044275
+    },
+    {
+      "name": "Znojemské podzemí",
+      "latitude": 48.855838,
+      "longitude": 16.049229
+    },
+    {
+      "name": "Muzeum Velké Moravy - Informační centrum",
+      "latitude": 48.859379,
+      "longitude": 16.033211
+    },
+    {
+      "name": "Alšovka",
+      "latitude": 48.857476,
+      "longitude": 16.05577
+    },
+    {
+      "name": "Dům umění",
+      "latitude": 48.854182,
+      "longitude": 16.050791
+    },
+    {
+      "name": "Muzeum motorizmu",
+      "latitude": 48.854172,
+      "longitude": 16.04284
+    },
+    {
+      "name": "Expozice pivovarnictví Znojmo",
+      "latitude": 48.855663,
+      "longitude": 16.044445
+    },
+    {
+      "name": "Jihomoravské muzeum; bývalý Minoristský klášter",
+      "latitude": 48.856917,
+      "longitude": 16.045392
+    },
+    {
+      "name": "Hradiště sv. Hypolita",
+      "latitude": 48.858855,
+      "longitude": 16.03317
+    },
+    {
+      "name": "Areál čs. opevnění a železné opony v Šatově",
+      "latitude": 48.787782,
+      "longitude": 16.015443
+    },
+    {
+      "name": "Muzeum Terra Technica",
+      "latitude": 48.764844,
+      "longitude": 16.059866
+    },
+    {
+      "name": "Brána do Římské říše",
+      "latitude": 48.903933,
+      "longitude": 16.574153
+    },
+    {
+      "name": "Dům přírody Pálavy",
+      "latitude": 48.888086,
+      "longitude": 16.643758
+    },
+    {
+      "name": "Archeopark Pavlov",
+      "latitude": 48.877196,
+      "longitude": 16.674734
+    },
+    {
+      "name": "Pohádková výstava",
+      "latitude": 48.896872,
+      "longitude": 16.711826
+    },
+    {
+      "name": "Coffee Museum",
+      "latitude": 48.843516,
+      "longitude": 16.644627
+    },
+    {
+      "name": "Geopark",
+      "latitude": 48.816796,
+      "longitude": 16.639941
+    },
+    {
+      "name": "Horní synagoga",
+      "latitude": 48.807697,
+      "longitude": 16.636039
+    },
+    {
+      "name": "Vodní mlýn ve Slupi",
+      "latitude": 48.783467,
+      "longitude": 16.200438
+    },
+    {
+      "name": "Biermuseum",
+      "latitude": 48.725898,
+      "longitude": 16.386695
+    },
+    {
+      "name": "Dietrichsteinská hrobka",
+      "latitude": 48.806671,
+      "longitude": 16.639252
+    },
+    {
+      "name": "Tajemné sklepení",
+      "latitude": 48.806392,
+      "longitude": 16.639069
+    },
+    {
+      "name": "Muzeum hraček Lednice",
+      "latitude": 48.800322,
+      "longitude": 16.801793
+    },
+    {
+      "name": "Muzeum vinařství, zahradnictví a krajiny",
+      "latitude": 48.741146,
+      "longitude": 16.756708
+    },
+    {
+      "name": "Městské muzeum",
+      "latitude": 48.741036,
+      "longitude": 16.75637
+    },
+    {
+      "name": "Zabi Sklep",
+      "latitude": 48.736705,
+      "longitude": 16.754345
+    },
+    {
+      "name": "Muzeum železné opony",
+      "latitude": 48.738689,
+      "longitude": 16.733102
+    },
+    {
+      "name": "Domek T. G. Masaryka",
+      "latitude": 48.903722,
+      "longitude": 16.94424
+    },
+    {
+      "name": "Expozice hornictví a sklářství",
+      "latitude": 48.921845,
+      "longitude": 17.10415
+    },
+    {
+      "name": "Obecní muzeum Rohatec",
+      "latitude": 48.880607,
+      "longitude": 17.182837
+    },
+    {
+      "name": "Muzeum Slovácká chalupa",
+      "latitude": 48.862257,
+      "longitude": 17.02486
+    },
+    {
+      "name": "Dům přírody Hodonínské Dúbravy",
+      "latitude": 48.861642,
+      "longitude": 17.111862
+    },
+    {
+      "name": "Muzeum naftového dobývání a geologie",
+      "latitude": 48.856982,
+      "longitude": 17.121136
+    },
+    {
+      "name": "Masarykovo Muzeum v Hodoníně",
+      "latitude": 48.846757,
+      "longitude": 17.127315
+    },
+    {
+      "name": "Starý kvartýr",
+      "latitude": 48.841093,
+      "longitude": 17.071483
+    },
+    {
+      "name": "Městské muzeum ve Strážnici",
+      "latitude": 48.901314,
+      "longitude": 17.315211
+    },
+    {
+      "name": "Muzeum oskeruší",
+      "latitude": 48.875253,
+      "longitude": 17.360417
+    },
+    {
+      "name": "Rodný dům bratří Úprků",
+      "latitude": 48.886729,
+      "longitude": 17.396936
+    },
+    {
+      "name": "Větrný mlýn v Kuželově",
+      "latitude": 48.852851,
+      "longitude": 17.496002
+    },
+    {
+      "name": "Galerie 99",
+      "latitude": 48.757545,
+      "longitude": 16.889973
+    },
+    {
+      "name": "Lichtenštejnský dům",
+      "latitude": 48.758564,
+      "longitude": 16.88177
+    },
+    {
+      "name": "Velo pavilon",
+      "latitude": 48.754591,
+      "longitude": 16.891206
+    },
+    {
+      "name": "Slovanské hradiště v Mikulčicích",
+      "latitude": 48.804659,
+      "longitude": 17.086889
+    },
+    {
+      "name": "Múzeum v Kopčanoch",
+      "latitude": 48.782727,
+      "longitude": 17.104214
+    },
+    {
+      "name": "Návštěvnické centrum",
+      "latitude": 48.804361,
+      "longitude": 17.085782
+    },
+    {
+      "name": "Kačenáreň",
+      "latitude": 48.798356,
+      "longitude": 17.111191
+    }
+  ],
+  "meta": {
+    "title": "Muzea (OSM) - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných muzeí v České republice (1398 záznamů) — body zájmu z OpenStreetMap (tag tourism=museum), výřez EU-POIS/CZ. Obsahuje 1398 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Muzea (OSM) | ListBase",
+    "seo_description": "Stáhnout Muzea (OSM) — 1398 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 1398 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

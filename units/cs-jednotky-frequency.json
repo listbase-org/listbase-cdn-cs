@@ -1,0 +1,106 @@
+{
+  "id": "cs-jednotky-frequency",
+  "name": "Měrné jednotky: frequency (4)",
+  "title": "Měrné jednotky: frequency (4)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'frequency'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 92,
+      "unit_code": "frequency-gigahertz",
+      "kategorie": "frequency",
+      "nazev": "gigahertzy",
+      "vzor_jednotne": "{0} gigahertz",
+      "vzor_mnozne": "{0} gigahertzů",
+      "kratky_vzor": "{0} GHz",
+      "uzky_vzor": "{0} GHz"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-hertz",
+      "kategorie": "frequency",
+      "nazev": "hertzy",
+      "vzor_jednotne": "{0} hertz",
+      "vzor_mnozne": "{0} hertzů",
+      "kratky_vzor": "{0} Hz",
+      "uzky_vzor": "{0} Hz"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-kilohertz",
+      "kategorie": "frequency",
+      "nazev": "kilohertzy",
+      "vzor_jednotne": "{0} kilohertz",
+      "vzor_mnozne": "{0} kilohertzů",
+      "kratky_vzor": "{0} kHz",
+      "uzky_vzor": "{0} kHz"
+    },
+    {
+      "id": 95,
+      "unit_code": "frequency-megahertz",
+      "kategorie": "frequency",
+      "nazev": "megahertzy",
+      "vzor_jednotne": "{0} megahertz",
+      "vzor_mnozne": "{0} megahertzů",
+      "kratky_vzor": "{0} MHz",
+      "uzky_vzor": "{0} MHz"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: frequency (4) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'frequency'. Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: frequency (4) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: frequency (4) — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

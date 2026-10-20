@@ -1,0 +1,456 @@
+{
+  "id": "math-integral-formulas",
+  "name": "Sada dat Běžné Integrační Vzorce",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "integral",
+      "label": "∫f(x)dx",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Základní",
+      "function": "k",
+      "integral": "kx + C",
+      "condition": "k is constant",
+      "notes": "Pravidlo konstanty"
+    },
+    {
+      "category": "Základní",
+      "function": "x^n",
+      "integral": "x^(n+1)/(n+1) + C",
+      "condition": "n ≠ -1",
+      "notes": "Pravidlo mocniny"
+    },
+    {
+      "category": "Základní",
+      "function": "1/x",
+      "integral": "ln|x| + C",
+      "condition": "x ≠ 0",
+      "notes": "Přirozený logaritmus"
+    },
+    {
+      "category": "Základní",
+      "function": "e^x",
+      "integral": "e^x + C",
+      "condition": "-",
+      "notes": "Exponenciální funkce"
+    },
+    {
+      "category": "Základní",
+      "function": "a^x",
+      "integral": "a^x/ln(a) + C",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Obecná exponenciála"
+    },
+    {
+      "category": "Základní",
+      "function": "x^(-1/2)",
+      "integral": "2√x + C",
+      "condition": "x > 0",
+      "notes": "Tvar druhé odmocniny"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "sin(x)",
+      "integral": "-cos(x) + C",
+      "condition": "-",
+      "notes": "Funkce sinus"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "cos(x)",
+      "integral": "sin(x) + C",
+      "condition": "-",
+      "notes": "Funkce kosinus"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "tan(x)",
+      "integral": "-ln|cos(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkce tangens"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "cot(x)",
+      "integral": "ln|sin(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Funkce kotangens"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "sec(x)",
+      "integral": "ln|sec(x) + tan(x)| + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkce sekans"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "csc(x)",
+      "integral": "ln|csc(x) - cot(x)| + C",
+      "condition": "x ≠ nπ",
+      "notes": "Funkce kosekans"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "sec²(x)",
+      "integral": "tan(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Sekans na druhou"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "csc²(x)",
+      "integral": "-cot(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Kosekans na druhou"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "sec(x)tan(x)",
+      "integral": "sec(x) + C",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Součinový tvar"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "csc(x)cot(x)",
+      "integral": "-csc(x) + C",
+      "condition": "x ≠ nπ",
+      "notes": "Součinový tvar"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "sin²(x)",
+      "integral": "x/2 - sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Vzorec polovičního úhlu"
+    },
+    {
+      "category": "Trigonometrické",
+      "function": "cos²(x)",
+      "integral": "x/2 + sin(2x)/4 + C",
+      "condition": "-",
+      "notes": "Vzorec polovičního úhlu"
+    },
+    {
+      "category": "Cyklometrické funkce",
+      "function": "1/√(1-x²)",
+      "integral": "arcsin(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Tvar arkus sinus"
+    },
+    {
+      "category": "Cyklometrické funkce",
+      "function": "-1/√(1-x²)",
+      "integral": "arccos(x) + C",
+      "condition": "|x| < 1",
+      "notes": "Tvar arkus kosinus"
+    },
+    {
+      "category": "Inverzní trigonometrické",
+      "function": "1/(1+x²)",
+      "integral": "arctan(x) + C",
+      "condition": "-",
+      "notes": "Tvar arkustangens"
+    },
+    {
+      "category": "Inverzní trigonometrické",
+      "function": "-1/(1+x²)",
+      "integral": "arccot(x) + C",
+      "condition": "-",
+      "notes": "Tvar arkuskotangens"
+    },
+    {
+      "category": "Inverzní trigonometrické",
+      "function": "1/(|x|√(x²-1))",
+      "integral": "arcsec(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Tvar arkussekans"
+    },
+    {
+      "category": "Inverzní trigonometrické",
+      "function": "-1/(|x|√(x²-1))",
+      "integral": "arccsc(x) + C",
+      "condition": "|x| > 1",
+      "notes": "Tvar arkuskosekans"
+    },
+    {
+      "category": "Inverzní trigonometrické",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Obecný arkussinus"
+    },
+    {
+      "category": "Inverzní trigonometrické",
+      "function": "1/(a²+x²)",
+      "integral": "(1/a)arctan(x/a) + C",
+      "condition": "a ≠ 0",
+      "notes": "Obecný arkustangens"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "sinh(x)",
+      "integral": "cosh(x) + C",
+      "condition": "-",
+      "notes": "Hyperbolický sinus"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "cosh(x)",
+      "integral": "sinh(x) + C",
+      "condition": "-",
+      "notes": "Hyperbolický kosinus"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "tanh(x)",
+      "integral": "ln(cosh(x)) + C",
+      "condition": "-",
+      "notes": "Hyperbolický tangens"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "coth(x)",
+      "integral": "ln|sinh(x)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolický kotangens"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "sech(x)",
+      "integral": "arctan(sinh(x)) + C",
+      "condition": "-",
+      "notes": "Hyperbolický sekans"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "csch(x)",
+      "integral": "ln|tanh(x/2)| + C",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolický kosekans"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "sech²(x)",
+      "integral": "tanh(x) + C",
+      "condition": "-",
+      "notes": "Hyperbolický sekans na druhou"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "csch²(x)",
+      "integral": "-coth(x) + C",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolický kosekans na druhou"
+    },
+    {
+      "category": "Logaritmické",
+      "function": "ln(x)",
+      "integral": "x·ln(x) - x + C",
+      "condition": "x > 0",
+      "notes": "Integrace per partes"
+    },
+    {
+      "category": "Logaritmické",
+      "function": "log_a(x)",
+      "integral": "x·log_a(x) - x/ln(a) + C",
+      "condition": "x > 0, a > 0",
+      "notes": "Obecný logaritmus"
+    },
+    {
+      "category": "Logaritmické",
+      "function": "1/(x·ln(x))",
+      "integral": "ln|ln(x)| + C",
+      "condition": "x > 1",
+      "notes": "Vnořený logaritmus"
+    },
+    {
+      "category": "Racionální",
+      "function": "1/(x²-a²)",
+      "integral": "(1/2a)ln|(x-a)/(x+a)| + C",
+      "condition": "x ≠ ±a",
+      "notes": "Parciální zlomky"
+    },
+    {
+      "category": "Racionální",
+      "function": "1/(a²-x²)",
+      "integral": "(1/2a)ln|(a+x)/(a-x)| + C",
+      "condition": "|x| < a",
+      "notes": "Parciální zlomky"
+    },
+    {
+      "category": "Racionální",
+      "function": "1/√(x²+a²)",
+      "integral": "ln|x + √(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Hyperbolická substituce"
+    },
+    {
+      "category": "Racionální",
+      "function": "1/√(x²-a²)",
+      "integral": "ln|x + √(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Hyperbolická substituce"
+    },
+    {
+      "category": "Racionální",
+      "function": "1/√(a²-x²)",
+      "integral": "arcsin(x/a) + C",
+      "condition": "|x| < a",
+      "notes": "Trigonometrická substituce"
+    },
+    {
+      "category": "Racionální",
+      "function": "√(a²-x²)",
+      "integral": "(x/2)√(a²-x²) + (a²/2)arcsin(x/a) + C",
+      "condition": "|x| ≤ a",
+      "notes": "Trigonometrická substituce"
+    },
+    {
+      "category": "Racionální",
+      "function": "√(x²+a²)",
+      "integral": "(x/2)√(x²+a²) + (a²/2)ln|x+√(x²+a²)| + C",
+      "condition": "-",
+      "notes": "Hyperbolická substituce"
+    },
+    {
+      "category": "Racionální",
+      "function": "√(x²-a²)",
+      "integral": "(x/2)√(x²-a²) - (a²/2)ln|x+√(x²-a²)| + C",
+      "condition": "|x| > a",
+      "notes": "Hyperbolická substituce"
+    },
+    {
+      "category": "Speciální",
+      "function": "e^(ax)sin(bx)",
+      "integral": "e^(ax)(a·sin(bx)-b·cos(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Dvojnásobná integrace per partes"
+    },
+    {
+      "category": "Speciální",
+      "function": "e^(ax)cos(bx)",
+      "integral": "e^(ax)(a·cos(bx)+b·sin(bx))/(a²+b²) + C",
+      "condition": "-",
+      "notes": "Dvojnásobná integrace per partes"
+    },
+    {
+      "category": "Speciální",
+      "function": "x·e^x",
+      "integral": "e^x(x-1) + C",
+      "condition": "-",
+      "notes": "Integrace per partes"
+    },
+    {
+      "category": "Speciální",
+      "function": "x·sin(x)",
+      "integral": "sin(x) - x·cos(x) + C",
+      "condition": "-",
+      "notes": "Integrace per partes"
+    },
+    {
+      "category": "Speciální",
+      "function": "x·cos(x)",
+      "integral": "cos(x) + x·sin(x) + C",
+      "condition": "-",
+      "notes": "Integrace per partes"
+    },
+    {
+      "category": "Speciální",
+      "function": "x²·e^x",
+      "integral": "e^x(x²-2x+2) + C",
+      "condition": "-",
+      "notes": "Dvojnásobná integrace per partes"
+    },
+    {
+      "category": "Speciální",
+      "function": "x·ln(x)",
+      "integral": "(x²/2)ln(x) - x²/4 + C",
+      "condition": "x > 0",
+      "notes": "Integrace per partes"
+    },
+    {
+      "category": "Určitý",
+      "function": "∫₀^∞ e^(-x²) dx",
+      "integral": "√π/2",
+      "condition": "-",
+      "notes": "Gaussova integrace"
+    },
+    {
+      "category": "Určitý",
+      "function": "∫₀^∞ x^n·e^(-x) dx",
+      "integral": "n! (Gamma function)",
+      "condition": "n ≥ 0 integer",
+      "notes": "Vztah gama funkce"
+    },
+    {
+      "category": "Určitý",
+      "function": "∫₀^π sin^n(x) dx",
+      "integral": "Wallis formula",
+      "condition": "n ≥ 0 integer",
+      "notes": "Rekurentní vzorec"
+    },
+    {
+      "category": "Určitý",
+      "function": "∫₀^(π/2) sin^n(x)cos^m(x) dx",
+      "integral": "Beta function",
+      "condition": "n,m > -1",
+      "notes": "Vztah beta funkce"
+    }
+  ],
+  "meta": {
+    "seo_title": "Běžné Integrační Vzorce - Stáhnout zdarma (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si 56 běžných integračních vzorců pokrývajících základní, trigonometrické a exponenciální funkce. Zdarma ve formátech Excel, CSV a PDF pro studenty a matematické profesionály.",
+    "title": "Sada dat Běžné Integrační Vzorce",
+    "description": "Tato sada dat poskytuje komplexní seznam 56 běžných integračních vzorců, podrobně popisujících funkce, jejich integrály, podmínky a poznámky. Ideální pro studenty, pedagogy a profesionály v matematice.",
+    "key_takeaways": [
+      "Získejte přístup k 56 základním integračním vzorcům pro kalkulus.",
+      "Prozkoumejte kategorie jako základní, trigonometrické a exponenciální funkce.",
+      "Stáhněte si připravené k použití vzorce s podmínkami a poznámkami.",
+      "Využijte přesné definice integrálů pro vzdělávací nebo profesionální použití."
+    ],
+    "keywords": [
+      "integrační vzorce excel",
+      "integrály kalkulus csv",
+      "matematický vzorec pdf",
+      "běžná pravidla integrace",
+      "tabulka neurčitých integrálů",
+      "stáhnout data kalkulus"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do svého skriptu Python nebo SQL databáze pro vytvoření vlastních řešičů kalkulu nebo vzdělávacích nástrojů.",
+      "Použijte soubor **Excel** k filtrování vzorců podle kategorií, vytváření studijních průvodců nebo ověřování výpočtů pro složité problémy.",
+      "Vytiskněte **PDF** verzi pro rychlý referenční průvodce ve třídách, během zkoušek nebo pro offline studium.",
+      "Integrujte tuto sadu dat do e-learningových platforem, abyste poskytli strukturovaný zdroj pro studenty učící se integrální kalkulus."
+    ]
+  },
+  "record_count": 56,
+  "title": "Sada dat Běžné Integrační Vzorce"
+}

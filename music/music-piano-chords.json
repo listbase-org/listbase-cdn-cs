@@ -1,0 +1,919 @@
+{
+  "id": "music-piano-chords",
+  "name": "Sada Dat Referenční Tabulky Akordů Klavíru",
+  "category": "music",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "chord",
+      "label": "Chord Symbol",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Chord Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Chord Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "keys",
+      "label": "Keys/Notes",
+      "type": "string"
+    },
+    {
+      "key": "left_hand",
+      "label": "Left Hand",
+      "type": "string"
+    },
+    {
+      "key": "right_hand",
+      "label": "Right Hand",
+      "type": "string"
+    },
+    {
+      "key": "intervals",
+      "label": "Intervals",
+      "type": "string"
+    },
+    {
+      "key": "semitones",
+      "label": "Semitones",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "chord": "C",
+      "name": "C dur",
+      "type": "Dur",
+      "keys": "C-E-G",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Cm",
+      "name": "C moll",
+      "type": "Moll",
+      "keys": "C-Eb-G",
+      "left_hand": "C-G",
+      "right_hand": "C-Eb-G",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "C7",
+      "name": "C dominantní septakord",
+      "type": "Dominantní septakord",
+      "keys": "C-E-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-E-G-Bb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj7",
+      "name": "C velký septakord",
+      "type": "Velký septakord",
+      "keys": "C-E-G-B",
+      "left_hand": "C-B",
+      "right_hand": "C-E-G-B",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Cm7",
+      "name": "C malý septakord",
+      "type": "Malý septakord",
+      "keys": "C-Eb-G-Bb",
+      "left_hand": "C-Bb",
+      "right_hand": "C-Eb-G-Bb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Cdim",
+      "name": "C zmenšený",
+      "type": "Zmenšený",
+      "keys": "C-Eb-Gb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Cdim7",
+      "name": "C zmenšený septakord",
+      "type": "Zmenšený septakord",
+      "keys": "C-Eb-Gb-Bbb",
+      "left_hand": "C-Gb",
+      "right_hand": "C-Eb-Gb-A",
+      "intervals": "1-b3-b5-bb7",
+      "semitones": "0-3-6-9"
+    },
+    {
+      "chord": "Caug",
+      "name": "C zvětšený",
+      "type": "Zvětšený",
+      "keys": "C-E-G#",
+      "left_hand": "C-G#",
+      "right_hand": "C-E-G#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Csus2",
+      "name": "C sus2",
+      "type": "Suspendovaný",
+      "keys": "C-D-G",
+      "left_hand": "C-G",
+      "right_hand": "C-D-G",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Csus4",
+      "name": "C sus4",
+      "type": "Suspendovaný",
+      "keys": "C-F-G",
+      "left_hand": "C-G",
+      "right_hand": "C-F-G",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "C6",
+      "name": "C velký sexakord",
+      "type": "Velký sexakord",
+      "keys": "C-E-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-E-G-A",
+      "intervals": "1-3-5-6",
+      "semitones": "0-4-7-9"
+    },
+    {
+      "chord": "Cm6",
+      "name": "C malý sexakord",
+      "type": "Malý sexakord",
+      "keys": "C-Eb-G-A",
+      "left_hand": "C-A",
+      "right_hand": "C-Eb-G-A",
+      "intervals": "1-b3-5-6",
+      "semitones": "0-3-7-9"
+    },
+    {
+      "chord": "C9",
+      "name": "C dominantní nonakord",
+      "type": "Dominantní nonakord",
+      "keys": "C-E-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-Bb-D",
+      "intervals": "1-3-5-b7-9",
+      "semitones": "0-4-7-10-14"
+    },
+    {
+      "chord": "Cadd9",
+      "name": "C add9",
+      "type": "Add9",
+      "keys": "C-E-G-D",
+      "left_hand": "C-G",
+      "right_hand": "C-E-G-D",
+      "intervals": "1-3-5-9",
+      "semitones": "0-4-7-14"
+    },
+    {
+      "chord": "D",
+      "name": "D dur",
+      "type": "Dur",
+      "keys": "D-F#-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F#-A",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Dm",
+      "name": "D moll",
+      "type": "Moll",
+      "keys": "D-F-A",
+      "left_hand": "D-A",
+      "right_hand": "D-F-A",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "D7",
+      "name": "D dominantní septakord",
+      "type": "Dominantní septakord",
+      "keys": "D-F#-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F#-A-C",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Dmaj7",
+      "name": "D velký septakord",
+      "type": "Velký septakord",
+      "keys": "D-F#-A-C#",
+      "left_hand": "D-C#",
+      "right_hand": "D-F#-A-C#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Dm7",
+      "name": "D malý septakord",
+      "type": "Malý septakord",
+      "keys": "D-F-A-C",
+      "left_hand": "D-C",
+      "right_hand": "D-F-A-C",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Ddim",
+      "name": "D zmenšený",
+      "type": "Zmenšený",
+      "keys": "D-F-Ab",
+      "left_hand": "D-Ab",
+      "right_hand": "D-F-Ab",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Daug",
+      "name": "D Zvětšený",
+      "type": "Zvětšený",
+      "keys": "D-F#-A#",
+      "left_hand": "D-A#",
+      "right_hand": "D-F#-A#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Dsus2",
+      "name": "D Zadržovaný 2",
+      "type": "Zadržovaný",
+      "keys": "D-E-A",
+      "left_hand": "D-A",
+      "right_hand": "D-E-A",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Dsus4",
+      "name": "D Zadržovaný 4",
+      "type": "Zadržovaný",
+      "keys": "D-G-A",
+      "left_hand": "D-A",
+      "right_hand": "D-G-A",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "E",
+      "name": "E Durowý",
+      "type": "Durový",
+      "keys": "E-G#-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G#-B",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Em",
+      "name": "E Mollový",
+      "type": "Mollový",
+      "keys": "E-G-B",
+      "left_hand": "E-B",
+      "right_hand": "E-G-B",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "E7",
+      "name": "E Dominantní septima",
+      "type": "Dominantní septima",
+      "keys": "E-G#-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G#-B-D",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Emaj7",
+      "name": "E Velká septima",
+      "type": "Velká septima",
+      "keys": "E-G#-B-D#",
+      "left_hand": "E-D#",
+      "right_hand": "E-G#-B-D#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Em7",
+      "name": "E Malá septima",
+      "type": "Malá septima",
+      "keys": "E-G-B-D",
+      "left_hand": "E-D",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Edim",
+      "name": "E Zmenšený",
+      "type": "Zmenšený",
+      "keys": "E-G-Bb",
+      "left_hand": "E-Bb",
+      "right_hand": "E-G-Bb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Eaug",
+      "name": "E Zvětšený",
+      "type": "Zvětšený",
+      "keys": "E-G#-B#",
+      "left_hand": "E-C",
+      "right_hand": "E-G#-C",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Esus4",
+      "name": "E Zadržovaný 4",
+      "type": "Zadržovaný",
+      "keys": "E-A-B",
+      "left_hand": "E-B",
+      "right_hand": "E-A-B",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "F",
+      "name": "F Durowý",
+      "type": "Durový",
+      "keys": "F-A-C",
+      "left_hand": "F-C",
+      "right_hand": "F-A-C",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Fm",
+      "name": "F Mollový",
+      "type": "Mollový",
+      "keys": "F-Ab-C",
+      "left_hand": "F-C",
+      "right_hand": "F-Ab-C",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F7",
+      "name": "F Dominantní septima",
+      "type": "Dominantní septima",
+      "keys": "F-A-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-A-C-Eb",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Fmaj7",
+      "name": "F Velká septima",
+      "type": "Velká septima",
+      "keys": "F-A-C-E",
+      "left_hand": "F-E",
+      "right_hand": "F-A-C-E",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Fm7",
+      "name": "F Malá septima",
+      "type": "Malá septima",
+      "keys": "F-Ab-C-Eb",
+      "left_hand": "F-Eb",
+      "right_hand": "F-Ab-C-Eb",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Fdim",
+      "name": "F Zmenšený",
+      "type": "Zmenšený",
+      "keys": "F-Ab-Cb",
+      "left_hand": "F-B",
+      "right_hand": "F-Ab-B",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Faug",
+      "name": "F Zvětšený",
+      "type": "Zvětšený",
+      "keys": "F-A-C#",
+      "left_hand": "F-C#",
+      "right_hand": "F-A-C#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "G",
+      "name": "G Durowý",
+      "type": "Durový",
+      "keys": "G-B-D",
+      "left_hand": "G-D",
+      "right_hand": "G-B-D",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Gm",
+      "name": "G Mollový",
+      "type": "Mollový",
+      "keys": "G-Bb-D",
+      "left_hand": "G-D",
+      "right_hand": "G-Bb-D",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "G7",
+      "name": "G Dominantní 7",
+      "type": "Dominantní 7",
+      "keys": "G-B-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-B-D-F",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Gmaj7",
+      "name": "G Durový 7",
+      "type": "Durový 7",
+      "keys": "G-B-D-F#",
+      "left_hand": "G-F#",
+      "right_hand": "G-B-D-F#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Gm7",
+      "name": "G Mollový 7",
+      "type": "Mollový 7",
+      "keys": "G-Bb-D-F",
+      "left_hand": "G-F",
+      "right_hand": "G-Bb-D-F",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Gdim",
+      "name": "G Zmenšený",
+      "type": "Zmenšený",
+      "keys": "G-Bb-Db",
+      "left_hand": "G-Db",
+      "right_hand": "G-Bb-Db",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Gaug",
+      "name": "G Zvětšený",
+      "type": "Zvětšený",
+      "keys": "G-B-D#",
+      "left_hand": "G-D#",
+      "right_hand": "G-B-D#",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Gsus4",
+      "name": "G Suspendovaný 4",
+      "type": "Suspendovaný",
+      "keys": "G-C-D",
+      "left_hand": "G-D",
+      "right_hand": "G-C-D",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "A",
+      "name": "A Durový",
+      "type": "Durový",
+      "keys": "A-C#-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C#-E",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Am",
+      "name": "A Mollový",
+      "type": "Mollový",
+      "keys": "A-C-E",
+      "left_hand": "A-E",
+      "right_hand": "A-C-E",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "A7",
+      "name": "A Dominantní 7",
+      "type": "Dominantní 7",
+      "keys": "A-C#-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C#-E-G",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Amaj7",
+      "name": "A Durový 7",
+      "type": "Durový 7",
+      "keys": "A-C#-E-G#",
+      "left_hand": "A-G#",
+      "right_hand": "A-C#-E-G#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Am7",
+      "name": "A Mollový 7",
+      "type": "Mollový 7",
+      "keys": "A-C-E-G",
+      "left_hand": "A-G",
+      "right_hand": "A-C-E-G",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Adim",
+      "name": "A Zmenšený",
+      "type": "Zmenšený",
+      "keys": "A-C-Eb",
+      "left_hand": "A-Eb",
+      "right_hand": "A-C-Eb",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Aaug",
+      "name": "A Zvětšený",
+      "type": "Zvětšený",
+      "keys": "A-C#-E#",
+      "left_hand": "A-F",
+      "right_hand": "A-C#-F",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "Asus2",
+      "name": "A Suspendovaný 2",
+      "type": "Suspendovaný",
+      "keys": "A-B-E",
+      "left_hand": "A-E",
+      "right_hand": "A-B-E",
+      "intervals": "1-2-5",
+      "semitones": "0-2-7"
+    },
+    {
+      "chord": "Asus4",
+      "name": "A Suspendovaný 4",
+      "type": "Suspendovaný",
+      "keys": "A-D-E",
+      "left_hand": "A-E",
+      "right_hand": "A-D-E",
+      "intervals": "1-4-5",
+      "semitones": "0-5-7"
+    },
+    {
+      "chord": "B",
+      "name": "B Durový",
+      "type": "Durový",
+      "keys": "B-D#-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D#-F#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bm",
+      "name": "B Mollový",
+      "type": "Mollový",
+      "keys": "B-D-F#",
+      "left_hand": "B-F#",
+      "right_hand": "B-D-F#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "B7",
+      "name": "B Dominantní 7",
+      "type": "Dominantní 7",
+      "keys": "B-D#-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D#-F#-A",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Bmaj7",
+      "name": "B Durový 7",
+      "type": "Durový 7",
+      "keys": "B-D#-F#-A#",
+      "left_hand": "B-A#",
+      "right_hand": "B-D#-F#-A#",
+      "intervals": "1-3-5-7",
+      "semitones": "0-4-7-11"
+    },
+    {
+      "chord": "Bm7",
+      "name": "B Mollový 7",
+      "type": "Mollový 7",
+      "keys": "B-D-F#-A",
+      "left_hand": "B-A",
+      "right_hand": "B-D-F#-A",
+      "intervals": "1-b3-5-b7",
+      "semitones": "0-3-7-10"
+    },
+    {
+      "chord": "Bdim",
+      "name": "H zmenšený",
+      "type": "Zmenšený",
+      "keys": "B-D-F",
+      "left_hand": "B-F",
+      "right_hand": "B-D-F",
+      "intervals": "1-b3-b5",
+      "semitones": "0-3-6"
+    },
+    {
+      "chord": "Baug",
+      "name": "H zvětšený",
+      "type": "Zvětšený",
+      "keys": "B-D#-Fx",
+      "left_hand": "B-G",
+      "right_hand": "B-D#-G",
+      "intervals": "1-3-#5",
+      "semitones": "0-4-8"
+    },
+    {
+      "chord": "C#",
+      "name": "Cis dur",
+      "type": "Dur",
+      "keys": "C#-E#-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-F-G#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "C#m",
+      "name": "Cis moll",
+      "type": "Moll",
+      "keys": "C#-E-G#",
+      "left_hand": "C#-G#",
+      "right_hand": "C#-E-G#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Db",
+      "name": "Des dur",
+      "type": "Dur",
+      "keys": "Db-F-Ab",
+      "left_hand": "Db-Ab",
+      "right_hand": "Db-F-Ab",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Eb",
+      "name": "Es dur",
+      "type": "Dur",
+      "keys": "Eb-G-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-G-Bb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Ebm",
+      "name": "Es moll",
+      "type": "Moll",
+      "keys": "Eb-Gb-Bb",
+      "left_hand": "Eb-Bb",
+      "right_hand": "Eb-Gb-Bb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "F#",
+      "name": "Fis dur",
+      "type": "Dur",
+      "keys": "F#-A#-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A#-C#",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "F#m",
+      "name": "Fis moll",
+      "type": "Moll",
+      "keys": "F#-A-C#",
+      "left_hand": "F#-C#",
+      "right_hand": "F#-A-C#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Gb",
+      "name": "Ges dur",
+      "type": "Dur",
+      "keys": "Gb-Bb-Db",
+      "left_hand": "Gb-Db",
+      "right_hand": "Gb-Bb-Db",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "G#m",
+      "name": "Gis moll",
+      "type": "Moll",
+      "keys": "G#-B-D#",
+      "left_hand": "G#-D#",
+      "right_hand": "G#-B-D#",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Ab",
+      "name": "As dur",
+      "type": "Dur",
+      "keys": "Ab-C-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-C-Eb",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Abm",
+      "name": "As moll",
+      "type": "Moll",
+      "keys": "Ab-Cb-Eb",
+      "left_hand": "Ab-Eb",
+      "right_hand": "Ab-B-Eb",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb",
+      "name": "B dur",
+      "type": "Dur",
+      "keys": "Bb-D-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-D-F",
+      "intervals": "1-3-5",
+      "semitones": "0-4-7"
+    },
+    {
+      "chord": "Bbm",
+      "name": "B moll",
+      "type": "Moll",
+      "keys": "Bb-Db-F",
+      "left_hand": "Bb-F",
+      "right_hand": "Bb-Db-F",
+      "intervals": "1-b3-5",
+      "semitones": "0-3-7"
+    },
+    {
+      "chord": "Bb7",
+      "name": "B dominantní septakord",
+      "type": "Dominantní septakord",
+      "keys": "Bb-D-F-Ab",
+      "left_hand": "Bb-Ab",
+      "right_hand": "Bb-D-F-Ab",
+      "intervals": "1-3-5-b7",
+      "semitones": "0-4-7-10"
+    },
+    {
+      "chord": "Cmaj9",
+      "name": "C velký nonový akord",
+      "type": "Velký nonový akord",
+      "keys": "C-E-G-B-D",
+      "left_hand": "C-B",
+      "right_hand": "E-G-B-D",
+      "intervals": "1-3-5-7-9",
+      "semitones": "0-4-7-11-14"
+    },
+    {
+      "chord": "Cm9",
+      "name": "C malý nonový akord",
+      "type": "Malý nonový akord",
+      "keys": "C-Eb-G-Bb-D",
+      "left_hand": "C-Bb",
+      "right_hand": "Eb-G-Bb-D",
+      "intervals": "1-b3-5-b7-9",
+      "semitones": "0-3-7-10-14"
+    },
+    {
+      "chord": "C11",
+      "name": "C dominantní undecimový akord",
+      "type": "Dominantní undecimový akord",
+      "keys": "C-E-G-Bb-D-F",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-F",
+      "intervals": "1-3-5-b7-9-11",
+      "semitones": "0-4-7-10-14-17"
+    },
+    {
+      "chord": "C13",
+      "name": "C dominantní tercdecimový akord",
+      "type": "Dominantní tercdecimový akord",
+      "keys": "C-E-G-Bb-D-A",
+      "left_hand": "C-Bb",
+      "right_hand": "E-G-D-A",
+      "intervals": "1-3-5-b7-9-13",
+      "semitones": "0-4-7-10-14-21"
+    },
+    {
+      "chord": "Am/E",
+      "name": "A moll přes E",
+      "type": "Lomený akord",
+      "keys": "E-A-C-E",
+      "left_hand": "E",
+      "right_hand": "A-C-E",
+      "intervals": "5-1-b3-5",
+      "semitones": "7-0-3-7"
+    },
+    {
+      "chord": "C/G",
+      "name": "C dur přes G",
+      "type": "Lomený akord",
+      "keys": "G-C-E-G",
+      "left_hand": "G",
+      "right_hand": "C-E-G",
+      "intervals": "5-1-3-5",
+      "semitones": "7-0-4-7"
+    },
+    {
+      "chord": "D/F#",
+      "name": "D dur přes F#",
+      "type": "Lomený akord",
+      "keys": "F#-D-F#-A",
+      "left_hand": "F#",
+      "right_hand": "D-F#-A",
+      "intervals": "3-1-3-5",
+      "semitones": "4-0-4-7"
+    },
+    {
+      "chord": "G/B",
+      "name": "G dur přes B",
+      "type": "Lomený akord",
+      "keys": "B-D-G-B",
+      "left_hand": "B",
+      "right_hand": "D-G-B",
+      "intervals": "3-5-1-3",
+      "semitones": "4-7-0-4"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabulka Akordů Klavíru - Stáhnout Zdarma (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma Tabulku akordů klavíru s 84 základními akordy pro všechny úrovně. K dispozici ve formátech Excel, CSV a PDF pro hudebníky a studenty.",
+    "title": "Sada Dat Referenční Tabulky Akordů Klavíru",
+    "description": "Tato datová sada poskytuje komplexní seznam 84 klavírních akordů, podrobně popisujících jejich symboly, názvy, tóny, rozložení rukou, intervaly a struktury půltónů. Ideální pro hudebníky, studenty a pedagogy.",
+    "key_takeaways": [
+      "Získejte přístup k 84 základním klavírním akordům s podrobnými hudebními informacemi.",
+      "Prozkoumejte struktury akordů, tóny, intervaly a půltónové vztahy pro různé typy akordů.",
+      "Stáhněte si hotová data akordů pro studium hudební teorie nebo vývoj aplikací.",
+      "Použijte přesné rozložení rukou (levá a pravá) pro přesnou hru na klavír."
+    ],
+    "keywords": [
+      "tabulka akordů klavíru",
+      "zdarma akordy klavíru excel",
+      "datová sada hudební teorie",
+      "rozložení rukou akordy csv",
+      "tóny klavíru intervaly pdf",
+      "stáhnout 84 akordů klavíru"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do své aplikace pro výuku hudby nebo databáze, abyste podpořili dynamické vyhledávání akordů a cvičení.",
+      "Použijte soubor **Excel** k filtrování akordů podle typu, analýze intervalových vzorů nebo vytváření personalizovaných cvičných listů.",
+      "Vytiskněte verzi **PDF** pro rychlou, offline referenci během lekcí klavíru nebo cvičných sezení.",
+      "Využijte tuto datovou sadu k vývoji vzdělávacích nástrojů pro studenty klavíru, vizuálně ilustrující konstrukci akordů a teorii."
+    ]
+  },
+  "record_count": 84,
+  "title": "Sada Dat Referenční Tabulky Akordů Klavíru"
+}

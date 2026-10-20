@@ -1,0 +1,497 @@
+{
+  "id": "geo-china-provinces",
+  "name": "Datová Sada Čínských Provincií a Správních Jednotek",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_cn",
+      "label": "Name (Chinese)",
+      "type": "string"
+    },
+    {
+      "key": "name_pinyin",
+      "label": "Pinyin",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "capital_cn",
+      "label": "Capital (Chinese)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "An-chuej",
+      "name_cn": "安徽",
+      "name_pinyin": "Ānhuī",
+      "capital": "Che-fej",
+      "capital_cn": "合肥",
+      "type": "Provincie",
+      "region": "Východní Čína",
+      "iso_code": "CN-AH",
+      "population": 61027171,
+      "area_km2": 140100
+    },
+    {
+      "name_en": "Fu-ťien",
+      "name_cn": "福建",
+      "name_pinyin": "Fújiàn",
+      "capital": "Fu-čou",
+      "capital_cn": "福州",
+      "type": "Provincie",
+      "region": "Východní Čína",
+      "iso_code": "CN-FJ",
+      "population": 41540086,
+      "area_km2": 124000
+    },
+    {
+      "name_en": "Kan-su",
+      "name_cn": "甘肃",
+      "name_pinyin": "Gānsù",
+      "capital": "Lan-čou",
+      "capital_cn": "兰州",
+      "type": "Provincie",
+      "region": "Severozápadní Čína",
+      "iso_code": "CN-GS",
+      "population": 25019831,
+      "area_km2": 425800
+    },
+    {
+      "name_en": "Kuang-tung",
+      "name_cn": "广东",
+      "name_pinyin": "Guǎngdōng",
+      "capital": "Kuang-čou",
+      "capital_cn": "广州",
+      "type": "Provincie",
+      "region": "Jižní Čína",
+      "iso_code": "CN-GD",
+      "population": 126012510,
+      "area_km2": 179800
+    },
+    {
+      "name_en": "Kuej-čou",
+      "name_cn": "贵州",
+      "name_pinyin": "Guìzhōu",
+      "capital": "Kuej-jang",
+      "capital_cn": "贵阳",
+      "type": "Provincie",
+      "region": "Jihozápadní Čína",
+      "iso_code": "CN-GZ",
+      "population": 38562148,
+      "area_km2": 176100
+    },
+    {
+      "name_en": "Chaj-nan",
+      "name_cn": "海南",
+      "name_pinyin": "Hǎinán",
+      "capital": "Chaj-kchou",
+      "capital_cn": "海口",
+      "type": "Provincie",
+      "region": "Jižní Čína",
+      "iso_code": "CN-HI",
+      "population": 10081232,
+      "area_km2": 35400
+    },
+    {
+      "name_en": "Che-pej",
+      "name_cn": "河北",
+      "name_pinyin": "Héběi",
+      "capital": "Š'-ťia-čuang",
+      "capital_cn": "石家庄",
+      "type": "Provincie",
+      "region": "Severní Čína",
+      "iso_code": "CN-HE",
+      "population": 74610235,
+      "area_km2": 187700
+    },
+    {
+      "name_en": "Chej-lung-ťiang",
+      "name_cn": "黑龙江",
+      "name_pinyin": "Hēilóngjiāng",
+      "capital": "Charbin",
+      "capital_cn": "哈尔滨",
+      "type": "Provincie",
+      "region": "Severovýchodní Čína",
+      "iso_code": "CN-HL",
+      "population": 31850088,
+      "area_km2": 454800
+    },
+    {
+      "name_en": "Che-nan",
+      "name_cn": "河南",
+      "name_pinyin": "Hénán",
+      "capital": "Čeng-čou",
+      "capital_cn": "郑州",
+      "type": "Provincie",
+      "region": "Střední Čína",
+      "iso_code": "CN-HA",
+      "population": 99365519,
+      "area_km2": 167000
+    },
+    {
+      "name_en": "Chu-pej",
+      "name_cn": "湖北",
+      "name_pinyin": "Húběi",
+      "capital": "Wu-chan",
+      "capital_cn": "武汉",
+      "type": "Provincie",
+      "region": "Střední Čína",
+      "iso_code": "CN-HB",
+      "population": 57752557,
+      "area_km2": 185900
+    },
+    {
+      "name_en": "Chu-nan",
+      "name_cn": "湖南",
+      "name_pinyin": "Húnán",
+      "capital": "Čchang-ša",
+      "capital_cn": "长沙",
+      "type": "Provincie",
+      "region": "Střední Čína",
+      "iso_code": "CN-HN",
+      "population": 66444864,
+      "area_km2": 211800
+    },
+    {
+      "name_en": "Ťiang-su",
+      "name_cn": "江苏",
+      "name_pinyin": "Jiāngsū",
+      "capital": "Nanking",
+      "capital_cn": "南京",
+      "type": "Provincie",
+      "region": "Východní Čína",
+      "iso_code": "CN-JS",
+      "population": 84748016,
+      "area_km2": 102600
+    },
+    {
+      "name_en": "Ťiang-si",
+      "name_cn": "江西",
+      "name_pinyin": "Jiāngxī",
+      "capital": "Nan-čchang",
+      "capital_cn": "南昌",
+      "type": "Provincie",
+      "region": "Východní Čína",
+      "iso_code": "CN-JX",
+      "population": 45188635,
+      "area_km2": 166900
+    },
+    {
+      "name_en": "Ťi-lin",
+      "name_cn": "吉林",
+      "name_pinyin": "Jílín",
+      "capital": "Čchang-čchun",
+      "capital_cn": "长春",
+      "type": "Provincie",
+      "region": "Severovýchodní Čína",
+      "iso_code": "CN-JL",
+      "population": 24073453,
+      "area_km2": 187400
+    },
+    {
+      "name_en": "Liao-ning",
+      "name_cn": "辽宁",
+      "name_pinyin": "Liáoníng",
+      "capital": "Šen-jang",
+      "capital_cn": "沈阳",
+      "type": "Provincie",
+      "region": "Severovýchodní Čína",
+      "iso_code": "CN-LN",
+      "population": 42591407,
+      "area_km2": 148000
+    },
+    {
+      "name_en": "Čching-chaj",
+      "name_cn": "青海",
+      "name_pinyin": "Qīnghǎi",
+      "capital": "Si-ning",
+      "capital_cn": "西宁",
+      "type": "Provincie",
+      "region": "Severozápadní Čína",
+      "iso_code": "CN-QH",
+      "population": 5923957,
+      "area_km2": 721200
+    },
+    {
+      "name_en": "Šen-si",
+      "name_cn": "陕西",
+      "name_pinyin": "Shǎnxī",
+      "capital": "Si-an",
+      "capital_cn": "西安",
+      "type": "Provincie",
+      "region": "Severozápadní Čína",
+      "iso_code": "CN-SN",
+      "population": 39528999,
+      "area_km2": 205600
+    },
+    {
+      "name_en": "Šan-tung",
+      "name_cn": "山东",
+      "name_pinyin": "Shāndōng",
+      "capital": "Ťi-nan",
+      "capital_cn": "济南",
+      "type": "Provincie",
+      "region": "Východní Čína",
+      "iso_code": "CN-SD",
+      "population": 101527453,
+      "area_km2": 157100
+    },
+    {
+      "name_en": "Šan-si",
+      "name_cn": "山西",
+      "name_pinyin": "Shānxī",
+      "capital": "Tchaj-jüan",
+      "capital_cn": "太原",
+      "type": "Provincie",
+      "region": "Severní Čína",
+      "iso_code": "CN-SX",
+      "population": 34915616,
+      "area_km2": 156300
+    },
+    {
+      "name_en": "S'-čchuan",
+      "name_cn": "四川",
+      "name_pinyin": "Sìchuān",
+      "capital": "Čcheng-tu",
+      "capital_cn": "成都",
+      "type": "Provincie",
+      "region": "Jihozápadní Čína",
+      "iso_code": "CN-SC",
+      "population": 83674866,
+      "area_km2": 485000
+    },
+    {
+      "name_en": "Jün-nan",
+      "name_cn": "云南",
+      "name_pinyin": "Yúnnán",
+      "capital": "Kchun-ming",
+      "capital_cn": "昆明",
+      "type": "Provincie",
+      "region": "Jihozápadní Čína",
+      "iso_code": "CN-YN",
+      "population": 47209277,
+      "area_km2": 394100
+    },
+    {
+      "name_en": "Če-ťiang",
+      "name_cn": "浙江",
+      "name_pinyin": "Zhèjiāng",
+      "capital": "Chang-čou",
+      "capital_cn": "杭州",
+      "type": "Provincie",
+      "region": "Východní Čína",
+      "iso_code": "CN-ZJ",
+      "population": 64567588,
+      "area_km2": 101800
+    },
+    {
+      "name_en": "Tchaj-wan",
+      "name_cn": "台湾",
+      "name_pinyin": "Táiwān",
+      "capital": "Tchaj-pej",
+      "capital_cn": "台北",
+      "type": "Provincie",
+      "region": "Východní Čína",
+      "iso_code": "CN-TW",
+      "population": 23570000,
+      "area_km2": 36197
+    },
+    {
+      "name_en": "Kuang-si",
+      "name_cn": "广西",
+      "name_pinyin": "Guǎngxī",
+      "capital": "Nan-ning",
+      "capital_cn": "南宁",
+      "type": "Autonomní oblast",
+      "region": "Jižní Čína",
+      "iso_code": "CN-GX",
+      "population": 50126804,
+      "area_km2": 237600
+    },
+    {
+      "name_en": "Vnitřní Mongolsko",
+      "name_cn": "内蒙古",
+      "name_pinyin": "Nèi Měnggǔ",
+      "capital": "Chöch Chot",
+      "capital_cn": "呼和浩特",
+      "type": "Autonomní oblast",
+      "region": "Severní Čína",
+      "iso_code": "CN-NM",
+      "population": 24049155,
+      "area_km2": 1183000
+    },
+    {
+      "name_en": "Ning-sia",
+      "name_cn": "宁夏",
+      "name_pinyin": "Níngxià",
+      "capital": "Jin-čchuan",
+      "capital_cn": "银川",
+      "type": "Autonomní oblast",
+      "region": "Severozápadní Čína",
+      "iso_code": "CN-NX",
+      "population": 7202654,
+      "area_km2": 66400
+    },
+    {
+      "name_en": "Tibet",
+      "name_cn": "西藏",
+      "name_pinyin": "Xīzàng",
+      "capital": "Lhasa",
+      "capital_cn": "拉萨",
+      "type": "Autonomní oblast",
+      "region": "Jihozápadní Čína",
+      "iso_code": "CN-XZ",
+      "population": 3648100,
+      "area_km2": 1228400
+    },
+    {
+      "name_en": "Sin-ťiang",
+      "name_cn": "新疆",
+      "name_pinyin": "Xīnjiāng",
+      "capital": "Urumči",
+      "capital_cn": "乌鲁木齐",
+      "type": "Autonomní oblast",
+      "region": "Severozápadní Čína",
+      "iso_code": "CN-XJ",
+      "population": 25852345,
+      "area_km2": 1664900
+    },
+    {
+      "name_en": "Peking",
+      "name_cn": "北京",
+      "name_pinyin": "Běijīng",
+      "capital": "Peking",
+      "capital_cn": "北京",
+      "type": "Město podřízené ústřední vládě",
+      "region": "Severní Čína",
+      "iso_code": "CN-BJ",
+      "population": 21893095,
+      "area_km2": 16410
+    },
+    {
+      "name_en": "Čchung-čching",
+      "name_cn": "重庆",
+      "name_pinyin": "Chóngqìng",
+      "capital": "Čchung-čching",
+      "capital_cn": "重庆",
+      "type": "Město podřízené ústřední vládě",
+      "region": "Jihozápadní Čína",
+      "iso_code": "CN-CQ",
+      "population": 32054159,
+      "area_km2": 82400
+    },
+    {
+      "name_en": "Šanghaj",
+      "name_cn": "上海",
+      "name_pinyin": "Shànghǎi",
+      "capital": "Šanghaj",
+      "capital_cn": "上海",
+      "type": "Město podřízené ústřední vládě",
+      "region": "Východní Čína",
+      "iso_code": "CN-SH",
+      "population": 24870895,
+      "area_km2": 6341
+    },
+    {
+      "name_en": "Tchien-ťin",
+      "name_cn": "天津",
+      "name_pinyin": "Tiānjīn",
+      "capital": "Tchien-ťin",
+      "capital_cn": "天津",
+      "type": "Město podřízené ústřední vládě",
+      "region": "Severní Čína",
+      "iso_code": "CN-TJ",
+      "population": 13866009,
+      "area_km2": 11760
+    },
+    {
+      "name_en": "Hongkong",
+      "name_cn": "香港",
+      "name_pinyin": "Xiānggǎng",
+      "capital": "Hongkong",
+      "capital_cn": "香港",
+      "type": "Zvláštní administrativní oblast",
+      "region": "Jižní Čína",
+      "iso_code": "CN-HK",
+      "population": 7474200,
+      "area_km2": 1106
+    },
+    {
+      "name_en": "Macao",
+      "name_cn": "澳门",
+      "name_pinyin": "Àomén",
+      "capital": "Macao",
+      "capital_cn": "澳门",
+      "type": "Zvláštní administrativní oblast",
+      "region": "Jižní Čína",
+      "iso_code": "CN-MO",
+      "population": 683100,
+      "area_km2": 33
+    }
+  ],
+  "meta": {
+    "seo_title": "Čínské Provincie a ADM Jednotky - Stáhnout Zdarma (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma data 34 čínských provincií, obcí a správních jednotek. Zahrnuje hlavní města, populaci, rozlohu, ISO kódy. Dostupné v Excel, CSV, PDF.",
+    "title": "Datová Sada Čínských Provincií a Správních Jednotek",
+    "description": "Tato datová sada poskytuje komplexní informace o 34 čínských provinciích, autonomních oblastech, obcích a zvláštních administrativních oblastech. Zahrnuje anglické a čínské názvy, pinyin, hlavní města, typy, regiony, ISO kódy, populaci a rozlohu.",
+    "key_takeaways": [
+      "Získejte přístup k podrobným demografickým a geografickým datům pro všech 34 čínských správních jednotek.",
+      "Prozkoumejte oficiální anglické názvy, čínské znaky, pinyin a informace o hlavních městech.",
+      "Stáhněte si klíčové statistiky, jako je populace, rozloha a kódy ISO pro analytické projekty.",
+      "Porozumějte administrativní struktuře Číny, včetně provincií, obcí a SAR."
+    ],
+    "keywords": [
+      "čínské provincie data",
+      "čínské správní jednotky",
+      "hlavní města číny excel",
+      "iso kódy číny csv",
+      "data populace číny",
+      "mapa regionů číny"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo Python skriptů pro regionální analýzu dat a vývoj aplikací.",
+      "Použijte soubor **Excel** k vytváření kontingenčních tabulek, filtrování provincií podle regionu a provádění statistických srovnání populace a rozlohy.",
+      "Vytiskněte verzi **PDF** pro referenci ve třídě, prezentace nebo rychlý offline přístup k administrativní struktuře Číny.",
+      "Integrujte tato data do GIS aplikací pro vizualizaci geografického rozložení a demografie čínských provincií."
+    ]
+  },
+  "record_count": 34,
+  "title": "Datová Sada Čínských Provincií a Správních Jednotek"
+}

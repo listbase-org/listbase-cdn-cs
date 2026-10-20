@@ -1,0 +1,237 @@
+{
+  "id": "cs-olomoucky-letiste",
+  "name": "Letiště — Olomoucký kraj",
+  "title": "Letiště — Olomoucký kraj",
+  "description": "Seznam letišť v kraji „Olomoucký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Olomouc region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKBO",
+      "iata": "",
+      "name": "Bohunovice Airport",
+      "name_slug": "bohunovice-airport",
+      "city": "Bohunovice",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 771,
+      "lat": 49.6706008911,
+      "lon": 17.2950000763,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHN",
+      "iata": "",
+      "name": "Hranice Airport",
+      "name_slug": "hranice-airport",
+      "city": "Hranice",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 801,
+      "lat": 49.5461006165,
+      "lon": 17.7043991089,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKMI",
+      "iata": "",
+      "name": "Mikulovice Airport",
+      "name_slug": "mikulovice-airport",
+      "city": "Mikulovice",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 1381,
+      "lat": 50.301700592,
+      "lon": 17.2975006104,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKOL",
+      "iata": "OLO",
+      "name": "Olomouc Glider Airport",
+      "name_slug": "olomouc-glider-airport",
+      "city": "Olomouc",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 869,
+      "lat": 49.5877990723,
+      "lon": 17.2108001709,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKPJ",
+      "iata": "",
+      "name": "Prostejov Airport",
+      "name_slug": "prostejov-airport",
+      "city": "Prostejov",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 699,
+      "lat": 49.4477996826,
+      "lon": 17.1338996887,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPO",
+      "iata": "PRV",
+      "name": "Prerov Air Base",
+      "name_slug": "prerov-air-base",
+      "city": "Prerov",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 676,
+      "lat": 49.4258003235,
+      "lon": 17.4046993256,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKSB",
+      "iata": "",
+      "name": "Stichovice Pluml Airport",
+      "name_slug": "stichovice-pluml-airport",
+      "city": "Mostkovice",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 840,
+      "lat": 49.4860992432,
+      "lon": 17.0555992126,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKSU",
+      "iata": "",
+      "name": "Sumperk Airport",
+      "name_slug": "sumperk-airport",
+      "city": "Sumperk",
+      "kraj": "Olomoucký kraj",
+      "kraj_source": "Olomoucky",
+      "kraj_slug": "olomoucky",
+      "kraj_en": "Olomouc",
+      "country": "CZ",
+      "elevation_ft": 1099,
+      "lat": 49.9606018066,
+      "lon": 17.0177993774,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Olomoucký kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Olomoucký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Olomouc region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 8 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Olomoucký kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Olomoucký kraj — 8 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 8 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

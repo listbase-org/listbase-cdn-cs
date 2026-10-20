@@ -1,0 +1,480 @@
+{
+  "id": "geo-india-states",
+  "name": "Komplexní datová sada indických států a svazových teritorií",
+  "category": "geography",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "name_en",
+      "label": "Name (English) (EN)",
+      "type": "string"
+    },
+    {
+      "key": "name_hi",
+      "label": "Name (Hindi)",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region (EN)",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area (km²)",
+      "type": "number"
+    },
+    {
+      "key": "languages",
+      "label": "Official Languages (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_en": "Andhra Pradesh",
+      "name_hi": "आंध्र प्रदेश",
+      "capital": "Amaravati",
+      "type": "Stát",
+      "region": "Jižní Indie",
+      "iso_code": "IN-AP",
+      "population": 49577103,
+      "area_km2": 162975,
+      "languages": "telugština"
+    },
+    {
+      "name_en": "Arunachal Pradesh",
+      "name_hi": "अरुणाचल प्रदेश",
+      "capital": "Itanagar",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-AR",
+      "population": 1383727,
+      "area_km2": 83743,
+      "languages": "angličtina, hindština"
+    },
+    {
+      "name_en": "Assam",
+      "name_hi": "असम",
+      "capital": "Dispur",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-AS",
+      "population": 31205576,
+      "area_km2": 78438,
+      "languages": "ásámština"
+    },
+    {
+      "name_en": "Bihar",
+      "name_hi": "बिहार",
+      "capital": "Patna",
+      "type": "Stát",
+      "region": "Východní Indie",
+      "iso_code": "IN-BR",
+      "population": 104099452,
+      "area_km2": 94163,
+      "languages": "hindština"
+    },
+    {
+      "name_en": "Chhattisgarh",
+      "name_hi": "छत्तीसगढ़",
+      "capital": "Raipur",
+      "type": "Stát",
+      "region": "Střední Indie",
+      "iso_code": "IN-CT",
+      "population": 25545198,
+      "area_km2": 135192,
+      "languages": "hindština, čhattisgari"
+    },
+    {
+      "name_en": "Goa",
+      "name_hi": "गोवा",
+      "capital": "Panaji",
+      "type": "Stát",
+      "region": "Západní Indie",
+      "iso_code": "IN-GA",
+      "population": 1458545,
+      "area_km2": 3702,
+      "languages": "konkánština"
+    },
+    {
+      "name_en": "Gujarat",
+      "name_hi": "गुजरात",
+      "capital": "Gandhinagar",
+      "type": "Stát",
+      "region": "Západní Indie",
+      "iso_code": "IN-GJ",
+      "population": 60439692,
+      "area_km2": 196024,
+      "languages": "gudžarátština"
+    },
+    {
+      "name_en": "Haryana",
+      "name_hi": "हरियाणा",
+      "capital": "Chandigarh",
+      "type": "Stát",
+      "region": "Severní Indie",
+      "iso_code": "IN-HR",
+      "population": 25351462,
+      "area_km2": 44212,
+      "languages": "hindština"
+    },
+    {
+      "name_en": "Himachal Pradesh",
+      "name_hi": "हिमाचल प्रदेश",
+      "capital": "Shimla",
+      "type": "Stát",
+      "region": "Severní Indie",
+      "iso_code": "IN-HP",
+      "population": 6864602,
+      "area_km2": 55673,
+      "languages": "hindština"
+    },
+    {
+      "name_en": "Jharkhand",
+      "name_hi": "झारखंड",
+      "capital": "Ranchi",
+      "type": "Stát",
+      "region": "Východní Indie",
+      "iso_code": "IN-JH",
+      "population": 32988134,
+      "area_km2": 79716,
+      "languages": "hindština"
+    },
+    {
+      "name_en": "Karnataka",
+      "name_hi": "कर्नाटक",
+      "capital": "Bengaluru",
+      "type": "Stát",
+      "region": "Jižní Indie",
+      "iso_code": "IN-KA",
+      "population": 61095297,
+      "area_km2": 191791,
+      "languages": "kannadština"
+    },
+    {
+      "name_en": "Kerala",
+      "name_hi": "केरल",
+      "capital": "Thiruvananthapuram",
+      "type": "Stát",
+      "region": "Jižní Indie",
+      "iso_code": "IN-KL",
+      "population": 33406061,
+      "area_km2": 38852,
+      "languages": "malajálamština"
+    },
+    {
+      "name_en": "Madhya Pradesh",
+      "name_hi": "मध्य प्रदेश",
+      "capital": "Bhopal",
+      "type": "Stát",
+      "region": "Střední Indie",
+      "iso_code": "IN-MP",
+      "population": 72626809,
+      "area_km2": 308252,
+      "languages": "hindština"
+    },
+    {
+      "name_en": "Maharashtra",
+      "name_hi": "महाराष्ट्र",
+      "capital": "Mumbai",
+      "type": "Stát",
+      "region": "Západní Indie",
+      "iso_code": "IN-MH",
+      "population": 112374333,
+      "area_km2": 307713,
+      "languages": "maráthština"
+    },
+    {
+      "name_en": "Manipur",
+      "name_hi": "मणिपुर",
+      "capital": "Imphal",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-MN",
+      "population": 2855794,
+      "area_km2": 22327,
+      "languages": "meitéjština"
+    },
+    {
+      "name_en": "Meghalaya",
+      "name_hi": "मेघालय",
+      "capital": "Shillong",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-ML",
+      "population": 2966889,
+      "area_km2": 22429,
+      "languages": "angličtina, khásí"
+    },
+    {
+      "name_en": "Mizoram",
+      "name_hi": "मिज़ोरम",
+      "capital": "Aizawl",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-MZ",
+      "population": 1097206,
+      "area_km2": 21081,
+      "languages": "mizojština, angličtina"
+    },
+    {
+      "name_en": "Nagaland",
+      "name_hi": "नागालैंड",
+      "capital": "Kohima",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-NL",
+      "population": 1978502,
+      "area_km2": 16579,
+      "languages": "angličtina"
+    },
+    {
+      "name_en": "Odisha",
+      "name_hi": "ओडिशा",
+      "capital": "Bhubaneswar",
+      "type": "Stát",
+      "region": "Východní Indie",
+      "iso_code": "IN-OR",
+      "population": 41974218,
+      "area_km2": 155707,
+      "languages": "urijština"
+    },
+    {
+      "name_en": "Punjab",
+      "name_hi": "पंजाब",
+      "capital": "Chandigarh",
+      "type": "Stát",
+      "region": "Severní Indie",
+      "iso_code": "IN-PB",
+      "population": 27743338,
+      "area_km2": 50362,
+      "languages": "paňdžábština"
+    },
+    {
+      "name_en": "Rádžasthán",
+      "name_hi": "राजस्थान",
+      "capital": "Džajpur",
+      "type": "Stát",
+      "region": "Severní Indie",
+      "iso_code": "IN-RJ",
+      "population": 68548437,
+      "area_km2": 342239,
+      "languages": "Hindština"
+    },
+    {
+      "name_en": "Sikkim",
+      "name_hi": "सिक्किम",
+      "capital": "Gangtok",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-SK",
+      "population": 610577,
+      "area_km2": 7096,
+      "languages": "Angličtina, Nepálština"
+    },
+    {
+      "name_en": "Tamilnádu",
+      "name_hi": "तमिलनाडु",
+      "capital": "Čennaí",
+      "type": "Stát",
+      "region": "Jižní Indie",
+      "iso_code": "IN-TN",
+      "population": 72147030,
+      "area_km2": 130060,
+      "languages": "Tamilština"
+    },
+    {
+      "name_en": "Telangána",
+      "name_hi": "तेलंगाना",
+      "capital": "Hajdarábád",
+      "type": "Stát",
+      "region": "Jižní Indie",
+      "iso_code": "IN-TG",
+      "population": 35003674,
+      "area_km2": 112077,
+      "languages": "Telugština, Urdština"
+    },
+    {
+      "name_en": "Tripura",
+      "name_hi": "त्रिपुरा",
+      "capital": "Agartala",
+      "type": "Stát",
+      "region": "Severovýchodní Indie",
+      "iso_code": "IN-TR",
+      "population": 3673917,
+      "area_km2": 10486,
+      "languages": "Bengálština, Kokborokština"
+    },
+    {
+      "name_en": "Uttarpradéš",
+      "name_hi": "उत्तर प्रदेश",
+      "capital": "Lakhnaú",
+      "type": "Stát",
+      "region": "Severní Indie",
+      "iso_code": "IN-UP",
+      "population": 199812341,
+      "area_km2": 240928,
+      "languages": "Hindština"
+    },
+    {
+      "name_en": "Uttarákhand",
+      "name_hi": "उत्तराखंड",
+      "capital": "Déhrádún",
+      "type": "Stát",
+      "region": "Severní Indie",
+      "iso_code": "IN-UT",
+      "population": 10086292,
+      "area_km2": 53483,
+      "languages": "Hindština"
+    },
+    {
+      "name_en": "Západní Bengálsko",
+      "name_hi": "पश्चिम बंगाल",
+      "capital": "Kalkata",
+      "type": "Stát",
+      "region": "Východní Indie",
+      "iso_code": "IN-WB",
+      "population": 91276115,
+      "area_km2": 88752,
+      "languages": "Bengálština"
+    },
+    {
+      "name_en": "Andamany a Nikobary",
+      "name_hi": "अंडमान और निकोबार द्वीपसमूह",
+      "capital": "Port Blair",
+      "type": "Svazové teritorium",
+      "region": "Ostrovy",
+      "iso_code": "IN-AN",
+      "population": 380581,
+      "area_km2": 8249,
+      "languages": "Hindština, Angličtina"
+    },
+    {
+      "name_en": "Čandígarh",
+      "name_hi": "चंडीगढ़",
+      "capital": "Čandígarh",
+      "type": "Svazové teritorium",
+      "region": "Severní Indie",
+      "iso_code": "IN-CH",
+      "population": 1055450,
+      "area_km2": 114,
+      "languages": "Hindština, Paňdžábština"
+    },
+    {
+      "name_en": "Dádra a Nagar Havélí a Damán a Diú",
+      "name_hi": "दादरा और नगर हवेली और दमन और दीव",
+      "capital": "Damán",
+      "type": "Svazové teritorium",
+      "region": "Západní Indie",
+      "iso_code": "IN-DH",
+      "population": 585764,
+      "area_km2": 603,
+      "languages": "Gudžarátština, Hindština"
+    },
+    {
+      "name_en": "Dillí",
+      "name_hi": "दिल्ली",
+      "capital": "Nové Dillí",
+      "type": "Svazové teritorium",
+      "region": "Severní Indie",
+      "iso_code": "IN-DL",
+      "population": 16787941,
+      "area_km2": 1484,
+      "languages": "Hindština, Angličtina"
+    },
+    {
+      "name_en": "Džammú a Kašmír",
+      "name_hi": "जम्मू और कश्मीर",
+      "capital": "Srinagar (léto), Džammú (zima)",
+      "type": "Svazové teritorium",
+      "region": "Severní Indie",
+      "iso_code": "IN-JK",
+      "population": 12267032,
+      "area_km2": 42241,
+      "languages": "Urdština, Hindština"
+    },
+    {
+      "name_en": "Ladak",
+      "name_hi": "लद्दाख",
+      "capital": "Leh",
+      "type": "Svazové teritorium",
+      "region": "Severní Indie",
+      "iso_code": "IN-LA",
+      "population": 274000,
+      "area_km2": 59146,
+      "languages": "Ladakština, Hindština"
+    },
+    {
+      "name_en": "Lakšadvíp",
+      "name_hi": "लक्षद्वीप",
+      "capital": "Kavaratti",
+      "type": "Svazové teritorium",
+      "region": "Ostrovy",
+      "iso_code": "IN-LD",
+      "population": 64473,
+      "area_km2": 32,
+      "languages": "Malajálamština"
+    },
+    {
+      "name_en": "Puduččéri",
+      "name_hi": "पुडुचेरी",
+      "capital": "Puduččéri",
+      "type": "Svazové teritorium",
+      "region": "Jižní Indie",
+      "iso_code": "IN-PY",
+      "population": 1247953,
+      "area_km2": 479,
+      "languages": "Tamilština, Francouzština"
+    }
+  ],
+  "meta": {
+    "seo_title": "Data indických států a UT - Ke stažení zdarma (Excel/CSV/PDF)",
+    "seo_description": "Ke stažení zdarma data o 36 indických státech a Svazových teritoriích, včetně hlavních měst, populace, rozlohy a jazyků. Dostupné ve formátech Excel, CSV a PDF.",
+    "title": "Komplexní datová sada indických států a svazových teritorií",
+    "description": "Tato datová sada poskytuje podrobné informace o všech 36 indických státech a svazových teritoriích, včetně jejich názvů v angličtině a hindštině, hlavních měst, typu, regionu, kódů ISO, populace, rozlohy a úředních jazyků.",
+    "key_takeaways": [
+      "Přistupte k aktuálním detailům o všech 36 indických státech a svazových teritoriích.",
+      "Prozkoumejte klíčová demografická a geografická data, jako je populace, rozloha a úřední jazyky.",
+      "Stáhněte si kompletní informace o hlavních městech, regionech a kódech ISO pro každou administrativní jednotku.",
+      "Využijte strukturovaná data pro vzdělávací, výzkumné nebo vývojové projekty."
+    ],
+    "keywords": [
+      "data indické státy",
+      "seznam svazových teritorií",
+      "hlavní města indie",
+      "populace indie",
+      "iso kódy indie",
+      "stáhnout data indie csv"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo Python skriptů pro podporu analýzy geografických dat a vývoje aplikací.",
+      "Využijte soubor **Excel** k vytváření kontingenčních tabulek, filtrování dat podle regionů nebo provádění funkce SVYHLEDAT (VLOOKUP) pro rychlé analytické zprávy o indických administrativních rozděleních.",
+      "Vytiskněte **PDF** verzi pro referenci ve třídě, vzdělávací prezentace nebo offline geografické studie indických států a svazových teritorií.",
+      "Analyzujte údaje o populaci a rozloze pro srovnávací studie regionálního rozvoje a urbanistického plánování napříč Indií."
+    ]
+  },
+  "record_count": 36,
+  "title": "Komplexní datová sada indických států a svazových teritorií"
+}

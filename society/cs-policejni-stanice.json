@@ -1,0 +1,3991 @@
+{
+  "id": "cs-policejni-stanice",
+  "name": "České policejní stanice",
+  "title": "České policejní stanice",
+  "description": "Seznam pojmenovaných policejních stanic v Česku (amenity=police) z OpenStreetMap.",
+  "category": "society",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 790,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bundespolizei",
+      "latitude": 49.339933,
+      "longitude": 12.846221
+    },
+    {
+      "name": "Bundespolizeidirektion Pirna - Fortbildungsstätte Jöhstadt",
+      "latitude": 50.500615,
+      "longitude": 13.082979
+    },
+    {
+      "name": "Bundespolizeiinspektion Ebersbach",
+      "latitude": 51.005041,
+      "longitude": 14.584016
+    },
+    {
+      "name": "Bundespolizeiinspektion Klingenthal",
+      "latitude": 50.360376,
+      "longitude": 12.460939
+    },
+    {
+      "name": "Celní správa",
+      "latitude": 50.115906,
+      "longitude": 14.265668
+    },
+    {
+      "name": "Centrální sklad zajištěných věcí Policie České republiky",
+      "latitude": 49.169413,
+      "longitude": 16.603709
+    },
+    {
+      "name": "Cizinecká policie",
+      "latitude": 50.412499,
+      "longitude": 14.922025
+    },
+    {
+      "name": "Cizinecká policie",
+      "latitude": 50.663618,
+      "longitude": 14.032989
+    },
+    {
+      "name": "Dopravní inspektorát",
+      "latitude": 49.561714,
+      "longitude": 15.940369
+    },
+    {
+      "name": "Dopravní inspektorát",
+      "latitude": 49.602059,
+      "longitude": 15.582101
+    },
+    {
+      "name": "Dopravní inspektorát",
+      "latitude": 49.782436,
+      "longitude": 14.698631
+    },
+    {
+      "name": "Dopravní inspektorát",
+      "latitude": 49.958707,
+      "longitude": 14.070458
+    },
+    {
+      "name": "Dopravní inspektorát",
+      "latitude": 50.02606,
+      "longitude": 15.198463
+    },
+    {
+      "name": "Dopravní inspektorát",
+      "latitude": 50.108204,
+      "longitude": 13.707926
+    },
+    {
+      "name": "Dopravní inspektorát",
+      "latitude": 50.412578,
+      "longitude": 14.922035
+    },
+    {
+      "name": "Dvůr Králové nad Labem",
+      "latitude": 50.433668,
+      "longitude": 15.816507
+    },
+    {
+      "name": "Dálniční oddělení Bernartice",
+      "latitude": 49.675239,
+      "longitude": 15.11836
+    },
+    {
+      "name": "Dálniční oddělení Brodce",
+      "latitude": 50.383801,
+      "longitude": 14.894508
+    },
+    {
+      "name": "Dálniční oddělení Nová Ves",
+      "latitude": 50.30851,
+      "longitude": 14.314776
+    },
+    {
+      "name": "Dálniční oddělení Poříčany",
+      "latitude": 50.118665,
+      "longitude": 14.938669
+    },
+    {
+      "name": "Dálniční oddělení PČR Podivín",
+      "latitude": 48.829732,
+      "longitude": 16.856438
+    },
+    {
+      "name": "Dálniční oddělení Řehlovice",
+      "latitude": 50.613431,
+      "longitude": 13.953494
+    },
+    {
+      "name": "Dálniční policie",
+      "latitude": 48.973243,
+      "longitude": 17.264299
+    },
+    {
+      "name": "Dálniční policie Chrlice",
+      "latitude": 49.125742,
+      "longitude": 16.651378
+    },
+    {
+      "name": "Dálniční policie Domašov",
+      "latitude": 49.256802,
+      "longitude": 16.311789
+    },
+    {
+      "name": "Dálniční policie Ivanovice na Hané",
+      "latitude": 49.292604,
+      "longitude": 17.095505
+    },
+    {
+      "name": "Dálniční policie Kocourovec",
+      "latitude": 49.584776,
+      "longitude": 17.413347
+    },
+    {
+      "name": "Dálniční policie Mankovice",
+      "latitude": 49.641657,
+      "longitude": 17.871389
+    },
+    {
+      "name": "Dálniční policie Pravy",
+      "latitude": 50.135142,
+      "longitude": 15.629934
+    },
+    {
+      "name": "Dálniční policie Rudná",
+      "latitude": 50.026272,
+      "longitude": 14.209219
+    },
+    {
+      "name": "Dálniční policie Velký Beranov",
+      "latitude": 49.418138,
+      "longitude": 15.679349
+    },
+    {
+      "name": "Dálniční policie Vysoké Mýto",
+      "latitude": 49.954649,
+      "longitude": 16.141908
+    },
+    {
+      "name": "Grenzkontrollstelle",
+      "latitude": 48.754596,
+      "longitude": 16.064495
+    },
+    {
+      "name": "Grenzkontrollstelle",
+      "latitude": 48.787002,
+      "longitude": 15.979465
+    },
+    {
+      "name": "Kojetín",
+      "latitude": 49.352286,
+      "longitude": 17.304035
+    },
+    {
+      "name": "Komisariat Policji",
+      "latitude": 50.439734,
+      "longitude": 16.239484
+    },
+    {
+      "name": "Krajské ředitelství policie hl.m.Prahy, odbor vyšetřování dopravních nehod",
+      "latitude": 50.124579,
+      "longitude": 14.451858
+    },
+    {
+      "name": "Krajské ředitelství policie hlavního města Prahy",
+      "latitude": 50.053263,
+      "longitude": 14.415858
+    },
+    {
+      "name": "Krajské ředitelství Policie Jihomoravského kraje",
+      "latitude": 49.204227,
+      "longitude": 16.599533
+    },
+    {
+      "name": "Krajské ředitelství policie Karlovy Vary",
+      "latitude": 50.221071,
+      "longitude": 12.828069
+    },
+    {
+      "name": "Krajské ředitelství policie Moravskoslezského kraje",
+      "latitude": 49.602351,
+      "longitude": 18.017566
+    },
+    {
+      "name": "Krajské ředitelství policie Moravskoslezského kraje, Územní odbor Frýdek-Místek",
+      "latitude": 49.668135,
+      "longitude": 18.343247
+    },
+    {
+      "name": "Krajské Ředitelství Policie Olomouckého Kraje",
+      "latitude": 49.589671,
+      "longitude": 17.269673
+    },
+    {
+      "name": "Krajské ředitelství Policie ČR",
+      "latitude": 50.028733,
+      "longitude": 15.774079
+    },
+    {
+      "name": "Krajské ředitlství policie Olomouckého kraje",
+      "latitude": 49.596227,
+      "longitude": 17.265637
+    },
+    {
+      "name": "Kraské ředitelství, Školní policení středisko, Eskortní oddělení",
+      "latitude": 50.210745,
+      "longitude": 15.832836
+    },
+    {
+      "name": "Kynologické oddělení Městské policie",
+      "latitude": 50.090754,
+      "longitude": 14.699925
+    },
+    {
+      "name": "Mariánské Lázně",
+      "latitude": 49.970882,
+      "longitude": 12.702789
+    },
+    {
+      "name": "Mestka Policie",
+      "latitude": 50.909751,
+      "longitude": 14.620137
+    },
+    {
+      "name": "Ministerstvo vnitra - Oddělení pobytu cizinců Zlínský kraj",
+      "latitude": 49.220268,
+      "longitude": 17.681274
+    },
+    {
+      "name": "Ministerstvo vnitra - Regionální oddělení pobytu cizinců Přerov",
+      "latitude": 49.461457,
+      "longitude": 17.452272
+    },
+    {
+      "name": "MP",
+      "latitude": 49.841261,
+      "longitude": 13.356909
+    },
+    {
+      "name": "MP Barrandov",
+      "latitude": 50.033439,
+      "longitude": 14.37467
+    },
+    {
+      "name": "MP Moravské Budějovice",
+      "latitude": 49.051534,
+      "longitude": 15.808846
+    },
+    {
+      "name": "Místní oddělení policie Jižní Město I",
+      "latitude": 50.033715,
+      "longitude": 14.488804
+    },
+    {
+      "name": "Městká policie",
+      "latitude": 49.770794,
+      "longitude": 17.121677
+    },
+    {
+      "name": "Městká Policie Hodonín",
+      "latitude": 48.854949,
+      "longitude": 17.122951
+    },
+    {
+      "name": "Městská police Strakonice",
+      "latitude": 49.255551,
+      "longitude": 13.906309
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 48.768317,
+      "longitude": 14.963905
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 48.807375,
+      "longitude": 16.638251
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 48.812015,
+      "longitude": 14.323002
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 48.856992,
+      "longitude": 16.052953
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 48.901863,
+      "longitude": 17.313642
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 48.917757,
+      "longitude": 17.095616
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.003821,
+      "longitude": 14.762677
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.04209,
+      "longitude": 17.467583
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.052586,
+      "longitude": 13.776702
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.068146,
+      "longitude": 17.46344
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.079267,
+      "longitude": 15.436146
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.140604,
+      "longitude": 18.00905
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.146018,
+      "longitude": 15.002216
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.153155,
+      "longitude": 16.876363
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.15847,
+      "longitude": 15.201653
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.177699,
+      "longitude": 16.689538
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.183552,
+      "longitude": 16.392361
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.191237,
+      "longitude": 16.615216
+    },
+    {
+      "name": "městská policie",
+      "latitude": 49.200234,
+      "longitude": 16.612437
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.204727,
+      "longitude": 16.661153
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.207238,
+      "longitude": 17.593986
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.209485,
+      "longitude": 16.630592
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.228736,
+      "longitude": 17.671984
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.244675,
+      "longitude": 16.578078
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.259249,
+      "longitude": 14.718868
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.271421,
+      "longitude": 17.714796
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.297171,
+      "longitude": 17.395614
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.29839,
+      "longitude": 14.469154
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.394535,
+      "longitude": 15.59669
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.400676,
+      "longitude": 17.672839
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.440812,
+      "longitude": 12.927495
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.450304,
+      "longitude": 14.36051
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.45496,
+      "longitude": 17.448459
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.460463,
+      "longitude": 18.147639
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.472648,
+      "longitude": 17.973655
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.5273,
+      "longitude": 17.585478
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.544625,
+      "longitude": 18.214743
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.561252,
+      "longitude": 15.941218
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.566798,
+      "longitude": 16.077744
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.592997,
+      "longitude": 18.007496
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.611431,
+      "longitude": 16.679189
+    },
+    {
+      "name": "městská policie",
+      "latitude": 49.688806,
+      "longitude": 14.010517
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.701661,
+      "longitude": 17.075028
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.740318,
+      "longitude": 18.608351
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.75747,
+      "longitude": 16.664057
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.757657,
+      "longitude": 16.460336
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.775899,
+      "longitude": 17.751197
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.781509,
+      "longitude": 14.169706
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.781821,
+      "longitude": 18.275056
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.789045,
+      "longitude": 13.735601
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.798239,
+      "longitude": 12.630318
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.870079,
+      "longitude": 16.310785
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.871997,
+      "longitude": 14.886354
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.894668,
+      "longitude": 14.493762
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.953368,
+      "longitude": 16.161794
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.95893,
+      "longitude": 14.320129
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.962994,
+      "longitude": 16.984075
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 49.96979,
+      "longitude": 14.384479
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 49.977988,
+      "longitude": 12.701131
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.000961,
+      "longitude": 14.42187
+    },
+    {
+      "name": "městská policie",
+      "latitude": 50.012771,
+      "longitude": 14.483271
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.01333,
+      "longitude": 14.627825
+    },
+    {
+      "name": "městská policie",
+      "latitude": 50.01933,
+      "longitude": 14.443094
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 50.020657,
+      "longitude": 14.522586
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.023525,
+      "longitude": 14.451583
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.026168,
+      "longitude": 15.206385
+    },
+    {
+      "name": "městská policie",
+      "latitude": 50.031442,
+      "longitude": 14.491944
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.037453,
+      "longitude": 15.771236
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.041598,
+      "longitude": 15.813521
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.04168,
+      "longitude": 14.460059
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.051341,
+      "longitude": 14.526053
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.053158,
+      "longitude": 14.314503
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.061323,
+      "longitude": 14.225575
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.063921,
+      "longitude": 14.470255
+    },
+    {
+      "name": "městská policie",
+      "latitude": 50.068685,
+      "longitude": 15.684223
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.073026,
+      "longitude": 14.721152
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.075279,
+      "longitude": 14.455037
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.07545,
+      "longitude": 14.440872
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.078198,
+      "longitude": 14.462918
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.08227,
+      "longitude": 14.26041
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.083546,
+      "longitude": 14.509469
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.084238,
+      "longitude": 14.367024
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.088536,
+      "longitude": 14.406394
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.095069,
+      "longitude": 14.673314
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.108486,
+      "longitude": 14.443483
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.112293,
+      "longitude": 14.595856
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.112972,
+      "longitude": 14.472783
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.123724,
+      "longitude": 14.490297
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.143269,
+      "longitude": 15.121024
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.147866,
+      "longitude": 14.103566
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.148507,
+      "longitude": 16.076129
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.163058,
+      "longitude": 14.391573
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.164155,
+      "longitude": 16.27608
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.179246,
+      "longitude": 12.643417
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.202956,
+      "longitude": 14.840663
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.21061,
+      "longitude": 15.834589
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.22629,
+      "longitude": 17.201741
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.230347,
+      "longitude": 14.087022
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.241035,
+      "longitude": 12.746764
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 50.281734,
+      "longitude": 14.238317
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.291768,
+      "longitude": 16.160487
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 50.338646,
+      "longitude": 15.931659
+    },
+    {
+      "name": "městská policie",
+      "latitude": 50.346094,
+      "longitude": 16.150019
+    },
+    {
+      "name": "městská policie",
+      "latitude": 50.360677,
+      "longitude": 13.70024
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.383928,
+      "longitude": 13.171106
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.395812,
+      "longitude": 16.047918
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.416378,
+      "longitude": 16.165685
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.430321,
+      "longitude": 15.815938
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.43986,
+      "longitude": 14.928009
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.445857,
+      "longitude": 14.887143
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.457192,
+      "longitude": 14.375971
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.46041,
+      "longitude": 13.416635
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 50.47405,
+      "longitude": 16.093474
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.481042,
+      "longitude": 14.935296
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.501249,
+      "longitude": 13.438823
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.522556,
+      "longitude": 14.974433
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.533824,
+      "longitude": 14.125644
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.537153,
+      "longitude": 16.233423
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.59021,
+      "longitude": 15.158237
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.602076,
+      "longitude": 13.747478
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.611495,
+      "longitude": 15.498258
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.655947,
+      "longitude": 13.755866
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.675548,
+      "longitude": 14.0436
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.683604,
+      "longitude": 15.14967
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.725283,
+      "longitude": 15.171534
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.762639,
+      "longitude": 15.047971
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 50.799885,
+      "longitude": 14.413013
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 50.854354,
+      "longitude": 14.844106
+    },
+    {
+      "name": "Městská Policie",
+      "latitude": 50.952382,
+      "longitude": 14.552205
+    },
+    {
+      "name": "Městská policie",
+      "latitude": 51.003043,
+      "longitude": 14.451858
+    },
+    {
+      "name": "Městská policie - Klatovy",
+      "latitude": 49.39461,
+      "longitude": 13.292987
+    },
+    {
+      "name": "Městská policie - kynologická stanice",
+      "latitude": 50.089477,
+      "longitude": 14.69809
+    },
+    {
+      "name": "Městská policie - odtahy vozidel",
+      "latitude": 50.114041,
+      "longitude": 14.48317
+    },
+    {
+      "name": "Městská policie - Praha 17",
+      "latitude": 50.065448,
+      "longitude": 14.303462
+    },
+    {
+      "name": "Městská policie - Praha Petrovice",
+      "latitude": 50.036032,
+      "longitude": 14.556621
+    },
+    {
+      "name": "Městská policie Adamov",
+      "latitude": 49.301121,
+      "longitude": 16.65439
+    },
+    {
+      "name": "Městská Policie Aš",
+      "latitude": 50.220819,
+      "longitude": 12.186896
+    },
+    {
+      "name": "Městská policie Beroun",
+      "latitude": 49.964371,
+      "longitude": 14.075273
+    },
+    {
+      "name": "Městská policie Bohumín",
+      "latitude": 49.90388,
+      "longitude": 18.358497
+    },
+    {
+      "name": "Městská policie Bory",
+      "latitude": 49.723996,
+      "longitude": 13.376433
+    },
+    {
+      "name": "Městská policie Boží Dar",
+      "latitude": 50.408926,
+      "longitude": 12.928095
+    },
+    {
+      "name": "Městská policie Brno",
+      "latitude": 49.212121,
+      "longitude": 16.601455
+    },
+    {
+      "name": "Městská policie Brno - Západ",
+      "latitude": 49.171865,
+      "longitude": 16.56298
+    },
+    {
+      "name": "Městská policie Brno-jih",
+      "latitude": 49.182673,
+      "longitude": 16.62137
+    },
+    {
+      "name": "Městská policie Brno-Žabovřesky",
+      "latitude": 49.21453,
+      "longitude": 16.575445
+    },
+    {
+      "name": "Městská policie Budišov n.B.",
+      "latitude": 49.793337,
+      "longitude": 17.628942
+    },
+    {
+      "name": "Městská Policie Bílina",
+      "latitude": 50.548904,
+      "longitude": 13.774556
+    },
+    {
+      "name": "Městská policie Břeclav",
+      "latitude": 48.763758,
+      "longitude": 16.883835
+    },
+    {
+      "name": "Městská policie Chrudim",
+      "latitude": 49.951755,
+      "longitude": 15.79643
+    },
+    {
+      "name": "Městská policie Doksy",
+      "latitude": 50.564668,
+      "longitude": 14.655716
+    },
+    {
+      "name": "Městská policie Františkovy Lázně",
+      "latitude": 50.123174,
+      "longitude": 12.353806
+    },
+    {
+      "name": "Městská policie Frýdek-Místek",
+      "latitude": 49.679349,
+      "longitude": 18.356314
+    },
+    {
+      "name": "Městská policie Frýdlant nad Ostravicí",
+      "latitude": 49.592304,
+      "longitude": 18.359507
+    },
+    {
+      "name": "Městská Policie Havlíčkův Brod",
+      "latitude": 49.605461,
+      "longitude": 15.581875
+    },
+    {
+      "name": "Městská policie Havířov",
+      "latitude": 49.774383,
+      "longitude": 18.454324
+    },
+    {
+      "name": "Městská policie Havířov",
+      "latitude": 49.787857,
+      "longitude": 18.436621
+    },
+    {
+      "name": "Městská policie Havířov",
+      "latitude": 49.800898,
+      "longitude": 18.414688
+    },
+    {
+      "name": "Městská policie hl. m. Prahy",
+      "latitude": 50.011388,
+      "longitude": 14.514015
+    },
+    {
+      "name": "Městská policie hl. m. Prahy Obvodní ředitelství Praha 8",
+      "latitude": 50.144802,
+      "longitude": 14.485304
+    },
+    {
+      "name": "Městská policie Hlinsko",
+      "latitude": 49.763399,
+      "longitude": 15.911818
+    },
+    {
+      "name": "Městská policie Hluboká nad Vltavou",
+      "latitude": 49.051716,
+      "longitude": 14.435797
+    },
+    {
+      "name": "Městská policie Hluk",
+      "latitude": 48.988669,
+      "longitude": 17.527168
+    },
+    {
+      "name": "Městská policie Hlučín",
+      "latitude": 49.896339,
+      "longitude": 18.187354
+    },
+    {
+      "name": "Městská policie Holešov",
+      "latitude": 49.33283,
+      "longitude": 17.581178
+    },
+    {
+      "name": "Městská policie Horažďovice",
+      "latitude": 49.321102,
+      "longitude": 13.701109
+    },
+    {
+      "name": "Městská policie Hořice",
+      "latitude": 50.369635,
+      "longitude": 15.633856
+    },
+    {
+      "name": "Městská policie Hořovice",
+      "latitude": 49.835859,
+      "longitude": 13.902892
+    },
+    {
+      "name": "Městská policie Hrádek",
+      "latitude": 49.710421,
+      "longitude": 13.648566
+    },
+    {
+      "name": "Městská policie Humpolec",
+      "latitude": 49.540721,
+      "longitude": 15.360864
+    },
+    {
+      "name": "Městská policie Ivančice",
+      "latitude": 49.101261,
+      "longitude": 16.37673
+    },
+    {
+      "name": "Městská policie Jablunkov",
+      "latitude": 49.575898,
+      "longitude": 18.761865
+    },
+    {
+      "name": "Městská policie Jesenice",
+      "latitude": 49.967448,
+      "longitude": 14.51462
+    },
+    {
+      "name": "Městská policie Jilemnice",
+      "latitude": 50.609787,
+      "longitude": 15.508384
+    },
+    {
+      "name": "Městská policie Jiříkov",
+      "latitude": 50.995286,
+      "longitude": 14.569115
+    },
+    {
+      "name": "Městská policie Kadaň",
+      "latitude": 50.392081,
+      "longitude": 13.274331
+    },
+    {
+      "name": "Městská policie Kaplice",
+      "latitude": 48.738964,
+      "longitude": 14.494283
+    },
+    {
+      "name": "Městská policie Karlovy Vary",
+      "latitude": 50.228408,
+      "longitude": 12.863814
+    },
+    {
+      "name": "Městská policie Karviná",
+      "latitude": 49.855191,
+      "longitude": 18.546804
+    },
+    {
+      "name": "Městská policie Klecany",
+      "latitude": 50.175024,
+      "longitude": 14.414342
+    },
+    {
+      "name": "Městská policie Klimkovice",
+      "latitude": 49.786359,
+      "longitude": 18.130297
+    },
+    {
+      "name": "Městská policie Kopřivnice",
+      "latitude": 49.597681,
+      "longitude": 18.147704
+    },
+    {
+      "name": "Městská policie Kostelec na Hané",
+      "latitude": 49.516272,
+      "longitude": 17.062914
+    },
+    {
+      "name": "Městská policie Kostelec nad Orlicí",
+      "latitude": 50.123807,
+      "longitude": 16.211239
+    },
+    {
+      "name": "Městská policie Kralupy",
+      "latitude": 50.246067,
+      "longitude": 14.299003
+    },
+    {
+      "name": "Městská policie Krupka",
+      "latitude": 50.677791,
+      "longitude": 13.874716
+    },
+    {
+      "name": "Městská policie Kutná Hora",
+      "latitude": 49.948878,
+      "longitude": 15.269308
+    },
+    {
+      "name": "Městská policie Kyjov",
+      "latitude": 49.010261,
+      "longitude": 17.121689
+    },
+    {
+      "name": "Městská policie Lanškroun",
+      "latitude": 49.912307,
+      "longitude": 16.61249
+    },
+    {
+      "name": "Městská policie Louny",
+      "latitude": 50.356448,
+      "longitude": 13.796855
+    },
+    {
+      "name": "Městská policie Lovosice",
+      "latitude": 50.515788,
+      "longitude": 14.049243
+    },
+    {
+      "name": "Městská policie Luhačovice",
+      "latitude": 49.102766,
+      "longitude": 17.758866
+    },
+    {
+      "name": "Městská policie Mladá Boleslav",
+      "latitude": 50.429659,
+      "longitude": 14.919023
+    },
+    {
+      "name": "Městská policie Mníšek pod Brdy",
+      "latitude": 49.865876,
+      "longitude": 14.259583
+    },
+    {
+      "name": "Městská policie Modřice",
+      "latitude": 49.127871,
+      "longitude": 16.61514
+    },
+    {
+      "name": "Městská policie Moravský Krumlov",
+      "latitude": 49.050239,
+      "longitude": 16.315561
+    },
+    {
+      "name": "Městská policie Most",
+      "latitude": 50.513992,
+      "longitude": 13.642191
+    },
+    {
+      "name": "Městská policie Mělník",
+      "latitude": 50.35153,
+      "longitude": 14.473456
+    },
+    {
+      "name": "Městská policie Napajedla",
+      "latitude": 49.173498,
+      "longitude": 17.51321
+    },
+    {
+      "name": "Městská policie Nejdek",
+      "latitude": 50.324748,
+      "longitude": 12.733058
+    },
+    {
+      "name": "Městská policie Odolena Voda",
+      "latitude": 50.234674,
+      "longitude": 14.413408
+    },
+    {
+      "name": "Městská policie Olomouc",
+      "latitude": 49.589893,
+      "longitude": 17.255735
+    },
+    {
+      "name": "Městská policie Opava",
+      "latitude": 49.944258,
+      "longitude": 17.887991
+    },
+    {
+      "name": "Městská policie Orlová",
+      "latitude": 49.874083,
+      "longitude": 18.422573
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.770739,
+      "longitude": 18.254591
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.810987,
+      "longitude": 18.26822
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.82005,
+      "longitude": 18.204495
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.823789,
+      "longitude": 18.319302
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.824955,
+      "longitude": 18.175674
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.826099,
+      "longitude": 18.258615
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.835541,
+      "longitude": 18.290835
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.840121,
+      "longitude": 18.296957
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.8417,
+      "longitude": 18.332754
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.843164,
+      "longitude": 18.183719
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.850115,
+      "longitude": 18.274348
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.855196,
+      "longitude": 18.258872
+    },
+    {
+      "name": "Městská policie Ostrava",
+      "latitude": 49.859003,
+      "longitude": 18.305485
+    },
+    {
+      "name": "Městská policie Otrokovice",
+      "latitude": 49.208709,
+      "longitude": 17.535039
+    },
+    {
+      "name": "Městská policie Plzeň",
+      "latitude": 49.74295,
+      "longitude": 13.38764
+    },
+    {
+      "name": "Městská policie Plzeň",
+      "latitude": 49.748367,
+      "longitude": 13.379757
+    },
+    {
+      "name": "Městská policie Plzeň",
+      "latitude": 49.77436,
+      "longitude": 13.367201
+    },
+    {
+      "name": "Městská policie Plzeň - Skvrňany",
+      "latitude": 49.743597,
+      "longitude": 13.3306
+    },
+    {
+      "name": "Městská policie Polička",
+      "latitude": 49.715291,
+      "longitude": 16.26567
+    },
+    {
+      "name": "Městská policie Praha",
+      "latitude": 50.062902,
+      "longitude": 14.42288
+    },
+    {
+      "name": "Městská policie Praha - jízdní oddíl",
+      "latitude": 50.137166,
+      "longitude": 14.394609
+    },
+    {
+      "name": "Městská policie Praha 1",
+      "latitude": 50.082667,
+      "longitude": 14.431387
+    },
+    {
+      "name": "Městská policie Praha 1",
+      "latitude": 50.091576,
+      "longitude": 14.432632
+    },
+    {
+      "name": "Městská policie Praha 10",
+      "latitude": 50.071361,
+      "longitude": 14.476831
+    },
+    {
+      "name": "Městská policie Praha 11 - obvodní ředitelství",
+      "latitude": 50.034649,
+      "longitude": 14.514682
+    },
+    {
+      "name": "Městská policie Praha 14 - obvodní ředitelství",
+      "latitude": 50.105231,
+      "longitude": 14.561674
+    },
+    {
+      "name": "Městská policie Praha 14 - okrsková služebna - Prague City Police",
+      "latitude": 50.07169,
+      "longitude": 14.683381
+    },
+    {
+      "name": "Městská policie Praha 4",
+      "latitude": 50.062592,
+      "longitude": 14.441028
+    },
+    {
+      "name": "Městská policie Praha 5",
+      "latitude": 50.073678,
+      "longitude": 14.39823
+    },
+    {
+      "name": "Městská policie Praha 6 - obvodní ředitelství",
+      "latitude": 50.104016,
+      "longitude": 14.403242
+    },
+    {
+      "name": "Městská policie Praha 8 - okrsková služebna",
+      "latitude": 50.145271,
+      "longitude": 14.442583
+    },
+    {
+      "name": "Městská policie Praha 9 - okrsková služebna",
+      "latitude": 50.125235,
+      "longitude": 14.572569
+    },
+    {
+      "name": "Městská policie Praha 9 – obvodní ředitelství",
+      "latitude": 50.120559,
+      "longitude": 14.49448
+    },
+    {
+      "name": "Městská policie Praha – jízdní skupina",
+      "latitude": 50.02808,
+      "longitude": 14.541243
+    },
+    {
+      "name": "Městská policie Praha-Běchovice",
+      "latitude": 50.080926,
+      "longitude": 14.615486
+    },
+    {
+      "name": "Městská policie Písek",
+      "latitude": 49.30788,
+      "longitude": 14.151577
+    },
+    {
+      "name": "Městská policie Přeštice",
+      "latitude": 49.57276,
+      "longitude": 13.33054
+    },
+    {
+      "name": "Městská policie Příbor",
+      "latitude": 49.640162,
+      "longitude": 18.142936
+    },
+    {
+      "name": "Městská Policie Rakovník",
+      "latitude": 50.1038,
+      "longitude": 13.728078
+    },
+    {
+      "name": "Městská policie Rochlice",
+      "latitude": 50.749395,
+      "longitude": 15.069935
+    },
+    {
+      "name": "Městská policie Rotava",
+      "latitude": 50.303282,
+      "longitude": 12.554576
+    },
+    {
+      "name": "Městská policie Rožnov",
+      "latitude": 49.460437,
+      "longitude": 18.147654
+    },
+    {
+      "name": "Městská policie Sadská",
+      "latitude": 50.136355,
+      "longitude": 14.984979
+    },
+    {
+      "name": "Městská policie Sedlčany",
+      "latitude": 49.65748,
+      "longitude": 14.42872
+    },
+    {
+      "name": "Městská policie Sezemice",
+      "latitude": 50.06461,
+      "longitude": 15.848737
+    },
+    {
+      "name": "Městská policie Slavičín",
+      "latitude": 49.088765,
+      "longitude": 17.878389
+    },
+    {
+      "name": "Městská policie Slovany",
+      "latitude": 49.731996,
+      "longitude": 13.403553
+    },
+    {
+      "name": "Městská policie Studénka",
+      "latitude": 49.716317,
+      "longitude": 18.050702
+    },
+    {
+      "name": "Městská policie Sušice",
+      "latitude": 49.231459,
+      "longitude": 13.520125
+    },
+    {
+      "name": "Městská policie Tábor",
+      "latitude": 49.41407,
+      "longitude": 14.659584
+    },
+    {
+      "name": "Městská Policie Třebenice",
+      "latitude": 50.476307,
+      "longitude": 13.989804
+    },
+    {
+      "name": "Městská policie Třebíč",
+      "latitude": 49.2145,
+      "longitude": 15.883385
+    },
+    {
+      "name": "Městská policie Třinec",
+      "latitude": 49.671297,
+      "longitude": 18.659103
+    },
+    {
+      "name": "Městská policie Valtice",
+      "latitude": 48.74128,
+      "longitude": 16.75519
+    },
+    {
+      "name": "Městská policie Vejprty",
+      "latitude": 50.492256,
+      "longitude": 13.031654
+    },
+    {
+      "name": "Městská policie Velké Bílovice",
+      "latitude": 48.849833,
+      "longitude": 16.892076
+    },
+    {
+      "name": "Městská policie Veltrusy",
+      "latitude": 50.271174,
+      "longitude": 14.327918
+    },
+    {
+      "name": "Městská policie Veselí nad Moravou",
+      "latitude": 48.951993,
+      "longitude": 17.379901
+    },
+    {
+      "name": "Městská policie Vracov",
+      "latitude": 48.980227,
+      "longitude": 17.218444
+    },
+    {
+      "name": "Městská policie Vrchlabí",
+      "latitude": 50.628224,
+      "longitude": 15.609454
+    },
+    {
+      "name": "Městská policie Vyškov",
+      "latitude": 49.281353,
+      "longitude": 17.001857
+    },
+    {
+      "name": "Městská policie Zdice",
+      "latitude": 49.9121,
+      "longitude": 13.977654
+    },
+    {
+      "name": "Městská policie Zruč nad Sázavou",
+      "latitude": 49.744574,
+      "longitude": 15.104069
+    },
+    {
+      "name": "Městská policie Zábřeh",
+      "latitude": 49.881451,
+      "longitude": 16.877265
+    },
+    {
+      "name": "Městská policie Ústí nad Labem - Služebna Město",
+      "latitude": 50.662003,
+      "longitude": 14.009623
+    },
+    {
+      "name": "Městská policie Čelákovice",
+      "latitude": 50.163643,
+      "longitude": 14.749807
+    },
+    {
+      "name": "Městská policie Česká Lípa",
+      "latitude": 50.684356,
+      "longitude": 14.538777
+    },
+    {
+      "name": "Městská policie České Budějovice",
+      "latitude": 48.978862,
+      "longitude": 14.471407
+    },
+    {
+      "name": "Městská policie Říčany",
+      "latitude": 49.991675,
+      "longitude": 14.664239
+    },
+    {
+      "name": "Městská policie Šenov",
+      "latitude": 49.78467,
+      "longitude": 18.374278
+    },
+    {
+      "name": "Městská policie Šlapanice",
+      "latitude": 49.16601,
+      "longitude": 16.726226
+    },
+    {
+      "name": "Městská policie Železná Ruda",
+      "latitude": 49.137441,
+      "longitude": 13.233767
+    },
+    {
+      "name": "Městská Policie, obvodní služebna Skvrňany, část Plzeň Radčice",
+      "latitude": 49.762628,
+      "longitude": 13.325815
+    },
+    {
+      "name": "Městská policie, Praha - Kbely",
+      "latitude": 50.132581,
+      "longitude": 14.550259
+    },
+    {
+      "name": "Městská policie-hlídkový útvar",
+      "latitude": 50.074828,
+      "longitude": 14.518343
+    },
+    {
+      "name": "Městská policiie Světlá nad Sázavou",
+      "latitude": 49.667848,
+      "longitude": 15.404787
+    },
+    {
+      "name": "Nýrsko - Městská policie",
+      "latitude": 49.294102,
+      "longitude": 13.144327
+    },
+    {
+      "name": "Obecní policie",
+      "latitude": 49.246884,
+      "longitude": 16.672881
+    },
+    {
+      "name": "Obecní policie Baška",
+      "latitude": 49.644261,
+      "longitude": 18.369719
+    },
+    {
+      "name": "Obecní policie Hukvaldy",
+      "latitude": 49.623915,
+      "longitude": 18.221983
+    },
+    {
+      "name": "Obecní policie městys Jedovnice",
+      "latitude": 49.344457,
+      "longitude": 16.755715
+    },
+    {
+      "name": "Obecní policie Nová Ves",
+      "latitude": 50.312989,
+      "longitude": 14.309326
+    },
+    {
+      "name": "Obecní policie Průhonice",
+      "latitude": 50.00151,
+      "longitude": 14.561344
+    },
+    {
+      "name": "Obecní policie Velké Přílepy",
+      "latitude": 50.160335,
+      "longitude": 14.311721
+    },
+    {
+      "name": "obecní policie Velký Osek",
+      "latitude": 50.099241,
+      "longitude": 15.185749
+    },
+    {
+      "name": "Obecní policie Vřesina",
+      "latitude": 49.822595,
+      "longitude": 18.123939
+    },
+    {
+      "name": "Obecní policie Zdiby",
+      "latitude": 50.1676,
+      "longitude": 14.436628
+    },
+    {
+      "name": "Obvodní oddělení",
+      "latitude": 49.864386,
+      "longitude": 18.09736
+    },
+    {
+      "name": "Obvodní oddělení",
+      "latitude": 50.211018,
+      "longitude": 15.822249
+    },
+    {
+      "name": "Obvodní oddělení Chýnov",
+      "latitude": 49.406758,
+      "longitude": 14.810585
+    },
+    {
+      "name": "Obvodní oddělení Hradec Králové 2",
+      "latitude": 50.216201,
+      "longitude": 15.849144
+    },
+    {
+      "name": "Obvodní oddělení Hrušovany nad Jevišovkou",
+      "latitude": 48.830375,
+      "longitude": 16.401987
+    },
+    {
+      "name": "Obvodní oddělení Hustopeče",
+      "latitude": 48.941049,
+      "longitude": 16.735469
+    },
+    {
+      "name": "Obvodní oddělení Jevišovice",
+      "latitude": 48.98299,
+      "longitude": 15.986751
+    },
+    {
+      "name": "Obvodní oddělení Jílové u Prahy",
+      "latitude": 49.896856,
+      "longitude": 14.489043
+    },
+    {
+      "name": "Obvodní oddělení Krásná",
+      "latitude": 49.580655,
+      "longitude": 18.479777
+    },
+    {
+      "name": "Obvodní oddělení Mikulov",
+      "latitude": 48.814411,
+      "longitude": 16.638722
+    },
+    {
+      "name": "Obvodní oddělení Moravský Krumlov",
+      "latitude": 49.049701,
+      "longitude": 16.31583
+    },
+    {
+      "name": "Obvodní oddělení Netolice",
+      "latitude": 49.0507,
+      "longitude": 14.198194
+    },
+    {
+      "name": "Obvodní oddělení Nový Jičín",
+      "latitude": 49.597718,
+      "longitude": 18.006179
+    },
+    {
+      "name": "Obvodní oddělení Olomouc IV",
+      "latitude": 49.604799,
+      "longitude": 17.233509
+    },
+    {
+      "name": "Obvodní oddělení Pardubice 3",
+      "latitude": 50.043851,
+      "longitude": 15.808006
+    },
+    {
+      "name": "Obvodní oddělení policie České republiky",
+      "latitude": 50.347289,
+      "longitude": 16.150752
+    },
+    {
+      "name": "Obvodní oddělení Policie Český Krumlov",
+      "latitude": 48.829346,
+      "longitude": 14.335021
+    },
+    {
+      "name": "Obvodní oddělení policie ČR",
+      "latitude": 48.778454,
+      "longitude": 14.294614
+    },
+    {
+      "name": "obvodní oddělení Policie ČR",
+      "latitude": 48.890027,
+      "longitude": 14.874645
+    },
+    {
+      "name": "obvodní oddělení Policie ČR",
+      "latitude": 49.677631,
+      "longitude": 18.345575
+    },
+    {
+      "name": "obvodní oddělení Policie ČR",
+      "latitude": 49.975688,
+      "longitude": 16.401441
+    },
+    {
+      "name": "Obvodní oddělení policie ČR",
+      "latitude": 50.070936,
+      "longitude": 12.371682
+    },
+    {
+      "name": "Obvodní oddělení policie ČR",
+      "latitude": 50.521126,
+      "longitude": 14.973316
+    },
+    {
+      "name": "Obvodní oddělení policie ČR",
+      "latitude": 50.609866,
+      "longitude": 15.338978
+    },
+    {
+      "name": "Obvodní oddělení policie ČR",
+      "latitude": 50.611426,
+      "longitude": 15.498482
+    },
+    {
+      "name": "Obvodní oddělení policie ČR",
+      "latitude": 50.657683,
+      "longitude": 14.724542
+    },
+    {
+      "name": "Obvodní oddělení Policie ČR Pardubice 2",
+      "latitude": 50.047635,
+      "longitude": 15.755121
+    },
+    {
+      "name": "Obvodní oddělení PČR",
+      "latitude": 50.641686,
+      "longitude": 15.25305
+    },
+    {
+      "name": "Obvodní oddělení PČR",
+      "latitude": 50.680921,
+      "longitude": 15.150222
+    },
+    {
+      "name": "Obvodní oddělení PČR",
+      "latitude": 50.722966,
+      "longitude": 15.177859
+    },
+    {
+      "name": "Obvodní oddělení PČR",
+      "latitude": 50.738307,
+      "longitude": 15.246451
+    },
+    {
+      "name": "Obvodní oddělení Vranov nad Dyjí",
+      "latitude": 48.897175,
+      "longitude": 15.814257
+    },
+    {
+      "name": "Obvodní oddělení Vsetín",
+      "latitude": 49.338692,
+      "longitude": 17.992853
+    },
+    {
+      "name": "Obvodní oddělení Zahradní město",
+      "latitude": 50.05704,
+      "longitude": 14.497351
+    },
+    {
+      "name": "Obvodní oddělení Ústí nad Labem - Krásné Březno",
+      "latitude": 50.66942,
+      "longitude": 14.064913
+    },
+    {
+      "name": "Obvodní oddělení Český Dub",
+      "latitude": 50.660057,
+      "longitude": 14.995781
+    },
+    {
+      "name": "Obvodní ředitelství policie Praha IV",
+      "latitude": 50.054874,
+      "longitude": 14.453715
+    },
+    {
+      "name": "Obvodní ředitelství Praha Ⅰ - MOP Holešovické nádraží",
+      "latitude": 50.109972,
+      "longitude": 14.438631
+    },
+    {
+      "name": "Odbor azylové a migrační politiky",
+      "latitude": 49.225436,
+      "longitude": 17.672127
+    },
+    {
+      "name": "Odbor služby pořádkové policie Brno, oddělení hlavní nádraží",
+      "latitude": 49.190701,
+      "longitude": 16.612517
+    },
+    {
+      "name": "Oddělení obecné a hospodářské kriminality",
+      "latitude": 50.430763,
+      "longitude": 14.923838
+    },
+    {
+      "name": "Oddělení obecné a hospodářské kriminality Rakovník",
+      "latitude": 50.103194,
+      "longitude": 13.729762
+    },
+    {
+      "name": "Oddělení tisku a prevence",
+      "latitude": 50.430638,
+      "longitude": 14.923736
+    },
+    {
+      "name": "Oddělení Velešín",
+      "latitude": 48.829511,
+      "longitude": 14.45837
+    },
+    {
+      "name": "Oddělení zbraní",
+      "latitude": 50.004793,
+      "longitude": 14.414981
+    },
+    {
+      "name": "Okresné riaditeľstvo Policajného zboru v Skalici",
+      "latitude": 48.847693,
+      "longitude": 17.234805
+    },
+    {
+      "name": "Okresní ředitelství",
+      "latitude": 50.199695,
+      "longitude": 15.856867
+    },
+    {
+      "name": "Okresní ředitelství Plzeň-jih",
+      "latitude": 49.745671,
+      "longitude": 13.381387
+    },
+    {
+      "name": "Okresní ředitelství Policie ČR",
+      "latitude": 50.41254,
+      "longitude": 14.921905
+    },
+    {
+      "name": "OO PZ Brodské",
+      "latitude": 48.692138,
+      "longitude": 17.016242
+    },
+    {
+      "name": "OOP Hostinné",
+      "latitude": 50.54157,
+      "longitude": 15.724691
+    },
+    {
+      "name": "Ostraha Letiště Praha",
+      "latitude": 50.094572,
+      "longitude": 14.286228
+    },
+    {
+      "name": "OŘ Praha III - MOP Újezd nad Lesy",
+      "latitude": 50.077136,
+      "longitude": 14.660775
+    },
+    {
+      "name": "OŘ Praha III - Místní oddělení policie Bohnice",
+      "latitude": 50.130683,
+      "longitude": 14.416922
+    },
+    {
+      "name": "OŘ Praha IV - Místní oddělení policie Podolí",
+      "latitude": 50.048262,
+      "longitude": 14.431878
+    },
+    {
+      "name": "Police ČR",
+      "latitude": 50.060617,
+      "longitude": 14.408822
+    },
+    {
+      "name": "Policejní stanice",
+      "latitude": 50.271106,
+      "longitude": 16.109372
+    },
+    {
+      "name": "Policejní stanice",
+      "latitude": 50.77467,
+      "longitude": 14.199745
+    },
+    {
+      "name": "Policejní stanice Ledeč nad Sázavou",
+      "latitude": 49.692658,
+      "longitude": 15.272478
+    },
+    {
+      "name": "Policejní stanice Radovesice",
+      "latitude": 50.409831,
+      "longitude": 14.069162
+    },
+    {
+      "name": "Policejní stanice Vávrovice",
+      "latitude": 49.970129,
+      "longitude": 17.861001
+    },
+    {
+      "name": "Policejní stanice Čechtice",
+      "latitude": 49.623823,
+      "longitude": 15.048025
+    },
+    {
+      "name": "Policie",
+      "latitude": 48.899269,
+      "longitude": 16.816642
+    },
+    {
+      "name": "Policie",
+      "latitude": 49.086604,
+      "longitude": 17.337552
+    },
+    {
+      "name": "Policie",
+      "latitude": 49.108546,
+      "longitude": 16.057936
+    },
+    {
+      "name": "Policie",
+      "latitude": 49.304799,
+      "longitude": 16.527952
+    },
+    {
+      "name": "Policie",
+      "latitude": 49.321571,
+      "longitude": 13.705853
+    },
+    {
+      "name": "Policie",
+      "latitude": 49.460674,
+      "longitude": 18.137899
+    },
+    {
+      "name": "Policie",
+      "latitude": 49.639591,
+      "longitude": 13.160601
+    },
+    {
+      "name": "Policie",
+      "latitude": 49.756542,
+      "longitude": 18.017281
+    },
+    {
+      "name": "Policie",
+      "latitude": 50.115666,
+      "longitude": 14.613741
+    },
+    {
+      "name": "Policie",
+      "latitude": 50.221278,
+      "longitude": 17.194714
+    },
+    {
+      "name": "Policie",
+      "latitude": 50.229027,
+      "longitude": 14.858526
+    },
+    {
+      "name": "Policie",
+      "latitude": 50.477067,
+      "longitude": 13.415872
+    },
+    {
+      "name": "Policie",
+      "latitude": 50.713163,
+      "longitude": 14.396637
+    },
+    {
+      "name": "Policie",
+      "latitude": 50.755717,
+      "longitude": 15.042481
+    },
+    {
+      "name": "Policie",
+      "latitude": 50.761648,
+      "longitude": 15.05397
+    },
+    {
+      "name": "Policie - Nová Role",
+      "latitude": 50.271239,
+      "longitude": 12.78599
+    },
+    {
+      "name": "Policie - Obvodní oddělení Vratislavice nad Nisou",
+      "latitude": 50.743403,
+      "longitude": 15.092518
+    },
+    {
+      "name": "Policie Cheb",
+      "latitude": 50.076597,
+      "longitude": 12.370801
+    },
+    {
+      "name": "Policie CR",
+      "latitude": 50.81792,
+      "longitude": 14.967061
+    },
+    {
+      "name": "Policie Most",
+      "latitude": 50.506438,
+      "longitude": 13.656185
+    },
+    {
+      "name": "Policie Oddělení hlidkové služby",
+      "latitude": 50.948341,
+      "longitude": 14.571478
+    },
+    {
+      "name": "Policie Poběžovice",
+      "latitude": 49.513094,
+      "longitude": 12.803136
+    },
+    {
+      "name": "Policie Tanvald",
+      "latitude": 50.737028,
+      "longitude": 15.306024
+    },
+    {
+      "name": "Policie Teplá",
+      "latitude": 49.982818,
+      "longitude": 12.862173
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.093823,
+      "longitude": 15.893304
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.169131,
+      "longitude": 16.726699
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.218755,
+      "longitude": 17.66467
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.225365,
+      "longitude": 17.672259
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.260177,
+      "longitude": 14.718022
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.55119,
+      "longitude": 17.731894
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.764846,
+      "longitude": 15.909545
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.866356,
+      "longitude": 14.261999
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.910751,
+      "longitude": 16.615539
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.912947,
+      "longitude": 13.978692
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 49.971365,
+      "longitude": 14.505716
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 50.122098,
+      "longitude": 16.220178
+    },
+    {
+      "name": "Policie České Republiky",
+      "latitude": 50.139654,
+      "longitude": 12.808506
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 50.561645,
+      "longitude": 15.899377
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 50.571435,
+      "longitude": 15.898394
+    },
+    {
+      "name": "Policie České republiky",
+      "latitude": 50.800547,
+      "longitude": 14.423062
+    },
+    {
+      "name": "Policie České republiky - Krajské ředitelství Ústeckého kraje",
+      "latitude": 50.659985,
+      "longitude": 14.03608
+    },
+    {
+      "name": "Policie České republiky - Obvodní oddělení Plánice",
+      "latitude": 49.389205,
+      "longitude": 13.476
+    },
+    {
+      "name": "Policie České republiky - Obvodní oddělení policie Ostrava-Mariánské Hory",
+      "latitude": 49.834979,
+      "longitude": 18.251809
+    },
+    {
+      "name": "Policie České republiky - Obvodní oddělení policie Ostrava-Poruba 2",
+      "latitude": 49.841218,
+      "longitude": 18.178614
+    },
+    {
+      "name": "Policie České republiky - OŘ Praha III - MOP Kyje",
+      "latitude": 50.108678,
+      "longitude": 14.579391
+    },
+    {
+      "name": "Policie České republiky - Policejní stanice Radvanice",
+      "latitude": 49.816372,
+      "longitude": 18.344547
+    },
+    {
+      "name": "Policie České republiky - územní odbor Kutná Hora",
+      "latitude": 49.949431,
+      "longitude": 15.271984
+    },
+    {
+      "name": "Policie České Republiky Okříšky",
+      "latitude": 49.243365,
+      "longitude": 15.772041
+    },
+    {
+      "name": "Policie České republiky, Místní oddělení Vysočany",
+      "latitude": 50.106258,
+      "longitude": 14.494205
+    },
+    {
+      "name": "Policie České republiky, Obvodní oddělení Kyjov",
+      "latitude": 49.018073,
+      "longitude": 17.122699
+    },
+    {
+      "name": "Policie České Republiky, Obvodní Oddělení Příbor",
+      "latitude": 49.641975,
+      "longitude": 18.140825
+    },
+    {
+      "name": "Policie České republiky, Obvodní oddělení Řevnice",
+      "latitude": 49.91582,
+      "longitude": 14.239292
+    },
+    {
+      "name": "Policie České repupliky - obvodní oddělení",
+      "latitude": 49.933556,
+      "longitude": 17.89565
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 48.74,
+      "longitude": 16.761934
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 48.758159,
+      "longitude": 16.992735
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 48.852208,
+      "longitude": 17.12236
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 48.902986,
+      "longitude": 17.318579
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 48.916134,
+      "longitude": 17.0998
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 48.974359,
+      "longitude": 14.48445
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 48.974425,
+      "longitude": 14.485481
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.004328,
+      "longitude": 14.761503
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.015009,
+      "longitude": 15.094966
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.054457,
+      "longitude": 13.777419
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.067703,
+      "longitude": 17.462952
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.071102,
+      "longitude": 17.46526
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.080127,
+      "longitude": 15.432916
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.103376,
+      "longitude": 16.377407
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.142019,
+      "longitude": 18.011838
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.150315,
+      "longitude": 15.003135
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.164883,
+      "longitude": 13.882876
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.173512,
+      "longitude": 17.513164
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.181781,
+      "longitude": 16.388653
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.184112,
+      "longitude": 15.28706
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.186671,
+      "longitude": 14.6985
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.195531,
+      "longitude": 16.608691
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.198997,
+      "longitude": 16.616736
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.202398,
+      "longitude": 16.597806
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.221866,
+      "longitude": 17.852265
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.223658,
+      "longitude": 16.596337
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.226037,
+      "longitude": 16.529494
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.249668,
+      "longitude": 16.572095
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.275966,
+      "longitude": 16.994428
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.288958,
+      "longitude": 16.224886
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.294632,
+      "longitude": 14.468901
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.302575,
+      "longitude": 15.073895
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.321395,
+      "longitude": 13.703239
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.472476,
+      "longitude": 17.97244
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.525084,
+      "longitude": 18.753146
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.525804,
+      "longitude": 17.586449
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.526824,
+      "longitude": 12.946555
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.546129,
+      "longitude": 18.212947
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.557677,
+      "longitude": 15.946079
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.55837,
+      "longitude": 13.948472
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.561031,
+      "longitude": 16.071141
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.661053,
+      "longitude": 14.423001
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.672061,
+      "longitude": 13.989153
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.728906,
+      "longitude": 17.298911
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.738666,
+      "longitude": 13.371187
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.74387,
+      "longitude": 15.091189
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.753464,
+      "longitude": 12.994137
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.754034,
+      "longitude": 16.473224
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.777134,
+      "longitude": 17.114739
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.810806,
+      "longitude": 18.274278
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.834582,
+      "longitude": 14.585861
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.859976,
+      "longitude": 13.768938
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.895612,
+      "longitude": 13.381236
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 49.946235,
+      "longitude": 14.03818
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.006459,
+      "longitude": 14.974035
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.038517,
+      "longitude": 17.049945
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.044072,
+      "longitude": 15.79302
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.070669,
+      "longitude": 15.987335
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.071044,
+      "longitude": 14.437062
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.072589,
+      "longitude": 14.731348
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.08101,
+      "longitude": 14.248847
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.128067,
+      "longitude": 14.468814
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.151009,
+      "longitude": 14.513227
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.161591,
+      "longitude": 16.276573
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.186804,
+      "longitude": 14.656528
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.227779,
+      "longitude": 14.585278
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.231058,
+      "longitude": 14.089112
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.232575,
+      "longitude": 12.872785
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.238024,
+      "longitude": 12.748686
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.239537,
+      "longitude": 15.492231
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.261035,
+      "longitude": 14.518743
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.28659,
+      "longitude": 14.09202
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.301206,
+      "longitude": 12.558289
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.322406,
+      "longitude": 12.729957
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.328012,
+      "longitude": 12.510727
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.369046,
+      "longitude": 15.63245
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.381768,
+      "longitude": 13.263571
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.436536,
+      "longitude": 15.348588
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.457707,
+      "longitude": 13.420564
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.464415,
+      "longitude": 15.169481
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.493803,
+      "longitude": 15.513936
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.500718,
+      "longitude": 14.804017
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.509522,
+      "longitude": 16.01903
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.511292,
+      "longitude": 14.056769
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.511482,
+      "longitude": 14.149297
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.533815,
+      "longitude": 15.377597
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.535161,
+      "longitude": 14.125531
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.536384,
+      "longitude": 16.231643
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.591938,
+      "longitude": 15.161667
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.595233,
+      "longitude": 13.655017
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.620195,
+      "longitude": 13.606662
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.627596,
+      "longitude": 15.608326
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.740106,
+      "longitude": 15.166604
+    },
+    {
+      "name": "Policie ČR",
+      "latitude": 50.772966,
+      "longitude": 15.057892
+    },
+    {
+      "name": "Policie ČR - Brno-Komárov",
+      "latitude": 49.186965,
+      "longitude": 16.62178
+    },
+    {
+      "name": "Policie ČR - Cizinecká policie",
+      "latitude": 50.155854,
+      "longitude": 14.136134
+    },
+    {
+      "name": "Policie ČR - Dálniční oddělení Chotoviny",
+      "latitude": 49.473177,
+      "longitude": 14.661901
+    },
+    {
+      "name": "Policie ČR - Dálniční oddělení Ostrov u Stříbra Krajského ředitelství policie Plzeňského kraje",
+      "latitude": 49.705219,
+      "longitude": 13.039664
+    },
+    {
+      "name": "Policie ČR - Inspektorát cizinecké policie",
+      "latitude": 50.020717,
+      "longitude": 15.734172
+    },
+    {
+      "name": "Policie ČR - Krajské ředitelství",
+      "latitude": 50.061411,
+      "longitude": 14.433513
+    },
+    {
+      "name": "Policie ČR - Krajské ředitelství",
+      "latitude": 50.209888,
+      "longitude": 15.82186
+    },
+    {
+      "name": "Policie ČR - Krajské ředitelství policie Libereckého kraje",
+      "latitude": 50.685003,
+      "longitude": 14.52926
+    },
+    {
+      "name": "Policie ČR - Krajské ředitelství policie Středočeského kraje",
+      "latitude": 49.960601,
+      "longitude": 14.380958
+    },
+    {
+      "name": "Policie ČR - místní oddělení Bartolomějská",
+      "latitude": 50.083113,
+      "longitude": 14.417934
+    },
+    {
+      "name": "Policie ČR - místní oddělení Benediktská",
+      "latitude": 50.089796,
+      "longitude": 14.426264
+    },
+    {
+      "name": "Policie ČR - místní oddělení Břevnov",
+      "latitude": 50.088084,
+      "longitude": 14.366856
+    },
+    {
+      "name": "Policie ČR - místní oddělení Jarov",
+      "latitude": 50.090922,
+      "longitude": 14.47027
+    },
+    {
+      "name": "Policie ČR - Místní oddělení Kobylisy",
+      "latitude": 50.121508,
+      "longitude": 14.454932
+    },
+    {
+      "name": "Policie ČR - místní oddělení Krakovská",
+      "latitude": 50.07826,
+      "longitude": 14.427639
+    },
+    {
+      "name": "Policie ČR - místní oddělení Letná",
+      "latitude": 50.099718,
+      "longitude": 14.430644
+    },
+    {
+      "name": "Policie ČR - místní oddělení Libeň",
+      "latitude": 50.104404,
+      "longitude": 14.473028
+    },
+    {
+      "name": "Policie ČR - místní oddělení Malá Strana",
+      "latitude": 50.087283,
+      "longitude": 14.40042
+    },
+    {
+      "name": "Policie ČR - místní oddělení Můstek",
+      "latitude": 50.083813,
+      "longitude": 14.423257
+    },
+    {
+      "name": "Policie ČR - místní oddělení Nové Město",
+      "latitude": 50.071109,
+      "longitude": 14.419159
+    },
+    {
+      "name": "Policie ČR - místní oddělení Nusle",
+      "latitude": 50.061697,
+      "longitude": 14.443912
+    },
+    {
+      "name": "Policie ČR - místní oddělení Pankrác",
+      "latitude": 50.061341,
+      "longitude": 14.426203
+    },
+    {
+      "name": "Policie ČR - místní oddělení Smíchov",
+      "latitude": 50.071879,
+      "longitude": 14.409061
+    },
+    {
+      "name": "Policie ČR - místní oddělení Vinohrady",
+      "latitude": 50.070684,
+      "longitude": 14.434803
+    },
+    {
+      "name": "Policie ČR - místní oddělení Výstaviště",
+      "latitude": 50.107468,
+      "longitude": 14.430903
+    },
+    {
+      "name": "Policie ČR - místní oddělení Žižkov",
+      "latitude": 50.084576,
+      "longitude": 14.454365
+    },
+    {
+      "name": "Policie ČR - Městské ředitelství policie Brno",
+      "latitude": 49.196131,
+      "longitude": 16.616576
+    },
+    {
+      "name": "Policie ČR - Městské ředitelství policie Ostrava",
+      "latitude": 49.840875,
+      "longitude": 18.289068
+    },
+    {
+      "name": "Policie ČR - Oblastní oddělení Velká Bystřice",
+      "latitude": 49.593051,
+      "longitude": 17.358582
+    },
+    {
+      "name": "Policie ČR - Obvod Humpolec",
+      "latitude": 49.540483,
+      "longitude": 15.35716
+    },
+    {
+      "name": "Policie ČR - obvodní oddelení Břeclav",
+      "latitude": 48.762403,
+      "longitude": 16.882733
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení",
+      "latitude": 49.710655,
+      "longitude": 13.648565
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení",
+      "latitude": 49.873614,
+      "longitude": 14.895722
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení",
+      "latitude": 50.147776,
+      "longitude": 16.074149
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení",
+      "latitude": 50.182401,
+      "longitude": 12.550283
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení",
+      "latitude": 50.286276,
+      "longitude": 14.830558
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení",
+      "latitude": 50.332051,
+      "longitude": 15.266499
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení",
+      "latitude": 50.643971,
+      "longitude": 13.832469
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení",
+      "latitude": 50.85627,
+      "longitude": 14.845319
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Aš",
+      "latitude": 50.222811,
+      "longitude": 12.187632
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Benešov",
+      "latitude": 49.780288,
+      "longitude": 14.684669
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Beroun",
+      "latitude": 49.958937,
+      "longitude": 14.071106
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Bohumín",
+      "latitude": 49.902089,
+      "longitude": 18.358758
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Boršov nad Vltavou",
+      "latitude": 48.922716,
+      "longitude": 14.442873
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Brno-Židenice",
+      "latitude": 49.202237,
+      "longitude": 16.609533
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Bruntál",
+      "latitude": 49.986482,
+      "longitude": 17.465921
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Brušperk",
+      "latitude": 49.701015,
+      "longitude": 18.220256
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Bystřice pod Hostýnem",
+      "latitude": 49.398266,
+      "longitude": 17.664024
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Choceň",
+      "latitude": 49.993859,
+      "longitude": 16.224334
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Chrast",
+      "latitude": 49.902239,
+      "longitude": 15.938741
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Dobrovice",
+      "latitude": 50.368181,
+      "longitude": 14.960494
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Dětmarovice",
+      "latitude": 49.897276,
+      "longitude": 18.467144
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Františkovy Lázně",
+      "latitude": 50.123944,
+      "longitude": 12.347863
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Fryšták",
+      "latitude": 49.285123,
+      "longitude": 17.68304
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Frýdlant",
+      "latitude": 50.92062,
+      "longitude": 15.069807
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Frýdlant nad Ostravicí",
+      "latitude": 49.586946,
+      "longitude": 18.359893
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Fulnek",
+      "latitude": 49.713755,
+      "longitude": 17.90562
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Harrachov",
+      "latitude": 50.780916,
+      "longitude": 15.421136
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Havl. Brod",
+      "latitude": 49.609597,
+      "longitude": 15.577289
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Havířov 1",
+      "latitude": 49.780767,
+      "longitude": 18.435112
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Havířov 3",
+      "latitude": 49.80214,
+      "longitude": 18.419154
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Hlučín",
+      "latitude": 49.898135,
+      "longitude": 18.190827
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Hnojník",
+      "latitude": 49.683628,
+      "longitude": 18.540267
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Holešov",
+      "latitude": 49.329584,
+      "longitude": 17.573366
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Horní Suchá",
+      "latitude": 49.801318,
+      "longitude": 18.482529
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Hořovice",
+      "latitude": 49.837969,
+      "longitude": 13.907243
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Hradec nad Moravicí",
+      "latitude": 49.871219,
+      "longitude": 17.877464
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Hulín",
+      "latitude": 49.310258,
+      "longitude": 17.471165
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Jablunkov",
+      "latitude": 49.583151,
+      "longitude": 18.76234
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Kamenice",
+      "latitude": 49.909274,
+      "longitude": 14.587015
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Kaplice",
+      "latitude": 48.735813,
+      "longitude": 14.483042
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Karviná 1",
+      "latitude": 49.867669,
+      "longitude": 18.53182
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Karviná 7",
+      "latitude": 49.859567,
+      "longitude": 18.558371
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Kladno",
+      "latitude": 50.142907,
+      "longitude": 14.09498
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Kladno-Kročehlavy",
+      "latitude": 50.136153,
+      "longitude": 14.132952
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Kravaře",
+      "latitude": 49.931245,
+      "longitude": 18.008395
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Krnov",
+      "latitude": 50.090767,
+      "longitude": 17.693443
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Křemže",
+      "latitude": 48.90595,
+      "longitude": 14.308
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Liberec město",
+      "latitude": 50.77543,
+      "longitude": 15.05455
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Libčice nad Vltavou",
+      "latitude": 50.198136,
+      "longitude": 14.361406
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Lipno nad Vltavou",
+      "latitude": 48.639747,
+      "longitude": 14.232586
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Lišov",
+      "latitude": 49.015447,
+      "longitude": 14.607955
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Luhačovice",
+      "latitude": 49.094927,
+      "longitude": 17.746219
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Lysá nad Labem",
+      "latitude": 50.202985,
+      "longitude": 14.840696
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Mladá Boleslav I",
+      "latitude": 50.428888,
+      "longitude": 14.917172
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Mladá Boleslav II",
+      "latitude": 50.411616,
+      "longitude": 14.902421
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Mladá Vožice",
+      "latitude": 49.5322,
+      "longitude": 14.808338
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Moravské Budějovicepobočka Moravské Budějovice",
+      "latitude": 49.057734,
+      "longitude": 15.802953
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Město Albrechtice",
+      "latitude": 50.164654,
+      "longitude": 17.57209
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Nové Město pod Smrkem",
+      "latitude": 50.925063,
+      "longitude": 15.231113
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Nošovice",
+      "latitude": 49.670049,
+      "longitude": 18.437089
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Olomouc I",
+      "latitude": 49.596432,
+      "longitude": 17.254144
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Olomouc II",
+      "latitude": 49.579472,
+      "longitude": 17.240157
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Orlová",
+      "latitude": 49.859529,
+      "longitude": 18.426365
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Ostrava-Hrabůvka",
+      "latitude": 49.785297,
+      "longitude": 18.264464
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Ostrava-Zábřeh",
+      "latitude": 49.791414,
+      "longitude": 18.239073
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Petřvald",
+      "latitude": 49.830999,
+      "longitude": 18.390093
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Pečky",
+      "latitude": 50.092154,
+      "longitude": 15.033866
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Poděbrady",
+      "latitude": 50.145857,
+      "longitude": 15.118943
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Poruba 1",
+      "latitude": 49.826153,
+      "longitude": 18.174311
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Prostějov II",
+      "latitude": 49.481097,
+      "longitude": 17.154545
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Přeštice",
+      "latitude": 49.572339,
+      "longitude": 13.328848
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Přívoz",
+      "latitude": 49.851658,
+      "longitude": 18.268097
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Rýmařov",
+      "latitude": 49.933838,
+      "longitude": 17.269522
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Skuteč",
+      "latitude": 49.841195,
+      "longitude": 15.992672
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Slavičín",
+      "latitude": 49.083953,
+      "longitude": 17.882179
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Slezská Ostrava",
+      "latitude": 49.844683,
+      "longitude": 18.294782
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Starý Plzenec",
+      "latitude": 49.697407,
+      "longitude": 13.477816
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Stochov",
+      "latitude": 50.147502,
+      "longitude": 13.95639
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Studénka",
+      "latitude": 49.713238,
+      "longitude": 18.054219
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Trhové Sviny",
+      "latitude": 48.839837,
+      "longitude": 14.637366
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Těrlicko",
+      "latitude": 49.753383,
+      "longitude": 18.492251
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Třemošnice",
+      "latitude": 49.870123,
+      "longitude": 15.58318
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Třinec",
+      "latitude": 49.671307,
+      "longitude": 18.658971
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Uherský Brod",
+      "latitude": 49.028327,
+      "longitude": 17.656528
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Veselí nad Moravou",
+      "latitude": 48.951901,
+      "longitude": 17.37966
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Vizovice",
+      "latitude": 49.222077,
+      "longitude": 17.852124
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Vlašim",
+      "latitude": 49.702993,
+      "longitude": 14.896881
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Votice",
+      "latitude": 49.638451,
+      "longitude": 14.638815
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Vratimov",
+      "latitude": 49.770899,
+      "longitude": 18.307583
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Vrbno pod Pradědem",
+      "latitude": 50.120762,
+      "longitude": 17.384132
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Vítkov",
+      "latitude": 49.777101,
+      "longitude": 17.75462
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Zlaté Hory",
+      "latitude": 50.262534,
+      "longitude": 17.393306
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Zábřeh",
+      "latitude": 49.882438,
+      "longitude": 16.879745
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Čelákovice",
+      "latitude": 50.161346,
+      "longitude": 14.741069
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Česká Lípa",
+      "latitude": 50.685707,
+      "longitude": 14.532943
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení České Budějovice - město",
+      "latitude": 48.979676,
+      "longitude": 14.474067
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení České Budějovice - Suché Vrbné",
+      "latitude": 48.973533,
+      "longitude": 14.497464
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení České Budějovice - Čtyři Dvory",
+      "latitude": 48.985171,
+      "longitude": 14.431945
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Český Těšín",
+      "latitude": 49.740588,
+      "longitude": 18.60858
+    },
+    {
+      "name": "Policie ČR - Obvodní oddělení Špindlerův Mlýn",
+      "latitude": 50.725378,
+      "longitude": 15.602595
+    },
+    {
+      "name": "Policie ČR - obvodní oddělení Šumperk",
+      "latitude": 49.965081,
+      "longitude": 16.967509
+    },
+    {
+      "name": "Policie ČR - obvodní služebna Praha 15",
+      "latitude": 50.042068,
+      "longitude": 14.55328
+    },
+    {
+      "name": "Policie ČR - Odbor služby pro zbraně a bezpečnostní materiál",
+      "latitude": 50.05883,
+      "longitude": 14.410007
+    },
+    {
+      "name": "Policie ČR - Oddělení hlídkové služby",
+      "latitude": 50.078789,
+      "longitude": 14.428747
+    },
+    {
+      "name": "Policie ČR - Oddělení hlídkové služby",
+      "latitude": 50.645248,
+      "longitude": 13.828934
+    },
+    {
+      "name": "Policie ČR - Oddělení hlídkové služby České Budějovice",
+      "latitude": 48.982938,
+      "longitude": 14.463979
+    },
+    {
+      "name": "Policie ČR - oddělení Kašperské Hory",
+      "latitude": 49.144217,
+      "longitude": 13.555699
+    },
+    {
+      "name": "Policie ČR - OHS Chodov",
+      "latitude": 50.045605,
+      "longitude": 14.493399
+    },
+    {
+      "name": "Policie ČR - Okresní ředitelství Děčín",
+      "latitude": 50.782449,
+      "longitude": 14.216188
+    },
+    {
+      "name": "Policie ČR - OO Chotěboř",
+      "latitude": 49.719836,
+      "longitude": 15.667443
+    },
+    {
+      "name": "Policie ČR - OO Moravská Třebová",
+      "latitude": 49.75884,
+      "longitude": 16.660665
+    },
+    {
+      "name": "Policie ČR - OO Světlá nad Sázavou",
+      "latitude": 49.667428,
+      "longitude": 15.403579
+    },
+    {
+      "name": "Policie ČR - OO Čáslav",
+      "latitude": 49.910595,
+      "longitude": 15.393487
+    },
+    {
+      "name": "Policie ČR - OŽP Wilsonovo nádraží",
+      "latitude": 50.082986,
+      "longitude": 14.433637
+    },
+    {
+      "name": "Policie ČR - Policejní stanice Břidličná",
+      "latitude": 49.911489,
+      "longitude": 17.367574
+    },
+    {
+      "name": "Policie ČR - Policejní stanice Horní Benešov",
+      "latitude": 49.965264,
+      "longitude": 17.604797
+    },
+    {
+      "name": "Policie ČR - Policejní stanice Slezské Rudoltice",
+      "latitude": 50.207673,
+      "longitude": 17.677734
+    },
+    {
+      "name": "Policie ČR - Tachov",
+      "latitude": 49.806371,
+      "longitude": 12.644403
+    },
+    {
+      "name": "Policie ČR - územní odbor Břeclav",
+      "latitude": 48.761995,
+      "longitude": 16.882454
+    },
+    {
+      "name": "Policie ČR - územní odbor Kladno",
+      "latitude": 50.146229,
+      "longitude": 14.099531
+    },
+    {
+      "name": "Policie ČR - územní odbor Mladá Boleslav",
+      "latitude": 50.430833,
+      "longitude": 14.923862
+    },
+    {
+      "name": "Policie ČR - Územní odbor Opava",
+      "latitude": 49.936664,
+      "longitude": 17.9052
+    },
+    {
+      "name": "Policie ČR - Územní odbor České Budějovice",
+      "latitude": 48.957402,
+      "longitude": 14.475887
+    },
+    {
+      "name": "Policie ČR - územní odbor Šumperk",
+      "latitude": 49.965588,
+      "longitude": 16.967285
+    },
+    {
+      "name": "Policie ČR - Železná Ruda",
+      "latitude": 49.137773,
+      "longitude": 13.232378
+    },
+    {
+      "name": "Policie ČR -Ustředí/Obvodni oddeleni",
+      "latitude": 49.398255,
+      "longitude": 15.573619
+    },
+    {
+      "name": "Policie ČR Holýšov",
+      "latitude": 49.593359,
+      "longitude": 13.099787
+    },
+    {
+      "name": "Policie ČR obvodní oddělení Heřmanův Městec",
+      "latitude": 49.947364,
+      "longitude": 15.665061
+    },
+    {
+      "name": "Policie ČR obvodní oddělení Plzeň 1",
+      "latitude": 49.775608,
+      "longitude": 13.373629
+    },
+    {
+      "name": "Policie ČR OO Kladno venkov",
+      "latitude": 50.166578,
+      "longitude": 14.106957
+    },
+    {
+      "name": "Policie ČR Přerov II",
+      "latitude": 49.452158,
+      "longitude": 17.445666
+    },
+    {
+      "name": "Policie ČR služebna Bojkovice",
+      "latitude": 49.037683,
+      "longitude": 17.812598
+    },
+    {
+      "name": "Policie ČR – obvodní oddělení Vítkovice",
+      "latitude": 49.808221,
+      "longitude": 18.251305
+    },
+    {
+      "name": "Policie ČR – Oddělení hlídkové služby České Budějovice",
+      "latitude": 48.974649,
+      "longitude": 14.487914
+    },
+    {
+      "name": "Policie ČR, - OO Kolín",
+      "latitude": 50.026821,
+      "longitude": 15.205064
+    },
+    {
+      "name": "Policie ČR, Brno-Výstaviště",
+      "latitude": 49.186118,
+      "longitude": 16.587629
+    },
+    {
+      "name": "Policie ČR, Místní oddělení policie Spořilov",
+      "latitude": 50.048419,
+      "longitude": 14.487467
+    },
+    {
+      "name": "Policie ČR, místní oddělení Strašnice",
+      "latitude": 50.070954,
+      "longitude": 14.493852
+    },
+    {
+      "name": "Policie ČR, místní oddělení Vršovice",
+      "latitude": 50.065245,
+      "longitude": 14.460391
+    },
+    {
+      "name": "Policie ČR, obvodní oddělení",
+      "latitude": 49.948598,
+      "longitude": 15.266576
+    },
+    {
+      "name": "Policie ČR, obvodní oddělení",
+      "latitude": 50.227507,
+      "longitude": 14.429812
+    },
+    {
+      "name": "Policie ČR, obvodní oddělení Milevsko",
+      "latitude": 49.450011,
+      "longitude": 14.359858
+    },
+    {
+      "name": "Policie ČR, obvodní oddělení Rajhrad",
+      "latitude": 49.089799,
+      "longitude": 16.601613
+    },
+    {
+      "name": "Policie ČR, Obvodní oddělení Rumburk",
+      "latitude": 50.955894,
+      "longitude": 14.54875
+    },
+    {
+      "name": "Policie ČR, obvodní oddělení Třebíč",
+      "latitude": 49.213278,
+      "longitude": 15.882719
+    },
+    {
+      "name": "Policie ČR, Obvodní ředitelství policie Praha IV, Služba kriminální policie a vyšetřování",
+      "latitude": 50.065403,
+      "longitude": 14.460955
+    },
+    {
+      "name": "Policie ČR, OO Litomyšl",
+      "latitude": 49.870655,
+      "longitude": 16.309941
+    },
+    {
+      "name": "Policie ČR, služba cizinecké policie",
+      "latitude": 49.950188,
+      "longitude": 15.264387
+    },
+    {
+      "name": "Policie ČR, služebna Otrokovice",
+      "latitude": 49.208424,
+      "longitude": 17.535413
+    },
+    {
+      "name": "Policie, Městská policie",
+      "latitude": 50.154623,
+      "longitude": 13.8947
+    },
+    {
+      "name": "Policie, Obvodní oddělení Telč",
+      "latitude": 49.178783,
+      "longitude": 15.453761
+    },
+    {
+      "name": "Polizeiinspektion Gmünd",
+      "latitude": 48.767022,
+      "longitude": 14.977767
+    },
+    {
+      "name": "Polizeiinspektion Gmünd - FGP",
+      "latitude": 48.774778,
+      "longitude": 14.981601
+    },
+    {
+      "name": "Polizeiinspektion Laa an der Thaya - FGP",
+      "latitude": 48.725183,
+      "longitude": 16.376158
+    },
+    {
+      "name": "Polizeirevier Sebnitz",
+      "latitude": 50.974405,
+      "longitude": 14.275963
+    },
+    {
+      "name": "Polizeistandort Ebersbach",
+      "latitude": 51.00998,
+      "longitude": 14.582204
+    },
+    {
+      "name": "Polizeistandort Großschönau",
+      "latitude": 50.896293,
+      "longitude": 14.658582
+    },
+    {
+      "name": "Polizeistandort Oberwiesenthal",
+      "latitude": 50.419549,
+      "longitude": 12.972101
+    },
+    {
+      "name": "Polizeistandort Seifhennersdorf",
+      "latitude": 50.9218,
+      "longitude": 14.607478
+    },
+    {
+      "name": "Posterunek Policji w Gołkowicach",
+      "latitude": 49.903756,
+      "longitude": 18.505936
+    },
+    {
+      "name": "Poříční policie",
+      "latitude": 50.18322,
+      "longitude": 15.039712
+    },
+    {
+      "name": "Praha - Ruzyně",
+      "latitude": 50.107991,
+      "longitude": 14.273127
+    },
+    {
+      "name": "Preventivně informační oddělení policie",
+      "latitude": 49.745623,
+      "longitude": 13.384827
+    },
+    {
+      "name": "PČR",
+      "latitude": 49.294046,
+      "longitude": 13.146593
+    },
+    {
+      "name": "PČR",
+      "latitude": 49.3694,
+      "longitude": 16.644234
+    },
+    {
+      "name": "PČR",
+      "latitude": 49.396109,
+      "longitude": 13.289371
+    },
+    {
+      "name": "PČR",
+      "latitude": 49.400902,
+      "longitude": 13.286073
+    },
+    {
+      "name": "PČR",
+      "latitude": 50.626276,
+      "longitude": 15.812705
+    },
+    {
+      "name": "PČR - Obvodní oddělení Slavkov u Brna",
+      "latitude": 49.153816,
+      "longitude": 16.876725
+    },
+    {
+      "name": "PČR Bílina",
+      "latitude": 50.5568,
+      "longitude": 13.784155
+    },
+    {
+      "name": "PČR Jirkov",
+      "latitude": 50.494062,
+      "longitude": 13.444109
+    },
+    {
+      "name": "PČR místní oddělení Lhotka",
+      "latitude": 50.016914,
+      "longitude": 14.445998
+    },
+    {
+      "name": "PČR Obvodní oddělení Ostrava - střed",
+      "latitude": 49.834412,
+      "longitude": 18.282849
+    },
+    {
+      "name": "PČR obvodní oddělení Sokolov - město",
+      "latitude": 50.177217,
+      "longitude": 12.657681
+    },
+    {
+      "name": "PČR Obvodní oddělení Sušice",
+      "latitude": 49.23037,
+      "longitude": 13.522684
+    },
+    {
+      "name": "PČR odděl. Morkovice",
+      "latitude": 49.247242,
+      "longitude": 17.205671
+    },
+    {
+      "name": "PČR Smiřice",
+      "latitude": 50.299791,
+      "longitude": 15.865451
+    },
+    {
+      "name": "PČR Vinice",
+      "latitude": 49.759985,
+      "longitude": 13.353408
+    },
+    {
+      "name": "PČR Červený Kostelec",
+      "latitude": 50.479757,
+      "longitude": 16.086696
+    },
+    {
+      "name": "PČR Česká Skalice",
+      "latitude": 50.397924,
+      "longitude": 16.046969
+    },
+    {
+      "name": "PČR Žacléř",
+      "latitude": 50.655025,
+      "longitude": 15.908012
+    },
+    {
+      "name": "PČR, OOP Rumburk",
+      "latitude": 50.955859,
+      "longitude": 14.548708
+    },
+    {
+      "name": "Přestupkové oddělení Městské policie Pardubice",
+      "latitude": 50.019923,
+      "longitude": 15.771779
+    },
+    {
+      "name": "Sekce malé technické služby",
+      "latitude": 50.092033,
+      "longitude": 14.533487
+    },
+    {
+      "name": "Služba cizinecké policie",
+      "latitude": 50.238255,
+      "longitude": 12.841502
+    },
+    {
+      "name": "Služebna MP Plzeň-Vinice",
+      "latitude": 49.760877,
+      "longitude": 13.34922
+    },
+    {
+      "name": "Služebna Městské policie",
+      "latitude": 49.419026,
+      "longitude": 15.59239
+    },
+    {
+      "name": "Služebna měststké policie",
+      "latitude": 50.765638,
+      "longitude": 15.057573
+    },
+    {
+      "name": "Společné kontaktní pracoviště Hodonín-Holíč",
+      "latitude": 48.841541,
+      "longitude": 17.127451
+    },
+    {
+      "name": "Správa moravskoslezského kraje Policie ČR",
+      "latitude": 49.840264,
+      "longitude": 18.290482
+    },
+    {
+      "name": "SSÚD",
+      "latitude": 49.519953,
+      "longitude": 14.070272
+    },
+    {
+      "name": "SSÚD Mirošovice",
+      "latitude": 49.910716,
+      "longitude": 14.706782
+    },
+    {
+      "name": "Státní Policie České repulibky Bílina",
+      "latitude": 50.557065,
+      "longitude": 13.783938
+    },
+    {
+      "name": "Velitelství Měst. Policie",
+      "latitude": 50.734764,
+      "longitude": 15.309231
+    },
+    {
+      "name": "Vingl restaurant",
+      "latitude": 49.229588,
+      "longitude": 16.517242
+    },
+    {
+      "name": "Vojenská policie",
+      "latitude": 50.215813,
+      "longitude": 14.692787
+    },
+    {
+      "name": "Územní odbor Semily",
+      "latitude": 50.609883,
+      "longitude": 15.338756
+    },
+    {
+      "name": "Územní odbor Tábor",
+      "latitude": 49.390632,
+      "longitude": 14.691549
+    },
+    {
+      "name": "Ředitelství MP Praha 3",
+      "latitude": 50.084014,
+      "longitude": 14.456094
+    },
+    {
+      "name": "Železniční policie (zruš.)",
+      "latitude": 49.742233,
+      "longitude": 13.388011
+    },
+    {
+      "name": "‎Policie ČR - OO Chrudim",
+      "latitude": 49.956706,
+      "longitude": 15.775272
+    },
+    {
+      "name": "‎Policie ČR - OO Uhlířské Janovice",
+      "latitude": 49.882784,
+      "longitude": 15.06628
+    }
+  ],
+  "meta": {
+    "title": "České policejní stanice - Stáhnout zdarma",
+    "description": "Seznam pojmenovaných policejních stanic v Česku (amenity=police) z OpenStreetMap. Obsahuje 790 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "České policejní stanice | ListBase",
+    "seo_description": "Stáhnout České policejní stanice — 790 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 790 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

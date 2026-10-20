@@ -1,0 +1,257 @@
+{
+  "id": "finance-container-codes",
+  "name": "Dataset Kódů a Specifikací Přepravních Kontejnerů ISO 6346",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "iso_code",
+      "label": "ISO Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Container Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "length_ft",
+      "label": "Length (ft)",
+      "type": "number"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (L×W×H m)",
+      "type": "string"
+    },
+    {
+      "key": "capacity_cbm",
+      "label": "Capacity (m³)",
+      "type": "number"
+    },
+    {
+      "key": "max_payload_kg",
+      "label": "Max Payload (kg)",
+      "type": "number"
+    },
+    {
+      "key": "tare_weight_kg",
+      "label": "Tare Weight (kg)",
+      "type": "number"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "20GP",
+      "iso_code": "22G1",
+      "name": "20ft Všeobecné Použití",
+      "category": "Suchý",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 33.2,
+      "max_payload_kg": 28200,
+      "tare_weight_kg": 2300,
+      "description": "Standardní 20stopý suchý kontejner"
+    },
+    {
+      "code": "40GP",
+      "iso_code": "42G1",
+      "name": "40ft Všeobecné Použití",
+      "category": "Suchý",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 67.7,
+      "max_payload_kg": 26680,
+      "tare_weight_kg": 3800,
+      "description": "Standardní 40stopý suchý kontejner"
+    },
+    {
+      "code": "40HC",
+      "iso_code": "45G1",
+      "name": "40ft High Cube",
+      "category": "Suchý",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 76.3,
+      "max_payload_kg": 26460,
+      "tare_weight_kg": 4020,
+      "description": "Kontejner high cube s extra výškou"
+    },
+    {
+      "code": "45HC",
+      "iso_code": "45G1",
+      "name": "45ft High Cube",
+      "category": "Suchý",
+      "length_ft": 45,
+      "dimensions": "13.72 × 2.44 × 2.89",
+      "capacity_cbm": 86.1,
+      "max_payload_kg": 25600,
+      "tare_weight_kg": 4800,
+      "description": "45stopý kontejner high cube"
+    },
+    {
+      "code": "20RF",
+      "iso_code": "22R1",
+      "name": "20ft Chladicí",
+      "category": "Chladicí",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 28.3,
+      "max_payload_kg": 27400,
+      "tare_weight_kg": 3080,
+      "description": "20stopý chladicí kontejner"
+    },
+    {
+      "code": "40RF",
+      "iso_code": "42R1",
+      "name": "40ft Chladicí",
+      "category": "Chladicí",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 59.3,
+      "max_payload_kg": 26280,
+      "tare_weight_kg": 4200,
+      "description": "40stopý chladicí kontejner"
+    },
+    {
+      "code": "40RH",
+      "iso_code": "45R1",
+      "name": "40ft Chladicí High Cube",
+      "category": "Chladicí",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.89",
+      "capacity_cbm": 67.5,
+      "max_payload_kg": 25900,
+      "tare_weight_kg": 4580,
+      "description": "Chladicí kontejner high cube"
+    },
+    {
+      "code": "20OT",
+      "iso_code": "22U1",
+      "name": "20ft Otevřená Střecha",
+      "category": "Otevřená Střecha",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 32.5,
+      "max_payload_kg": 28100,
+      "tare_weight_kg": 2400,
+      "description": "Otevřená střecha pro nadrozměrný náklad"
+    },
+    {
+      "code": "40OT",
+      "iso_code": "42U1",
+      "name": "40ft Otevřená Střecha",
+      "category": "Otevřená Střecha",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 65.9,
+      "max_payload_kg": 26500,
+      "tare_weight_kg": 3980,
+      "description": "40stopý kontejner s otevřenou střechou"
+    },
+    {
+      "code": "20FR",
+      "iso_code": "22P1",
+      "name": "20ft Plochý Nosič",
+      "category": "Plochý Nosič",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 28600,
+      "tare_weight_kg": 2700,
+      "description": "Bez stěn/střechy pro těžké stroje"
+    },
+    {
+      "code": "40FR",
+      "iso_code": "42P1",
+      "name": "40ft Plochý Nosič",
+      "category": "Plochý Nosič",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 2.59",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5700,
+      "description": "40stopý kontejner s plochým nosičem"
+    },
+    {
+      "code": "20TK",
+      "iso_code": "22T1",
+      "name": "20ft Tank",
+      "category": "Tank",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 2.59",
+      "capacity_cbm": 21,
+      "max_payload_kg": 26000,
+      "tare_weight_kg": 4480,
+      "description": "Pro přepravu kapalin/plynů"
+    },
+    {
+      "code": "20PL",
+      "iso_code": "22P3",
+      "name": "20ft Platforma",
+      "category": "Platforma",
+      "length_ft": 20,
+      "dimensions": "6.06 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 30000,
+      "tare_weight_kg": 2500,
+      "description": "Plochá platforma, bez stěn"
+    },
+    {
+      "code": "40PL",
+      "iso_code": "42P3",
+      "name": "40ft Platforma",
+      "category": "Platforma",
+      "length_ft": 40,
+      "dimensions": "12.19 × 2.44 × 0",
+      "capacity_cbm": 0,
+      "max_payload_kg": 40000,
+      "tare_weight_kg": 5000,
+      "description": "40stopý kontejner platforma"
+    }
+  ],
+  "meta": {
+    "seo_title": "Kódy Kontejnerů ISO 6346 - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma data kódů kontejnerů ISO 6346. Získejte 14 záznamů s rozměry, kapacitou a nosností. Dostupné ve formátech Excel, CSV, PDF.",
+    "title": "Dataset Kódů a Specifikací Přepravních Kontejnerů ISO 6346",
+    "description": "Tento dataset poskytuje komplexní seznam 14 kódů kontejnerů ISO 6346, podrobně popisující jejich typy, rozměry, kapacity a hmotnostní specifikace pro různé přepravní kontejnery.",
+    "key_takeaways": [
+      "Získejte přístup k podrobným specifikacím pro 14 běžných typů kontejnerů ISO 6346.",
+      "Prozkoumejte rozměry kontejnerů, kapacity, maximální nosnosti a pohotovostní hmotnosti.",
+      "Stáhněte si hotový referenční materiál pro analýzu logistiky, přepravy a dodavatelského řetězce.",
+      "Využijte přesná data pro plánování nákladu a optimalizaci využití kontejnerů."
+    ],
+    "keywords": [
+      "kódy kontejnerů ISO 6346",
+      "rozměry přepravních kontejnerů",
+      "data nákladních kontejnerů",
+      "specifikace kontejnerů excel",
+      "typy kontejnerů ISO csv",
+      "kapacita nosnost kontejneru pdf"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo Python skriptů pro integraci specifikací kontejnerů do systémů řízení logistiky nebo nástrojů pro výpočet přepravy.",
+      "Použijte soubor **Excel** k vytváření kontingenčních tabulek, filtrování typů kontejnerů a analýze kapacit pro optimální plánování přepravních tras a nakládání nákladu.",
+      "Vytiskněte **PDF** verzi pro referenční účely ve třídě, operační manuály nebo rychlé offline vyhledávání ve skladu.",
+      "Odkazujte se na tento dataset pro ověřování kontejnerových deklarací, pochopení mezinárodních přepravních standardů nebo vytváření vzdělávacích materiálů o globálním obchodu."
+    ]
+  },
+  "record_count": 14,
+  "title": "Dataset Kódů a Specifikací Přepravních Kontejnerů ISO 6346"
+}

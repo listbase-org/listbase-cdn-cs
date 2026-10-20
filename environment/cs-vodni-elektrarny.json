@@ -1,0 +1,310 @@
+{
+  "id": "cs-vodni-elektrarny",
+  "name": "Vodní elektrárny v Česku",
+  "title": "Vodní elektrárny v Česku",
+  "description": "Vodní elektrárny v Česku. All 9 hydro power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "number"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "number"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "number"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "number"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 540,
+      "name": "Stechovice",
+      "fueltype": "Hydro",
+      "technology": "Pumped Storage",
+      "set": "Store",
+      "country": "Czechia",
+      "capacity_mw": 45,
+      "efficiency": "",
+      "date_in": 1943,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.8465,
+      "lon": 14.4219,
+      "duration_h": "",
+      "volume_mm3": 11.2,
+      "dam_height_m": 22.5,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001027224; GEO: GEO-42360, GEO-42361; GPD: WRI1019180, WRI1019202; JRC: JRC-H1325, JRC-H932; OPSD: OEU-562"
+    },
+    {
+      "id": 622,
+      "name": "Dlouhe Strane",
+      "fueltype": "Hydro",
+      "technology": "Pumped Storage",
+      "set": "Store",
+      "country": "Czechia",
+      "capacity_mw": 638,
+      "efficiency": "",
+      "date_in": 1996,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.0854,
+      "lon": 17.1795,
+      "duration_h": "",
+      "volume_mm3": 2.72,
+      "dam_height_m": 56,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 27W-PU-EDST----Z; GEM: G100000601485; GEO: GEO-42364; GPD: WRI1019204; JRC: JRC-H40"
+    },
+    {
+      "id": 623,
+      "name": "Dalesice",
+      "fueltype": "Hydro",
+      "technology": "Pumped Storage",
+      "set": "Store",
+      "country": "Czechia",
+      "capacity_mw": 472,
+      "efficiency": "",
+      "date_in": 1978,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.1245,
+      "lon": 16.1244,
+      "duration_h": 4.791666666666667,
+      "volume_mm3": 127.3,
+      "dam_height_m": 100,
+      "storage_capacity_mwh": 2300,
+      "eic": "",
+      "project_ids": "ENTSOE: 27W-PU-EDAL----O; GEM: G100000601484; GEO: GEO-42363; GPD: WRI1019203; JRC: JRC-H64"
+    },
+    {
+      "id": 655,
+      "name": "Slapy",
+      "fueltype": "Hydro",
+      "technology": "Reservoir",
+      "set": "Store",
+      "country": "Czechia",
+      "capacity_mw": 132,
+      "efficiency": "",
+      "date_in": 1954,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.8238,
+      "lon": 14.4342,
+      "duration_h": "",
+      "volume_mm3": 269.3,
+      "dam_height_m": 70,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 27W-PU-ESLA----4; GEM: G100000601488; GEO: GEO-42359; GPD: WRI1019179; JRC: JRC-H349"
+    },
+    {
+      "id": 667,
+      "name": "Orlik",
+      "fueltype": "Hydro",
+      "technology": "Reservoir",
+      "set": "Store",
+      "country": "Czechia",
+      "capacity_mw": 360,
+      "efficiency": "",
+      "date_in": 1961,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.6062,
+      "lon": 14.1822,
+      "duration_h": "",
+      "volume_mm3": 716.5,
+      "dam_height_m": 91,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 27W-PU-EORK----8; GEM: G100000601487; GEO: GEO-42362; GPD: WRI1019177; JRC: JRC-H107"
+    },
+    {
+      "id": 1065,
+      "name": "Lipno",
+      "fueltype": "Hydro",
+      "technology": "Reservoir",
+      "set": "Store",
+      "country": "Czechia",
+      "capacity_mw": 120,
+      "efficiency": "",
+      "date_in": 1954,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 48.6332,
+      "lon": 14.2373,
+      "duration_h": "",
+      "volume_mm3": 306,
+      "dam_height_m": 42,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000601486; GEO: GEO-42358; GPD: WRI1019176, WRI1019183; JRC: JRC-H434"
+    },
+    {
+      "id": 5756,
+      "name": "Vrane Republic Vrane Czech Republic Vrane Czech Republic",
+      "fueltype": "Hydro",
+      "technology": "Reservoir",
+      "set": "Store",
+      "country": "Czechia",
+      "capacity_mw": 9.38390228451035,
+      "efficiency": "",
+      "date_in": 1936,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.9381,
+      "lon": 14.3749,
+      "duration_h": "",
+      "volume_mm3": 11.1,
+      "dam_height_m": 10,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEO: GEO-42366; JRC: JRC-H1784"
+    },
+    {
+      "id": 5757,
+      "name": "Strekov Republic Strekov Czech Republic Strekov Czech Republic",
+      "fueltype": "Hydro",
+      "technology": "Run-Of-River",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 13.1834362066247,
+      "efficiency": "",
+      "date_in": 1936,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 50.6386,
+      "lon": 14.0478,
+      "duration_h": "",
+      "volume_mm3": 10.96,
+      "dam_height_m": 17,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEO: GEO-42367; JRC: JRC-H1614"
+    },
+    {
+      "id": 5758,
+      "name": "Kamyk Republic Kamyk Czech Republic Kamyk Czech Republic",
+      "fueltype": "Hydro",
+      "technology": "Run-Of-River",
+      "set": "PP",
+      "country": "Czechia",
+      "capacity_mw": 27.0429460648713,
+      "efficiency": "",
+      "date_in": 1961,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 49.633,
+      "lon": 14.2468,
+      "duration_h": "",
+      "volume_mm3": 12.8,
+      "dam_height_m": 24,
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEO: GEO-42365; JRC: JRC-H1193"
+    }
+  ],
+  "meta": {
+    "title": "Vodní elektrárny v Česku - Stáhnout zdarma",
+    "description": "Vodní elektrárny v Česku. All 9 hydro power generation/storage units in Czechia carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of cs-elektrarny (zero derivation). Obsahuje 9 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Vodní elektrárny v Česku | ListBase",
+    "seo_description": "Stáhnout Vodní elektrárny v Česku — 9 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 9 záznamů / 19 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "cs-jednotky-acceleration",
+  "name": "Měrné jednotky: acceleration (2)",
+  "title": "Měrné jednotky: acceleration (2)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'acceleration'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategorie": "acceleration",
+      "nazev": "gravitační síla",
+      "vzor_jednotne": "{0} gravitační síla",
+      "vzor_mnozne": "{0} gravitačních sil",
+      "kratky_vzor": "{0} G",
+      "uzky_vzor": "{0} G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategorie": "acceleration",
+      "nazev": "metry za sekundu na druhou",
+      "vzor_jednotne": "{0} metr za sekundu na druhou",
+      "vzor_mnozne": "{0} metrů za sekundu na druhou",
+      "kratky_vzor": "{0} m/s²",
+      "uzky_vzor": "{0} m/s²"
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: acceleration (2) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'acceleration'. Obsahuje 2 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: acceleration (2) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: acceleration (2) — 2 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 2 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,1961 @@
+{
+  "id": "geo-timezones",
+  "name": "Sada Dat Globálních Časových Pásem Zemí a Posunů UTC",
+  "category": "geography",
+  "source": "https://restcountries.com/v3.1/independent?status=true",
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "iso_alpha2",
+      "label": "ISO Alpha-2",
+      "type": "string"
+    },
+    {
+      "key": "iso_alpha3",
+      "label": "ISO Alpha-3",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Country (EN)",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "utc_offset",
+      "label": "UTC Offset",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_alpha2": "AF",
+      "iso_alpha3": "AFG",
+      "name": "Afghanistan",
+      "timezone": "UTC+04:30",
+      "utc_offset": "UTC+04:30"
+    },
+    {
+      "iso_alpha2": "AL",
+      "iso_alpha3": "ALB",
+      "name": "Albania",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "DZ",
+      "iso_alpha3": "DZA",
+      "name": "Algeria",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "AD",
+      "iso_alpha3": "AND",
+      "name": "Andorra",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "AO",
+      "iso_alpha3": "AGO",
+      "name": "Angola",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "AG",
+      "iso_alpha3": "ATG",
+      "name": "Antigua and Barbuda",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "AR",
+      "iso_alpha3": "ARG",
+      "name": "Argentina",
+      "timezone": "UTC-03:00",
+      "utc_offset": "UTC-03:00"
+    },
+    {
+      "iso_alpha2": "AM",
+      "iso_alpha3": "ARM",
+      "name": "Armenia",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+06:30",
+      "utc_offset": "UTC+06:30"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+09:30",
+      "utc_offset": "UTC+09:30"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+10:00",
+      "utc_offset": "UTC+10:00"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+10:30",
+      "utc_offset": "UTC+10:30"
+    },
+    {
+      "iso_alpha2": "AU",
+      "iso_alpha3": "AUS",
+      "name": "Australia",
+      "timezone": "UTC+11:30",
+      "utc_offset": "UTC+11:30"
+    },
+    {
+      "iso_alpha2": "AT",
+      "iso_alpha3": "AUT",
+      "name": "Austria",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "AZ",
+      "iso_alpha3": "AZE",
+      "name": "Azerbaijan",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "BS",
+      "iso_alpha3": "BHS",
+      "name": "Bahamas",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "BH",
+      "iso_alpha3": "BHR",
+      "name": "Bahrain",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "BD",
+      "iso_alpha3": "BGD",
+      "name": "Bangladéš",
+      "timezone": "UTC+06:00",
+      "utc_offset": "UTC+06:00"
+    },
+    {
+      "iso_alpha2": "BB",
+      "iso_alpha3": "BRB",
+      "name": "Barbados",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "BY",
+      "iso_alpha3": "BLR",
+      "name": "Bělorusko",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "BE",
+      "iso_alpha3": "BEL",
+      "name": "Belgie",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "BZ",
+      "iso_alpha3": "BLZ",
+      "name": "Belize",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "BJ",
+      "iso_alpha3": "BEN",
+      "name": "Benin",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "BT",
+      "iso_alpha3": "BTN",
+      "name": "Bhútán",
+      "timezone": "UTC+06:00",
+      "utc_offset": "UTC+06:00"
+    },
+    {
+      "iso_alpha2": "BO",
+      "iso_alpha3": "BOL",
+      "name": "Bolívie",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "BA",
+      "iso_alpha3": "BIH",
+      "name": "Bosna a Hercegovina",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "BW",
+      "iso_alpha3": "BWA",
+      "name": "Botswana",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazílie",
+      "timezone": "UTC-02:00",
+      "utc_offset": "UTC-02:00"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazílie",
+      "timezone": "UTC-03:00",
+      "utc_offset": "UTC-03:00"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazílie",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "BR",
+      "iso_alpha3": "BRA",
+      "name": "Brazílie",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "BN",
+      "iso_alpha3": "BRN",
+      "name": "Brunej",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "BG",
+      "iso_alpha3": "BGR",
+      "name": "Bulharsko",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "BF",
+      "iso_alpha3": "BFA",
+      "name": "Burkina Faso",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "BI",
+      "iso_alpha3": "BDI",
+      "name": "Burundi",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "KH",
+      "iso_alpha3": "KHM",
+      "name": "Kambodža",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "CM",
+      "iso_alpha3": "CMR",
+      "name": "Kamerun",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "timezone": "UTC-03:30",
+      "utc_offset": "UTC-03:30"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "timezone": "UTC-07:00",
+      "utc_offset": "UTC-07:00"
+    },
+    {
+      "iso_alpha2": "CA",
+      "iso_alpha3": "CAN",
+      "name": "Kanada",
+      "timezone": "UTC-08:00",
+      "utc_offset": "UTC-08:00"
+    },
+    {
+      "iso_alpha2": "CV",
+      "iso_alpha3": "CPV",
+      "name": "Kapverdy",
+      "timezone": "UTC-01:00",
+      "utc_offset": "UTC-01:00"
+    },
+    {
+      "iso_alpha2": "CF",
+      "iso_alpha3": "CAF",
+      "name": "Středoafrická republika",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "TD",
+      "iso_alpha3": "TCD",
+      "name": "Čad",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chile",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "CL",
+      "iso_alpha3": "CHL",
+      "name": "Chile",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "CN",
+      "iso_alpha3": "CHN",
+      "name": "Čína",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "CO",
+      "iso_alpha3": "COL",
+      "name": "Kolumbie",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "KM",
+      "iso_alpha3": "COM",
+      "name": "Komory",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "CR",
+      "iso_alpha3": "CRI",
+      "name": "Kostarika",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "HR",
+      "iso_alpha3": "HRV",
+      "name": "Chorvatsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "CU",
+      "iso_alpha3": "CUB",
+      "name": "Kuba",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "CY",
+      "iso_alpha3": "CYP",
+      "name": "Kypr",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "CZ",
+      "iso_alpha3": "CZE",
+      "name": "Česko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dánsko",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dánsko",
+      "timezone": "UTC-01:00",
+      "utc_offset": "UTC-01:00"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dánsko",
+      "timezone": "UTC-03:00",
+      "utc_offset": "UTC-03:00"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dánsko",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "DK",
+      "iso_alpha3": "DNK",
+      "name": "Dánsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "DJ",
+      "iso_alpha3": "DJI",
+      "name": "Džibutsko",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "DM",
+      "iso_alpha3": "DMA",
+      "name": "Dominika",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "DO",
+      "iso_alpha3": "DOM",
+      "name": "Dominikánská republika",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Konžská demokratická republika",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "CD",
+      "iso_alpha3": "COD",
+      "name": "Konžská demokratická republika",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekvádor",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "EC",
+      "iso_alpha3": "ECU",
+      "name": "Ekvádor",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "EG",
+      "iso_alpha3": "EGY",
+      "name": "Egypt",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "SV",
+      "iso_alpha3": "SLV",
+      "name": "Salvador",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "GQ",
+      "iso_alpha3": "GNQ",
+      "name": "Rovníková Guinea",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "ER",
+      "iso_alpha3": "ERI",
+      "name": "Eritrea",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "EE",
+      "iso_alpha3": "EST",
+      "name": "Estonsko",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "SZ",
+      "iso_alpha3": "SWZ",
+      "name": "Eswatini",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "ET",
+      "iso_alpha3": "ETH",
+      "name": "Etiopie",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "FJ",
+      "iso_alpha3": "FJI",
+      "name": "Fidži",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "FI",
+      "iso_alpha3": "FIN",
+      "name": "Finsko",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC-03:00",
+      "utc_offset": "UTC-03:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC-08:00",
+      "utc_offset": "UTC-08:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC-09:00",
+      "utc_offset": "UTC-09:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC-09:30",
+      "utc_offset": "UTC-09:30"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC-10:00",
+      "utc_offset": "UTC-10:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+10:00",
+      "utc_offset": "UTC+10:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+11:00",
+      "utc_offset": "UTC+11:00"
+    },
+    {
+      "iso_alpha2": "FR",
+      "iso_alpha3": "FRA",
+      "name": "France",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "GA",
+      "iso_alpha3": "GAB",
+      "name": "Gabon",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "GM",
+      "iso_alpha3": "GMB",
+      "name": "Gambia",
+      "timezone": "UTC+00:00",
+      "utc_offset": "UTC+00:00"
+    },
+    {
+      "iso_alpha2": "GE",
+      "iso_alpha3": "GEO",
+      "name": "Georgia",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "DE",
+      "iso_alpha3": "DEU",
+      "name": "Germany",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "GH",
+      "iso_alpha3": "GHA",
+      "name": "Ghana",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "GR",
+      "iso_alpha3": "GRC",
+      "name": "Greece",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "GD",
+      "iso_alpha3": "GRD",
+      "name": "Grenada",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "GT",
+      "iso_alpha3": "GTM",
+      "name": "Guatemala",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "GN",
+      "iso_alpha3": "GIN",
+      "name": "Guinea",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "GW",
+      "iso_alpha3": "GNB",
+      "name": "Guinea-Bissau",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "GY",
+      "iso_alpha3": "GUY",
+      "name": "Guyana",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "HT",
+      "iso_alpha3": "HTI",
+      "name": "Haiti",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "HN",
+      "iso_alpha3": "HND",
+      "name": "Honduras",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "HU",
+      "iso_alpha3": "HUN",
+      "name": "Maďarsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "IS",
+      "iso_alpha3": "ISL",
+      "name": "Island",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "IN",
+      "iso_alpha3": "IND",
+      "name": "Indie",
+      "timezone": "UTC+05:30",
+      "utc_offset": "UTC+05:30"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonésie",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonésie",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "ID",
+      "iso_alpha3": "IDN",
+      "name": "Indonésie",
+      "timezone": "UTC+09:00",
+      "utc_offset": "UTC+09:00"
+    },
+    {
+      "iso_alpha2": "IR",
+      "iso_alpha3": "IRN",
+      "name": "Írán",
+      "timezone": "UTC+03:30",
+      "utc_offset": "UTC+03:30"
+    },
+    {
+      "iso_alpha2": "IQ",
+      "iso_alpha3": "IRQ",
+      "name": "Irák",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "IE",
+      "iso_alpha3": "IRL",
+      "name": "Irsko",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "IL",
+      "iso_alpha3": "ISR",
+      "name": "Izrael",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "IT",
+      "iso_alpha3": "ITA",
+      "name": "Itálie",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "CI",
+      "iso_alpha3": "CIV",
+      "name": "Pobřeží slonoviny",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "JM",
+      "iso_alpha3": "JAM",
+      "name": "Jamajka",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "JP",
+      "iso_alpha3": "JPN",
+      "name": "Japonsko",
+      "timezone": "UTC+09:00",
+      "utc_offset": "UTC+09:00"
+    },
+    {
+      "iso_alpha2": "JO",
+      "iso_alpha3": "JOR",
+      "name": "Jordánsko",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazachstán",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "KZ",
+      "iso_alpha3": "KAZ",
+      "name": "Kazachstán",
+      "timezone": "UTC+06:00",
+      "utc_offset": "UTC+06:00"
+    },
+    {
+      "iso_alpha2": "KE",
+      "iso_alpha3": "KEN",
+      "name": "Keňa",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "timezone": "UTC+13:00",
+      "utc_offset": "UTC+13:00"
+    },
+    {
+      "iso_alpha2": "KI",
+      "iso_alpha3": "KIR",
+      "name": "Kiribati",
+      "timezone": "UTC+14:00",
+      "utc_offset": "UTC+14:00"
+    },
+    {
+      "iso_alpha2": "XK",
+      "iso_alpha3": "UNK",
+      "name": "Kosovo",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "KW",
+      "iso_alpha3": "KWT",
+      "name": "Kuvajt",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "KG",
+      "iso_alpha3": "KGZ",
+      "name": "Kyrgyzstán",
+      "timezone": "UTC+06:00",
+      "utc_offset": "UTC+06:00"
+    },
+    {
+      "iso_alpha2": "LA",
+      "iso_alpha3": "LAO",
+      "name": "Laos",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "LV",
+      "iso_alpha3": "LVA",
+      "name": "Lotyšsko",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "LB",
+      "iso_alpha3": "LBN",
+      "name": "Libanon",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "LS",
+      "iso_alpha3": "LSO",
+      "name": "Lesotho",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "LR",
+      "iso_alpha3": "LBR",
+      "name": "Libérie",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "LY",
+      "iso_alpha3": "LBY",
+      "name": "Libye",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "LI",
+      "iso_alpha3": "LIE",
+      "name": "Lichtenštejnsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "LT",
+      "iso_alpha3": "LTU",
+      "name": "Litva",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "LU",
+      "iso_alpha3": "LUX",
+      "name": "Lucembursko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "MG",
+      "iso_alpha3": "MDG",
+      "name": "Madagaskar",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "MW",
+      "iso_alpha3": "MWI",
+      "name": "Malawi",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "MY",
+      "iso_alpha3": "MYS",
+      "name": "Malajsie",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "MV",
+      "iso_alpha3": "MDV",
+      "name": "Maledivy",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "ML",
+      "iso_alpha3": "MLI",
+      "name": "Mali",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "MT",
+      "iso_alpha3": "MLT",
+      "name": "Malta",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "MH",
+      "iso_alpha3": "MHL",
+      "name": "Marshallovy ostrovy",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "MR",
+      "iso_alpha3": "MRT",
+      "name": "Mauritánie",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "MU",
+      "iso_alpha3": "MUS",
+      "name": "Mauricius",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Mexiko",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Mexiko",
+      "timezone": "UTC-07:00",
+      "utc_offset": "UTC-07:00"
+    },
+    {
+      "iso_alpha2": "MX",
+      "iso_alpha3": "MEX",
+      "name": "Mexiko",
+      "timezone": "UTC-08:00",
+      "utc_offset": "UTC-08:00"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronésie",
+      "timezone": "UTC+10:00",
+      "utc_offset": "UTC+10:00"
+    },
+    {
+      "iso_alpha2": "FM",
+      "iso_alpha3": "FSM",
+      "name": "Mikronésie",
+      "timezone": "UTC+11:00",
+      "utc_offset": "UTC+11:00"
+    },
+    {
+      "iso_alpha2": "MD",
+      "iso_alpha3": "MDA",
+      "name": "Moldavsko",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "MC",
+      "iso_alpha3": "MCO",
+      "name": "Monako",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolsko",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "MN",
+      "iso_alpha3": "MNG",
+      "name": "Mongolsko",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "ME",
+      "iso_alpha3": "MNE",
+      "name": "Černá Hora",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "MA",
+      "iso_alpha3": "MAR",
+      "name": "Maroko",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "MZ",
+      "iso_alpha3": "MOZ",
+      "name": "Mosambik",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "MM",
+      "iso_alpha3": "MMR",
+      "name": "Myanmar",
+      "timezone": "UTC+06:30",
+      "utc_offset": "UTC+06:30"
+    },
+    {
+      "iso_alpha2": "NA",
+      "iso_alpha3": "NAM",
+      "name": "Namibie",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "NR",
+      "iso_alpha3": "NRU",
+      "name": "Nauru",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "NP",
+      "iso_alpha3": "NPL",
+      "name": "Nepál",
+      "timezone": "UTC+05:45",
+      "utc_offset": "UTC+05:45"
+    },
+    {
+      "iso_alpha2": "NL",
+      "iso_alpha3": "NLD",
+      "name": "Nizozemsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nový Zéland",
+      "timezone": "UTC-10:00",
+      "utc_offset": "UTC-10:00"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nový Zéland",
+      "timezone": "UTC-11:00",
+      "utc_offset": "UTC-11:00"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nový Zéland",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nový Zéland",
+      "timezone": "UTC+12:45",
+      "utc_offset": "UTC+12:45"
+    },
+    {
+      "iso_alpha2": "NZ",
+      "iso_alpha3": "NZL",
+      "name": "Nový Zéland",
+      "timezone": "UTC+13:00",
+      "utc_offset": "UTC+13:00"
+    },
+    {
+      "iso_alpha2": "NI",
+      "iso_alpha3": "NIC",
+      "name": "Nikaragua",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "NE",
+      "iso_alpha3": "NER",
+      "name": "Niger",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "NG",
+      "iso_alpha3": "NGA",
+      "name": "Nigérie",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "KP",
+      "iso_alpha3": "PRK",
+      "name": "Severní Korea",
+      "timezone": "UTC+09:00",
+      "utc_offset": "UTC+09:00"
+    },
+    {
+      "iso_alpha2": "MK",
+      "iso_alpha3": "MKD",
+      "name": "Severní Makedonie",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "NO",
+      "iso_alpha3": "NOR",
+      "name": "Norsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "OM",
+      "iso_alpha3": "OMN",
+      "name": "Omán",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "PK",
+      "iso_alpha3": "PAK",
+      "name": "Pákistán",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "PW",
+      "iso_alpha3": "PLW",
+      "name": "Palau",
+      "timezone": "UTC+09:00",
+      "utc_offset": "UTC+09:00"
+    },
+    {
+      "iso_alpha2": "PA",
+      "iso_alpha3": "PAN",
+      "name": "Panama",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "PG",
+      "iso_alpha3": "PNG",
+      "name": "Papua-Nová Guinea",
+      "timezone": "UTC+10:00",
+      "utc_offset": "UTC+10:00"
+    },
+    {
+      "iso_alpha2": "PY",
+      "iso_alpha3": "PRY",
+      "name": "Paraguay",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "PE",
+      "iso_alpha3": "PER",
+      "name": "Peru",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "PH",
+      "iso_alpha3": "PHL",
+      "name": "Filipíny",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "PL",
+      "iso_alpha3": "POL",
+      "name": "Polsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugalsko",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "PT",
+      "iso_alpha3": "PRT",
+      "name": "Portugalsko",
+      "timezone": "UTC-01:00",
+      "utc_offset": "UTC-01:00"
+    },
+    {
+      "iso_alpha2": "QA",
+      "iso_alpha3": "QAT",
+      "name": "Katar",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "CG",
+      "iso_alpha3": "COG",
+      "name": "Konžská republika",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "RO",
+      "iso_alpha3": "ROU",
+      "name": "Rumunsko",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+06:00",
+      "utc_offset": "UTC+06:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+09:00",
+      "utc_offset": "UTC+09:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+10:00",
+      "utc_offset": "UTC+10:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+11:00",
+      "utc_offset": "UTC+11:00"
+    },
+    {
+      "iso_alpha2": "RU",
+      "iso_alpha3": "RUS",
+      "name": "Rusko",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "RW",
+      "iso_alpha3": "RWA",
+      "name": "Rwanda",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "KN",
+      "iso_alpha3": "KNA",
+      "name": "Svatý Kryštof a Nevis",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "LC",
+      "iso_alpha3": "LCA",
+      "name": "Svatá Lucie",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "VC",
+      "iso_alpha3": "VCT",
+      "name": "Svatý Vincenc a Grenadiny",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "WS",
+      "iso_alpha3": "WSM",
+      "name": "Samoa",
+      "timezone": "UTC+13:00",
+      "utc_offset": "UTC+13:00"
+    },
+    {
+      "iso_alpha2": "SM",
+      "iso_alpha3": "SMR",
+      "name": "San Marino",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "ST",
+      "iso_alpha3": "STP",
+      "name": "Svatý Tomáš a Princův ostrov",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "SA",
+      "iso_alpha3": "SAU",
+      "name": "Saúdská Arábie",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "SN",
+      "iso_alpha3": "SEN",
+      "name": "Senegal",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "RS",
+      "iso_alpha3": "SRB",
+      "name": "Srbsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "SC",
+      "iso_alpha3": "SYC",
+      "name": "Seychely",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "SL",
+      "iso_alpha3": "SLE",
+      "name": "Sierra Leone",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "SG",
+      "iso_alpha3": "SGP",
+      "name": "Singapur",
+      "timezone": "UTC+08:00",
+      "utc_offset": "UTC+08:00"
+    },
+    {
+      "iso_alpha2": "SK",
+      "iso_alpha3": "SVK",
+      "name": "Slovensko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "SI",
+      "iso_alpha3": "SVN",
+      "name": "Slovinsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "SB",
+      "iso_alpha3": "SLB",
+      "name": "Šalamounovy ostrovy",
+      "timezone": "UTC+11:00",
+      "utc_offset": "UTC+11:00"
+    },
+    {
+      "iso_alpha2": "SO",
+      "iso_alpha3": "SOM",
+      "name": "Somálsko",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "ZA",
+      "iso_alpha3": "ZAF",
+      "name": "Jihoafrická republika",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "KR",
+      "iso_alpha3": "KOR",
+      "name": "Jižní Korea",
+      "timezone": "UTC+09:00",
+      "utc_offset": "UTC+09:00"
+    },
+    {
+      "iso_alpha2": "SS",
+      "iso_alpha3": "SSD",
+      "name": "Jižní Súdán",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Španělsko",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "ES",
+      "iso_alpha3": "ESP",
+      "name": "Španělsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "LK",
+      "iso_alpha3": "LKA",
+      "name": "Srí Lanka",
+      "timezone": "UTC+05:30",
+      "utc_offset": "UTC+05:30"
+    },
+    {
+      "iso_alpha2": "SD",
+      "iso_alpha3": "SDN",
+      "name": "Súdán",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "SR",
+      "iso_alpha3": "SUR",
+      "name": "Surinam",
+      "timezone": "UTC-03:00",
+      "utc_offset": "UTC-03:00"
+    },
+    {
+      "iso_alpha2": "SE",
+      "iso_alpha3": "SWE",
+      "name": "Švédsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "CH",
+      "iso_alpha3": "CHE",
+      "name": "Švýcarsko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "SY",
+      "iso_alpha3": "SYR",
+      "name": "Sýrie",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "TJ",
+      "iso_alpha3": "TJK",
+      "name": "Tádžikistán",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "TZ",
+      "iso_alpha3": "TZA",
+      "name": "Tanzanie",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "TH",
+      "iso_alpha3": "THA",
+      "name": "Thajsko",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "TL",
+      "iso_alpha3": "TLS",
+      "name": "Východní Timor",
+      "timezone": "UTC+09:00",
+      "utc_offset": "UTC+09:00"
+    },
+    {
+      "iso_alpha2": "TG",
+      "iso_alpha3": "TGO",
+      "name": "Togo",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "TO",
+      "iso_alpha3": "TON",
+      "name": "Tonga",
+      "timezone": "UTC+13:00",
+      "utc_offset": "UTC+13:00"
+    },
+    {
+      "iso_alpha2": "TT",
+      "iso_alpha3": "TTO",
+      "name": "Trinidad a Tobago",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "TN",
+      "iso_alpha3": "TUN",
+      "name": "Tunisko",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "TR",
+      "iso_alpha3": "TUR",
+      "name": "Turecko",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "TM",
+      "iso_alpha3": "TKM",
+      "name": "Turkmenistán",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "TV",
+      "iso_alpha3": "TUV",
+      "name": "Tuvalu",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "UG",
+      "iso_alpha3": "UGA",
+      "name": "Uganda",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "UA",
+      "iso_alpha3": "UKR",
+      "name": "Ukrajina",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "AE",
+      "iso_alpha3": "ARE",
+      "name": "Spojené arabské emiráty",
+      "timezone": "UTC+04:00",
+      "utc_offset": "UTC+04:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC",
+      "utc_offset": "UTC"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC-02:00",
+      "utc_offset": "UTC-02:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC-03:00",
+      "utc_offset": "UTC-03:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC-08:00",
+      "utc_offset": "UTC-08:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "GB",
+      "iso_alpha3": "GBR",
+      "name": "Spojené království",
+      "timezone": "UTC+06:00",
+      "utc_offset": "UTC+06:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-05:00",
+      "utc_offset": "UTC-05:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-06:00",
+      "utc_offset": "UTC-06:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-07:00",
+      "utc_offset": "UTC-07:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-08:00",
+      "utc_offset": "UTC-08:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-09:00",
+      "utc_offset": "UTC-09:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-10:00",
+      "utc_offset": "UTC-10:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-11:00",
+      "utc_offset": "UTC-11:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy americké",
+      "timezone": "UTC-12:00",
+      "utc_offset": "UTC-12:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy",
+      "timezone": "UTC+10:00",
+      "utc_offset": "UTC+10:00"
+    },
+    {
+      "iso_alpha2": "US",
+      "iso_alpha3": "USA",
+      "name": "Spojené státy",
+      "timezone": "UTC+12:00",
+      "utc_offset": "UTC+12:00"
+    },
+    {
+      "iso_alpha2": "UY",
+      "iso_alpha3": "URY",
+      "name": "Uruguay",
+      "timezone": "UTC-03:00",
+      "utc_offset": "UTC-03:00"
+    },
+    {
+      "iso_alpha2": "UZ",
+      "iso_alpha3": "UZB",
+      "name": "Uzbekistán",
+      "timezone": "UTC+05:00",
+      "utc_offset": "UTC+05:00"
+    },
+    {
+      "iso_alpha2": "VU",
+      "iso_alpha3": "VUT",
+      "name": "Vanuatu",
+      "timezone": "UTC+11:00",
+      "utc_offset": "UTC+11:00"
+    },
+    {
+      "iso_alpha2": "VA",
+      "iso_alpha3": "VAT",
+      "name": "Vatikán",
+      "timezone": "UTC+01:00",
+      "utc_offset": "UTC+01:00"
+    },
+    {
+      "iso_alpha2": "VE",
+      "iso_alpha3": "VEN",
+      "name": "Venezuela",
+      "timezone": "UTC-04:00",
+      "utc_offset": "UTC-04:00"
+    },
+    {
+      "iso_alpha2": "VN",
+      "iso_alpha3": "VNM",
+      "name": "Vietnam",
+      "timezone": "UTC+07:00",
+      "utc_offset": "UTC+07:00"
+    },
+    {
+      "iso_alpha2": "YE",
+      "iso_alpha3": "YEM",
+      "name": "Jemen",
+      "timezone": "UTC+03:00",
+      "utc_offset": "UTC+03:00"
+    },
+    {
+      "iso_alpha2": "ZM",
+      "iso_alpha3": "ZMB",
+      "name": "Zambie",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    },
+    {
+      "iso_alpha2": "ZW",
+      "iso_alpha3": "ZWE",
+      "name": "Zimbabwe",
+      "timezone": "UTC+02:00",
+      "utc_offset": "UTC+02:00"
+    }
+  ],
+  "meta": {
+    "seo_title": "Časová Pásma Zemí - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si komplexní seznam 271 časových pásem zemí a posunů UTC zdarma. Data jsou k dispozici ve formátech Excel, CSV a PDF pro analýzu.",
+    "title": "Sada Dat Globálních Časových Pásem Zemí a Posunů UTC",
+    "description": "Tato sada dat poskytuje komplexní seznam 271 nezávislých zemí, jejich kódů ISO, aktuálních časových pásem a odpovídajících posunů UTC, získaných z restcountries.com.",
+    "key_takeaways": [
+      "Získejte přístup k aktuálním datům časových pásem pro 271 nezávislých zemí.",
+      "Prozkoumejte kódy ISO Alpha-2, ISO Alpha-3, názvy zemí, časová pásma a posuny UTC.",
+      "Stáhněte si komplexní data časových pásem zemí v mnoha pohodlných formátech.",
+      "Využijte přesné informace o časových pásmech pro globální aplikace a analýzy."
+    ],
+    "keywords": [
+      "seznam časových pásem zemí",
+      "data utc offset",
+      "iso časová pásma",
+      "stáhnout časová pásma excel",
+      "globální časová data csv",
+      "databáze časových pásem"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do své databáze nebo skriptu pro přesné převody časových pásem v aplikacích, API nebo projektech analýzy dat.",
+      "Použijte soubor **Excel** pro snadné filtrování, řazení a reportování časových pásem zemí, vhodné pro obchodní zpravodajství nebo akademický výzkum.",
+      "Vytiskněte verzi **PDF** a vytvořte si praktického offline průvodce pro plánování mezinárodních cest, vzdělávání nebo kancelářské použití.",
+      "Integrujte tato data do mapovacích nástrojů nebo plánovacího softwaru pro přesné zobrazení místních časů a správu globálních operací."
+    ]
+  },
+  "record_count": 271,
+  "title": "Sada Dat Globálních Časových Pásem Zemí a Posunů UTC"
+}

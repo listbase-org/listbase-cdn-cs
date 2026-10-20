@@ -1,0 +1,484 @@
+{
+  "id": "cs-jablonec-nad-nisou-obce",
+  "name": "Obce — okres Jablonec nad Nisou",
+  "title": "Obce — okres Jablonec nad Nisou",
+  "description": "Seznam všech 34 obcí okresu Jablonec nad Nisou — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (34 municipalities of okres Jablonec nad Nisou, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Albrechtice v Jizerských horách",
+      "code": "563528",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46843",
+      "latitude": 50.7624,
+      "longitude": 15.275813,
+      "slug": "albrechtice-v-jizerskych-horach"
+    },
+    {
+      "name": "Bedřichov",
+      "code": "563536",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46812",
+      "latitude": 50.791188,
+      "longitude": 15.142571,
+      "slug": "bedrichov"
+    },
+    {
+      "name": "Dalešice",
+      "code": "530425",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46802",
+      "latitude": 50.681858,
+      "longitude": 15.184679,
+      "slug": "dalesice"
+    },
+    {
+      "name": "Desná",
+      "code": "563552",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46861",
+      "latitude": 50.75481,
+      "longitude": 15.313862,
+      "slug": "desna"
+    },
+    {
+      "name": "Držkov",
+      "code": "563561",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46824",
+      "latitude": 50.68764,
+      "longitude": 15.303285,
+      "slug": "drzkov"
+    },
+    {
+      "name": "Frýdštejn",
+      "code": "563579",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46342",
+      "latitude": 50.652357,
+      "longitude": 15.158867,
+      "slug": "frydstejn"
+    },
+    {
+      "name": "Jablonec nad Nisou",
+      "code": "563510",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46601",
+      "latitude": 50.722153,
+      "longitude": 15.170414,
+      "slug": "jablonec-nad-nisou"
+    },
+    {
+      "name": "Janov nad Nisou",
+      "code": "563595",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46811",
+      "latitude": 50.772141,
+      "longitude": 15.169244,
+      "slug": "janov-nad-nisou"
+    },
+    {
+      "name": "Jenišovice",
+      "code": "563609",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46833",
+      "latitude": 50.627796,
+      "longitude": 15.136637,
+      "slug": "jenisovice"
+    },
+    {
+      "name": "Jiřetín pod Bukovou",
+      "code": "546585",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46843",
+      "latitude": 50.755788,
+      "longitude": 15.26303,
+      "slug": "jiretin-pod-bukovou"
+    },
+    {
+      "name": "Josefův Důl",
+      "code": "563633",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46844",
+      "latitude": 50.782016,
+      "longitude": 15.231574,
+      "slug": "josefuv-dul"
+    },
+    {
+      "name": "Jílové u Držkova",
+      "code": "563617",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.670963,
+      "longitude": 15.295375,
+      "slug": "jilove-u-drzkova"
+    },
+    {
+      "name": "Koberovy",
+      "code": "563641",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.62476,
+      "longitude": 15.228332,
+      "slug": "koberovy"
+    },
+    {
+      "name": "Kořenov",
+      "code": "563668",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46849",
+      "latitude": 50.759359,
+      "longitude": 15.365424,
+      "slug": "korenov"
+    },
+    {
+      "name": "Loužnice",
+      "code": "563684",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.679747,
+      "longitude": 15.2678,
+      "slug": "louznice"
+    },
+    {
+      "name": "Lučany nad Nisou",
+      "code": "563692",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46871",
+      "latitude": 50.741456,
+      "longitude": 15.220572,
+      "slug": "lucany-nad-nisou"
+    },
+    {
+      "name": "Líšný",
+      "code": "563676",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.64567,
+      "longitude": 15.212313,
+      "slug": "lisny"
+    },
+    {
+      "name": "Malá Skála",
+      "code": "563706",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.646408,
+      "longitude": 15.195534,
+      "slug": "mala-skala"
+    },
+    {
+      "name": "Maršovice",
+      "code": "563714",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46801",
+      "latitude": 50.696455,
+      "longitude": 15.198577,
+      "slug": "marsovice"
+    },
+    {
+      "name": "Nová Ves nad Nisou",
+      "code": "563731",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46827",
+      "latitude": 50.72524,
+      "longitude": 15.214758,
+      "slug": "nova-ves-nad-nisou"
+    },
+    {
+      "name": "Plavy",
+      "code": "563757",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46846",
+      "latitude": 50.703338,
+      "longitude": 15.317471,
+      "slug": "plavy"
+    },
+    {
+      "name": "Pulečný",
+      "code": "546577",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46802",
+      "latitude": 50.675488,
+      "longitude": 15.167986,
+      "slug": "pulecny"
+    },
+    {
+      "name": "Pěnčín",
+      "code": "563749",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46821",
+      "latitude": 50.687791,
+      "longitude": 15.236038,
+      "slug": "pencin"
+    },
+    {
+      "name": "Radčice",
+      "code": "563773",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.672861,
+      "longitude": 15.277749,
+      "slug": "radcice"
+    },
+    {
+      "name": "Rychnov u Jablonce nad Nisou",
+      "code": "563790",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46802",
+      "latitude": 50.683891,
+      "longitude": 15.149898,
+      "slug": "rychnov-u-jablonce-nad-nisou"
+    },
+    {
+      "name": "Rádlo",
+      "code": "563781",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46803",
+      "latitude": 50.698552,
+      "longitude": 15.115859,
+      "slug": "radlo"
+    },
+    {
+      "name": "Skuhrov",
+      "code": "563803",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.676103,
+      "longitude": 15.213411,
+      "slug": "skuhrov"
+    },
+    {
+      "name": "Smržovka",
+      "code": "563811",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46851",
+      "latitude": 50.738301,
+      "longitude": 15.246502,
+      "slug": "smrzovka"
+    },
+    {
+      "name": "Tanvald",
+      "code": "563820",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46841",
+      "latitude": 50.737629,
+      "longitude": 15.307982,
+      "slug": "tanvald"
+    },
+    {
+      "name": "Velké Hamry",
+      "code": "563838",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46845",
+      "latitude": 50.713834,
+      "longitude": 15.315498,
+      "slug": "velke-hamry"
+    },
+    {
+      "name": "Vlastiboř",
+      "code": "563846",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.664974,
+      "longitude": 15.311826,
+      "slug": "vlastibor"
+    },
+    {
+      "name": "Zlatá Olešnice",
+      "code": "563862",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46847",
+      "latitude": 50.708647,
+      "longitude": 15.353616,
+      "slug": "zlata-olesnice"
+    },
+    {
+      "name": "Zásada",
+      "code": "563854",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46825",
+      "latitude": 50.697784,
+      "longitude": 15.27004,
+      "slug": "zasada"
+    },
+    {
+      "name": "Železný Brod",
+      "code": "563871",
+      "okres": "Jablonec nad Nisou",
+      "okres_code": "CZ0512",
+      "kraj": "Liberecký kraj",
+      "kraj_code": "CZ051",
+      "psc": "46822",
+      "latitude": 50.64284,
+      "longitude": 15.254186,
+      "slug": "zelezny-brod"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Jablonec nad Nisou - Stáhnout zdarma",
+    "description": "Seznam všech 34 obcí okresu Jablonec nad Nisou — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (34 municipalities of okres Jablonec nad Nisou, split from the national cs-obce dataset.) Obsahuje 34 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Jablonec nad Nisou | ListBase",
+    "seo_description": "Stáhnout Obce — okres Jablonec nad Nisou — 34 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 34 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

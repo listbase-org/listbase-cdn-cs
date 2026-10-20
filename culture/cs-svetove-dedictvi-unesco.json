@@ -1,0 +1,301 @@
+{
+  "id": "cs-svetove-dedictvi-unesco",
+  "name": "Světové dědictví UNESCO v Česku",
+  "title": "Světové dědictví UNESCO v Česku",
+  "description": "Seznam památek světového dědictví UNESCO nacházejících se v Česku",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Historic Centre of Prague",
+      "category": "Cultural",
+      "date_inscribed": 1992,
+      "criteria": "(ii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.08972,
+      "longitude": 14.41944,
+      "short_description": "Built between the 11th and 18th centuries, the Old Town, the Lesser Town and the New Town speak of the great architectural and cultural influence enjoyed by this city since the Middle Ages. The many magnificent monuments, such as Hradcany Castle, St Vitus Cathedral, Charles Bridge and numerous churches and palaces, built mostly in the 14th century under the Holy Roman Emperor, Charles IV.",
+      "id_number": 616,
+      "url": "https://whc.unesco.org/en/list/616"
+    },
+    {
+      "name": "Historic Centre of Telč",
+      "category": "Cultural",
+      "date_inscribed": 1992,
+      "criteria": "(i)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.18333,
+      "longitude": 15.45,
+      "short_description": "The houses in Telc, which stands on a hilltop, were originally built of wood. After a fire in the late 14th century, the town was rebuilt in stone, surrounded by walls and further strengthened by a network of artificial ponds. The town's Gothic castle was reconstructed in High Gothic style in the late 15th century.",
+      "id_number": 621,
+      "url": "https://whc.unesco.org/en/list/621"
+    },
+    {
+      "name": "Historic Centre of Český Krumlov",
+      "category": "Cultural",
+      "date_inscribed": 1992,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 48.816667,
+      "longitude": 14.316667,
+      "short_description": "Situated on the banks of the Vltava river, the town was built around a 13th-century castle with Gothic, Renaissance and Baroque elements. It is an outstanding example of a small central European medieval town whose architectural heritage has remained intact thanks to its peaceful evolution over more than five centuries.",
+      "id_number": 617,
+      "url": "https://whc.unesco.org/en/list/617"
+    },
+    {
+      "name": "Pilgrimage Church of St John of Nepomuk at Zelená Hora",
+      "category": "Cultural",
+      "date_inscribed": 1994,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.5802,
+      "longitude": 15.942058,
+      "short_description": "This pilgrimage church, built in honour of St John of Nepomuk, stands at Zelená Hora, not far from Ždár nad Sázavou in Moravia. Constructed at the beginning of the 18th century on a star-shaped plan, it is the most unusual work by the great architect Jan Blazej Santini, whose highly original style falls between neo-Gothic and Baroque.",
+      "id_number": 690,
+      "url": "https://whc.unesco.org/en/list/690"
+    },
+    {
+      "name": "Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec",
+      "category": "Cultural",
+      "date_inscribed": 1995,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.95,
+      "longitude": 15.266667,
+      "short_description": "Kutná Hora developed as a result of the exploitation of the silver mines. In the 14th century it became a royal city endowed with monuments that symbolized its prosperity. The Church of St Barbara, a jewel of the late Gothic period, and the Cathedral of Our Lady at Sedlec, which was restored in line with the Baroque taste of the early 18th century, were to influence the architecture of central Europe. These masterpieces today form part of a well-preserved medieval urban fabric with some particularly fine private dwellings.",
+      "id_number": 732,
+      "url": "https://whc.unesco.org/en/list/732"
+    },
+    {
+      "name": "Lednice-Valtice Cultural Landscape",
+      "category": "Cultural",
+      "date_inscribed": 1996,
+      "criteria": "(i)(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 48.77583,
+      "longitude": 16.775,
+      "short_description": "Between the 17th and 20th centuries, the ruling dukes of Liechtenstein transformed their domains in southern Moravia into a striking landscape. It married Baroque architecture (mainly the work of Johann Bernhard Fischer von Erlach) and the classical and neo-Gothic style of the castles of Lednice and Valtice with countryside fashioned according to English romantic principles of landscape architecture. At 200 km 2 , it is one of the largest artificial landscapes in Europe.",
+      "id_number": 763,
+      "url": "https://whc.unesco.org/en/list/763"
+    },
+    {
+      "name": "Gardens and Castle at Kroměříž",
+      "category": "Cultural",
+      "date_inscribed": 1998,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.3,
+      "longitude": 17.377222,
+      "short_description": "Kroměříž stands on the site of an earlier ford across the River Morava, at the foot of the Chriby mountain range which dominates the central part of Moravia. The gardens and castle of Kroměříž are an exceptionally complete and well-preserved example of a European Baroque princely residence and its gardens.",
+      "id_number": 860,
+      "url": "https://whc.unesco.org/en/list/860"
+    },
+    {
+      "name": "Holašovice Historic Village",
+      "category": "Cultural",
+      "date_inscribed": 1998,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 48.959722,
+      "longitude": 14.252778,
+      "short_description": "Holašovice is an exceptionally complete and well-preserved example of a traditional central European village. It has a large number of outstanding 18th- and 19th-century vernacular buildings in a style known as 'South Bohemian folk Baroque', and preserves a ground plan dating from the Middle Ages.",
+      "id_number": 861,
+      "url": "https://whc.unesco.org/en/list/861"
+    },
+    {
+      "name": "Litomyšl Castle",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.87361,
+      "longitude": 16.31444,
+      "short_description": "Litomyšl Castle was originally a Renaissance arcade-castle of the type first developed in Italy and then adopted and greatly developed in central Europe in the 16th century. Its design and decoration are particularly fine, including the later High-Baroque features added in the 18th century. It preserves intact the range of ancillary buildings associated with an aristocratic residence of this type.",
+      "id_number": 901,
+      "url": "https://whc.unesco.org/en/list/901"
+    },
+    {
+      "name": "Holy Trinity Column in Olomouc",
+      "category": "Cultural",
+      "date_inscribed": 2000,
+      "criteria": "(i)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.593936,
+      "longitude": 17.250458,
+      "short_description": "This memorial column, erected in the early years of the 18th century, is the most outstanding example of a type of monument specific to central Europe. In the characteristic regional style known as Olomouc Baroque and rising to a height of 35 m, it is decorated with many fine religious sculptures, the work of the distinguished Moravian artist Ondrej Zahner.",
+      "id_number": 859,
+      "url": "https://whc.unesco.org/en/list/859"
+    },
+    {
+      "name": "Tugendhat Villa in Brno",
+      "category": "Cultural",
+      "date_inscribed": 2001,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.207183,
+      "longitude": 16.616056,
+      "short_description": "The Tugendhat Villa in Brno, designed by the architect Mies van der Rohe, is an outstanding example of the international style in the modern movement in architecture as it developed in Europe in the 1920s. Its particular value lies in the application of innovative spatial and aesthetic concepts that aim to satisfy new lifestyle needs by taking advantage of the opportunities afforded by modern industrial production.",
+      "id_number": 1052,
+      "url": "https://whc.unesco.org/en/list/1052"
+    },
+    {
+      "name": "Jewish Quarter and St Procopius' Basilica in Třebíč",
+      "category": "Cultural",
+      "date_inscribed": 2003,
+      "criteria": "(ii)(iii)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 49.217222,
+      "longitude": 15.878889,
+      "short_description": "The ensemble of the Jewish Quarter, the old Jewish cemetery and the Basilica of St Procopius in Třebíč are reminders of the co-existence of Jewish and Christian cultures from the Middle Ages to the 20th century. The Jewish Quarter bears outstanding testimony to the different aspects of the life of this community. St Procopius' Basilica, built as part of the Benedictine monastery in the early 13th century, is a remarkable example of the influence of Western European architectural heritage in this region.",
+      "id_number": 1078,
+      "url": "https://whc.unesco.org/en/list/1078"
+    },
+    {
+      "name": "Erzgebirge/Krušnohoří Mining Region",
+      "category": "Cultural",
+      "date_inscribed": 2019,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Czechia, Germany",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 50.406528,
+      "longitude": 12.837344,
+      "short_description": "Erzgebirge/Krušnohoří (Ore Mountains) spans a region in south-eastern Germany (Saxony) and north-western Czechia, which contains a wealth of several metals exploited through mining from the Middle Ages onwards. The region became the most important source of silver ore in Europe from 1460 to 1560 and was the trigger for technological innovations. Tin was historically the second metal to be extracted and processed at the site. At the end of the 19th century, the region became a major global producer of uranium. The cultural landscape of the Ore Mountains has been deeply shaped by 800 years of almost continuous mining, from the 12th to the 20th century, with mining, pioneering water management systems, innovative mineral processing and smelting sites, and mining cities.",
+      "id_number": 1478,
+      "url": "https://whc.unesco.org/en/list/1478"
+    },
+    {
+      "name": "Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem",
+      "category": "Cultural",
+      "date_inscribed": 2019,
+      "criteria": "(iv)(v)",
+      "region": "Europe and North America",
+      "states": "Czechia",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 50.05665,
+      "longitude": 15.484258,
+      "short_description": "Situated in the Střední Polabí area of the Elbe plain, the property consists of flat, sandy soils and includes fields, fenced pastures, a forested area and buildings, all designed with the main objective of breeding and training kladruber horses, a type of draft horse used in ceremonies by the Habsburg imperial court. An imperial stud farm was established in 1579 and has been dedicated to this task since then. It is one of Europe’s leading horse-breeding institutions, developed at a time when horses played vital roles in transport, agriculture, military support and aristocratic representation.",
+      "id_number": 1589,
+      "url": "https://whc.unesco.org/en/list/1589"
+    }
+  ],
+  "meta": {
+    "title": "Světové dědictví UNESCO v Česku - Stáhnout zdarma",
+    "description": "Seznam památek světového dědictví UNESCO nacházejících se v Česku Obsahuje 14 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Světové dědictví UNESCO v Česku | ListBase",
+    "seo_description": "Stáhnout Světové dědictví UNESCO v Česku — 14 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 14 záznamů / 13 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,831 @@
+{
+  "id": "cs-obchodni-domy",
+  "name": "Obchodní domy",
+  "title": "Obchodní domy",
+  "description": "Obchodní domy v České republice (158 záznamů) — body zájmu z OpenStreetMap (tag shop=department_store), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AAA Centrum",
+      "latitude": 49.754172,
+      "longitude": 16.467064
+    },
+    {
+      "name": "ADV obchod",
+      "latitude": 49.966169,
+      "longitude": 14.517606
+    },
+    {
+      "name": "Albert Hypermarket",
+      "latitude": 49.791146,
+      "longitude": 14.679204
+    },
+    {
+      "name": "Aldiana",
+      "latitude": 49.228207,
+      "longitude": 16.591612
+    },
+    {
+      "name": "AMON UH, s.r.o.",
+      "latitude": 49.0757,
+      "longitude": 17.44338
+    },
+    {
+      "name": "Aupark",
+      "latitude": 50.21282,
+      "longitude": 15.811669
+    },
+    {
+      "name": "Avion Shopping Park",
+      "latitude": 49.801322,
+      "longitude": 18.227903
+    },
+    {
+      "name": "AVION shopping park JIH",
+      "latitude": 49.797168,
+      "longitude": 18.223319
+    },
+    {
+      "name": "Barvy laky osman",
+      "latitude": 49.895537,
+      "longitude": 18.19581
+    },
+    {
+      "name": "BETY",
+      "latitude": 49.22374,
+      "longitude": 14.419741
+    },
+    {
+      "name": "Big Sun",
+      "latitude": 49.968293,
+      "longitude": 14.515144
+    },
+    {
+      "name": "Breno",
+      "latitude": 50.041824,
+      "longitude": 14.444446
+    },
+    {
+      "name": "Bílá labuť",
+      "latitude": 50.090351,
+      "longitude": 14.433839
+    },
+    {
+      "name": "Central Jablonec",
+      "latitude": 50.724416,
+      "longitude": 15.168394
+    },
+    {
+      "name": "Centrum",
+      "latitude": 49.069979,
+      "longitude": 17.46273
+    },
+    {
+      "name": "Centrum",
+      "latitude": 50.392778,
+      "longitude": 13.181236
+    },
+    {
+      "name": "Convent",
+      "latitude": 49.560399,
+      "longitude": 15.944295
+    },
+    {
+      "name": "Desirred",
+      "latitude": 50.082534,
+      "longitude": 14.426821
+    },
+    {
+      "name": "Domácí potřeby",
+      "latitude": 48.662085,
+      "longitude": 14.165904
+    },
+    {
+      "name": "Domácí potřeby Orion",
+      "latitude": 50.723726,
+      "longitude": 15.172128
+    },
+    {
+      "name": "Dragon",
+      "latitude": 50.132455,
+      "longitude": 14.119862
+    },
+    {
+      "name": "Dragon Shopping Center",
+      "latitude": 50.999642,
+      "longitude": 14.573036
+    },
+    {
+      "name": "Drogerie Rossmann",
+      "latitude": 50.723791,
+      "longitude": 15.16935
+    },
+    {
+      "name": "Dřevařství",
+      "latitude": 50.086769,
+      "longitude": 12.375907
+    },
+    {
+      "name": "Dům služeb",
+      "latitude": 50.031841,
+      "longitude": 17.038677
+    },
+    {
+      "name": "Elektro Dvořák",
+      "latitude": 49.720647,
+      "longitude": 15.670925
+    },
+    {
+      "name": "Euro shop",
+      "latitude": 49.147713,
+      "longitude": 15.003808
+    },
+    {
+      "name": "Falco",
+      "latitude": 50.106348,
+      "longitude": 13.718517
+    },
+    {
+      "name": "Fastmall",
+      "latitude": 49.460214,
+      "longitude": 18.127053
+    },
+    {
+      "name": "FROSA",
+      "latitude": 49.545902,
+      "longitude": 18.213297
+    },
+    {
+      "name": "Futurum HK",
+      "latitude": 50.196625,
+      "longitude": 15.848626
+    },
+    {
+      "name": "Galerie Dvořák",
+      "latitude": 48.973626,
+      "longitude": 14.473847
+    },
+    {
+      "name": "Galerie Moritz",
+      "latitude": 49.595,
+      "longitude": 17.250204
+    },
+    {
+      "name": "Galerie Slovany",
+      "latitude": 49.732446,
+      "longitude": 13.400933
+    },
+    {
+      "name": "Galerie Červené Vršky",
+      "latitude": 49.792825,
+      "longitude": 14.679716
+    },
+    {
+      "name": "HANKA",
+      "latitude": 49.899618,
+      "longitude": 18.093339
+    },
+    {
+      "name": "Hornbach",
+      "latitude": 50.182433,
+      "longitude": 15.800042
+    },
+    {
+      "name": "ITAlove",
+      "latitude": 49.201654,
+      "longitude": 16.618357
+    },
+    {
+      "name": "IVF Clinic",
+      "latitude": 49.575989,
+      "longitude": 17.231607
+    },
+    {
+      "name": "JIP Cash & Carry",
+      "latitude": 49.001172,
+      "longitude": 14.482542
+    },
+    {
+      "name": "JYSK",
+      "latitude": 50.02268,
+      "longitude": 15.779043
+    },
+    {
+      "name": "KIEZLER topení-voda-plyn",
+      "latitude": 50.652537,
+      "longitude": 13.845735
+    },
+    {
+      "name": "Klokan",
+      "latitude": 49.776049,
+      "longitude": 17.122029
+    },
+    {
+      "name": "Komandor",
+      "latitude": 50.040254,
+      "longitude": 14.437651
+    },
+    {
+      "name": "Koruna Palace",
+      "latitude": 50.084275,
+      "longitude": 14.424295
+    },
+    {
+      "name": "Kosmos",
+      "latitude": 49.897577,
+      "longitude": 18.187569
+    },
+    {
+      "name": "Koupelny",
+      "latitude": 50.026274,
+      "longitude": 14.49021
+    },
+    {
+      "name": "Kubus",
+      "latitude": 49.472891,
+      "longitude": 17.105028
+    },
+    {
+      "name": "Kyčera",
+      "latitude": 49.546485,
+      "longitude": 18.213462
+    },
+    {
+      "name": "Lerk",
+      "latitude": 49.209299,
+      "longitude": 16.647858
+    },
+    {
+      "name": "Levné potraviny",
+      "latitude": 49.836411,
+      "longitude": 18.290585
+    },
+    {
+      "name": "M&S Outlet",
+      "latitude": 50.081807,
+      "longitude": 14.426179
+    },
+    {
+      "name": "M&S Outlet",
+      "latitude": 50.089815,
+      "longitude": 14.430093
+    },
+    {
+      "name": "Market",
+      "latitude": 50.389002,
+      "longitude": 13.184783
+    },
+    {
+      "name": "Marks & Spencer",
+      "latitude": 49.586344,
+      "longitude": 17.257223
+    },
+    {
+      "name": "MaXi Hit",
+      "latitude": 49.056067,
+      "longitude": 13.782695
+    },
+    {
+      "name": "Maxi Hit",
+      "latitude": 50.430875,
+      "longitude": 15.352287
+    },
+    {
+      "name": "MH Centrum",
+      "latitude": 50.522419,
+      "longitude": 14.976691
+    },
+    {
+      "name": "MixC minicentrum",
+      "latitude": 49.667603,
+      "longitude": 13.996287
+    },
+    {
+      "name": "MORA TONY",
+      "latitude": 49.594859,
+      "longitude": 17.249818
+    },
+    {
+      "name": "Mountfield",
+      "latitude": 49.7918,
+      "longitude": 14.679344
+    },
+    {
+      "name": "Myšák Gallery",
+      "latitude": 50.081245,
+      "longitude": 14.42417
+    },
+    {
+      "name": "Máj Národní",
+      "latitude": 50.081973,
+      "longitude": 14.419815
+    },
+    {
+      "name": "Můjobchod",
+      "latitude": 50.417256,
+      "longitude": 16.165553
+    },
+    {
+      "name": "Na ledě.cz",
+      "latitude": 49.191496,
+      "longitude": 16.564115
+    },
+    {
+      "name": "Na Váze",
+      "latitude": 50.103089,
+      "longitude": 13.725884
+    },
+    {
+      "name": "nákupní centrum Fontána",
+      "latitude": 50.640644,
+      "longitude": 13.824995
+    },
+    {
+      "name": "Nákupní středisko Svatava",
+      "latitude": 50.33011,
+      "longitude": 12.507915
+    },
+    {
+      "name": "Nákupní středisko Úslava",
+      "latitude": 49.485623,
+      "longitude": 13.581259
+    },
+    {
+      "name": "Obchod",
+      "latitude": 49.726246,
+      "longitude": 17.924942
+    },
+    {
+      "name": "Obchodni dum Rodina",
+      "latitude": 49.204729,
+      "longitude": 16.883843
+    },
+    {
+      "name": "Obchodní centrum",
+      "latitude": 49.275012,
+      "longitude": 16.437892
+    },
+    {
+      "name": "Obchodní centrum",
+      "latitude": 50.214625,
+      "longitude": 15.816078
+    },
+    {
+      "name": "Obchodní centrum Alej",
+      "latitude": 49.608341,
+      "longitude": 15.575171
+    },
+    {
+      "name": "Obchodní centrum Alkron",
+      "latitude": 50.230192,
+      "longitude": 17.204954
+    },
+    {
+      "name": "Obchodní Centrum DBK",
+      "latitude": 50.043819,
+      "longitude": 14.449164
+    },
+    {
+      "name": "Obchodní centrum Galerie Teplice",
+      "latitude": 50.639755,
+      "longitude": 13.824074
+    },
+    {
+      "name": "Obchodní centrum LBC",
+      "latitude": 50.766183,
+      "longitude": 15.057462
+    },
+    {
+      "name": "Obchodní centrum Stella",
+      "latitude": 50.621098,
+      "longitude": 15.62311
+    },
+    {
+      "name": "Obchodní centrum Velká Ohrada",
+      "latitude": 50.038047,
+      "longitude": 14.338545
+    },
+    {
+      "name": "Obchodní centrum Vodičkova",
+      "latitude": 50.080512,
+      "longitude": 14.423603
+    },
+    {
+      "name": "Obchodní dům",
+      "latitude": 49.068281,
+      "longitude": 17.461863
+    },
+    {
+      "name": "Obchodní dům",
+      "latitude": 49.59263,
+      "longitude": 17.250773
+    },
+    {
+      "name": "Obchodní dům",
+      "latitude": 49.91265,
+      "longitude": 14.233856
+    },
+    {
+      "name": "Obchodní dům",
+      "latitude": 50.076468,
+      "longitude": 12.372103
+    },
+    {
+      "name": "Obchodní dům",
+      "latitude": 50.626693,
+      "longitude": 15.611112
+    },
+    {
+      "name": "Obchodní dům AAA",
+      "latitude": 49.749587,
+      "longitude": 13.409812
+    },
+    {
+      "name": "Obchodní dům ANDY",
+      "latitude": 50.683773,
+      "longitude": 14.537303
+    },
+    {
+      "name": "Obchodní dům C & H",
+      "latitude": 49.302732,
+      "longitude": 15.077863
+    },
+    {
+      "name": "Obchodní dům IT Centrum",
+      "latitude": 50.627247,
+      "longitude": 15.61064
+    },
+    {
+      "name": "Obchodní dům Jiří",
+      "latitude": 50.14806,
+      "longitude": 15.124295
+    },
+    {
+      "name": "Obchodní dům Petřiny",
+      "latitude": 50.087675,
+      "longitude": 14.345181
+    },
+    {
+      "name": "Obchodní dům Rodina",
+      "latitude": 49.547071,
+      "longitude": 18.209151
+    },
+    {
+      "name": "Obchodní dům Skleňák",
+      "latitude": 49.009153,
+      "longitude": 17.121125
+    },
+    {
+      "name": "Obchodní dům Vichr",
+      "latitude": 49.319211,
+      "longitude": 15.328689
+    },
+    {
+      "name": "Obuv - Textil",
+      "latitude": 50.704792,
+      "longitude": 15.428249
+    },
+    {
+      "name": "OC Alfa",
+      "latitude": 49.427023,
+      "longitude": 15.226764
+    },
+    {
+      "name": "OC Atrium",
+      "latitude": 50.21296,
+      "longitude": 15.818878
+    },
+    {
+      "name": "OC Koloseum",
+      "latitude": 49.45094,
+      "longitude": 17.469796
+    },
+    {
+      "name": "OC Opatovská",
+      "latitude": 50.025321,
+      "longitude": 14.51716
+    },
+    {
+      "name": "OC Pivovar",
+      "latitude": 50.771698,
+      "longitude": 14.193261
+    },
+    {
+      "name": "OC Smetanova",
+      "latitude": 49.335692,
+      "longitude": 17.994917
+    },
+    {
+      "name": "OC Taškent",
+      "latitude": 50.050318,
+      "longitude": 14.544296
+    },
+    {
+      "name": "OC Vamberk, Janáčkova",
+      "latitude": 50.120968,
+      "longitude": 16.285639
+    },
+    {
+      "name": "OC Zlín",
+      "latitude": 49.226569,
+      "longitude": 17.669815
+    },
+    {
+      "name": "OC Řepy",
+      "latitude": 50.064794,
+      "longitude": 14.308537
+    },
+    {
+      "name": "OD Dyje",
+      "latitude": 49.078326,
+      "longitude": 15.437464
+    },
+    {
+      "name": "OD Elán",
+      "latitude": 49.78053,
+      "longitude": 18.431883
+    },
+    {
+      "name": "OD Flip",
+      "latitude": 49.989762,
+      "longitude": 14.741506
+    },
+    {
+      "name": "OD Horník",
+      "latitude": 48.919084,
+      "longitude": 17.099563
+    },
+    {
+      "name": "OD Koruna",
+      "latitude": 49.595772,
+      "longitude": 17.252244
+    },
+    {
+      "name": "OD TIS",
+      "latitude": 49.036833,
+      "longitude": 17.810489
+    },
+    {
+      "name": "OD Zlatý Vrch",
+      "latitude": 50.088166,
+      "longitude": 12.379208
+    },
+    {
+      "name": "Olympia",
+      "latitude": 49.13822,
+      "longitude": 16.632688
+    },
+    {
+      "name": "Pasáž Slunce",
+      "latitude": 49.068959,
+      "longitude": 17.461729
+    },
+    {
+      "name": "Penny",
+      "latitude": 49.30348,
+      "longitude": 14.477016
+    },
+    {
+      "name": "pepco",
+      "latitude": 49.303587,
+      "longitude": 14.476691
+    },
+    {
+      "name": "Permon",
+      "latitude": 49.77536,
+      "longitude": 18.450408
+    },
+    {
+      "name": "Podniková Prodejna",
+      "latitude": 49.522082,
+      "longitude": 17.587913
+    },
+    {
+      "name": "Potraviny Happy",
+      "latitude": 49.740127,
+      "longitude": 15.106465
+    },
+    {
+      "name": "Potraviny Nguyen Van Khoi",
+      "latitude": 49.847467,
+      "longitude": 18.21391
+    },
+    {
+      "name": "Potten & Pannen",
+      "latitude": 50.083275,
+      "longitude": 14.404289
+    },
+    {
+      "name": "Prior",
+      "latitude": 49.276972,
+      "longitude": 16.993732
+    },
+    {
+      "name": "PRIOR",
+      "latitude": 49.666676,
+      "longitude": 18.678058
+    },
+    {
+      "name": "Prior",
+      "latitude": 49.672381,
+      "longitude": 18.344359
+    },
+    {
+      "name": "Prior",
+      "latitude": 49.856239,
+      "longitude": 18.541391
+    },
+    {
+      "name": "Prior",
+      "latitude": 49.870814,
+      "longitude": 18.425889
+    },
+    {
+      "name": "PRIOR",
+      "latitude": 50.077318,
+      "longitude": 12.371419
+    },
+    {
+      "name": "Prior",
+      "latitude": 50.089833,
+      "longitude": 17.701485
+    },
+    {
+      "name": "Prior",
+      "latitude": 50.504792,
+      "longitude": 13.641051
+    },
+    {
+      "name": "Prior",
+      "latitude": 50.602192,
+      "longitude": 15.333921
+    },
+    {
+      "name": "Prosek Point C",
+      "latitude": 50.118895,
+      "longitude": 14.500897
+    },
+    {
+      "name": "Radbuza",
+      "latitude": 49.528453,
+      "longitude": 12.941209
+    },
+    {
+      "name": "Ratio",
+      "latitude": 50.955046,
+      "longitude": 14.553333
+    },
+    {
+      "name": "Retail park - Kolín, Ovčáry",
+      "latitude": 50.062815,
+      "longitude": 15.228307
+    },
+    {
+      "name": "Retail park Poruba",
+      "latitude": 49.848276,
+      "longitude": 18.144092
+    },
+    {
+      "name": "Růžový slon",
+      "latitude": 50.143758,
+      "longitude": 15.116299
+    },
+    {
+      "name": "Sadílek Nábytek, spánkové studio, kuchyňské studio",
+      "latitude": 49.148614,
+      "longitude": 15.004925
+    },
+    {
+      "name": "Senimo",
+      "latitude": 49.59917,
+      "longitude": 17.273272
+    },
+    {
+      "name": "Shopping Ivančice",
+      "latitude": 49.103737,
+      "longitude": 16.363623
+    },
+    {
+      "name": "Smetanova obchodní galerie",
+      "latitude": 49.335911,
+      "longitude": 17.994577
+    },
+    {
+      "name": "Sportlov",
+      "latitude": 49.078552,
+      "longitude": 15.43834
+    },
+    {
+      "name": "Teben",
+      "latitude": 49.597816,
+      "longitude": 18.008422
+    },
+    {
+      "name": "TEDi",
+      "latitude": 49.303625,
+      "longitude": 14.476489
+    },
+    {
+      "name": "Travel Free",
+      "latitude": 50.43473,
+      "longitude": 16.212106
+    },
+    {
+      "name": "TREFAL, spol. s r.o. Rybářské potřeby",
+      "latitude": 49.038755,
+      "longitude": 17.467815
+    },
+    {
+      "name": "U Fajtů",
+      "latitude": 50.351492,
+      "longitude": 14.475085
+    },
+    {
+      "name": "UNINO",
+      "latitude": 49.875458,
+      "longitude": 13.895175
+    },
+    {
+      "name": "Uran",
+      "latitude": 49.690023,
+      "longitude": 14.008048
+    },
+    {
+      "name": "V Okno s.r.o.",
+      "latitude": 49.075686,
+      "longitude": 17.447903
+    },
+    {
+      "name": "Velký Špalíček",
+      "latitude": 49.193195,
+      "longitude": 16.607168
+    },
+    {
+      "name": "Victoria",
+      "latitude": 49.192773,
+      "longitude": 16.609873
+    },
+    {
+      "name": "Vinohradský Pavilon",
+      "latitude": 50.076543,
+      "longitude": 14.442327
+    },
+    {
+      "name": "Vágner",
+      "latitude": 49.196649,
+      "longitude": 16.606291
+    },
+    {
+      "name": "Woolworth",
+      "latitude": 50.689018,
+      "longitude": 14.517451
+    },
+    {
+      "name": "Zahradní technika Gronych",
+      "latitude": 49.970469,
+      "longitude": 16.975719
+    },
+    {
+      "name": "Zahrádky",
+      "latitude": 49.297468,
+      "longitude": 16.547771
+    },
+    {
+      "name": "Zlatnictví",
+      "latitude": 49.213808,
+      "longitude": 16.385962
+    }
+  ],
+  "meta": {
+    "title": "Obchodní domy - Stáhnout zdarma",
+    "description": "Obchodní domy v České republice (158 záznamů) — body zájmu z OpenStreetMap (tag shop=department_store), výřez EU-POIS/CZ. Obsahuje 158 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obchodní domy | ListBase",
+    "seo_description": "Stáhnout Obchodní domy — 158 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 158 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

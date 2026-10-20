@@ -1,0 +1,254 @@
+{
+  "id": "cs-kralovehradecky-letiste",
+  "name": "Letiště — Královéhradecký kraj",
+  "title": "Letiště — Královéhradecký kraj",
+  "description": "Seznam letišť v kraji „Královéhradecký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Hradec Králové region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKBR",
+      "iata": "",
+      "name": "Broumov Airport",
+      "name_slug": "broumov-airport",
+      "city": "Broumov",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 1342,
+      "lat": 50.5619010925,
+      "lon": 16.3428001404,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKDK",
+      "iata": "",
+      "name": "Dvur Kralove Nad Labem Airport",
+      "name_slug": "dvur-kralove-nad-labem-airport",
+      "city": "Dvur Kralove Nad Labem",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 932,
+      "lat": 50.4141998291,
+      "lon": 15.8368997574,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHC",
+      "iata": "",
+      "name": "Horice Airport",
+      "name_slug": "horice-airport",
+      "city": "Horice",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 922,
+      "lat": 50.3572006226,
+      "lon": 15.5767002106,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKHK",
+      "iata": "",
+      "name": "Hradec Kralove Airport",
+      "name_slug": "hradec-kralove-airport",
+      "city": "Hradec Kralove",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 791,
+      "lat": 50.253200531,
+      "lon": 15.845199585,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKJA",
+      "iata": "",
+      "name": "Jaromer Airport",
+      "name_slug": "jaromer-airport",
+      "city": "Jaromer",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 889,
+      "lat": 50.331401825,
+      "lon": 15.9539003372,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKJC",
+      "iata": "",
+      "name": "Jicin Airport",
+      "name_slug": "jicin-airport",
+      "city": "Jicin",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 863,
+      "lat": 50.4300003052,
+      "lon": 15.3331003189,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKNM",
+      "iata": "",
+      "name": "Nove Mesto Airport",
+      "name_slug": "nove-mesto-airport",
+      "city": "Nove Mesto Nad Metuji Morave",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 1001,
+      "lat": 50.364200592,
+      "lon": 16.1135997772,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKVP",
+      "iata": "",
+      "name": "Velke Porici Glider Airport",
+      "name_slug": "velke-porici-glider-airport",
+      "city": "Velke Porici",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 1322,
+      "lat": 50.4678001404,
+      "lon": 16.2056007385,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKVR",
+      "iata": "",
+      "name": "Vrchlabi Airport",
+      "name_slug": "vrchlabi-airport",
+      "city": "Vrchlabi",
+      "kraj": "Královéhradecký kraj",
+      "kraj_source": "Kralovehradecky",
+      "kraj_slug": "kralovehradecky",
+      "kraj_en": "Hradec Králové",
+      "country": "CZ",
+      "elevation_ft": 1611,
+      "lat": 50.6241989136,
+      "lon": 15.6464004517,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Královéhradecký kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Královéhradecký kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Hradec Králové region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 9 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Královéhradecký kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Královéhradecký kraj — 9 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 9 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

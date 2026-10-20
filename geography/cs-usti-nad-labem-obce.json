@@ -1,0 +1,352 @@
+{
+  "id": "cs-usti-nad-labem-obce",
+  "name": "Obce — okres Ústí nad Labem",
+  "title": "Obce — okres Ústí nad Labem",
+  "description": "Seznam všech 23 obcí okresu Ústí nad Labem — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (23 municipalities of okres Ústí nad Labem, split from the national cs-obce dataset.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "okres_code",
+      "label": "Okres Code",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_code",
+      "label": "Kraj Code",
+      "type": "string"
+    },
+    {
+      "key": "psc",
+      "label": "Psc",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Chabařovice",
+      "code": "568007",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40317",
+      "latitude": 50.673287,
+      "longitude": 13.941955,
+      "slug": "chabarovice"
+    },
+    {
+      "name": "Chlumec",
+      "code": "568015",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40339",
+      "latitude": 50.699825,
+      "longitude": 13.939752,
+      "slug": "chlumec"
+    },
+    {
+      "name": "Chuderov",
+      "code": "568023",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40002",
+      "latitude": 50.68875,
+      "longitude": 14.046285,
+      "slug": "chuderov"
+    },
+    {
+      "name": "Dolní Zálezly",
+      "code": "567931",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40301",
+      "latitude": 50.597423,
+      "longitude": 14.04319,
+      "slug": "dolni-zalezly"
+    },
+    {
+      "name": "Habrovany",
+      "code": "567957",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40002",
+      "latitude": 50.598676,
+      "longitude": 13.981796,
+      "slug": "habrovany"
+    },
+    {
+      "name": "Homole u Panny",
+      "code": "567973",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40002",
+      "latitude": 50.62938,
+      "longitude": 14.186494,
+      "slug": "homole-u-panny"
+    },
+    {
+      "name": "Libouchec",
+      "code": "568058",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40335",
+      "latitude": 50.75865,
+      "longitude": 14.040826,
+      "slug": "libouchec"
+    },
+    {
+      "name": "Malečov",
+      "code": "568104",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40327",
+      "latitude": 50.632028,
+      "longitude": 14.119558,
+      "slug": "malecov"
+    },
+    {
+      "name": "Malé Březno",
+      "code": "568091",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40002",
+      "latitude": 50.672709,
+      "longitude": 14.172366,
+      "slug": "male-brezno"
+    },
+    {
+      "name": "Petrovice",
+      "code": "568147",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40337",
+      "latitude": 50.789131,
+      "longitude": 13.976255,
+      "slug": "petrovice"
+    },
+    {
+      "name": "Povrly",
+      "code": "568155",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40332",
+      "latitude": 50.672866,
+      "longitude": 14.160445,
+      "slug": "povrly"
+    },
+    {
+      "name": "Přestanov",
+      "code": "530620",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40317",
+      "latitude": 50.686777,
+      "longitude": 13.920379,
+      "slug": "prestanov"
+    },
+    {
+      "name": "Ryjice",
+      "code": "546186",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40331",
+      "latitude": 50.688055,
+      "longitude": 14.092111,
+      "slug": "ryjice"
+    },
+    {
+      "name": "Stebno",
+      "code": "546925",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40002",
+      "latitude": 50.615203,
+      "longitude": 14.01732,
+      "slug": "stebno"
+    },
+    {
+      "name": "Tašov",
+      "code": "568287",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40002",
+      "latitude": 50.614624,
+      "longitude": 14.135906,
+      "slug": "tasov"
+    },
+    {
+      "name": "Telnice",
+      "code": "568295",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40338",
+      "latitude": 50.733064,
+      "longitude": 13.957891,
+      "slug": "telnice"
+    },
+    {
+      "name": "Tisá",
+      "code": "568309",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40336",
+      "latitude": 50.784605,
+      "longitude": 14.031415,
+      "slug": "tisa"
+    },
+    {
+      "name": "Trmice",
+      "code": "553697",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40004",
+      "latitude": 50.642967,
+      "longitude": 13.994605,
+      "slug": "trmice"
+    },
+    {
+      "name": "Velké Březno",
+      "code": "568350",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40323",
+      "latitude": 50.662808,
+      "longitude": 14.141852,
+      "slug": "velke-brezno"
+    },
+    {
+      "name": "Velké Chvojno",
+      "code": "555223",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40334",
+      "latitude": 50.731698,
+      "longitude": 14.036815,
+      "slug": "velke-chvojno"
+    },
+    {
+      "name": "Zubrnice",
+      "code": "568384",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40002",
+      "latitude": 50.649558,
+      "longitude": 14.220493,
+      "slug": "zubrnice"
+    },
+    {
+      "name": "ÚSTÍ NAD LABEM",
+      "code": "554804",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40001",
+      "latitude": 50.661216,
+      "longitude": 14.053246,
+      "slug": "usti-nad-labem"
+    },
+    {
+      "name": "Řehlovice",
+      "code": "568201",
+      "okres": "Ústí nad Labem",
+      "okres_code": "CZ0427",
+      "kraj": "Ústecký kraj",
+      "kraj_code": "CZ042",
+      "psc": "40313",
+      "latitude": 50.607226,
+      "longitude": 13.954233,
+      "slug": "rehlovice"
+    }
+  ],
+  "meta": {
+    "title": "Obce — okres Ústí nad Labem - Stáhnout zdarma",
+    "description": "Seznam všech 23 obcí okresu Ústí nad Labem — výřez z cs-obce: název, kód obce, kraj, PSČ a GPS souřadnice. (23 municipalities of okres Ústí nad Labem, split from the national cs-obce dataset.) Obsahuje 23 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Obce — okres Ústí nad Labem | ListBase",
+    "seo_description": "Stáhnout Obce — okres Ústí nad Labem — 23 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 23 záznamů / 10 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

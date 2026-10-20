@@ -1,0 +1,452 @@
+{
+  "id": "tech-social-media-sizes",
+  "name": "Sada Dat Velikostí a Rozměrů Obrázků Sociálních Médií",
+  "category": "tech",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "platform",
+      "label": "Platform",
+      "type": "string"
+    },
+    {
+      "key": "image_type",
+      "label": "Image Type (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimensions",
+      "label": "Dimensions (px)",
+      "type": "string"
+    },
+    {
+      "key": "width",
+      "label": "Width",
+      "type": "number"
+    },
+    {
+      "key": "height",
+      "label": "Height",
+      "type": "number"
+    },
+    {
+      "key": "aspect_ratio",
+      "label": "Aspect Ratio",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "platform": "Facebook",
+      "image_type": "Profilová fotka",
+      "dimensions": "180 × 180",
+      "width": 180,
+      "height": 180,
+      "aspect_ratio": "1:1",
+      "notes": "Zobrazuje se 170x170 na počítači"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Titulní fotka",
+      "dimensions": "820 × 312",
+      "width": 820,
+      "height": 312,
+      "aspect_ratio": "2.63:1",
+      "notes": "Velikost zobrazení na počítači"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Titulní fotka (Mobilní)",
+      "dimensions": "640 × 360",
+      "width": 640,
+      "height": 360,
+      "aspect_ratio": "16:9",
+      "notes": "Zobrazení na mobilu"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Sdílený obrázek",
+      "dimensions": "1200 × 630",
+      "width": 1200,
+      "height": 630,
+      "aspect_ratio": "1.91:1",
+      "notes": "Obrázek příspěvku v kanálu"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Titulní obrázek události",
+      "dimensions": "1920 × 1005",
+      "width": 1920,
+      "height": 1005,
+      "aspect_ratio": "1.91:1",
+      "notes": "Záhlaví stránky události"
+    },
+    {
+      "platform": "Facebook",
+      "image_type": "Příběhy",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Celá obrazovka na výšku"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Profilová fotka",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Kruhový ořez"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Čtvercový příspěvek",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Standardní příspěvek v kanálu"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Příspěvek na výšku",
+      "dimensions": "1080 × 1350",
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": "4:5",
+      "notes": "Příspěvek v kanálu na výšku"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Příspěvek na šířku",
+      "dimensions": "1080 × 566",
+      "width": 1080,
+      "height": 566,
+      "aspect_ratio": "1.91:1",
+      "notes": "Příspěvek v kanálu na šířku"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Příběhy/Reels",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Celá obrazovka na výšku"
+    },
+    {
+      "platform": "Instagram",
+      "image_type": "Karusel",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Příspěvek s více obrázky"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Profilová fotka",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Zobrazuje se 200x200"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Obrázek záhlaví",
+      "dimensions": "1500 × 500",
+      "width": 1500,
+      "height": 500,
+      "aspect_ratio": "3:1",
+      "notes": "Obrázek banneru"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Fotka v proudu",
+      "dimensions": "1200 × 675",
+      "width": 1200,
+      "height": 675,
+      "aspect_ratio": "16:9",
+      "notes": "Obrázek tweetu"
+    },
+    {
+      "platform": "Twitter/X",
+      "image_type": "Obrázek karty",
+      "dimensions": "1200 × 628",
+      "width": 1200,
+      "height": 628,
+      "aspect_ratio": "1.91:1",
+      "notes": "Náhled odkazu"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Profilová fotka",
+      "dimensions": "400 × 400",
+      "width": 400,
+      "height": 400,
+      "aspect_ratio": "1:1",
+      "notes": "Osobní profil"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Fotka pozadí",
+      "dimensions": "1584 × 396",
+      "width": 1584,
+      "height": 396,
+      "aspect_ratio": "4:1",
+      "notes": "Banner profilu"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Logo společnosti",
+      "dimensions": "300 × 300",
+      "width": 300,
+      "height": 300,
+      "aspect_ratio": "1:1",
+      "notes": "Stránka společnosti"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Titulní obrázek",
+      "dimensions": "1128 × 191",
+      "width": 1128,
+      "height": 191,
+      "aspect_ratio": "5.9:1",
+      "notes": "Banner stránky společnosti"
+    },
+    {
+      "platform": "LinkedIn",
+      "image_type": "Sdílený příspěvek",
+      "dimensions": "1200 × 627",
+      "width": 1200,
+      "height": 627,
+      "aspect_ratio": "1.91:1",
+      "notes": "Příspěvek v kanálu"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Profil kanálu",
+      "dimensions": "800 × 800",
+      "width": 800,
+      "height": 800,
+      "aspect_ratio": "1:1",
+      "notes": "Ikona kanálu"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Banner kanálu",
+      "dimensions": "2560 × 1440",
+      "width": 2560,
+      "height": 1440,
+      "aspect_ratio": "16:9",
+      "notes": "Banner v plné velikosti"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Miniatura videa",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Vlastní miniatura"
+    },
+    {
+      "platform": "YouTube",
+      "image_type": "Shorts",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Vertikální krátká videa"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Profilová fotka",
+      "dimensions": "200 × 200",
+      "width": 200,
+      "height": 200,
+      "aspect_ratio": "1:1",
+      "notes": "Profilový obrázek"
+    },
+    {
+      "platform": "TikTok",
+      "image_type": "Video",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Standardní video"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Profilová fotka",
+      "dimensions": "165 × 165",
+      "width": 165,
+      "height": 165,
+      "aspect_ratio": "1:1",
+      "notes": "Profilový obrázek"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Obrázek připnutí",
+      "dimensions": "1000 × 1500",
+      "width": 1000,
+      "height": 1500,
+      "aspect_ratio": "2:3",
+      "notes": "Optimální velikost připnutí"
+    },
+    {
+      "platform": "Pinterest",
+      "image_type": "Obálka nástěnky",
+      "dimensions": "222 × 150",
+      "width": 222,
+      "height": 150,
+      "aspect_ratio": "3:2",
+      "notes": "Miniatura nástěnky"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Snap/Příběh",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Obsah na celou obrazovku"
+    },
+    {
+      "platform": "Snapchat",
+      "image_type": "Geofiltr",
+      "dimensions": "1080 × 2340",
+      "width": 1080,
+      "height": 2340,
+      "aspect_ratio": "9:19.5",
+      "notes": "Vlastní filtr"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Profilová fotka",
+      "dimensions": "500 × 500",
+      "width": 500,
+      "height": 500,
+      "aspect_ratio": "1:1",
+      "notes": "Profilový obrázek"
+    },
+    {
+      "platform": "WhatsApp",
+      "image_type": "Stav",
+      "dimensions": "1080 × 1920",
+      "width": 1080,
+      "height": 1920,
+      "aspect_ratio": "9:16",
+      "notes": "Obrázek stavu"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Ikona serveru",
+      "dimensions": "512 × 512",
+      "width": 512,
+      "height": 512,
+      "aspect_ratio": "1:1",
+      "notes": "Avatar serveru"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Banner serveru",
+      "dimensions": "960 × 540",
+      "width": 960,
+      "height": 540,
+      "aspect_ratio": "16:9",
+      "notes": "Banner serveru"
+    },
+    {
+      "platform": "Discord",
+      "image_type": "Uživatelský avatar",
+      "dimensions": "128 × 128",
+      "width": 128,
+      "height": 128,
+      "aspect_ratio": "1:1",
+      "notes": "Uživatelský profil"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Profilová fotka",
+      "dimensions": "256 × 256",
+      "width": 256,
+      "height": 256,
+      "aspect_ratio": "1:1",
+      "notes": "Avatar kanálu"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Banner profilu",
+      "dimensions": "1200 × 480",
+      "width": 1200,
+      "height": 480,
+      "aspect_ratio": "2.5:1",
+      "notes": "Banner kanálu"
+    },
+    {
+      "platform": "Twitch",
+      "image_type": "Miniatura videa",
+      "dimensions": "1280 × 720",
+      "width": 1280,
+      "height": 720,
+      "aspect_ratio": "16:9",
+      "notes": "Miniatura streamu"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Profilová fotografie",
+      "dimensions": "320 × 320",
+      "width": 320,
+      "height": 320,
+      "aspect_ratio": "1:1",
+      "notes": "Stejné jako na Instagramu"
+    },
+    {
+      "platform": "Threads",
+      "image_type": "Obrázek příspěvku",
+      "dimensions": "1080 × 1080",
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": "1:1",
+      "notes": "Čtvercový příspěvek"
+    }
+  ],
+  "meta": {
+    "seo_title": "Velikosti obrázků pro sociální média - Stáhnout Zdarma (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma 42 velikostí a rozměrů obrázků pro sociální média pro přední platformy. Získejte aktuální specifikace pro příspěvky, profily, obálky. K dispozici ve formátech Excel, CSV a PDF.",
+    "title": "Sada Dat Velikostí a Rozměrů Obrázků Sociálních Médií",
+    "description": "Tato sada dat poskytuje komplexní seznam 42 velikostí, rozměrů a poměrů stran obrázků pro sociální média napříč různými platformami. Získejte aktuální specifikace pro profilové fotografie, titulní obrázky a sdílené příspěvky.",
+    "key_takeaways": [
+      "Získejte přístup k aktuálním specifikacím velikostí obrázků pro hlavní platformy sociálních médií.",
+      "Prozkoumejte rozměry (šířka, výška), poměry stran a poznámky pro 42 typů obrázků.",
+      "Stáhněte si hotová data pro navrhování efektivních vizuálů pro sociální média.",
+      "Získejte základní pokyny pro optimalizaci obsahu vašich sociálních médií."
+    ],
+    "keywords": [
+      "velikosti obrázků sociální média excel",
+      "rozměry facebook csv",
+      "velikosti příspěvků instagram pdf",
+      "velikost banneru youtube",
+      "pokyny pro design sociálních médií",
+      "seznam poměrů stran obrázků"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do svého skriptu Python nebo API k dynamické validaci nahrávaných obrázků proti požadavkům platformy.",
+      "Použijte soubor **Excel** k vytváření kontingenčních tabulek pro porovnání poměrů stran napříč platformami nebo filtrujte podle typu obrázku pro rychlou referenci v designových projektech.",
+      "Vytiskněte verzi **PDF** jako rychlý, offline referenční průvodce pro váš designový tým nebo jako podklad pro workshop o marketingu sociálních médií.",
+      "Využijte tato data k optimalizaci vizuálního obsahu, zajištění toho, aby obrázky vždy vypadaly profesionálně a dokonale se hodily na jakoukoli platformu sociálních médií."
+    ]
+  },
+  "record_count": 42,
+  "title": "Sada Dat Velikostí a Rozměrů Obrázků Sociálních Médií"
+}

@@ -1,0 +1,256 @@
+{
+  "id": "cs-turisticke-oblasti",
+  "name": "Turistické oblasti České republiky (CzechTourism)",
+  "title": "Turistické oblasti České republiky (CzechTourism)",
+  "description": "Seznam turistických oblastí (turistických sub-regionů) České republiky podle členění agentury CzechTourism. Pro každou položku kód a oficiální český název.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "number"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod": "1701",
+      "nazev": "Beskydy - Valašsko",
+      "slug": "beskydy-valassko"
+    },
+    {
+      "kod": "1404",
+      "nazev": "Brno a okolí",
+      "slug": "brno-a-okoli"
+    },
+    {
+      "kod": "1203",
+      "nazev": "Chrudimsko - Hlinecko",
+      "slug": "chrudimsko-hlinecko"
+    },
+    {
+      "kod": "1102",
+      "nazev": "Hradecko",
+      "slug": "hradecko"
+    },
+    {
+      "kod": "1706",
+      "nazev": "Jeseníky - východ",
+      "slug": "jeseniky-vychod"
+    },
+    {
+      "kod": "1602",
+      "nazev": "Jeseníky - západ",
+      "slug": "jeseniky-zapad"
+    },
+    {
+      "kod": "0802",
+      "nazev": "Jizerské hory",
+      "slug": "jizerske-hory"
+    },
+    {
+      "kod": "0301",
+      "nazev": "Jižní Čechy",
+      "slug": "jizni-cechy"
+    },
+    {
+      "kod": "1101",
+      "nazev": "Kladské pomezí",
+      "slug": "kladske-pomezi"
+    },
+    {
+      "kod": "1001",
+      "nazev": "Krkonoše a Podkrkonoší",
+      "slug": "krkonose-a-podkrkonosi"
+    },
+    {
+      "kod": "1502",
+      "nazev": "Kroměřížsko",
+      "slug": "kromerizsko"
+    },
+    {
+      "kod": "0702",
+      "nazev": "Krušné hory a Podkrušnohoří",
+      "slug": "krusne-hory-a-podkrusnohori"
+    },
+    {
+      "kod": "1204",
+      "nazev": "Králický Sněžník",
+      "slug": "kralicky-sneznik"
+    },
+    {
+      "kod": "1405",
+      "nazev": "Moravský kras a okolí",
+      "slug": "moravsky-kras-a-okoli"
+    },
+    {
+      "kod": "1705",
+      "nazev": "Opavské Slezsko",
+      "slug": "opavske-slezsko"
+    },
+    {
+      "kod": "1103",
+      "nazev": "Orlické hory a Podorlicko (Královéhradecko)",
+      "slug": "orlicke-hory-a-podorlicko-kralovehradecko"
+    },
+    {
+      "kod": "1201",
+      "nazev": "Orlické hory a Podorlicko (Východní Čechy)",
+      "slug": "orlicke-hory-a-podorlicko-vychodni-cechy"
+    },
+    {
+      "kod": "1703",
+      "nazev": "Ostravsko",
+      "slug": "ostravsko"
+    },
+    {
+      "kod": "1202",
+      "nazev": "Pardubicko",
+      "slug": "pardubicko"
+    },
+    {
+      "kod": "0502",
+      "nazev": "Plzeňsko",
+      "slug": "plzensko"
+    },
+    {
+      "kod": "1704",
+      "nazev": "Poodří - Moravské Kravařsko",
+      "slug": "poodri-moravske-kravarsko"
+    },
+    {
+      "kod": "0101",
+      "nazev": "Praha",
+      "slug": "praha"
+    },
+    {
+      "kod": "1402",
+      "nazev": "Pálava a Lednicko - Valtický areál",
+      "slug": "palava-a-lednicko-valticky-areal"
+    },
+    {
+      "kod": "1403",
+      "nazev": "Slovácko (Jižní Morava)",
+      "slug": "slovacko-jizni-morava"
+    },
+    {
+      "kod": "1501",
+      "nazev": "Slovácko (Východní Morava)",
+      "slug": "slovacko-vychodni-morava"
+    },
+    {
+      "kod": "1601",
+      "nazev": "Střední Morava",
+      "slug": "stredni-morava"
+    },
+    {
+      "kod": "0203",
+      "nazev": "Střední Čechy - Polabí",
+      "slug": "stredni-cechy-polabi"
+    },
+    {
+      "kod": "0202",
+      "nazev": "Střední Čechy - jih",
+      "slug": "stredni-cechy-jih"
+    },
+    {
+      "kod": "0201",
+      "nazev": "Střední Čechy - západ",
+      "slug": "stredni-cechy-zapad"
+    },
+    {
+      "kod": "1702",
+      "nazev": "Těšínské Slezsko",
+      "slug": "tesinske-slezsko"
+    },
+    {
+      "kod": "1504",
+      "nazev": "Valašsko",
+      "slug": "valassko"
+    },
+    {
+      "kod": "1301",
+      "nazev": "Vysočina",
+      "slug": "vysocina"
+    },
+    {
+      "kod": "1503",
+      "nazev": "Zlínsko a Luhačovicko",
+      "slug": "zlinsko-a-luhacovicko"
+    },
+    {
+      "kod": "1401",
+      "nazev": "Znojemsko a Podyjí",
+      "slug": "znojemsko-a-podyji"
+    },
+    {
+      "kod": "0601",
+      "nazev": "Západočeské lázně",
+      "slug": "zapadoceske-lazne"
+    },
+    {
+      "kod": "0801",
+      "nazev": "Českolipsko",
+      "slug": "ceskolipsko"
+    },
+    {
+      "kod": "1205",
+      "nazev": "Českomoravské pomezí",
+      "slug": "ceskomoravske-pomezi"
+    },
+    {
+      "kod": "0701",
+      "nazev": "České středohoří a Žatecko",
+      "slug": "ceske-stredohori-a-zatecko"
+    },
+    {
+      "kod": "0703",
+      "nazev": "České Švýcarsko",
+      "slug": "ceske-svycarsko"
+    },
+    {
+      "kod": "0501",
+      "nazev": "Český les - Domažlicko (Chodsko)",
+      "slug": "cesky-les-domazlicko-chodsko"
+    },
+    {
+      "kod": "0901",
+      "nazev": "Český ráj",
+      "slug": "cesky-raj"
+    },
+    {
+      "kod": "0401",
+      "nazev": "Šumava /Jihočeský kraj/",
+      "slug": "sumava-jihocesky-kraj"
+    },
+    {
+      "kod": "0402",
+      "nazev": "Šumava /Plzeňský kraj/",
+      "slug": "sumava-plzensky-kraj"
+    }
+  ],
+  "meta": {
+    "title": "Turistické oblasti České republiky (CzechTourism) - Stáhnout zdarma",
+    "description": "Seznam turistických oblastí (turistických sub-regionů) České republiky podle členění agentury CzechTourism. Pro každou položku kód a oficiální český název. Obsahuje 43 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Turistické oblasti České republiky (CzechTourism) | ListBase",
+    "seo_description": "Stáhnout Turistické oblasti České republiky (CzechTourism) — 43 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 43 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": "cs-jednotky-duration",
+  "name": "Měrné jednotky: duration (16)",
+  "title": "Měrné jednotky: duration (16)",
+  "description": "Měrné jednotky CLDR cs-locale v kategorii 'duration'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategorie",
+      "label": "Kategorie",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vzor_jednotne",
+      "label": "Vzor Jednotne",
+      "type": "string"
+    },
+    {
+      "key": "vzor_mnozne",
+      "label": "Vzor Mnozne",
+      "type": "string"
+    },
+    {
+      "key": "kratky_vzor",
+      "label": "Kratky Vzor",
+      "type": "string"
+    },
+    {
+      "key": "uzky_vzor",
+      "label": "Uzky Vzor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategorie": "duration",
+      "nazev": "století",
+      "vzor_jednotne": "{0} století",
+      "vzor_mnozne": "{0} století",
+      "kratky_vzor": "{0} stol.",
+      "uzky_vzor": "{0} stol."
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategorie": "duration",
+      "nazev": "dny",
+      "vzor_jednotne": "{0} den",
+      "vzor_mnozne": "{0} dnů",
+      "kratky_vzor": "{0} dnů",
+      "uzky_vzor": "{0} d."
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-day-person",
+      "kategorie": "duration",
+      "nazev": "",
+      "vzor_jednotne": "{0} den",
+      "vzor_mnozne": "{0} dnů",
+      "kratky_vzor": "",
+      "uzky_vzor": ""
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-decade",
+      "kategorie": "duration",
+      "nazev": "desetiletí",
+      "vzor_jednotne": "{0} desetiletí",
+      "vzor_mnozne": "{0} desetiletí",
+      "kratky_vzor": "{0} desetil.",
+      "uzky_vzor": "{0} dek."
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-fortnight",
+      "kategorie": "duration",
+      "nazev": "fortnight",
+      "vzor_jednotne": "",
+      "vzor_mnozne": "{0} fw",
+      "kratky_vzor": "{0} fw",
+      "uzky_vzor": "{0} fw"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-hour",
+      "kategorie": "duration",
+      "nazev": "hodiny",
+      "vzor_jednotne": "{0} hodina",
+      "vzor_mnozne": "{0} hodin",
+      "kratky_vzor": "{0} h",
+      "uzky_vzor": "{0} h"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-microsecond",
+      "kategorie": "duration",
+      "nazev": "mikrosekundy",
+      "vzor_jednotne": "{0} mikrosekunda",
+      "vzor_mnozne": "{0} mikrosekund",
+      "kratky_vzor": "{0} μs",
+      "uzky_vzor": "{0} μs"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-millisecond",
+      "kategorie": "duration",
+      "nazev": "milisekundy",
+      "vzor_jednotne": "{0} milisekunda",
+      "vzor_mnozne": "{0} milisekund",
+      "kratky_vzor": "{0} ms",
+      "uzky_vzor": "{0} ms"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-minute",
+      "kategorie": "duration",
+      "nazev": "minuty",
+      "vzor_jednotne": "{0} minuta",
+      "vzor_mnozne": "{0} minut",
+      "kratky_vzor": "{0} min",
+      "uzky_vzor": "{0} m"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-month",
+      "kategorie": "duration",
+      "nazev": "měsíce",
+      "vzor_jednotne": "{0} měsíc",
+      "vzor_mnozne": "{0} měsíců",
+      "kratky_vzor": "{0} měs.",
+      "uzky_vzor": "{0} m."
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-nanosecond",
+      "kategorie": "duration",
+      "nazev": "nanosekundy",
+      "vzor_jednotne": "{0} nanosekunda",
+      "vzor_mnozne": "{0} nanosekund",
+      "kratky_vzor": "{0} ns",
+      "uzky_vzor": "{0} ns"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-night",
+      "kategorie": "duration",
+      "nazev": "noci",
+      "vzor_jednotne": "{0} noc",
+      "vzor_mnozne": "{0} nocí",
+      "kratky_vzor": "{0} nocí",
+      "uzky_vzor": "{0} nocí"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-quarter",
+      "kategorie": "duration",
+      "nazev": "čtvrtletí",
+      "vzor_jednotne": "{0} čtvrtletí",
+      "vzor_mnozne": "{0} čtvrtletí",
+      "kratky_vzor": "{0} čtvrtl.",
+      "uzky_vzor": "{0} kv."
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-second",
+      "kategorie": "duration",
+      "nazev": "sekundy",
+      "vzor_jednotne": "{0} sekunda",
+      "vzor_mnozne": "{0} sekund",
+      "kratky_vzor": "{0} s",
+      "uzky_vzor": "{0} s"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-week",
+      "kategorie": "duration",
+      "nazev": "týdny",
+      "vzor_jednotne": "{0} týden",
+      "vzor_mnozne": "{0} týdnů",
+      "kratky_vzor": "{0} týd.",
+      "uzky_vzor": "{0} t."
+    },
+    {
+      "id": 65,
+      "unit_code": "duration-year",
+      "kategorie": "duration",
+      "nazev": "roky",
+      "vzor_jednotne": "{0} rok",
+      "vzor_mnozne": "{0} let",
+      "kratky_vzor": "{0} let",
+      "uzky_vzor": "{0} l."
+    }
+  ],
+  "meta": {
+    "title": "Měrné jednotky: duration (16) - Stáhnout zdarma",
+    "description": "Měrné jednotky CLDR cs-locale v kategorii 'duration'. Obsahuje 16 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Měrné jednotky: duration (16) | ListBase",
+    "seo_description": "Stáhnout Měrné jednotky: duration (16) — 16 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 16 záznamů / 8 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

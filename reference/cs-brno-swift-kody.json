@@ -1,0 +1,100 @@
+{
+  "id": "cs-brno-swift-kody",
+  "name": "SWIFT/BIC kódy — Brno",
+  "title": "SWIFT/BIC kódy — Brno",
+  "description": "SWIFT/BIC kódy bank a finančních institucí v Česku. Každý záznam uvádí název instituce, město, případnou pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Tato podmnožina obsahuje 9 institucí, které zdroj uvádí s městem \"BRNO\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "A AND CE GLOBAL FINANCE, A.S.",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "GLFNCZ21"
+    },
+    {
+      "bank": "ATLANTIK ASSET MANAGEMENT INVESTICNI SPOLECNOST,A.S",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "AAMVCZ21"
+    },
+    {
+      "bank": "BOHM AND PARTNER, A.S.",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "BOPACZ21"
+    },
+    {
+      "bank": "CYRRUS CORPORATE FINANCE, A.S.",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "CYCFCZ21"
+    },
+    {
+      "bank": "CYRRUS, A.S.",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "CYRRCZ21"
+    },
+    {
+      "bank": "EFEKTA CONSULTING, A.S.",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "EFCOCZ21"
+    },
+    {
+      "bank": "EUROPEAN INVESTMENT CENTRE O.C.P., A.S. - ORGANIZACNI SLOZKA",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "EICOCZ21"
+    },
+    {
+      "bank": "J AND T INVESTMENT HOLDING, A.S.",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "INHOCZ21"
+    },
+    {
+      "bank": "JUNG, DMS AND CIE.",
+      "city": "BRNO",
+      "branch": "",
+      "swift_code": "JDMSCZ21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC kódy — Brno - Stáhnout zdarma",
+    "description": "SWIFT/BIC kódy bank a finančních institucí v Česku. Každý záznam uvádí název instituce, město, případnou pobočku a SWIFT/BIC kód. Zdroj: PeterNotenboom/SwiftCodes (MIT). Tato podmnožina obsahuje 9 institucí, které zdroj uvádí s městem \"BRNO\". Obsahuje 9 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "SWIFT/BIC kódy — Brno | ListBase",
+    "seo_description": "Stáhnout SWIFT/BIC kódy — Brno — 9 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 9 záznamů / 4 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "id": "math-derivative-formulas",
+  "name": "Komplexní Sada Dat Vzorců a Pravidel Derivací",
+  "category": "math",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function f(x)",
+      "type": "string"
+    },
+    {
+      "key": "derivative",
+      "label": "Derivative f'(x)",
+      "type": "string"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "Základní pravidla",
+      "function": "c (constant)",
+      "derivative": "0",
+      "condition": "-",
+      "notes": "Pravidlo konstanty"
+    },
+    {
+      "category": "Základní pravidla",
+      "function": "x",
+      "derivative": "1",
+      "condition": "-",
+      "notes": "Identická funkce"
+    },
+    {
+      "category": "Základní pravidla",
+      "function": "c·f(x)",
+      "derivative": "c·f'(x)",
+      "condition": "c is constant",
+      "notes": "Pravidlo konstantního násobku"
+    },
+    {
+      "category": "Základní pravidla",
+      "function": "f(x) + g(x)",
+      "derivative": "f'(x) + g'(x)",
+      "condition": "-",
+      "notes": "Pravidlo součtu"
+    },
+    {
+      "category": "Základní pravidla",
+      "function": "f(x) - g(x)",
+      "derivative": "f'(x) - g'(x)",
+      "condition": "-",
+      "notes": "Pravidlo rozdílu"
+    },
+    {
+      "category": "Základní pravidla",
+      "function": "f(x)·g(x)",
+      "derivative": "f'(x)g(x) + f(x)g'(x)",
+      "condition": "-",
+      "notes": "Pravidlo součinu"
+    },
+    {
+      "category": "Základní pravidla",
+      "function": "f(x)/g(x)",
+      "derivative": "[f'(x)g(x) - f(x)g'(x)]/[g(x)]²",
+      "condition": "g(x) ≠ 0",
+      "notes": "Pravidlo podílu"
+    },
+    {
+      "category": "Základní pravidla",
+      "function": "f(g(x))",
+      "derivative": "f'(g(x))·g'(x)",
+      "condition": "-",
+      "notes": "Řetězové pravidlo"
+    },
+    {
+      "category": "Mocnina",
+      "function": "x^n",
+      "derivative": "n·x^(n-1)",
+      "condition": "-",
+      "notes": "Pravidlo mocniny"
+    },
+    {
+      "category": "Mocnina",
+      "function": "1/x",
+      "derivative": "-1/x²",
+      "condition": "x ≠ 0",
+      "notes": "Stejné jako x^(-1)"
+    },
+    {
+      "category": "Mocnina",
+      "function": "1/x^n",
+      "derivative": "-n/x^(n+1)",
+      "condition": "x ≠ 0",
+      "notes": "Záporná mocnina"
+    },
+    {
+      "category": "Mocnina",
+      "function": "√x",
+      "derivative": "1/(2√x)",
+      "condition": "x > 0",
+      "notes": "Druhá odmocnina"
+    },
+    {
+      "category": "Mocnina",
+      "function": "∜x (x^(1/n))",
+      "derivative": "1/(n·x^((n-1)/n))",
+      "condition": "x > 0",
+      "notes": "n-tá odmocnina"
+    },
+    {
+      "category": "Mocnina",
+      "function": "x^x",
+      "derivative": "x^x(ln(x) + 1)",
+      "condition": "x > 0",
+      "notes": "Logaritmické derivování"
+    },
+    {
+      "category": "Exponenciální",
+      "function": "e^x",
+      "derivative": "e^x",
+      "condition": "-",
+      "notes": "Přirozená exponenciála"
+    },
+    {
+      "category": "Exponenciální",
+      "function": "a^x",
+      "derivative": "a^x·ln(a)",
+      "condition": "a > 0, a ≠ 1",
+      "notes": "Obecná exponenciála"
+    },
+    {
+      "category": "Exponenciální",
+      "function": "e^(f(x))",
+      "derivative": "e^(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Použito řetězové pravidlo"
+    },
+    {
+      "category": "Exponenciální",
+      "function": "a^(f(x))",
+      "derivative": "a^(f(x))·ln(a)·f'(x)",
+      "condition": "a > 0",
+      "notes": "Obecný tvar s řetězovým pravidlem"
+    },
+    {
+      "category": "Logaritmická",
+      "function": "ln(x)",
+      "derivative": "1/x",
+      "condition": "x > 0",
+      "notes": "Přirozený logaritmus"
+    },
+    {
+      "category": "Logaritmická",
+      "function": "log_a(x)",
+      "derivative": "1/(x·ln(a))",
+      "condition": "x > 0, a > 0",
+      "notes": "Obecný logaritmus"
+    },
+    {
+      "category": "Logaritmické",
+      "function": "ln(f(x))",
+      "derivative": "f'(x)/f(x)",
+      "condition": "f(x) > 0",
+      "notes": "Použito řetězové pravidlo"
+    },
+    {
+      "category": "Logaritmické",
+      "function": "log_a(f(x))",
+      "derivative": "f'(x)/(f(x)·ln(a))",
+      "condition": "f(x) > 0",
+      "notes": "Obecný tvar s řetězovým pravidlem"
+    },
+    {
+      "category": "Logaritmické",
+      "function": "ln|x|",
+      "derivative": "1/x",
+      "condition": "x ≠ 0",
+      "notes": "Logaritmus absolutní hodnoty"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "sin(x)",
+      "derivative": "cos(x)",
+      "condition": "-",
+      "notes": "Funkce sinus"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "cos(x)",
+      "derivative": "-sin(x)",
+      "condition": "-",
+      "notes": "Funkce cosinus"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "tan(x)",
+      "derivative": "sec²(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkce tangens"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "cot(x)",
+      "derivative": "-csc²(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Funkce cotangens"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "sec(x)",
+      "derivative": "sec(x)tan(x)",
+      "condition": "x ≠ π/2 + nπ",
+      "notes": "Funkce secans"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "csc(x)",
+      "derivative": "-csc(x)cot(x)",
+      "condition": "x ≠ nπ",
+      "notes": "Funkce cosecans"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "sin(f(x))",
+      "derivative": "cos(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Použito řetězové pravidlo"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "cos(f(x))",
+      "derivative": "-sin(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Použito řetězové pravidlo"
+    },
+    {
+      "category": "Goniometrické",
+      "function": "tan(f(x))",
+      "derivative": "sec²(f(x))·f'(x)",
+      "condition": "-",
+      "notes": "Použito řetězové pravidlo"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arcsin(x)",
+      "derivative": "1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Funkce arkussinus"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arccos(x)",
+      "derivative": "-1/√(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Funkce arkuskosinus"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arctan(x)",
+      "derivative": "1/(1+x²)",
+      "condition": "-",
+      "notes": "Funkce arkustangens"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arccot(x)",
+      "derivative": "-1/(1+x²)",
+      "condition": "-",
+      "notes": "Funkce arkuskotangens"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arcsec(x)",
+      "derivative": "1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Funkce arkussekans"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arccsc(x)",
+      "derivative": "-1/(|x|√(x²-1))",
+      "condition": "|x| > 1",
+      "notes": "Funkce arkuskosekans"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arcsin(f(x))",
+      "derivative": "f'(x)/√(1-[f(x)]²)",
+      "condition": "|f(x)| < 1",
+      "notes": "Použito řetězové pravidlo"
+    },
+    {
+      "category": "Cyklometrické",
+      "function": "arctan(f(x))",
+      "derivative": "f'(x)/(1+[f(x)]²)",
+      "condition": "-",
+      "notes": "Použito řetězové pravidlo"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "sinh(x)",
+      "derivative": "cosh(x)",
+      "condition": "-",
+      "notes": "Hyperbolický sinus"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "cosh(x)",
+      "derivative": "sinh(x)",
+      "condition": "-",
+      "notes": "Hyperbolický kosinus"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "tanh(x)",
+      "derivative": "sech²(x)",
+      "condition": "-",
+      "notes": "Hyperbolický tangens"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "coth(x)",
+      "derivative": "-csch²(x)",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolický kotangens"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "sech(x)",
+      "derivative": "-sech(x)tanh(x)",
+      "condition": "-",
+      "notes": "Hyperbolický sekans"
+    },
+    {
+      "category": "Hyperbolické",
+      "function": "csch(x)",
+      "derivative": "-csch(x)coth(x)",
+      "condition": "x ≠ 0",
+      "notes": "Hyperbolický kosekans"
+    },
+    {
+      "category": "Inverzní hyperbolické",
+      "function": "arcsinh(x)",
+      "derivative": "1/√(x²+1)",
+      "condition": "-",
+      "notes": "Inverzní hyperbolický sinus"
+    },
+    {
+      "category": "Inverzní hyperbolické",
+      "function": "arccosh(x)",
+      "derivative": "1/√(x²-1)",
+      "condition": "x > 1",
+      "notes": "Inverzní hyperbolický kosinus"
+    },
+    {
+      "category": "Inverzní hyperbolické",
+      "function": "arctanh(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| < 1",
+      "notes": "Inverzní hyperbolický tangens"
+    },
+    {
+      "category": "Inverzní hyperbolické",
+      "function": "arccoth(x)",
+      "derivative": "1/(1-x²)",
+      "condition": "|x| > 1",
+      "notes": "Inverzní hyperbolický kotangens"
+    },
+    {
+      "category": "Inverzní hyperbolické",
+      "function": "arcsech(x)",
+      "derivative": "-1/(x√(1-x²))",
+      "condition": "0 < x < 1",
+      "notes": "Inverzní hyperbolický sekans"
+    },
+    {
+      "category": "Inverzní hyperbolické",
+      "function": "arccsch(x)",
+      "derivative": "-1/(|x|√(1+x²))",
+      "condition": "x ≠ 0",
+      "notes": "Inverzní hyperbolický kosekans"
+    },
+    {
+      "category": "Speciální",
+      "function": "|x|",
+      "derivative": "x/|x| = sgn(x)",
+      "condition": "x ≠ 0",
+      "notes": "Absolutní hodnota"
+    },
+    {
+      "category": "Speciální",
+      "function": "[f(x)]^n",
+      "derivative": "n[f(x)]^(n-1)·f'(x)",
+      "condition": "-",
+      "notes": "Zobecněné pravidlo pro mocniny"
+    },
+    {
+      "category": "Speciální",
+      "function": "[f(x)]^g(x)",
+      "derivative": "[f(x)]^g(x)·[g'(x)ln(f(x)) + g(x)f'(x)/f(x)]",
+      "condition": "f(x) > 0",
+      "notes": "Logaritmické derivování"
+    },
+    {
+      "category": "Speciální",
+      "function": "e^(x²)",
+      "derivative": "2x·e^(x²)",
+      "condition": "-",
+      "notes": "Gaussova forma"
+    },
+    {
+      "category": "Speciální",
+      "function": "ln(ln(x))",
+      "derivative": "1/(x·ln(x))",
+      "condition": "x > 1",
+      "notes": "Vnořený logaritmus"
+    }
+  ],
+  "meta": {
+    "seo_title": "Vzorce Derivací - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma 57 běžných vzorců a pravidel pro derivace v kalkulu. K dispozici ve formátech Excel, CSV a PDF pro studenty a profesionály.",
+    "title": "Komplexní Sada Dat Vzorců a Pravidel Derivací",
+    "description": "Tato sada dat poskytuje komplexní sbírku 57 běžných vzorců a pravidel derivací, včetně základních pravidel, mocninných pravidel, trigonometrických funkcí a dalších. Každý záznam uvádí funkci, její derivaci, podmínky a poznámky.",
+    "key_takeaways": [
+      "Získejte přístup k 57 základním vzorcům a pravidlům derivací.",
+      "Prozkoumejte pojmy kalkulu s kategorizovanými funkcemi a jejich derivacemi.",
+      "Stáhněte si hotová data pro akademické studium nebo profesionální reference.",
+      "Využijte podrobné podmínky a poznámky pro každé pravidlo derivace."
+    ],
+    "keywords": [
+      "vzorce derivací excel",
+      "pravidla derivování csv",
+      "kalkulus vzorce pdf",
+      "matematika derivace",
+      "tabulka derivací",
+      "stáhnout kalkulus data zdarma"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do svých skriptů Pythonu nebo databáze SQL pro tvorbu vlastních aplikací pro výuku kalkulu nebo studijních nástrojů.",
+      "Použijte soubor **Excel** k filtrování vzorců podle kategorií, analýze podmínek nebo snadnému vytváření studijních příruček.",
+      "Vytiskněte verzi **PDF** pro rychlou offline referenci během zkoušek, přednášek ve třídě nebo osobních studijních sezení.",
+      "Použijte tuto sadu dat k rychlému ověření derivací pro složité funkce v inženýrských, fyzikálních nebo datově vědeckých výpočtech."
+    ]
+  },
+  "record_count": 57,
+  "title": "Komplexní Sada Dat Vzorců a Pravidel Derivací"
+}

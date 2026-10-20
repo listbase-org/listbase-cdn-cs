@@ -1,0 +1,220 @@
+{
+  "id": "cs-jihomoravsky-letiste",
+  "name": "Letiště — Jihomoravský kraj",
+  "title": "Letiště — Jihomoravský kraj",
+  "description": "Seznam letišť v kraji „Jihomoravský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (South Moravia region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKBA",
+      "iata": "",
+      "name": "Breclav Airport",
+      "name_slug": "breclav-airport",
+      "city": "Breclav",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 531,
+      "lat": 48.7900009155,
+      "lon": 16.8924999237,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKCL",
+      "iata": "",
+      "name": "Cernovice Air Base",
+      "name_slug": "cernovice-air-base",
+      "city": "Cernovice",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 778,
+      "lat": 49.1775016785,
+      "lon": 16.6608009338,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKCM",
+      "iata": "",
+      "name": "Medlanky Airport",
+      "name_slug": "medlanky-airport",
+      "city": "Medlanky",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 853,
+      "lat": 49.2366981506,
+      "lon": 16.5550003052,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKY",
+      "iata": "",
+      "name": "Kyjov Airport",
+      "name_slug": "kyjov-airport",
+      "city": "Kyjov",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 689,
+      "lat": 48.9799995422,
+      "lon": 17.1247005463,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKTB",
+      "iata": "BRQ",
+      "name": "Brno-Turany Airport",
+      "name_slug": "brno-turany-airport",
+      "city": "Brno",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 778,
+      "lat": 49.1512985229,
+      "lon": 16.6944007874,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKVY",
+      "iata": "",
+      "name": "Vyskov Airport",
+      "name_slug": "vyskov-airport",
+      "city": "Vyskov",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 922,
+      "lat": 49.3003005981,
+      "lon": 17.0252990723,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKZN",
+      "iata": "",
+      "name": "Znojmo Airport",
+      "name_slug": "znojmo-airport",
+      "city": "Znojmo",
+      "kraj": "Jihomoravský kraj",
+      "kraj_source": "South-Moravian",
+      "kraj_slug": "jihomoravsky",
+      "kraj_en": "South Moravia",
+      "country": "CZ",
+      "elevation_ft": 830,
+      "lat": 48.8177986145,
+      "lon": 16.0657997131,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Jihomoravský kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Jihomoravský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (South Moravia region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 7 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Jihomoravský kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Jihomoravský kraj — 7 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 7 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

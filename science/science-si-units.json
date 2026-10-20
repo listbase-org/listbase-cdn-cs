@@ -1,0 +1,493 @@
+{
+  "id": "science-si-units",
+  "name": "Soubor dat Mezinárodní soustavy jednotek (Jednotky SI)",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "symbol",
+      "label": "Symbol",
+      "type": "string"
+    },
+    {
+      "key": "quantity",
+      "label": "Quantity (EN)",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "definition",
+      "label": "Definition (EN)",
+      "type": "string"
+    },
+    {
+      "key": "dimension",
+      "label": "Dimension",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "metr",
+      "symbol": "m",
+      "quantity": "délka",
+      "type": "Base Unit",
+      "definition": "Vzdálenost, kterou světlo urazí za 1/299 792 458 sekundy",
+      "dimension": "L"
+    },
+    {
+      "name": "kilogram",
+      "symbol": "kg",
+      "quantity": "hmotnost",
+      "type": "Base Unit",
+      "definition": "Definován Planckovou konstantou h = 6.62607015×10⁻³⁴ J·s",
+      "dimension": "M"
+    },
+    {
+      "name": "sekunda",
+      "symbol": "s",
+      "quantity": "čas",
+      "type": "Base Unit",
+      "definition": "9 192 631 770 period záření cesia-133",
+      "dimension": "T"
+    },
+    {
+      "name": "ampér",
+      "symbol": "A",
+      "quantity": "elektrický proud",
+      "type": "Base Unit",
+      "definition": "Definován elementárním nábojem e = 1.602176634×10⁻¹⁹ C",
+      "dimension": "I"
+    },
+    {
+      "name": "kelvin",
+      "symbol": "K",
+      "quantity": "termodynamická teplota",
+      "type": "Base Unit",
+      "definition": "Definován Boltzmannovou konstantou k = 1.380649×10⁻²³ J/K",
+      "dimension": "Θ"
+    },
+    {
+      "name": "mol",
+      "symbol": "mol",
+      "quantity": "látkové množství",
+      "type": "Base Unit",
+      "definition": "Přesně 6.02214076×10²³ elementárních entit",
+      "dimension": "N"
+    },
+    {
+      "name": "kandela",
+      "symbol": "cd",
+      "quantity": "svítivost",
+      "type": "Base Unit",
+      "definition": "Měrná světelná účinnost Kcd = 683 lm/W při 540 THz",
+      "dimension": "J"
+    },
+    {
+      "name": "hertz",
+      "symbol": "Hz",
+      "quantity": "frekvence",
+      "type": "Derived Unit",
+      "definition": "s⁻¹",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "newton",
+      "symbol": "N",
+      "quantity": "síla",
+      "type": "Derived Unit",
+      "definition": "kg·m·s⁻²",
+      "dimension": "M·L·T⁻²"
+    },
+    {
+      "name": "pascal",
+      "symbol": "Pa",
+      "quantity": "tlak, napětí",
+      "type": "Derived Unit",
+      "definition": "N/m² = kg·m⁻¹·s⁻²",
+      "dimension": "M·L⁻¹·T⁻²"
+    },
+    {
+      "name": "joule",
+      "symbol": "J",
+      "quantity": "energie, práce, teplo",
+      "type": "Derived Unit",
+      "definition": "N·m = kg·m²·s⁻²",
+      "dimension": "M·L²·T⁻²"
+    },
+    {
+      "name": "watt",
+      "symbol": "W",
+      "quantity": "výkon, zářivý tok",
+      "type": "Derived Unit",
+      "definition": "J/s = kg·m²·s⁻³",
+      "dimension": "M·L²·T⁻³"
+    },
+    {
+      "name": "coulomb",
+      "symbol": "C",
+      "quantity": "elektrický náboj",
+      "type": "Derived Unit",
+      "definition": "A·s",
+      "dimension": "T·I"
+    },
+    {
+      "name": "volt",
+      "symbol": "V",
+      "quantity": "elektrický potenciál",
+      "type": "Derived Unit",
+      "definition": "W/A = kg·m²·s⁻³·A⁻¹",
+      "dimension": "M·L²·T⁻³·I⁻¹"
+    },
+    {
+      "name": "farad",
+      "symbol": "F",
+      "quantity": "kapacita",
+      "type": "Derived Unit",
+      "definition": "C/V = kg⁻¹·m⁻²·s⁴·A²",
+      "dimension": "M⁻¹·L⁻²·T⁴·I²"
+    },
+    {
+      "name": "ohm",
+      "symbol": "Ω",
+      "quantity": "elektrický odpor",
+      "type": "Derived Unit",
+      "definition": "V/A = kg·m²·s⁻³·A⁻²",
+      "dimension": "M·L²·T⁻³·I⁻²"
+    },
+    {
+      "name": "siemens",
+      "symbol": "S",
+      "quantity": "elektrická vodivost",
+      "type": "Derived Unit",
+      "definition": "A/V = kg⁻¹·m⁻²·s³·A²",
+      "dimension": "M⁻¹·L⁻²·T³·I²"
+    },
+    {
+      "name": "weber",
+      "symbol": "Wb",
+      "quantity": "magnetický tok",
+      "type": "Derived Unit",
+      "definition": "V·s = kg·m²·s⁻²·A⁻¹",
+      "dimension": "M·L²·T⁻²·I⁻¹"
+    },
+    {
+      "name": "tesla",
+      "symbol": "T",
+      "quantity": "hustota magnetického toku",
+      "type": "Derived Unit",
+      "definition": "Wb/m² = kg·s⁻²·A⁻¹",
+      "dimension": "M·T⁻²·I⁻¹"
+    },
+    {
+      "name": "henry",
+      "symbol": "H",
+      "quantity": "indukčnost",
+      "type": "Derived Unit",
+      "definition": "Wb/A = kg·m²·s⁻²·A⁻²",
+      "dimension": "M·L²·T⁻²·I⁻²"
+    },
+    {
+      "name": "stupeň Celsia",
+      "symbol": "°C",
+      "quantity": "teplota",
+      "type": "Derived Unit",
+      "definition": "K - 273.15",
+      "dimension": "Θ"
+    },
+    {
+      "name": "lumen",
+      "symbol": "lm",
+      "quantity": "světelný tok",
+      "type": "Derived Unit",
+      "definition": "cd·sr",
+      "dimension": "J"
+    },
+    {
+      "name": "lux",
+      "symbol": "lx",
+      "quantity": "osvětlenost",
+      "type": "Derived Unit",
+      "definition": "lm/m² = cd·sr·m⁻²",
+      "dimension": "J·L⁻²"
+    },
+    {
+      "name": "becquerel",
+      "symbol": "Bq",
+      "quantity": "radioaktivita",
+      "type": "Derived Unit",
+      "definition": "s⁻¹ (rozpadů za sekundu)",
+      "dimension": "T⁻¹"
+    },
+    {
+      "name": "gray",
+      "symbol": "Gy",
+      "quantity": "absorbovaná dávka",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "sievert",
+      "symbol": "Sv",
+      "quantity": "ekvivalentní dávka",
+      "type": "Derived Unit",
+      "definition": "J/kg = m²·s⁻²",
+      "dimension": "L²·T⁻²"
+    },
+    {
+      "name": "katal",
+      "symbol": "kat",
+      "quantity": "katalytická aktivita",
+      "type": "Derived Unit",
+      "definition": "mol·s⁻¹",
+      "dimension": "N·T⁻¹"
+    },
+    {
+      "name": "radián",
+      "symbol": "rad",
+      "quantity": "rovinný úhel",
+      "type": "Derived Unit",
+      "definition": "m/m = 1 (bezrozměrný)",
+      "dimension": "1"
+    },
+    {
+      "name": "steradián",
+      "symbol": "sr",
+      "quantity": "prostorový úhel",
+      "type": "Derived Unit",
+      "definition": "m²/m² = 1 (bezrozměrný)",
+      "dimension": "1"
+    },
+    {
+      "name": "quetta",
+      "symbol": "Q",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10³⁰",
+      "dimension": "-"
+    },
+    {
+      "name": "ronna",
+      "symbol": "R",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "yotta",
+      "symbol": "Y",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "zetta",
+      "symbol": "Z",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "exa",
+      "symbol": "E",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "peta",
+      "symbol": "P",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "tera",
+      "symbol": "T",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "giga",
+      "symbol": "G",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "mega",
+      "symbol": "M",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "kilo",
+      "symbol": "k",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10³",
+      "dimension": "-"
+    },
+    {
+      "name": "hekto",
+      "symbol": "h",
+      "quantity": "předpona SI",
+      "type": "Prefix",
+      "definition": "10²",
+      "dimension": "-"
+    },
+    {
+      "name": "deca",
+      "symbol": "da",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10¹",
+      "dimension": "-"
+    },
+    {
+      "name": "deci",
+      "symbol": "d",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻¹",
+      "dimension": "-"
+    },
+    {
+      "name": "centi",
+      "symbol": "c",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻²",
+      "dimension": "-"
+    },
+    {
+      "name": "milli",
+      "symbol": "m",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻³",
+      "dimension": "-"
+    },
+    {
+      "name": "micro",
+      "symbol": "μ",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻⁶",
+      "dimension": "-"
+    },
+    {
+      "name": "nano",
+      "symbol": "n",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻⁹",
+      "dimension": "-"
+    },
+    {
+      "name": "pico",
+      "symbol": "p",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻¹²",
+      "dimension": "-"
+    },
+    {
+      "name": "femto",
+      "symbol": "f",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁵",
+      "dimension": "-"
+    },
+    {
+      "name": "atto",
+      "symbol": "a",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻¹⁸",
+      "dimension": "-"
+    },
+    {
+      "name": "zepto",
+      "symbol": "z",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻²¹",
+      "dimension": "-"
+    },
+    {
+      "name": "yocto",
+      "symbol": "y",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁴",
+      "dimension": "-"
+    },
+    {
+      "name": "ronto",
+      "symbol": "r",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻²⁷",
+      "dimension": "-"
+    },
+    {
+      "name": "quecto",
+      "symbol": "q",
+      "quantity": "Předpona SI",
+      "type": "Prefix",
+      "definition": "10⁻³⁰",
+      "dimension": "-"
+    }
+  ],
+  "meta": {
+    "seo_title": "Jednotky SI & Definice - Zdarma ke stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si 53 jednotek SI s definicemi, symboly a rozměry zdarma. K dispozici ve formátech Excel, CSV a PDF pro vědu, vzdělávání a vývoj.",
+    "title": "Soubor dat Mezinárodní soustavy jednotek (Jednotky SI)",
+    "description": "Tento komplexní soubor dat obsahuje 53 základních a odvozených jednotek SI, včetně jejich názvů, symbolů, veličin, typů, definic a rozměrů. Je to nezbytný zdroj pro vědu, inženýrství a vzdělávání.",
+    "key_takeaways": [
+      "Získejte přístup k 53 komplexním jednotkám SI, včetně základních a odvozených jednotek.",
+      "Prozkoumejte přesné definice, symboly, veličiny a rozměry pro každou jednotku.",
+      "Stáhněte si data jednotek v flexibilních formátech Excel, CSV nebo tisknutelném PDF.",
+      "Využijte přesné informace o jednotkách SI pro vědecký výzkum a vzdělávací materiály."
+    ],
+    "keywords": [
+      "jednotky si seznam excel",
+      "mezinárodní soustava jednotek csv",
+      "definice základních odvozených jednotek",
+      "stáhnout data metrického systému",
+      "fyzikální veličiny rozměry",
+      "zdroje vědeckého vzdělávání"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo Python skriptů pro napájení vědeckých aplikací nebo nástrojů pro převod jednotek.",
+      "Použijte soubor **Excel** k vytváření kontingenčních tabulek, filtrování jednotek podle typu nebo generování vlastních sestav pro inženýrské projekty a výzkum.",
+      "Vytiskněte verzi **PDF** pro referenci ve třídě, vzdělávací plakáty nebo rychlou offline konzultaci během laboratorních experimentů.",
+      "Odkazujte na tento soubor dat k zajištění přesnosti a konzistence v jakémkoli projektu vyžadujícím přesné měrné jednotky a jejich základní definice."
+    ]
+  },
+  "record_count": 53,
+  "title": "Soubor dat Mezinárodní soustavy jednotek (Jednotky SI)"
+}

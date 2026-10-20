@@ -1,0 +1,931 @@
+{
+  "id": "cs-ovoce-zelenina",
+  "name": "Prodejny ovoce a zeleniny",
+  "title": "Prodejny ovoce a zeleniny",
+  "description": "Prodejny ovoce a zeleniny v České republice (178 záznamů) — body zájmu z OpenStreetMap (tag shop=greengrocer), výřez EU-POIS/CZ.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 178,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A & A",
+      "latitude": 50.031554,
+      "longitude": 14.528849
+    },
+    {
+      "name": "bezobalu",
+      "latitude": 50.073753,
+      "longitude": 14.433484
+    },
+    {
+      "name": "Biorofi",
+      "latitude": 50.179917,
+      "longitude": 14.478795
+    },
+    {
+      "name": "Bohumír Procházka",
+      "latitude": 49.168422,
+      "longitude": 16.579276
+    },
+    {
+      "name": "Bovys",
+      "latitude": 49.395873,
+      "longitude": 15.586899
+    },
+    {
+      "name": "BOVYS",
+      "latitude": 50.035843,
+      "longitude": 15.76909
+    },
+    {
+      "name": "Broker Consulting",
+      "latitude": 50.148001,
+      "longitude": 16.071818
+    },
+    {
+      "name": "Community Foods",
+      "latitude": 50.077146,
+      "longitude": 14.451525
+    },
+    {
+      "name": "CZ Fruit",
+      "latitude": 49.59911,
+      "longitude": 17.272892
+    },
+    {
+      "name": "Dagmar Machalová",
+      "latitude": 49.150135,
+      "longitude": 17.00382
+    },
+    {
+      "name": "Delix market",
+      "latitude": 50.097333,
+      "longitude": 14.364509
+    },
+    {
+      "name": "Denne cerstve",
+      "latitude": 50.780409,
+      "longitude": 14.211322
+    },
+    {
+      "name": "Dobrá stodola",
+      "latitude": 50.167681,
+      "longitude": 14.451957
+    },
+    {
+      "name": "Domecek ovoce zeleniny",
+      "latitude": 49.201848,
+      "longitude": 16.670191
+    },
+    {
+      "name": "Drogerie Fialka",
+      "latitude": 50.199929,
+      "longitude": 15.82728
+    },
+    {
+      "name": "Ebedou",
+      "latitude": 50.100438,
+      "longitude": 14.388791
+    },
+    {
+      "name": "EBez",
+      "latitude": 49.614039,
+      "longitude": 18.738419
+    },
+    {
+      "name": "Farma Jesenice",
+      "latitude": 49.967546,
+      "longitude": 14.511719
+    },
+    {
+      "name": "Farma Novák",
+      "latitude": 50.15938,
+      "longitude": 14.825929
+    },
+    {
+      "name": "Farma Podal",
+      "latitude": 49.333918,
+      "longitude": 16.478388
+    },
+    {
+      "name": "Farma Svobodovi",
+      "latitude": 49.083348,
+      "longitude": 16.43773
+    },
+    {
+      "name": "FARMA U TŘÍ DUBŮ",
+      "latitude": 48.878241,
+      "longitude": 16.036664
+    },
+    {
+      "name": "farmářské potraviny",
+      "latitude": 49.832283,
+      "longitude": 18.175179
+    },
+    {
+      "name": "Farmářské trhy Anděl",
+      "latitude": 50.071399,
+      "longitude": 14.404222
+    },
+    {
+      "name": "Farmářský obchod",
+      "latitude": 50.302783,
+      "longitude": 14.441244
+    },
+    {
+      "name": "Fresh Fruit",
+      "latitude": 48.974576,
+      "longitude": 14.483323
+    },
+    {
+      "name": "Fruit World",
+      "latitude": 50.078646,
+      "longitude": 14.461127
+    },
+    {
+      "name": "Frydrych, pěstitel a prodejce jablek",
+      "latitude": 50.298665,
+      "longitude": 15.607972
+    },
+    {
+      "name": "Gubro foods",
+      "latitude": 50.102667,
+      "longitude": 14.396745
+    },
+    {
+      "name": "Hennea s.r.o",
+      "latitude": 50.103324,
+      "longitude": 14.448413
+    },
+    {
+      "name": "Hospodářské družstvo Určice",
+      "latitude": 49.414629,
+      "longitude": 17.091369
+    },
+    {
+      "name": "Hrbek",
+      "latitude": 50.212801,
+      "longitude": 15.822527
+    },
+    {
+      "name": "Ing. Josef Košťál - Ovocnářská farma",
+      "latitude": 50.206385,
+      "longitude": 15.708348
+    },
+    {
+      "name": "Ing. Zdeněk Hepner",
+      "latitude": 50.209635,
+      "longitude": 15.693348
+    },
+    {
+      "name": "Jamboz",
+      "latitude": 49.919103,
+      "longitude": 15.385514
+    },
+    {
+      "name": "Jaroslav Crhák",
+      "latitude": 49.424592,
+      "longitude": 16.590977
+    },
+    {
+      "name": "Jasmínko",
+      "latitude": 49.221565,
+      "longitude": 16.52839
+    },
+    {
+      "name": "Josef Mikulášek",
+      "latitude": 49.066343,
+      "longitude": 17.449293
+    },
+    {
+      "name": "Jumbo Fruits",
+      "latitude": 49.190812,
+      "longitude": 16.612863
+    },
+    {
+      "name": "Jumbo Fruits",
+      "latitude": 49.191823,
+      "longitude": 16.612631
+    },
+    {
+      "name": "Kalenda",
+      "latitude": 49.948107,
+      "longitude": 15.582177
+    },
+    {
+      "name": "Kotásek",
+      "latitude": 48.916781,
+      "longitude": 17.098074
+    },
+    {
+      "name": "Kovář",
+      "latitude": 49.070272,
+      "longitude": 16.465577
+    },
+    {
+      "name": "Krámek",
+      "latitude": 49.198383,
+      "longitude": 16.615025
+    },
+    {
+      "name": "Ladislav Soukal - Farma Rokytno",
+      "latitude": 50.102345,
+      "longitude": 15.88549
+    },
+    {
+      "name": "Local groceries",
+      "latitude": 49.168413,
+      "longitude": 16.579274
+    },
+    {
+      "name": "MALUS, s. r. o.",
+      "latitude": 50.428429,
+      "longitude": 15.875685
+    },
+    {
+      "name": "Mandarinka",
+      "latitude": 49.595538,
+      "longitude": 17.248879
+    },
+    {
+      "name": "Mango",
+      "latitude": 50.442333,
+      "longitude": 16.24167
+    },
+    {
+      "name": "Mango Fruit Shop",
+      "latitude": 50.228923,
+      "longitude": 12.865198
+    },
+    {
+      "name": "Meduňka",
+      "latitude": 49.707785,
+      "longitude": 14.896869
+    },
+    {
+      "name": "Microgreens",
+      "latitude": 50.071869,
+      "longitude": 14.431139
+    },
+    {
+      "name": "Mini Market Potraviny",
+      "latitude": 50.105342,
+      "longitude": 14.449704
+    },
+    {
+      "name": "Monika Viktorová",
+      "latitude": 49.949153,
+      "longitude": 15.267697
+    },
+    {
+      "name": "Moštárna Plzeň-Roudná",
+      "latitude": 49.763902,
+      "longitude": 13.387682
+    },
+    {
+      "name": "Natural",
+      "latitude": 50.77073,
+      "longitude": 15.061983
+    },
+    {
+      "name": "Naturhouse",
+      "latitude": 50.104126,
+      "longitude": 14.490712
+    },
+    {
+      "name": "Netis",
+      "latitude": 49.590919,
+      "longitude": 18.753736
+    },
+    {
+      "name": "Novotný",
+      "latitude": 50.432093,
+      "longitude": 15.813227
+    },
+    {
+      "name": "občerstvení u Bulovky",
+      "latitude": 50.116092,
+      "longitude": 14.467255
+    },
+    {
+      "name": "Ovoce & zelenina",
+      "latitude": 49.218493,
+      "longitude": 16.621564
+    },
+    {
+      "name": "Ovoce - zelenina",
+      "latitude": 49.665891,
+      "longitude": 18.423602
+    },
+    {
+      "name": "Ovoce - zelenina",
+      "latitude": 49.84736,
+      "longitude": 15.659133
+    },
+    {
+      "name": "Ovoce - Zelenina",
+      "latitude": 49.881273,
+      "longitude": 15.064722
+    },
+    {
+      "name": "Ovoce - Zelenina",
+      "latitude": 49.947303,
+      "longitude": 15.666205
+    },
+    {
+      "name": "Ovoce - zelenina",
+      "latitude": 50.082815,
+      "longitude": 16.764086
+    },
+    {
+      "name": "Ovoce - Zelenina",
+      "latitude": 50.090932,
+      "longitude": 14.472285
+    },
+    {
+      "name": "Ovoce - zelenina",
+      "latitude": 50.126247,
+      "longitude": 14.456944
+    },
+    {
+      "name": "Ovoce - Zelenina",
+      "latitude": 50.263134,
+      "longitude": 17.396166
+    },
+    {
+      "name": "Ovoce - Zelenina",
+      "latitude": 50.429864,
+      "longitude": 15.582449
+    },
+    {
+      "name": "Ovoce - Zelenina",
+      "latitude": 50.46995,
+      "longitude": 15.499175
+    },
+    {
+      "name": "Ovoce - zelenina U Bizona",
+      "latitude": 49.792564,
+      "longitude": 18.382962
+    },
+    {
+      "name": "Ovoce - Zelenina Vašíčkovi",
+      "latitude": 49.198988,
+      "longitude": 16.592675
+    },
+    {
+      "name": "Ovoce - zelenina, koloniál U Drvotů",
+      "latitude": 50.139609,
+      "longitude": 14.070492
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 48.826975,
+      "longitude": 16.846483
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 49.09457,
+      "longitude": 15.891611
+    },
+    {
+      "name": "ovoce a zelenina",
+      "latitude": 49.210882,
+      "longitude": 16.58541
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 49.215584,
+      "longitude": 16.626534
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 49.351226,
+      "longitude": 17.300845
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 49.401735,
+      "longitude": 15.60108
+    },
+    {
+      "name": "ovoce a zelenina",
+      "latitude": 49.603324,
+      "longitude": 15.580186
+    },
+    {
+      "name": "ovoce a zelenina",
+      "latitude": 49.605313,
+      "longitude": 15.580005
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 49.951702,
+      "longitude": 15.270745
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 50.061356,
+      "longitude": 14.436777
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 50.065282,
+      "longitude": 14.440208
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 50.081329,
+      "longitude": 14.405136
+    },
+    {
+      "name": "ovoce a zelenina",
+      "latitude": 50.09682,
+      "longitude": 14.362409
+    },
+    {
+      "name": "ovoce a zelenina",
+      "latitude": 50.210173,
+      "longitude": 15.83074
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 50.261812,
+      "longitude": 17.396713
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 50.475916,
+      "longitude": 16.090126
+    },
+    {
+      "name": "Ovoce a zelenina",
+      "latitude": 50.724151,
+      "longitude": 15.180459
+    },
+    {
+      "name": "Ovoce a zelenina \"Na Pěší zóně\"",
+      "latitude": 49.206363,
+      "longitude": 16.153956
+    },
+    {
+      "name": "Ovoce a zelenina - Chrpa",
+      "latitude": 49.836355,
+      "longitude": 14.587374
+    },
+    {
+      "name": "Ovoce a zelenina Kratochvílová",
+      "latitude": 49.575589,
+      "longitude": 17.294574
+    },
+    {
+      "name": "Ovoce a zelenina Na konečné",
+      "latitude": 49.209463,
+      "longitude": 16.688876
+    },
+    {
+      "name": "Ovoce a zelenina VELKON",
+      "latitude": 50.661031,
+      "longitude": 15.820119
+    },
+    {
+      "name": "Ovoce Zelenina",
+      "latitude": 49.049165,
+      "longitude": 16.313736
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 49.195434,
+      "longitude": 16.649861
+    },
+    {
+      "name": "Ovoce Zelenina",
+      "latitude": 49.20366,
+      "longitude": 16.883065
+    },
+    {
+      "name": "OVOCE ZELENINA",
+      "latitude": 49.471731,
+      "longitude": 17.109875
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 49.473547,
+      "longitude": 17.109416
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 49.537103,
+      "longitude": 18.392996
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 49.539779,
+      "longitude": 18.390941
+    },
+    {
+      "name": "Ovoce Zelenina",
+      "latitude": 49.659624,
+      "longitude": 14.424864
+    },
+    {
+      "name": "Ovoce Zelenina",
+      "latitude": 49.731206,
+      "longitude": 14.668293
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 50.059108,
+      "longitude": 14.420966
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 50.069867,
+      "longitude": 14.370568
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 50.082147,
+      "longitude": 14.456552
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 50.08381,
+      "longitude": 14.369906
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 50.109167,
+      "longitude": 14.447412
+    },
+    {
+      "name": "Ovoce zelenina",
+      "latitude": 50.652278,
+      "longitude": 13.844763
+    },
+    {
+      "name": "Ovoce Zelenina Zahradnické Potřeby",
+      "latitude": 49.526572,
+      "longitude": 17.584941
+    },
+    {
+      "name": "Ovoce, zelenina",
+      "latitude": 49.144565,
+      "longitude": 15.002939
+    },
+    {
+      "name": "Ovoce, zelenina",
+      "latitude": 49.219166,
+      "longitude": 16.554573
+    },
+    {
+      "name": "Ovoce, zelenina",
+      "latitude": 49.657548,
+      "longitude": 14.424908
+    },
+    {
+      "name": "Ovoce, Zelenina - Vladimír Beneš",
+      "latitude": 49.236406,
+      "longitude": 13.523375
+    },
+    {
+      "name": "Ovoce, Zelenina Budský",
+      "latitude": 49.989502,
+      "longitude": 14.737259
+    },
+    {
+      "name": "Ovoce-Zelenina",
+      "latitude": 49.52664,
+      "longitude": 17.584472
+    },
+    {
+      "name": "Ovoce-Zelenina",
+      "latitude": 50.10469,
+      "longitude": 13.728987
+    },
+    {
+      "name": "Ovoce-zelenina",
+      "latitude": 50.213602,
+      "longitude": 15.811925
+    },
+    {
+      "name": "Ovocnářská farma FAMIKO",
+      "latitude": 50.204947,
+      "longitude": 15.710196
+    },
+    {
+      "name": "Ovocnářství Jansta",
+      "latitude": 48.867572,
+      "longitude": 16.901806
+    },
+    {
+      "name": "Ovocnářství Mejstříková",
+      "latitude": 50.208985,
+      "longitude": 15.692094
+    },
+    {
+      "name": "Ovocnářství Zdeněk Loukota",
+      "latitude": 49.476915,
+      "longitude": 16.331701
+    },
+    {
+      "name": "Petr Johanovský – domácí ovoce a zelenina",
+      "latitude": 50.463962,
+      "longitude": 13.878353
+    },
+    {
+      "name": "Potraviny",
+      "latitude": 49.741131,
+      "longitude": 13.579396
+    },
+    {
+      "name": "Potraviny",
+      "latitude": 50.101902,
+      "longitude": 14.446349
+    },
+    {
+      "name": "Potraviny ovoce-zelenina",
+      "latitude": 50.074094,
+      "longitude": 14.4152
+    },
+    {
+      "name": "Potraviny ovoce-zelenina",
+      "latitude": 50.076736,
+      "longitude": 14.415365
+    },
+    {
+      "name": "Potraviny samoobsluha",
+      "latitude": 50.104257,
+      "longitude": 14.450144
+    },
+    {
+      "name": "Potraviny večerka",
+      "latitude": 50.089802,
+      "longitude": 14.470151
+    },
+    {
+      "name": "Potraviny večerka",
+      "latitude": 50.103308,
+      "longitude": 14.44712
+    },
+    {
+      "name": "prodej brambor",
+      "latitude": 50.595927,
+      "longitude": 13.610609
+    },
+    {
+      "name": "Prodej zeleniny",
+      "latitude": 49.534913,
+      "longitude": 17.637425
+    },
+    {
+      "name": "prodej zmrzliny algida",
+      "latitude": 50.227859,
+      "longitude": 17.207798
+    },
+    {
+      "name": "Prodejní automat na rajčata",
+      "latitude": 49.684484,
+      "longitude": 17.040215
+    },
+    {
+      "name": "Prodejní sklad ZOD Kačina",
+      "latitude": 49.987846,
+      "longitude": 15.350391
+    },
+    {
+      "name": "Rajčata",
+      "latitude": 48.976278,
+      "longitude": 14.472085
+    },
+    {
+      "name": "reBarbora",
+      "latitude": 49.21501,
+      "longitude": 16.394768
+    },
+    {
+      "name": "Sadba Kejmar",
+      "latitude": 50.062146,
+      "longitude": 14.223054
+    },
+    {
+      "name": "Sady - prodejna",
+      "latitude": 50.387837,
+      "longitude": 13.187433
+    },
+    {
+      "name": "Sady Klášterec",
+      "latitude": 50.38845,
+      "longitude": 13.186464
+    },
+    {
+      "name": "Sady spol. s r. o. Bílé Podolí",
+      "latitude": 49.954747,
+      "longitude": 15.490484
+    },
+    {
+      "name": "Sahakanush Ghukasya",
+      "latitude": 49.161402,
+      "longitude": 16.342644
+    },
+    {
+      "name": "Slunečnice",
+      "latitude": 49.488116,
+      "longitude": 14.528097
+    },
+    {
+      "name": "Smíšenka",
+      "latitude": 49.127864,
+      "longitude": 16.616192
+    },
+    {
+      "name": "Sociální podnik Jasan",
+      "latitude": 49.040563,
+      "longitude": 16.863979
+    },
+    {
+      "name": "Stanislav Skalický",
+      "latitude": 50.205422,
+      "longitude": 15.711322
+    },
+    {
+      "name": "Twardzik CZ, s.r.o.",
+      "latitude": 49.042186,
+      "longitude": 17.465822
+    },
+    {
+      "name": "U Dvořáků",
+      "latitude": 50.099844,
+      "longitude": 14.434745
+    },
+    {
+      "name": "U Hajdúchů rodinná farma",
+      "latitude": 49.831229,
+      "longitude": 15.43651
+    },
+    {
+      "name": "U Kaluže",
+      "latitude": 50.091578,
+      "longitude": 14.668302
+    },
+    {
+      "name": "U SLAVÍKŮ",
+      "latitude": 48.96855,
+      "longitude": 17.220554
+    },
+    {
+      "name": "U Slováků",
+      "latitude": 49.560949,
+      "longitude": 16.07454
+    },
+    {
+      "name": "U Zelinků",
+      "latitude": 49.204651,
+      "longitude": 16.593822
+    },
+    {
+      "name": "Uganda Farmers",
+      "latitude": 49.194404,
+      "longitude": 16.610559
+    },
+    {
+      "name": "Vaše ovoce zelenina",
+      "latitude": 50.186867,
+      "longitude": 15.836835
+    },
+    {
+      "name": "Vesa - Prodej brambor (sadba/konzum)",
+      "latitude": 49.265648,
+      "longitude": 13.398845
+    },
+    {
+      "name": "Veselá biofarma",
+      "latitude": 49.041534,
+      "longitude": 16.862792
+    },
+    {
+      "name": "Vitamín",
+      "latitude": 49.47251,
+      "longitude": 17.126774
+    },
+    {
+      "name": "Wastex",
+      "latitude": 49.328895,
+      "longitude": 17.589695
+    },
+    {
+      "name": "YELAK Ovoce & Zelenina",
+      "latitude": 49.217115,
+      "longitude": 16.608293
+    },
+    {
+      "name": "Zahradnické potreby",
+      "latitude": 49.587181,
+      "longitude": 17.270977
+    },
+    {
+      "name": "Zdravá výživa",
+      "latitude": 49.756551,
+      "longitude": 16.466375
+    },
+    {
+      "name": "zelenina",
+      "latitude": 49.729774,
+      "longitude": 17.296968
+    },
+    {
+      "name": "Zelenina",
+      "latitude": 50.007037,
+      "longitude": 14.416938
+    },
+    {
+      "name": "Zelenina a zahradnictví Syrovín",
+      "latitude": 49.028653,
+      "longitude": 17.263464
+    },
+    {
+      "name": "Zelenina IB",
+      "latitude": 50.704869,
+      "longitude": 15.428249
+    },
+    {
+      "name": "Zelenina Koucká",
+      "latitude": 50.153524,
+      "longitude": 13.900472
+    },
+    {
+      "name": "Zelenina u Halámků",
+      "latitude": 49.592776,
+      "longitude": 17.251961
+    },
+    {
+      "name": "Zelenina u Slonků",
+      "latitude": 49.561101,
+      "longitude": 16.074736
+    },
+    {
+      "name": "Zelenina U Tomášů",
+      "latitude": 50.494874,
+      "longitude": 15.517254
+    },
+    {
+      "name": "Zeleninová bedýnka",
+      "latitude": 49.165355,
+      "longitude": 16.727898
+    },
+    {
+      "name": "Zeleny bar s.r.o.",
+      "latitude": 49.953117,
+      "longitude": 15.031655
+    },
+    {
+      "name": "Zelinářství",
+      "latitude": 49.275356,
+      "longitude": 16.436996
+    },
+    {
+      "name": "Zelpo",
+      "latitude": 49.669672,
+      "longitude": 18.678653
+    },
+    {
+      "name": "Záhony",
+      "latitude": 50.583916,
+      "longitude": 15.22771
+    },
+    {
+      "name": "Šandera",
+      "latitude": 50.062405,
+      "longitude": 14.239022
+    }
+  ],
+  "meta": {
+    "title": "Prodejny ovoce a zeleniny - Stáhnout zdarma",
+    "description": "Prodejny ovoce a zeleniny v České republice (178 záznamů) — body zájmu z OpenStreetMap (tag shop=greengrocer), výřez EU-POIS/CZ. Obsahuje 178 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Prodejny ovoce a zeleniny | ListBase",
+    "seo_description": "Stáhnout Prodejny ovoce a zeleniny — 178 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 178 záznamů / 3 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: open data"
+    ]
+  }
+}

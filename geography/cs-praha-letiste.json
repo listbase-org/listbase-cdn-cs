@@ -1,0 +1,169 @@
+{
+  "id": "cs-praha-letiste",
+  "name": "Letiště — Hlavní město Praha",
+  "title": "Letiště — Hlavní město Praha",
+  "description": "Seznam letišť v kraji „Hlavní město Praha\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Prague region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKKB",
+      "iata": "",
+      "name": "Kbely Air Base",
+      "name_slug": "kbely-air-base",
+      "city": "Prague",
+      "kraj": "Hlavní město Praha",
+      "kraj_source": "Praha",
+      "kraj_slug": "praha",
+      "kraj_en": "Prague",
+      "country": "CZ",
+      "elevation_ft": 939,
+      "lat": 50.1213989258,
+      "lon": 14.5436000824,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKLT",
+      "iata": "",
+      "name": "Letnany Airport",
+      "name_slug": "letnany-airport",
+      "city": "Letnany",
+      "kraj": "Hlavní město Praha",
+      "kraj_source": "Praha",
+      "kraj_slug": "praha",
+      "kraj_en": "Prague",
+      "country": "CZ",
+      "elevation_ft": 909,
+      "lat": 50.131401062,
+      "lon": 14.5256004333,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKPR",
+      "iata": "PRG",
+      "name": "Vaclav Havel Airport",
+      "name_slug": "vaclav-havel-airport",
+      "city": "Prague",
+      "kraj": "Hlavní město Praha",
+      "kraj_source": "Praha",
+      "kraj_slug": "praha",
+      "kraj_en": "Prague",
+      "country": "CZ",
+      "elevation_ft": 1247,
+      "lat": 50.1007995605,
+      "lon": 14.2600002289,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKTC",
+      "iata": "",
+      "name": "Tocna Praha Glider Airport",
+      "name_slug": "tocna-praha-glider-airport",
+      "city": "Tocna",
+      "kraj": "Hlavní město Praha",
+      "kraj_source": "Praha",
+      "kraj_slug": "praha",
+      "kraj_en": "Prague",
+      "country": "CZ",
+      "elevation_ft": 1030,
+      "lat": 49.9852981567,
+      "lon": 14.4260997772,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Hlavní město Praha - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Hlavní město Praha\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Prague region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Hlavní město Praha | ListBase",
+    "seo_description": "Stáhnout Letiště — Hlavní město Praha — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "cs-moravskoslezsky-letiste",
+  "name": "Letiště — Moravskoslezský kraj",
+  "title": "Letiště — Moravskoslezský kraj",
+  "description": "Seznam letišť v kraji „Moravskoslezský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Moravian-Silesian region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "geography",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "kraj_source",
+      "label": "Kraj Source",
+      "type": "string"
+    },
+    {
+      "key": "kraj_slug",
+      "label": "Kraj Slug",
+      "type": "string"
+    },
+    {
+      "key": "kraj_en",
+      "label": "Kraj En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LKFR",
+      "iata": "",
+      "name": "Frydlant Airport",
+      "name_slug": "frydlant-airport",
+      "city": "Frydlant",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_source": "Moravskoslezsky",
+      "kraj_slug": "moravskoslezsky",
+      "kraj_en": "Moravian-Silesian",
+      "country": "CZ",
+      "elevation_ft": 1440,
+      "lat": 49.5894012451,
+      "lon": 18.3791999817,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKKR",
+      "iata": "",
+      "name": "Krnov Airport",
+      "name_slug": "krnov-airport",
+      "city": "Krnov",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_source": "Moravskoslezsky",
+      "kraj_slug": "moravskoslezsky",
+      "kraj_en": "Moravian-Silesian",
+      "country": "CZ",
+      "elevation_ft": 1230,
+      "lat": 50.0741996765,
+      "lon": 17.6947002411,
+      "timezone": "Europe/Prague",
+      "has_iata": false
+    },
+    {
+      "icao": "LKMT",
+      "iata": "OSR",
+      "name": "Ostrava Leos Janacek Airport",
+      "name_slug": "ostrava-leos-janacek-airport",
+      "city": "Ostrava",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_source": "Moravskoslezsky",
+      "kraj_slug": "moravskoslezsky",
+      "kraj_en": "Moravian-Silesian",
+      "country": "CZ",
+      "elevation_ft": 844,
+      "lat": 49.6963005066,
+      "lon": 18.1110992432,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    },
+    {
+      "icao": "LKZA",
+      "iata": "ZBE",
+      "name": "Zabreh Ostrava Airport",
+      "name_slug": "zabreh-ostrava-airport",
+      "city": "Zabreh",
+      "kraj": "Moravskoslezský kraj",
+      "kraj_source": "Moravskoslezsky",
+      "kraj_slug": "moravskoslezsky",
+      "kraj_en": "Moravian-Silesian",
+      "country": "CZ",
+      "elevation_ft": 791,
+      "lat": 49.9282989502,
+      "lon": 18.0783004761,
+      "timezone": "Europe/Prague",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Letiště — Moravskoslezský kraj - Stáhnout zdarma",
+    "description": "Seznam letišť v kraji „Moravskoslezský kraj\" v České republice s ICAO/IATA kódy, městem, souřadnicemi (WGS84) a nadmořskou výškou. (Moravian-Silesian region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Obsahuje 4 záznamů. Stáhnout ve formátech Excel, CSV, PDF.",
+    "seo_title": "Letiště — Moravskoslezský kraj | ListBase",
+    "seo_description": "Stáhnout Letiště — Moravskoslezský kraj — 4 záznamů. Dostupné ve formátech Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Obsahuje 4 záznamů / 15 polí",
+      "Ke stažení zdarma ve formátech Excel, CSV a PDF",
+      "Zdroj dat: https://github.com/mwgg/Airports"
+    ]
+  }
+}

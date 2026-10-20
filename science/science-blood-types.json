@@ -1,0 +1,205 @@
+{
+  "id": "science-blood-types",
+  "name": "Komplexní Datová Sada Tabulka Kompatibility Krevních Skupin",
+  "category": "science",
+  "source": null,
+  "updated": "2026-01-05",
+  "columns": [
+    {
+      "key": "blood_type",
+      "label": "Blood Type",
+      "type": "string"
+    },
+    {
+      "key": "abo_group",
+      "label": "ABO Group",
+      "type": "string"
+    },
+    {
+      "key": "rh_factor",
+      "label": "Rh Factor",
+      "type": "string"
+    },
+    {
+      "key": "can_donate_to",
+      "label": "Can Donate To (EN)",
+      "type": "string"
+    },
+    {
+      "key": "can_receive_from",
+      "label": "Can Receive From (EN)",
+      "type": "string"
+    },
+    {
+      "key": "population_percent",
+      "label": "Population %",
+      "type": "number"
+    },
+    {
+      "key": "antigens",
+      "label": "Antigens",
+      "type": "string"
+    },
+    {
+      "key": "antibodies",
+      "label": "Antibodies",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "blood_type": "A+",
+      "abo_group": "A",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, AB+",
+      "can_receive_from": "A+, A-, O+, O-",
+      "population_percent": 35.7,
+      "antigens": "A, Rh",
+      "antibodies": "Anti-B",
+      "category": "Běžné typy"
+    },
+    {
+      "blood_type": "A-",
+      "abo_group": "A",
+      "rh_factor": "Negative",
+      "can_donate_to": "A+, A-, AB+, AB-",
+      "can_receive_from": "A-, O-",
+      "population_percent": 6.3,
+      "antigens": "A",
+      "antibodies": "Anti-B",
+      "category": "Běžné typy"
+    },
+    {
+      "blood_type": "B+",
+      "abo_group": "B",
+      "rh_factor": "Positive",
+      "can_donate_to": "B+, AB+",
+      "can_receive_from": "B+, B-, O+, O-",
+      "population_percent": 8.5,
+      "antigens": "B, Rh",
+      "antibodies": "Anti-A",
+      "category": "Běžné typy"
+    },
+    {
+      "blood_type": "B-",
+      "abo_group": "B",
+      "rh_factor": "Negative",
+      "can_donate_to": "B+, B-, AB+, AB-",
+      "can_receive_from": "B-, O-",
+      "population_percent": 1.5,
+      "antigens": "B",
+      "antibodies": "Anti-A",
+      "category": "Vzácné typy"
+    },
+    {
+      "blood_type": "AB+",
+      "abo_group": "AB",
+      "rh_factor": "Positive",
+      "can_donate_to": "AB+",
+      "can_receive_from": "Všechny typy (Univerzální příjemce)",
+      "population_percent": 3.4,
+      "antigens": "A, B, Rh",
+      "antibodies": "None",
+      "category": "Vzácné typy"
+    },
+    {
+      "blood_type": "AB-",
+      "abo_group": "AB",
+      "rh_factor": "Negative",
+      "can_donate_to": "AB+, AB-",
+      "can_receive_from": "A-, B-, AB-, O-",
+      "population_percent": 0.6,
+      "antigens": "A, B",
+      "antibodies": "None",
+      "category": "Vzácné typy"
+    },
+    {
+      "blood_type": "O+",
+      "abo_group": "O",
+      "rh_factor": "Positive",
+      "can_donate_to": "A+, B+, AB+, O+",
+      "can_receive_from": "O+, O-",
+      "population_percent": 37.4,
+      "antigens": "Rh",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Běžné typy"
+    },
+    {
+      "blood_type": "O-",
+      "abo_group": "O",
+      "rh_factor": "Negative",
+      "can_donate_to": "Všechny typy (Univerzální dárce)",
+      "can_receive_from": "O-",
+      "population_percent": 6.6,
+      "antigens": "None",
+      "antibodies": "Anti-A, Anti-B",
+      "category": "Univerzální dárce"
+    },
+    {
+      "blood_type": "AB Plasma",
+      "abo_group": "AB",
+      "rh_factor": "Any",
+      "can_donate_to": "Všechny typy (Univerzální dárce plazmy)",
+      "can_receive_from": "AB",
+      "population_percent": 4,
+      "antigens": "A, B (in cells)",
+      "antibodies": "None (in plasma)",
+      "category": "Plazma"
+    },
+    {
+      "blood_type": "Rh+ Summary",
+      "abo_group": "Any",
+      "rh_factor": "Positive",
+      "can_donate_to": "Pouze příjemci Rh+",
+      "can_receive_from": "Jak Rh+, tak Rh-",
+      "population_percent": 85,
+      "antigens": "Rh (D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Informace o Rh faktoru"
+    },
+    {
+      "blood_type": "Rh- Summary",
+      "abo_group": "Any",
+      "rh_factor": "Negative",
+      "can_donate_to": "Jak Rh+, tak Rh-",
+      "can_receive_from": "Pouze Rh-",
+      "population_percent": 15,
+      "antigens": "None (no D antigen)",
+      "antibodies": "May develop Anti-Rh if exposed",
+      "category": "Informace o Rh faktoru"
+    }
+  ],
+  "meta": {
+    "seo_title": "Tabulka Kompatibility Krevních Skupin - Zdarma Ke Stažení (Excel/CSV/PDF)",
+    "seo_description": "Stáhněte si zdarma datovou sadu Tabulka Kompatibility Krevních Skupin. Prozkoumejte skupiny ABO, Rh faktor a pravidla dárcovství pro 11 typů krve. Dostupné ve formátech Excel, CSV a PDF.",
+    "title": "Komplexní Datová Sada Tabulka Kompatibility Krevních Skupin",
+    "description": "Tato datová sada poskytuje podrobnou tabulku kompatibility pro všechny hlavní krevní skupiny, včetně skupiny ABO, Rh faktoru, pravidel dárcovství/příjmu, procent populace, antigenů a protilátek. Zahrnuje 11 jedinečných záznamů krevních skupin.",
+    "key_takeaways": [
+      "Získejte přístup ke kritickým informacím o dárcovství krve a kompatibilitě transfuzí.",
+      "Prozkoumejte procenta populace a vědecké detaily pro 11 krevních skupin.",
+      "Stáhněte si komplexní data o antigenech, protilátkách a klasifikacích ABO/Rh.",
+      "Využijte tuto tabulku pro vzdělávací účely nebo jako zdravotnickou referenci."
+    ],
+    "keywords": [
+      "tabulka krevních skupin",
+      "kompatibilita krve",
+      "pravidla dárcovství krve",
+      "ABO Rh faktor",
+      "krevní skupiny excel",
+      "stáhnout tabulku krve pdf"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vaší SQL databáze nebo Python skriptů pro lékařský výzkum nebo vývoj zdravotnických aplikací.",
+      "Použijte soubor **Excel** k filtrování krevních skupin, vytváření kontingenčních tabulek a analýze procent populace pro zprávy o veřejném zdraví nebo prezentace.",
+      "Vytiskněte verzi **PDF** pro snadný přístup v lékařských ordinacích, učebnách nebo jako rychlý referenční průvodce pro osobní pochopení.",
+      "Využijte tuto komplexní datovou sadu k vzdělávání pacientů, studentů nebo personálu o složitosti krevních transfuzí a kompatibility."
+    ]
+  },
+  "record_count": 11,
+  "title": "Komplexní Datová Sada Tabulka Kompatibility Krevních Skupin"
+}

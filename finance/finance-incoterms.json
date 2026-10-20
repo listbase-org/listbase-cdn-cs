@@ -1,0 +1,189 @@
+{
+  "id": "finance-incoterms",
+  "name": "Sada dat Incoterms 2020 Pravidla a Definice",
+  "category": "finance",
+  "source": null,
+  "updated": "2025-12-28",
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name (EN)",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Transport Mode (EN)",
+      "type": "string"
+    },
+    {
+      "key": "seller_delivery",
+      "label": "Delivery Point",
+      "type": "string"
+    },
+    {
+      "key": "risk_transfer",
+      "label": "Risk Transfer",
+      "type": "string"
+    },
+    {
+      "key": "seller_pays",
+      "label": "Seller Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "buyer_pays",
+      "label": "Buyer Pays (EN)",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description (EN)",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "EXW",
+      "name": "Ze závodu (Ex Works)",
+      "category": "Jakýkoli Způsob Dopravy",
+      "seller_delivery": "Seller's premises",
+      "risk_transfer": "At seller's premises",
+      "seller_pays": "Žádné (zboží je k dispozici v prostorách)",
+      "buyer_pays": "Veškerá doprava, pojištění, clo",
+      "description": "Kupující vyzvedává zboží z místa prodávajícího"
+    },
+    {
+      "code": "FCA",
+      "name": "S dodáním k dopravci (Free Carrier)",
+      "category": "Jakýkoli Způsob Dopravy",
+      "seller_delivery": "Named place of delivery",
+      "risk_transfer": "When delivered to carrier",
+      "seller_pays": "Dodání dopravci, vývozní clo",
+      "buyer_pays": "Hlavní přeprava, pojištění, dovozní clo",
+      "description": "Prodávající dodává zboží dopravci nebo na určené místo"
+    },
+    {
+      "code": "CPT",
+      "name": "Přeprava placena do (Carriage Paid To)",
+      "category": "Jakýkoli Způsob Dopravy",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Přeprava do místa určení, vývozní clo",
+      "buyer_pays": "Pojištění, dovozní clo, vykládka",
+      "description": "Prodávající platí přepravu, riziko se převádí při předání dopravci"
+    },
+    {
+      "code": "CIP",
+      "name": "Přeprava a pojištění placeno do (Carriage and Insurance Paid To)",
+      "category": "Jakýkoli Způsob Dopravy",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "When delivered to first carrier",
+      "seller_pays": "Přeprava, pojištění do místa určení, vývozní clo",
+      "buyer_pays": "Dovozní clo, vykládka",
+      "description": "Jako CPT, ale prodávající také platí pojištění"
+    },
+    {
+      "code": "DAP",
+      "name": "Dodáno do místa (Delivered at Place)",
+      "category": "Jakýkoli Způsob Dopravy",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Veškerá doprava do místa určení, vývozní clo",
+      "buyer_pays": "Vykládka, dovozní clo",
+      "description": "Prodávající dodává zboží připravené k vykládce"
+    },
+    {
+      "code": "DPU",
+      "name": "Dodáno na místo vyloženo (Delivered at Place Unloaded)",
+      "category": "Jakýkoli Způsob Dopravy",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, after unloading",
+      "seller_pays": "Veškerá doprava, vykládka, vývozní clo",
+      "buyer_pays": "Dovozní clo",
+      "description": "Prodávající vykládá zboží v místě určení"
+    },
+    {
+      "code": "DDP",
+      "name": "S dodáním clo placeno (Delivered Duty Paid)",
+      "category": "Jakýkoli Způsob Dopravy",
+      "seller_delivery": "Named place of destination",
+      "risk_transfer": "At destination, before unloading",
+      "seller_pays": "Všechno včetně dovozního cla",
+      "buyer_pays": "Pouze vykládka",
+      "description": "Maximální závazek pro prodávajícího"
+    },
+    {
+      "code": "FAS",
+      "name": "S dodáním k boku lodi (Free Alongside Ship)",
+      "category": "Námořní/Vodní doprava",
+      "seller_delivery": "Alongside ship at port",
+      "risk_transfer": "When placed alongside ship",
+      "seller_pays": "Doprava do přístavu, vývozní clo",
+      "buyer_pays": "Nakládka, přepravné, pojištění, dovozní clo",
+      "description": "Prodávající dodává zboží podél boku plavidla"
+    },
+    {
+      "code": "FOB",
+      "name": "Vyplaceně na palubu (Free on Board)",
+      "category": "Námořní/Vodní doprava",
+      "seller_delivery": "On board vessel at port",
+      "risk_transfer": "When goods are on board",
+      "seller_pays": "Nakládka na loď, vývozní clo",
+      "buyer_pays": "Přepravné, pojištění, dovozní clo",
+      "description": "Prodávající nakládá zboží na loď"
+    },
+    {
+      "code": "CFR",
+      "name": "Náklady a přepravné (Cost and Freight)",
+      "category": "Námořní/Vodní doprava",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Přepravné do místa určení, vývozní clo",
+      "buyer_pays": "Pojištění, dovozní clo, vykládka",
+      "description": "Prodávající platí přepravné, riziko při nakládce"
+    },
+    {
+      "code": "CIF",
+      "name": "Náklady, pojištění a přepravné (Cost, Insurance and Freight)",
+      "category": "Námořní/Vodní doprava",
+      "seller_delivery": "Named port of destination",
+      "risk_transfer": "When goods are on board at origin",
+      "seller_pays": "Přepravné, pojištění, vývozní clo",
+      "buyer_pays": "Dovozní clo, vykládka",
+      "description": "Jako CFR, ale prodávající také platí pojištění"
+    }
+  ],
+  "meta": {
+    "seo_title": "Incoterms 2020 Pravidla - Zdarma ke stažení (Excel/CSV/PDF)",
+    "seo_description": "Zdarma ke stažení Incoterms 2020 pravidla pro mezinárodní obchod. Získejte 11 základních termínů, včetně převodu rizika a alokace nákladů. K dispozici v Excel, CSV, PDF.",
+    "title": "Sada dat Incoterms 2020 Pravidla a Definice",
+    "description": "Tato sada dat poskytuje stručný seznam 11 pravidel Incoterms 2020, podrobně popisující odpovědnost za doručení, převod rizika a alokaci nákladů v mezinárodním obchodě. Zahrnuje všechny klíčové aspekty pro kupující i prodávající.",
+    "key_takeaways": [
+      "Získejte přístup k 11 pravidlům Incoterms 2020 pro globální obchod.",
+      "Prozkoumejte definice, způsoby dopravy a body převodu rizika.",
+      "Pochopte nákladové povinnosti prodávajícího a kupujícího.",
+      "Zjednodušte mezinárodní dohody o přepravě."
+    ],
+    "keywords": [
+      "incoterms 2020 seznam",
+      "mezinárodní obchodní podmínky",
+      "pravidla přepravy 2020",
+      "stáhnout incoterms excel",
+      "obchodní podmínky csv",
+      "logistické definice"
+    ],
+    "use_cases": [
+      "Importujte soubor **CSV** do vašeho ERP nebo logistického systému pro automatizaci generování smluvních doložek a kontrol souladu pro mezinárodní zásilky.",
+      "Použijte soubor **Excel** k filtrování termínů podle způsobu dopravy, analýze alokace nákladů a přípravě školicích materiálů pro vaše obchodní nebo nákupní týmy.",
+      "Vytiskněte verzi **PDF** pro rychlý, offline referenční průvodce ve skladech, učebnách nebo během jednání o smlouvě.",
+      "Využijte tato data pro vzdělávací účely, abyste studenty naučili o globálním řízení dodavatelského řetězce a obchodních předpisech."
+    ]
+  },
+  "record_count": 11,
+  "title": "Sada dat Incoterms 2020 Pravidla a Definice"
+}
