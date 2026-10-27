@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:14.111Z",
-  "total_datasets": 479,
-  "total_records": 414593,
+  "generated": "2026-10-27T02:54:16.651Z",
+  "total_datasets": 480,
+  "total_records": 414620,
   "categories": [
     {
       "id": "culture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -7400,6 +7400,36 @@
         "xlsx": {
           "name": "cs-ceny-andel-vitezove_CS.xlsx",
           "size": 8012
+        }
+      }
+    },
+    {
+      "id": "cs-cesky-slavik-vitezove",
+      "name": "Vítězové ankety Český slavík",
+      "category": "music",
+      "record_count": 27,
+      "columns": [
+        "rok",
+        "zpevak",
+        "zpevacka",
+        "skupina",
+        "hip_hop_rap",
+        "absolutni_slavik",
+        "objev_roku",
+        "sin_slavy",
+        "moderator"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Český_slavík",
+      "updated": "2026-10",
+      "size": 10470,
+      "files": {
+        "csv": {
+          "name": "cs-cesky-slavik-vitezove_CS.csv",
+          "size": 3591
+        },
+        "xlsx": {
+          "name": "cs-cesky-slavik-vitezove_CS.xlsx",
+          "size": 8384
         }
       }
     },

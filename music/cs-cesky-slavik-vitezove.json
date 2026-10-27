@@ -1,0 +1,368 @@
+{
+  "id": "cs-cesky-slavik-vitezove",
+  "name": "Vítězové ankety Český slavík",
+  "title": "Vítězové ankety Český slavík",
+  "description": "Vítězové hlavních kategorií hudební ankety Český slavík od roku 1996",
+  "category": "music",
+  "source": "https://cs.wikipedia.org/wiki/Český_slavík",
+  "source_url": "https://cs.wikipedia.org/wiki/Český_slavík",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "zpevak",
+      "label": "Zpevak",
+      "type": "string"
+    },
+    {
+      "key": "zpevacka",
+      "label": "Zpevacka",
+      "type": "string"
+    },
+    {
+      "key": "skupina",
+      "label": "Skupina",
+      "type": "string"
+    },
+    {
+      "key": "hip_hop_rap",
+      "label": "Hip Hop Rap",
+      "type": "string"
+    },
+    {
+      "key": "absolutni_slavik",
+      "label": "Absolutni Slavik",
+      "type": "string"
+    },
+    {
+      "key": "objev_roku",
+      "label": "Objev Roku",
+      "type": "string"
+    },
+    {
+      "key": "sin_slavy",
+      "label": "Sin Slavy",
+      "type": "string"
+    },
+    {
+      "key": "moderator",
+      "label": "Moderator",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1996,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Olympic",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "(neudělen)",
+      "objev_roku": "(neudělen)",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Jan Čenský"
+    },
+    {
+      "rok": 1997,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Olympic",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "(neudělen)",
+      "objev_roku": "(neudělen)",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Tereza Pergnerová • Jiří Suchý"
+    },
+    {
+      "rok": 1998,
+      "zpevak": "Daniel Hůlka",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Olympic",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "(neudělen)",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Hana Zagorová • Vilém Čok"
+    },
+    {
+      "rok": 1999,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Lucie",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "(neudělen)",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Adéla a Dalibor Gondíkovi"
+    },
+    {
+      "rok": 2000,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Lucie",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "(neudělen)",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Lucie Borhyová • Štefan Margita"
+    },
+    {
+      "rok": 2001,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Lucie",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Leoš Mareš",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Lucie Vondráčková • Jan Révai"
+    },
+    {
+      "rok": 2002,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Lucie",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Black Milk",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Gabriela Partyšová • Vítek Havliš"
+    },
+    {
+      "rok": 2003,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Rebeka",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Leoš Mareš"
+    },
+    {
+      "rok": 2004,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Aneta Langerová",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Leoš Mareš"
+    },
+    {
+      "rok": 2005,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Aneta Langerová",
+      "skupina": "Chinaski",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Aneta Langerová",
+      "objev_roku": "Vlastimil Horváth",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Ondřej Brzobohatý"
+    },
+    {
+      "rok": 2006,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Aneta Langerová",
+      "skupina": "Divokej Bill",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Aneta Langerová",
+      "objev_roku": "Ewa Farna",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Těžkej Pokondr"
+    },
+    {
+      "rok": 2007,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Josef Vágner",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Leoš Mareš"
+    },
+    {
+      "rok": 2008,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Karel Gott",
+      "objev_roku": "Marek Ztracený",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Těžkej Pokondr"
+    },
+    {
+      "rok": 2009,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Karel Gott",
+      "objev_roku": "Martin Chodúr",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Ondřej Brzobohatý"
+    },
+    {
+      "rok": 2010,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Markéta Konvičková",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Libor Bouček"
+    },
+    {
+      "rok": 2011,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Gabriela Gunčíková",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Libor Bouček"
+    },
+    {
+      "rok": 2012,
+      "zpevak": "Tomáš Klus",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Koblížci",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Ondřej Brzobohatý"
+    },
+    {
+      "rok": 2013,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kryštof",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Karel Gott",
+      "objev_roku": "Adam Mišík",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Jan Kraus"
+    },
+    {
+      "rok": 2014,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Karel Gott",
+      "objev_roku": "Elis",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Libor Bouček"
+    },
+    {
+      "rok": 2015,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Karel Gott",
+      "objev_roku": "Slza",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Libor Bouček"
+    },
+    {
+      "rok": 2016,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Karel Gott",
+      "objev_roku": "Pekař",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Ondřej Sokol"
+    },
+    {
+      "rok": 2017,
+      "zpevak": "Karel Gott",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "(neuděleno)",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Mirai",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Ondřej Sokol"
+    },
+    {
+      "rok": 2021,
+      "zpevak": "Marek Ztracený",
+      "zpevacka": "Ewa Farna",
+      "skupina": "Mirai",
+      "hip_hop_rap": "Řezník",
+      "absolutni_slavik": "Marek Ztracený",
+      "objev_roku": "Michal Horák",
+      "sin_slavy": "(neudělena)",
+      "moderator": "Ondřej Sokol • Aleš Háma"
+    },
+    {
+      "rok": 2022,
+      "zpevak": "Marek Ztracený",
+      "zpevacka": "Lucie Bílá",
+      "skupina": "Kabát",
+      "hip_hop_rap": "ATMO music",
+      "absolutni_slavik": "Lucie Bílá",
+      "objev_roku": "Calin",
+      "sin_slavy": "Jiří Suchý",
+      "moderator": "Ondřej Sokol • Aleš Háma • Tereza Pergnerová"
+    },
+    {
+      "rok": 2023,
+      "zpevak": "Marek Ztracený",
+      "zpevacka": "Ewa Farna",
+      "skupina": "Kabát",
+      "hip_hop_rap": "Calin",
+      "absolutni_slavik": "Ewa Farna",
+      "objev_roku": "Tereza Balónová",
+      "sin_slavy": "Václav Neckář",
+      "moderator": "Ondřej Sokol • Aleš Háma"
+    },
+    {
+      "rok": 2024,
+      "zpevak": "Marek Ztracený",
+      "zpevacka": "Ewa Farna",
+      "skupina": "Kabát",
+      "hip_hop_rap": "Calin",
+      "absolutni_slavik": "Ewa Farna",
+      "objev_roku": "Sofian Medjmedj",
+      "sin_slavy": "Marta Kubišová",
+      "moderator": "Ondřej Sokol • Aleš Háma"
+    },
+    {
+      "rok": 2025,
+      "zpevak": "Václav Noid Bárta",
+      "zpevacka": "Ewa Farna",
+      "skupina": "Kabát",
+      "hip_hop_rap": "Calin",
+      "absolutni_slavik": "Ewa Farna",
+      "objev_roku": "Renne Dang",
+      "sin_slavy": "Vladimír Mišík",
+      "moderator": "Ondřej Sokol • Aleš Háma"
+    }
+  ],
+  "meta": {
+    "title": "Vítězové ankety Český slavík - Free Download",
+    "description": "Vítězové hlavních kategorií hudební ankety Český slavík od roku 1996 Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vítězové ankety Český slavík | ListBase",
+    "seo_description": "Download Vítězové ankety Český slavík — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Český_slavík"
+    ]
+  }
+}
