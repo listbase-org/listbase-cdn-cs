@@ -1,0 +1,536 @@
+{
+  "id": "cs-soudci-ustavniho-soudu",
+  "name": "Soudci Ústavního soudu České republiky",
+  "title": "Soudci Ústavního soudu České republiky",
+  "description": "Seznam soudců Ústavního soudu ČR od roku 1993 s datem nástupu a odchodu a prezidentem, který je jmenoval",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_soudců_Ústavního_soudu_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_soudců_Ústavního_soudu_České_republiky",
+  "updated": "2026-10",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "soudce",
+      "label": "Soudce",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "poznamky",
+      "label": "Poznamky",
+      "type": "string"
+    },
+    {
+      "key": "jmenovani",
+      "label": "Jmenovani",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "soudce": "Iva Brožová",
+      "nastup": "15. července 1993",
+      "odchod": "8. prosince 1999",
+      "poznamky": "rezignovala ze zdravotních důvodů",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "2.",
+      "soudce": "Vojtěch Cepl",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "3.",
+      "soudce": "Vladimír Čermák",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "4.",
+      "soudce": "Vojen Güttler",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "poprvé ve funkci",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "5.",
+      "soudce": "Miloš Holeček",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "místopředseda (15. července 1993 – 16. března 2003) předseda (17. března 2003 – 15. července 2003)",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "6.",
+      "soudce": "Pavel Holländer",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "poprvé ve funkci",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "7.",
+      "soudce": "Vladimír Jurka",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "8.",
+      "soudce": "Zdeněk Kessler",
+      "nastup": "15. července 1993",
+      "odchod": "12. února 2003",
+      "poznamky": "po celou dobu předseda rezignoval ze zdravotních důvodů",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "9.",
+      "soudce": "Vladimír Klokočka",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "10.",
+      "soudce": "Vladimír Paul",
+      "nastup": "15. července 1993",
+      "odchod": "3. dubna 2002",
+      "poznamky": "zemřel ve funkci",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "11.",
+      "soudce": "Antonín Procházka",
+      "nastup": "15. července 1993",
+      "odchod": "15. července 2003",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "12.",
+      "soudce": "Vlastimil Ševčík",
+      "nastup": "15. července 1993",
+      "odchod": "15. prosince 2002",
+      "poznamky": "zemřel ve funkci",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "13.",
+      "soudce": "Eva Zarembová",
+      "nastup": "9. listopadu 1993",
+      "odchod": "9. listopadu 2003",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "14.",
+      "soudce": "Ivana Janů",
+      "nastup": "9. listopadu 1993",
+      "odchod": "9. února 2002",
+      "poznamky": "poprvé ve funkci po celou dobu místopředsedkyně rezignovala z důvodu odchodu k ICTY",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "15.",
+      "soudce": "Pavel Varvařovský",
+      "nastup": "29. března 1994",
+      "odchod": "29. března 2004",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "16.",
+      "soudce": "Jiří Malenovský",
+      "nastup": "4. dubna 2000",
+      "odchod": "8. května 2004",
+      "poznamky": "rezignoval z důvodu odchodu k SDEU",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "17.",
+      "soudce": "Eliška Wagnerová",
+      "nastup": "20. března 2002",
+      "odchod": "20. března 2012",
+      "poznamky": "po celou dobu místopředsedkyně",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "18.",
+      "soudce": "František Duchoň",
+      "nastup": "6. června 2002",
+      "odchod": "6. června 2012",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "19.",
+      "soudce": "Jiří Mucha",
+      "nastup": "28. ledna 2003",
+      "odchod": "28. ledna 2013",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Havlem"
+    },
+    {
+      "poradi": "20.",
+      "soudce": "Miloslav Výborný",
+      "nastup": "3. června 2003",
+      "odchod": "3. června 2013",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "21.",
+      "soudce": "Vojen Güttler",
+      "nastup": "6. srpna 2003",
+      "odchod": "6. srpna 2013",
+      "poznamky": "podruhé ve funkci",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "22.",
+      "soudce": "Pavel Holländer",
+      "nastup": "6. srpna 2003",
+      "odchod": "6. srpna 2013",
+      "poznamky": "podruhé ve funkci po celou dobu místopředseda",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "23.",
+      "soudce": "Pavel Rychetský",
+      "nastup": "6. srpna 2003",
+      "odchod": "7. srpna 2023",
+      "poznamky": "po celou dobu předseda 7. srpna 2013 znovujmenován Milošem Zemanem",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "24.",
+      "soudce": "Dagmar Lastovecká",
+      "nastup": "29. srpna 2003",
+      "odchod": "29. srpna 2013",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "25.",
+      "soudce": "Jan Musil",
+      "nastup": "27. listopadu 2003",
+      "odchod": "27. listopadu 2013",
+      "poznamky": "poprvé ve funkci",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "26.",
+      "soudce": "Jiří Nykodým",
+      "nastup": "17. prosince 2003",
+      "odchod": "17. prosince 2013",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "27.",
+      "soudce": "Stanislav Balík",
+      "nastup": "26. května 2004",
+      "odchod": "26. května 2014",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "28.",
+      "soudce": "Michaela Židlická",
+      "nastup": "16. června 2004",
+      "odchod": "16. června 2014",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "29.",
+      "soudce": "Ivana Janů",
+      "nastup": "16. září 2004",
+      "odchod": "16. září 2014",
+      "poznamky": "podruhé ve funkci",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "30.",
+      "soudce": "Vlasta Formánková",
+      "nastup": "5. srpna 2005",
+      "odchod": "5. srpna 2015",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "31.",
+      "soudce": "Vladimír Kůrka",
+      "nastup": "15. prosince 2005",
+      "odchod": "15. prosince 2015",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Václavem Klausem"
+    },
+    {
+      "poradi": "32.",
+      "soudce": "Jaroslav Fenyk",
+      "nastup": "3. května 2013",
+      "odchod": "3. května 2023",
+      "poznamky": "od 7. srpna 2013 místopředseda",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "33.",
+      "soudce": "Jan Filip",
+      "nastup": "3. května 2013",
+      "odchod": "3. května 2023",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "34.",
+      "soudce": "Milada Tomková",
+      "nastup": "3. května 2013",
+      "odchod": "3. května 2023",
+      "poznamky": "po celou dobu místopředsedkyně",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "35.",
+      "soudce": "Vladimír Sládeček",
+      "nastup": "4. června 2013",
+      "odchod": "4. června 2023",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "36.",
+      "soudce": "Ludvík David",
+      "nastup": "7. srpna 2013",
+      "odchod": "7. srpna 2023",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "37.",
+      "soudce": "Kateřina Šimáčková",
+      "nastup": "7. srpna 2013",
+      "odchod": "10. prosince 2021",
+      "poznamky": "rezignovala z důvodu odchodu k ESLP",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "38.",
+      "soudce": "Radovan Suchánek",
+      "nastup": "26. listopadu 2013",
+      "odchod": "26. listopadu 2023",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "39.",
+      "soudce": "Jan Musil",
+      "nastup": "20. ledna 2014",
+      "odchod": "31. ledna 2019",
+      "poznamky": "podruhé ve funkci rezignoval ze zdravotních důvodů",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "40.",
+      "soudce": "Jiří Zemánek",
+      "nastup": "20. ledna 2014",
+      "odchod": "20. ledna 2024",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "41.",
+      "soudce": "Vojtěch Šimíček",
+      "nastup": "12. června 2014",
+      "odchod": "12. června 2024",
+      "poznamky": "od 3. května 2023 místopředseda",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "42.",
+      "soudce": "Tomáš Lichovník",
+      "nastup": "19. června 2014",
+      "odchod": "19. června 2024",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "43.",
+      "soudce": "David Uhlíř",
+      "nastup": "10. prosince 2014",
+      "odchod": "10. prosince 2024",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "44.",
+      "soudce": "Jaromír Jirsa",
+      "nastup": "7. října 2015",
+      "odchod": "7. října 2025",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "45.",
+      "soudce": "Josef Fiala",
+      "nastup": "17. prosince 2015",
+      "odchod": "17. prosince 2025",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "46.",
+      "soudce": "Pavel Šámal",
+      "nastup": "20. února 2020",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "47.",
+      "soudce": "Jan Svatoň",
+      "nastup": "15. února 2023",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Milošem Zemanem"
+    },
+    {
+      "poradi": "48.",
+      "soudce": "Josef Baxa",
+      "nastup": "5. června 2023",
+      "odchod": "dosud",
+      "poznamky": "předseda od 8. srpna 2023",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "49.",
+      "soudce": "Jan Wintr",
+      "nastup": "5. června 2023",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "50.",
+      "soudce": "Daniela Zemanová",
+      "nastup": "5. června 2023",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "51.",
+      "soudce": "Kateřina Ronovská",
+      "nastup": "4. srpna 2023",
+      "odchod": "dosud",
+      "poznamky": "místopředsedkyně od 4. srpna 2023",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "52.",
+      "soudce": "Veronika Křesťanová",
+      "nastup": "8. srpna 2023",
+      "odchod": "dosud",
+      "poznamky": "místopředsedkyně od 25. června 2024",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "53.",
+      "soudce": "Zdeněk Kühn",
+      "nastup": "19. prosince 2023",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "54.",
+      "soudce": "Lucie Dolanská Bányaiová",
+      "nastup": "19. prosince 2023",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "55.",
+      "soudce": "Milan Hulmák",
+      "nastup": "1. února 2024",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "56.",
+      "soudce": "Tomáš Langášek",
+      "nastup": "25. června 2024",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "57.",
+      "soudce": "Jiří Přibáň",
+      "nastup": "25. června 2024",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "58.",
+      "soudce": "Dita Řepková",
+      "nastup": "12. prosince 2024",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "59.",
+      "soudce": "Martin Smolek",
+      "nastup": "21. října 2025",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    },
+    {
+      "poradi": "60.",
+      "soudce": "Michal Bartoň",
+      "nastup": "18. prosince 2025",
+      "odchod": "dosud",
+      "poznamky": "",
+      "jmenovani": "Jmenovaní Petrem Pavlem"
+    }
+  ],
+  "meta": {
+    "title": "Soudci Ústavního soudu České republiky - Free Download",
+    "description": "Seznam soudců Ústavního soudu ČR od roku 1993 s datem nástupu a odchodu a prezidentem, který je jmenoval Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Soudci Ústavního soudu České republiky | ListBase",
+    "seo_description": "Download Soudci Ústavního soudu České republiky — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_soudců_Ústavního_soudu_České_republiky"
+    ]
+  }
+}
