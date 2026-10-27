@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:21.665Z",
-  "total_datasets": 482,
-  "total_records": 414674,
+  "generated": "2026-10-27T02:54:24.375Z",
+  "total_datasets": 483,
+  "total_records": 414696,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1196,6 +1196,29 @@
         "xlsx": {
           "name": "cs-ekonomicke-ukazatele_CS.xlsx",
           "size": 9009
+        }
+      }
+    },
+    {
+      "id": "cs-index-prumyslove-produkce",
+      "name": "Index průmyslové produkce v Česku",
+      "category": "economy",
+      "record_count": 22,
+      "columns": [
+        "rok",
+        "index_prumyslove_produkce_pct"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Průmysl_v_Česku",
+      "updated": "2026-10",
+      "size": 3040,
+      "files": {
+        "csv": {
+          "name": "cs-index-prumyslove-produkce_CS.csv",
+          "size": 361
+        },
+        "xlsx": {
+          "name": "cs-index-prumyslove-produkce_CS.xlsx",
+          "size": 7011
         }
       }
     },

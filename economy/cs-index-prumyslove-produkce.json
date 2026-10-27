@@ -1,0 +1,124 @@
+{
+  "id": "cs-index-prumyslove-produkce",
+  "name": "Index průmyslové produkce v Česku",
+  "title": "Index průmyslové produkce v Česku",
+  "description": "Meziroční index průmyslové produkce v Česku (předchozí rok = 100 %) od roku 2001",
+  "category": "economy",
+  "source": "https://cs.wikipedia.org/wiki/Průmysl_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Průmysl_v_Česku",
+  "updated": "2026-10",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "index_prumyslove_produkce_pct",
+      "label": "Index Prumyslove Produkce Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 2001,
+      "index_prumyslove_produkce_pct": 106.9
+    },
+    {
+      "rok": 2002,
+      "index_prumyslove_produkce_pct": 101.8
+    },
+    {
+      "rok": 2003,
+      "index_prumyslove_produkce_pct": 103.7
+    },
+    {
+      "rok": 2004,
+      "index_prumyslove_produkce_pct": 109.3
+    },
+    {
+      "rok": 2005,
+      "index_prumyslove_produkce_pct": 103.1
+    },
+    {
+      "rok": 2006,
+      "index_prumyslove_produkce_pct": 107.9
+    },
+    {
+      "rok": 2007,
+      "index_prumyslove_produkce_pct": 110
+    },
+    {
+      "rok": 2008,
+      "index_prumyslove_produkce_pct": 97.6
+    },
+    {
+      "rok": 2009,
+      "index_prumyslove_produkce_pct": 87
+    },
+    {
+      "rok": 2010,
+      "index_prumyslove_produkce_pct": 108.5
+    },
+    {
+      "rok": 2011,
+      "index_prumyslove_produkce_pct": 105.6
+    },
+    {
+      "rok": 2012,
+      "index_prumyslove_produkce_pct": 99.1
+    },
+    {
+      "rok": 2013,
+      "index_prumyslove_produkce_pct": 100.2
+    },
+    {
+      "rok": 2014,
+      "index_prumyslove_produkce_pct": 105.1
+    },
+    {
+      "rok": 2015,
+      "index_prumyslove_produkce_pct": 104.5
+    },
+    {
+      "rok": 2016,
+      "index_prumyslove_produkce_pct": 103.1
+    },
+    {
+      "rok": 2017,
+      "index_prumyslove_produkce_pct": 106.7
+    },
+    {
+      "rok": 2018,
+      "index_prumyslove_produkce_pct": 103.1
+    },
+    {
+      "rok": 2019,
+      "index_prumyslove_produkce_pct": 99.7
+    },
+    {
+      "rok": 2020,
+      "index_prumyslove_produkce_pct": 92.8
+    },
+    {
+      "rok": 2021,
+      "index_prumyslove_produkce_pct": 106.6
+    },
+    {
+      "rok": 2022,
+      "index_prumyslove_produkce_pct": 102.5
+    }
+  ],
+  "meta": {
+    "title": "Index průmyslové produkce v Česku - Free Download",
+    "description": "Meziroční index průmyslové produkce v Česku (předchozí rok = 100 %) od roku 2001 Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Index průmyslové produkce v Česku | ListBase",
+    "seo_description": "Download Index průmyslové produkce v Česku — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Průmysl_v_Česku"
+    ]
+  }
+}
