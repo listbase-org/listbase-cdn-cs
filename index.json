@@ -1,12 +1,12 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:37.145Z",
-  "total_datasets": 488,
-  "total_records": 414823,
+  "generated": "2026-10-27T02:54:39.708Z",
+  "total_datasets": 489,
+  "total_records": 414924,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -141,6 +141,53 @@
         "xlsx": {
           "name": "cs-hospodarska-zvirata-stavy_CS.xlsx",
           "size": 10043
+        }
+      }
+    },
+    {
+      "id": "cs-osevni-plochy-plodin",
+      "name": "Osevní plochy zemědělských plodin v Česku",
+      "category": "agriculture",
+      "record_count": 101,
+      "columns": [
+        "plodina",
+        "rok_2002",
+        "rok_2003",
+        "rok_2004",
+        "rok_2005",
+        "rok_2006",
+        "rok_2007",
+        "rok_2008",
+        "rok_2009",
+        "rok_2010",
+        "rok_2011",
+        "rok_2012",
+        "rok_2013",
+        "rok_2014",
+        "rok_2015",
+        "rok_2016",
+        "rok_2017",
+        "rok_2018",
+        "rok_2019",
+        "rok_2020",
+        "rok_2021",
+        "rok_2022",
+        "rok_2023",
+        "rok_2024",
+        "rok_2025",
+        "rok_2026"
+      ],
+      "source": "https://data.csu.gov.cz/opendata/sady/ZEM03C",
+      "updated": "2026-10",
+      "size": 74563,
+      "files": {
+        "csv": {
+          "name": "cs-osevni-plochy-plodin_CS.csv",
+          "size": 24197
+        },
+        "xlsx": {
+          "name": "cs-osevni-plochy-plodin_CS.xlsx",
+          "size": 23980
         }
       }
     },
