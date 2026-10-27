@@ -1,0 +1,236 @@
+{
+  "id": "cs-vlady-ceske-republiky",
+  "name": "Vlády České republiky",
+  "title": "Vlády České republiky",
+  "description": "Seznam vlád České republiky od roku 1992 s obdobím, počtem členů, důvěrou sněmovny, důvodem demise a koaličními stranami",
+  "category": "politics",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_vlád_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_vlád_Česka",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "nazev_vlady",
+      "label": "Nazev Vlady",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    },
+    {
+      "key": "doba_dny",
+      "label": "Doba Dny",
+      "type": "number"
+    },
+    {
+      "key": "pocet_clenu",
+      "label": "Pocet Clenu",
+      "type": "number"
+    },
+    {
+      "key": "duvera_snemovny",
+      "label": "Duvera Snemovny",
+      "type": "string"
+    },
+    {
+      "key": "duvod_demise",
+      "label": "Duvod Demise",
+      "type": "string"
+    },
+    {
+      "key": "strany",
+      "label": "Strany",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "nazev_vlady": "první vláda Václava Klause",
+      "obdobi": "2. 7. 1992 – 4. 7. 1996",
+      "doba_dny": 1463,
+      "pocet_clenu": "19",
+      "duvera_snemovny": "106/200",
+      "duvod_demise": "volby do PS PČR 1996",
+      "strany": "ODS , KDS , ODA , KDU-ČSL"
+    },
+    {
+      "poradi": "2.",
+      "nazev_vlady": "druhá vláda Václava Klause",
+      "obdobi": "4. 7. 1996 – 2. 1. 1998",
+      "doba_dny": 547,
+      "pocet_clenu": "15/16",
+      "duvera_snemovny": "98/138",
+      "duvod_demise": "aféra s financováním ODS , odchod ODA a KDU-ČSL z koalice",
+      "strany": "ODS , ODA , KDU-ČSL"
+    },
+    {
+      "poradi": "3.",
+      "nazev_vlady": "vláda Josefa Tošovského",
+      "obdobi": "2. 1. 1998 – 22. 7. 1998",
+      "doba_dny": 201,
+      "pocet_clenu": "17/19",
+      "duvera_snemovny": "123/197",
+      "duvod_demise": "volby do PS PČR 1998",
+      "strany": "nestr., US (původně ODS ), ODA , KDU-ČSL"
+    },
+    {
+      "poradi": "4.",
+      "nazev_vlady": "vláda Miloše Zemana",
+      "obdobi": "22. 7. 1998 – 15. 7. 2002",
+      "doba_dny": 1454,
+      "pocet_clenu": "17/19",
+      "duvera_snemovny": "73/136",
+      "duvod_demise": "volby do PS PČR 2002",
+      "strany": "ČSSD"
+    },
+    {
+      "poradi": "5.",
+      "nazev_vlady": "vláda Vladimíra Špidly",
+      "obdobi": "15. 7. 2002 – 4. 8. 2004",
+      "doba_dny": 751,
+      "pocet_clenu": "18",
+      "duvera_snemovny": "101/199",
+      "duvod_demise": "demise premiéra po propadu ČSSD ve volbách do EP 2004",
+      "strany": "ČSSD , US-DEU , KDU-ČSL"
+    },
+    {
+      "poradi": "6.",
+      "nazev_vlady": "vláda Stanislava Grosse",
+      "obdobi": "4. 8. 2004 – 25. 4. 2005",
+      "doba_dny": 264,
+      "pocet_clenu": "18",
+      "duvera_snemovny": "101/200",
+      "duvod_demise": "aféra Stanislava Grosse",
+      "strany": "ČSSD , US-DEU , KDU-ČSL"
+    },
+    {
+      "poradi": "7.",
+      "nazev_vlady": "vláda Jiřího Paroubka",
+      "obdobi": "25. 4. 2005 – 4. 9. 2006",
+      "doba_dny": 497,
+      "pocet_clenu": "18",
+      "duvera_snemovny": "101/200",
+      "duvod_demise": "volby do PS PČR 2006",
+      "strany": "ČSSD , US-DEU , KDU-ČSL"
+    },
+    {
+      "poradi": "8.",
+      "nazev_vlady": "první vláda Mirka Topolánka",
+      "obdobi": "4. 9. 2006 – 9. 1. 2007",
+      "doba_dny": 127,
+      "pocet_clenu": "15",
+      "duvera_snemovny": "96/195",
+      "duvod_demise": "vládě nebyla vyslovena důvěra",
+      "strany": "ODS , nestr."
+    },
+    {
+      "poradi": "9.",
+      "nazev_vlady": "druhá vláda Mirka Topolánka",
+      "obdobi": "9. 1. 2007 – 8. 5. 2009",
+      "doba_dny": 850,
+      "pocet_clenu": "18",
+      "duvera_snemovny": "100/198",
+      "duvod_demise": "vládě byla vyslovena nedůvěra (101/197)",
+      "strany": "ODS , KDU-ČSL , SZ , nestr."
+    },
+    {
+      "poradi": "10.",
+      "nazev_vlady": "vláda Jana Fischera",
+      "obdobi": "8. 5. 2009 – 13. 7. 2010",
+      "doba_dny": 431,
+      "pocet_clenu": "18",
+      "duvera_snemovny": "156/194",
+      "duvod_demise": "volby do PS PČR 2010",
+      "strany": "nestraníci nominovaní ODS , ČSSD a SZ"
+    },
+    {
+      "poradi": "11.",
+      "nazev_vlady": "vláda Petra Nečase",
+      "obdobi": "13. 7. 2010 – 10. 7. 2013",
+      "doba_dny": 1093,
+      "pocet_clenu": "15/16/17",
+      "duvera_snemovny": "118/200",
+      "duvod_demise": "demise premiéra po zatčení jeho spolupracovnice Jany Nagyové ; aféra v ODS",
+      "strany": "ODS , TOP 09 , LIDEM (pův. VV ), nestr."
+    },
+    {
+      "poradi": "12.",
+      "nazev_vlady": "vláda Jiřího Rusnoka",
+      "obdobi": "10. 7. 2013 – 29. 1. 2014",
+      "doba_dny": 203,
+      "pocet_clenu": "15",
+      "duvera_snemovny": "93/193",
+      "duvod_demise": "vládě nebyla vyslovena důvěra",
+      "strany": "nestr. (3 pozastavené členství v ČSSD ), KDU-ČSL"
+    },
+    {
+      "poradi": "13.",
+      "nazev_vlady": "vláda Bohuslava Sobotky",
+      "obdobi": "29. 1. 2014 – 13. 12. 2017",
+      "doba_dny": 1414,
+      "pocet_clenu": "17",
+      "duvera_snemovny": "110/181",
+      "duvod_demise": "volby do PS PČR 2017",
+      "strany": "ČSSD , ANO , KDU-ČSL , nestr."
+    },
+    {
+      "poradi": "14.",
+      "nazev_vlady": "první vláda Andreje Babiše",
+      "obdobi": "13. 12. 2017 – 27. 6. 2018",
+      "doba_dny": 196,
+      "pocet_clenu": "15",
+      "duvera_snemovny": "78/195",
+      "duvod_demise": "vládě nebyla vyslovena důvěra",
+      "strany": "ANO , nestr."
+    },
+    {
+      "poradi": "15.",
+      "nazev_vlady": "druhá vláda Andreje Babiše",
+      "obdobi": "27. 6. 2018 – 17. 12. 2021",
+      "doba_dny": 1269,
+      "pocet_clenu": "14/15",
+      "duvera_snemovny": "105/196",
+      "duvod_demise": "volby do PS PČR 2021",
+      "strany": "ANO , ČSSD"
+    },
+    {
+      "poradi": "16.",
+      "nazev_vlady": "vláda Petra Fialy",
+      "obdobi": "17. 12. 2021 – 15. 12. 2025",
+      "doba_dny": 1459,
+      "pocet_clenu": "17/18",
+      "duvera_snemovny": "106/193",
+      "duvod_demise": "volby do PS PČR 2025",
+      "strany": "prosinec 2021 – říjen 2024: SPOLU ( ODS , KDU-ČSL , TOP 09 ), Piráti a Starostové ( Piráti , STAN ) říjen 2024 – prosinec 2025: SPOLU ( ODS , TOP 09 , KDU-ČSL ), STAN"
+    },
+    {
+      "poradi": "17.",
+      "nazev_vlady": "třetí vláda Andreje Babiše",
+      "obdobi": "15. 12. 2025 – úřadující",
+      "doba_dny": 316,
+      "pocet_clenu": "15",
+      "duvera_snemovny": "108/199",
+      "duvod_demise": "",
+      "strany": "ANO , SPD , AUTO"
+    }
+  ],
+  "meta": {
+    "title": "Vlády České republiky - Free Download",
+    "description": "Seznam vlád České republiky od roku 1992 s obdobím, počtem členů, důvěrou sněmovny, důvodem demise a koaličními stranami Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vlády České republiky | ListBase",
+    "seo_description": "Download Vlády České republiky — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_vlád_Česka"
+    ]
+  }
+}

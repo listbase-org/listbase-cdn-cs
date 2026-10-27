@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:55:00.430Z",
-  "total_datasets": 497,
-  "total_records": 415245,
+  "generated": "2026-10-27T02:55:03.012Z",
+  "total_datasets": 498,
+  "total_records": 415262,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -8047,6 +8047,35 @@
         "xlsx": {
           "name": "cs-vladni-urady_CS.xlsx",
           "size": 22722
+        }
+      }
+    },
+    {
+      "id": "cs-vlady-ceske-republiky",
+      "name": "Vlády České republiky",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "poradi",
+        "nazev_vlady",
+        "obdobi",
+        "doba_dny",
+        "pocet_clenu",
+        "duvera_snemovny",
+        "duvod_demise",
+        "strany"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_vlád_Česka",
+      "updated": "2026-10",
+      "size": 7531,
+      "files": {
+        "csv": {
+          "name": "cs-vlady-ceske-republiky_CS.csv",
+          "size": 2783
+        },
+        "xlsx": {
+          "name": "cs-vlady-ceske-republiky_CS.xlsx",
+          "size": 8515
         }
       }
     },
