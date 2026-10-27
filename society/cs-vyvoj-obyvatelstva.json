@@ -1,0 +1,2516 @@
+{
+  "id": "cs-vyvoj-obyvatelstva",
+  "name": "Vývoj obyvatelstva českých zemí od roku 1785",
+  "title": "Vývoj obyvatelstva českých zemí od roku 1785",
+  "description": "Počet obyvatel, živě narození, zemřelí a přirozená změna v českých zemích od roku 1785 včetně hrubých měr porodnosti a úmrtnosti",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "updated": "2026-10",
+  "record_count": 245,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "populace",
+      "label": "Populace",
+      "type": "number"
+    },
+    {
+      "key": "zive_narozeni",
+      "label": "Zive Narozeni",
+      "type": "number"
+    },
+    {
+      "key": "zemreli",
+      "label": "Zemreli",
+      "type": "number"
+    },
+    {
+      "key": "prirozena_zmena",
+      "label": "Prirozena Zmena",
+      "type": "number"
+    },
+    {
+      "key": "hruba_mira_porodnosti",
+      "label": "Hruba Mira Porodnosti",
+      "type": "number"
+    },
+    {
+      "key": "hruba_mira_umrtnosti",
+      "label": "Hruba Mira Umrtnosti",
+      "type": "number"
+    },
+    {
+      "key": "prirozena_zmena_na_1000",
+      "label": "Prirozena Zmena Na 1000",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1785,
+      "populace": 4250000,
+      "zive_narozeni": 183354,
+      "zemreli": 153103,
+      "prirozena_zmena": 30251,
+      "hruba_mira_porodnosti": 43.1,
+      "hruba_mira_umrtnosti": 36,
+      "prirozena_zmena_na_1000": 7.1
+    },
+    {
+      "rok": 1786,
+      "populace": 4318000,
+      "zive_narozeni": 194629,
+      "zemreli": 131812,
+      "prirozena_zmena": 62817,
+      "hruba_mira_porodnosti": 45.1,
+      "hruba_mira_umrtnosti": 30.5,
+      "prirozena_zmena_na_1000": 14.6
+    },
+    {
+      "rok": 1787,
+      "populace": 4392000,
+      "zive_narozeni": 202181,
+      "zemreli": 128078,
+      "prirozena_zmena": 74103,
+      "hruba_mira_porodnosti": 46,
+      "hruba_mira_umrtnosti": 29.2,
+      "prirozena_zmena_na_1000": 16.8
+    },
+    {
+      "rok": 1788,
+      "populace": 4418000,
+      "zive_narozeni": 165481,
+      "zemreli": 117556,
+      "prirozena_zmena": 47925,
+      "hruba_mira_porodnosti": 44.9,
+      "hruba_mira_umrtnosti": 31.9,
+      "prirozena_zmena_na_1000": 13
+    },
+    {
+      "rok": 1789,
+      "populace": 4414000,
+      "zive_narozeni": 185368,
+      "zemreli": 131377,
+      "prirozena_zmena": 53991,
+      "hruba_mira_porodnosti": 42,
+      "hruba_mira_umrtnosti": 29.8,
+      "prirozena_zmena_na_1000": 12.2
+    },
+    {
+      "rok": 1790,
+      "populace": 4444000,
+      "zive_narozeni": 198291,
+      "zemreli": 152550,
+      "prirozena_zmena": 45741,
+      "hruba_mira_porodnosti": 44.6,
+      "hruba_mira_umrtnosti": 34.3,
+      "prirozena_zmena_na_1000": 10.3
+    },
+    {
+      "rok": 1791,
+      "populace": 4497000,
+      "zive_narozeni": 187199,
+      "zemreli": 160651,
+      "prirozena_zmena": 26548,
+      "hruba_mira_porodnosti": 41.6,
+      "hruba_mira_umrtnosti": 35.7,
+      "prirozena_zmena_na_1000": 5.9
+    },
+    {
+      "rok": 1792,
+      "populace": 4531000,
+      "zive_narozeni": 201080,
+      "zemreli": 141238,
+      "prirozena_zmena": 59842,
+      "hruba_mira_porodnosti": 44.4,
+      "hruba_mira_umrtnosti": 31.2,
+      "prirozena_zmena_na_1000": 13.2
+    },
+    {
+      "rok": 1793,
+      "populace": 4553000,
+      "zive_narozeni": 196648,
+      "zemreli": 141309,
+      "prirozena_zmena": 55339,
+      "hruba_mira_porodnosti": 43.2,
+      "hruba_mira_umrtnosti": 31,
+      "prirozena_zmena_na_1000": 12.2
+    },
+    {
+      "rok": 1794,
+      "populace": 4570000,
+      "zive_narozeni": 201433,
+      "zemreli": 151513,
+      "prirozena_zmena": 49920,
+      "hruba_mira_porodnosti": 44.1,
+      "hruba_mira_umrtnosti": 33.2,
+      "prirozena_zmena_na_1000": 10.9
+    },
+    {
+      "rok": 1795,
+      "populace": 4588000,
+      "zive_narozeni": 198425,
+      "zemreli": 164732,
+      "prirozena_zmena": 33693,
+      "hruba_mira_porodnosti": 43.2,
+      "hruba_mira_umrtnosti": 35.9,
+      "prirozena_zmena_na_1000": 7.3
+    },
+    {
+      "rok": 1796,
+      "populace": 4598000,
+      "zive_narozeni": 199548,
+      "zemreli": 146225,
+      "prirozena_zmena": 53323,
+      "hruba_mira_porodnosti": 43.4,
+      "hruba_mira_umrtnosti": 31.8,
+      "prirozena_zmena_na_1000": 11.6
+    },
+    {
+      "rok": 1797,
+      "populace": 4633000,
+      "zive_narozeni": 194932,
+      "zemreli": 145659,
+      "prirozena_zmena": 49273,
+      "hruba_mira_porodnosti": 42.1,
+      "hruba_mira_umrtnosti": 31.4,
+      "prirozena_zmena_na_1000": 10.7
+    },
+    {
+      "rok": 1798,
+      "populace": 4668000,
+      "zive_narozeni": 204272,
+      "zemreli": 139238,
+      "prirozena_zmena": 65034,
+      "hruba_mira_porodnosti": 43.8,
+      "hruba_mira_umrtnosti": 29.8,
+      "prirozena_zmena_na_1000": 14
+    },
+    {
+      "rok": 1799,
+      "populace": 4670000,
+      "zive_narozeni": 200307,
+      "zemreli": 160609,
+      "prirozena_zmena": 39698,
+      "hruba_mira_porodnosti": 42.9,
+      "hruba_mira_umrtnosti": 34.4,
+      "prirozena_zmena_na_1000": 8.5
+    },
+    {
+      "rok": 1800,
+      "populace": 4659000,
+      "zive_narozeni": 196011,
+      "zemreli": 177730,
+      "prirozena_zmena": 18281,
+      "hruba_mira_porodnosti": 42.1,
+      "hruba_mira_umrtnosti": 38.1,
+      "prirozena_zmena_na_1000": 4
+    },
+    {
+      "rok": 1801,
+      "populace": 4692000,
+      "zive_narozeni": 196838,
+      "zemreli": 170187,
+      "prirozena_zmena": 26651,
+      "hruba_mira_porodnosti": 42,
+      "hruba_mira_umrtnosti": 36.3,
+      "prirozena_zmena_na_1000": 5.7
+    },
+    {
+      "rok": 1802,
+      "populace": 4767000,
+      "zive_narozeni": 207716,
+      "zemreli": 157243,
+      "prirozena_zmena": 50473,
+      "hruba_mira_porodnosti": 43.6,
+      "hruba_mira_umrtnosti": 33,
+      "prirozena_zmena_na_1000": 10.6
+    },
+    {
+      "rok": 1803,
+      "populace": 4823000,
+      "zive_narozeni": 205868,
+      "zemreli": 162632,
+      "prirozena_zmena": 43236,
+      "hruba_mira_porodnosti": 42.7,
+      "hruba_mira_umrtnosti": 33.7,
+      "prirozena_zmena_na_1000": 9
+    },
+    {
+      "rok": 1804,
+      "populace": 4894000,
+      "zive_narozeni": 211425,
+      "zemreli": 150742,
+      "prirozena_zmena": 60683,
+      "hruba_mira_porodnosti": 43.2,
+      "hruba_mira_umrtnosti": 30.8,
+      "prirozena_zmena_na_1000": 12.4
+    },
+    {
+      "rok": 1805,
+      "populace": 4941000,
+      "zive_narozeni": 202708,
+      "zemreli": 163136,
+      "prirozena_zmena": 39572,
+      "hruba_mira_porodnosti": 41,
+      "hruba_mira_umrtnosti": 33,
+      "prirozena_zmena_na_1000": 8
+    },
+    {
+      "rok": 1806,
+      "populace": 4883000,
+      "zive_narozeni": 170277,
+      "zemreli": 282321,
+      "prirozena_zmena": -112044,
+      "hruba_mira_porodnosti": 34.9,
+      "hruba_mira_umrtnosti": 57.8,
+      "prirozena_zmena_na_1000": -22.9
+    },
+    {
+      "rok": 1807,
+      "populace": 4857000,
+      "zive_narozeni": 220530,
+      "zemreli": 172000,
+      "prirozena_zmena": 48530,
+      "hruba_mira_porodnosti": 45.4,
+      "hruba_mira_umrtnosti": 35.4,
+      "prirozena_zmena_na_1000": 10
+    },
+    {
+      "rok": 1808,
+      "populace": 4876000,
+      "zive_narozeni": 221952,
+      "zemreli": 165140,
+      "prirozena_zmena": 56812,
+      "hruba_mira_porodnosti": 45.5,
+      "hruba_mira_umrtnosti": 33.9,
+      "prirozena_zmena_na_1000": 11.6
+    },
+    {
+      "rok": 1809,
+      "populace": 4853000,
+      "zive_narozeni": 211573,
+      "zemreli": 185671,
+      "prirozena_zmena": 25902,
+      "hruba_mira_porodnosti": 43.6,
+      "hruba_mira_umrtnosti": 38.3,
+      "prirozena_zmena_na_1000": 5.3
+    },
+    {
+      "rok": 1810,
+      "populace": 4870000,
+      "zive_narozeni": 198407,
+      "zemreli": 218034,
+      "prirozena_zmena": -19627,
+      "hruba_mira_porodnosti": 40.7,
+      "hruba_mira_umrtnosti": 44.8,
+      "prirozena_zmena_na_1000": -4.1
+    },
+    {
+      "rok": 1811,
+      "populace": 4916000,
+      "zive_narozeni": 229131,
+      "zemreli": 174015,
+      "prirozena_zmena": 55116,
+      "hruba_mira_porodnosti": 46.6,
+      "hruba_mira_umrtnosti": 35.4,
+      "prirozena_zmena_na_1000": 11.2
+    },
+    {
+      "rok": 1812,
+      "populace": 4951000,
+      "zive_narozeni": 215954,
+      "zemreli": 173716,
+      "prirozena_zmena": 42238,
+      "hruba_mira_porodnosti": 43.6,
+      "hruba_mira_umrtnosti": 35.1,
+      "prirozena_zmena_na_1000": 8.5
+    },
+    {
+      "rok": 1813,
+      "populace": 4859000,
+      "zive_narozeni": 212067,
+      "zemreli": 151341,
+      "prirozena_zmena": 60726,
+      "hruba_mira_porodnosti": 43.6,
+      "hruba_mira_umrtnosti": 31.1,
+      "prirozena_zmena_na_1000": 12.5
+    },
+    {
+      "rok": 1814,
+      "populace": 4826000,
+      "zive_narozeni": 204555,
+      "zemreli": 200379,
+      "prirozena_zmena": 4176,
+      "hruba_mira_porodnosti": 42.4,
+      "hruba_mira_umrtnosti": 41.5,
+      "prirozena_zmena_na_1000": 0.9
+    },
+    {
+      "rok": 1815,
+      "populace": 4810000,
+      "zive_narozeni": 209886,
+      "zemreli": 146800,
+      "prirozena_zmena": 63086,
+      "hruba_mira_porodnosti": 43.6,
+      "hruba_mira_umrtnosti": 30.5,
+      "prirozena_zmena_na_1000": 13.1
+    },
+    {
+      "rok": 1816,
+      "populace": 4878000,
+      "zive_narozeni": 209473,
+      "zemreli": 143940,
+      "prirozena_zmena": 65533,
+      "hruba_mira_porodnosti": 42.9,
+      "hruba_mira_umrtnosti": 29.5,
+      "prirozena_zmena_na_1000": 13.4
+    },
+    {
+      "rok": 1817,
+      "populace": 4961000,
+      "zive_narozeni": 208345,
+      "zemreli": 160703,
+      "prirozena_zmena": 47642,
+      "hruba_mira_porodnosti": 42,
+      "hruba_mira_umrtnosti": 32.4,
+      "prirozena_zmena_na_1000": 9.6
+    },
+    {
+      "rok": 1818,
+      "populace": 5021000,
+      "zive_narozeni": 204175,
+      "zemreli": 152665,
+      "prirozena_zmena": 51510,
+      "hruba_mira_porodnosti": 40.7,
+      "hruba_mira_umrtnosti": 30.4,
+      "prirozena_zmena_na_1000": 10.3
+    },
+    {
+      "rok": 1819,
+      "populace": 5093000,
+      "zive_narozeni": 238968,
+      "zemreli": 163932,
+      "prirozena_zmena": 75036,
+      "hruba_mira_porodnosti": 46.9,
+      "hruba_mira_umrtnosti": 32.2,
+      "prirozena_zmena_na_1000": 14.7
+    },
+    {
+      "rok": 1820,
+      "populace": 5272791,
+      "zive_narozeni": 232287,
+      "zemreli": 137938,
+      "prirozena_zmena": 94349,
+      "hruba_mira_porodnosti": 44.1,
+      "hruba_mira_umrtnosti": 26.2,
+      "prirozena_zmena_na_1000": 17.9
+    },
+    {
+      "rok": 1821,
+      "populace": 5353785,
+      "zive_narozeni": 231028,
+      "zemreli": 139127,
+      "prirozena_zmena": 91901,
+      "hruba_mira_porodnosti": 43.2,
+      "hruba_mira_umrtnosti": 26,
+      "prirozena_zmena_na_1000": 17.2
+    },
+    {
+      "rok": 1822,
+      "populace": 5426885,
+      "zive_narozeni": 218983,
+      "zemreli": 149842,
+      "prirozena_zmena": 69141,
+      "hruba_mira_porodnosti": 40.4,
+      "hruba_mira_umrtnosti": 27.6,
+      "prirozena_zmena_na_1000": 12.8
+    },
+    {
+      "rok": 1823,
+      "populace": 5494633,
+      "zive_narozeni": 229571,
+      "zemreli": 161716,
+      "prirozena_zmena": 67855,
+      "hruba_mira_porodnosti": 41.8,
+      "hruba_mira_umrtnosti": 29.4,
+      "prirozena_zmena_na_1000": 12.4
+    },
+    {
+      "rok": 1824,
+      "populace": 5567415,
+      "zive_narozeni": 228372,
+      "zemreli": 153232,
+      "prirozena_zmena": 75140,
+      "hruba_mira_porodnosti": 41,
+      "hruba_mira_umrtnosti": 27.5,
+      "prirozena_zmena_na_1000": 13.5
+    },
+    {
+      "rok": 1825,
+      "populace": 5641433,
+      "zive_narozeni": 239187,
+      "zemreli": 152791,
+      "prirozena_zmena": 86396,
+      "hruba_mira_porodnosti": 42.4,
+      "hruba_mira_umrtnosti": 27.1,
+      "prirozena_zmena_na_1000": 15.3
+    },
+    {
+      "rok": 1826,
+      "populace": 5715138,
+      "zive_narozeni": 236735,
+      "zemreli": 154862,
+      "prirozena_zmena": 81873,
+      "hruba_mira_porodnosti": 41.4,
+      "hruba_mira_umrtnosti": 27.1,
+      "prirozena_zmena_na_1000": 14.3
+    },
+    {
+      "rok": 1827,
+      "populace": 5831825,
+      "zive_narozeni": 229186,
+      "zemreli": 164697,
+      "prirozena_zmena": 64489,
+      "hruba_mira_porodnosti": 39.3,
+      "hruba_mira_umrtnosti": 28.2,
+      "prirozena_zmena_na_1000": 11.1
+    },
+    {
+      "rok": 1828,
+      "populace": 5933743,
+      "zive_narozeni": 224584,
+      "zemreli": 188501,
+      "prirozena_zmena": 36083,
+      "hruba_mira_porodnosti": 37.8,
+      "hruba_mira_umrtnosti": 31.8,
+      "prirozena_zmena_na_1000": 6
+    },
+    {
+      "rok": 1829,
+      "populace": 5959643,
+      "zive_narozeni": 220607,
+      "zemreli": 181782,
+      "prirozena_zmena": 38825,
+      "hruba_mira_porodnosti": 37,
+      "hruba_mira_umrtnosti": 30.5,
+      "prirozena_zmena_na_1000": 6.5
+    },
+    {
+      "rok": 1830,
+      "populace": 5996788,
+      "zive_narozeni": 235046,
+      "zemreli": 167326,
+      "prirozena_zmena": 67720,
+      "hruba_mira_porodnosti": 39.2,
+      "hruba_mira_umrtnosti": 27.9,
+      "prirozena_zmena_na_1000": 11.3
+    },
+    {
+      "rok": 1831,
+      "populace": 6071798,
+      "zive_narozeni": 230322,
+      "zemreli": 174149,
+      "prirozena_zmena": 56173,
+      "hruba_mira_porodnosti": 37.9,
+      "hruba_mira_umrtnosti": 28.7,
+      "prirozena_zmena_na_1000": 9.2
+    },
+    {
+      "rok": 1832,
+      "populace": 6117669,
+      "zive_narozeni": 232138,
+      "zemreli": 231240,
+      "prirozena_zmena": 898,
+      "hruba_mira_porodnosti": 37.9,
+      "hruba_mira_umrtnosti": 37.8,
+      "prirozena_zmena_na_1000": 0.1
+    },
+    {
+      "rok": 1833,
+      "populace": 6114791,
+      "zive_narozeni": 244207,
+      "zemreli": 187363,
+      "prirozena_zmena": 56844,
+      "hruba_mira_porodnosti": 39.9,
+      "hruba_mira_umrtnosti": 30.6,
+      "prirozena_zmena_na_1000": 9.3
+    },
+    {
+      "rok": 1834,
+      "populace": 6139975,
+      "zive_narozeni": 242356,
+      "zemreli": 184887,
+      "prirozena_zmena": 57469,
+      "hruba_mira_porodnosti": 39.5,
+      "hruba_mira_umrtnosti": 30.1,
+      "prirozena_zmena_na_1000": 9.4
+    },
+    {
+      "rok": 1835,
+      "populace": 6191643,
+      "zive_narozeni": 238340,
+      "zemreli": 187879,
+      "prirozena_zmena": 50461,
+      "hruba_mira_porodnosti": 38.5,
+      "hruba_mira_umrtnosti": 30.3,
+      "prirozena_zmena_na_1000": 8.2
+    },
+    {
+      "rok": 1836,
+      "populace": 6200250,
+      "zive_narozeni": 230823,
+      "zemreli": 211406,
+      "prirozena_zmena": 19417,
+      "hruba_mira_porodnosti": 37.2,
+      "hruba_mira_umrtnosti": 34.1,
+      "prirozena_zmena_na_1000": 3.1
+    },
+    {
+      "rok": 1837,
+      "populace": 6197244,
+      "zive_narozeni": 237784,
+      "zemreli": 208411,
+      "prirozena_zmena": 29373,
+      "hruba_mira_porodnosti": 38.4,
+      "hruba_mira_umrtnosti": 33.6,
+      "prirozena_zmena_na_1000": 4.8
+    },
+    {
+      "rok": 1838,
+      "populace": 6248539,
+      "zive_narozeni": 241510,
+      "zemreli": 163343,
+      "prirozena_zmena": 78167,
+      "hruba_mira_porodnosti": 38.7,
+      "hruba_mira_umrtnosti": 26.1,
+      "prirozena_zmena_na_1000": 12.6
+    },
+    {
+      "rok": 1839,
+      "populace": 6314283,
+      "zive_narozeni": 239582,
+      "zemreli": 180699,
+      "prirozena_zmena": 58883,
+      "hruba_mira_porodnosti": 37.9,
+      "hruba_mira_umrtnosti": 28.6,
+      "prirozena_zmena_na_1000": 9.3
+    },
+    {
+      "rok": 1840,
+      "populace": 6378071,
+      "zive_narozeni": 248179,
+      "zemreli": 175901,
+      "prirozena_zmena": 72278,
+      "hruba_mira_porodnosti": 38.9,
+      "hruba_mira_umrtnosti": 27.6,
+      "prirozena_zmena_na_1000": 11.3
+    },
+    {
+      "rok": 1841,
+      "populace": 6459128,
+      "zive_narozeni": 250260,
+      "zemreli": 173872,
+      "prirozena_zmena": 76388,
+      "hruba_mira_porodnosti": 38.7,
+      "hruba_mira_umrtnosti": 26.9,
+      "prirozena_zmena_na_1000": 11.8
+    },
+    {
+      "rok": 1842,
+      "populace": 6531908,
+      "zive_narozeni": 268029,
+      "zemreli": 183288,
+      "prirozena_zmena": 84741,
+      "hruba_mira_porodnosti": 41,
+      "hruba_mira_umrtnosti": 28.1,
+      "prirozena_zmena_na_1000": 12.9
+    },
+    {
+      "rok": 1843,
+      "populace": 6578355,
+      "zive_narozeni": 249634,
+      "zemreli": 211438,
+      "prirozena_zmena": 38196,
+      "hruba_mira_porodnosti": 37.9,
+      "hruba_mira_umrtnosti": 32.1,
+      "prirozena_zmena_na_1000": 5.8
+    },
+    {
+      "rok": 1844,
+      "populace": 6630222,
+      "zive_narozeni": 248919,
+      "zemreli": 172808,
+      "prirozena_zmena": 76111,
+      "hruba_mira_porodnosti": 37.5,
+      "hruba_mira_umrtnosti": 26.1,
+      "prirozena_zmena_na_1000": 11.4
+    },
+    {
+      "rok": 1845,
+      "populace": 6682437,
+      "zive_narozeni": 265314,
+      "zemreli": 191347,
+      "prirozena_zmena": 73967,
+      "hruba_mira_porodnosti": 39.7,
+      "hruba_mira_umrtnosti": 28.6,
+      "prirozena_zmena_na_1000": 11.1
+    },
+    {
+      "rok": 1846,
+      "populace": 6723727,
+      "zive_narozeni": 255109,
+      "zemreli": 181408,
+      "prirozena_zmena": 73701,
+      "hruba_mira_porodnosti": 37.9,
+      "hruba_mira_umrtnosti": 27,
+      "prirozena_zmena_na_1000": 10.9
+    },
+    {
+      "rok": 1847,
+      "populace": 6768064,
+      "zive_narozeni": 245283,
+      "zemreli": 215836,
+      "prirozena_zmena": 29447,
+      "hruba_mira_porodnosti": 36.2,
+      "hruba_mira_umrtnosti": 31.9,
+      "prirozena_zmena_na_1000": 4.3
+    },
+    {
+      "rok": 1848,
+      "populace": 6778356,
+      "zive_narozeni": 222052,
+      "zemreli": 238747,
+      "prirozena_zmena": -16695,
+      "hruba_mira_porodnosti": 32.8,
+      "hruba_mira_umrtnosti": 35.2,
+      "prirozena_zmena_na_1000": -2.5
+    },
+    {
+      "rok": 1849,
+      "populace": 6789915,
+      "zive_narozeni": 273846,
+      "zemreli": 209097,
+      "prirozena_zmena": 64749,
+      "hruba_mira_porodnosti": 40.3,
+      "hruba_mira_umrtnosti": 30.8,
+      "prirozena_zmena_na_1000": 9.5
+    },
+    {
+      "rok": 1850,
+      "populace": 6826465,
+      "zive_narozeni": 279375,
+      "zemreli": 238192,
+      "prirozena_zmena": 41183,
+      "hruba_mira_porodnosti": 40.9,
+      "hruba_mira_umrtnosti": 34.9,
+      "prirozena_zmena_na_1000": 6
+    },
+    {
+      "rok": 1851,
+      "populace": 6870370,
+      "zive_narozeni": 282747,
+      "zemreli": 197429,
+      "prirozena_zmena": 85318,
+      "hruba_mira_porodnosti": 41.2,
+      "hruba_mira_umrtnosti": 28.7,
+      "prirozena_zmena_na_1000": 12.5
+    },
+    {
+      "rok": 1852,
+      "populace": 6925780,
+      "zive_narozeni": 274194,
+      "zemreli": 209097,
+      "prirozena_zmena": 64749,
+      "hruba_mira_porodnosti": 39.6,
+      "hruba_mira_umrtnosti": 28.7,
+      "prirozena_zmena_na_1000": 10.9
+    },
+    {
+      "rok": 1853,
+      "populace": 6976739,
+      "zive_narozeni": 267965,
+      "zemreli": 195270,
+      "prirozena_zmena": 72695,
+      "hruba_mira_porodnosti": 38.4,
+      "hruba_mira_umrtnosti": 28,
+      "prirozena_zmena_na_1000": 10.4
+    },
+    {
+      "rok": 1854,
+      "populace": 7029810,
+      "zive_narozeni": 271258,
+      "zemreli": 189970,
+      "prirozena_zmena": 81288,
+      "hruba_mira_porodnosti": 38.6,
+      "hruba_mira_umrtnosti": 27,
+      "prirozena_zmena_na_1000": 11.6
+    },
+    {
+      "rok": 1855,
+      "populace": 7044048,
+      "zive_narozeni": 222109,
+      "zemreli": 249679,
+      "prirozena_zmena": -27570,
+      "hruba_mira_porodnosti": 31.5,
+      "hruba_mira_umrtnosti": 35.4,
+      "prirozena_zmena_na_1000": -3.9
+    },
+    {
+      "rok": 1856,
+      "populace": 7045616,
+      "zive_narozeni": 256308,
+      "zemreli": 211615,
+      "prirozena_zmena": 44693,
+      "hruba_mira_porodnosti": 36.4,
+      "hruba_mira_umrtnosti": 30,
+      "prirozena_zmena_na_1000": 6.4
+    },
+    {
+      "rok": 1857,
+      "populace": 7091652,
+      "zive_narozeni": 286069,
+      "zemreli": 197287,
+      "prirozena_zmena": 88782,
+      "hruba_mira_porodnosti": 40.3,
+      "hruba_mira_umrtnosti": 27.8,
+      "prirozena_zmena_na_1000": 12.5
+    },
+    {
+      "rok": 1858,
+      "populace": 7151837,
+      "zive_narozeni": 284645,
+      "zemreli": 198957,
+      "prirozena_zmena": 85688,
+      "hruba_mira_porodnosti": 39.8,
+      "hruba_mira_umrtnosti": 27.8,
+      "prirozena_zmena_na_1000": 12
+    },
+    {
+      "rok": 1859,
+      "populace": 7214655,
+      "zive_narozeni": 287152,
+      "zemreli": 190741,
+      "prirozena_zmena": 96411,
+      "hruba_mira_porodnosti": 39.8,
+      "hruba_mira_umrtnosti": 26.4,
+      "prirozena_zmena_na_1000": 13.4
+    },
+    {
+      "rok": 1860,
+      "populace": 7277801,
+      "zive_narozeni": 270285,
+      "zemreli": 183829,
+      "prirozena_zmena": 86456,
+      "hruba_mira_porodnosti": 37.1,
+      "hruba_mira_umrtnosti": 25.3,
+      "prirozena_zmena_na_1000": 11.8
+    },
+    {
+      "rok": 1861,
+      "populace": 7328855,
+      "zive_narozeni": 267729,
+      "zemreli": 206381,
+      "prirozena_zmena": 61348,
+      "hruba_mira_porodnosti": 36.5,
+      "hruba_mira_umrtnosti": 28.2,
+      "prirozena_zmena_na_1000": 8.4
+    },
+    {
+      "rok": 1862,
+      "populace": 7373633,
+      "zive_narozeni": 273947,
+      "zemreli": 205608,
+      "prirozena_zmena": 68339,
+      "hruba_mira_porodnosti": 37.2,
+      "hruba_mira_umrtnosti": 27.9,
+      "prirozena_zmena_na_1000": 9.3
+    },
+    {
+      "rok": 1863,
+      "populace": 7429933,
+      "zive_narozeni": 299164,
+      "zemreli": 204273,
+      "prirozena_zmena": 94891,
+      "hruba_mira_porodnosti": 40.3,
+      "hruba_mira_umrtnosti": 27.5,
+      "prirozena_zmena_na_1000": 12.8
+    },
+    {
+      "rok": 1864,
+      "populace": 7483274,
+      "zive_narozeni": 290417,
+      "zemreli": 230321,
+      "prirozena_zmena": 60096,
+      "hruba_mira_porodnosti": 38.8,
+      "hruba_mira_umrtnosti": 30.8,
+      "prirozena_zmena_na_1000": 8
+    },
+    {
+      "rok": 1865,
+      "populace": 7528107,
+      "zive_narozeni": 289047,
+      "zemreli": 219001,
+      "prirozena_zmena": 70046,
+      "hruba_mira_porodnosti": 38.4,
+      "hruba_mira_umrtnosti": 29.1,
+      "prirozena_zmena_na_1000": 9.3
+    },
+    {
+      "rok": 1866,
+      "populace": 7532419,
+      "zive_narozeni": 295548,
+      "zemreli": 336685,
+      "prirozena_zmena": -41137,
+      "hruba_mira_porodnosti": 39.2,
+      "hruba_mira_umrtnosti": 44.7,
+      "prirozena_zmena_na_1000": -5.5
+    },
+    {
+      "rok": 1867,
+      "populace": 7533238,
+      "zive_narozeni": 271228,
+      "zemreli": 211279,
+      "prirozena_zmena": 59949,
+      "hruba_mira_porodnosti": 36,
+      "hruba_mira_umrtnosti": 28,
+      "prirozena_zmena_na_1000": 8
+    },
+    {
+      "rok": 1868,
+      "populace": 7584956,
+      "zive_narozeni": 292139,
+      "zemreli": 208585,
+      "prirozena_zmena": 83281,
+      "hruba_mira_porodnosti": 38.5,
+      "hruba_mira_umrtnosti": 27.5,
+      "prirozena_zmena_na_1000": 11
+    },
+    {
+      "rok": 1869,
+      "populace": 7643553,
+      "zive_narozeni": 292240,
+      "zemreli": 212678,
+      "prirozena_zmena": 79562,
+      "hruba_mira_porodnosti": 38.2,
+      "hruba_mira_umrtnosti": 27.8,
+      "prirozena_zmena_na_1000": 10.4
+    },
+    {
+      "rok": 1870,
+      "populace": 7698830,
+      "zive_narozeni": 303318,
+      "zemreli": 209604,
+      "prirozena_zmena": 93714,
+      "hruba_mira_porodnosti": 39.4,
+      "hruba_mira_umrtnosti": 27.2,
+      "prirozena_zmena_na_1000": 12.2
+    },
+    {
+      "rok": 1871,
+      "populace": 7754152,
+      "zive_narozeni": 303186,
+      "zemreli": 213133,
+      "prirozena_zmena": 90053,
+      "hruba_mira_porodnosti": 39.1,
+      "hruba_mira_umrtnosti": 27.5,
+      "prirozena_zmena_na_1000": 11.6
+    },
+    {
+      "rok": 1872,
+      "populace": 7809472,
+      "zive_narozeni": 307621,
+      "zemreli": 240620,
+      "prirozena_zmena": 67001,
+      "hruba_mira_porodnosti": 39.4,
+      "hruba_mira_umrtnosti": 30.8,
+      "prirozena_zmena_na_1000": 8.6
+    },
+    {
+      "rok": 1873,
+      "populace": 7864793,
+      "zive_narozeni": 317639,
+      "zemreli": 262417,
+      "prirozena_zmena": 55223,
+      "hruba_mira_porodnosti": 40.4,
+      "hruba_mira_umrtnosti": 33.4,
+      "prirozena_zmena_na_1000": 7
+    },
+    {
+      "rok": 1874,
+      "populace": 7920115,
+      "zive_narozeni": 317287,
+      "zemreli": 222392,
+      "prirozena_zmena": 94895,
+      "hruba_mira_porodnosti": 40.1,
+      "hruba_mira_umrtnosti": 28.1,
+      "prirozena_zmena_na_1000": 12
+    },
+    {
+      "rok": 1875,
+      "populace": 7975435,
+      "zive_narozeni": 310492,
+      "zemreli": 207303,
+      "prirozena_zmena": 103189,
+      "hruba_mira_porodnosti": 38.9,
+      "hruba_mira_umrtnosti": 26,
+      "prirozena_zmena_na_1000": 12.9
+    },
+    {
+      "rok": 1876,
+      "populace": 8030757,
+      "zive_narozeni": 316063,
+      "zemreli": 217404,
+      "prirozena_zmena": 98659,
+      "hruba_mira_porodnosti": 39.4,
+      "hruba_mira_umrtnosti": 27.1,
+      "prirozena_zmena_na_1000": 12.3
+    },
+    {
+      "rok": 1877,
+      "populace": 8086077,
+      "zive_narozeni": 305741,
+      "zemreli": 253207,
+      "prirozena_zmena": 52534,
+      "hruba_mira_porodnosti": 37.8,
+      "hruba_mira_umrtnosti": 31.3,
+      "prirozena_zmena_na_1000": 6.5
+    },
+    {
+      "rok": 1878,
+      "populace": 8141398,
+      "zive_narozeni": 307300,
+      "zemreli": 250197,
+      "prirozena_zmena": 57103,
+      "hruba_mira_porodnosti": 37.7,
+      "hruba_mira_umrtnosti": 30.7,
+      "prirozena_zmena_na_1000": 7
+    },
+    {
+      "rok": 1879,
+      "populace": 8196719,
+      "zive_narozeni": 314478,
+      "zemreli": 228060,
+      "prirozena_zmena": 86418,
+      "hruba_mira_porodnosti": 38.4,
+      "hruba_mira_umrtnosti": 27.8,
+      "prirozena_zmena_na_1000": 10.5
+    },
+    {
+      "rok": 1880,
+      "populace": 8252040,
+      "zive_narozeni": 306444,
+      "zemreli": 229462,
+      "prirozena_zmena": 76982,
+      "hruba_mira_porodnosti": 37.1,
+      "hruba_mira_umrtnosti": 27.8,
+      "prirozena_zmena_na_1000": 9.3
+    },
+    {
+      "rok": 1881,
+      "populace": 8301997,
+      "zive_narozeni": 304793,
+      "zemreli": 245424,
+      "prirozena_zmena": 59369,
+      "hruba_mira_porodnosti": 36.7,
+      "hruba_mira_umrtnosti": 29.6,
+      "prirozena_zmena_na_1000": 7.2
+    },
+    {
+      "rok": 1882,
+      "populace": 8346588,
+      "zive_narozeni": 319687,
+      "zemreli": 238866,
+      "prirozena_zmena": 80821,
+      "hruba_mira_porodnosti": 38.3,
+      "hruba_mira_umrtnosti": 28.6,
+      "prirozena_zmena_na_1000": 9.7
+    },
+    {
+      "rok": 1883,
+      "populace": 8391180,
+      "zive_narozeni": 314393,
+      "zemreli": 242901,
+      "prirozena_zmena": 71492,
+      "hruba_mira_porodnosti": 37.5,
+      "hruba_mira_umrtnosti": 28.9,
+      "prirozena_zmena_na_1000": 8.5
+    },
+    {
+      "rok": 1884,
+      "populace": 8435770,
+      "zive_narozeni": 324257,
+      "zemreli": 247799,
+      "prirozena_zmena": 76458,
+      "hruba_mira_porodnosti": 38.4,
+      "hruba_mira_umrtnosti": 29.4,
+      "prirozena_zmena_na_1000": 9.1
+    },
+    {
+      "rok": 1885,
+      "populace": 8480362,
+      "zive_narozeni": 318788,
+      "zemreli": 249061,
+      "prirozena_zmena": 69727,
+      "hruba_mira_porodnosti": 37.6,
+      "hruba_mira_umrtnosti": 29.5,
+      "prirozena_zmena_na_1000": 8.2
+    },
+    {
+      "rok": 1886,
+      "populace": 8524953,
+      "zive_narozeni": 319223,
+      "zemreli": 251382,
+      "prirozena_zmena": 67841,
+      "hruba_mira_porodnosti": 37.4,
+      "hruba_mira_umrtnosti": 29.5,
+      "prirozena_zmena_na_1000": 8
+    },
+    {
+      "rok": 1887,
+      "populace": 8569544,
+      "zive_narozeni": 315869,
+      "zemreli": 238119,
+      "prirozena_zmena": 77750,
+      "hruba_mira_porodnosti": 36.9,
+      "hruba_mira_umrtnosti": 27.8,
+      "prirozena_zmena_na_1000": 9.1
+    },
+    {
+      "rok": 1888,
+      "populace": 8614135,
+      "zive_narozeni": 315728,
+      "zemreli": 252483,
+      "prirozena_zmena": 63245,
+      "hruba_mira_porodnosti": 36.7,
+      "hruba_mira_umrtnosti": 29.4,
+      "prirozena_zmena_na_1000": 7.3
+    },
+    {
+      "rok": 1889,
+      "populace": 8658727,
+      "zive_narozeni": 315811,
+      "zemreli": 232156,
+      "prirozena_zmena": 83655,
+      "hruba_mira_porodnosti": 36.5,
+      "hruba_mira_umrtnosti": 26.8,
+      "prirozena_zmena_na_1000": 9.7
+    },
+    {
+      "rok": 1890,
+      "populace": 8703318,
+      "zive_narozeni": 307225,
+      "zemreli": 254987,
+      "prirozena_zmena": 52238,
+      "hruba_mira_porodnosti": 35.3,
+      "hruba_mira_umrtnosti": 29.3,
+      "prirozena_zmena_na_1000": 6
+    },
+    {
+      "rok": 1891,
+      "populace": 8761173,
+      "zive_narozeni": 322057,
+      "zemreli": 235832,
+      "prirozena_zmena": 86225,
+      "hruba_mira_porodnosti": 36.8,
+      "hruba_mira_umrtnosti": 26.9,
+      "prirozena_zmena_na_1000": 9.8
+    },
+    {
+      "rok": 1892,
+      "populace": 8832295,
+      "zive_narozeni": 309263,
+      "zemreli": 245741,
+      "prirozena_zmena": 63522,
+      "hruba_mira_porodnosti": 35,
+      "hruba_mira_umrtnosti": 27.8,
+      "prirozena_zmena_na_1000": 7.2
+    },
+    {
+      "rok": 1893,
+      "populace": 8903416,
+      "zive_narozeni": 323817,
+      "zemreli": 243360,
+      "prirozena_zmena": 80457,
+      "hruba_mira_porodnosti": 36.4,
+      "hruba_mira_umrtnosti": 27.3,
+      "prirozena_zmena_na_1000": 9
+    },
+    {
+      "rok": 1894,
+      "populace": 8974537,
+      "zive_narozeni": 319499,
+      "zemreli": 242136,
+      "prirozena_zmena": 77363,
+      "hruba_mira_porodnosti": 35.6,
+      "hruba_mira_umrtnosti": 27,
+      "prirozena_zmena_na_1000": 8.6
+    },
+    {
+      "rok": 1895,
+      "populace": 9045659,
+      "zive_narozeni": 329786,
+      "zemreli": 232691,
+      "prirozena_zmena": 97095,
+      "hruba_mira_porodnosti": 36.5,
+      "hruba_mira_umrtnosti": 25.7,
+      "prirozena_zmena_na_1000": 10.7
+    },
+    {
+      "rok": 1896,
+      "populace": 9116780,
+      "zive_narozeni": 330862,
+      "zemreli": 224476,
+      "prirozena_zmena": 106386,
+      "hruba_mira_porodnosti": 36.3,
+      "hruba_mira_umrtnosti": 24.6,
+      "prirozena_zmena_na_1000": 11.7
+    },
+    {
+      "rok": 1897,
+      "populace": 9187901,
+      "zive_narozeni": 327343,
+      "zemreli": 229050,
+      "prirozena_zmena": 98293,
+      "hruba_mira_porodnosti": 35.6,
+      "hruba_mira_umrtnosti": 24.9,
+      "prirozena_zmena_na_1000": 10.7
+    },
+    {
+      "rok": 1898,
+      "populace": 9259022,
+      "zive_narozeni": 326519,
+      "zemreli": 224659,
+      "prirozena_zmena": 101860,
+      "hruba_mira_porodnosti": 35.3,
+      "hruba_mira_umrtnosti": 24.3,
+      "prirozena_zmena_na_1000": 11
+    },
+    {
+      "rok": 1899,
+      "populace": 9330143,
+      "zive_narozeni": 329747,
+      "zemreli": 236614,
+      "prirozena_zmena": 93133,
+      "hruba_mira_porodnosti": 35.3,
+      "hruba_mira_umrtnosti": 25.4,
+      "prirozena_zmena_na_1000": 10
+    },
+    {
+      "rok": 1900,
+      "populace": 9333853,
+      "zive_narozeni": 330662,
+      "zemreli": 227920,
+      "prirozena_zmena": 102742,
+      "hruba_mira_porodnosti": 35.4,
+      "hruba_mira_umrtnosti": 24.4,
+      "prirozena_zmena_na_1000": 11
+    },
+    {
+      "rok": 1901,
+      "populace": 9404689,
+      "zive_narozeni": 325514,
+      "zemreli": 221052,
+      "prirozena_zmena": 104462,
+      "hruba_mira_porodnosti": 34.6,
+      "hruba_mira_umrtnosti": 23.5,
+      "prirozena_zmena_na_1000": 11.1
+    },
+    {
+      "rok": 1902,
+      "populace": 9474876,
+      "zive_narozeni": 333619,
+      "zemreli": 222457,
+      "prirozena_zmena": 111162,
+      "hruba_mira_porodnosti": 35.2,
+      "hruba_mira_umrtnosti": 23.5,
+      "prirozena_zmena_na_1000": 11.7
+    },
+    {
+      "rok": 1903,
+      "populace": 9545134,
+      "zive_narozeni": 318275,
+      "zemreli": 218448,
+      "prirozena_zmena": 99827,
+      "hruba_mira_porodnosti": 33.3,
+      "hruba_mira_umrtnosti": 22.9,
+      "prirozena_zmena_na_1000": 10.5
+    },
+    {
+      "rok": 1904,
+      "populace": 9615027,
+      "zive_narozeni": 319433,
+      "zemreli": 222276,
+      "prirozena_zmena": 97157,
+      "hruba_mira_porodnosti": 33.2,
+      "hruba_mira_umrtnosti": 23.1,
+      "prirozena_zmena_na_1000": 10.1
+    },
+    {
+      "rok": 1905,
+      "populace": 9684512,
+      "zive_narozeni": 300414,
+      "zemreli": 232999,
+      "prirozena_zmena": 67415,
+      "hruba_mira_porodnosti": 31,
+      "hruba_mira_umrtnosti": 24.1,
+      "prirozena_zmena_na_1000": 7
+    },
+    {
+      "rok": 1906,
+      "populace": 9754475,
+      "zive_narozeni": 313449,
+      "zemreli": 203182,
+      "prirozena_zmena": 110267,
+      "hruba_mira_porodnosti": 32.1,
+      "hruba_mira_umrtnosti": 20.8,
+      "prirozena_zmena_na_1000": 11.3
+    },
+    {
+      "rok": 1907,
+      "populace": 9824544,
+      "zive_narozeni": 306356,
+      "zemreli": 210721,
+      "prirozena_zmena": 95635,
+      "hruba_mira_porodnosti": 31.2,
+      "hruba_mira_umrtnosti": 21.4,
+      "prirozena_zmena_na_1000": 9.7
+    },
+    {
+      "rok": 1908,
+      "populace": 9894520,
+      "zive_narozeni": 308504,
+      "zemreli": 210101,
+      "prirozena_zmena": 98403,
+      "hruba_mira_porodnosti": 31.2,
+      "hruba_mira_umrtnosti": 21.2,
+      "prirozena_zmena_na_1000": 9.9
+    },
+    {
+      "rok": 1909,
+      "populace": 9964789,
+      "zive_narozeni": 305426,
+      "zemreli": 210047,
+      "prirozena_zmena": 95379,
+      "hruba_mira_porodnosti": 30.6,
+      "hruba_mira_umrtnosti": 21.1,
+      "prirozena_zmena_na_1000": 9.6
+    },
+    {
+      "rok": 1910,
+      "populace": 10035575,
+      "zive_narozeni": 295617,
+      "zemreli": 196728,
+      "prirozena_zmena": 98889,
+      "hruba_mira_porodnosti": 29.5,
+      "hruba_mira_umrtnosti": 19.6,
+      "prirozena_zmena_na_1000": 9.9
+    },
+    {
+      "rok": 1911,
+      "populace": 10099152,
+      "zive_narozeni": 289058,
+      "zemreli": 206266,
+      "prirozena_zmena": 82792,
+      "hruba_mira_porodnosti": 28.6,
+      "hruba_mira_umrtnosti": 20.4,
+      "prirozena_zmena_na_1000": 8.2
+    },
+    {
+      "rok": 1912,
+      "populace": 10157344,
+      "zive_narozeni": 280368,
+      "zemreli": 203324,
+      "prirozena_zmena": 77044,
+      "hruba_mira_porodnosti": 27.6,
+      "hruba_mira_umrtnosti": 20,
+      "prirozena_zmena_na_1000": 7.6
+    },
+    {
+      "rok": 1913,
+      "populace": 10221343,
+      "zive_narozeni": 275060,
+      "zemreli": 190475,
+      "prirozena_zmena": 84585,
+      "hruba_mira_porodnosti": 26.9,
+      "hruba_mira_umrtnosti": 18.6,
+      "prirozena_zmena_na_1000": 8.3
+    },
+    {
+      "rok": 1914,
+      "populace": 10283486,
+      "zive_narozeni": 269142,
+      "zemreli": 188838,
+      "prirozena_zmena": 80304,
+      "hruba_mira_porodnosti": 26.2,
+      "hruba_mira_umrtnosti": 18.4,
+      "prirozena_zmena_na_1000": 7.8
+    },
+    {
+      "rok": 1915,
+      "populace": 10285882,
+      "zive_narozeni": 197542,
+      "zemreli": 201280,
+      "prirozena_zmena": -3738,
+      "hruba_mira_porodnosti": 19.2,
+      "hruba_mira_umrtnosti": 19.6,
+      "prirozena_zmena_na_1000": -0.4
+    },
+    {
+      "rok": 1916,
+      "populace": 10221815,
+      "zive_narozeni": 140211,
+      "zemreli": 186381,
+      "prirozena_zmena": -46170,
+      "hruba_mira_porodnosti": 13.7,
+      "hruba_mira_umrtnosti": 18.2,
+      "prirozena_zmena_na_1000": -4.5
+    },
+    {
+      "rok": 1917,
+      "populace": 10128304,
+      "zive_narozeni": 126916,
+      "zemreli": 188649,
+      "prirozena_zmena": -61733,
+      "hruba_mira_porodnosti": 12.5,
+      "hruba_mira_umrtnosti": 18.6,
+      "prirozena_zmena_na_1000": -6.1
+    },
+    {
+      "rok": 1918,
+      "populace": 10004335,
+      "zive_narozeni": 120579,
+      "zemreli": 236035,
+      "prirozena_zmena": -115456,
+      "hruba_mira_porodnosti": 12.1,
+      "hruba_mira_umrtnosti": 23.6,
+      "prirozena_zmena_na_1000": -11.5
+    },
+    {
+      "rok": 1919,
+      "populace": 9921710,
+      "zive_narozeni": 189675,
+      "zemreli": 177428,
+      "prirozena_zmena": 12247,
+      "hruba_mira_porodnosti": 19.1,
+      "hruba_mira_umrtnosti": 17.9,
+      "prirozena_zmena_na_1000": 1.2
+    },
+    {
+      "rok": 1920,
+      "populace": 9978420,
+      "zive_narozeni": 244668,
+      "zemreli": 176562,
+      "prirozena_zmena": 68106,
+      "hruba_mira_porodnosti": 24.5,
+      "hruba_mira_umrtnosti": 17.7,
+      "prirozena_zmena_na_1000": 6.8
+    },
+    {
+      "rok": 1921,
+      "populace": 10002030,
+      "zive_narozeni": 257281,
+      "zemreli": 161321,
+      "prirozena_zmena": 95960,
+      "hruba_mira_porodnosti": 25.7,
+      "hruba_mira_umrtnosti": 16.1,
+      "prirozena_zmena_na_1000": 9.6
+    },
+    {
+      "rok": 1922,
+      "populace": 10112730,
+      "zive_narozeni": 248728,
+      "zemreli": 163366,
+      "prirozena_zmena": 85362,
+      "hruba_mira_porodnosti": 24.6,
+      "hruba_mira_umrtnosti": 16.2,
+      "prirozena_zmena_na_1000": 8.4
+    },
+    {
+      "rok": 1923,
+      "populace": 10198370,
+      "zive_narozeni": 241230,
+      "zemreli": 142335,
+      "prirozena_zmena": 98895,
+      "hruba_mira_porodnosti": 23.7,
+      "hruba_mira_umrtnosti": 14,
+      "prirozena_zmena_na_1000": 9.7
+    },
+    {
+      "rok": 1924,
+      "populace": 10277770,
+      "zive_narozeni": 228894,
+      "zemreli": 146098,
+      "prirozena_zmena": 82796,
+      "hruba_mira_porodnosti": 22.3,
+      "hruba_mira_umrtnosti": 14.2,
+      "prirozena_zmena_na_1000": 8.1
+    },
+    {
+      "rok": 1925,
+      "populace": 10369760,
+      "zive_narozeni": 225555,
+      "zemreli": 146450,
+      "prirozena_zmena": 79105,
+      "hruba_mira_porodnosti": 21.8,
+      "hruba_mira_umrtnosti": 14.1,
+      "prirozena_zmena_na_1000": 7.6
+    },
+    {
+      "rok": 1926,
+      "populace": 10442610,
+      "zive_narozeni": 219802,
+      "zemreli": 148298,
+      "prirozena_zmena": 71504,
+      "hruba_mira_porodnosti": 21,
+      "hruba_mira_umrtnosti": 14.2,
+      "prirozena_zmena_na_1000": 6.8
+    },
+    {
+      "rok": 1927,
+      "populace": 10495940,
+      "zive_narozeni": 208711,
+      "zemreli": 155479,
+      "prirozena_zmena": 53232,
+      "hruba_mira_porodnosti": 19.9,
+      "hruba_mira_umrtnosti": 14.8,
+      "prirozena_zmena_na_1000": 5.1
+    },
+    {
+      "rok": 1928,
+      "populace": 10549221,
+      "zive_narozeni": 208942,
+      "zemreli": 147064,
+      "prirozena_zmena": 61878,
+      "hruba_mira_porodnosti": 19.8,
+      "hruba_mira_umrtnosti": 13.9,
+      "prirozena_zmena_na_1000": 5.9
+    },
+    {
+      "rok": 1929,
+      "populace": 10597761,
+      "zive_narozeni": 203064,
+      "zemreli": 155493,
+      "prirozena_zmena": 47571,
+      "hruba_mira_porodnosti": 19.2,
+      "hruba_mira_umrtnosti": 14.7,
+      "prirozena_zmena_na_1000": 4.5
+    },
+    {
+      "rok": 1930,
+      "populace": 10648057,
+      "zive_narozeni": 207224,
+      "zemreli": 142159,
+      "prirozena_zmena": 65065,
+      "hruba_mira_porodnosti": 19.5,
+      "hruba_mira_umrtnosti": 13.4,
+      "prirozena_zmena_na_1000": 6.1
+    },
+    {
+      "rok": 1931,
+      "populace": 10702208,
+      "zive_narozeni": 196214,
+      "zemreli": 144534,
+      "prirozena_zmena": 51680,
+      "hruba_mira_porodnosti": 18.3,
+      "hruba_mira_umrtnosti": 13.5,
+      "prirozena_zmena_na_1000": 4.8
+    },
+    {
+      "rok": 1932,
+      "populace": 10750003,
+      "zive_narozeni": 190397,
+      "zemreli": 142997,
+      "prirozena_zmena": 47400,
+      "hruba_mira_porodnosti": 17.7,
+      "hruba_mira_umrtnosti": 13.3,
+      "prirozena_zmena_na_1000": 4.4
+    },
+    {
+      "rok": 1933,
+      "populace": 10791313,
+      "zive_narozeni": 176201,
+      "zemreli": 140906,
+      "prirozena_zmena": 35295,
+      "hruba_mira_porodnosti": 16.3,
+      "hruba_mira_umrtnosti": 13.1,
+      "prirozena_zmena_na_1000": 3.3
+    },
+    {
+      "rok": 1934,
+      "populace": 10826082,
+      "zive_narozeni": 171042,
+      "zemreli": 135914,
+      "prirozena_zmena": 35128,
+      "hruba_mira_porodnosti": 15.8,
+      "hruba_mira_umrtnosti": 12.6,
+      "prirozena_zmena_na_1000": 3.2
+    },
+    {
+      "rok": 1935,
+      "populace": 10853125,
+      "zive_narozeni": 161748,
+      "zemreli": 140878,
+      "prirozena_zmena": 20870,
+      "hruba_mira_porodnosti": 14.9,
+      "hruba_mira_umrtnosti": 13,
+      "prirozena_zmena_na_1000": 1.9
+    },
+    {
+      "rok": 1936,
+      "populace": 10872519,
+      "zive_narozeni": 157992,
+      "zemreli": 139093,
+      "prirozena_zmena": 18899,
+      "hruba_mira_porodnosti": 14.5,
+      "hruba_mira_umrtnosti": 12.8,
+      "prirozena_zmena_na_1000": 1.7
+    },
+    {
+      "rok": 1937,
+      "populace": 10888540,
+      "zive_narozeni": 155996,
+      "zemreli": 139558,
+      "prirozena_zmena": 16438,
+      "hruba_mira_porodnosti": 14.3,
+      "hruba_mira_umrtnosti": 12.8,
+      "prirozena_zmena_na_1000": 1.5
+    },
+    {
+      "rok": 1938,
+      "populace": 10877442,
+      "zive_narozeni": 163525,
+      "zemreli": 143115,
+      "prirozena_zmena": 20410,
+      "hruba_mira_porodnosti": 15,
+      "hruba_mira_umrtnosti": 13.2,
+      "prirozena_zmena_na_1000": 1.9
+    },
+    {
+      "rok": 1939,
+      "populace": 11105990,
+      "zive_narozeni": 192344,
+      "zemreli": 146976,
+      "prirozena_zmena": 45368,
+      "hruba_mira_porodnosti": 17.3,
+      "hruba_mira_umrtnosti": 13.2,
+      "prirozena_zmena_na_1000": 4.1
+    },
+    {
+      "rok": 1940,
+      "populace": 11159539,
+      "zive_narozeni": 218043,
+      "zemreli": 153499,
+      "prirozena_zmena": 64544,
+      "hruba_mira_porodnosti": 19.5,
+      "hruba_mira_umrtnosti": 13.8,
+      "prirozena_zmena_na_1000": 5.8
+    },
+    {
+      "rok": 1941,
+      "populace": 11129373,
+      "zive_narozeni": 208913,
+      "zemreli": 152048,
+      "prirozena_zmena": 56865,
+      "hruba_mira_porodnosti": 18.8,
+      "hruba_mira_umrtnosti": 13.7,
+      "prirozena_zmena_na_1000": 5.1
+    },
+    {
+      "rok": 1942,
+      "populace": 11054018,
+      "zive_narozeni": 199259,
+      "zemreli": 153096,
+      "prirozena_zmena": 46163,
+      "hruba_mira_porodnosti": 18,
+      "hruba_mira_umrtnosti": 13.8,
+      "prirozena_zmena_na_1000": 4.2
+    },
+    {
+      "rok": 1943,
+      "populace": 11034846,
+      "zive_narozeni": 225379,
+      "zemreli": 153349,
+      "prirozena_zmena": 72030,
+      "hruba_mira_porodnosti": 20.4,
+      "hruba_mira_umrtnosti": 13.9,
+      "prirozena_zmena_na_1000": 6.5
+    },
+    {
+      "rok": 1944,
+      "populace": 11109341,
+      "zive_narozeni": 230183,
+      "zemreli": 161457,
+      "prirozena_zmena": 68726,
+      "hruba_mira_porodnosti": 20.7,
+      "hruba_mira_umrtnosti": 14.5,
+      "prirozena_zmena_na_1000": 6.2
+    },
+    {
+      "rok": 1945,
+      "populace": 10692912,
+      "zive_narozeni": 194182,
+      "zemreli": 184944,
+      "prirozena_zmena": 9238,
+      "hruba_mira_porodnosti": 18.2,
+      "hruba_mira_umrtnosti": 17.3,
+      "prirozena_zmena_na_1000": 0.9
+    },
+    {
+      "rok": 1946,
+      "populace": 9523266,
+      "zive_narozeni": 210454,
+      "zemreli": 134568,
+      "prirozena_zmena": 75886,
+      "hruba_mira_porodnosti": 22.1,
+      "hruba_mira_umrtnosti": 14.1,
+      "prirozena_zmena_na_1000": 8
+    },
+    {
+      "rok": 1947,
+      "populace": 8765230,
+      "zive_narozeni": 206745,
+      "zemreli": 105277,
+      "prirozena_zmena": 101468,
+      "hruba_mira_porodnosti": 23.6,
+      "hruba_mira_umrtnosti": 12,
+      "prirozena_zmena_na_1000": 11.6
+    },
+    {
+      "rok": 1948,
+      "populace": 8893104,
+      "zive_narozeni": 197837,
+      "zemreli": 101501,
+      "prirozena_zmena": 96336,
+      "hruba_mira_porodnosti": 22.2,
+      "hruba_mira_umrtnosti": 11.4,
+      "prirozena_zmena_na_1000": 10.8
+    },
+    {
+      "rok": 1949,
+      "populace": 8892613,
+      "zive_narozeni": 185484,
+      "zemreli": 104632,
+      "prirozena_zmena": 80852,
+      "hruba_mira_porodnosti": 20.9,
+      "hruba_mira_umrtnosti": 11.8,
+      "prirozena_zmena_na_1000": 9.1
+    },
+    {
+      "rok": 1950,
+      "populace": 8925122,
+      "zive_narozeni": 188341,
+      "zemreli": 103203,
+      "prirozena_zmena": 85138,
+      "hruba_mira_porodnosti": 21.1,
+      "hruba_mira_umrtnosti": 11.6,
+      "prirozena_zmena_na_1000": 9.5
+    },
+    {
+      "rok": 1951,
+      "populace": 9023170,
+      "zive_narozeni": 185570,
+      "zemreli": 102658,
+      "prirozena_zmena": 82912,
+      "hruba_mira_porodnosti": 20.6,
+      "hruba_mira_umrtnosti": 11.4,
+      "prirozena_zmena_na_1000": 9.2
+    },
+    {
+      "rok": 1952,
+      "populace": 9125183,
+      "zive_narozeni": 180143,
+      "zemreli": 97726,
+      "prirozena_zmena": 82417,
+      "hruba_mira_porodnosti": 19.9,
+      "hruba_mira_umrtnosti": 10.8,
+      "prirozena_zmena_na_1000": 9.1
+    },
+    {
+      "rok": 1953,
+      "populace": 9220908,
+      "zive_narozeni": 172547,
+      "zemreli": 98837,
+      "prirozena_zmena": 73710,
+      "hruba_mira_porodnosti": 18.9,
+      "hruba_mira_umrtnosti": 10.8,
+      "prirozena_zmena_na_1000": 8.1
+    },
+    {
+      "rok": 1954,
+      "populace": 9290617,
+      "zive_narozeni": 168402,
+      "zemreli": 99636,
+      "prirozena_zmena": 68766,
+      "hruba_mira_porodnosti": 18.3,
+      "hruba_mira_umrtnosti": 10.8,
+      "prirozena_zmena_na_1000": 7.5
+    },
+    {
+      "rok": 1955,
+      "populace": 9365969,
+      "zive_narozeni": 165874,
+      "zemreli": 93300,
+      "prirozena_zmena": 72574,
+      "hruba_mira_porodnosti": 17.9,
+      "hruba_mira_umrtnosti": 10.1,
+      "prirozena_zmena_na_1000": 7.8
+    },
+    {
+      "rok": 1956,
+      "populace": 9442040,
+      "zive_narozeni": 162509,
+      "zemreli": 93526,
+      "prirozena_zmena": 68983,
+      "hruba_mira_porodnosti": 17.4,
+      "hruba_mira_umrtnosti": 10,
+      "prirozena_zmena_na_1000": 7.4
+    },
+    {
+      "rok": 1957,
+      "populace": 9513758,
+      "zive_narozeni": 155429,
+      "zemreli": 98687,
+      "prirozena_zmena": 56742,
+      "hruba_mira_porodnosti": 16.6,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": 6
+    },
+    {
+      "rok": 1958,
+      "populace": 9574650,
+      "zive_narozeni": 141762,
+      "zemreli": 93697,
+      "prirozena_zmena": 48065,
+      "hruba_mira_porodnosti": 15,
+      "hruba_mira_umrtnosti": 9.9,
+      "prirozena_zmena_na_1000": 5.1
+    },
+    {
+      "rok": 1959,
+      "populace": 9618554,
+      "zive_narozeni": 128982,
+      "zemreli": 97159,
+      "prirozena_zmena": 31823,
+      "hruba_mira_porodnosti": 13.6,
+      "hruba_mira_umrtnosti": 10.3,
+      "prirozena_zmena_na_1000": 3.4
+    },
+    {
+      "rok": 1960,
+      "populace": 9659818,
+      "zive_narozeni": 128879,
+      "zemreli": 93863,
+      "prirozena_zmena": 35016,
+      "hruba_mira_porodnosti": 13.6,
+      "hruba_mira_umrtnosti": 9.9,
+      "prirozena_zmena_na_1000": 3.7
+    },
+    {
+      "rok": 1961,
+      "populace": 9588016,
+      "zive_narozeni": 131019,
+      "zemreli": 94973,
+      "prirozena_zmena": 36046,
+      "hruba_mira_porodnosti": 13.7,
+      "hruba_mira_umrtnosti": 9.9,
+      "prirozena_zmena_na_1000": 3.8
+    },
+    {
+      "rok": 1962,
+      "populace": 9621808,
+      "zive_narozeni": 133557,
+      "zemreli": 104318,
+      "prirozena_zmena": 29239,
+      "hruba_mira_porodnosti": 13.9,
+      "hruba_mira_umrtnosti": 10.8,
+      "prirozena_zmena_na_1000": 3
+    },
+    {
+      "rok": 1963,
+      "populace": 9668741,
+      "zive_narozeni": 148840,
+      "zemreli": 100129,
+      "prirozena_zmena": 48711,
+      "hruba_mira_porodnosti": 15.4,
+      "hruba_mira_umrtnosti": 10.4,
+      "prirozena_zmena_na_1000": 5
+    },
+    {
+      "rok": 1964,
+      "populace": 9730019,
+      "zive_narozeni": 154420,
+      "zemreli": 101984,
+      "prirozena_zmena": 52436,
+      "hruba_mira_porodnosti": 15.9,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": 5.4
+    },
+    {
+      "rok": 1965,
+      "populace": 9785102,
+      "zive_narozeni": 147438,
+      "zemreli": 105108,
+      "prirozena_zmena": 42330,
+      "hruba_mira_porodnosti": 15.1,
+      "hruba_mira_umrtnosti": 10.7,
+      "prirozena_zmena_na_1000": 4.3
+    },
+    {
+      "rok": 1966,
+      "populace": 9826188,
+      "zive_narozeni": 141162,
+      "zemreli": 105784,
+      "prirozena_zmena": 35378,
+      "hruba_mira_porodnosti": 14.4,
+      "hruba_mira_umrtnosti": 10.8,
+      "prirozena_zmena_na_1000": 3.6
+    },
+    {
+      "rok": 1967,
+      "populace": 9854241,
+      "zive_narozeni": 138448,
+      "zemreli": 108967,
+      "prirozena_zmena": 29481,
+      "hruba_mira_porodnosti": 14.1,
+      "hruba_mira_umrtnosti": 11.1,
+      "prirozena_zmena_na_1000": 3
+    },
+    {
+      "rok": 1968,
+      "populace": 9877632,
+      "zive_narozeni": 137437,
+      "zemreli": 115195,
+      "prirozena_zmena": 22242,
+      "hruba_mira_porodnosti": 13.9,
+      "hruba_mira_umrtnosti": 11.7,
+      "prirozena_zmena_na_1000": 2.3
+    },
+    {
+      "rok": 1969,
+      "populace": 9896695,
+      "zive_narozeni": 143165,
+      "zemreli": 120653,
+      "prirozena_zmena": 22512,
+      "hruba_mira_porodnosti": 14.5,
+      "hruba_mira_umrtnosti": 12.2,
+      "prirozena_zmena_na_1000": 2.3
+    },
+    {
+      "rok": 1970,
+      "populace": 9805157,
+      "zive_narozeni": 147865,
+      "zemreli": 123327,
+      "prirozena_zmena": 24538,
+      "hruba_mira_porodnosti": 15.1,
+      "hruba_mira_umrtnosti": 12.6,
+      "prirozena_zmena_na_1000": 2.5
+    },
+    {
+      "rok": 1971,
+      "populace": 9830602,
+      "zive_narozeni": 154180,
+      "zemreli": 122375,
+      "prirozena_zmena": 31805,
+      "hruba_mira_porodnosti": 15.7,
+      "hruba_mira_umrtnosti": 12.5,
+      "prirozena_zmena_na_1000": 3.2
+    },
+    {
+      "rok": 1972,
+      "populace": 9868379,
+      "zive_narozeni": 163661,
+      "zemreli": 119205,
+      "prirozena_zmena": 44456,
+      "hruba_mira_porodnosti": 16.6,
+      "hruba_mira_umrtnosti": 12.1,
+      "prirozena_zmena_na_1000": 4.5
+    },
+    {
+      "rok": 1973,
+      "populace": 9919519,
+      "zive_narozeni": 181750,
+      "zemreli": 124437,
+      "prirozena_zmena": 57313,
+      "hruba_mira_porodnosti": 18.3,
+      "hruba_mira_umrtnosti": 12.5,
+      "prirozena_zmena_na_1000": 5.8
+    },
+    {
+      "rok": 1974,
+      "populace": 9994761,
+      "zive_narozeni": 194215,
+      "zemreli": 126809,
+      "prirozena_zmena": 67406,
+      "hruba_mira_porodnosti": 19.4,
+      "hruba_mira_umrtnosti": 12.7,
+      "prirozena_zmena_na_1000": 6.7
+    },
+    {
+      "rok": 1975,
+      "populace": 10062366,
+      "zive_narozeni": 191776,
+      "zemreli": 124314,
+      "prirozena_zmena": 67462,
+      "hruba_mira_porodnosti": 19.1,
+      "hruba_mira_umrtnosti": 12.4,
+      "prirozena_zmena_na_1000": 6.7
+    },
+    {
+      "rok": 1976,
+      "populace": 10128220,
+      "zive_narozeni": 187378,
+      "zemreli": 125232,
+      "prirozena_zmena": 62146,
+      "hruba_mira_porodnosti": 18.5,
+      "hruba_mira_umrtnosti": 12.4,
+      "prirozena_zmena_na_1000": 6.1
+    },
+    {
+      "rok": 1977,
+      "populace": 10189312,
+      "zive_narozeni": 181763,
+      "zemreli": 126214,
+      "prirozena_zmena": 55549,
+      "hruba_mira_porodnosti": 17.8,
+      "hruba_mira_umrtnosti": 12.4,
+      "prirozena_zmena_na_1000": 5.5
+    },
+    {
+      "rok": 1978,
+      "populace": 10245686,
+      "zive_narozeni": 178901,
+      "zemreli": 127136,
+      "prirozena_zmena": 51765,
+      "hruba_mira_porodnosti": 17.5,
+      "hruba_mira_umrtnosti": 12.4,
+      "prirozena_zmena_na_1000": 5.1
+    },
+    {
+      "rok": 1979,
+      "populace": 10296489,
+      "zive_narozeni": 172112,
+      "zemreli": 127949,
+      "prirozena_zmena": 44163,
+      "hruba_mira_porodnosti": 16.7,
+      "hruba_mira_umrtnosti": 12.4,
+      "prirozena_zmena_na_1000": 4.3
+    },
+    {
+      "rok": 1980,
+      "populace": 10326792,
+      "zive_narozeni": 153801,
+      "zemreli": 135537,
+      "prirozena_zmena": 18264,
+      "hruba_mira_porodnosti": 15,
+      "hruba_mira_umrtnosti": 13.2,
+      "prirozena_zmena_na_1000": 1.8
+    },
+    {
+      "rok": 1981,
+      "populace": 10303208,
+      "zive_narozeni": 144438,
+      "zemreli": 130407,
+      "prirozena_zmena": 14031,
+      "hruba_mira_porodnosti": 14,
+      "hruba_mira_umrtnosti": 12.7,
+      "prirozena_zmena_na_1000": 1.4
+    },
+    {
+      "rok": 1982,
+      "populace": 10314321,
+      "zive_narozeni": 141738,
+      "zemreli": 130765,
+      "prirozena_zmena": 10973,
+      "hruba_mira_porodnosti": 13.7,
+      "hruba_mira_umrtnosti": 12.7,
+      "prirozena_zmena_na_1000": 1.1
+    },
+    {
+      "rok": 1983,
+      "populace": 10322823,
+      "zive_narozeni": 137431,
+      "zemreli": 134474,
+      "prirozena_zmena": 2957,
+      "hruba_mira_porodnosti": 13.3,
+      "hruba_mira_umrtnosti": 13,
+      "prirozena_zmena_na_1000": 0.3
+    },
+    {
+      "rok": 1984,
+      "populace": 10330481,
+      "zive_narozeni": 136941,
+      "zemreli": 132188,
+      "prirozena_zmena": 4753,
+      "hruba_mira_porodnosti": 13.3,
+      "hruba_mira_umrtnosti": 12.8,
+      "prirozena_zmena_na_1000": 0.5
+    },
+    {
+      "rok": 1985,
+      "populace": 10336742,
+      "zive_narozeni": 135881,
+      "zemreli": 131641,
+      "prirozena_zmena": 4240,
+      "hruba_mira_porodnosti": 13.1,
+      "hruba_mira_umrtnosti": 12.7,
+      "prirozena_zmena_na_1000": 0.4
+    },
+    {
+      "rok": 1986,
+      "populace": 10340737,
+      "zive_narozeni": 133356,
+      "zemreli": 132585,
+      "prirozena_zmena": 771,
+      "hruba_mira_porodnosti": 12.9,
+      "hruba_mira_umrtnosti": 12.8,
+      "prirozena_zmena_na_1000": 0.1
+    },
+    {
+      "rok": 1987,
+      "populace": 10348834,
+      "zive_narozeni": 130921,
+      "zemreli": 127244,
+      "prirozena_zmena": 3677,
+      "hruba_mira_porodnosti": 12.7,
+      "hruba_mira_umrtnosti": 12.3,
+      "prirozena_zmena_na_1000": 0.4
+    },
+    {
+      "rok": 1988,
+      "populace": 10356359,
+      "zive_narozeni": 132667,
+      "zemreli": 125694,
+      "prirozena_zmena": 6973,
+      "hruba_mira_porodnosti": 12.8,
+      "hruba_mira_umrtnosti": 12.1,
+      "prirozena_zmena_na_1000": 0.7
+    },
+    {
+      "rok": 1989,
+      "populace": 10362257,
+      "zive_narozeni": 128356,
+      "zemreli": 127747,
+      "prirozena_zmena": 609,
+      "hruba_mira_porodnosti": 12.4,
+      "hruba_mira_umrtnosti": 12.3,
+      "prirozena_zmena_na_1000": 0.1
+    },
+    {
+      "rok": 1990,
+      "populace": 10362740,
+      "zive_narozeni": 130564,
+      "zemreli": 129166,
+      "prirozena_zmena": 1398,
+      "hruba_mira_porodnosti": 12.6,
+      "hruba_mira_umrtnosti": 12.5,
+      "prirozena_zmena_na_1000": 0.1
+    },
+    {
+      "rok": 1991,
+      "populace": 10308682,
+      "zive_narozeni": 129354,
+      "zemreli": 124290,
+      "prirozena_zmena": 5064,
+      "hruba_mira_porodnosti": 12.5,
+      "hruba_mira_umrtnosti": 12.1,
+      "prirozena_zmena_na_1000": 0.5
+    },
+    {
+      "rok": 1992,
+      "populace": 10317807,
+      "zive_narozeni": 121705,
+      "zemreli": 120337,
+      "prirozena_zmena": 1368,
+      "hruba_mira_porodnosti": 11.8,
+      "hruba_mira_umrtnosti": 11.7,
+      "prirozena_zmena_na_1000": 0.1
+    },
+    {
+      "rok": 1993,
+      "populace": 10330607,
+      "zive_narozeni": 121025,
+      "zemreli": 118185,
+      "prirozena_zmena": 2840,
+      "hruba_mira_porodnosti": 11.7,
+      "hruba_mira_umrtnosti": 11.4,
+      "prirozena_zmena_na_1000": 0.3
+    },
+    {
+      "rok": 1994,
+      "populace": 10336162,
+      "zive_narozeni": 106579,
+      "zemreli": 117373,
+      "prirozena_zmena": -10794,
+      "hruba_mira_porodnosti": 10.3,
+      "hruba_mira_umrtnosti": 11.4,
+      "prirozena_zmena_na_1000": -1
+    },
+    {
+      "rok": 1995,
+      "populace": 10330759,
+      "zive_narozeni": 96097,
+      "zemreli": 117913,
+      "prirozena_zmena": -21816,
+      "hruba_mira_porodnosti": 9.3,
+      "hruba_mira_umrtnosti": 11.4,
+      "prirozena_zmena_na_1000": -2.1
+    },
+    {
+      "rok": 1996,
+      "populace": 10315353,
+      "zive_narozeni": 90446,
+      "zemreli": 112782,
+      "prirozena_zmena": -22336,
+      "hruba_mira_porodnosti": 8.8,
+      "hruba_mira_umrtnosti": 10.9,
+      "prirozena_zmena_na_1000": -2.2
+    },
+    {
+      "rok": 1997,
+      "populace": 10303642,
+      "zive_narozeni": 90657,
+      "zemreli": 112744,
+      "prirozena_zmena": -22087,
+      "hruba_mira_porodnosti": 8.8,
+      "hruba_mira_umrtnosti": 10.9,
+      "prirozena_zmena_na_1000": -2.1
+    },
+    {
+      "rok": 1998,
+      "populace": 10294943,
+      "zive_narozeni": 90535,
+      "zemreli": 109527,
+      "prirozena_zmena": -18992,
+      "hruba_mira_porodnosti": 8.8,
+      "hruba_mira_umrtnosti": 10.6,
+      "prirozena_zmena_na_1000": -1.8
+    },
+    {
+      "rok": 1999,
+      "populace": 10282784,
+      "zive_narozeni": 89471,
+      "zemreli": 109768,
+      "prirozena_zmena": -20297,
+      "hruba_mira_porodnosti": 8.7,
+      "hruba_mira_umrtnosti": 10.7,
+      "prirozena_zmena_na_1000": -2
+    },
+    {
+      "rok": 2000,
+      "populace": 10272503,
+      "zive_narozeni": 90910,
+      "zemreli": 109001,
+      "prirozena_zmena": -18091,
+      "hruba_mira_porodnosti": 8.8,
+      "hruba_mira_umrtnosti": 10.6,
+      "prirozena_zmena_na_1000": -1.8
+    },
+    {
+      "rok": 2001,
+      "populace": 10224192,
+      "zive_narozeni": 90715,
+      "zemreli": 107755,
+      "prirozena_zmena": -17040,
+      "hruba_mira_porodnosti": 8.9,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": -1.7
+    },
+    {
+      "rok": 2002,
+      "populace": 10200774,
+      "zive_narozeni": 92786,
+      "zemreli": 108243,
+      "prirozena_zmena": -15457,
+      "hruba_mira_porodnosti": 9.1,
+      "hruba_mira_umrtnosti": 10.6,
+      "prirozena_zmena_na_1000": -1.5
+    },
+    {
+      "rok": 2003,
+      "populace": 10201651,
+      "zive_narozeni": 93685,
+      "zemreli": 111288,
+      "prirozena_zmena": -17603,
+      "hruba_mira_porodnosti": 9.2,
+      "hruba_mira_umrtnosti": 10.9,
+      "prirozena_zmena_na_1000": -1.7
+    },
+    {
+      "rok": 2004,
+      "populace": 10206923,
+      "zive_narozeni": 97664,
+      "zemreli": 107177,
+      "prirozena_zmena": -9513,
+      "hruba_mira_porodnosti": 9.6,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": -0.9
+    },
+    {
+      "rok": 2005,
+      "populace": 10234092,
+      "zive_narozeni": 102211,
+      "zemreli": 107938,
+      "prirozena_zmena": -5727,
+      "hruba_mira_porodnosti": 10,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": -0.6
+    },
+    {
+      "rok": 2006,
+      "populace": 10266646,
+      "zive_narozeni": 105831,
+      "zemreli": 104441,
+      "prirozena_zmena": 1390,
+      "hruba_mira_porodnosti": 10.3,
+      "hruba_mira_umrtnosti": 10.2,
+      "prirozena_zmena_na_1000": 0.1
+    },
+    {
+      "rok": 2007,
+      "populace": 10322689,
+      "zive_narozeni": 114632,
+      "zemreli": 104636,
+      "prirozena_zmena": 9996,
+      "hruba_mira_porodnosti": 11.1,
+      "hruba_mira_umrtnosti": 10.1,
+      "prirozena_zmena_na_1000": 1
+    },
+    {
+      "rok": 2008,
+      "populace": 10429692,
+      "zive_narozeni": 119570,
+      "zemreli": 104948,
+      "prirozena_zmena": 14622,
+      "hruba_mira_porodnosti": 11.5,
+      "hruba_mira_umrtnosti": 10.1,
+      "prirozena_zmena_na_1000": 1.4
+    },
+    {
+      "rok": 2009,
+      "populace": 10491492,
+      "zive_narozeni": 118348,
+      "zemreli": 107421,
+      "prirozena_zmena": 10927,
+      "hruba_mira_porodnosti": 11.3,
+      "hruba_mira_umrtnosti": 10.2,
+      "prirozena_zmena_na_1000": 1
+    },
+    {
+      "rok": 2010,
+      "populace": 10517247,
+      "zive_narozeni": 117153,
+      "zemreli": 106844,
+      "prirozena_zmena": 10309,
+      "hruba_mira_porodnosti": 11.1,
+      "hruba_mira_umrtnosti": 10.2,
+      "prirozena_zmena_na_1000": 0.9
+    },
+    {
+      "rok": 2011,
+      "populace": 10496672,
+      "zive_narozeni": 108673,
+      "zemreli": 106848,
+      "prirozena_zmena": 1825,
+      "hruba_mira_porodnosti": 10.4,
+      "hruba_mira_umrtnosti": 10.2,
+      "prirozena_zmena_na_1000": 0.2
+    },
+    {
+      "rok": 2012,
+      "populace": 10509286,
+      "zive_narozeni": 108576,
+      "zemreli": 108189,
+      "prirozena_zmena": 387,
+      "hruba_mira_porodnosti": 10.3,
+      "hruba_mira_umrtnosti": 10.3,
+      "prirozena_zmena_na_1000": 0
+    },
+    {
+      "rok": 2013,
+      "populace": 10510719,
+      "zive_narozeni": 106751,
+      "zemreli": 109160,
+      "prirozena_zmena": -2409,
+      "hruba_mira_porodnosti": 10.2,
+      "hruba_mira_umrtnosti": 10.4,
+      "prirozena_zmena_na_1000": -0.2
+    },
+    {
+      "rok": 2014,
+      "populace": 10524783,
+      "zive_narozeni": 109860,
+      "zemreli": 105665,
+      "prirozena_zmena": 4195,
+      "hruba_mira_porodnosti": 10.4,
+      "hruba_mira_umrtnosti": 10,
+      "prirozena_zmena_na_1000": 0.4
+    },
+    {
+      "rok": 2015,
+      "populace": 10542942,
+      "zive_narozeni": 110734,
+      "zemreli": 111173,
+      "prirozena_zmena": -409,
+      "hruba_mira_porodnosti": 10.5,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": 0
+    },
+    {
+      "rok": 2016,
+      "populace": 10565284,
+      "zive_narozeni": 112663,
+      "zemreli": 107705,
+      "prirozena_zmena": 4913,
+      "hruba_mira_porodnosti": 10.7,
+      "hruba_mira_umrtnosti": 10.2,
+      "prirozena_zmena_na_1000": 0.5
+    },
+    {
+      "rok": 2017,
+      "populace": 10589526,
+      "zive_narozeni": 114405,
+      "zemreli": 111443,
+      "prirozena_zmena": 2962,
+      "hruba_mira_porodnosti": 10.8,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": 0.3
+    },
+    {
+      "rok": 2018,
+      "populace": 10626430,
+      "zive_narozeni": 114036,
+      "zemreli": 112920,
+      "prirozena_zmena": 1116,
+      "hruba_mira_porodnosti": 10.7,
+      "hruba_mira_umrtnosti": 10.6,
+      "prirozena_zmena_na_1000": 0.1
+    },
+    {
+      "rok": 2019,
+      "populace": 10669324,
+      "zive_narozeni": 112231,
+      "zemreli": 112362,
+      "prirozena_zmena": -131,
+      "hruba_mira_porodnosti": 10.5,
+      "hruba_mira_umrtnosti": 10.5,
+      "prirozena_zmena_na_1000": 0
+    },
+    {
+      "rok": 2020,
+      "populace": 10700155,
+      "zive_narozeni": 110200,
+      "zemreli": 129289,
+      "prirozena_zmena": -19089,
+      "hruba_mira_porodnosti": 10.3,
+      "hruba_mira_umrtnosti": 12.1,
+      "prirozena_zmena_na_1000": -1.8
+    },
+    {
+      "rok": 2021,
+      "populace": 10500850,
+      "zive_narozeni": 111793,
+      "zemreli": 139891,
+      "prirozena_zmena": -28098,
+      "hruba_mira_porodnosti": 10.6,
+      "hruba_mira_umrtnosti": 13.3,
+      "prirozena_zmena_na_1000": -2.7
+    },
+    {
+      "rok": 2022,
+      "populace": 10759525,
+      "zive_narozeni": 101299,
+      "zemreli": 120219,
+      "prirozena_zmena": -18920,
+      "hruba_mira_porodnosti": 9.5,
+      "hruba_mira_umrtnosti": 11.4,
+      "prirozena_zmena_na_1000": -1.9
+    },
+    {
+      "rok": 2023,
+      "populace": 10878042,
+      "zive_narozeni": 91149,
+      "zemreli": 112795,
+      "prirozena_zmena": -21646,
+      "hruba_mira_porodnosti": 8.4,
+      "hruba_mira_umrtnosti": 10.4,
+      "prirozena_zmena_na_1000": -2
+    },
+    {
+      "rok": 2024,
+      "populace": 10886531,
+      "zive_narozeni": 84311,
+      "zemreli": 112211,
+      "prirozena_zmena": -27900,
+      "hruba_mira_porodnosti": 7.7,
+      "hruba_mira_umrtnosti": 10.3,
+      "prirozena_zmena_na_1000": -2.6
+    },
+    {
+      "rok": 2025,
+      "populace": 10891162,
+      "zive_narozeni": 77636,
+      "zemreli": 113337,
+      "prirozena_zmena": -35701,
+      "hruba_mira_porodnosti": 7.1,
+      "hruba_mira_umrtnosti": 10.4,
+      "prirozena_zmena_na_1000": -3.3
+    },
+    {
+      "rok": 2026,
+      "populace": 10903655,
+      "zive_narozeni": "",
+      "zemreli": "",
+      "prirozena_zmena": "",
+      "hruba_mira_porodnosti": "",
+      "hruba_mira_umrtnosti": "",
+      "prirozena_zmena_na_1000": ""
+    },
+    {
+      "rok": "Rok",
+      "populace": "Populace (střední stav)",
+      "zive_narozeni": "Živě narození",
+      "zemreli": "Zemřelí",
+      "prirozena_zmena": "Přirozená změna",
+      "hruba_mira_porodnosti": "Hrubá míra porodnosti (na 1000 obyv,)",
+      "hruba_mira_umrtnosti": "Hrubá míra úmrtnosti (na 1000 obyv,)",
+      "prirozena_zmena_na_1000": "Přirozený přírůstek (na 1000 obyv,)"
+    },
+    {
+      "rok": "Celkem 1950–2025",
+      "populace": "—",
+      "zive_narozeni": 9967310,
+      "zemreli": 8649667,
+      "prirozena_zmena": 1317643,
+      "hruba_mira_porodnosti": 994.1,
+      "hruba_mira_umrtnosti": 854.4,
+      "prirozena_zmena_na_1000": 139.7
+    },
+    {
+      "rok": "Průměr 1950–2025",
+      "populace": 10138078,
+      "zive_narozeni": 131149,
+      "zemreli": 113811,
+      "prirozena_zmena": 17338,
+      "hruba_mira_porodnosti": 13.1,
+      "hruba_mira_umrtnosti": 11.2,
+      "prirozena_zmena_na_1000": 1.9
+    }
+  ],
+  "meta": {
+    "title": "Vývoj obyvatelstva českých zemí od roku 1785 - Free Download",
+    "description": "Počet obyvatel, živě narození, zemřelí a přirozená změna v českých zemích od roku 1785 včetně hrubých měr porodnosti a úmrtnosti Contains 245 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vývoj obyvatelstva českých zemí od roku 1785 | ListBase",
+    "seo_description": "Download Vývoj obyvatelstva českých zemí od roku 1785 — 245 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 245 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka"
+    ]
+  }
+}

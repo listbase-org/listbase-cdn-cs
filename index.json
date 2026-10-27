@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:55:05.475Z",
-  "total_datasets": 499,
-  "total_records": 415314,
+  "generated": "2026-10-27T02:55:08.022Z",
+  "total_datasets": 500,
+  "total_records": 415559,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -13097,6 +13097,35 @@
         "xlsx": {
           "name": "cs-policejni-stanice_CS.xlsx",
           "size": 30518
+        }
+      }
+    },
+    {
+      "id": "cs-vyvoj-obyvatelstva",
+      "name": "Vývoj obyvatelstva českých zemí od roku 1785",
+      "category": "society",
+      "record_count": 245,
+      "columns": [
+        "rok",
+        "populace",
+        "zive_narozeni",
+        "zemreli",
+        "prirozena_zmena",
+        "hruba_mira_porodnosti",
+        "hruba_mira_umrtnosti",
+        "prirozena_zmena_na_1000"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+      "updated": "2026-10",
+      "size": 65283,
+      "files": {
+        "csv": {
+          "name": "cs-vyvoj-obyvatelstva_CS.csv",
+          "size": 15733
+        },
+        "xlsx": {
+          "name": "cs-vyvoj-obyvatelstva_CS.xlsx",
+          "size": 18978
         }
       }
     },
