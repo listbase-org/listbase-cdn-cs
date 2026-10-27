@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:55:03.012Z",
-  "total_datasets": 498,
-  "total_records": 415262,
+  "generated": "2026-10-27T02:55:05.475Z",
+  "total_datasets": 499,
+  "total_records": 415314,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -1425,6 +1425,32 @@
         "xlsx": {
           "name": "cs-univerzity_CS.xlsx",
           "size": 8762
+        }
+      }
+    },
+    {
+      "id": "cs-vysoke-skoly-pocty-studentu",
+      "name": "Vysoké školy v Česku s počty studentů",
+      "category": "education",
+      "record_count": 52,
+      "columns": [
+        "nazev",
+        "zkratka",
+        "sidlo",
+        "rok_zalozeni",
+        "pocet_studentu_2025"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_vysokých_škol_v_Česku",
+      "updated": "2026-10",
+      "size": 11299,
+      "files": {
+        "csv": {
+          "name": "cs-vysoke-skoly-pocty-studentu_CS.csv",
+          "size": 3833
+        },
+        "xlsx": {
+          "name": "cs-vysoke-skoly-pocty-studentu_CS.xlsx",
+          "size": 9392
         }
       }
     },

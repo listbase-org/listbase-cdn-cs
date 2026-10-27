@@ -1,0 +1,415 @@
+{
+  "id": "cs-vysoke-skoly-pocty-studentu",
+  "name": "Vysoké školy v Česku s počty studentů",
+  "title": "Vysoké školy v Česku s počty studentů",
+  "description": "Veřejné, státní a soukromé vysoké školy v Česku se zkratkou, sídlem, rokem založení a počtem studentů v roce 2025",
+  "category": "education",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_vysokých_škol_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_vysokých_škol_v_Česku",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "zkratka",
+      "label": "Zkratka",
+      "type": "string"
+    },
+    {
+      "key": "sidlo",
+      "label": "Sidlo",
+      "type": "string"
+    },
+    {
+      "key": "rok_zalozeni",
+      "label": "Rok Zalozeni",
+      "type": "number"
+    },
+    {
+      "key": "pocet_studentu_2025",
+      "label": "Pocet Studentu 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "Akademie múzických umění v Praze",
+      "zkratka": "AMU",
+      "sidlo": "Praha 1",
+      "rok_zalozeni": 1945,
+      "pocet_studentu_2025": 1521
+    },
+    {
+      "nazev": "Akademie výtvarných umění v Praze",
+      "zkratka": "AVU",
+      "sidlo": "Praha 7",
+      "rok_zalozeni": 1799,
+      "pocet_studentu_2025": 362
+    },
+    {
+      "nazev": "Česká zemědělská univerzita v Praze",
+      "zkratka": "ČZU",
+      "sidlo": "Praha 6",
+      "rok_zalozeni": 1952,
+      "pocet_studentu_2025": 19284
+    },
+    {
+      "nazev": "České vysoké učení technické v Praze",
+      "zkratka": "ČVUT",
+      "sidlo": "Praha 6",
+      "rok_zalozeni": 1707,
+      "pocet_studentu_2025": 19309
+    },
+    {
+      "nazev": "Janáčkova akademie múzických umění",
+      "zkratka": "JAMU",
+      "sidlo": "Brno",
+      "rok_zalozeni": 1947,
+      "pocet_studentu_2025": 700
+    },
+    {
+      "nazev": "Jihočeská univerzita v Českých Budějovicích",
+      "zkratka": "JU",
+      "sidlo": "České Budějovice",
+      "rok_zalozeni": 1991,
+      "pocet_studentu_2025": 9728
+    },
+    {
+      "nazev": "Masarykova univerzita",
+      "zkratka": "MU",
+      "sidlo": "Brno",
+      "rok_zalozeni": 1919,
+      "pocet_studentu_2025": 34625
+    },
+    {
+      "nazev": "Mendelova univerzita v Brně",
+      "zkratka": "MENDELU",
+      "sidlo": "Brno",
+      "rok_zalozeni": 1919,
+      "pocet_studentu_2025": 9897
+    },
+    {
+      "nazev": "Ostravská univerzita",
+      "zkratka": "OU",
+      "sidlo": "Ostrava",
+      "rok_zalozeni": 1991,
+      "pocet_studentu_2025": 10428
+    },
+    {
+      "nazev": "Slezská univerzita v Opavě",
+      "zkratka": "SU",
+      "sidlo": "Opava",
+      "rok_zalozeni": 1991,
+      "pocet_studentu_2025": 5703
+    },
+    {
+      "nazev": "Technická univerzita v Liberci",
+      "zkratka": "TUL",
+      "sidlo": "Liberec",
+      "rok_zalozeni": 1953,
+      "pocet_studentu_2025": 6596
+    },
+    {
+      "nazev": "Univerzita Hradec Králové",
+      "zkratka": "UHK",
+      "sidlo": "Hradec Králové",
+      "rok_zalozeni": 1992,
+      "pocet_studentu_2025": 6545
+    },
+    {
+      "nazev": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "zkratka": "UJEP",
+      "sidlo": "Ústí nad Labem",
+      "rok_zalozeni": 1991,
+      "pocet_studentu_2025": 9443
+    },
+    {
+      "nazev": "Univerzita Karlova",
+      "zkratka": "UK",
+      "sidlo": "Praha 1",
+      "rok_zalozeni": 1348,
+      "pocet_studentu_2025": 53994
+    },
+    {
+      "nazev": "Univerzita Palackého v Olomouci",
+      "zkratka": "UP",
+      "sidlo": "Olomouc",
+      "rok_zalozeni": 1573,
+      "pocet_studentu_2025": 23132
+    },
+    {
+      "nazev": "Univerzita Pardubice",
+      "zkratka": "UPCE",
+      "sidlo": "Pardubice",
+      "rok_zalozeni": 1950,
+      "pocet_studentu_2025": 7592
+    },
+    {
+      "nazev": "Univerzita Tomáše Bati ve Zlíně",
+      "zkratka": "UTB",
+      "sidlo": "Zlín",
+      "rok_zalozeni": 2001,
+      "pocet_studentu_2025": 9310
+    },
+    {
+      "nazev": "Veterinární univerzita Brno",
+      "zkratka": "VETUNI",
+      "sidlo": "Brno",
+      "rok_zalozeni": 1918,
+      "pocet_studentu_2025": 2575
+    },
+    {
+      "nazev": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "zkratka": "VŠB–TUO",
+      "sidlo": "Ostrava",
+      "rok_zalozeni": 1945,
+      "pocet_studentu_2025": 13687
+    },
+    {
+      "nazev": "Vysoká škola ekonomická v Praze",
+      "zkratka": "VŠE",
+      "sidlo": "Praha 3",
+      "rok_zalozeni": 1953,
+      "pocet_studentu_2025": 15040
+    },
+    {
+      "nazev": "Vysoká škola chemicko-technologická v Praze",
+      "zkratka": "VŠCHT",
+      "sidlo": "Praha 6",
+      "rok_zalozeni": 1952,
+      "pocet_studentu_2025": 4411
+    },
+    {
+      "nazev": "Vysoká škola uměleckoprůmyslová v Praze",
+      "zkratka": "VŠUP",
+      "sidlo": "Praha 1",
+      "rok_zalozeni": 1885,
+      "pocet_studentu_2025": 581
+    },
+    {
+      "nazev": "Vysoké učení technické v Brně",
+      "zkratka": "VUT",
+      "sidlo": "Brno",
+      "rok_zalozeni": 1899,
+      "pocet_studentu_2025": 18426
+    },
+    {
+      "nazev": "Západočeská univerzita v Plzni",
+      "zkratka": "ZČU",
+      "sidlo": "Plzeň",
+      "rok_zalozeni": 1991,
+      "pocet_studentu_2025": 12439
+    },
+    {
+      "nazev": "Vysoká škola polytechnická Jihlava",
+      "zkratka": "VŠPJ",
+      "sidlo": "Jihlava",
+      "rok_zalozeni": 2004,
+      "pocet_studentu_2025": 2276
+    },
+    {
+      "nazev": "Vysoká škola technická a ekonomická v Českých Budějovicích",
+      "zkratka": "VŠTE",
+      "sidlo": "České Budějovice",
+      "rok_zalozeni": 2006,
+      "pocet_studentu_2025": 3150
+    },
+    {
+      "nazev": "Ambis Univerzita , a.s.",
+      "zkratka": "Ambis",
+      "sidlo": "Praha 8",
+      "rok_zalozeni": 1994,
+      "pocet_studentu_2025": 7335
+    },
+    {
+      "nazev": "CEVRO Univerzita , z.ú.",
+      "zkratka": "CEVRO",
+      "sidlo": "Praha 1",
+      "rok_zalozeni": 2006,
+      "pocet_studentu_2025": 999
+    },
+    {
+      "nazev": "Evropská výzkumná univerzita , z. ú.",
+      "zkratka": "ERUNI",
+      "sidlo": "Havířov",
+      "rok_zalozeni": 2008,
+      "pocet_studentu_2025": 53
+    },
+    {
+      "nazev": "Metropolitní univerzita Praha , o.p.s.",
+      "zkratka": "MUP",
+      "sidlo": "Praha 3",
+      "rok_zalozeni": 2001,
+      "pocet_studentu_2025": 3727
+    },
+    {
+      "nazev": "Panevropská univerzita , a. s.",
+      "zkratka": "PEUNI",
+      "sidlo": "Praha 1",
+      "rok_zalozeni": 2015,
+      "pocet_studentu_2025": 2704
+    },
+    {
+      "nazev": "Vysoká škola finanční a správní , a.s.",
+      "zkratka": "VŠFS",
+      "sidlo": "Praha 10",
+      "rok_zalozeni": 1999,
+      "pocet_studentu_2025": 3006
+    },
+    {
+      "nazev": "Anglo-americká vysoká škola , a.s.",
+      "zkratka": "AAVŠ",
+      "sidlo": "Praha 1",
+      "rok_zalozeni": 2023,
+      "pocet_studentu_2025": 553
+    },
+    {
+      "nazev": "Archip , s.r.o.",
+      "zkratka": "ARCHIP",
+      "sidlo": "Praha",
+      "rok_zalozeni": 2009,
+      "pocet_studentu_2025": 80
+    },
+    {
+      "nazev": "ART & DESIGN INSTITUT , s.r.o.",
+      "zkratka": "ADI",
+      "sidlo": "Praha 4",
+      "rok_zalozeni": 2005,
+      "pocet_studentu_2025": 176
+    },
+    {
+      "nazev": "Filmová akademie Miroslava Ondříčka v Písku , o.p.s.",
+      "zkratka": "FAMO",
+      "sidlo": "Písek",
+      "rok_zalozeni": 2004,
+      "pocet_studentu_2025": 151
+    },
+    {
+      "nazev": "Moravská vysoká škola Olomouc , o.p.s.",
+      "zkratka": "MVŠO",
+      "sidlo": "Olomouc - Hodolany",
+      "rok_zalozeni": 2005,
+      "pocet_studentu_2025": 547
+    },
+    {
+      "nazev": "Pražská vysoká škola psychosociálních studií , s.r.o.",
+      "zkratka": "PVŠPS",
+      "sidlo": "Praha 4",
+      "rok_zalozeni": 2001,
+      "pocet_studentu_2025": 438
+    },
+    {
+      "nazev": "Škoda Auto Vysoká škola z.ú.",
+      "zkratka": "ŠAVŠ",
+      "sidlo": "Mladá Boleslav",
+      "rok_zalozeni": 2000,
+      "pocet_studentu_2025": 1255
+    },
+    {
+      "nazev": "Unicorn Vysoká škola s.r.o.",
+      "zkratka": "UC",
+      "sidlo": "Praha 3",
+      "rok_zalozeni": 2004,
+      "pocet_studentu_2025": 1244
+    },
+    {
+      "nazev": "United vysoká škola s. r. o.",
+      "zkratka": "UCP",
+      "sidlo": "Praha 5",
+      "rok_zalozeni": 1999,
+      "pocet_studentu_2025": 3
+    },
+    {
+      "nazev": "University of New York in Prague , s.r.o.",
+      "zkratka": "UNYP",
+      "sidlo": "Praha 2",
+      "rok_zalozeni": 1998,
+      "pocet_studentu_2025": 784
+    },
+    {
+      "nazev": "Vysoká škola aplikované psychologie , s.r.o.",
+      "zkratka": "VŠAPS",
+      "sidlo": "Praha 5",
+      "rok_zalozeni": 2007,
+      "pocet_studentu_2025": 203
+    },
+    {
+      "nazev": "Vysoká škola ekonomie a managementu , a. s.",
+      "zkratka": "VŠEM",
+      "sidlo": "Praha 5",
+      "rok_zalozeni": 2005,
+      "pocet_studentu_2025": 3266
+    },
+    {
+      "nazev": "Vysoká škola evropských a regionálních studií , z. ú.",
+      "zkratka": "VŠERS",
+      "sidlo": "České Budějovice",
+      "rok_zalozeni": 2001,
+      "pocet_studentu_2025": 482
+    },
+    {
+      "nazev": "Vysoká škola kreativní komunikace , s.r.o.",
+      "zkratka": "VŠKK",
+      "sidlo": "Praha",
+      "rok_zalozeni": 2016,
+      "pocet_studentu_2025": 491
+    },
+    {
+      "nazev": "Vysoká škola logistiky o.p.s.",
+      "zkratka": "VŠLG",
+      "sidlo": "Přerov",
+      "rok_zalozeni": 2001,
+      "pocet_studentu_2025": 738
+    },
+    {
+      "nazev": "Vysoká škola NEWTON , a.s.",
+      "zkratka": "NU",
+      "sidlo": "Praha 4",
+      "rok_zalozeni": 2003,
+      "pocet_studentu_2025": 2785
+    },
+    {
+      "nazev": "Vysoká škola obchodní v Praze , o.p.s.",
+      "zkratka": "VŠO",
+      "sidlo": "Praha 1",
+      "rok_zalozeni": 2001,
+      "pocet_studentu_2025": "?"
+    },
+    {
+      "nazev": "Vysoká škola Sting , o.p.s.",
+      "zkratka": "STING",
+      "sidlo": "Brno",
+      "rok_zalozeni": 2001,
+      "pocet_studentu_2025": 116
+    },
+    {
+      "nazev": "Vysoká škola tělesné výchovy a sportu Palestra , spol. s r.o.",
+      "zkratka": "VSTVS PALESTRA",
+      "sidlo": "Praha 9",
+      "rok_zalozeni": 2004,
+      "pocet_studentu_2025": 788
+    },
+    {
+      "nazev": "Vysoká škola zdravotnická , o.p.s.",
+      "zkratka": "VŠZ",
+      "sidlo": "Praha 5",
+      "rok_zalozeni": 2005,
+      "pocet_studentu_2025": 1313
+    }
+  ],
+  "meta": {
+    "title": "Vysoké školy v Česku s počty studentů - Free Download",
+    "description": "Veřejné, státní a soukromé vysoké školy v Česku se zkratkou, sídlem, rokem založení a počtem studentů v roce 2025 Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vysoké školy v Česku s počty studentů | ListBase",
+    "seo_description": "Download Vysoké školy v Česku s počty studentů — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_vysokých_škol_v_Česku"
+    ]
+  }
+}
