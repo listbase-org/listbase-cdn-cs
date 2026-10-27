@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:47.545Z",
-  "total_datasets": 492,
-  "total_records": 414956,
+  "generated": "2026-10-27T02:54:50.104Z",
+  "total_datasets": 493,
+  "total_records": 414993,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -7827,6 +7827,35 @@
         "xlsx": {
           "name": "cs-predsedove-poslanecke-snemovny_CS.xlsx",
           "size": 7501
+        }
+      }
+    },
+    {
+      "id": "cs-premieri",
+      "name": "Seznam premiérů Česka",
+      "category": "politics",
+      "record_count": 37,
+      "columns": [
+        "obdobi",
+        "poradi",
+        "premier",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana",
+        "vlada"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_premiérů_Česka",
+      "updated": "2026-10",
+      "size": 11673,
+      "files": {
+        "csv": {
+          "name": "cs-premieri_CS.csv",
+          "size": 4273
+        },
+        "xlsx": {
+          "name": "cs-premieri_CS.xlsx",
+          "size": 8858
         }
       }
     },

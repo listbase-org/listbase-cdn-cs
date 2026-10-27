@@ -1,0 +1,436 @@
+{
+  "id": "cs-premieri",
+  "name": "Seznam premiérů Česka",
+  "title": "Seznam premiérů Česka",
+  "description": "Předsedové vlád českých zemí od roku 1939 (protektorát, ČSR v rámci federace, Česká republika) s funkčním obdobím, stranou a vládou",
+  "category": "politics",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_premiérů_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_premiérů_Česka",
+  "updated": "2026-10",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    },
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "premier",
+      "label": "Premier",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "obdobi": "Protektorát Čechy a Morava",
+      "poradi": "1.",
+      "premier": "Rudolf Beran",
+      "nastup": "15. března 1939",
+      "odchod": "27. dubna 1939",
+      "dny_v_uradu": 43,
+      "strana": "SNJ",
+      "vlada": "Beran I."
+    },
+    {
+      "obdobi": "Protektorát Čechy a Morava",
+      "poradi": "1.",
+      "premier": "Rudolf Beran",
+      "nastup": "15. března 1939",
+      "odchod": "27. dubna 1939",
+      "dny_v_uradu": 43,
+      "strana": "NS",
+      "vlada": "Beran II."
+    },
+    {
+      "obdobi": "Protektorát Čechy a Morava",
+      "poradi": "2.",
+      "premier": "Alois Eliáš",
+      "nastup": "27. dubna 1939",
+      "odchod": "27. září 1941",
+      "dny_v_uradu": 884,
+      "strana": "NS",
+      "vlada": "Eliáš"
+    },
+    {
+      "obdobi": "Protektorát Čechy a Morava",
+      "poradi": "3.",
+      "premier": "Jaroslav Krejčí",
+      "nastup": "19. ledna 1942",
+      "odchod": "19. ledna 1945",
+      "dny_v_uradu": 1096,
+      "strana": "NS",
+      "vlada": "Krejčí"
+    },
+    {
+      "obdobi": "Protektorát Čechy a Morava",
+      "poradi": "4.",
+      "premier": "Richard Bienert",
+      "nastup": "19. ledna 1945",
+      "odchod": "5. května 1945",
+      "dny_v_uradu": 106,
+      "strana": "NS",
+      "vlada": "Bienert"
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "1.",
+      "premier": "Stanislav Rázl",
+      "nastup": "8. ledna 1969",
+      "odchod": "29. září 1969",
+      "dny_v_uradu": 264,
+      "strana": "KSČ",
+      "vlada": "Rázl"
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "2.",
+      "premier": "Josef Kempný",
+      "nastup": "29. září 1969",
+      "odchod": "28. ledna 1970",
+      "dny_v_uradu": 121,
+      "strana": "KSČ",
+      "vlada": "Kempný"
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "3.",
+      "premier": "Josef Korčák",
+      "nastup": "28. ledna 1970",
+      "odchod": "20. března 1987",
+      "dny_v_uradu": 6260,
+      "strana": "KSČ",
+      "vlada": "Korčák I."
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "3.",
+      "premier": "Josef Korčák",
+      "nastup": "28. ledna 1970",
+      "odchod": "20. března 1987",
+      "dny_v_uradu": 6260,
+      "strana": "KSČ",
+      "vlada": "Korčák II."
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "3.",
+      "premier": "Josef Korčák",
+      "nastup": "28. ledna 1970",
+      "odchod": "20. března 1987",
+      "dny_v_uradu": 6260,
+      "strana": "KSČ",
+      "vlada": "Korčák III."
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "3.",
+      "premier": "Josef Korčák",
+      "nastup": "28. ledna 1970",
+      "odchod": "20. března 1987",
+      "dny_v_uradu": 6260,
+      "strana": "KSČ",
+      "vlada": "Korčák IV."
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "3.",
+      "premier": "Josef Korčák",
+      "nastup": "28. ledna 1970",
+      "odchod": "20. března 1987",
+      "dny_v_uradu": 6260,
+      "strana": "KSČ",
+      "vlada": "Korčák V."
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "4.",
+      "premier": "Ladislav Adamec",
+      "nastup": "20. března 1987",
+      "odchod": "12. října 1988",
+      "dny_v_uradu": 572,
+      "strana": "KSČ",
+      "vlada": "Adamec"
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "5.",
+      "premier": "František Pitra",
+      "nastup": "12. října 1988",
+      "odchod": "6. února 1990",
+      "dny_v_uradu": 482,
+      "strana": "KSČ",
+      "vlada": "Pitra"
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "6.",
+      "premier": "Petr Pithart",
+      "nastup": "6. února 1990",
+      "odchod": "2. července 1992",
+      "dny_v_uradu": 877,
+      "strana": "OF",
+      "vlada": "Pithart I."
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "6.",
+      "premier": "Petr Pithart",
+      "nastup": "6. února 1990",
+      "odchod": "2. července 1992",
+      "dny_v_uradu": 877,
+      "strana": "OH",
+      "vlada": "Pithart II."
+    },
+    {
+      "obdobi": "Česká socialistická republika (federace)",
+      "poradi": "7.",
+      "premier": "Václav Klaus",
+      "nastup": "2. července 1992",
+      "odchod": "31. prosince 1992",
+      "dny_v_uradu": 182,
+      "strana": "ODS",
+      "vlada": "Klaus I."
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "1.",
+      "premier": "Václav Klaus",
+      "nastup": "1. ledna 1993",
+      "odchod": "2. ledna 1998",
+      "dny_v_uradu": 1827,
+      "strana": "ODS",
+      "vlada": "Klaus I."
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "1.",
+      "premier": "Václav Klaus",
+      "nastup": "1. ledna 1993",
+      "odchod": "2. ledna 1998",
+      "dny_v_uradu": 1827,
+      "strana": "ODS",
+      "vlada": "Klaus II."
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "2.",
+      "premier": "Josef Tošovský",
+      "nastup": "17. prosince 1997",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 217,
+      "strana": "nestraník",
+      "vlada": "Tošovský"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "3.",
+      "premier": "Miloš Zeman",
+      "nastup": "17. července 1998",
+      "odchod": "15. července 2002",
+      "dny_v_uradu": 1459,
+      "strana": "ČSSD",
+      "vlada": "Zeman"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "4.",
+      "premier": "Vladimír Špidla",
+      "nastup": "12. července 2002",
+      "odchod": "4. srpna 2004",
+      "dny_v_uradu": 754,
+      "strana": "ČSSD",
+      "vlada": "Špidla"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "4.",
+      "premier": "Vladimír Špidla",
+      "nastup": "12. července 2002",
+      "odchod": "4. srpna 2004",
+      "dny_v_uradu": 754,
+      "strana": "ČSSD",
+      "vlada": "Špidla"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "5.",
+      "premier": "Stanislav Gross",
+      "nastup": "26. července 2004",
+      "odchod": "25. dubna 2005",
+      "dny_v_uradu": 273,
+      "strana": "ČSSD",
+      "vlada": "Gross"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "6.",
+      "premier": "Jiří Paroubek",
+      "nastup": "25. dubna 2005",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 497,
+      "strana": "ČSSD",
+      "vlada": "Paroubek"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "7.",
+      "premier": "Mirek Topolánek",
+      "nastup": "16. srpna 2006",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 996,
+      "strana": "ODS",
+      "vlada": "Topolánek I."
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "7.",
+      "premier": "Mirek Topolánek",
+      "nastup": "16. srpna 2006",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 996,
+      "strana": "ODS",
+      "vlada": "Topolánek II."
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "8.",
+      "premier": "Jan Fischer",
+      "nastup": "9. dubna 2009",
+      "odchod": "13. července 2010",
+      "dny_v_uradu": 460,
+      "strana": "nestraník",
+      "vlada": "Fischer"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "9.",
+      "premier": "Petr Nečas",
+      "nastup": "28. června 2010",
+      "odchod": "10. července 2013",
+      "dny_v_uradu": 1108,
+      "strana": "ODS",
+      "vlada": "Nečas"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "9.",
+      "premier": "Petr Nečas",
+      "nastup": "28. června 2010",
+      "odchod": "10. července 2013",
+      "dny_v_uradu": 1108,
+      "strana": "ODS",
+      "vlada": "Nečas"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "10.",
+      "premier": "Jiří Rusnok",
+      "nastup": "25. června 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 218,
+      "strana": "nestraník",
+      "vlada": "Rusnok"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "11.",
+      "premier": "Bohuslav Sobotka",
+      "nastup": "17. ledna 2014",
+      "odchod": "13. prosince 2017",
+      "dny_v_uradu": 1426,
+      "strana": "ČSSD",
+      "vlada": "Sobotka"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "12.",
+      "premier": "Andrej Babiš",
+      "nastup": "6. prosince 2017",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1472,
+      "strana": "ANO",
+      "vlada": "Babiš I."
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "12.",
+      "premier": "Andrej Babiš",
+      "nastup": "6. prosince 2017",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1472,
+      "strana": "ANO",
+      "vlada": "Babiš II."
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "13.",
+      "premier": "Petr Fiala",
+      "nastup": "28. listopadu 2021",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 1478,
+      "strana": "ODS",
+      "vlada": "Fiala"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "13.",
+      "premier": "Petr Fiala",
+      "nastup": "28. listopadu 2021",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 1478,
+      "strana": "ODS",
+      "vlada": "Fiala"
+    },
+    {
+      "obdobi": "Česká republika",
+      "poradi": "14.",
+      "premier": "Andrej Babiš",
+      "nastup": "9. prosince 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": 322,
+      "strana": "ANO",
+      "vlada": "Babiš III."
+    }
+  ],
+  "meta": {
+    "title": "Seznam premiérů Česka - Free Download",
+    "description": "Předsedové vlád českých zemí od roku 1939 (protektorát, ČSR v rámci federace, Česká republika) s funkčním obdobím, stranou a vládou Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Seznam premiérů Česka | ListBase",
+    "seo_description": "Download Seznam premiérů Česka — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_premiérů_Česka"
+    ]
+  }
+}
