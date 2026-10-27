@@ -1,0 +1,136 @@
+{
+  "id": "cs-nejnavstevovanejsi-ceske-filmy-vsech-dob",
+  "name": "Nejnavštěvovanější české filmy všech dob",
+  "title": "Nejnavštěvovanější české filmy všech dob",
+  "description": "Nejnavštěvovanější české (československé) filmy všech dob podle počtu diváků v kinech",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_nejnavštěvovanějších_českých_filmů",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_nejnavštěvovanějších_českých_filmů",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "divaku",
+      "label": "Divaku",
+      "type": "number"
+    },
+    {
+      "key": "rok_uvedeni",
+      "label": "Rok Uvedeni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "nazev": "Pyšná princezna",
+      "divaku": 8233010,
+      "rok_uvedeni": 1952
+    },
+    {
+      "poradi": 2,
+      "nazev": "Byl jednou jeden král…",
+      "divaku": 5915296,
+      "rok_uvedeni": 1955
+    },
+    {
+      "poradi": 3,
+      "nazev": "Prstýnek",
+      "divaku": 5295034,
+      "rok_uvedeni": 1945
+    },
+    {
+      "poradi": 4,
+      "nazev": "Princezna se zlatou hvězdou",
+      "divaku": 5034409,
+      "rok_uvedeni": 1959
+    },
+    {
+      "poradi": 5,
+      "nazev": "Divá Bára",
+      "divaku": 4943520,
+      "rok_uvedeni": 1949
+    },
+    {
+      "poradi": 6,
+      "nazev": "Rodinné trampoty oficiála Tříšky",
+      "divaku": 4916955,
+      "rok_uvedeni": 1949
+    },
+    {
+      "poradi": 7,
+      "nazev": "Řeka čaruje",
+      "divaku": 4807899,
+      "rok_uvedeni": 1945
+    },
+    {
+      "poradi": 8,
+      "nazev": "Poslední mohykán",
+      "divaku": 4726068,
+      "rok_uvedeni": 1947
+    },
+    {
+      "poradi": 9,
+      "nazev": "Strakonický dudák",
+      "divaku": 4567893,
+      "rok_uvedeni": 1955
+    },
+    {
+      "poradi": 10,
+      "nazev": "Limonádový Joe aneb Koňská opera",
+      "divaku": 4561519,
+      "rok_uvedeni": 1964
+    },
+    {
+      "poradi": 11,
+      "nazev": "Právě začínáme",
+      "divaku": 4484810,
+      "rok_uvedeni": 1946
+    },
+    {
+      "poradi": 12,
+      "nazev": "Pytlákova schovanka",
+      "divaku": 4433189,
+      "rok_uvedeni": 1949
+    },
+    {
+      "poradi": 13,
+      "nazev": "Vesničko má středisková",
+      "divaku": 4430928,
+      "rok_uvedeni": 1985
+    },
+    {
+      "poradi": 14,
+      "nazev": "Předtucha",
+      "divaku": 4361254,
+      "rok_uvedeni": 1947
+    },
+    {
+      "poradi": 15,
+      "nazev": "Dovolená s Andělem",
+      "divaku": 4259897,
+      "rok_uvedeni": 1953
+    }
+  ],
+  "meta": {
+    "title": "Nejnavštěvovanější české filmy všech dob - Free Download",
+    "description": "Nejnavštěvovanější české (československé) filmy všech dob podle počtu diváků v kinech Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nejnavštěvovanější české filmy všech dob | ListBase",
+    "seo_description": "Download Nejnavštěvovanější české filmy všech dob — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_nejnavštěvovanějších_českých_filmů"
+    ]
+  }
+}
