@@ -1,12 +1,12 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:50.104Z",
-  "total_datasets": 493,
-  "total_records": 414993,
+  "generated": "2026-10-27T02:54:52.738Z",
+  "total_datasets": 494,
+  "total_records": 415127,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -192,6 +192,53 @@
         "xlsx": {
           "name": "cs-osevni-plochy-plodin_CS.xlsx",
           "size": 23980
+        }
+      }
+    },
+    {
+      "id": "cs-sklizen-zemedelskych-plodin",
+      "name": "Sklizeň a hektarové výnosy zemědělských plodin",
+      "category": "agriculture",
+      "record_count": 134,
+      "columns": [
+        "plodina",
+        "ukazatel",
+        "rok_2009",
+        "rok_2010",
+        "rok_2011",
+        "rok_2012",
+        "rok_2013",
+        "rok_2014",
+        "rok_2015",
+        "rok_2016",
+        "rok_2017",
+        "rok_2018",
+        "rok_2019",
+        "rok_2020",
+        "rok_2021",
+        "rok_2022",
+        "rok_2023",
+        "rok_2024",
+        "rok_2025",
+        "rok_2002",
+        "rok_2003",
+        "rok_2004",
+        "rok_2005",
+        "rok_2006",
+        "rok_2007",
+        "rok_2008"
+      ],
+      "source": "https://data.csu.gov.cz/opendata/sady/ZEM03A",
+      "updated": "2026-10",
+      "size": 97772,
+      "files": {
+        "csv": {
+          "name": "cs-sklizen-zemedelskych-plodin_CS.csv",
+          "size": 31026
+        },
+        "xlsx": {
+          "name": "cs-sklizen-zemedelskych-plodin_CS.xlsx",
+          "size": 25792
         }
       }
     },
