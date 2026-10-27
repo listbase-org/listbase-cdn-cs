@@ -1,12 +1,16 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:16.651Z",
-  "total_datasets": 480,
-  "total_records": 414620,
+  "generated": "2026-10-27T02:54:19.215Z",
+  "total_datasets": 481,
+  "total_records": 414652,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 10
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1108,6 +1112,40 @@
         "xlsx": {
           "name": "cs-zamky_CS.xlsx",
           "size": 168356
+        }
+      }
+    },
+    {
+      "id": "cs-ekonomicke-ukazatele",
+      "name": "Makroekonomické ukazatele Česka",
+      "category": "economy",
+      "record_count": 32,
+      "columns": [
+        "rok",
+        "hdp_nominalni_mld_kc",
+        "hdp_realny_rust_pct",
+        "mira_konvergence_k_eu_pct",
+        "spotreba_domacnosti_pct",
+        "spotreba_vlady_pct",
+        "tvorba_hfk_pct",
+        "prispevek_zo_k_rustu_hdp_pb",
+        "rust_deflatoru_hdp_pct",
+        "prumerna_mira_inflace_pct",
+        "mira_zamestnanosti_15_64_pct",
+        "obecna_mira_nezamestnanosti_pct",
+        "saldo_bezneho_uctu_k_hdp_pct"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Ekonomika_Česka",
+      "updated": "2026-10",
+      "size": 18352,
+      "files": {
+        "csv": {
+          "name": "cs-ekonomicke-ukazatele_CS.csv",
+          "size": 2665
+        },
+        "xlsx": {
+          "name": "cs-ekonomicke-ukazatele_CS.xlsx",
+          "size": 9009
         }
       }
     },
