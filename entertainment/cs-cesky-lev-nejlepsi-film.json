@@ -1,0 +1,244 @@
+{
+  "id": "cs-cesky-lev-nejlepsi-film",
+  "name": "Český lev za nejlepší film",
+  "title": "Český lev za nejlepší film",
+  "description": "Vítězné filmy ceny Český lev v kategorii nejlepší film od roku 1993 s režiséry",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Český_lev",
+  "source_url": "https://cs.wikipedia.org/wiki/Český_lev",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "rocnik",
+      "label": "Rocnik",
+      "type": "string"
+    },
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "vitezny_film",
+      "label": "Vitezny Film",
+      "type": "string"
+    },
+    {
+      "key": "reziser",
+      "label": "Reziser",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rocnik": "1.",
+      "rok": 1993,
+      "vitezny_film": "Šakalí léta",
+      "reziser": "Jan Hřebejk"
+    },
+    {
+      "rocnik": "2.",
+      "rok": 1994,
+      "vitezny_film": "Díky za každé nové ráno",
+      "reziser": "Milan Šteindler"
+    },
+    {
+      "rocnik": "3.",
+      "rok": 1995,
+      "vitezny_film": "Zahrada",
+      "reziser": "Martin Šulík"
+    },
+    {
+      "rocnik": "4.",
+      "rok": 1996,
+      "vitezny_film": "Kolja",
+      "reziser": "Jan Svěrák"
+    },
+    {
+      "rocnik": "5.",
+      "rok": 1997,
+      "vitezny_film": "Knoflíkáři",
+      "reziser": "Petr Zelenka"
+    },
+    {
+      "rocnik": "6.",
+      "rok": 1998,
+      "vitezny_film": "Je třeba zabít Sekala",
+      "reziser": "Vladimír Michálek"
+    },
+    {
+      "rocnik": "7.",
+      "rok": 1999,
+      "vitezny_film": "Návrat idiota",
+      "reziser": "Saša Gedeon"
+    },
+    {
+      "rocnik": "8.",
+      "rok": 2000,
+      "vitezny_film": "Musíme si pomáhat",
+      "reziser": "Jan Hřebejk"
+    },
+    {
+      "rocnik": "9.",
+      "rok": 2001,
+      "vitezny_film": "Otesánek",
+      "reziser": "Jan Švankmajer"
+    },
+    {
+      "rocnik": "10.",
+      "rok": 2002,
+      "vitezny_film": "Rok ďábla",
+      "reziser": "Petr Zelenka"
+    },
+    {
+      "rocnik": "11.",
+      "rok": 2003,
+      "vitezny_film": "Nuda v Brně",
+      "reziser": "Vladimír Morávek"
+    },
+    {
+      "rocnik": "12.",
+      "rok": 2004,
+      "vitezny_film": "Horem pádem",
+      "reziser": "Jan Hřebejk"
+    },
+    {
+      "rocnik": "13.",
+      "rok": 2005,
+      "vitezny_film": "Štěstí",
+      "reziser": "Bohdan Sláma"
+    },
+    {
+      "rocnik": "14.",
+      "rok": 2006,
+      "vitezny_film": "Obsluhoval jsem anglického krále",
+      "reziser": "Jiří Menzel"
+    },
+    {
+      "rocnik": "15.",
+      "rok": 2007,
+      "vitezny_film": "Tajnosti",
+      "reziser": "Alice Nellis"
+    },
+    {
+      "rocnik": "16.",
+      "rok": 2008,
+      "vitezny_film": "Karamazovi",
+      "reziser": "Petr Zelenka"
+    },
+    {
+      "rocnik": "17.",
+      "rok": 2009,
+      "vitezny_film": "Protektor",
+      "reziser": "Marek Najbrt"
+    },
+    {
+      "rocnik": "18.",
+      "rok": 2010,
+      "vitezny_film": "Pouta",
+      "reziser": "Radim Špaček"
+    },
+    {
+      "rocnik": "19.",
+      "rok": 2011,
+      "vitezny_film": "Poupata",
+      "reziser": "Zdeněk Jiráský"
+    },
+    {
+      "rocnik": "20.",
+      "rok": 2012,
+      "vitezny_film": "Ve stínu",
+      "reziser": "David Ondříček"
+    },
+    {
+      "rocnik": "21.",
+      "rok": 2013,
+      "vitezny_film": "Hořící keř",
+      "reziser": "Agnieszka Holland"
+    },
+    {
+      "rocnik": "22.",
+      "rok": 2014,
+      "vitezny_film": "Cesta ven",
+      "reziser": "Petr Václav"
+    },
+    {
+      "rocnik": "23.",
+      "rok": 2015,
+      "vitezny_film": "Kobry a užovky",
+      "reziser": "Jan Prušinovský"
+    },
+    {
+      "rocnik": "24.",
+      "rok": 2016,
+      "vitezny_film": "Masaryk",
+      "reziser": "Julius Ševčík"
+    },
+    {
+      "rocnik": "25.",
+      "rok": 2017,
+      "vitezny_film": "Bába z ledu",
+      "reziser": "Bohdan Sláma"
+    },
+    {
+      "rocnik": "26.",
+      "rok": 2018,
+      "vitezny_film": "Všechno bude",
+      "reziser": "Olmo Omerzu"
+    },
+    {
+      "rocnik": "27.",
+      "rok": 2019,
+      "vitezny_film": "Nabarvené ptáče",
+      "reziser": "Václav Marhoul"
+    },
+    {
+      "rocnik": "28.",
+      "rok": 2020,
+      "vitezny_film": "Šarlatán",
+      "reziser": "Agnieszka Holland"
+    },
+    {
+      "rocnik": "29.",
+      "rok": 2021,
+      "vitezny_film": "Zátopek",
+      "reziser": "David Ondříček"
+    },
+    {
+      "rocnik": "30.",
+      "rok": 2022,
+      "vitezny_film": "Il Boemo",
+      "reziser": "Petr Václav"
+    },
+    {
+      "rocnik": "31.",
+      "rok": 2023,
+      "vitezny_film": "Bratři",
+      "reziser": "Tomáš Mašín"
+    },
+    {
+      "rocnik": "32.",
+      "rok": 2024,
+      "vitezny_film": "Vlny",
+      "reziser": "Jiří Mádl"
+    },
+    {
+      "rocnik": "33.",
+      "rok": 2025,
+      "vitezny_film": "Karavan",
+      "reziser": "Zuzana Kirchnerová"
+    }
+  ],
+  "meta": {
+    "title": "Český lev za nejlepší film - Free Download",
+    "description": "Vítězné filmy ceny Český lev v kategorii nejlepší film od roku 1993 s režiséry Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Český lev za nejlepší film | ListBase",
+    "seo_description": "Download Český lev za nejlepší film — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Český_lev"
+    ]
+  }
+}
