@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:42.341Z",
-  "total_datasets": 490,
-  "total_records": 414939,
+  "generated": "2026-10-27T02:54:44.966Z",
+  "total_datasets": 491,
+  "total_records": 414951,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -7769,6 +7769,33 @@
         "xlsx": {
           "name": "cs-kamerove-body_CS.xlsx",
           "size": 41191
+        }
+      }
+    },
+    {
+      "id": "cs-predsedove-poslanecke-snemovny",
+      "name": "Předsedové Poslanecké sněmovny",
+      "category": "politics",
+      "record_count": 12,
+      "columns": [
+        "poradi",
+        "jmeno",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_předsedů_Poslanecké_sněmovny_Parlamentu_České_republiky",
+      "updated": "2026-10",
+      "size": 4282,
+      "files": {
+        "csv": {
+          "name": "cs-predsedove-poslanecke-snemovny_CS.csv",
+          "size": 1130
+        },
+        "xlsx": {
+          "name": "cs-predsedove-poslanecke-snemovny_CS.xlsx",
+          "size": 7501
         }
       }
     },

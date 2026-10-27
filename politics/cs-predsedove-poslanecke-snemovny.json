@@ -1,0 +1,152 @@
+{
+  "id": "cs-predsedove-poslanecke-snemovny",
+  "name": "Předsedové Poslanecké sněmovny",
+  "title": "Předsedové Poslanecké sněmovny",
+  "description": "Seznam předsedů Poslanecké sněmovny Parlamentu České republiky od roku 1993",
+  "category": "politics",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_předsedů_Poslanecké_sněmovny_Parlamentu_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_předsedů_Poslanecké_sněmovny_Parlamentu_České_republiky",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "jmeno",
+      "label": "Jmeno",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "jmeno": "Milan Uhde",
+      "nastup": "1. ledna 1993",
+      "odchod": "6. června 1996",
+      "dny_v_uradu": "1252",
+      "strana": "ODS"
+    },
+    {
+      "poradi": "2.",
+      "jmeno": "Miloš Zeman",
+      "nastup": "27. června 1996",
+      "odchod": "19. června 1998",
+      "dny_v_uradu": "722",
+      "strana": "ČSSD"
+    },
+    {
+      "poradi": "3.",
+      "jmeno": "Václav Klaus",
+      "nastup": "17. července 1998",
+      "odchod": "20. června 2002",
+      "dny_v_uradu": "1464",
+      "strana": "ODS"
+    },
+    {
+      "poradi": "4.",
+      "jmeno": "Lubomír Zaorálek",
+      "nastup": "11. července 2002",
+      "odchod": "15. června 2006",
+      "dny_v_uradu": "1435",
+      "strana": "ČSSD"
+    },
+    {
+      "poradi": "5.",
+      "jmeno": "Miloslav Vlček",
+      "nastup": "14. srpna 2006",
+      "odchod": "30. dubna 2010",
+      "dny_v_uradu": "1355",
+      "strana": "ČSSD"
+    },
+    {
+      "poradi": "Úřad neobsazen",
+      "jmeno": "Úřad neobsazen",
+      "nastup": "1. května 2010 – 3. června 2010",
+      "odchod": "1. května 2010 – 3. června 2010",
+      "dny_v_uradu": "1. května 2010 – 3. června 2010",
+      "strana": ""
+    },
+    {
+      "poradi": "6.",
+      "jmeno": "Miroslava Němcová",
+      "nastup": "24. června 2010",
+      "odchod": "28. srpna 2013",
+      "dny_v_uradu": "1161",
+      "strana": "ODS"
+    },
+    {
+      "poradi": "Úřad neobsazen",
+      "jmeno": "Úřad neobsazen",
+      "nastup": "28. srpna 2013 – 27. listopadu 2013",
+      "odchod": "28. srpna 2013 – 27. listopadu 2013",
+      "dny_v_uradu": "28. srpna 2013 – 27. listopadu 2013",
+      "strana": ""
+    },
+    {
+      "poradi": "7.",
+      "jmeno": "Jan Hamáček",
+      "nastup": "27. listopadu 2013",
+      "odchod": "26. října 2017",
+      "dny_v_uradu": "1429",
+      "strana": "ČSSD"
+    },
+    {
+      "poradi": "8.",
+      "jmeno": "Radek Vondráček",
+      "nastup": "22. listopadu 2017",
+      "odchod": "20. října 2021",
+      "dny_v_uradu": "1428",
+      "strana": "ANO"
+    },
+    {
+      "poradi": "9.",
+      "jmeno": "Markéta Pekarová Adamová",
+      "nastup": "10. listopadu 2021",
+      "odchod": "8. října 2025",
+      "dny_v_uradu": "1428",
+      "strana": "TOP 09"
+    },
+    {
+      "poradi": "10.",
+      "jmeno": "Tomio Okamura",
+      "nastup": "5. listopadu 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": "356",
+      "strana": "SPD"
+    }
+  ],
+  "meta": {
+    "title": "Předsedové Poslanecké sněmovny - Free Download",
+    "description": "Seznam předsedů Poslanecké sněmovny Parlamentu České republiky od roku 1993 Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Předsedové Poslanecké sněmovny | ListBase",
+    "seo_description": "Download Předsedové Poslanecké sněmovny — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_předsedů_Poslanecké_sněmovny_Parlamentu_České_republiky"
+    ]
+  }
+}
