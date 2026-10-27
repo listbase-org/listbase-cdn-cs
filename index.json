@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:29.637Z",
-  "total_datasets": 485,
-  "total_records": 414761,
+  "generated": "2026-10-27T02:54:32.043Z",
+  "total_datasets": 486,
+  "total_records": 414794,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -12730,6 +12730,33 @@
         "xlsx": {
           "name": "cs-mistri-ceske-fotbalove-ligy_CS.xlsx",
           "size": 8413
+        }
+      }
+    },
+    {
+      "id": "cs-mistri-hokejove-extraligy",
+      "name": "Mistři české hokejové extraligy",
+      "category": "sports",
+      "record_count": 33,
+      "columns": [
+        "sezona",
+        "vitez_zakladni_casti",
+        "mistr",
+        "finalista",
+        "vysledek_finale",
+        "treneri_mistra"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Extraliga_ledního_hokeje",
+      "updated": "2026-10",
+      "size": 9662,
+      "files": {
+        "csv": {
+          "name": "cs-mistri-hokejove-extraligy_CS.csv",
+          "size": 3107
+        },
+        "xlsx": {
+          "name": "cs-mistri-hokejove-extraligy_CS.xlsx",
+          "size": 8520
         }
       }
     },

@@ -1,0 +1,320 @@
+{
+  "id": "cs-mistri-hokejove-extraligy",
+  "name": "Mistři české hokejové extraligy",
+  "title": "Mistři české hokejové extraligy",
+  "description": "Vítězové základní části, mistři a poražení finalisté české extraligy ledního hokeje od sezóny 1993/94",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/Extraliga_ledního_hokeje",
+  "source_url": "https://cs.wikipedia.org/wiki/Extraliga_ledního_hokeje",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "sezona",
+      "label": "Sezona",
+      "type": "string"
+    },
+    {
+      "key": "vitez_zakladni_casti",
+      "label": "Vitez Zakladni Casti",
+      "type": "string"
+    },
+    {
+      "key": "mistr",
+      "label": "Mistr",
+      "type": "string"
+    },
+    {
+      "key": "finalista",
+      "label": "Finalista",
+      "type": "string"
+    },
+    {
+      "key": "vysledek_finale",
+      "label": "Vysledek Finale",
+      "type": "string"
+    },
+    {
+      "key": "treneri_mistra",
+      "label": "Treneri Mistra",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezona": "1993/94",
+      "vitez_zakladni_casti": "Kladno",
+      "mistr": "Olomouc",
+      "finalista": "Pardubice",
+      "vysledek_finale": "3 : 1",
+      "treneri_mistra": "Josef Augusta a Lubomír Fischer"
+    },
+    {
+      "sezona": "1994/95",
+      "vitez_zakladni_casti": "Vsetín",
+      "mistr": "Vsetín",
+      "finalista": "Zlín",
+      "vysledek_finale": "3 : 1",
+      "treneri_mistra": "Horst Valášek a Zdislav Tabara"
+    },
+    {
+      "sezona": "1995/96",
+      "vitez_zakladni_casti": "Sparta Praha",
+      "mistr": "Vsetín",
+      "finalista": "Litvínov",
+      "vysledek_finale": "4 : 1",
+      "treneri_mistra": "Horst Valášek a Zdislav Tabara"
+    },
+    {
+      "sezona": "1996/97",
+      "vitez_zakladni_casti": "Vsetín",
+      "mistr": "Vsetín",
+      "finalista": "Vítkovice",
+      "vysledek_finale": "3 : 0",
+      "treneri_mistra": "Jan Neliba a Zdislav Tabara"
+    },
+    {
+      "sezona": "1997/98",
+      "vitez_zakladni_casti": "Vsetín",
+      "mistr": "Vsetín",
+      "finalista": "Třinec",
+      "vysledek_finale": "3 : 0",
+      "treneri_mistra": "Jan Neliba a Zdislav Tabara"
+    },
+    {
+      "sezona": "1998/99",
+      "vitez_zakladni_casti": "Vsetín",
+      "mistr": "Vsetín",
+      "finalista": "Zlín",
+      "vysledek_finale": "3 : 0",
+      "treneri_mistra": "Zdislav Tabara a Miroslav Venkrbec"
+    },
+    {
+      "sezona": "1999/00",
+      "vitez_zakladni_casti": "Sparta Praha",
+      "mistr": "Sparta Praha",
+      "finalista": "Vsetín",
+      "vysledek_finale": "3 : 0",
+      "treneri_mistra": "František Výborný a Pavel Hynek"
+    },
+    {
+      "sezona": "2000/01",
+      "vitez_zakladni_casti": "Vsetín",
+      "mistr": "Vsetín",
+      "finalista": "Sparta Praha",
+      "vysledek_finale": "3 : 1",
+      "treneri_mistra": "Jan Neliba a Zdislav Tabara"
+    },
+    {
+      "sezona": "2001/02",
+      "vitez_zakladni_casti": "Sparta Praha",
+      "mistr": "Sparta Praha",
+      "finalista": "Vítkovice",
+      "vysledek_finale": "3 : 1",
+      "treneri_mistra": "Václav Sýkora a Pavel Hynek"
+    },
+    {
+      "sezona": "2002/03",
+      "vitez_zakladni_casti": "Pardubice",
+      "mistr": "Slavia Praha",
+      "finalista": "Pardubice",
+      "vysledek_finale": "4 : 3",
+      "treneri_mistra": "Vladimír Růžička a Ondřej Weissmann"
+    },
+    {
+      "sezona": "2003/04",
+      "vitez_zakladni_casti": "Pardubice",
+      "mistr": "Zlín",
+      "finalista": "Slavia Praha",
+      "vysledek_finale": "4 : 1",
+      "treneri_mistra": "Ernest Bokroš a Jaroslav Stuchlík"
+    },
+    {
+      "sezona": "2004/05",
+      "vitez_zakladni_casti": "Zlín",
+      "mistr": "Pardubice",
+      "finalista": "Zlín",
+      "vysledek_finale": "4 : 0",
+      "treneri_mistra": "Vladimír Martinec a Jiří Šejba"
+    },
+    {
+      "sezona": "2005/06",
+      "vitez_zakladni_casti": "Liberec",
+      "mistr": "Sparta Praha",
+      "finalista": "Slavia Praha",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "František Výborný a Marian Jelínek"
+    },
+    {
+      "sezona": "2006/07",
+      "vitez_zakladni_casti": "Liberec",
+      "mistr": "Sparta Praha",
+      "finalista": "Pardubice",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "František Výborný a Marian Jelínek"
+    },
+    {
+      "sezona": "2007/08",
+      "vitez_zakladni_casti": "České Budějovice",
+      "mistr": "Slavia Praha",
+      "finalista": "Karlovy Vary",
+      "vysledek_finale": "4 : 3",
+      "treneri_mistra": "Vladimír Růžička a Jiří Kalous"
+    },
+    {
+      "sezona": "2008/09",
+      "vitez_zakladni_casti": "Slavia Praha",
+      "mistr": "Karlovy Vary",
+      "finalista": "Slavia Praha",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "Josef Paleček a Pavel Kněžický"
+    },
+    {
+      "sezona": "2009/10",
+      "vitez_zakladni_casti": "Plzeň",
+      "mistr": "Pardubice",
+      "finalista": "Vítkovice",
+      "vysledek_finale": "4 : 0",
+      "treneri_mistra": "Václav Sýkora a Jan Votruba"
+    },
+    {
+      "sezona": "2010/11",
+      "vitez_zakladni_casti": "Třinec",
+      "mistr": "Třinec",
+      "finalista": "Vítkovice",
+      "vysledek_finale": "4 : 1",
+      "treneri_mistra": "Pavel Marek a Břetislav Kopřiva"
+    },
+    {
+      "sezona": "2011/12",
+      "vitez_zakladni_casti": "Sparta Praha",
+      "mistr": "Pardubice",
+      "finalista": "Brno",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "Pavel Hynek a Ladislav Lubina"
+    },
+    {
+      "sezona": "2012/13",
+      "vitez_zakladni_casti": "Zlín",
+      "mistr": "Plzeň",
+      "finalista": "Zlín",
+      "vysledek_finale": "4 : 3",
+      "treneri_mistra": "Milan Razým a Michal Straka"
+    },
+    {
+      "sezona": "2013/14",
+      "vitez_zakladni_casti": "Sparta Praha",
+      "mistr": "Zlín",
+      "finalista": "Brno",
+      "vysledek_finale": "4 : 1",
+      "treneri_mistra": "Rostislav Vlach a Juraj Jurík"
+    },
+    {
+      "sezona": "2014/15",
+      "vitez_zakladni_casti": "Třinec",
+      "mistr": "Litvínov",
+      "finalista": "Třinec",
+      "vysledek_finale": "4 : 3",
+      "treneri_mistra": "Radim Rulík a Miloslav Hořava"
+    },
+    {
+      "sezona": "2015/16",
+      "vitez_zakladni_casti": "Liberec",
+      "mistr": "Liberec",
+      "finalista": "Sparta Praha",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "Filip Pešán a Vladimír Čermák"
+    },
+    {
+      "sezona": "2016/17",
+      "vitez_zakladni_casti": "Liberec",
+      "mistr": "Brno",
+      "finalista": "Liberec",
+      "vysledek_finale": "4 : 0",
+      "treneri_mistra": "Libor Zábranský a Martin Pešout"
+    },
+    {
+      "sezona": "2017/18",
+      "vitez_zakladni_casti": "Plzeň",
+      "mistr": "Brno",
+      "finalista": "Třinec",
+      "vysledek_finale": "4 : 1",
+      "treneri_mistra": "Libor Zábranský a Kamil Pokorný"
+    },
+    {
+      "sezona": "2018/19",
+      "vitez_zakladni_casti": "Liberec",
+      "mistr": "Třinec",
+      "finalista": "Liberec",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "Václav Varaďa a Marek Zadina"
+    },
+    {
+      "sezona": "2019/20",
+      "vitez_zakladni_casti": "Liberec",
+      "mistr": "play-off zrušeno kvůli pandemii covidu-19",
+      "finalista": "play-off zrušeno kvůli pandemii covidu-19",
+      "vysledek_finale": "play-off zrušeno kvůli pandemii covidu-19",
+      "treneri_mistra": "play-off zrušeno kvůli pandemii covidu-19"
+    },
+    {
+      "sezona": "2020/21",
+      "vitez_zakladni_casti": "Sparta Praha",
+      "mistr": "Třinec",
+      "finalista": "Liberec",
+      "vysledek_finale": "4 : 1",
+      "treneri_mistra": "Václav Varaďa a Marek Zadina"
+    },
+    {
+      "sezona": "2021/22",
+      "vitez_zakladni_casti": "Hradec Králové",
+      "mistr": "Třinec",
+      "finalista": "Sparta Praha",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "Václav Varaďa a Marek Zadina"
+    },
+    {
+      "sezona": "2022/23",
+      "vitez_zakladni_casti": "Pardubice",
+      "mistr": "Třinec",
+      "finalista": "Hradec Králové",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "Zdeněk Moták a Vladimír Országh"
+    },
+    {
+      "sezona": "2023/24",
+      "vitez_zakladni_casti": "Pardubice",
+      "mistr": "Třinec",
+      "finalista": "Pardubice",
+      "vysledek_finale": "4 : 3",
+      "treneri_mistra": "Zdeněk Moták a Vladimír Országh"
+    },
+    {
+      "sezona": "2024/25",
+      "vitez_zakladni_casti": "Sparta Praha",
+      "mistr": "Brno",
+      "finalista": "Pardubice",
+      "vysledek_finale": "4 : 3",
+      "treneri_mistra": "Kamil Pokorný a Jiří Horáček"
+    },
+    {
+      "sezona": "2025/26",
+      "vitez_zakladni_casti": "Pardubice",
+      "mistr": "Pardubice",
+      "finalista": "Třinec",
+      "vysledek_finale": "4 : 2",
+      "treneri_mistra": "Filip Pešán a Karel Mlejnek"
+    }
+  ],
+  "meta": {
+    "title": "Mistři české hokejové extraligy - Free Download",
+    "description": "Vítězové základní části, mistři a poražení finalisté české extraligy ledního hokeje od sezóny 1993/94 Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mistři české hokejové extraligy | ListBase",
+    "seo_description": "Download Mistři české hokejové extraligy — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Extraliga_ledního_hokeje"
+    ]
+  }
+}
