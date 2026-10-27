@@ -1,9 +1,13 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:19.215Z",
-  "total_datasets": 481,
-  "total_records": 414652,
+  "generated": "2026-10-27T02:54:21.665Z",
+  "total_datasets": 482,
+  "total_records": 414674,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 10
@@ -94,6 +98,52 @@
     }
   ],
   "datasets": [
+    {
+      "id": "cs-hospodarska-zvirata-stavy",
+      "name": "Stavy hospodářských zvířat v Česku",
+      "category": "agriculture",
+      "record_count": 22,
+      "columns": [
+        "druh_zvirat",
+        "rok_2002",
+        "rok_2003",
+        "rok_2004",
+        "rok_2005",
+        "rok_2006",
+        "rok_2007",
+        "rok_2008",
+        "rok_2009",
+        "rok_2010",
+        "rok_2011",
+        "rok_2012",
+        "rok_2013",
+        "rok_2014",
+        "rok_2015",
+        "rok_2016",
+        "rok_2017",
+        "rok_2018",
+        "rok_2019",
+        "rok_2020",
+        "rok_2021",
+        "rok_2022",
+        "rok_2023",
+        "rok_2024",
+        "rok_2025"
+      ],
+      "source": "https://data.csu.gov.cz/opendata/sady/ZEM02011",
+      "updated": "2026-10",
+      "size": 17619,
+      "files": {
+        "csv": {
+          "name": "cs-hospodarska-zvirata-stavy_CS.csv",
+          "size": 4286
+        },
+        "xlsx": {
+          "name": "cs-hospodarska-zvirata-stavy_CS.xlsx",
+          "size": 10043
+        }
+      }
+    },
     {
       "id": "cs-divadla",
       "name": "Divadla v Česku (Theatres in the Czech Republic)",
