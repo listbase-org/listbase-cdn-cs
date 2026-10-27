@@ -1,0 +1,415 @@
+{
+  "id": "cs-valky-ceskych-dejin",
+  "name": "Války českých dějin",
+  "title": "Války českých dějin",
+  "description": "Války a ozbrojené konflikty, kterých se účastnily české země, od pravěku po současnost, se stranami konfliktu a výsledkem",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Války_českých_dějin",
+  "source_url": "https://cs.wikipedia.org/wiki/Války_českých_dějin",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "konflikt",
+      "label": "Konflikt",
+      "type": "string"
+    },
+    {
+      "key": "trvani",
+      "label": "Trvani",
+      "type": "string"
+    },
+    {
+      "key": "strana_1",
+      "label": "Strana 1",
+      "type": "string"
+    },
+    {
+      "key": "strana_2",
+      "label": "Strana 2",
+      "type": "string"
+    },
+    {
+      "key": "vysledek",
+      "label": "Vysledek",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "konflikt": "Nájezdy Kimmeriů",
+      "trvani": "9. století př. n. l. až 8. století př. n. l.",
+      "strana_1": "halštatská kultura",
+      "strana_2": "Kimmeriové",
+      "vysledek": "Přežití halštatské kultury"
+    },
+    {
+      "konflikt": "Nájezdy Skytů",
+      "trvani": "6. století př. n. l. až 5. století př. n. l.",
+      "strana_1": "halštatská kultura ( horákovská kultura ) lužická kultura",
+      "strana_2": "Skytové",
+      "vysledek": "Přežití halštatské (horakovské) kultury Zánik lužické kultury"
+    },
+    {
+      "konflikt": "Vpád Kimbrů , Teotonů a Ambronů na území střední Evropy",
+      "trvani": "120 př. n. l. až 113 př. n. l.",
+      "strana_1": "Kimbrové , Teutoni a Ambronové",
+      "strana_2": "Bójové",
+      "vysledek": "Vítězství Bójů (pokračování invaze germánských kmenů východně od keltského území do Norika )"
+    },
+    {
+      "konflikt": "Obléhání Noreie",
+      "trvani": "mezi lety 64 př. n. l. až 59 př. n. l.",
+      "strana_1": "Noricum Svébové",
+      "strana_2": "Bójové",
+      "vysledek": "Porážka Bójů"
+    },
+    {
+      "konflikt": "Bitva u Bibracte",
+      "trvani": "58 př. n. l.",
+      "strana_1": "Římská republika",
+      "strana_2": "Bójové",
+      "vysledek": "Porážka Bójů (postupný odchod Bójů s Helvéty do oblasti Galie obývané Heduji )"
+    },
+    {
+      "konflikt": "Obléhání Gorgobiny",
+      "trvani": "52 př. n. l.",
+      "strana_1": "galské kmeny",
+      "strana_2": "Bójové Římská republika",
+      "vysledek": "Vítězství Bójů (ústup galských kmenů)"
+    },
+    {
+      "konflikt": "bójsko-dácká válka",
+      "trvani": "mezi lety 60 př. n. l. až 40 př. n. l.",
+      "strana_1": "Bójové",
+      "strana_2": "Dácie",
+      "vysledek": "Vítězství Dáků ( bójská poušť )"
+    },
+    {
+      "konflikt": "Vpád germánských kmenů na území Bójů",
+      "trvani": "mezi rokem 50 př. n. l. až koncem 1. století př. n. l.",
+      "strana_1": "Germáni",
+      "strana_2": "Bójové",
+      "vysledek": "Vítězství Germánů (odchod Bójů)"
+    },
+    {
+      "konflikt": "Franské tažení proti Avarům",
+      "trvani": "795",
+      "strana_1": "Franská říše , Češi",
+      "strana_2": "Avaři",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Tažení Karla Velikého do Čech",
+      "trvani": "805",
+      "strana_1": "Češi",
+      "strana_2": "Franská říše",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Pribinovo vyhnání z Nitry",
+      "trvani": "někdy v letech 833 – 836",
+      "strana_1": "Velkomoravská říše",
+      "strana_2": "Nitranské knížectví",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Útok LudvíkaI. Němce na Čechy",
+      "trvani": "849",
+      "strana_1": "kníže Mojmír I.",
+      "strana_2": "Pribina",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Vpád Bavorů do Čech",
+      "trvani": "855",
+      "strana_1": "Češi",
+      "strana_2": "Bavoři",
+      "vysledek": "neznámý"
+    },
+    {
+      "konflikt": "Maďarské nájezdy",
+      "trvani": "9. a 10. století",
+      "strana_1": "České knížectví Velká Morava Východofranská říše",
+      "strana_2": "Maďaři",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Války o španělské dědictví",
+      "trvani": "1701 – 1714",
+      "strana_1": "Habsburská monarchie Království Velké Británie Nizozemsko aj.",
+      "strana_2": "Francie Španělsko Bavorsko Maďaři",
+      "vysledek": "nerozhodně"
+    },
+    {
+      "konflikt": "Rakousko-turecká válka",
+      "trvani": "1716 – 1718",
+      "strana_1": "Habsburská monarchie",
+      "strana_2": "Osmanská říše",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Války o rakouské dědictví",
+      "trvani": "1740 – 1748",
+      "strana_1": "Habsburská monarchie a spojenci",
+      "strana_2": "Prusko Francie Španělsko Bavorsko",
+      "vysledek": "Cášský mír"
+    },
+    {
+      "konflikt": "Sedmiletá válka",
+      "trvani": "1756 – 1763",
+      "strana_1": "Habsburská monarchie a spojenci",
+      "strana_2": "Prusko a spojenci",
+      "vysledek": "status quo"
+    },
+    {
+      "konflikt": "Válka o bavorské dědictví",
+      "trvani": "1778 – 1779",
+      "strana_1": "Habsburská monarchie",
+      "strana_2": "Prusko Sasko",
+      "vysledek": "Těšínský mír"
+    },
+    {
+      "konflikt": "Napoleonské války",
+      "trvani": "1803 – 1815",
+      "strana_1": "protinapoleonské koalice",
+      "strana_2": "Francie a její spojenci",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Maďarská revoluce",
+      "trvani": "1848 – 1849",
+      "strana_1": "Rakouské císařství Rusko čeští , srbští , chorvatští , rumunští a slovenští dobrovolníci",
+      "strana_2": "Maďaři , polští, němečtí a italští dobrovolníci",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Italská revoluce",
+      "trvani": "1848 – 1849",
+      "strana_1": "Rakouské císařství",
+      "strana_2": "italské státy",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Prusko-rakouská válka",
+      "trvani": "1866",
+      "strana_1": "Rakouské císařství",
+      "strana_2": "Prusko",
+      "vysledek": "porážka"
+    },
+    {
+      "konflikt": "Boxerské povstání",
+      "trvani": "1899 – 1901",
+      "strana_1": "aliance 8 států",
+      "strana_2": "Čína",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "První světová válka",
+      "trvani": "1914 – 1918",
+      "strana_1": "ústřední mocnosti",
+      "strana_2": "Trojdohoda",
+      "vysledek": "prohra"
+    },
+    {
+      "konflikt": "Polsko-ukrajinská válka",
+      "trvani": "1918 – 1919",
+      "strana_1": "Druhá Polská republika Rumunsko",
+      "strana_2": "Západoukrajinská lidová republika Ukrajinská lidová republika",
+      "vysledek": "vítězství Polska"
+    },
+    {
+      "konflikt": "Španělská občanská válka",
+      "trvani": "1936 – 1939",
+      "strana_1": "Druhá španělská republika SSSR Mexiko Interbrigády",
+      "strana_2": "Španělský stát Třetí říše Itálie Portugalsko",
+      "vysledek": "porážka druhé španělské republiky"
+    },
+    {
+      "konflikt": "První arabsko-izraelská válka",
+      "trvani": "1948 – 1949",
+      "strana_1": "Izrael",
+      "strana_2": "arabské státy",
+      "vysledek": "vítězství Izraele"
+    },
+    {
+      "konflikt": "Korejská válka",
+      "trvani": "1950 – 1953",
+      "strana_1": "Severní Korea Čína Sovětský svaz",
+      "strana_2": "koalice OSN",
+      "vysledek": "nerozhodný"
+    },
+    {
+      "konflikt": "Válka ve Vietnamu",
+      "trvani": "1964 – 1975",
+      "strana_1": "Severní Vietnam Vietcong Čína Sovětský svaz",
+      "strana_2": "Jižní Vietnam USA a spojenci",
+      "vysledek": "vítězství severního Vietnamu"
+    },
+    {
+      "konflikt": "Občanská válka v Jugoslávii",
+      "trvani": "1991 – 2001",
+      "strana_1": "separatisté Albánie NATO",
+      "strana_2": "Jugoslávie Srbsko",
+      "vysledek": "rozpad Jugoslávie"
+    },
+    {
+      "konflikt": "Válka v Bosně a Hercegovině",
+      "trvani": "1992 – 1995",
+      "strana_1": "separatisté NATO",
+      "strana_2": "Srbsko",
+      "vysledek": "rozdělení Bosny podle etnického klíče"
+    },
+    {
+      "konflikt": "Občanská válka v Čadu",
+      "trvani": "2007 – 2009",
+      "strana_1": "Čad",
+      "strana_2": "povstalecké skupiny",
+      "vysledek": "Válka trvá, ale česká účast skončila roku 2009 ."
+    },
+    {
+      "konflikt": "Občanská válka v Libyi (2011)",
+      "trvani": "2011",
+      "strana_1": "libyjští povstalci NATO",
+      "strana_2": "Libye",
+      "vysledek": "vítězství povstalců a NATO"
+    },
+    {
+      "konflikt": "Konflikt v severním Mali",
+      "trvani": "2013–2015",
+      "strana_1": "Mali Francie Česko a další země",
+      "strana_2": "Národní hnutí za osvobození Azavadu Islamisté",
+      "vysledek": "vítězství"
+    },
+    {
+      "konflikt": "Vyvraždění Slavníkovců",
+      "trvani": "995",
+      "strana_1": "Přemyslovci",
+      "strana_2": "Slavníkovci",
+      "vysledek": "vítězství Přemyslovců"
+    },
+    {
+      "konflikt": "Husitské války",
+      "trvani": "1419 – 1434",
+      "strana_1": "radikální husité",
+      "strana_2": "katolíci a umírnění husité",
+      "vysledek": "porážka radikálů"
+    },
+    {
+      "konflikt": "Obsazení Sudet",
+      "trvani": "1918",
+      "strana_1": "Československo",
+      "strana_2": "Sudetští Němci",
+      "vysledek": "Československo získalo kontrolu nad Sudety."
+    },
+    {
+      "konflikt": "Železnorudské povstání",
+      "trvani": "1919",
+      "strana_1": "Československo",
+      "strana_2": "komunisté",
+      "vysledek": "Komunisté se vzdali."
+    },
+    {
+      "konflikt": "Oslavanské povstání",
+      "trvani": "1920",
+      "strana_1": "Československo",
+      "strana_2": "oslavanští komunisté",
+      "vysledek": "povstání potlačeno"
+    },
+    {
+      "konflikt": "Židenický puč",
+      "trvani": "1933",
+      "strana_1": "Československo",
+      "strana_2": "fašisté",
+      "vysledek": "fašisté poraženi"
+    },
+    {
+      "konflikt": "Sudetoněmecké povstání",
+      "trvani": "1938",
+      "strana_1": "Československo",
+      "strana_2": "Sudetští Němci Nacistické Německo",
+      "vysledek": "Mnichovská dohoda"
+    },
+    {
+      "konflikt": "Povstání Karpatské Siče",
+      "trvani": "1939",
+      "strana_1": "Československo",
+      "strana_2": "Karpatská Sič",
+      "vysledek": "československé vítězství"
+    },
+    {
+      "konflikt": "Plzeňské povstání",
+      "trvani": "1953",
+      "strana_1": "Československo",
+      "strana_2": "plzeňští povstalci",
+      "vysledek": "povstání potlačeno"
+    },
+    {
+      "konflikt": "Prosincová generální stávka",
+      "trvani": "1920",
+      "strana_1": "Československo",
+      "strana_2": "marxistická frakce sociální demokracie",
+      "vysledek": "potlačení generální stávky silou"
+    },
+    {
+      "konflikt": "Obsazení Čech a Moravy německou armádou",
+      "trvani": "1939",
+      "strana_1": "Československo",
+      "strana_2": "Třetí říše",
+      "vysledek": "obsazení Čech a Moravy Německem"
+    },
+    {
+      "konflikt": "Ratibořský konflikt",
+      "trvani": "1945",
+      "strana_1": "Československo",
+      "strana_2": "Polsko",
+      "vysledek": "dohoda obou stran"
+    },
+    {
+      "konflikt": "Komunistický převrat",
+      "trvani": "1948",
+      "strana_1": "odpůrci komunistů",
+      "strana_2": "komunisté",
+      "vysledek": "převzetí moci komunistickou stranou"
+    },
+    {
+      "konflikt": "Invaze vojsk Varšavské smlouvy do Československa",
+      "trvani": "1968",
+      "strana_1": "Československo",
+      "strana_2": "Varšavská pětka",
+      "vysledek": "konec pražského jara"
+    },
+    {
+      "konflikt": "Protesty roku 1969",
+      "trvani": "1969",
+      "strana_1": "Československá vláda",
+      "strana_2": "protestující",
+      "vysledek": "protesty potlačeny silou"
+    },
+    {
+      "konflikt": "Sametová revoluce",
+      "trvani": "1989",
+      "strana_1": "Československo",
+      "strana_2": "odpůrci režimu",
+      "vysledek": "pád komunistického režimu"
+    },
+    {
+      "konflikt": "KFOR",
+      "trvani": "1999 – 2011",
+      "strana_1": "mírové jednotky Kosovští Srbové",
+      "strana_2": "Kosovští Albánci",
+      "vysledek": "ukončení mise"
+    }
+  ],
+  "meta": {
+    "title": "Války českých dějin - Free Download",
+    "description": "Války a ozbrojené konflikty, kterých se účastnily české země, od pravěku po současnost, se stranami konfliktu a výsledkem Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Války českých dějin | ListBase",
+    "seo_description": "Download Války českých dějin — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Války_českých_dějin"
+    ]
+  }
+}
