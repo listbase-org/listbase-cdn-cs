@@ -1,0 +1,96 @@
+{
+  "id": "cs-predsedove-ustavniho-soudu",
+  "name": "Předsedové Ústavního soudu ČR",
+  "title": "Předsedové Ústavního soudu ČR",
+  "description": "Seznam předsedů Ústavního soudu České republiky s funkčním obdobím, místopředsedy a jmenujícím prezidentem",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_předsedů_Ústavního_soudu_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_předsedů_Ústavního_soudu_České_republiky",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "predseda",
+      "label": "Predseda",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "mistopredsedove",
+      "label": "Mistopredsedove",
+      "type": "string"
+    },
+    {
+      "key": "jmenujici",
+      "label": "Jmenujici",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "predseda": "Zdeněk Kessler",
+      "nastup": "15. července 1993",
+      "odchod": "12. února 2003",
+      "mistopredsedove": "Miloš Holeček Ivana Janů (9. 11. 1993 – 9. 2. 2002) Eliška Wagnerová (od 20. 3. 2002)",
+      "jmenujici": "Václav Havel"
+    },
+    {
+      "poradi": "2.",
+      "predseda": "Miloš Holeček",
+      "nastup": "17. března 2003",
+      "odchod": "15. července 2003",
+      "mistopredsedove": "Eliška Wagnerová",
+      "jmenujici": "Václav Klaus"
+    },
+    {
+      "poradi": "3.",
+      "predseda": "Pavel Rychetský",
+      "nastup": "6. srpna 2003",
+      "odchod": "6. srpna 2013",
+      "mistopredsedove": "Eliška Wagnerová (do 20. 3. 2012) Pavel Holländer Milada Tomková (od 3. 5. 2013)",
+      "jmenujici": "Václav Klaus"
+    },
+    {
+      "poradi": "3.",
+      "predseda": "Pavel Rychetský",
+      "nastup": "7. srpna 2013",
+      "odchod": "7. srpna 2023",
+      "mistopredsedove": "Milada Tomková (do 3. 5. 2023) Jaroslav Fenyk (do 3. 5. 2023) Vojtěch Šimíček (od 3. 5. 2023) Kateřina Ronovská (od 4. 8. 2023)",
+      "jmenujici": "Miloš Zeman"
+    },
+    {
+      "poradi": "4.",
+      "predseda": "Josef Baxa",
+      "nastup": "8. srpna 2023",
+      "odchod": "",
+      "mistopredsedove": "Vojtěch Šimíček (do 12. 6. 2024) Kateřina Ronovská Veronika Křesťanová (od 25. 6. 2024)",
+      "jmenujici": "Petr Pavel"
+    }
+  ],
+  "meta": {
+    "title": "Předsedové Ústavního soudu ČR - Free Download",
+    "description": "Seznam předsedů Ústavního soudu České republiky s funkčním obdobím, místopředsedy a jmenujícím prezidentem Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Předsedové Ústavního soudu ČR | ListBase",
+    "seo_description": "Download Předsedové Ústavního soudu ČR — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_předsedů_Ústavního_soudu_České_republiky"
+    ]
+  }
+}

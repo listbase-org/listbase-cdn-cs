@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:44.966Z",
-  "total_datasets": 491,
-  "total_records": 414951,
+  "generated": "2026-10-27T02:54:47.545Z",
+  "total_datasets": 492,
+  "total_records": 414956,
   "categories": [
     {
       "id": "agriculture",
@@ -47,6 +47,10 @@
     {
       "id": "language",
       "dataset_count": 6
+    },
+    {
+      "id": "law",
+      "dataset_count": 1
     },
     {
       "id": "math",
@@ -7529,6 +7533,33 @@
         "xlsx": {
           "name": "lang-pinyin-table_CS.xlsx",
           "size": 32041
+        }
+      }
+    },
+    {
+      "id": "cs-predsedove-ustavniho-soudu",
+      "name": "Předsedové Ústavního soudu ČR",
+      "category": "law",
+      "record_count": 5,
+      "columns": [
+        "poradi",
+        "predseda",
+        "nastup",
+        "odchod",
+        "mistopredsedove",
+        "jmenujici"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_předsedů_Ústavního_soudu_České_republiky",
+      "updated": "2026-10",
+      "size": 3263,
+      "files": {
+        "csv": {
+          "name": "cs-predsedove-ustavniho-soudu_CS.csv",
+          "size": 859
+        },
+        "xlsx": {
+          "name": "cs-predsedove-ustavniho-soudu_CS.xlsx",
+          "size": 7268
         }
       }
     },
