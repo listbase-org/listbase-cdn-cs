@@ -1,12 +1,12 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:57.830Z",
-  "total_datasets": 496,
-  "total_records": 415239,
+  "generated": "2026-10-27T02:55:00.430Z",
+  "total_datasets": 497,
+  "total_records": 415245,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -243,6 +243,33 @@
         "xlsx": {
           "name": "cs-sklizen-zemedelskych-plodin_CS.xlsx",
           "size": 25792
+        }
+      }
+    },
+    {
+      "id": "cs-vinarske-podoblasti",
+      "name": "Vinařské podoblasti Česka",
+      "category": "agriculture",
+      "record_count": 6,
+      "columns": [
+        "oblast",
+        "podoblast",
+        "vinicni_obce",
+        "vinicni_trate",
+        "plocha_vinic_2025_ha",
+        "uzemi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Vinařská_oblast_Morava",
+      "updated": "2026-10",
+      "size": 3138,
+      "files": {
+        "csv": {
+          "name": "cs-vinarske-podoblasti_CS.csv",
+          "size": 667
+        },
+        "xlsx": {
+          "name": "cs-vinarske-podoblasti_CS.xlsx",
+          "size": 7211
         }
       }
     },

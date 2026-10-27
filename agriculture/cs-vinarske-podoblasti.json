@@ -1,0 +1,104 @@
+{
+  "id": "cs-vinarske-podoblasti",
+  "name": "Vinařské podoblasti Česka",
+  "title": "Vinařské podoblasti Česka",
+  "description": "Vinařské podoblasti Čech a Moravy s počtem viničních obcí, viničních tratí a plochou vinic v roce 2025",
+  "category": "agriculture",
+  "source": "https://cs.wikipedia.org/wiki/Vinařská_oblast_Morava",
+  "source_url": "https://cs.wikipedia.org/wiki/Vinařská_oblast_Morava",
+  "updated": "2026-10",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "podoblast",
+      "label": "Podoblast",
+      "type": "string"
+    },
+    {
+      "key": "vinicni_obce",
+      "label": "Vinicni Obce",
+      "type": "number"
+    },
+    {
+      "key": "vinicni_trate",
+      "label": "Vinicni Trate",
+      "type": "number"
+    },
+    {
+      "key": "plocha_vinic_2025_ha",
+      "label": "Plocha Vinic 2025 Ha",
+      "type": "number"
+    },
+    {
+      "key": "uzemi",
+      "label": "Uzemi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "oblast": "Morava",
+      "podoblast": "Mikulovská",
+      "vinicni_obce": 30,
+      "vinicni_trate": 185,
+      "plocha_vinic_2025_ha": 4876,
+      "uzemi": "Brno-venkov , Břeclav"
+    },
+    {
+      "oblast": "Morava",
+      "podoblast": "Slovácká",
+      "vinicni_obce": 118,
+      "vinicni_trate": 418,
+      "plocha_vinic_2025_ha": 4065,
+      "uzemi": "Břeclav, Hodonín , Uherské Hradiště , Vyškov , Zlín"
+    },
+    {
+      "oblast": "Morava",
+      "podoblast": "Velkopavlovická",
+      "vinicni_obce": 70,
+      "vinicni_trate": 321,
+      "plocha_vinic_2025_ha": 4580,
+      "uzemi": "Brno-město , Brno-venkov, Břeclav, Hodonín, Vyškov"
+    },
+    {
+      "oblast": "Morava",
+      "podoblast": "Znojemská",
+      "vinicni_obce": 90,
+      "vinicni_trate": 218,
+      "plocha_vinic_2025_ha": 3069,
+      "uzemi": "Brno-venkov, Třebíč , Znojmo"
+    },
+    {
+      "oblast": "Čechy",
+      "podoblast": "Litoměřická",
+      "vinicni_obce": 35,
+      "vinicni_trate": 82,
+      "plocha_vinic_2025_ha": 326,
+      "uzemi": "Ústecký , okrajově Liberecký"
+    },
+    {
+      "oblast": "Čechy",
+      "podoblast": "Mělnická",
+      "vinicni_obce": 40,
+      "vinicni_trate": 89,
+      "plocha_vinic_2025_ha": 349,
+      "uzemi": "Hlavní město Praha , Středočeský , okrajově Ústecký , Plzeňský , Vysočina , Pardubický , Královéhradecký"
+    }
+  ],
+  "meta": {
+    "title": "Vinařské podoblasti Česka - Free Download",
+    "description": "Vinařské podoblasti Čech a Moravy s počtem viničních obcí, viničních tratí a plochou vinic v roce 2025 Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinařské podoblasti Česka | ListBase",
+    "seo_description": "Download Vinařské podoblasti Česka — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Vinařská_oblast_Morava"
+    ]
+  }
+}
