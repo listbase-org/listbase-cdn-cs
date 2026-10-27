@@ -1,0 +1,256 @@
+{
+  "id": "cs-ceny-andel-vitezove",
+  "name": "Ceny Anděl – skupina, zpěvák a zpěvačka roku",
+  "title": "Ceny Anděl – skupina, zpěvák a zpěvačka roku",
+  "description": "Vítězové hudebních cen Anděl v kategoriích skupina, zpěvák a zpěvačka roku od roku 1991",
+  "category": "music",
+  "source": "https://cs.wikipedia.org/wiki/Anděl_(cena)",
+  "source_url": "https://cs.wikipedia.org/wiki/Anděl_(cena)",
+  "updated": "2026-10",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "skupina_roku",
+      "label": "Skupina Roku",
+      "type": "string"
+    },
+    {
+      "key": "zpevak_roku",
+      "label": "Zpevak Roku",
+      "type": "string"
+    },
+    {
+      "key": "zpevacka_roku",
+      "label": "Zpevacka Roku",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1991,
+      "skupina_roku": "Lucie",
+      "zpevak_roku": "Pavol Habera",
+      "zpevacka_roku": "Bára Basiková"
+    },
+    {
+      "rok": 1992,
+      "skupina_roku": "Shalom",
+      "zpevak_roku": "Petr Muk",
+      "zpevacka_roku": "Lucie Bílá"
+    },
+    {
+      "rok": 1993,
+      "skupina_roku": "Yo Yo Band",
+      "zpevak_roku": "Ivan Hlas",
+      "zpevacka_roku": "Lucie Bílá"
+    },
+    {
+      "rok": 1994,
+      "skupina_roku": "Lucie",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Lucie Bílá"
+    },
+    {
+      "rok": 1995,
+      "skupina_roku": "Buty",
+      "zpevak_roku": "Kamil Střihavka",
+      "zpevacka_roku": "Lucie Bílá"
+    },
+    {
+      "rok": 1996,
+      "skupina_roku": "Žlutý pes",
+      "zpevak_roku": "Janek Ledecký",
+      "zpevacka_roku": "Iva Bittová"
+    },
+    {
+      "rok": 1997,
+      "skupina_roku": "Buty",
+      "zpevak_roku": "Daniel Hůlka",
+      "zpevacka_roku": "Lucie Bílá"
+    },
+    {
+      "rok": 1998,
+      "skupina_roku": "Lucie",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Lucie Bílá"
+    },
+    {
+      "rok": 1999,
+      "skupina_roku": "Buty",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Anna K"
+    },
+    {
+      "rok": 2000,
+      "skupina_roku": "Monkey Business",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Lenka Dusilová"
+    },
+    {
+      "rok": 2001,
+      "skupina_roku": "Čechomor",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Helena Vondráčková"
+    },
+    {
+      "rok": 2002,
+      "skupina_roku": "Support Lesbiens",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Kateřina Winterová"
+    },
+    {
+      "rok": 2003,
+      "skupina_roku": "Kabát",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Radůza"
+    },
+    {
+      "rok": 2004,
+      "skupina_roku": "Tata Bojs",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Aneta Langerová"
+    },
+    {
+      "rok": 2005,
+      "skupina_roku": "Chinaski",
+      "zpevak_roku": "Petr Kolář",
+      "zpevacka_roku": "Lenka Dusilová"
+    },
+    {
+      "rok": 2006,
+      "skupina_roku": "Kryštof",
+      "zpevak_roku": "Matěj Ruppert",
+      "zpevacka_roku": "Anna K"
+    },
+    {
+      "rok": 2007,
+      "skupina_roku": "Chinaski",
+      "zpevak_roku": "Matěj Ruppert",
+      "zpevacka_roku": "Aneta Langerová"
+    },
+    {
+      "rok": 2008,
+      "skupina_roku": "Kryštof",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Lenka Dusilová"
+    },
+    {
+      "rok": 2009,
+      "skupina_roku": "Monkey Business",
+      "zpevak_roku": "Tomáš Klus",
+      "zpevacka_roku": "Ewa Farna"
+    },
+    {
+      "rok": 2010,
+      "skupina_roku": "Nightwork",
+      "zpevak_roku": "David Koller",
+      "zpevacka_roku": "Lucie Bílá"
+    },
+    {
+      "rok": 2011,
+      "skupina_roku": "Mandrage",
+      "zpevak_roku": "Tomáš Klus",
+      "zpevacka_roku": "Lenka Dusilová"
+    },
+    {
+      "rok": 2012,
+      "skupina_roku": "Kryštof",
+      "zpevak_roku": "Vojtěch Dyk",
+      "zpevacka_roku": "Aneta Langerová"
+    },
+    {
+      "rok": 2013,
+      "skupina_roku": "Bratři Orffové",
+      "zpevak_roku": "Dan Bárta",
+      "zpevacka_roku": "Lenka Dusilová"
+    },
+    {
+      "rok": 2014,
+      "skupina_roku": "Chinaski",
+      "zpevak_roku": "Michal Hrůza",
+      "zpevacka_roku": "Aneta Langerová"
+    },
+    {
+      "rok": 2015,
+      "skupina_roku": "Kryštof",
+      "zpevak_roku": "David Koller",
+      "zpevacka_roku": "Klara."
+    },
+    {
+      "rok": 2016,
+      "skupina_roku": "Jelen",
+      "zpevak_roku": "Thom Artway",
+      "zpevacka_roku": "Lenny"
+    },
+    {
+      "rok": 2017,
+      "skupina_roku": "J.A.R.",
+      "zpevak_roku": "David Stypka",
+      "zpevacka_roku": "Debbi"
+    },
+    {
+      "rok": 2018,
+      "skupina_roku": "Monkey Business",
+      "zpevak_roku": "Miro Žbirka",
+      "zpevacka_roku": "Barbora Poláková"
+    },
+    {
+      "rok": 2019,
+      "skupina_roku": "Mirai",
+      "zpevak_roku": "Vladimír Mišík",
+      "zpevacka_roku": "Beata Hlavenková"
+    },
+    {
+      "rok": 2020,
+      "skupina_roku": "Tata Bojs",
+      "zpevak_roku": "7krát3",
+      "zpevacka_roku": "Lenka Dusilová"
+    },
+    {
+      "rok": 2021,
+      "skupina_roku": "Mirai",
+      "zpevak_roku": "David Stypka",
+      "zpevacka_roku": "Ewa Farna"
+    },
+    {
+      "rok": 2022,
+      "skupina_roku": "Vypsaná Fixa",
+      "zpevak_roku": "Miro Žbirka",
+      "zpevacka_roku": "Lenny"
+    },
+    {
+      "rok": 2023,
+      "skupina_roku": "J.A.R.",
+      "zpevak_roku": "David Koller",
+      "zpevacka_roku": "Pam Rabbit"
+    },
+    {
+      "rok": 2024,
+      "skupina_roku": "Monkey Business",
+      "zpevak_roku": "Vladimír Mišík",
+      "zpevacka_roku": "Kateřina Marie Tichá"
+    },
+    {
+      "rok": 2025,
+      "skupina_roku": "Mňága a Žďorp",
+      "zpevak_roku": "Michal Prokop",
+      "zpevacka_roku": "Klára Vytisková"
+    }
+  ],
+  "meta": {
+    "title": "Ceny Anděl – skupina, zpěvák a zpěvačka roku - Free Download",
+    "description": "Vítězové hudebních cen Anděl v kategoriích skupina, zpěvák a zpěvačka roku od roku 1991 Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ceny Anděl – skupina, zpěvák a zpěvačka roku | ListBase",
+    "seo_description": "Download Ceny Anděl – skupina, zpěvák a zpěvačka roku — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Anděl_(cena)"
+    ]
+  }
+}
