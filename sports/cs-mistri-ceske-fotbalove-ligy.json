@@ -1,0 +1,282 @@
+{
+  "id": "cs-mistri-ceske-fotbalove-ligy",
+  "name": "Mistři české fotbalové ligy",
+  "title": "Mistři české fotbalové ligy",
+  "description": "Mistr, druhý a třetí tým a trenér mistra v každém ročníku 1. české fotbalové ligy od sezóny 1993–94",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/1._česká_fotbalová_liga",
+  "source_url": "https://cs.wikipedia.org/wiki/1._česká_fotbalová_liga",
+  "updated": "2026-10",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "rocnik",
+      "label": "Rocnik",
+      "type": "string"
+    },
+    {
+      "key": "mistr",
+      "label": "Mistr",
+      "type": "string"
+    },
+    {
+      "key": "druhe_misto",
+      "label": "Druhe Misto",
+      "type": "string"
+    },
+    {
+      "key": "treti_misto",
+      "label": "Treti Misto",
+      "type": "string"
+    },
+    {
+      "key": "trener_mistra",
+      "label": "Trener Mistra",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rocnik": "1993–94",
+      "mistr": "AC Sparta Praha (25)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FC Baník Ostrava OKD",
+      "trener_mistra": "Karol Dobiaš"
+    },
+    {
+      "rocnik": "1994–95",
+      "mistr": "AC Sparta Praha (26)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FC Boby Brno",
+      "trener_mistra": "Jozef Jarabinský"
+    },
+    {
+      "rocnik": "1995–96",
+      "mistr": "SK Slavia Praha (15)",
+      "druhe_misto": "SK Sigma Olomouc",
+      "treti_misto": "FK Jablonec",
+      "trener_mistra": "František Cipro"
+    },
+    {
+      "rocnik": "1996–97",
+      "mistr": "AC Sparta Praha (27)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FK Jablonec",
+      "trener_mistra": "Vlastimil Petržela (1.–5. k), Jozef Chovanec (6.–30. k)"
+    },
+    {
+      "rocnik": "1997–98",
+      "mistr": "AC Sparta Praha (28)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "SK Sigma Olomouc",
+      "trener_mistra": "Jozef Chovanec (1.–15.), Zdeněk Ščasný (16.–30.)"
+    },
+    {
+      "rocnik": "1998–99",
+      "mistr": "AC Sparta Praha (29)",
+      "druhe_misto": "FK Teplice",
+      "treti_misto": "SK Slavia Praha",
+      "trener_mistra": "Zdeněk Ščasný"
+    },
+    {
+      "rocnik": "1999–00",
+      "mistr": "AC Sparta Praha (30)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FC Petra Drnovice",
+      "trener_mistra": "Ivan Hašek"
+    },
+    {
+      "rocnik": "2000–01",
+      "mistr": "AC Sparta Praha (31)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "SK Sigma Olomouc",
+      "trener_mistra": "Ivan Hašek"
+    },
+    {
+      "rocnik": "2001–02",
+      "mistr": "FC Slovan Liberec (1)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FK Viktoria Žižkov",
+      "trener_mistra": "Ladislav Škorpil"
+    },
+    {
+      "rocnik": "2002–03",
+      "mistr": "AC Sparta Praha (32)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FK Viktoria Žižkov",
+      "trener_mistra": "Jozef Jarabinský (1.–15. k), Jiří Kotrba (16.–30. k)"
+    },
+    {
+      "rocnik": "2003–04",
+      "mistr": "FC Baník Ostrava (4)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "SK Sigma Olomouc",
+      "trener_mistra": "František Komňacký"
+    },
+    {
+      "rocnik": "2004–05",
+      "mistr": "AC Sparta Praha (33)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FK Teplice",
+      "trener_mistra": "František Straka (1.–16.), Jaroslav Hřebík (17.–30.)"
+    },
+    {
+      "rocnik": "2005–06",
+      "mistr": "FC Slovan Liberec (2)",
+      "druhe_misto": "FK Mladá Boleslav",
+      "treti_misto": "SK Slavia Praha",
+      "trener_mistra": "Vítězslav Lavička"
+    },
+    {
+      "rocnik": "2006–07",
+      "mistr": "AC Sparta Praha (34)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FK Mladá Boleslav",
+      "trener_mistra": "Stanislav Griga (1.–5. k), Michal Bílek (6.–30. k)"
+    },
+    {
+      "rocnik": "2007–08",
+      "mistr": "SK Slavia Praha (16)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FC Baník Ostrava",
+      "trener_mistra": "Karel Jarolím"
+    },
+    {
+      "rocnik": "2008–09",
+      "mistr": "SK Slavia Praha (17)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FC Slovan Liberec",
+      "trener_mistra": "Karel Jarolím"
+    },
+    {
+      "rocnik": "2009–10",
+      "mistr": "AC Sparta Praha (35)",
+      "druhe_misto": "FK Baumit Jablonec",
+      "treti_misto": "FC Baník Ostrava",
+      "trener_mistra": "Jozef Chovanec"
+    },
+    {
+      "rocnik": "2010–11",
+      "mistr": "FC Viktoria Plzeň (1)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FK Baumit Jablonec",
+      "trener_mistra": "Pavel Vrba"
+    },
+    {
+      "rocnik": "2011–12",
+      "mistr": "FC Slovan Liberec (3)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FC Viktoria Plzeň",
+      "trener_mistra": "Jaroslav Šilhavý"
+    },
+    {
+      "rocnik": "2012–13",
+      "mistr": "FC Viktoria Plzeň (2)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FC Slovan Liberec",
+      "trener_mistra": "Pavel Vrba"
+    },
+    {
+      "rocnik": "2013–14",
+      "mistr": "AC Sparta Praha (36)",
+      "druhe_misto": "FC Viktoria Plzeň",
+      "treti_misto": "FK Mladá Boleslav",
+      "trener_mistra": "Vítězslav Lavička"
+    },
+    {
+      "rocnik": "2014–15",
+      "mistr": "FC Viktoria Plzeň (3)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FK Baumit Jablonec",
+      "trener_mistra": "Dušan Uhrin (1.–3. k), Miroslav Koubek (4.–30. k)"
+    },
+    {
+      "rocnik": "2015–16",
+      "mistr": "FC Viktoria Plzeň (4)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FC Slovan Liberec",
+      "trener_mistra": "Miroslav Koubek (1.–4. k), Karel Krejčí (5.–30. k)"
+    },
+    {
+      "rocnik": "2016–17",
+      "mistr": "SK Slavia Praha (18)",
+      "druhe_misto": "FC Viktoria Plzeň",
+      "treti_misto": "AC Sparta Praha",
+      "trener_mistra": "Dušan Uhrin (1.–5. k), Jaroslav Šilhavý (6.–30. k)"
+    },
+    {
+      "rocnik": "2017–18",
+      "mistr": "FC Viktoria Plzeň (5)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FK Jablonec",
+      "trener_mistra": "Pavel Vrba"
+    },
+    {
+      "rocnik": "2018–19",
+      "mistr": "SK Slavia Praha (19)",
+      "druhe_misto": "FC Viktoria Plzeň",
+      "treti_misto": "AC Sparta Praha",
+      "trener_mistra": "Jindřich Trpišovský"
+    },
+    {
+      "rocnik": "2019–20",
+      "mistr": "SK Slavia Praha (20)",
+      "druhe_misto": "FC Viktoria Plzeň",
+      "treti_misto": "AC Sparta Praha",
+      "trener_mistra": "Jindřich Trpišovský"
+    },
+    {
+      "rocnik": "2020–21",
+      "mistr": "SK Slavia Praha (21)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FK Jablonec",
+      "trener_mistra": "Jindřich Trpišovský"
+    },
+    {
+      "rocnik": "2021–22",
+      "mistr": "FC Viktoria Plzeň (6)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "AC Sparta Praha",
+      "trener_mistra": "Michal Bílek"
+    },
+    {
+      "rocnik": "2022–23",
+      "mistr": "AC Sparta Praha (37)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FC Viktoria Plzeň",
+      "trener_mistra": "Brian Priske"
+    },
+    {
+      "rocnik": "2023–24",
+      "mistr": "AC Sparta Praha (38)",
+      "druhe_misto": "SK Slavia Praha",
+      "treti_misto": "FC Viktoria Plzeň",
+      "trener_mistra": "Brian Priske"
+    },
+    {
+      "rocnik": "2024–25",
+      "mistr": "SK Slavia Praha (22)",
+      "druhe_misto": "FC Viktoria Plzeň",
+      "treti_misto": "FC Baník Ostrava",
+      "trener_mistra": "Jindřich Trpišovský"
+    },
+    {
+      "rocnik": "2025–26",
+      "mistr": "SK Slavia Praha (23)",
+      "druhe_misto": "AC Sparta Praha",
+      "treti_misto": "FC Viktoria Plzeň",
+      "trener_mistra": "Jindřich Trpišovský"
+    }
+  ],
+  "meta": {
+    "title": "Mistři české fotbalové ligy - Free Download",
+    "description": "Mistr, druhý a třetí tým a trenér mistra v každém ročníku 1. české fotbalové ligy od sezóny 1993–94 Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mistři české fotbalové ligy | ListBase",
+    "seo_description": "Download Mistři české fotbalové ligy — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/1._česká_fotbalová_liga"
+    ]
+  }
+}
