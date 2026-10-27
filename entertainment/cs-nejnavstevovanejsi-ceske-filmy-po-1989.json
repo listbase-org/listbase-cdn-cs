@@ -1,0 +1,130 @@
+{
+  "id": "cs-nejnavstevovanejsi-ceske-filmy-po-1989",
+  "name": "Nejnavštěvovanější české filmy po roce 1989",
+  "title": "Nejnavštěvovanější české filmy po roce 1989",
+  "description": "Nejnavštěvovanější české filmy v kinech od roku 1989 podle počtu diváků",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_nejnavštěvovanějších_českých_filmů",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_nejnavštěvovanějších_českých_filmů",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "divaku",
+      "label": "Divaku",
+      "type": "number"
+    },
+    {
+      "key": "rok_uvedeni",
+      "label": "Rok Uvedeni",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "nazev": "Ženy v běhu",
+      "divaku": 1543842,
+      "rok_uvedeni": 2019
+    },
+    {
+      "poradi": 2,
+      "nazev": "Kolja",
+      "divaku": 1345369,
+      "rok_uvedeni": 1996
+    },
+    {
+      "poradi": 3,
+      "nazev": "Anděl Páně 2",
+      "divaku": 1279143,
+      "rok_uvedeni": 2016
+    },
+    {
+      "poradi": 4,
+      "nazev": "Vratné lahve",
+      "divaku": 1260745,
+      "rok_uvedeni": 2007
+    },
+    {
+      "poradi": 5,
+      "nazev": "Ženy v pokušení",
+      "divaku": 1236960,
+      "rok_uvedeni": 2010
+    },
+    {
+      "poradi": 6,
+      "nazev": "Tmavomodrý svět",
+      "divaku": 1193913,
+      "rok_uvedeni": 2003
+    },
+    {
+      "poradi": 7,
+      "nazev": "Pelíšky",
+      "divaku": 1059182,
+      "rok_uvedeni": 1999
+    },
+    {
+      "poradi": 8,
+      "nazev": "Vlny",
+      "divaku": 997137,
+      "rok_uvedeni": 2024
+    },
+    {
+      "poradi": 9,
+      "nazev": "Pupendo",
+      "divaku": 988351,
+      "rok_uvedeni": 2003
+    },
+    {
+      "poradi": 10,
+      "nazev": "Konec básníků v Čechách",
+      "divaku": 967604,
+      "rok_uvedeni": 1993
+    },
+    {
+      "poradi": 11,
+      "nazev": "Líbáš jako Bůh",
+      "divaku": 904589,
+      "rok_uvedeni": 2009
+    },
+    {
+      "poradi": 12,
+      "nazev": "Nahota na prodej",
+      "divaku": 866657,
+      "rok_uvedeni": 1993
+    },
+    {
+      "poradi": 14,
+      "nazev": "Muži v naději",
+      "divaku": 866393,
+      "rok_uvedeni": 2011
+    },
+    {
+      "poradi": 15,
+      "nazev": "Obsluhoval jsem anglického krále",
+      "divaku": 854553,
+      "rok_uvedeni": 2006
+    }
+  ],
+  "meta": {
+    "title": "Nejnavštěvovanější české filmy po roce 1989 - Free Download",
+    "description": "Nejnavštěvovanější české filmy v kinech od roku 1989 podle počtu diváků Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nejnavštěvovanější české filmy po roce 1989 | ListBase",
+    "seo_description": "Download Nejnavštěvovanější české filmy po roce 1989 — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_nejnavštěvovanějších_českých_filmů"
+    ]
+  }
+}
