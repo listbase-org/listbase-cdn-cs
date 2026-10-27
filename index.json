@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:24.375Z",
-  "total_datasets": 483,
-  "total_records": 414696,
+  "generated": "2026-10-27T02:54:26.838Z",
+  "total_datasets": 484,
+  "total_records": 414728,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "food",
@@ -2053,6 +2053,30 @@
         "xlsx": {
           "name": "cs-banky-certis_CS.xlsx",
           "size": 9604
+        }
+      }
+    },
+    {
+      "id": "cs-index-px-rocni-maxima-minima",
+      "name": "Index PX – roční maxima a minima",
+      "category": "finance",
+      "record_count": 32,
+      "columns": [
+        "rok",
+        "maximum",
+        "minimum"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Index_PX",
+      "updated": "2026-10",
+      "size": 3786,
+      "files": {
+        "csv": {
+          "name": "cs-index-px-rocni-maxima-minima_CS.csv",
+          "size": 667
+        },
+        "xlsx": {
+          "name": "cs-index-px-rocni-maxima-minima_CS.xlsx",
+          "size": 7306
         }
       }
     },
