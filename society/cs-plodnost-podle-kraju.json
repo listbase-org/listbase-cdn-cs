@@ -1,0 +1,96 @@
+{
+  "id": "cs-plodnost-podle-kraju",
+  "name": "Úhrnná plodnost podle krajů",
+  "title": "Úhrnná plodnost podle krajů",
+  "description": "Úhrnná plodnost v jednotlivých krajích Česka",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "plodnost",
+      "label": "Plodnost",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kraj": "Kraj Vysočina",
+      "plodnost": 1.5
+    },
+    {
+      "kraj": "Olomoucký kraj",
+      "plodnost": 1.46
+    },
+    {
+      "kraj": "Zlínský kraj",
+      "plodnost": 1.45
+    },
+    {
+      "kraj": "Jihočeský kraj",
+      "plodnost": 1.45
+    },
+    {
+      "kraj": "Pardubický kraj",
+      "plodnost": 1.45
+    },
+    {
+      "kraj": "Královéhradecký kraj",
+      "plodnost": 1.41
+    },
+    {
+      "kraj": "Ústecký kraj",
+      "plodnost": 1.41
+    },
+    {
+      "kraj": "Jihomoravský kraj",
+      "plodnost": 1.4
+    },
+    {
+      "kraj": "Středočeský kraj",
+      "plodnost": 1.38
+    },
+    {
+      "kraj": "Česko",
+      "plodnost": 1.37
+    },
+    {
+      "kraj": "Moravskoslezský kraj",
+      "plodnost": 1.35
+    },
+    {
+      "kraj": "Liberecký kraj",
+      "plodnost": 1.34
+    },
+    {
+      "kraj": "Plzeňský kraj",
+      "plodnost": 1.33
+    },
+    {
+      "kraj": "Praha",
+      "plodnost": 1.28
+    },
+    {
+      "kraj": "Karlovarský kraj",
+      "plodnost": 1.15
+    }
+  ],
+  "meta": {
+    "title": "Úhrnná plodnost podle krajů - Free Download",
+    "description": "Úhrnná plodnost v jednotlivých krajích Česka Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Úhrnná plodnost podle krajů | ListBase",
+    "seo_description": "Download Úhrnná plodnost podle krajů — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka"
+    ]
+  }
+}

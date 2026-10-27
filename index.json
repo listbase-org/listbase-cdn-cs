@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:54:39.708Z",
-  "total_datasets": 489,
-  "total_records": 414924,
+  "generated": "2026-10-27T02:54:42.341Z",
+  "total_datasets": 490,
+  "total_records": 414939,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "sports",
@@ -12777,6 +12777,29 @@
         "xlsx": {
           "name": "science-solubility-rules_CS.xlsx",
           "size": 9238
+        }
+      }
+    },
+    {
+      "id": "cs-plodnost-podle-kraju",
+      "name": "Úhrnná plodnost podle krajů",
+      "category": "society",
+      "record_count": 15,
+      "columns": [
+        "kraj",
+        "plodnost"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+      "updated": "2026-10",
+      "size": 2246,
+      "files": {
+        "csv": {
+          "name": "cs-plodnost-podle-kraju_CS.csv",
+          "size": 396
+        },
+        "xlsx": {
+          "name": "cs-plodnost-podle-kraju_CS.xlsx",
+          "size": 7003
         }
       }
     },
