@@ -1,0 +1,81 @@
+{
+  "id": "cs-krajske-soudy",
+  "name": "Krajské soudy v Česku",
+  "title": "Krajské soudy v Česku",
+  "description": "Seznam krajských soudů a Městského soudu v Praze včetně jejich poboček.",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Krajský_soud",
+  "source_url": "https://cs.wikipedia.org/wiki/Krajský_soud",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "court",
+      "label": "Court",
+      "type": "string"
+    },
+    {
+      "key": "branches",
+      "label": "Branches",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "court": "Městský soud v Praze",
+      "branches": "",
+      "note": "působnost pro Prahu"
+    },
+    {
+      "court": "Krajský soud v Praze",
+      "branches": "",
+      "note": "působnost pro Středočeský kraj"
+    },
+    {
+      "court": "Krajský soud v Českých Budějovicích",
+      "branches": "pobočkou v Táboře",
+      "note": ""
+    },
+    {
+      "court": "Krajský soud v Plzni",
+      "branches": "",
+      "note": ""
+    },
+    {
+      "court": "Krajský soud v Ústí nad Labem",
+      "branches": "pobočkou v Liberci",
+      "note": ""
+    },
+    {
+      "court": "Krajský soud v Hradci Králové",
+      "branches": "pobočkou v Pardubicích",
+      "note": ""
+    },
+    {
+      "court": "Krajský soud v Brně",
+      "branches": "pobočkou v Jihlavě a pobočkou ve Zlíně",
+      "note": ""
+    },
+    {
+      "court": "Krajský soud v Ostravě",
+      "branches": "pobočkou v Olomouci",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Krajské soudy v Česku - Free Download",
+    "description": "Seznam krajských soudů a Městského soudu v Praze včetně jejich poboček. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Krajské soudy v Česku | ListBase",
+    "seo_description": "Download Krajské soudy v Česku — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Krajský_soud"
+    ]
+  }
+}

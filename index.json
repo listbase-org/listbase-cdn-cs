@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-28T02:27:45.663Z",
-  "total_datasets": 501,
-  "total_records": 415566,
+  "generated": "2026-10-28T02:27:48.383Z",
+  "total_datasets": 502,
+  "total_records": 415574,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "math",
@@ -7688,6 +7688,30 @@
         "xlsx": {
           "name": "lang-pinyin-table_CS.xlsx",
           "size": 32041
+        }
+      }
+    },
+    {
+      "id": "cs-krajske-soudy",
+      "name": "Krajské soudy v Česku",
+      "category": "law",
+      "record_count": 8,
+      "columns": [
+        "court",
+        "branches",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Krajský_soud",
+      "updated": "2026-10",
+      "size": 2243,
+      "files": {
+        "csv": {
+          "name": "cs-krajske-soudy_CS.csv",
+          "size": 493
+        },
+        "xlsx": {
+          "name": "cs-krajske-soudy_CS.xlsx",
+          "size": 6998
         }
       }
     },
