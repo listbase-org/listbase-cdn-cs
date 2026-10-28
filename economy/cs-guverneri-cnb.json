@@ -1,0 +1,88 @@
+{
+  "id": "cs-guverneri-cnb",
+  "name": "Guvernéři České národní banky",
+  "title": "Guvernéři České národní banky",
+  "description": "Seznam guvernérů České národní banky od roku 1993 s obdobím výkonu funkce.",
+  "category": "economy",
+  "source": "https://cs.wikipedia.org/wiki/Česká_národní_banka",
+  "source_url": "https://cs.wikipedia.org/wiki/Česká_národní_banka",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Josef Tošovský",
+      "term_start": "20. ledna 1993",
+      "term_end": "17. prosince 1997",
+      "note": ""
+    },
+    {
+      "name": "Pavel Kysilka",
+      "term_start": "17. prosince 1997",
+      "term_end": "22. července 1998",
+      "note": "pověřen zastupováním guvernéra"
+    },
+    {
+      "name": "Josef Tošovský",
+      "term_start": "23. července 1998",
+      "term_end": "30. listopadu 2000",
+      "note": ""
+    },
+    {
+      "name": "Zdeněk Tůma",
+      "term_start": "1. prosince 2000",
+      "term_end": "30. června 2010",
+      "note": ""
+    },
+    {
+      "name": "Miroslav Singer",
+      "term_start": "1. července 2010",
+      "term_end": "30. června 2016",
+      "note": ""
+    },
+    {
+      "name": "Jiří Rusnok",
+      "term_start": "1. července 2016",
+      "term_end": "30. června 2022",
+      "note": ""
+    },
+    {
+      "name": "Aleš Michl (od 1. července 2022)",
+      "term_start": "",
+      "term_end": "",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Guvernéři České národní banky - Free Download",
+    "description": "Seznam guvernérů České národní banky od roku 1993 s obdobím výkonu funkce. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Guvernéři České národní banky | ListBase",
+    "seo_description": "Download Guvernéři České národní banky — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Česká_národní_banka"
+    ]
+  }
+}

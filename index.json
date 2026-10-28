@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-27T02:55:08.022Z",
-  "total_datasets": 500,
-  "total_records": 415559,
+  "generated": "2026-10-28T02:27:45.663Z",
+  "total_datasets": 501,
+  "total_records": 415566,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1325,6 +1325,31 @@
         "xlsx": {
           "name": "cs-ekonomicke-ukazatele_CS.xlsx",
           "size": 9009
+        }
+      }
+    },
+    {
+      "id": "cs-guverneri-cnb",
+      "name": "Guvernéři České národní banky",
+      "category": "economy",
+      "record_count": 7,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Česká_národní_banka",
+      "updated": "2026-10",
+      "size": 2487,
+      "files": {
+        "csv": {
+          "name": "cs-guverneri-cnb_CS.csv",
+          "size": 479
+        },
+        "xlsx": {
+          "name": "cs-guverneri-cnb_CS.xlsx",
+          "size": 7068
         }
       }
     },
