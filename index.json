@@ -1,12 +1,12 @@
 {
   "lang": "cs",
-  "generated": "2026-10-28T02:27:51.031Z",
-  "total_datasets": 503,
-  "total_records": 415625,
+  "generated": "2026-10-28T02:27:53.921Z",
+  "total_datasets": 504,
+  "total_records": 415693,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -106,6 +106,29 @@
     }
   ],
   "datasets": [
+    {
+      "id": "cs-ceska-narodni-plemena",
+      "name": "Česká národní plemena zvířat",
+      "category": "agriculture",
+      "record_count": 68,
+      "columns": [
+        "group",
+        "breed"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_českých_národních_plemen",
+      "updated": "2026-10",
+      "size": 8739,
+      "files": {
+        "csv": {
+          "name": "cs-ceska-narodni-plemena_CS.csv",
+          "size": 4340
+        },
+        "xlsx": {
+          "name": "cs-ceska-narodni-plemena_CS.xlsx",
+          "size": 8263
+        }
+      }
+    },
     {
       "id": "cs-hospodarska-zvirata-stavy",
       "name": "Stavy hospodářských zvířat v Česku",

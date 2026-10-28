@@ -1,0 +1,308 @@
+{
+  "id": "cs-ceska-narodni-plemena",
+  "name": "Česká národní plemena zvířat",
+  "title": "Česká národní plemena zvířat",
+  "description": "Seznam českých národních plemen hospodářských a zájmových zvířat (drůbež, holubi, králíci, psi, koně aj.).",
+  "category": "agriculture",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_českých_národních_plemen",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_českých_národních_plemen",
+  "updated": "2026-10",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "breed",
+      "label": "Breed",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "group": "Česká národní plemena slepic",
+      "breed": "Česká slepice zlatá kropenatá (Česká zlatá kropenka, Češka)"
+    },
+    {
+      "group": "Česká národní plemena slepic",
+      "breed": "Šumavanka"
+    },
+    {
+      "group": "Česká národní plemena hus",
+      "breed": "Česká husa"
+    },
+    {
+      "group": "Česká národní plemena hus",
+      "breed": "Česká husa chocholatá"
+    },
+    {
+      "group": "Česká národní plemena hus",
+      "breed": "Husa česká královská"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Benešovský holub"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Brněnský voláč"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Česká bagdeta"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Česká čejka"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Česká lyska"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Český bublák"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Český holub"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Český rejdič"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Český stavák"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Český voláč"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Hanácký voláč"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Moravská bagdeta"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Moravský bělohlávek"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Moravský morák"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Moravský pštros"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Moravský voláč"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Ostravská bagdeta"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Prácheňský káník"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Pražský rejdič krátkozobý"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Pražský rejdič středozobý"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Rakovnický kotrlák"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Slezský barevnohlávek"
+    },
+    {
+      "group": "Česká národní plemena holubů",
+      "breed": "Slezský voláč"
+    },
+    {
+      "group": "Česká národní plemena králíků",
+      "breed": "Český albín"
+    },
+    {
+      "group": "Česká národní plemena králíků",
+      "breed": "Český červený králík"
+    },
+    {
+      "group": "Česká národní plemena králíků",
+      "breed": "Český černopesíkatý"
+    },
+    {
+      "group": "Česká národní plemena králíků",
+      "breed": "Český luštič"
+    },
+    {
+      "group": "Česká národní plemena králíků",
+      "breed": "Český strakáč"
+    },
+    {
+      "group": "Česká národní plemena králíků",
+      "breed": "Moravský bílý hnědooký"
+    },
+    {
+      "group": "Česká národní plemena králíků",
+      "breed": "Moravský modrý králík"
+    },
+    {
+      "group": "Česká národní plemena nutrií",
+      "breed": "Český typ standardní nutrie"
+    },
+    {
+      "group": "Česká národní plemena nutrií",
+      "breed": "Moravská stříbrná nutrie"
+    },
+    {
+      "group": "Česká národní plemena nutrií",
+      "breed": "Přeštická nutrie"
+    },
+    {
+      "group": "Česká národní plemena ovcí",
+      "breed": "Šumavská ovce"
+    },
+    {
+      "group": "Česká národní plemena ovcí",
+      "breed": "Valašská ovce"
+    },
+    {
+      "group": "Česká národní plemena koz",
+      "breed": "Bílá (bezrohá) krátkosrstá koza"
+    },
+    {
+      "group": "Česká národní plemena koz",
+      "breed": "Hnědá (bezrohá) krátkosrstá koza"
+    },
+    {
+      "group": "Česká národní plemena hovězího dobytka",
+      "breed": "Česká červinka"
+    },
+    {
+      "group": "Česká národní plemena hovězího dobytka",
+      "breed": "Český strakatý skot (Český strakatý hovězí dobytek)"
+    },
+    {
+      "group": "Česká národní plemena hovězího dobytka",
+      "breed": "Kráva plemene český strakatý skot"
+    },
+    {
+      "group": "Česká národní plemena hovězího dobytka",
+      "breed": "Býk plemene český strakatý skot"
+    },
+    {
+      "group": "Česká národní plemena prasat",
+      "breed": "Přeštické černostrakaté prase"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Český teplokrevník"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Moravský teplokrevník"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Českomoravský belgický kůň"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Huculský kůň"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Starokladrubský kůň"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Slezský norik"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Kinský kůň"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Český sportovní pony"
+    },
+    {
+      "group": "Česká národní plemena koní",
+      "breed": "Hucul"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "† Beskydský bundáš"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Český fousek"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Český horský pes"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Český strakatý pes (dříve Horákův laboratorní pes)"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Český teriér"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Chodský pes"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Pražský krysařík"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Československý vlčák (po rozdělení Československa patronát v rámci FCI převzalo Slovensko, kynologické organizace obou nástupnických států však československého vlčáka řadí mezi svá národní plemena)"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Chodský pes"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Český teriér"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Pražský krysařík"
+    },
+    {
+      "group": "Česká národní plemena psů",
+      "breed": "Československý vlčák"
+    }
+  ],
+  "meta": {
+    "title": "Česká národní plemena zvířat - Free Download",
+    "description": "Seznam českých národních plemen hospodářských a zájmových zvířat (drůbež, holubi, králíci, psi, koně aj.). Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Česká národní plemena zvířat | ListBase",
+    "seo_description": "Download Česká národní plemena zvířat — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_českých_národních_plemen"
+    ]
+  }
+}
