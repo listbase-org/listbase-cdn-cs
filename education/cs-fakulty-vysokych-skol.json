@@ -1,0 +1,816 @@
+{
+  "id": "cs-fakulty-vysokych-skol",
+  "name": "Fakulty vysokých škol v Česku",
+  "title": "Fakulty vysokých škol v Česku",
+  "description": "Seznam fakult českých vysokých škol a univerzit s jejich sídlem.",
+  "category": "education",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_fakult_podle_vysokých_škol_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_fakult_podle_vysokých_škol_v_Česku",
+  "updated": "2026-10",
+  "record_count": 155,
+  "columns": [
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "faculty",
+      "label": "Faculty",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Právnická fakulta",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Pedagogická fakulta",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Filozofická fakulta",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Evangelická teologická fakulta",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Fakulta sociálních věd",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Přírodovědecká fakulta",
+      "location": "Praha 2"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Matematicko-fyzikální fakulta",
+      "location": "Praha 2"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "1. lékařská fakulta",
+      "location": "Praha 2"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "2. lékařská fakulta",
+      "location": "Praha 5"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Fakulta humanitních studií",
+      "location": "Praha 5"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Katolická teologická fakulta",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Fakulta tělesné výchovy a sportu",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Husitská teologická fakulta",
+      "location": "Praha 4"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "3. lékařská fakulta",
+      "location": "Praha 10"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Lékařská fakulta v Hradci Králové",
+      "location": "Hradec Králové"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Farmaceutická fakulta v Hradci Králové",
+      "location": "Hradec Králové"
+    },
+    {
+      "university": "Univerzita Karlova",
+      "faculty": "Lékařská fakulta v Plzni",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Právnická fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Lékařská fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Přírodovědecká fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Filozofická fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Pedagogická fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Farmaceutická fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Ekonomicko-správní",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Fakulta informatiky",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Fakulta sociálních studií",
+      "location": "Brno"
+    },
+    {
+      "university": "Masarykova univerzita",
+      "faculty": "Fakulta sportovních studií",
+      "location": "Brno"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Cyrilometodějská teologická fakulta",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Filozofická fakulta",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Právnická fakulta",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Lékařská fakulta",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Pedagogická fakulta",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Přírodovědecká fakulta",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Fakulta tělesné kultury",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Univerzita Palackého v Olomouci",
+      "faculty": "Fakulta zdravotnických věd",
+      "location": "Olomouc"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Pedagogická fakulta",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Zemědělská fakulta",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Přírodovědecká fakulta",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Teologická fakulta",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Zdravotně sociální fakulta",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Filozofická fakulta",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Ekonomická fakulta",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Jihočeská univerzita v Českých Budějovicích",
+      "faculty": "Fakulta rybářství a ochrany vod",
+      "location": "České Budějovice"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta strojní",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta elektrotechnická",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta pedagogická",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta aplikovaných věd",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta ekonomická",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta právnická",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta filozofická",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta zdravotnických studií",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Západočeská univerzita v Plzni",
+      "faculty": "Fakulta designu a umění Ladislava Sutnara",
+      "location": "Plzeň"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Pedagogická fakulta",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Fakulta sociálně ekonomická",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Fakulta životního prostředí",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Fakulta umění a designu",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Přírodovědecká fakulta",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Filozofická fakulta",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Fakulta strojního inženýrství",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Jana Evangelisty Purkyně v Ústí nad Labem",
+      "faculty": "Fakulta zdravotnických studií",
+      "location": "Ústí nad Labem"
+    },
+    {
+      "university": "Univerzita Hradec Králové",
+      "faculty": "Pedagogická fakulta",
+      "location": "Hradec Králové"
+    },
+    {
+      "university": "Univerzita Hradec Králové",
+      "faculty": "Fakulta informatiky a managementu",
+      "location": "Hradec Králové"
+    },
+    {
+      "university": "Univerzita Hradec Králové",
+      "faculty": "Filozofická fakulta",
+      "location": "Hradec Králové"
+    },
+    {
+      "university": "Univerzita Hradec Králové",
+      "faculty": "Přírodovědecká fakulta",
+      "location": "Hradec Králové"
+    },
+    {
+      "university": "Ostravská univerzita",
+      "faculty": "Pedagogická fakulta",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Ostravská univerzita",
+      "faculty": "Filozofická fakulta",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Ostravská univerzita",
+      "faculty": "Přírodovědecká fakulta",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Ostravská univerzita",
+      "faculty": "Fakulta umění",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Ostravská univerzita",
+      "faculty": "Fakulta sociálních studií",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Ostravská univerzita",
+      "faculty": "Lékařská fakulta",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Slezská univerzita v Opavě",
+      "faculty": "Filozoficko-přírodovědecká fakulta",
+      "location": "Opava"
+    },
+    {
+      "university": "Slezská univerzita v Opavě",
+      "faculty": "Fakulta veřejných politik",
+      "location": "Opava"
+    },
+    {
+      "university": "Slezská univerzita v Opavě",
+      "faculty": "Obchodně podnikatelská fakulta",
+      "location": "Karviná"
+    },
+    {
+      "university": "Univerzita Tomáše Bati ve Zlíně",
+      "faculty": "Fakulta technologická",
+      "location": "Zlín"
+    },
+    {
+      "university": "Univerzita Tomáše Bati ve Zlíně",
+      "faculty": "Fakulta managementu a ekonomiky",
+      "location": "Zlín"
+    },
+    {
+      "university": "Univerzita Tomáše Bati ve Zlíně",
+      "faculty": "Fakulta multimediálních komunikací",
+      "location": "Zlín"
+    },
+    {
+      "university": "Univerzita Tomáše Bati ve Zlíně",
+      "faculty": "Fakulta aplikované informatiky",
+      "location": "Zlín"
+    },
+    {
+      "university": "Univerzita Tomáše Bati ve Zlíně",
+      "faculty": "Fakulta humanitních studií",
+      "location": "Zlín"
+    },
+    {
+      "university": "Univerzita Tomáše Bati ve Zlíně",
+      "faculty": "Fakulta logistiky a krizového řízení",
+      "location": "Uherské Hradiště"
+    },
+    {
+      "university": "Veterinární univerzita Brno",
+      "faculty": "Fakulta veterinárního lékařství",
+      "location": "Brno"
+    },
+    {
+      "university": "Veterinární univerzita Brno",
+      "faculty": "Fakulta veterinární hygieny a ekologie",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoká škola ekonomická v Praze",
+      "faculty": "Národohospodářská fakulta",
+      "location": "Praha 3"
+    },
+    {
+      "university": "Vysoká škola ekonomická v Praze",
+      "faculty": "Fakulta podnikohospodářská",
+      "location": "Praha 3"
+    },
+    {
+      "university": "Vysoká škola ekonomická v Praze",
+      "faculty": "Fakulta mezinárodních vztahů",
+      "location": "Praha 3"
+    },
+    {
+      "university": "Vysoká škola ekonomická v Praze",
+      "faculty": "Fakulta financí a účetnictví",
+      "location": "Praha 3"
+    },
+    {
+      "university": "Vysoká škola ekonomická v Praze",
+      "faculty": "Fakulta informatiky a statistiky",
+      "location": "Praha 3"
+    },
+    {
+      "university": "Vysoká škola ekonomická v Praze",
+      "faculty": "Fakulta managementu",
+      "location": "Jindřichův Hradec"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta stavební",
+      "location": "Praha 6"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta strojní",
+      "location": "Praha 6"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta elektrotechnická",
+      "location": "Praha 6"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta architektury",
+      "location": "Praha 6"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta informačních technologií",
+      "location": "Praha 6"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta jaderná a fyzikálně inženýrská",
+      "location": "Praha 1"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta dopravní",
+      "location": "Praha 1"
+    },
+    {
+      "university": "České vysoké učení technické v Praze",
+      "faculty": "Fakulta biomedicínského inženýrství",
+      "location": "Kladno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta stavební",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta strojního inženýrství",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta chemická",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta architektury",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta elektrotechniky a komunikačních technologií",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta informačních technologií",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta podnikatelská",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoké učení technické v Brně",
+      "faculty": "Fakulta výtvarných umění",
+      "location": "Brno"
+    },
+    {
+      "university": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "faculty": "Hornicko-geologická fakulta",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "faculty": "Fakulta strojní",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "faculty": "Fakulta materiálově-technologická",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "faculty": "Fakulta ekonomická",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "faculty": "Fakulta elektrotechniky a informatiky",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "faculty": "Fakulta stavební",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Vysoká škola báňská – Technická univerzita Ostrava",
+      "faculty": "Fakulta bezpečnostního inženýrství",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Technická univerzita v Liberci",
+      "faculty": "Fakulta strojní",
+      "location": "Liberec"
+    },
+    {
+      "university": "Technická univerzita v Liberci",
+      "faculty": "Fakulta textilní",
+      "location": "Liberec"
+    },
+    {
+      "university": "Technická univerzita v Liberci",
+      "faculty": "Fakulta přírodovědně-humanitní a pedagogická",
+      "location": "Liberec"
+    },
+    {
+      "university": "Technická univerzita v Liberci",
+      "faculty": "Ekonomická fakulta",
+      "location": "Liberec"
+    },
+    {
+      "university": "Technická univerzita v Liberci",
+      "faculty": "Fakulta umění a architektury",
+      "location": "Liberec"
+    },
+    {
+      "university": "Technická univerzita v Liberci",
+      "faculty": "Fakulta mechatroniky, informatiky a mezioborových studií",
+      "location": "Liberec"
+    },
+    {
+      "university": "Technická univerzita v Liberci",
+      "faculty": "Fakulta zdravotnických studií",
+      "location": "Liberec"
+    },
+    {
+      "university": "Univerzita Pardubice",
+      "faculty": "Fakulta chemicko-technologická",
+      "location": "Pardubice"
+    },
+    {
+      "university": "Univerzita Pardubice",
+      "faculty": "Fakulta ekonomicko-správní",
+      "location": "Pardubice"
+    },
+    {
+      "university": "Univerzita Pardubice",
+      "faculty": "Dopravní fakulta Jana Pernera",
+      "location": "Pardubice"
+    },
+    {
+      "university": "Univerzita Pardubice",
+      "faculty": "Fakulta filozofická",
+      "location": "Pardubice"
+    },
+    {
+      "university": "Univerzita Pardubice",
+      "faculty": "Fakulta zdravotnických studií",
+      "location": "Pardubice"
+    },
+    {
+      "university": "Univerzita Pardubice",
+      "faculty": "Fakulta elektrotechniky a informatiky",
+      "location": "Pardubice"
+    },
+    {
+      "university": "Univerzita Pardubice",
+      "faculty": "Fakulta restaurování",
+      "location": "Litomyšl"
+    },
+    {
+      "university": "Vysoká škola chemicko-technologická v Praze",
+      "faculty": "Fakulta chemické technologie",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Vysoká škola chemicko-technologická v Praze",
+      "faculty": "Fakulta potravinářské a biochemické technologie",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Vysoká škola chemicko-technologická v Praze",
+      "faculty": "Fakulta technologie ochrany prostředí",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Vysoká škola chemicko-technologická v Praze",
+      "faculty": "Fakulta chemicko-inženýrská",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Česká zemědělská univerzita v Praze",
+      "faculty": "Fakulta lesnická a dřevařská",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Česká zemědělská univerzita v Praze",
+      "faculty": "Fakulta agrobiologie, potravinových a přírodních zdrojů",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Česká zemědělská univerzita v Praze",
+      "faculty": "Technická fakulta",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Česká zemědělská univerzita v Praze",
+      "faculty": "Provozně ekonomická fakulta",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Česká zemědělská univerzita v Praze",
+      "faculty": "Fakulta životního prostředí",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Česká zemědělská univerzita v Praze",
+      "faculty": "Fakulta tropického zemědělství",
+      "location": "Praha 6"
+    },
+    {
+      "university": "Mendelova univerzita v Brně",
+      "faculty": "Agronomická fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Mendelova univerzita v Brně",
+      "faculty": "Lesnická a dřevařská fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Mendelova univerzita v Brně",
+      "faculty": "Provozně ekonomická fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Mendelova univerzita v Brně",
+      "faculty": "Fakulta regionálního rozvoje a mezinárodních studií",
+      "location": "Brno"
+    },
+    {
+      "university": "Mendelova univerzita v Brně",
+      "faculty": "Zahradnická fakulta",
+      "location": "Lednice"
+    },
+    {
+      "university": "Akademie múzických umění v Praze",
+      "faculty": "Hudební a taneční fakulta",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Akademie múzických umění v Praze",
+      "faculty": "Divadelní fakulta",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Akademie múzických umění v Praze",
+      "faculty": "Filmová a televizní fakulta",
+      "location": "Praha 1"
+    },
+    {
+      "university": "Janáčkova akademie múzických umění",
+      "faculty": "Hudební fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Janáčkova akademie múzických umění",
+      "faculty": "Divadelní fakulta",
+      "location": "Brno"
+    },
+    {
+      "university": "Univerzita obrany",
+      "faculty": "Fakulta vojenského leadershipu",
+      "location": "Brno"
+    },
+    {
+      "university": "Univerzita obrany",
+      "faculty": "Fakulta vojenských technologií",
+      "location": "Brno"
+    },
+    {
+      "university": "Univerzita obrany",
+      "faculty": "Vojenská lékařská fakulta",
+      "location": "Hradec Králové"
+    },
+    {
+      "university": "Policejní akademie České republiky v Praze",
+      "faculty": "Fakulta bezpečnostně právní",
+      "location": "Praha 4"
+    },
+    {
+      "university": "Policejní akademie České republiky v Praze",
+      "faculty": "Fakulta bezpečnostního managementu",
+      "location": "Praha 4"
+    },
+    {
+      "university": "Vysoká škola finanční a správní , a.s.",
+      "faculty": "Fakulta ekonomických studií",
+      "location": ""
+    },
+    {
+      "university": "Vysoká škola finanční a správní , a.s.",
+      "faculty": "Fakulta právních a správních studií",
+      "location": ""
+    },
+    {
+      "university": "Hornoslezská vysoká škola obchodní v Katovicích",
+      "faculty": "Zahraniční fakulta",
+      "location": "Ostrava"
+    },
+    {
+      "university": "Vysoká škola Humanitas v Sosnovci",
+      "faculty": "Fakulta společenských studií",
+      "location": "Vsetín"
+    },
+    {
+      "university": "Vysoká škola Jagiellońská v Toruni",
+      "faculty": "Fakulta veřejnosprávních a ekonomických studií v Uherském Hradišti, Vysoká škola Jagiellonská v Toruni",
+      "location": "Uherské Hradiště"
+    },
+    {
+      "university": "Vysoká škola manažerská ve Varšavě",
+      "faculty": "Fakulta Jana Amose",
+      "location": "Karviná"
+    }
+  ],
+  "meta": {
+    "title": "Fakulty vysokých škol v Česku - Free Download",
+    "description": "Seznam fakult českých vysokých škol a univerzit s jejich sídlem. Contains 155 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fakulty vysokých škol v Česku | ListBase",
+    "seo_description": "Download Fakulty vysokých škol v Česku — 155 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 155 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_fakult_podle_vysokých_škol_v_Česku"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-28T02:27:53.921Z",
-  "total_datasets": 504,
-  "total_records": 415693,
+  "generated": "2026-10-28T02:27:56.433Z",
+  "total_datasets": 505,
+  "total_records": 415848,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -1396,6 +1396,30 @@
         "xlsx": {
           "name": "cs-index-prumyslove-produkce_CS.xlsx",
           "size": 7011
+        }
+      }
+    },
+    {
+      "id": "cs-fakulty-vysokych-skol",
+      "name": "Fakulty vysokých škol v Česku",
+      "category": "education",
+      "record_count": 155,
+      "columns": [
+        "university",
+        "faculty",
+        "location"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_fakult_podle_vysokých_škol_v_Česku",
+      "updated": "2026-10",
+      "size": 24486,
+      "files": {
+        "csv": {
+          "name": "cs-fakulty-vysokych-skol_CS.csv",
+          "size": 12232
+        },
+        "xlsx": {
+          "name": "cs-fakulty-vysokych-skol_CS.xlsx",
+          "size": 10662
         }
       }
     },
