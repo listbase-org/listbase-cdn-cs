@@ -1,0 +1,281 @@
+{
+  "id": "cs-ceske-kluby-v-hokejove-lize-mistru",
+  "name": "České kluby v hokejové Lize mistrů",
+  "title": "České kluby v hokejové Lize mistrů",
+  "description": "Výsledky českých hokejových klubů v jednotlivých ročnících Champions Hockey League.",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/České_kluby_v_hokejové_Lize_mistrů",
+  "source_url": "https://cs.wikipedia.org/wiki/České_kluby_v_hokejové_Lize_mistrů",
+  "updated": "2026-10",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "club",
+      "label": "Club",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "2014/15",
+      "club": "Bílí Tygři Liberec",
+      "result": "2. v základní skupině A"
+    },
+    {
+      "season": "2014/15",
+      "club": "HC Sparta Praha",
+      "result": "Osmifinále prohra 4:3 s Linköping HC"
+    },
+    {
+      "season": "2014/15",
+      "club": "HC Dynamo Pardubice",
+      "result": "4. v základní skupině F"
+    },
+    {
+      "season": "2014/15",
+      "club": "HC Vítkovice Ridera",
+      "result": "3. v základní skupině H"
+    },
+    {
+      "season": "2014/15",
+      "club": "HC Oceláři Třinec",
+      "result": "3. v základní skupině E"
+    },
+    {
+      "season": "2014/15",
+      "club": "PSG Zlín",
+      "result": "2. v základní skupině D"
+    },
+    {
+      "season": "2015/16",
+      "club": "Bílí Tygři Liberec",
+      "result": "Osmifinále prohra 9:6 s HC Davos"
+    },
+    {
+      "season": "2015/16",
+      "club": "HC Sparta Praha",
+      "result": "Osmifinále prohra 6:5 s Oulun Kärpät"
+    },
+    {
+      "season": "2015/16",
+      "club": "HC Dynamo Pardubice",
+      "result": "3. v základní skupině E"
+    },
+    {
+      "season": "2015/16",
+      "club": "HC Vítkovice Ridera",
+      "result": "Nejlepších 32 prohra 4:2 s Tappara Tampere"
+    },
+    {
+      "season": "2015/16",
+      "club": "HC Oceláři Třinec",
+      "result": "Nejlepších 32 prohra 5:3 s HV71"
+    },
+    {
+      "season": "2015/16",
+      "club": "HC Verva Litvínov",
+      "result": "Osmifinále prohra 7:2 s Frölunda Göteborg"
+    },
+    {
+      "season": "2016/17",
+      "club": "Bílí Tygři Liberec",
+      "result": "Osmifinále prohra 3:2 s HC Vítkovice Ridera"
+    },
+    {
+      "season": "2016/17",
+      "club": "HC Sparta Praha",
+      "result": "Finále prohra 4:3 s Frölunda HC"
+    },
+    {
+      "season": "2016/17",
+      "club": "HC Dynamo Pardubice",
+      "result": "3. v základní skupině A"
+    },
+    {
+      "season": "2016/17",
+      "club": "HC Vítkovice Ridera",
+      "result": "Čtvrtfinále prohra 8:4 s Fribourg-Gottéron"
+    },
+    {
+      "season": "2016/17",
+      "club": "HC Škoda Plzeň",
+      "result": "Nejlepších 32 prohra 7:4 s HC Lugano"
+    },
+    {
+      "season": "2016/17",
+      "club": "BK Mladá Boleslav",
+      "result": "3. v základní skupině L"
+    },
+    {
+      "season": "2017/18",
+      "club": "HC Kometa Brno",
+      "result": "Čtvrtfinále prohra 8:6 s JYP Jyväskylä"
+    },
+    {
+      "season": "2017/18",
+      "club": "HC Oceláři Třinec",
+      "result": "Semifinále prohra 7:6 s JYP Jyväskylä"
+    },
+    {
+      "season": "2017/18",
+      "club": "Bílí Tygři Liberec",
+      "result": "Semifinále prohra 7:2 s Växjö Lakers HC"
+    },
+    {
+      "season": "2017/18",
+      "club": "Mountfield HK",
+      "result": "4. v základní skupině F"
+    },
+    {
+      "season": "2018/19",
+      "club": "HC Škoda Plzeň",
+      "result": "Semifinále prohra 9:4 s Frölunda HC"
+    },
+    {
+      "season": "2018/19",
+      "club": "Mountfield HK",
+      "result": "4. v základní skupině F"
+    },
+    {
+      "season": "2018/19",
+      "club": "HC Kometa Brno",
+      "result": "Čtvrtfinále prohra 10:2 s Frölunda HC"
+    },
+    {
+      "season": "2018/19",
+      "club": "HC Oceláři Třinec",
+      "result": "4. v základní skupině E"
+    },
+    {
+      "season": "2019/20",
+      "club": "Bílí Tygři Liberec",
+      "result": "3. v základní skupině E"
+    },
+    {
+      "season": "2019/20",
+      "club": "HC Oceláři Třinec",
+      "result": "3. v základní skupině D"
+    },
+    {
+      "season": "2019/20",
+      "club": "HC Škoda Plzeň",
+      "result": "Osmifinále prohra 6:5 s Lausanne HC"
+    },
+    {
+      "season": "2019/20",
+      "club": "Mountfield HK",
+      "result": "Finále prohra 3:1 s Frölunda HC"
+    },
+    {
+      "season": "2020/21",
+      "club": "Bílí Tygři Liberec",
+      "result": "zrušeno kvůli pandemii covidu-19"
+    },
+    {
+      "season": "2020/21",
+      "club": "HC Oceláři Třinec",
+      "result": "zrušeno kvůli pandemii covidu-19"
+    },
+    {
+      "season": "2020/21",
+      "club": "HC Sparta Praha",
+      "result": "zrušeno kvůli pandemii covidu-19"
+    },
+    {
+      "season": "2021/22",
+      "club": "BK Mladá Boleslav",
+      "result": "4. v základní skupině B"
+    },
+    {
+      "season": "2021/22",
+      "club": "HC Oceláři Třinec",
+      "result": "3. v základní skupině F"
+    },
+    {
+      "season": "2021/22",
+      "club": "HC Sparta Praha",
+      "result": "Čtvrtfinále prohra 6:5 s Rögle BK"
+    },
+    {
+      "season": "2022/23",
+      "club": "HC Oceláři Třinec",
+      "result": "3. v základní skupině H"
+    },
+    {
+      "season": "2022/23",
+      "club": "Mountfield HK",
+      "result": "Čtvrtfinále prohra 4:3 s EV Zug"
+    },
+    {
+      "season": "2022/23",
+      "club": "HC Sparta Praha",
+      "result": "4. v základní skupině A"
+    },
+    {
+      "season": "2023/24",
+      "club": "HC Oceláři Třinec",
+      "result": "Čtvrtfinále prohra 6:8 s Skellefteå AIK"
+    },
+    {
+      "season": "2023/24",
+      "club": "HC Dynamo Pardubice",
+      "result": "Čtvrtfinále prohra 7:8 s Rauman Lukko"
+    },
+    {
+      "season": "2023/24",
+      "club": "HC Vítkovice Ridera",
+      "result": "Semifinále prohra 4:5 s Skellefteå AIK"
+    },
+    {
+      "season": "2024/25",
+      "club": "HC Oceláři Třinec",
+      "result": "Osmifinále prohra 5:2 s HC Sparta Praha"
+    },
+    {
+      "season": "2024/25",
+      "club": "HC Dynamo Pardubice",
+      "result": "nepostoupili do vyřazovací fáze (17. místo)"
+    },
+    {
+      "season": "2024/25",
+      "club": "HC Sparta Praha",
+      "result": "Semifinále prohra 10:4 s Färjestad BK"
+    },
+    {
+      "season": "2025/26",
+      "club": "HC Kometa Brno",
+      "result": "Osmifinále prohra 9:6 s Luleå HF"
+    },
+    {
+      "season": "2025/26",
+      "club": "Mountfield HK",
+      "result": "nepostoupili do vyřazovací fáze (17. místo)"
+    },
+    {
+      "season": "2025/26",
+      "club": "HC Sparta Praha",
+      "result": "Osmifinále prohra 8:3 s EV Zug"
+    }
+  ],
+  "meta": {
+    "title": "České kluby v hokejové Lize mistrů - Free Download",
+    "description": "Výsledky českých hokejových klubů v jednotlivých ročnících Champions Hockey League. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "České kluby v hokejové Lize mistrů | ListBase",
+    "seo_description": "Download České kluby v hokejové Lize mistrů — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/České_kluby_v_hokejové_Lize_mistrů"
+    ]
+  }
+}

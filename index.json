@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-28T02:27:56.433Z",
-  "total_datasets": 505,
-  "total_records": 415848,
+  "generated": "2026-10-28T02:27:59.534Z",
+  "total_datasets": 506,
+  "total_records": 415896,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -13249,6 +13249,30 @@
         "xlsx": {
           "name": "cs-vyvoj-obyvatelstva_CS.xlsx",
           "size": 18978
+        }
+      }
+    },
+    {
+      "id": "cs-ceske-kluby-v-hokejove-lize-mistru",
+      "name": "České kluby v hokejové Lize mistrů",
+      "category": "sports",
+      "record_count": 48,
+      "columns": [
+        "season",
+        "club",
+        "result"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/České_kluby_v_hokejové_Lize_mistrů",
+      "updated": "2026-10",
+      "size": 7655,
+      "files": {
+        "csv": {
+          "name": "cs-ceske-kluby-v-hokejove-lize-mistru_CS.csv",
+          "size": 3268
+        },
+        "xlsx": {
+          "name": "cs-ceske-kluby-v-hokejove-lize-mistru_CS.xlsx",
+          "size": 8125
         }
       }
     },
