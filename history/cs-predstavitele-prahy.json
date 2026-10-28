@@ -1,0 +1,464 @@
+{
+  "id": "cs-predstavitele-prahy",
+  "name": "Představitelé Prahy (purkmistři, starostové, primátoři)",
+  "title": "Představitelé Prahy (purkmistři, starostové, primátoři)",
+  "description": "Seznam purkmistrů, starostů a primátorů hlavního města Prahy od roku 1784 do současnosti.",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_představitelů_Prahy",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_představitelů_Prahy",
+  "updated": "2026-10",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "no",
+      "label": "No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "office": "Purkmistr",
+      "no": "1.",
+      "name": "JUDr. Bernard Augustin Zahořanský z Vorlíka",
+      "party": "",
+      "term_start": "30. 4. / 11. 6. 1784",
+      "term_end": "1788"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "2.",
+      "name": "Ondřej Steiner ze Steinerů",
+      "party": "",
+      "term_start": "1788",
+      "term_end": "1799"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "3.",
+      "name": "Jan Jindřich Neuber",
+      "party": "",
+      "term_start": "červen 1800",
+      "term_end": "1804"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "4.",
+      "name": "Ondřej Steiner ze Steinerů",
+      "party": "",
+      "term_start": "1804",
+      "term_end": "4. 7. 1810"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "5.",
+      "name": "Jan Jiří Karl",
+      "party": "",
+      "term_start": "1811",
+      "term_end": "20. 10. 1819"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "6.",
+      "name": "Josef Kirpal",
+      "party": "",
+      "term_start": "20. 5. 1820",
+      "term_end": "22. 2. 1823"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "7.",
+      "name": "Petr rytíř ze Sporschilů",
+      "party": "",
+      "term_start": "29. 6. 1825 / 11. 8. 1826",
+      "term_end": "31. 7. 1838"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "8.",
+      "name": "Josef rytíř Müller z Jiřetína",
+      "party": "",
+      "term_start": "1838 / 17. 4. 1839",
+      "term_end": "březen 1848"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "9.",
+      "name": "JUDr. Antonín Strobach",
+      "party": "",
+      "term_start": "9. 4. 1848",
+      "term_end": "květen 1848"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "10.",
+      "name": "Tomáš Pštross",
+      "party": "",
+      "term_start": "18. 5. 1848",
+      "term_end": "květen 1848"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "11.",
+      "name": "JUDr. Václav Vaňka",
+      "party": "Konzervativní strana středu",
+      "term_start": "31. 5. 1848",
+      "term_end": "duben 1861"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "12.",
+      "name": "František Václav Pštross",
+      "party": "Národní strana",
+      "term_start": "11. 4. 1861",
+      "term_end": "12. 6. 1863"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "13.",
+      "name": "JUDr. Václav rytíř Bělský",
+      "party": "Národní strana",
+      "term_start": "červen 1863",
+      "term_end": "4. 11. 1867"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "14.",
+      "name": "JUDr. Karel Leopold Klaudy",
+      "party": "Národní strana",
+      "term_start": "7. 1. 1868",
+      "term_end": "23. 9. 1869"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "15.",
+      "name": "František Dittrich",
+      "party": "Národní strana",
+      "term_start": "28. 2. 1870",
+      "term_end": "duben 1873"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "16.",
+      "name": "Josef Huleš",
+      "party": "Národní strana",
+      "term_start": "9. 4. 1873",
+      "term_end": "květen 1876"
+    },
+    {
+      "office": "Purkmistr",
+      "no": "17.",
+      "name": "Emilián, rytíř Skramlík",
+      "party": "Národní strana",
+      "term_start": "12. 7. 1876",
+      "term_end": "31. 8. 1882"
+    },
+    {
+      "office": "Portrét",
+      "no": "1.",
+      "name": "JUDr. Tomáš Černý",
+      "party": "staročeši",
+      "term_start": "1882",
+      "term_end": "1885"
+    },
+    {
+      "office": "Portrét",
+      "no": "2.",
+      "name": "Ferdinand Vališ",
+      "party": "staročeši",
+      "term_start": "1885",
+      "term_end": "19. 9. 1887"
+    },
+    {
+      "office": "Portrét",
+      "no": "3.",
+      "name": "JUDr. Jindřich Šolc",
+      "party": "staročeši",
+      "term_start": "12. 9. 1887",
+      "term_end": "listopad 1893"
+    },
+    {
+      "office": "Portrét",
+      "no": "4.",
+      "name": "Ing. arch. Čeněk Gregor",
+      "party": "staročeši",
+      "term_start": "17. 11. 1893",
+      "term_end": "12. 12. 1896"
+    },
+    {
+      "office": "Portrét",
+      "no": "5.",
+      "name": "JUDr. Jan Podlipný",
+      "party": "mladočeši",
+      "term_start": "2. 1. 1897",
+      "term_end": "18. 1. 1900"
+    },
+    {
+      "office": "Portrét",
+      "no": "6.",
+      "name": "JUDr. Vladimír Srb",
+      "party": "staročeši",
+      "term_start": "5. 2. 1900",
+      "term_end": "10. 2. 1906"
+    },
+    {
+      "office": "Portrét",
+      "no": "7.",
+      "name": "JUDr. Karel Groš",
+      "party": "mladočeši",
+      "term_start": "15. 2. 1906",
+      "term_end": "listopad 1918"
+    },
+    {
+      "office": "Starosta",
+      "no": "1.",
+      "name": "JUDr. Přemysl Šámal",
+      "party": "ČStD",
+      "term_start": "13. 11. 1918",
+      "term_end": "15. 6. 1919"
+    },
+    {
+      "office": "Starosta",
+      "no": "2.",
+      "name": "JUDr. Karel Baxa",
+      "party": "ČSNS",
+      "term_start": "15. 6. 1919",
+      "term_end": "31. 12. 1921"
+    },
+    {
+      "office": "Primátor",
+      "no": "1.",
+      "name": "JUDr. Karel Baxa",
+      "party": "ČSNS",
+      "term_start": "1. 1. 1922",
+      "term_end": "5. 4. 1937"
+    },
+    {
+      "office": "Primátor",
+      "no": "2.",
+      "name": "PhDr. Petr Zenkl",
+      "party": "ČSNS",
+      "term_start": "duben 1937",
+      "term_end": "24. 2. 1939"
+    },
+    {
+      "office": "Primátor",
+      "no": "3.",
+      "name": "JUDr. Otakar Klapka",
+      "party": "SNJ",
+      "term_start": "únor 1939",
+      "term_end": "9. 7. 1940"
+    },
+    {
+      "office": "Primátor",
+      "no": "4.",
+      "name": "JUDr. Alois Říha",
+      "party": "NS",
+      "term_start": "26. 8. 1940",
+      "term_end": "5. 5. 1945"
+    },
+    {
+      "office": "Primátor",
+      "no": "5.",
+      "name": "JUDr. Václav Vacek",
+      "party": "KSČ",
+      "term_start": "5. 5. 1945",
+      "term_end": "27. 8. 1945"
+    },
+    {
+      "office": "Primátor",
+      "no": "6.",
+      "name": "PhDr. Petr Zenkl",
+      "party": "ČSNS",
+      "term_start": "27. 8. 1945",
+      "term_end": "květen 1946"
+    },
+    {
+      "office": "Primátor",
+      "no": "7.",
+      "name": "JUDr. Václav Vacek",
+      "party": "KSČ",
+      "term_start": "1. 7. 1946",
+      "term_end": "21. 5. 1954"
+    },
+    {
+      "office": "Primátor",
+      "no": "8.",
+      "name": "Adolf Svoboda",
+      "party": "KSČ",
+      "term_start": "21. 5. 1954",
+      "term_end": "29. 6. 1964"
+    },
+    {
+      "office": "Primátor",
+      "no": "9.",
+      "name": "Ludvík Černý",
+      "party": "KSČ",
+      "term_start": "29. 6. 1964",
+      "term_end": "10. 9. 1970"
+    },
+    {
+      "office": "Primátor",
+      "no": "10.",
+      "name": "JUDr. RSDr. Zdeněk Zuska",
+      "party": "KSČ",
+      "term_start": "10. 9. 1970",
+      "term_end": "22. 6. 1981"
+    },
+    {
+      "office": "Primátor",
+      "no": "11.",
+      "name": "Ing. František Štafa",
+      "party": "KSČ",
+      "term_start": "22. 6. 1981",
+      "term_end": "4. 7. 1988"
+    },
+    {
+      "office": "Primátor",
+      "no": "12.",
+      "name": "Zdeněk Horčík",
+      "party": "KSČ",
+      "term_start": "4. 7. 1988",
+      "term_end": "8. 12. 1989"
+    },
+    {
+      "office": "Primátor",
+      "no": "13.",
+      "name": "PaedDr. Josef Hájek",
+      "party": "KSČ",
+      "term_start": "8. 12. 1989",
+      "term_end": "23. 1. 1990"
+    },
+    {
+      "office": "Primátor",
+      "no": "14.",
+      "name": "Jaroslav Kořán",
+      "party": "OF",
+      "term_start": "1. 2. 1990",
+      "term_end": "13. 9. 1991"
+    },
+    {
+      "office": "Primátor",
+      "no": "15.",
+      "name": "Ing. Milan Kondr",
+      "party": "ODS",
+      "term_start": "28. 9. 1991",
+      "term_end": "13. 5. 1993"
+    },
+    {
+      "office": "Primátor",
+      "no": "16.",
+      "name": "RNDr. Jan Koukal , CSc.",
+      "party": "ODS",
+      "term_start": "13. 5. 1993",
+      "term_end": "26. 11. 1998"
+    },
+    {
+      "office": "Primátor",
+      "no": "17.",
+      "name": "Ing. arch. Jan Kasl",
+      "party": "ODS",
+      "term_start": "26. 11. 1998",
+      "term_end": "28. 5. 2002"
+    },
+    {
+      "office": "Primátor",
+      "no": "18.",
+      "name": "RNDr. Igor Němec",
+      "party": "ODS",
+      "term_start": "15. 7. 2002",
+      "term_end": "28. 11. 2002"
+    },
+    {
+      "office": "Primátor",
+      "no": "19.",
+      "name": "MUDr. Pavel Bém",
+      "party": "ODS",
+      "term_start": "28. 11. 2002",
+      "term_end": "30. 11. 2010"
+    },
+    {
+      "office": "Primátor",
+      "no": "20.",
+      "name": "doc. MUDr. Bohuslav Svoboda , CSc.",
+      "party": "ODS",
+      "term_start": "30. 11. 2010",
+      "term_end": "23. 5. 2013"
+    },
+    {
+      "office": "Primátor",
+      "no": "21.",
+      "name": "RNDr. Tomáš Hudeček , Ph.D.",
+      "party": "TOP 09",
+      "term_start": "20. 6. 2013",
+      "term_end": "26. 11. 2014"
+    },
+    {
+      "office": "Primátor",
+      "no": "22.",
+      "name": "Mgr. Adriana Krnáčová , M.A., MBA",
+      "party": "ANO",
+      "term_start": "26. 11. 2014",
+      "term_end": "15. 11. 2018"
+    },
+    {
+      "office": "Primátor",
+      "no": "23.",
+      "name": "MUDr. Zdeněk Hřib",
+      "party": "Piráti",
+      "term_start": "15. 11. 2018",
+      "term_end": "16. 2. 2023"
+    },
+    {
+      "office": "Primátor",
+      "no": "24.",
+      "name": "doc. MUDr. Bohuslav Svoboda , CSc.",
+      "party": "ODS",
+      "term_start": "16. 2. 2023",
+      "term_end": "dosud"
+    },
+    {
+      "office": "Primátor",
+      "no": "25.",
+      "name": "doc. Ing. arch. Petr Hlaváček",
+      "party": "STAN",
+      "term_start": "????",
+      "term_end": "????"
+    }
+  ],
+  "meta": {
+    "title": "Představitelé Prahy (purkmistři, starostové, primátoři) - Free Download",
+    "description": "Seznam purkmistrů, starostů a primátorů hlavního města Prahy od roku 1784 do současnosti. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Představitelé Prahy (purkmistři, starostové, primátoři) | ListBase",
+    "seo_description": "Download Představitelé Prahy (purkmistři, starostové, primátoři) — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_představitelů_Prahy"
+    ]
+  }
+}

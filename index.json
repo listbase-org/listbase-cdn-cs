@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-28T02:27:48.383Z",
-  "total_datasets": 502,
-  "total_records": 415574,
+  "generated": "2026-10-28T02:27:51.031Z",
+  "total_datasets": 503,
+  "total_records": 415625,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -7492,6 +7492,33 @@
         "xlsx": {
           "name": "cs-socialni-zarizeni_CS.xlsx",
           "size": 26353
+        }
+      }
+    },
+    {
+      "id": "cs-predstavitele-prahy",
+      "name": "Představitelé Prahy (purkmistři, starostové, primátoři)",
+      "category": "history",
+      "record_count": 51,
+      "columns": [
+        "office",
+        "no",
+        "name",
+        "party",
+        "term_start",
+        "term_end"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_představitelů_Prahy",
+      "updated": "2026-10",
+      "size": 11570,
+      "files": {
+        "csv": {
+          "name": "cs-predstavitele-prahy_CS.csv",
+          "size": 4043
+        },
+        "xlsx": {
+          "name": "cs-predstavitele-prahy_CS.xlsx",
+          "size": 9433
         }
       }
     },
