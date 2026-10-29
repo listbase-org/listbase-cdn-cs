@@ -1,0 +1,446 @@
+{
+  "id": "cs-ministri-spravedlnosti",
+  "name": "Ministři spravedlnosti České republiky",
+  "title": "Ministři spravedlnosti České republiky",
+  "description": "Seznam ministrů spravedlnosti České socialistické republiky (1969–1992) a České republiky (od 1993) s funkčním obdobím, stranou a vládou.",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_spravedlnosti_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_spravedlnosti_České_republiky",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "ministr": "Václav Hrabal",
+      "nastup": "8. ledna 1969",
+      "odchod": "29. září 1969",
+      "dny_v_uradu": 264,
+      "strana": "ČSS",
+      "vlada": "Rázl",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jan Němec",
+      "nastup": "29. září 1969",
+      "odchod": "18. června 1981",
+      "dny_v_uradu": 4280,
+      "strana": "KSČ",
+      "vlada": "Kempný a Korčák",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jan Němec",
+      "nastup": "29. září 1969",
+      "odchod": "18. června 1981",
+      "dny_v_uradu": 4280,
+      "strana": "KSČ",
+      "vlada": "Korčák II.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jan Němec",
+      "nastup": "29. září 1969",
+      "odchod": "18. června 1981",
+      "dny_v_uradu": 4280,
+      "strana": "KSČ",
+      "vlada": "Korčák III.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Antonín Kašpar",
+      "nastup": "18. června 1981",
+      "odchod": "5. prosince 1989",
+      "dny_v_uradu": 3092,
+      "strana": "KSČ",
+      "vlada": "Korčák IV.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Antonín Kašpar",
+      "nastup": "18. června 1981",
+      "odchod": "5. prosince 1989",
+      "dny_v_uradu": 3092,
+      "strana": "KSČ",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Dagmar Burešová",
+      "nastup": "5. prosince 1989",
+      "odchod": "29. června 1990",
+      "dny_v_uradu": 206,
+      "strana": "OF",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "5.",
+      "ministr": "Leon Richter",
+      "nastup": "29. června 1990",
+      "odchod": "8. ledna 1992",
+      "dny_v_uradu": 558,
+      "strana": "OF",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Jiří Novák",
+      "nastup": "24. ledna 1992",
+      "odchod": "31. prosince 1992",
+      "dny_v_uradu": 342,
+      "strana": "ODS",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Jiří Novák",
+      "nastup": "24. ledna 1992",
+      "odchod": "31. prosince 1992",
+      "dny_v_uradu": 342,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "1.",
+      "ministr": "Jiří Novák",
+      "nastup": "1. ledna 1993",
+      "odchod": "4. července 1996",
+      "dny_v_uradu": 1250,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jan Kalvoda",
+      "nastup": "4. července 1996",
+      "odchod": "7. ledna 1997",
+      "dny_v_uradu": 217,
+      "strana": "ODA",
+      "vlada": "Klaus II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Vlasta Parkanová",
+      "nastup": "7. ledna 1997",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 561,
+      "strana": "ODA",
+      "vlada": "Klaus II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Vlasta Parkanová",
+      "nastup": "7. ledna 1997",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 561,
+      "strana": "ODA",
+      "vlada": "Tošovský",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Otakar Motejl",
+      "nastup": "22. července 1998",
+      "odchod": "16. října 2000",
+      "dny_v_uradu": 817,
+      "strana": "nestr. za ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "5.",
+      "ministr": "Pavel Rychetský",
+      "nastup": "17. října 2000",
+      "odchod": "2. února 2001",
+      "dny_v_uradu": 108,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Jaroslav Bureš",
+      "nastup": "2. února 2001",
+      "odchod": "15. července 2002",
+      "dny_v_uradu": 528,
+      "strana": "nestr. za ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "7.",
+      "ministr": "Pavel Rychetský",
+      "nastup": "15. července 2002",
+      "odchod": "5. srpna 2003",
+      "dny_v_uradu": 386,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "8.",
+      "ministr": "Vladimír Špidla",
+      "nastup": "6. srpna 2003",
+      "odchod": "16. září 2003",
+      "dny_v_uradu": 41,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "9.",
+      "ministr": "Karel Čermák",
+      "nastup": "16. září 2003",
+      "odchod": "15. června 2004",
+      "dny_v_uradu": 273,
+      "strana": "nestr. za ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "10.",
+      "ministr": "Vladimír Špidla",
+      "nastup": "15. června 2004",
+      "odchod": "4. srpna 2004",
+      "dny_v_uradu": 50,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "11.",
+      "ministr": "Pavel Němec",
+      "nastup": "4. srpna 2004",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 761,
+      "strana": "US-DEU",
+      "vlada": "Gross",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "11.",
+      "ministr": "Pavel Němec",
+      "nastup": "4. srpna 2004",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 761,
+      "strana": "US-DEU",
+      "vlada": "Paroubek",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "12.",
+      "ministr": "Jiří Pospíšil",
+      "nastup": "4. září 2006",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 977,
+      "strana": "ODS",
+      "vlada": "Topolánek I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "12.",
+      "ministr": "Jiří Pospíšil",
+      "nastup": "4. září 2006",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 977,
+      "strana": "ODS",
+      "vlada": "Topolánek II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "13.",
+      "ministr": "Daniela Kovářová",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "dny_v_uradu": 431,
+      "strana": "nestranička nom. ODS",
+      "vlada": "Fischer",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "14.",
+      "ministr": "Jiří Pospíšil",
+      "nastup": "13. července 2010",
+      "odchod": "27. června 2012",
+      "dny_v_uradu": 715,
+      "strana": "ODS",
+      "vlada": "Nečas",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "15.",
+      "ministr": "Pavel Blažek",
+      "nastup": "3. července 2012",
+      "odchod": "10. července 2013",
+      "dny_v_uradu": 372,
+      "strana": "ODS",
+      "vlada": "Nečas",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "16.",
+      "ministr": "Marie Benešová",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 203,
+      "strana": "nestranička",
+      "vlada": "Rusnok",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "17.",
+      "ministr": "Helena Válková",
+      "nastup": "29. ledna 2014",
+      "odchod": "1. března 2015",
+      "dny_v_uradu": 396,
+      "strana": "ANO",
+      "vlada": "Sobotka",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "18.",
+      "ministr": "Robert Pelikán",
+      "nastup": "12. března 2015",
+      "odchod": "27. června 2018",
+      "dny_v_uradu": 1203,
+      "strana": "ANO",
+      "vlada": "Sobotka",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "18.",
+      "ministr": "Robert Pelikán",
+      "nastup": "12. března 2015",
+      "odchod": "27. června 2018",
+      "dny_v_uradu": 1203,
+      "strana": "ANO",
+      "vlada": "Babiš I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "19.",
+      "ministr": "Taťána Malá",
+      "nastup": "27. června 2018",
+      "odchod": "10. července 2018",
+      "dny_v_uradu": 13,
+      "strana": "ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "20.",
+      "ministr": "Jan Kněžínek",
+      "nastup": "10. července 2018",
+      "odchod": "30. dubna 2019",
+      "dny_v_uradu": 294,
+      "strana": "nestr. za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "21.",
+      "ministr": "Marie Benešová",
+      "nastup": "30. dubna 2019",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 975,
+      "strana": "nestr. za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "22.",
+      "ministr": "Pavel Blažek",
+      "nastup": "17. prosince 2021",
+      "odchod": "9. června 2025",
+      "dny_v_uradu": 1270,
+      "strana": "ODS",
+      "vlada": "Fiala",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "23.",
+      "ministr": "Eva Decroix",
+      "nastup": "10. června 2025",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 188,
+      "strana": "ODS",
+      "vlada": "Fiala",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "24.",
+      "ministr": "Jeroným Tejc",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": 318,
+      "strana": "nestr. za ANO",
+      "vlada": "Babiš III.",
+      "obdobi": "V rámci samostatné republiky"
+    }
+  ],
+  "meta": {
+    "title": "Ministři spravedlnosti České republiky - Free Download",
+    "description": "Seznam ministrů spravedlnosti České socialistické republiky (1969–1992) a České republiky (od 1993) s funkčním obdobím, stranou a vládou. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři spravedlnosti České republiky | ListBase",
+    "seo_description": "Download Ministři spravedlnosti České republiky — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_spravedlnosti_České_republiky"
+    ]
+  }
+}

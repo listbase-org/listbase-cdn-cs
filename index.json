@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-29T02:24:02.713Z",
-  "total_datasets": 507,
-  "total_records": 415927,
+  "generated": "2026-10-29T02:24:05.496Z",
+  "total_datasets": 508,
+  "total_records": 415965,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "math",
@@ -7815,6 +7815,35 @@
         "xlsx": {
           "name": "cs-krajske-soudy_CS.xlsx",
           "size": 6998
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-spravedlnosti",
+      "name": "Ministři spravedlnosti České republiky",
+      "category": "law",
+      "record_count": 38,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_spravedlnosti_České_republiky",
+      "updated": "2026-10",
+      "size": 12433,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-spravedlnosti_CS.csv",
+          "size": 4710
+        },
+        "xlsx": {
+          "name": "cs-ministri-spravedlnosti_CS.xlsx",
+          "size": 9031
         }
       }
     },
