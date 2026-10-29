@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-29T02:24:07.987Z",
-  "total_datasets": 509,
-  "total_records": 416006,
+  "generated": "2026-10-29T02:24:10.613Z",
+  "total_datasets": 510,
+  "total_records": 416092,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "math",
@@ -7873,6 +7873,30 @@
         "xlsx": {
           "name": "cs-ministri-spravedlnosti_CS.xlsx",
           "size": 9031
+        }
+      }
+    },
+    {
+      "id": "cs-okresni-soudy",
+      "name": "Okresní soudy v Česku",
+      "category": "law",
+      "record_count": 86,
+      "columns": [
+        "okresni_soud",
+        "krajsky_soud",
+        "vrchni_soud"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Soudy_v_Česku",
+      "updated": "2026-10",
+      "size": 17028,
+      "files": {
+        "csv": {
+          "name": "cs-okresni-soudy_CS.csv",
+          "size": 8837
+        },
+        "xlsx": {
+          "name": "cs-okresni-soudy_CS.xlsx",
+          "size": 8790
         }
       }
     },

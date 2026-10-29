@@ -1,0 +1,471 @@
+{
+  "id": "cs-okresni-soudy",
+  "name": "Okresní soudy v Česku",
+  "title": "Okresní soudy v Česku",
+  "description": "Seznam okresních (a obvodních) soudů v Česku s příslušným krajským a vrchním soudem.",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Soudy_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Soudy_v_Česku",
+  "updated": "2026-10",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "okresni_soud",
+      "label": "Okresni Soud",
+      "type": "string"
+    },
+    {
+      "key": "krajsky_soud",
+      "label": "Krajsky Soud",
+      "type": "string"
+    },
+    {
+      "key": "vrchni_soud",
+      "label": "Vrchni Soud",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 1",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 2",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 3",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 4",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 5",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 6",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 7",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 8",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 9",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Obvodní soud pro Prahu 10",
+      "krajsky_soud": "Městský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Benešově",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Berouně",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Kladně",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Kolíně",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Kutné Hoře",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Mělníku",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Mladé Boleslavi",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Nymburce",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud Praha-východ",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud Praha-západ",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Příbrami",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Rakovníku",
+      "krajsky_soud": "Krajský soud v Praze",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Českém Krumlově",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Českých Budějovicích",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Jindřichově Hradci",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Pelhřimově",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Písku",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Prachaticích",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Strakonicích",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Táboře",
+      "krajsky_soud": "Krajský soud v Českých Budějovicích (s pobočkou v Táboře)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Domažlicích",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Chebu",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Karlových Varech",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Klatovech",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud Plzeň-jih",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud Plzeň-město",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud Plzeň-sever",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Rokycanech",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Sokolově",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Tachově",
+      "krajsky_soud": "Krajský soud v Plzni",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v České Lípě",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Děčíně",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Chomutově",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Jablonci nad Nisou",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Liberci",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Litoměřicích",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Lounech",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Mostě",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Teplicích",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Ústí nad Labem",
+      "krajsky_soud": "Krajský soud v Ústí nad Labem (s pobočkou v Liberci)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Havlíčkově Brodě",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Hradci Králové",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Chrudimi",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Jičíně",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Náchodě",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Pardubicích",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Rychnově nad Kněžnou",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Semilech",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Svitavách",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Trutnově",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Okresní soud v Ústí nad Orlicí",
+      "krajsky_soud": "Krajský soud v Hradci Králové (s pobočkou v Pardubicích)",
+      "vrchni_soud": "Vrchní soud v Praze"
+    },
+    {
+      "okresni_soud": "Městský soud v Brně",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Blansku",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud Brno-venkov",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Břeclavi",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Hodoníně",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Jihlavě",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Kroměříži",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Prostějově",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Třebíči",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Uherském Hradišti",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Vyškově",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Zlíně",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Znojmě",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Žďáru nad Sázavou",
+      "krajsky_soud": "Krajský soud v Brně (s pobočkami v Jihlavě a ve Zlíně)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Bruntále (s pobočkou v Krnově)",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Frýdku-Místku",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Jeseníku",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Karviné (s pobočkou v Havířově)",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Novém Jičíně",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Olomouci",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Opavě",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Ostravě",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Přerově",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud v Šumperku",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    },
+    {
+      "okresni_soud": "Okresní soud ve Vsetíně (s pobočkou ve Valašském Meziříčí)",
+      "krajsky_soud": "Krajský soud v Ostravě (s pobočkou v Olomouci)",
+      "vrchni_soud": "Vrchní soud v Olomouci"
+    }
+  ],
+  "meta": {
+    "title": "Okresní soudy v Česku - Free Download",
+    "description": "Seznam okresních (a obvodních) soudů v Česku s příslušným krajským a vrchním soudem. Contains 86 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Okresní soudy v Česku | ListBase",
+    "seo_description": "Download Okresní soudy v Česku — 86 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 86 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Soudy_v_Česku"
+    ]
+  }
+}
