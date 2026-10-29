@@ -1,0 +1,476 @@
+{
+  "id": "cs-ministri-zdravotnictvi",
+  "name": "Ministři zdravotnictví České republiky",
+  "title": "Ministři zdravotnictví České republiky",
+  "description": "Seznam ministrů zdravotnictví České socialistické republiky (1969–1992) a České republiky (od 1993) s funkčním obdobím, stranou a vládou.",
+  "category": "health",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zdravotnictví_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zdravotnictví_České_republiky",
+  "updated": "2026-10",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "ministr": "Vladislav Vlček",
+      "nastup": "8. ledna 1969",
+      "odchod": "11. února 1971",
+      "dny_v_uradu": 764,
+      "strana": "ČSL",
+      "vlada": "Rázl",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "1.",
+      "ministr": "Vladislav Vlček",
+      "nastup": "8. ledna 1969",
+      "odchod": "11. února 1971",
+      "dny_v_uradu": 764,
+      "strana": "ČSL",
+      "vlada": "Kempný a Korčák",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Prokopec",
+      "nastup": "11. února 1971",
+      "odchod": "5. prosince 1989",
+      "dny_v_uradu": 6872,
+      "strana": "KSČ",
+      "vlada": "Kempný a Korčák",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Prokopec",
+      "nastup": "11. února 1971",
+      "odchod": "5. prosince 1989",
+      "dny_v_uradu": 6872,
+      "strana": "KSČ",
+      "vlada": "Korčák II.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Prokopec",
+      "nastup": "11. února 1971",
+      "odchod": "5. prosince 1989",
+      "dny_v_uradu": 6872,
+      "strana": "KSČ",
+      "vlada": "Korčák III.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Prokopec",
+      "nastup": "11. února 1971",
+      "odchod": "5. prosince 1989",
+      "dny_v_uradu": 6872,
+      "strana": "KSČ",
+      "vlada": "Korčák IV.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Prokopec",
+      "nastup": "11. února 1971",
+      "odchod": "5. prosince 1989",
+      "dny_v_uradu": 6872,
+      "strana": "KSČ",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Pavel Klener",
+      "nastup": "5. prosince 1989",
+      "odchod": "29. června 1990",
+      "dny_v_uradu": 206,
+      "strana": "OF",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Martin Bojar",
+      "nastup": "29. června 1990",
+      "odchod": "2. července 1992",
+      "dny_v_uradu": 734,
+      "strana": "OF",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Martin Bojar",
+      "nastup": "29. června 1990",
+      "odchod": "2. července 1992",
+      "dny_v_uradu": 734,
+      "strana": "OH",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "5.",
+      "ministr": "Petr Lom",
+      "nastup": "2. července 1992",
+      "odchod": "31. prosince 1992",
+      "dny_v_uradu": 182,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "1.",
+      "ministr": "Petr Lom",
+      "nastup": "1. ledna 1993",
+      "odchod": "22. června 1993",
+      "dny_v_uradu": 172,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Luděk Rubáš",
+      "nastup": "23. června 1993",
+      "odchod": "10. října 1995",
+      "dny_v_uradu": 839,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Jan Stráský",
+      "nastup": "10. října 1995",
+      "odchod": "2. ledna 1998",
+      "dny_v_uradu": 815,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Jan Stráský",
+      "nastup": "10. října 1995",
+      "odchod": "2. ledna 1998",
+      "dny_v_uradu": 815,
+      "strana": "ODS",
+      "vlada": "Klaus II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Zuzana Roithová",
+      "nastup": "2. ledna 1998",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 201,
+      "strana": "nestraník",
+      "vlada": "Tošovský",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "5.",
+      "ministr": "Ivan David",
+      "nastup": "22. července 1998",
+      "odchod": "9. prosince 1999",
+      "dny_v_uradu": 505,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Vladimír Špidla",
+      "nastup": "10. prosince 1999",
+      "odchod": "9. února 2000",
+      "dny_v_uradu": 61,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "7.",
+      "ministr": "Bohumil Fišer",
+      "nastup": "9. února 2000",
+      "odchod": "15. července 2002",
+      "dny_v_uradu": 887,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "8.",
+      "ministr": "Marie Součková",
+      "nastup": "15. července 2002",
+      "odchod": "14. dubna 2004",
+      "dny_v_uradu": 639,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "9.",
+      "ministr": "Jozef Kubinyi",
+      "nastup": "14. dubna 2004",
+      "odchod": "4. srpna 2004",
+      "dny_v_uradu": 112,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "10.",
+      "ministr": "Milada Emmerová",
+      "nastup": "4. srpna 2004",
+      "odchod": "12. října 2005",
+      "dny_v_uradu": 434,
+      "strana": "ČSSD",
+      "vlada": "Gross",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "10.",
+      "ministr": "Milada Emmerová",
+      "nastup": "4. srpna 2004",
+      "odchod": "12. října 2005",
+      "dny_v_uradu": 434,
+      "strana": "ČSSD",
+      "vlada": "Paroubek",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "11.",
+      "ministr": "Zdeněk Škromach",
+      "nastup": "12. října 2005",
+      "odchod": "4. listopadu 2005",
+      "dny_v_uradu": 23,
+      "strana": "ČSSD",
+      "vlada": "Paroubek",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "12.",
+      "ministr": "David Rath",
+      "nastup": "4. listopadu 2005",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 304,
+      "strana": "nestraník za ČSSD od května 2006 ČSSD",
+      "vlada": "Paroubek",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "13.",
+      "ministr": "Tomáš Julínek",
+      "nastup": "4. září 2006",
+      "odchod": "23. ledna 2009",
+      "dny_v_uradu": 872,
+      "strana": "ODS",
+      "vlada": "Topolánek I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "13.",
+      "ministr": "Tomáš Julínek",
+      "nastup": "4. září 2006",
+      "odchod": "23. ledna 2009",
+      "dny_v_uradu": 872,
+      "strana": "ODS",
+      "vlada": "Topolánek II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "14.",
+      "ministr": "Daniela Filipiová",
+      "nastup": "23. ledna 2009",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 105,
+      "strana": "ODS",
+      "vlada": "Topolánek II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "15.",
+      "ministr": "Dana Jurásková",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "dny_v_uradu": 431,
+      "strana": "nestranička nom. ODS od 10. června 2010 ODS",
+      "vlada": "Fischer",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "16.",
+      "ministr": "Leoš Heger",
+      "nastup": "13. července 2010",
+      "odchod": "10. července 2013",
+      "dny_v_uradu": 1093,
+      "strana": "TOP 09",
+      "vlada": "Nečas",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "17.",
+      "ministr": "Martin Holcát",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 203,
+      "strana": "nestraník",
+      "vlada": "Rusnok",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "18.",
+      "ministr": "Svatopluk Němeček",
+      "nastup": "29. ledna 2014",
+      "odchod": "30. listopadu 2016",
+      "dny_v_uradu": 1036,
+      "strana": "ČSSD",
+      "vlada": "Sobotka",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "19.",
+      "ministr": "Miloslav Ludvík",
+      "nastup": "1. prosince 2016",
+      "odchod": "13. prosince 2017",
+      "dny_v_uradu": 377,
+      "strana": "ČSSD",
+      "vlada": "Sobotka",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "20.",
+      "ministr": "Adam Vojtěch",
+      "nastup": "13. prosince 2017",
+      "odchod": "21. září 2020",
+      "dny_v_uradu": 1013,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "20.",
+      "ministr": "Adam Vojtěch",
+      "nastup": "13. prosince 2017",
+      "odchod": "21. září 2020",
+      "dny_v_uradu": 1013,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "21.",
+      "ministr": "Roman Prymula",
+      "nastup": "21. září 2020",
+      "odchod": "29. října 2020",
+      "dny_v_uradu": 38,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "22.",
+      "ministr": "Jan Blatný",
+      "nastup": "29. října 2020",
+      "odchod": "7. dubna 2021",
+      "dny_v_uradu": 160,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "23.",
+      "ministr": "Petr Arenberger",
+      "nastup": "7. dubna 2021",
+      "odchod": "26. května 2021",
+      "dny_v_uradu": 49,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "24.",
+      "ministr": "Adam Vojtěch",
+      "nastup": "26. května 2021",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 205,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "25.",
+      "ministr": "Vlastimil Válek",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 1459,
+      "strana": "TOP 09",
+      "vlada": "Fiala",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "26.",
+      "ministr": "Adam Vojtěch",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": 318,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš III.",
+      "obdobi": "V rámci samostatné republiky"
+    }
+  ],
+  "meta": {
+    "title": "Ministři zdravotnictví České republiky - Free Download",
+    "description": "Seznam ministrů zdravotnictví České socialistické republiky (1969–1992) a České republiky (od 1993) s funkčním obdobím, stranou a vládou. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři zdravotnictví České republiky | ListBase",
+    "seo_description": "Download Ministři zdravotnictví České republiky — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_zdravotnictví_České_republiky"
+    ]
+  }
+}

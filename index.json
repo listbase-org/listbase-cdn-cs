@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-29T02:24:05.496Z",
-  "total_datasets": 508,
-  "total_records": 415965,
+  "generated": "2026-10-29T02:24:07.987Z",
+  "total_datasets": 509,
+  "total_records": 416006,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -7496,6 +7496,35 @@
         "xlsx": {
           "name": "cs-lekarny_CS.xlsx",
           "size": 71920
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-zdravotnictvi",
+      "name": "Ministři zdravotnictví České republiky",
+      "category": "health",
+      "record_count": 41,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zdravotnictví_České_republiky",
+      "updated": "2026-10",
+      "size": 13383,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-zdravotnictvi_CS.csv",
+          "size": 5194
+        },
+        "xlsx": {
+          "name": "cs-ministri-zdravotnictvi_CS.xlsx",
+          "size": 9193
         }
       }
     },
