@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-28T02:27:59.534Z",
-  "total_datasets": 506,
-  "total_records": 415896,
+  "generated": "2026-10-29T02:24:02.713Z",
+  "total_datasets": 507,
+  "total_records": 415927,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1396,6 +1396,35 @@
         "xlsx": {
           "name": "cs-index-prumyslove-produkce_CS.xlsx",
           "size": 7011
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-financi",
+      "name": "Ministři financí České republiky",
+      "category": "economy",
+      "record_count": 31,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_financí_České_republiky",
+      "updated": "2026-10",
+      "size": 10512,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-financi_CS.csv",
+          "size": 3898
+        },
+        "xlsx": {
+          "name": "cs-ministri-financi_CS.xlsx",
+          "size": 8600
         }
       }
     },

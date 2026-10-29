@@ -1,0 +1,376 @@
+{
+  "id": "cs-ministri-financi",
+  "name": "Ministři financí České republiky",
+  "title": "Ministři financí České republiky",
+  "description": "Seznam ministrů financí České socialistické republiky (1969–1992) a České republiky (od 1993) s funkčním obdobím, stranou a vládou.",
+  "category": "economy",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_financí_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_financí_České_republiky",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "ministr": "Leopold Lér",
+      "nastup": "8. ledna 1969",
+      "odchod": "17. prosince 1973",
+      "dny_v_uradu": 1804,
+      "strana": "KSČ",
+      "vlada": "Rázl",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "1.",
+      "ministr": "Leopold Lér",
+      "nastup": "8. ledna 1969",
+      "odchod": "17. prosince 1973",
+      "dny_v_uradu": 1804,
+      "strana": "KSČ",
+      "vlada": "Kempný a Korčák",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "1.",
+      "ministr": "Leopold Lér",
+      "nastup": "8. ledna 1969",
+      "odchod": "17. prosince 1973",
+      "dny_v_uradu": 1804,
+      "strana": "KSČ",
+      "vlada": "Korčák II.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Tlapák",
+      "nastup": "17. prosince 1973",
+      "odchod": "18. června 1986",
+      "dny_v_uradu": 4566,
+      "strana": "KSČ",
+      "vlada": "Korčák II.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Tlapák",
+      "nastup": "17. prosince 1973",
+      "odchod": "18. června 1986",
+      "dny_v_uradu": 4566,
+      "strana": "KSČ",
+      "vlada": "Korčák III.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Jaroslav Tlapák",
+      "nastup": "17. prosince 1973",
+      "odchod": "18. června 1986",
+      "dny_v_uradu": 4566,
+      "strana": "KSČ",
+      "vlada": "Korčák IV.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Jiří Nikodým",
+      "nastup": "18. června 1986",
+      "odchod": "29. června 1990",
+      "dny_v_uradu": 1472,
+      "strana": "KSČ",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Karel Špaček",
+      "nastup": "29. června 1990",
+      "odchod": "2. července 1992",
+      "dny_v_uradu": 734,
+      "strana": "OF",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Karel Špaček",
+      "nastup": "29. června 1990",
+      "odchod": "2. července 1992",
+      "dny_v_uradu": 734,
+      "strana": "OH",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "5.",
+      "ministr": "Ivan Kočárník",
+      "nastup": "2. července 1992",
+      "odchod": "31. prosince 1992",
+      "dny_v_uradu": 182,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": "1.",
+      "ministr": "Ivan Kočárník",
+      "nastup": "1. ledna 1993",
+      "odchod": "2. června 1997",
+      "dny_v_uradu": 1613,
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "1.",
+      "ministr": "Ivan Kočárník",
+      "nastup": "1. ledna 1993",
+      "odchod": "2. června 1997",
+      "dny_v_uradu": 1613,
+      "strana": "ODS",
+      "vlada": "Klaus II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Ivan Pilip",
+      "nastup": "3. června 1997",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 414,
+      "strana": "ODS",
+      "vlada": "Klaus II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Ivan Pilip",
+      "nastup": "3. června 1997",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 414,
+      "strana": "US",
+      "vlada": "Tošovský",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Ivo Svoboda",
+      "nastup": "22. července 1998",
+      "odchod": "20. července 1999",
+      "dny_v_uradu": 363,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Pavel Mertlík",
+      "nastup": "21. července 1999",
+      "odchod": "12. dubna 2001",
+      "dny_v_uradu": 631,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "5.",
+      "ministr": "Jiří Rusnok",
+      "nastup": "13. dubna 2001",
+      "odchod": "15. července 2002",
+      "dny_v_uradu": 458,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Bohuslav Sobotka",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 1512,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Bohuslav Sobotka",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 1512,
+      "strana": "ČSSD",
+      "vlada": "Gross",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Bohuslav Sobotka",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 1512,
+      "strana": "ČSSD",
+      "vlada": "Paroubek",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "7.",
+      "ministr": "Vlastimil Tlustý",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007",
+      "dny_v_uradu": 127,
+      "strana": "ODS",
+      "vlada": "Topolánek I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "8.",
+      "ministr": "Miroslav Kalousek",
+      "nastup": "9. ledna 2007",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 850,
+      "strana": "KDU-ČSL",
+      "vlada": "Topolánek II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "9.",
+      "ministr": "Eduard Janota",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "dny_v_uradu": 431,
+      "strana": "nestraník nom. ODS",
+      "vlada": "Fischer",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "10.",
+      "ministr": "Miroslav Kalousek",
+      "nastup": "13. července 2010",
+      "odchod": "10. července 2013",
+      "dny_v_uradu": 1093,
+      "strana": "TOP 09",
+      "vlada": "Nečas",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "11.",
+      "ministr": "Jan Fischer",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 203,
+      "strana": "nestraník",
+      "vlada": "Rusnok",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "12.",
+      "ministr": "Andrej Babiš",
+      "nastup": "29. ledna 2014",
+      "odchod": "24. května 2017",
+      "dny_v_uradu": 1211,
+      "strana": "ANO",
+      "vlada": "Sobotka",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "13.",
+      "ministr": "Ivan Pilný",
+      "nastup": "24. května 2017",
+      "odchod": "13. prosince 2017",
+      "dny_v_uradu": 203,
+      "strana": "ANO",
+      "vlada": "Sobotka",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "14.",
+      "ministr": "Alena Schillerová",
+      "nastup": "13. prosince 2017",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1465,
+      "strana": "nestr. za ANO (do 2021) ANO",
+      "vlada": "Babiš I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "14.",
+      "ministr": "Alena Schillerová",
+      "nastup": "13. prosince 2017",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1465,
+      "strana": "nestr. za ANO (do 2021) ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "15.",
+      "ministr": "Zbyněk Stanjura",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 1459,
+      "strana": "ODS",
+      "vlada": "Fiala",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "16.",
+      "ministr": "Alena Schillerová",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": 318,
+      "strana": "ANO",
+      "vlada": "Babiš III.",
+      "obdobi": "V rámci samostatné republiky"
+    }
+  ],
+  "meta": {
+    "title": "Ministři financí České republiky - Free Download",
+    "description": "Seznam ministrů financí České socialistické republiky (1969–1992) a České republiky (od 1993) s funkčním obdobím, stranou a vládou. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři financí České republiky | ListBase",
+    "seo_description": "Download Ministři financí České republiky — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_financí_České_republiky"
+    ]
+  }
+}
