@@ -1,0 +1,346 @@
+{
+  "id": "cs-nejvetsi-zamestnavatele",
+  "name": "Největší zaměstnavatelé v Česku",
+  "title": "Největší zaměstnavatelé v Česku",
+  "description": "Žebříček největších zaměstnavatelů v Česku podle počtu zaměstnanců s uvedením data, ke kterému údaj platí.",
+  "category": "economy",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_největších_zaměstnavatelů_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_největších_zaměstnavatelů_v_Česku",
+  "updated": "2026-10",
+  "record_count": 50,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "zamestnavatel",
+      "label": "Zamestnavatel",
+      "type": "string"
+    },
+    {
+      "key": "pocet_zamestnancu",
+      "label": "Pocet Zamestnancu",
+      "type": "number"
+    },
+    {
+      "key": "k_datu",
+      "label": "K Datu",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "zamestnavatel": "Škoda Auto",
+      "pocet_zamestnancu": 34215,
+      "k_datu": "31. 12. 2024"
+    },
+    {
+      "poradi": 2,
+      "zamestnavatel": "Agrofert (skupina)",
+      "pocet_zamestnancu": 32000,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 3,
+      "zamestnavatel": "ČEZ (skupina)",
+      "pocet_zamestnancu": 30552,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 4,
+      "zamestnavatel": "České dráhy (skupina)",
+      "pocet_zamestnancu": 21500,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 5,
+      "zamestnavatel": "Česká pošta",
+      "pocet_zamestnancu": 20902,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 6,
+      "zamestnavatel": "Správa železnic",
+      "pocet_zamestnancu": 16847,
+      "k_datu": "2025"
+    },
+    {
+      "poradi": 7,
+      "zamestnavatel": "AGEL (skupina)",
+      "pocet_zamestnancu": 13908,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 8,
+      "zamestnavatel": "Moravia Steel (skupina)",
+      "pocet_zamestnancu": 13308,
+      "k_datu": "2025"
+    },
+    {
+      "poradi": 9,
+      "zamestnavatel": "Kaufland Česká republika",
+      "pocet_zamestnancu": 11517,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 10,
+      "zamestnavatel": "Dopravní podnik hl. m. Prahy",
+      "pocet_zamestnancu": 11214,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 11,
+      "zamestnavatel": "Energetický a průmyslový holding (skupina)",
+      "pocet_zamestnancu": 10967,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 12,
+      "zamestnavatel": "Česká spořitelna (skupina)",
+      "pocet_zamestnancu": 10433,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 13,
+      "zamestnavatel": "Albert Česká republika",
+      "pocet_zamestnancu": 10217,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 14,
+      "zamestnavatel": "Veolia voda Česká republika (skupina)",
+      "pocet_zamestnancu": 9267,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 15,
+      "zamestnavatel": "DK Holding Investments (skupina)",
+      "pocet_zamestnancu": 9612,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 16,
+      "zamestnavatel": "Lidl Česká republika s.r.o.",
+      "pocet_zamestnancu": 9326,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 17,
+      "zamestnavatel": "ČSOB (skupina)",
+      "pocet_zamestnancu": 8035,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 18,
+      "zamestnavatel": "Komerční banka",
+      "pocet_zamestnancu": 7551,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 19,
+      "zamestnavatel": "EP Industries (skupina)",
+      "pocet_zamestnancu": 7143,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 20,
+      "zamestnavatel": "Tesco Stores ČR",
+      "pocet_zamestnancu": 7010,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 21,
+      "zamestnavatel": "Krajská zdravotní",
+      "pocet_zamestnancu": 6680,
+      "k_datu": "2018"
+    },
+    {
+      "poradi": 22,
+      "zamestnavatel": "BILLA",
+      "pocet_zamestnancu": 6648,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 23,
+      "zamestnavatel": "Metrostav (skupina)",
+      "pocet_zamestnancu": 6632,
+      "k_datu": "2020"
+    },
+    {
+      "poradi": 24,
+      "zamestnavatel": "Penny Market",
+      "pocet_zamestnancu": 6402,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 25,
+      "zamestnavatel": "Mark2 Corporation Investment (skupina)",
+      "pocet_zamestnancu": 6100,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 26,
+      "zamestnavatel": "Škoda Transportation (skupina)",
+      "pocet_zamestnancu": 5877,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 27,
+      "zamestnavatel": "Orlen Unipetrol",
+      "pocet_zamestnancu": 5780,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 28,
+      "zamestnavatel": "Czechoslovak Group",
+      "pocet_zamestnancu": 5724,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 29,
+      "zamestnavatel": "ManpowerGroup",
+      "pocet_zamestnancu": 5486,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 30,
+      "zamestnavatel": "Globus ČR",
+      "pocet_zamestnancu": 4731,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 31,
+      "zamestnavatel": "Nemocnice Pardubického kraje",
+      "pocet_zamestnancu": 4563,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 32,
+      "zamestnavatel": "Continental Barum",
+      "pocet_zamestnancu": 4374,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 33,
+      "zamestnavatel": "Siemens, s.r.o.",
+      "pocet_zamestnancu": 4262,
+      "k_datu": "2025"
+    },
+    {
+      "poradi": 34,
+      "zamestnavatel": "O2 Czech Republic (skupina)",
+      "pocet_zamestnancu": 4077,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 35,
+      "zamestnavatel": "Kooperativa pojišťovna",
+      "pocet_zamestnancu": 4158,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 36,
+      "zamestnavatel": "Solvent ČR (skupina)",
+      "pocet_zamestnancu": 4013,
+      "k_datu": "2018"
+    },
+    {
+      "poradi": 37,
+      "zamestnavatel": "Bosch Powertrain",
+      "pocet_zamestnancu": 3967,
+      "k_datu": "2025"
+    },
+    {
+      "poradi": 38,
+      "zamestnavatel": "Vitesco Technologies Czech Republic",
+      "pocet_zamestnancu": 3955,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 39,
+      "zamestnavatel": "Dr. Max (skupina)",
+      "pocet_zamestnancu": 3887,
+      "k_datu": "2021"
+    },
+    {
+      "poradi": 40,
+      "zamestnavatel": "Lesy České republiky",
+      "pocet_zamestnancu": 3808,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 41,
+      "zamestnavatel": "Innomotics",
+      "pocet_zamestnancu": 3768,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 42,
+      "zamestnavatel": "Amazon Logistic Prague",
+      "pocet_zamestnancu": 3660,
+      "k_datu": "2025"
+    },
+    {
+      "poradi": 43,
+      "zamestnavatel": "Generali Česká pojišťovna",
+      "pocet_zamestnancu": 3553,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 44,
+      "zamestnavatel": "Kyndryl Client Center",
+      "pocet_zamestnancu": 3505,
+      "k_datu": "2024"
+    },
+    {
+      "poradi": 45,
+      "zamestnavatel": "Robert Bosch",
+      "pocet_zamestnancu": 3445,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 46,
+      "zamestnavatel": "AGC Flat Glass Czech (skupina)",
+      "pocet_zamestnancu": 3416,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 47,
+      "zamestnavatel": "MAKRO Cash & Carry ČR s.r.o.",
+      "pocet_zamestnancu": 3366,
+      "k_datu": "2023"
+    },
+    {
+      "poradi": 48,
+      "zamestnavatel": "T-Mobile Czech Republic",
+      "pocet_zamestnancu": 3284,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 49,
+      "zamestnavatel": "Toyota Motor Manufacturing Czech Republic",
+      "pocet_zamestnancu": 3228,
+      "k_datu": "2022"
+    },
+    {
+      "poradi": 50,
+      "zamestnavatel": "UniCredit Bank Czech Republic and Slovakia",
+      "pocet_zamestnancu": 3162,
+      "k_datu": "2023"
+    }
+  ],
+  "meta": {
+    "title": "Největší zaměstnavatelé v Česku - Free Download",
+    "description": "Žebříček největších zaměstnavatelů v Česku podle počtu zaměstnanců s uvedením data, ke kterému údaj platí. Contains 50 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Největší zaměstnavatelé v Česku | ListBase",
+    "seo_description": "Download Největší zaměstnavatelé v Česku — 50 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 50 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_největších_zaměstnavatelů_v_Česku"
+    ]
+  }
+}

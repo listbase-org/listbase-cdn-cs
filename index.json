@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-30T02:24:13.263Z",
-  "total_datasets": 513,
-  "total_records": 416225,
+  "generated": "2026-10-30T02:24:20.105Z",
+  "total_datasets": 514,
+  "total_records": 416275,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1483,6 +1483,31 @@
         "xlsx": {
           "name": "cs-nejvetsi-firmy-podle-trzeb_CS.xlsx",
           "size": 9058
+        }
+      }
+    },
+    {
+      "id": "cs-nejvetsi-zamestnavatele",
+      "name": "Největší zaměstnavatelé v Česku",
+      "category": "economy",
+      "record_count": 50,
+      "columns": [
+        "poradi",
+        "zamestnavatel",
+        "pocet_zamestnancu",
+        "k_datu"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_největších_zaměstnavatelů_v_Česku",
+      "updated": "2026-10",
+      "size": 8613,
+      "files": {
+        "csv": {
+          "name": "cs-nejvetsi-zamestnavatele_CS.csv",
+          "size": 2288
+        },
+        "xlsx": {
+          "name": "cs-nejvetsi-zamestnavatele_CS.xlsx",
+          "size": 8589
         }
       }
     },
