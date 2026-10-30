@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-30T02:24:27.480Z",
-  "total_datasets": 515,
-  "total_records": 416377,
+  "generated": "2026-10-30T02:24:34.951Z",
+  "total_datasets": 516,
+  "total_records": 416521,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -13598,6 +13598,37 @@
         "xlsx": {
           "name": "cs-sportovni-prodejny_CS.xlsx",
           "size": 22635
+        }
+      }
+    },
+    {
+      "id": "cs-velka-pardubicka-vitezove",
+      "name": "Vítězové Velké pardubické",
+      "category": "sports",
+      "record_count": 144,
+      "columns": [
+        "rocnik",
+        "rok",
+        "kun",
+        "vek",
+        "pohlavi",
+        "barva",
+        "jezdec",
+        "cas",
+        "koni_na_startu",
+        "koni_v_cili"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Velká_pardubická",
+      "updated": "2026-10",
+      "size": 40725,
+      "files": {
+        "csv": {
+          "name": "cs-velka-pardubicka-vitezove_CS.csv",
+          "size": 13778
+        },
+        "xlsx": {
+          "name": "cs-velka-pardubicka-vitezove_CS.xlsx",
+          "size": 15875
         }
       }
     },
