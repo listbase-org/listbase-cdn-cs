@@ -1,0 +1,306 @@
+{
+  "id": "cs-nejvetsi-firmy-podle-trzeb",
+  "name": "Největší české firmy podle tržeb",
+  "title": "Největší české firmy podle tržeb",
+  "description": "Žebříček největších firem v Česku podle tržeb s oborem podnikání, aktivy, ziskem a majoritním vlastníkem.",
+  "category": "economy",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_největších_českých_firem_podle_tržeb",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_největších_českých_firem_podle_tržeb",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "firma",
+      "label": "Firma",
+      "type": "string"
+    },
+    {
+      "key": "oblast_podnikani",
+      "label": "Oblast Podnikani",
+      "type": "string"
+    },
+    {
+      "key": "udaje_za_rok",
+      "label": "Udaje Za Rok",
+      "type": "number"
+    },
+    {
+      "key": "trzby",
+      "label": "Trzby",
+      "type": "string"
+    },
+    {
+      "key": "aktiva",
+      "label": "Aktiva",
+      "type": "string"
+    },
+    {
+      "key": "zisk",
+      "label": "Zisk",
+      "type": "string"
+    },
+    {
+      "key": "majoritni_vlastnik",
+      "label": "Majoritni Vlastnik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "firma": "ŠKODA AUTO a.s.",
+      "oblast_podnikani": "automobilový průmysl",
+      "udaje_za_rok": "2025",
+      "trzby": "27,8 mld. €",
+      "aktiva": "12,8 mld. €",
+      "zisk": "1,9 mld. €",
+      "majoritni_vlastnik": "Volkswagen Finance Luxemburg (100 %)"
+    },
+    {
+      "poradi": 2,
+      "firma": "EP Group, a.s.",
+      "oblast_podnikani": "konglomerát",
+      "udaje_za_rok": "2024",
+      "trzby": "27,5 mld. €",
+      "aktiva": "40,5 mld. €",
+      "zisk": "1,1 mld. €",
+      "majoritni_vlastnik": "EP Investment (0,892 9) Tiliacordata Limited (0,107 1)"
+    },
+    {
+      "poradi": 3,
+      "firma": "RWE Supply & Trading CZ, a.s.",
+      "oblast_podnikani": "energetika",
+      "udaje_za_rok": "2023",
+      "trzby": "420,3 mld. Kč",
+      "aktiva": "7 mld. Kč",
+      "zisk": "203,9 mil. Kč",
+      "majoritni_vlastnik": "RWE Supply & Trading (100 %)"
+    },
+    {
+      "poradi": 4,
+      "firma": "ČEZ, a. s.",
+      "oblast_podnikani": "energetika",
+      "udaje_za_rok": "2024",
+      "trzby": "344,7 mld. Kč",
+      "aktiva": "902 mld. Kč",
+      "zisk": "30,5 mld. Kč",
+      "majoritni_vlastnik": "Ministerstvo financí České republiky (69,8 %) BlackRock (1,2 %)"
+    },
+    {
+      "poradi": 5,
+      "firma": "PPF Group a.s.",
+      "oblast_podnikani": "konglomerát",
+      "udaje_za_rok": "2024",
+      "trzby": "8,5 mld. €",
+      "aktiva": "41,7 mld. €",
+      "zisk": "3,2 mld. €",
+      "majoritni_vlastnik": "Amalar Holding (78,7 %) PPF Holdings (12,5 %) Petr Kellner (8,7 %)"
+    },
+    {
+      "poradi": 6,
+      "firma": "AGROFERT, a.s.",
+      "oblast_podnikani": "zemědělství, potravinářství a chemie",
+      "udaje_za_rok": "2024",
+      "trzby": "211,7 mld. Kč",
+      "aktiva": "203,6 mld. Kč",
+      "zisk": "7,1 mld. Kč",
+      "majoritni_vlastnik": "RSVP Trust (100 %)"
+    },
+    {
+      "poradi": 7,
+      "firma": "Hyundai Motor Manufacturing Czech s.r.o.",
+      "oblast_podnikani": "automobilový průmysl",
+      "udaje_za_rok": "2024",
+      "trzby": "187,8 mld. Kč",
+      "aktiva": "73,9 mld. Kč",
+      "zisk": "10,7 mld. Kč",
+      "majoritni_vlastnik": "Hyundai Motor Company (100 %)"
+    },
+    {
+      "poradi": 8,
+      "firma": "Orlen Unipetrol, a.s.",
+      "oblast_podnikani": "petrochemie",
+      "udaje_za_rok": "2024",
+      "trzby": "163,1 mld. Kč",
+      "aktiva": "121,8 mld. Kč",
+      "zisk": "−16,3 mld. Kč",
+      "majoritni_vlastnik": "Orlen (100 %)"
+    },
+    {
+      "poradi": 9,
+      "firma": "FOXCONN CZ s.r.o.",
+      "oblast_podnikani": "výroba elektroniky",
+      "udaje_za_rok": "2024",
+      "trzby": "119,1 mld. Kč",
+      "aktiva": "54,4 mld. Kč",
+      "zisk": "2,1 mld. Kč",
+      "majoritni_vlastnik": "Cloud Network Technology (100 %)"
+    },
+    {
+      "poradi": 10,
+      "firma": "FORTUNA GAME a.s.",
+      "oblast_podnikani": "hazard",
+      "udaje_za_rok": "2025",
+      "trzby": "117,6 mld. Kč",
+      "aktiva": "4,2 mld. Kč",
+      "zisk": "645,4 mil. Kč",
+      "majoritni_vlastnik": "Fortuna Entertainment Group (1)"
+    },
+    {
+      "poradi": 11,
+      "firma": "OTE, a.s.",
+      "oblast_podnikani": "velkoobchod",
+      "udaje_za_rok": "2024",
+      "trzby": "115,3 mld. Kč",
+      "aktiva": "26,1 mld. Kč",
+      "zisk": "25,5 mil. Kč",
+      "majoritni_vlastnik": "Ministerstvo průmyslu a obchodu České republiky (100 %)"
+    },
+    {
+      "poradi": 12,
+      "firma": "Lidl Česká republika v.o.s.",
+      "oblast_podnikani": "maloobchod",
+      "udaje_za_rok": "2023/2025",
+      "trzby": "107,8 mld. Kč",
+      "aktiva": "48,4 mld. Kč",
+      "zisk": "2,7 mld. Kč",
+      "majoritni_vlastnik": "Lidl Holding"
+    },
+    {
+      "poradi": 13,
+      "firma": "CZECHOSLOVAK GROUP a.s.",
+      "oblast_podnikani": "zbrojní průmysl",
+      "udaje_za_rok": "2024",
+      "trzby": "4 mld. €",
+      "aktiva": "8 mld. €",
+      "zisk": "633,4 mil. €",
+      "majoritni_vlastnik": "CSG (100 %)"
+    },
+    {
+      "poradi": 14,
+      "firma": "Kaufland Česká republika v.o.s.",
+      "oblast_podnikani": "maloobchod",
+      "udaje_za_rok": "2024/2025",
+      "trzby": "79,3 mld. Kč",
+      "aktiva": "40,6 mld. Kč",
+      "zisk": "3,2 mld. Kč",
+      "majoritni_vlastnik": "Kaufland Tschechien Warenhandel (99,999 %) Kaufland Management ČR (0,001 %)"
+    },
+    {
+      "poradi": 15,
+      "firma": "Albert Česká republika, s.r.o.",
+      "oblast_podnikani": "maloobchod",
+      "udaje_za_rok": "2024",
+      "trzby": "75,6 mld. Kč",
+      "aktiva": "23,2 mld. Kč",
+      "zisk": "2 mld. Kč",
+      "majoritni_vlastnik": "Ahold Tsjechië (1)"
+    },
+    {
+      "poradi": 16,
+      "firma": "Continental Barum spol. s r.o.",
+      "oblast_podnikani": "výroba pneumatik",
+      "udaje_za_rok": "2025",
+      "trzby": "72,6 mld. Kč",
+      "aktiva": "34,6 mld. Kč",
+      "zisk": "2,2 mld. Kč",
+      "majoritni_vlastnik": "Continental Holding France (0,7) Korso Industriebeteiligungsgesellschaft (0,3)"
+    },
+    {
+      "poradi": 17,
+      "firma": "E.ON Energie, a.s.",
+      "oblast_podnikani": "energetika",
+      "udaje_za_rok": "2025",
+      "trzby": "62,4 mld. Kč",
+      "aktiva": "36,7 mld. Kč",
+      "zisk": "1,8 mld. Kč",
+      "majoritni_vlastnik": "E.ON Customer Solutions Czechia (100 %)"
+    },
+    {
+      "poradi": 18,
+      "firma": "Alza.cz a.s.",
+      "oblast_podnikani": "elektronické obchodování",
+      "udaje_za_rok": "2025",
+      "trzby": "61,1 mld. Kč",
+      "aktiva": "17,8 mld. Kč",
+      "zisk": "2,3 mld. Kč",
+      "majoritni_vlastnik": "L. S. Investments Limited (1)"
+    },
+    {
+      "poradi": 19,
+      "firma": "Česká spořitelna, a.s.",
+      "oblast_podnikani": "banka",
+      "udaje_za_rok": "2025",
+      "trzby": "59,2 mld. Kč",
+      "aktiva": "2 bil. Kč",
+      "zisk": "27,8 mld. Kč",
+      "majoritni_vlastnik": "Erste Group (1)"
+    },
+    {
+      "poradi": 20,
+      "firma": "MORAVIA STEEL a.s.",
+      "oblast_podnikani": "metalurgie",
+      "udaje_za_rok": "2025",
+      "trzby": "59 mld. Kč",
+      "aktiva": "61,7 mld. Kč",
+      "zisk": "776,8 mil. Kč",
+      "majoritni_vlastnik": "Minerfin (48,6 %) Supernius Steel (12,9 %) Octarine Invest (12,9 %) Sovereign Invest (12,9 %) Mondian Investment (12,9 %)"
+    },
+    {
+      "poradi": 21,
+      "firma": "W.A.G. payment solutions, a.s.",
+      "oblast_podnikani": "finanční služby",
+      "udaje_za_rok": "2025",
+      "trzby": "2,3 mld. €",
+      "aktiva": "1,1 mld. €",
+      "zisk": "3,7 mil. €",
+      "majoritni_vlastnik": "W.A.G Payment Solutions (100 %)"
+    },
+    {
+      "poradi": 22,
+      "firma": "Trntr s.r.o.",
+      "oblast_podnikani": "energetika",
+      "udaje_za_rok": "2024",
+      "trzby": "54,1 mld. Kč",
+      "aktiva": "6,6 mld. Kč",
+      "zisk": "941,9 mil. Kč",
+      "majoritni_vlastnik": "Vojtěch Kačena (100 %)"
+    },
+    {
+      "poradi": 23,
+      "firma": "Notino, s.r.o.",
+      "oblast_podnikani": "elektronické obchodování",
+      "udaje_za_rok": "2023/2025",
+      "trzby": "53,7 mld. Kč",
+      "aktiva": "14,2 mld. Kč",
+      "zisk": "2,4 mld. Kč",
+      "majoritni_vlastnik": "Notino Limited (100 %)"
+    },
+    {
+      "poradi": 24,
+      "firma": "České dráhy, a.s.",
+      "oblast_podnikani": "doprava",
+      "udaje_za_rok": "2024",
+      "trzby": "51,6 mld. Kč",
+      "aktiva": "141,9 mld. Kč",
+      "zisk": "1,4 mld. Kč",
+      "majoritni_vlastnik": "Česko (1)"
+    }
+  ],
+  "meta": {
+    "title": "Největší české firmy podle tržeb - Free Download",
+    "description": "Žebříček největších firem v Česku podle tržeb s oborem podnikání, aktivy, ziskem a majoritním vlastníkem. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Největší české firmy podle tržeb | ListBase",
+    "seo_description": "Download Největší české firmy podle tržeb — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_největších_českých_firem_podle_tržeb"
+    ]
+  }
+}
