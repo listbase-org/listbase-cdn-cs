@@ -1,0 +1,979 @@
+{
+  "id": "cs-predstavitele-ceskeho-statu",
+  "name": "Představitelé českého státu",
+  "title": "Představitelé českého státu",
+  "description": "Chronologický seznam panovníků a hlav českého státu od Sámovy říše přes knížata a krále až po prezidenty, s obdobím života, obdobím vlády a poznámkami.",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_představitelů_českého_státu",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_představitelů_českého_státu",
+  "updated": "2026-10",
+  "record_count": 102,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "jmeno",
+      "label": "Jmeno",
+      "type": "string"
+    },
+    {
+      "key": "obdobi_zivota",
+      "label": "Obdobi Zivota",
+      "type": "string"
+    },
+    {
+      "key": "obdobi_vlady",
+      "label": "Obdobi Vlady",
+      "type": "string"
+    },
+    {
+      "key": "poznamky",
+      "label": "Poznamky",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    },
+    {
+      "key": "dynastie",
+      "label": "Dynastie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1",
+      "jmeno": "Sámo",
+      "obdobi_zivota": "605?–659?",
+      "obdobi_vlady": "623/4–658/9",
+      "poznamky": "Franský kupec, vládce slovanského kmenového svazu, tzv. Sámovy říše.",
+      "obdobi": "Vládce Sámovy říše (623/4–658/9)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "1",
+      "jmeno": "Mojmír I.",
+      "obdobi_zivota": "cca 795?–846?",
+      "obdobi_vlady": "830?–846",
+      "poznamky": "První historicky známý moravský vládce, zakladatel dynastie Mojmírovců.",
+      "obdobi": "Velkomoravská knížata (830?–906)",
+      "dynastie": "Mojmírovci (830?–870)"
+    },
+    {
+      "poradi": "2",
+      "jmeno": "Rostislav",
+      "obdobi_zivota": "ok. 813? – po 870 (Bavorsko)",
+      "obdobi_vlady": "846–870",
+      "poznamky": "Synovec Mojmíra I. V roce 846, pravděpodobně po Mojmírově smrti, byl na velkomoravský stolec dosazen Ludvíkem Němcem, panovníkem východofranské říše. Na Moravu přišli na jeho žádost misionáři Cyril a Metoděj. Svého nástupce Svatopluka vydává Frankům, kteří na Moravu dosazují své místodržitele Viléma a Engilšalka.",
+      "obdobi": "Velkomoravská knížata (830?–906)",
+      "dynastie": "Mojmírovci (830?–870)"
+    },
+    {
+      "poradi": "3–4",
+      "jmeno": "Engilšalk (v letech 870–871 v rámci Východofranské říše, jejímž králem byl Ludvík II. Němec)",
+      "obdobi_zivota": "ok. 830–871",
+      "obdobi_vlady": "870–871",
+      "poznamky": "Vilémův bratr, franský místodržící v době Svatopluka, dosazen Karlomanem Východofranským. Zemřel při vzpouře Moravanů vedené Slavomírem.",
+      "obdobi": "Velkomoravská knížata (830?–906)",
+      "dynastie": "Vilémovci (870–871)"
+    },
+    {
+      "poradi": "3–4",
+      "jmeno": "Vilém (v letech 870–871 v rámci Východofranské říše, jejímž králem byl Ludvík II. Němec)",
+      "obdobi_zivota": "ok. 830–871",
+      "obdobi_vlady": "870–871",
+      "poznamky": "Engilšalkův bratr, franský místodržící v době Svatopluka, dosazen Karlomanem Východofranským. Zemřel při vzpouře Moravanů vedené Slavomírem.",
+      "obdobi": "Velkomoravská knížata (830?–906)",
+      "dynastie": "Vilémovci (870–871)"
+    },
+    {
+      "poradi": "5",
+      "jmeno": "Slavomír",
+      "obdobi_zivota": "ok. 830 – po 873",
+      "obdobi_vlady": "871",
+      "poznamky": "Kněz pravděpodobně mojmírovského původu, vůdce vzpoury proti franské nadvládě, která vedla ke svržení bratrů Viléma a Engilšalka.",
+      "obdobi": "Velkomoravská knížata (830?–906)",
+      "dynastie": "Mojmírovci (871–906)"
+    },
+    {
+      "poradi": "6",
+      "jmeno": "Svatopluk",
+      "obdobi_zivota": "ok. 830–894",
+      "obdobi_vlady": "870–894",
+      "poznamky": "Synovec Rostislava, původně nitranský údělník. Propuštěn z franského zajetí, aby potlačil vzpouru Moravanů. Po návratu se však dává na Slavomírovu stranu a přebírá od něj vládu. Stává se nejvýznamnějším panovníkem Velkomoravské říše, ve středověku byl proto označován za krále. Vyhání žáky sv. Metoděje a zavádí na Moravě západní křesťanství.",
+      "obdobi": "Velkomoravská knížata (830?–906)",
+      "dynastie": "Mojmírovci (871–906)"
+    },
+    {
+      "poradi": "7",
+      "jmeno": "Mojmír II.",
+      "obdobi_zivota": "po 871 – 906?",
+      "obdobi_vlady": "894–906",
+      "poznamky": "Syn Svatopluka I. Po roce 906 o Mojmírovi II. historické prameny mlčí, předpokládá se tedy, že zemřel právě toho roku. Jeho bratr Svatopluk byl údělníkem v Nitře (jako Svatopluk II.).",
+      "obdobi": "Velkomoravská knížata (830?–906)",
+      "dynastie": "Mojmírovci (871–906)"
+    },
+    {
+      "poradi": "1",
+      "jmeno": "Bořivoj I. (v letech 872?–883? v rámci Velkomoravské říše, jejímž knížetem byl Svatopluk)",
+      "obdobi_zivota": "852/855 – 888/889?",
+      "obdobi_vlady": "872?–883?",
+      "poznamky": "Zakladatel dynastie Přemyslovců, podle Kosmase syn bájného Hostivíta, jeho původ nelze spolehlivě prokázat. První historicky doložený Přemyslovec.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (872?–889?)"
+    },
+    {
+      "poradi": "2",
+      "jmeno": "Strojmír",
+      "obdobi_zivota": "??? – po 885",
+      "obdobi_vlady": "883?–885?",
+      "poznamky": "Původ neznámý, snad Přemyslovec. Podle Kristiánovy legendy svrhl knížete Bořivoje, jelikož nesouhlasil s velkomoravskou nadvládou. O dva roky později byl za pomoci Svatoplukových vojsk sesazen.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (872?–889?)"
+    },
+    {
+      "poradi": "1",
+      "jmeno": "Bořivoj I. (v letech 885?–890? v rámci Velkomoravské říše, jejímž knížetem byl Svatopluk)",
+      "obdobi_zivota": "852/855 – 888/890?",
+      "obdobi_vlady": "885?–890?",
+      "poznamky": "Podruhé na trůně.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (872?–889?)"
+    },
+    {
+      "poradi": "3",
+      "jmeno": "Svatopluk I. (v letech 890–894 v rámci Velkomoravské říše, jejímž byl knížetem)",
+      "obdobi_zivota": "ok. 830 – 894",
+      "obdobi_vlady": "890–894",
+      "poznamky": "Mojmírovec. Po smrti svého chráněnce Bořivoje I. na krátkou dobu opět převzal vládu (nárok na české území byl potvrzen Arnulfem Korutanským v roce 890).",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Mojmírovec (890–894)"
+    },
+    {
+      "poradi": "4",
+      "jmeno": "Spytihněv I.",
+      "obdobi_zivota": "ok. 875 Levý Hradec – 915",
+      "obdobi_vlady": "894–915",
+      "poznamky": "Syn Bořivoje. Vlády se ujal poté, co se Čechy po smrti Svatopluka I. vymanily z vlivu Velké Moravy a přiklonily se k Bavorsku.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (894–1002)"
+    },
+    {
+      "poradi": "5",
+      "jmeno": "Vratislav I.",
+      "obdobi_zivota": "ok. 888 Praha – 13. únor 921 Praha",
+      "obdobi_vlady": "915–921",
+      "poznamky": "Syn Bořivoje I., bratr Spytihněva I.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (894–1002)"
+    },
+    {
+      "poradi": "6",
+      "jmeno": "svatý Václav (I.)",
+      "obdobi_zivota": "ok. 907 – 28. září 935 Stará Boleslav",
+      "obdobi_vlady": "921–935",
+      "poznamky": "Svatý Václav. Syn Vratislava I., patron přemyslovské dynastie a české země. Ve starší literatuře se často udává jako rok jeho smrti 929, většina soudobých vědců se ale již kloní k roku 935.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (894–1002)"
+    },
+    {
+      "poradi": "7",
+      "jmeno": "Boleslav I.",
+      "obdobi_zivota": "ok. 915 – 15. července 972",
+      "obdobi_vlady": "935–972",
+      "poznamky": "Syn Vratislava I., bratr svatého Václava. Boleslav I. je někdy považován za zakladatele české státnosti: ražba mince, hradská soustava, územní expanze – severní část Moravy, Horní Slezsko, Krakovsko a Červené hrady (Halič) – a centralizace.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (894–1002)"
+    },
+    {
+      "poradi": "8",
+      "jmeno": "Boleslav II.",
+      "obdobi_zivota": "ok. 935 – 7. únor 999 Praha",
+      "obdobi_vlady": "972–999",
+      "poznamky": "Syn Boleslava I. Ještě rozšířil území zděděná po svém otci, ale ke sklonku vlády nedokázal zabránit jejich ztrátě ve prospěch Polska. Vyvražděni Slavníkovci, čímž dokončeno sjednocení Čech. Po jeho smrti přichází státní úpadek a boj o trůn mezi jeho třemi syny.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (894–1002)"
+    },
+    {
+      "poradi": "9",
+      "jmeno": "Boleslav III.",
+      "obdobi_zivota": "(968–971) Praha – (1037–1039) (Polsko)",
+      "obdobi_vlady": "999–1002",
+      "poznamky": "Syn Boleslava II. O trůn přišel povstáním předáků a družiníků.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (894–1002)"
+    },
+    {
+      "poradi": "10",
+      "jmeno": "Vladivoj",
+      "obdobi_zivota": "981? – leden 1003",
+      "obdobi_vlady": "1002–1003",
+      "poznamky": "Snad Přemyslovec nebo Piastovec. Na knížecí stolec dosazen polským knížetem Boleslavem Chrabrým.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovec/Piastovec (1002–1003)"
+    },
+    {
+      "poradi": "11",
+      "jmeno": "Jaromír",
+      "obdobi_zivota": "ok. 975 – 4. listopad 1035",
+      "obdobi_vlady": "1003",
+      "poznamky": "Syn Boleslava II. Po smrti Vladivoje byl díky vojenské pomoci Jindřicha II. krátce dosazen na český knížecí stolec.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1003)"
+    },
+    {
+      "poradi": "9",
+      "jmeno": "Boleslav III.",
+      "obdobi_zivota": "(968–971) Praha – (1037–1039) (Polsko)",
+      "obdobi_vlady": "1003",
+      "poznamky": "Podruhé na trůně, roku 1003 Boleslavem Chrabrým znovu dosazen. Nařídil vraždění Vršovců; to vyvolalo povstání. Boleslav Chrabrý povolal svého chráněnce do Polska, oslepil jej a uvěznil.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1003)"
+    },
+    {
+      "poradi": "12",
+      "jmeno": "Boleslav IV.",
+      "obdobi_zivota": "966/967 – 17. června 1025",
+      "obdobi_vlady": "1003–1004",
+      "poznamky": "Piastovec, polský kníže, zvaný Chrabrý. Syn polského knížete Měška I. a Přemyslovny Doubravky, dcery Boleslava I. Na jaře 1003 vpadl do Čech, které ovládal do podzimu 1004.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Piastovec (1003–1004)"
+    },
+    {
+      "poradi": "11",
+      "jmeno": "Jaromír",
+      "obdobi_zivota": "ok. 973 – 4. listopad 1035",
+      "obdobi_vlady": "1004–1012",
+      "poznamky": "Podruhé na trůně. Na podzim 1004 s podporou Jindřicha II. byli z Čech vypuzeni Poláci.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "13",
+      "jmeno": "Oldřich",
+      "obdobi_zivota": "ok. 975 – 9. listopadu 1034 Praha",
+      "obdobi_vlady": "1012–1033",
+      "poznamky": "Nejmladší syn Boleslava II. Na jaře 1012 se zmocnil vlády v Čechách, Jaromír uprchl. V letech 1019 / 1029 (datace je nejistá) postupně dobyl na Polácích Moravu, která od té doby byla trvalou součástí českého státu.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "11",
+      "jmeno": "Jaromír",
+      "obdobi_zivota": "ok. 973 – 4. listopad 1035",
+      "obdobi_vlady": "1033–1034",
+      "poznamky": "Potřetí na trůně. Když byl Oldřich roku 1033 obviněn císařem Konrádem II. z úkladů proti své osobě a sesazen, ustavilo říšské vojsko na podzim 1033 znovu Jaromíra českým knížetem.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "13",
+      "jmeno": "Oldřich",
+      "obdobi_zivota": "ok. 975 – 9. listopadu 1034 Praha",
+      "obdobi_vlady": "1034",
+      "poznamky": "Podruhé na trůně. Na jaře 1034 Konrád II. Oldřicha propustil a vrátil mu vládu v knížectví. Jaromíra dal jeho bratr zajmout a oslepit. Břetislav utekl před otcem do ciziny.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "11",
+      "jmeno": "Jaromír",
+      "obdobi_zivota": "ok. 973 – 4. listopad 1035",
+      "obdobi_vlady": "1034–1034/1035",
+      "poznamky": "Počtvrté na trůně. Po smrti Oldřicha se vykastrovaný a oslepený Jaromír vzdal nároků na vládu ve prospěch Břetislava I. I přesto byl roku 1035 zřejmě z vůle Vršovců zavražděn. Kosmas popisuje uvedení Břetislava na knížecí stolec Jaromírem, nemohlo k tomu ovšem dojít hned po Oldřichově pohřbu, Břetislav by se nemohl vrátit z exilu tak rychle. Kdy přijel Břetislav do Prahy se nikde neříká. Pouze v jedné kronice najdeme zmínku, že Jaromír sám vládl knížectví dokonce jeden rok po smrti Oldřichově.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "14",
+      "jmeno": "Břetislav I.",
+      "obdobi_zivota": "1002/1005 – 10. leden 1055 Chrudim",
+      "obdobi_vlady": "1034/1035–1055",
+      "poznamky": "Syn knížete Oldřicha. Roku 1054 vyřešil otázku nástupnictví prosazením seniorátu – knížetem měl být nejstarší mužský člen přemyslovské dynastie.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "15",
+      "jmeno": "Spytihněv II.",
+      "obdobi_zivota": "1031 Olomouc – 28. ledna 1061 Hradec nad Moravicí",
+      "obdobi_vlady": "1055–1061",
+      "poznamky": "Syn knížete Břetislava. Své bratry zbavil držav a podřídil tak Moravu své přímé vládě.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "16",
+      "jmeno": "Vratislav II.",
+      "obdobi_zivota": "1031 – 14. leden 1092",
+      "obdobi_vlady": "1061–1085",
+      "poznamky": "Syn Břetislava I. Od roku 1085 byl prvním českým králem.",
+      "obdobi": "Česká knížata (872?–1085)",
+      "dynastie": "Přemyslovci (1004–1085)"
+    },
+    {
+      "poradi": "1",
+      "jmeno": "Vratislav (předtím jako kníže Vratislav II.)",
+      "obdobi_zivota": "1031 – 14. leden 1092",
+      "obdobi_vlady": "1085–1092",
+      "poznamky": "První český král. Nedědičný titul ad personam mu propůjčil císař Jindřich IV. V letech 1085–1092 byl také titulárním polským králem.",
+      "obdobi": "Český král (1085–1092)",
+      "dynastie": "Přemyslovec (1085–1092)"
+    },
+    {
+      "poradi": "17",
+      "jmeno": "Konrád I.",
+      "obdobi_zivota": "ok. 1035 Praha – 6. září 1092 Praha",
+      "obdobi_vlady": "1092",
+      "poznamky": "Syn Břetislava I. Na knížecí stolec usedl 20. ledna 1092. Stihl se pouze pokusit opět spojit pražské a olomoucké biskupství.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "18",
+      "jmeno": "Břetislav II.",
+      "obdobi_zivota": "ok. 1060 Praha – 22. prosinec 1100 Zbečno",
+      "obdobi_vlady": "1092–1100",
+      "poznamky": "Syn Vratislava II. Roku 1099 Břetislav II. vojensky obsadil Moravu a svěřil ji do správy svého bratra Bořivoje II., kterého rovněž určil jako svého nástupce.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "19",
+      "jmeno": "Bořivoj II.",
+      "obdobi_zivota": "ok. 1064 Praha – 2. únor 1124 (Uhry)",
+      "obdobi_vlady": "1100–1107",
+      "poznamky": "Syn Vratislava II. Jeho nástup na trůn znamenal porušení zásad stařešinského řádu a počátek dlouhotrvajících rozbrojů mezi Přemyslovci.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "20",
+      "jmeno": "Svatopluk II.",
+      "obdobi_zivota": "ok.1075 Olomouc – 21. září 1109 Kladruby u Stříbra",
+      "obdobi_vlady": "1107–1109",
+      "poznamky": "Syn Oty Olomouckého. V roce 1107 poslal k Bořivoji II. vyslance, který pomluvil u knížete jeho spojence, Bořivoj ztratil oporu své moci a byl nucen uprchnout do Německa. Svatopluk se tak stal knížetem.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "21",
+      "jmeno": "Vladislav I.",
+      "obdobi_zivota": "ok. 1070 – 12. duben 1125 Praha",
+      "obdobi_vlady": "1109–1117",
+      "poznamky": "Syn Vratislava II. Jeho moc byla ohrožena ze strany příbuzných, císař Jindřich V. ho ovšem coby knížete potvrdil a Vladislav se tvrdě vypořádal se svými odpůrci.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "19",
+      "jmeno": "Bořivoj II.",
+      "obdobi_zivota": "ok. 1064 Praha – 2. únor 1124 (Uhry)",
+      "obdobi_vlady": "1117–1120",
+      "poznamky": "Podruhé na trůně. Roku 1117 postoupil Vladislav I. svému bratru Bořivojovi II. vládu, ale již za tři roky se z nejasných příčin opět vystřídali.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "21",
+      "jmeno": "Vladislav I.",
+      "obdobi_zivota": "ok. 1070 – 12. duben 1125 Praha",
+      "obdobi_vlady": "1120–1125",
+      "poznamky": "Podruhé na trůně.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "22",
+      "jmeno": "Soběslav I.",
+      "obdobi_zivota": "ok. 1090 Praha – 14. únor 1140 Debrné",
+      "obdobi_vlady": "1125–1140",
+      "poznamky": "Syn Vratislava II. Vládu si nárokoval i Ota II. Olomoucký a získal si podporu německého krále Lothara III. Říšská vojenská výprava skončila porážkou v bitvě u Chlumce v únoru 1126.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "23",
+      "jmeno": "Vladislav II.",
+      "obdobi_zivota": "asi 1110 Praha – 18. leden 1174 Meerane",
+      "obdobi_vlady": "1140–1158",
+      "poznamky": "Syn Vladislava I., posléze druhý český král.",
+      "obdobi": "Česká knížata (1092–1158)",
+      "dynastie": "Přemyslovci (1092–1158)"
+    },
+    {
+      "poradi": "2",
+      "jmeno": "Vladislav I. (předtím jako kníže Vladislav II.)",
+      "obdobi_zivota": "asi 1110 Praha – 18. leden 1174 Meerane",
+      "obdobi_vlady": "1158–1172",
+      "poznamky": "Druhý český král. Zřejmě nedědičný královský titul mu propůjčil císař Fridrich I. Barbarossa v roce 1158.",
+      "obdobi": "Český král (1158–1172)",
+      "dynastie": "Přemyslovec (1158–1172)"
+    },
+    {
+      "poradi": "24",
+      "jmeno": "Bedřich",
+      "obdobi_zivota": "ok. 1142 Praha – 25. březen 1189 Praha",
+      "obdobi_vlady": "1172–1173",
+      "poznamky": "Syn Vladislava II., který mu roku 1172 předal vládu podle principu primogenitury. Dosud ovšem platilo právo seniorátu. O knížecí hodnost se tak hlásili synové Soběslava I.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "25",
+      "jmeno": "Soběslav II.",
+      "obdobi_zivota": "asi 1128 Praha – 29. leden 1180",
+      "obdobi_vlady": "1173–1178",
+      "poznamky": "Syn Soběslava I. Získal podporu císaře Barbarossy, který za knížete určil Soběslavova bratra Oldřicha. Oldřich však neměl podporu české šlechty a vládu odmítl ve prospěch Soběslava.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "24",
+      "jmeno": "Bedřich",
+      "obdobi_zivota": "ok. 1142 Praha – 25. březen 1189 Praha",
+      "obdobi_vlady": "1178–1189",
+      "poznamky": "Syn Vladislava II. V létě 1178 ztratil Soběslav II. podporu Fridricha Barbarossy, čehož využil Bedřich, uplatil císaře a obdržel od něj Čechy v léno.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "26",
+      "jmeno": "Konrád II. Ota",
+      "obdobi_zivota": "asi 1135 – 9. září 1191 Neapol",
+      "obdobi_vlady": "1189–1191",
+      "poznamky": "Syn Konráda II. Znojemského. Po smrti Bedřicha nastoupil na knížecí stolec, Čechy a Morava se tak spojily do jednoho státního celku, protože kníže rezignoval na titul markraběte moravského.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "27",
+      "jmeno": "Václav II.",
+      "obdobi_zivota": "1137 Praha – po 1192 Míšeň",
+      "obdobi_vlady": "1191–1192",
+      "poznamky": "Syn Soběslava I. Po smrti Konráda Oty se zmocnil Čech. Proti němu ale vystoupil biskup Jindřich Břetislav a vymohl u císaře Jindřicha VI., aby udělil Čechy v léno Přemyslu Otakarovi I.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "28",
+      "jmeno": "Přemysl I. Otakar",
+      "obdobi_zivota": "ok. 1155 – 15. prosinec 1230 Praha",
+      "obdobi_vlady": "1192–1193",
+      "poznamky": "Syn Vladislava II. Knížetem se s podporou biskupa Jindřicha Břetislava a císaře Jindřicha VI. stal roku 1192. O rok později ho šlechta na trůně vystřídala Jindřichem Břetislavem.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "29",
+      "jmeno": "Břetislav III. Jindřich",
+      "obdobi_zivota": "asi 1137 – 15. červen 1197 Cheb",
+      "obdobi_vlady": "1193–1197",
+      "poznamky": "Roku 1193 mu císař propůjčil hodnost českého knížete. Přemysl I. proti němu táhl s vojskem, v rozhodující chvíli se však od něho odvrátila šlechta.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "30",
+      "jmeno": "Vladislav III. Jindřich",
+      "obdobi_zivota": "ok. 1160 – 12. srpen 1222 Znojmo",
+      "obdobi_vlady": "1197",
+      "poznamky": "Syn Vladislava II. Titul si nárokoval i jeho starší bratr Přemysl I. Aby zabránil vzestupu politické nestability, vzdal se titulu a dědických nároků ve prospěch svého bratra.",
+      "obdobi": "Česká knížata (1172–1198)",
+      "dynastie": "Přemyslovci (1172–1198)"
+    },
+    {
+      "poradi": "3",
+      "jmeno": "Přemysl I. Otakar",
+      "obdobi_zivota": "ok. 1155 – 15. prosinec 1230 Praha",
+      "obdobi_vlady": "1197–1230 král od: 1198",
+      "poznamky": "Podruhé na trůně. V očekávání Přemyslovy vojenské pomoci jej Filip Švábský v září či v říjnu 1198 nechal korunovat českým králem. Přemysl byl 24. srpna 1203 podruhé korunován papežským legátem Guidem z Praeneste. Přemysl si postupně nechal potvrdit královskou hodnost od obou římských králů i od papeže. Dědičný titul zaručila Zlatá bula sicilská (1212).",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Přemyslovci (1197–1306)"
+    },
+    {
+      "poradi": "4",
+      "jmeno": "Václav I.",
+      "obdobi_zivota": "ok. 1205 – 23. září 1253 Počaply",
+      "obdobi_vlady": "1230–1253",
+      "poznamky": "Syn Přemysla I., čtvrtý český král. Korunován byl už v roce 1228. Přispěl k odražení mongolského vpádu do Evropy a společně se synem Přemyslem získal Rakousko.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Přemyslovci (1197–1306)"
+    },
+    {
+      "poradi": "5",
+      "jmeno": "Přemysl II. Otakar",
+      "obdobi_zivota": "ok. 1233 – 26. srpen 1278 Suché Kruty (Dürnkrut) nebo Moravské pole",
+      "obdobi_vlady": "1253–1278",
+      "poznamky": "Syn Václava I., pátý český král (korunován 1261). Také vévoda rakouský, štýrský, korutanský, kraňský a furlanský. Podcenil ale vývoj v římskoněmecké říši a politiku papežské kurie. Dne 26. srpna 1278 zahynul v bitvě na Moravském poli proti Rudolfu I. Habsburskému.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Přemyslovci (1197–1306)"
+    },
+    {
+      "poradi": "6",
+      "jmeno": "Václav II.",
+      "obdobi_zivota": "27. září 1271 Praha – 21. červen 1305 Praha",
+      "obdobi_vlady": "1278–1305",
+      "poznamky": "Syn Přemysla II., šestý český král (korunován 1297). Také polský král (korunován roku 1300). Pro syna získal i uherský trůn.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Přemyslovci (1197–1306)"
+    },
+    {
+      "poradi": "7",
+      "jmeno": "Václav III.",
+      "obdobi_zivota": "6. říjen 1289 Praha – 4. srpen 1306 Olomouc",
+      "obdobi_vlady": "1305–1306",
+      "poznamky": "Syn Václava II, sedmý český král. V letech 1301 – 1304 byl uherským králem jako Ladislav V. Po smrti otce se snažil udržet unii s Polskem, byl však zavražděn. Skončilo tak více než 400 let vlády Přemyslovců v Čechách.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Přemyslovci (1197–1306)"
+    },
+    {
+      "poradi": "8",
+      "jmeno": "Jindřich",
+      "obdobi_zivota": "ok. 1265 – 2. duben 1335 Tyrol",
+      "obdobi_vlady": "1306",
+      "poznamky": "Menhardovec. Manžel Anny Přemyslovny. Měsíc po jeho volbě za krále se objevila vojska Rudolfa, syna římského krále Albrechta I., a Jindřich s Annou uprchli.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Menhardovec (1306)"
+    },
+    {
+      "poradi": "9",
+      "jmeno": "Rudolf I.",
+      "obdobi_zivota": "1281 – 3./4. červenec 1307 Horažďovice",
+      "obdobi_vlady": "1306–1307",
+      "poznamky": "Syn Albrechta I. Dokázal si získat podporu části panstva sliby (i úplatky), ale zemřel při obléhání hradu Bavora III. ze Strakonic.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburk (1306–1307)"
+    },
+    {
+      "poradi": "8",
+      "jmeno": "Jindřich",
+      "obdobi_zivota": "ok. 1265 – 2. duben 1335 Tyrol",
+      "obdobi_vlady": "1307–1310",
+      "poznamky": "Podruhé na trůně. Jindřich nebyl schopný panovník a část panstva požádala o pomoc římského krále Jindřicha VII., jehož syn Jan Lucemburský se měl oženit s princeznou Eliškou Přemyslovnou.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Menhardovec (1307–1310)"
+    },
+    {
+      "poradi": "10",
+      "jmeno": "Jan",
+      "obdobi_zivota": "10. srpen 1296 Lucemburk – 26. srpen 1346 Kresčak",
+      "obdobi_vlady": "1310–1346",
+      "poznamky": "Syn Jindřicha VII. V Janovi se protnuly tři nástupnické principy: Uznala ho česká šlechta. Císař mu udělil Čechy v léno. Oženil se s Eliškou Přemyslovnou. Dokázal přesvědčit 5/7 kurfiřtů, aby zvolili jeho syna za císaře.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Lucemburkové (1310–1437)"
+    },
+    {
+      "poradi": "11",
+      "jmeno": "Karel I. (císař: Karel IV.)",
+      "obdobi_zivota": "14. květen 1316 Praha – 29. listopad 1378 Praha",
+      "obdobi_vlady": "1346–1378 císař od: 1355",
+      "poznamky": "Známý jako římský císař Karel IV. Syn Jana Lucemburského, je s ním spojen největší politický i kulturní rozkvět českých zemí.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Lucemburkové (1310–1437)"
+    },
+    {
+      "poradi": "12",
+      "jmeno": "Václav IV.",
+      "obdobi_zivota": "26. únor 1361 Norimberk – 16. srpen 1419 Nový hrad u Kunratic",
+      "obdobi_vlady": "1378–1419",
+      "poznamky": "Syn Karla IV. Také římský král. Českým králem byl korunován už ve dvou letech. Syna neměl, a tak byl jeho dědicem jeho bratr Zikmund.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Lucemburkové (1310–1437)"
+    },
+    {
+      "poradi": "13",
+      "jmeno": "Zikmund",
+      "obdobi_zivota": "14. únor 1368 Norimberk – 9. prosinec 1437 Znojmo",
+      "obdobi_vlady": "1419–1437",
+      "poznamky": "Syn Karla IV. Také římský císař (od 1433) a uherský král. Roku 1421 ho český zemský sněm jako krále odmítl; plně respektovaným králem byl až poslední dva roky života.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Lucemburkové (1310–1437)"
+    },
+    {
+      "poradi": "14",
+      "jmeno": "Albrecht",
+      "obdobi_zivota": "10. srpen 1397 Vídeň – 27. říjen 1439 Nesmily",
+      "obdobi_vlady": "1437–1439",
+      "poznamky": "Zikmundův zeť a dědic. Také římský a uherský král. Svých dědických práv se domáhal obtížně, české koruny dosáhl i přes odpor husitů. Po Albrechtově smrti byla koruna nabídnuta Albrechtu III. Bavorskému, který ji odmítl. V českých zemích nastalo období Interregna. Vznikly šlechtické spolky – sněmíky, landfrídy. Spolupráci landfrídů zajišťovaly zemské sněmy.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1437–1457)"
+    },
+    {
+      "poradi": "15",
+      "jmeno": "Ladislav",
+      "obdobi_zivota": "22. únor 1440 Komárno – 23. listopad 1457 Praha",
+      "obdobi_vlady": "1453–1457",
+      "poznamky": "Zvaný Pohrobek. Syn Albrechta II., narozen až po jeho smrti (= pohrobek). Také uherský král. V Čechách sídlil v letech 1453 – 1454 a potom už jen dva měsíce před svou smrtí.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1437–1457)"
+    },
+    {
+      "poradi": "16",
+      "jmeno": "Jiří",
+      "obdobi_zivota": "23. duben 1420 Poděbrady – 22. březen 1471 Praha",
+      "obdobi_vlady": "1458–1471",
+      "poznamky": "Zemským správce z doby Ladislava Pohrobka, po jehož smrti se stal králem. Ačkoliv měl potomky, korunu odkázal Jagelloncům.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Pán z Kunštátu a Poděbrad (1458–1471)"
+    },
+    {
+      "poradi": "17",
+      "jmeno": "Matyáš",
+      "obdobi_zivota": "23. únor 1443 Kluž – 6. duben 1490 Vídeň",
+      "obdobi_vlady": "1469–1490",
+      "poznamky": "Protikrál Jiřího z Poděbrad a Vladislava Jagellonského. Vládce Uher vojensky usiloval i o český trůn; v průběhu konfrontace se nechal opoziční českou šlechtou zvolit za krále, ačkoliv Jiřímu, který byl jeho tchánem, jen krátce předtím slíbil přátelství.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Hunyadyové (1469–1490)"
+    },
+    {
+      "poradi": "18",
+      "jmeno": "Vladislav II.",
+      "obdobi_zivota": "1. březen 1456 Krakov – 13. březen 1516 Budín",
+      "obdobi_vlady": "1471–1516",
+      "poznamky": "Syn Kazimíra IV. Zvolen českým králem byl podle přání Jiřího z Poděbrad, musel ale až do r. 1478 bojovat s Matyášem Korvínem – vládu v zemích Koruny si nakonec rozdělili. Od roku 1490 také král uherský. V roce 1500 vydal Vladislavské zřízení zemské.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Jagellonci (1471–1526)"
+    },
+    {
+      "poradi": "19",
+      "jmeno": "Ludvík",
+      "obdobi_zivota": "1. červenec 1506 Budín – 29. srpen 1526 Moháč",
+      "obdobi_vlady": "1516–1526",
+      "poznamky": "Syn Vladislava Jagellonského. Otec ho nechal korunovat již roku 1508 za uherského krále a o rok později za krále českého. Zemřel v bitvě u Moháče, čímž vymřela česko-uherská větev rodu.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Jagellonci (1471–1526)"
+    },
+    {
+      "poradi": "20",
+      "jmeno": "Ferdinand I.",
+      "obdobi_zivota": "10. březen 1503 Alcalá de Henares – 25. červenec 1564 Vídeň",
+      "obdobi_vlady": "1526–1564",
+      "poznamky": "Vnuk císaře Maxmiliána I., manžel Anny Jagellonské. Také římskoněmecký císař a uherský král.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1526–1619)"
+    },
+    {
+      "poradi": "21",
+      "jmeno": "Maxmilián",
+      "obdobi_zivota": "31. července 1527 Vídeň – 12. října 1576 Řezno",
+      "obdobi_vlady": "1564–1576",
+      "poznamky": "Syn Ferdinanda I. Také římskoněmecký císař a uherský král.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1526–1619)"
+    },
+    {
+      "poradi": "22",
+      "jmeno": "Rudolf II.",
+      "obdobi_zivota": "18. července 1552 Vídeň – 20. ledna 1612 Praha",
+      "obdobi_vlady": "1576–1611",
+      "poznamky": "Syn Maxmiliána II. Také římskoněmecký císař a uherský král. Jako jediný Habsburk si zvolil za sídelní město Prahu.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1526–1619)"
+    },
+    {
+      "poradi": "23",
+      "jmeno": "Matyáš",
+      "obdobi_zivota": "24. únor 1557 Vídeň – 20. březen 1619 Vídeň",
+      "obdobi_vlady": "1611–1619",
+      "poznamky": "Syn Maxmiliána II. Také římskoněmecký císař a uherský král. Ještě za života bratra Rudolfa začal přebírat jeho moc.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1526–1619)"
+    },
+    {
+      "poradi": "24",
+      "jmeno": "Ferdinand II.",
+      "obdobi_zivota": "9. července 1578 Štýrský Hradec – 15. února 1637 Vídeň",
+      "obdobi_vlady": "1619",
+      "poznamky": "Matyášův bratranec. Jeho bratranec neměl potomky, a tak byl Ferdinand ještě za jeho života v roce 1617 korunován českým králem. V průběhu vlády čelil českému stavovskému povstání a protikráli Fridrichu Falckému.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1526–1619)"
+    },
+    {
+      "poradi": "25",
+      "jmeno": "Fridrich",
+      "obdobi_zivota": "26. srpna 1596 Mohuč – 29. listopadu 1632 Mohuč",
+      "obdobi_vlady": "1619–1620",
+      "poznamky": "Wittelsbach. Falcký kurfiřt, který projevoval sympatie k českým protestantským stavům. Zvolen králem byl ale až v době, kdy bylo stavovské povstání v defenzivě.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Wittelsbach (1619–1620)"
+    },
+    {
+      "poradi": "24",
+      "jmeno": "Ferdinand II.",
+      "obdobi_zivota": "9. července 1578 Štýrský Hradec – 15. února 1637 Vídeň",
+      "obdobi_vlady": "1620–1637",
+      "poznamky": "Potlačil povstání v bitvě na Bílé hoře roku 1620.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1620–1780)"
+    },
+    {
+      "poradi": "26",
+      "jmeno": "Ferdinand III.",
+      "obdobi_zivota": "13. července 1608 Štýrský Hradec – 2. dubna 1657 Vídeň",
+      "obdobi_vlady": "1637–1657",
+      "poznamky": "Syn Ferdinanda II. Také císař římský a král uherský. Pokračoval v českých zemích v rekatolizaci a posilování absolutistické moci, ovšem už mírnějšími prostředky. Na trůně měl být nahrazen svým synem, kterého nechal 5. srpna 1646 titulovat českým králem se jménem Ferdinand IV. Nástupu na trůn se však tento titulární král nedožil, jelikož zemřel dříve než jeho otec Ferdinand III.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1620–1780)"
+    },
+    {
+      "poradi": "–",
+      "jmeno": "titulární král: Ferdinand IV.",
+      "obdobi_zivota": "8. září 1633 Vídeň – 9. červenec 1654 Vídeň",
+      "obdobi_vlady": "titulární král: 5. srpna 1646 – 9. červenec 1654",
+      "poznamky": "Titulární český král. Syn Ferdinanda III. Jeho otec ho ještě za svého života nechal korunovat českým, uherským králem a byl zvolen římským králem. Pro svou předčasnou smrt se ale nikdy neujal samostatné vlády, zemřel dříve než jeho otec.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1620–1780)"
+    },
+    {
+      "poradi": "27",
+      "jmeno": "Leopold I.",
+      "obdobi_zivota": "9. června 1640 Vídeň – 5. květen 1705 Vídeň",
+      "obdobi_vlady": "1657–1705",
+      "poznamky": "Syn Ferdinanda III. Také římskoněmecký císař a uherský král.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1620–1780)"
+    },
+    {
+      "poradi": "28",
+      "jmeno": "Josef I.",
+      "obdobi_zivota": "26. červenec 1678 Vídeň – 17. duben 1711 Vídeň",
+      "obdobi_vlady": "1705–1711",
+      "poznamky": "Syn Leopolda I. Již v dětských letech byl korunován uherským (v roce 1687) a římskoněmeckým králem (r. 1690). Českým králem Josef ovšem korunován nebyl.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1620–1780)"
+    },
+    {
+      "poradi": "29",
+      "jmeno": "Karel II. (císař Karel VI.)",
+      "obdobi_zivota": "1. října 1685 Vídeň – 20. října 1740 Vídeň",
+      "obdobi_vlady": "1711–1740",
+      "poznamky": "Syn Leopolda I. Také římský císař a uherský král. Snažil se pragmatickou sankcí zajistit dědictví nejstarší dceři Marii Terezii.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1620–1780)"
+    },
+    {
+      "poradi": "30",
+      "jmeno": "Marie Terezie",
+      "obdobi_zivota": "13. května 1717 Vídeň – 29. listopadu 1780 Vídeň",
+      "obdobi_vlady": "1740–1780",
+      "poznamky": "Dcera Karla VI. Jediná vládnoucí česká královna. Také královna uherská. O dědictví musela bojovat s Karlem VII. (kurfiřtem bavorským).",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsburkové (1620–1780)"
+    },
+    {
+      "poradi": "31",
+      "jmeno": "Karel III. Albrecht",
+      "obdobi_zivota": "6. srpen 1697 Brusel – 20. leden 1745 Mnichov",
+      "obdobi_vlady": "1741–1743",
+      "poznamky": "Protikrál – římský císař Karel Albrecht Bavorský. Po smrti Karla VI. neuznal Pragmatickou sankci, 9. prosince 1741 se nechal provolat českými stavy králem.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Wittelsbach (1741–1743)"
+    },
+    {
+      "poradi": "32",
+      "jmeno": "Josef II.",
+      "obdobi_zivota": "13. březen 1741 Vídeň – 20. únor 1790 Vídeň",
+      "obdobi_vlady": "1780–1790",
+      "poznamky": "Syn Marie Terezie. Také římský císař a uherský král, reformátor.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsbursko-lotrinští (1780–1918)"
+    },
+    {
+      "poradi": "33",
+      "jmeno": "Leopold II.",
+      "obdobi_zivota": "5. květen 1747 Vídeň – 1. březen 1792 Vídeň",
+      "obdobi_vlady": "1790–1792",
+      "poznamky": "Syn Marie Terezie. Také římský císař a uherský král. Na rozdíl od bratra se nechal českým králem korunovat.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsbursko-lotrinští (1780–1918)"
+    },
+    {
+      "poradi": "34",
+      "jmeno": "František I. (v letech 1804–1835 v rámci Rakouského císařství, jehož byl císařem)",
+      "obdobi_zivota": "12. únor 1768 Florencie – 2. březen 1835 Vídeň",
+      "obdobi_vlady": "1792–1835",
+      "poznamky": "Syn Leopolda II. Také uherský král, římský císař (do 1806), poté první rakouský císař (od 1804).",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsbursko-lotrinští (1780–1918)"
+    },
+    {
+      "poradi": "35",
+      "jmeno": "Ferdinand V. (v letech 1835–1848 v rámci Rakouského císařství, jehož byl císařem jako Ferdinand I.)",
+      "obdobi_zivota": "19. duben 1793 Vídeň – 29. červen 1875 Praha",
+      "obdobi_vlady": "1835–1848",
+      "poznamky": "Syn Františka I. Také rakouský císař a uherský král. V roce 1848 byl odstaven od českého trůnu a abdikoval ve prospěch synovce Františka Josefa I. Poslední korunovaný český král.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsbursko-lotrinští (1780–1918)"
+    },
+    {
+      "poradi": "36",
+      "jmeno": "František Josef I. (v letech 1848–1867 v rámci Rakouského císařství, jehož byl císařem, a v letech 1867–1916 v rámci Rakouska-Uherska)",
+      "obdobi_zivota": "18. srpen 1830 Vídeň – 21. listopad 1916 Vídeň",
+      "obdobi_vlady": "1848–1916",
+      "poznamky": "Synovec Ferdinanda V. Také rakouský císař a uherský král. Českým zemím vládl více než 60 let, z vnitropolitických důvodů se však nedal korunovat českým králem. (Ztroskotaly i myšlenky na trialistickou monarchii).",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsbursko-lotrinští (1780–1918)"
+    },
+    {
+      "poradi": "37",
+      "jmeno": "Karel III. (v letech 1916–1918 v rámci Rakouska-Uherska, jako rakouský císař Karel I.)",
+      "obdobi_zivota": "17. srpen 1887 Persenbeug – 1. duben 1922 Funchal",
+      "obdobi_vlady": "1916–1918",
+      "poznamky": "Rakouský císař Karel I., král uherský jako Karel IV. a král český Karel III. Z časových a politických důvodů však nebyl korunován českým králem. Rakousko-Uhersko se mu už zachránit nepodařilo, ačkoliv nabídl federaci.",
+      "obdobi": "Čeští králové (1197–1918)",
+      "dynastie": "Habsbursko-lotrinští (1780–1918)"
+    },
+    {
+      "poradi": "1",
+      "jmeno": "Tomáš Garrigue Masaryk",
+      "obdobi_zivota": "7. březen 1850 Hodonín – 14. září 1937 Lány",
+      "obdobi_vlady": "1918–1935",
+      "poznamky": "První prezident Československa, o jehož vznik se zasloužil, do funkce byl zvolen celkem čtyřikrát.",
+      "obdobi": "Českoslovenští prezidenti (1918–1939)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "2",
+      "jmeno": "Edvard Beneš",
+      "obdobi_zivota": "28. květen 1884 Kožlany – 3. září 1948 Sezimovo Ústí",
+      "obdobi_vlady": "1935–1938 (1940–1945 v exilový československý prezident)",
+      "poznamky": "Po Mnichovské dohodě abdikoval, v době války (1940–1945) exilový československý prezident.",
+      "obdobi": "Českoslovenští prezidenti (1918–1939)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "3",
+      "jmeno": "Emil Hácha",
+      "obdobi_zivota": "12. červenec 1872 Trhové Sviny – 27. červen 1945 Praha",
+      "obdobi_vlady": "1938–1939",
+      "poznamky": "Prezidentem druhé republiky (1938–1939).",
+      "obdobi": "Českoslovenští prezidenti (1918–1939)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "1",
+      "jmeno": "Emil Hácha (v letech 1939–1945 v rámci nacistického Německa, jehož vůdcem byl Adolf Hitler)",
+      "obdobi_zivota": "12. červenec 1872 Trhové Sviny – 27. červen 1945 Praha",
+      "obdobi_vlady": "1938–1945",
+      "poznamky": "Státní prezident Protektorátu Čechy a Morava (1939–1945).",
+      "obdobi": "Protektorátní prezident (1939–1945)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "2",
+      "jmeno": "Edvard Beneš",
+      "obdobi_zivota": "28. květen 1884 Kožlany – 3. září 1948 Sezimovo Ústí",
+      "obdobi_vlady": "1945–1948",
+      "poznamky": "Po válce znovu prezidentem",
+      "obdobi": "Českoslovenští prezidenti (1945–1992)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "4",
+      "jmeno": "Klement Gottwald",
+      "obdobi_zivota": "23. listopad 1896 Dědice u Vyškova – 14. březen 1953 Praha",
+      "obdobi_vlady": "1948–1953",
+      "poznamky": "Poválečný premiér, po komunistickém převratu v únoru 1948 se stal prezidentem.",
+      "obdobi": "Českoslovenští prezidenti (1945–1992)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "5",
+      "jmeno": "Antonín Zápotocký",
+      "obdobi_zivota": "19. prosinec 1884 Zákolany – 13. listopad 1957 Praha",
+      "obdobi_vlady": "1953–1957",
+      "poznamky": "Druhý komunistický prezident. Rezignoval na počáteční reformní snahy.",
+      "obdobi": "Českoslovenští prezidenti (1945–1992)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "6",
+      "jmeno": "Antonín Novotný",
+      "obdobi_zivota": "10. prosinec 1904 Praha–Letňany – 28. leden 1975 Praha",
+      "obdobi_vlady": "1957–1968",
+      "poznamky": "V době jeho vlády došlo k jakémusi uvolnění a k částečné rehabilitaci některých nespravedlivě odsouzených v 50. letech.",
+      "obdobi": "Českoslovenští prezidenti (1945–1992)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "7",
+      "jmeno": "Ludvík Svoboda",
+      "obdobi_zivota": "25. listopad 1895 Hroznatín – 20. září 1979 Praha",
+      "obdobi_vlady": "1968–1975",
+      "poznamky": "Zvolen v březnu 1968. Po srpnové invazi odmítl kolaborantskou vládu, poté byl ale jedním z hlavních normalizátorů.",
+      "obdobi": "Českoslovenští prezidenti (1945–1992)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "8",
+      "jmeno": "Gustáv Husák",
+      "obdobi_zivota": "10. leden 1913 Dúbravka – 18. listopad 1991 Bratislava",
+      "obdobi_vlady": "1975–1989",
+      "poznamky": "Na moskevských jednáních v srpnu roku 1968 Husák „změnil kurs“. V roce 1969 se dostal do čela KSČ.",
+      "obdobi": "Českoslovenští prezidenti (1945–1992)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "9",
+      "jmeno": "Václav Havel",
+      "obdobi_zivota": "5. říjen 1936 Praha – 18. prosinec 2011 Hrádeček",
+      "obdobi_vlady": "1989–1992",
+      "poznamky": "Disident, mluvčí Charty 77 a jedna z vůdčích osobností Sametové revoluce.",
+      "obdobi": "Českoslovenští prezidenti (1945–1992)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "1",
+      "jmeno": "Václav Havel",
+      "obdobi_zivota": "5. říjen 1936 Praha – 18. prosinec 2011 Hrádeček",
+      "obdobi_vlady": "1993–2003",
+      "poznamky": "Poslední československý prezident a první český prezident.",
+      "obdobi": "Čeští prezidenti (1993–současnost)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "2",
+      "jmeno": "Václav Klaus",
+      "obdobi_zivota": "19. červen 1941 Praha – současnost",
+      "obdobi_vlady": "2003–2013",
+      "poznamky": "Federální ministr financí, premiér a předseda Poslanecké sněmovny z 90. let.",
+      "obdobi": "Čeští prezidenti (1993–současnost)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "3",
+      "jmeno": "Miloš Zeman",
+      "obdobi_zivota": "28. září 1944 Kolín – současnost",
+      "obdobi_vlady": "2013–2023",
+      "poznamky": "Premiér a předseda Poslanecké sněmovny z 90. let, historicky první přímo zvolený prezident České republiky.",
+      "obdobi": "Čeští prezidenti (1993–současnost)",
+      "dynastie": ""
+    },
+    {
+      "poradi": "4",
+      "jmeno": "Petr Pavel",
+      "obdobi_zivota": "1. listopadu 1961 Planá – současnost",
+      "obdobi_vlady": "od 9. března 2023",
+      "poznamky": "Armádní generál ve výslužbě, v letech 2015–2018 předseda vojenského výboru NATO",
+      "obdobi": "Čeští prezidenti (1993–současnost)",
+      "dynastie": ""
+    }
+  ],
+  "meta": {
+    "title": "Představitelé českého státu - Free Download",
+    "description": "Chronologický seznam panovníků a hlav českého státu od Sámovy říše přes knížata a krále až po prezidenty, s obdobím života, obdobím vlády a poznámkami. Contains 102 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Představitelé českého státu | ListBase",
+    "seo_description": "Download Představitelé českého státu — 102 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 102 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_představitelů_českého_státu"
+    ]
+  }
+}

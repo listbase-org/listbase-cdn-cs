@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-10-30T02:24:20.105Z",
-  "total_datasets": 514,
-  "total_records": 416275,
+  "generated": "2026-10-30T02:24:27.480Z",
+  "total_datasets": 515,
+  "total_records": 416377,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -7706,6 +7706,34 @@
         "xlsx": {
           "name": "cs-prazsti-biskupove-arcibiskupove_CS.xlsx",
           "size": 10207
+        }
+      }
+    },
+    {
+      "id": "cs-predstavitele-ceskeho-statu",
+      "name": "Představitelé českého státu",
+      "category": "history",
+      "record_count": 102,
+      "columns": [
+        "poradi",
+        "jmeno",
+        "obdobi_zivota",
+        "obdobi_vlady",
+        "poznamky",
+        "obdobi",
+        "dynastie"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_představitelů_českého_státu",
+      "updated": "2026-10",
+      "size": 49486,
+      "files": {
+        "csv": {
+          "name": "cs-predstavitele-ceskeho-statu_CS.csv",
+          "size": 32586
+        },
+        "xlsx": {
+          "name": "cs-predstavitele-ceskeho-statu_CS.xlsx",
+          "size": 20435
         }
       }
     },
