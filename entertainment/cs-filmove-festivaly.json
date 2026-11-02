@@ -1,0 +1,387 @@
+{
+  "id": "cs-filmove-festivaly",
+  "name": "Filmové festivaly v Česku",
+  "title": "Filmové festivaly v Česku",
+  "description": "Seznam filmových festivalů konaných v Česku s měsícem konání, zaměřením, místem a rokem prvního ročníku.",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_filmových_festivalů_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_filmových_festivalů_v_Česku",
+  "updated": "2026-11",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "mesic_konani",
+      "label": "Mesic Konani",
+      "type": "number"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "zamereni",
+      "label": "Zamereni",
+      "type": "string"
+    },
+    {
+      "key": "misto_konani",
+      "label": "Misto Konani",
+      "type": "string"
+    },
+    {
+      "key": "prvni_rocnik",
+      "label": "Prvni Rocnik",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "mesic_konani": "06",
+      "nazev": "48 Hour Film Project Brno",
+      "zamereni": "populární mezinárodní soutěž v tvorbě 48hodinového filmu",
+      "misto_konani": "Brno",
+      "prvni_rocnik": 2017
+    },
+    {
+      "mesic_konani": "04",
+      "nazev": "Academia Film Olomouc",
+      "zamereni": "populárně-vědecký dokumentární film",
+      "misto_konani": "Olomouc",
+      "prvni_rocnik": 1966
+    },
+    {
+      "mesic_konani": "02",
+      "nazev": "AfroFilmes",
+      "zamereni": "africké hrané i dokumentární filmy",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 2023
+    },
+    {
+      "mesic_konani": "04",
+      "nazev": "AniFest",
+      "zamereni": "animovaný film",
+      "misto_konani": "Teplice",
+      "prvni_rocnik": 2002
+    },
+    {
+      "mesic_konani": "05",
+      "nazev": "Anifilm",
+      "zamereni": "animovaný film",
+      "misto_konani": "Třeboň",
+      "prvni_rocnik": 2010
+    },
+    {
+      "mesic_konani": "11",
+      "nazev": "Animánie",
+      "zamereni": "animovaný film",
+      "misto_konani": "Plzeň",
+      "prvni_rocnik": 2006
+    },
+    {
+      "mesic_konani": "09",
+      "nazev": "Anishort Festival",
+      "zamereni": "krátké animované filmy",
+      "misto_konani": "Praha, Brno, Ostrava a další",
+      "prvni_rocnik": 2014
+    },
+    {
+      "mesic_konani": "10",
+      "nazev": "BRNO16",
+      "zamereni": "krátký film",
+      "misto_konani": "Brno",
+      "prvni_rocnik": 1960
+    },
+    {
+      "mesic_konani": "02",
+      "nazev": "Cinema Mundi",
+      "zamereni": "",
+      "misto_konani": "Brno",
+      "prvni_rocnik": 2010
+    },
+    {
+      "mesic_konani": "04",
+      "nazev": "Dny evropského filmu",
+      "zamereni": "evropské filmy",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 1994
+    },
+    {
+      "mesic_konani": "10",
+      "nazev": "Ekofilm",
+      "zamereni": "ekologické filmy",
+      "misto_konani": "Brno",
+      "prvni_rocnik": 1974
+    },
+    {
+      "mesic_konani": "05",
+      "nazev": "Elbe Dock",
+      "zamereni": "dokumentární filmy",
+      "misto_konani": "Ústí nad Labem",
+      "prvni_rocnik": 2018
+    },
+    {
+      "mesic_konani": "04",
+      "nazev": "FAMUFEST",
+      "zamereni": "studentské filmy",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 1984
+    },
+    {
+      "mesic_konani": "03",
+      "nazev": "Febiofest",
+      "zamereni": "celovečerní hrané filmy",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 1993
+    },
+    {
+      "mesic_konani": "09",
+      "nazev": "Festival české filmové komedie Nové Město nad Metují",
+      "zamereni": "komedie",
+      "misto_konani": "Nové Město nad Metují",
+      "prvni_rocnik": 1978
+    },
+    {
+      "mesic_konani": "11",
+      "nazev": "Festival francouzského filmu",
+      "zamereni": "francouzské filmy",
+      "misto_konani": "Praha a další",
+      "prvni_rocnik": "?"
+    },
+    {
+      "mesic_konani": "01",
+      "nazev": "Festival krátkých filmů",
+      "zamereni": "krátké filmy",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 2005
+    },
+    {
+      "mesic_konani": "08",
+      "nazev": "Festival nad řekou",
+      "zamereni": "celovečerní hrané filmy",
+      "misto_konani": "Písek",
+      "prvni_rocnik": 2009
+    },
+    {
+      "mesic_konani": "03",
+      "nazev": "Festival otrlého diváka",
+      "zamereni": "",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 2005
+    },
+    {
+      "mesic_konani": "10",
+      "nazev": "Festival Oty Hofmana",
+      "zamereni": "dětské filmy",
+      "misto_konani": "Ostrov",
+      "prvni_rocnik": 1969
+    },
+    {
+      "mesic_konani": "01",
+      "nazev": "Festival Scandi",
+      "zamereni": "severské filmy",
+      "misto_konani": "Praha ad. v Česku a na Slovensku",
+      "prvni_rocnik": 2015
+    },
+    {
+      "mesic_konani": "12",
+      "nazev": "Filmasia",
+      "zamereni": "asijské filmy",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 2005
+    },
+    {
+      "mesic_konani": "07",
+      "nazev": "Filmové žně",
+      "zamereni": "filmový festival",
+      "misto_konani": "Zlín",
+      "prvni_rocnik": 1940
+    },
+    {
+      "mesic_konani": "05",
+      "nazev": "Filmový festival Fakulty informatiky",
+      "zamereni": "krátké studentské filmy",
+      "misto_konani": "Brno",
+      "prvni_rocnik": 2001
+    },
+    {
+      "mesic_konani": "04",
+      "nazev": "Finále Plzeň",
+      "zamereni": "celovečerní hrané i dokumentární filmy",
+      "misto_konani": "Plzeň",
+      "prvni_rocnik": 1968
+    },
+    {
+      "mesic_konani": "12",
+      "nazev": "FLIM",
+      "zamereni": "tibetské filmy a filmy o Tibetu",
+      "misto_konani": "Praha, kino Světozor",
+      "prvni_rocnik": 2007
+    },
+    {
+      "mesic_konani": "09",
+      "nazev": "Fresh Film Fest",
+      "zamereni": "studentské a debutové filmy",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 2003
+    },
+    {
+      "mesic_konani": "10",
+      "nazev": "International Road Movie Festival",
+      "zamereni": "road movie dokumenty a filmy",
+      "misto_konani": "Plzeň",
+      "prvni_rocnik": 2018
+    },
+    {
+      "mesic_konani": "03",
+      "nazev": "Jeden svět",
+      "zamereni": "dokumentární filmy o lidských právech",
+      "misto_konani": "Praha a další místa",
+      "prvni_rocnik": 1999
+    },
+    {
+      "mesic_konani": "11",
+      "nazev": "Juniorfest",
+      "zamereni": "filmy pro děti a mládež",
+      "misto_konani": "Plzeň, Horšovský Týn, Dobřany, Přeštice, Domažlice",
+      "prvni_rocnik": 2008
+    },
+    {
+      "mesic_konani": "07",
+      "nazev": "Letní filmová škola",
+      "zamereni": "",
+      "misto_konani": "Uherské Hradiště",
+      "prvni_rocnik": 1964
+    },
+    {
+      "mesic_konani": "04",
+      "nazev": "Krrr!",
+      "zamereni": "70mm film",
+      "misto_konani": "Krnov",
+      "prvni_rocnik": 2006
+    },
+    {
+      "mesic_konani": "10",
+      "nazev": "Life Sciences Film Festival",
+      "zamereni": "dokumentární filmy, zemědělská produkce, udržitelný rozvoj",
+      "misto_konani": "Praha (ČZU)",
+      "prvni_rocnik": 2010
+    },
+    {
+      "mesic_konani": "08–09",
+      "nazev": "Marienbad Film Festival",
+      "zamereni": "experimentální a nezávislé filmy",
+      "misto_konani": "Mariánské Lázně",
+      "prvni_rocnik": 2016
+    },
+    {
+      "mesic_konani": "10",
+      "nazev": "Mezinárodní festival dokumentárních filmů Ji.hlava",
+      "zamereni": "dokumentární film",
+      "misto_konani": "Jihlava",
+      "prvni_rocnik": 1997
+    },
+    {
+      "mesic_konani": "05",
+      "nazev": "Mezinárodní festival filmové komedie",
+      "zamereni": "komedie",
+      "misto_konani": "Jindřichův Hradec",
+      "prvni_rocnik": 2022
+    },
+    {
+      "mesic_konani": "10",
+      "nazev": "Mezinárodní festival outdoorových filmů",
+      "zamereni": "outdoorové filmy",
+      "misto_konani": "",
+      "prvni_rocnik": 2003
+    },
+    {
+      "mesic_konani": "07",
+      "nazev": "Mezinárodní filmový festival Karlovy Vary",
+      "zamereni": "kategorie A",
+      "misto_konani": "Karlovy Vary",
+      "prvni_rocnik": 1946
+    },
+    {
+      "mesic_konani": "06",
+      "nazev": "Mezinárodní filmový festival Zlatý Golem",
+      "zamereni": "",
+      "misto_konani": "Praha",
+      "prvni_rocnik": 1995
+    },
+    {
+      "mesic_konani": "08",
+      "nazev": "Mezinárodní horolezecký filmový festival",
+      "zamereni": "horolezectví",
+      "misto_konani": "Teplice nad Metují",
+      "prvni_rocnik": 1981
+    },
+    {
+      "mesic_konani": "11",
+      "nazev": "Mezipatra",
+      "zamereni": "LGBT+",
+      "misto_konani": "Praha a Brno",
+      "prvni_rocnik": 2000
+    },
+    {
+      "mesic_konani": "08",
+      "nazev": "Noir Film Festival",
+      "zamereni": "film noir",
+      "misto_konani": "Křivoklát",
+      "prvni_rocnik": 2013
+    },
+    {
+      "mesic_konani": "06",
+      "nazev": "Ostravský koníček",
+      "zamereni": "dětské filmy",
+      "misto_konani": "Ostrava",
+      "prvni_rocnik": 2002
+    },
+    {
+      "mesic_konani": "12",
+      "nazev": "Přehlídka animovaného filmu",
+      "zamereni": "animovaný film",
+      "misto_konani": "Olomouc",
+      "prvni_rocnik": 2000
+    },
+    {
+      "mesic_konani": "09",
+      "nazev": "Serial Killer",
+      "zamereni": "seriály",
+      "misto_konani": "Brno",
+      "prvni_rocnik": 2018
+    },
+    {
+      "mesic_konani": "08",
+      "nazev": "Slavonice Fest",
+      "zamereni": "celovečerní hrané filmy",
+      "misto_konani": "Slavonice",
+      "prvni_rocnik": 2014
+    },
+    {
+      "mesic_konani": "?",
+      "nazev": "Techfilm",
+      "zamereni": "věda a technika",
+      "misto_konani": "Praha",
+      "prvni_rocnik": "?"
+    },
+    {
+      "mesic_konani": "05",
+      "nazev": "Zlín Film Festival",
+      "zamereni": "filmy pro děti a mládež",
+      "misto_konani": "Zlín",
+      "prvni_rocnik": 1961
+    }
+  ],
+  "meta": {
+    "title": "Filmové festivaly v Česku - Free Download",
+    "description": "Seznam filmových festivalů konaných v Česku s měsícem konání, zaměřením, místem a rokem prvního ročníku. Contains 48 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Filmové festivaly v Česku | ListBase",
+    "seo_description": "Download Filmové festivaly v Česku — 48 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 48 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_filmových_festivalů_v_Česku"
+    ]
+  }
+}
