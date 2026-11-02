@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-02T02:33:51.993Z",
-  "total_datasets": 519,
-  "total_records": 416948,
+  "generated": "2026-11-02T02:33:59.709Z",
+  "total_datasets": 520,
+  "total_records": 416965,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -7630,6 +7630,32 @@
         "xlsx": {
           "name": "cs-lekarny_CS.xlsx",
           "size": 71920
+        }
+      }
+    },
+    {
+      "id": "cs-luzkove-hospice",
+      "name": "Lůžkové hospice v Česku",
+      "category": "health",
+      "record_count": 17,
+      "columns": [
+        "nazev_hospice",
+        "misto",
+        "otevren",
+        "provozovatel",
+        "web"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_lůžkových_hospiců_v_Česku",
+      "updated": "2026-11",
+      "size": 5472,
+      "files": {
+        "csv": {
+          "name": "cs-luzkove-hospice_CS.csv",
+          "size": 2117
+        },
+        "xlsx": {
+          "name": "cs-luzkove-hospice_CS.xlsx",
+          "size": 8057
         }
       }
     },

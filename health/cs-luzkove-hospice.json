@@ -1,0 +1,170 @@
+{
+  "id": "cs-luzkove-hospice",
+  "name": "Lůžkové hospice v Česku",
+  "title": "Lůžkové hospice v Česku",
+  "description": "Seznam lůžkových hospiců v Česku s místem, rokem otevření, provozovatelem a webovými stránkami.",
+  "category": "health",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_lůžkových_hospiců_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_lůžkových_hospiců_v_Česku",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nazev_hospice",
+      "label": "Nazev Hospice",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "otevren",
+      "label": "Otevren",
+      "type": "number"
+    },
+    {
+      "key": "provozovatel",
+      "label": "Provozovatel",
+      "type": "string"
+    },
+    {
+      "key": "web",
+      "label": "Web",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazev_hospice": "Hospic Anežky České",
+      "misto": "Červený Kostelec",
+      "otevren": 1995,
+      "provozovatel": "Oblastní charita Červený Kostelec",
+      "web": "http://www.hospic.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic sv. Lazara",
+      "misto": "Plzeň",
+      "otevren": 1998,
+      "provozovatel": "Hospic svatého Lazara",
+      "web": "http://www.hsl.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic Štrasburk",
+      "misto": "Praha - Bohnice",
+      "otevren": 1998,
+      "provozovatel": "Hospic Štrasburk",
+      "web": "http://www.hospicstrasburk.cz"
+    },
+    {
+      "nazev_hospice": "Dům léčby s hospicem sv. Josefa",
+      "misto": "Rajhrad",
+      "otevren": 1999,
+      "provozovatel": "Oblastní charita Rajhrad",
+      "web": "https://rajhrad.charita.cz/nase-sluzby/dum-lecby-bolesti-s-hospicem-sv-josefa//"
+    },
+    {
+      "nazev_hospice": "Hospic sv. Štěpána",
+      "misto": "Litoměřice",
+      "otevren": 2001,
+      "provozovatel": "Hospic sv. Štěpána, občanské sdružení",
+      "web": "http://www.hospiclitomerice.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic na Svatém Kopečku",
+      "misto": "Svatý Kopeček",
+      "otevren": 2002,
+      "provozovatel": "Hospic na Svatém Kopečku",
+      "web": "http://www.hospickopecek.caritas.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic CITADELA",
+      "misto": "Valašské Meziříčí",
+      "otevren": 2003,
+      "provozovatel": "Diakonie ČCE – hospic CITADELA",
+      "web": "http://www.citadela.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic sv. Alžběty",
+      "misto": "Brno",
+      "otevren": 2004,
+      "provozovatel": "Gabriela o. s.",
+      "web": "http://www.hospicbrno.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic v Mostě",
+      "misto": "Most",
+      "otevren": 2005,
+      "provozovatel": "HOSPIC v MOSTĚ, o. p. s.",
+      "web": "http://www.hospic-most.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic sv. Jana Nepomuka Neumanna",
+      "misto": "Prachatice",
+      "otevren": 2005,
+      "provozovatel": "Hospic sv. Jana N. Neumanna",
+      "web": "http://www.hospicpt.cz/prachatice/"
+    },
+    {
+      "nazev_hospice": "Hospic sv. Lukáše",
+      "misto": "Ostrava - Výškovice",
+      "otevren": 2007,
+      "provozovatel": "Charita Ostrava",
+      "web": "https://ostrava.caritas.cz/komu-pomahame/lide-v-zaveru-zivota/luzkovy-hospic-lukas/"
+    },
+    {
+      "nazev_hospice": "Hospic Dobrého pastýře",
+      "misto": "Čerčany",
+      "otevren": 2008,
+      "provozovatel": "Občanské sdružení TŘI",
+      "web": "https://web.archive.org/web/20140815123632/http://www.hospic-cercany.cz/hospic-dobreho-pastyre/o-luzkovem-hospici-dp"
+    },
+    {
+      "nazev_hospice": "Hospic Chrudim",
+      "misto": "Chrudim",
+      "otevren": 2009,
+      "provozovatel": "Smíření – hospicové sdružení pro Pardubický kraj",
+      "web": "http://www.smireni.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic Frýdek-Místek",
+      "misto": "Frýdek-Místek",
+      "otevren": 2011,
+      "provozovatel": "Hospic Frýdek-Místek, p. o.",
+      "web": "http://www.hospicfm.cz/"
+    },
+    {
+      "nazev_hospice": "Hospic Malovická",
+      "misto": "Praha - Záběhlice",
+      "otevren": 2011,
+      "provozovatel": "„soft palm” o. s.",
+      "web": "http://www.hospicmalovicka.cz Archivováno 17. 5. 2014 na Wayback Machine."
+    },
+    {
+      "nazev_hospice": "Hospic Mezi stromy",
+      "misto": "Havlíčkův Brod",
+      "otevren": 2024,
+      "provozovatel": "Hospic Mezi stromy, z. s.",
+      "web": "https://hospicmezistromy.cz/hospic/"
+    },
+    {
+      "nazev_hospice": "Hospic sv. Zdislavy",
+      "misto": "Liberec",
+      "otevren": 2009,
+      "provozovatel": "Hospic sv. Zdislavy, o.p.s.",
+      "web": "https://www.hospiczdislavy.cz/"
+    }
+  ],
+  "meta": {
+    "title": "Lůžkové hospice v Česku - Free Download",
+    "description": "Seznam lůžkových hospiců v Česku s místem, rokem otevření, provozovatelem a webovými stránkami. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lůžkové hospice v Česku | ListBase",
+    "seo_description": "Download Lůžkové hospice v Česku — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_lůžkových_hospiců_v_Česku"
+    ]
+  }
+}
