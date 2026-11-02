@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-02T02:33:59.709Z",
-  "total_datasets": 520,
-  "total_records": 416965,
+  "generated": "2026-11-02T02:34:07.347Z",
+  "total_datasets": 521,
+  "total_records": 417007,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -7757,6 +7757,33 @@
         "xlsx": {
           "name": "cs-socialni-zarizeni_CS.xlsx",
           "size": 26353
+        }
+      }
+    },
+    {
+      "id": "cs-masakry",
+      "name": "Masakry v Česku",
+      "category": "history",
+      "record_count": 42,
+      "columns": [
+        "nazev",
+        "datum",
+        "misto",
+        "umrti",
+        "obdobi",
+        "poznamky"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_masakrů_v_Česku",
+      "updated": "2026-11",
+      "size": 23571,
+      "files": {
+        "csv": {
+          "name": "cs-masakry_CS.csv",
+          "size": 17267
+        },
+        "xlsx": {
+          "name": "cs-masakry_CS.xlsx",
+          "size": 14916
         }
       }
     },

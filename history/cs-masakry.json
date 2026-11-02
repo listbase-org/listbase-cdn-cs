@@ -1,0 +1,392 @@
+{
+  "id": "cs-masakry",
+  "name": "Masakry v Česku",
+  "title": "Masakry v Česku",
+  "description": "Seznam masakrů, pogromů, hromadných poprav a vražd na území Česka od středověku po současnost s datem, místem a počtem obětí.",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_masakrů_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_masakrů_v_Česku",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "string"
+    },
+    {
+      "key": "misto",
+      "label": "Misto",
+      "type": "string"
+    },
+    {
+      "key": "umrti",
+      "label": "Umrti",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    },
+    {
+      "key": "poznamky",
+      "label": "Poznamky",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "Pogrom v Praze (1096)",
+      "datum": "30. června 1096",
+      "misto": "Praha",
+      "umrti": "několik set",
+      "obdobi": "Masakry před husitskými válkami (až do roku 1419)",
+      "poznamky": "Část masakrů spáchaných během první křížové výpravy; oběťmi byli zdejší Židé. Přesný počet obětí není znám."
+    },
+    {
+      "nazev": "Pogromy na Moravě (1096)",
+      "datum": "červenec 1096",
+      "misto": "v několika městech na Moravě",
+      "umrti": "neznámý",
+      "obdobi": "Masakry před husitskými válkami (až do roku 1419)",
+      "poznamky": "Část masakrů spáchaných během první křížové výpravy; oběťmi byli zdejší Židé. Přesný počet obětí není znám."
+    },
+    {
+      "nazev": "Pogrom v Praze (1161)",
+      "datum": "1161",
+      "misto": "Praha",
+      "umrti": "85",
+      "obdobi": "Masakry před husitskými válkami (až do roku 1419)",
+      "poznamky": "85 Židů bylo upáleno před městskou branou u Vyšehradu po smyšlených obviněních z otravy studní, vodních zdrojů a dokonce i vzduchu v domech. Jejich popel byl vhozen do řeky Vltavy a byla zničena pražská synagoga."
+    },
+    {
+      "nazev": "Chebský pogrom",
+      "datum": "Velikonoce 1350",
+      "misto": "Cheb",
+      "umrti": "neznámý",
+      "obdobi": "Masakry před husitskými válkami (až do roku 1419)",
+      "poznamky": "Protižidovský pogrom za vlády Karla IV. Poté co skončilo velikonoční kázání v minoritském kostele, se rozlícený dav rozhodl vybít zdejší židovskou komunitu. Majetek Židů pak byl rozkraden, či zkonfiskován městem."
+    },
+    {
+      "nazev": "Pražský pogrom o Velikonocích 1389",
+      "datum": "18. dubna 1389",
+      "misto": "Praha",
+      "umrti": "více než 3000",
+      "obdobi": "Masakry před husitskými válkami (až do roku 1419)",
+      "poznamky": "Největší protižidovský pogrom v Praze se odehrál v sobotu před Velikonocemi za nepřítomnosti českého krále Václava IV. ve městě. Většina zdrojů uvádí, že více než 3 tisíce (z tehdejší zhruba čtyřtisícové židovské komunity) bylo zabito (některé zdroje potom odhadují 400–500). Gaon Avigdor Karo (Abigedor Ḳara), básník a znalec kabaly, složil elegie na památku této tragédie, které byly začleněny do tzv. Selichot, neboli společných modliteb recitovaných během židovských vysokých svátků a židovských postních dnů."
+    },
+    {
+      "nazev": "Popravy kališníků v Kutné Hoře",
+      "datum": "přelom 1419 a 1420",
+      "misto": "Kutná Hora",
+      "umrti": "nejméně stovky",
+      "obdobi": "Masakry během husitských válek (1419–1434)",
+      "poznamky": "Po dobytí Kutné Hory katolickými silami Petrem z Konopiště a Divůčka z Lukova byli husité ze širokého okolí popraveni stětím a svržením do zdejších důlních šachet. V letech 1419 až 1421 tak mělo být popraveno až 1600 lidí. Jedním z popravených byl též kazatel Jan Chůdek."
+    },
+    {
+      "nazev": "Pogrom v Praze (1421)",
+      "datum": "1421",
+      "misto": "Praha",
+      "umrti": "neznámý",
+      "obdobi": "Masakry během husitských válek (1419–1434)",
+      "poznamky": "Židovská čtvrť v Praze byla vypleněna a mnoho Židů bylo zabito. K pogromu patrně došlo počátkem roku 1421, podle některých pramenů k němu došlo brzy po bitvě u Vyšehradu, proběhlé 1. listopadu 1420."
+    },
+    {
+      "nazev": "Dobytí Chomutova",
+      "datum": "16. března 1421",
+      "misto": "Chomutov",
+      "umrti": "nejméně stovky",
+      "obdobi": "Masakry během husitských válek (1419–1434)",
+      "poznamky": "Husitské vojsko o síle asi 6 000 mužů pod vedením Jana Žižky dorazilo 15. března k Chomutovu. Město bylo následující den dobyto a vypáleno, většina obyvatel byla zabita."
+    },
+    {
+      "nazev": "Poprava zajatců po porážce adamitů",
+      "datum": "21. října 1421",
+      "misto": "Ostrov na Hamru u Tábora",
+      "umrti": "asi 40",
+      "obdobi": "Masakry během husitských válek (1419–1434)",
+      "poznamky": "Po porážce sekty adamitů vojskem Jana Žižky nechal Žižka 40 zajatých stít či upálit. Naživu byl údajně ponechán jen jeden, aby táborským kněžím vypověděl všechny skutky svých druhů. Tyto tzv. adamitské články pak poslal Žižka do Prahy, aby o nich byli informováni pražští kněží."
+    },
+    {
+      "nazev": "Poprava zajatců po bitvě u Lipan",
+      "datum": "30. května 1434",
+      "misto": "Lipany",
+      "umrti": "asi 700",
+      "obdobi": "Masakry během husitských válek (1419–1434)",
+      "poznamky": "Po porážce radikálních husitů (především táboritů) v bitvě u Lipan v závěru konfliktu bylo v nedalekých stodolách v okolních vesnicích upáleno asi 700 řadových vojáků, kteří se vzdali po slibech milosti a obnovení vojenské služby. Téměř všechny oběti byli etničtí Češi. Za jednoho z hlavních strůjců masakru bývá označován Jan Švihovský z Rýzmburka."
+    },
+    {
+      "nazev": "Pogrom v Praze (1483)",
+      "datum": "patrně 24. září 1483",
+      "misto": "Praha",
+      "umrti": "neznámý",
+      "obdobi": "Masakry v letech 1436–1900",
+      "poznamky": "Součást lidových bouří pražského obyvatelstva za vlády krále Vladislava Jagellonského, kdy strana podobojí, obávající se o svůj vliv, provedla násilný převrat na Starém i Novém Městě a na Malé Straně, včetně defenestrace. Oběti byli Židé."
+    },
+    {
+      "nazev": "Staroměstská exekuce",
+      "datum": "21. června 1621",
+      "misto": "Staroměstské náměstí, Staré město pražské",
+      "umrti": "27",
+      "obdobi": "Masakry za třicetileté války (1618–1648)",
+      "poznamky": "Exemplární veřejná poprava 27 vůdců českého stavovského povstání na pražském Staroměstském náměstí. Martin Fruwein z Podolí zemřel nedlouho předtím za nevyjasněných okolností ve vězení a byl sťat posmrtně, naopak odsouzený Jan Theodor Sixt z Ottersdorfu byl těsně před popravou omilostněn."
+    },
+    {
+      "nazev": "Poprava zajatců po bitvě u Nového Jičína",
+      "datum": "25. července 1621",
+      "misto": "Nový Jičín",
+      "umrti": "několik set",
+      "obdobi": "Masakry za třicetileté války (1618–1648)",
+      "poznamky": "Po dobytí Nového Jičína protestantským vojskem Jana Jiřího Krnovského v dozvucích porážky českého stavovského povstání byly povražděny stovky zajatých vojáků, povětšinou cizineckých žoldnéřů."
+    },
+    {
+      "nazev": "Pražský krvavý soud",
+      "datum": "14. února 1633",
+      "misto": "Staroměstské náměstí, Staré město pražské",
+      "umrti": "17",
+      "obdobi": "Masakry za třicetileté války (1618–1648)",
+      "poznamky": "Exemplární veřejná poprava sedmnácti důstojníků císařské armády pod vrchním velením generalissima Albrechta z Valdštejna, vinných z dezerce po nejistém úspěchu císařských vojsk v bitvě u Lützenu. Krutostí rozsudků, umístěním popravního lešení či volbou postavy kata se odkazovala na Staroměstskou exekuci."
+    },
+    {
+      "nazev": "Atentát na Albrechta z Valdštejna",
+      "datum": "25. února 1634",
+      "misto": "Cheb",
+      "umrti": "nejméně 5",
+      "obdobi": "Masakry za třicetileté války (1618–1648)",
+      "poznamky": "Úkladná politická vražda generalissima císařské armády Albrechta z Valdštejna irskými žoldnéři při jeho pobytu v Chebu. Spolu s ním zde zahynuli jeho věrní Kristián von Ilow, Vilém Kinský, Jindřich Niemann, Adam Erdman Trčka z Lípy a několik dalších osob z řad jejich osobní stráže a služebnictva."
+    },
+    {
+      "nazev": "Popravy po potlačení Valašského povstání",
+      "datum": "15. února 1644",
+      "misto": "Vsetín a okolní obce",
+      "umrti": "odhadem 100 až 300",
+      "obdobi": "Masakry za třicetileté války (1618–1648)",
+      "poznamky": "Proces masových poprav probíhající po potlačení Valašského povstání porážkou Valachů v bitvě u Vsetína 26. ledna 1644. Většina poprav byla provedena ve Vsetíně, několik dalších pak v okolních obcích. Jednalo se o jednu z nejmasovějších poprav v české národní historii."
+    },
+    {
+      "nazev": "Čarodějnické procesy na losinském panství",
+      "datum": "1678–1696",
+      "misto": "Šumperk a Frankštát",
+      "umrti": "52",
+      "obdobi": "Masakry v letech 1648–1900",
+      "poznamky": "Inkvizitor Jindřich František Boblig z Edelstadtu vedl čarodějnické procesy na Šumpersku. Poslední obětí inkvizičního tribunálu byl bývalý rychtář Jindřich Peschke, který zemřel ve vezení v roce 1696. Do roku 1696, kdy tribunál skončil svoji děsivou činnost, padlo za oběť dvaapadesát žen a mužů ze Šumperka a Frankštátu. Patřil k nim i šumperský děkan a farář Kryštof Alois Lautner."
+    },
+    {
+      "nazev": "Krveprolití v Běchovicích",
+      "datum": "17. června 1848",
+      "misto": "Praha",
+      "umrti": "nejméně 7",
+      "obdobi": "Masakry v letech 1648–1900",
+      "poznamky": "Incident v rámci revolučních událostí v Rakouském císařství v letech 1848 až 1849. Císařské vojsko na běchovickém nádraží prohledávalo vlaky, jimž z Prahy prchali studenti účastnící se potlačených Svatodušních bouří. Kvůli zmatkům došlo ke střelbě, při níž bylo nejméně 7 osob zabito a 50 zraněno."
+    },
+    {
+      "nazev": "Pogrom v Holešově",
+      "datum": "3. a 4. prosince 1918",
+      "misto": "Židovská čtvrť v Holešově",
+      "umrti": "2",
+      "obdobi": "Masakry v letech 1900–1939",
+      "poznamky": "Antisemitské násilí a rabování iniciované bývalými vojáky vracejícími se z války, které si vyžádalo životy dvou obyvatel ghetta a několik desítek zraněných. V následném soudním procesu bylo odsouzeno více než 134 osob s tresty v rozmezí 8 měsíců až 5 let vězení."
+    },
+    {
+      "nazev": "Masakr v Kadani",
+      "datum": "4. března 1919",
+      "misto": "Kadaň",
+      "umrti": "nejméně 25",
+      "obdobi": "Masakry v letech 1900–1939",
+      "poznamky": "Součást generální stávky a tzv. Sudetské demonstrace v německy mluvících oblastech během hospodářské krize po první světové válce. Podle některých zdrojů při střelbě do demonstrantů na hlavním městském náměstí bylo až 25 lidí zabito (včetně těch asi 70 zraněných, z nichž někteří později zemřeli). Oběťmi byli povětšinou Sudetští Němci."
+    },
+    {
+      "nazev": "Masakr ve Šternberku",
+      "datum": "4. března 1919",
+      "misto": "Šternberk",
+      "umrti": "15",
+      "obdobi": "Masakry v letech 1900–1939",
+      "poznamky": "Součást generální stávky a tzv. Sudetské demonstrace v německy mluvících oblastech během hospodářské krize po první světové válce. Oběťmi byli povětšinou Sudetští Němci."
+    },
+    {
+      "nazev": "Frývaldovská stávka",
+      "datum": "25. listopadu 1931",
+      "misto": "Dolní Lipová",
+      "umrti": "8",
+      "obdobi": "Masakry v letech 1900–1939",
+      "poznamky": "Součást stávkového hnutí během Velké hospodářské krize. 8 lidí zahynulo a nejméně 13 dalších bylo zraněno."
+    },
+    {
+      "nazev": "Poprava odsouzených v procesu se Slánským",
+      "datum": "3. prosince 1952",
+      "misto": "Praha",
+      "umrti": "11",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Jedenáct předních členů Komunistické strany Československa bylo popraveno oběšením a tři další byli odsouzeni k doživotnímu vězení po otevřeně antisemitském osmidenním monstrprocesu inspirovaném Stalinem; 11 ze 14 obžalovaných bylo židovského původu; všech 14 obžalovaných bylo rehabilitováno v letech 1960 až 1963 po vnitřním československém vyšetřování (zveřejněno až mnohem později)."
+    },
+    {
+      "nazev": "Vražda v Jeseníku (1967)",
+      "datum": "27. února 1967",
+      "misto": "Jeseník",
+      "umrti": "8",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Duševně nemocný Josef Svoboda zabil celou svou rodinu sekerou a poté spáchal sebevraždu."
+    },
+    {
+      "nazev": "Boj o Československý rozhlas (1968)",
+      "datum": "21. srpna 1968",
+      "misto": "Praha-Vinohrady",
+      "umrti": "9 (16)",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Při pokusu neozbrojených demonstrantů bránit budovu Českého rozhlasu proti sovětským okupantům byli 4 muži zastřeleni a 5 mužů zasaženo a zabito sovětským vojenským nákladním automobilem; téhož dne na stejném místě zemřeli 4 muži při výbuchu sovětského tanku, který demonstranti zapálili. Další 3 lidé zemřeli po rozšíření požáru na okolní budovy; v jiných částech Prahy byly 2 osoby zastřeleny a 2 osoby rozdrceny sovětskými tanky. Součást invaze vojsk Varšavské smlouvy do Československa."
+    },
+    {
+      "nazev": "Okupace Liberce (1968)",
+      "datum": "21. srpna 1968",
+      "misto": "Liberec",
+      "umrti": "9",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "V časných hodinách sovětské invaze byli sovětskými jednotkami zastřeleni 4 lidé na hlavním náměstí a 24 bylo zraněno, z nichž 2 zemřeli později; několik hodin poté vrazil sovětský tank do pasáže na náměstí a způsobil okamžitou smrt 2 lidí a zranil 9 (1 zemřel později). Součást invaze vojsk Varšavské smlouvy do Československa."
+    },
+    {
+      "nazev": "Let JAT 367",
+      "datum": "26. ledna 1972",
+      "misto": "Srbská Kamenice",
+      "umrti": "27",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Let JAT 367 byl zničen při výbuchu ve vzduchu. Zahynulo 27 z 28 osob na palubě (kromě jugoslávské letušky Vesny Vulović, která přežila pád z výšky 10 160 metrů). Dle oficiální zprávy byla v letadle umístěna bomba agenty Ustasa, existují ale spekulace, že letadlo bylo sestřeleno dvěma československými střelami země-vzduch SA-12, protože bez povolení vstoupilo do vojensky střeženého leteckého prostoru. Letoun McDonnell Douglas DC-9 byl zničen."
+    },
+    {
+      "nazev": "Útok automobilem v Praze (1973)",
+      "datum": "10. července 1973",
+      "misto": "Praha - Holešovice",
+      "umrti": "8",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Vražedkyně Olga Hepnarová zabila najetím nákladním automobilem na tramvajový ostrůvek v pražských Holešovicích 3 lidi na místě a 17 zranila, z nichž 5 později zemřelo."
+    },
+    {
+      "nazev": "Střelba v Motorestu Kadrnožka",
+      "datum": "1. června 1981",
+      "misto": "Motorest Kadrnožka, Tachovsko",
+      "umrti": "5",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Voják ČSLA Lubomír Bugár zastřelil služební zbraní 4 zaměstnance motorestu. Po policejním pronásledování se zastřelil."
+    },
+    {
+      "nazev": "Požár Ústavu sociální péče v Měděnci",
+      "datum": "1. listopadu 1984",
+      "misto": "Měděnec",
+      "umrti": "26",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Pacientka Eva Kováčová zapálila ústav pro mentálně a tělesně postižené ženy. Kováčová si odseděla 9 let ve vězení a do konce života zůstala většinou v ústavní péči. V 90. letech podstoupila operaci změny pohlaví pod jménem René Lízna. V červenci 2014 spáchal sebevraždu. Tragédii z roku 1992 zachytil film Requiem pro panenku."
+    },
+    {
+      "nazev": "Vražda v Předměřicích nad Labem",
+      "datum": "22. prosince 1986",
+      "misto": "Předměřice nad Labem",
+      "umrti": "5",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Opilý otec Vladimír Lulek ubodal k smrti 4 děti a svou ženu a zranil souseda. V roce 1989 byl popraven."
+    },
+    {
+      "nazev": "Masakr v Kolíně (1989)",
+      "datum": "29. dubna 1989",
+      "misto": "Kolín",
+      "umrti": "4",
+      "obdobi": "Masakry během komunistického režimu v Československu (1948-1989)",
+      "poznamky": "Sedmnáctiletý Jiří Popelka zastřelil kradenými zbraněmi 4 lidi (členové jeho rodiny) při pokusu o útěk s komplicem do západního Německa. Odseděl si 9 let ve vězení."
+    },
+    {
+      "nazev": "Střelba v Petřvaldu",
+      "datum": "8. března 2009",
+      "misto": "Petřvald",
+      "umrti": "4 (+ sebevražda pachatele)",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Makedonský státní příslušník Raif Kačar (41) nelegálně drženou pistolí zavraždil svou bývalou přítelkyni (25), její rodiče a současného partnera a poté spáchal sebevraždu. Pachatel obětem předtím vyhrožoval zabitím."
+    },
+    {
+      "nazev": "Vražda v Širokém dole",
+      "datum": "2. září 2011",
+      "misto": "Široký Důl",
+      "umrti": "4",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Romana Zienertová zabila své čtyři děti za pomocí nožů a polštáře."
+    },
+    {
+      "nazev": "Exploze panelového domu ve Frenštátě pod Radhoštěm",
+      "datum": "17. února 2013",
+      "misto": "Frenštát pod Radhoštěm",
+      "umrti": "5 (+ sebevražda pachatele)",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Antonín Blažek (57), kterému hrozilo brzké vystěhování, způsobil ve svém bytě a ve sklepě únik plynu. Neznámým způsobem inicioval výbuch nahromaděného plynu, který měl za následek požár a zřícení části budovy. Pachatel předtím vyhrožoval svým sousedům. Silně poškozený dům musel být kompletně zbourán."
+    },
+    {
+      "nazev": "Čtyřnásobná vražda v Brně-Ivanovicích",
+      "datum": "22. května 2013",
+      "misto": "Brno",
+      "umrti": "4",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Americký občan Kevin Dahlgren (20) ubodal k smrti 4 členy své vzdálené rodiny."
+    },
+    {
+      "nazev": "Střelba v Uherském Brodě",
+      "datum": "24. února 2015",
+      "misto": "Uherský Brod",
+      "umrti": "8 (+ sebevražda pachatele)",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Zdeněk Kovář (63) vešel do restaurace a z legálně držené ruční zbraně a revolveru zahájil palbu do hostů a personálu. K útoku došlo poté, co mu policie nařídila odevzdat střelné zbraně kvůli zhoršujícímu se duševnímu zdraví. V předchozích letech se dopustil několika přestupků, které by policii umožnily jeho střelné zbraně zabavit, ty však nebyly vyšetřovány v plném rozsahu zákona."
+    },
+    {
+      "nazev": "Střelba ve Fakultní nemocnici Ostrava",
+      "datum": "10. prosince 2019",
+      "misto": "Fakultní nemocnice Ostrava, Ostrava",
+      "umrti": "7 (+ sebevražda pachatele)",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Ctirad Vitásek (42) zastřelil pacienty v čekárně Fakultní nemocnice Ostrava nelegálně drženou pistolí CZ 75. Pachatel byl v minulosti třikrát odsouzen, z toho jedno za násilný trestný čin. Pachatel byl již dříve umístěn v psychiatrické léčebně.."
+    },
+    {
+      "nazev": "Požár v domově pro hendikepované ve Vejprtech",
+      "datum": "19. ledna 2020",
+      "misto": "Vejprty",
+      "umrti": "8",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Neznámý člověk zapálil centrum péče o mentálně postižené ve Vejprtech, osm lidí zahynulo. V minulosti zde došlo ke dvěma menším případům požáru uvnitř budovy, které vyšetřovala policie. Provozovatel pečovatelského centra zareagoval zabavením všech zapalovačů klientům, ale úřady to považovaly za nezákonné, takže je musel vrátit."
+    },
+    {
+      "nazev": "Požár panelového domu v Bohumíně",
+      "datum": "8. srpna 2020",
+      "misto": "Bohumín",
+      "umrti": "11",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Zdeněk Konopka (54) zapálil synův byt, ve kterém se to hemžilo lidmi na narozeninové oslavě, na kterou nebyl pozván, a zabil 11 lidí. Pachatel byl v minulosti již čtyřikrát odsouzen, z toho dvakrát za násilné trestné činy. Pachatel svému synovi a odcizené manželce vyhrožoval několik týdnů před útokem, policejní vyšetřování incidentu bylo v době útoku stále otevřené."
+    },
+    {
+      "nazev": "Vražda v Loučce u Vsetína",
+      "datum": "24. dubna 2022",
+      "misto": "Loučka u Vsetína",
+      "umrti": "4",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Otec zabil nožem svou ženu a 3 děti. Způsobil výbuch domu."
+    },
+    {
+      "nazev": "Střelba na Filozofické fakultě Univerzity Karlovy",
+      "datum": "21. prosince 2023",
+      "misto": "Praha",
+      "umrti": "14 (+ sebevražda pachatele a předchozí vražda otce)",
+      "obdobi": "Masakry po roce 1989",
+      "poznamky": "Ozbrojený útočník zahájil palbu v hlavní budově Filozofické fakulty Univerzity Karlovy v Praze několik hodin poté, co zavraždil vlastního otce. Na místě činu usmrtil 14 lidí, při policejním zásahu se pak sám zastřelil. Vyšetřování později odhalilo, že útočník byl také pacahtelem vražd v Klánovickém lese."
+    }
+  ],
+  "meta": {
+    "title": "Masakry v Česku - Free Download",
+    "description": "Seznam masakrů, pogromů, hromadných poprav a vražd na území Česka od středověku po současnost s datem, místem a počtem obětí. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Masakry v Česku | ListBase",
+    "seo_description": "Download Masakry v Česku — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_masakrů_v_Česku"
+    ]
+  }
+}
