@@ -1,0 +1,1864 @@
+{
+  "id": "cs-cukrovary",
+  "name": "Cukrovary v Česku",
+  "title": "Cukrovary v Česku",
+  "description": "Seznam současných i zaniklých cukrovarů v Česku s rokem zahájení a ukončení provozu a obcí.",
+  "category": "agriculture",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_cukrovarů_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_cukrovarů_v_Česku",
+  "updated": "2026-11",
+  "record_count": 303,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "zahajeni_provozu",
+      "label": "Zahajeni Provozu",
+      "type": "number"
+    },
+    {
+      "key": "ukonceni_provozu",
+      "label": "Ukonceni Provozu",
+      "type": "number"
+    },
+    {
+      "key": "obec",
+      "label": "Obec",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "Bašnice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1998,
+      "obec": "Bašnice"
+    },
+    {
+      "nazev": "Bečváry",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1934,
+      "obec": "Bečváry"
+    },
+    {
+      "nazev": "Bedihošť",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1989,
+      "obec": "Bedihošť"
+    },
+    {
+      "nazev": "Benátky",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1948,
+      "obec": "Benátky nad Jizerou"
+    },
+    {
+      "nazev": "Bernartice",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1903,
+      "obec": "Bernartice"
+    },
+    {
+      "nazev": "Beroun",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1966,
+      "obec": "Beroun"
+    },
+    {
+      "nazev": "Bílina",
+      "zahajeni_provozu": 1835,
+      "ukonceni_provozu": 1887,
+      "obec": "Bílina"
+    },
+    {
+      "nazev": "Bohuslavice",
+      "zahajeni_provozu": 1930,
+      "ukonceni_provozu": 1932,
+      "obec": "Bohuslavice"
+    },
+    {
+      "nazev": "Bohušovice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1949,
+      "obec": "Bohušovice nad Ohří"
+    },
+    {
+      "nazev": "Břeclav",
+      "zahajeni_provozu": 1861,
+      "ukonceni_provozu": 1990,
+      "obec": "Břeclav"
+    },
+    {
+      "nazev": "Brno",
+      "zahajeni_provozu": 1846,
+      "ukonceni_provozu": 1876,
+      "obec": "Brno"
+    },
+    {
+      "nazev": "Brodek",
+      "zahajeni_provozu": 1881,
+      "ukonceni_provozu": 1997,
+      "obec": "Brodek u Přerova"
+    },
+    {
+      "nazev": "Budějovice",
+      "zahajeni_provozu": 1873,
+      "ukonceni_provozu": 1911,
+      "obec": "České Budějovice"
+    },
+    {
+      "nazev": "Byšice",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1923,
+      "obec": "Byšice"
+    },
+    {
+      "nazev": "Bystřice",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1966,
+      "obec": "Velká Bystřice"
+    },
+    {
+      "nazev": "Bzenec",
+      "zahajeni_provozu": 1847,
+      "ukonceni_provozu": 1947,
+      "obec": "Bzenec"
+    },
+    {
+      "nazev": "Cerekvice",
+      "zahajeni_provozu": 1873,
+      "ukonceni_provozu": 1972,
+      "obec": "Cerekvice nad Loučnou"
+    },
+    {
+      "nazev": "Cerhenice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1997,
+      "obec": "Cerhenice"
+    },
+    {
+      "nazev": "Čakovice",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1990,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Čáslav",
+      "zahajeni_provozu": 1842,
+      "ukonceni_provozu": 1907,
+      "obec": "Čáslav"
+    },
+    {
+      "nazev": "Čejetičky",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1992,
+      "obec": "Mladá Boleslav"
+    },
+    {
+      "nazev": "Čelechovice",
+      "zahajeni_provozu": 1853,
+      "ukonceni_provozu": 1856,
+      "obec": "Čelechovice"
+    },
+    {
+      "nazev": "Čelechovice na Hané",
+      "zahajeni_provozu": 1838,
+      "ukonceni_provozu": 1981,
+      "obec": "Čelechovice na Hané"
+    },
+    {
+      "nazev": "Černožice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1928,
+      "obec": "Černožice"
+    },
+    {
+      "nazev": "Česká Lípa",
+      "zahajeni_provozu": 1882,
+      "ukonceni_provozu": 1905,
+      "obec": "Česká Lípa"
+    },
+    {
+      "nazev": "České Vrbné (Fellingerův mlýn)",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1842,
+      "obec": "České Budějovice"
+    },
+    {
+      "nazev": "Český Brod",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 2003,
+      "obec": "Český Brod"
+    },
+    {
+      "nazev": "Dašice",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1968,
+      "obec": "Dašice"
+    },
+    {
+      "nazev": "Dobrovice",
+      "zahajeni_provozu": 1831,
+      "ukonceni_provozu": "",
+      "obec": "Dobrovice"
+    },
+    {
+      "nazev": "Dobříš",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1846,
+      "obec": "Dobříš"
+    },
+    {
+      "nazev": "Doksany",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1996,
+      "obec": "Doksany"
+    },
+    {
+      "nazev": "Dolní Beřkovice",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1983,
+      "obec": "Dolní Beřkovice"
+    },
+    {
+      "nazev": "Dolní Bousov",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1932,
+      "obec": "Dolní Bousov"
+    },
+    {
+      "nazev": "Dolní Bučice",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1910,
+      "obec": "Vrdy"
+    },
+    {
+      "nazev": "Dolní Cetno",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1958,
+      "obec": "Niměřice"
+    },
+    {
+      "nazev": "Dolní Tošanovice",
+      "zahajeni_provozu": 1854,
+      "ukonceni_provozu": 1867,
+      "obec": "Dolní Tošanovice"
+    },
+    {
+      "nazev": "Doloplazy",
+      "zahajeni_provozu": 1849,
+      "ukonceni_provozu": 1955,
+      "obec": "Doloplazy"
+    },
+    {
+      "nazev": "Domažlice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1912,
+      "obec": "Domažlice"
+    },
+    {
+      "nazev": "Doudleby nad Orlicí",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1908,
+      "obec": "Doudleby nad Orlicí"
+    },
+    {
+      "nazev": "Drahanovice (Drahoňovice)",
+      "zahajeni_provozu": 1882,
+      "ukonceni_provozu": 1904,
+      "obec": "Drahanovice"
+    },
+    {
+      "nazev": "Dřevohostice",
+      "zahajeni_provozu": 1894,
+      "ukonceni_provozu": 1991,
+      "obec": "Dřevohostice"
+    },
+    {
+      "nazev": "Duchcov",
+      "zahajeni_provozu": 1849,
+      "ukonceni_provozu": 1905,
+      "obec": "Duchcov"
+    },
+    {
+      "nazev": "Dvůr Králové nad Labem",
+      "zahajeni_provozu": 1849,
+      "ukonceni_provozu": 1860,
+      "obec": "Dvůr Králové nad Labem"
+    },
+    {
+      "nazev": "Dymokury",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1991,
+      "obec": "Dymokury"
+    },
+    {
+      "nazev": "Filipov",
+      "zahajeni_provozu": 1835,
+      "ukonceni_provozu": 1904,
+      "obec": "Čáslav"
+    },
+    {
+      "nazev": "Háj ve Slezsku",
+      "zahajeni_provozu": 1849,
+      "ukonceni_provozu": 1931,
+      "obec": "Háj ve Slezsku"
+    },
+    {
+      "nazev": "Havraň",
+      "zahajeni_provozu": 1881,
+      "ukonceni_provozu": 1978,
+      "obec": "Havraň"
+    },
+    {
+      "nazev": "Hejčín",
+      "zahajeni_provozu": 1867,
+      "ukonceni_provozu": 1958,
+      "obec": "Olomouc"
+    },
+    {
+      "nazev": "Hodonín (Redlichův cukrovar)",
+      "zahajeni_provozu": 1886,
+      "ukonceni_provozu": 1994,
+      "obec": "Hodonín"
+    },
+    {
+      "nazev": "Hodonín (Stummerův cukrovar)",
+      "zahajeni_provozu": 1865,
+      "ukonceni_provozu": 1924,
+      "obec": "Hodonín"
+    },
+    {
+      "nazev": "Holice",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1989,
+      "obec": "Olomouc"
+    },
+    {
+      "nazev": "Horažďovice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1873,
+      "obec": "Horažďovice"
+    },
+    {
+      "nazev": "Hořkov (Zhoř)",
+      "zahajeni_provozu": 1867,
+      "ukonceni_provozu": 1881,
+      "obec": "Krakovec"
+    },
+    {
+      "nazev": "Horní Stromka",
+      "zahajeni_provozu": 1832,
+      "ukonceni_provozu": 1841,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Horní Suchá",
+      "zahajeni_provozu": 1832,
+      "ukonceni_provozu": "?",
+      "obec": "Horní Suchá"
+    },
+    {
+      "nazev": "Horoměřice",
+      "zahajeni_provozu": 1849,
+      "ukonceni_provozu": 1916,
+      "obec": "Horoměřice"
+    },
+    {
+      "nazev": "Hospozín",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1955,
+      "obec": "Hospozín"
+    },
+    {
+      "nazev": "Hostačov",
+      "zahajeni_provozu": 1846,
+      "ukonceni_provozu": 1958,
+      "obec": "Skryje"
+    },
+    {
+      "nazev": "Hrochův Týnec I.",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1967,
+      "obec": "Hrochův Týnec"
+    },
+    {
+      "nazev": "Hrochův Týnec II.",
+      "zahajeni_provozu": 1966,
+      "ukonceni_provozu": 2006,
+      "obec": "Hrochův Týnec"
+    },
+    {
+      "nazev": "Hrušovany",
+      "zahajeni_provozu": 1881,
+      "ukonceni_provozu": 1927,
+      "obec": "Hrušovany u Brna"
+    },
+    {
+      "nazev": "Hrušovany nad Jevišovkou (starý)",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1969,
+      "obec": "Hrušovany nad Jevišovkou"
+    },
+    {
+      "nazev": "Hrušovany nad Jevišovkou (nový)",
+      "zahajeni_provozu": 1967,
+      "ukonceni_provozu": 2025,
+      "obec": "Hrušovany nad Jevišovkou"
+    },
+    {
+      "nazev": "Hulín",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1947,
+      "obec": "Hulín"
+    },
+    {
+      "nazev": "Hulín",
+      "zahajeni_provozu": 1910,
+      "ukonceni_provozu": 1989,
+      "obec": "Hulín"
+    },
+    {
+      "nazev": "Chlumčany",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1889,
+      "obec": "Chlumčany"
+    },
+    {
+      "nazev": "Chlumec",
+      "zahajeni_provozu": 1811,
+      "ukonceni_provozu": 1814,
+      "obec": "Chlumec"
+    },
+    {
+      "nazev": "Chlumec nad Cidlinou",
+      "zahajeni_provozu": 1840,
+      "ukonceni_provozu": 1920,
+      "obec": "Chlumec nad Cidlinou"
+    },
+    {
+      "nazev": "Chlumec nad Cidlinou",
+      "zahajeni_provozu": 1838,
+      "ukonceni_provozu": 1940,
+      "obec": "Chlumec nad Cidlinou"
+    },
+    {
+      "nazev": "Chocomyšl",
+      "zahajeni_provozu": 1831,
+      "ukonceni_provozu": 1840,
+      "obec": "Chocomyšl"
+    },
+    {
+      "nazev": "Choltice",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1968,
+      "obec": "Choltice"
+    },
+    {
+      "nazev": "Chropyně",
+      "zahajeni_provozu": 1867,
+      "ukonceni_provozu": 1948,
+      "obec": "Chropyně"
+    },
+    {
+      "nazev": "Chrudim",
+      "zahajeni_provozu": 1866,
+      "ukonceni_provozu": 1955,
+      "obec": "Chrudim"
+    },
+    {
+      "nazev": "Jarohněvice",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1872,
+      "obec": "Dubňany"
+    },
+    {
+      "nazev": "Jičín",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1909,
+      "obec": "Jičín"
+    },
+    {
+      "nazev": "Jirny",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": 1885,
+      "obec": "Jirny"
+    },
+    {
+      "nazev": "Josefov",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1887,
+      "obec": "Jaroměř"
+    },
+    {
+      "nazev": "Kanálka",
+      "zahajeni_provozu": 1811,
+      "ukonceni_provozu": 1814,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Karlín",
+      "zahajeni_provozu": 1838,
+      "ukonceni_provozu": 1843,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Karlín (třtinový cukr)",
+      "zahajeni_provozu": 1839,
+      "ukonceni_provozu": 1850,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Karlousy",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1882,
+      "obec": "Brno"
+    },
+    {
+      "nazev": "Karlov",
+      "zahajeni_provozu": 1864,
+      "ukonceni_provozu": 1925,
+      "obec": "Svojšice"
+    },
+    {
+      "nazev": "Karviná",
+      "zahajeni_provozu": 1834,
+      "ukonceni_provozu": "?",
+      "obec": "Karviná"
+    },
+    {
+      "nazev": "Kateřinky",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1944,
+      "obec": "Opava"
+    },
+    {
+      "nazev": "Kbel",
+      "zahajeni_provozu": 1811,
+      "ukonceni_provozu": 1814,
+      "obec": "Kbel"
+    },
+    {
+      "nazev": "Ke Karlovu",
+      "zahajeni_provozu": 1825,
+      "ukonceni_provozu": 1849,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Kelčany",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1966,
+      "obec": "Kelčany"
+    },
+    {
+      "nazev": "Klobuky",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1991,
+      "obec": "Klobuky"
+    },
+    {
+      "nazev": "Kojetín",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 2006,
+      "obec": "Kojetín"
+    },
+    {
+      "nazev": "Kolešovice",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1904,
+      "obec": "Kolešovice"
+    },
+    {
+      "nazev": "Kolín",
+      "zahajeni_provozu": 1864,
+      "ukonceni_provozu": 1921,
+      "obec": "Kolín"
+    },
+    {
+      "nazev": "Kolín (Horského cukrovar)",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1922,
+      "obec": "Kolín"
+    },
+    {
+      "nazev": "Konopiště",
+      "zahajeni_provozu": 1849,
+      "ukonceni_provozu": 1887,
+      "obec": "Benešov"
+    },
+    {
+      "nazev": "Kopidlno",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1984,
+      "obec": "Kopidlno"
+    },
+    {
+      "nazev": "Kostelec nad Labem",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1992,
+      "obec": "Kostelec nad Labem"
+    },
+    {
+      "nazev": "Kostelec nad Orlicí",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1924,
+      "obec": "Kostelec nad Orlicí"
+    },
+    {
+      "nazev": "Kostelní Vydří",
+      "zahajeni_provozu": 1829,
+      "ukonceni_provozu": 1831,
+      "obec": "Kostelní Vydří"
+    },
+    {
+      "nazev": "Kostomlaty",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1873,
+      "obec": "Kostomlaty nad Labem"
+    },
+    {
+      "nazev": "Kouřim",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1966,
+      "obec": "Kouřim"
+    },
+    {
+      "nazev": "Kralupy nad Vltavou",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1971,
+      "obec": "Kralupy nad Vltavou"
+    },
+    {
+      "nazev": "Kralupy nad Vltavou",
+      "zahajeni_provozu": 1860,
+      "ukonceni_provozu": 1916,
+      "obec": "Kralupy nad Vltavou"
+    },
+    {
+      "nazev": "Králův Městec (Městec Králové)",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1932,
+      "obec": "Městec Králové"
+    },
+    {
+      "nazev": "Krásné Březno",
+      "zahajeni_provozu": 1883,
+      "ukonceni_provozu": 1930,
+      "obec": "Ústí nad Labem"
+    },
+    {
+      "nazev": "Krásný Dvůr",
+      "zahajeni_provozu": 1855,
+      "ukonceni_provozu": 1925,
+      "obec": "Krásný Dvůr"
+    },
+    {
+      "nazev": "Křesetice",
+      "zahajeni_provozu": 1811,
+      "ukonceni_provozu": 1813,
+      "obec": "Křesetice"
+    },
+    {
+      "nazev": "Křinec",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": "?",
+      "obec": "Křinec"
+    },
+    {
+      "nazev": "Kroměříž",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1971,
+      "obec": "Kroměříž"
+    },
+    {
+      "nazev": "Krumlov",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1940,
+      "obec": "Moravský Krumlov"
+    },
+    {
+      "nazev": "Krumsín",
+      "zahajeni_provozu": 1928,
+      "ukonceni_provozu": 1935,
+      "obec": "Krumsín"
+    },
+    {
+      "nazev": "Kryry",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1904,
+      "obec": "Kryry"
+    },
+    {
+      "nazev": "Kukleny",
+      "zahajeni_provozu": 1863,
+      "ukonceni_provozu": 1905,
+      "obec": "Hradec Králové"
+    },
+    {
+      "nazev": "Kunčice",
+      "zahajeni_provozu": 1860,
+      "ukonceni_provozu": 1904,
+      "obec": "Ostrava"
+    },
+    {
+      "nazev": "Kutná Hora (Tellerův cukrovar – Karlov)",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1920,
+      "obec": "Kutná Hora"
+    },
+    {
+      "nazev": "Kutná Hora (Čáslavská)",
+      "zahajeni_provozu": 1864,
+      "ukonceni_provozu": 1931,
+      "obec": "Kutná Hora"
+    },
+    {
+      "nazev": "Kvasice",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1912,
+      "obec": "Kvasice"
+    },
+    {
+      "nazev": "Kyjov",
+      "zahajeni_provozu": 1846,
+      "ukonceni_provozu": 1853,
+      "obec": "Kyjov"
+    },
+    {
+      "nazev": "Lázně Bělohrad",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1860,
+      "obec": "Lázně Bělohrad"
+    },
+    {
+      "nazev": "Ledce",
+      "zahajeni_provozu": 1835,
+      "ukonceni_provozu": 1872,
+      "obec": "Hradec Králové"
+    },
+    {
+      "nazev": "Lenešice",
+      "zahajeni_provozu": 1880,
+      "ukonceni_provozu": 1981,
+      "obec": "Lenešice"
+    },
+    {
+      "nazev": "Libáň",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1961,
+      "obec": "Libáň"
+    },
+    {
+      "nazev": "Liběchov",
+      "zahajeni_provozu": 1810,
+      "ukonceni_provozu": 1823,
+      "obec": "Liběchov"
+    },
+    {
+      "nazev": "Libeň",
+      "zahajeni_provozu": 1879,
+      "ukonceni_provozu": 1884,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Líbeznice",
+      "zahajeni_provozu": 1846,
+      "ukonceni_provozu": 1885,
+      "obec": "Líbeznice"
+    },
+    {
+      "nazev": "Libice nad Cidlinou",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1933,
+      "obec": "Libice nad Cidlinou"
+    },
+    {
+      "nazev": "Liblice",
+      "zahajeni_provozu": 1838,
+      "ukonceni_provozu": 1891,
+      "obec": "Český Brod"
+    },
+    {
+      "nazev": "Libněves",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1931,
+      "obec": "Dobšice"
+    },
+    {
+      "nazev": "Libochovice",
+      "zahajeni_provozu": 1867,
+      "ukonceni_provozu": 1977,
+      "obec": "Libochovice"
+    },
+    {
+      "nazev": "Lipník",
+      "zahajeni_provozu": 1867,
+      "ukonceni_provozu": 1904,
+      "obec": "Lipník nad Bečvou"
+    },
+    {
+      "nazev": "Litol",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1993,
+      "obec": "Lysá nad Labem"
+    },
+    {
+      "nazev": "Litovel",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": "",
+      "obec": "Litovel"
+    },
+    {
+      "nazev": "Louny",
+      "zahajeni_provozu": 1893,
+      "ukonceni_provozu": 1965,
+      "obec": "Louny"
+    },
+    {
+      "nazev": "Louny (Valterův cukrovar)",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1941,
+      "obec": "Louny"
+    },
+    {
+      "nazev": "Lovosice",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1997,
+      "obec": "Lovosice"
+    },
+    {
+      "nazev": "Lovosice",
+      "zahajeni_provozu": 1880,
+      "ukonceni_provozu": 1889,
+      "obec": "Lovosice"
+    },
+    {
+      "nazev": "Lužany",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1890,
+      "obec": "Lužany"
+    },
+    {
+      "nazev": "Lužec nad Vltavou",
+      "zahajeni_provozu": 1863,
+      "ukonceni_provozu": 1929,
+      "obec": "Lužec nad Vltavou"
+    },
+    {
+      "nazev": "Lysá nad Labem",
+      "zahajeni_provozu": 1849,
+      "ukonceni_provozu": 1874,
+      "obec": "Lysá nad Labem"
+    },
+    {
+      "nazev": "Malá Chuchle",
+      "zahajeni_provozu": 1831,
+      "ukonceni_provozu": 1834,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Maleč",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1885,
+      "obec": "Maleč"
+    },
+    {
+      "nazev": "Martinice",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1874,
+      "obec": "Hustopeče"
+    },
+    {
+      "nazev": "Meziříčí",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": "",
+      "obec": "České Meziříčí"
+    },
+    {
+      "nazev": "Mělník",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 2003,
+      "obec": "Mělník"
+    },
+    {
+      "nazev": "Milčice",
+      "zahajeni_provozu": 1857,
+      "ukonceni_provozu": 1888,
+      "obec": "Milčice"
+    },
+    {
+      "nazev": "Miranka",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": 1840,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Mnichovo Hradiště",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1993,
+      "obec": "Mnichovo Hradiště"
+    },
+    {
+      "nazev": "Mochov",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1956,
+      "obec": "Mochov"
+    },
+    {
+      "nazev": "Močovice",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1929,
+      "obec": "Močovice"
+    },
+    {
+      "nazev": "Modřany",
+      "zahajeni_provozu": 1861,
+      "ukonceni_provozu": 2001,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Modřice",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1932,
+      "obec": "Modřice"
+    },
+    {
+      "nazev": "Mohelnice",
+      "zahajeni_provozu": 1880,
+      "ukonceni_provozu": 1928,
+      "obec": "Mohelnice"
+    },
+    {
+      "nazev": "Moravany",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1927,
+      "obec": "Moravany"
+    },
+    {
+      "nazev": "Most",
+      "zahajeni_provozu": 1878,
+      "ukonceni_provozu": 1892,
+      "obec": "Most"
+    },
+    {
+      "nazev": "Most",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1954,
+      "obec": "Most"
+    },
+    {
+      "nazev": "Mratín",
+      "zahajeni_provozu": 1859,
+      "ukonceni_provozu": 1931,
+      "obec": "Mratín"
+    },
+    {
+      "nazev": "Mšené Lázně",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1930,
+      "obec": "Mšené-Lázně"
+    },
+    {
+      "nazev": "Napajedla",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1930,
+      "obec": "Napajedla"
+    },
+    {
+      "nazev": "Němčice",
+      "zahajeni_provozu": 1909,
+      "ukonceni_provozu": 2006,
+      "obec": "Němčice nad Hanou"
+    },
+    {
+      "nazev": "Neštěmice",
+      "zahajeni_provozu": 1890,
+      "ukonceni_provozu": 1931,
+      "obec": "Ústí nad Labem"
+    },
+    {
+      "nazev": "Nová Ulice",
+      "zahajeni_provozu": 1842,
+      "ukonceni_provozu": 1855,
+      "obec": "Olomouc"
+    },
+    {
+      "nazev": "Nový Bydžov",
+      "zahajeni_provozu": 1838,
+      "ukonceni_provozu": 1873,
+      "obec": "Nový Bydžov"
+    },
+    {
+      "nazev": "Nový Bydžov",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1997,
+      "obec": "Nový Bydžov"
+    },
+    {
+      "nazev": "Nový Dvůr",
+      "zahajeni_provozu": 1788,
+      "ukonceni_provozu": 1798,
+      "obec": "Hořičky"
+    },
+    {
+      "nazev": "Nymburk",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1996,
+      "obec": "Nymburk"
+    },
+    {
+      "nazev": "Obora",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1919,
+      "obec": "Chomutice"
+    },
+    {
+      "nazev": "Ohrada",
+      "zahajeni_provozu": 1843,
+      "ukonceni_provozu": 1846,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Opatovice",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1885,
+      "obec": "Opatovice nad Labem"
+    },
+    {
+      "nazev": "Opava (První řepný cukrovar)",
+      "zahajeni_provozu": 1848,
+      "ukonceni_provozu": 1864,
+      "obec": "Opava"
+    },
+    {
+      "nazev": "Opava",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1858,
+      "obec": "Opava"
+    },
+    {
+      "nazev": "Opava",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1942,
+      "obec": "Opava"
+    },
+    {
+      "nazev": "Opočno",
+      "zahajeni_provozu": 1856,
+      "ukonceni_provozu": 1940,
+      "obec": "Opočno"
+    },
+    {
+      "nazev": "Oslavany",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1930,
+      "obec": "Oslavany"
+    },
+    {
+      "nazev": "Osoblaha",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1921,
+      "obec": "Osoblaha"
+    },
+    {
+      "nazev": "Osov",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1887,
+      "obec": "Osov"
+    },
+    {
+      "nazev": "Ostra Uhera",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1928,
+      "obec": "Uherský Ostroh"
+    },
+    {
+      "nazev": "Ostrava",
+      "zahajeni_provozu": 1847,
+      "ukonceni_provozu": 1859,
+      "obec": "Ostrava"
+    },
+    {
+      "nazev": "Oudlice (Údlice)",
+      "zahajeni_provozu": 1856,
+      "ukonceni_provozu": 1906,
+      "obec": "Údlice"
+    },
+    {
+      "nazev": "Ouřinoves (Uhříněves)",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1968,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Ouvaly (Úvaly)",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1928,
+      "obec": "Úvaly"
+    },
+    {
+      "nazev": "Oužice (Úžice)",
+      "zahajeni_provozu": 1856,
+      "ukonceni_provozu": 1998,
+      "obec": "Úžice"
+    },
+    {
+      "nazev": "Ovčáry",
+      "zahajeni_provozu": 1860,
+      "ukonceni_provozu": 1993,
+      "obec": "Nové Dvory"
+    },
+    {
+      "nazev": "Pardubice",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1943,
+      "obec": "Pardubice"
+    },
+    {
+      "nazev": "Paskov",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1846,
+      "obec": "Paskov"
+    },
+    {
+      "nazev": "Pavlovice",
+      "zahajeni_provozu": 1865,
+      "ukonceni_provozu": 1944,
+      "obec": "Velké Pavlovice"
+    },
+    {
+      "nazev": "Pečky",
+      "zahajeni_provozu": 1848,
+      "ukonceni_provozu": 1928,
+      "obec": "Pečky"
+    },
+    {
+      "nazev": "Pečky (Weinrichův cukrovar)",
+      "zahajeni_provozu": 1863,
+      "ukonceni_provozu": 1928,
+      "obec": "Pečky"
+    },
+    {
+      "nazev": "Peruc",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1910,
+      "obec": "Peruc"
+    },
+    {
+      "nazev": "Petynka",
+      "zahajeni_provozu": 1811,
+      "ukonceni_provozu": 1813,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Pětipsi (Pětipsy)",
+      "zahajeni_provozu": 1866,
+      "ukonceni_provozu": 1911,
+      "obec": "Pětipsy"
+    },
+    {
+      "nazev": "Plaňany",
+      "zahajeni_provozu": 1866,
+      "ukonceni_provozu": 1981,
+      "obec": "Plaňany"
+    },
+    {
+      "nazev": "Plzeň",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1874,
+      "obec": "Plzeň"
+    },
+    {
+      "nazev": "Poděbrady",
+      "zahajeni_provozu": 1864,
+      "ukonceni_provozu": 1925,
+      "obec": "Poděbrady"
+    },
+    {
+      "nazev": "Poděbrady",
+      "zahajeni_provozu": 1884,
+      "ukonceni_provozu": 1885,
+      "obec": "Poděbrady"
+    },
+    {
+      "nazev": "Podivín",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1912,
+      "obec": "Podivín"
+    },
+    {
+      "nazev": "Pohořelice",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1970,
+      "obec": "Pohořelice"
+    },
+    {
+      "nazev": "Popovice",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1840,
+      "obec": "Popovice"
+    },
+    {
+      "nazev": "Postoloprty (Schwarzenbergský knížecí cukrovar)",
+      "zahajeni_provozu": 1852,
+      "ukonceni_provozu": 1990,
+      "obec": "Postoloprty"
+    },
+    {
+      "nazev": "Prádlo",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1846,
+      "obec": "Prádlo"
+    },
+    {
+      "nazev": "Předměřice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1997,
+      "obec": "Předměřice nad Labem"
+    },
+    {
+      "nazev": "Přelouč",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1970,
+      "obec": "Přelouč"
+    },
+    {
+      "nazev": "Přerov",
+      "zahajeni_provozu": 1858,
+      "ukonceni_provozu": 1927,
+      "obec": "Přerov"
+    },
+    {
+      "nazev": "Příbor",
+      "zahajeni_provozu": 1846,
+      "ukonceni_provozu": 1859,
+      "obec": "Příbor"
+    },
+    {
+      "nazev": "Příbram",
+      "zahajeni_provozu": 1832,
+      "ukonceni_provozu": 1847,
+      "obec": "Příbram"
+    },
+    {
+      "nazev": "Prosenice",
+      "zahajeni_provozu": 1881,
+      "ukonceni_provozu": "",
+      "obec": "Prosenice"
+    },
+    {
+      "nazev": "Prostějov",
+      "zahajeni_provozu": 1844,
+      "ukonceni_provozu": 1855,
+      "obec": "Prostějov"
+    },
+    {
+      "nazev": "Prostějov",
+      "zahajeni_provozu": 1852,
+      "ukonceni_provozu": 1958,
+      "obec": "Prostějov"
+    },
+    {
+      "nazev": "Protivín",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1886,
+      "obec": "Protivín"
+    },
+    {
+      "nazev": "Prunéřov (Kadaň-Prunéřov)",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1932,
+      "obec": "Kadaň"
+    },
+    {
+      "nazev": "Radíč",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": 1846,
+      "obec": "Radíč"
+    },
+    {
+      "nazev": "Radonice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1910,
+      "obec": "Radonice"
+    },
+    {
+      "nazev": "Radotín",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1922,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Rajhrad",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1885,
+      "obec": "Rajhrad"
+    },
+    {
+      "nazev": "Rakovník",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1897,
+      "obec": "Rakovník"
+    },
+    {
+      "nazev": "Ratboř",
+      "zahajeni_provozu": 1853,
+      "ukonceni_provozu": 1986,
+      "obec": "Ratboř"
+    },
+    {
+      "nazev": "Řehořov",
+      "zahajeni_provozu": 1840,
+      "ukonceni_provozu": 1851,
+      "obec": "Kamenice"
+    },
+    {
+      "nazev": "Rohatec",
+      "zahajeni_provozu": 1863,
+      "ukonceni_provozu": 1919,
+      "obec": "Rohatec"
+    },
+    {
+      "nazev": "Rokoska",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": 1873,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Rokycany",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1873,
+      "obec": "Rokycany"
+    },
+    {
+      "nazev": "Ronov",
+      "zahajeni_provozu": 1857,
+      "ukonceni_provozu": 1888,
+      "obec": "Oskořínek"
+    },
+    {
+      "nazev": "Rosice",
+      "zahajeni_provozu": 1894,
+      "ukonceni_provozu": 1928,
+      "obec": "Pardubice"
+    },
+    {
+      "nazev": "Rosice-Přestavlky",
+      "zahajeni_provozu": 1860,
+      "ukonceni_provozu": 1930,
+      "obec": "Rosice"
+    },
+    {
+      "nazev": "Roudnice nad Labem",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1962,
+      "obec": "Roudnice nad Labem"
+    },
+    {
+      "nazev": "Rožďalovice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1968,
+      "obec": "Rožďalovice"
+    },
+    {
+      "nazev": "Rtišovice",
+      "zahajeni_provozu": 1834,
+      "ukonceni_provozu": 1840,
+      "obec": "Milín"
+    },
+    {
+      "nazev": "Rudolice nad Bílinou",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1904,
+      "obec": "Most"
+    },
+    {
+      "nazev": "Ruzíň (Ruzyně)",
+      "zahajeni_provozu": 1838,
+      "ukonceni_provozu": 1923,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Rymice",
+      "zahajeni_provozu": 1841,
+      "ukonceni_provozu": 1867,
+      "obec": "Rymice"
+    },
+    {
+      "nazev": "Sadová",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1924,
+      "obec": "Sadová"
+    },
+    {
+      "nazev": "Sadská",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1886,
+      "obec": "Sadská"
+    },
+    {
+      "nazev": "Sadská (cukrovar u Kaple)",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1932,
+      "obec": "Sadská"
+    },
+    {
+      "nazev": "Skorochovice",
+      "zahajeni_provozu": 1857,
+      "ukonceni_provozu": 1926,
+      "obec": "Brumovice"
+    },
+    {
+      "nazev": "Skřivany",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1977,
+      "obec": "Skřivany"
+    },
+    {
+      "nazev": "Skrochovice",
+      "zahajeni_provozu": 1857,
+      "ukonceni_provozu": 1926,
+      "obec": "Brumovice"
+    },
+    {
+      "nazev": "Slatiňany",
+      "zahajeni_provozu": 1860,
+      "ukonceni_provozu": 1968,
+      "obec": "Slatiňany"
+    },
+    {
+      "nazev": "Slavkov",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1993,
+      "obec": "Slavkov u Brna"
+    },
+    {
+      "nazev": "Slibovice",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1899,
+      "obec": "Běrunice"
+    },
+    {
+      "nazev": "Smíchov I.",
+      "zahajeni_provozu": 1841,
+      "ukonceni_provozu": 1847,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Smíchov II.",
+      "zahajeni_provozu": 1855,
+      "ukonceni_provozu": 1879,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Smidary",
+      "zahajeni_provozu": 1835,
+      "ukonceni_provozu": 1892,
+      "obec": "Smidary"
+    },
+    {
+      "nazev": "Smiřice",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1993,
+      "obec": "Smiřice"
+    },
+    {
+      "nazev": "Sokolnice",
+      "zahajeni_provozu": 1840,
+      "ukonceni_provozu": 1990,
+      "obec": "Sokolnice"
+    },
+    {
+      "nazev": "Staré Brno",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1906,
+      "obec": "Brno"
+    },
+    {
+      "nazev": "Staré Město",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1997,
+      "obec": "Staré Město"
+    },
+    {
+      "nazev": "Studeněves",
+      "zahajeni_provozu": 1855,
+      "ukonceni_provozu": 1931,
+      "obec": "Studeněves"
+    },
+    {
+      "nazev": "Studénka",
+      "zahajeni_provozu": 1852,
+      "ukonceni_provozu": 1910,
+      "obec": "Studénka"
+    },
+    {
+      "nazev": "Suchdol",
+      "zahajeni_provozu": 1832,
+      "ukonceni_provozu": 1854,
+      "obec": "Suchdol"
+    },
+    {
+      "nazev": "Sulejovice (Schwarzenbergský cukrovar)",
+      "zahajeni_provozu": 1855,
+      "ukonceni_provozu": 1912,
+      "obec": "Sulejovice"
+    },
+    {
+      "nazev": "Svijany",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1904,
+      "obec": "Svijany"
+    },
+    {
+      "nazev": "Svinaře",
+      "zahajeni_provozu": 1832,
+      "ukonceni_provozu": 1840,
+      "obec": "Svinaře"
+    },
+    {
+      "nazev": "Syrovátka",
+      "zahajeni_provozu": 1848,
+      "ukonceni_provozu": 1993,
+      "obec": "Syrovátka"
+    },
+    {
+      "nazev": "Šlapanice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1930,
+      "obec": "Šlapanice"
+    },
+    {
+      "nazev": "Štětí",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1948,
+      "obec": "Štětí"
+    },
+    {
+      "nazev": "Tavíkovice",
+      "zahajeni_provozu": 1924,
+      "ukonceni_provozu": 1931,
+      "obec": "Tavíkovice"
+    },
+    {
+      "nazev": "Tišnov",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1918,
+      "obec": "Tišnov"
+    },
+    {
+      "nazev": "Toušeň",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1958,
+      "obec": "Lázně Toušeň"
+    },
+    {
+      "nazev": "Tovačov",
+      "zahajeni_provozu": 1890,
+      "ukonceni_provozu": 1954,
+      "obec": "Tovačov"
+    },
+    {
+      "nazev": "Třebovětice",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1887,
+      "obec": "Cerekvice nad Bystřicí"
+    },
+    {
+      "nazev": "Trmice",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1909,
+      "obec": "Ústí nad Labem"
+    },
+    {
+      "nazev": "Troja",
+      "zahajeni_provozu": 1812,
+      "ukonceni_provozu": 1816,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Tupadly",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1872,
+      "obec": "Tupadly"
+    },
+    {
+      "nazev": "Uherský Brod",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1894,
+      "obec": "Uherský Brod"
+    },
+    {
+      "nazev": "Unčov",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1998,
+      "obec": "Uničov"
+    },
+    {
+      "nazev": "Ústí nad Labem",
+      "zahajeni_provozu": 1883,
+      "ukonceni_provozu": 1971,
+      "obec": "Ústí nad Labem"
+    },
+    {
+      "nazev": "Vávrovice",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": "",
+      "obec": "Opava"
+    },
+    {
+      "nazev": "Velim",
+      "zahajeni_provozu": 1867,
+      "ukonceni_provozu": 1928,
+      "obec": "Velim"
+    },
+    {
+      "nazev": "Velvary",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1991,
+      "obec": "Velvary"
+    },
+    {
+      "nazev": "Vinoř",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1953,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Víškov",
+      "zahajeni_provozu": 1868,
+      "ukonceni_provozu": 1993,
+      "obec": "Vyškov"
+    },
+    {
+      "nazev": "Vlkava",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1944,
+      "obec": "Vlkava"
+    },
+    {
+      "nazev": "Vránovice",
+      "zahajeni_provozu": 1872,
+      "ukonceni_provozu": 1915,
+      "obec": "Vranovice"
+    },
+    {
+      "nazev": "Vrbátky",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": "",
+      "obec": "Vrbátky"
+    },
+    {
+      "nazev": "Vrdy",
+      "zahajeni_provozu": 1856,
+      "ukonceni_provozu": 2005,
+      "obec": "Vrdy"
+    },
+    {
+      "nazev": "Vršovice",
+      "zahajeni_provozu": 1902,
+      "ukonceni_provozu": 1939,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Vrutice (Kropáčova)",
+      "zahajeni_provozu": 1864,
+      "ukonceni_provozu": 1965,
+      "obec": "Kropáčova Vrutice"
+    },
+    {
+      "nazev": "Všetuly",
+      "zahajeni_provozu": 1880,
+      "ukonceni_provozu": 1994,
+      "obec": "Holešov"
+    },
+    {
+      "nazev": "Vysočany I.",
+      "zahajeni_provozu": 1832,
+      "ukonceni_provozu": 1835,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Vysočany II.",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": 1914,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Vysoké Mýto",
+      "zahajeni_provozu": 1869,
+      "ukonceni_provozu": 1928,
+      "obec": "Vysoké Mýto"
+    },
+    {
+      "nazev": "Vysoké Třebušice",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1894,
+      "obec": "Krásný Dvůr"
+    },
+    {
+      "nazev": "Vysoké Veselí",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1931,
+      "obec": "Vysoké Veselí"
+    },
+    {
+      "nazev": "Záboří",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1910,
+      "obec": "Záboří nad Labem"
+    },
+    {
+      "nazev": "Zaječí",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": 1912,
+      "obec": "Rájec nad Svitavou"
+    },
+    {
+      "nazev": "Zájezdy",
+      "zahajeni_provozu": 1837,
+      "ukonceni_provozu": 1842,
+      "obec": "Bakov nad Jizerou"
+    },
+    {
+      "nazev": "Zákolany",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1928,
+      "obec": "Zákolany"
+    },
+    {
+      "nazev": "Zákupy",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1887,
+      "obec": "Zákupy"
+    },
+    {
+      "nazev": "Zborovice",
+      "zahajeni_provozu": 1851,
+      "ukonceni_provozu": 1932,
+      "obec": "Zborovice"
+    },
+    {
+      "nazev": "Zbraslav (třtinový cukr)",
+      "zahajeni_provozu": 1787,
+      "ukonceni_provozu": 1802,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Zbraslav I.",
+      "zahajeni_provozu": 1812,
+      "ukonceni_provozu": 1813,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Zbraslav II.",
+      "zahajeni_provozu": 1813,
+      "ukonceni_provozu": 1860,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Zbraslav III.",
+      "zahajeni_provozu": 1830,
+      "ukonceni_provozu": 1875,
+      "obec": "Praha"
+    },
+    {
+      "nazev": "Zdice",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1941,
+      "obec": "Zdice"
+    },
+    {
+      "nazev": "Zlonice",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1931,
+      "obec": "Zlonice"
+    },
+    {
+      "nazev": "Zvoleněves",
+      "zahajeni_provozu": 1839,
+      "ukonceni_provozu": 2000,
+      "obec": "Zvoleněves"
+    },
+    {
+      "nazev": "Žáky",
+      "zahajeni_provozu": 1810,
+      "ukonceni_provozu": 1814,
+      "obec": "Žáky"
+    },
+    {
+      "nazev": "Žáky",
+      "zahajeni_provozu": 1836,
+      "ukonceni_provozu": 1841,
+      "obec": "Žáky"
+    },
+    {
+      "nazev": "Žatec",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1998,
+      "obec": "Žatec"
+    },
+    {
+      "nazev": "Ždánice",
+      "zahajeni_provozu": 1862,
+      "ukonceni_provozu": 1924,
+      "obec": "Ždánice"
+    },
+    {
+      "nazev": "Žehušice",
+      "zahajeni_provozu": 1850,
+      "ukonceni_provozu": 1870,
+      "obec": "Žehušice"
+    },
+    {
+      "nazev": "Želetice",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1915,
+      "obec": "Želetice"
+    },
+    {
+      "nazev": "Židlochovice",
+      "zahajeni_provozu": 1834,
+      "ukonceni_provozu": 1990,
+      "obec": "Židlochovice"
+    },
+    {
+      "nazev": "Židovice",
+      "zahajeni_provozu": 1870,
+      "ukonceni_provozu": 1931,
+      "obec": "Židovice"
+    },
+    {
+      "nazev": "Žiželice",
+      "zahajeni_provozu": 1871,
+      "ukonceni_provozu": 1885,
+      "obec": "Žiželice"
+    },
+    {
+      "nazev": "Žleby",
+      "zahajeni_provozu": 1812,
+      "ukonceni_provozu": 1816,
+      "obec": "Žleby"
+    },
+    {
+      "nazev": "Žleby",
+      "zahajeni_provozu": 1852,
+      "ukonceni_provozu": 1929,
+      "obec": "Žleby"
+    }
+  ],
+  "meta": {
+    "title": "Cukrovary v Česku - Free Download",
+    "description": "Seznam současných i zaniklých cukrovarů v Česku s rokem zahájení a ukončení provozu a obcí. Contains 303 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cukrovary v Česku | ListBase",
+    "seo_description": "Download Cukrovary v Česku — 303 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 303 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_cukrovarů_v_Česku"
+    ]
+  }
+}
