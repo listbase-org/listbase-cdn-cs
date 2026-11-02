@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-02T02:34:15.355Z",
-  "total_datasets": 522,
-  "total_records": 417151,
+  "generated": "2026-11-02T02:34:22.177Z",
+  "total_datasets": 523,
+  "total_records": 417168,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "math",
@@ -8192,6 +8192,28 @@
         "xlsx": {
           "name": "cs-soudci-ustavniho-soudu_CS.xlsx",
           "size": 9793
+        }
+      }
+    },
+    {
+      "id": "cs-trestni-zakony",
+      "name": "Trestní zákony v Česku",
+      "category": "law",
+      "record_count": 17,
+      "columns": [
+        "predpis"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_trestních_zákonů_v_Česku",
+      "updated": "2026-11",
+      "size": 2901,
+      "files": {
+        "csv": {
+          "name": "cs-trestni-zakony_CS.csv",
+          "size": 1076
+        },
+        "xlsx": {
+          "name": "cs-trestni-zakony_CS.xlsx",
+          "size": 7295
         }
       }
     },

@@ -1,0 +1,82 @@
+{
+  "id": "cs-trestni-zakony",
+  "name": "Trestní zákony v Česku",
+  "title": "Trestní zákony v Česku",
+  "description": "Historický přehled trestních zákonů a zákoníků platných na území Česka od Koldínova zákoníku po trestní zákoník z roku 2009.",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_trestních_zákonů_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_trestních_zákonů_v_Česku",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "predpis",
+      "label": "Predpis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "predpis": "Koldínův zákoník"
+    },
+    {
+      "predpis": "Obnovené zřízení zemské (1627)"
+    },
+    {
+      "predpis": "Constitutio criminalis Josephina, zkráceně Josefina (1707)"
+    },
+    {
+      "predpis": "Constitutio criminalis Theresiana, zkráceně Theresiana (1768)"
+    },
+    {
+      "predpis": "Všeobecný zákoník o zločinech a trestech na ně (1787)"
+    },
+    {
+      "predpis": "Zákoník o zločinech a těžkých policejních přestupcích (1803)"
+    },
+    {
+      "predpis": "zákon č. 117/1852 ř. z. (velká novela trestního zákona z roku 1803)"
+    },
+    {
+      "predpis": "zákon č. 96/1854 ř. z. – „ výpraskový patent “"
+    },
+    {
+      "predpis": "zákon č. 50/1923 Sb., na ochranu republiky"
+    },
+    {
+      "predpis": "některé Benešovy dekrety"
+    },
+    {
+      "predpis": "zákon č. 231/1948 Sb., na ochranu lidově demokratické republiky"
+    },
+    {
+      "predpis": "zákon č. 86/1950 Sb., trestní zákon"
+    },
+    {
+      "predpis": "zákon č. 165/1950 Sb., na ochranu míru"
+    },
+    {
+      "predpis": "zákon č. 140/1961 Sb., trestní zákon"
+    },
+    {
+      "predpis": "zákon č. 218/2003 Sb., o odpovědnosti mládeže za protiprávní činy a o soudnictví ve věcech mládeže a o změně některých zákonů (zákon o soudnictví ve věcech mládeže)"
+    },
+    {
+      "predpis": "zákon č. 40/2009 Sb., trestní zákoník"
+    },
+    {
+      "predpis": "zákon č. 418/2011 Sb., o trestní odpovědnosti právnických osob a řízení proti nim"
+    }
+  ],
+  "meta": {
+    "title": "Trestní zákony v Česku - Free Download",
+    "description": "Historický přehled trestních zákonů a zákoníků platných na území Česka od Koldínova zákoníku po trestní zákoník z roku 2009. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Trestní zákony v Česku | ListBase",
+    "seo_description": "Download Trestní zákony v Česku — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 1 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_trestních_zákonů_v_Česku"
+    ]
+  }
+}
