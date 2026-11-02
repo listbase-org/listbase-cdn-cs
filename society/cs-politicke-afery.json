@@ -1,0 +1,1208 @@
+{
+  "id": "cs-politicke-afery",
+  "name": "Politické aféry v Česku",
+  "title": "Politické aféry v Česku",
+  "description": "Přehled politických afér a kauz v Česku od roku 1990 s aktéry, rokem, zapojenými stranami a stručným popisem.",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_politických_afér_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_politických_afér_v_Česku",
+  "updated": "2026-11",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "afera",
+      "label": "Afera",
+      "type": "string"
+    },
+    {
+      "key": "akteri",
+      "label": "Akteri",
+      "type": "string"
+    },
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "strany",
+      "label": "Strany",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    },
+    {
+      "key": "dalsi_informace",
+      "label": "Dalsi Informace",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "afera": "Sachergate",
+      "akteri": "Richard Sacher",
+      "rok": "1990",
+      "strany": "KDU-ČSL",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Tehdejší ministr vnitra Richard Sacher nařídil „v zájmu zajištění stability politického vývoje“ vyjmout z evidence StB evidenční karty ústavních činitelů a přesunout je do zvláštního „fondu Z“."
+    },
+    {
+      "afera": "Aféra akce Delta",
+      "akteri": "Pavel Muraško, Petr Pithart, Jan Kavan",
+      "rok": "1990",
+      "strany": "OF",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Odhalení poslance Pavla Muraška jako spolupracovníka StB, na základě jehož informací se podařilo odhalit cestu pro pašování tiskovin pro československý disent – tzv. „kamion“, který z Londýna vypravoval Jan Kavan (Palach Press). Historik Ján Mlynárik údajně došel k závěru, že obvinění Muraška bylo nespravedlivé."
+    },
+    {
+      "afera": "Pomlčková válka",
+      "akteri": "",
+      "rok": "1990",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Spor o oficiální název Československa probíhající po listopadu 1989. Zdánlivě malicherná pře budila velké vášně a předznamenala pozdější rozpad společného státu."
+    },
+    {
+      "afera": "Aféra Bartončík",
+      "akteri": "Jan Ruml, Josef Bartončík",
+      "rok": "1990",
+      "strany": "OF KDU-ČSL",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Těsně před volbami v roce 1990 byl tehdejší předseda KDU-ČSL Josef Bartončík obviněn Janem Rumlem ze spolupráce s StB. Tento skandál pravděpodobně těžce poškodil lidovou stranu ve volbách."
+    },
+    {
+      "afera": "Kauza Lehké topné oleje (LTO)",
+      "akteri": "",
+      "rok": "1990–1996",
+      "strany": "ODS",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "V samostatném Slovensku přijat zákon znemožňující daňové úniky o 2 roky dříve než v Česku, důvod zpoždění v mediích nekomentován."
+    },
+    {
+      "afera": "Kauza růžový tank",
+      "akteri": "David Černý, skupina poslanců Federálního shromáždění",
+      "rok": "1991",
+      "strany": "OF",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Výtvarník David Černý natřel v dubnu 1991 tank z památníku sovětských tankistů na Smíchově narůžovo. Tři dny poté byl tank přetřen zpět nazeleno. Skupina 15 poslanců Federálního shromáždění za Občanské fórum pak využila své trestní imunity a v květnu tank opět přetřela narůžovo. Čin poslanců odsoudil tehdejší prezident Václav Havel."
+    },
+    {
+      "afera": "Aféra Muroň",
+      "akteri": "Jaroslav Muroň, Bohumil Kubát (politik) a Milan Teplý",
+      "rok": "1992",
+      "strany": "ODA",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Úplatkářská aféra během české privatizace. Uplácení nebylo prokázáno, možná snaha o kompromitaci."
+    },
+    {
+      "afera": "Aféra Wallis",
+      "akteri": "Václav Wallis, Viktor Kožený",
+      "rok": "1992–2001",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Důstojník FBIS Václav Wallis byl obviněn z prodávání tajných materiálů Viktoru Koženému. V průběhu případu se Kožený přestěhoval na Bahamy. První osvobozující rozsudek pro Wallise pronesen v roce 1997, definitivně pak v roce 2001."
+    },
+    {
+      "afera": "Rumová aféra",
+      "akteri": "Otakar Kracík, Ronald Holenda a Blanka Kvasničková",
+      "rok": "1993",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Daňový podvod se škodou 60 milionů korun."
+    },
+    {
+      "afera": "Kauza Diag Human",
+      "akteri": "Diag Human, Josef Šťáva, Immuno, Grifols a Martin Bojar",
+      "rok": "1993–",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Spor o několikamiliardové odškodné požadované vlastníky firmy Diag Human od českého státu za údajně zmařený obchod s krevní plazmou."
+    },
+    {
+      "afera": "Aféra Helbig",
+      "akteri": "Dieter a Gerhard Helbigové, Petr Čermák, Jan Ruml, Pavel Hofman",
+      "rok": "1993–1995",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Bratři Helbigové byli v první polovině 90. let výhradními dovozci vozů Mercedes v ČR a SR. S jejich působením jsou spjaté podezřelé podnikatelské aktivity a vazby na pražskou policii. Jejich vůz také bezplatně používal Petr Čermák a v jejich společnosti byl spatřen i Jan Ruml. Při zatýkání Policií ČR se jim podařilo uprchnout ze země a nakonec byli stíháni Interpolem."
+    },
+    {
+      "afera": "Aféra BIS",
+      "akteri": "Jan Kalvoda, Josef Lux, Stanislav Devátý, Jaroslav Bašta",
+      "rok": "1995–1996",
+      "strany": "ODA KDU-ČSL",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "V lednu 1995 obvinil tehdejší předseda ODA Jan Kalvoda BIS ze sledování politických stran. Vzniklá vyšetřovací komise nařčení nepotvrdila. V listopadu 1996 se k tomuto obvinění přidal i předseda KDU-ČSL Josef Lux a argumentoval vyjmutými stránkami ze spisu „Island“, které získal předseda komise pro kontrolu BIS Jaroslav Bašta. Kalvoda s Luxem pohrozili odchodem z vlády a z koalice s ODS. Aféra skončila odstoupením ředitele BIS Stanislava Devátého. Na tuto aféru navázala aféra „Zemanův kufřík“."
+    },
+    {
+      "afera": "Zemanův kufřík",
+      "akteri": "Miloš Zeman, Jan Ruml, Jaroslav Bašta, Mikuláš Tomin, Miloš Demeter a další",
+      "rok": "1996–1997",
+      "strany": "ČSSD",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Obsah kufříku měl dokumentovat Rumlovu snahu změnit Česko v policejní stát, v kufříku nakonec byly bezcenné materiály."
+    },
+    {
+      "afera": "Olomoucká kauza",
+      "akteri": "Oldřich Přikryl, Josef Menšík, Josef Kolinský, Dušan Magna a další",
+      "rok": "1996–2002",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Také označována jako „válka policajtů“. Kauza prorůstání organizovaného zločinu do státní správy, policie a tajných služeb. Byli do ní zapojeni policisté a podnikatelé zejm. z Olomoucka. Tehdejší ministr vnitra Jan Ruml kvůli ní zřídil několik vyšetřovacích týmů. Někteří lidé z této kauzy vystupovali i v kauze „Zemanův kufřík“. Podobnou kauzou se v roce 2015 stala kauza „ Operace Vidkun “."
+    },
+    {
+      "afera": "JUDrgate",
+      "akteri": "Jan Kalvoda, Marie Noveská, Pavla Jurková, Ondřej Zemina, Anna Röschová",
+      "rok": "1996–1997",
+      "strany": "ODA ČSSD KDU-ČSL ODS",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Tato kauza byla také označována jako „titulománie“. Na sklonku roku 1996 se objevilo několik případů poslanců, kteří neoprávněně používali titul JUDr. Nejznámějším byl případ předsedy ODA a ministra spravedlnosti Jana Kalvody. Dalšími byli Marie Noveská (ČSSD), Pavla Jurková (KDU-ČSL), Ondřej Zemina a Anna Röschová (oba ODS). Kalvoda, Jurková a Zemina rezignovali na všechny své funkce. Noveská a Röschová rezignovat odmítly."
+    },
+    {
+      "afera": "Kauza Zukal",
+      "akteri": "Zdenek Zukal, Oldřich Přikryl, Marie Dolečková, Vladimír Procházka",
+      "rok": "1997–2003",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Olomoucký spolupracovník TV Nova Zdenek Zukal byl obviněn z natáčení reportáže na objednávku podnikatele Oldřicha Přikryla. Tato reportáž měla diskreditovat mj. policisty vyšetřující tzv. Olomouckou kauzu (1996). Zukal tvrdil, že se mu někteří policisté chtěli pomstít za to, že informoval o zákulisí této kauzy."
+    },
+    {
+      "afera": "Kauza Lidový dům",
+      "akteri": "Miloš Zeman, Zdeněk Altner a další",
+      "rok": "1997–",
+      "strany": "ČSSD",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Vleklý spor o vyplacení odměny advokátu Zdeňku Altnerovi, který ČSSD vyhrál spor o vlastnictví Lidového domu v Praze. Tato odměna má včetně penále činit celkem 337 milionů Kč."
+    },
+    {
+      "afera": "Aféra financování ODS",
+      "akteri": "Václav Klaus a Lajos Bács a Radjiv M. Sinha",
+      "rok": "1997",
+      "strany": "ODS",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Aféra financování strany mrtvými dárci a netransparentními účty v zahraničí, která vyústila v tzv. „sarajevský atentát“ na Klause a následný pád vlády."
+    },
+    {
+      "afera": "Bamberská aféra",
+      "akteri": "Miloš Zeman, Karel Machovec, Jan Vízek a Jaroslav Vlček (politik)",
+      "rok": "1998",
+      "strany": "ČSSD",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Setkání představitelů ČSSD s podnikatelem Vízkem v německém Bamberku."
+    },
+    {
+      "afera": "Zeď v Matiční ulici",
+      "akteri": "",
+      "rok": "1998",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Aféra Chemapol",
+      "akteri": "Václav Junek a Chemapol",
+      "rok": "1998",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Vytunelování průmyslového konglomerátu."
+    },
+    {
+      "afera": "Aféra Zilk",
+      "akteri": "Václav Havel, Helmut Zilk",
+      "rok": "1998",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Václav Havel chtěl v roce 1998 udělit Řád Bílého lva rakouskému novináři a politikovi Helmutu Zilkovi. Objevilo se však podezření, že Zilk v 60. letech spolupracoval s StB a již oznámené udělení vyznamenání bylo několik dnů před ceremoniálem odřeknuto. Podezření se ale nepodařilo prokázat a v roce 2008 se Havel na Zilkově pohřbu omluvil za způsobené křivdy."
+    },
+    {
+      "afera": "Kauza Mostecká uhelná (MUS)",
+      "akteri": "",
+      "rok": "1999–",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Kontroverzní privatizace Mostecké uhelné společnosti v 90. letech, kterou od roku 1999 prošetřuje česká policie a později i švýcarská prokuratura. Vyšetřování bylo třikrát odloženo, v roce 2012 počtvrté zahájeno."
+    },
+    {
+      "afera": "Aféra Štiřín",
+      "akteri": "Miloš Zeman, Jan Kavan, Jaroslav Novotný, Karel Srba, Josef Zieleniec",
+      "rok": "1999",
+      "strany": "ČSSD",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Tehdejší premiér Miloš Zeman bez důkazů obvinil Josefa Zieleniece z uplácení novinářů. Zemanův poradce Jaroslav Novotný pak přemlouval ředitele zámku Štiřín Václava Hrubého, aby nějaké důkazy vyrobil a předal je Karlu Srbovi."
+    },
+    {
+      "afera": "Vytunelování firmy Liberta",
+      "akteri": "Ivo Svoboda a Barbora Snopková",
+      "rok": "1999",
+      "strany": "ČSSD",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Vytunelování firmy Liberta ministrem financí Ivo Svobodou."
+    },
+    {
+      "afera": "Kauza Hrubant",
+      "akteri": "Roman Hrubant",
+      "rok": "1999–2002",
+      "strany": "",
+      "obdobi": "1990–1999",
+      "dalsi_informace": "Agent BIS Roman Hrubant pracoval v letech 1997 a 1998 na úkolu vypátrat, odkud z BIS unikají citlivá data směrem k ČSSD. Po nástupu ČSSD k moci v roce 1998 byla tato akce zastavena. V roce 1999 byl Hrubant zatčen a obviněn z podvodu a vydírání. V roce 2002 byl všech obvinění zproštěn."
+    },
+    {
+      "afera": "Aféra Olovo",
+      "akteri": "Miloš Zeman, Miroslav Šlouf, Zdeněk Šarapatka, Vratislav Šíma a Petra Buzková",
+      "rok": "2000–2001",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Sběr kompromitujících materiálů na Petru Buzkovou."
+    },
+    {
+      "afera": "Krize v České televizi",
+      "akteri": "Jiří Hodač, Jana Bobošíková, Jan Ruml a další",
+      "rok": "2000–2001",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Redaktoři zpravodajství ČT s podporou předních politiků spjatých s havlovským křídlem a Čtyřkoalicí se vzbouřili proti vedení ČT, které bylo považováno za spřízněné zejména s ODS."
+    },
+    {
+      "afera": "Aféra Český dům",
+      "akteri": "Karel Srba a Jan Kavan",
+      "rok": "2000–2002",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Pronájem Českého domu v Moskvě."
+    },
+    {
+      "afera": "Kakaová aféra",
+      "akteri": "Michal Kraus a František Riga",
+      "rok": "2001",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Koupě továrny na zpracování kakaových bobů v Ghaně."
+    },
+    {
+      "afera": "Aféra Gripen",
+      "akteri": "Michael Žantovský, Alfons Mensdorff-Pouilly, Otto Jelinek, Richard Háva a Jan Kavan",
+      "rok": "2001",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "IZIP",
+      "akteri": "Milan Cabrnoch a Miroslav Ouzký",
+      "rok": "2001–2012",
+      "strany": "ODS",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Nefunkční projekt elektronické zdravotní knížky."
+    },
+    {
+      "afera": "Internet do škol (INDOŠ)",
+      "akteri": "Eduard Zeman",
+      "rok": "2001–",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Projekt, který podepsal tehdejší ministr školství Eduard Zeman, měl zavést internet do základních a středních škol. Podle NKÚ při něm došlo k nehospodárnému využití více než 800 miliónů Kč."
+    },
+    {
+      "afera": "Aféra D47",
+      "akteri": "projekt dálnice D47, Miloš Zeman a Milan Šimonovský",
+      "rok": "2002",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "PPP zakázka na stavbu bez výběrového řízení, následně zrušená."
+    },
+    {
+      "afera": "Aféra s odposlechy",
+      "akteri": "Vlastimil Tlustý, Jan Klas, Zdeňka Horníková, Tomáš Úlehla a další",
+      "rok": "2003",
+      "strany": "ODS",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "V roce 2003 si několik politiků zejm. za ODS stěžovalo na údajné odposlechy jejich mobilních telefonů. Toto podezření nebylo nikdy potvrzeno."
+    },
+    {
+      "afera": "Aféra Přibyl [ zdroj? ]",
+      "akteri": "Pavel Přibyl a Stanislav Gross",
+      "rok": "2004",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Aféra Kořistka",
+      "akteri": "Stanislav Večerka a Marek Dalík",
+      "rok": "2004",
+      "strany": "ODS",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Kupování hlasu Kořistky pro hlasování o důvěře vládě."
+    },
+    {
+      "afera": "Kauza katarského prince",
+      "akteri": "Hámid bin Abdal Sání a Pavel Němec",
+      "rok": "2005",
+      "strany": "US-DEU",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Nelegitimní vydání prince obviněného mj. za pohlavní zneužívání do Kataru."
+    },
+    {
+      "afera": "Aféra Krejčíř",
+      "akteri": "Radovan Krejčíř a Policie ČR",
+      "rok": "2005",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Radovanu Krejčířovi se v roce 2005 i přes přítomnost několika policistů podařilo během domovní prohlídky uprchnout z jeho černošické vily. Tato aféra vedla k rezignaci tehdejšího policejního prezidenta Jiřího Koláře."
+    },
+    {
+      "afera": "Grossův byt",
+      "akteri": "Stanislav Gross, Šárka Grossová a Libuše Barková",
+      "rok": "2005",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Nejasnosti kolem financování nákupu nemovitostí Grossovými."
+    },
+    {
+      "afera": "CzechTek 2005",
+      "akteri": "Vladislav Husák, František Bublan, Jiří Paroubek",
+      "rok": "2005",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Kontroverzní policejní zásah na technopárty u Mlýnce na Tachovsku."
+    },
+    {
+      "afera": "Prodej akcií VNG [ zdroj? ]",
+      "akteri": "Alexandr Novák",
+      "rok": "2005",
+      "strany": "ODS",
+      "obdobi": "2000–2009",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Kauza „pět na stole v českých“",
+      "akteri": "Zdeněk Doležel",
+      "rok": "2005–2011",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Bývalý tajemník premiérů Grosse a Paroubka požadoval po polském lobbistovi Jacku Spyrovi pět milionů korun za to, že v privatizaci společnosti Unipetrol zlepší postavení firmy Seta investments."
+    },
+    {
+      "afera": "Pozemkový fond",
+      "akteri": "Petr Zgarba",
+      "rok": "2005",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Spekulace s lukrativními pozemky v okolí Prahy. V důsledku této aféry rezignoval tehdejší ministr zemědělství a zároveň předseda Pozemkového fondu ČR Petr Zgarba."
+    },
+    {
+      "afera": "Aféra Biolíh",
+      "akteri": "František Vybíral, Miloš Červenka a další",
+      "rok": "2006–​???",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Stěžejní část tzv. Kubiceho zprávy. Podezření z korupce ve státní správě v souvislosti s biopalivy, týkající se zejm. ČSSD. Kauza měla souviset i s vraždou Františka Mrázka. Kauza byla několikrát uzavřena a znovuotevřena."
+    },
+    {
+      "afera": "Aféra Bursíkův dům",
+      "akteri": "Martin Bursík a Pavel Bém",
+      "rok": "2006",
+      "strany": "SZ",
+      "obdobi": "2000–2009",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Karlovarská losovačka",
+      "akteri": "Syner",
+      "rok": "2006",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Netransparentní losování firem na stavbu karlovarské multifunkční haly v hodnotě přes miliardu korun."
+    },
+    {
+      "afera": "Kauza Harrachov",
+      "akteri": "Michal Kraus a Miloslav Vlček",
+      "rok": "2006",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Financování stavby luxusního hotelu."
+    },
+    {
+      "afera": "Kauza Jacques",
+      "akteri": "Kateřina Jacques, Tomáš Čermák",
+      "rok": "2006",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Zásah policisty Tomáše Čermáka proti tehdejší člence Strany zelených a ředitelce sekce lidských práv na Úřadu vlády ČR při neohlášené demonstraci proti průvodu neonacistické organizace Národní odpor."
+    },
+    {
+      "afera": "Kubiceho zpráva",
+      "akteri": "Jan Kubice, Policejní prezidium, Ministerstvo vnitra, Pavel Přibyl, ÚOOZ",
+      "rok": "2006",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Zpráva o prorůstání organizovaného zločinu do státní správy zveřejněná v předvečer voleb do poslanecké sněmovny v roce 2006."
+    },
+    {
+      "afera": "Opencard",
+      "akteri": "Pavel Bém a Roman Janoušek",
+      "rok": "2006",
+      "strany": "ODS",
+      "obdobi": "2000–2009",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Kauza Budišov",
+      "akteri": "Zdeněk Doležel, Ladislav Péťa, Miloslav Řehulka, Marek Řičář, Věra Jourová",
+      "rok": "2006",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Též známá pod názvy „kauza Doležel“ nebo „kauza Péťa“ („Péťův“ gang). Údajná korupce při rozdělování dotací na opravu zámku v Budišově, která však nakonec potvrzena nebyla a všichni aktéři kauzy byli osvobozeni. Věře Jourové bylo přiznáno odškodnění za nezákonnou vazbu."
+    },
+    {
+      "afera": "Radar v Brdech",
+      "akteri": "",
+      "rok": "2006–2009",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Spor o výstavbu amerického radaru v Brdech, který rozdělil českou veřejnost. Radar měl být součástí evropského protiraketového deštníku. V roce 2009 americká vláda od záměru jeho stavby definitivně ustoupila."
+    },
+    {
+      "afera": "Kauza Čunek",
+      "akteri": "Jiří Čunek, Petr Hurta",
+      "rok": "2007",
+      "strany": "KDU-ČSL",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Obvinění Jiřího Čunka z přijetí půlmilionového úplatku, jehož byl nakonec zproštěn. Čunka se týkaly i další kauzy, ve kterých však bylo vždy rozhodnuto v Čunkův prospěch."
+    },
+    {
+      "afera": "Kauza Ploc",
+      "akteri": "Pavel Ploc, Pavel Šrytr, Jaroslav Tvrdík",
+      "rok": "2007",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Řidič a bodyguard Tomáše Pitra Pavel Šrytr se pokusil uplatit sociálnědemokratického poslance Pavla Ploce pěti miliony korun, aby přestoupil do Strany zelených. Jako svědek v této kauze vystupoval tehdejší poradce Jiřího Paroubka Jaroslav Tvrdík."
+    },
+    {
+      "afera": "Kauza Key Investments",
+      "akteri": "",
+      "rok": "2007–",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Kauza podvodné investiční společnosti, jíž svěřily své peníze mj. radnice Prahy 6 a Prahy 10 a která též pomohla zbohatnout Stanislavu Grossovi. Rozsudek vynesen v roce 2016, v roce 2017 se aktéři odvolali, v roce 2018 byly jejich tresty zrušeny a kauza se vrátila na začátek."
+    },
+    {
+      "afera": "Kauza bytů OKD",
+      "akteri": "Zdeněk Bakala, Bohuslav Sobotka a další",
+      "rok": "2008–",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Kauza Savoy",
+      "akteri": "Miroslav Šlouf, Jiří Weigl, Karel Randák, Sabina Slonková",
+      "rok": "2008",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Lednová schůzka kancléře prezidenta Klause Jiřího Weigla s lobbistou Miroslavem Šloufem v pražském hotelu Savoy, která se stala jedním z důvodů, kvůli kterým se v únorové volbě prezidenta přešlo od tajného hlasování k veřejnému."
+    },
+    {
+      "afera": "Kauza Justiční mafie",
+      "akteri": "Renata Vesecká, Pavel Němec, Pavel Kučera",
+      "rok": "2008",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Spor na ochranu osobnosti o označení některých soudců a státních zástupců jako justiční mafie."
+    },
+    {
+      "afera": "Národní knihovna na Letné",
+      "akteri": "Jan Kaplický, Česká komora architektů, Pavel Bém, Václav Jehlička, Václav Klaus a Radek Martíšek",
+      "rok": "2008",
+      "strany": "",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Spor o regulérnost soutěže."
+    },
+    {
+      "afera": "Kauza Morava",
+      "akteri": "Jan Morava, Vlastimil Tlustý",
+      "rok": "2008",
+      "strany": "ODS",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Aféra s kompromitujícími materiály."
+    },
+    {
+      "afera": "Kauza Dryml",
+      "akteri": "Vladimír Dryml, Hana Orgoníková",
+      "rok": "2008–2009",
+      "strany": "ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Spor Vladimíra Drymla s Hanou Orgoníkovou a jeho shánění kompromitujících informací na ni."
+    },
+    {
+      "afera": "Toskánská aféra",
+      "akteri": "Marek Dalík, Mirek Topolánek, Martin Roman, Aleš Řebíček, Jiří Hodač (1965), Martin Procházka (1968) a Milan Urban",
+      "rok": "2009",
+      "strany": "ODS, ČSSD",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Setkání politiků a podnikatelů v Monte Argentario."
+    },
+    {
+      "afera": "Úplatkářská kauza \"milion za zákon\"",
+      "akteri": "Jiří Dolejš a Čeněk Milota",
+      "rok": "2009",
+      "strany": "KSČM",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "Místopředsedové KSČM Dolejš a Milota tajně nahráni provokatérem deníku MF DNES, který se vydával za majitele sítě heren Jackpot, kdy byl Dolejš podle interpretace MF DNES ochoten prosazovat změnu zákona o loteriích za úplatek ve výši jednoho milionu korun. Dolejš 29. září rezignoval na funkci místopředsedy KSČM, ale odmítl rezignaci na poslaneckou funkci, kterou měl podle ústředního výkonného výboru strany zvážit."
+    },
+    {
+      "afera": "Kauza plzeňských práv",
+      "akteri": "Milan Kindl, Ivan Tomažič, Marek Benda, Ivana Řápková a další",
+      "rok": "2009–",
+      "strany": "ODS",
+      "obdobi": "2000–2009",
+      "dalsi_informace": "V r. 2009 se objevila řada nesrovnalostí na Fakultě právnické ZČU. Byla odhalena řada plagiátorství závěrečných prací včetně práce bývalého proděkana Ivana Tomažiče a případy desítek studentů, kteří školu „vystudovali“ za podezřele krátkou dobu – mezi nimi i přední členové policie či politici Marek Benda, Milan Chovanec nebo Ivana Řápková."
+    },
+    {
+      "afera": "Kauza Vlček",
+      "akteri": "Miloslav Vlček",
+      "rok": "2010",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Aféra s dotacemi a půjčkami, kvůli níž se Vlček mj. vzdal poslaneckého mandátu."
+    },
+    {
+      "afera": "Martin Barták a předražené armádní zakázky",
+      "akteri": "Ministerstvo obrany, Martin Barták",
+      "rok": "2010–2011",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Kauza ROP Jihozápad",
+      "akteri": "Jiří Trnka (právník), Martin Půlpytel, Petr Podhola a Jiří Zimola",
+      "rok": "2010–2011",
+      "strany": "ODS, ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Údajné machinace při rozdělování evropských dotací."
+    },
+    {
+      "afera": "Nákup obrněných transportérů Pandur",
+      "akteri": "Ministerstvo obrany, Steyer, Jan Vlček, Marek Dalík",
+      "rok": "2010–2016",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Úplatky za schválení nákupu."
+    },
+    {
+      "afera": "Kauza Drobil",
+      "akteri": "Pavel Drobil, Dušan Fibingr, Martin Knetig a Libor Michálek",
+      "rok": "2010",
+      "strany": "ODS",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Machinace s veřejnými zakázkami na SFŽP."
+    },
+    {
+      "afera": "Kauza ABL",
+      "akteri": "Vít Bárta",
+      "rok": "2011",
+      "strany": "Věci veřejné",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Politická strana jako podnikatelský záměr."
+    },
+    {
+      "afera": "Kauza ProMoPro",
+      "akteri": "Alexandr Vondra",
+      "rok": "2011",
+      "strany": "ODS",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Nevýhodné zakázky při přípravě předsednictví EU."
+    },
+    {
+      "afera": "Kauza financování poslanců VV",
+      "akteri": "Vít Bárta, Kristýna Kočí, Jaroslav Škárka",
+      "rok": "2011",
+      "strany": "Věci veřejné",
+      "obdobi": "2010–2019",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Kauza Bátora",
+      "akteri": "Josef Dobeš, Ladislav Bátora, Miroslav Kalousek",
+      "rok": "2011",
+      "strany": "Věci veřejné, TOP 09",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Zaměstnání kontroverzního Ladislava Bátory na ministerstvu školství tehdejším ministrem Dobešem. Proti tomuto kroku protestovali zejm. členové TOP 09."
+    },
+    {
+      "afera": "Obchod s dluhopisy ministra Kocourka",
+      "akteri": "Martin Kocourek",
+      "rok": "2011",
+      "strany": "ODS",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Nejasný obchod s dluhopisy matky Martina Kocourka."
+    },
+    {
+      "afera": "Besserův dům na Floridě [ zdroj? ]",
+      "akteri": "Jiří Besser",
+      "rok": "2011",
+      "strany": "TOP 09",
+      "obdobi": "2010–2019",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Chilský incident Václava Klause",
+      "akteri": "Václav Klaus",
+      "rok": "2011",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Kauza ROP Severozápad",
+      "akteri": "Petr Kušnierz, Pavel Kouda",
+      "rok": "2011–2012",
+      "strany": "ODS, ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Machinace s evropskými dotacemi."
+    },
+    {
+      "afera": "Kauza odposlechů Béma s Janouškem",
+      "akteri": "Pavel Bém, Roman Janoušek",
+      "rok": "2012",
+      "strany": "ODS",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Zveřejnění odposlechů bývalého pražského primátora a pražského kmotra."
+    },
+    {
+      "afera": "Zadržení a obvinění Davida Ratha",
+      "akteri": "David Rath",
+      "rok": "2012",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Zadržení hejtmana a poslance Davida Ratha pro podezření z přijetí úplatku."
+    },
+    {
+      "afera": "Nákup armádních letounů CASA",
+      "akteri": "Vlasta Parkanová, Miroslav Kalousek",
+      "rok": "2012",
+      "strany": "TOP 09",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Podezření z nezákonného jednání v souvislosti s nákupem armádních letounů CASA. Spor o vydání Vlasty Parkanové k trestnímu stíhání."
+    },
+    {
+      "afera": "Kauza Lessy",
+      "akteri": "Petr Lessy, Jan Kubice",
+      "rok": "2012–2014",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "29. srpna 2012 byl Petr Lessy pro údajné zneužití pravomoci úřední osoby a pomluvu zbaven funkce prezidenta Policie ČR. Ještě téhož dne byl ve funkci nahrazen Martinem Červíčkem. 16. května 2013 byl Lessy obžaloby zproštěn."
+    },
+    {
+      "afera": "Kauza OKSystem",
+      "akteri": "Jaromír Drábek, Vladimír Šiška, Milan Hojer",
+      "rok": "2012",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Korupční aféra na ministerstvu práce a sociálních věcí. V reakci na tuto aféru rezignoval tehdejší ministr Jaromír Drábek."
+    },
+    {
+      "afera": "Amnestie Václava Klause",
+      "akteri": "Václav Klaus, Petr Nečas, Zdeněk Koudelka, Pavel Blažek",
+      "rok": "2013",
+      "strany": "ODS, ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Ukončení řady kauz závažné hospodářské kriminality a korupce."
+    },
+    {
+      "afera": "Kauza Nagyová",
+      "akteri": "Jana Nagyová, Ivan Fuksa, Petr Tluchoř, Marek Šnajdr, Ondrej Páleník, Roman Boček, Milan Kovanda, Lubomír Poul aj., Radim Fiala, Ivo Rittig, Roman Janoušek",
+      "rok": "2013",
+      "strany": "ODS",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Kauza způsobila pád české vlády a rezignaci premiéra Nečase na předsednictví v ODS."
+    },
+    {
+      "afera": "Lánský puč",
+      "akteri": "Miloš Zeman, Michal Hašek, Jiří Zimola, Milan Chovanec, Zdeněk Škromach, Jeroným Tejc",
+      "rok": "2013",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Také známá jako Lánský puč; snaha skupiny politiků ČSSD okolo Michala Haška po tajné schůzce s prezidentem Zemanem v Lánech odstranit po volbách předsedu ČSSD Bohuslava Sobotku z vedení strany. Po odhalení plánu lež Michala Haška v přímém přenosu o konání schůzky, rezignace M. Haška, Z. Škromacha, J. Zimoly a J. Tejce na stranické funkce."
+    },
+    {
+      "afera": "Kauza Hovory z Lán",
+      "akteri": "Miloš Zeman, Jan Pokorný",
+      "rok": "2014",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Vulgární vystoupení prezidenta republiky ve stejnojmenném pořadu Radiožurnálu, demonstrace za zlepšení politické kultury, zrušení pořadu Českým rozhlasem."
+    },
+    {
+      "afera": "Kauza propuštění Nováka",
+      "akteri": "Alexandr Novák",
+      "rok": "2015",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Státní zástupce Kosán předčasným propuštěním zaviněně porušil povinnosti státního zástupce a ohrozil tím důvěru v činnosti státního zastupitelství a odbornosti jeho postupu. Za Alexandra Nováka se zaručilo sdružení motorkářů Gryphons."
+    },
+    {
+      "afera": "Kauza Vidkun",
+      "akteri": "Karel Kadlec, Radek Petrůj, Ivan Kyselý, Jiří Rozbořil",
+      "rok": "2015",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Kauza ovlivňování trestních kauz a úniků informací z trestních spisů."
+    },
+    {
+      "afera": "Kauza Hitler je gentleman",
+      "akteri": "Miloš Zeman",
+      "rok": "2015–",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Nepodložené tvrzení prezidenta Miloše Zemana o tom, že Ferdinand Peroutka napsal článek s názvem „Hitler je gentleman“."
+    },
+    {
+      "afera": "Kauza Brady",
+      "akteri": "Miloš Zeman, Jindřich Forejt, Vratislav Mynář, Daniel Herman",
+      "rok": "2016",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Neudělení státního vyznamenání Jiřímu Bradymu, který byl vězněn nacisty."
+    },
+    {
+      "afera": "Kauza Čapí hnízdo",
+      "akteri": "Andrej Babiš",
+      "rok": "2016–",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Podezření na účelové čerpání dotací."
+    },
+    {
+      "afera": "Fiktivní tisková mluvčí",
+      "akteri": "Michal Hašek",
+      "rok": "2016",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Smyšlená identita tiskové mluvčí Krajského úřadu JMK a hejtmana Michala Haška."
+    },
+    {
+      "afera": "Prohlášení čtyř",
+      "akteri": "Miloš Zeman, Bohuslav Sobotka, Milan Štěch, Jan Hamáček",
+      "rok": "2016",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Společné prohlášení nejvyšších ústavních činitelů ČR, kterým se veřejně distancovali od setkání ministra kultury Daniela Hermana s tibetským dalajlamou a deklarovali, že ČR uznává celistvost Číny. Prohlášení bylo kritizováno řadou politiků, politických komentátorů a zástupců vysokých škol."
+    },
+    {
+      "afera": "Kauza korunových dluhopisů",
+      "akteri": "Andrej Babiš",
+      "rok": "2017",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Podezření Andreje Babiše z krácení daní skrze nákup korunových dluhopisů. Odvolání Babiše z pozice ministra financí v Sobotkově vládě."
+    },
+    {
+      "afera": "Kauza Lipno",
+      "akteri": "Jiří Zimola",
+      "rok": "2017–2018",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Podezření jihočeského hejtmana Jiřího Zimoly z porušení zákona o střetu zájmů, kdy si nechal stavět rekreační domy v Lipně nad Vltavou od svého podřízeného a známého Martina Bláhy, kterému zároveň schvaloval mnohamilionové odměny. Zimola kvůli tomu na funkci hejtmana rezignoval. Vzhledem k tomu, že se jednalo o podezeření ze spáchání přestupku, došlo po uplynutí jednoho roku k jeho promlčení."
+    },
+    {
+      "afera": "Kauza sportovních dotací",
+      "akteri": "Miroslav Pelta, Simona Kratochvílová, Miroslav Jansta, Karel Březina, Soňa Fáberová a další",
+      "rok": "2017",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Též označována jako „kauza Pelta“. V důsledku této aféry podala ministryně školství Kateřina Valachová demisi. Jejím nástupcem se stal Stanislav Štech."
+    },
+    {
+      "afera": "Milost pro Jiřího Kajínka",
+      "akteri": "Jiří Kajínek, Miloš Zeman",
+      "rok": "2017",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Prezident omilostnil známého dvojnásobného nájemného vraha a recidivistu v rozporu se svými předchozími prohlášeními a podmínkami pro milost."
+    },
+    {
+      "afera": "Ovlivňování médií a úniky z vyšetřovacích spisů",
+      "akteri": "Andrej Babiš, Marek Přibil",
+      "rok": "2017",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Únik tajných nahrávek rozhovorů Andreje Babiše s novinářem Markem Přibilem. Únik ze stále živého vyšetřovacího spisu ke kauze Bereta."
+    },
+    {
+      "afera": "Nehoda policejního vozu BMW",
+      "akteri": "Vladimír Kruliš, Leoš Tržil, Policie ČR",
+      "rok": "2017",
+      "strany": "",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Při údajné předváděcí jízdě došlo k vážné nehodě zapůjčeného policejního vozu BMW i8, ve kterém seděl mj. protokolář prezidenta Zemana Vladimír Kruliš. Nehodu vyšetřovala GIBS."
+    },
+    {
+      "afera": "Kauza zajišťovacích příkazů",
+      "akteri": "Andrej Babiš, Alena Schillerová, Martin Janeček",
+      "rok": "2017–",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Podezření na zneužití zajišťovacích příkazů Finanční správy k likvidaci firem."
+    },
+    {
+      "afera": "Kauza Kyrgyzstán",
+      "akteri": "Miloš Zeman, Vratislav Mynář",
+      "rok": "2017",
+      "strany": "SPO",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Lobbing prezidentské kanceláře v Kyrgyzstánu pro firmu Liglass Trading, která, ač nemá v daném oboru zkušenosti, nakonec vyhrála miliardovou zakázku."
+    },
+    {
+      "afera": "Kauza lithium",
+      "akteri": "",
+      "rok": "2017",
+      "strany": "ČSSD, ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Ve volebním týdnu propuklý spor vládních stran o právo na těžbu lithia u Cínovce."
+    },
+    {
+      "afera": "Kauza pracovní tábory",
+      "akteri": "Tomio Okamura, Miloslav Rozner",
+      "rok": "2018",
+      "strany": "SPD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Politické výroky o koncentračním táboře v Letech u Písku. Rozner označil tábor v Letech za \"neexistující pseudokoncentrák\"."
+    },
+    {
+      "afera": "Kauza Ondráček",
+      "akteri": "Zdeněk Ondráček, Andrej Babiš",
+      "rok": "2018",
+      "strany": "KSČM",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Komunista Zdeněk Ondráček se stal předsedou výborem pro kontrolu GIBS. Po jeho zvolení vznikly demonstrace a po nich odstoupil."
+    },
+    {
+      "afera": "Kauza Lány",
+      "akteri": "Vratislav Mynář, Miloš Balák",
+      "rok": "2018–",
+      "strany": "SPO",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Kauza zakázek Lesní správy Lány."
+    },
+    {
+      "afera": "Kauza CzechTourism",
+      "akteri": "Klára Dostálová, Aleš Pangrác",
+      "rok": "2018–",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Vynakládání rozpočtových prostředků CzechTourismu ve prospěch vyvolených osob zprostředkovaně, mimo standardní úřední postup."
+    },
+    {
+      "afera": "Kauza Babišova syna",
+      "akteri": "Andrej Babiš mladší, Andrej Babiš, Dita Protopopová, Petr Protopopov",
+      "rok": "2018",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Součást kauzy Čapí hnízdo."
+    },
+    {
+      "afera": "Kupčení s brněnskými byty",
+      "akteri": "Pavel Blažek, Robert Kerndl, Otakar Bradáč",
+      "rok": "2018",
+      "strany": "ODS",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Ministr spravedlnosti Pavel Blažek je prověřován policisty z NCOZ v souvislosti s korupcí a kupčením s brněnským městským majetkem. Dle výpovědi spolupracujícího obviněného Pavla Hubálka byli hlavou kauzy Pavel Blažek, Robert Kerndl a Otakar Bradáč. Blažek přitom prosazuje změny ve vedení vrchního státního zastupitelství, které kauzu dozoruje. Na jaře 2023 poslal ministr spravedlnosti Blažek státním zástupcům celkem čtyři žádosti o informace týkající se vyšetřované kauzy, čímž se vměšuje do vyšetřování, jehož je sám předmětem."
+    },
+    {
+      "afera": "Střet zájmů Andreje Babiše",
+      "akteri": "Andrej Babiš",
+      "rok": "2018",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Čerpání evropských dotací firmou Agrofert"
+    },
+    {
+      "afera": "Střet zájmů Miroslava Tomana",
+      "akteri": "Miroslav Toman",
+      "rok": "2018",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Firma Tomanova otce čerpala evropské dotace"
+    },
+    {
+      "afera": "Střet zájmů Radka Vondráčka [ zdroj? ]",
+      "akteri": "Radek Vondráček",
+      "rok": "2019",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": ""
+    },
+    {
+      "afera": "Teroristický útok na vlak",
+      "akteri": "",
+      "rok": "2017 – 2019",
+      "strany": "SPD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Muž sympatizující s SPD chtěl podnítit nenávist vůči muslimským uprchlíkům, a pokácel proto v roce 2017 ve Středočeském kraji stromy na železniční koleje. V roce 2019 byl pravomocně odsouzen na 4 roky do vězení."
+    },
+    {
+      "afera": "Kauza ovlivňování justice",
+      "akteri": "Miloš Zeman, Vratislav Mynář",
+      "rok": "2019–",
+      "strany": "SPO",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Podezření na ovlivňování soudců ze strany Hradu."
+    },
+    {
+      "afera": "Kauza Stoka",
+      "akteri": "Jiří Švachula, Jiří Faltýnek a další",
+      "rok": "2019–",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Rozsáhlá korupční kauza ovlivňování veřejných zakázek v Brně a okolí. Nejasná role rodiny Faltýnků. Reorganizace brněnské buňky ANO 2011."
+    },
+    {
+      "afera": "Kauza Faltýnek",
+      "akteri": "Jaroslav Faltýnek",
+      "rok": "2019–",
+      "strany": "ANO 2011",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Údajné ovlivňování mýtného tendru ve prospěch firmy Kapsch, má vyplývat ze ztraceného deníčku, údajně patřícího Faltýnkovi."
+    },
+    {
+      "afera": "Kauza nemocničních zakázek",
+      "akteri": "Daniel Hodek, Tomáš Horáček, Andrea Vrbovská",
+      "rok": "2019",
+      "strany": "ČSSD",
+      "obdobi": "2010–2019",
+      "dalsi_informace": "Kauza zmanipulovaných zdravotnických zakázek v nemocnicích Na Bulovce a Na Františku."
+    },
+    {
+      "afera": "Prodej městských akcií",
+      "akteri": "Alexander Novak",
+      "rok": "2020",
+      "strany": "ODS",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Gangster Alexandr Novák vzal úplatek za prodej městských akcií, za ktery byl usvedcen a odsouzen."
+    },
+    {
+      "afera": "E-shop na dálniční známky",
+      "akteri": "Vladimír Kremlík",
+      "rok": "2020",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Předražená zakázka za 401 milionů byla zadána bez otevřené soutěže. Systém měl navíc umožnit tajné sledování a evidenci aut a jejich posádek."
+    },
+    {
+      "afera": "Kauza Bečva",
+      "akteri": "Richard Brabec, Erik Geuss, Česká inspekce životního prostředí, Policie ČR, DEZA, Tesla Rožnov",
+      "rok": "2020",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Podstatou politického přesahu kauzy úniků toxických látek do Bečvy ze září 2020 jsou nepodložená tvrzení ministra životního prostředí a bývalého ředitele společnosti Lovochemie, patřící pod holdingovou společnost Agrofert vlastněnou Andrejem Babišem, Richarda Brabce. Ten krátce po události tvrdil, že vyšetřování příčin havárie bude otázkou hodin. Zároveň kategoricky odmítal, že by za havárií měla stát firma DEZA z holdingu Agrofert. Zároveň se nechal později slyšet, že pravděpodobným zdrojem úniku látek je bývalý areál firmy Tesla Rožnov. V průběhu vyšetřování se ale ukázalo, že ve stejnou dobu nastala ve firmě DEZA havárie v důsledku selhání pracovníka firmy, což se firma snažila utajit. Ministrovy výroky, stejně jako průtahy během vyšetřování a kritizovaný postup ČIŽP vzbuzují nedůvěru některých místních obyvatel, rybářů i odborníků k nezávislosti vyšetřování."
+    },
+    {
+      "afera": "Schůzka v restauraci Rio během nouzového stavu",
+      "akteri": "Roman Prymula, Jaroslav Faltýnek, Raimund Špunda, Jiří Havrlant",
+      "rok": "2020",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Porušení vlastních protipandemických opatření ministrem zdravotnictví Romanem Prymulou na schůzce s Jaroslavem Faltýnkem a spol. v restauraci Rio, jež přitom měla být během nouzového stavu zavřená; konec R. Prymuly ve vládě."
+    },
+    {
+      "afera": "Kauza Vrbětice",
+      "akteri": "Česko,Rusko, Andrej Babiš, Jan Hamáček, Jakub Kulhánek, Miloš Zeman a další",
+      "rok": "2021–",
+      "strany": "ANO 2011, ČSSD",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Rozsáhlý mezinárodní skandál, propuklý mezi ČR a Ruskem 17. dubna 2021 po prohlášení českého premiéra Andreje Babiše a ministra vnitra Jana Hamáčka, že za vražednými výbuchy dvou muničních skladů ve Vrběticích (2014) stáli ruští agenti Anatolij Čepiga a Alexandr Miškin (agenti GRU). Diplomatické vztahy mezi ČR a Ruskem klesly na bod mrazu, došlo k vzájemnému vyhoštění diplomatů. Rusko zařadilo ČR na seznam nepřátelských zemí."
+    },
+    {
+      "afera": "Kauza Sputnik V",
+      "akteri": "Jan Hamáček, Andrej Danko",
+      "rok": "2021–",
+      "strany": "ČSSD",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Podezření, že Jan Hamáček chtěl letět do Moskvy se slovenským politikem Andrejem Dankem a „vyměnit“ Vrbětickou kauzu za ruskou vakcínu Sputnik V a summit prezidentů Bidena a Putina v Praze."
+    },
+    {
+      "afera": "Kauza Feri",
+      "akteri": "Dominik Feri",
+      "rok": "2021–",
+      "strany": "TOP 09",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Obvinění mladého politika a influencera Dominika Feriho řadou žen ze sexuálního násilí, znásilnění a nevhodného chování k ženám obecně; odchod Feriho z politiky."
+    },
+    {
+      "afera": "Pandora Papers",
+      "akteri": "Andrej Babiš",
+      "rok": "2021",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Informace, že si Andrej Babiš pořídil přes skořápkové firmy luxusní sídlo ve Francii; sám tyto praktiky přitom kritizoval."
+    },
+    {
+      "afera": "Kauza Michalik",
+      "akteri": "Věslav Michalik",
+      "rok": "2021",
+      "strany": "STAN",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Kandidát na post ministra průmyslu a obchodu ve Fialově vládě nedokázal vysvětlit nejasnosti okolo svého podnikání a sponzorských darů pro STAN. Nakonec se rozhodl o funkci neucházet a STAN vrátilo všechny dary od právnických osob."
+    },
+    {
+      "afera": "Kauza skartace zprávy BIS",
+      "akteri": "Miloš Zeman, Vratislav Mynář a další",
+      "rok": "2022",
+      "strany": "",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Manipulace a skartace zprávy BIS o útoku ve Vrběticích."
+    },
+    {
+      "afera": "Kauza Farský",
+      "akteri": "Jan Farský",
+      "rok": "2022",
+      "strany": "STAN",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Poslanec plánoval v průběhu svého mandátu na 8 měsíců vycestovat na studijní pobyt do USA. Po kritice složil poslanecký mandát a na jeho místo nastoupila jako náhradnice Jarmila Levko."
+    },
+    {
+      "afera": "Kauza Polčák",
+      "akteri": "Stanislav Polčák",
+      "rok": "2022",
+      "strany": "STAN",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Polčák požadoval téměř 8 milionů ze státem uznaného odškodného pro obce zasažené útokem ve Vrběticích jako provizi za právní pomoc z jeho strany. Po tvrdé kritice veřejnosti i napříč politickým spektrem se náhrad vzdal a rezignoval na stranické funkce."
+    },
+    {
+      "afera": "Milost pro Miloše Baláka",
+      "akteri": "Miloš Zeman",
+      "rok": "2022",
+      "strany": "",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Prezident Zeman udělil milost řediteli Lesní správy Lány. Kvůli osobní známosti omilostněného s prezidentem, odůvodnění, rychlosti udělení milosti po pravomocném rozsudku, nezvyklému řízení o milosti či nevyhovění omilostněného podmínkám stanovených prezidentem byla milost považována za kontroverzní a společnost ji odmítla. Nesouhlas s milostí vedl k rekordní nespokojenosti s výkonem mandátu prezidenta i k oživení veřejné i odborné diskuse o pravomoci prezidenta udělovat milosti."
+    },
+    {
+      "afera": "Kauza Dozimetr (kauza Hlubuček)",
+      "akteri": "Petr Hlubuček, Michal Redl",
+      "rok": "2022",
+      "strany": "STAN",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Náměstek pražského primátora a člen předsednictva STAN Petr Hlubuček byl spolu s dvanácti dalšími osobami obviněn z trestného činu přijetí úplatku a z účasti na organizované zločinecké skupině. S Redlem se léta z různých důvodů stýkali Stanislav Polčák a ministr školství Petr Gazdík – ten po tomto zjištění podal demisi. Předseda hnutí STAN Vít Rakušan svolal mimořádný sjezd po faktickém rozpadu předsednictva (rezignace po kauzách a úmrtí Věslava Michalika)."
+    },
+    {
+      "afera": "Kauza ovlivňování dopravních zakázek v Olomouckém kraji (Kauza Autostráda)",
+      "akteri": "Robert Knobloch, Michal Zácha",
+      "rok": "2023",
+      "strany": "ODS",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "V roce 2023 byli detektivy z Národní centrály proti organizovanému zločinu obviněni v kauze ovlivnění dopravních zakázek na Olomoucku. Robert Knobloch (ODS) měl být jednou z hlav zločinecké skupiny, kterou s ním vedl další člen ODS Michal Zácha. Podle tajně pořízených nahrávek spolu nyní už bývalý náměstek hejtmana Olomouckého kraje Zácha a lobbista Robert Knobloch řešili nejen ovlivňování dopravních zakázek, ale třeba i výběr nového ředitele krajské správy silnic, milionové půjčky nebo předávání peněz. Knoblochovi členové skupiny přezdívali „Česnek“ (podle německého slova Knoblauch). Úplatky šly například zástupci stavební firmy PORR. Knobloch i Zácha v reakci na obvinění vystoupili z ODS. Zácha měl být Knoblochovi zavázán také bezúroční půjčkou ve výši dvou milionů korun. Podle vyšetřování detektivů měl Knobloch vytvořenou síť kontaktů, která vedla i k členům vlády Petra Fialy. Vedení ODS na konci roku 2023 kvůli kauze rozpustilo svou přerovskou buňku, která byla znovu složena v březnu 2024."
+    },
+    {
+      "afera": "Kauza ovlivňování veřejných zakázek v Pardubickém kraji",
+      "akteri": "Martin Charvát, Michal Drenko, Helena Dvořáčková, Jozef Koprivňanský a další",
+      "rok": "2023",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Policie obvinila Charváta a Dvořáčkovu z ovlivňování veřejné zakázky na výstavbu parkovacího domu. Po razii na Pardubickém magistrátu byli obvinění další lidé v souvislosti s jinými veřejnými zakázkami. V reakci Pardubice odvolaly z funkcí Drenka, Kopeckého a Nevečeřala. Charvát a Drenko byly také v reakci vyloučeni z hnutí ANO 2011. K červenci 2024 bylo NCOZ celkem obviněno 19 lidí a 8 firem."
+    },
+    {
+      "afera": "Kampelička",
+      "akteri": "Petr Fiala",
+      "rok": "2024",
+      "strany": "ODS",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Premiér Petr Fiala ve svém majetkovém přiznání, které ze zákona má být kompletní, nepřiznal podíl v Podnikatelské družstevní záložně (PDZ) ve výši jednoho milionu korun. Později se začalo rozkrývat, kdo další je členem tohoto jakéhosi „elitního“ klubu, z čehož vzešla pochybná historie i transakce."
+    },
+    {
+      "afera": "Kompro na ministra zahraničí Jana Lipavského",
+      "akteri": "Andrej Babiš, Jan Lipavský",
+      "rok": "2024",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Podle vyjádření serveru Novinky.cz Andrej Babiš poptával po svých spolupracovnících citlivé informace o ministru zahraničí Janu Lipavském, včetně informací o jeho dětech."
+    },
+    {
+      "afera": "Kauza Krkoška",
+      "akteri": "Jan Krkoška",
+      "rok": "2024",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Odsouzení hejtmana Moravskoslezského kraje za uplácení lékařů, rezignace na post hejtmana a politické i stranické funkce."
+    },
+    {
+      "afera": "Kauza ovlivňování veřejných zakázek ve prospěch firmy Syner",
+      "akteri": "Petr Židek",
+      "rok": "2024",
+      "strany": "ODS",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "V dubnu 2024 byl náměstek libereckého primátora, městský a krajský zastupitel Petr Židek (ODS) mezi několika zadrženými při policejní razii v budovách magistrátu Liberce. Zásah se týkal mimo jiné veřejných zakázek, které získala stavební společnost Syner. Mezi podezřelými byl vedle Židka také vedoucí oddělení majetku Lukáš Hýbner. Podle spisu policie dostal Židek 1,7 milionu korun a byt a uplácet ho měl Petr Syrovátko, spolumajitel stavební společnosti Syner a libereckého hokeje. Židek měl na oplátku dlouhodobě (od roku 2018) hájit zájmy firmy při jejích developerských projektech a vynášet jí tajné informace, třeba o podmínkách soutěže na miliardovou opravu plaveckého bazénu. Na jaře roku 2020 údajně také Židek pomoci Syneru – jako první firmy vůbec – získal od města covidovou kompenzaci."
+    },
+    {
+      "afera": "Korupce, ovlivňování veřejných zakázek kolem",
+      "akteri": "Marek Hrabáč, Tomáš Douda, Ladislav Šmucr",
+      "rok": "2024",
+      "strany": "ANO 2011",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Chomutovský primátor Marek Hrabáč (ANO) byl spolu s dalšími 13 lidmi obviněn z několika trestných činů. Konkrétně ze zločinu přijetí úplatku, zjednání výhody při zadání veřejné zakázky a krácení daně a také pro přečin zneužití pravomoci úřední osoby. Obvinění podle náměstkyně státní zástupkyně vytvořili systém, v němž si vzájemně „poskytovali majetkové a jiné výhody“ a tím se systematicky dopouštěli korupčního jednání. Při rozhodování o veřejných zakázkách, které se týkaly především dopravních staveb, docházelo ke zvýhodňování konkrétních firem. Druhým významným členem skupiny měl být podnikatel a majitel několika společností Ladislav Šmucr z Jirkova. V kauze figurovaly nejméně dvě jeho firmy – Rocknet a Reo Group. Ty v posledních dvou letech získávaly zakázky nejen od města Chomutov, ale například i od chomutovského zooparku, Správy a údržby silnic Ústeckého i Karlovarského kraje nebo od karlovarského magistrátu."
+    },
+    {
+      "afera": "Dotazování se GIBS na \"živé kauzy\"",
+      "akteri": "Vít Rakušan, Radan Večerka, Jiří Jeníček",
+      "rok": "2024",
+      "strany": "STAN",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Radan Večerka nabídl pomoc podnikateli Jiřímu Jeníčkovi a předal telefonní číslo na ministra vnitra Víta Rakušana. Vít Rakušan se měl zajímat o práci GIBS v případu podnikatele. Po zveřejnění kauzy Večerka ukončil členství ve hnutí STAN a skončil i ve funkci náměstka ministra zemědělství."
+    },
+    {
+      "afera": "Bitcoinová kauza",
+      "akteri": "Pavel Blažek",
+      "rok": "2025",
+      "strany": "ODS",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Dar v hodnotě zhruba jedné miliardy korun v bitcoinech, který v březnu 2025 přijalo ministerstvo spravedlnosti pod vedením ministra Pavla Blažka (ODS) od odsouzeného překupníka drog Tomáše Jiřikovského"
+    },
+    {
+      "afera": "Kauza Filipa Turka",
+      "akteri": "Filip Turek",
+      "rok": "2025",
+      "strany": "Motoristé sobě",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "V říjnu 2025 informovala média o tom, že kandidát na ministra zahraničí Filip Turek publikoval v minulosti na sociálních sítích Facebook a Twitter řadu kontroverzních příspěvků. Tyto příspěvky již na sítích nejsou, ovšem existují jejich údajné screenshoty. Prezident Petr Pavel řekl, že pokud by byly Turkovy příspěvky autentické, pak by ho to diskvalifikovalo z jakékoli ministerské pozice."
+    },
+    {
+      "afera": "Vydírání prezidenta přes textové zprávy",
+      "akteri": "Petr Macinka, Petr Pavel, Petr Kolář",
+      "rok": "2026",
+      "strany": "Motoristé sobě",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "V lednu 2026 uvedl prezident Petr Pavel na mimořádné tiskové konferenci, že se jej ministr zahraničí a životního prostředí (a předseda AUTO) Petr Macinka pokusil v noci vydírat přes textové zprávy poslané jeho poradci Petru Koláři. Kancelář prezidenta republiky zprávy zveřejnila. Macinka ve zprávách hovořil o tom, že pokud nebude Filip Turek jmenován ministrem, „spálí mosty způsobem, který se zapíše do dějin politologie.“ Na tiskovou konferenci Petra Macinky téhož dne nebyli vpuštěni novináři Deníku N. Ministr zahraničí obhajoval své kroky jako běžné vyjednávání a uvedl, že v případě nejmenování navrhne generálnímu tajemníkovi NATO Ruttemu odvolání Petra Pavla z čela delegace na summit NATO."
+    },
+    {
+      "afera": "Kauza využívání obecního bytu",
+      "akteri": "Zuzana Mrázová",
+      "rok": "2026",
+      "strany": "ANO",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Politička využívá obecního bydlení v obci Bílina za 9000 Kč měsíčně. Tyto byty přitom byly určeny pro lidi v bytové nouzi."
+    },
+    {
+      "afera": "Dotační kauza poradkyně Semancové",
+      "akteri": "Aleš Juchelka",
+      "rok": "2026",
+      "strany": "ANO",
+      "obdobi": "2020–2029",
+      "dalsi_informace": "Poradkyně ministra Juchelky Alexandra Semancová vystupovala na ministerstvu práce ve dvojroli, kdy na jedné straně jako poradkyně ministra měla vliv na rozdělování miliard korun z evropských dotací, a zároveň vlastnila firmu, která pro žadatele tyto dotace za peníze zajišťovala. Český stát kvůli tomu přišel minimálně o 64 milionů korun na neuznaných dotacích."
+    }
+  ],
+  "meta": {
+    "title": "Politické aféry v Česku - Free Download",
+    "description": "Přehled politických afér a kauz v Česku od roku 1990 s aktéry, rokem, zapojenými stranami a stručným popisem. Contains 144 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Politické aféry v Česku | ListBase",
+    "seo_description": "Download Politické aféry v Česku — 144 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 144 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_politických_afér_v_Česku"
+    ]
+  }
+}

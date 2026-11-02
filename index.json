@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-02T02:34:07.347Z",
-  "total_datasets": 521,
-  "total_records": 417007,
+  "generated": "2026-11-02T02:34:15.355Z",
+  "total_datasets": 522,
+  "total_records": 417151,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -13595,6 +13595,33 @@
         "xlsx": {
           "name": "cs-policejni-stanice_CS.xlsx",
           "size": 30518
+        }
+      }
+    },
+    {
+      "id": "cs-politicke-afery",
+      "name": "Politické aféry v Česku",
+      "category": "society",
+      "record_count": 144,
+      "columns": [
+        "afera",
+        "akteri",
+        "rok",
+        "strany",
+        "obdobi",
+        "dalsi_informace"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_politických_afér_v_Česku",
+      "updated": "2026-11",
+      "size": 61503,
+      "files": {
+        "csv": {
+          "name": "cs-politicke-afery_CS.csv",
+          "size": 42712
+        },
+        "xlsx": {
+          "name": "cs-politicke-afery_CS.xlsx",
+          "size": 27566
         }
       }
     },
