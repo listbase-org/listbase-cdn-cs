@@ -1,0 +1,340 @@
+{
+  "id": "cs-festivaly-klasicke-hudby",
+  "name": "Festivaly klasické hudby v Česku",
+  "title": "Festivaly klasické hudby v Česku",
+  "description": "Seznam festivalů klasické a varhanní hudby v Česku rozdělený podle měst a regionů (Praha, Brno, Ostrava, Čechy, Morava a Slezsko, varhanní festivaly).",
+  "category": "music",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_festivalů_klasické_hudby_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_festivalů_klasické_hudby_v_Česku",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "festival",
+      "label": "Festival",
+      "type": "string"
+    },
+    {
+      "key": "oblast_typ",
+      "label": "Oblast Typ",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "festival": "Pražské jaro",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Dvořákova Praha",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Mezinárodní hudební festival České doteky hudby",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Letní slavnosti staré hudby",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Pražské premiéry",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Prague Proms",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Festival komorní hudby EuroArt Praha",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Struny podzimu",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Mladá Praha",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Pražský podzim",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Svatováclavské slavnosti",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Festival Brikcius – cyklus koncertů komorní hudby v Domě U Kamenného zvonu",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Prague Proms",
+      "oblast_typ": "Festivaly v Praze"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Brno Velikonoční festival duchovní hudby Expozice nové hudby Moravský podzim",
+      "oblast_typ": "Festivaly v Brně"
+    },
+    {
+      "festival": "Janáček Brno",
+      "oblast_typ": "Festivaly v Brně"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Špilberk",
+      "oblast_typ": "Festivaly v Brně"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Leoše Janáčka, Ostrava, do roku 2017 Janáčkův máj",
+      "oblast_typ": "Festivaly v Ostravě"
+    },
+    {
+      "festival": "Harfové dny Ostrava",
+      "oblast_typ": "Festivaly v Ostravě"
+    },
+    {
+      "festival": "Mezinárodní operní festival Smetanova Litomyšl",
+      "oblast_typ": "Festivaly v Litomyšli"
+    },
+    {
+      "festival": "Mladá Smetanova Litomyšl",
+      "oblast_typ": "Festivaly v Litomyšli"
+    },
+    {
+      "festival": "Podzimní festival duchovní hudby Olomouc",
+      "oblast_typ": "Festivaly v Olomouci"
+    },
+    {
+      "festival": "Dvořákova Olomouc",
+      "oblast_typ": "Festivaly v Olomouci"
+    },
+    {
+      "festival": "Mezinárodní hudební festival J. C. F. Fischera, další místa: Cheb, Karlovy Vary, Rudná",
+      "oblast_typ": "Festivaly v Ostrově nad Ohří"
+    },
+    {
+      "festival": "Květnovské hudební slavnosti – mezinárodní festival staré hudby v Krušných horách",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Český Krumlov",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Mladé pódium",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Festival Mitte Europa",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Podblanický hudební podzim",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Hudební slavnosti Emy Destinnové České Budějovice",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Festival klasické hudby Za poklady Broumovska",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Theatrum Kuks",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Lípa Musica, Česká Lípa",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Festival Ludwiga van Beethovena Teplice",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Tanvaldské hudební jaro",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Le Quattro Stagioni Pardubice",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Královédvorský advent – Dvůr Králové nad Labem",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Hudební léto Kuks",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Mezinárodní hudební festival F. L. Věka",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Třeboňská nocturna",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Kladrubské léto – v Kladrubském klášteře",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Tomáškova a Novákova hudební Skuteč",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Pardubické hudební jaro",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Festival Jarmily Novotné",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Tóny nad městy",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Lomnické kulturní léto",
+      "oblast_typ": "Další festivaly v Čechách"
+    },
+    {
+      "festival": "Lednicko-valtický hudební festival",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Petra Dvorského v Jaroměřicích nad Rokytnou",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Setkávání Václava Hudečka Moravské Budějovice",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Janáčkovy Hukvaldy",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Mezinárodní kytarový festival Mikulov",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Svatováclavský hudební festival",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Hudební festival Znojmo",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Klášterní hudební slavnosti Šumperk",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Mezinárodní hudební festival Concentus Moraviae",
+      "oblast_typ": "Další festivaly na Moravě a ve Slezsku"
+    },
+    {
+      "festival": "Mezinárodní varhanní festival Olomouc, Chrám sv. Mořice v Olomouci",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Mezinárodní varhanní festival Audite Organum, bazilika sv. Jakuba v Praze",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "FOW – \"FREE ORGAN WORLD – Pražské varhany\", Kostel sv. Ludmily v Praze",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Mezinárodní varhanní festival Zdeňka Pololáníka, kostel sv. Jakuba, Česká Třebová",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Litoměřické varhanní léto, Katedrála sv. Štěpána, Litoměřice",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Brněnský varhanní festival, Kostel sv. Augustina, Brno",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Mezinárodní festival Varhanní Vyšehrad",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Mezinárodní varhanní festival Odry, chrám sv. Bartoloměje, Odry",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Chebské varhanní léto, Kostel sv. Mikuláše a sv. Alžběty, Cheb",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Plzeňské varhanní nokturno, Katedrála sv. Bartoloměje, Plzeň",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Český varhanní festival",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Orlicko-kladský varhanní festival",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Kouzlo varhan, kostel Narození Panny Marie ve Štípě",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Májové varhanní nešpory, Kostel sv. Antonína, Nový Hradec Králové",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Mezinárodní varhanní cyklus, Katedrála sv. Mikuláše, České Budějovice",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Festival Mladé varhany, Mariánský kostelík, Opočno",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Trutnovský varhanní festival, Chrám Narození Panny Marie, Trutnov",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Zbraslavský varhanní podzim, kostel Mistra Jana Husa, Praha-Zbraslav",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Mezinárodní varhanní festival barokní hudby, Opava",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Smečenský varhanní festival",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Kutnohorský varhanní festival na konci léta",
+      "oblast_typ": "Varhanní festivaly"
+    },
+    {
+      "festival": "Půlhodina s varhanami – Frýdek-Místek",
+      "oblast_typ": "Varhanní festivaly"
+    }
+  ],
+  "meta": {
+    "title": "Festivaly klasické hudby v Česku - Free Download",
+    "description": "Seznam festivalů klasické a varhanní hudby v Česku rozdělený podle měst a regionů (Praha, Brno, Ostrava, Čechy, Morava a Slezsko, varhanní festivaly). Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Festivaly klasické hudby v Česku | ListBase",
+    "seo_description": "Download Festivaly klasické hudby v Česku — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_festivalů_klasické_hudby_v_Česku"
+    ]
+  }
+}
