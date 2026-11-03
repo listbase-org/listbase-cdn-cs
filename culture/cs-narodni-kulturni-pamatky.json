@@ -1,0 +1,2823 @@
+{
+  "id": "cs-narodni-kulturni-pamatky",
+  "name": "Národní kulturní památky České republiky",
+  "title": "Národní kulturní památky České republiky",
+  "description": "Nemovité národní kulturní památky České republiky se sídlem, okresem, číslem v památkovém katalogu a rokem vyhlášení.",
+  "category": "culture",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_národních_kulturních_památek_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_národních_kulturních_památek_České_republiky",
+  "updated": "2026-11",
+  "record_count": 396,
+  "columns": [
+    {
+      "key": "pamatkovy_katalog",
+      "label": "Pamatkovy Katalog",
+      "type": "number"
+    },
+    {
+      "key": "sidlo",
+      "label": "Sidlo",
+      "type": "string"
+    },
+    {
+      "key": "pamatka",
+      "label": "Pamatka",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "vyhlaseno",
+      "label": "Vyhlaseno",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "pamatkovy_katalog": "101",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Pražský hrad",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "102",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "české korunovační klenoty",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "103",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "kostel Panny Marie před Týnem",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "104",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "palác Kinských",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "105",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Staroměstská radnice",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "106",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Betlémská kaple",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "107",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Stavovské divadlo",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "108",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Karlův most",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "109",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Karolinum",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "110",
+      "sidlo": "Praha 1 – Nové Město",
+      "pamatka": "Novoměstská radnice",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "111",
+      "sidlo": "Praha 1 – Nové Město",
+      "pamatka": "Národní divadlo",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "112",
+      "sidlo": "Praha 1 – Nové Město",
+      "pamatka": "Národní muzeum",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "113",
+      "sidlo": "Praha 2 – Vyšehrad",
+      "pamatka": "Vyšehrad",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "114",
+      "sidlo": "Praha 3 – Žižkov",
+      "pamatka": "Národní památník na Vítkově s hrobem neznámého vojína",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "115",
+      "sidlo": "Praha 6 – Liboc",
+      "pamatka": "bojiště bitvy na Bílé hoře s mohylou a letohrádek Hvězda s oborou",
+      "okres": "Praha",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "116",
+      "sidlo": "Karlštejn",
+      "pamatka": "hrad Karlštejn",
+      "okres": "okres Beroun",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "117",
+      "sidlo": "Lidice",
+      "pamatka": "areál starých Lidic",
+      "okres": "okres Kladno",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "118",
+      "sidlo": "Zákolany - Kováry",
+      "pamatka": "slovanské hradiště Budeč",
+      "okres": "okres Kladno",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "119",
+      "sidlo": "Kutná Hora",
+      "pamatka": "Vlašský dvůr",
+      "okres": "okres Kutná Hora",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "120",
+      "sidlo": "Černé Budy",
+      "pamatka": "Sázavský klášter",
+      "okres": "okres Benešov",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "121",
+      "sidlo": "Sezimovo Ústí",
+      "pamatka": "zříceniny hradu Kozí hrádek",
+      "okres": "okres Tábor",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "122",
+      "sidlo": "Tábor",
+      "pamatka": "Stará radnice",
+      "okres": "okres Tábor",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "123",
+      "sidlo": "Tábor",
+      "pamatka": "hrad Kotnov s Bechyňskou branou",
+      "okres": "okres Tábor",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "124",
+      "sidlo": "Přimda",
+      "pamatka": "zřícenina hradu Přimda",
+      "okres": "okres Tachov",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "125",
+      "sidlo": "Mnetěš",
+      "pamatka": "hora Říp s rotundou sv. Jiří",
+      "okres": "okres Litoměřice",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "126",
+      "sidlo": "Terezín",
+      "pamatka": "Malá pevnost a Národní hřbitov",
+      "okres": "okres Litoměřice",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "127",
+      "sidlo": "Stadice",
+      "pamatka": "Královské pole s pomníkem Přemysla Oráče",
+      "okres": "okres Ústí nad Labem",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "128",
+      "sidlo": "Litomyšl",
+      "pamatka": "zámek Litomyšl",
+      "okres": "okres Svitavy",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "129",
+      "sidlo": "Brno - Brno-město",
+      "pamatka": "hrad a pevnost Špilberk",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "130",
+      "sidlo": "Mikulčice",
+      "pamatka": "Slovanské hradiště Mikulčice",
+      "okres": "okres Hodonín",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "131",
+      "sidlo": "Znojmo",
+      "pamatka": "znojemská hradní rotunda",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "132",
+      "sidlo": "Fulnek",
+      "pamatka": "Bratrský sbor",
+      "okres": "okres Nový Jičín",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "133",
+      "sidlo": "Olomouc",
+      "pamatka": "areál Přemyslovského hradu",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 1962
+    },
+    {
+      "pamatkovy_katalog": "134",
+      "sidlo": "Staré Město, Modrá, Sady",
+      "pamatka": "soubor památek velkomoravské sídelní aglomerace",
+      "okres": "okres Uherské Hradiště",
+      "vyhlaseno": 1969
+    },
+    {
+      "pamatkovy_katalog": "135",
+      "sidlo": "České Budějovice",
+      "pamatka": "koněspřežní železnice České Budějovice – Linec",
+      "okres": "okres České Budějovice",
+      "vyhlaseno": 1971
+    },
+    {
+      "pamatkovy_katalog": "136",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Anežský klášter",
+      "okres": "Praha",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "137",
+      "sidlo": "Praha 2 – Nové Město",
+      "pamatka": "klášter benediktinů Na Slovanech",
+      "okres": "Praha",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "138",
+      "sidlo": "Praha 3 – Žižkov",
+      "pamatka": "čestná pohřebiště na Olšanech",
+      "okres": "Praha",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "139",
+      "sidlo": "Praha 8 – Kobylisy",
+      "pamatka": "Památník protifašistického odboje",
+      "okres": "Praha",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "140",
+      "sidlo": "Roztoky – Žalov",
+      "pamatka": "přemyslovské hradiště Levý Hradec",
+      "okres": "okres Praha-západ",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "141",
+      "sidlo": "Borovany – Trocnov",
+      "pamatka": "rodiště Jana Žižky v Trocnově",
+      "okres": "okres České Budějovice",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "142",
+      "sidlo": "Zvíkovské Podhradí",
+      "pamatka": "hrad Zvíkov",
+      "okres": "okres Písek",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "143",
+      "sidlo": "Husinec",
+      "pamatka": "rodný dům Mistra Jana Husa",
+      "okres": "okres Prachatice",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "144",
+      "sidlo": "Rabí",
+      "pamatka": "zřícenina hradu Rabí",
+      "okres": "okres Klatovy",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "145",
+      "sidlo": "Starý Plzenec",
+      "pamatka": "slovanské hradiště Hůrka",
+      "okres": "okres Plzeň-město",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "146",
+      "sidlo": "Bezděz",
+      "pamatka": "hrad Bezděz",
+      "okres": "okres Česká Lípa",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "147",
+      "sidlo": "Osek",
+      "pamatka": "pomník obětem katastrofy na dole Nelson",
+      "okres": "okres Teplice",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "148",
+      "sidlo": "Havlíčkova Borová",
+      "pamatka": "rodný dům Karla Havlíčka Borovského",
+      "okres": "okres Havlíčkův Brod",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "149",
+      "sidlo": "Miřetice",
+      "pamatka": "Pietní území Ležáky",
+      "okres": "okres Chrudim",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "150",
+      "sidlo": "Ratibořice",
+      "pamatka": "Babiččino údolí se zámkem",
+      "okres": "okres Náchod",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "151",
+      "sidlo": "Pardubice",
+      "pamatka": "pietní území Zámeček",
+      "okres": "okres Pardubice",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "152",
+      "sidlo": "Brno - Žabovřesky",
+      "pamatka": "Kounicovy vysokoškolské koleje s památníkem Vítězství nad fašismem",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "153",
+      "sidlo": "Drnovice",
+      "pamatka": "památník odboje v Ploštině",
+      "okres": "okres Zlín",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "154",
+      "sidlo": "Morávka",
+      "pamatka": "památník partyzánského hnutí „Noční přechod“",
+      "okres": "okres Frýdek-Místek",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "155",
+      "sidlo": "Hodslavice",
+      "pamatka": "rodný dům Františka Palackého",
+      "okres": "okres Nový Jičín",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "156",
+      "sidlo": "Javoříčko",
+      "pamatka": "památník obětí II. světové války",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "157",
+      "sidlo": "Ostrava - Moravská Ostrava",
+      "pamatka": "památník Rudé armády – mauzoleum",
+      "okres": "okres Ostrava-město",
+      "vyhlaseno": 1978
+    },
+    {
+      "pamatkovy_katalog": "159",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Dům umělců (Rudolfinum)",
+      "okres": "Praha",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "160",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Obecní dům hl. města Prahy a Prašná brána",
+      "okres": "Praha",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "161",
+      "sidlo": "Praha 1 – Nové Město",
+      "pamatka": "Petschkův palác",
+      "okres": "Praha",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "162",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "premonstrátský klášter na Strahově",
+      "okres": "Praha",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "163",
+      "sidlo": "Praha 4 – Točná",
+      "pamatka": "hradiště a keltské oppidum Závist",
+      "okres": "Praha",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "164",
+      "sidlo": "Libice nad Cidlinou",
+      "pamatka": "slovanské hradiště Slavníkovců",
+      "okres": "okres Nymburk",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "165",
+      "sidlo": "Křivoklát",
+      "pamatka": "hrad Křivoklát",
+      "okres": "okres Rakovník",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "166",
+      "sidlo": "Český Krumlov",
+      "pamatka": "hrad a zámek v Českém Krumlově",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "167",
+      "sidlo": "Písek",
+      "pamatka": "kamenný most",
+      "okres": "okres Písek",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "168",
+      "sidlo": "Stádlec",
+      "pamatka": "řetězový most",
+      "okres": "okres Tábor",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "169",
+      "sidlo": "Brno - Štýřice",
+      "pamatka": "čestné pohřebiště na Ústředním hřbitově",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "170",
+      "sidlo": "Brno - Brno-město",
+      "pamatka": "Petrov s katedrálou sv. Petra a Pavla",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "171",
+      "sidlo": "Havířov – Životice",
+      "pamatka": "památník obětem nacistického teroru",
+      "okres": "okres Karviná",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "172",
+      "sidlo": "Praha 6 – Břevnov",
+      "pamatka": "Břevnovský klášter benediktinů",
+      "okres": "Praha",
+      "vyhlaseno": 1991
+    },
+    {
+      "pamatkovy_katalog": "173",
+      "sidlo": "Praha 1 – Malá Strana",
+      "pamatka": "sídlo Parlamentu České republiky, mj. Šternberský palác, Tomáškův palác, Valdštejnský palác, Kolovratský palác, Malý Fürstenberský palác, Thunovský palác",
+      "okres": "Praha",
+      "vyhlaseno": 1992
+    },
+    {
+      "pamatkovy_katalog": "174",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Staroměstské náměstí s pomníkem mistra Jana Husa",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "175",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Klementinum",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "176",
+      "sidlo": "Praha 1 – Nové Město",
+      "pamatka": "pomník svatého Václava",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "178",
+      "sidlo": "Praha 1 – Malá Strana",
+      "pamatka": "kostel sv. Mikuláše",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "179",
+      "sidlo": "Praha 1 – Josefov",
+      "pamatka": "Staronová synagoga",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "180",
+      "sidlo": "Praha 1 – Josefov",
+      "pamatka": "Starý židovský hřbitov",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "181",
+      "sidlo": "Praha 5 – Zbraslav",
+      "pamatka": "klášter cisterciáků",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "182",
+      "sidlo": "Praha 6 – Liboc",
+      "pamatka": "hradiště Šárka",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "183",
+      "sidlo": "Praha 6 – Střešovice",
+      "pamatka": "Müllerova vila od Adolfa Loose",
+      "okres": "Praha",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "184",
+      "sidlo": "Kolín",
+      "pamatka": "areál chrámu sv. Bartoloměje",
+      "okres": "okres Kolín",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "185",
+      "sidlo": "Kouřim",
+      "pamatka": "městské opevnění",
+      "okres": "okres Kolín",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "186",
+      "sidlo": "Kutná Hora",
+      "pamatka": "areál chrámu sv. Barbory",
+      "okres": "okres Kutná Hora",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "187",
+      "sidlo": "Brandýs nad Labem-Stará Boleslav",
+      "pamatka": "kostel Nanebevzetí Panny Marie",
+      "okres": "okres Praha-východ",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "188",
+      "sidlo": "Brandýs nad Labem-Stará Boleslav",
+      "pamatka": "areál baziliky sv. Václava a kostela sv. Klementa",
+      "okres": "okres Praha-východ",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "189",
+      "sidlo": "Příbram",
+      "pamatka": "kostel Panny Marie s klášterem – Svatá Hora",
+      "okres": "okres Příbram",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "190",
+      "sidlo": "Český Krumlov",
+      "pamatka": "kostel sv. Víta",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "191",
+      "sidlo": "Kájov",
+      "pamatka": "areál kostela Nanebevzetí Panny Marie",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "192",
+      "sidlo": "Vyšší Brod",
+      "pamatka": "areál cisterciáckého kláštera",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "193",
+      "sidlo": "Zlatá Koruna",
+      "pamatka": "bývalý cisterciácký klášter s kostelem Panny Marie",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "194",
+      "sidlo": "Jindřichův Hradec",
+      "pamatka": "areál zámku",
+      "okres": "okres Jindřichův Hradec",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "195",
+      "sidlo": "Třeboň",
+      "pamatka": "areál kláštera augustiniánů s kostelem Panny Marie Královny a sv. Jiljí",
+      "okres": "okres Jindřichův Hradec",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "196",
+      "sidlo": "Strakonice",
+      "pamatka": "areál hradu Strakonice",
+      "okres": "okres Strakonice",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "197",
+      "sidlo": "Horšovský Týn",
+      "pamatka": "areál zámku",
+      "okres": "okres Domažlice",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "198",
+      "sidlo": "Bečov nad Teplou",
+      "pamatka": "areál hradu a zámku",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "199",
+      "sidlo": "Plzeň",
+      "pamatka": "katedrála sv. Bartoloměje",
+      "okres": "okres Plzeň-město",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "200",
+      "sidlo": "Plasy",
+      "pamatka": "areál kláštera",
+      "okres": "okres Plzeň-sever",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "201",
+      "sidlo": "Bezemín",
+      "pamatka": "slovanské hradiště a mohylové pohřebiště",
+      "okres": "okres Tachov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "202",
+      "sidlo": "Kladruby",
+      "pamatka": "areál benediktinského kláštera",
+      "okres": "okres Tachov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "203",
+      "sidlo": "Okrouhlé Hradiště",
+      "pamatka": "hradiště Hradišťský kopec",
+      "okres": "okres Tachov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "204",
+      "sidlo": "Kadaň",
+      "pamatka": "areál františkánského kláštera",
+      "okres": "okres Chomutov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "205",
+      "sidlo": "Sychrov",
+      "pamatka": "areál zámku",
+      "okres": "okres Liberec",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "206",
+      "sidlo": "Louny",
+      "pamatka": "kostel sv. Mikuláše",
+      "okres": "okres Louny",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "207",
+      "sidlo": "Osek",
+      "pamatka": "areál kláštera v Oseku",
+      "okres": "okres Teplice",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "208",
+      "sidlo": "Hradec Králové",
+      "pamatka": "muzeum",
+      "okres": "okres Hradec Králové",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "209",
+      "sidlo": "Smiřice",
+      "pamatka": "kaple Tří králů",
+      "okres": "okres Hradec Králové",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "210",
+      "sidlo": "Broumov",
+      "pamatka": "benediktinský klášter a kostel sv. Vojtěcha",
+      "okres": "okres Náchod",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "211",
+      "sidlo": "Dobrošov",
+      "pamatka": "soubor pevnostního systému Dobrošov",
+      "okres": "okres Náchod",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "212",
+      "sidlo": "Opočno",
+      "pamatka": "areál zámku",
+      "okres": "okres Rychnov nad Kněžnou",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "213",
+      "sidlo": "Kuks",
+      "pamatka": "areál hospitalu",
+      "okres": "okres Trutnov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "214",
+      "sidlo": "Brno - Brno-město",
+      "pamatka": "kostel sv. Jakuba Většího",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "215",
+      "sidlo": "Brno - Černá Pole",
+      "pamatka": "vila Tugendhat",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "216",
+      "sidlo": "Lednice",
+      "pamatka": "areál zámku",
+      "okres": "okres Břeclav",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "217",
+      "sidlo": "Valtice",
+      "pamatka": "areál zámku",
+      "okres": "okres Břeclav",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "218",
+      "sidlo": "Telč",
+      "pamatka": "areál zámku",
+      "okres": "okres Jihlava",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "219",
+      "sidlo": "Kroměříž",
+      "pamatka": "areál zámku s Podzámeckou a Květnou zahradou",
+      "okres": "okres Kroměříž",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "220",
+      "sidlo": "Slup",
+      "pamatka": "vodní mlýn",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "221",
+      "sidlo": "Žďár nad Sázavou",
+      "pamatka": "poutní kostel na Zelené Hoře",
+      "okres": "okres Žďár nad Sázavou",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "222",
+      "sidlo": "Nedvědice",
+      "pamatka": "areál hradu Pernštejn",
+      "okres": "okres Brno-venkov",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "223",
+      "sidlo": "Olomouc",
+      "pamatka": "Klášterní Hradisko",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "224",
+      "sidlo": "Olomouc",
+      "pamatka": "kostel svatého Mořice",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "225",
+      "sidlo": "Olomouc",
+      "pamatka": "soubor barokních kašen a sloupů (6 kašen, sloup Nejsvětější Trojice, Mariánský sloup)",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "226",
+      "sidlo": "Opava",
+      "pamatka": "kaple sv. Kříže",
+      "okres": "okres Opava",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "227",
+      "sidlo": "Opava",
+      "pamatka": "konkatedrála Nanebevzetí Panny Marie",
+      "okres": "okres Opava",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "228",
+      "sidlo": "Ostrava - Michálkovice",
+      "pamatka": "areál kamenouhelného dolu Michal",
+      "okres": "okres Ostrava-město",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "229",
+      "sidlo": "Velké Losiny",
+      "pamatka": "areál zámku",
+      "okres": "okres Šumperk",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "230",
+      "sidlo": "Prostřední Bečva",
+      "pamatka": "areál Pusteven",
+      "okres": "okres Vsetín",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "231",
+      "sidlo": "Rožnov pod Radhoštěm",
+      "pamatka": "Valašské muzeum v přírodě",
+      "okres": "okres Vsetín",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "233",
+      "sidlo": "Osvětimany",
+      "pamatka": "hradisko svatého Klimenta",
+      "okres": "okres Uherské Hradiště",
+      "vyhlaseno": 1999
+    },
+    {
+      "pamatkovy_katalog": "234",
+      "sidlo": "Čečovice",
+      "pamatka": "kostel sv. Mikuláše",
+      "okres": "okres Plzeň-jih",
+      "vyhlaseno": 1999
+    },
+    {
+      "pamatkovy_katalog": "235",
+      "sidlo": "Třebechovice pod Orebem",
+      "pamatka": "Třebechovický betlém",
+      "okres": "okres Hradec Králové",
+      "vyhlaseno": 1999
+    },
+    {
+      "pamatkovy_katalog": "236",
+      "sidlo": "Bouzov",
+      "pamatka": "hrad Bouzov",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 1999
+    },
+    {
+      "pamatkovy_katalog": "237",
+      "sidlo": "Benešov",
+      "pamatka": "zámek Konopiště",
+      "okres": "okres Benešov",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "238",
+      "sidlo": "Hořovice",
+      "pamatka": "nový zámek",
+      "okres": "okres Beroun",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "239",
+      "sidlo": "Točník",
+      "pamatka": "zříceniny hradů Žebrák a Točník",
+      "okres": "okres Beroun",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "240",
+      "sidlo": "Svatý Mikuláš",
+      "pamatka": "zámek Kačina",
+      "okres": "okres Kutná Hora",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "241",
+      "sidlo": "Žleby",
+      "pamatka": "zámek Žleby",
+      "okres": "okres Kutná Hora",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "242",
+      "sidlo": "Kokořín – Kokořínský Důl",
+      "pamatka": "hrad Kokořín",
+      "okres": "okres Mělník",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "243",
+      "sidlo": "Veltrusy",
+      "pamatka": "zámek Veltrusy",
+      "okres": "okres Mělník",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "244",
+      "sidlo": "Mnichovo Hradiště",
+      "pamatka": "zámek Mnichovo Hradiště",
+      "okres": "okres Mladá Boleslav",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "245",
+      "sidlo": "Březnice",
+      "pamatka": "zámek Březnice",
+      "okres": "okres Příbram",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "246",
+      "sidlo": "Hluboká nad Vltavou",
+      "pamatka": "zámek Hluboká nad Vltavou se zámkem Ohrada",
+      "okres": "okres České Budějovice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "247",
+      "sidlo": "Nové Hrady",
+      "pamatka": "hrad Nové Hrady",
+      "okres": "okres České Budějovice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "248",
+      "sidlo": "Rožmberk nad Vltavou",
+      "pamatka": "hrad Rožmberk nad Vltavou",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "249",
+      "sidlo": "Pluhův Žďár – Červená Lhota",
+      "pamatka": "zámek Červená Lhota",
+      "okres": "okres Jindřichův Hradec",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "250",
+      "sidlo": "Dačice",
+      "pamatka": "zámek Dačice",
+      "okres": "okres Jindřichův Hradec",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "251",
+      "sidlo": "Třeboň a Domanín",
+      "pamatka": "zámek Třeboň se Schwarzenberskou hrobkou",
+      "okres": "okres Jindřichův Hradec",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "252",
+      "sidlo": "Petrův Dvůr",
+      "pamatka": "zámek Kratochvíle",
+      "okres": "okres Prachatice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "253",
+      "sidlo": "Švihov",
+      "pamatka": "hrad Švihov",
+      "okres": "okres Klatovy",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "254",
+      "sidlo": "Velhartice",
+      "pamatka": "zřícenina hradu Velhartice",
+      "okres": "okres Klatovy",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "255",
+      "sidlo": "Šťáhlavy",
+      "pamatka": "zámek Kozel",
+      "okres": "okres Plzeň-město",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "256",
+      "sidlo": "Manětín",
+      "pamatka": "zámek Manětín",
+      "okres": "okres Plzeň-sever",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "257",
+      "sidlo": "Lázně Kynžvart",
+      "pamatka": "zámek Kynžvart",
+      "okres": "okres Cheb",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "258",
+      "sidlo": "Benešov nad Ploučnicí",
+      "pamatka": "zámek Benešov nad Ploučnicí",
+      "okres": "okres Děčín",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "259",
+      "sidlo": "Libochovice",
+      "pamatka": "zámek Libochovice",
+      "okres": "okres Litoměřice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "260",
+      "sidlo": "Ploskovice",
+      "pamatka": "zámek Ploskovice",
+      "okres": "okres Litoměřice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "261",
+      "sidlo": "Krásný Dvůr",
+      "pamatka": "zámek Krásný Dvůr",
+      "okres": "okres Louny",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "262",
+      "sidlo": "Duchcov",
+      "pamatka": "zámek Duchcov",
+      "okres": "okres Teplice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "263",
+      "sidlo": "Lvová",
+      "pamatka": "zámek Lemberk",
+      "okres": "okres Liberec",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "264",
+      "sidlo": "Zákupy",
+      "pamatka": "zámek Zákupy s hospodářským dvorem",
+      "okres": "okres Česká Lípa",
+      "vyhlaseno": "2001/2010"
+    },
+    {
+      "pamatkovy_katalog": "265",
+      "sidlo": "Frýdlant",
+      "pamatka": "zámek Frýdlant",
+      "okres": "okres Liberec",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "266",
+      "sidlo": "Daliměřice",
+      "pamatka": "zámek Hrubý Rohozec",
+      "okres": "okres Semily",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "267",
+      "sidlo": "Troskovice",
+      "pamatka": "zřícenina hradu Trosky",
+      "okres": "okres Semily",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "268",
+      "sidlo": "Hrádek",
+      "pamatka": "zámek Hrádek u Nechanic",
+      "okres": "okres Hradec Králové",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "269",
+      "sidlo": "Náchod",
+      "pamatka": "zámek Náchod",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "270",
+      "sidlo": "Stanovice",
+      "pamatka": "Betlém v Novém lese u Kuksu",
+      "okres": "okres Trutnov",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "271",
+      "sidlo": "Slatiňany",
+      "pamatka": "zámek Slatiňany",
+      "okres": "okres Chrudim",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "272",
+      "sidlo": "Kladruby nad Labem",
+      "pamatka": "hřebčín Kladruby nad Labem",
+      "okres": "okres Pardubice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "273",
+      "sidlo": "Ráby",
+      "pamatka": "zřícenina hradu Kunětická hora",
+      "okres": "okres Pardubice",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "274",
+      "sidlo": "Lipnice nad Sázavou",
+      "pamatka": "zřícenina hradu Lipnice nad Sázavou",
+      "okres": "okres Havlíčkův Brod",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "275",
+      "sidlo": "Jaroměřice nad Rokytnou",
+      "pamatka": "zámek Jaroměřice nad Rokytnou",
+      "okres": "okres Třebíč",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "276",
+      "sidlo": "Náměšť nad Oslavou",
+      "pamatka": "zámek Náměšť nad Oslavou",
+      "okres": "okres Třebíč",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "277",
+      "sidlo": "Kunštát",
+      "pamatka": "zámek Kunštát",
+      "okres": "okres Blansko",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "278",
+      "sidlo": "Lysice",
+      "pamatka": "zámek Lysice",
+      "okres": "okres Blansko",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "279",
+      "sidlo": "Rájec-Jestřebí",
+      "pamatka": "zámek Rájec nad Svitavou",
+      "okres": "okres Blansko",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "280",
+      "sidlo": "Milotice",
+      "pamatka": "zámek Milotice",
+      "okres": "okres Hodonín",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "281",
+      "sidlo": "Bučovice",
+      "pamatka": "zámek Bučovice",
+      "okres": "okres Vyškov",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "282",
+      "sidlo": "Bítov",
+      "pamatka": "hrad Bítov",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "283",
+      "sidlo": "Uherčice",
+      "pamatka": "zámek Uherčice",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "284",
+      "sidlo": "Vranov nad Dyjí a Lukov",
+      "pamatka": "zámek Vranov nad Dyjí se zříceninou hradu Nový Hrádek",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "285",
+      "sidlo": "Javorník",
+      "pamatka": "zámek Jánský Vrch",
+      "okres": "okres Jeseník",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "286",
+      "sidlo": "Šternberk",
+      "pamatka": "hrad Šternberk",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "287",
+      "sidlo": "Velké Losiny",
+      "pamatka": "ruční papírna Velké Losiny",
+      "okres": "okres Šumperk",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "288",
+      "sidlo": "Bruntál",
+      "pamatka": "zámek Bruntál",
+      "okres": "okres Bruntál",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "289",
+      "sidlo": "Hradec nad Moravicí",
+      "pamatka": "zámek Hradec nad Moravicí",
+      "okres": "okres Opava",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "290",
+      "sidlo": "Buchlovice",
+      "pamatka": "hrad Buchlov",
+      "okres": "okres Uherské Hradiště",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "291",
+      "sidlo": "Buchlovice",
+      "pamatka": "zámek Buchlovice",
+      "okres": "okres Uherské Hradiště",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "292",
+      "sidlo": "Vizovice",
+      "pamatka": "zámek Vizovice",
+      "okres": "okres Zlín",
+      "vyhlaseno": 2001
+    },
+    {
+      "pamatkovy_katalog": "293",
+      "sidlo": "–",
+      "pamatka": "Rožmberská rybniční soustava tvořená mj. Zlatou stokou, Starou řekou, Novou řekou, rybníkem Rožmberk, Rožmberskou baštou a rybníkem Svět",
+      "okres": "okres Jindřichův Hradec",
+      "vyhlaseno": 2002
+    },
+    {
+      "pamatkovy_katalog": "294",
+      "sidlo": "Třebíč",
+      "pamatka": "klášter s kostelem sv. Prokopa",
+      "okres": "okres Třebíč",
+      "vyhlaseno": 2002
+    },
+    {
+      "pamatkovy_katalog": "295",
+      "sidlo": "Třebíč",
+      "pamatka": "židovský hřbitov",
+      "okres": "okres Třebíč",
+      "vyhlaseno": 2002
+    },
+    {
+      "pamatkovy_katalog": "296",
+      "sidlo": "Ostrava - Moravská Ostrava a Ostrava- Vítkovice",
+      "pamatka": "důl Hlubina a vysoké pece a koksovna Vítkovických železáren",
+      "okres": "okres Ostrava-město",
+      "vyhlaseno": 2002
+    },
+    {
+      "pamatkovy_katalog": "297",
+      "sidlo": "Liberec",
+      "pamatka": "horský hotel a televizní vysílač Ještěd",
+      "okres": "okres Liberec",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "298",
+      "sidlo": "Brno",
+      "pamatka": "soubor movitých archeologických nálezů z hradiště Mikulčice z období Velké Moravy",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "299",
+      "sidlo": "Praha",
+      "pamatka": "Kodex vyšehradský",
+      "okres": "Praha",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "300",
+      "sidlo": "Praha",
+      "pamatka": "Pasionál abatyše Kunhuty",
+      "okres": "Praha",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "301",
+      "sidlo": "Praha",
+      "pamatka": "Velislavova bible",
+      "okres": "Praha",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "302",
+      "sidlo": "–",
+      "pamatka": "soubor gotických soch z období krásného slohu v českých zemích: Plzeňská madona (katedrála sv. Bartoloměje, Plzeň) Svatý Petr ze Slivice (kostel sv. Petra, Milín) Svatá Kateřina z Jihlavy (kostel sv. Jakuba, Jihlava) Jihlavská pieta (kostel sv. Ignáce, Jihlava) Třeboňská madona (kostel sv. Jiljí, Třeboň) Šternberská madona (kostel Zvěstování Panny Marie, Šternberk)",
+      "okres": "–",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "303",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "soubor zvonů a cimbálů chrámu sv. Víta v Praze: zvony Zikmund, Václav, Jan Křtitel a Josef a 3 cimbály",
+      "okres": "Praha",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "304",
+      "sidlo": "–",
+      "pamatka": "soubor barokních oltářních obrazů Karla Škréty a Petra Brandla: Nanebevzetí Panny Marie (Škréta, kostel Matky Boží před Týnem, Praha) Madona žehná maltézským rytířům v bitvě u Lepanta (Škréta, kostel Panny Marie pod řetězem, Praha) Narození Panny Marie (Brandl, kostel Narození Panny Marie, Doksany) Křest Kristův (Brandl, kostel sv. Jana Křtitele, Manětín) Smrt blahoslaveného Vintíře (Brandl, bazilika svaté Markéty, Praha-Břevnov) Klanění tří králů (Brandl, kaple Zjevení Páně, Smiřice)",
+      "okres": "–",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "305",
+      "sidlo": "Lázně Kynžvart",
+      "pamatka": "Kynžvartská daguerrotypie",
+      "okres": "okres Cheb",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "306",
+      "sidlo": "Praha",
+      "pamatka": "soubor automobilů NW a Tatra v Národním technickém muzeu (NW President, Tatra 11, Tatra 80, Tatra 77a, Tatra 87)",
+      "okres": "Praha",
+      "vyhlaseno": 2006
+    },
+    {
+      "pamatkovy_katalog": "307",
+      "sidlo": "Český Krumlov",
+      "pamatka": "původní vybavení barokního divadla v zámku Český Krumlov",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 1989
+    },
+    {
+      "pamatkovy_katalog": "308",
+      "sidlo": "Bečov nad Teplou",
+      "pamatka": "ostatková skříň svatého Maura na zámku Bečov",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 1995
+    },
+    {
+      "pamatkovy_katalog": "309",
+      "sidlo": "Orlík nad Vltavou",
+      "pamatka": "zámek Orlík",
+      "okres": "okres Písek",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "310",
+      "sidlo": "Milevsko",
+      "pamatka": "premonstrátský klášter v Milevsku",
+      "okres": "okres Písek",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "311",
+      "sidlo": "Hoslovice",
+      "pamatka": "vodní mlýn v Hoslovicích",
+      "okres": "okres Strakonice",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "312",
+      "sidlo": "Dolní Věstonice",
+      "pamatka": "archeologické naleziště Dolní Věstonice včetně souboru nejvýznamnějších nálezů",
+      "okres": "okres Břeclav",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "313",
+      "sidlo": "Slavkov u Brna",
+      "pamatka": "zámek Slavkov u Brna",
+      "okres": "okres Vyškov",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "314",
+      "sidlo": "Křtiny",
+      "pamatka": "poutní kostel Jména Panny Marie",
+      "okres": "okres Blansko",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "315",
+      "sidlo": "Teplá",
+      "pamatka": "klášter premonstrátů Teplá",
+      "okres": "okres Cheb",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "316",
+      "sidlo": "Čistá",
+      "pamatka": "důl Jeroným",
+      "okres": "okres Sokolov",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "317",
+      "sidlo": "Ostrov",
+      "pamatka": "Rudá věž smrti ve strojírně Škody Ostrov",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "318",
+      "sidlo": "Nové Město nad Metují",
+      "pamatka": "zámek Nové Město nad Metují",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "319",
+      "sidlo": "Sobotka",
+      "pamatka": "zámek Humprecht",
+      "okres": "okres Jičín",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "320",
+      "sidlo": "Libošovice",
+      "pamatka": "hrad Kost",
+      "okres": "okres Jičín",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "321",
+      "sidlo": "Broumov",
+      "pamatka": "hřbitovní kostel P. Marie",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "322",
+      "sidlo": "Grabštejn",
+      "pamatka": "hrad Grabštejn",
+      "okres": "okres Liberec",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "323",
+      "sidlo": "Jablonné v Podještědí",
+      "pamatka": "kostel sv. Vavřince a Zdislavy",
+      "okres": "okres Liberec",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "324",
+      "sidlo": "Ostrava - Slezská Ostrava",
+      "pamatka": "Liskova vila",
+      "okres": "okres Ostrava-město",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "325",
+      "sidlo": "Prostějov",
+      "pamatka": "Národní dům v Prostějově",
+      "okres": "okres Prostějov",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "326",
+      "sidlo": "Třeština",
+      "pamatka": "vodní elektrárna",
+      "okres": "okres Šumperk",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "327",
+      "sidlo": "Polička",
+      "pamatka": "radnice",
+      "okres": "okres Svitavy",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "328",
+      "sidlo": "Přeštice",
+      "pamatka": "kostel Nanebevzetí Panny Marie",
+      "okres": "okres Plzeň-jih",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "329",
+      "sidlo": "Plzeň - Bolevec",
+      "pamatka": "selský dvůr",
+      "okres": "okres Plzeň-město",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "330",
+      "sidlo": "Vinec",
+      "pamatka": "kostel sv. Mikuláše",
+      "okres": "okres Mladá Boleslav",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "331",
+      "sidlo": "Jakub",
+      "pamatka": "kostel svatého Jakuba Staršího",
+      "okres": "okres Kutná Hora",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "332",
+      "sidlo": "Český Šternberk",
+      "pamatka": "hrad Český Šternberk",
+      "okres": "okres Benešov",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "333",
+      "sidlo": "Krásné Březno",
+      "pamatka": "kostel sv. Floriána",
+      "okres": "okres Ústí nad Labem",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "334",
+      "sidlo": "Jihlava",
+      "pamatka": "kostel sv. Jakuba Staršího",
+      "okres": "okres Jihlava",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "335",
+      "sidlo": "Polná",
+      "pamatka": "kostel Nanebevzetí Panny Marie",
+      "okres": "okres Jihlava",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "336",
+      "sidlo": "Velká Lhota",
+      "pamatka": "evangelický kostel",
+      "okres": "okres Vsetín",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "337",
+      "sidlo": "Velehrad",
+      "pamatka": "bazilika Nanebevzetí Panny Marie a svatého Cyrila a Metoděje",
+      "okres": "okres Uherské Hradiště",
+      "vyhlaseno": 2008
+    },
+    {
+      "pamatkovy_katalog": "338",
+      "sidlo": "Krnín",
+      "pamatka": "zemědělská usedlost č. p. 3",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "339",
+      "sidlo": "Písek",
+      "pamatka": "zemský hřebčinec",
+      "okres": "okres Písek",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "340",
+      "sidlo": "Vimperk",
+      "pamatka": "zámek Vimperk",
+      "okres": "okres Prachatice",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "341",
+      "sidlo": "Brno - Brno-město",
+      "pamatka": "hotel Avion",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "342",
+      "sidlo": "Předklášteří",
+      "pamatka": "klášter cisterciaček Porta Coeli",
+      "okres": "okres Brno-venkov",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "343",
+      "sidlo": "Pavlov",
+      "pamatka": "archeologické naleziště Dolní Věstonice – Pavlov",
+      "okres": "okres Břeclav",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "344",
+      "sidlo": "Kuželov",
+      "pamatka": "větrný mlýn",
+      "okres": "okres Hodonín",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "345",
+      "sidlo": "Karlovy Vary",
+      "pamatka": "Císařské lázně",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "346",
+      "sidlo": "Karlovy Vary",
+      "pamatka": "kostel svaté Máří Magdaleny",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "347",
+      "sidlo": "Mariánské Lázně",
+      "pamatka": "lázeňská kolonáda",
+      "okres": "okres Cheb",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "348",
+      "sidlo": "Úpice",
+      "pamatka": "hospoda Dřevěnka",
+      "okres": "okres Trutnov",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "349",
+      "sidlo": "Bílá Třemešná",
+      "pamatka": "přehrada Les Království",
+      "okres": "okres Trutnov",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "351",
+      "sidlo": "Dolánky u Turnova",
+      "pamatka": "Dlaskův statek",
+      "okres": "okres Semily",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "352",
+      "sidlo": "Krnov",
+      "pamatka": "bývalá přádelna s dílnou vzorkovny – dezinatura včetně strojního vybavení v areálu továrny Alois Larisch",
+      "okres": "okres Bruntál",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "353",
+      "sidlo": "Olomouc",
+      "pamatka": "vila Primavesi",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "354",
+      "sidlo": "Kočí",
+      "pamatka": "kostel svatého Bartoloměje",
+      "okres": "okres Chrudim",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "355",
+      "sidlo": "Pardubice",
+      "pamatka": "Pardubický zámek s opevněním",
+      "okres": "okres Pardubice",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "356",
+      "sidlo": "Pardubice",
+      "pamatka": "krematorium",
+      "okres": "okres Pardubice",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "357",
+      "sidlo": "Polička",
+      "pamatka": "kostel svatého Jakuba Většího s rodnou světničkou Bohuslava Martinů",
+      "okres": "okres Svitavy",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "358",
+      "sidlo": "Červené Poříčí",
+      "pamatka": "zámek Červené Poříčí",
+      "okres": "okres Klatovy",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "359",
+      "sidlo": "Chotěšov",
+      "pamatka": "klášter premonstrátek",
+      "okres": "okres Plzeň-jih",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "360",
+      "sidlo": "Dobřív",
+      "pamatka": "vodní hamr",
+      "okres": "okres Rokycany",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "361",
+      "sidlo": "Světce",
+      "pamatka": "jízdárna",
+      "okres": "okres Tachov",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "362",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "dům U Černé Matky Boží",
+      "okres": "Praha",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "363",
+      "sidlo": "Praha 3 – Vinohrady",
+      "pamatka": "kostel Nejsvětějšího Srdce Páně",
+      "okres": "Praha",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "364",
+      "sidlo": "Praha 6 – Bubeneč",
+      "pamatka": "čistírna odpadních vod",
+      "okres": "Praha",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "365",
+      "sidlo": "Průhonice",
+      "pamatka": "park a zámek",
+      "okres": "okres Praha-západ",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "366",
+      "sidlo": "Most",
+      "pamatka": "děkanský kostel Nanebevzetí Panny Marie",
+      "okres": "okres Most",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "367",
+      "sidlo": "Havlíčkův Brod",
+      "pamatka": "Štáflova chalupa",
+      "okres": "okres Havlíčkův Brod",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "368",
+      "sidlo": "Želiv",
+      "pamatka": "klášter premonstrátů",
+      "okres": "okres Pelhřimov",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "369",
+      "sidlo": "Střílky",
+      "pamatka": "hřbitov",
+      "okres": "okres Kroměříž",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "370",
+      "sidlo": "Velké Karlovice",
+      "pamatka": "fojtství",
+      "okres": "okres Vsetín",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "371",
+      "sidlo": "Vyšší Brod",
+      "pamatka": "Závišův kříž",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "372",
+      "sidlo": "Adamov",
+      "pamatka": "Světelský oltář",
+      "okres": "okres Blansko",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "373",
+      "sidlo": "Kopřivnice",
+      "pamatka": "železniční motorový vůz M 290.002 „Slovenská strela“",
+      "okres": "okres Nový Jičín",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "374",
+      "sidlo": "Praha",
+      "pamatka": "zlomek latinského překladu kroniky tak řečeného Dalimila",
+      "okres": "Praha",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "375",
+      "sidlo": "Praha",
+      "pamatka": "Přemyslovský krucifix z Jihlavy",
+      "okres": "Praha",
+      "vyhlaseno": 2010
+    },
+    {
+      "pamatkovy_katalog": "376",
+      "sidlo": "Příbram",
+      "pamatka": "soubor hornických památek v Březových Horách: vstupní portál Mariánské štoly portál ševčinské průjezdní štoly rudný důl Anna důl Vojtěch důl Ševčiny důl Drkolnov s historickým podzemím",
+      "okres": "okres Příbram",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "377",
+      "sidlo": "Stoječín",
+      "pamatka": "vodní pila v Penikově se strojním vybavením",
+      "okres": "okres Jindřichův Hradec",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "378",
+      "sidlo": "Bechyně",
+      "pamatka": "Bechyňský most",
+      "okres": "okres Tábor",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "379",
+      "sidlo": "Klatovy",
+      "pamatka": "zámek Týnec u Klatov",
+      "okres": "okres Klatovy",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "380",
+      "sidlo": "–",
+      "pamatka": "soubor plavebních kanálů na Šumavě: Plavební kanál Kaplického potoka Schwarzenberský kanál Vchynicko-Tetovský kanál",
+      "okres": "–",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "381",
+      "sidlo": "Jáchymov",
+      "pamatka": "Jáchymovská mincovna",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "382",
+      "sidlo": "Hřebečná",
+      "pamatka": "důl Mauritius",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "383",
+      "sidlo": "–",
+      "pamatka": "Dlouhá stoka s rybníky Kladským a Novým",
+      "okres": "okres Cheb a okres Sokolov",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "384",
+      "sidlo": "Buřany",
+      "pamatka": "Janatův mlýn",
+      "okres": "okres Semily",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "385",
+      "sidlo": "Harrachov",
+      "pamatka": "brusírna Harrachovské sklárny se strojním vybavením",
+      "okres": "okres Jablonec nad Nisou",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "386",
+      "sidlo": "Telecí",
+      "pamatka": "usedlost č. p. 16",
+      "okres": "okres Svitavy",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "387",
+      "sidlo": "Čistá",
+      "pamatka": "usedlost č. p. 171",
+      "okres": "okres Svitavy",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "388",
+      "sidlo": "Pardubice",
+      "pamatka": "Winternitzovy automatické mlýny",
+      "okres": "okres Pardubice",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "389",
+      "sidlo": "Slavoňov",
+      "pamatka": "kostel sv. Jana Křtitele se zvonicí a márnicí",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "390",
+      "sidlo": "Liberk",
+      "pamatka": "kostel sv. Petra a Pavla se zvonicí a farou",
+      "okres": "okres Rychnov nad Kněžnou",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "391",
+      "sidlo": "Tasice",
+      "pamatka": "sklárna",
+      "okres": "okres Havlíčkův Brod",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "392",
+      "sidlo": "Pohleď",
+      "pamatka": "Michalův statek",
+      "okres": "okres Havlíčkův Brod",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "393",
+      "sidlo": "Červená Řečice",
+      "pamatka": "zámek Červená Řečice",
+      "okres": "okres Pelhřimov",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "394",
+      "sidlo": "Adamov",
+      "pamatka": "železárna Stará huť",
+      "okres": "okres Blansko",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "395",
+      "sidlo": "Pavlov",
+      "pamatka": "viniční dům čp. 145",
+      "okres": "okres Břeclav",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "396",
+      "sidlo": "Louka",
+      "pamatka": "návesní zvonice",
+      "okres": "okres Hodonín",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "397",
+      "sidlo": "Kučerov",
+      "pamatka": "usedlost č. p. 12",
+      "okres": "okres Vyškov",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "398",
+      "sidlo": "Jasenná",
+      "pamatka": "Mikuláštíkovo fojtství",
+      "okres": "okres Zlín",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "399",
+      "sidlo": "Bařice-Velké Těšany",
+      "pamatka": "větrný mlýn",
+      "okres": "okres Kroměříž",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "400",
+      "sidlo": "Karlovice",
+      "pamatka": "kosárna",
+      "okres": "okres Bruntál",
+      "vyhlaseno": 2014
+    },
+    {
+      "pamatkovy_katalog": "401",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Žlutický kancionál",
+      "okres": "Praha",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "402",
+      "sidlo": "Brno - Brno-město",
+      "pamatka": "Madona z Veveří",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "403",
+      "sidlo": "Praha 7 – Holešovice",
+      "pamatka": "astronomické hodiny Engelberta Seigeho",
+      "okres": "Praha",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "404",
+      "sidlo": "Praha 7 – Holešovice",
+      "pamatka": "soubor dvou renesančních sextantů – sextant Josta Bürgiho, sextant Erasma Habermela",
+      "okres": "Praha",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "405",
+      "sidlo": "Brandýs nad Labem-Stará Boleslav",
+      "pamatka": "Staroboleslavské palladium",
+      "okres": "okres Praha-východ",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "406",
+      "sidlo": "Tábor",
+      "pamatka": "oltářní křídla z Roudník",
+      "okres": "okres Tábor",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "407",
+      "sidlo": "Vyšší Brod (zapůjčen do Prahy)",
+      "pamatka": "Vyšebrodský cyklus",
+      "okres": "okres Český Krumlov",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "408",
+      "sidlo": "Náchod",
+      "pamatka": "Šlikovská šperkovnice",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2016
+    },
+    {
+      "pamatkovy_katalog": "409",
+      "sidlo": "Praha",
+      "pamatka": "Ďáblický hřbitov s čestným pohřebištěm popravených a umučených politických vězňů a příslušníků druhého a třetího odboje",
+      "okres": "Praha",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "410",
+      "sidlo": "Praha",
+      "pamatka": "Invalidovna",
+      "okres": "Praha",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "411",
+      "sidlo": "Praha",
+      "pamatka": "palác Lucerna",
+      "okres": "Praha",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "412",
+      "sidlo": "Nymburk",
+      "pamatka": "krematorium",
+      "okres": "okres Nymburk",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "413",
+      "sidlo": "Mladá Boleslav",
+      "pamatka": "Střední strojní průmyslová škola",
+      "okres": "okres Mladá Boleslav",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "414",
+      "sidlo": "Rakovník",
+      "pamatka": "sokolovna",
+      "okres": "okres Rakovník",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "415",
+      "sidlo": "Poděbrady",
+      "pamatka": "vodní elektrárna",
+      "okres": "okres Nymburk",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "416",
+      "sidlo": "Brandýs nad Labem-Stará Boleslav",
+      "pamatka": "zámek s parkem",
+      "okres": "okres Praha-východ",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "417",
+      "sidlo": "Horní Blatná",
+      "pamatka": "Blatenský vodní kanál",
+      "okres": "okres Karlovy Vary",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "418",
+      "sidlo": "Cheb",
+      "pamatka": "chebská falc",
+      "okres": "okres Cheb",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "419",
+      "sidlo": "Ústí nad Orlicí",
+      "pamatka": "Městské divadlo",
+      "okres": "okres Ústí nad Orlicí",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "420",
+      "sidlo": "Jaroměř",
+      "pamatka": "Městské muzeum (Wenkeův obchodní dům)",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "421",
+      "sidlo": "Brno - Štýřice",
+      "pamatka": "krematorium a kolumbárium na Ústředním hřbitově",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "422",
+      "sidlo": "Znojmo",
+      "pamatka": "Loucký klášter",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "423",
+      "sidlo": "Opava",
+      "pamatka": "společenský dům (Obchodní a živnostenská komora)",
+      "okres": "okres Opava",
+      "vyhlaseno": 2017
+    },
+    {
+      "pamatkovy_katalog": "424",
+      "sidlo": "Praha 6 – Řepy",
+      "pamatka": "poutní areál s kostelem Panny Marie Vítězné",
+      "okres": "Praha",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "425",
+      "sidlo": "Svatý Jan pod Skalou",
+      "pamatka": "poutní areál Svatý Jan pod Skalou s kostelem Narození sv. Jana Křtitele se skalním kostelem a jeskyní sv. Ivana",
+      "okres": "okres Beroun",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "426",
+      "sidlo": "Horní Police",
+      "pamatka": "poutní areál s kostelem Navštívení Panny Marie s farou a zvonicí",
+      "okres": "okres Česká Lípa",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "427",
+      "sidlo": "Hejnice",
+      "pamatka": "poutní areál s kostelem Navštívení Panny Marie",
+      "okres": "okres Liberec",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "428",
+      "sidlo": "Bohosudov - Krupka",
+      "pamatka": "poutní areál s kostelem Panny Marie Bolestné",
+      "okres": "okres Teplice",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "429",
+      "sidlo": "Chlum Svaté Maří",
+      "pamatka": "poutní areál Chlum Svaté Maří s kostelem Nanebevzetí Panny Marie a sv. Maří Magdaleny",
+      "okres": "okres Sokolov",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "430",
+      "sidlo": "Kralovice - Mariánský Týnec",
+      "pamatka": "poutní areál Mariánská Týnice s kostelem Zvěstování Panny Marie",
+      "okres": "okres Plzeň-sever",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "431",
+      "sidlo": "Tábor - Klokoty",
+      "pamatka": "poutní areál v Klokotech s kostelem Nanebevzetí Panny Marie",
+      "okres": "okres Tábor",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "432",
+      "sidlo": "Římov",
+      "pamatka": "poutní areál s kostelem svatého Ducha a loretánskou kaplí",
+      "okres": "okres České Budějovice",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "433",
+      "sidlo": "Mikulov",
+      "pamatka": "Svatý kopeček u Mikulova s poutní kaplí sv. Šebestiána",
+      "okres": "okres Břeclav",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "434",
+      "sidlo": "Chvalčov",
+      "pamatka": "poutní areál Svatý Hostýn s křížovou cestou a kostelem Nanebevzetí Panny Marie",
+      "okres": "okres Kroměříž",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "435",
+      "sidlo": "Krnov - Pod Cvilínem",
+      "pamatka": "poutní areál s kostelem Panny Marie Sedmibolestné a Povýšení svatého Kříže",
+      "okres": "okres Bruntál",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "436",
+      "sidlo": "Tvrdkov - Ruda",
+      "pamatka": "křížová cesta a kostel Panny Marie Sněžné",
+      "okres": "okres Bruntál",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "437",
+      "sidlo": "Frýdek-Místek - Frýdek",
+      "pamatka": "poutní areál s kostelem Navštívení Panny Marie",
+      "okres": "okres Frýdek-Místek",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "438",
+      "sidlo": "Olomouc - Svatý Kopeček",
+      "pamatka": "poutní areál Svatý Kopeček u Olomouce s kostelem Navštívení Panny Marie",
+      "okres": "okres Olomouc",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "439",
+      "sidlo": "Králíky - Dolní Hedeč",
+      "pamatka": "poutní areál Hora Matky Boží u Králík s kostelem Nanebevzetí Panny Marie",
+      "okres": "okres Ústí nad Orlicí",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "440",
+      "sidlo": "Luže",
+      "pamatka": "poutní areál s kostelem Panny Marie Pomocné a jezuitskou rezidencí na Chlumku",
+      "okres": "okres Chrudim",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "441",
+      "sidlo": "Jaroměřice",
+      "pamatka": "poutní areál s kostelem Povýšení svatého Kříže na hoře Kalvárie",
+      "okres": "okres Svitavy",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "442",
+      "sidlo": "Lhoty u Potštejna",
+      "pamatka": "poutní areál Lhoty u Potštejna s kostelem Panny Marie Bolestné",
+      "okres": "okres Rychnov nad Kněžnou",
+      "vyhlaseno": 2018
+    },
+    {
+      "pamatkovy_katalog": "466",
+      "sidlo": "Praha 5 – Smíchov",
+      "pamatka": "usedlost Bertramka",
+      "okres": "Praha",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "467",
+      "sidlo": "Praha 2 – Nové Město",
+      "pamatka": "kostel sv. Cyrila a Metoděje",
+      "okres": "Praha",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "468",
+      "sidlo": "Praha 2 – Nové Město",
+      "pamatka": "Hlávkova studentská kolej",
+      "okres": "Praha",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "469",
+      "sidlo": "Praha 2 – Vinohrady",
+      "pamatka": "budova Československého rozhlasu",
+      "okres": "Praha",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "470",
+      "sidlo": "Praha 3 – Žižkov",
+      "pamatka": "hrob Jana Palacha",
+      "okres": "Praha",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "471",
+      "sidlo": "Lány",
+      "pamatka": "hrobka Tomáše Garrigua Masaryka",
+      "okres": "okres Kladno",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "472",
+      "sidlo": "Pardubice - Pardubičky",
+      "pamatka": "Zámeček v Pardubičkách – Larischova vila",
+      "okres": "okres Pardubice",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "473",
+      "sidlo": "Vítkov",
+      "pamatka": "hrob Jana Zajíce",
+      "okres": "okres Opava",
+      "vyhlaseno": 2019
+    },
+    {
+      "pamatkovy_katalog": "475",
+      "sidlo": "Bezděkov nad Metují",
+      "pamatka": "kostel svatého Prokopa",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "476",
+      "sidlo": "Božanov",
+      "pamatka": "kostel svaté Máří Magdaleny",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "477",
+      "sidlo": "Broumov",
+      "pamatka": "kostel svatého Václava",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "478",
+      "sidlo": "Heřmánkovice",
+      "pamatka": "kostel Všech svatých",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "479",
+      "sidlo": "Police nad Metují - Hlavňov",
+      "pamatka": "kaple Panny Marie Sněžné na Hvězdě",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "480",
+      "sidlo": "Otovice",
+      "pamatka": "kostel svaté Barbory",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "481",
+      "sidlo": "Ruprechtice",
+      "pamatka": "kostel svatého Jakuba Většího",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "482",
+      "sidlo": "Šonov",
+      "pamatka": "kostel svaté Markéty",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "483",
+      "sidlo": "Vernéřovice",
+      "pamatka": "kostel svatého archanděla Michaela",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "484",
+      "sidlo": "Vižňov",
+      "pamatka": "kostel svaté Anny",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "485",
+      "sidlo": "Martínkovice",
+      "pamatka": "kostel Panny Marie, svatého Jiří a svatého Martina",
+      "okres": "okres Náchod",
+      "vyhlaseno": 2022
+    },
+    {
+      "pamatkovy_katalog": "486",
+      "sidlo": "Mnichov - Pivoň",
+      "pamatka": "klášter augustiniánů",
+      "okres": "okres Domažlice",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "487",
+      "sidlo": "Horní Jiřetín - Jezeří",
+      "pamatka": "zámek Jezeří s arboretem",
+      "okres": "okres Most",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "488",
+      "sidlo": "Roudnice nad Labem",
+      "pamatka": "klášter augustiniánů",
+      "okres": "okres Litoměřice",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "489",
+      "sidlo": "Brno - Bystrc",
+      "pamatka": "Hrad Veveří",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "490",
+      "sidlo": "Brno - Staré Brno",
+      "pamatka": "klášter augustiniánů s chrámem Nanebevzetí Panny Marie",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "491",
+      "sidlo": "Moravský Krumlov",
+      "pamatka": "zámek Moravský Krumlov",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "492",
+      "sidlo": "Rosice",
+      "pamatka": "zámek Rosice",
+      "okres": "okres Brno-venkov",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "493",
+      "sidlo": "Plumlov",
+      "pamatka": "zámek Plumlov",
+      "okres": "okres Prostějov",
+      "vyhlaseno": 2023
+    },
+    {
+      "pamatkovy_katalog": "494",
+      "sidlo": "Praha 1 – Malá Strana",
+      "pamatka": "Malostranská radnice",
+      "okres": "Praha",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "495",
+      "sidlo": "Poděbrady",
+      "pamatka": "pomník krále Jiřího z Poděbrad",
+      "okres": "okres Nymburk",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "496",
+      "sidlo": "Prachatice",
+      "pamatka": "Stará radnice královského města Prachatice",
+      "okres": "okres Prachatice",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "497",
+      "sidlo": "Plzeň",
+      "pamatka": "Radnice královského města Plzeň",
+      "okres": "okres Plzeň-město",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "498",
+      "sidlo": "Poběžovice",
+      "pamatka": "hrad a zámek Poběžovice",
+      "okres": "okres Domažlice",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "499",
+      "sidlo": "Kadaň",
+      "pamatka": "Radnice královského města Kadaň",
+      "okres": "okres Chomutov",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "500",
+      "sidlo": "Litoměřice",
+      "pamatka": "Radnice královského města Litoměřice",
+      "okres": "okres Litoměřice",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "501",
+      "sidlo": "Jablonec nad Nisou",
+      "pamatka": "Nová radnice města Jablonec nad Nisou",
+      "okres": "okres Jablonec nad Nisou",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "502",
+      "sidlo": "Liberec",
+      "pamatka": "Radnice města Liberec",
+      "okres": "okres Liberec",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "503",
+      "sidlo": "Hostinné",
+      "pamatka": "Radnice města Hostinné",
+      "okres": "okres Trutnov",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "504",
+      "sidlo": "Havlíčkův Brod",
+      "pamatka": "Radnice královského města Havlíčkův Brod",
+      "okres": "okres Havlíčkův Brod",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "505",
+      "sidlo": "Brno - Brno-město",
+      "pamatka": "Stará radnice královského města Brna",
+      "okres": "okres Brno-město",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "506",
+      "sidlo": "Kyjov",
+      "pamatka": "Radnice komorního města Kyjov",
+      "okres": "okres Hodonín",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "507",
+      "sidlo": "Znojmo",
+      "pamatka": "Radnice královského města Znojma",
+      "okres": "okres Znojmo",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "508",
+      "sidlo": "Prostějov",
+      "pamatka": "Nová radnice města Prostějov",
+      "okres": "okres Prostějov",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "509",
+      "sidlo": "Ostrava - Moravská Ostrava",
+      "pamatka": "Nová radnice města Ostravy",
+      "okres": "okres Ostrava-město",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "510",
+      "sidlo": "Plzeň - Východní Předměstí",
+      "pamatka": "Křižíkova tramvaj z roku 1899",
+      "okres": "okres Plzeň-město",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "511",
+      "sidlo": "Praha 6 – Střešovice",
+      "pamatka": "Primátorská tramvaj z roku 1900",
+      "okres": "Praha",
+      "vyhlaseno": 2024
+    },
+    {
+      "pamatkovy_katalog": "512",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Černínský palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "513",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Toskánský palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "514",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Schwarzenberský palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "515",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Salmovský palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "516",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Šternberský palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "517",
+      "sidlo": "Praha 1 – Hradčany",
+      "pamatka": "Arcibiskupský palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "518",
+      "sidlo": "Praha 1 – Malá Strana",
+      "pamatka": "Nostický palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "519",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Colloredo-Mansfeldský palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "520",
+      "sidlo": "Praha 1 – Staré Město",
+      "pamatka": "Clam-Gallasův palác",
+      "okres": "Praha",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "521",
+      "sidlo": "Kutná Hora - Sedlec",
+      "pamatka": "kostel Nanebevzetí Panny Marie a sv. Jana Křtitele",
+      "okres": "okres Kutná Hora",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "522",
+      "sidlo": "Kutná Hora - Sedlec",
+      "pamatka": "hřbitovní kaple Všech svatých s kostnicí",
+      "okres": "okres Kutná Hora",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "523",
+      "sidlo": "Klatovy - Klatovy I",
+      "pamatka": "kostel Neposkvrněného Početí Panny Marie a sv. Ignáce s katakombami a budovou latinské školy",
+      "okres": "okres Klatovy",
+      "vyhlaseno": 2026
+    },
+    {
+      "pamatkovy_katalog": "524",
+      "sidlo": "Moravská Třebová - Město",
+      "pamatka": "zámek Moravská Třebová",
+      "okres": "okres Svitavy",
+      "vyhlaseno": 2026
+    }
+  ],
+  "meta": {
+    "title": "Národní kulturní památky České republiky - Free Download",
+    "description": "Nemovité národní kulturní památky České republiky se sídlem, okresem, číslem v památkovém katalogu a rokem vyhlášení. Contains 396 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Národní kulturní památky České republiky | ListBase",
+    "seo_description": "Download Národní kulturní památky České republiky — 396 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 396 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_národních_kulturních_památek_České_republiky"
+    ]
+  }
+}

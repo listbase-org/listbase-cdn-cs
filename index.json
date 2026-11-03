@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-03T02:24:58.753Z",
-  "total_datasets": 527,
-  "total_records": 417788,
+  "generated": "2026-11-03T02:25:06.179Z",
+  "total_datasets": 528,
+  "total_records": 418184,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "economy",
@@ -1021,6 +1021,32 @@
         "xlsx": {
           "name": "cs-kostely_CS.xlsx",
           "size": 2694425
+        }
+      }
+    },
+    {
+      "id": "cs-narodni-kulturni-pamatky",
+      "name": "Národní kulturní památky České republiky",
+      "category": "culture",
+      "record_count": 396,
+      "columns": [
+        "pamatkovy_katalog",
+        "sidlo",
+        "pamatka",
+        "okres",
+        "vyhlaseno"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_národních_kulturních_památek_České_republiky",
+      "updated": "2026-11",
+      "size": 77725,
+      "files": {
+        "csv": {
+          "name": "cs-narodni-kulturni-pamatky_CS.csv",
+          "size": 33159
+        },
+        "xlsx": {
+          "name": "cs-narodni-kulturni-pamatky_CS.xlsx",
+          "size": 25839
         }
       }
     },
