@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-03T02:24:44.433Z",
-  "total_datasets": 525,
-  "total_records": 417740,
+  "generated": "2026-11-03T02:24:50.611Z",
+  "total_datasets": 526,
+  "total_records": 417767,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -1581,6 +1581,34 @@
         "xlsx": {
           "name": "cs-materske-skoly_CS.xlsx",
           "size": 75931
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-skolstvi",
+      "name": "Ministři školství, mládeže a tělovýchovy České republiky",
+      "category": "education",
+      "record_count": 27,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana",
+        "vlada"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_školství,_mládeže_a_tělovýchovy_České_republiky",
+      "updated": "2026-11",
+      "size": 8147,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-skolstvi_CS.csv",
+          "size": 2500
+        },
+        "xlsx": {
+          "name": "cs-ministri-skolstvi_CS.xlsx",
+          "size": 8346
         }
       }
     },

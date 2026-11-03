@@ -1,0 +1,304 @@
+{
+  "id": "cs-ministri-skolstvi",
+  "name": "Ministři školství, mládeže a tělovýchovy České republiky",
+  "title": "Ministři školství, mládeže a tělovýchovy České republiky",
+  "description": "Seznam ministrů školství České republiky od roku 1992 s datem nástupu a odchodu z úřadu, počtem dní v úřadu, stranou a vládou.",
+  "category": "education",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_školství,_mládeže_a_tělovýchovy_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_školství,_mládeže_a_tělovýchovy_České_republiky",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "ministr": "Petr Piťha",
+      "nastup": "3. července 1992",
+      "odchod": "27. dubna 1994",
+      "dny_v_uradu": 663,
+      "strana": "KDS",
+      "vlada": "Klaus I."
+    },
+    {
+      "poradi": 2,
+      "ministr": "Ivan Pilip",
+      "nastup": "2. května 1994",
+      "odchod": "2. června 1997",
+      "dny_v_uradu": 1127,
+      "strana": "KDS",
+      "vlada": "Klaus I."
+    },
+    {
+      "poradi": 2,
+      "ministr": "Ivan Pilip",
+      "nastup": "2. května 1994",
+      "odchod": "2. června 1997",
+      "dny_v_uradu": 1127,
+      "strana": "ODS",
+      "vlada": "Klaus II."
+    },
+    {
+      "poradi": 3,
+      "ministr": "Jiří Gruša",
+      "nastup": "3. června 1997",
+      "odchod": "2. ledna 1998",
+      "dny_v_uradu": 213,
+      "strana": "nestraník za ODS",
+      "vlada": "Klaus II."
+    },
+    {
+      "poradi": 4,
+      "ministr": "Jan Sokol",
+      "nastup": "3. ledna 1998",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 200,
+      "strana": "nestraník za KDU-ČSL",
+      "vlada": "Tošovský"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Eduard Zeman",
+      "nastup": "22. července 1998",
+      "odchod": "15. července 2002",
+      "dny_v_uradu": 1454,
+      "strana": "ČSSD",
+      "vlada": "Zeman"
+    },
+    {
+      "poradi": 6,
+      "ministr": "Petra Buzková",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 1512,
+      "strana": "ČSSD",
+      "vlada": "Špidla"
+    },
+    {
+      "poradi": 6,
+      "ministr": "Petra Buzková",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 1512,
+      "strana": "ČSSD",
+      "vlada": "Gross"
+    },
+    {
+      "poradi": 6,
+      "ministr": "Petra Buzková",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 1512,
+      "strana": "ČSSD",
+      "vlada": "Paroubek"
+    },
+    {
+      "poradi": 7,
+      "ministr": "Miroslava Kopicová",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007",
+      "dny_v_uradu": 126,
+      "strana": "nestranička za ODS",
+      "vlada": "Topolánek I."
+    },
+    {
+      "poradi": 8,
+      "ministr": "Dana Kuchtová",
+      "nastup": "9. ledna 2007",
+      "odchod": "4. října 2007",
+      "dny_v_uradu": 268,
+      "strana": "SZ",
+      "vlada": "Topolánek II."
+    },
+    {
+      "poradi": 9,
+      "ministr": "Martin Bursík",
+      "nastup": "2. listopadu 2007",
+      "odchod": "4. prosince 2007",
+      "dny_v_uradu": 32,
+      "strana": "SZ",
+      "vlada": "Topolánek II."
+    },
+    {
+      "poradi": 10,
+      "ministr": "Ondřej Liška",
+      "nastup": "4. prosince 2007",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 521,
+      "strana": "SZ",
+      "vlada": "Topolánek II."
+    },
+    {
+      "poradi": 11,
+      "ministr": "Miroslava Kopicová",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "dny_v_uradu": 431,
+      "strana": "nestranička nom. ODS",
+      "vlada": "Fischer"
+    },
+    {
+      "poradi": 12,
+      "ministr": "Josef Dobeš",
+      "nastup": "13. července 2010",
+      "odchod": "31. března 2012",
+      "dny_v_uradu": 627,
+      "strana": "VV",
+      "vlada": "Nečas"
+    },
+    {
+      "poradi": 13,
+      "ministr": "Petr Fiala",
+      "nastup": "2. května 2012",
+      "odchod": "10. července 2013",
+      "dny_v_uradu": 434,
+      "strana": "nestraník za ODS",
+      "vlada": "Nečas"
+    },
+    {
+      "poradi": 14,
+      "ministr": "Dalibor Štys",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 203,
+      "strana": "nestraník",
+      "vlada": "Rusnok"
+    },
+    {
+      "poradi": 15,
+      "ministr": "Marcel Chládek",
+      "nastup": "29. ledna 2014",
+      "odchod": "5. června 2015",
+      "dny_v_uradu": 492,
+      "strana": "ČSSD",
+      "vlada": "Sobotka"
+    },
+    {
+      "poradi": 16,
+      "ministr": "Michaela Marksová",
+      "nastup": "5. června 2015",
+      "odchod": "17. června 2015",
+      "dny_v_uradu": 12,
+      "strana": "ČSSD",
+      "vlada": "Sobotka"
+    },
+    {
+      "poradi": 17,
+      "ministr": "Kateřina Valachová",
+      "nastup": "17. června 2015",
+      "odchod": "21. června 2017",
+      "dny_v_uradu": 735,
+      "strana": "nestranička za ČSSD ČSSD (od 2015)",
+      "vlada": "Sobotka"
+    },
+    {
+      "poradi": 18,
+      "ministr": "Stanislav Štech",
+      "nastup": "21. června 2017",
+      "odchod": "13. prosince 2017",
+      "dny_v_uradu": 175,
+      "strana": "nestraník za ČSSD",
+      "vlada": "Sobotka"
+    },
+    {
+      "poradi": 19,
+      "ministr": "Robert Plaga",
+      "nastup": "13. prosince 2017",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1465,
+      "strana": "ANO (do 2020) nestr. za ANO",
+      "vlada": "Babiš I."
+    },
+    {
+      "poradi": 19,
+      "ministr": "Robert Plaga",
+      "nastup": "13. prosince 2017",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1465,
+      "strana": "ANO (do 2020) nestr. za ANO",
+      "vlada": "Babiš II."
+    },
+    {
+      "poradi": 20,
+      "ministr": "Petr Gazdík",
+      "nastup": "17. prosince 2021",
+      "odchod": "29. června 2022",
+      "dny_v_uradu": 195,
+      "strana": "STAN",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 21,
+      "ministr": "Vladimír Balaš",
+      "nastup": "29. června 2022",
+      "odchod": "4. května 2023",
+      "dny_v_uradu": 309,
+      "strana": "STAN",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 22,
+      "ministr": "Mikuláš Bek",
+      "nastup": "4. května 2023",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 956,
+      "strana": "STAN",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 23,
+      "ministr": "Robert Plaga",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": 323,
+      "strana": "nestr. za ANO",
+      "vlada": "Babiš III."
+    }
+  ],
+  "meta": {
+    "title": "Ministři školství, mládeže a tělovýchovy České republiky - Free Download",
+    "description": "Seznam ministrů školství České republiky od roku 1992 s datem nástupu a odchodu z úřadu, počtem dní v úřadu, stranou a vládou. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři školství, mládeže a tělovýchovy České republiky | ListBase",
+    "seo_description": "Download Ministři školství, mládeže a tělovýchovy České republiky — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_školství,_mládeže_a_tělovýchovy_České_republiky"
+    ]
+  }
+}
