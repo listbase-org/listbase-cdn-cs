@@ -1,0 +1,3034 @@
+{
+  "id": "cs-filmove-pohadky",
+  "name": "České filmové a televizní pohádky",
+  "title": "České filmové a televizní pohádky",
+  "description": "Abecední seznam českých (a československých) filmových, televizních a seriálových pohádek s typem a rokem vzniku.",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_českých_filmových_pohádek",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_českých_filmových_pohádek",
+  "updated": "2026-11",
+  "record_count": 498,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "100 + 1 princezna",
+      "typ": "film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "…a zase ta Lucie!",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "A co ten ruksak, králi?",
+      "typ": "film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "A kde je Muf?",
+      "typ": "film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Abaj a Žabaj",
+      "typ": "film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Anděl",
+      "typ": "film",
+      "rok": 2010,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Anděl Páně",
+      "typ": "film",
+      "rok": 2005,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Anděl Páně 2",
+      "typ": "film",
+      "rok": 2016,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Anička s lískovými oříšky",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Anynka a čert",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Arabela",
+      "typ": "TV seriál",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ariadnina nit",
+      "typ": "TV film",
+      "rok": 1992,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ať přiletí čáp, královno!",
+      "typ": "TV film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ať žijí duchové!",
+      "typ": "film",
+      "rok": 1977,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Až já budu královna",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Až kohout snese vejce",
+      "typ": "TV film",
+      "rok": 2005,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Až přijde kocour",
+      "typ": "film",
+      "rok": 1963,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bajaja",
+      "typ": "film",
+      "rok": 1950,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bajaja",
+      "typ": "film",
+      "rok": 1960,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Balónová pohádka",
+      "typ": "film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bedna s datlemi",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Berenika",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Berenika stříhá vlasy",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bezvousák a princezna Kamila",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bílá kočička",
+      "typ": "TV film",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Blaťácká povídačka",
+      "typ": "film",
+      "rok": 1977,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Blankytná pohádka",
+      "typ": "film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bludiště cest",
+      "typ": "film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Boháč a chudák",
+      "typ": "TV film",
+      "rok": 2005,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Brnění a rolničky",
+      "typ": "TV film",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bronzová koruna",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Bůh ví...",
+      "typ": "TV film",
+      "rok": 2002,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Byl jednou jeden král…",
+      "typ": "film",
+      "rok": 1954,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Cesta do pekla a zpátky",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Cesta do srdce osmého trpaslíka",
+      "typ": "film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Císař a tambor",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Císařovy nové šaty",
+      "typ": "film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Císařův pekař – Pekařův císař",
+      "typ": "TV film",
+      "rok": 1951,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Co poudala bába Futeř",
+      "typ": "film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Co takhle svatba, princi",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Cyprián a bezhlavý prapradědeček",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čarodějné námluvy",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čarovné jablko",
+      "typ": "TV film, ČR, SK",
+      "rok": 2024,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čarovný kamínek",
+      "typ": "TV film, ČR, SK",
+      "rok": 2019,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Černobílá pohádka",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Černokněžník",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Černovláska",
+      "typ": "TV film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čert a dráha",
+      "typ": "film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čert na zemi",
+      "typ": "film",
+      "rok": 1975,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čert ví proč",
+      "typ": "film",
+      "rok": 2003,
+      "poznamka": "česko-německo slovenská koprodukce"
+    },
+    {
+      "nazev": "Čerte, drž se svého kopyta!",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čerte, tady straší!",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čertí brko",
+      "typ": "film",
+      "rok": 2018,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čertova nevěsta",
+      "typ": "TV film",
+      "rok": 1975,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čertova nevěsta",
+      "typ": "film",
+      "rok": 2011,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čertova skála (film)",
+      "typ": "TV film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čertoviny",
+      "typ": "film",
+      "rok": 2017,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čertovská poudačka",
+      "typ": "film",
+      "rok": 1966,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čertův švagr",
+      "typ": "TV film",
+      "rok": 1974,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Červánková královna",
+      "typ": "film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Červený kamínek",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Česká muzika",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Člověk, leopard, pes a opice",
+      "typ": "F Anim",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čarovné dědictví",
+      "typ": "film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Čarovné prstýnky",
+      "typ": "TV film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dalskabáty, hříšná ves aneb Zapomenutý čert",
+      "typ": "TV film",
+      "rok": 1976,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Darmošlap z Nemanic a princezna Terezka",
+      "typ": "film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Darounická poudačka",
+      "typ": "film",
+      "rok": 1964,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dařbuján a Pandrhola",
+      "typ": "film",
+      "rok": 1959,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dceruška Růže",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dědo, čaruj",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dešťová víla",
+      "typ": "film",
+      "rok": 2010,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Deváté srdce",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dick Whittington",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dilino a čert",
+      "typ": "TV film",
+      "rok": 2009,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dívka na koštěti",
+      "typ": "film",
+      "rok": 1971,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dobro a zlo",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Drátařík a hruška moudrosti",
+      "typ": "film",
+      "rok": 2003,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dřevěná Marika",
+      "typ": "TV film",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Duhová hora",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Duhová panna",
+      "typ": "F – koprodukce ČR-SK",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Duch času",
+      "typ": "TV film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Duch nad zlato",
+      "typ": "TV film",
+      "rok": 2013,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dům U Zlatého úsvitu",
+      "typ": "TV film",
+      "rok": 2009,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dva Janové a ovečka",
+      "typ": "film",
+      "rok": 1992,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dvanáct měsíčků",
+      "typ": "film",
+      "rok": 1992,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dvanáct měsíčků",
+      "typ": "film",
+      "rok": 2012,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Dvojčata",
+      "typ": "film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ďábelské klíče",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Fišpánská jablíčka",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Fousatá pohádka",
+      "typ": "TV film",
+      "rok": 1963,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Františka aneb O zelených svících a Černé Matce Boží",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Fredy a Zlatovláska",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Freonový duch",
+      "typ": "film",
+      "rok": 1991,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Fubu",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hamernická povídačka",
+      "typ": "film",
+      "rok": 1975,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hastrmanská povídačka",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hedvábí a slzy",
+      "typ": "film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hejkal",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hejkalka",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hodina splněných přání",
+      "typ": "TV film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hodinářův učeň",
+      "typ": "TV film, ČR, SK",
+      "rok": 2019,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Honza a tajemná Hastroška",
+      "typ": "film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Honza a tři zakleté princezny",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Honza málem králem",
+      "typ": "film",
+      "rok": 1977,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hospoda U Bílé kočky",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hrad stínů",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hrátky s čertem",
+      "typ": "film",
+      "rok": 1956,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Husarská čest",
+      "typ": "film",
+      "rok": 1991,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hvězda života",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Hvězdopravcův dar",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Chán Sulejmán a víla Fatmé",
+      "typ": "film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Chladné srdce",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Chytrá princezna",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Chytrost má děravé šaty",
+      "typ": "film",
+      "rok": 1974,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Já nechci být víla!",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak chutná láska",
+      "typ": "TV film",
+      "rok": 2002,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak Jaromil ke štěstí přišel",
+      "typ": "TV film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak přišli kováři k měchu",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se budí princezny",
+      "typ": "film",
+      "rok": 1977,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se Franta naučil bát",
+      "typ": "film",
+      "rok": 1959,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se Kuba stal mlynářem",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se Matěj učil čarodějem",
+      "typ": "TV film",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se mele babí hněv",
+      "typ": "TV film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se peče štěstí",
+      "typ": "TV film",
+      "rok": 1981,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se stal švec Dratvička tchánem pana krále",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak se tančí brumbambule",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak si nevzít princeznu",
+      "typ": "TV film",
+      "rok": 2021,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak si pan Pinajs kupoval od kocoura sádlo",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak si zasloužit princeznu",
+      "typ": "film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak vyléčit Ježibabu",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jak vyženit z pekla štěstí",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jakub a Modřínka",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jamamba",
+      "typ": "film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Janek nad Janky",
+      "typ": "TV film",
+      "rok": 2003,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jediná na světě",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jeníček a Mařenka",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jestřábí moudrost",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Jezerní královna",
+      "typ": "F – koprodukce ČR-Německo",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kačenka a strašidla",
+      "typ": "film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kačenka a zase ta strašidla",
+      "typ": "film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kačenka a Zlatovlásek",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kašpárek a Budulínek",
+      "typ": "film",
+      "rok": 1927,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kašpárek kouzelníkem",
+      "typ": "film",
+      "rok": 1927,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kašpárkovy rolničky",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kdo hledá, najde",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kdo probudí pindruše...?",
+      "typ": "TV film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kdyby byly ryby",
+      "typ": "film",
+      "rok": 2014,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Když draka bolí hlava",
+      "typ": "TV film, ČR, SK",
+      "rok": 2018,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Klíč svatého Petra",
+      "typ": "TV film, ČR",
+      "rok": 2023,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Klobouk, měšec a láska",
+      "typ": "TV film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kočičí princ",
+      "typ": "TV film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kočičí princezna",
+      "typ": "film",
+      "rok": 2005,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Koloběžka První",
+      "typ": "TV film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Korunní princ",
+      "typ": "TV film",
+      "rok": 2015,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzelná tetička Valentýna",
+      "typ": "film",
+      "rok": 2010,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzelnice",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzelník Žito",
+      "typ": "TV film",
+      "rok": 2018,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzelný bolehoj",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzelný domeček",
+      "typ": "TV film",
+      "rok": 1960,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzelný měšec",
+      "typ": "F – koprodukce ČR-Německo",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzelný šíp",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kouzla králů",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kovář z Podlesí",
+      "typ": "film",
+      "rok": 2013,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Král Drozdí brada",
+      "typ": "film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Král Honza",
+      "typ": "film",
+      "rok": 1975,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Král ozvěny",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Král sokolů",
+      "typ": "F – koprodukce ČR-SK-PL-Maďarsko",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Královna štěstí",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Královny kouzelného lesa",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Královský slib",
+      "typ": "film",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Království květin",
+      "typ": "film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Království potoků",
+      "typ": "TV film",
+      "rok": 2005,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Království stromů",
+      "typ": "TV film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Krása",
+      "typ": "film",
+      "rok": 1976,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kráska a netvor",
+      "typ": "TV film",
+      "rok": 2002,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kryštof a Kristina",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Křesadlo",
+      "typ": "TV film",
+      "rok": 1968,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Křesadlo",
+      "typ": "TV film",
+      "rok": 2004,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Křišťálek meč",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Kulihrášek a zakletá princezna",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Květuška a její zahrádka",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Labakan",
+      "typ": "film",
+      "rok": 1956,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Láďo, ty jsi princezna!",
+      "typ": "film",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Láska rohatá",
+      "typ": "film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Legenda o lásce",
+      "typ": "film",
+      "rok": 1956,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Lesní panna",
+      "typ": "TV film",
+      "rok": 1973,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Létající Čestmír",
+      "typ": "TV seriál",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Lojzička je číslo",
+      "typ": "TV film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Lolinka a knírač",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Lotrando a Zubejda",
+      "typ": "F – koprodukce ČR-Bulharsko-FR",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Lucie, postrach ulice",
+      "typ": "TV film – koprodukce ČSSR-NSR",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Malá mořská víla",
+      "typ": "film",
+      "rok": 1976,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Marie Růžička",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Micimutr",
+      "typ": "film",
+      "rok": 2011,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Modrá krev",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Modrý pták",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Mořská brána",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nasredin",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Návrat cínové hole",
+      "typ": "TV film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nebe a Vincek",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nebojsa",
+      "typ": "film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nejkrásnější hádanka",
+      "typ": "film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nejlepší přítel",
+      "typ": "TV film",
+      "rok": 2017,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nejrychlejší Matěj na světe",
+      "typ": "film",
+      "rok": 2011,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Největší dar",
+      "typ": "TV film",
+      "rok": 2022,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Neklejte, princi",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Není houba jako houba",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nepovedený čert",
+      "typ": "TV film",
+      "rok": 2016,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nesmělý Mikeš",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nesmrtelná teta",
+      "typ": "film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nevěsta pro Paddyho",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nevěsta s nejkrásnějšíma očima",
+      "typ": "film",
+      "rok": 1975,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nevěsta s velkýma nohama",
+      "typ": "TV film",
+      "rok": 2002,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Nezbedná pohádka",
+      "typ": "film",
+      "rok": 1976,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Noční mora",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O bílé paní",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O bílé princezně",
+      "typ": "F animovaný",
+      "rok": 1981,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O bojácném Floriánkovi",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O botách se zřalokem",
+      "typ": "film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O dívce, která šlápla na chléb",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O čarovné Laskonce",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Držgrešlovi a Drždukátovi",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O falešných muzikantech",
+      "typ": "film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O hloupé havířce",
+      "typ": "TV film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O hloupé ženě",
+      "typ": "film",
+      "rok": 1968,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O hloupém Matějovi",
+      "typ": "film",
+      "rok": 1969,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O holiči a barvíři",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Honzovi a Barušce",
+      "typ": "film",
+      "rok": 1977,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Honzovi a princezně Dorince",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Honzovi a princezně Félince –",
+      "typ": "film",
+      "rok": 1968,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O houbovém Kubovi a princi Jakubovi",
+      "typ": "TV film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O hruškách ušatkách a jablíčku parohátku",
+      "typ": "film",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O chytré princezně",
+      "typ": "film",
+      "rok": 1966,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O chytré horákyni",
+      "typ": "film",
+      "rok": 1968,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O chytrém Honzovi aneb Jak se Honza stal králem",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O chytrém šachovi",
+      "typ": "TV film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Janovi a podivuhodném příteli",
+      "typ": "film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Ječmínkovi",
+      "typ": "TV film",
+      "rok": 2003,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Johance s dlouhými vlasy",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kominickém učni a dceři cukráře",
+      "typ": "film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O korálových vílách",
+      "typ": "film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kouzelné lahvi",
+      "typ": "film",
+      "rok": 2019,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kouzelné píšťalce",
+      "typ": "film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kouzelné šišce",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kouzelném zvonu",
+      "typ": "F Anim",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kouzelnici Klotýnce",
+      "typ": "film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kováři Básimovi",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O králi, hvězdáři, kejklíři a třech muzikantech",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O kumburské Meluzíně",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O labuti",
+      "typ": "film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O léčivé vodě",
+      "typ": "TV film",
+      "rok": 2020,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O malíři Adamovi",
+      "typ": "film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O malířské Lidušce",
+      "typ": "film",
+      "rok": 1977,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O medvědu Ondřejovi",
+      "typ": "film",
+      "rok": 1959,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O modrém ptáčku",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O moudré Sorfarině",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O mrňavém obrovi",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O myrtové panně",
+      "typ": "TV film",
+      "rok": 1992,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O námořní bitvě",
+      "typ": "film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O nejchytřejší princezně",
+      "typ": "TV film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Nesytovi",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Palečkovi",
+      "typ": "TV film",
+      "rok": 1955,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O perlové panně",
+      "typ": "film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O perníkové chaloupce",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O podezíravém králi",
+      "typ": "TV film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O pokladech",
+      "typ": "TV film",
+      "rok": 2012,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Popelákovi",
+      "typ": "film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně Furieně",
+      "typ": "animovaný",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně Jasněnce a létajícím ševci",
+      "typ": "film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně na klíček",
+      "typ": "TV film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně se zlatým lukem",
+      "typ": "TV film",
+      "rok": 2002,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně solimánské",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně z Rimini",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně, která nesměla na slunce",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně, která nesměla na slunce",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně, která pořád vařila",
+      "typ": "TV film",
+      "rok": 1967,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně, která ráčkovala",
+      "typ": "TV film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princezně, měsíci a hvězdě",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princi Janovi a princezně Marfušce",
+      "typ": "TV film",
+      "rok": 1974,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princi Truhlíkovi",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O princi, který měl o kolečko víc",
+      "typ": "film",
+      "rok": 1992,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O prkýnkových želvách",
+      "typ": "film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O pyšném panovníkovi",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Rozárce a zakletém králi",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Radkovi a Mileně",
+      "typ": "TV film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O rybáři a rybce",
+      "typ": "TV film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O smutné princezně",
+      "typ": "animovaný",
+      "rok": 1991,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O spanilé Jašince",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O spící princezně, šípkových růžích a uražené víle",
+      "typ": "TV film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O statečné princezně Janě",
+      "typ": "TV film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O statečném kováři",
+      "typ": "film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O stříbrném a zlatém vajíčku",
+      "typ": "film",
+      "rok": 1981,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O stříbrném kamínku",
+      "typ": "film",
+      "rok": 1976,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O svatební krajce",
+      "typ": "TV film",
+      "rok": 2003,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Šedivákovi",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Šípkové Růžence",
+      "typ": "TV film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O štěstí a kráse",
+      "typ": "TV film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O Terezce a paní Madam",
+      "typ": "film",
+      "rok": 1976,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O třech rytířích, krásné paní a lněné kytli",
+      "typ": "film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O vánoční hvězdě",
+      "typ": "TV film",
+      "rok": 2020,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O vílách Rojenicích",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O vodě, lásce a štěstí",
+      "typ": "TV film",
+      "rok": 1981,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O začarované vlčici",
+      "typ": "film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zakleté princezně",
+      "typ": "TV film",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zakletém hadovi",
+      "typ": "TV film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zámku v podzemí",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zasněné Žofince",
+      "typ": "film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zatoulané princezně",
+      "typ": "film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O závojích bez nevěst",
+      "typ": "TV film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zázračné mouše",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zázračném květu",
+      "typ": "film",
+      "rok": 1922,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zlatém pokladu",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O zlé a dobré vodě",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O ztracené lásce",
+      "typ": "film",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "O ztracené kuchařce",
+      "typ": "film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Obušku, z pytle ven!",
+      "typ": "film",
+      "rok": 1955,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Omyl děda Vševěda",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ošklivá princezna",
+      "typ": "film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Otesánek",
+      "typ": "film",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pán a hvezdár",
+      "typ": "TV film",
+      "rok": 1959,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pán hradu",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Paní Mlha",
+      "typ": "TV film",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Panna a netvor",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Paví král",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pekelná maturita",
+      "typ": "TV film",
+      "rok": 2003,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Peklo s princeznou",
+      "typ": "film",
+      "rok": 2009,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Perníková chaloupka",
+      "typ": "film",
+      "rok": 1933,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Perníková chaloupka",
+      "typ": "film",
+      "rok": 1951,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Perníkový dědek",
+      "typ": "TV film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Plaváček",
+      "typ": "TV muzikálová pohádka",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Plášť pro vítr",
+      "typ": "TV film",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka aneb Na pytel se sahat nebude",
+      "typ": "TV film",
+      "rok": 2009,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka o Faustovi",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka o Honzíkovi a Mařence",
+      "typ": "film",
+      "rok": 1980,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka o houslích a viole",
+      "typ": "TV film",
+      "rok": 2005,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka o lidech a Boží lékárně",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka o lidské duši",
+      "typ": "film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka o splněných přáních",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka o věrnosti",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka z ostrova Man",
+      "typ": "TV film",
+      "rok": 2002,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádka z větrného mlýna",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádkové noviny",
+      "typ": "TV film",
+      "rok": 1962,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pohádky tisíce a jedné noci",
+      "typ": "film",
+      "rok": 1974,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Poklad na Sovím hrádku",
+      "typ": "TV film",
+      "rok": 2004,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Poklad pod Černou hláskou",
+      "typ": "film",
+      "rok": 1975,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Poklad Ptačího ostrova",
+      "typ": "film",
+      "rok": 1952,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Popelka",
+      "typ": "film",
+      "rok": 1929,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Popelka",
+      "typ": "TV film",
+      "rok": 1969,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Poslední kouzlo",
+      "typ": "TV film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Poslední slovo",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pošťácká pohádka",
+      "typ": "TV film",
+      "rok": 1981,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Potůček a Temné jezero knížete Vodomora",
+      "typ": "TV film",
+      "rok": 2009,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Poutníci",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Povídavá pohádka",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pravda a lež",
+      "typ": "film",
+      "rok": 1992,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pravý rytíř",
+      "typ": "TV film",
+      "rok": 2016,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princ a Večernice",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princ Bajaja",
+      "typ": "film",
+      "rok": 1971,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princ Hněvsa",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princ z pohádky",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna husopaska",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna a písař",
+      "typ": "TV film",
+      "rok": 2014,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna a půl království",
+      "typ": "TV film",
+      "rok": 2019,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna Duše",
+      "typ": "TV film",
+      "rok": 1991,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna Kazi",
+      "typ": "film",
+      "rok": 1989,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna Pampeliška",
+      "typ": "film",
+      "rok": 1967,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna se zlatou hvězdou",
+      "typ": "film",
+      "rok": 1959,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna Slonbidlo",
+      "typ": "film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna za dukát",
+      "typ": "film",
+      "rok": 1991,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna za tři koruny",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna zakletá v čase",
+      "typ": "film",
+      "rok": 2020,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna zakletá v čase 2 (",
+      "typ": "film",
+      "rok": 2022,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna ze mlejna",
+      "typ": "film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezna ze mlejna 2",
+      "typ": "film",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princezny nejsou vždycky na vdávání",
+      "typ": "film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Princové jsou na draka",
+      "typ": "TV film",
+      "rok": 1980,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Probuzená skála",
+      "typ": "TV film",
+      "rok": 2003,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Prsten a řetěz",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Přání k mání",
+      "typ": "film",
+      "rok": 2017,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Předeme, předeme zlatkou nitku",
+      "typ": "TV film",
+      "rok": 1981,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Přezůvky Štěstěny",
+      "typ": "film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Příběhy staré Indie",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ptačí král",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pták Ohnivák",
+      "typ": "F – koprodukce ČR-Německo",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Pyšná princezna",
+      "typ": "film",
+      "rok": 1952,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Rabín a jeho Golem",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Radúz a Mahulena",
+      "typ": "film",
+      "rok": 1970,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Restaurace U Prince",
+      "typ": "TV film",
+      "rok": 2005,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Róza, strážné strašidlo",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Rozhodni, obraze krásný",
+      "typ": "TV film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Rozsudky soudce Ooky",
+      "typ": "TV film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Rubínová pohádka",
+      "typ": "film",
+      "rok": 1986,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Rudá Divuše",
+      "typ": "film",
+      "rok": 1991,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Rumburak",
+      "typ": "film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "RumplCimprCampr",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Růžový květ",
+      "typ": "film",
+      "rok": 1992,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Řachanda",
+      "typ": "film",
+      "rok": 2015,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Řád Saténových mašlí",
+      "typ": "TV film",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "S čerty nejsou žerty",
+      "typ": "film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Saxána a Lexikon kouzel",
+      "typ": "film",
+      "rok": 2011,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sazička pro štěstí",
+      "typ": "film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sedmero krkavců",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sedmero krkavců",
+      "typ": "film",
+      "rok": 2015,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sedmipírek",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sen o krásné panně",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sen romského chlapce",
+      "typ": "F Anim",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sestřičky růží",
+      "typ": "TV film",
+      "rok": 1980,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Slané pohádky",
+      "typ": "TV seriál",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Slavík",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Slíbená princezna",
+      "typ": "TV film",
+      "rok": 2016,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Silák a strašidla",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Slunečnice",
+      "typ": "TV film",
+      "rok": 1985,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Smůla",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sněhurka",
+      "typ": "film",
+      "rok": 1978,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sněhurka a sedm trpaslíků",
+      "typ": "film",
+      "rok": 1933,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sněžný drak",
+      "typ": "film",
+      "rok": 2013,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Sofie a ukradený poklad",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Spravedlivý Bohumil",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Stín",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Strach má velké oči",
+      "typ": "TV film",
+      "rok": 1980,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Strašidla z Vikýře",
+      "typ": "film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Strieborná Háta",
+      "typ": "TV film – koprodukce – ČR-SK",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Stříbrný a Ryšavec",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Svatojánský věneček",
+      "typ": "TV film",
+      "rok": 2015,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Šíleně smutná princezna",
+      "typ": "film",
+      "rok": 1969,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Škola princů",
+      "typ": "TV film",
+      "rok": 2010,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Škola ve mlejně",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Šmankote, babičko, čaruj!",
+      "typ": "film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Šťastný smolař",
+      "typ": "film",
+      "rok": 2012,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Štěstí krále Alfonse",
+      "typ": "TV film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Švec Janek v pohádkové zemi",
+      "typ": "TV film",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tajemná truhla",
+      "typ": "TV film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tajemný svícen",
+      "typ": "TV film",
+      "rok": 2003,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tajemství mořské panny",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tajemství staré bambitky",
+      "typ": "film",
+      "rok": 2011,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tajemství staré bambitky 2",
+      "typ": "film",
+      "rok": 2022,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Taneček přes dvě pekla",
+      "typ": "TV film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tom v kozí kůži",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Třeboňská pohádka",
+      "typ": "film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Třetí noc pro čaroděje",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Třetí princ",
+      "typ": "film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři bratři",
+      "typ": "film",
+      "rok": 2014,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři oříšky pro Popelku",
+      "typ": "film",
+      "rok": 1973,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři princezny",
+      "typ": "TV film",
+      "rok": 2024,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři princezny tanečnice",
+      "typ": "TV film",
+      "rok": 1984,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři veteráni",
+      "typ": "film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři zlaté vlasy děda Vševěda",
+      "typ": "film",
+      "rok": 1963,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři životy",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tři srdce",
+      "typ": "film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ty, ty, ty, Moneti!",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Tyran a dítě",
+      "typ": "film",
+      "rok": 2000,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vánoční panenka",
+      "typ": "TV film",
+      "rok": 2004,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vápenička",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vašek Nešika a Šikulka Šikovná",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Velká kočičí pohádka",
+      "typ": "TV film",
+      "rok": 1983,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Velká policejní pohádka",
+      "typ": "TV film",
+      "rok": 1979,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Velký dračí propadák",
+      "typ": "film",
+      "rok": 1996,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Víla z jeskyně zla",
+      "typ": "TV film",
+      "rok": 1991,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vltavská víla",
+      "typ": "TV film",
+      "rok": 1987,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vo modrým ptáčku",
+      "typ": "film",
+      "rok": 1968,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vodnická čertovina",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vodník a Karolínka",
+      "typ": "TV film",
+      "rok": 2010,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vodník a Zuzana",
+      "typ": "TV film",
+      "rok": 1974,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vohnice a Kiliján",
+      "typ": "TV film",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vojáček a dračí princezna",
+      "typ": "film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vojtík a duchové",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Vřesový trůn",
+      "typ": "TV film",
+      "rok": 2006,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Z pekla štěstí",
+      "typ": "film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Z pekla štěstí 2",
+      "typ": "film",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Za humny je drak",
+      "typ": "film",
+      "rok": 1982,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Začarovaná láska",
+      "typ": "TV film",
+      "rok": 2007,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zachýsek, zvaný Rumělka",
+      "typ": "film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zakletá jeskyně",
+      "typ": "film",
+      "rok": 2022,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zakletá třináctka",
+      "typ": "TV film",
+      "rok": 2004,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zakleté pírko",
+      "typ": "TV film",
+      "rok": 2019,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zakletý vrch",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zázračné meče",
+      "typ": "TV film",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zázračný nos",
+      "typ": "TV film",
+      "rok": 2016,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zelený rytíř",
+      "typ": "TV film",
+      "rok": 1993,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zimní víla",
+      "typ": "TV film",
+      "rok": 1999,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zkřížené meče",
+      "typ": "TV film",
+      "rok": 1998,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatá panna",
+      "typ": "film",
+      "rok": 1980,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatá princezna",
+      "typ": "TV film",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlaté hejno",
+      "typ": "TV film",
+      "rok": 1994,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlaté kapradí",
+      "typ": "film",
+      "rok": 1963,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatý ostrov",
+      "typ": "film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatník Ondra",
+      "typ": "TV film",
+      "rok": 1995,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatovláska",
+      "typ": "film",
+      "rok": 1973,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatý chléb",
+      "typ": "TV film koprodukce – ČR-SK",
+      "rok": 2001,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatý copánek",
+      "typ": "TV film",
+      "rok": 1988,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatý klíček",
+      "typ": "film",
+      "rok": 1922,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zlatý květ",
+      "typ": "film",
+      "rok": 1929,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zmatky kolem Katky",
+      "typ": "film",
+      "rok": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Ztracený princ",
+      "typ": "TV film",
+      "rok": 2008,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zvědavý osel",
+      "typ": "TV film",
+      "rok": 1997,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zvon Lukáš",
+      "typ": "TV film",
+      "rok": 2002,
+      "poznamka": ""
+    },
+    {
+      "nazev": "Zvonící meče",
+      "typ": "TV film",
+      "rok": 2000,
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "České filmové a televizní pohádky - Free Download",
+    "description": "Abecední seznam českých (a československých) filmových, televizních a seriálových pohádek s typem a rokem vzniku. Contains 498 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "České filmové a televizní pohádky | ListBase",
+    "seo_description": "Download České filmové a televizní pohádky — 498 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 498 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_českých_filmových_pohádek"
+    ]
+  }
+}
