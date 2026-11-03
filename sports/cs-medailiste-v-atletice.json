@@ -1,0 +1,727 @@
+{
+  "id": "cs-medailiste-v-atletice",
+  "name": "Českoslovenští a čeští medailisté v atletice (OH a MS)",
+  "title": "Českoslovenští a čeští medailisté v atletice (OH a MS)",
+  "description": "Českoslovenští a čeští atleti s medailemi z olympijských her a mistrovství světa v atletice (dráha i hala) s počty zlatých, stříbrných a bronzových medailí.",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_československých_a_českých_medailistů_v_atletice",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_československých_a_českých_medailistů_v_atletice",
+  "updated": "2026-11",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "atlet",
+      "label": "Atlet",
+      "type": "string"
+    },
+    {
+      "key": "soutez",
+      "label": "Soutez",
+      "type": "string"
+    },
+    {
+      "key": "medaile_celkem",
+      "label": "Medaile Celkem",
+      "type": "number"
+    },
+    {
+      "key": "zlato",
+      "label": "Zlato",
+      "type": "number"
+    },
+    {
+      "key": "stribro",
+      "label": "Stribro",
+      "type": "number"
+    },
+    {
+      "key": "bronz",
+      "label": "Bronz",
+      "type": "number"
+    },
+    {
+      "key": "sampionaty",
+      "label": "Sampionaty",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "atlet": "Emil Zátopek",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 5,
+      "zlato": 4,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 1948, LOH 1948, LOH 1952, LOH 1952, LOH 1952"
+    },
+    {
+      "atlet": "Dana Zátopková",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 2,
+      "zlato": 1,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 1952, LOH 1960"
+    },
+    {
+      "atlet": "Olga Fikotová",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "LOH 1956"
+    },
+    {
+      "atlet": "Miloslava Rezková",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "LOH 1968"
+    },
+    {
+      "atlet": "Ludvík Daněk",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 3,
+      "zlato": 1,
+      "stribro": 1,
+      "bronz": 1,
+      "sampionaty": "LOH 1972, LOH 1964, LOH 1956"
+    },
+    {
+      "atlet": "Jozef Pribilinec",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "LOH 1988"
+    },
+    {
+      "atlet": "Jan Železný",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 2,
+      "zlato": 1,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 1992, LOH 1988"
+    },
+    {
+      "atlet": "Robert Změlík",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "LOH 1992"
+    },
+    {
+      "atlet": "Josef Doležal",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 1952"
+    },
+    {
+      "atlet": "Josef Odložil",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 1964"
+    },
+    {
+      "atlet": "Jarmila Kratochvílová",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 1980"
+    },
+    {
+      "atlet": "Imrich Bugár",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 1980"
+    },
+    {
+      "atlet": "František Douda",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 1932"
+    },
+    {
+      "atlet": "Jiří Skobla",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 1956"
+    },
+    {
+      "atlet": "Eva Šuranová",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 1972"
+    },
+    {
+      "atlet": "Helena Fibingerová",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 1976"
+    },
+    {
+      "atlet": "Celkem",
+      "soutez": "Československo na LOH v atletice",
+      "medaile_celkem": 24,
+      "zlato": 11,
+      "stribro": 8,
+      "bronz": 5,
+      "sampionaty": ""
+    },
+    {
+      "atlet": "Barbora Špotáková",
+      "soutez": "Česká republika na LOH v atletice",
+      "medaile_celkem": 3,
+      "zlato": 2,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 2008, LOH 2012, LOH 2016"
+    },
+    {
+      "atlet": "Jan Železný",
+      "soutez": "Česká republika na LOH v atletice",
+      "medaile_celkem": 2,
+      "zlato": 2,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "LOH 1996, LOH 2000"
+    },
+    {
+      "atlet": "Roman Šebrle",
+      "soutez": "Česká republika na LOH v atletice",
+      "medaile_celkem": 2,
+      "zlato": 1,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "LOH 2004, LOH 2000"
+    },
+    {
+      "atlet": "Šárka Kašpárková",
+      "soutez": "Česká republika na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 1996"
+    },
+    {
+      "atlet": "Tomáš Dvořák",
+      "soutez": "Česká republika na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 1996"
+    },
+    {
+      "atlet": "Jaroslav Bába",
+      "soutez": "Česká republika na LOH v atletice",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "LOH 2004"
+    },
+    {
+      "atlet": "Celkem",
+      "soutez": "Česká republika na LOH v atletice",
+      "medaile_celkem": 10,
+      "zlato": 5,
+      "stribro": 1,
+      "bronz": 4,
+      "sampionaty": ""
+    },
+    {
+      "atlet": "Jarmila Kratochvílová",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 2,
+      "zlato": 2,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 1983, MS 1983"
+    },
+    {
+      "atlet": "Helena Fibingerová",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Imrich Bugár",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Taťána Kocembová",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Jozef Pribilinec",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Stafeta 4 x 400 m Taťána Kocembová Milena Matějkovičová Zuzana Moravčíková Jarmila Kratochvílová",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Remigius Machura",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Gejza Valent",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Jan Železný",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 1983"
+    },
+    {
+      "atlet": "Jozef Pribilinec",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "MS 1987"
+    },
+    {
+      "atlet": "Celkem",
+      "soutez": "Československo na MS v atletice (dráha)",
+      "medaile_celkem": 11,
+      "zlato": 4,
+      "stribro": 4,
+      "bronz": 3,
+      "sampionaty": ""
+    },
+    {
+      "atlet": "Jan Železný",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 4,
+      "zlato": 3,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 1993, MS 1995, MS 1999, MS 2001"
+    },
+    {
+      "atlet": "Šárka Kašpárková",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 1997"
+    },
+    {
+      "atlet": "Tomáš Dvořák",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 3,
+      "zlato": 3,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 1997, MS 1999, MS 2001"
+    },
+    {
+      "atlet": "Ludmila Formanová",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 1999"
+    },
+    {
+      "atlet": "Roman Šebrle",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 3,
+      "zlato": 1,
+      "stribro": 2,
+      "bronz": 0,
+      "sampionaty": "MS 2003, MS 2005, MS 2007"
+    },
+    {
+      "atlet": "Barbora Špotáková",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 4,
+      "zlato": 3,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "MS 2007, MS 2009, MS 2011 MS 2017"
+    },
+    {
+      "atlet": "Kateřina Baďurová",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "MS 2007"
+    },
+    {
+      "atlet": "Pavla Rybová",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 2005"
+    },
+    {
+      "atlet": "Věra Cechlová-Pospíšilová",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 2005"
+    },
+    {
+      "atlet": "Zuzana Hejnová",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 2,
+      "zlato": 2,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 2013, MS 2015"
+    },
+    {
+      "atlet": "Jakub Vadlejch",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 2,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 1,
+      "sampionaty": "MS 2017, MS 2022"
+    },
+    {
+      "atlet": "Vítězslav Veselý",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "MS 2013"
+    },
+    {
+      "atlet": "Lukáš Melich",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 2013"
+    },
+    {
+      "atlet": "Petr Frydrych",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "MS 2017"
+    },
+    {
+      "atlet": "Celkem",
+      "soutez": "Česká republika na MS v atletice (dráha)",
+      "medaile_celkem": 26,
+      "zlato": 15,
+      "stribro": 5,
+      "bronz": 6,
+      "sampionaty": ""
+    },
+    {
+      "atlet": "Remigius Machura",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "HMS 1985"
+    },
+    {
+      "atlet": "Jan Leitner",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "HMS 1985"
+    },
+    {
+      "atlet": "Gabriela Sedláková",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 1987"
+    },
+    {
+      "atlet": "Jozef Pribilinec",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 1987"
+    },
+    {
+      "atlet": "Roman Mrázek",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 1989"
+    },
+    {
+      "atlet": "Ivana Kubešová",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 1989"
+    },
+    {
+      "atlet": "Ivan Uvizl",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "HMS 1985"
+    },
+    {
+      "atlet": "Ján Zvara",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "HMS 1987"
+    },
+    {
+      "atlet": "Celkem",
+      "soutez": "Československo na MS v atletice (hala)",
+      "medaile_celkem": 8,
+      "zlato": 2,
+      "stribro": 4,
+      "bronz": 2,
+      "sampionaty": ""
+    },
+    {
+      "atlet": "Robert Změlík",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "HMS 1997"
+    },
+    {
+      "atlet": "Ludmila Formanová",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "HMS 1999"
+    },
+    {
+      "atlet": "Pavla Hamáčková",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 1,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "HMS 2001"
+    },
+    {
+      "atlet": "Roman Šebrle",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 5,
+      "zlato": 2,
+      "stribro": 0,
+      "bronz": 3,
+      "sampionaty": "HMS 2001, HMS 2004, HMS 1999, HMS 2003, HMS 2006"
+    },
+    {
+      "atlet": "Tomáš Dvořák",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 1995"
+    },
+    {
+      "atlet": "Běh na 4 x 400 m Naděžda Koštovalová Helena Dziurová Hana Benešová Ludmila Formanová",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 1995"
+    },
+    {
+      "atlet": "Zuzana Hlavoňová",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 1999"
+    },
+    {
+      "atlet": "Adam Ptáček",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 2004"
+    },
+    {
+      "atlet": "Pavel Soukup",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "HMS 1995"
+    },
+    {
+      "atlet": "Šárka Kašpárková",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 2,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 2,
+      "sampionaty": "HMS 1997, HMS 1999"
+    },
+    {
+      "atlet": "Helena Fuchsová",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "HMS 2001"
+    },
+    {
+      "atlet": "Jaroslav Bába",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 0,
+      "bronz": 1,
+      "sampionaty": "HMS 2004"
+    },
+    {
+      "atlet": "Jakub Holuša",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 1,
+      "zlato": 0,
+      "stribro": 1,
+      "bronz": 0,
+      "sampionaty": "HMS 2012"
+    },
+    {
+      "atlet": "Pavel Maslák",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 2,
+      "zlato": 2,
+      "stribro": 0,
+      "bronz": 0,
+      "sampionaty": "HMS 2014, HMS 2016"
+    },
+    {
+      "atlet": "Celkem",
+      "soutez": "Česká republika na MS v atletice (hala)",
+      "medaile_celkem": 20,
+      "zlato": 7,
+      "stribro": 5,
+      "bronz": 8,
+      "sampionaty": ""
+    }
+  ],
+  "meta": {
+    "title": "Českoslovenští a čeští medailisté v atletice (OH a MS) - Free Download",
+    "description": "Českoslovenští a čeští atleti s medailemi z olympijských her a mistrovství světa v atletice (dráha i hala) s počty zlatých, stříbrných a bronzových medailí. Contains 74 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Českoslovenští a čeští medailisté v atletice (OH a MS) | ListBase",
+    "seo_description": "Download Českoslovenští a čeští medailisté v atletice (OH a MS) — 74 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 74 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_československých_a_českých_medailistů_v_atletice"
+    ]
+  }
+}
