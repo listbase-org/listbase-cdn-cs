@@ -1,12 +1,12 @@
 {
   "lang": "cs",
-  "generated": "2026-11-03T02:24:50.611Z",
-  "total_datasets": 526,
-  "total_records": 417767,
+  "generated": "2026-11-03T02:24:58.753Z",
+  "total_datasets": 527,
+  "total_records": 417788,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -197,6 +197,34 @@
         "xlsx": {
           "name": "cs-hospodarska-zvirata-stavy_CS.xlsx",
           "size": 10043
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-zemedelstvi",
+      "name": "Ministři zemědělství České republiky",
+      "category": "agriculture",
+      "record_count": 21,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana",
+        "vlada"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zemědělství_České_republiky",
+      "updated": "2026-11",
+      "size": 6601,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-zemedelstvi_CS.csv",
+          "size": 1923
+        },
+        "xlsx": {
+          "name": "cs-ministri-zemedelstvi_CS.xlsx",
+          "size": 8017
         }
       }
     },

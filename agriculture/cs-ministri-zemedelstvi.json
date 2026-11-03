@@ -1,0 +1,250 @@
+{
+  "id": "cs-ministri-zemedelstvi",
+  "name": "Ministři zemědělství České republiky",
+  "title": "Ministři zemědělství České republiky",
+  "description": "Seznam ministrů zemědělství samostatné České republiky od roku 1993 s funkčním obdobím, počtem dní v úřadu, stranou a vládou.",
+  "category": "agriculture",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zemědělství_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zemědělství_České_republiky",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "ministr": "Josef Lux",
+      "nastup": "1. ledna 1993",
+      "odchod": "17. července 1998",
+      "dny_v_uradu": 2023,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus I."
+    },
+    {
+      "poradi": 1,
+      "ministr": "Josef Lux",
+      "nastup": "1. ledna 1993",
+      "odchod": "17. července 1998",
+      "dny_v_uradu": 2023,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus II."
+    },
+    {
+      "poradi": 1,
+      "ministr": "Josef Lux",
+      "nastup": "1. ledna 1993",
+      "odchod": "17. července 1998",
+      "dny_v_uradu": 2023,
+      "strana": "KDU-ČSL",
+      "vlada": "Tošovský"
+    },
+    {
+      "poradi": 2,
+      "ministr": "Jan Fencl",
+      "nastup": "22. července 1998",
+      "odchod": "15. července 2002",
+      "dny_v_uradu": 1454,
+      "strana": "ČSSD",
+      "vlada": "Zeman"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Jaroslav Palas",
+      "nastup": "15. července 2002",
+      "odchod": "25. dubna 2005",
+      "dny_v_uradu": 1015,
+      "strana": "ČSSD",
+      "vlada": "Špidla"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Jaroslav Palas",
+      "nastup": "15. července 2002",
+      "odchod": "25. dubna 2005",
+      "dny_v_uradu": 1015,
+      "strana": "ČSSD",
+      "vlada": "Gross"
+    },
+    {
+      "poradi": 4,
+      "ministr": "Petr Zgarba",
+      "nastup": "25. dubna 2005",
+      "odchod": "10. listopadu 2005",
+      "dny_v_uradu": 199,
+      "strana": "ČSSD",
+      "vlada": "Paroubek"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Jan Mládek",
+      "nastup": "16. listopadu 2005",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 292,
+      "strana": "ČSSD",
+      "vlada": "Paroubek"
+    },
+    {
+      "poradi": 6,
+      "ministr": "Milena Vicenová",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007",
+      "dny_v_uradu": 127,
+      "strana": "nestraník za ODS",
+      "vlada": "Topolánek I."
+    },
+    {
+      "poradi": 7,
+      "ministr": "Petr Gandalovič",
+      "nastup": "9. ledna 2007",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 850,
+      "strana": "ODS",
+      "vlada": "Topolánek II."
+    },
+    {
+      "poradi": 8,
+      "ministr": "Jakub Šebesta",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "dny_v_uradu": 431,
+      "strana": "nestraník nom. ČSSD",
+      "vlada": "Fischer"
+    },
+    {
+      "poradi": 9,
+      "ministr": "Ivan Fuksa",
+      "nastup": "13. července 2010",
+      "odchod": "4. října 2011",
+      "dny_v_uradu": 448,
+      "strana": "ODS",
+      "vlada": "Nečas"
+    },
+    {
+      "poradi": 10,
+      "ministr": "Petr Bendl",
+      "nastup": "6. října 2011",
+      "odchod": "10. července 2013",
+      "dny_v_uradu": 643,
+      "strana": "ODS",
+      "vlada": "Nečas"
+    },
+    {
+      "poradi": 11,
+      "ministr": "Miroslav Toman ml.",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 203,
+      "strana": "nestraník",
+      "vlada": "Rusnok"
+    },
+    {
+      "poradi": 12,
+      "ministr": "Marian Jurečka",
+      "nastup": "29. ledna 2014",
+      "odchod": "13. prosince 2017",
+      "dny_v_uradu": 1414,
+      "strana": "KDU-ČSL",
+      "vlada": "Sobotka"
+    },
+    {
+      "poradi": 13,
+      "ministr": "Jiří Milek",
+      "nastup": "13. prosince 2017",
+      "odchod": "27. června 2018",
+      "dny_v_uradu": 196,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš I."
+    },
+    {
+      "poradi": 14,
+      "ministr": "Miroslav Toman ml.",
+      "nastup": "27. června 2018",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1269,
+      "strana": "nestraník za ČSSD, později ČSSD",
+      "vlada": "Babiš II."
+    },
+    {
+      "poradi": 15,
+      "ministr": "Marian Jurečka",
+      "nastup": "17. prosince 2021",
+      "odchod": "3. ledna 2022",
+      "dny_v_uradu": 17,
+      "strana": "KDU-ČSL",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 16,
+      "ministr": "Zdeněk Nekula",
+      "nastup": "3. ledna 2022",
+      "odchod": "28. června 2023",
+      "dny_v_uradu": 541,
+      "strana": "KDU-ČSL",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 17,
+      "ministr": "Marek Výborný",
+      "nastup": "29. června 2023",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 900,
+      "strana": "KDU-ČSL",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 18,
+      "ministr": "Martin Šebestyán",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": 323,
+      "strana": "nestraník za SPD",
+      "vlada": "Babiš III."
+    }
+  ],
+  "meta": {
+    "title": "Ministři zemědělství České republiky - Free Download",
+    "description": "Seznam ministrů zemědělství samostatné České republiky od roku 1993 s funkčním obdobím, počtem dní v úřadu, stranou a vládou. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři zemědělství České republiky | ListBase",
+    "seo_description": "Download Ministři zemědělství České republiky — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_zemědělství_České_republiky"
+    ]
+  }
+}
