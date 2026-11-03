@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-03T02:25:06.179Z",
-  "total_datasets": 528,
-  "total_records": 418184,
+  "generated": "2026-11-03T02:25:14.469Z",
+  "total_datasets": 529,
+  "total_records": 418334,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -13677,6 +13677,31 @@
         "xlsx": {
           "name": "science-solubility-rules_CS.xlsx",
           "size": 9238
+        }
+      }
+    },
+    {
+      "id": "cs-narodnostni-slozeni-scitani",
+      "name": "Národnostní složení obyvatelstva Česka podle sčítání (1921–2021)",
+      "category": "society",
+      "record_count": 150,
+      "columns": [
+        "narodnost",
+        "rok_scitani",
+        "pocet",
+        "podil_pct"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+      "updated": "2026-11",
+      "size": 19214,
+      "files": {
+        "csv": {
+          "name": "cs-narodnostni-slozeni-scitani_CS.csv",
+          "size": 4834
+        },
+        "xlsx": {
+          "name": "cs-narodnostni-slozeni-scitani_CS.xlsx",
+          "size": 9653
         }
       }
     },

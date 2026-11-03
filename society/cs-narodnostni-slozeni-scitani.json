@@ -1,0 +1,946 @@
+{
+  "id": "cs-narodnostni-slozeni-scitani",
+  "name": "Národnostní složení obyvatelstva Česka podle sčítání (1921–2021)",
+  "title": "Národnostní složení obyvatelstva Česka podle sčítání (1921–2021)",
+  "description": "Počet a podíl obyvatel Česka podle národnosti ve sčítáních lidu od roku 1921 do roku 2021.",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "updated": "2026-11",
+  "record_count": 150,
+  "columns": [
+    {
+      "key": "narodnost",
+      "label": "Narodnost",
+      "type": "string"
+    },
+    {
+      "key": "rok_scitani",
+      "label": "Rok Scitani",
+      "type": "number"
+    },
+    {
+      "key": "pocet",
+      "label": "Pocet",
+      "type": "number"
+    },
+    {
+      "key": "podil_pct",
+      "label": "Podil Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 1921,
+      "pocet": 6734684,
+      "podil_pct": 67.3
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 1930,
+      "pocet": 7286271,
+      "podil_pct": 68.3
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 1950,
+      "pocet": 8343558,
+      "podil_pct": 93.9
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 1961,
+      "pocet": 9023501,
+      "podil_pct": 94.2
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 1970,
+      "pocet": 9270617,
+      "podil_pct": 94.4
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 1980,
+      "pocet": 9733925,
+      "podil_pct": 94.6
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 1991,
+      "pocet": 8363768,
+      "podil_pct": 81.2
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 2001,
+      "pocet": 9249777,
+      "podil_pct": 90.5
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 2011,
+      "pocet": 6711624,
+      "podil_pct": 64.3
+    },
+    {
+      "narodnost": "Češi",
+      "rok_scitani": 2021,
+      "pocet": 6033014,
+      "podil_pct": 57.3
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 1921,
+      "pocet": 6734684,
+      "podil_pct": 67.3
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 1930,
+      "pocet": 7286271,
+      "podil_pct": 68.3
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 1950,
+      "pocet": 8343558,
+      "podil_pct": 93.9
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 1961,
+      "pocet": 9023501,
+      "podil_pct": 94.2
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 1970,
+      "pocet": 9270617,
+      "podil_pct": 94.4
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 1980,
+      "pocet": 9733925,
+      "podil_pct": 94.6
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 1991,
+      "pocet": 1362313,
+      "podil_pct": 13.2
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 2001,
+      "pocet": 380474,
+      "podil_pct": 3.7
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 2011,
+      "pocet": 521801,
+      "podil_pct": 5
+    },
+    {
+      "narodnost": "Moravané",
+      "rok_scitani": 2021,
+      "pocet": 359621,
+      "podil_pct": 3.4
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1921,
+      "pocet": 47314,
+      "podil_pct": 0.5
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1930,
+      "pocet": 24697,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1950,
+      "pocet": 8343558,
+      "podil_pct": 93.9
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1961,
+      "pocet": 9023501,
+      "podil_pct": 94.2
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1970,
+      "pocet": 9270617,
+      "podil_pct": 94.4
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1980,
+      "pocet": 9733925,
+      "podil_pct": 94.6
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1991,
+      "pocet": 44446,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 2001,
+      "pocet": 10878,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 2011,
+      "pocet": 12214,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 2021,
+      "pocet": 12451,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1921,
+      "pocet": 47314,
+      "podil_pct": 0.5
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1930,
+      "pocet": 24697,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1950,
+      "pocet": 70816,
+      "podil_pct": 0.8
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1961,
+      "pocet": 66540,
+      "podil_pct": 0.7
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1970,
+      "pocet": 64074,
+      "podil_pct": 0.7
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1980,
+      "pocet": 66123,
+      "podil_pct": 0.6
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 1991,
+      "pocet": 44446,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 2001,
+      "pocet": 10878,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 2011,
+      "pocet": 12214,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Slezané",
+      "rok_scitani": 2021,
+      "pocet": 12451,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 1921,
+      "pocet": 81914,
+      "podil_pct": 0.8
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 1930,
+      "pocet": 90539,
+      "podil_pct": 0.9
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 1950,
+      "pocet": 70816,
+      "podil_pct": 0.8
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 1961,
+      "pocet": 66540,
+      "podil_pct": 0.7
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 1970,
+      "pocet": 64074,
+      "podil_pct": 0.7
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 1980,
+      "pocet": 66123,
+      "podil_pct": 0.6
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 1991,
+      "pocet": 59383,
+      "podil_pct": 0.6
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 2001,
+      "pocet": 51968,
+      "podil_pct": 0.5
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 2011,
+      "pocet": 39096,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Poláci",
+      "rok_scitani": 2021,
+      "pocet": 26802,
+      "podil_pct": 0.3
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 1921,
+      "pocet": 15732,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 1930,
+      "pocet": 44451,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 1950,
+      "pocet": 258025,
+      "podil_pct": 2.9
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 1961,
+      "pocet": 275997,
+      "podil_pct": 2.9
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 1970,
+      "pocet": 320998,
+      "podil_pct": 3.3
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 1980,
+      "pocet": 359370,
+      "podil_pct": 3.5
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 1991,
+      "pocet": 314877,
+      "podil_pct": 3.1
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 2001,
+      "pocet": 193190,
+      "podil_pct": 1.9
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 2011,
+      "pocet": 147152,
+      "podil_pct": 1.4
+    },
+    {
+      "narodnost": "Slováci",
+      "rok_scitani": 2021,
+      "pocet": 96041,
+      "podil_pct": 0.9
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 1921,
+      "pocet": 3059961,
+      "podil_pct": 30.6
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 1930,
+      "pocet": 3149629,
+      "podil_pct": 29.5
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 1950,
+      "pocet": 159938,
+      "podil_pct": 1.8
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 1961,
+      "pocet": 134143,
+      "podil_pct": 1.4
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 1970,
+      "pocet": 80903,
+      "podil_pct": 0.8
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 1980,
+      "pocet": 58211,
+      "podil_pct": 0.6
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 1991,
+      "pocet": 48556,
+      "podil_pct": 0.5
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 2001,
+      "pocet": 39106,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 2011,
+      "pocet": 18658,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Němci",
+      "rok_scitani": 2021,
+      "pocet": 9128,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 1921,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 1930,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 1950,
+      "pocet": 19384,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 1961,
+      "pocet": 19549,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 1970,
+      "pocet": 9794,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 1980,
+      "pocet": 10271,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 1991,
+      "pocet": 8220,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 2001,
+      "pocet": 22112,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 2011,
+      "pocet": 53253,
+      "podil_pct": 0.5
+    },
+    {
+      "narodnost": "Ukrajinci",
+      "rok_scitani": 2021,
+      "pocet": 78068,
+      "podil_pct": 0.7
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 1921,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 1930,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 1950,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 1961,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 1970,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 1980,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 1991,
+      "pocet": 421,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 2001,
+      "pocet": 17462,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 2011,
+      "pocet": 29660,
+      "podil_pct": 0.3
+    },
+    {
+      "narodnost": "Vietnamci",
+      "rok_scitani": 2021,
+      "pocet": 31469,
+      "podil_pct": 0.3
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 1921,
+      "pocet": 7049,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 1930,
+      "pocet": 11427,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 1950,
+      "pocet": 13201,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 1961,
+      "pocet": 15152,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 1970,
+      "pocet": 18472,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 1980,
+      "pocet": 19676,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 1991,
+      "pocet": 19932,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 2001,
+      "pocet": 14672,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 2011,
+      "pocet": 8920,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Maďaři",
+      "rok_scitani": 2021,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 1921,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 1930,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 1950,
+      "pocet": 19384,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 1961,
+      "pocet": 19549,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 1970,
+      "pocet": 6619,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 1980,
+      "pocet": 5051,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 1991,
+      "pocet": 5062,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 2001,
+      "pocet": 12369,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 2011,
+      "pocet": 17872,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Rusové",
+      "rok_scitani": 2021,
+      "pocet": 25296,
+      "podil_pct": 0.2
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 1921,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 1930,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 1950,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 1961,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 1970,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 1980,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 1991,
+      "pocet": 32903,
+      "podil_pct": 0.3
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 2001,
+      "pocet": 11746,
+      "podil_pct": 0.1
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 2011,
+      "pocet": 5135,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Romové",
+      "rok_scitani": 2021,
+      "pocet": 4458,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 1921,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 1930,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 1950,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 1961,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 1970,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 1980,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 1991,
+      "pocet": 1926,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 2001,
+      "pocet": 1106,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 2011,
+      "pocet": 739,
+      "podil_pct": 0
+    },
+    {
+      "narodnost": "Rusíni",
+      "rok_scitani": 2021,
+      "pocet": "",
+      "podil_pct": ""
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 1921,
+      "pocet": 59080,
+      "podil_pct": 0.6
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 1930,
+      "pocet": 71411,
+      "podil_pct": 0.7
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 1950,
+      "pocet": 31211,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 1961,
+      "pocet": 36649,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 1970,
+      "pocet": 36220,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 1980,
+      "pocet": 39300,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 1991,
+      "pocet": 40408,
+      "podil_pct": 0.4
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 2001,
+      "pocet": 225200,
+      "podil_pct": 2.2
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 2011,
+      "pocet": 2806314,
+      "podil_pct": 26.9
+    },
+    {
+      "narodnost": "Ostatní/Neuvedeno",
+      "rok_scitani": 2021,
+      "pocet": 3321058,
+      "podil_pct": 31.6
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 1921,
+      "pocet": 10005734,
+      "podil_pct": 10005734
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 1930,
+      "pocet": 10674386,
+      "podil_pct": 10674386
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 1950,
+      "pocet": 8896133,
+      "podil_pct": 8896133
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 1961,
+      "pocet": 9571531,
+      "podil_pct": 9571531
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 1970,
+      "pocet": 9807697,
+      "podil_pct": 9807697
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 1980,
+      "pocet": 10291927,
+      "podil_pct": 10291927
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 1991,
+      "pocet": 10302215,
+      "podil_pct": 10302215
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 2001,
+      "pocet": 10230060,
+      "podil_pct": 10230060
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 2011,
+      "pocet": 10436560,
+      "podil_pct": 10436560
+    },
+    {
+      "narodnost": "Celkově",
+      "rok_scitani": 2021,
+      "pocet": 10524167,
+      "podil_pct": 10524167
+    }
+  ],
+  "meta": {
+    "title": "Národnostní složení obyvatelstva Česka podle sčítání (1921–2021) - Free Download",
+    "description": "Počet a podíl obyvatel Česka podle národnosti ve sčítáních lidu od roku 1921 do roku 2021. Contains 150 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Národnostní složení obyvatelstva Česka podle sčítání (1921–2021) | ListBase",
+    "seo_description": "Download Národnostní složení obyvatelstva Česka podle sčítání (1921–2021) — 150 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 150 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka"
+    ]
+  }
+}
