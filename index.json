@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-04T02:23:15.320Z",
-  "total_datasets": 531,
-  "total_records": 418767,
+  "generated": "2026-11-04T02:23:22.094Z",
+  "total_datasets": 532,
+  "total_records": 418848,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -7915,6 +7915,30 @@
         "xlsx": {
           "name": "cs-masakry_CS.xlsx",
           "size": 14916
+        }
+      }
+    },
+    {
+      "id": "cs-nejvyssi-purkrabi",
+      "name": "Nejvyšší purkrabí Českého království",
+      "category": "history",
+      "record_count": 81,
+      "columns": [
+        "obdobi",
+        "jmeno",
+        "stoleti"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_nejvyšších_purkrabí_Českého_království",
+      "updated": "2026-11",
+      "size": 13208,
+      "files": {
+        "csv": {
+          "name": "cs-nejvyssi-purkrabi_CS.csv",
+          "size": 6491
+        },
+        "xlsx": {
+          "name": "cs-nejvyssi-purkrabi_CS.xlsx",
+          "size": 10321
         }
       }
     },
