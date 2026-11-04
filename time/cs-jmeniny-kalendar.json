@@ -1,0 +1,1476 @@
+{
+  "id": "cs-jmeniny-kalendar",
+  "name": "Jmeniny v Česku – kalendář jmen",
+  "title": "Jmeniny v Česku – kalendář jmen",
+  "description": "Český občanský kalendář jmenin: datum a jména, která v daný den slaví svátek.",
+  "category": "time",
+  "source": "https://cs.wikipedia.org/wiki/Jmeniny_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Jmeniny_v_Česku",
+  "updated": "2026-11",
+  "record_count": 360,
+  "columns": [
+    {
+      "key": "datum",
+      "label": "Datum",
+      "type": "string"
+    },
+    {
+      "key": "jmena",
+      "label": "Jmena",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "datum": "2. leden",
+      "jmena": "Karina, Vasil, Ábel, Dětmar"
+    },
+    {
+      "datum": "3. leden",
+      "jmena": "Radmila, Radomil, Jennifer, Jenovéfa"
+    },
+    {
+      "datum": "4. leden",
+      "jmena": "Diana"
+    },
+    {
+      "datum": "5. leden",
+      "jmena": "Dalimil, Teofan"
+    },
+    {
+      "datum": "7. leden",
+      "jmena": "Vilma, Wilhelmina, Atila"
+    },
+    {
+      "datum": "8. leden",
+      "jmena": "Čestmír, Erhard"
+    },
+    {
+      "datum": "9. leden",
+      "jmena": "Vladan, Walter"
+    },
+    {
+      "datum": "10. leden",
+      "jmena": "Břetislav"
+    },
+    {
+      "datum": "11. leden",
+      "jmena": "Bohdana, Teodora"
+    },
+    {
+      "datum": "12. leden",
+      "jmena": "Pravoslav, Arkád"
+    },
+    {
+      "datum": "13. leden",
+      "jmena": "Edita, Edyta, Leontýna"
+    },
+    {
+      "datum": "14. leden",
+      "jmena": "Radovan, Radúz"
+    },
+    {
+      "datum": "15. leden",
+      "jmena": "Alice, Severín, Alyson"
+    },
+    {
+      "datum": "16. leden",
+      "jmena": "Ctirad, Ctislav"
+    },
+    {
+      "datum": "17. leden",
+      "jmena": "Drahoslav"
+    },
+    {
+      "datum": "18. leden",
+      "jmena": "Vladislav, Vladislava"
+    },
+    {
+      "datum": "19. leden",
+      "jmena": "Doubravka"
+    },
+    {
+      "datum": "20. leden",
+      "jmena": "Ilona, Sebastián"
+    },
+    {
+      "datum": "21. leden",
+      "jmena": "Běla, Bianka"
+    },
+    {
+      "datum": "22. leden",
+      "jmena": "Slavomír, Slavomíra, Mnislav"
+    },
+    {
+      "datum": "23. leden",
+      "jmena": "Zdeněk"
+    },
+    {
+      "datum": "24. leden",
+      "jmena": "Milena"
+    },
+    {
+      "datum": "25. leden",
+      "jmena": "Miloš, Milota"
+    },
+    {
+      "datum": "26. leden",
+      "jmena": "Zora, Danica"
+    },
+    {
+      "datum": "27. leden",
+      "jmena": "Ingrid"
+    },
+    {
+      "datum": "28. leden",
+      "jmena": "Otýlie"
+    },
+    {
+      "datum": "29. leden",
+      "jmena": "Zdislava, Zdeslava"
+    },
+    {
+      "datum": "30. leden",
+      "jmena": "Robin, Robyn, Erna"
+    },
+    {
+      "datum": "31. leden",
+      "jmena": "Marika, Spytihněv"
+    },
+    {
+      "datum": "1. únor",
+      "jmena": "Hynek"
+    },
+    {
+      "datum": "2. únor",
+      "jmena": "Nela"
+    },
+    {
+      "datum": "3. únor",
+      "jmena": "Blažej"
+    },
+    {
+      "datum": "4. únor",
+      "jmena": "Jarmila"
+    },
+    {
+      "datum": "5. únor",
+      "jmena": "Dobromila, Dobromíra"
+    },
+    {
+      "datum": "6. únor",
+      "jmena": "Vanda, Danuše"
+    },
+    {
+      "datum": "7. únor",
+      "jmena": "Veronika, Bereniké, Verona"
+    },
+    {
+      "datum": "8. únor",
+      "jmena": "Milada, Mlada"
+    },
+    {
+      "datum": "9. únor",
+      "jmena": "Apolena, Apolonie"
+    },
+    {
+      "datum": "10. únor",
+      "jmena": "Mojmír"
+    },
+    {
+      "datum": "11. únor",
+      "jmena": "Božena, Dezider"
+    },
+    {
+      "datum": "12. únor",
+      "jmena": "Slavěna, Slávka"
+    },
+    {
+      "datum": "13. únor",
+      "jmena": "Věnceslav, Věnceslava, Věnka"
+    },
+    {
+      "datum": "14. únor",
+      "jmena": "Valentin, Valentýn, Valentýna"
+    },
+    {
+      "datum": "15. únor",
+      "jmena": "Jiřina, Jorga"
+    },
+    {
+      "datum": "16. únor",
+      "jmena": "Ljuba"
+    },
+    {
+      "datum": "17. únor",
+      "jmena": "Miloslava"
+    },
+    {
+      "datum": "18. únor",
+      "jmena": "Gizela, Gisel"
+    },
+    {
+      "datum": "19. únor",
+      "jmena": "Patrik"
+    },
+    {
+      "datum": "20. únor",
+      "jmena": "Oldřich"
+    },
+    {
+      "datum": "21. únor",
+      "jmena": "Lenka, Eleonora"
+    },
+    {
+      "datum": "22. únor",
+      "jmena": "Petr, Etel"
+    },
+    {
+      "datum": "23. únor",
+      "jmena": "Svatopluk"
+    },
+    {
+      "datum": "24. únor",
+      "jmena": "Matěj, Matyáš"
+    },
+    {
+      "datum": "25. únor",
+      "jmena": "Liliana, Lilie"
+    },
+    {
+      "datum": "26. únor",
+      "jmena": "Dorota, Dorothea"
+    },
+    {
+      "datum": "27. únor",
+      "jmena": "Alexandr, Saša"
+    },
+    {
+      "datum": "28. únor",
+      "jmena": "Lumír"
+    },
+    {
+      "datum": "29. únor",
+      "jmena": "Horymír"
+    },
+    {
+      "datum": "1. březen",
+      "jmena": "Bedřich, Bedřiška, Frederik"
+    },
+    {
+      "datum": "2. březen",
+      "jmena": "Anežka"
+    },
+    {
+      "datum": "3. březen",
+      "jmena": "Kamil, Vladivoj"
+    },
+    {
+      "datum": "4. březen",
+      "jmena": "Stella"
+    },
+    {
+      "datum": "5. březen",
+      "jmena": "Kazimír"
+    },
+    {
+      "datum": "6. březen",
+      "jmena": "Miroslav"
+    },
+    {
+      "datum": "7. březen",
+      "jmena": "Tomáš"
+    },
+    {
+      "datum": "8. březen",
+      "jmena": "Gabriela, Zoltán"
+    },
+    {
+      "datum": "9. březen",
+      "jmena": "Františka, Rebeka, Franka"
+    },
+    {
+      "datum": "10. březen",
+      "jmena": "Viktorie"
+    },
+    {
+      "datum": "11. březen",
+      "jmena": "Anděla, Angelika"
+    },
+    {
+      "datum": "12. březen",
+      "jmena": "Řehoř"
+    },
+    {
+      "datum": "13. březen",
+      "jmena": "Růžena, Rosalie, Rosa"
+    },
+    {
+      "datum": "14. březen",
+      "jmena": "Rut, Matylda, Vlastibor"
+    },
+    {
+      "datum": "15. březen",
+      "jmena": "Ida, Idunn"
+    },
+    {
+      "datum": "16. březen",
+      "jmena": "Elena, Herbert"
+    },
+    {
+      "datum": "17. březen",
+      "jmena": "Vlastimil, Vlastimila"
+    },
+    {
+      "datum": "18. březen",
+      "jmena": "Eduard"
+    },
+    {
+      "datum": "19. březen",
+      "jmena": "Josef, Josefa"
+    },
+    {
+      "datum": "20. březen",
+      "jmena": "Světlana, Světla"
+    },
+    {
+      "datum": "21. březen",
+      "jmena": "Radek, Vesna"
+    },
+    {
+      "datum": "22. březen",
+      "jmena": "Leona, Leontina, Lea"
+    },
+    {
+      "datum": "23. březen",
+      "jmena": "Ivona"
+    },
+    {
+      "datum": "24. březen",
+      "jmena": "Gabriel, Zbyslav"
+    },
+    {
+      "datum": "25. březen",
+      "jmena": "Marian"
+    },
+    {
+      "datum": "26. březen",
+      "jmena": "Emanuel"
+    },
+    {
+      "datum": "27. březen",
+      "jmena": "Dita"
+    },
+    {
+      "datum": "28. březen",
+      "jmena": "Soňa"
+    },
+    {
+      "datum": "29. březen",
+      "jmena": "Taťána, Slavomil, Táňa"
+    },
+    {
+      "datum": "30. březen",
+      "jmena": "Arnošt, Ernest"
+    },
+    {
+      "datum": "31. březen",
+      "jmena": "Kvido"
+    },
+    {
+      "datum": "1. duben",
+      "jmena": "Hugo"
+    },
+    {
+      "datum": "2. duben",
+      "jmena": "Erika, Rosalind"
+    },
+    {
+      "datum": "3. duben",
+      "jmena": "Richard"
+    },
+    {
+      "datum": "4. duben",
+      "jmena": "Ivana"
+    },
+    {
+      "datum": "5. duben",
+      "jmena": "Miroslava"
+    },
+    {
+      "datum": "6. duben",
+      "jmena": "Vendula, Venuše"
+    },
+    {
+      "datum": "7. duben",
+      "jmena": "Heřman, Hermína"
+    },
+    {
+      "datum": "8. duben",
+      "jmena": "Ema"
+    },
+    {
+      "datum": "9. duben",
+      "jmena": "Dušan"
+    },
+    {
+      "datum": "10. duben",
+      "jmena": "Darja"
+    },
+    {
+      "datum": "11. duben",
+      "jmena": "Izabela, Izabel, Ratmír"
+    },
+    {
+      "datum": "12. duben",
+      "jmena": "Julius, Julian"
+    },
+    {
+      "datum": "13. duben",
+      "jmena": "Aleš"
+    },
+    {
+      "datum": "14. duben",
+      "jmena": "Vincent"
+    },
+    {
+      "datum": "15. duben",
+      "jmena": "Anastázie, Stáza"
+    },
+    {
+      "datum": "16. duben",
+      "jmena": "Irena, Bernadeta"
+    },
+    {
+      "datum": "17. duben",
+      "jmena": "Rudolf"
+    },
+    {
+      "datum": "18. duben",
+      "jmena": "Valérie"
+    },
+    {
+      "datum": "19. duben",
+      "jmena": "Rostislav"
+    },
+    {
+      "datum": "20. duben",
+      "jmena": "Marcela"
+    },
+    {
+      "datum": "21. duben",
+      "jmena": "Alexandra, Selma"
+    },
+    {
+      "datum": "22. duben",
+      "jmena": "Evženie"
+    },
+    {
+      "datum": "23. duben",
+      "jmena": "Vojtěch"
+    },
+    {
+      "datum": "24. duben",
+      "jmena": "Jiří"
+    },
+    {
+      "datum": "25. duben",
+      "jmena": "Marek, Markus"
+    },
+    {
+      "datum": "26. duben",
+      "jmena": "Oto"
+    },
+    {
+      "datum": "27. duben",
+      "jmena": "Jaroslav"
+    },
+    {
+      "datum": "28. duben",
+      "jmena": "Vlastislav"
+    },
+    {
+      "datum": "29. duben",
+      "jmena": "Robert"
+    },
+    {
+      "datum": "30. duben",
+      "jmena": "Blahoslav"
+    },
+    {
+      "datum": "2. květen",
+      "jmena": "Zikmund"
+    },
+    {
+      "datum": "3. květen",
+      "jmena": "Alexej, Alexie, Timea"
+    },
+    {
+      "datum": "4. květen",
+      "jmena": "Květoslav"
+    },
+    {
+      "datum": "5. květen",
+      "jmena": "Klaudie, Claudie"
+    },
+    {
+      "datum": "6. květen",
+      "jmena": "Radoslav, Radovít"
+    },
+    {
+      "datum": "7. květen",
+      "jmena": "Stanislav, Stanimír"
+    },
+    {
+      "datum": "9. květen",
+      "jmena": "Ctibor"
+    },
+    {
+      "datum": "10. květen",
+      "jmena": "Blažena"
+    },
+    {
+      "datum": "11. květen",
+      "jmena": "Svatava"
+    },
+    {
+      "datum": "12. květen",
+      "jmena": "Pankrác"
+    },
+    {
+      "datum": "13. květen",
+      "jmena": "Servác"
+    },
+    {
+      "datum": "14. květen",
+      "jmena": "Bonifác, Dina"
+    },
+    {
+      "datum": "15. květen",
+      "jmena": "Žofie, Sofie, Selena"
+    },
+    {
+      "datum": "16. květen",
+      "jmena": "Přemysl"
+    },
+    {
+      "datum": "17. květen",
+      "jmena": "Aneta"
+    },
+    {
+      "datum": "18. květen",
+      "jmena": "Nataša"
+    },
+    {
+      "datum": "19. květen",
+      "jmena": "Ivo"
+    },
+    {
+      "datum": "20. květen",
+      "jmena": "Zbyšek"
+    },
+    {
+      "datum": "21. květen",
+      "jmena": "Monika"
+    },
+    {
+      "datum": "22. květen",
+      "jmena": "Emil, Emilian"
+    },
+    {
+      "datum": "23. květen",
+      "jmena": "Vladimír"
+    },
+    {
+      "datum": "24. květen",
+      "jmena": "Jana a Vanesa"
+    },
+    {
+      "datum": "25. květen",
+      "jmena": "Viola, Violeta, Violína"
+    },
+    {
+      "datum": "26. květen",
+      "jmena": "Filip, Filippa"
+    },
+    {
+      "datum": "27. květen",
+      "jmena": "Valdemar, Vojslav"
+    },
+    {
+      "datum": "28. květen",
+      "jmena": "Vilém, Wilem"
+    },
+    {
+      "datum": "29. květen",
+      "jmena": "Maxmilián, Maxim"
+    },
+    {
+      "datum": "30. květen",
+      "jmena": "Ferdinand"
+    },
+    {
+      "datum": "31. květen",
+      "jmena": "Kamila, Camilla"
+    },
+    {
+      "datum": "1. červen",
+      "jmena": "Laura"
+    },
+    {
+      "datum": "2. červen",
+      "jmena": "Jarmil, Jaromil"
+    },
+    {
+      "datum": "3. červen",
+      "jmena": "Tamara, Kevin"
+    },
+    {
+      "datum": "4. červen",
+      "jmena": "Dalibor"
+    },
+    {
+      "datum": "5. červen",
+      "jmena": "Dobroslav"
+    },
+    {
+      "datum": "6. červen",
+      "jmena": "Norbert"
+    },
+    {
+      "datum": "7. červen",
+      "jmena": "Iveta, Slavoj"
+    },
+    {
+      "datum": "8. červen",
+      "jmena": "Medard"
+    },
+    {
+      "datum": "9. červen",
+      "jmena": "Stanislava"
+    },
+    {
+      "datum": "10. červen",
+      "jmena": "Gita"
+    },
+    {
+      "datum": "11. červen",
+      "jmena": "Bruno, Amabel, Mabel"
+    },
+    {
+      "datum": "12. červen",
+      "jmena": "Antonie"
+    },
+    {
+      "datum": "13. červen",
+      "jmena": "Antonín"
+    },
+    {
+      "datum": "14. červen",
+      "jmena": "Roland"
+    },
+    {
+      "datum": "15. červen",
+      "jmena": "Vít, Svantovít, Isolde"
+    },
+    {
+      "datum": "16. červen",
+      "jmena": "Zbyněk"
+    },
+    {
+      "datum": "17. červen",
+      "jmena": "Adolf"
+    },
+    {
+      "datum": "18. červen",
+      "jmena": "Milan"
+    },
+    {
+      "datum": "19. červen",
+      "jmena": "Leoš, Leon"
+    },
+    {
+      "datum": "20. červen",
+      "jmena": "Květa"
+    },
+    {
+      "datum": "21. červen",
+      "jmena": "Alois"
+    },
+    {
+      "datum": "22. červen",
+      "jmena": "Pavla"
+    },
+    {
+      "datum": "23. červen",
+      "jmena": "Zdeňka, Zdenka"
+    },
+    {
+      "datum": "24. červen",
+      "jmena": "Jan"
+    },
+    {
+      "datum": "25. červen",
+      "jmena": "Ivan"
+    },
+    {
+      "datum": "26. červen",
+      "jmena": "Adrian"
+    },
+    {
+      "datum": "27. červen",
+      "jmena": "Ladislav"
+    },
+    {
+      "datum": "28. červen",
+      "jmena": "Lubomír"
+    },
+    {
+      "datum": "29. červen",
+      "jmena": "Petr a Pavel"
+    },
+    {
+      "datum": "30. červen",
+      "jmena": "Šárka, Vlastimír"
+    },
+    {
+      "datum": "1. červenec",
+      "jmena": "Jaroslava"
+    },
+    {
+      "datum": "2. červenec",
+      "jmena": "Patricie"
+    },
+    {
+      "datum": "3. červenec",
+      "jmena": "Radomír"
+    },
+    {
+      "datum": "4. červenec",
+      "jmena": "Prokop"
+    },
+    {
+      "datum": "5. červenec",
+      "jmena": "Cyril a Metoděj"
+    },
+    {
+      "datum": "7. červenec",
+      "jmena": "Bohuslava"
+    },
+    {
+      "datum": "8. červenec",
+      "jmena": "Nora, Edgar, Kilian"
+    },
+    {
+      "datum": "9. červenec",
+      "jmena": "Drahoslava, Berenika, Leticie"
+    },
+    {
+      "datum": "10. červenec",
+      "jmena": "Libuše, Amálie, Ludoslav"
+    },
+    {
+      "datum": "11. červenec",
+      "jmena": "Olga"
+    },
+    {
+      "datum": "12. červenec",
+      "jmena": "Bořek"
+    },
+    {
+      "datum": "13. červenec",
+      "jmena": "Markéta"
+    },
+    {
+      "datum": "14. červenec",
+      "jmena": "Karolína"
+    },
+    {
+      "datum": "15. červenec",
+      "jmena": "Jindřich, Egon"
+    },
+    {
+      "datum": "16. červenec",
+      "jmena": "Luboš"
+    },
+    {
+      "datum": "17. červenec",
+      "jmena": "Martina"
+    },
+    {
+      "datum": "18. červenec",
+      "jmena": "Drahomíra, Drahuše, Drahomila"
+    },
+    {
+      "datum": "19. červenec",
+      "jmena": "Čeněk"
+    },
+    {
+      "datum": "20. červenec",
+      "jmena": "Eliáš, Ilja, Elias"
+    },
+    {
+      "datum": "21. červenec",
+      "jmena": "Vítězslav, Vitoslav"
+    },
+    {
+      "datum": "22. červenec",
+      "jmena": "Magdalena"
+    },
+    {
+      "datum": "23. červenec",
+      "jmena": "Libor, Larisa"
+    },
+    {
+      "datum": "24. červenec",
+      "jmena": "Kristýna, Kristin"
+    },
+    {
+      "datum": "25. červenec",
+      "jmena": "Jakub"
+    },
+    {
+      "datum": "26. červenec",
+      "jmena": "Anna"
+    },
+    {
+      "datum": "27. červenec",
+      "jmena": "Věroslav, Heidi"
+    },
+    {
+      "datum": "28. červenec",
+      "jmena": "Viktor"
+    },
+    {
+      "datum": "29. červenec",
+      "jmena": "Marta, Beatris"
+    },
+    {
+      "datum": "30. červenec",
+      "jmena": "Bořivoj"
+    },
+    {
+      "datum": "31. červenec",
+      "jmena": "Ignác, Elin"
+    },
+    {
+      "datum": "1. srpen",
+      "jmena": "Oskar"
+    },
+    {
+      "datum": "2. srpen",
+      "jmena": "Gustav"
+    },
+    {
+      "datum": "3. srpen",
+      "jmena": "Miluše"
+    },
+    {
+      "datum": "4. srpen",
+      "jmena": "Dominik, Dominika"
+    },
+    {
+      "datum": "5. srpen",
+      "jmena": "Kristián, Oswald"
+    },
+    {
+      "datum": "6. srpen",
+      "jmena": "Oldřiška"
+    },
+    {
+      "datum": "7. srpen",
+      "jmena": "Lada"
+    },
+    {
+      "datum": "8. srpen",
+      "jmena": "Soběslav"
+    },
+    {
+      "datum": "9. srpen",
+      "jmena": "Roman, Ratibor, Ratislav"
+    },
+    {
+      "datum": "10. srpen",
+      "jmena": "Vavřinec"
+    },
+    {
+      "datum": "11. srpen",
+      "jmena": "Zuzana"
+    },
+    {
+      "datum": "12. srpen",
+      "jmena": "Klára"
+    },
+    {
+      "datum": "13. srpen",
+      "jmena": "Alena"
+    },
+    {
+      "datum": "14. srpen",
+      "jmena": "Alan, Lorelai"
+    },
+    {
+      "datum": "15. srpen",
+      "jmena": "Hana, Mirabel"
+    },
+    {
+      "datum": "16. srpen",
+      "jmena": "Jáchym"
+    },
+    {
+      "datum": "17. srpen",
+      "jmena": "Petra"
+    },
+    {
+      "datum": "18. srpen",
+      "jmena": "Helena"
+    },
+    {
+      "datum": "19. srpen",
+      "jmena": "Ludvík"
+    },
+    {
+      "datum": "20. srpen",
+      "jmena": "Bernard"
+    },
+    {
+      "datum": "21. srpen",
+      "jmena": "Johana"
+    },
+    {
+      "datum": "22. srpen",
+      "jmena": "Bohuslav"
+    },
+    {
+      "datum": "23. srpen",
+      "jmena": "Sandra"
+    },
+    {
+      "datum": "24. srpen",
+      "jmena": "Bartoloměj"
+    },
+    {
+      "datum": "25. srpen",
+      "jmena": "Radim"
+    },
+    {
+      "datum": "26. srpen",
+      "jmena": "Luděk, Ludiše"
+    },
+    {
+      "datum": "27. srpen",
+      "jmena": "Otakar, Otokar"
+    },
+    {
+      "datum": "28. srpen",
+      "jmena": "Augustýn, Augustin"
+    },
+    {
+      "datum": "29. srpen",
+      "jmena": "Evelína, Evelin"
+    },
+    {
+      "datum": "30. srpen",
+      "jmena": "Vladěna, Vlaďka"
+    },
+    {
+      "datum": "31. srpen",
+      "jmena": "Pavlína"
+    },
+    {
+      "datum": "1. září",
+      "jmena": "Linda, Samuel"
+    },
+    {
+      "datum": "2. září",
+      "jmena": "Adéla"
+    },
+    {
+      "datum": "3. září",
+      "jmena": "Bronislav"
+    },
+    {
+      "datum": "4. září",
+      "jmena": "Jindřiška, Henrieta"
+    },
+    {
+      "datum": "5. září",
+      "jmena": "Boris"
+    },
+    {
+      "datum": "6. září",
+      "jmena": "Boleslav, Bolemír"
+    },
+    {
+      "datum": "7. září",
+      "jmena": "Regína"
+    },
+    {
+      "datum": "8. září",
+      "jmena": "Mariana, Marion"
+    },
+    {
+      "datum": "9. září",
+      "jmena": "Daniela"
+    },
+    {
+      "datum": "10. září",
+      "jmena": "Irma"
+    },
+    {
+      "datum": "11. září",
+      "jmena": "Denisa, Denys"
+    },
+    {
+      "datum": "12. září",
+      "jmena": "Marie"
+    },
+    {
+      "datum": "13. září",
+      "jmena": "Lubor"
+    },
+    {
+      "datum": "14. září",
+      "jmena": "Radka"
+    },
+    {
+      "datum": "15. září",
+      "jmena": "Jolana, Jolantha"
+    },
+    {
+      "datum": "16. září",
+      "jmena": "Ludmila"
+    },
+    {
+      "datum": "17. září",
+      "jmena": "Naděžda, Naděje"
+    },
+    {
+      "datum": "18. září",
+      "jmena": "Kryštof"
+    },
+    {
+      "datum": "19. září",
+      "jmena": "Zita"
+    },
+    {
+      "datum": "20. září",
+      "jmena": "Oleg"
+    },
+    {
+      "datum": "21. září",
+      "jmena": "Matouš"
+    },
+    {
+      "datum": "22. září",
+      "jmena": "Darina, Jimram"
+    },
+    {
+      "datum": "23. září",
+      "jmena": "Berta"
+    },
+    {
+      "datum": "24. září",
+      "jmena": "Jaromír"
+    },
+    {
+      "datum": "25. září",
+      "jmena": "Zlata"
+    },
+    {
+      "datum": "26. září",
+      "jmena": "Andrea"
+    },
+    {
+      "datum": "27. září",
+      "jmena": "Jonáš"
+    },
+    {
+      "datum": "28. září",
+      "jmena": "Václav"
+    },
+    {
+      "datum": "29. září",
+      "jmena": "Michal, Michael"
+    },
+    {
+      "datum": "30. září",
+      "jmena": "Jeroným, Ráchel"
+    },
+    {
+      "datum": "1. říjen",
+      "jmena": "Igor"
+    },
+    {
+      "datum": "2. říjen",
+      "jmena": "Olivie, Oliver"
+    },
+    {
+      "datum": "3. říjen",
+      "jmena": "Bohumil"
+    },
+    {
+      "datum": "4. říjen",
+      "jmena": "František, Francis"
+    },
+    {
+      "datum": "5. říjen",
+      "jmena": "Eliška"
+    },
+    {
+      "datum": "6. říjen",
+      "jmena": "Hanuš"
+    },
+    {
+      "datum": "7. říjen",
+      "jmena": "Justina"
+    },
+    {
+      "datum": "8. říjen",
+      "jmena": "Věra"
+    },
+    {
+      "datum": "9. říjen",
+      "jmena": "Sára"
+    },
+    {
+      "datum": "10. říjen",
+      "jmena": "Marina"
+    },
+    {
+      "datum": "11. říjen",
+      "jmena": "Andrej"
+    },
+    {
+      "datum": "12. říjen",
+      "jmena": "Marcel"
+    },
+    {
+      "datum": "13. říjen",
+      "jmena": "Renáta"
+    },
+    {
+      "datum": "14. říjen",
+      "jmena": "Agáta"
+    },
+    {
+      "datum": "15. říjen",
+      "jmena": "Tereza"
+    },
+    {
+      "datum": "16. říjen",
+      "jmena": "Havel"
+    },
+    {
+      "datum": "17. říjen",
+      "jmena": "Hedvika, Hedvig"
+    },
+    {
+      "datum": "18. říjen",
+      "jmena": "Lukáš"
+    },
+    {
+      "datum": "19. říjen",
+      "jmena": "Michaela, Michala, Edwin"
+    },
+    {
+      "datum": "20. říjen",
+      "jmena": "Vendelín"
+    },
+    {
+      "datum": "21. říjen",
+      "jmena": "Brigita, Voršila"
+    },
+    {
+      "datum": "22. říjen",
+      "jmena": "Sabina"
+    },
+    {
+      "datum": "23. říjen",
+      "jmena": "Theodor"
+    },
+    {
+      "datum": "24. říjen",
+      "jmena": "Nina"
+    },
+    {
+      "datum": "25. říjen",
+      "jmena": "Beáta, Krispin"
+    },
+    {
+      "datum": "26. říjen",
+      "jmena": "Erik"
+    },
+    {
+      "datum": "27. říjen",
+      "jmena": "Šarlota, Zoe"
+    },
+    {
+      "datum": "28. říjen",
+      "jmena": "Jidáš, Alfred"
+    },
+    {
+      "datum": "29. říjen",
+      "jmena": "Silvie, Sylva"
+    },
+    {
+      "datum": "30. říjen",
+      "jmena": "Tadeáš"
+    },
+    {
+      "datum": "31. říjen",
+      "jmena": "Štěpánka"
+    },
+    {
+      "datum": "1. listopad",
+      "jmena": "Felix"
+    },
+    {
+      "datum": "2. listopad",
+      "jmena": "Tobiáš"
+    },
+    {
+      "datum": "3. listopad",
+      "jmena": "Hubert"
+    },
+    {
+      "datum": "4. listopad",
+      "jmena": "Karel, Karla"
+    },
+    {
+      "datum": "5. listopad",
+      "jmena": "Miriam"
+    },
+    {
+      "datum": "6. listopad",
+      "jmena": "Liběna, Leonard"
+    },
+    {
+      "datum": "7. listopad",
+      "jmena": "Saskie"
+    },
+    {
+      "datum": "8. listopad",
+      "jmena": "Bohumír"
+    },
+    {
+      "datum": "9. listopad",
+      "jmena": "Bohdan"
+    },
+    {
+      "datum": "10. listopad",
+      "jmena": "Evžen"
+    },
+    {
+      "datum": "11. listopad",
+      "jmena": "Martin"
+    },
+    {
+      "datum": "12. listopad",
+      "jmena": "Benedikt"
+    },
+    {
+      "datum": "13. listopad",
+      "jmena": "Tibor"
+    },
+    {
+      "datum": "14. listopad",
+      "jmena": "Sáva"
+    },
+    {
+      "datum": "15. listopad",
+      "jmena": "Leopold"
+    },
+    {
+      "datum": "16. listopad",
+      "jmena": "Otmar, Otomar"
+    },
+    {
+      "datum": "17. listopad",
+      "jmena": "Mahulena"
+    },
+    {
+      "datum": "18. listopad",
+      "jmena": "Romana"
+    },
+    {
+      "datum": "19. listopad",
+      "jmena": "Alžběta"
+    },
+    {
+      "datum": "20. listopad",
+      "jmena": "Nikola, Niké, Nikita"
+    },
+    {
+      "datum": "21. listopad",
+      "jmena": "Albert"
+    },
+    {
+      "datum": "22. listopad",
+      "jmena": "Cecilie"
+    },
+    {
+      "datum": "23. listopad",
+      "jmena": "Klement"
+    },
+    {
+      "datum": "24. listopad",
+      "jmena": "Emilie"
+    },
+    {
+      "datum": "25. listopad",
+      "jmena": "Kateřina"
+    },
+    {
+      "datum": "26. listopad",
+      "jmena": "Artur, Artuš"
+    },
+    {
+      "datum": "27. listopad",
+      "jmena": "Xenie"
+    },
+    {
+      "datum": "28. listopad",
+      "jmena": "René"
+    },
+    {
+      "datum": "29. listopad",
+      "jmena": "Zina"
+    },
+    {
+      "datum": "30. listopad",
+      "jmena": "Ondřej, Luna"
+    },
+    {
+      "datum": "1. prosinec",
+      "jmena": "Iva"
+    },
+    {
+      "datum": "2. prosinec",
+      "jmena": "Blanka"
+    },
+    {
+      "datum": "3. prosinec",
+      "jmena": "Svatoslav"
+    },
+    {
+      "datum": "4. prosinec",
+      "jmena": "Barbora, Bára"
+    },
+    {
+      "datum": "5. prosinec",
+      "jmena": "Jitka"
+    },
+    {
+      "datum": "6. prosinec",
+      "jmena": "Mikuláš"
+    },
+    {
+      "datum": "7. prosinec",
+      "jmena": "Benjamín"
+    },
+    {
+      "datum": "8. prosinec",
+      "jmena": "Květoslava"
+    },
+    {
+      "datum": "9. prosinec",
+      "jmena": "Vratislav"
+    },
+    {
+      "datum": "10. prosinec",
+      "jmena": "Julie a Eulalie"
+    },
+    {
+      "datum": "11. prosinec",
+      "jmena": "Dana"
+    },
+    {
+      "datum": "12. prosinec",
+      "jmena": "Simona"
+    },
+    {
+      "datum": "13. prosinec",
+      "jmena": "Lucie"
+    },
+    {
+      "datum": "14. prosinec",
+      "jmena": "Lydie"
+    },
+    {
+      "datum": "15. prosinec",
+      "jmena": "Radana"
+    },
+    {
+      "datum": "16. prosinec",
+      "jmena": "Albína"
+    },
+    {
+      "datum": "17. prosinec",
+      "jmena": "Daniel"
+    },
+    {
+      "datum": "18. prosinec",
+      "jmena": "Miloslav"
+    },
+    {
+      "datum": "19. prosinec",
+      "jmena": "Ester"
+    },
+    {
+      "datum": "20. prosinec",
+      "jmena": "Dagmar"
+    },
+    {
+      "datum": "21. prosinec",
+      "jmena": "Natálie"
+    },
+    {
+      "datum": "22. prosinec",
+      "jmena": "Šimon"
+    },
+    {
+      "datum": "23. prosinec",
+      "jmena": "Vlasta"
+    },
+    {
+      "datum": "24. prosinec",
+      "jmena": "Adam a Eva"
+    },
+    {
+      "datum": "26. prosinec",
+      "jmena": "Štěpán, Štefan"
+    },
+    {
+      "datum": "27. prosinec",
+      "jmena": "Žaneta"
+    },
+    {
+      "datum": "28. prosinec",
+      "jmena": "Bohumila"
+    },
+    {
+      "datum": "29. prosinec",
+      "jmena": "Judita"
+    },
+    {
+      "datum": "30. prosinec",
+      "jmena": "David"
+    },
+    {
+      "datum": "31. prosinec",
+      "jmena": "Silvestr"
+    }
+  ],
+  "meta": {
+    "title": "Jmeniny v Česku – kalendář jmen - Free Download",
+    "description": "Český občanský kalendář jmenin: datum a jména, která v daný den slaví svátek. Contains 360 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Jmeniny v Česku – kalendář jmen | ListBase",
+    "seo_description": "Download Jmeniny v Česku – kalendář jmen — 360 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 360 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Jmeniny_v_Česku"
+    ]
+  }
+}

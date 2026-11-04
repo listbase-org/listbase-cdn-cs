@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-03T02:25:14.469Z",
-  "total_datasets": 529,
-  "total_records": 418334,
+  "generated": "2026-11-04T02:23:08.113Z",
+  "total_datasets": 530,
+  "total_records": 418694,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -14390,6 +14390,29 @@
         "xlsx": {
           "name": "tech-unicode-symbols_CS.xlsx",
           "size": 9885
+        }
+      }
+    },
+    {
+      "id": "cs-jmeniny-kalendar",
+      "name": "Jmeniny v Česku – kalendář jmen",
+      "category": "time",
+      "record_count": 360,
+      "columns": [
+        "datum",
+        "jmena"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Jmeniny_v_Česku",
+      "updated": "2026-11",
+      "size": 26910,
+      "files": {
+        "csv": {
+          "name": "cs-jmeniny-kalendar_CS.csv",
+          "size": 9786
+        },
+        "xlsx": {
+          "name": "cs-jmeniny-kalendar_CS.xlsx",
+          "size": 14575
         }
       }
     },
