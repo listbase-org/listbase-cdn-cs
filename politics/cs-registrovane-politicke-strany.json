@@ -1,0 +1,2032 @@
+{
+  "id": "cs-registrovane-politicke-strany",
+  "name": "Registrované politické strany a hnutí v Česku",
+  "title": "Registrované politické strany a hnutí v Česku",
+  "description": "Aktivní politické strany a hnutí zapsané v rejstříku MV ČR se zkratkou, typem, ideologií, předsedou a rokem založení.",
+  "category": "politics",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_politických_stran_a_hnutí_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_politických_stran_a_hnutí_v_Česku",
+  "updated": "2026-11",
+  "record_count": 247,
+  "columns": [
+    {
+      "key": "zkratka",
+      "label": "Zkratka",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "ideologie",
+      "label": "Ideologie",
+      "type": "string"
+    },
+    {
+      "key": "predseda",
+      "label": "Predseda",
+      "type": "string"
+    },
+    {
+      "key": "zalozeno",
+      "label": "Zalozeno",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zkratka": "24/7",
+      "nazev": "24/7",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Marek Ošťádal",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "AD PRO LB",
+      "nazev": "A DOST! PRO LEPŠÍ BUDOUCNOST",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Tomáš Šnorek",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "APB",
+      "nazev": "Aliance pro budoucnost",
+      "typ": "strana",
+      "ideologie": "konzervativní liberalismus",
+      "predseda": "Pavel Sehnal",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "ApV",
+      "nazev": "Alternativa pro Vás",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Tomáš Morawski",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "ANO",
+      "nazev": "ANO 2011",
+      "typ": "hnutí",
+      "ideologie": "pravicový populismus",
+      "predseda": "Andrej Babiš",
+      "zalozeno": 2012
+    },
+    {
+      "zkratka": "mimozemstani.eu",
+      "nazev": "ANO LEPŠÍ ČESKO S MIMOZEMŠŤANY A OBČANY MOTORISTY",
+      "typ": "hnutí",
+      "ideologie": "politická recese",
+      "predseda": "Tomáš Franěk",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "BPS",
+      "nazev": "Balbínova poetická strana",
+      "typ": "strana",
+      "ideologie": "politická recese",
+      "predseda": "Jiří Hrdina",
+      "zalozeno": 2002
+    },
+    {
+      "zkratka": "BZ",
+      "nazev": "Bezpečná země",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Martin Mazur",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "BEZ-UL",
+      "nazev": "BEZPEČNÉ ULICE",
+      "typ": "strana",
+      "ideologie": "nacionalismus",
+      "predseda": "Jiří Štěpánek",
+      "zalozeno": 2011
+    },
+    {
+      "zkratka": "KLID",
+      "nazev": "Brnoklidem",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Petr Bořecký",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Budoucnost",
+      "nazev": "Budoucnost",
+      "typ": "hnutí",
+      "ideologie": "demokratický socialismus",
+      "predseda": "Jakub Kovařík",
+      "zalozeno": 2020
+    },
+    {
+      "zkratka": "BPK",
+      "nazev": "Budoucnost pro Kolín",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Petr Uhlíř",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "„BUPO“",
+      "nazev": "Budoucnost pro občany",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Libor Žemlička",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "BST",
+      "nazev": "Bystrčáci",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Hana Jindrová",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "CESTA",
+      "nazev": "CESTA ODPOVĚDNÉ SPOLEČNOSTI",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jan Kubín",
+      "zalozeno": 2017
+    },
+    {
+      "zkratka": "COEX",
+      "nazev": "COEXISTENTIA",
+      "typ": "hnutí",
+      "ideologie": "zájmy polské menšiny",
+      "predseda": "Stanislav Gawlik",
+      "zalozeno": 1990
+    },
+    {
+      "zkratka": "(CzP)",
+      "nazev": "Česká párty (The Czech Party)",
+      "typ": "strana",
+      "ideologie": "nacionalismus",
+      "predseda": "Václav Musílek, Petr Levíček",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Piráti",
+      "nazev": "Česká pirátská strana",
+      "typ": "strana",
+      "ideologie": "pirátská politika, proevropanismus",
+      "predseda": "Zdeněk Hřib",
+      "zalozeno": 2009
+    },
+    {
+      "zkratka": "ČR1",
+      "nazev": "Česká republika na 1. místě!",
+      "typ": "hnutí",
+      "ideologie": "nacionalismus, pravicový populismus",
+      "predseda": "Ladislav Vrabel",
+      "zalozeno": 2023
+    },
+    {
+      "zkratka": "ČSA",
+      "nazev": "Česká strana asociálů",
+      "typ": "strana",
+      "ideologie": "politická recese",
+      "predseda": "Pavel Hrubeš",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "ČSNS",
+      "nazev": "Česká strana národně sociální",
+      "typ": "strana",
+      "ideologie": "národní socialismus",
+      "predseda": "Michal Klusáček",
+      "zalozeno": 1897
+    },
+    {
+      "zkratka": "ČZS",
+      "nazev": "Česká zemědělská strana",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Tomáš Havlíček",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "ČiKR",
+      "nazev": "Čistý kraj",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Alena Poláčková",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "ČSSD",
+      "nazev": "ČSSD – Česká suverenita sociální demokracie",
+      "typ": "strana",
+      "ideologie": "sociální demokracie, levicový nacionalismus",
+      "predseda": "Jiří Paroubek",
+      "zalozeno": 2011
+    },
+    {
+      "zkratka": "DSZ – ZA PRÁVA ZVÍŘAT",
+      "nazev": "Demokratická strana zelených – ZA PRÁVA ZVÍŘAT",
+      "typ": "strana",
+      "ideologie": "zelená politika, ochrana zvířat",
+      "predseda": "Jiří Anderle",
+      "zalozeno": 2009
+    },
+    {
+      "zkratka": "DV 2016",
+      "nazev": "Dobrá volba 2016",
+      "typ": "strana",
+      "ideologie": "křesťanská demokracie",
+      "predseda": "Pavol Lukša",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "DOMOV",
+      "nazev": "DOMOV",
+      "typ": "strana",
+      "ideologie": "nacionalismus",
+      "predseda": "David Tygr Ploc",
+      "zalozeno": 2019
+    },
+    {
+      "zkratka": "EM",
+      "nazev": "Evolution–Mind",
+      "typ": "hnutí",
+      "ideologie": "apolitické hnutí",
+      "predseda": "Petr Chobot",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "Fakt Brno",
+      "nazev": "Fakt Brno",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "David Pokorný",
+      "zalozeno": 2021
+    },
+    {
+      "zkratka": "GEN",
+      "nazev": "GEN",
+      "typ": "strana",
+      "ideologie": "liberalismus",
+      "predseda": "Vojtěch Ryvola",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "HS",
+      "nazev": "HLAS SAMOSPRÁV",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jan Novák",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "HAŠ",
+      "nazev": "HNUTÍ ANTONÍNA ŠVEHLY – HAŠ",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Milan Wenzl",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Generace",
+      "nazev": "Hnutí Generace",
+      "typ": "hnutí",
+      "ideologie": "liberalismus, proevropanismus",
+      "predseda": "Daniel Krutý",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "Hlas",
+      "nazev": "Hnutí HLAS",
+      "typ": "hnutí",
+      "ideologie": "liberalismus, proevropanismus",
+      "predseda": "Petr Hrdý",
+      "zalozeno": 2019
+    },
+    {
+      "zkratka": "HR",
+      "nazev": "Hnutí Hlas regionů",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Filip Ušák",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Idealisté",
+      "nazev": "Hnutí Idealisté",
+      "typ": "hnutí",
+      "ideologie": "sociální liberalismus, environmentalismus, proevropanismus",
+      "predseda": "Jan Schneider",
+      "zalozeno": 2020
+    },
+    {
+      "zkratka": "Kruh",
+      "nazev": "Hnutí Kruh",
+      "typ": "hnutí",
+      "ideologie": "sociální liberalismus, feminismus",
+      "predseda": "kolektivní vedení",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "NEJ",
+      "nazev": "Hnutí NEJ",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Luboš Čmiel",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "PRO-Kdyňsko",
+      "nazev": "Hnutí nezávislých, PRO-Kdyňsko",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Věra Říhová",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "HOP Hydra",
+      "nazev": "Hnutí občanů a podnikatelů",
+      "typ": "hnutí",
+      "ideologie": "populismus",
+      "predseda": "Libor Maleček",
+      "zalozeno": 2023
+    },
+    {
+      "zkratka": "„HPK“",
+      "nazev": "„Hnutí Praha-Kunratice“",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Lenka Alinčová",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "HPH",
+      "nazev": "Hnutí pro Havířov",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Ivo Tarkowski",
+      "zalozeno": 1998
+    },
+    {
+      "zkratka": "PRO Chomutov",
+      "nazev": "Hnutí PRO Chomutov",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Petr Veverka",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "PRO-HOD",
+      "nazev": "Hnutí PRO Hodonín",
+      "typ": "hnutí",
+      "ideologie": "Komunální politika",
+      "predseda": "Libor Střecha",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "HPP 11",
+      "nazev": "Hnutí pro Prahu 11",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Šárka Zdeňková",
+      "zalozeno": 2006
+    },
+    {
+      "zkratka": "HpŽ",
+      "nazev": "Hnutí pro Žabiny",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Vít Cvrček",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "SOL",
+      "nazev": "Hnutí SOL",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Martin Maleček",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "SPRÁVNÁ CESTA",
+      "nazev": "HNUTÍ SPRÁVNÁ CESTA",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Václav Kozák",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "HSS",
+      "nazev": "Hnutí Správný stát",
+      "typ": "hnutí",
+      "ideologie": "euroskepticismus",
+      "predseda": "František Zoubek",
+      "zalozeno": 2021
+    },
+    {
+      "zkratka": "Šance pro Počernice",
+      "nazev": "Hnutí Šance pro Počernice",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Hana Markulinec Moravcová",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "HOSp",
+      "nazev": "Hnutí za občanskou spokojenost",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Hana Vagenknechtová",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Hodoňáci",
+      "nazev": "HODOŇÁCI",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Terézia Mlýnková Išková",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "HDK",
+      "nazev": "Hradecký demokratický klub",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Pavlína Springerová",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "Koala",
+      "nazev": "Chomutovská koalice",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jiří Richter",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "IMPULSPRO",
+      "nazev": "IMPULS pro Dolní Břežany, Lhotu, Zálepy, Jarov",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Oldřich Šrámek",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "IO",
+      "nazev": "Iniciativa občanů",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Michal Vostřez",
+      "zalozeno": 1994
+    },
+    {
+      "zkratka": "JaSaN",
+      "nazev": "Jasný Signál Nezávislých",
+      "typ": "hnutí",
+      "ideologie": "nacionalismus",
+      "predseda": "Vladimír Štěpán",
+      "zalozeno": 2023
+    },
+    {
+      "zkratka": "JIH 12",
+      "nazev": "JIHOČEŠI 2012",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Pavel Hroch",
+      "zalozeno": 2011
+    },
+    {
+      "zkratka": "JAB",
+      "nazev": "JISTOTA A BUDOUCNOST",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Miloš Petera",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "JM-ND",
+      "nazev": "Jižní Město - náš domov",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Dalibor Mlejnský",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "JSME",
+      "nazev": "JSME",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Roman Vilímek",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "SOUSEDÉ",
+      "nazev": "JSME SOUSEDÉ",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jiří Topinka",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "TEAM",
+      "nazev": "„JSME TEAM“",
+      "typ": "hnutí",
+      "ideologie": "liberalismus",
+      "predseda": "Lukáš Wagenknecht",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "JsmePRO!",
+      "nazev": "JsmePRO!",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Jiří Řehák",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "Jundrováci",
+      "nazev": "Jundrováci",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Ondřej Šťastník",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "KVC",
+      "nazev": "Karlovaráci",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Miroslav Vaněk",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "KOA",
+      "nazev": "Karlovarská občanská alternativa",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Adam Klsák",
+      "zalozeno": 2006
+    },
+    {
+      "zkratka": "KDU-ČSL",
+      "nazev": "KDU-ČSL",
+      "typ": "strana",
+      "ideologie": "křesťanská demokracie, proevropanismus",
+      "predseda": "Jan Grolich",
+      "zalozeno": 1919
+    },
+    {
+      "zkratka": "KM",
+      "nazev": "Klidné město",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Vladimír Polánský",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "KAN",
+      "nazev": "Klub angažovaných nestraníků",
+      "typ": "hnutí",
+      "ideologie": "liberalismus",
+      "predseda": "Miroslav Matějka",
+      "zalozeno": 1968
+    },
+    {
+      "zkratka": "Koalice PRO kraj",
+      "nazev": "Koalice PRO kraj",
+      "typ": "hnutí",
+      "ideologie": "regionální politika, komunální politika",
+      "predseda": "Helena Kubcová",
+      "zalozeno": 2002
+    },
+    {
+      "zkratka": "KSČM",
+      "nazev": "Komunistická strana Čech a Moravy",
+      "typ": "strana",
+      "ideologie": "komunismus, euroskepticismus",
+      "predseda": "Roman Roun",
+      "zalozeno": 1990
+    },
+    {
+      "zkratka": "KSČ",
+      "nazev": "Komunistická strana Československa",
+      "typ": "strana",
+      "ideologie": "komunismus",
+      "predseda": "Roman Blaško",
+      "zalozeno": 1995
+    },
+    {
+      "zkratka": "KONS",
+      "nazev": "Konzervativní strana",
+      "typ": "strana",
+      "ideologie": "konzervatismus",
+      "predseda": "Jan Kubalčík",
+      "zalozeno": 1990
+    },
+    {
+      "zkratka": "Koruna Česká",
+      "nazev": "Koruna Česká (monarchistická strana Čech, Moravy a Slezska)",
+      "typ": "strana",
+      "ideologie": "monarchismus, konzervatismus",
+      "predseda": "Vojtěch Círus",
+      "zalozeno": 1990
+    },
+    {
+      "zkratka": "KPP",
+      "nazev": "Královopolští patrioti",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Iva Tejkalová",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "KK",
+      "nazev": "KRÁSNÁ KOPŘIVNICE",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Adam Hanus",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "Lepší město",
+      "nazev": "Lepší město, lepší život",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Lukáš Pohanka",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "LS",
+      "nazev": "LEPŠÍ SEVER",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Martin Havelka",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "LŽPL",
+      "nazev": "LEPŠÍ ŽIVOT PRO LIDI",
+      "typ": "strana",
+      "ideologie": "pravicový populismus",
+      "predseda": "Pavel May",
+      "zalozeno": 1999
+    },
+    {
+      "zkratka": "Levice",
+      "nazev": "Levice",
+      "typ": "strana",
+      "ideologie": "demokratický socialismus",
+      "predseda": "kolektivní vedení",
+      "zalozeno": 1993
+    },
+    {
+      "zkratka": "LES",
+      "nazev": "Liberálně ekologická strana",
+      "typ": "strana",
+      "ideologie": "zelený liberalismus, proevropanismus",
+      "predseda": "Ladislav Miko",
+      "zalozeno": 2013
+    },
+    {
+      "zkratka": "LANO",
+      "nazev": "Liberální aliance nezávislých občanů",
+      "typ": "strana",
+      "ideologie": "sociální liberalismus, proevropanismus",
+      "predseda": "Dita Jarošová",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "Voluntia",
+      "nazev": "Libertariánská strana Voluntia",
+      "typ": "strana",
+      "ideologie": "voluntarismus, libertarianismus",
+      "predseda": "Jiří Fábera",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "LAP",
+      "nazev": "Lidé a Politika",
+      "typ": "strana",
+      "ideologie": "občanský aktivismus",
+      "predseda": "Jiří Michalička",
+      "zalozeno": 2008
+    },
+    {
+      "zkratka": "Liga",
+      "nazev": "Liga nespokojených",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jaroslav Svoboda",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "Maják",
+      "nazev": "Maják",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Antonín Zámyslický",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "MSVC",
+      "nazev": "Malá strana velkých cílů",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Bohumír Fatr",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "MRCHA",
+      "nazev": "MÁME RÁDI CHOMUTOV",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Marcela Soukupová",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "MÁ VLAST ČMS",
+      "nazev": "MÁ VLAST ČECHY MORAVA SLEZSKO",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Luděk Růžička",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "ML",
+      "nazev": "MĚSTO LIDEM",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Martin Nedvídek",
+      "zalozeno": 2002
+    },
+    {
+      "zkratka": "MPV",
+      "nazev": "Město pro vás",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Miroslav Koloc",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "MÍSTNÍ HNHRM",
+      "nazev": "MÍSTNÍ HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Patrik Pizinger",
+      "zalozeno": 1998
+    },
+    {
+      "zkratka": "MODES",
+      "nazev": "Moderní společnost",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Jiří Krupa",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "Moravané",
+      "nazev": "Moravané",
+      "typ": "strana",
+      "ideologie": "moravismus, euroskepticismus",
+      "predseda": "Aleš Sekanina",
+      "zalozeno": 1994
+    },
+    {
+      "zkratka": "MZH",
+      "nazev": "Moravské zemské hnutí",
+      "typ": "hnutí",
+      "ideologie": "moravismus",
+      "predseda": "Pavel Trčala",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "AUTO",
+      "nazev": "Motoristé sobě",
+      "typ": "strana",
+      "ideologie": "pravicový populismus, národní konzervatismus, euroskepticismus",
+      "predseda": "Petr Macinka",
+      "zalozeno": 2017
+    },
+    {
+      "zkratka": "Mourek",
+      "nazev": "Mourek – politická strana",
+      "typ": "strana",
+      "ideologie": "komunální politika, liberalismus, proevropanismus",
+      "predseda": "Petr Špringr",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "MY",
+      "nazev": "MY",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Petr Fiala",
+      "zalozeno": 2019
+    },
+    {
+      "zkratka": "NBY",
+      "nazev": "Naše Bystrc",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Petr Hluštík",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NČ",
+      "nazev": "Naše Česko",
+      "typ": "hnutí",
+      "ideologie": "populismus",
+      "predseda": "Martin Kuba",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "N14",
+      "nazev": "Naše Čtrnáctka",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Soňa Tománková",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "NMFM",
+      "nazev": "Naše Město F-M",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Petr Korč",
+      "zalozeno": 2013
+    },
+    {
+      "zkratka": "NAŠE",
+      "nazev": "Naše Obec",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "HNP",
+      "nazev": "Naše Praha",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Rudolf Blažek",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Naši",
+      "nazev": "Naši",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Matěj Černý",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NSS",
+      "nazev": "Národně sociální strana",
+      "typ": "strana",
+      "ideologie": "národní socialismus",
+      "predseda": "Vladislav Svoboda",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "NáS",
+      "nazev": "Národ Sobě",
+      "typ": "strana",
+      "ideologie": "nacionalismus",
+      "predseda": "Jiří Šoltys",
+      "zalozeno": 2015
+    },
+    {
+      "zkratka": "ND",
+      "nazev": "Národní demokracie",
+      "typ": "strana",
+      "ideologie": "nacionalismus, euroskepticismus",
+      "predseda": "Jan Sedláček",
+      "zalozeno": 1994
+    },
+    {
+      "zkratka": "NOB",
+      "nazev": "Národní obroda",
+      "typ": "hnutí",
+      "ideologie": "nacionalismus",
+      "predseda": "Jana Matějná",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "NE",
+      "nazev": "NE 2025",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Marian Kuś",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "NEPLAŠ",
+      "nazev": "NEPLAŠ – Nezávislá PLatforma AŠ",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Marian Rewczuk",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NK",
+      "nazev": "Nestraníci",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Věra Uhlířová",
+      "zalozeno": 2006
+    },
+    {
+      "zkratka": "NeKa",
+      "nazev": "Nezávislá kandidátka",
+      "typ": "hnutí",
+      "ideologie": "občanský aktivismus",
+      "predseda": "Ivana Horká",
+      "zalozeno": 2020
+    },
+    {
+      "zkratka": "NV",
+      "nazev": "NEZÁVISLÁ VOLBA",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Jiří Rudolf",
+      "zalozeno": 2004
+    },
+    {
+      "zkratka": "NEZ",
+      "nazev": "Nezávislí",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Patrik Hujdus",
+      "zalozeno": 1994
+    },
+    {
+      "zkratka": "NeBe",
+      "nazev": "Nezávislí Berouňáci",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Antonín Marx",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NEZ Bílina",
+      "nazev": "Nezávislí pro Bílinu",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "René Štěpánek",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "NPP10-HPLD",
+      "nazev": "NEZÁVISLÍ PRO PRAHU 10 – HNUTÍ PRO LEPŠÍ DESÍTKU",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Bohumil Zoufalík",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "Normální",
+      "nazev": "Normální",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Ivan Křížek",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NBPLK",
+      "nazev": "Nová budoucnost pro Liberecký kraj",
+      "typ": "strana",
+      "ideologie": "regionální politika",
+      "predseda": "",
+      "zalozeno": 2012
+    },
+    {
+      "zkratka": "NG",
+      "nazev": "NOVÁ GENERACE",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Lucie Fremrová",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NOPL",
+      "nazev": "NOVÁ PLZEŇ",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Martina Šubrtová",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "NSD",
+      "nazev": "Nová sociální demokracie",
+      "typ": "strana",
+      "ideologie": "sociální demokracie, proevropanismus",
+      "predseda": "",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NB",
+      "nazev": "Nové Brno",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Michal Sedláček",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "NI",
+      "nazev": "Nový Impuls",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Zdeněk Novák",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "NS",
+      "nazev": "NOVÝ SEVER",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Karel Lipmann",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "NOS",
+      "nazev": "Nový směr",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Zbyněk Hromek",
+      "zalozeno": 2013
+    },
+    {
+      "zkratka": "OVPV",
+      "nazev": "O vás pro vás",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Jaromír Dušek",
+      "zalozeno": 2020
+    },
+    {
+      "zkratka": "O12",
+      "nazev": "Občané Dvanáctky",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Vladimír Vaněk",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "OMČO",
+      "nazev": "Občané městských částí Opavy",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Miroslav Kořistka",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "OMMO",
+      "nazev": "Občané městu, město občanům",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Hana Svobodová",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "OPAT",
+      "nazev": "Občané patrioti",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jan Michálek",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "HOPB",
+      "nazev": "Občané pro Budějovice",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Tomáš Chovanec",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "ODS",
+      "nazev": "Občanská demokratická strana",
+      "typ": "strana",
+      "ideologie": "liberální konzervatismus",
+      "predseda": "Martin Kupka",
+      "zalozeno": 1991
+    },
+    {
+      "zkratka": "OS",
+      "nazev": "Občanská sounáležitost",
+      "typ": "hnutí",
+      "ideologie": "občanský aktivismus, kooperativismus",
+      "predseda": "Václav Vorel",
+      "zalozeno": 2013
+    },
+    {
+      "zkratka": "OFB",
+      "nazev": "Občanské fórum Beskydy",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jiří Švrček",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "ReMeK",
+      "nazev": "Občansko-politické hnutí ReMeK pro zrušení SENÁTU",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Štefan Režný",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "HOČ",
+      "nazev": "Odvážné Česko",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Margita Balaštíková",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "8žije",
+      "nazev": "Osmička žije",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Tomáš Němeček",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "OK",
+      "nazev": "Osobnosti pro kraj",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Ivo Vondrák",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "Ostravak",
+      "nazev": "Ostravak",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Tomáš Málek",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "OSVČ",
+      "nazev": "OSVČ",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Pavel Šrámek",
+      "zalozeno": 2015
+    },
+    {
+      "zkratka": "OST",
+      "nazev": "Otevřené Strakonice",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jaroslav Horejš",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Parspo",
+      "nazev": "Pardubáci společně",
+      "typ": "strana",
+      "ideologie": "regionální politika",
+      "predseda": "František Brendl",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "PPL",
+      "nazev": "Pardubice pro lidi",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Petr Králíček",
+      "zalozeno": 2013
+    },
+    {
+      "zkratka": "Patrioti ČR",
+      "nazev": "Patrioti České republiky",
+      "typ": "strana",
+      "ideologie": "nacionalismus",
+      "predseda": "Jiří Vítek",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "PATRIOTI HODONÍN",
+      "nazev": "PATRIOTI HODONÍN",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Zdeněk Pávek",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "PaN",
+      "nazev": "PATRIOTI NÁCHODA",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Milan Vik",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "PV",
+      "nazev": "Pévéčko",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jiří Pospíšil",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "PLUS",
+      "nazev": "PLUS",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jindřich Kadlec",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "Podpora",
+      "nazev": "Podpora občanů",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Miluše Zahrádková",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "NEZLOMNÍ",
+      "nazev": "Politické hnutí NEZLOMNÍ",
+      "typ": "hnutí",
+      "ideologie": "nacionalismus",
+      "predseda": "Nela Lisková",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "PRAHA SOBĚ",
+      "nazev": "Pražská městská strana PRAHA SOBĚ",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Adam Scheinherr",
+      "zalozeno": 2017
+    },
+    {
+      "zkratka": "PRO NÁŠ KRAJ",
+      "nazev": "PRO NÁŠ KRAJ",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Petr Maule",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "PRO PLZEŇ",
+      "nazev": "PRO PLZEŇ",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Radek Mráz",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "PRO",
+      "nazev": "PRO Právo Respekt Odbornost",
+      "typ": "strana",
+      "ideologie": "nacionalismus, pravicový populismus",
+      "predseda": "Jindřich Rajchl",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "ProMOST",
+      "nazev": "ProMOST",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Marek Hrvol",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "ProOl",
+      "nazev": "ProOlomouc",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Tomáš Pejpek",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "PP21",
+      "nazev": "ProPce21",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jakub Rychtecký",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "PZ",
+      "nazev": "PROZMĚNU",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Radek Zatloukal",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "PŘÍSAHA",
+      "nazev": "Přísaha občanské hnutí",
+      "typ": "hnutí",
+      "ideologie": "pravicový populismus",
+      "predseda": "Róbert Šlachta",
+      "zalozeno": 2021
+    },
+    {
+      "zkratka": "Rebelové",
+      "nazev": "Rebelové",
+      "typ": "strana",
+      "ideologie": "centrismus",
+      "predseda": "Miloslav Zientek",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "REFERENDUM",
+      "nazev": "REFERENDUM – Hlas Lidu",
+      "typ": "hnutí",
+      "ideologie": "nacionalismus, euroskepticismus, přímá demokracie",
+      "predseda": "Václav Sogel",
+      "zalozeno": 2023
+    },
+    {
+      "zkratka": "Evo",
+      "nazev": "rEvoluce",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Zdeněk Navrátil",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "RH",
+      "nazev": "ROZVÍJÍME HRADEC",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jan Holásek",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "ŘS",
+      "nazev": "Řepští sousedé",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Lukáš Pokorný",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "SR21",
+      "nazev": "SALON REPUBLIKY 21",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Ilona Dvořáková",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "SPPČ",
+      "nazev": "Strana pro právo a prosperitu Česka",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Blanka Kuchařová",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "SMS",
+      "nazev": "Sdružení pro Místní Správu",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Michaela Vondráčková",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "SPR-RSČMS",
+      "nazev": "SDRUŽENÍ PRO REPUBLIKU – REPUBLIKÁNSKÁ STRANA ČECH, MORAVY A SLEZSKA",
+      "typ": "strana",
+      "ideologie": "nacionalismus",
+      "predseda": "Pavel Mužný",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "Sedma",
+      "nazev": "Sedma – strana pro Slatiňany, Škrovád, Trpišov, Kunčí, Presy, Podhůru a Kochánovice",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Jan Picpauer",
+      "zalozeno": 2006
+    },
+    {
+      "zkratka": "PSS",
+      "nazev": "SEMILÁCI",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Adam Kuršel",
+      "zalozeno": 2006
+    },
+    {
+      "zkratka": "SEN 21",
+      "nazev": "SEN 21",
+      "typ": "hnutí",
+      "ideologie": "liberalismus, proevropanismus",
+      "predseda": "Václav Láska",
+      "zalozeno": 2017
+    },
+    {
+      "zkratka": "S.cz",
+      "nazev": "Severočeši.cz",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Bronislav Schwarz",
+      "zalozeno": 2008
+    },
+    {
+      "zkratka": "SLAVIČÍN 2018",
+      "nazev": "SLAVIČÍN 2018 - sdružení nezávislých kandidátů",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Zuzana Matulová",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "Slezská",
+      "nazev": "Slezská lidem",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Lubomír Noga",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "Směr",
+      "nazev": "Směr Česká republika",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "David Štěpán",
+      "zalozeno": 2021
+    },
+    {
+      "zkratka": "SMSka",
+      "nazev": "SMS – Stát Má Sloužit",
+      "typ": "hnutí",
+      "ideologie": "euroskepticismus",
+      "predseda": "Karel Leškovský",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "SNK 1 – SNK",
+      "nazev": "SNK 1 – Starostové našeho kraje",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Eduard Frisch",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "SNK ED",
+      "nazev": "SNK Evropští demokraté",
+      "typ": "strana",
+      "ideologie": "konzervativní liberalismus, proevropanismus",
+      "predseda": "René Živný",
+      "zalozeno": 2000
+    },
+    {
+      "zkratka": "SONOB",
+      "nazev": "„SONOB – sdružení ochrany nájemníků a ostatního bydlení“",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Vladimír Hruška",
+      "zalozeno": 2002
+    },
+    {
+      "zkratka": "SOCDEM",
+      "nazev": "Sociální demokracie",
+      "typ": "strana",
+      "ideologie": "sociální demokracie, levicový populismus",
+      "predseda": "Jiří Nedvěd",
+      "zalozeno": 1893
+    },
+    {
+      "zkratka": "SD-SN",
+      "nazev": "Spojení demokraté – Sdružení nezávislých",
+      "typ": "strana",
+      "ideologie": "konzervatismus, euroskepticismus",
+      "predseda": "Alena Dernerová",
+      "zalozeno": 2002
+    },
+    {
+      "zkratka": "spOL",
+      "nazev": "spOLečně",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Robert Runták",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "SPČ",
+      "nazev": "Společně pro Černovice",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Ladislav Kotík",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "SOPU",
+      "nazev": "Společnost na ochranu Prokopského údolí",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Lenka Vančatová",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "SPOLEHNUTÍ",
+      "nazev": "SPOLEHNUTÍ - SPOLEČNÉ HNUTÍ ČESKOLIPANŮ",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jaroslav Turnhöfer",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "SZZJ",
+      "nazev": "SPOLEK ZA ZDRAVOU JIHLAVU",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Milan Matějka",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "SpV",
+      "nazev": "Správná Volba",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Pavel Umlauf",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "HSR",
+      "nazev": "Srdcem a Rozumem",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jaroslav Chalupský",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "SPP",
+      "nazev": "Srdcem pro Pardubice",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Vítězslav Novohradský",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Stačilo!",
+      "nazev": "Stačilo!",
+      "typ": "hnutí",
+      "ideologie": "levicový populismus",
+      "predseda": "kolektivní vedení",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "STAN",
+      "nazev": "STAROSTOVÉ A NEZÁVISLÍ",
+      "typ": "hnutí",
+      "ideologie": "liberalismus, proevropanismus",
+      "predseda": "Vít Rakušan",
+      "zalozeno": 2004
+    },
+    {
+      "zkratka": "SOM",
+      "nazev": "Starostové a osobnosti pro Moravu",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jakub Malačka",
+      "zalozeno": 2004
+    },
+    {
+      "zkratka": "SLK",
+      "nazev": "Starostové pro Liberecký kraj",
+      "typ": "hnutí",
+      "ideologie": "liberální konzervatismus, proevropanismus",
+      "predseda": "Martin Půta",
+      "zalozeno": 2008
+    },
+    {
+      "zkratka": "STO",
+      "nazev": "Starostové pro občany",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Karel Janoušek",
+      "zalozeno": 2012
+    },
+    {
+      "zkratka": "SV",
+      "nazev": "Strakonická Veřejnost",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Břetislav Hrdlička",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "S.O.S. PRAHA",
+      "nazev": "Strana občanské sebeobrany",
+      "typ": "strana",
+      "ideologie": "občanský aktivismus",
+      "predseda": "Bohumil Vejtasa",
+      "zalozeno": 2006
+    },
+    {
+      "zkratka": "Soukromníci",
+      "nazev": "Strana soukromníků České republiky",
+      "typ": "strana",
+      "ideologie": "konzervatismus",
+      "predseda": "Petr Bajer",
+      "zalozeno": 2009
+    },
+    {
+      "zkratka": "Zelení",
+      "nazev": "Strana zelených",
+      "typ": "strana",
+      "ideologie": "zelená politika, proevropanismus",
+      "predseda": "Matěj Pomahač, Gabriela Svárovská",
+      "zalozeno": 1990
+    },
+    {
+      "zkratka": "S2012",
+      "nazev": "Středočeši2012.cz",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Přemysl Šanovec",
+      "zalozeno": 2012
+    },
+    {
+      "zkratka": "ST",
+      "nazev": "Svěží Týniště",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Michal Procházka",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "SPD",
+      "nazev": "Svoboda a přímá demokracie (SPD)",
+      "typ": "hnutí",
+      "ideologie": "nacionalismus, pravicový populismus",
+      "predseda": "Tomio Okamura",
+      "zalozeno": 2015
+    },
+    {
+      "zkratka": "Svobodní",
+      "nazev": "Svobodní",
+      "typ": "strana",
+      "ideologie": "liberální konzervatismus, euroskepticismus",
+      "predseda": "Libor Vondráček",
+      "zalozeno": 2009
+    },
+    {
+      "zkratka": "ŠpD",
+      "nazev": "Šance pro Duchcov",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Zdeněk Burda",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "Švýcarská demokracie",
+      "nazev": "ŠVÝCARSKÁ DEMOKRACIE",
+      "typ": "hnutí",
+      "ideologie": "sociální konzervatismus",
+      "predseda": "Pynelopi Cimprichová",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "T2020",
+      "nazev": "Tábor 2020",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Štěpán Pavlík",
+      "zalozeno": 2002
+    },
+    {
+      "zkratka": "TMS",
+      "nazev": "„Tomáš Magnusek do Senátu“",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Tomáš Magnusek",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "TOP 09",
+      "nazev": "TOP 09",
+      "typ": "strana",
+      "ideologie": "liberální konzervatismus, proevropanismus",
+      "predseda": "Markéta Pekarová Adamová",
+      "zalozeno": 2009
+    },
+    {
+      "zkratka": "Trikolora",
+      "nazev": "Trikolora",
+      "typ": "strana",
+      "ideologie": "národní konzervatismus, pravicový populismus",
+      "predseda": "Zuzana Majerová",
+      "zalozeno": 2019
+    },
+    {
+      "zkratka": "TUJKA",
+      "nazev": "TVŮJ KANDIDÁT",
+      "typ": "hnutí",
+      "ideologie": "politická recese",
+      "predseda": "Daniel Konečný",
+      "zalozeno": 2019
+    },
+    {
+      "zkratka": "USZ",
+      "nazev": "Unie pro sport a zdraví",
+      "typ": "hnutí",
+      "ideologie": "Komunální politika",
+      "predseda": "Jiří Veselka",
+      "zalozeno": 1998
+    },
+    {
+      "zkratka": "Nevolte Urza.cz.",
+      "nazev": "Urza.cz: Nechceme vaše hlasy",
+      "typ": "strana",
+      "ideologie": "anarchokapitalismus",
+      "predseda": "Martin Urza",
+      "zalozeno": 2021
+    },
+    {
+      "zkratka": "UFO",
+      "nazev": "ÚSTECKÉ FÓRUM OBČANŮ",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jiří Madar",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "VÚ",
+      "nazev": "Vaše Ústí",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Yveta Tomková",
+      "zalozeno": 2016
+    },
+    {
+      "zkratka": "Vas",
+      "nazev": "Vaši starostové",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Štefan Kandalec",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "VSaO",
+      "nazev": "Váš starosta a občané",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Břetislav Štefan",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Victoria",
+      "nazev": "Victoria.cz",
+      "typ": "strana",
+      "ideologie": "",
+      "predseda": "Monika Makkiehová",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "VS",
+      "nazev": "Vinohrady společně",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jiří Tlamka",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "Vize KVK",
+      "nazev": "Vize pro Karlovarský kraj",
+      "typ": "hnutí",
+      "ideologie": "regionální politika",
+      "predseda": "Vít Hromádko",
+      "zalozeno": 2024
+    },
+    {
+      "zkratka": "VIZE",
+      "nazev": "Vize pro Most",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Jiří Nedvěd",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "VOK",
+      "nazev": "VOK – Volba pro kraj",
+      "typ": "hnutí",
+      "ideologie": "regionální politika, komunální politika",
+      "predseda": "Michal Soukup",
+      "zalozeno": 2015
+    },
+    {
+      "zkratka": "VPK",
+      "nazev": "VOLBA PRO KLADNO",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Milan Volf",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "VPM",
+      "nazev": "Volba pro město",
+      "typ": "strana",
+      "ideologie": "komunální politika",
+      "predseda": "Miroslav Půža",
+      "zalozeno": 1998
+    },
+    {
+      "zkratka": "VpMB",
+      "nazev": "Volba pro Mladou Boleslav",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Bohumil Rosenkranz",
+      "zalozeno": 2006
+    },
+    {
+      "zkratka": "„VO\"",
+      "nazev": "„Volím Orlovou\"",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Naděžda Kubalová",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "VRBa",
+      "nazev": "Volnost Rovnost Bratrství",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Matúš Bóna",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "VOLNÝ blok",
+      "nazev": "VOLNÝ blok",
+      "typ": "strana",
+      "ideologie": "nacionalismus",
+      "predseda": "Lubomír Volný",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "Volt",
+      "nazev": "Volt Česko",
+      "typ": "strana",
+      "ideologie": "sociální liberalismus, proevropanismus",
+      "predseda": "Adam Hanka, Kateřina Šrámková",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "Volte Pravý Blok www.cibulka.net",
+      "nazev": "Volte Pravý Blok www.cibulka.net...",
+      "typ": "strana",
+      "ideologie": "konzervatismus, antikomunismus",
+      "predseda": "Petr Cibulka",
+      "zalozeno": 1996
+    },
+    {
+      "zkratka": "VvD",
+      "nazev": "Volyně v dolyně",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jana Křišťanová",
+      "zalozeno": 2014
+    },
+    {
+      "zkratka": "VČ",
+      "nazev": "VÝCHODOČEŠI",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Martina Berdychová",
+      "zalozeno": 2012
+    },
+    {
+      "zkratka": "VÝZVA",
+      "nazev": "VÝZVA 2025",
+      "typ": "strana",
+      "ideologie": "středopravý konzervatismus",
+      "predseda": "Karolína Kubisková",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "ZH",
+      "nazev": "Za Holešov",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Vladan Daněk",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "ZLS",
+      "nazev": "Za lepší Střekov",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jiří Železný",
+      "zalozeno": 2018
+    },
+    {
+      "zkratka": "Za Lužánky",
+      "nazev": "Za Lužánky",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Lukáš Winkler",
+      "zalozeno": 2025
+    },
+    {
+      "zkratka": "ZNM",
+      "nazev": "Za naše města",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Pavel Šoltys",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "PRO Zdraví",
+      "nazev": "Zdraví Sport Vzdělání",
+      "typ": "hnutí",
+      "ideologie": "regionální politika, komunální politika",
+      "predseda": "Van Sang Tran",
+      "zalozeno": 2012
+    },
+    {
+      "zkratka": "Z21",
+      "nazev": "Zlín 21",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Čestmír Vančura",
+      "zalozeno": 2013
+    },
+    {
+      "zkratka": "ZS",
+      "nazev": "ZLÍN SRDCEM",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "Z 2020",
+      "nazev": "Změna 2020",
+      "typ": "hnutí",
+      "ideologie": "regionální politika, sociální demokracie",
+      "predseda": "Jiří Zimola",
+      "zalozeno": 2019
+    },
+    {
+      "zkratka": "ZPK",
+      "nazev": "ZMĚNA PRO KRALUPY",
+      "typ": "hnutí",
+      "ideologie": "",
+      "predseda": "Telman Nersisjan",
+      "zalozeno": 2026
+    },
+    {
+      "zkratka": "ZPP 12",
+      "nazev": "Změna pro Prahu 12",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Michael Valášek",
+      "zalozeno": 2022
+    },
+    {
+      "zkratka": "ZVUK 12",
+      "nazev": "ZVUK 12",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Jiří Kašík",
+      "zalozeno": 2012
+    },
+    {
+      "zkratka": "ŽB",
+      "nazev": "Ženy za Brod",
+      "typ": "hnutí",
+      "ideologie": "komunální politika",
+      "predseda": "Ivana Štrossová",
+      "zalozeno": 2010
+    },
+    {
+      "zkratka": "ŽTB",
+      "nazev": "Žít Brno",
+      "typ": "hnutí",
+      "ideologie": "liberalismus, regionální politika",
+      "predseda": "Petr Kalousek",
+      "zalozeno": 2014
+    }
+  ],
+  "meta": {
+    "title": "Registrované politické strany a hnutí v Česku - Free Download",
+    "description": "Aktivní politické strany a hnutí zapsané v rejstříku MV ČR se zkratkou, typem, ideologií, předsedou a rokem založení. Contains 247 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Registrované politické strany a hnutí v Česku | ListBase",
+    "seo_description": "Download Registrované politické strany a hnutí v Česku — 247 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 247 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_politických_stran_a_hnutí_v_Česku"
+    ]
+  }
+}

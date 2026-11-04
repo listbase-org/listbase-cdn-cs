@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-04T02:23:28.930Z",
-  "total_datasets": 533,
-  "total_records": 418893,
+  "generated": "2026-11-04T02:23:36.446Z",
+  "total_datasets": 534,
+  "total_records": 419140,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -8724,6 +8724,33 @@
         "xlsx": {
           "name": "cs-prezidenti_CS.xlsx",
           "size": 8804
+        }
+      }
+    },
+    {
+      "id": "cs-registrovane-politicke-strany",
+      "name": "Registrované politické strany a hnutí v Česku",
+      "category": "politics",
+      "record_count": 247,
+      "columns": [
+        "zkratka",
+        "nazev",
+        "typ",
+        "ideologie",
+        "predseda",
+        "zalozeno"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_politických_stran_a_hnutí_v_Česku",
+      "updated": "2026-11",
+      "size": 52243,
+      "files": {
+        "csv": {
+          "name": "cs-registrovane-politicke-strany_CS.csv",
+          "size": 21758
+        },
+        "xlsx": {
+          "name": "cs-registrovane-politicke-strany_CS.xlsx",
+          "size": 20301
         }
       }
     },
