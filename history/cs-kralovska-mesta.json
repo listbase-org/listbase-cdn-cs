@@ -1,0 +1,406 @@
+{
+  "id": "cs-kralovska-mesta",
+  "name": "Královská města v Čechách, na Moravě a ve Slezsku",
+  "title": "Královská města v Čechách, na Moravě a ve Slezsku",
+  "description": "Seznam královských měst českých zemí s dobou, kdy získala status královského města.",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_královských_měst_v_Čechách,_na_Moravě_a_ve_Slezsku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_královských_měst_v_Čechách,_na_Moravě_a_ve_Slezsku",
+  "updated": "2026-11",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "string"
+    },
+    {
+      "key": "zeme",
+      "label": "Zeme",
+      "type": "string"
+    },
+    {
+      "key": "ziskani_statusu",
+      "label": "Ziskani Statusu",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "mesto": "Hradec Králové",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1225"
+    },
+    {
+      "mesto": "Litoměřice",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1228–1230"
+    },
+    {
+      "mesto": "Staré Město pražské",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1235–1245"
+    },
+    {
+      "mesto": "Stříbro",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1240"
+    },
+    {
+      "mesto": "Loket",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1240–1253"
+    },
+    {
+      "mesto": "Žatec",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1249, určitě 30. listopadu 1265"
+    },
+    {
+      "mesto": "Cheb",
+      "zeme": "Čechy",
+      "ziskani_statusu": "před 1250"
+    },
+    {
+      "mesto": "Písek",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1256"
+    },
+    {
+      "mesto": "Kolín",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1253–1261"
+    },
+    {
+      "mesto": "Kouřim",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1253–1261"
+    },
+    {
+      "mesto": "Most",
+      "zeme": "Čechy",
+      "ziskani_statusu": "před 1257"
+    },
+    {
+      "mesto": "Menší Město pražské",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1257"
+    },
+    {
+      "mesto": "Čáslav",
+      "zeme": "Čechy",
+      "ziskani_statusu": "asi 1260"
+    },
+    {
+      "mesto": "Chrudim",
+      "zeme": "Čechy",
+      "ziskani_statusu": "asi 1260"
+    },
+    {
+      "mesto": "Klatovy",
+      "zeme": "Čechy",
+      "ziskani_statusu": "před 1260"
+    },
+    {
+      "mesto": "Vysoké Mýto",
+      "zeme": "Čechy",
+      "ziskani_statusu": "asi 1260"
+    },
+    {
+      "mesto": "Ústí nad Labem",
+      "zeme": "Čechy",
+      "ziskani_statusu": "asi 1260"
+    },
+    {
+      "mesto": "Louny",
+      "zeme": "Čechy",
+      "ziskani_statusu": "po 1260"
+    },
+    {
+      "mesto": "Kadaň",
+      "zeme": "Čechy",
+      "ziskani_statusu": "před 1261"
+    },
+    {
+      "mesto": "Domažlice",
+      "zeme": "Čechy",
+      "ziskani_statusu": "asi 1262"
+    },
+    {
+      "mesto": "České Budějovice",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1265"
+    },
+    {
+      "mesto": "Polička",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1265"
+    },
+    {
+      "mesto": "Beroun",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1265?"
+    },
+    {
+      "mesto": "Chotěboř",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1265–1278"
+    },
+    {
+      "mesto": "Ostrov",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1269"
+    },
+    {
+      "mesto": "Tachov",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1253–1278"
+    },
+    {
+      "mesto": "Dvůr Králové",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1253–1278"
+    },
+    {
+      "mesto": "Jaroměř",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1253–1278"
+    },
+    {
+      "mesto": "Mělník",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1253–1274"
+    },
+    {
+      "mesto": "Sušice",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1273?"
+    },
+    {
+      "mesto": "Kutná Hora",
+      "zeme": "Čechy",
+      "ziskani_statusu": "před 1276"
+    },
+    {
+      "mesto": "Nymburk",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1275"
+    },
+    {
+      "mesto": "Plzeň",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1295"
+    },
+    {
+      "mesto": "Slaný",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1295-1305"
+    },
+    {
+      "mesto": "Nový Bydžov",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1305, 1325 klesl mezi poddanská města (Vartenberkové)"
+    },
+    {
+      "mesto": "Vodňany",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1337"
+    },
+    {
+      "mesto": "Nové Město pražské",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1348"
+    },
+    {
+      "mesto": "Karlovy Vary",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1370"
+    },
+    {
+      "mesto": "Dvůr Králové",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1399"
+    },
+    {
+      "mesto": "Trutnov",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1399"
+    },
+    {
+      "mesto": "Jílové u Prahy",
+      "zeme": "Čechy",
+      "ziskani_statusu": "asi 1350"
+    },
+    {
+      "mesto": "Tábor",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1437"
+    },
+    {
+      "mesto": "Nový Knín",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1437"
+    },
+    {
+      "mesto": "Český Brod",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1437"
+    },
+    {
+      "mesto": "Velvary",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1482"
+    },
+    {
+      "mesto": "Nový Bydžov vykoupil se z poddanství",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1569, 1593 věnné město"
+    },
+    {
+      "mesto": "Rokycany povýšeny",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1584"
+    },
+    {
+      "mesto": "Rakovník povýšen",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1588"
+    },
+    {
+      "mesto": "Mladá Boleslav vykoupila se z poddanství",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1595"
+    },
+    {
+      "mesto": "Pelhřimov vykoupil se z poddanství",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1572, na královské město povýšen 1596"
+    },
+    {
+      "mesto": "Hradčany povýšeny Rudolfem II.",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1598"
+    },
+    {
+      "mesto": "Loket vykoupil se",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1598"
+    },
+    {
+      "mesto": "Chomutov vykoupil se",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1605"
+    },
+    {
+      "mesto": "Týn nad Vltavou",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1609"
+    },
+    {
+      "mesto": "Prachatice",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1609"
+    },
+    {
+      "mesto": "Havlíčkův Brod",
+      "zeme": "Čechy",
+      "ziskani_statusu": "1637"
+    },
+    {
+      "mesto": "Landek (Landeck,",
+      "zeme": "Kladské hrabství",
+      "ziskani_statusu": "1336)"
+    },
+    {
+      "mesto": "Kladská Bystřice (Habelschwerdt,",
+      "zeme": "Kladské hrabství",
+      "ziskani_statusu": "1319)"
+    },
+    {
+      "mesto": "Uničov",
+      "zeme": "Morava",
+      "ziskani_statusu": "1213"
+    },
+    {
+      "mesto": "Znojmo",
+      "zeme": "Morava",
+      "ziskani_statusu": "1226"
+    },
+    {
+      "mesto": "Jemnice asi",
+      "zeme": "Morava",
+      "ziskani_statusu": "před 1227, roku 1530 klesla mezi poddanská města"
+    },
+    {
+      "mesto": "Hodonín",
+      "zeme": "Morava",
+      "ziskani_statusu": "asi 1228"
+    },
+    {
+      "mesto": "Bzenec",
+      "zeme": "Morava",
+      "ziskani_statusu": "1231"
+    },
+    {
+      "mesto": "Brno",
+      "zeme": "Morava",
+      "ziskani_statusu": "1238, 1240"
+    },
+    {
+      "mesto": "Přerov 28. ledna",
+      "zeme": "Morava",
+      "ziskani_statusu": "1256"
+    },
+    {
+      "mesto": "Olomouc",
+      "zeme": "Morava",
+      "ziskani_statusu": "1253"
+    },
+    {
+      "mesto": "Jihlava",
+      "zeme": "Morava",
+      "ziskani_statusu": "1253"
+    },
+    {
+      "mesto": "Uherské Hradiště 13. listopadu",
+      "zeme": "Morava",
+      "ziskani_statusu": "1257"
+    },
+    {
+      "mesto": "Litovel",
+      "zeme": "Morava",
+      "ziskani_statusu": "1270, do roku 1623"
+    },
+    {
+      "mesto": "Uherský Brod",
+      "zeme": "Morava",
+      "ziskani_statusu": "1272–1509"
+    },
+    {
+      "mesto": "Kyjov",
+      "zeme": "Morava",
+      "ziskani_statusu": "1567 (od r. 1548 komorní město)"
+    },
+    {
+      "mesto": "Bruntál",
+      "zeme": "Slezsko",
+      "ziskani_statusu": "1223 (založen Vladislavem Jindřichem, později klesl mezi poddanská)"
+    },
+    {
+      "mesto": "Opava",
+      "zeme": "Slezsko",
+      "ziskani_statusu": "před 1224"
+    }
+  ],
+  "meta": {
+    "title": "Královská města v Čechách, na Moravě a ve Slezsku - Free Download",
+    "description": "Seznam královských měst českých zemí s dobou, kdy získala status královského města. Contains 73 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Královská města v Čechách, na Moravě a ve Slezsku | ListBase",
+    "seo_description": "Download Královská města v Čechách, na Moravě a ve Slezsku — 73 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 73 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_královských_měst_v_Čechách,_na_Moravě_a_ve_Slezsku"
+    ]
+  }
+}
