@@ -1,0 +1,266 @@
+{
+  "id": "cs-registrovane-cirkve",
+  "name": "Registrované církve a náboženské společnosti v Česku",
+  "title": "Registrované církve a náboženské společnosti v Česku",
+  "description": "Církve a náboženské společnosti registrované v České republice podle zákonů č. 308/1991 Sb. a 3/2002 Sb. s údaji o registraci a zvláštních právech.",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_církví_a_náboženských_společností_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_církví_a_náboženských_společností_v_Česku",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "registrace",
+      "label": "Registrace",
+      "type": "string"
+    },
+    {
+      "key": "registrovano_podle_zakona",
+      "label": "Registrovano Podle Zakona",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "Církev řeckokatolická",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství a s výjimkou práva vyučování náboženství ve státních školách a zakládání církevních škol přiznána 7. ledna 2002.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Církev římskokatolická",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství přiznána 7. ledna 2002, přidružený člen Ekumenické rady církví (ERC), člen Vojenské duchovní služby (VDS).",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Českobratrská církev evangelická",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství přiznána 7. ledna 2002, člen ERC, člen VDS.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Evangelická církev augsburského vyznání v České republice (ECAV, dřívější Slovenská evangelická církev augsburského vyznání)",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství a s výjimkou práva vyučování náboženství ve státních školách a zakládání církevních škol přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Jednota bratrská",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství s výjimkou vyučování náboženství ve státních školách přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Pravoslavná církev v českých zemích",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství a s výjimkou práv vyučovat náboženství ve státních školách a zakládat církevní školy přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Slezská církev evangelická augsburského vyznání",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Starokatolická církev v České republice",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva včetně zpovědního tajemství přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Církev československá husitská",
+      "registrace": "Registrace převzata z roku 1920, zvláštní práva včetně zpovědního tajemství přiznána 7. ledna 2002, člen ERC, člen VDS,",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Náboženská společnost českých unitářů",
+      "registrace": "Registrace převzata z roku 1930, zvláštní práva být financována, církevních sňatků a zpovědního tajemství přiznána 7. ledna 2002.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Bratrská jednota baptistů",
+      "registrace": "Registrace převzata z roku 1951, zvláštní práva včetně zpovědního tajemství s výjimkou vyučování náboženství ve státních školách přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Federace židovských obcí v České republice",
+      "registrace": "Registrace převzata z Rakousko-Uherska, zvláštní práva být financována, církevních sňatků a zřizování církevních škol přiznána 7. ledna 2002, pozorovatelský člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Církev adventistů sedmého dne",
+      "registrace": "Registrace převzata z roku 1951, zvláštní práva včetně zpovědního tajemství přiznána 7. ledna 2002, pozorovatelský člen ERC, člen VDS.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Církev bratrská",
+      "registrace": "Registrace převzata z roku 1951, zvláštní práva včetně zpovědního tajemství s výjimkou vyučování náboženství ve státních školách přiznána 7. ledna 2002, člen ERC, člen VDS.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Evangelická církev metodistická",
+      "registrace": "Registrace převzata z roku 1951, zvláštní práva včetně zpovědního tajemství a s výjimkou práva vyučování náboženství ve státních školách a zakládání církevních škol přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Křesťanské sbory",
+      "registrace": "Registrace převzata z roku 1956, zvláštní práva včetně zpovědního tajemství a s výjimkami práva být financována podle zvláštního zákona, práva působení v ozbrojených silách a práva zřizovat církevní školy přiznána 7. ledna 2002",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Novoapoštolská církev v České republice",
+      "registrace": "Registrace převzata z roku 1956, zvláštní práva církevních sňatků a zpovědního tajemství přiznána 7. ledna 2002.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Apoštolská církev",
+      "registrace": "Registrace převzata z roku 1989, zvláštní práva včetně zpovědního tajemství přiznána 7. ledna 2002, člen ERC.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Církev Ježíše Krista Svatých posledních dnů v České republice",
+      "registrace": "Registrace převzata z roku 1990, zvláštní práva církevních sňatků a zpovědního tajemství přiznána 7. ledna 2002.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Náboženská společnost Svědkové Jehovovi",
+      "registrace": "Zaregistrována dne 1. září 1993, zvláštní práva církevních sňatků, duchovní služby ve věznicích a vyučování náboženství ve státních školách přiznána 7. ledna 2002, právo na zpovědní tajemství nejprve zamítnuto (v roce 2008 potvrzeno Ústavním soudem), přiznáno 2011 na základě změny základního dokumentu.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Luterská evangelická církev augsburského vyznání v České republice",
+      "registrace": "Zaregistrována dne 19. ledna 1995, zvláštní práva včetně zpovědního tajemství, s výjimkami působení ve věznicích a v armádě a práva zřizovat církevní školy, přiznána 7. ledna 2002. Vznikla rozdělením Slezské církve evangelické augsburského vyznání.",
+      "registrovano_podle_zakona": "308/1991 Sb."
+    },
+    {
+      "nazev": "Církev Křesťanská společenství",
+      "registrace": "Zaregistrována dne 20. června 2002.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Obec křesťanů v České republice",
+      "registrace": "Zaregistrována dne 4. září 2002.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Mezinárodní společnost pro vědomí Krišny, Hnutí Hare Krišna Česká republika (ISKCON)",
+      "registrace": "Zaregistrována 21. listopadu 2002.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Česká hinduistická náboženská společnost",
+      "registrace": "v počátcích v 90. letech jako Jóga v denním životě, zaregistrována 25. listopadu 2002. – Tatáž společnost změnila roku 2016 název na Višva Guru Díp Hindu Mandir – české hinduistické společenství (registrována od 11. června 2015), pod nímž působí do současnosti. Známé uskupení Jóga v denním životě je její sesterskou organizací.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Ústředí muslimských obcí v České republice",
+      "registrace": "Zaregistrována od 7. září 2004. – Je jedinou náboženskou společností, která byla v minulosti uznána a registrace jí původním zákonem nebyla rokem 1991 přiznána: dosáhla jí až dodatečně..",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Buddhismus Diamantové cesty linie Karma Kagjü",
+      "registrace": "Zaregistrována 8. června 2007.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Višva Nirmala Dharma",
+      "registrace": "Zaregistrována 14. července 2007.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Ruská pravoslavná církev, podvorje patriarchy moskevského a celé Rusi v České republice",
+      "registrace": "Zaregistrována 26. května 2007.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Církev živého Boha",
+      "registrace": "Zaregistrována 15. prosince 2007.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Církev Nová naděje",
+      "registrace": "Zaregistrována 3. září 2009.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Církev Slovo života",
+      "registrace": "Zaregistrována 6. srpna 2010.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Církev víry",
+      "registrace": "Zaregistrována 22. května 2012",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Církev Svatého Řehoře Osvětitele",
+      "registrace": "Zaregistrována 27. března 2013. Řehoř Osvětitel (Grigor Lusavorič) byl roku 301 zakladatelem Arménské apoštolské (gregoriánské, pravoslavné) církve",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Armáda spásy",
+      "registrace": "Zaregistrována 25. září 2013",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Církev Nový život",
+      "registrace": "Zaregistrována 3. října 2013.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Církev Oáza",
+      "registrace": "Zaregistrována 11. října 2014.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Společenství Josefa Zezulky",
+      "registrace": "Zaregistrováno 19. prosince 2014.",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Kněžské bratrstvo svatého Pia X.",
+      "registrace": "registrace dne 5. června 2018",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Théravádový buddhismus",
+      "registrace": "registrace dne 26. června 2018",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Společenství baptistických sborů",
+      "registrace": "registrace dne 29. března 2019",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Společenství buddhismu v České republice",
+      "registrace": "registrace dne 25. června 2020",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Křesťanská církev esejská",
+      "registrace": "registrace dne 20. ledna 2022",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Náboženská společnost Slované",
+      "registrace": "registrována dne 1. února 2022, od ní se odštěpilo roku 2024 společenství Rodné duchovno",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    },
+    {
+      "nazev": "Zenová škola Kwan Um",
+      "registrace": "registrována dne 8. srpna 2025",
+      "registrovano_podle_zakona": "3/2002 Sb."
+    }
+  ],
+  "meta": {
+    "title": "Registrované církve a náboženské společnosti v Česku - Free Download",
+    "description": "Církve a náboženské společnosti registrované v České republice podle zákonů č. 308/1991 Sb. a 3/2002 Sb. s údaji o registraci a zvláštních právech. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Registrované církve a náboženské společnosti v Česku | ListBase",
+    "seo_description": "Download Registrované církve a náboženské společnosti v Česku — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_církví_a_náboženských_společností_v_Česku"
+    ]
+  }
+}
