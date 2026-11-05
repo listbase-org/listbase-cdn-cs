@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-05T02:15:27.040Z",
-  "total_datasets": 536,
-  "total_records": 419239,
+  "generated": "2026-11-05T02:15:35.969Z",
+  "total_datasets": 537,
+  "total_records": 419254,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -8553,6 +8553,35 @@
         "xlsx": {
           "name": "cs-cesky-slavik-vitezove_CS.xlsx",
           "size": 8384
+        }
+      }
+    },
+    {
+      "id": "cs-eurovize-ucasti",
+      "name": "Česko na Eurovision Song Contest – přehled účastí",
+      "category": "music",
+      "record_count": 15,
+      "columns": [
+        "rok",
+        "interpret",
+        "pisen",
+        "jazyk",
+        "finale_poradi",
+        "finale_body",
+        "semifinale_poradi",
+        "semifinale_body"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Česko_na_Eurovision_Song_Contest",
+      "updated": "2026-11",
+      "size": 6036,
+      "files": {
+        "csv": {
+          "name": "cs-eurovize-ucasti_CS.csv",
+          "size": 1395
+        },
+        "xlsx": {
+          "name": "cs-eurovize-ucasti_CS.xlsx",
+          "size": 7782
         }
       }
     },

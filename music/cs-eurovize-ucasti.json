@@ -1,0 +1,216 @@
+{
+  "id": "cs-eurovize-ucasti",
+  "name": "Česko na Eurovision Song Contest – přehled účastí",
+  "title": "Česko na Eurovision Song Contest – přehled účastí",
+  "description": "Přehled všech účastí Česka na Eurovision Song Contest od roku 2007 s interpretem, písní, jazykem a umístěním a body ve finále i semifinále.",
+  "category": "music",
+  "source": "https://cs.wikipedia.org/wiki/Česko_na_Eurovision_Song_Contest",
+  "source_url": "https://cs.wikipedia.org/wiki/Česko_na_Eurovision_Song_Contest",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "interpret",
+      "label": "Interpret",
+      "type": "string"
+    },
+    {
+      "key": "pisen",
+      "label": "Pisen",
+      "type": "string"
+    },
+    {
+      "key": "jazyk",
+      "label": "Jazyk",
+      "type": "string"
+    },
+    {
+      "key": "finale_poradi",
+      "label": "Finale Poradi",
+      "type": "string"
+    },
+    {
+      "key": "finale_body",
+      "label": "Finale Body",
+      "type": "string"
+    },
+    {
+      "key": "semifinale_poradi",
+      "label": "Semifinale Poradi",
+      "type": "string"
+    },
+    {
+      "key": "semifinale_body",
+      "label": "Semifinale Body",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 2007,
+      "interpret": "Kabát",
+      "pisen": "Malá dáma",
+      "jazyk": "čeština",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "28.",
+      "semifinale_body": 1
+    },
+    {
+      "rok": 2008,
+      "interpret": "Tereza Kerndlová",
+      "pisen": "Have Some Fun",
+      "jazyk": "angličtina",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "18.",
+      "semifinale_body": 9
+    },
+    {
+      "rok": 2009,
+      "interpret": "Gipsy.cz",
+      "pisen": "Aven Romale",
+      "jazyk": "angličtina, romština",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "18.",
+      "semifinale_body": 0
+    },
+    {
+      "rok": 2015,
+      "interpret": "Marta Jandová a Václav Noid Bárta",
+      "pisen": "Hope Never Dies",
+      "jazyk": "angličtina",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "13.",
+      "semifinale_body": 33
+    },
+    {
+      "rok": 2016,
+      "interpret": "Gabriela Gunčíková",
+      "pisen": "I Stand",
+      "jazyk": "angličtina",
+      "finale_poradi": "25.",
+      "finale_body": 41,
+      "semifinale_poradi": "9.",
+      "semifinale_body": 161
+    },
+    {
+      "rok": 2017,
+      "interpret": "Martina Bárta",
+      "pisen": "My Turn",
+      "jazyk": "angličtina",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "13.",
+      "semifinale_body": 83
+    },
+    {
+      "rok": 2018,
+      "interpret": "Mikolas Josef",
+      "pisen": "Lie to Me",
+      "jazyk": "angličtina",
+      "finale_poradi": "6.",
+      "finale_body": 281,
+      "semifinale_poradi": "3.",
+      "semifinale_body": 232
+    },
+    {
+      "rok": 2019,
+      "interpret": "Lake Malawi",
+      "pisen": "Friend of a Friend",
+      "jazyk": "angličtina",
+      "finale_poradi": "11.",
+      "finale_body": 157,
+      "semifinale_poradi": "2.",
+      "semifinale_body": 242
+    },
+    {
+      "rok": 2020,
+      "interpret": "Benny Cristo",
+      "pisen": "Kemama",
+      "jazyk": "angličtina",
+      "finale_poradi": "ročník zrušen",
+      "finale_body": "ročník zrušen",
+      "semifinale_poradi": "ročník zrušen",
+      "semifinale_body": "ročník zrušen"
+    },
+    {
+      "rok": 2021,
+      "interpret": "Benny Cristo",
+      "pisen": "omaga",
+      "jazyk": "angličtina, čeština",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "15.",
+      "semifinale_body": 23
+    },
+    {
+      "rok": 2022,
+      "interpret": "We Are Domi",
+      "pisen": "Lights Off",
+      "jazyk": "angličtina",
+      "finale_poradi": "22.",
+      "finale_body": 38,
+      "semifinale_poradi": "4.",
+      "semifinale_body": 227
+    },
+    {
+      "rok": 2023,
+      "interpret": "Vesna",
+      "pisen": "My Sister's Crown",
+      "jazyk": "angličtina, ukrajinština, čeština, bulharština",
+      "finale_poradi": "10.",
+      "finale_body": 129,
+      "semifinale_poradi": "4.",
+      "semifinale_body": 110
+    },
+    {
+      "rok": 2024,
+      "interpret": "Aiko",
+      "pisen": "Pedestal",
+      "jazyk": "angličtina",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "11.",
+      "semifinale_body": 38
+    },
+    {
+      "rok": 2025,
+      "interpret": "Adonxs",
+      "pisen": "Kiss Kiss Goodbye",
+      "jazyk": "angličtina",
+      "finale_poradi": "nepostup",
+      "finale_body": "nepostup",
+      "semifinale_poradi": "12.",
+      "semifinale_body": 29
+    },
+    {
+      "rok": 2026,
+      "interpret": "Daniel Žižka",
+      "pisen": "Crossroads",
+      "jazyk": "angličtina",
+      "finale_poradi": "16.",
+      "finale_body": 113,
+      "semifinale_poradi": "9.",
+      "semifinale_body": 142
+    }
+  ],
+  "meta": {
+    "title": "Česko na Eurovision Song Contest – přehled účastí - Free Download",
+    "description": "Přehled všech účastí Česka na Eurovision Song Contest od roku 2007 s interpretem, písní, jazykem a umístěním a body ve finále i semifinále. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Česko na Eurovision Song Contest – přehled účastí | ListBase",
+    "seo_description": "Download Česko na Eurovision Song Contest – přehled účastí — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Česko_na_Eurovision_Song_Contest"
+    ]
+  }
+}
