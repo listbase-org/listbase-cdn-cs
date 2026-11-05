@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-05T02:15:16.950Z",
-  "total_datasets": 535,
-  "total_records": 419182,
+  "generated": "2026-11-05T02:15:27.040Z",
+  "total_datasets": 536,
+  "total_records": 419239,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -8071,6 +8071,32 @@
         "xlsx": {
           "name": "cs-ceska-abeceda_CS.xlsx",
           "size": 8313
+        }
+      }
+    },
+    {
+      "id": "cs-cetnost-pismen-v-cestine",
+      "name": "Četnost písmen v češtině podle funkčního stylu",
+      "category": "language",
+      "record_count": 57,
+      "columns": [
+        "pismeno",
+        "cetnost_vecny_styl_pct",
+        "cetnost_odborny_jazyk_pct",
+        "cetnost_publicistika_pct",
+        "cetnost_administrativa_pct"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Česká_abeceda",
+      "updated": "2026-11",
+      "size": 13597,
+      "files": {
+        "csv": {
+          "name": "cs-cetnost-pismen-v-cestine_CS.csv",
+          "size": 2495
+        },
+        "xlsx": {
+          "name": "cs-cetnost-pismen-v-cestine_CS.xlsx",
+          "size": 8843
         }
       }
     },
