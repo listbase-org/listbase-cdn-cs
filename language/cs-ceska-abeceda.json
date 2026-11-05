@@ -1,0 +1,298 @@
+{
+  "id": "cs-ceska-abeceda",
+  "name": "Česká abeceda – písmena, názvy a výslovnost",
+  "title": "Česká abeceda – písmena, názvy a výslovnost",
+  "description": "Všechna písmena české abecedy včetně písmen s diakritikou a spřežky ch s jejich názvem, výslovností v IPA a příkladem slova.",
+  "category": "language",
+  "source": "https://cs.wikipedia.org/wiki/Česká_abeceda",
+  "source_url": "https://cs.wikipedia.org/wiki/Česká_abeceda",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "pismeno",
+      "label": "Pismeno",
+      "type": "string"
+    },
+    {
+      "key": "nazev_vyslovnost",
+      "label": "Nazev Vyslovnost",
+      "type": "string"
+    },
+    {
+      "key": "ipa",
+      "label": "Ipa",
+      "type": "string"
+    },
+    {
+      "key": "priklad",
+      "label": "Priklad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pismeno": "A a",
+      "nazev_vyslovnost": "á",
+      "ipa": "/a/",
+      "priklad": "auto"
+    },
+    {
+      "pismeno": "Á á",
+      "nazev_vyslovnost": "dlouhé á",
+      "ipa": "/aː/",
+      "priklad": "máma"
+    },
+    {
+      "pismeno": "B b",
+      "nazev_vyslovnost": "bé",
+      "ipa": "/b/",
+      "priklad": "blesk"
+    },
+    {
+      "pismeno": "C c",
+      "nazev_vyslovnost": "cé",
+      "ipa": "/ts/1",
+      "priklad": "cukr"
+    },
+    {
+      "pismeno": "Č č",
+      "nazev_vyslovnost": "čé",
+      "ipa": "/tʃ/1",
+      "priklad": "čáp"
+    },
+    {
+      "pismeno": "D d",
+      "nazev_vyslovnost": "dé",
+      "ipa": "/d/",
+      "priklad": "dům"
+    },
+    {
+      "pismeno": "Ď ď",
+      "nazev_vyslovnost": "ďé",
+      "ipa": "/ɟ/",
+      "priklad": "ďábel"
+    },
+    {
+      "pismeno": "E e",
+      "nazev_vyslovnost": "é",
+      "ipa": "/ɛ/",
+      "priklad": "emu"
+    },
+    {
+      "pismeno": "É é",
+      "nazev_vyslovnost": "dlouhé é",
+      "ipa": "/ɛː/",
+      "priklad": "léto"
+    },
+    {
+      "pismeno": "Ě ě",
+      "nazev_vyslovnost": "ije,é s háčkem",
+      "ipa": "/ɛ/, /jɛ/",
+      "priklad": "běh"
+    },
+    {
+      "pismeno": "F f",
+      "nazev_vyslovnost": "ef",
+      "ipa": "/f/",
+      "priklad": "fauna"
+    },
+    {
+      "pismeno": "G g",
+      "nazev_vyslovnost": "gé",
+      "ipa": "/ɡ/",
+      "priklad": "guma"
+    },
+    {
+      "pismeno": "H h",
+      "nazev_vyslovnost": "há",
+      "ipa": "/ɦ/²",
+      "priklad": "hora"
+    },
+    {
+      "pismeno": "Ch ch",
+      "nazev_vyslovnost": "chá",
+      "ipa": "/x/²",
+      "priklad": "chléb"
+    },
+    {
+      "pismeno": "I i",
+      "nazev_vyslovnost": "í,měkké í",
+      "ipa": "/ɪ/",
+      "priklad": "milost"
+    },
+    {
+      "pismeno": "Í í",
+      "nazev_vyslovnost": "dlouhé í,dlouhé měkké í",
+      "ipa": "/iː/",
+      "priklad": "býlí"
+    },
+    {
+      "pismeno": "J j",
+      "nazev_vyslovnost": "jé",
+      "ipa": "/j/",
+      "priklad": "jak"
+    },
+    {
+      "pismeno": "K k",
+      "nazev_vyslovnost": "ká",
+      "ipa": "/k/",
+      "priklad": "kletba"
+    },
+    {
+      "pismeno": "L l",
+      "nazev_vyslovnost": "el",
+      "ipa": "/l/",
+      "priklad": "láska"
+    },
+    {
+      "pismeno": "M m",
+      "nazev_vyslovnost": "em",
+      "ipa": "/m/",
+      "priklad": "mravenec"
+    },
+    {
+      "pismeno": "N n",
+      "nazev_vyslovnost": "en",
+      "ipa": "/n/",
+      "priklad": "nebe"
+    },
+    {
+      "pismeno": "Ň ň",
+      "nazev_vyslovnost": "eň",
+      "ipa": "/ɲ/",
+      "priklad": "kůň"
+    },
+    {
+      "pismeno": "O o",
+      "nazev_vyslovnost": "ó",
+      "ipa": "/o/",
+      "priklad": "oko"
+    },
+    {
+      "pismeno": "Ó ó",
+      "nazev_vyslovnost": "dlouhé ó",
+      "ipa": "/oː/",
+      "priklad": "tón"
+    },
+    {
+      "pismeno": "P p",
+      "nazev_vyslovnost": "pé",
+      "ipa": "/p/",
+      "priklad": "ptakopysk"
+    },
+    {
+      "pismeno": "Q q",
+      "nazev_vyslovnost": "kvé",
+      "ipa": "/kv/",
+      "priklad": "squash"
+    },
+    {
+      "pismeno": "R r",
+      "nazev_vyslovnost": "er",
+      "ipa": "/r/",
+      "priklad": "rameno"
+    },
+    {
+      "pismeno": "Ř ř",
+      "nazev_vyslovnost": "eř",
+      "ipa": "/r̝/³",
+      "priklad": "moře"
+    },
+    {
+      "pismeno": "S s",
+      "nazev_vyslovnost": "es",
+      "ipa": "/s/",
+      "priklad": "slunce"
+    },
+    {
+      "pismeno": "Š š",
+      "nazev_vyslovnost": "eš",
+      "ipa": "/ʃ/",
+      "priklad": "šváb"
+    },
+    {
+      "pismeno": "T t",
+      "nazev_vyslovnost": "té",
+      "ipa": "/t/",
+      "priklad": "traktor"
+    },
+    {
+      "pismeno": "Ť ť",
+      "nazev_vyslovnost": "ťé",
+      "ipa": "/c/",
+      "priklad": "labuť"
+    },
+    {
+      "pismeno": "U u",
+      "nazev_vyslovnost": "ú",
+      "ipa": "/u/",
+      "priklad": "učitel"
+    },
+    {
+      "pismeno": "Ú ú",
+      "nazev_vyslovnost": "dlouhé ú,ú s čárkou",
+      "ipa": "/uː/",
+      "priklad": "úkol"
+    },
+    {
+      "pismeno": "Ů ů",
+      "nazev_vyslovnost": "ů s kroužkem",
+      "ipa": "/uː/",
+      "priklad": "růže"
+    },
+    {
+      "pismeno": "V v",
+      "nazev_vyslovnost": "vé,jednoduché vé",
+      "ipa": "/v/",
+      "priklad": "vlak"
+    },
+    {
+      "pismeno": "W w",
+      "nazev_vyslovnost": "dvojité vé",
+      "ipa": "/v/",
+      "priklad": "kiwi"
+    },
+    {
+      "pismeno": "X x",
+      "nazev_vyslovnost": "iks",
+      "ipa": "/ks/",
+      "priklad": "kontext"
+    },
+    {
+      "pismeno": "Y y",
+      "nazev_vyslovnost": "ý,ypsilon,krátké tvrdé í",
+      "ipa": "/ɪ/",
+      "priklad": "myš"
+    },
+    {
+      "pismeno": "Ý ý",
+      "nazev_vyslovnost": "dlouhé ý,dlouhé ypsilon,dlouhé tvrdé í",
+      "ipa": "/iː/",
+      "priklad": "lýtko"
+    },
+    {
+      "pismeno": "Z z",
+      "nazev_vyslovnost": "zet",
+      "ipa": "/z/",
+      "priklad": "zvíře"
+    },
+    {
+      "pismeno": "Ž ž",
+      "nazev_vyslovnost": "žet",
+      "ipa": "/ʒ/",
+      "priklad": "život"
+    }
+  ],
+  "meta": {
+    "title": "Česká abeceda – písmena, názvy a výslovnost - Free Download",
+    "description": "Všechna písmena české abecedy včetně písmen s diakritikou a spřežky ch s jejich názvem, výslovností v IPA a příkladem slova. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Česká abeceda – písmena, názvy a výslovnost | ListBase",
+    "seo_description": "Download Česká abeceda – písmena, názvy a výslovnost — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Česká_abeceda"
+    ]
+  }
+}

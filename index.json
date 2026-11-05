@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-04T02:23:36.446Z",
-  "total_datasets": 534,
-  "total_records": 419140,
+  "generated": "2026-11-05T02:15:16.950Z",
+  "total_datasets": 535,
+  "total_records": 419182,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -8046,6 +8046,31 @@
         "xlsx": {
           "name": "cs-valky-ceskych-dejin_CS.xlsx",
           "size": 10518
+        }
+      }
+    },
+    {
+      "id": "cs-ceska-abeceda",
+      "name": "Česká abeceda – písmena, názvy a výslovnost",
+      "category": "language",
+      "record_count": 42,
+      "columns": [
+        "pismeno",
+        "nazev_vyslovnost",
+        "ipa",
+        "priklad"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Česká_abeceda",
+      "updated": "2026-11",
+      "size": 6769,
+      "files": {
+        "csv": {
+          "name": "cs-ceska-abeceda_CS.csv",
+          "size": 1422
+        },
+        "xlsx": {
+          "name": "cs-ceska-abeceda_CS.xlsx",
+          "size": 8313
         }
       }
     },
