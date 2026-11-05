@@ -1,0 +1,116 @@
+{
+  "id": "cs-zanikle-zdravotni-pojistovny",
+  "name": "Bývalé zdravotní pojišťovny v Česku a jejich kódy",
+  "title": "Bývalé zdravotní pojišťovny v Česku a jejich kódy",
+  "description": "Seznam zaniklých zaměstnaneckých a oborových zdravotních pojišťoven v Česku s jejich číselnými kódy.",
+  "category": "health",
+  "source": "https://cs.wikipedia.org/wiki/Zdravotní_pojišťovna",
+  "source_url": "https://cs.wikipedia.org/wiki/Zdravotní_pojišťovna",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "kod_pojistovny",
+      "label": "Kod Pojistovny",
+      "type": "number"
+    },
+    {
+      "key": "nazev_pojistovny",
+      "label": "Nazev Pojistovny",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod_pojistovny": "202",
+      "nazev_pojistovny": "Hornická zaměstnanecká zdravotní pojišťovna"
+    },
+    {
+      "kod_pojistovny": "203",
+      "nazev_pojistovny": "GRÁL – Železniční zdravotní pojišťovna"
+    },
+    {
+      "kod_pojistovny": "204",
+      "nazev_pojistovny": "Pojišťovna GARANT-HOSPITAL"
+    },
+    {
+      "kod_pojistovny": "206",
+      "nazev_pojistovny": "Moravská zdravotní pojišťovna"
+    },
+    {
+      "kod_pojistovny": "208",
+      "nazev_pojistovny": "Zaměstnanecká zdravotní pojišťovna ATLAS"
+    },
+    {
+      "kod_pojistovny": "210",
+      "nazev_pojistovny": "Zdravotní pokladna škodováků"
+    },
+    {
+      "kod_pojistovny": "212",
+      "nazev_pojistovny": "Stavební zdravotní pojišťovna STAZPO"
+    },
+    {
+      "kod_pojistovny": "214",
+      "nazev_pojistovny": "Regionální zaměstnanecká zdravotní pojišťovna REZAPO"
+    },
+    {
+      "kod_pojistovny": "215",
+      "nazev_pojistovny": "Moravskoslezská zdravotní pojišťovna IMPULS"
+    },
+    {
+      "kod_pojistovny": "216",
+      "nazev_pojistovny": "Zaměstnanecká dopravní a zemědělsko-podnikatelská zdravotní pojišťovna SALVUS"
+    },
+    {
+      "kod_pojistovny": "217",
+      "nazev_pojistovny": "Zdravotní pojišťovna METAL-ALIANCE"
+    },
+    {
+      "kod_pojistovny": "218",
+      "nazev_pojistovny": "Zdravotní pojišťovna CRYSTAL"
+    },
+    {
+      "kod_pojistovny": "219",
+      "nazev_pojistovny": "Prostějovská zdravotní pojišťovna"
+    },
+    {
+      "kod_pojistovny": "220",
+      "nazev_pojistovny": "Zdravotní pojišťovna PRIMA"
+    },
+    {
+      "kod_pojistovny": "221",
+      "nazev_pojistovny": "Mendlova zdravotní pojišťovna"
+    },
+    {
+      "kod_pojistovny": "222",
+      "nazev_pojistovny": "Česká národní zdravotní pojišťovna"
+    },
+    {
+      "kod_pojistovny": "223",
+      "nazev_pojistovny": "Zemědělsko-potravinářská zdravotní pojišťovna"
+    },
+    {
+      "kod_pojistovny": "224",
+      "nazev_pojistovny": "Zdravotní pojišťovna RADIX"
+    },
+    {
+      "kod_pojistovny": "225",
+      "nazev_pojistovny": "Zdravotní pojišťovna SPORT"
+    },
+    {
+      "kod_pojistovny": "226",
+      "nazev_pojistovny": "Zdravotní pojišťovna chemie, zdravotnictví a farmacie"
+    }
+  ],
+  "meta": {
+    "title": "Bývalé zdravotní pojišťovny v Česku a jejich kódy - Free Download",
+    "description": "Seznam zaniklých zaměstnaneckých a oborových zdravotních pojišťoven v Česku s jejich číselnými kódy. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bývalé zdravotní pojišťovny v Česku a jejich kódy | ListBase",
+    "seo_description": "Download Bývalé zdravotní pojišťovny v Česku a jejich kódy — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Zdravotní_pojišťovna"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-05T02:15:54.206Z",
-  "total_datasets": 539,
-  "total_records": 419276,
+  "generated": "2026-11-05T02:16:05.292Z",
+  "total_datasets": 540,
+  "total_records": 419296,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -7864,6 +7864,29 @@
         "xlsx": {
           "name": "cs-socialni-zarizeni_CS.xlsx",
           "size": 26353
+        }
+      }
+    },
+    {
+      "id": "cs-zanikle-zdravotni-pojistovny",
+      "name": "Bývalé zdravotní pojišťovny v Česku a jejich kódy",
+      "category": "health",
+      "record_count": 20,
+      "columns": [
+        "kod_pojistovny",
+        "nazev_pojistovny"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Zdravotní_pojišťovna",
+      "updated": "2026-11",
+      "size": 3823,
+      "files": {
+        "csv": {
+          "name": "cs-zanikle-zdravotni-pojistovny_CS.csv",
+          "size": 1060
+        },
+        "xlsx": {
+          "name": "cs-zanikle-zdravotni-pojistovny_CS.xlsx",
+          "size": 7329
         }
       }
     },
