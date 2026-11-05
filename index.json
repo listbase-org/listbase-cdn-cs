@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-05T02:15:35.969Z",
-  "total_datasets": 537,
-  "total_records": 419254,
+  "generated": "2026-11-05T02:15:44.869Z",
+  "total_datasets": 538,
+  "total_records": 419266,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -8124,6 +8124,30 @@
         "xlsx": {
           "name": "cs-jazyky_CS.xlsx",
           "size": 12766
+        }
+      }
+    },
+    {
+      "id": "cs-materske-jazyky-scitani-2021",
+      "name": "Mateřské jazyky obyvatel Česka (sčítání 2021)",
+      "category": "language",
+      "record_count": 12,
+      "columns": [
+        "jazyk",
+        "pocet_rodilych_mluvcich",
+        "podil_procent"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Jazyky_Česka",
+      "updated": "2026-11",
+      "size": 2963,
+      "files": {
+        "csv": {
+          "name": "cs-materske-jazyky-scitani-2021_CS.csv",
+          "size": 400
+        },
+        "xlsx": {
+          "name": "cs-materske-jazyky-scitani-2021_CS.xlsx",
+          "size": 7059
         }
       }
     },

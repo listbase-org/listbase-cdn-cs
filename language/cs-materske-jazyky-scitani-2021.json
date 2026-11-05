@@ -1,0 +1,101 @@
+{
+  "id": "cs-materske-jazyky-scitani-2021",
+  "name": "Mateřské jazyky obyvatel Česka (sčítání 2021)",
+  "title": "Mateřské jazyky obyvatel Česka (sčítání 2021)",
+  "description": "Počet rodilých mluvčích a procentuální zastoupení jazyků používaných na území České republiky podle sčítání lidu v roce 2021.",
+  "category": "language",
+  "source": "https://cs.wikipedia.org/wiki/Jazyky_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Jazyky_Česka",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "jazyk",
+      "label": "Jazyk",
+      "type": "string"
+    },
+    {
+      "key": "pocet_rodilych_mluvcich",
+      "label": "Pocet Rodilych Mluvcich",
+      "type": "number"
+    },
+    {
+      "key": "podil_procent",
+      "label": "Podil Procent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "jazyk": "čeština",
+      "pocet_rodilych_mluvcich": 9012998,
+      "podil_procent": 85.6
+    },
+    {
+      "jazyk": "z toho moravština",
+      "pocet_rodilych_mluvcich": 16523,
+      "podil_procent": 0.2
+    },
+    {
+      "jazyk": "slovenština",
+      "pocet_rodilych_mluvcich": 150738,
+      "podil_procent": 1.4
+    },
+    {
+      "jazyk": "ukrajinština",
+      "pocet_rodilych_mluvcich": 88873,
+      "podil_procent": 0.8
+    },
+    {
+      "jazyk": "ruština",
+      "pocet_rodilych_mluvcich": 59560,
+      "podil_procent": 0.6
+    },
+    {
+      "jazyk": "vietnamština",
+      "pocet_rodilych_mluvcich": 43822,
+      "podil_procent": 0.4
+    },
+    {
+      "jazyk": "polština",
+      "pocet_rodilych_mluvcich": 30183,
+      "podil_procent": 0.3
+    },
+    {
+      "jazyk": "angličtina",
+      "pocet_rodilych_mluvcich": 13997,
+      "podil_procent": 0.1
+    },
+    {
+      "jazyk": "němčina",
+      "pocet_rodilych_mluvcich": 10151,
+      "podil_procent": 0.1
+    },
+    {
+      "jazyk": "maďarština",
+      "pocet_rodilych_mluvcich": 8533,
+      "podil_procent": 0.1
+    },
+    {
+      "jazyk": "romština",
+      "pocet_rodilych_mluvcich": 4280,
+      "podil_procent": 0.04
+    },
+    {
+      "jazyk": "jiný/neuvedeno",
+      "pocet_rodilych_mluvcich": 1101032,
+      "podil_procent": 10.5
+    }
+  ],
+  "meta": {
+    "title": "Mateřské jazyky obyvatel Česka (sčítání 2021) - Free Download",
+    "description": "Počet rodilých mluvčích a procentuální zastoupení jazyků používaných na území České republiky podle sčítání lidu v roce 2021. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mateřské jazyky obyvatel Česka (sčítání 2021) | ListBase",
+    "seo_description": "Download Mateřské jazyky obyvatel Česka (sčítání 2021) — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Jazyky_Česka"
+    ]
+  }
+}
