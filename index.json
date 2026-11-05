@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-05T02:15:44.869Z",
-  "total_datasets": 538,
-  "total_records": 419266,
+  "generated": "2026-11-05T02:15:54.206Z",
+  "total_datasets": 539,
+  "total_records": 419276,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "math",
@@ -8444,6 +8444,31 @@
         "xlsx": {
           "name": "cs-trestni-zakony_CS.xlsx",
           "size": 7295
+        }
+      }
+    },
+    {
+      "id": "cs-verejni-ochranci-prav",
+      "name": "Veřejní ochránci práv (ombudsmani) a jejich zástupci",
+      "category": "law",
+      "record_count": 10,
+      "columns": [
+        "funkce",
+        "jmeno",
+        "od",
+        "do"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Veřejný_ochránce_práv_(Česko)",
+      "updated": "2026-11",
+      "size": 3194,
+      "files": {
+        "csv": {
+          "name": "cs-verejni-ochranci-prav_CS.csv",
+          "size": 806
+        },
+        "xlsx": {
+          "name": "cs-verejni-ochranci-prav_CS.xlsx",
+          "size": 7138
         }
       }
     },

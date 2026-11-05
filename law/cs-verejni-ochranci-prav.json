@@ -1,0 +1,106 @@
+{
+  "id": "cs-verejni-ochranci-prav",
+  "name": "Veřejní ochránci práv (ombudsmani) a jejich zástupci",
+  "title": "Veřejní ochránci práv (ombudsmani) a jejich zástupci",
+  "description": "Seznam veřejných ochránců práv České republiky a jejich zástupců od zřízení úřadu v roce 2000 s obdobím výkonu funkce.",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Veřejný_ochránce_práv_(Česko)",
+  "source_url": "https://cs.wikipedia.org/wiki/Veřejný_ochránce_práv_(Česko)",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "funkce",
+      "label": "Funkce",
+      "type": "string"
+    },
+    {
+      "key": "jmeno",
+      "label": "Jmeno",
+      "type": "string"
+    },
+    {
+      "key": "od",
+      "label": "Od",
+      "type": "string"
+    },
+    {
+      "key": "do",
+      "label": "Do",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "funkce": "veřejný ochránce práv",
+      "jmeno": "Otakar Motejl",
+      "od": "18. prosince 2000",
+      "do": "9. května 2010"
+    },
+    {
+      "funkce": "veřejný ochránce práv",
+      "jmeno": "Pavel Varvařovský",
+      "od": "13. září 2010",
+      "do": "20. prosince 2013"
+    },
+    {
+      "funkce": "veřejný ochránce práv",
+      "jmeno": "Anna Šabatová",
+      "od": "18. února 2014",
+      "do": "18. února 2020"
+    },
+    {
+      "funkce": "veřejný ochránce práv",
+      "jmeno": "Stanislav Křeček",
+      "od": "19. února 2020",
+      "do": "18. června 2026"
+    },
+    {
+      "funkce": "veřejný ochránce práv",
+      "jmeno": "Eva Kostolanská",
+      "od": "18. června 2026",
+      "do": ""
+    },
+    {
+      "funkce": "zástupce veřejného ochránce práv",
+      "jmeno": "Anna Šabatová",
+      "od": "2001",
+      "do": "2007"
+    },
+    {
+      "funkce": "zástupce veřejného ochránce práv",
+      "jmeno": "Jitka Seitlová",
+      "od": "2007",
+      "do": "2013"
+    },
+    {
+      "funkce": "zástupce veřejného ochránce práv",
+      "jmeno": "Stanislav Křeček",
+      "od": "2013",
+      "do": "2019"
+    },
+    {
+      "funkce": "zástupce veřejného ochránce práv",
+      "jmeno": "Monika Šimůnková",
+      "od": "2019",
+      "do": "2022"
+    },
+    {
+      "funkce": "zástupce veřejného ochránce práv",
+      "jmeno": "Vít Alexander Schorm",
+      "od": "2022",
+      "do": ""
+    }
+  ],
+  "meta": {
+    "title": "Veřejní ochránci práv (ombudsmani) a jejich zástupci - Free Download",
+    "description": "Seznam veřejných ochránců práv České republiky a jejich zástupců od zřízení úřadu v roce 2000 s obdobím výkonu funkce. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Veřejní ochránci práv (ombudsmani) a jejich zástupci | ListBase",
+    "seo_description": "Download Veřejní ochránci práv (ombudsmani) a jejich zástupci — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Veřejný_ochránce_práv_(Česko)"
+    ]
+  }
+}
