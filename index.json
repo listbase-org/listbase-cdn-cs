@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-05T02:16:05.292Z",
-  "total_datasets": 540,
-  "total_records": 419296,
+  "generated": "2026-11-06T02:27:57.159Z",
+  "total_datasets": 541,
+  "total_records": 419454,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "finance",
@@ -2223,6 +2223,35 @@
         "xlsx": {
           "name": "cs-prameny_CS.xlsx",
           "size": 83242
+        }
+      }
+    },
+    {
+      "id": "cs-prehradni-nadrze",
+      "name": "Přehradní nádrže v Česku",
+      "category": "environment",
+      "record_count": 158,
+      "columns": [
+        "jmeno",
+        "rozloha_ha",
+        "hloubka",
+        "objem_mil_m3",
+        "rok_dokonceni",
+        "kraj",
+        "odtok",
+        "nadm_vyska"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_přehradních_nádrží_v_Česku",
+      "updated": "2026-11",
+      "size": 39559,
+      "files": {
+        "csv": {
+          "name": "cs-prehradni-nadrze_CS.csv",
+          "size": 11784
+        },
+        "xlsx": {
+          "name": "cs-prehradni-nadrze_CS.xlsx",
+          "size": 16062
         }
       }
     },

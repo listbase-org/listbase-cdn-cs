@@ -1,0 +1,1646 @@
+{
+  "id": "cs-prehradni-nadrze",
+  "name": "Přehradní nádrže v Česku",
+  "title": "Přehradní nádrže v Česku",
+  "description": "Seznam přehradních nádrží v Česku s rozlohou, hloubkou, objemem, rokem dokončení, krajem a odtokem.",
+  "category": "environment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_přehradních_nádrží_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_přehradních_nádrží_v_Česku",
+  "updated": "2026-11",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "jmeno",
+      "label": "Jmeno",
+      "type": "string"
+    },
+    {
+      "key": "rozloha_ha",
+      "label": "Rozloha Ha",
+      "type": "number"
+    },
+    {
+      "key": "hloubka",
+      "label": "Hloubka",
+      "type": "number"
+    },
+    {
+      "key": "objem_mil_m3",
+      "label": "Objem Mil M3",
+      "type": "number"
+    },
+    {
+      "key": "rok_dokonceni",
+      "label": "Rok Dokonceni",
+      "type": "number"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "odtok",
+      "label": "Odtok",
+      "type": "string"
+    },
+    {
+      "key": "nadm_vyska",
+      "label": "Nadm Vyska",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "jmeno": "Lipno I",
+      "rozloha_ha": "4909.760",
+      "hloubka": "21.98",
+      "objem_mil_m3": "306.000",
+      "rok_dokonceni": 1957,
+      "kraj": "Jihočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": "725.60"
+    },
+    {
+      "jmeno": "Orlík",
+      "rozloha_ha": "2545.540",
+      "hloubka": "74.00",
+      "objem_mil_m3": "716.500",
+      "rok_dokonceni": 1960,
+      "kraj": "Jihočeský, Středočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": "353.60"
+    },
+    {
+      "jmeno": "Novomlýnská",
+      "rozloha_ha": "1668.000",
+      "hloubka": "7.54",
+      "objem_mil_m3": "87.750",
+      "rok_dokonceni": 1988,
+      "kraj": "Jihomoravský",
+      "odtok": "Dyje",
+      "nadm_vyska": "171.24"
+    },
+    {
+      "jmeno": "Švihov",
+      "rozloha_ha": "1337.550",
+      "hloubka": "56.40",
+      "objem_mil_m3": "309.000",
+      "rok_dokonceni": 1968,
+      "kraj": "Středočeský, Vysočina",
+      "odtok": "Želivka",
+      "nadm_vyska": "379.80"
+    },
+    {
+      "jmeno": "Nechranice",
+      "rozloha_ha": "1307.770",
+      "hloubka": "46.05",
+      "objem_mil_m3": "287.632",
+      "rok_dokonceni": 1968,
+      "kraj": "Ústecký",
+      "odtok": "Ohře",
+      "nadm_vyska": "273.05"
+    },
+    {
+      "jmeno": "Slapy",
+      "rozloha_ha": "1241.150",
+      "hloubka": "51.40",
+      "objem_mil_m3": "269.300",
+      "rok_dokonceni": 1955,
+      "kraj": "Středočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": "270.60"
+    },
+    {
+      "jmeno": "Věstonická",
+      "rozloha_ha": "1033.000",
+      "hloubka": "5.02",
+      "objem_mil_m3": "34.000",
+      "rok_dokonceni": 1980,
+      "kraj": "Jihomoravský",
+      "odtok": "Dyje",
+      "nadm_vyska": "171.42"
+    },
+    {
+      "jmeno": "Rozkoš",
+      "rozloha_ha": "1001.250",
+      "hloubka": "16.50",
+      "objem_mil_m3": "88.208",
+      "rok_dokonceni": 1966,
+      "kraj": "Královéhradecký",
+      "odtok": "Rozkoš",
+      "nadm_vyska": "282.60"
+    },
+    {
+      "jmeno": "Slezská Harta",
+      "rozloha_ha": "873.900",
+      "hloubka": "62.80",
+      "objem_mil_m3": "218.740",
+      "rok_dokonceni": 1997,
+      "kraj": "Moravskoslezský",
+      "odtok": "Moravice",
+      "nadm_vyska": "498.80"
+    },
+    {
+      "jmeno": "Vranov",
+      "rozloha_ha": "761.300",
+      "hloubka": "45.06",
+      "objem_mil_m3": "132.696",
+      "rok_dokonceni": 1934,
+      "kraj": "Jihomoravský",
+      "odtok": "Dyje",
+      "nadm_vyska": "352.00"
+    },
+    {
+      "jmeno": "Jesenice",
+      "rozloha_ha": "759.879",
+      "hloubka": "18.10",
+      "objem_mil_m3": "60.150",
+      "rok_dokonceni": 1961,
+      "kraj": "Karlovarský",
+      "odtok": "Odrava",
+      "nadm_vyska": "440.70"
+    },
+    {
+      "jmeno": "Mušovská",
+      "rozloha_ha": "531.000",
+      "hloubka": "4.04",
+      "objem_mil_m3": "12.186",
+      "rok_dokonceni": 1978,
+      "kraj": "Jihomoravský",
+      "odtok": "Dyje",
+      "nadm_vyska": "171.54"
+    },
+    {
+      "jmeno": "Dalešice",
+      "rozloha_ha": "517.033",
+      "hloubka": "85.50",
+      "objem_mil_m3": "126.900",
+      "rok_dokonceni": 1978,
+      "kraj": "Vysočina",
+      "odtok": "Jihlava",
+      "nadm_vyska": "381.50"
+    },
+    {
+      "jmeno": "Hracholusky",
+      "rozloha_ha": "421.253",
+      "hloubka": "26.00",
+      "objem_mil_m3": "42.350",
+      "rok_dokonceni": 1964,
+      "kraj": "Plzeňský",
+      "odtok": "Mže",
+      "nadm_vyska": "357.97"
+    },
+    {
+      "jmeno": "Hněvkovice",
+      "rozloha_ha": "403.751",
+      "hloubka": "21.00",
+      "objem_mil_m3": "22.200",
+      "rok_dokonceni": 1992,
+      "kraj": "Jihočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": "370.10"
+    },
+    {
+      "jmeno": "Přísečnice",
+      "rozloha_ha": "340.823",
+      "hloubka": "45.58",
+      "objem_mil_m3": "54.690",
+      "rok_dokonceni": 1976,
+      "kraj": "Ústecký",
+      "odtok": "Přísečnice",
+      "nadm_vyska": "734.28"
+    },
+    {
+      "jmeno": "Skalka",
+      "rozloha_ha": "338.495",
+      "hloubka": "13.60",
+      "objem_mil_m3": "19.555",
+      "rok_dokonceni": 1964,
+      "kraj": "Karlovarský",
+      "odtok": "Ohře",
+      "nadm_vyska": "443.60"
+    },
+    {
+      "jmeno": "Šance",
+      "rozloha_ha": "337.000",
+      "hloubka": "64.07",
+      "objem_mil_m3": "61.750",
+      "rok_dokonceni": 1969,
+      "kraj": "Moravskoslezský",
+      "odtok": "Ostravice",
+      "nadm_vyska": "506.91"
+    },
+    {
+      "jmeno": "Kružberk",
+      "rozloha_ha": "280.000",
+      "hloubka": "31.00",
+      "objem_mil_m3": "35.530",
+      "rok_dokonceni": 1955,
+      "kraj": "Moravskoslezský",
+      "odtok": "Moravice",
+      "nadm_vyska": "431.10"
+    },
+    {
+      "jmeno": "Těrlicko",
+      "rozloha_ha": "267.600",
+      "hloubka": "28.36",
+      "objem_mil_m3": "37.390",
+      "rok_dokonceni": 1964,
+      "kraj": "Moravskoslezský",
+      "odtok": "Stonávka",
+      "nadm_vyska": "277.46"
+    },
+    {
+      "jmeno": "Brno",
+      "rozloha_ha": "259.000",
+      "hloubka": "19.86",
+      "objem_mil_m3": "31.000",
+      "rok_dokonceni": 1940,
+      "kraj": "Jihomoravský",
+      "odtok": "Svratka",
+      "nadm_vyska": "230.08"
+    },
+    {
+      "jmeno": "Žermanice",
+      "rozloha_ha": "247",
+      "hloubka": "28",
+      "objem_mil_m3": "25.027",
+      "rok_dokonceni": 1957,
+      "kraj": "Moravskoslezský",
+      "odtok": "Lučina",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Vír I",
+      "rozloha_ha": "223.6",
+      "hloubka": "65.6",
+      "objem_mil_m3": "56.193",
+      "rok_dokonceni": 1958,
+      "kraj": "Vysočina",
+      "odtok": "Svratka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Římov",
+      "rozloha_ha": "228.58",
+      "hloubka": "43",
+      "objem_mil_m3": "33.637",
+      "rok_dokonceni": 1978,
+      "kraj": "Jihočeský",
+      "odtok": "Malše",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Seč I",
+      "rozloha_ha": "220.1",
+      "hloubka": "34",
+      "objem_mil_m3": "22.1",
+      "rok_dokonceni": 1934,
+      "kraj": "Vysočina, Pardubický",
+      "odtok": "Chrudimka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kamýk",
+      "rozloha_ha": "171.19",
+      "hloubka": "14",
+      "objem_mil_m3": "12.8",
+      "rok_dokonceni": 1961,
+      "kraj": "Středočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Nýrsko",
+      "rozloha_ha": "163.3",
+      "hloubka": "34",
+      "objem_mil_m3": "20.8",
+      "rok_dokonceni": 1969,
+      "kraj": "Plzeňský",
+      "odtok": "Úhlava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Stanovice",
+      "rozloha_ha": "141.33",
+      "hloubka": "60",
+      "objem_mil_m3": "27.8",
+      "rok_dokonceni": 1978,
+      "kraj": "Karlovarský",
+      "odtok": "Lomnický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Josefův Důl",
+      "rozloha_ha": "138.1",
+      "hloubka": "44",
+      "objem_mil_m3": "22.114",
+      "rok_dokonceni": 1982,
+      "kraj": "Liberecký",
+      "odtok": "Kamenice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Fláje",
+      "rozloha_ha": "136.01",
+      "hloubka": "48.4",
+      "objem_mil_m3": "23.1",
+      "rok_dokonceni": 1960,
+      "kraj": "Ústecký",
+      "odtok": "Flájský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Žlutice",
+      "rozloha_ha": "128.94",
+      "hloubka": "23.85",
+      "objem_mil_m3": "12.8",
+      "rok_dokonceni": 1968,
+      "kraj": "Karlovarský",
+      "odtok": "Střela",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Horka",
+      "rozloha_ha": "125.55",
+      "hloubka": "34",
+      "objem_mil_m3": "21.35",
+      "rok_dokonceni": 1970,
+      "kraj": "Karlovarský",
+      "odtok": "Libocký potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Vrané",
+      "rozloha_ha": "122.53",
+      "hloubka": "10",
+      "objem_mil_m3": "11.1",
+      "rok_dokonceni": 1933,
+      "kraj": "Středočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Mohelno",
+      "rozloha_ha": "117.4",
+      "hloubka": "40",
+      "objem_mil_m3": "17.1",
+      "rok_dokonceni": 1977,
+      "kraj": "Vysočina",
+      "odtok": "Jihlava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Letovice",
+      "rozloha_ha": "110.9",
+      "hloubka": "27.3",
+      "objem_mil_m3": "11.643",
+      "rok_dokonceni": 1976,
+      "kraj": "Jihomoravský",
+      "odtok": "Křetínka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "České Údolí",
+      "rozloha_ha": "110.54",
+      "hloubka": "7.6",
+      "objem_mil_m3": "3.2",
+      "rok_dokonceni": 1973,
+      "kraj": "Plzeňský",
+      "odtok": "Radbuza",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Pastviny",
+      "rozloha_ha": "110.3",
+      "hloubka": "24",
+      "objem_mil_m3": "11.033",
+      "rok_dokonceni": 1936,
+      "kraj": "Pardubický",
+      "odtok": "Divoká Orlice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Vrchlice",
+      "rozloha_ha": "102.77",
+      "hloubka": "33",
+      "objem_mil_m3": "9.785",
+      "rok_dokonceni": 1968,
+      "kraj": "Středočeský",
+      "odtok": "Vrchlice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Trnávka",
+      "rozloha_ha": "99.08",
+      "hloubka": "12",
+      "objem_mil_m3": "5.3",
+      "rok_dokonceni": 1969,
+      "kraj": "Vysočina",
+      "odtok": "Trnava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Mostiště",
+      "rozloha_ha": "93",
+      "hloubka": "31",
+      "objem_mil_m3": "11.937",
+      "rok_dokonceni": 1960,
+      "kraj": "Vysočina",
+      "odtok": "Oslava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Olešná",
+      "rozloha_ha": "88",
+      "hloubka": "5.6(prům.)",
+      "objem_mil_m3": "4.41",
+      "rok_dokonceni": 1964,
+      "kraj": "Moravskoslezský",
+      "odtok": "Olešná",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Souš",
+      "rozloha_ha": "85.89",
+      "hloubka": "20",
+      "objem_mil_m3": "7.56",
+      "rok_dokonceni": 1915,
+      "kraj": "Liberecký",
+      "odtok": "Černá Desná",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Les Království",
+      "rozloha_ha": "85",
+      "hloubka": "28",
+      "objem_mil_m3": "9.158",
+      "rok_dokonceni": 1916,
+      "kraj": "Královéhradecký",
+      "odtok": "Labe",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Hamry",
+      "rozloha_ha": "80.55",
+      "hloubka": "4.5(prům.)",
+      "objem_mil_m3": "3.617",
+      "rok_dokonceni": 1912,
+      "kraj": "Pardubický",
+      "odtok": "Chrudimka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Slušovice",
+      "rozloha_ha": "78.42",
+      "hloubka": "12.7(prům.)",
+      "objem_mil_m3": "9.949",
+      "rok_dokonceni": 1976,
+      "kraj": "Zlínský",
+      "odtok": "Dřevnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Štěchovice",
+      "rozloha_ha": "75.21",
+      "hloubka": "22",
+      "objem_mil_m3": "11.2",
+      "rok_dokonceni": 1939,
+      "kraj": "Středočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Oleksovice",
+      "rozloha_ha": "72",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1894,
+      "kraj": "Jihomoravský",
+      "odtok": "Skalička",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Klíčava",
+      "rozloha_ha": "71.40",
+      "hloubka": "13.9(prům.)",
+      "objem_mil_m3": "10.42",
+      "rok_dokonceni": 1955,
+      "kraj": "Středočeský",
+      "odtok": "Klíčava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Opatovice",
+      "rozloha_ha": "70.51",
+      "hloubka": "33",
+      "objem_mil_m3": "9.867",
+      "rok_dokonceni": 1972,
+      "kraj": "Jihomoravský",
+      "odtok": "Malá Haná",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Morávka",
+      "rozloha_ha": "69.9",
+      "hloubka": "38",
+      "objem_mil_m3": "11.95",
+      "rok_dokonceni": 1967,
+      "kraj": "Moravskoslezský",
+      "odtok": "Morávka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Plumlov",
+      "rozloha_ha": "68",
+      "hloubka": "12",
+      "objem_mil_m3": "5.566",
+      "rok_dokonceni": 1932,
+      "kraj": "Olomoucký",
+      "odtok": "Hloučela",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kořensko",
+      "rozloha_ha": "65(cca)",
+      "hloubka": "…",
+      "objem_mil_m3": "2.8",
+      "rok_dokonceni": 1991,
+      "kraj": "Jihočeský",
+      "odtok": "Lužnice, Vltava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Lučina",
+      "rozloha_ha": "63.42",
+      "hloubka": "22",
+      "objem_mil_m3": "4.611",
+      "rok_dokonceni": 1975,
+      "kraj": "Plzeňský",
+      "odtok": "Mže",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Fryšták",
+      "rozloha_ha": "62.2",
+      "hloubka": "4.7(prům.)",
+      "objem_mil_m3": "2.95",
+      "rok_dokonceni": 1939,
+      "kraj": "Zlínský",
+      "odtok": "Fryštácký potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Výrovice",
+      "rozloha_ha": "62.1",
+      "hloubka": "13",
+      "objem_mil_m3": "4.232",
+      "rok_dokonceni": 1983,
+      "kraj": "Jihomoravský",
+      "odtok": "Jevišovka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Pilská",
+      "rozloha_ha": "57.6",
+      "hloubka": "8.8",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1960,
+      "kraj": "Vysočina",
+      "odtok": "Sázava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Hubenov",
+      "rozloha_ha": "55",
+      "hloubka": "19",
+      "objem_mil_m3": "3.385",
+      "rok_dokonceni": 1972,
+      "kraj": "Vysočina",
+      "odtok": "Maršovský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Nová Říše",
+      "rozloha_ha": "53.5",
+      "hloubka": "19.9",
+      "objem_mil_m3": "3.09",
+      "rok_dokonceni": 1985,
+      "kraj": "Vysočina",
+      "odtok": "Olšanský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Boskovice",
+      "rozloha_ha": "53.3",
+      "hloubka": "13.8(prum.)",
+      "objem_mil_m3": "7.343",
+      "rok_dokonceni": 1990,
+      "kraj": "Jihomoravský",
+      "odtok": "Bělá",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Znojmo",
+      "rozloha_ha": "53.3",
+      "hloubka": "13.4",
+      "objem_mil_m3": "4.29",
+      "rok_dokonceni": 1966,
+      "kraj": "Jihomoravský",
+      "odtok": "Dyje",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Jordán",
+      "rozloha_ha": "51.77",
+      "hloubka": "15.2",
+      "objem_mil_m3": "3",
+      "rok_dokonceni": 1492,
+      "kraj": "Jihočeský",
+      "odtok": "Košínský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Karolinka",
+      "rozloha_ha": "50.83",
+      "hloubka": "35",
+      "objem_mil_m3": "7.645",
+      "rok_dokonceni": 1985,
+      "kraj": "Zlínský",
+      "odtok": "Velká Stanovnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Podhora",
+      "rozloha_ha": "45.95",
+      "hloubka": "7.9",
+      "objem_mil_m3": "3.032",
+      "rok_dokonceni": 1956,
+      "kraj": "Karlovarský",
+      "odtok": "Teplá",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Modlany",
+      "rozloha_ha": "44.06",
+      "hloubka": "…",
+      "objem_mil_m3": "0.722",
+      "rok_dokonceni": "…",
+      "kraj": "Ústecký",
+      "odtok": "Drahkovský potok, Modlanský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Hostivař",
+      "rozloha_ha": "42",
+      "hloubka": "12",
+      "objem_mil_m3": "2.13",
+      "rok_dokonceni": 1961,
+      "kraj": "Praha",
+      "odtok": "Botič",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Bedřichov",
+      "rozloha_ha": "41.5",
+      "hloubka": "15(prům.)",
+      "objem_mil_m3": "2.103",
+      "rok_dokonceni": 1905,
+      "kraj": "Liberecký",
+      "odtok": "Černá Nisa",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kateřina",
+      "rozloha_ha": "41.27",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Ústecký",
+      "odtok": "Lochočický potok, Maršovský potok, Unčínský potok, Zalužanský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Landštejn",
+      "rozloha_ha": "40.5",
+      "hloubka": "8.1(prům.)",
+      "objem_mil_m3": "3.261",
+      "rok_dokonceni": 1973,
+      "kraj": "Jihočeský",
+      "odtok": "Pstruhovec",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Stráž pod Ralskem",
+      "rozloha_ha": "40.45",
+      "hloubka": "2.4(prům.)",
+      "objem_mil_m3": "1.778",
+      "rok_dokonceni": 1913,
+      "kraj": "Liberecký",
+      "odtok": "Ploučnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Luhačovice",
+      "rozloha_ha": "40",
+      "hloubka": "16.5(cca)",
+      "objem_mil_m3": "2.7",
+      "rok_dokonceni": 1930,
+      "kraj": "Zlínský",
+      "odtok": "Šťávnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Mšeno",
+      "rozloha_ha": "39.78",
+      "hloubka": "15",
+      "objem_mil_m3": "2.785",
+      "rok_dokonceni": 1907,
+      "kraj": "Liberecký",
+      "odtok": "Mšenský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Bystřička",
+      "rozloha_ha": "38",
+      "hloubka": "26",
+      "objem_mil_m3": "4.96",
+      "rok_dokonceni": 1912,
+      "kraj": "Zlínský",
+      "odtok": "Bystřička",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Koryčany",
+      "rozloha_ha": "35.15",
+      "hloubka": "7.3(prům.)",
+      "objem_mil_m3": "2.564",
+      "rok_dokonceni": 1959,
+      "kraj": "Zlínský",
+      "odtok": "Kyjovka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Baška",
+      "rozloha_ha": "33",
+      "hloubka": "6",
+      "objem_mil_m3": "1.08",
+      "rok_dokonceni": 1961,
+      "kraj": "Moravskoslezský",
+      "odtok": "Baštice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Lipno II",
+      "rozloha_ha": "32.52",
+      "hloubka": "3.7(prům.)",
+      "objem_mil_m3": "1.69",
+      "rok_dokonceni": 1960,
+      "kraj": "Jihočeský",
+      "odtok": "Vltava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Klabava",
+      "rozloha_ha": "32.31",
+      "hloubka": "2.8(prům.)",
+      "objem_mil_m3": "1.25",
+      "rok_dokonceni": 1957,
+      "kraj": "Plzeňský",
+      "odtok": "Klabava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Křižanovice I",
+      "rozloha_ha": "31.8",
+      "hloubka": "6.4(prům.)",
+      "objem_mil_m3": "2.036",
+      "rok_dokonceni": 1953,
+      "kraj": "Pardubický",
+      "odtok": "Chrudimka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Loupnice",
+      "rozloha_ha": "30",
+      "hloubka": "…",
+      "objem_mil_m3": "1.040",
+      "rok_dokonceni": 1959,
+      "kraj": "Ústecký",
+      "odtok": "Loupnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Labská",
+      "rozloha_ha": "26.78",
+      "hloubka": "28",
+      "objem_mil_m3": "3.292",
+      "rok_dokonceni": 1915,
+      "kraj": "Královéhradecký",
+      "odtok": "Labe",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Husinec",
+      "rozloha_ha": "25.63",
+      "hloubka": "9.9(prům.)",
+      "objem_mil_m3": "5.64",
+      "rok_dokonceni": 1939,
+      "kraj": "Jihočeský",
+      "odtok": "Blanice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Vidhostice",
+      "rozloha_ha": "24.16",
+      "hloubka": "28",
+      "objem_mil_m3": "1.075",
+      "rok_dokonceni": 1990,
+      "kraj": "Ústecký",
+      "odtok": "Mlýnecký potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Sedlice",
+      "rozloha_ha": "23.99",
+      "hloubka": "15",
+      "objem_mil_m3": "1.87",
+      "rok_dokonceni": 1927,
+      "kraj": "Vysočina",
+      "odtok": "Želivka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Pocheň",
+      "rozloha_ha": "23.5",
+      "hloubka": "16",
+      "objem_mil_m3": "0.817",
+      "rok_dokonceni": 1975,
+      "kraj": "Moravskoslezský",
+      "odtok": "Čižina",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kadaň",
+      "rozloha_ha": "22.01",
+      "hloubka": "11",
+      "objem_mil_m3": "2.707",
+      "rok_dokonceni": 1972,
+      "kraj": "Ústecký",
+      "odtok": "Ohře",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Všechlapy",
+      "rozloha_ha": "21.35",
+      "hloubka": "3.9(prům.)",
+      "objem_mil_m3": "1.371",
+      "rok_dokonceni": 1961,
+      "kraj": "Ústecký",
+      "odtok": "Bouřlivec",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Pařížov",
+      "rozloha_ha": "20.9",
+      "hloubka": "22",
+      "objem_mil_m3": "1.77",
+      "rok_dokonceni": 1913,
+      "kraj": "Pardubický",
+      "odtok": "Doubrava",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Němčice",
+      "rozloha_ha": "20.78",
+      "hloubka": "3.9(prům.)",
+      "objem_mil_m3": "0.85",
+      "rok_dokonceni": 1982,
+      "kraj": "Vysočina",
+      "odtok": "Sedlický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Nemilka",
+      "rozloha_ha": "20.680",
+      "hloubka": "7.5(prům.)",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1971,
+      "kraj": "Olomoucký",
+      "odtok": "Nemilka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Březová",
+      "rozloha_ha": "19.99",
+      "hloubka": "17",
+      "objem_mil_m3": "5.687",
+      "rok_dokonceni": 1934,
+      "kraj": "Karlovarský",
+      "odtok": "Teplá",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Zaječice",
+      "rozloha_ha": "19.9",
+      "hloubka": "4.4",
+      "objem_mil_m3": "0.445",
+      "rok_dokonceni": 1976,
+      "kraj": "Ústecký",
+      "odtok": "Hutní potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Tatrovice",
+      "rozloha_ha": "18.84",
+      "hloubka": "6.5(prům.)",
+      "objem_mil_m3": "1.165",
+      "rok_dokonceni": 1970,
+      "kraj": "Karlovarský",
+      "odtok": "Tatrovický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Větřkovice",
+      "rozloha_ha": "18.6",
+      "hloubka": "5.6(prům.)",
+      "objem_mil_m3": "1.09",
+      "rok_dokonceni": 1976,
+      "kraj": "Moravskoslezský",
+      "odtok": "Svěcený potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Pilská",
+      "rozloha_ha": "18.09",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1853,
+      "kraj": "Středočeský",
+      "odtok": "Pilský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Džbán",
+      "rozloha_ha": "18",
+      "hloubka": "7.5",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1968,
+      "kraj": "Praha",
+      "odtok": "Šárecký potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Blatnička",
+      "rozloha_ha": "18",
+      "hloubka": "…",
+      "objem_mil_m3": "0.5",
+      "rok_dokonceni": "…",
+      "kraj": "Jihomoravský",
+      "odtok": "Svodnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Košín",
+      "rozloha_ha": "18",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1978,
+      "kraj": "Jihočeský",
+      "odtok": "Košínský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Otvice",
+      "rozloha_ha": "16.95",
+      "hloubka": "4",
+      "objem_mil_m3": "0.445",
+      "rok_dokonceni": 1971,
+      "kraj": "Ústecký",
+      "odtok": "Otvický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Jirkov",
+      "rozloha_ha": "16.53",
+      "hloubka": "47.6",
+      "objem_mil_m3": "2.769",
+      "rok_dokonceni": 1965,
+      "kraj": "Ústecký",
+      "odtok": "Bílina",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Dlouhé stráně (dolní)",
+      "rozloha_ha": "16.3",
+      "hloubka": "…",
+      "objem_mil_m3": "3.405",
+      "rok_dokonceni": 1992,
+      "kraj": "Olomoucký",
+      "odtok": "Divoká Desná",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Křižanovice II",
+      "rozloha_ha": "15.95",
+      "hloubka": "…",
+      "objem_mil_m3": "0.36",
+      "rok_dokonceni": 1954,
+      "kraj": "Pardubický",
+      "odtok": "Chrudimka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Bojkovice",
+      "rozloha_ha": "15.45",
+      "hloubka": "16",
+      "objem_mil_m3": "0.965",
+      "rok_dokonceni": 1966,
+      "kraj": "Zlínský",
+      "odtok": "Kolelačský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Dlouhé stráně (horní)",
+      "rozloha_ha": "15.4",
+      "hloubka": "26",
+      "objem_mil_m3": "2.721",
+      "rok_dokonceni": 1993,
+      "kraj": "Olomoucký",
+      "odtok": "PVE Dlouhé stráně",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Horní Bečva",
+      "rozloha_ha": "15",
+      "hloubka": "…",
+      "objem_mil_m3": "0.678",
+      "rok_dokonceni": 1944,
+      "kraj": "Zlínský",
+      "odtok": "Rožnovská Bečva",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Strž",
+      "rozloha_ha": "14.94",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1972,
+      "kraj": "Vysočina",
+      "odtok": "Stržský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Staviště",
+      "rozloha_ha": "14.84",
+      "hloubka": "…",
+      "objem_mil_m3": "10.96",
+      "rok_dokonceni": 1959,
+      "kraj": "Vysočina",
+      "odtok": "Staviště",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Újezd",
+      "rozloha_ha": "14.46",
+      "hloubka": "12.6",
+      "objem_mil_m3": "8.4",
+      "rok_dokonceni": 1981,
+      "kraj": "Ústecký",
+      "odtok": "Bílina",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Humenice",
+      "rozloha_ha": "14.19",
+      "hloubka": "…",
+      "objem_mil_m3": "0.808",
+      "rok_dokonceni": 1988,
+      "kraj": "Jihočeský",
+      "odtok": "Stropnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Harcov",
+      "rozloha_ha": "14.07",
+      "hloubka": "…",
+      "objem_mil_m3": "0.687",
+      "rok_dokonceni": 1904,
+      "kraj": "Liberecký",
+      "odtok": "Harcovský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Břevnice",
+      "rozloha_ha": "14",
+      "hloubka": "…",
+      "objem_mil_m3": "0.4",
+      "rok_dokonceni": 1959,
+      "kraj": "Vysočina",
+      "odtok": "Břevnický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Láz",
+      "rozloha_ha": "13.41",
+      "hloubka": "…",
+      "objem_mil_m3": "0.805",
+      "rok_dokonceni": 1850,
+      "kraj": "Středočeský",
+      "odtok": "Litavka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kožichovice",
+      "rozloha_ha": "13.1",
+      "hloubka": "…",
+      "objem_mil_m3": "0.618",
+      "rok_dokonceni": 1985,
+      "kraj": "Vysočina",
+      "odtok": "Markovka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Jevišovice",
+      "rozloha_ha": "12.6",
+      "hloubka": "…",
+      "objem_mil_m3": "0.551",
+      "rok_dokonceni": 1896,
+      "kraj": "Jihomoravský",
+      "odtok": "Jevišovka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Vír II",
+      "rozloha_ha": "12.5",
+      "hloubka": "…",
+      "objem_mil_m3": "0.29",
+      "rok_dokonceni": 1954,
+      "kraj": "Vysočina",
+      "odtok": "Svratka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Ludkovice",
+      "rozloha_ha": "12.43",
+      "hloubka": "…",
+      "objem_mil_m3": "0.69",
+      "rok_dokonceni": 1968,
+      "kraj": "Zlínský",
+      "odtok": "Ludkovický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Těšetice",
+      "rozloha_ha": "12",
+      "hloubka": "…",
+      "objem_mil_m3": "0.852",
+      "rok_dokonceni": 1983,
+      "kraj": "Jihomoravský",
+      "odtok": "Únanovka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Moravská Třebová",
+      "rozloha_ha": "11",
+      "hloubka": "…",
+      "objem_mil_m3": "0.221",
+      "rok_dokonceni": 1962,
+      "kraj": "Pardubický",
+      "odtok": "Třebůvka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Lobník",
+      "rozloha_ha": "10",
+      "hloubka": "0.8(prům.)",
+      "objem_mil_m3": "1.220",
+      "rok_dokonceni": 1955,
+      "kraj": "Moravskoslezský",
+      "odtok": "Lobnický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Záskalská",
+      "rozloha_ha": "9.48",
+      "hloubka": "…",
+      "objem_mil_m3": "0.67",
+      "rok_dokonceni": 1959,
+      "kraj": "Středočeský",
+      "odtok": "Červený potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Obecnice",
+      "rozloha_ha": "9.42",
+      "hloubka": "…",
+      "objem_mil_m3": "0.543",
+      "rok_dokonceni": 1966,
+      "kraj": "Středočeský",
+      "odtok": "Obecnický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Chřibská",
+      "rozloha_ha": "9.28",
+      "hloubka": "22.9",
+      "objem_mil_m3": "1.212",
+      "rok_dokonceni": 1926,
+      "kraj": "Ústecký",
+      "odtok": "Chřibská Kamenice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Křimov",
+      "rozloha_ha": "9.09",
+      "hloubka": "…",
+      "objem_mil_m3": "1.48",
+      "rok_dokonceni": 1959,
+      "kraj": "Ústecký",
+      "odtok": "Křimovský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Krásné u Šumperka",
+      "rozloha_ha": "9",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "po 1980",
+      "kraj": "Moravskoslezský",
+      "odtok": "Hraběšický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Jiviny",
+      "rozloha_ha": "9",
+      "hloubka": "…",
+      "objem_mil_m3": "0.138",
+      "rok_dokonceni": 1984,
+      "kraj": "Praha",
+      "odtok": "Litovický potok, Řepský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Rýzmburk",
+      "rozloha_ha": "9(cca)",
+      "hloubka": "…",
+      "objem_mil_m3": "0.764",
+      "rok_dokonceni": 1972,
+      "kraj": "Středočeský",
+      "odtok": "Rýzmburský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Janov",
+      "rozloha_ha": "8.42",
+      "hloubka": "…",
+      "objem_mil_m3": "1.67",
+      "rok_dokonceni": 1914,
+      "kraj": "Ústecký",
+      "odtok": "Loupnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Fojtka",
+      "rozloha_ha": "6.88",
+      "hloubka": "10",
+      "objem_mil_m3": "0.322",
+      "rok_dokonceni": 1906,
+      "kraj": "Liberecký",
+      "odtok": "Fojtka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Vřesník",
+      "rozloha_ha": "6.69",
+      "hloubka": "5",
+      "objem_mil_m3": "0.37",
+      "rok_dokonceni": 1970,
+      "kraj": "Vysočina",
+      "odtok": "Želivka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Osvětimany",
+      "rozloha_ha": "6.6",
+      "hloubka": "…",
+      "objem_mil_m3": "0.33",
+      "rok_dokonceni": 1985,
+      "kraj": "Zlínský",
+      "odtok": "Klimentský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Bílý Halštrov",
+      "rozloha_ha": "6.6",
+      "hloubka": "7",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Karlovarský",
+      "odtok": "Bílý Halštrov",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Štramberk",
+      "rozloha_ha": "6.4",
+      "hloubka": "…",
+      "objem_mil_m3": "0.1375",
+      "rok_dokonceni": 1958,
+      "kraj": "Moravskoslezský",
+      "odtok": "Sedlnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kostolnica",
+      "rozloha_ha": "6",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Jihomoravský",
+      "odtok": "Sudoměřický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Sedlinka",
+      "rozloha_ha": "5.93",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Moravskoslezský",
+      "odtok": "Sedlinka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Suchomasty",
+      "rozloha_ha": "5.77",
+      "hloubka": "…",
+      "objem_mil_m3": "0.41",
+      "rok_dokonceni": 1960,
+      "kraj": "Středočeský",
+      "odtok": "Suchomastský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Rudolfov",
+      "rozloha_ha": "5.6",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Liberecký",
+      "odtok": "Černá Nisa",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Mlýnice",
+      "rozloha_ha": "5.2",
+      "hloubka": "14",
+      "objem_mil_m3": "0.271",
+      "rok_dokonceni": 1906,
+      "kraj": "Liberecký",
+      "odtok": "Albrechtický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Jahodnice",
+      "rozloha_ha": "5.1",
+      "hloubka": "12.5",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1964,
+      "kraj": "Královéhradecký kraj",
+      "odtok": "Úlibický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Homole",
+      "rozloha_ha": "5",
+      "hloubka": "10",
+      "objem_mil_m3": "0.5",
+      "rok_dokonceni": 1947,
+      "kraj": "Středočeský",
+      "odtok": "PVE Štěchovice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Padrty",
+      "rozloha_ha": "4.8",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1947,
+      "kraj": "Pardubický",
+      "odtok": "Chrudimka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kamenička",
+      "rozloha_ha": "4.34",
+      "hloubka": "…",
+      "objem_mil_m3": "0.714",
+      "rok_dokonceni": 1904,
+      "kraj": "Ústecký",
+      "odtok": "Kamenička",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Malý Jordán",
+      "rozloha_ha": "4",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1950,
+      "kraj": "Jihočeský",
+      "odtok": "Košínský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Plasy",
+      "rozloha_ha": "4(cca)",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1956,
+      "kraj": "Plzeňský",
+      "odtok": "Střela",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Soběnov",
+      "rozloha_ha": "3.8",
+      "hloubka": "5.4",
+      "objem_mil_m3": "0.0732",
+      "rok_dokonceni": 1930,
+      "kraj": "Jihočeský",
+      "odtok": "Černá",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Mariánské Lázně",
+      "rozloha_ha": "3.78",
+      "hloubka": "…",
+      "objem_mil_m3": "0.278",
+      "rok_dokonceni": 1896,
+      "kraj": "Karlovarský",
+      "odtok": "Úšovický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Myslivny",
+      "rozloha_ha": "2.98",
+      "hloubka": "…",
+      "objem_mil_m3": "0.06",
+      "rok_dokonceni": 1959,
+      "kraj": "Karlovarský",
+      "odtok": "Černá",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Brušperk",
+      "rozloha_ha": "2.9",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Moravskoslezský",
+      "odtok": "Horní Kotbach",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kacabaja",
+      "rozloha_ha": "2.80",
+      "hloubka": "7",
+      "objem_mil_m3": "0.047",
+      "rok_dokonceni": "…",
+      "kraj": "Moravskoslezský",
+      "odtok": "Zrzávka",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Velká Černoc",
+      "rozloha_ha": "2.1",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Ústecký",
+      "odtok": "Černocký potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Ivanské jezero",
+      "rozloha_ha": "2.01",
+      "hloubka": "6.9",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1907,
+      "kraj": "Královéhradecký kraj",
+      "odtok": "Javornický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kyjov",
+      "rozloha_ha": "2",
+      "hloubka": "7",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Ústecký",
+      "odtok": "Sýrový potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Zákraví",
+      "rozloha_ha": "1.92",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1967,
+      "kraj": "Královéhradecký",
+      "odtok": "Janovský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Hrabišín",
+      "rozloha_ha": "1.6",
+      "hloubka": "…",
+      "objem_mil_m3": "0.033",
+      "rok_dokonceni": 1986,
+      "kraj": "Olomoucký",
+      "odtok": "Loučský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Kamenná",
+      "rozloha_ha": "1.6",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 2000,
+      "kraj": "Olomoucký",
+      "odtok": "Rohelnice",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Opatovsko",
+      "rozloha_ha": "1.2",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Zlínský",
+      "odtok": "Švábský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Naděje",
+      "rozloha_ha": "1.160",
+      "hloubka": "…",
+      "objem_mil_m3": "0.033",
+      "rok_dokonceni": 1938,
+      "kraj": "Liberecký",
+      "odtok": "Hamerský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Lesenská přehrada",
+      "rozloha_ha": "0.82",
+      "hloubka": "12",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Ústecký",
+      "odtok": "Lesenský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Jílové",
+      "rozloha_ha": "0.723",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": "…",
+      "kraj": "Ústecký",
+      "odtok": "Jílovský potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Jezeří",
+      "rozloha_ha": "0.64",
+      "hloubka": "17.54",
+      "objem_mil_m3": "0.053",
+      "rok_dokonceni": 1904,
+      "kraj": "Ústecký",
+      "odtok": "Vesnický potok",
+      "nadm_vyska": ""
+    },
+    {
+      "jmeno": "Rovná",
+      "rozloha_ha": "4",
+      "hloubka": "…",
+      "objem_mil_m3": "…",
+      "rok_dokonceni": 1961,
+      "kraj": "Karlovarský",
+      "odtok": "Libava",
+      "nadm_vyska": ""
+    }
+  ],
+  "meta": {
+    "title": "Přehradní nádrže v Česku - Free Download",
+    "description": "Seznam přehradních nádrží v Česku s rozlohou, hloubkou, objemem, rokem dokončení, krajem a odtokem. Contains 158 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Přehradní nádrže v Česku | ListBase",
+    "seo_description": "Download Přehradní nádrže v Česku — 158 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 158 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_přehradních_nádrží_v_Česku"
+    ]
+  }
+}
