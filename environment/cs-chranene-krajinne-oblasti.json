@@ -1,0 +1,208 @@
+{
+  "id": "cs-chranene-krajinne-oblasti",
+  "name": "Chráněné krajinné oblasti v Česku",
+  "title": "Chráněné krajinné oblasti v Česku",
+  "description": "Seznam chráněných krajinných oblastí (CHKO) v Česku s kódem AOPK, datem vyhlášení a rozlohou.",
+  "category": "environment",
+  "source": "https://cs.wikipedia.org/wiki/Chráněné_krajinné_oblasti_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Chráněné_krajinné_oblasti_v_Česku",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "kod_aopk",
+      "label": "Kod Aopk",
+      "type": "number"
+    },
+    {
+      "key": "datum_vyhlaseni",
+      "label": "Datum Vyhlaseni",
+      "type": "string"
+    },
+    {
+      "key": "rozloha_km2",
+      "label": "Rozloha Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "CHKO Beskydy",
+      "kod_aopk": 82,
+      "datum_vyhlaseni": "30. března 1973",
+      "rozloha_km2": "1205.10"
+    },
+    {
+      "nazev": "CHKO Bílé Karpaty",
+      "kod_aopk": 71,
+      "datum_vyhlaseni": "18. února 1981",
+      "rozloha_km2": "746.88"
+    },
+    {
+      "nazev": "CHKO Blaník",
+      "kod_aopk": 21,
+      "datum_vyhlaseni": "1. ledna 1982",
+      "rozloha_km2": "40.29"
+    },
+    {
+      "nazev": "CHKO Blanský les",
+      "kod_aopk": 31,
+      "datum_vyhlaseni": "1. ledna 1990",
+      "rozloha_km2": "219.62"
+    },
+    {
+      "nazev": "CHKO Brdy",
+      "kod_aopk": 6018,
+      "datum_vyhlaseni": "1. ledna 2016",
+      "rozloha_km2": "345.01"
+    },
+    {
+      "nazev": "CHKO Broumovsko",
+      "kod_aopk": 62,
+      "datum_vyhlaseni": "1. května 1991",
+      "rozloha_km2": "432.33"
+    },
+    {
+      "nazev": "CHKO České středohoří",
+      "kod_aopk": 51,
+      "datum_vyhlaseni": "12. dubna 1976",
+      "rozloha_km2": "1068.92"
+    },
+    {
+      "nazev": "CHKO Český kras",
+      "kod_aopk": 22,
+      "datum_vyhlaseni": "19. září 1972",
+      "rozloha_km2": "132.26"
+    },
+    {
+      "nazev": "CHKO Český les",
+      "kod_aopk": 44,
+      "datum_vyhlaseni": "1. srpna 2005",
+      "rozloha_km2": "465.55"
+    },
+    {
+      "nazev": "CHKO Český ráj",
+      "kod_aopk": 63,
+      "datum_vyhlaseni": "1. března 1955",
+      "rozloha_km2": "181.70"
+    },
+    {
+      "nazev": "CHKO Jeseníky",
+      "kod_aopk": 83,
+      "datum_vyhlaseni": "25. července 1969",
+      "rozloha_km2": "743.67"
+    },
+    {
+      "nazev": "CHKO Jizerské hory",
+      "kod_aopk": 52,
+      "datum_vyhlaseni": "1. ledna 1968",
+      "rozloha_km2": "374.15"
+    },
+    {
+      "nazev": "CHKO Kokořínsko – Máchův kraj",
+      "kod_aopk": 23,
+      "datum_vyhlaseni": "12. dubna 1976",
+      "rozloha_km2": "410.37"
+    },
+    {
+      "nazev": "CHKO Křivoklátsko",
+      "kod_aopk": 24,
+      "datum_vyhlaseni": "23. ledna 1979",
+      "rozloha_km2": "624.97"
+    },
+    {
+      "nazev": "CHKO Labské pískovce",
+      "kod_aopk": 53,
+      "datum_vyhlaseni": "19. září 1972",
+      "rozloha_km2": "242.61"
+    },
+    {
+      "nazev": "CHKO Litovelské Pomoraví",
+      "kod_aopk": 84,
+      "datum_vyhlaseni": "15. listopadu 1990",
+      "rozloha_km2": "93.30"
+    },
+    {
+      "nazev": "CHKO Lužické hory",
+      "kod_aopk": 54,
+      "datum_vyhlaseni": "12. dubna 1976",
+      "rozloha_km2": "270.72"
+    },
+    {
+      "nazev": "CHKO Moravský kras",
+      "kod_aopk": 72,
+      "datum_vyhlaseni": "28. srpna 1956",
+      "rozloha_km2": "96.82"
+    },
+    {
+      "nazev": "CHKO Orlické hory",
+      "kod_aopk": 64,
+      "datum_vyhlaseni": "12. března 1970",
+      "rozloha_km2": "233.23"
+    },
+    {
+      "nazev": "CHKO Pálava",
+      "kod_aopk": 73,
+      "datum_vyhlaseni": "3. května 1976",
+      "rozloha_km2": "85.40"
+    },
+    {
+      "nazev": "CHKO Poodří",
+      "kod_aopk": 85,
+      "datum_vyhlaseni": "1. května 1991",
+      "rozloha_km2": "81.53"
+    },
+    {
+      "nazev": "CHKO Slavkovský les",
+      "kod_aopk": 41,
+      "datum_vyhlaseni": "21. června 1974",
+      "rozloha_km2": "611.09"
+    },
+    {
+      "nazev": "CHKO Soutok",
+      "kod_aopk": 6280,
+      "datum_vyhlaseni": "1. července 2025",
+      "rozloha_km2": "125.39"
+    },
+    {
+      "nazev": "CHKO Šumava",
+      "kod_aopk": 43,
+      "datum_vyhlaseni": "27. prosince 1963",
+      "rozloha_km2": "995.21"
+    },
+    {
+      "nazev": "CHKO Třeboňsko",
+      "kod_aopk": 32,
+      "datum_vyhlaseni": "14. března 1980",
+      "rozloha_km2": "687.45"
+    },
+    {
+      "nazev": "CHKO Žďárské vrchy",
+      "kod_aopk": 75,
+      "datum_vyhlaseni": "30. července 1970",
+      "rozloha_km2": "708.89"
+    },
+    {
+      "nazev": "CHKO Železné hory",
+      "kod_aopk": 65,
+      "datum_vyhlaseni": "1. května 1991",
+      "rozloha_km2": "284.73"
+    }
+  ],
+  "meta": {
+    "title": "Chráněné krajinné oblasti v Česku - Free Download",
+    "description": "Seznam chráněných krajinných oblastí (CHKO) v Česku s kódem AOPK, datem vyhlášení a rozlohou. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Chráněné krajinné oblasti v Česku | ListBase",
+    "seo_description": "Download Chráněné krajinné oblasti v Česku — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Chráněné_krajinné_oblasti_v_Česku"
+    ]
+  }
+}
