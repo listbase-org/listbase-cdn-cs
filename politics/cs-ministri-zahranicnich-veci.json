@@ -1,0 +1,268 @@
+{
+  "id": "cs-ministri-zahranicnich-veci",
+  "name": "Ministři zahraničních věcí České republiky",
+  "title": "Ministři zahraničních věcí České republiky",
+  "description": "Seznam ministrů zahraničních věcí ČR s funkčním obdobím, počtem dní v úřadu, stranou a vládou.",
+  "category": "politics",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zahraničních_věcí_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zahraničních_věcí_České_republiky",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny",
+      "label": "Dny",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "ministr": "Josef Zieleniec",
+      "nastup": "2. července 1992",
+      "odchod": "23. října 1997",
+      "dny": 1939,
+      "strana": "ODS",
+      "vlada": "Klaus I."
+    },
+    {
+      "poradi": 1,
+      "ministr": "Josef Zieleniec",
+      "nastup": "2. července 1992",
+      "odchod": "23. října 1997",
+      "dny": 1939,
+      "strana": "ODS",
+      "vlada": "Klaus II."
+    },
+    {
+      "poradi": 2,
+      "ministr": "Jaroslav Šedivý",
+      "nastup": "8. listopadu 1997",
+      "odchod": "22. července 1998",
+      "dny": 256,
+      "strana": "nestraník",
+      "vlada": "Klaus II."
+    },
+    {
+      "poradi": 2,
+      "ministr": "Jaroslav Šedivý",
+      "nastup": "8. listopadu 1997",
+      "odchod": "22. července 1998",
+      "dny": 256,
+      "strana": "nestraník",
+      "vlada": "Tošovský"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Jan Kavan",
+      "nastup": "22. července 1998",
+      "odchod": "15. července 2002",
+      "dny": 1454,
+      "strana": "ČSSD",
+      "vlada": "Zeman"
+    },
+    {
+      "poradi": 4,
+      "ministr": "Cyril Svoboda",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny": 1512,
+      "strana": "KDU-ČSL",
+      "vlada": "Špidla"
+    },
+    {
+      "poradi": 4,
+      "ministr": "Cyril Svoboda",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny": 1512,
+      "strana": "KDU-ČSL",
+      "vlada": "Gross"
+    },
+    {
+      "poradi": 4,
+      "ministr": "Cyril Svoboda",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "dny": 1512,
+      "strana": "KDU-ČSL",
+      "vlada": "Paroubek"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Alexandr Vondra",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007",
+      "dny": 127,
+      "strana": "nestraník za ODS",
+      "vlada": "Topolánek I."
+    },
+    {
+      "poradi": 5,
+      "ministr": "Alexandr Vondra",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007",
+      "dny": 127,
+      "strana": "ODS",
+      "vlada": "Topolánek I."
+    },
+    {
+      "poradi": 6,
+      "ministr": "Karel Schwarzenberg",
+      "nastup": "9. ledna 2007",
+      "odchod": "8. května 2009",
+      "dny": 850,
+      "strana": "nestraník za SZ",
+      "vlada": "Topolánek II."
+    },
+    {
+      "poradi": 7,
+      "ministr": "Jan Kohout",
+      "nastup": "8. května 2009",
+      "odchod": "3. července 2010",
+      "dny": 421,
+      "strana": "nestraník nom. ČSSD",
+      "vlada": "Fischer"
+    },
+    {
+      "poradi": 8,
+      "ministr": "Karel Schwarzenberg",
+      "nastup": "13. července 2010",
+      "odchod": "10. července 2013",
+      "dny": 1093,
+      "strana": "TOP 09",
+      "vlada": "Nečas"
+    },
+    {
+      "poradi": 9,
+      "ministr": "Jan Kohout",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "dny": 203,
+      "strana": "nestraník",
+      "vlada": "Rusnok"
+    },
+    {
+      "poradi": 10,
+      "ministr": "Lubomír Zaorálek",
+      "nastup": "29. ledna 2014",
+      "odchod": "13. prosince 2017",
+      "dny": 1414,
+      "strana": "ČSSD",
+      "vlada": "Sobotka"
+    },
+    {
+      "poradi": 11,
+      "ministr": "Martin Stropnický",
+      "nastup": "13. prosince 2017",
+      "odchod": "27. června 2018",
+      "dny": 196,
+      "strana": "ANO",
+      "vlada": "Babiš I."
+    },
+    {
+      "poradi": 12,
+      "ministr": "Jan Hamáček",
+      "nastup": "27. června 2018",
+      "odchod": "15. října 2018",
+      "dny": 110,
+      "strana": "ČSSD",
+      "vlada": "Babiš II."
+    },
+    {
+      "poradi": 13,
+      "ministr": "Tomáš Petříček",
+      "nastup": "16. října 2018",
+      "odchod": "12. dubna 2021",
+      "dny": 907,
+      "strana": "ČSSD",
+      "vlada": "Babiš II."
+    },
+    {
+      "poradi": 14,
+      "ministr": "Jan Hamáček",
+      "nastup": "12. dubna 2021",
+      "odchod": "21. dubna 2021",
+      "dny": 9,
+      "strana": "ČSSD",
+      "vlada": "Babiš II."
+    },
+    {
+      "poradi": 15,
+      "ministr": "Jakub Kulhánek",
+      "nastup": "21. dubna 2021",
+      "odchod": "17. prosince 2021",
+      "dny": 240,
+      "strana": "ČSSD",
+      "vlada": "Babiš II."
+    },
+    {
+      "poradi": 16,
+      "ministr": "Jan Lipavský",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "dny": 1459,
+      "strana": "Piráti (do 1. 10. 2024)",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 16,
+      "ministr": "Jan Lipavský",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "dny": 1459,
+      "strana": "nestraník (od 1. 10. 2024)",
+      "vlada": "Fiala"
+    },
+    {
+      "poradi": 17,
+      "ministr": "Petr Macinka",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny": 326,
+      "strana": "AUTO",
+      "vlada": "Babiš III."
+    }
+  ],
+  "meta": {
+    "title": "Ministři zahraničních věcí České republiky - Free Download",
+    "description": "Seznam ministrů zahraničních věcí ČR s funkčním obdobím, počtem dní v úřadu, stranou a vládou. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři zahraničních věcí České republiky | ListBase",
+    "seo_description": "Download Ministři zahraničních věcí České republiky — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_zahraničních_věcí_České_republiky"
+    ]
+  }
+}

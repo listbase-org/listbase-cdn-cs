@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-06T02:27:57.159Z",
-  "total_datasets": 541,
-  "total_records": 419454,
+  "generated": "2026-11-06T02:28:08.924Z",
+  "total_datasets": 542,
+  "total_records": 419477,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -8813,6 +8813,34 @@
         "xlsx": {
           "name": "cs-kamerove-body_CS.xlsx",
           "size": 41191
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-zahranicnich-veci",
+      "name": "Ministři zahraničních věcí České republiky",
+      "category": "politics",
+      "record_count": 23,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny",
+        "strana",
+        "vlada"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_zahraničních_věcí_České_republiky",
+      "updated": "2026-11",
+      "size": 6879,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-zahranicnich-veci_CS.csv",
+          "size": 2134
+        },
+        "xlsx": {
+          "name": "cs-ministri-zahranicnich-veci_CS.xlsx",
+          "size": 8028
         }
       }
     },
