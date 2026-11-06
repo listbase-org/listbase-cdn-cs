@@ -1,0 +1,148 @@
+{
+  "id": "cs-zoologicke-zahrady",
+  "name": "Zoologické zahrady v Česku",
+  "title": "Zoologické zahrady v Česku",
+  "description": "Seznam zoologických zahrad v Česku s rokem vzniku a rozlohou.",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_zoologických_zahrad_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_zoologických_zahrad_v_Česku",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vznik",
+      "label": "Vznik",
+      "type": "number"
+    },
+    {
+      "key": "rozloha_ha",
+      "label": "Rozloha Ha",
+      "type": "number"
+    },
+    {
+      "key": "rozloha_expo_ha",
+      "label": "Rozloha Expo Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "Praha",
+      "vznik": 1931,
+      "rozloha_ha": "58",
+      "rozloha_expo_ha": ""
+    },
+    {
+      "nazev": "Dvůr Králové",
+      "vznik": 1946,
+      "rozloha_ha": "71",
+      "rozloha_expo_ha": ""
+    },
+    {
+      "nazev": "Liberec",
+      "vznik": 1904,
+      "rozloha_ha": "14",
+      "rozloha_expo_ha": "13"
+    },
+    {
+      "nazev": "Ostrava",
+      "vznik": 1951,
+      "rozloha_ha": "100",
+      "rozloha_expo_ha": "60"
+    },
+    {
+      "nazev": "Plzeň",
+      "vznik": 1926,
+      "rozloha_ha": "49",
+      "rozloha_expo_ha": "21"
+    },
+    {
+      "nazev": "Zlín",
+      "vznik": 1948,
+      "rozloha_ha": "74",
+      "rozloha_expo_ha": ""
+    },
+    {
+      "nazev": "Ústí nad Labem",
+      "vznik": 1914,
+      "rozloha_ha": "26",
+      "rozloha_expo_ha": "24"
+    },
+    {
+      "nazev": "Olomouc",
+      "vznik": 1956,
+      "rozloha_ha": "42.5",
+      "rozloha_expo_ha": "23"
+    },
+    {
+      "nazev": "Hluboká (Ohrada)",
+      "vznik": 1939,
+      "rozloha_ha": "6",
+      "rozloha_expo_ha": "4.8"
+    },
+    {
+      "nazev": "Jihlava",
+      "vznik": 1957,
+      "rozloha_ha": "8.9",
+      "rozloha_expo_ha": "8.3"
+    },
+    {
+      "nazev": "Děčín",
+      "vznik": 1948,
+      "rozloha_ha": "6",
+      "rozloha_expo_ha": "5"
+    },
+    {
+      "nazev": "Brno",
+      "vznik": 1953,
+      "rozloha_ha": "41.3",
+      "rozloha_expo_ha": "25"
+    },
+    {
+      "nazev": "Hodonín",
+      "vznik": 1975,
+      "rozloha_ha": "8",
+      "rozloha_expo_ha": "5.7"
+    },
+    {
+      "nazev": "Vyškov",
+      "vznik": 1965,
+      "rozloha_ha": "9",
+      "rozloha_expo_ha": "4"
+    },
+    {
+      "nazev": "Chomutov",
+      "vznik": 1975,
+      "rozloha_ha": "112",
+      "rozloha_expo_ha": "112"
+    },
+    {
+      "nazev": "Chleby",
+      "vznik": 1997,
+      "rozloha_ha": "4.5",
+      "rozloha_expo_ha": "4.5"
+    },
+    {
+      "nazev": "Na Hrádečku",
+      "vznik": 2016,
+      "rozloha_ha": "12",
+      "rozloha_expo_ha": "7"
+    }
+  ],
+  "meta": {
+    "title": "Zoologické zahrady v Česku - Free Download",
+    "description": "Seznam zoologických zahrad v Česku s rokem vzniku a rozlohou. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Zoologické zahrady v Česku | ListBase",
+    "seo_description": "Download Zoologické zahrady v Česku — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_zoologických_zahrad_v_Česku"
+    ]
+  }
+}
