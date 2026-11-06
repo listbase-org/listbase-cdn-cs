@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-06T02:28:38.577Z",
-  "total_datasets": 545,
-  "total_records": 419556,
+  "generated": "2026-11-06T02:29:14.656Z",
+  "total_datasets": 546,
+  "total_records": 419594,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 21
+      "dataset_count": 22
     },
     {
       "id": "units",
@@ -15612,6 +15612,35 @@
         "xlsx": {
           "name": "cs-moravskoslezsky-vlakova-nadrazi_CS.xlsx",
           "size": 10634
+        }
+      }
+    },
+    {
+      "id": "cs-mosty-v-praze-pres-vltavu",
+      "name": "Mosty v Praze přes Vltavu",
+      "category": "transport",
+      "record_count": 38,
+      "columns": [
+        "funkcni",
+        "pres_celou_vltavu",
+        "nazev",
+        "vyuziti",
+        "poznamka",
+        "vlastnik",
+        "otevren",
+        "delka_m"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_mostů_v_Praze",
+      "updated": "2026-11",
+      "size": 11503,
+      "files": {
+        "csv": {
+          "name": "cs-mosty-v-praze-pres-vltavu_CS.csv",
+          "size": 3522
+        },
+        "xlsx": {
+          "name": "cs-mosty-v-praze-pres-vltavu_CS.xlsx",
+          "size": 9087
         }
       }
     },

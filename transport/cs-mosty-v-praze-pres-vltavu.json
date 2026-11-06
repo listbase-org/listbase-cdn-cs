@@ -1,0 +1,446 @@
+{
+  "id": "cs-mosty-v-praze-pres-vltavu",
+  "name": "Mosty v Praze přes Vltavu",
+  "title": "Mosty v Praze přes Vltavu",
+  "description": "Seznam mostů v Praze přes Vltavu s využitím, vlastníkem, rokem otevření a délkou.",
+  "category": "transport",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_mostů_v_Praze",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_mostů_v_Praze",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "funkcni",
+      "label": "Funkcni",
+      "type": "string"
+    },
+    {
+      "key": "pres_celou_vltavu",
+      "label": "Pres Celou Vltavu",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "vyuziti",
+      "label": "Vyuziti",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    },
+    {
+      "key": "vlastnik",
+      "label": "Vlastnik",
+      "type": "string"
+    },
+    {
+      "key": "otevren",
+      "label": "Otevren",
+      "type": "number"
+    },
+    {
+      "key": "delka_m",
+      "label": "Delka M",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Zbraslavský most",
+      "vyuziti": "",
+      "poznamka": "předchůdce mostu Závodu míru",
+      "vlastnik": "Zbraslav?",
+      "otevren": "1896",
+      "delka_m": 147
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Most Závodu míru",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1964",
+      "delka_m": 210
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Radotínský most",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "ŘSD",
+      "otevren": "2010",
+      "delka_m": 236
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Branický most (most Inteligence)",
+      "vyuziti": "železniční",
+      "poznamka": "",
+      "vlastnik": "Správa železnic",
+      "otevren": "1964",
+      "delka_m": 910
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Barrandovský most (most Antonína Zápotockého)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1983",
+      "delka_m": 352
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Dvorecký most",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "2026",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes levé rameno (přístav)",
+      "nazev": "Most na Císařskou louku",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK?",
+      "otevren": "1901",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes pravé rameno (přístav)",
+      "nazev": "Most na Veslařský ostrov",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK?",
+      "otevren": "1958",
+      "delka_m": 71
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Vyšehradský železniční most (most spojovací dráhy)",
+      "vyuziti": "železniční",
+      "poznamka": "",
+      "vlastnik": "Správa železnic",
+      "otevren": "1872",
+      "delka_m": 298.4
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Palackého most (Mozartův most)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1878",
+      "delka_m": 229
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Jiráskův most (Dienzenhoferův most)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1931",
+      "delka_m": 311
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes levé rameno (plavební kanál)",
+      "nazev": "Most na Dětský ostrov",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK?",
+      "otevren": "1941",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes pravé rameno (náhon)",
+      "nazev": "Most na Slovanský ostrov",
+      "vyuziti": "",
+      "poznamka": "dříve odstraněn",
+      "vlastnik": "TSK?",
+      "otevren": "1948",
+      "delka_m": 28
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Most císaře Františka I.",
+      "vyuziti": "",
+      "poznamka": "předchůdce mostu Legií",
+      "vlastnik": "",
+      "otevren": "1841",
+      "delka_m": 413
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Most Legií (Smetanův most, most 1. máje)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1901",
+      "delka_m": 343
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes levé rameno (náhon Čertovka)",
+      "nazev": "Mostky přes Čertovku",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK?",
+      "otevren": "",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes pravé rameno (náhon)",
+      "nazev": "Novotného lávka",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK?",
+      "otevren": "1400 (?)",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Karlův most (Kamenný most, Pražský most)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1402",
+      "delka_m": 515
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Juditin most",
+      "vyuziti": "",
+      "poznamka": "předchůdce Karlova mostu",
+      "vlastnik": "Křižovnický řád",
+      "otevren": "1172",
+      "delka_m": 514
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Mánesův most (most arcivévody Františka Ferdinanda d’Este, most Josefa Mánesa)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "",
+      "otevren": "1914",
+      "delka_m": 186
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Rudolfova lávka (Železná lávka)",
+      "vyuziti": "",
+      "poznamka": "předchůdce Mánesova mostu",
+      "vlastnik": "",
+      "otevren": "1869",
+      "delka_m": 192
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Čechův most (most Svatopluka Čecha, Mendelův most)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1908",
+      "delka_m": 169
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Most císaře Františka Josefa I. (Eliščin most, Janáčkův most, Švermův most)",
+      "vyuziti": "",
+      "poznamka": "předchůdce Štefánikova mostu",
+      "vlastnik": "",
+      "otevren": "1868",
+      "delka_m": 238
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Štefánikův most (Švermův most)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1951",
+      "delka_m": 263
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Hlávkův most (most přes Štvanici)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1911",
+      "delka_m": 296
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "NE – přes zasypané pravé rameno",
+      "nazev": "Železniční most na Rohanský ostrov",
+      "vyuziti": "železniční",
+      "poznamka": "",
+      "vlastnik": "",
+      "otevren": "1875 (rameno zasypáno)",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Negrelliho viadukt (Karlínský viadukt)",
+      "vyuziti": "železniční",
+      "poznamka": "",
+      "vlastnik": "Správa železnic",
+      "otevren": "1849",
+      "delka_m": 1110
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Štvanická lávka",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "2023",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Most z Holešovic do Libně",
+      "vyuziti": "",
+      "poznamka": "dřevěný",
+      "vlastnik": "",
+      "otevren": "1903",
+      "delka_m": ""
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Libeňský most (Baxův most, Stalingradský most)",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1928",
+      "delka_m": 780
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Holešovický železniční most",
+      "vyuziti": "železniční",
+      "poznamka": "",
+      "vlastnik": "Správa železnic",
+      "otevren": "1976",
+      "delka_m": 388
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Trojský most (Most Barikádníků)",
+      "vyuziti": "",
+      "poznamka": "předchůdce dnešního Mostu Barikádníků",
+      "vlastnik": "",
+      "otevren": "1928",
+      "delka_m": 221
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Most Barikádníků",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1980",
+      "delka_m": 221
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Trojský most",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "2014",
+      "delka_m": 246
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "ANO",
+      "nazev": "Trojský tramvajový most (Rámusák)",
+      "vyuziti": "",
+      "poznamka": "provizorní",
+      "vlastnik": "DPP?",
+      "otevren": "1982",
+      "delka_m": 250
+    },
+    {
+      "funkcni": "NE",
+      "pres_celou_vltavu": "NE",
+      "nazev": "Stará Trojská lávka",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "1984",
+      "delka_m": 256
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes pravé rameno (hlavní tok)",
+      "nazev": "Trojská lávka",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK",
+      "otevren": "2020",
+      "delka_m": 253
+    },
+    {
+      "funkcni": "ANO",
+      "pres_celou_vltavu": "NE – přes levé rameno (plavební kanál)",
+      "nazev": "Mosty na Císařský ostrov",
+      "vyuziti": "",
+      "poznamka": "",
+      "vlastnik": "TSK, PVS?",
+      "otevren": "",
+      "delka_m": ""
+    }
+  ],
+  "meta": {
+    "title": "Mosty v Praze přes Vltavu - Free Download",
+    "description": "Seznam mostů v Praze přes Vltavu s využitím, vlastníkem, rokem otevření a délkou. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mosty v Praze přes Vltavu | ListBase",
+    "seo_description": "Download Mosty v Praze přes Vltavu — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_mostů_v_Praze"
+    ]
+  }
+}
