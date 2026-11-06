@@ -1,0 +1,416 @@
+{
+  "id": "cs-ministri-kultury",
+  "name": "Ministři kultury České republiky",
+  "title": "Ministři kultury České republiky",
+  "description": "Seznam ministrů kultury ČR a ČSSR s funkčním obdobím, stranou a vládou.",
+  "category": "culture",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_kultury_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_kultury_České_republiky",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny",
+      "label": "Dny",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "ministr": "Miroslav Galuška",
+      "nastup": "8. ledna 1969",
+      "odchod": "10. července 1969",
+      "dny": 183,
+      "strana": "KSČ",
+      "vlada": "Rázl",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 2,
+      "ministr": "Miloslav Brůžek",
+      "nastup": "10. července 1969",
+      "odchod": "8. května 1973",
+      "dny": 1398,
+      "strana": "KSČ",
+      "vlada": "Rázl",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 2,
+      "ministr": "Miloslav Brůžek",
+      "nastup": "10. července 1969",
+      "odchod": "8. května 1973",
+      "dny": 1398,
+      "strana": "KSČ",
+      "vlada": "Kempný a Korčák",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Milan Klusák",
+      "nastup": "8. května 1973",
+      "odchod": "21. dubna 1988",
+      "dny": 5462,
+      "strana": "KSČ",
+      "vlada": "Korčák II.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Milan Klusák",
+      "nastup": "8. května 1973",
+      "odchod": "21. dubna 1988",
+      "dny": 5462,
+      "strana": "KSČ",
+      "vlada": "Korčák III.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Milan Klusák",
+      "nastup": "8. května 1973",
+      "odchod": "21. dubna 1988",
+      "dny": 5462,
+      "strana": "KSČ",
+      "vlada": "Korčák IV.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Milan Klusák",
+      "nastup": "8. května 1973",
+      "odchod": "21. dubna 1988",
+      "dny": 5462,
+      "strana": "KSČ",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 4,
+      "ministr": "Milan Kymlička",
+      "nastup": "21. dubna 1988",
+      "odchod": "5. prosince 1989",
+      "dny": 593,
+      "strana": "KSČ",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Milan Lukeš",
+      "nastup": "5. prosince 1989",
+      "odchod": "29. června 1990",
+      "dny": 206,
+      "strana": "KSČ",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 6,
+      "ministr": "Milan Uhde",
+      "nastup": "29. června 1990",
+      "odchod": "2. července 1992",
+      "dny": 734,
+      "strana": "OF",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 6,
+      "ministr": "Milan Uhde",
+      "nastup": "29. června 1990",
+      "odchod": "2. července 1992",
+      "dny": 734,
+      "strana": "ODS",
+      "vlada": "Pithart",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 7,
+      "ministr": "Jindřich Kabát",
+      "nastup": "2. července 1992",
+      "odchod": "31. prosince 1992",
+      "dny": 182,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci československé federace"
+    },
+    {
+      "poradi": 1,
+      "ministr": "Jindřich Kabát",
+      "nastup": "1. ledna 1993",
+      "odchod": "17. ledna 1994",
+      "dny": 381,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 2,
+      "ministr": "Pavel Tigrid",
+      "nastup": "19. ledna 1994",
+      "odchod": "4. července 1996",
+      "dny": 897,
+      "strana": "nestraník za KDU-ČSL",
+      "vlada": "Klaus I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 3,
+      "ministr": "Jaromír Talíř",
+      "nastup": "4. července 1996",
+      "odchod": "2. ledna 1998",
+      "dny": 547,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 4,
+      "ministr": "Martin Stropnický",
+      "nastup": "2. ledna 1998",
+      "odchod": "22. července 1998",
+      "dny": 201,
+      "strana": "nestraník",
+      "vlada": "Tošovský",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Pavel Dostál",
+      "nastup": "22. července 1998",
+      "odchod": "24. července 2005",
+      "dny": 2559,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Pavel Dostál",
+      "nastup": "22. července 1998",
+      "odchod": "24. července 2005",
+      "dny": 2559,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Pavel Dostál",
+      "nastup": "22. července 1998",
+      "odchod": "24. července 2005",
+      "dny": 2559,
+      "strana": "ČSSD",
+      "vlada": "Gross",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 5,
+      "ministr": "Pavel Dostál",
+      "nastup": "22. července 1998",
+      "odchod": "24. července 2005",
+      "dny": 2559,
+      "strana": "ČSSD",
+      "vlada": "Paroubek",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 6,
+      "ministr": "Vítězslav Jandák",
+      "nastup": "17. srpna 2005",
+      "odchod": "4. září 2006 (od 16. srpna vláda v demisi)",
+      "dny": 383,
+      "strana": "ČSSD",
+      "vlada": "Paroubek",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 7,
+      "ministr": "Martin Štěpánek",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007 (od 11. října vláda v demisi)",
+      "dny": 127,
+      "strana": "nestraník za ODS",
+      "vlada": "Topolánek I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 8,
+      "ministr": "Helena Třeštíková",
+      "nastup": "9. ledna 2007",
+      "odchod": "26. ledna 2007",
+      "dny": 17,
+      "strana": "nestranička za KDU-ČSL",
+      "vlada": "Topolánek II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 9,
+      "ministr": "Václav Jehlička",
+      "nastup": "26. ledna 2007",
+      "odchod": "8. května 2009",
+      "dny": 833,
+      "strana": "KDU-ČSL",
+      "vlada": "Topolánek II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 10,
+      "ministr": "Václav Riedlbauch",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "dny": 431,
+      "strana": "nestraník nom. ČSSD",
+      "vlada": "Fischer",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 11,
+      "ministr": "Jiří Besser",
+      "nastup": "13. července 2010",
+      "odchod": "16. prosince 2011",
+      "dny": 521,
+      "strana": "navržen TOP 09",
+      "vlada": "Nečas",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 12,
+      "ministr": "Alena Hanáková",
+      "nastup": "20. prosince 2011",
+      "odchod": "10. července 2013",
+      "dny": 568,
+      "strana": "navržena TOP 09",
+      "vlada": "Nečas",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 13,
+      "ministr": "Jiří Balvín",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "dny": 203,
+      "strana": "nestraník",
+      "vlada": "Rusnok",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 14,
+      "ministr": "Daniel Herman",
+      "nastup": "29. ledna 2014",
+      "odchod": "13. prosince 2017",
+      "dny": 1414,
+      "strana": "KDU-ČSL",
+      "vlada": "Sobotka",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 15,
+      "ministr": "Ilja Šmíd",
+      "nastup": "13. prosince 2017",
+      "odchod": "27. června 2018",
+      "dny": 196,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš I.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 16,
+      "ministr": "Antonín Staněk",
+      "nastup": "27. června 2018",
+      "odchod": "31. července 2019",
+      "dny": 399,
+      "strana": "ČSSD",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": "",
+      "ministr": "Funkce neobsazena",
+      "nastup": "1. srpna 2019",
+      "odchod": "26. srpna 2019",
+      "dny": "",
+      "strana": "",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 17,
+      "ministr": "Lubomír Zaorálek",
+      "nastup": "27. srpna 2019",
+      "odchod": "17. prosince 2021",
+      "dny": 843,
+      "strana": "ČSSD",
+      "vlada": "Babiš II.",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 18,
+      "ministr": "Martin Baxa",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "dny": 1459,
+      "strana": "ODS",
+      "vlada": "Fiala",
+      "obdobi": "V rámci samostatné republiky"
+    },
+    {
+      "poradi": 19,
+      "ministr": "Oto Klempíř",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny": 326,
+      "strana": "nestr. za AUTO",
+      "vlada": "Babiš III.",
+      "obdobi": "V rámci samostatné republiky"
+    }
+  ],
+  "meta": {
+    "title": "Ministři kultury České republiky - Free Download",
+    "description": "Seznam ministrů kultury ČR a ČSSR s funkčním obdobím, stranou a vládou. Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři kultury České republiky | ListBase",
+    "seo_description": "Download Ministři kultury České republiky — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_kultury_České_republiky"
+    ]
+  }
+}

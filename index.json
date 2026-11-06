@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-06T02:28:08.924Z",
-  "total_datasets": 542,
-  "total_records": 419477,
+  "generated": "2026-11-06T02:28:19.259Z",
+  "total_datasets": 543,
+  "total_records": 419512,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "economy",
@@ -1021,6 +1021,35 @@
         "xlsx": {
           "name": "cs-kostely_CS.xlsx",
           "size": 2694425
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-kultury",
+      "name": "Ministři kultury České republiky",
+      "category": "culture",
+      "record_count": 35,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_kultury_České_republiky",
+      "updated": "2026-11",
+      "size": 11242,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-kultury_CS.csv",
+          "size": 4518
+        },
+        "xlsx": {
+          "name": "cs-ministri-kultury_CS.xlsx",
+          "size": 8920
         }
       }
     },
