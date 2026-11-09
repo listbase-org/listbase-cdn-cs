@@ -1,0 +1,2795 @@
+{
+  "id": "cs-obce-s-nejnizsim-poctem-obyvatel",
+  "name": "Obce v Česku s nejnižším počtem obyvatel",
+  "title": "Obce v Česku s nejnižším počtem obyvatel",
+  "description": "Nejmenší obce v Česku podle počtu obyvatel, s okresem a krajem.",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_obcí_v_Česku_s_nejnižším_počtem_obyvatel",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_obcí_v_Česku_s_nejnižším_počtem_obyvatel",
+  "updated": "2026-11",
+  "record_count": 392,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "obec",
+      "label": "Obec",
+      "type": "string"
+    },
+    {
+      "key": "pocet_obyvatel",
+      "label": "Pocet Obyvatel",
+      "type": "number"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "obec": "Vysoká Lhota",
+      "pocet_obyvatel": 16,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 2,
+      "obec": "Čilá",
+      "pocet_obyvatel": 20,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 3,
+      "obec": "Bludov",
+      "pocet_obyvatel": 25,
+      "okres": "okres Kutná Hora",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 4,
+      "obec": "Minice",
+      "pocet_obyvatel": 28,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 5,
+      "obec": "Čejkovice",
+      "pocet_obyvatel": 28,
+      "okres": "okres Kutná Hora",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 6,
+      "obec": "Kaničky",
+      "pocet_obyvatel": 31,
+      "okres": "okres Domažlice",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 7,
+      "obec": "Spělkov",
+      "pocet_obyvatel": 33,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 8,
+      "obec": "Hradiště",
+      "pocet_obyvatel": 35,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 9,
+      "obec": "Staňkovice",
+      "pocet_obyvatel": 35,
+      "okres": "okres Litoměřice",
+      "kraj": "Ústecký kraj"
+    },
+    {
+      "poradi": 10,
+      "obec": "Zadní Střítež",
+      "pocet_obyvatel": 36,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 11,
+      "obec": "Studená",
+      "pocet_obyvatel": 37,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 12,
+      "obec": "Vanůvek",
+      "pocet_obyvatel": 37,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 13,
+      "obec": "Zblovice",
+      "pocet_obyvatel": 37,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 14,
+      "obec": "Ústup",
+      "pocet_obyvatel": 37,
+      "okres": "okres Blansko",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 15,
+      "obec": "Hvožďany",
+      "pocet_obyvatel": 38,
+      "okres": "okres Domažlice",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 16,
+      "obec": "Kostelec",
+      "pocet_obyvatel": 38,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 17,
+      "obec": "Šléglov",
+      "pocet_obyvatel": 38,
+      "okres": "okres Šumperk",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 18,
+      "obec": "Chlum-Korouhvice",
+      "pocet_obyvatel": 39,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 19,
+      "obec": "Chobot",
+      "pocet_obyvatel": 39,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 20,
+      "obec": "Vysoká",
+      "pocet_obyvatel": 39,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 21,
+      "obec": "Těchařovice",
+      "pocet_obyvatel": 40,
+      "okres": "okres Příbram",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 22,
+      "obec": "Vápovice",
+      "pocet_obyvatel": 40,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 23,
+      "obec": "Hostějov",
+      "pocet_obyvatel": 41,
+      "okres": "okres Uherské Hradiště",
+      "kraj": "Zlínský kraj"
+    },
+    {
+      "poradi": 24,
+      "obec": "Želivsko",
+      "pocet_obyvatel": 41,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 25,
+      "obec": "Bohunice",
+      "pocet_obyvatel": 44,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 26,
+      "obec": "Jankov",
+      "pocet_obyvatel": 44,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 27,
+      "obec": "Kratušín",
+      "pocet_obyvatel": 44,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 28,
+      "obec": "Bradáčov",
+      "pocet_obyvatel": 45,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 29,
+      "obec": "Chýstovice",
+      "pocet_obyvatel": 45,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 30,
+      "obec": "Dobrohošť",
+      "pocet_obyvatel": 45,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 31,
+      "obec": "Lhota u Olešnice",
+      "pocet_obyvatel": 45,
+      "okres": "okres Blansko",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 32,
+      "obec": "Lužice",
+      "pocet_obyvatel": 45,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 33,
+      "obec": "Mutkov",
+      "pocet_obyvatel": 45,
+      "okres": "okres Olomouc",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 34,
+      "obec": "Podhradí nad Dyjí",
+      "pocet_obyvatel": 45,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 35,
+      "obec": "Zlátenka",
+      "pocet_obyvatel": 45,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 36,
+      "obec": "Hradiště",
+      "pocet_obyvatel": 46,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 37,
+      "obec": "Hájek",
+      "pocet_obyvatel": 46,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 38,
+      "obec": "Radějovice",
+      "pocet_obyvatel": 46,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 39,
+      "obec": "Rosička",
+      "pocet_obyvatel": 46,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 40,
+      "obec": "Sloupno",
+      "pocet_obyvatel": 46,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 41,
+      "obec": "Kuřimany",
+      "pocet_obyvatel": 47,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 42,
+      "obec": "Maňovice",
+      "pocet_obyvatel": 47,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 43,
+      "obec": "Račice",
+      "pocet_obyvatel": 48,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 44,
+      "obec": "Svojkovice",
+      "pocet_obyvatel": 48,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 45,
+      "obec": "Všepadly",
+      "pocet_obyvatel": 48,
+      "okres": "okres Domažlice",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 46,
+      "obec": "Chleby",
+      "pocet_obyvatel": 49,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 47,
+      "obec": "Líšná",
+      "pocet_obyvatel": 49,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 48,
+      "obec": "Polánka",
+      "pocet_obyvatel": 49,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 49,
+      "obec": "Slověnice",
+      "pocet_obyvatel": 49,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 50,
+      "obec": "Vlkov",
+      "pocet_obyvatel": 49,
+      "okres": "okres České Budějovice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 51,
+      "obec": "Županovice",
+      "pocet_obyvatel": 49,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 52,
+      "obec": "Chlum",
+      "pocet_obyvatel": 50,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 53,
+      "obec": "Milasín",
+      "pocet_obyvatel": 50,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 54,
+      "obec": "Moravecké Pavlovice",
+      "pocet_obyvatel": 50,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 55,
+      "obec": "Vlkanov",
+      "pocet_obyvatel": 50,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 56,
+      "obec": "Důl",
+      "pocet_obyvatel": 51,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 57,
+      "obec": "Makov",
+      "pocet_obyvatel": 51,
+      "okres": "okres Blansko",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 58,
+      "obec": "Měkynec",
+      "pocet_obyvatel": 51,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 59,
+      "obec": "Petrovičky",
+      "pocet_obyvatel": 51,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 60,
+      "obec": "Rovná",
+      "pocet_obyvatel": 51,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 61,
+      "obec": "Svrabov",
+      "pocet_obyvatel": 51,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 62,
+      "obec": "Vlčetínec",
+      "pocet_obyvatel": 51,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 63,
+      "obec": "Zahorčice",
+      "pocet_obyvatel": 51,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 64,
+      "obec": "Štítov",
+      "pocet_obyvatel": 51,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 65,
+      "obec": "Kožlí",
+      "pocet_obyvatel": 52,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 66,
+      "obec": "Kyjov",
+      "pocet_obyvatel": 52,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 67,
+      "obec": "Lubné",
+      "pocet_obyvatel": 52,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 68,
+      "obec": "Martinice u Onšova",
+      "pocet_obyvatel": 52,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 69,
+      "obec": "Vacovice",
+      "pocet_obyvatel": 52,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 70,
+      "obec": "Budyně",
+      "pocet_obyvatel": 53,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 71,
+      "obec": "Domoraz",
+      "pocet_obyvatel": 53,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 72,
+      "obec": "Hadravova Rosička",
+      "pocet_obyvatel": 53,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 73,
+      "obec": "Janoušov",
+      "pocet_obyvatel": 53,
+      "okres": "okres Šumperk",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 74,
+      "obec": "Úhořilka",
+      "pocet_obyvatel": 53,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 75,
+      "obec": "Dolní Lochov",
+      "pocet_obyvatel": 54,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 76,
+      "obec": "Hartinkov",
+      "pocet_obyvatel": 54,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 77,
+      "obec": "Horní Smrčné",
+      "pocet_obyvatel": 54,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 78,
+      "obec": "Jiřice u Moravských Budějovic",
+      "pocet_obyvatel": 54,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 79,
+      "obec": "Kařízek",
+      "pocet_obyvatel": 54,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 80,
+      "obec": "Mlýnské Struhadlo",
+      "pocet_obyvatel": 54,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 81,
+      "obec": "Strýčice",
+      "pocet_obyvatel": 54,
+      "okres": "okres České Budějovice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 82,
+      "obec": "Týniště",
+      "pocet_obyvatel": 54,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 83,
+      "obec": "Lažany",
+      "pocet_obyvatel": 55,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 84,
+      "obec": "Drunče",
+      "pocet_obyvatel": 56,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 85,
+      "obec": "Heřmanice",
+      "pocet_obyvatel": 56,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 86,
+      "obec": "Velká Chmelištná",
+      "pocet_obyvatel": 56,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 87,
+      "obec": "Zvotoky",
+      "pocet_obyvatel": 56,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 88,
+      "obec": "Bělá",
+      "pocet_obyvatel": 57,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 89,
+      "obec": "Nimpšov",
+      "pocet_obyvatel": 57,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 90,
+      "obec": "Všehrdy",
+      "pocet_obyvatel": 57,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 91,
+      "obec": "Xaverov",
+      "pocet_obyvatel": 57,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 92,
+      "obec": "Bolkov",
+      "pocet_obyvatel": 58,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 93,
+      "obec": "Košice",
+      "pocet_obyvatel": 58,
+      "okres": "okres Kutná Hora",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 94,
+      "obec": "Louka",
+      "pocet_obyvatel": 58,
+      "okres": "okres Blansko",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 95,
+      "obec": "Lubnice",
+      "pocet_obyvatel": 58,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 96,
+      "obec": "Nestrašovice",
+      "pocet_obyvatel": 58,
+      "okres": "okres Příbram",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 97,
+      "obec": "Pohnánec",
+      "pocet_obyvatel": 58,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 98,
+      "obec": "Proruby",
+      "pocet_obyvatel": 58,
+      "okres": "okres Rychnov nad Kněžnou",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 99,
+      "obec": "Sedlatice",
+      "pocet_obyvatel": 58,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 100,
+      "obec": "Stanovice",
+      "pocet_obyvatel": 58,
+      "okres": "okres Trutnov",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 101,
+      "obec": "Řídký",
+      "pocet_obyvatel": 58,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 102,
+      "obec": "Životice",
+      "pocet_obyvatel": 58,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 103,
+      "obec": "Holotín",
+      "pocet_obyvatel": 59,
+      "okres": "okres Pardubice",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 104,
+      "obec": "Holovousy",
+      "pocet_obyvatel": 59,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 105,
+      "obec": "Syrov",
+      "pocet_obyvatel": 59,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 106,
+      "obec": "Lány",
+      "pocet_obyvatel": 60,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 107,
+      "obec": "Olšovice",
+      "pocet_obyvatel": 60,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 108,
+      "obec": "Rabakov",
+      "pocet_obyvatel": 60,
+      "okres": "okres Mladá Boleslav",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 109,
+      "obec": "Řikonín",
+      "pocet_obyvatel": 60,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 110,
+      "obec": "Nový Jimramov",
+      "pocet_obyvatel": 61,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 111,
+      "obec": "Zadní Vydří",
+      "pocet_obyvatel": 61,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 112,
+      "obec": "Zdeňkov",
+      "pocet_obyvatel": 61,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 113,
+      "obec": "Čenkov u Bechyně",
+      "pocet_obyvatel": 61,
+      "okres": "okres České Budějovice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 114,
+      "obec": "Děkanovice",
+      "pocet_obyvatel": 62,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 115,
+      "obec": "Janůvky",
+      "pocet_obyvatel": 62,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 116,
+      "obec": "Radimovice u Tábora",
+      "pocet_obyvatel": 62,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 117,
+      "obec": "Vrbice",
+      "pocet_obyvatel": 62,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 118,
+      "obec": "Dolní Těšice",
+      "pocet_obyvatel": 63,
+      "okres": "okres Přerov",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 119,
+      "obec": "Lesná",
+      "pocet_obyvatel": 63,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 120,
+      "obec": "Lovčovice",
+      "pocet_obyvatel": 63,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 121,
+      "obec": "Pustina",
+      "pocet_obyvatel": 63,
+      "okres": "okres Ústí nad Orlicí",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 122,
+      "obec": "Rosička",
+      "pocet_obyvatel": 63,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 123,
+      "obec": "Václavy",
+      "pocet_obyvatel": 63,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 124,
+      "obec": "Blažim",
+      "pocet_obyvatel": 64,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 125,
+      "obec": "Březí",
+      "pocet_obyvatel": 64,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 126,
+      "obec": "Choratice",
+      "pocet_obyvatel": 64,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 127,
+      "obec": "Dílce",
+      "pocet_obyvatel": 64,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 128,
+      "obec": "Slatina",
+      "pocet_obyvatel": 64,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 129,
+      "obec": "Střítež pod Křemešníkem",
+      "pocet_obyvatel": 64,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 130,
+      "obec": "Vrážné",
+      "pocet_obyvatel": 64,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 131,
+      "obec": "Vísky",
+      "pocet_obyvatel": 64,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 132,
+      "obec": "Útěchovice",
+      "pocet_obyvatel": 64,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 133,
+      "obec": "Eš",
+      "pocet_obyvatel": 65,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 134,
+      "obec": "Hora Svatého Václava",
+      "pocet_obyvatel": 65,
+      "okres": "okres Domažlice",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 135,
+      "obec": "Kunčina Ves",
+      "pocet_obyvatel": 65,
+      "okres": "okres Blansko",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 136,
+      "obec": "Slavníč",
+      "pocet_obyvatel": 65,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 137,
+      "obec": "Urbanice",
+      "pocet_obyvatel": 65,
+      "okres": "okres Pardubice",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 138,
+      "obec": "Velečín",
+      "pocet_obyvatel": 65,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 139,
+      "obec": "Závraty",
+      "pocet_obyvatel": 65,
+      "okres": "okres České Budějovice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 140,
+      "obec": "Únice",
+      "pocet_obyvatel": 65,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 141,
+      "obec": "Dunice",
+      "pocet_obyvatel": 66,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 142,
+      "obec": "Dívčí Kopy",
+      "pocet_obyvatel": 66,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 143,
+      "obec": "Nová Pláň",
+      "pocet_obyvatel": 66,
+      "okres": "okres Bruntál",
+      "kraj": "Moravskoslezský kraj"
+    },
+    {
+      "poradi": 144,
+      "obec": "Nová Ves u Jarošova",
+      "pocet_obyvatel": 66,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 145,
+      "obec": "Zábrdí",
+      "pocet_obyvatel": 66,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 146,
+      "obec": "Hornice",
+      "pocet_obyvatel": 67,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 147,
+      "obec": "Hornosín",
+      "pocet_obyvatel": 67,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 148,
+      "obec": "Horní Paseka",
+      "pocet_obyvatel": 67,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 149,
+      "obec": "Okrouhlá",
+      "pocet_obyvatel": 67,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 150,
+      "obec": "Popůvky",
+      "pocet_obyvatel": 67,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 151,
+      "obec": "Třešovice",
+      "pocet_obyvatel": 67,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 152,
+      "obec": "Vevčice",
+      "pocet_obyvatel": 67,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 153,
+      "obec": "Zálesná Zhoř",
+      "pocet_obyvatel": 67,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 154,
+      "obec": "Dolní Hradiště",
+      "pocet_obyvatel": 68,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 155,
+      "obec": "Horská Kvilda",
+      "pocet_obyvatel": 68,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 156,
+      "obec": "Lhotka",
+      "pocet_obyvatel": 68,
+      "okres": "okres Přerov",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 157,
+      "obec": "Libchyně",
+      "pocet_obyvatel": 68,
+      "okres": "okres Náchod",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 158,
+      "obec": "Milejovice",
+      "pocet_obyvatel": 68,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 159,
+      "obec": "Oslnovice",
+      "pocet_obyvatel": 68,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 160,
+      "obec": "Volevčice",
+      "pocet_obyvatel": 68,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 161,
+      "obec": "Bdín",
+      "pocet_obyvatel": 69,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 162,
+      "obec": "Ježov",
+      "pocet_obyvatel": 69,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 163,
+      "obec": "Katov",
+      "pocet_obyvatel": 69,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 164,
+      "obec": "Krakovec",
+      "pocet_obyvatel": 69,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 165,
+      "obec": "Mezihoří",
+      "pocet_obyvatel": 69,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 166,
+      "obec": "Záhoří",
+      "pocet_obyvatel": 69,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 167,
+      "obec": "Újezdec",
+      "pocet_obyvatel": 69,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 168,
+      "obec": "Útěchovičky",
+      "pocet_obyvatel": 69,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 169,
+      "obec": "Bukovník",
+      "pocet_obyvatel": 70,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 170,
+      "obec": "Přebuz",
+      "pocet_obyvatel": 70,
+      "okres": "okres Sokolov",
+      "kraj": "Karlovarský kraj"
+    },
+    {
+      "poradi": 171,
+      "obec": "Třebějice",
+      "pocet_obyvatel": 70,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 172,
+      "obec": "Nový Dvůr",
+      "pocet_obyvatel": 71,
+      "okres": "okres Nymburk",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 173,
+      "obec": "Ostrov",
+      "pocet_obyvatel": 71,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 174,
+      "obec": "Pastuchovice",
+      "pocet_obyvatel": 71,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 175,
+      "obec": "Pšánky",
+      "pocet_obyvatel": 71,
+      "okres": "okres Hradec Králové",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 176,
+      "obec": "Vikantice",
+      "pocet_obyvatel": 71,
+      "okres": "okres Šumperk",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 177,
+      "obec": "Vícemil",
+      "pocet_obyvatel": 71,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 178,
+      "obec": "Krejnice",
+      "pocet_obyvatel": 72,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 179,
+      "obec": "Plchovice",
+      "pocet_obyvatel": 72,
+      "okres": "okres Ústí nad Orlicí",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 180,
+      "obec": "Skryje",
+      "pocet_obyvatel": 72,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 181,
+      "obec": "Šetějovice",
+      "pocet_obyvatel": 72,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 182,
+      "obec": "Klatovec",
+      "pocet_obyvatel": 73,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 183,
+      "obec": "Kluky",
+      "pocet_obyvatel": 73,
+      "okres": "okres Mladá Boleslav",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 184,
+      "obec": "Proseč",
+      "pocet_obyvatel": 73,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 185,
+      "obec": "Doňov",
+      "pocet_obyvatel": 74,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 186,
+      "obec": "Haškovcova Lhota",
+      "pocet_obyvatel": 74,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 187,
+      "obec": "Mohelnice",
+      "pocet_obyvatel": 74,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 188,
+      "obec": "Nelepeč-Žernůvka",
+      "pocet_obyvatel": 74,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 189,
+      "obec": "Pohleď",
+      "pocet_obyvatel": 74,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 190,
+      "obec": "Těchobuz",
+      "pocet_obyvatel": 74,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 191,
+      "obec": "Chlístov",
+      "pocet_obyvatel": 75,
+      "okres": "okres Rychnov nad Kněžnou",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 192,
+      "obec": "Jedlany",
+      "pocet_obyvatel": 75,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 193,
+      "obec": "Litichovice",
+      "pocet_obyvatel": 75,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 194,
+      "obec": "Zhoř",
+      "pocet_obyvatel": 75,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 195,
+      "obec": "Biskupice",
+      "pocet_obyvatel": 76,
+      "okres": "okres Chrudim",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 196,
+      "obec": "Boňkov",
+      "pocet_obyvatel": 76,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 197,
+      "obec": "Bratronice",
+      "pocet_obyvatel": 76,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 198,
+      "obec": "Brodeslavy",
+      "pocet_obyvatel": 76,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 199,
+      "obec": "Olší",
+      "pocet_obyvatel": 76,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 200,
+      "obec": "Ostřetice",
+      "pocet_obyvatel": 76,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 201,
+      "obec": "Ořechov",
+      "pocet_obyvatel": 76,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 202,
+      "obec": "Probulov",
+      "pocet_obyvatel": 76,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 203,
+      "obec": "Přeckov",
+      "pocet_obyvatel": 76,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 204,
+      "obec": "Rybníček",
+      "pocet_obyvatel": 76,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 205,
+      "obec": "Vodranty",
+      "pocet_obyvatel": 76,
+      "okres": "okres Kutná Hora",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 206,
+      "obec": "Horní Vilémovice",
+      "pocet_obyvatel": 77,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 207,
+      "obec": "Neveklovice",
+      "pocet_obyvatel": 77,
+      "okres": "okres Mladá Boleslav",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 208,
+      "obec": "Onšov",
+      "pocet_obyvatel": 77,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 209,
+      "obec": "Pohorovice",
+      "pocet_obyvatel": 77,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 210,
+      "obec": "Skály",
+      "pocet_obyvatel": 77,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 211,
+      "obec": "Srbce",
+      "pocet_obyvatel": 77,
+      "okres": "okres Prostějov",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 212,
+      "obec": "Drahouš",
+      "pocet_obyvatel": 78,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 213,
+      "obec": "Kamenný Malíkov",
+      "pocet_obyvatel": 78,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 214,
+      "obec": "Kunkovice",
+      "pocet_obyvatel": 78,
+      "okres": "okres Kroměříž",
+      "kraj": "Zlínský kraj"
+    },
+    {
+      "poradi": 215,
+      "obec": "Močerady",
+      "pocet_obyvatel": 78,
+      "okres": "okres Domažlice",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 216,
+      "obec": "Sebečice",
+      "pocet_obyvatel": 78,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 217,
+      "obec": "Tasovice",
+      "pocet_obyvatel": 78,
+      "okres": "okres Blansko",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 218,
+      "obec": "Švihov",
+      "pocet_obyvatel": 78,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 219,
+      "obec": "Bečice",
+      "pocet_obyvatel": 79,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 220,
+      "obec": "Blanné",
+      "pocet_obyvatel": 79,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 221,
+      "obec": "Chomle",
+      "pocet_obyvatel": 79,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 222,
+      "obec": "Hracholusky",
+      "pocet_obyvatel": 79,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 223,
+      "obec": "Píšť",
+      "pocet_obyvatel": 79,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 224,
+      "obec": "Dubovice",
+      "pocet_obyvatel": 80,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 225,
+      "obec": "Honětice",
+      "pocet_obyvatel": 80,
+      "okres": "okres Kroměříž",
+      "kraj": "Zlínský kraj"
+    },
+    {
+      "poradi": 226,
+      "obec": "Hrachoviště",
+      "pocet_obyvatel": 80,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 227,
+      "obec": "Lesůňky",
+      "pocet_obyvatel": 80,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 228,
+      "obec": "Pohnání",
+      "pocet_obyvatel": 80,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 229,
+      "obec": "Ponědrážka",
+      "pocet_obyvatel": 80,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 230,
+      "obec": "Suchá Lhota",
+      "pocet_obyvatel": 80,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 231,
+      "obec": "Troskovice",
+      "pocet_obyvatel": 80,
+      "okres": "okres Semily",
+      "kraj": "Liberecký kraj"
+    },
+    {
+      "poradi": 232,
+      "obec": "Vlčí",
+      "pocet_obyvatel": 80,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 233,
+      "obec": "Černýšovice",
+      "pocet_obyvatel": 80,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 234,
+      "obec": "Žerůtky",
+      "pocet_obyvatel": 80,
+      "okres": "okres Blansko",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 235,
+      "obec": "Županovice",
+      "pocet_obyvatel": 80,
+      "okres": "okres Příbram",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 236,
+      "obec": "Dolní Sokolovec",
+      "pocet_obyvatel": 81,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 237,
+      "obec": "Javor",
+      "pocet_obyvatel": 81,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 238,
+      "obec": "Kamenec",
+      "pocet_obyvatel": 81,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 239,
+      "obec": "Olbramov",
+      "pocet_obyvatel": 81,
+      "okres": "okres Tachov",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 240,
+      "obec": "Staré Bříště",
+      "pocet_obyvatel": 81,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 241,
+      "obec": "Újezdec",
+      "pocet_obyvatel": 81,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 242,
+      "obec": "Haluzice",
+      "pocet_obyvatel": 82,
+      "okres": "okres Zlín",
+      "kraj": "Zlínský kraj"
+    },
+    {
+      "poradi": 243,
+      "obec": "Hodonín",
+      "pocet_obyvatel": 82,
+      "okres": "okres Chrudim",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 244,
+      "obec": "Jiratice",
+      "pocet_obyvatel": 82,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 245,
+      "obec": "Kalenice",
+      "pocet_obyvatel": 82,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 246,
+      "obec": "Libochovičky",
+      "pocet_obyvatel": 82,
+      "okres": "okres Kladno",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 247,
+      "obec": "Ohařice",
+      "pocet_obyvatel": 82,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 248,
+      "obec": "Olšany",
+      "pocet_obyvatel": 82,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 249,
+      "obec": "Smilovice",
+      "pocet_obyvatel": 82,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 250,
+      "obec": "Sudějov",
+      "pocet_obyvatel": 82,
+      "okres": "okres Kutná Hora",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 251,
+      "obec": "Šebestěnice",
+      "pocet_obyvatel": 82,
+      "okres": "okres Kutná Hora",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 252,
+      "obec": "Kovčín",
+      "pocet_obyvatel": 83,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 253,
+      "obec": "Mešno",
+      "pocet_obyvatel": 83,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 254,
+      "obec": "Pelechy",
+      "pocet_obyvatel": 83,
+      "okres": "okres Domažlice",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 255,
+      "obec": "Přepychy",
+      "pocet_obyvatel": 83,
+      "okres": "okres Pardubice",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 256,
+      "obec": "Zvolenovice",
+      "pocet_obyvatel": 83,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 257,
+      "obec": "Borovná",
+      "pocet_obyvatel": 84,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 258,
+      "obec": "Kuňovice",
+      "pocet_obyvatel": 84,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 259,
+      "obec": "Lhotka u Radnic",
+      "pocet_obyvatel": 84,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 260,
+      "obec": "Libětice",
+      "pocet_obyvatel": 84,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 261,
+      "obec": "Rojetín",
+      "pocet_obyvatel": 84,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 262,
+      "obec": "Ubušínek",
+      "pocet_obyvatel": 84,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 263,
+      "obec": "Vanov",
+      "pocet_obyvatel": 84,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 264,
+      "obec": "Arneštovice",
+      "pocet_obyvatel": 85,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 265,
+      "obec": "Hojovice",
+      "pocet_obyvatel": 85,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 266,
+      "obec": "Horní Němčice",
+      "pocet_obyvatel": 85,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 267,
+      "obec": "Jedlá",
+      "pocet_obyvatel": 85,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 268,
+      "obec": "Meziříčko",
+      "pocet_obyvatel": 85,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 269,
+      "obec": "Milešín",
+      "pocet_obyvatel": 85,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 270,
+      "obec": "Nicov",
+      "pocet_obyvatel": 85,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 271,
+      "obec": "Oprostovice",
+      "pocet_obyvatel": 85,
+      "okres": "okres Přerov",
+      "kraj": "Olomoucký kraj"
+    },
+    {
+      "poradi": 272,
+      "obec": "Prodašice",
+      "pocet_obyvatel": 85,
+      "okres": "okres Mladá Boleslav",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 273,
+      "obec": "Vrchovnice",
+      "pocet_obyvatel": 85,
+      "okres": "okres Hradec Králové",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 274,
+      "obec": "Štichov",
+      "pocet_obyvatel": 85,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 275,
+      "obec": "Brodec",
+      "pocet_obyvatel": 86,
+      "okres": "okres Louny",
+      "kraj": "Ústecký kraj"
+    },
+    {
+      "poradi": 276,
+      "obec": "Bukovina u Přelouče",
+      "pocet_obyvatel": 86,
+      "okres": "okres Pardubice",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 277,
+      "obec": "Hnačov",
+      "pocet_obyvatel": 86,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 278,
+      "obec": "Horní Rožínka",
+      "pocet_obyvatel": 86,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 279,
+      "obec": "Horčápsko",
+      "pocet_obyvatel": 86,
+      "okres": "okres Příbram",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 280,
+      "obec": "Kozojedy",
+      "pocet_obyvatel": 86,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 281,
+      "obec": "Křišťanov",
+      "pocet_obyvatel": 86,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 282,
+      "obec": "Libkov",
+      "pocet_obyvatel": 86,
+      "okres": "okres Chrudim",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 283,
+      "obec": "Nehodiv",
+      "pocet_obyvatel": 86,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 284,
+      "obec": "Trpík",
+      "pocet_obyvatel": 86,
+      "okres": "okres Ústí nad Orlicí",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 285,
+      "obec": "Řitonice",
+      "pocet_obyvatel": 86,
+      "okres": "okres Mladá Boleslav",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 286,
+      "obec": "Kolaje",
+      "pocet_obyvatel": 87,
+      "okres": "okres Nymburk",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 287,
+      "obec": "Přerubenice",
+      "pocet_obyvatel": 87,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 288,
+      "obec": "Račice",
+      "pocet_obyvatel": 87,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 289,
+      "obec": "Tužice",
+      "pocet_obyvatel": 87,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 290,
+      "obec": "Řídelov",
+      "pocet_obyvatel": 87,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 291,
+      "obec": "Bačkovice",
+      "pocet_obyvatel": 88,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 292,
+      "obec": "Kyje",
+      "pocet_obyvatel": 88,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 293,
+      "obec": "Němčičky",
+      "pocet_obyvatel": 88,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 294,
+      "obec": "Stehlovice",
+      "pocet_obyvatel": 88,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 295,
+      "obec": "Černíkovice",
+      "pocet_obyvatel": 88,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 296,
+      "obec": "Bujesily",
+      "pocet_obyvatel": 89,
+      "okres": "okres Rokycany",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 297,
+      "obec": "Kvílice",
+      "pocet_obyvatel": 89,
+      "okres": "okres Kladno",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 298,
+      "obec": "Litohošť",
+      "pocet_obyvatel": 89,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 299,
+      "obec": "Otín",
+      "pocet_obyvatel": 89,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 300,
+      "obec": "Snět",
+      "pocet_obyvatel": 89,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 301,
+      "obec": "Vratislávka",
+      "pocet_obyvatel": 89,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 302,
+      "obec": "Vysočany",
+      "pocet_obyvatel": 89,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 303,
+      "obec": "Újezd",
+      "pocet_obyvatel": 89,
+      "okres": "okres Znojmo",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 304,
+      "obec": "Švábov",
+      "pocet_obyvatel": 89,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 305,
+      "obec": "Žirov",
+      "pocet_obyvatel": 89,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 306,
+      "obec": "Bílov",
+      "pocet_obyvatel": 90,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 307,
+      "obec": "Heřmaneč",
+      "pocet_obyvatel": 90,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 308,
+      "obec": "Kukle",
+      "pocet_obyvatel": 90,
+      "okres": "okres Svitavy",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 309,
+      "obec": "Nezabudice",
+      "pocet_obyvatel": 90,
+      "okres": "okres Rakovník",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 310,
+      "obec": "Odunec",
+      "pocet_obyvatel": 90,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 311,
+      "obec": "Pětikozly",
+      "pocet_obyvatel": 90,
+      "okres": "okres Mladá Boleslav",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 312,
+      "obec": "Radonín",
+      "pocet_obyvatel": 90,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 313,
+      "obec": "Rozseč",
+      "pocet_obyvatel": 90,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 314,
+      "obec": "Strachoňovice",
+      "pocet_obyvatel": 90,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 315,
+      "obec": "Vojníkov",
+      "pocet_obyvatel": 90,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 316,
+      "obec": "Zvěstovice",
+      "pocet_obyvatel": 90,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 317,
+      "obec": "Zádolí",
+      "pocet_obyvatel": 90,
+      "okres": "okres Ústí nad Orlicí",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 318,
+      "obec": "Úlehle",
+      "pocet_obyvatel": 90,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 319,
+      "obec": "Čečkovice",
+      "pocet_obyvatel": 90,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 320,
+      "obec": "Borovnice",
+      "pocet_obyvatel": 91,
+      "okres": "okres Benešov",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 321,
+      "obec": "Brzánky",
+      "pocet_obyvatel": 91,
+      "okres": "okres Litoměřice",
+      "kraj": "Ústecký kraj"
+    },
+    {
+      "poradi": 322,
+      "obec": "Budkov",
+      "pocet_obyvatel": 91,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 323,
+      "obec": "Horní Myslová",
+      "pocet_obyvatel": 91,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 324,
+      "obec": "Kostelní Myslová",
+      "pocet_obyvatel": 91,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 325,
+      "obec": "Mohelnice nad Jizerou",
+      "pocet_obyvatel": 91,
+      "okres": "okres Mladá Boleslav",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 326,
+      "obec": "Proseč pod Křemešníkem",
+      "pocet_obyvatel": 91,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 327,
+      "obec": "Schořov",
+      "pocet_obyvatel": 91,
+      "okres": "okres Kutná Hora",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 328,
+      "obec": "Janovice v Podještědí",
+      "pocet_obyvatel": 92,
+      "okres": "okres Liberec",
+      "kraj": "Liberecký kraj"
+    },
+    {
+      "poradi": 329,
+      "obec": "Jindřichovice",
+      "pocet_obyvatel": 92,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 330,
+      "obec": "Kojatín",
+      "pocet_obyvatel": 92,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 331,
+      "obec": "Nasavrky",
+      "pocet_obyvatel": 92,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 332,
+      "obec": "Čelistná",
+      "pocet_obyvatel": 92,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 333,
+      "obec": "Dvory",
+      "pocet_obyvatel": 93,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 334,
+      "obec": "Hodětín",
+      "pocet_obyvatel": 93,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 335,
+      "obec": "Leškovice",
+      "pocet_obyvatel": 93,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 336,
+      "obec": "Pivkovice",
+      "pocet_obyvatel": 93,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 337,
+      "obec": "Soběraz",
+      "pocet_obyvatel": 93,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 338,
+      "obec": "Bácovice",
+      "pocet_obyvatel": 94,
+      "okres": "okres Pelhřimov",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 339,
+      "obec": "Cidlina",
+      "pocet_obyvatel": 94,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 340,
+      "obec": "Křižanov",
+      "pocet_obyvatel": 94,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 341,
+      "obec": "Přední Zborovice",
+      "pocet_obyvatel": 94,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 342,
+      "obec": "Rodná",
+      "pocet_obyvatel": 94,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 343,
+      "obec": "Sedliště",
+      "pocet_obyvatel": 94,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 344,
+      "obec": "Bukovany",
+      "pocet_obyvatel": 95,
+      "okres": "okres Příbram",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 345,
+      "obec": "Hlince",
+      "pocet_obyvatel": 95,
+      "okres": "okres Plzeň-sever",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 346,
+      "obec": "Hlupín",
+      "pocet_obyvatel": 95,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 347,
+      "obec": "Myslín",
+      "pocet_obyvatel": 95,
+      "okres": "okres Písek",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 348,
+      "obec": "Svatojanský Újezd",
+      "pocet_obyvatel": 95,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 349,
+      "obec": "Trotina",
+      "pocet_obyvatel": 95,
+      "okres": "okres Trutnov",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 350,
+      "obec": "Želkovice",
+      "pocet_obyvatel": 95,
+      "okres": "okres Louny",
+      "kraj": "Ústecký kraj"
+    },
+    {
+      "poradi": 351,
+      "obec": "Borek",
+      "pocet_obyvatel": 96,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 352,
+      "obec": "Borovno",
+      "pocet_obyvatel": 96,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 353,
+      "obec": "Drslavice",
+      "pocet_obyvatel": 96,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 354,
+      "obec": "Krajníčko",
+      "pocet_obyvatel": 96,
+      "okres": "okres Strakonice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 355,
+      "obec": "Kubova Huť",
+      "pocet_obyvatel": 96,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 356,
+      "obec": "Morašice",
+      "pocet_obyvatel": 96,
+      "okres": "okres Pardubice",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 357,
+      "obec": "Nejepín",
+      "pocet_obyvatel": 96,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 358,
+      "obec": "Počaply",
+      "pocet_obyvatel": 96,
+      "okres": "okres Příbram",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 359,
+      "obec": "Prusice",
+      "pocet_obyvatel": 96,
+      "okres": "okres Praha-východ",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 360,
+      "obec": "Slatina",
+      "pocet_obyvatel": 96,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 361,
+      "obec": "Vlkov pod Oškobrhem",
+      "pocet_obyvatel": 96,
+      "okres": "okres Nymburk",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 362,
+      "obec": "Vlčtejn",
+      "pocet_obyvatel": 96,
+      "okres": "okres Plzeň-jih",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 363,
+      "obec": "Zvíkov",
+      "pocet_obyvatel": 96,
+      "okres": "okres Český Krumlov",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 364,
+      "obec": "Zálužice",
+      "pocet_obyvatel": 96,
+      "okres": "okres Louny",
+      "kraj": "Ústecký kraj"
+    },
+    {
+      "poradi": 365,
+      "obec": "Bukovice",
+      "pocet_obyvatel": 97,
+      "okres": "okres Brno-venkov",
+      "kraj": "Jihomoravský kraj"
+    },
+    {
+      "poradi": 366,
+      "obec": "Dolní Vilímeč",
+      "pocet_obyvatel": 97,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 367,
+      "obec": "Doubice",
+      "pocet_obyvatel": 97,
+      "okres": "okres Děčín",
+      "kraj": "Ústecký kraj"
+    },
+    {
+      "poradi": 368,
+      "obec": "Lesná",
+      "pocet_obyvatel": 97,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 369,
+      "obec": "Lhotka",
+      "pocet_obyvatel": 97,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 370,
+      "obec": "Velké Tresné",
+      "pocet_obyvatel": 97,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 371,
+      "obec": "Bořetín",
+      "pocet_obyvatel": 98,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 372,
+      "obec": "Brtnička",
+      "pocet_obyvatel": 98,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 373,
+      "obec": "Grunta",
+      "pocet_obyvatel": 98,
+      "okres": "okres Kolín",
+      "kraj": "Středočeský kraj"
+    },
+    {
+      "poradi": 374,
+      "obec": "Holenice",
+      "pocet_obyvatel": 98,
+      "okres": "okres Semily",
+      "kraj": "Liberecký kraj"
+    },
+    {
+      "poradi": 375,
+      "obec": "Horní Řepčice",
+      "pocet_obyvatel": 98,
+      "okres": "okres Litoměřice",
+      "kraj": "Ústecký kraj"
+    },
+    {
+      "poradi": 376,
+      "obec": "Luka",
+      "pocet_obyvatel": 98,
+      "okres": "okres Česká Lípa",
+      "kraj": "Liberecký kraj"
+    },
+    {
+      "poradi": 377,
+      "obec": "Horní Radslavice",
+      "pocet_obyvatel": 99,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 378,
+      "obec": "Nový Telečkov",
+      "pocet_obyvatel": 99,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 379,
+      "obec": "Podolí",
+      "pocet_obyvatel": 99,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 380,
+      "obec": "Radňoves",
+      "pocet_obyvatel": 99,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 381,
+      "obec": "Višňová",
+      "pocet_obyvatel": 99,
+      "okres": "okres Jindřichův Hradec",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 382,
+      "obec": "Řemíčov",
+      "pocet_obyvatel": 99,
+      "okres": "okres Tábor",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 383,
+      "obec": "Židovice",
+      "pocet_obyvatel": 99,
+      "okres": "okres Jičín",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 384,
+      "obec": "Hrutov",
+      "pocet_obyvatel": 100,
+      "okres": "okres Jihlava",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 385,
+      "obec": "Hrádek",
+      "pocet_obyvatel": 100,
+      "okres": "okres Ústí nad Orlicí",
+      "kraj": "Pardubický kraj"
+    },
+    {
+      "poradi": 386,
+      "obec": "Jahodov",
+      "pocet_obyvatel": 100,
+      "okres": "okres Rychnov nad Kněžnou",
+      "kraj": "Královéhradecký kraj"
+    },
+    {
+      "poradi": 387,
+      "obec": "Kejnice",
+      "pocet_obyvatel": 100,
+      "okres": "okres Klatovy",
+      "kraj": "Plzeňský kraj"
+    },
+    {
+      "poradi": 388,
+      "obec": "Nové Hutě",
+      "pocet_obyvatel": 100,
+      "okres": "okres Prachatice",
+      "kraj": "Jihočeský kraj"
+    },
+    {
+      "poradi": 389,
+      "obec": "Okarec",
+      "pocet_obyvatel": 100,
+      "okres": "okres Třebíč",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 390,
+      "obec": "Osové",
+      "pocet_obyvatel": 100,
+      "okres": "okres Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 391,
+      "obec": "Skorkov",
+      "pocet_obyvatel": 100,
+      "okres": "okres Havlíčkův Brod",
+      "kraj": "Kraj Vysočina"
+    },
+    {
+      "poradi": 392,
+      "obec": "Tušovice",
+      "pocet_obyvatel": 100,
+      "okres": "okres Příbram",
+      "kraj": "Středočeský kraj"
+    }
+  ],
+  "meta": {
+    "title": "Obce v Česku s nejnižším počtem obyvatel - Free Download",
+    "description": "Nejmenší obce v Česku podle počtu obyvatel, s okresem a krajem. Contains 392 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Obce v Česku s nejnižším počtem obyvatel | ListBase",
+    "seo_description": "Download Obce v Česku s nejnižším počtem obyvatel — 392 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 392 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_obcí_v_Česku_s_nejnižším_počtem_obyvatel"
+    ]
+  }
+}

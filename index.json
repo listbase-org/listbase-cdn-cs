@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-09T02:54:15.825Z",
-  "total_datasets": 547,
-  "total_records": 419627,
+  "generated": "2026-11-09T02:54:26.401Z",
+  "total_datasets": 548,
+  "total_records": 420019,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -14090,6 +14090,32 @@
         "xlsx": {
           "name": "cs-narodnostni-slozeni-scitani_CS.xlsx",
           "size": 9653
+        }
+      }
+    },
+    {
+      "id": "cs-obce-s-nejnizsim-poctem-obyvatel",
+      "name": "Obce v Česku s nejnižším počtem obyvatel",
+      "category": "society",
+      "record_count": 392,
+      "columns": [
+        "poradi",
+        "obec",
+        "pocet_obyvatel",
+        "okres",
+        "kraj"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_obcí_v_Česku_s_nejnižším_počtem_obyvatel",
+      "updated": "2026-11",
+      "size": 63514,
+      "files": {
+        "csv": {
+          "name": "cs-obce-s-nejnizsim-poctem-obyvatel_CS.csv",
+          "size": 24235
+        },
+        "xlsx": {
+          "name": "cs-obce-s-nejnizsim-poctem-obyvatel_CS.xlsx",
+          "size": 19889
         }
       }
     },
