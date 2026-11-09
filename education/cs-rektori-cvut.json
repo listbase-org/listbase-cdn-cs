@@ -1,0 +1,970 @@
+{
+  "id": "cs-rektori-cvut",
+  "name": "Rektoři Českého vysokého učení technického",
+  "title": "Rektoři Českého vysokého učení technického",
+  "description": "Seznam rektorů ČVUT v Praze a jeho předchůdců od roku 1864 s daty narození, úmrtí a funkčním obdobím.",
+  "category": "education",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_rektorů_Českého_vysokého_učení_technického",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_rektorů_Českého_vysokého_učení_technického",
+  "updated": "2026-11",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "rektor",
+      "label": "Rektor",
+      "type": "string"
+    },
+    {
+      "key": "narozen",
+      "label": "Narozen",
+      "type": "string"
+    },
+    {
+      "key": "zemrel",
+      "label": "Zemrel",
+      "type": "string"
+    },
+    {
+      "key": "rektorem_od",
+      "label": "Rektorem Od",
+      "type": "number"
+    },
+    {
+      "key": "rektorem_do",
+      "label": "Rektorem Do",
+      "type": "number"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "rektor": "Karel Kořistka",
+      "narozen": "7. února 1825",
+      "zemrel": "18. ledna 1906",
+      "rektorem_od": 1864,
+      "rektorem_do": 1865,
+      "poznamka": ""
+    },
+    {
+      "poradi": 2,
+      "rektor": "Karel Balling",
+      "narozen": "21. dubna 1805",
+      "zemrel": "17. března 1868",
+      "rektorem_od": 1865,
+      "rektorem_do": 1866,
+      "poznamka": ""
+    },
+    {
+      "poradi": 3,
+      "rektor": "Karel Kořistka",
+      "narozen": "7. února 1825",
+      "zemrel": "18. ledna 1906",
+      "rektorem_od": 1866,
+      "rektorem_do": 1867,
+      "poznamka": ""
+    },
+    {
+      "poradi": 4,
+      "rektor": "Jan Krejčí",
+      "narozen": "28. února 1825",
+      "zemrel": "1. srpna 1887",
+      "rektorem_od": 1867,
+      "rektorem_do": 1868,
+      "poznamka": ""
+    },
+    {
+      "poradi": 5,
+      "rektor": "Gustav Schmidt",
+      "narozen": "16. září 1826",
+      "zemrel": "27. ledna 1881",
+      "rektorem_od": 1868,
+      "rektorem_do": 1869,
+      "poznamka": ""
+    },
+    {
+      "poradi": 6,
+      "rektor": "Čeněk Hausmann",
+      "narozen": "3. února 1826",
+      "zemrel": "13. listopadu 1896",
+      "rektorem_od": 1869,
+      "rektorem_do": 1870,
+      "poznamka": ""
+    },
+    {
+      "poradi": 7,
+      "rektor": "František Tilšer",
+      "narozen": "12. června 1825",
+      "zemrel": "5. února 1913",
+      "rektorem_od": 1870,
+      "rektorem_do": 1871,
+      "poznamka": ""
+    },
+    {
+      "poradi": 8,
+      "rektor": "Jan Krejčí",
+      "narozen": "28. února 1825",
+      "zemrel": "1. srpna 1887",
+      "rektorem_od": 1871,
+      "rektorem_do": 1872,
+      "poznamka": ""
+    },
+    {
+      "poradi": 9,
+      "rektor": "Václav Zenger",
+      "narozen": "17. prosince 1830",
+      "zemrel": "22. ledna 1908",
+      "rektorem_od": 1872,
+      "rektorem_do": 1873,
+      "poznamka": ""
+    },
+    {
+      "poradi": 10,
+      "rektor": "Josef Niklas",
+      "narozen": "11. března 1817",
+      "zemrel": "10. října 1877",
+      "rektorem_od": 1873,
+      "rektorem_do": 1874,
+      "poznamka": ""
+    },
+    {
+      "poradi": 11,
+      "rektor": "Jan Tille",
+      "narozen": "17. září 1833",
+      "zemrel": "14. října 1897",
+      "rektorem_od": 1874,
+      "rektorem_do": 1875,
+      "poznamka": ""
+    },
+    {
+      "poradi": 12,
+      "rektor": "Gabriel Blažek",
+      "narozen": "20. září 1842",
+      "zemrel": "6. prosince 1910",
+      "rektorem_od": 1875,
+      "rektorem_do": 1876,
+      "poznamka": ""
+    },
+    {
+      "poradi": 13,
+      "rektor": "František Štolba",
+      "narozen": "24. března 1839",
+      "zemrel": "4. dubna 1910",
+      "rektorem_od": 1876,
+      "rektorem_do": 1877,
+      "poznamka": ""
+    },
+    {
+      "poradi": 14,
+      "rektor": "Jan Krejčí",
+      "narozen": "28. února 1825",
+      "zemrel": "1. srpna 1887",
+      "rektorem_od": 1877,
+      "rektorem_do": 1878,
+      "poznamka": ""
+    },
+    {
+      "poradi": 15,
+      "rektor": "August Salaba",
+      "narozen": "12. března 1840",
+      "zemrel": "28. ledna 1894",
+      "rektorem_od": 1878,
+      "rektorem_do": 1879,
+      "poznamka": ""
+    },
+    {
+      "poradi": 16,
+      "rektor": "Josef Šolín",
+      "narozen": "4. března 1841",
+      "zemrel": "19. září 1912",
+      "rektorem_od": 1879,
+      "rektorem_do": 1880,
+      "poznamka": ""
+    },
+    {
+      "poradi": 17,
+      "rektor": "Čeněk Hausmann",
+      "narozen": "3. února 1826",
+      "zemrel": "13. listopadu 1896",
+      "rektorem_od": 1880,
+      "rektorem_do": 1881,
+      "poznamka": ""
+    },
+    {
+      "poradi": 18,
+      "rektor": "Gabriel Blažek",
+      "narozen": "20. září 1842",
+      "zemrel": "6. prosince 1910",
+      "rektorem_od": 1881,
+      "rektorem_do": 1882,
+      "poznamka": ""
+    },
+    {
+      "poradi": 19,
+      "rektor": "František Štolba",
+      "narozen": "24. března 1839",
+      "zemrel": "4. dubna 1910",
+      "rektorem_od": 1882,
+      "rektorem_do": 1883,
+      "poznamka": ""
+    },
+    {
+      "poradi": 20,
+      "rektor": "August Salaba",
+      "narozen": "12. března 1840",
+      "zemrel": "28. ledna 1894",
+      "rektorem_od": 1883,
+      "rektorem_do": 1884,
+      "poznamka": ""
+    },
+    {
+      "poradi": 21,
+      "rektor": "Eduard Weyr",
+      "narozen": "22. června 1852",
+      "zemrel": "23. července 1903",
+      "rektorem_od": 1884,
+      "rektorem_do": 1885,
+      "poznamka": ""
+    },
+    {
+      "poradi": 22,
+      "rektor": "Karel Preis",
+      "narozen": "20. srpna 1846",
+      "zemrel": "27. dubna 1916",
+      "rektorem_od": 1885,
+      "rektorem_do": 1886,
+      "poznamka": ""
+    },
+    {
+      "poradi": 23,
+      "rektor": "Otakar Feistmantel",
+      "narozen": "20. listopadu 1848",
+      "zemrel": "10. února 1891",
+      "rektorem_od": 1886,
+      "rektorem_do": 1887,
+      "poznamka": ""
+    },
+    {
+      "poradi": 24,
+      "rektor": "František Müller",
+      "narozen": "4. září 1835",
+      "zemrel": "21. října 1900",
+      "rektorem_od": 1887,
+      "rektorem_do": 1888,
+      "poznamka": ""
+    },
+    {
+      "poradi": 25,
+      "rektor": "Jiří Pacold",
+      "narozen": "24. dubna 1834",
+      "zemrel": "18. února 1907",
+      "rektorem_od": 1888,
+      "rektorem_do": 1889,
+      "poznamka": ""
+    },
+    {
+      "poradi": 26,
+      "rektor": "Josef Šolín",
+      "narozen": "4. března 1841",
+      "zemrel": "19. září 1912",
+      "rektorem_od": 1889,
+      "rektorem_do": 1890,
+      "poznamka": ""
+    },
+    {
+      "poradi": 27,
+      "rektor": "Eduard Weyr",
+      "narozen": "22. června 1852",
+      "zemrel": "23. července 1903",
+      "rektorem_od": 1890,
+      "rektorem_do": 1891,
+      "poznamka": ""
+    },
+    {
+      "poradi": 28,
+      "rektor": "Jan Baptista Lambl",
+      "narozen": "9. srpna 1826",
+      "zemrel": "7. listopadu 1909",
+      "rektorem_od": 1891,
+      "rektorem_do": 1892,
+      "poznamka": ""
+    },
+    {
+      "poradi": 29,
+      "rektor": "Kristian Petrlík",
+      "narozen": "20. listopadu 1842",
+      "zemrel": "31. března 1908",
+      "rektorem_od": 1892,
+      "rektorem_do": 1893,
+      "poznamka": ""
+    },
+    {
+      "poradi": 30,
+      "rektor": "Antonín Vávra",
+      "narozen": "6. února 1848",
+      "zemrel": "1. listopadu 1928",
+      "rektorem_od": 1893,
+      "rektorem_do": 1894,
+      "poznamka": ""
+    },
+    {
+      "poradi": 31,
+      "rektor": "Antonín Bělohoubek",
+      "narozen": "28. dubna 1845",
+      "zemrel": "25. prosince 1910",
+      "rektorem_od": 1894,
+      "rektorem_do": 1895,
+      "poznamka": ""
+    },
+    {
+      "poradi": 32,
+      "rektor": "Karel Vosyka",
+      "narozen": "19. února 1847",
+      "zemrel": "3. března 1897",
+      "rektorem_od": 1895,
+      "rektorem_do": 1896,
+      "poznamka": ""
+    },
+    {
+      "poradi": 33,
+      "rektor": "František Müller",
+      "narozen": "4. září 1835",
+      "zemrel": "21. října 1900",
+      "rektorem_od": 1896,
+      "rektorem_do": 1897,
+      "poznamka": ""
+    },
+    {
+      "poradi": 34,
+      "rektor": "Albert Vojtěch Velflík",
+      "narozen": "4. dubna 1856",
+      "zemrel": "11. listopadu 1920",
+      "rektorem_od": 1897,
+      "rektorem_do": 1898,
+      "poznamka": ""
+    },
+    {
+      "poradi": 35,
+      "rektor": "Alfred Slavík",
+      "narozen": "20. dubna 1847",
+      "zemrel": "30. ledna 1907",
+      "rektorem_od": 1898,
+      "rektorem_do": 1899,
+      "poznamka": ""
+    },
+    {
+      "poradi": 36,
+      "rektor": "Albert Vojtěch Velflík",
+      "narozen": "4. dubna 1856",
+      "zemrel": "11. listopadu 1920",
+      "rektorem_od": 1899,
+      "rektorem_do": 1900,
+      "poznamka": ""
+    },
+    {
+      "poradi": 37,
+      "rektor": "Jan Vladimír Hráský",
+      "narozen": "24. dubna 1857",
+      "zemrel": "12. dubna 1939",
+      "rektorem_od": 1900,
+      "rektorem_do": 1901,
+      "poznamka": ""
+    },
+    {
+      "poradi": 38,
+      "rektor": "Gabriel Blažek",
+      "narozen": "20. září 1842",
+      "zemrel": "6. prosince 1910",
+      "rektorem_od": 1901,
+      "rektorem_do": 1902,
+      "poznamka": ""
+    },
+    {
+      "poradi": 39,
+      "rektor": "Jan Koula",
+      "narozen": "7. února 1855",
+      "zemrel": "18. května 1919",
+      "rektorem_od": 1902,
+      "rektorem_do": 1903,
+      "poznamka": ""
+    },
+    {
+      "poradi": 40,
+      "rektor": "Alfred Slavík",
+      "narozen": "20. dubna 1847",
+      "zemrel": "30. ledna 1907",
+      "rektorem_od": 1903,
+      "rektorem_do": 1904,
+      "poznamka": ""
+    },
+    {
+      "poradi": 41,
+      "rektor": "Kristian Petrlík",
+      "narozen": "20. listopadu 1842",
+      "zemrel": "31. března 1908",
+      "rektorem_od": 1904,
+      "rektorem_do": 1905,
+      "poznamka": ""
+    },
+    {
+      "poradi": 42,
+      "rektor": "Josef Šolín",
+      "narozen": "4. března 1841",
+      "zemrel": "19. září 1912",
+      "rektorem_od": 1905,
+      "rektorem_do": 1906,
+      "poznamka": ""
+    },
+    {
+      "poradi": 43,
+      "rektor": "Albert Vojtěch Velflík",
+      "narozen": "4. dubna 1856",
+      "zemrel": "11. listopadu 1920",
+      "rektorem_od": 1906,
+      "rektorem_do": 1907,
+      "poznamka": ""
+    },
+    {
+      "poradi": 44,
+      "rektor": "František Novotný",
+      "narozen": "20. září 1864",
+      "zemrel": "27. července 1918",
+      "rektorem_od": 1907,
+      "rektorem_do": 1908,
+      "poznamka": ""
+    },
+    {
+      "poradi": 45,
+      "rektor": "Josef Bertl",
+      "narozen": "6. ledna 1866",
+      "zemrel": "30. května 1955",
+      "rektorem_od": 1908,
+      "rektorem_do": 1909,
+      "poznamka": ""
+    },
+    {
+      "poradi": 46,
+      "rektor": "Bedřich Procházka",
+      "narozen": "4. července 1855",
+      "zemrel": "3. ledna 1934",
+      "rektorem_od": 1909,
+      "rektorem_do": 1910,
+      "poznamka": ""
+    },
+    {
+      "poradi": 47,
+      "rektor": "František Hasa",
+      "narozen": "4. února 1863",
+      "zemrel": "27. března 1945",
+      "rektorem_od": 1910,
+      "rektorem_do": 1911,
+      "poznamka": ""
+    },
+    {
+      "poradi": 48,
+      "rektor": "Julius Stoklasa",
+      "narozen": "9. září 1857",
+      "zemrel": "4. dubna 1936",
+      "rektorem_od": 1911,
+      "rektorem_do": 1912,
+      "poznamka": ""
+    },
+    {
+      "poradi": 49,
+      "rektor": "Karel Novák",
+      "narozen": "31. srpna 1867",
+      "zemrel": "11. listopadu 1941",
+      "rektorem_od": 1912,
+      "rektorem_do": 1913,
+      "poznamka": ""
+    },
+    {
+      "poradi": 50,
+      "rektor": "Theodor Kašpárek",
+      "narozen": "21. dubna 1864",
+      "zemrel": "24. prosince 1930",
+      "rektorem_od": 1913,
+      "rektorem_do": 1914,
+      "poznamka": ""
+    },
+    {
+      "poradi": 51,
+      "rektor": "Antonín Klír",
+      "narozen": "14. prosince 1864",
+      "zemrel": "29. ledna 1939",
+      "rektorem_od": 1914,
+      "rektorem_do": 1915,
+      "poznamka": ""
+    },
+    {
+      "poradi": 52,
+      "rektor": "Josef Jedlička",
+      "narozen": "25. července 1868",
+      "zemrel": "2. ledna 1938",
+      "rektorem_od": 1915,
+      "rektorem_do": 1916,
+      "poznamka": ""
+    },
+    {
+      "poradi": 53,
+      "rektor": "Karel Špaček",
+      "narozen": "23. května 1866",
+      "zemrel": "22. června 1937",
+      "rektorem_od": 1916,
+      "rektorem_do": 1917,
+      "poznamka": ""
+    },
+    {
+      "poradi": 54,
+      "rektor": "Václav Felix",
+      "narozen": "14. září 1873",
+      "zemrel": "19. února 1933",
+      "rektorem_od": 1917,
+      "rektorem_do": 1918,
+      "poznamka": ""
+    },
+    {
+      "poradi": 55,
+      "rektor": "Alois Velich",
+      "narozen": "10. srpna 1869",
+      "zemrel": "13. května 1952",
+      "rektorem_od": 1918,
+      "rektorem_do": 1919,
+      "poznamka": ""
+    },
+    {
+      "poradi": 56,
+      "rektor": "František Wald",
+      "narozen": "9. ledna 1861",
+      "zemrel": "19. října 1930",
+      "rektorem_od": 1919,
+      "rektorem_do": 1920,
+      "poznamka": ""
+    },
+    {
+      "poradi": 57,
+      "rektor": "Jan Kolář",
+      "narozen": "1. dubna 1868",
+      "zemrel": "18. dubna 1958",
+      "rektorem_od": 1920,
+      "rektorem_do": 1921,
+      "poznamka": ""
+    },
+    {
+      "poradi": 58,
+      "rektor": "Emil Votoček",
+      "narozen": "5. října 1872",
+      "zemrel": "11. října 1950",
+      "rektorem_od": 1921,
+      "rektorem_do": 1922,
+      "poznamka": ""
+    },
+    {
+      "poradi": 59,
+      "rektor": "Jan Zvoníček",
+      "narozen": "21. listopadu 1865",
+      "zemrel": "26. ledna 1926",
+      "rektorem_od": 1922,
+      "rektorem_do": 1923,
+      "poznamka": ""
+    },
+    {
+      "poradi": 60,
+      "rektor": "Zdeněk Bažant",
+      "narozen": "25. listopadu 1879",
+      "zemrel": "1. září 1954",
+      "rektorem_od": 1923,
+      "rektorem_do": 1924,
+      "poznamka": ""
+    },
+    {
+      "poradi": 61,
+      "rektor": "Vladislav Brdlík",
+      "narozen": "26. července 1879",
+      "zemrel": "28. ledna 1964",
+      "rektorem_od": 1924,
+      "rektorem_do": 1925,
+      "poznamka": ""
+    },
+    {
+      "poradi": 62,
+      "rektor": "Rudolf Kříženecký",
+      "narozen": "28. října 1861",
+      "zemrel": "12. března 1939",
+      "rektorem_od": 1925,
+      "rektorem_do": 1926,
+      "poznamka": ""
+    },
+    {
+      "poradi": 63,
+      "rektor": "Josef Petřík",
+      "narozen": "22. března 1866",
+      "zemrel": "16. května 1944",
+      "rektorem_od": 1926,
+      "rektorem_do": 1927,
+      "poznamka": ""
+    },
+    {
+      "poradi": 64,
+      "rektor": "Josef Hanuš",
+      "narozen": "12. ledna 1872",
+      "zemrel": "24. prosince 1955",
+      "rektorem_od": 1927,
+      "rektorem_do": 1928,
+      "poznamka": ""
+    },
+    {
+      "poradi": 65,
+      "rektor": "Emil Navrátil",
+      "narozen": "27. června 1866",
+      "zemrel": "5. července 1928",
+      "rektorem_od": 1928,
+      "rektorem_do": 1928,
+      "poznamka": ""
+    },
+    {
+      "poradi": 66,
+      "rektor": "František Klokner",
+      "narozen": "10. listopadu 1872",
+      "zemrel": "8. ledna 1960",
+      "rektorem_od": 1928,
+      "rektorem_do": 1929,
+      "poznamka": ""
+    },
+    {
+      "poradi": 67,
+      "rektor": "Josef Pazourek",
+      "narozen": "3. ledna 1862",
+      "zemrel": "26. listopadu 1933",
+      "rektorem_od": 1929,
+      "rektorem_do": 1930,
+      "poznamka": ""
+    },
+    {
+      "poradi": 68,
+      "rektor": "Viktor Felber",
+      "narozen": "11. října 1880",
+      "zemrel": "1. června 1942",
+      "rektorem_od": 1930,
+      "rektorem_do": 1931,
+      "poznamka": ""
+    },
+    {
+      "poradi": 69,
+      "rektor": "Josef Anderle",
+      "narozen": "14. března 1881",
+      "zemrel": "5. února 1959",
+      "rektorem_od": 1931,
+      "rektorem_do": 1932,
+      "poznamka": ""
+    },
+    {
+      "poradi": 70,
+      "rektor": "Rudolf Kukač",
+      "narozen": "19. listopadu 1889",
+      "zemrel": "1. července 1957",
+      "rektorem_od": 1932,
+      "rektorem_do": 1933,
+      "poznamka": ""
+    },
+    {
+      "poradi": 71,
+      "rektor": "Jaroslav Milbauer",
+      "narozen": "1. února 1880",
+      "zemrel": "19. ledna 1959",
+      "rektorem_od": 1933,
+      "rektorem_do": 1934,
+      "poznamka": ""
+    },
+    {
+      "poradi": 72,
+      "rektor": "Břetislav Tolman",
+      "narozen": "21. června 1873",
+      "zemrel": "9. května 1937",
+      "rektorem_od": 1934,
+      "rektorem_do": 1935,
+      "poznamka": ""
+    },
+    {
+      "poradi": 73,
+      "rektor": "Jindřich Svoboda",
+      "narozen": "13. července 1884",
+      "zemrel": "15. května 1941",
+      "rektorem_od": 1935,
+      "rektorem_do": 1936,
+      "poznamka": ""
+    },
+    {
+      "poradi": 74,
+      "rektor": "Jaroslav Hýbl",
+      "narozen": "21. dubna 1882",
+      "zemrel": "14. srpna 1950",
+      "rektorem_od": 1936,
+      "rektorem_do": 1937,
+      "poznamka": ""
+    },
+    {
+      "poradi": 75,
+      "rektor": "Gustav Švamberg",
+      "narozen": "2. srpna 1880",
+      "zemrel": "24. ledna 1959",
+      "rektorem_od": 1937,
+      "rektorem_do": 1938,
+      "poznamka": ""
+    },
+    {
+      "poradi": 76,
+      "rektor": "Vojtěch Kaisler",
+      "narozen": "8. ledna 1870",
+      "zemrel": "20. července 1943",
+      "rektorem_od": 1938,
+      "rektorem_do": 1939,
+      "poznamka": ""
+    },
+    {
+      "poradi": 77,
+      "rektor": "Antonín Engel",
+      "narozen": "4. května 1879",
+      "zemrel": "12. října 1958",
+      "rektorem_od": 1939,
+      "rektorem_do": 1940,
+      "poznamka": ""
+    },
+    {
+      "poradi": "",
+      "rektor": "české vysoké školy uzavřeny",
+      "narozen": "",
+      "zemrel": "",
+      "rektorem_od": 1940,
+      "rektorem_do": 1945,
+      "poznamka": ""
+    },
+    {
+      "poradi": 77,
+      "rektor": "Antonín Engel",
+      "narozen": "4. května 1879",
+      "zemrel": "12. října 1958",
+      "rektorem_od": 1945,
+      "rektorem_do": "26. května 1945",
+      "poznamka": ""
+    },
+    {
+      "poradi": 78,
+      "rektor": "František Kadeřávek",
+      "narozen": "26. června 1885",
+      "zemrel": "9. února 1961",
+      "rektorem_od": "26. května 1945",
+      "rektorem_do": "3. srpna 1945",
+      "poznamka": ""
+    },
+    {
+      "poradi": 79,
+      "rektor": "Zdeněk Bažant",
+      "narozen": "25. listopadu 1879",
+      "zemrel": "1. září 1954",
+      "rektorem_od": "3. srpna 1945",
+      "rektorem_do": 1946,
+      "poznamka": ""
+    },
+    {
+      "poradi": 80,
+      "rektor": "Otakar Quadrat",
+      "narozen": "2. září 1886",
+      "zemrel": "31. srpna 1963",
+      "rektorem_od": 1946,
+      "rektorem_do": 1947,
+      "poznamka": ""
+    },
+    {
+      "poradi": 81,
+      "rektor": "Josef Ryšavý",
+      "narozen": "6. ledna 1884",
+      "zemrel": "4. ledna 1967",
+      "rektorem_od": 1947,
+      "rektorem_do": 1948,
+      "poznamka": ""
+    },
+    {
+      "poradi": 82,
+      "rektor": "Jan Košťál",
+      "narozen": "27. prosince 1884",
+      "zemrel": "13. srpna 1963",
+      "rektorem_od": 1948,
+      "rektorem_do": 1949,
+      "poznamka": ""
+    },
+    {
+      "poradi": 83,
+      "rektor": "Oldřich Starý",
+      "narozen": "15. března 1884",
+      "zemrel": "3. ledna 1971",
+      "rektorem_od": 1949,
+      "rektorem_do": 1950,
+      "poznamka": ""
+    },
+    {
+      "poradi": 84,
+      "rektor": "Vilibald Bezdíček",
+      "narozen": "12. listopadu 1906",
+      "zemrel": "13. srpna 1991",
+      "rektorem_od": 1950,
+      "rektorem_do": 1952,
+      "poznamka": ""
+    },
+    {
+      "poradi": 85,
+      "rektor": "Josef Trnka",
+      "narozen": "5. prosince 1904",
+      "zemrel": "18. listopadu 1962",
+      "rektorem_od": 1952,
+      "rektorem_do": 1955,
+      "poznamka": ""
+    },
+    {
+      "poradi": 86,
+      "rektor": "Theodor Ježdík",
+      "narozen": "9. listopadu 1889",
+      "zemrel": "27. února 1967",
+      "rektorem_od": 1955,
+      "rektorem_do": 1960,
+      "poznamka": ""
+    },
+    {
+      "poradi": 87,
+      "rektor": "František Brabec",
+      "narozen": "26. června 1885",
+      "zemrel": "30. ledna 1992",
+      "rektorem_od": 1960,
+      "rektorem_do": 1962,
+      "poznamka": ""
+    },
+    {
+      "poradi": 88,
+      "rektor": "Josef Kožoušek",
+      "narozen": "15. srpna 1913",
+      "zemrel": "23. března 1988",
+      "rektorem_od": 1962,
+      "rektorem_do": 1968,
+      "poznamka": ""
+    },
+    {
+      "poradi": 89,
+      "rektor": "Bohumil Kvasil",
+      "narozen": "14. února 1920",
+      "zemrel": "30. března 1988",
+      "rektorem_od": 1968,
+      "rektorem_do": 1979,
+      "poznamka": ""
+    },
+    {
+      "poradi": 90,
+      "rektor": "Jiří Klíma",
+      "narozen": "5. července 1930",
+      "zemrel": "",
+      "rektorem_od": 1979,
+      "rektorem_do": 1990,
+      "poznamka": ""
+    },
+    {
+      "poradi": 91,
+      "rektor": "Stanislav Hanzl",
+      "narozen": "17. prosince 1938",
+      "zemrel": "14. června 1996",
+      "rektorem_od": 1990,
+      "rektorem_do": 1996,
+      "poznamka": ""
+    },
+    {
+      "poradi": "pověřený",
+      "rektor": "Antonín Pokorný",
+      "narozen": "3. prosince 1939",
+      "zemrel": "",
+      "rektorem_od": 1996,
+      "rektorem_do": 1997,
+      "poznamka": ""
+    },
+    {
+      "poradi": 92,
+      "rektor": "Petr Zuna",
+      "narozen": "21. března 1941",
+      "zemrel": "",
+      "rektorem_od": 1997,
+      "rektorem_do": 2000,
+      "poznamka": ""
+    },
+    {
+      "poradi": 93,
+      "rektor": "Jiří Witzany",
+      "narozen": "11. dubna 1941",
+      "zemrel": "5. ledna 2026",
+      "rektorem_od": 2000,
+      "rektorem_do": "31. ledna 2006",
+      "poznamka": ""
+    },
+    {
+      "poradi": 94,
+      "rektor": "Václav Havlíček",
+      "narozen": "28. července 1943",
+      "zemrel": "",
+      "rektorem_od": "1. února 2006",
+      "rektorem_do": "31. ledna 2014",
+      "poznamka": ""
+    },
+    {
+      "poradi": 95,
+      "rektor": "Petr Konvalinka",
+      "narozen": "18. října 1960",
+      "zemrel": "",
+      "rektorem_od": "1. února 2014",
+      "rektorem_do": "31. ledna 2018",
+      "poznamka": ""
+    },
+    {
+      "poradi": 96,
+      "rektor": "Vojtěch Petráček",
+      "narozen": "17. února 1964",
+      "zemrel": "",
+      "rektorem_od": "1. února 2018",
+      "rektorem_do": "4. června 2025",
+      "poznamka": ""
+    },
+    {
+      "poradi": "pověřený",
+      "rektor": "Zbyněk Škvor",
+      "narozen": "17. června 1961",
+      "zemrel": "",
+      "rektorem_od": "4. června 2025",
+      "rektorem_do": "31. ledna 2026",
+      "poznamka": ""
+    },
+    {
+      "poradi": 97,
+      "rektor": "Michal Pěchouček",
+      "narozen": "29. června 1972",
+      "zemrel": "",
+      "rektorem_od": "1. února 2026",
+      "rektorem_do": "",
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Rektoři Českého vysokého učení technického - Free Download",
+    "description": "Seznam rektorů ČVUT v Praze a jeho předchůdců od roku 1864 s daty narození, úmrtí a funkčním obdobím. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rektoři Českého vysokého učení technického | ListBase",
+    "seo_description": "Download Rektoři Českého vysokého učení technického — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_rektorů_Českého_vysokého_učení_technického"
+    ]
+  }
+}

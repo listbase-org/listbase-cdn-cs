@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-09T02:54:26.401Z",
-  "total_datasets": 548,
-  "total_records": 420019,
+  "generated": "2026-11-09T02:54:35.536Z",
+  "total_datasets": 549,
+  "total_records": 420120,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -1692,6 +1692,34 @@
         "xlsx": {
           "name": "cs-ministri-skolstvi_CS.xlsx",
           "size": 8346
+        }
+      }
+    },
+    {
+      "id": "cs-rektori-cvut",
+      "name": "Rektoři Českého vysokého učení technického",
+      "category": "education",
+      "record_count": 101,
+      "columns": [
+        "poradi",
+        "rektor",
+        "narozen",
+        "zemrel",
+        "rektorem_od",
+        "rektorem_do",
+        "poznamka"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_rektorů_Českého_vysokého_učení_technického",
+      "updated": "2026-11",
+      "size": 23731,
+      "files": {
+        "csv": {
+          "name": "cs-rektori-cvut_CS.csv",
+          "size": 7849
+        },
+        "xlsx": {
+          "name": "cs-rektori-cvut_CS.xlsx",
+          "size": 11973
         }
       }
     },
