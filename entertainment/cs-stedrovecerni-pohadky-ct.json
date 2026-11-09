@@ -1,0 +1,527 @@
+{
+  "id": "cs-stedrovecerni-pohadky-ct",
+  "name": "Štědrovečerní pohádky České televize",
+  "title": "Štědrovečerní pohádky České televize",
+  "description": "Pohádky, které Česká televize premiérově uvedla na Štědrý večer, s režisérem, scenáristou a datem premiéry.",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_štědrovečerních_pohádek_České_televize",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_štědrovečerních_pohádek_České_televize",
+  "updated": "2026-11",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "cislo",
+      "label": "Cislo",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "rezie",
+      "label": "Rezie",
+      "type": "string"
+    },
+    {
+      "key": "scenar",
+      "label": "Scenar",
+      "type": "string"
+    },
+    {
+      "key": "premiera_v_ct",
+      "label": "Premiera V Ct",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "cislo": "1",
+      "film": "Sedmero krkavců",
+      "rezie": "Ludvík Ráža",
+      "scenar": "Pavel Aujezdský",
+      "premiera_v_ct": "24. prosince 1993"
+    },
+    {
+      "cislo": "Televizní film. Na motivy pohádky Sedmero krkavců od Boženy Němcové.",
+      "film": "Televizní film. Na motivy pohádky Sedmero krkavců od Boženy Němcové.",
+      "rezie": "Televizní film. Na motivy pohádky Sedmero krkavců od Boženy Němcové.",
+      "scenar": "Televizní film. Na motivy pohádky Sedmero krkavců od Boženy Němcové.",
+      "premiera_v_ct": "Televizní film. Na motivy pohádky Sedmero krkavců od Boženy Němcové."
+    },
+    {
+      "cislo": "2",
+      "film": "Princezna ze mlejna",
+      "rezie": "Zdeněk Troška",
+      "scenar": "Vratislav Marek a Zdeněk Troška",
+      "premiera_v_ct": "24. prosince 1994"
+    },
+    {
+      "cislo": "Kinopremiéra: 1. června 1994",
+      "film": "Kinopremiéra: 1. června 1994",
+      "rezie": "Kinopremiéra: 1. června 1994",
+      "scenar": "Kinopremiéra: 1. června 1994",
+      "premiera_v_ct": "Kinopremiéra: 1. června 1994"
+    },
+    {
+      "cislo": "3",
+      "film": "Nesmrtelná teta",
+      "rezie": "Zdeněk Zelenka",
+      "scenar": "Zdeněk Zelenka",
+      "premiera_v_ct": "24. prosince 1995"
+    },
+    {
+      "cislo": "Kinopremiéra: 25. listopadu 1993. Volně na motivy pohádky Rozum a Štěstí od Karla Jaromíra Erbena.",
+      "film": "Kinopremiéra: 25. listopadu 1993. Volně na motivy pohádky Rozum a Štěstí od Karla Jaromíra Erbena.",
+      "rezie": "Kinopremiéra: 25. listopadu 1993. Volně na motivy pohádky Rozum a Štěstí od Karla Jaromíra Erbena.",
+      "scenar": "Kinopremiéra: 25. listopadu 1993. Volně na motivy pohádky Rozum a Štěstí od Karla Jaromíra Erbena.",
+      "premiera_v_ct": "Kinopremiéra: 25. listopadu 1993. Volně na motivy pohádky Rozum a Štěstí od Karla Jaromíra Erbena."
+    },
+    {
+      "cislo": "4",
+      "film": "Jak si zasloužit princeznu",
+      "rezie": "Jan Schmidt",
+      "scenar": "Jan Schmidt a Václav Šašek",
+      "premiera_v_ct": "24. prosince 1996"
+    },
+    {
+      "cislo": "Kinopremiéra: 2. února 1995. Na motivy pohádky Šternberk od Boženy Němcové.",
+      "film": "Kinopremiéra: 2. února 1995. Na motivy pohádky Šternberk od Boženy Němcové.",
+      "rezie": "Kinopremiéra: 2. února 1995. Na motivy pohádky Šternberk od Boženy Němcové.",
+      "scenar": "Kinopremiéra: 2. února 1995. Na motivy pohádky Šternberk od Boženy Němcové.",
+      "premiera_v_ct": "Kinopremiéra: 2. února 1995. Na motivy pohádky Šternberk od Boženy Němcové."
+    },
+    {
+      "cislo": "5",
+      "film": "RumplCimprCampr",
+      "rezie": "Zdeněk Zelenka",
+      "scenar": "Helena Sýkorová a Zdeněk Zelenka",
+      "premiera_v_ct": "24. prosince 1997"
+    },
+    {
+      "cislo": "Televizní film. Na motivy pohádek Hrášková princezna a Rumprcimprcampr od Jana Wericha.",
+      "film": "Televizní film. Na motivy pohádek Hrášková princezna a Rumprcimprcampr od Jana Wericha.",
+      "rezie": "Televizní film. Na motivy pohádek Hrášková princezna a Rumprcimprcampr od Jana Wericha.",
+      "scenar": "Televizní film. Na motivy pohádek Hrášková princezna a Rumprcimprcampr od Jana Wericha.",
+      "premiera_v_ct": "Televizní film. Na motivy pohádek Hrášková princezna a Rumprcimprcampr od Jana Wericha."
+    },
+    {
+      "cislo": "6",
+      "film": "Lotrando a Zubejda",
+      "rezie": "Karel Smyczek",
+      "scenar": "Zdeněk Svěrák",
+      "premiera_v_ct": "24. prosince 1998"
+    },
+    {
+      "cislo": "Kinopremiéra: 11. září 1997. Na motivy pohádek Velké loupežnické, O princezně Solimánské a Doktorské od Karla Čapka.",
+      "film": "Kinopremiéra: 11. září 1997. Na motivy pohádek Velké loupežnické, O princezně Solimánské a Doktorské od Karla Čapka.",
+      "rezie": "Kinopremiéra: 11. září 1997. Na motivy pohádek Velké loupežnické, O princezně Solimánské a Doktorské od Karla Čapka.",
+      "scenar": "Kinopremiéra: 11. září 1997. Na motivy pohádek Velké loupežnické, O princezně Solimánské a Doktorské od Karla Čapka.",
+      "premiera_v_ct": "Kinopremiéra: 11. září 1997. Na motivy pohádek Velké loupežnické, O princezně Solimánské a Doktorské od Karla Čapka."
+    },
+    {
+      "cislo": "7",
+      "film": "Císař a tambor",
+      "rezie": "Václav Křístek",
+      "scenar": "Václav Křístek",
+      "premiera_v_ct": "24. prosince 1999"
+    },
+    {
+      "cislo": "Kinopremiéra: 29. října 1998. Na motivy pověstí o císaři Josefu II.",
+      "film": "Kinopremiéra: 29. října 1998. Na motivy pověstí o císaři Josefu II.",
+      "rezie": "Kinopremiéra: 29. října 1998. Na motivy pověstí o císaři Josefu II.",
+      "scenar": "Kinopremiéra: 29. října 1998. Na motivy pověstí o císaři Josefu II.",
+      "premiera_v_ct": "Kinopremiéra: 29. října 1998. Na motivy pověstí o císaři Josefu II."
+    },
+    {
+      "cislo": "8",
+      "film": "Král sokolů",
+      "rezie": "Václav Vorlíček",
+      "scenar": "Ondrej Šulaj",
+      "premiera_v_ct": "24. prosince 2000"
+    },
+    {
+      "cislo": "Kinopremiéra: 9. března 2000. Na motivy novely Sokolník Tomáš od Jozefa Cígera-Hronského.",
+      "film": "Kinopremiéra: 9. března 2000. Na motivy novely Sokolník Tomáš od Jozefa Cígera-Hronského.",
+      "rezie": "Kinopremiéra: 9. března 2000. Na motivy novely Sokolník Tomáš od Jozefa Cígera-Hronského.",
+      "scenar": "Kinopremiéra: 9. března 2000. Na motivy novely Sokolník Tomáš od Jozefa Cígera-Hronského.",
+      "premiera_v_ct": "Kinopremiéra: 9. března 2000. Na motivy novely Sokolník Tomáš od Jozefa Cígera-Hronského."
+    },
+    {
+      "cislo": "9",
+      "film": "Princezna ze mlejna 2",
+      "rezie": "Zdeněk Troška",
+      "scenar": "Zdeněk Troška a Vratislav Marek",
+      "premiera_v_ct": "24. prosince 2001"
+    },
+    {
+      "cislo": "Kinopremiéra: 3. února 2000",
+      "film": "Kinopremiéra: 3. února 2000",
+      "rezie": "Kinopremiéra: 3. února 2000",
+      "scenar": "Kinopremiéra: 3. února 2000",
+      "premiera_v_ct": "Kinopremiéra: 3. února 2000"
+    },
+    {
+      "cislo": "10",
+      "film": "Královský slib",
+      "rezie": "Kryštof Hanzlík",
+      "scenar": "František Pavlíček",
+      "premiera_v_ct": "24. prosince 2002"
+    },
+    {
+      "cislo": "Kinopremiéra: 13. září 2001",
+      "film": "Kinopremiéra: 13. září 2001",
+      "rezie": "Kinopremiéra: 13. září 2001",
+      "scenar": "Kinopremiéra: 13. září 2001",
+      "premiera_v_ct": "Kinopremiéra: 13. září 2001"
+    },
+    {
+      "cislo": "11",
+      "film": "O svatební krajce",
+      "rezie": "Jiří Chlumský",
+      "scenar": "Irena Pavlová",
+      "premiera_v_ct": "24. prosince 2003"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "12",
+      "film": "Čert ví proč",
+      "rezie": "Roman Vávra",
+      "scenar": "námět: Miloš Macourek scénář: Ondrej Šulaj a Roman Vávra",
+      "premiera_v_ct": "24. prosince 2004"
+    },
+    {
+      "cislo": "Kinopremiéra: 27. února 2003",
+      "film": "Kinopremiéra: 27. února 2003",
+      "rezie": "Kinopremiéra: 27. února 2003",
+      "scenar": "Kinopremiéra: 27. února 2003",
+      "premiera_v_ct": "Kinopremiéra: 27. února 2003"
+    },
+    {
+      "cislo": "13",
+      "film": "Království potoků",
+      "rezie": "Pavel Jandourek",
+      "scenar": "Roman Ludva",
+      "premiera_v_ct": "24. prosince 2005"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "14",
+      "film": "Anděl Páně",
+      "rezie": "Jiří Strach",
+      "scenar": "Lucie Konášová",
+      "premiera_v_ct": "24. prosince 2006"
+    },
+    {
+      "cislo": "Kinopremiéra: 3. listopadu 2005. Na motivy pohádek Boženy Němcové.",
+      "film": "Kinopremiéra: 3. listopadu 2005. Na motivy pohádek Boženy Němcové.",
+      "rezie": "Kinopremiéra: 3. listopadu 2005. Na motivy pohádek Boženy Němcové.",
+      "scenar": "Kinopremiéra: 3. listopadu 2005. Na motivy pohádek Boženy Němcové.",
+      "premiera_v_ct": "Kinopremiéra: 3. listopadu 2005. Na motivy pohádek Boženy Němcové."
+    },
+    {
+      "cislo": "15",
+      "film": "Tři životy",
+      "rezie": "Jiří Strach",
+      "scenar": "Věra Šašková a Václav Šašek",
+      "premiera_v_ct": "24. prosince 2007"
+    },
+    {
+      "cislo": "Televizní film. Na motivy pohádek Boženy Němcové.",
+      "film": "Televizní film. Na motivy pohádek Boženy Němcové.",
+      "rezie": "Televizní film. Na motivy pohádek Boženy Němcové.",
+      "scenar": "Televizní film. Na motivy pohádek Boženy Němcové.",
+      "premiera_v_ct": "Televizní film. Na motivy pohádek Boženy Němcové."
+    },
+    {
+      "cislo": "16",
+      "film": "Kouzla králů",
+      "rezie": "Zdeněk Zelenka",
+      "scenar": "Zdeněk Zelenka",
+      "premiera_v_ct": "24. prosince 2008"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "17",
+      "film": "Láska rohatá",
+      "rezie": "Hynek Bočan",
+      "scenar": "Karel Žalud",
+      "premiera_v_ct": "24. prosince 2009"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "18",
+      "film": "Peklo s princeznou",
+      "rezie": "Miloslav Šmídmajer",
+      "scenar": "Miroslav Buberle",
+      "premiera_v_ct": "24. prosince 2010"
+    },
+    {
+      "cislo": "Kinopremiéra: 29. ledna 2009",
+      "film": "Kinopremiéra: 29. ledna 2009",
+      "rezie": "Kinopremiéra: 29. ledna 2009",
+      "scenar": "Kinopremiéra: 29. ledna 2009",
+      "premiera_v_ct": "Kinopremiéra: 29. ledna 2009"
+    },
+    {
+      "cislo": "19",
+      "film": "Micimutr",
+      "rezie": "Vít Karas",
+      "scenar": "Irena Dousková",
+      "premiera_v_ct": "24. prosince 2011"
+    },
+    {
+      "cislo": "Kinopremiéra: 17. listopadu 2011",
+      "film": "Kinopremiéra: 17. listopadu 2011",
+      "rezie": "Kinopremiéra: 17. listopadu 2011",
+      "scenar": "Kinopremiéra: 17. listopadu 2011",
+      "premiera_v_ct": "Kinopremiéra: 17. listopadu 2011"
+    },
+    {
+      "cislo": "20",
+      "film": "Dvanáct měsíčků",
+      "rezie": "Karel Janák",
+      "scenar": "Jana Janíková a Karel Janák",
+      "premiera_v_ct": "24. prosince 2012"
+    },
+    {
+      "cislo": "Televizní film. Na motivy pohádky O dvanácti měsíčkách od Boženy Němcové.",
+      "film": "Televizní film. Na motivy pohádky O dvanácti měsíčkách od Boženy Němcové.",
+      "rezie": "Televizní film. Na motivy pohádky O dvanácti měsíčkách od Boženy Němcové.",
+      "scenar": "Televizní film. Na motivy pohádky O dvanácti měsíčkách od Boženy Němcové.",
+      "premiera_v_ct": "Televizní film. Na motivy pohádky O dvanácti měsíčkách od Boženy Němcové."
+    },
+    {
+      "cislo": "21",
+      "film": "Duch nad zlato",
+      "rezie": "Zdeněk Zelenka",
+      "scenar": "Zdeněk Zelenka",
+      "premiera_v_ct": "24. prosince 2013"
+    },
+    {
+      "cislo": "Televizní film. Na motivy pohádky Křesadlo od Hanse Christiana Andersena.",
+      "film": "Televizní film. Na motivy pohádky Křesadlo od Hanse Christiana Andersena.",
+      "rezie": "Televizní film. Na motivy pohádky Křesadlo od Hanse Christiana Andersena.",
+      "scenar": "Televizní film. Na motivy pohádky Křesadlo od Hanse Christiana Andersena.",
+      "premiera_v_ct": "Televizní film. Na motivy pohádky Křesadlo od Hanse Christiana Andersena."
+    },
+    {
+      "cislo": "22",
+      "film": "Princezna a písař",
+      "rezie": "Karel Janák",
+      "scenar": "Rudolf Merkner",
+      "premiera_v_ct": "24. prosince 2014"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "23",
+      "film": "Korunní princ",
+      "rezie": "Karel Janák",
+      "scenar": "Petr Hudský",
+      "premiera_v_ct": "24. prosince 2015"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "24",
+      "film": "Pravý rytíř",
+      "rezie": "Martin Dolenský",
+      "scenar": "Petr Hudský",
+      "premiera_v_ct": "24. prosince 2016"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "25",
+      "film": "Anděl Páně 2",
+      "rezie": "Jiří Strach",
+      "scenar": "Jiří Strach a Marek Epstein",
+      "premiera_v_ct": "24. prosince 2017"
+    },
+    {
+      "cislo": "Kinopremiéra: 1. prosince 2016",
+      "film": "Kinopremiéra: 1. prosince 2016",
+      "rezie": "Kinopremiéra: 1. prosince 2016",
+      "scenar": "Kinopremiéra: 1. prosince 2016",
+      "premiera_v_ct": "Kinopremiéra: 1. prosince 2016"
+    },
+    {
+      "cislo": "26",
+      "film": "Kouzelník Žito",
+      "rezie": "Zdeněk Zelenka",
+      "scenar": "Zdeněk Zelenka",
+      "premiera_v_ct": "24. prosince 2018"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "27",
+      "film": "Princezna a půl království",
+      "rezie": "Karel Janák",
+      "scenar": "Petr Hudský",
+      "premiera_v_ct": "24. prosince 2019"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "28",
+      "film": "O vánoční hvězdě",
+      "rezie": "Karel Janák",
+      "scenar": "Karel Janák a Michal Čunderle",
+      "premiera_v_ct": "24. prosince 2020"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "29",
+      "film": "Jak si nevzít princeznu",
+      "rezie": "Karel Janák",
+      "scenar": "Petr Hudský",
+      "premiera_v_ct": "24. prosince 2021"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "30",
+      "film": "Tajemství staré bambitky 2",
+      "rezie": "Ivo Macharáček",
+      "scenar": "Evžen Gogela a Ivo Macharáček",
+      "premiera_v_ct": "24. prosince 2022"
+    },
+    {
+      "cislo": "Kinopremiéra: 10. února 2022",
+      "film": "Kinopremiéra: 10. února 2022",
+      "rezie": "Kinopremiéra: 10. února 2022",
+      "scenar": "Kinopremiéra: 10. února 2022",
+      "premiera_v_ct": "Kinopremiéra: 10. února 2022"
+    },
+    {
+      "cislo": "31",
+      "film": "Klíč svatého Petra",
+      "rezie": "Karel Janák",
+      "scenar": "Petr Hudský",
+      "premiera_v_ct": "24. prosince 2023"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "32",
+      "film": "Tři princezny",
+      "rezie": "Tomáš Pavlíček",
+      "scenar": "Hana Cielová a Zdeněk Jecelín",
+      "premiera_v_ct": "24. prosince 2024"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "33",
+      "film": "Záhada strašidelného zámku",
+      "rezie": "Ivo Macharáček",
+      "scenar": "Tomáš Syrovátka",
+      "premiera_v_ct": "24. prosince 2025"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    },
+    {
+      "cislo": "34",
+      "film": "Krakonoš a básník",
+      "rezie": "Peter Bebjak",
+      "scenar": "Barbara Johnsonová",
+      "premiera_v_ct": "24. prosince 2026"
+    },
+    {
+      "cislo": "Televizní film",
+      "film": "Televizní film",
+      "rezie": "Televizní film",
+      "scenar": "Televizní film",
+      "premiera_v_ct": "Televizní film"
+    }
+  ],
+  "meta": {
+    "title": "Štědrovečerní pohádky České televize - Free Download",
+    "description": "Pohádky, které Česká televize premiérově uvedla na Štědrý večer, s režisérem, scenáristou a datem premiéry. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Štědrovečerní pohádky České televize | ListBase",
+    "seo_description": "Download Štědrovečerní pohádky České televize — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_štědrovečerních_pohádek_České_televize"
+    ]
+  }
+}

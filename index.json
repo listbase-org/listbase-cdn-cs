@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-09T02:54:35.536Z",
-  "total_datasets": 549,
-  "total_records": 420120,
+  "generated": "2026-11-09T02:54:45.429Z",
+  "total_datasets": 550,
+  "total_records": 420188,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -1974,6 +1974,32 @@
         "xlsx": {
           "name": "cs-nejnavstevovanejsi-ceske-filmy-vsech-dob_CS.xlsx",
           "size": 7360
+        }
+      }
+    },
+    {
+      "id": "cs-stedrovecerni-pohadky-ct",
+      "name": "Štědrovečerní pohádky České televize",
+      "category": "entertainment",
+      "record_count": 68,
+      "columns": [
+        "cislo",
+        "film",
+        "rezie",
+        "scenar",
+        "premiera_v_ct"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_štědrovečerních_pohádek_České_televize",
+      "updated": "2026-11",
+      "size": 19073,
+      "files": {
+        "csv": {
+          "name": "cs-stedrovecerni-pohadky-ct_CS.csv",
+          "size": 10537
+        },
+        "xlsx": {
+          "name": "cs-stedrovecerni-pohadky-ct_CS.xlsx",
+          "size": 9757
         }
       }
     },
