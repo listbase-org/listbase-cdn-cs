@@ -1,0 +1,702 @@
+{
+  "id": "cs-trezorove-filmy",
+  "name": "České trezorové filmy",
+  "title": "České trezorové filmy",
+  "description": "Československé filmy zakázané nebo stažené z distribuce komunistickým režimem (trezorové filmy), s rokem premiéry, stažení a uvolnění.",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_českých_trezorových_filmů",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_českých_trezorových_filmů",
+  "updated": "2026-11",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "nazev_filmu",
+      "label": "Nazev Filmu",
+      "type": "number"
+    },
+    {
+      "key": "premiera",
+      "label": "Premiera",
+      "type": "number"
+    },
+    {
+      "key": "stazeni_z_distribuce",
+      "label": "Stazeni Z Distribuce",
+      "type": "string"
+    },
+    {
+      "key": "uvolneni",
+      "label": "Uvolneni",
+      "type": "number"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazev_filmu": "322",
+      "premiera": 1970,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Archa bláznů",
+      "premiera": "—",
+      "stazeni_z_distribuce": "—",
+      "uvolneni": 1990,
+      "poznamka": "natočen 1969–1970, dokončen 1990"
+    },
+    {
+      "nazev_filmu": "Ať žije republika",
+      "premiera": 1965,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Až přijde kocour",
+      "premiera": 1963,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Bílá paní",
+      "premiera": 1965,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Bony a klid",
+      "premiera": 1988,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Byt",
+      "premiera": 1968,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Černý Petr",
+      "premiera": 1964,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Československé jaro 1968",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Čest a sláva",
+      "premiera": 1969,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Daleká cesta",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Démanty noci",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Den sedmý, osmá noc",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Devět kapitol ze starého dějepisu",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Dovidenia v pekle, priatelia",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Džusový román",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Eden a potom",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Ezop [ nepřesný odkaz ]",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Farářův konec",
+      "premiera": 1969,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Flirt ze slečnou Stříbrnou",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Hlídač",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Hoří, má panenko",
+      "premiera": 1967,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Hotel pro cizince",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Hra o jablko",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Hvězda jede na jih",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Intimní osvětlení",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Inzerát na dům, ve kterém už nechci bydlet",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Ja milujem, ty miluješ",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Já truchlivý bůh",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Kateřina a její děti",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Každý den odvahu",
+      "premiera": 1965,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Kladivo na čarodějnice",
+      "premiera": 1969,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Kočár do Vídně",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Konec jasnovidce",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Konec srpna v hotelu Ozon",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Konec velké epochy",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Ľalie poľné",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Mraveniště",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Muž, ktorý luže",
+      "premiera": 1968,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Nahota [ nepřesný odkaz ]",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Návrat ztraceného syna",
+      "premiera": 1966,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Návštěvy",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Nebeští jezdci",
+      "premiera": 1968,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Noc nevěsty",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "O slavnosti a hostech",
+      "premiera": 1966,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Obchod na korze",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Obrazy starého světa",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Obžalovaný",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Ostře sledované vlaky",
+      "premiera": 1966,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Ovoce stromů rajských jíme",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Panelstory aneb Jak se rodí sídliště",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Pasťák",
+      "premiera": "—",
+      "stazeni_z_distribuce": "—",
+      "uvolneni": 1990,
+      "poznamka": "natočen 1969–1970, práce na filmu byly zakázány po prvním sestřihu, dokončen 1990"
+    },
+    {
+      "nazev_filmu": "Postava k podpírání",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Postřižiny",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Případ Barnabáš Kos",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Případ pro začínajícího kata",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Pytlákova schovanka",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Sedmikrásky",
+      "premiera": 1966,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Skřivánci na niti",
+      "premiera": "—",
+      "stazeni_z_distribuce": "—",
+      "uvolneni": 1990,
+      "poznamka": "natočen a dokončen 1969, nebyl však uvolněn do distribuce"
+    },
+    {
+      "nazev_filmu": "Slnko v sieti",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Směšný pán",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Smrt si říká Engelchen",
+      "premiera": 1963,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Smuteční slavnost",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Snídaně v trávě",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Sokolovo",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Spalovač mrtvol",
+      "premiera": 1969,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Spřízněni volbou",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": "dokument o politickém tání od jara do podzimu 1968"
+    },
+    {
+      "nazev_filmu": "Straka v hrsti",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Strážce majáku",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Stud",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Svatba jako řemen",
+      "premiera": 1967,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1989,
+      "poznamka": "stažen z distribuce kvůli protirežimnímu vystupování Pavla Landovského"
+    },
+    {
+      "nazev_filmu": "Svědomí",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Světáci",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Šíleně smutná princezna",
+      "premiera": 1968,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": "stažen z distribuce po emigraci hudebního skladatele Jana Hammera a po zákazu veřejného vystupování pro Darka Vostřela"
+    },
+    {
+      "nazev_filmu": "Škola otců",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Štěnata",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Tři přání",
+      "premiera": 1958,
+      "stazeni_z_distribuce": 1959,
+      "uvolneni": 1963,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Třicet panen a Pythagoras",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Ucho",
+      "premiera": "—",
+      "stazeni_z_distribuce": "—",
+      "uvolneni": 1990,
+      "poznamka": "natočen a dokončen 1969, nebyl však uvolněn do distribuce"
+    },
+    {
+      "nazev_filmu": "Utrpení mladého Boháčka",
+      "premiera": 1969,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": "stažen z distribuce kvůli protirežimnímu vystupování Pavla Landovského"
+    },
+    {
+      "nazev_filmu": "V srdci Evropy",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "V tunelu",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Valerie a týden divů",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Velká samota",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Všichni dobří rodáci",
+      "premiera": 1969,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Vtáčkovia, siroty a blázni",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Vyloženě rodinná historie",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Zabitá neděle",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Zahrada [ nepřesný odkaz ]",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Zářijové noci",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Zbehovia a pútnici",
+      "premiera": 1968,
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Zde jsou lvi",
+      "premiera": "",
+      "stazeni_z_distribuce": "",
+      "uvolneni": "",
+      "poznamka": ""
+    },
+    {
+      "nazev_filmu": "Žert",
+      "premiera": 1969,
+      "stazeni_z_distribuce": "",
+      "uvolneni": 1990,
+      "poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "České trezorové filmy - Free Download",
+    "description": "Československé filmy zakázané nebo stažené z distribuce komunistickým režimem (trezorové filmy), s rokem premiéry, stažení a uvolnění. Contains 93 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "České trezorové filmy | ListBase",
+    "seo_description": "Download České trezorové filmy — 93 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 93 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_českých_trezorových_filmů"
+    ]
+  }
+}
