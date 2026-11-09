@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-06T02:29:14.656Z",
-  "total_datasets": 546,
-  "total_records": 419594,
+  "generated": "2026-11-09T02:54:15.825Z",
+  "total_datasets": 547,
+  "total_records": 419627,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1847,6 +1847,31 @@
         "xlsx": {
           "name": "cs-filmove-pohadky_CS.xlsx",
           "size": 22129
+        }
+      }
+    },
+    {
+      "id": "cs-kandidati-na-oscara",
+      "name": "Čeští kandidáti na Oscara za nejlepší cizojazyčný film",
+      "category": "entertainment",
+      "record_count": 33,
+      "columns": [
+        "rok",
+        "film",
+        "reziser",
+        "vysledek"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_českých_kandidátů_na_Oscara_za_nejlepší_cizojazyčný_film",
+      "updated": "2026-11",
+      "size": 6365,
+      "files": {
+        "csv": {
+          "name": "cs-kandidati-na-oscara_CS.csv",
+          "size": 2014
+        },
+        "xlsx": {
+          "name": "cs-kandidati-na-oscara_CS.xlsx",
+          "size": 8104
         }
       }
     },

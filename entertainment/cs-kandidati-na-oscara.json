@@ -1,0 +1,244 @@
+{
+  "id": "cs-kandidati-na-oscara",
+  "name": "Čeští kandidáti na Oscara za nejlepší cizojazyčný film",
+  "title": "Čeští kandidáti na Oscara za nejlepší cizojazyčný film",
+  "description": "České filmy přihlášené do soutěže o Oscara za nejlepší cizojazyčný (mezinárodní) film od roku 1994, s režisérem a výsledkem.",
+  "category": "entertainment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_českých_kandidátů_na_Oscara_za_nejlepší_cizojazyčný_film",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_českých_kandidátů_na_Oscara_za_nejlepší_cizojazyčný_film",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "reziser",
+      "label": "Reziser",
+      "type": "string"
+    },
+    {
+      "key": "vysledek",
+      "label": "Vysledek",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1994,
+      "film": "Lekce Faust",
+      "reziser": "Jan Švankmajer",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 1995,
+      "film": "Díky za každé nové ráno",
+      "reziser": "Milan Šteindler",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 1996,
+      "film": "Kolja",
+      "reziser": "Jan Svěrák",
+      "vysledek": "získal Oscara"
+    },
+    {
+      "rok": 1997,
+      "film": "Zapomenuté světlo",
+      "reziser": "Vladimír Michálek",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 1998,
+      "film": "Je třeba zabít Sekala",
+      "reziser": "Vladimír Michálek",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 1999,
+      "film": "Návrat idiota",
+      "reziser": "Saša Gedeon",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2000,
+      "film": "Musíme si pomáhat",
+      "reziser": "Jan Hřebejk",
+      "vysledek": "nominován"
+    },
+    {
+      "rok": 2001,
+      "film": "Tmavomodrý svět",
+      "reziser": "Jan Svěrák",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2002,
+      "film": "Divoké včely",
+      "reziser": "Bohdan Sláma",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2003,
+      "film": "Želary",
+      "reziser": "Ondřej Trojan",
+      "vysledek": "nominován"
+    },
+    {
+      "rok": 2004,
+      "film": "Horem pádem",
+      "reziser": "Jan Hřebejk",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2005,
+      "film": "Štěstí",
+      "reziser": "Bohdan Sláma",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2006,
+      "film": "Šílení",
+      "reziser": "Jan Švankmajer",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2007,
+      "film": "Obsluhoval jsem anglického krále",
+      "reziser": "Jiří Menzel",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2008,
+      "film": "Karamazovi",
+      "reziser": "Petr Zelenka",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2009,
+      "film": "Protektor",
+      "reziser": "Marek Najbrt",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2010,
+      "film": "Kawasakiho růže",
+      "reziser": "Jan Hřebejk",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2011,
+      "film": "Alois Nebel",
+      "reziser": "Tomáš Luňák",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2012,
+      "film": "Ve stínu",
+      "reziser": "David Ondříček",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2013,
+      "film": "Donšajni",
+      "reziser": "Jiří Menzel",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2014,
+      "film": "Fair Play",
+      "reziser": "Andrea Sedláčková",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2015,
+      "film": "Domácí péče",
+      "reziser": "Slávek Horák",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2016,
+      "film": "Ztraceni v Mnichově",
+      "reziser": "Petr Zelenka",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2017,
+      "film": "Bába z ledu",
+      "reziser": "Bohdan Sláma",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2018,
+      "film": "Všechno bude",
+      "reziser": "Olmo Omerzu",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2019,
+      "film": "Nabarvené ptáče",
+      "reziser": "Václav Marhoul",
+      "vysledek": "užší výběr"
+    },
+    {
+      "rok": 2020,
+      "film": "Šarlatán",
+      "reziser": "Agnieszka Holland",
+      "vysledek": "užší výběr"
+    },
+    {
+      "rok": 2021,
+      "film": "Zátopek",
+      "reziser": "David Ondříček",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2022,
+      "film": "Il Boemo",
+      "reziser": "Petr Václav",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2023,
+      "film": "Bratři",
+      "reziser": "Tomáš Mašín",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2024,
+      "film": "Vlny",
+      "reziser": "Jiří Mádl",
+      "vysledek": "užší výběr"
+    },
+    {
+      "rok": 2025,
+      "film": "Ještě nejsem, kým chci být",
+      "reziser": "Klára Tasovská",
+      "vysledek": "nebyl nominován"
+    },
+    {
+      "rok": 2026,
+      "film": "Kdyby se holubi proměnili ve zlato",
+      "reziser": "Pepa Lubojacki",
+      "vysledek": "bude oznámeno"
+    }
+  ],
+  "meta": {
+    "title": "Čeští kandidáti na Oscara za nejlepší cizojazyčný film - Free Download",
+    "description": "České filmy přihlášené do soutěže o Oscara za nejlepší cizojazyčný (mezinárodní) film od roku 1994, s režisérem a výsledkem. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Čeští kandidáti na Oscara za nejlepší cizojazyčný film | ListBase",
+    "seo_description": "Download Čeští kandidáti na Oscara za nejlepší cizojazyčný film — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_českých_kandidátů_na_Oscara_za_nejlepší_cizojazyčný_film"
+    ]
+  }
+}
