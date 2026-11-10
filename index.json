@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-10T02:28:43.770Z",
-  "total_datasets": 554,
-  "total_records": 420889,
+  "generated": "2026-11-10T02:28:55.050Z",
+  "total_datasets": 555,
+  "total_records": 421047,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 15
+      "dataset_count": 16
     },
     {
       "id": "time",
@@ -14622,6 +14622,35 @@
         "xlsx": {
           "name": "cs-knihovna_CS.xlsx",
           "size": 857157
+        }
+      }
+    },
+    {
+      "id": "cs-vysilace-televize-rozhlas",
+      "name": "Televizní a rozhlasové vysílače v Česku",
+      "category": "tech",
+      "record_count": 158,
+      "columns": [
+        "name",
+        "town",
+        "elevation_masl",
+        "mast_height",
+        "erp",
+        "erp_unit",
+        "erp_note",
+        "category"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_vysílačů_v_Česku",
+      "updated": "2026-11",
+      "size": 51711,
+      "files": {
+        "csv": {
+          "name": "cs-vysilace-televize-rozhlas_CS.csv",
+          "size": 24773
+        },
+        "xlsx": {
+          "name": "cs-vysilace-televize-rozhlas_CS.xlsx",
+          "size": 14888
         }
       }
     },

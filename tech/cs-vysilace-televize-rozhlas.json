@@ -1,0 +1,1646 @@
+{
+  "id": "cs-vysilace-televize-rozhlas",
+  "name": "Televizní a rozhlasové vysílače v Česku",
+  "title": "Televizní a rozhlasové vysílače v Česku",
+  "description": "Seznam vysílačů DVB-T2 a FM v Česku – základní, dokrývací a malé vysílače s městem, nadmořskou výškou a povoleným vyzářeným výkonem (ERP).",
+  "category": "tech",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_vysílačů_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_vysílačů_v_Česku",
+  "updated": "2026-11",
+  "record_count": 158,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "town",
+      "label": "Town",
+      "type": "string"
+    },
+    {
+      "key": "elevation_masl",
+      "label": "Elevation Masl",
+      "type": "number"
+    },
+    {
+      "key": "mast_height",
+      "label": "Mast Height",
+      "type": "string"
+    },
+    {
+      "key": "erp",
+      "label": "Erp",
+      "type": "string"
+    },
+    {
+      "key": "erp_unit",
+      "label": "Erp Unit",
+      "type": "string"
+    },
+    {
+      "key": "erp_note",
+      "label": "Erp Note",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Barvičova",
+      "town": "Brno",
+      "elevation_masl": 305,
+      "mast_height": "42 m",
+      "erp": "10 / -",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Buková hora",
+      "town": "Ústí nad Labem",
+      "elevation_masl": 683,
+      "mast_height": "223 m",
+      "erp": "100 / 100",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Černá hora",
+      "town": "Trutnov",
+      "elevation_masl": 1299,
+      "mast_height": "78 m",
+      "erp": "100 / 10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Cukrák",
+      "town": "Praha",
+      "elevation_masl": 399,
+      "mast_height": "195 m",
+      "erp": "100 / 50",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Děvín",
+      "town": "Mikulov",
+      "elevation_masl": 550,
+      "mast_height": "57 m",
+      "erp": "25 / -",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Hády",
+      "town": "Brno",
+      "elevation_masl": 424,
+      "mast_height": "50 m",
+      "erp": "10 / 10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Hladnov",
+      "town": "Ostrava",
+      "elevation_masl": 266,
+      "mast_height": "44 m",
+      "erp": "3 / 0,5",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Hošťálkovice",
+      "town": "Ostrava",
+      "elevation_masl": 287,
+      "mast_height": "184,5 m",
+      "erp": "100 / 70",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Javořice",
+      "town": "Jihlava",
+      "elevation_masl": 835,
+      "mast_height": "166 m",
+      "erp": "100 / 20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Jedlová hora",
+      "town": "Chomutov",
+      "elevation_masl": 848,
+      "mast_height": "75 m",
+      "erp": "32 / 10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Ještěd",
+      "town": "Liberec",
+      "elevation_masl": 1012,
+      "mast_height": "94 m",
+      "erp": "32 / 20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Kleť",
+      "town": "České Budějovice",
+      "elevation_masl": 1060,
+      "mast_height": "172 m",
+      "erp": "100 / 78",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Klínovec",
+      "town": "Jáchymov",
+      "elevation_masl": 1243,
+      "mast_height": "56 m",
+      "erp": "50 / 0,8",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Kojál",
+      "town": "Brno",
+      "elevation_masl": 600,
+      "mast_height": "339,47 m",
+      "erp": "100 / 83",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Krásné",
+      "town": "Pardubice",
+      "elevation_masl": 614,
+      "mast_height": "182 m",
+      "erp": "100 / 100",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Krašov",
+      "town": "Plzeň",
+      "elevation_masl": 713,
+      "mast_height": "339,35 m",
+      "erp": "100 / 89",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Lysá hora",
+      "town": "Frýdek-Místek",
+      "elevation_masl": 1324,
+      "mast_height": "78 m",
+      "erp": "25 / -",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Mařský vrch",
+      "town": "Vimperk",
+      "elevation_masl": 895,
+      "mast_height": "80 m",
+      "erp": "20 / -",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Mezivrata",
+      "town": "Votice",
+      "elevation_masl": 713,
+      "mast_height": "102 m",
+      "erp": "32 / 93",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Ploštiny",
+      "town": "Valašské Klobouky",
+      "elevation_masl": 716,
+      "mast_height": "51 m",
+      "erp": "25 / -",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Praděd",
+      "town": "Jeseník",
+      "elevation_masl": 1490,
+      "mast_height": "146,5 m",
+      "erp": "100 / 20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Svatobor",
+      "town": "Sušice",
+      "elevation_masl": 834,
+      "mast_height": "75 m",
+      "erp": "100 / 0,8",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Tlustá hora",
+      "town": "Zlín",
+      "elevation_masl": 458,
+      "mast_height": "83 m",
+      "erp": "100 / 10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Vraní vrch",
+      "town": "Domažlice",
+      "elevation_masl": 684,
+      "mast_height": "86 m",
+      "erp": "10 / -",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Zelená hora",
+      "town": "Cheb",
+      "elevation_masl": 634,
+      "mast_height": "56 m",
+      "erp": "20 / 0,8",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Žižkov",
+      "town": "Praha",
+      "elevation_masl": 258,
+      "mast_height": "216 m",
+      "erp": "32 / 5",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Andrlův Chlum",
+      "town": "Ústí nad Orlicí",
+      "elevation_masl": 560,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Barvičova",
+      "town": "Brno",
+      "elevation_masl": 323,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Buchov",
+      "town": "Votice",
+      "elevation_masl": 674,
+      "mast_height": "",
+      "erp": "20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Čerchov",
+      "town": "Domažlice",
+      "elevation_masl": 1040,
+      "mast_height": "",
+      "erp": "6",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Černá Studnice",
+      "town": "Jablonec nad Nisou",
+      "elevation_masl": 864,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Deblínek",
+      "town": "Znojmo",
+      "elevation_masl": 354,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Dyleň",
+      "town": "Mariánské Lázně",
+      "elevation_masl": 936,
+      "mast_height": "",
+      "erp": "50",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Hády",
+      "town": "Brno",
+      "elevation_masl": 420,
+      "mast_height": "",
+      "erp": "5",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Hřebečov",
+      "town": "Svitavy",
+      "elevation_masl": 622,
+      "mast_height": "",
+      "erp": "5",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Hůrka",
+      "town": "Hlubočec",
+      "elevation_masl": 526,
+      "mast_height": "",
+      "erp": "40",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Chlum",
+      "town": "Děčín",
+      "elevation_masl": 439,
+      "mast_height": "",
+      "erp": "3",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Chlum",
+      "town": "Hradec Králové",
+      "elevation_masl": 338,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Ještěd",
+      "town": "Liberec",
+      "elevation_masl": 996,
+      "mast_height": "",
+      "erp": "16",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Jihlavská",
+      "town": "Brno",
+      "elevation_masl": 281,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Kapánsko",
+      "town": "Hodonín",
+      "elevation_masl": 280,
+      "mast_height": "",
+      "erp": "10, 1",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Kleť",
+      "town": "České Budějovice",
+      "elevation_masl": 1075,
+      "mast_height": "",
+      "erp": "63",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Klínovec",
+      "town": "Jáchymov",
+      "elevation_masl": 1229,
+      "mast_height": "",
+      "erp": "40",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Košutka",
+      "town": "Plzeň",
+      "elevation_masl": 438,
+      "mast_height": "",
+      "erp": "32",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Kozmice",
+      "town": "Benešov",
+      "elevation_masl": 528,
+      "mast_height": "",
+      "erp": "40",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Krušnohorská",
+      "town": "Ústí nad Labem",
+      "elevation_masl": 285,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Ládví",
+      "town": "Praha",
+      "elevation_masl": 359,
+      "mast_height": "",
+      "erp": "20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Lanová",
+      "town": "Ostrava",
+      "elevation_masl": 274,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Louštín",
+      "town": "Rakovník",
+      "elevation_masl": 529,
+      "mast_height": "",
+      "erp": "63",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Lysá hora",
+      "town": "Frýdek-Místek",
+      "elevation_masl": 1311,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Nová Ves",
+      "town": "Teplice",
+      "elevation_masl": 378,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Novodvorská",
+      "town": "Praha",
+      "elevation_masl": 305,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Olšanská",
+      "town": "Praha",
+      "elevation_masl": 251,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Panorama",
+      "town": "Trutnov",
+      "elevation_masl": 1254,
+      "mast_height": "",
+      "erp": "20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Rovnina",
+      "town": "Uherské Hradiště",
+      "elevation_masl": 336,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Ruprechtice",
+      "town": "Broumov",
+      "elevation_masl": 874,
+      "mast_height": "",
+      "erp": "1",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Slatiňany",
+      "town": "Pardubice",
+      "elevation_masl": 265,
+      "mast_height": "",
+      "erp": "20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Slavonín",
+      "town": "Olomouc",
+      "elevation_masl": 255,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Středová",
+      "town": "Zlín",
+      "elevation_masl": 304,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Svatobor",
+      "town": "Sušice",
+      "elevation_masl": 835,
+      "mast_height": "",
+      "erp": "20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Šibeník",
+      "town": "Miličín",
+      "elevation_masl": 650,
+      "mast_height": "",
+      "erp": "20",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Špičák",
+      "town": "Česká Lípa",
+      "elevation_masl": 414,
+      "mast_height": "",
+      "erp": "3",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Vartemberk",
+      "town": "Třebíč",
+      "elevation_masl": 624,
+      "mast_height": "",
+      "erp": "5",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Velký Javorník",
+      "town": "Frenštát pod Radhoštěm",
+      "elevation_masl": 915,
+      "mast_height": "",
+      "erp": "10, 3",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Větrný Jeníkov",
+      "town": "Jihlava",
+      "elevation_masl": 702,
+      "mast_height": "",
+      "erp": "10",
+      "erp_unit": "kW",
+      "erp_note": "DVB-T2",
+      "category": "Síť základních vysílačů – Základní vysílače společnosti Digital Broadcasting"
+    },
+    {
+      "name": "Bečevná",
+      "town": "Vsetín",
+      "elevation_masl": 445,
+      "mast_height": "",
+      "erp": "20 / 200",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Biskupská kupa",
+      "town": "Zlaté Hory",
+      "elevation_masl": 873,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Březové hory",
+      "town": "Příbram",
+      "elevation_masl": 548,
+      "mast_height": "",
+      "erp": "10 / 50",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Čelkovice",
+      "town": "Tábor",
+      "elevation_masl": 420,
+      "mast_height": "",
+      "erp": "5 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Čížovky",
+      "town": "Boskovice",
+      "elevation_masl": 443,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Dubina",
+      "town": "Strání",
+      "elevation_masl": 552,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Fajtův vrch",
+      "town": "Velké Meziříčí",
+      "elevation_masl": 527,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Háj",
+      "town": "Aš",
+      "elevation_masl": 755,
+      "mast_height": "",
+      "erp": "50 / 200",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Harusův kopec",
+      "town": "Žďár nad Sázavou",
+      "elevation_masl": 741,
+      "mast_height": "",
+      "erp": "100 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Havlíčkův Brod",
+      "town": "Havlíčkův Brod",
+      "elevation_masl": 442,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Horní Sněžná",
+      "town": "Volary",
+      "elevation_masl": 1009,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "hotel Monty",
+      "town": "Mariánské Lázně",
+      "elevation_masl": 585,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Hřebenáč",
+      "town": "Jindřichovice pod Smrkem",
+      "elevation_masl": 566,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Humenec",
+      "town": "Nový Hrozenkov",
+      "elevation_masl": 674,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Hůrka",
+      "town": "Klatovy",
+      "elevation_masl": 496,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Hvězda",
+      "town": "Broumov",
+      "elevation_masl": 696,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Ječný vrch",
+      "town": "Velký Šenov",
+      "elevation_masl": 502,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Jírová hora",
+      "town": "Hronov",
+      "elevation_masl": 484,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Kamenná Horka",
+      "town": "Svitavy",
+      "elevation_masl": 627,
+      "mast_height": "",
+      "erp": "100 / 1000",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Komorní Hrádek",
+      "town": "Chocerady",
+      "elevation_masl": 310,
+      "mast_height": "",
+      "erp": "5 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Koráb",
+      "town": "Kdyně",
+      "elevation_masl": 772,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Krásná Pole",
+      "town": "Loučovice",
+      "elevation_masl": 897,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Kubincův kopec",
+      "town": "Ústí nad Orlicí",
+      "elevation_masl": 446,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Labská",
+      "town": "Špindlerův Mlýn",
+      "elevation_masl": 848,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Na Kyčerce",
+      "town": "Velké Karlovice",
+      "elevation_masl": 684,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Na Rozálce",
+      "town": "Žamberk",
+      "elevation_masl": 465,
+      "mast_height": "",
+      "erp": "16 / 100",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Na Vrážích",
+      "town": "Husinec",
+      "elevation_masl": 581,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Nad hřbitovem",
+      "town": "Jince",
+      "elevation_masl": 441,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "nad ZD",
+      "town": "Letohrad",
+      "elevation_masl": 393,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Nemanice",
+      "town": "Nemanice",
+      "elevation_masl": 766,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Novotných vršek",
+      "town": "Zdíkov",
+      "elevation_masl": 729,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Nýrsko",
+      "town": "Nýrsko",
+      "elevation_masl": 663,
+      "mast_height": "",
+      "erp": "16 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Okružní ulice",
+      "town": "Rakovník",
+      "elevation_masl": 373,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Olešná",
+      "town": "Blansko",
+      "elevation_masl": 404,
+      "mast_height": "",
+      "erp": "20 / 200",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Pálenisko",
+      "town": "Jablůnka",
+      "elevation_masl": 569,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Popovický vrch",
+      "town": "Děčín",
+      "elevation_masl": 350,
+      "mast_height": "",
+      "erp": "20 / 100",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Radhošť",
+      "town": "Valašské Meziříčí",
+      "elevation_masl": 1128,
+      "mast_height": "",
+      "erp": "100 / 10000",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Rotava",
+      "town": "Rotava",
+      "elevation_masl": 509,
+      "mast_height": "",
+      "erp": "5 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Rozvodí",
+      "town": "Železná Ruda",
+      "elevation_masl": 1160,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Sázava nad Sázavou",
+      "town": "Sázava nad Sázavou",
+      "elevation_masl": 436,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Semenec",
+      "town": "Týn nad Vltavou",
+      "elevation_masl": 439,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Sněžná",
+      "town": "Kraslice",
+      "elevation_masl": 691,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Strážnice",
+      "town": "Jablonné nad Orlicí",
+      "elevation_masl": 515,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Strážný vrch",
+      "town": "Třebíč",
+      "elevation_masl": 480,
+      "mast_height": "",
+      "erp": "5 / 100",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Svatopluka Čecha",
+      "town": "Vejprty",
+      "elevation_masl": 790,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Šeptouchov",
+      "town": "Ledeč nad Sázavou",
+      "elevation_masl": 421,
+      "mast_height": "",
+      "erp": "13 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Tři kříže",
+      "town": "Karlovy Vary",
+      "elevation_masl": 503,
+      "mast_height": "",
+      "erp": "25 / 1000",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "U rozhledny",
+      "town": "Frýdlant",
+      "elevation_masl": 392,
+      "mast_height": "",
+      "erp": "25 / 200",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "U Sivků",
+      "town": "Huslenky",
+      "elevation_masl": 696,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Vaňov",
+      "town": "Ústí nad Labem",
+      "elevation_masl": 350,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "vrch Děd",
+      "town": "Beroun",
+      "elevation_masl": 401,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "vrch Praha",
+      "town": "Příbram",
+      "elevation_masl": 861,
+      "mast_height": "",
+      "erp": "1000 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "vrch Pytlák",
+      "town": "Šluknov",
+      "elevation_masl": 462,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Zborovská ulice",
+      "town": "Náměšť nad Oslavou",
+      "elevation_masl": 418,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Žalý",
+      "town": "Vrchlabí",
+      "elevation_masl": 718,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti České Radiokomunikace"
+    },
+    {
+      "name": "Bezručova",
+      "town": "Jablunkov",
+      "elevation_masl": 400,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Búřov",
+      "town": "Valašská Bystřice",
+      "elevation_masl": 653,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Československé armády 238/22",
+      "town": "Loket",
+      "elevation_masl": 486,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Halenkov 631",
+      "town": "Halenkov",
+      "elevation_masl": 449,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Jedlová",
+      "town": "Jiřetín pod Jedlovou",
+      "elevation_masl": 775,
+      "mast_height": "",
+      "erp": "100 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Kladská ulice",
+      "town": "Náchod",
+      "elevation_masl": 342,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Kopřivná",
+      "town": "Kopřivná",
+      "elevation_masl": 583,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Náměstí sv. Michala",
+      "town": "Vrbno pod Pradědem",
+      "elevation_masl": 579,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Suchý vrch",
+      "town": "Králíky",
+      "elevation_masl": 994,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Šibeniční vrch, vodárna",
+      "town": "Prachatice",
+      "elevation_masl": 685,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "škola",
+      "town": "Hanušovice",
+      "elevation_masl": 391,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Tanvaldský Špičák",
+      "town": "Albrechtice",
+      "elevation_masl": 803,
+      "mast_height": "",
+      "erp": "100 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "U kapličky",
+      "town": "Hejnice",
+      "elevation_masl": 453,
+      "mast_height": "",
+      "erp": "32 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "u nádraží",
+      "town": "Horní Lipová",
+      "elevation_masl": 582,
+      "mast_height": "",
+      "erp": "32 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Vadín",
+      "town": "Okrouhlice",
+      "elevation_masl": 415,
+      "mast_height": "",
+      "erp": "100 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Vyhlídka",
+      "town": "Náchod",
+      "elevation_masl": 527,
+      "mast_height": "",
+      "erp": "50 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Základní škola Pelechov",
+      "town": "Pelechov",
+      "elevation_masl": 368,
+      "mast_height": "",
+      "erp": "100 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Zápověď",
+      "town": "Mosty u Jablunkova",
+      "elevation_masl": 611,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "Zlatý Chlum",
+      "town": "Jeseník",
+      "elevation_masl": 877,
+      "mast_height": "",
+      "erp": "100 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Profi-Invest"
+    },
+    {
+      "name": "dům č.p. 4",
+      "town": "Holoubkov",
+      "elevation_masl": 439,
+      "mast_height": "",
+      "erp": "3 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "Kamýk nad Vltavou",
+      "town": "Kamýk nad Vltavou",
+      "elevation_masl": 270,
+      "mast_height": "",
+      "erp": "5 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "obecní úřad",
+      "town": "Strašice",
+      "elevation_masl": 520,
+      "mast_height": "",
+      "erp": "4 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "Větruše",
+      "town": "Ústí nad Labem",
+      "elevation_masl": 205,
+      "mast_height": "",
+      "erp": "10 -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "Vodojem Kleštěnice",
+      "town": "Komárov",
+      "elevation_masl": 492,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "Voldán",
+      "town": "Bystřice nad Pernštejnem",
+      "elevation_masl": 515,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "základní škola",
+      "town": "Zbiroh",
+      "elevation_masl": 470,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "Základní škola TGM",
+      "town": "Rokycany",
+      "elevation_masl": 356,
+      "mast_height": "",
+      "erp": "2 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "Zámek Letovice",
+      "town": "Letovice",
+      "elevation_masl": 385,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "zemědělská usedlost",
+      "town": "Zaječov",
+      "elevation_masl": 462,
+      "mast_height": "",
+      "erp": "4 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti Ivo Brabec"
+    },
+    {
+      "name": "Branka",
+      "town": "Luhačovice",
+      "elevation_masl": 312,
+      "mast_height": "",
+      "erp": "50 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti B PLUS TV"
+    },
+    {
+      "name": "č.p. 500",
+      "town": "Dolní Dobrouč",
+      "elevation_masl": 366,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti B PLUS TV"
+    },
+    {
+      "name": "Gagarinova ulice",
+      "town": "Hlubočky",
+      "elevation_masl": 269,
+      "mast_height": "",
+      "erp": "25 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti B PLUS TV"
+    },
+    {
+      "name": "Hlavní 154",
+      "town": "Žulová",
+      "elevation_masl": 350,
+      "mast_height": "",
+      "erp": "13 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti B PLUS TV"
+    },
+    {
+      "name": "Lidická 795",
+      "town": "Třinec",
+      "elevation_masl": 328,
+      "mast_height": "",
+      "erp": "126 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti B PLUS TV"
+    },
+    {
+      "name": "Na Tylovách",
+      "town": "Hradec nad Moravicí",
+      "elevation_masl": 294,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti B PLUS TV"
+    },
+    {
+      "name": "hrad",
+      "town": "Brumov-Bylnice",
+      "elevation_masl": 326,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti KUSPOLA"
+    },
+    {
+      "name": "Na Výšině 1975",
+      "town": "Česká Třebová",
+      "elevation_masl": 410,
+      "mast_height": "",
+      "erp": "20 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti KUSPOLA"
+    },
+    {
+      "name": "Rokštejnská ulice",
+      "town": "Brtnice",
+      "elevation_masl": 561,
+      "mast_height": "",
+      "erp": "10 / -",
+      "erp_unit": "W",
+      "erp_note": "DVB-T2 / FM",
+      "category": "Síť dokrývacích vysílačů – Dokrývací vysílače společnosti KUSPOLA"
+    }
+  ],
+  "meta": {
+    "title": "Televizní a rozhlasové vysílače v Česku - Free Download",
+    "description": "Seznam vysílačů DVB-T2 a FM v Česku – základní, dokrývací a malé vysílače s městem, nadmořskou výškou a povoleným vyzářeným výkonem (ERP). Contains 158 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Televizní a rozhlasové vysílače v Česku | ListBase",
+    "seo_description": "Download Televizní a rozhlasové vysílače v Česku — 158 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 158 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_vysílačů_v_Česku"
+    ]
+  }
+}
