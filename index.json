@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-09T02:54:55.918Z",
-  "total_datasets": 551,
-  "total_records": 420281,
+  "generated": "2026-11-10T02:28:26.289Z",
+  "total_datasets": 552,
+  "total_records": 420327,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "geography",
@@ -3113,6 +3113,36 @@
         "xlsx": {
           "name": "cs-bary_CS.xlsx",
           "size": 56895
+        }
+      }
+    },
+    {
+      "id": "cs-chranena-oznaceni-puvodu-produkty",
+      "name": "České produkty s chráněným označením původu a zeměpisným označením (EU)",
+      "category": "food",
+      "record_count": 46,
+      "columns": [
+        "name",
+        "other_names",
+        "gi_type",
+        "product_type",
+        "cn_heading",
+        "file_number",
+        "status",
+        "registration_date",
+        "application_date"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 15934,
+      "files": {
+        "csv": {
+          "name": "cs-chranena-oznaceni-puvodu-produkty_CS.csv",
+          "size": 4236
+        },
+        "xlsx": {
+          "name": "cs-chranena-oznaceni-puvodu-produkty_CS.xlsx",
+          "size": 9402
         }
       }
     },

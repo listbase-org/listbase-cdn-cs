@@ -1,0 +1,577 @@
+{
+  "id": "cs-chranena-oznaceni-puvodu-produkty",
+  "name": "České produkty s chráněným označením původu a zeměpisným označením (EU)",
+  "title": "České produkty s chráněným označením původu a zeměpisným označením (EU)",
+  "description": "České potraviny a vína zapsané v registru zeměpisných označení EU eAmbrosia (CHOP, CHZO) se stavem a datem registrace.",
+  "category": "food",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "gi_type",
+      "label": "Gi Type",
+      "type": "string"
+    },
+    {
+      "key": "product_type",
+      "label": "Product Type",
+      "type": "string"
+    },
+    {
+      "key": "cn_heading",
+      "label": "Cn Heading",
+      "type": "number"
+    },
+    {
+      "key": "file_number",
+      "label": "File Number",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "registration_date",
+      "label": "Registration Date",
+      "type": "string"
+    },
+    {
+      "key": "application_date",
+      "label": "Application Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Brněnské pivo",
+      "other_names": "Starobrněnské pivo",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0373",
+      "status": "REGISTERED",
+      "registration_date": "24-07-2009",
+      "application_date": "14-10-2004"
+    },
+    {
+      "name": "Budějovické pivo",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0444",
+      "status": "REGISTERED",
+      "registration_date": "23-09-2003",
+      "application_date": ""
+    },
+    {
+      "name": "Budějovický měšťanský var",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0445",
+      "status": "REGISTERED",
+      "registration_date": "23-09-2003",
+      "application_date": ""
+    },
+    {
+      "name": "Bílinská kyselka",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "2201",
+      "file_number": "PDO-CZ-03428",
+      "status": "APPLIED",
+      "registration_date": "",
+      "application_date": "14-05-2025"
+    },
+    {
+      "name": "Březnický ležák",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0398",
+      "status": "REGISTERED",
+      "registration_date": "15-10-2009",
+      "application_date": "19-10-2004"
+    },
+    {
+      "name": "Chamomilla bohemica",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "12",
+      "file_number": "PDO-CZ-0411",
+      "status": "REGISTERED",
+      "registration_date": "11-07-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Chelčicko - Lhenické ovoce",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "08",
+      "file_number": "PGI-CZ-0436",
+      "status": "REGISTERED",
+      "registration_date": "24-05-2012",
+      "application_date": "23-11-2004"
+    },
+    {
+      "name": "Chodské pivo",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0363",
+      "status": "REGISTERED",
+      "registration_date": "31-05-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Hořické trubičky",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0365",
+      "status": "REGISTERED",
+      "registration_date": "24-08-2007",
+      "application_date": "22-09-2004"
+    },
+    {
+      "name": "Jihočeská Niva",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-CZ-0405",
+      "status": "REGISTERED",
+      "registration_date": "14-01-2010",
+      "application_date": "20-10-2004"
+    },
+    {
+      "name": "Jihočeská Zlatá Niva",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-CZ-0406",
+      "status": "REGISTERED",
+      "registration_date": "15-01-2010",
+      "application_date": "20-10-2004"
+    },
+    {
+      "name": "Karlovarské oplatky",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0381",
+      "status": "REGISTERED",
+      "registration_date": "29-07-2011",
+      "application_date": "20-10-2004"
+    },
+    {
+      "name": "Karlovarské trojhránky",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0397",
+      "status": "REGISTERED",
+      "registration_date": "29-07-2011",
+      "application_date": "19-10-2004"
+    },
+    {
+      "name": "Karlovarský suchar",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0404",
+      "status": "REGISTERED",
+      "registration_date": "22-08-2007",
+      "application_date": "20-10-2004"
+    },
+    {
+      "name": "Litoměřická",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0894",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Litoměřická",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0894",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Litoměřická",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0894",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Lomnické suchary",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0362",
+      "status": "REGISTERED",
+      "registration_date": "31-08-2007",
+      "application_date": "14-09-2004"
+    },
+    {
+      "name": "Mariánskolázeňské oplatky",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0407",
+      "status": "REGISTERED",
+      "registration_date": "21-05-2009",
+      "application_date": "28-04-2004"
+    },
+    {
+      "name": "Mělnická",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0895",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Mělnická",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0895",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Mělnická",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0895",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Mělnická",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0895",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Nošovické kysané zelí",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "20",
+      "file_number": "PDO-CZ-0412",
+      "status": "REGISTERED",
+      "registration_date": "07-02-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Olomoucké tvarůžky",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "0406",
+      "file_number": "PGI-CZ-0399",
+      "status": "REGISTERED",
+      "registration_date": "05-08-2010",
+      "application_date": "19-10-2004"
+    },
+    {
+      "name": "Pardubický perník",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0408",
+      "status": "REGISTERED",
+      "registration_date": "07-02-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Pohořelický kapr",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "03",
+      "file_number": "PDO-CZ-0360",
+      "status": "REGISTERED",
+      "registration_date": "09-05-2007",
+      "application_date": ""
+    },
+    {
+      "name": "Slovácká",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0890",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Slovácká",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0890",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Slovácká",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A0890",
+      "status": "REGISTERED",
+      "registration_date": "17-02-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Třeboňský kapr",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "03",
+      "file_number": "PGI-CZ-0377",
+      "status": "REGISTERED",
+      "registration_date": "30-11-2007",
+      "application_date": ""
+    },
+    {
+      "name": "Valašský frgál",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0805",
+      "status": "REGISTERED",
+      "registration_date": "06-12-2013",
+      "application_date": "04-04-2010"
+    },
+    {
+      "name": "Všestarská cibule",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "07",
+      "file_number": "PDO-CZ-0437",
+      "status": "REGISTERED",
+      "registration_date": "17-07-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Znojemské pivo",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0376",
+      "status": "REGISTERED",
+      "registration_date": "06-05-2009",
+      "application_date": "14-10-2004"
+    },
+    {
+      "name": "Černá Hora",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0409",
+      "status": "REGISTERED",
+      "registration_date": "06-11-2009",
+      "application_date": "19-10-2004"
+    },
+    {
+      "name": "Českobudějovické pivo",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0446",
+      "status": "REGISTERED",
+      "registration_date": "23-09-2003",
+      "application_date": ""
+    },
+    {
+      "name": "České pivo",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "2203",
+      "file_number": "PGI-CZ-0375",
+      "status": "REGISTERED",
+      "registration_date": "17-10-2008",
+      "application_date": "14-10-2004"
+    },
+    {
+      "name": "Český kmín",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "09",
+      "file_number": "PDO-CZ-0382",
+      "status": "REGISTERED",
+      "registration_date": "21-05-2008",
+      "application_date": ""
+    },
+    {
+      "name": "Český modrý mák",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "12",
+      "file_number": "PGI-CZ-02236",
+      "status": "REGISTERED",
+      "registration_date": "09-02-2021",
+      "application_date": "03-11-2016"
+    },
+    {
+      "name": "české",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PGI-CZ-A0900",
+      "status": "REGISTERED",
+      "registration_date": "26-01-2006",
+      "application_date": ""
+    },
+    {
+      "name": "české",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PGI-CZ-A0900",
+      "status": "REGISTERED",
+      "registration_date": "26-01-2006",
+      "application_date": ""
+    },
+    {
+      "name": "české",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PGI-CZ-A0900",
+      "status": "REGISTERED",
+      "registration_date": "26-01-2006",
+      "application_date": ""
+    },
+    {
+      "name": "české",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PGI-CZ-A0900",
+      "status": "REGISTERED",
+      "registration_date": "26-01-2006",
+      "application_date": ""
+    },
+    {
+      "name": "Šobes",
+      "other_names": "Šobeské víno",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "cn_heading": "2204",
+      "file_number": "PDO-CZ-A1089",
+      "status": "REGISTERED",
+      "registration_date": "20-12-2011",
+      "application_date": ""
+    },
+    {
+      "name": "Štramberské uši",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "cn_heading": "1905",
+      "file_number": "PGI-CZ-0378",
+      "status": "REGISTERED",
+      "registration_date": "07-03-2007",
+      "application_date": ""
+    },
+    {
+      "name": "Žatecký chmel",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "cn_heading": "12",
+      "file_number": "PDO-CZ-0402",
+      "status": "REGISTERED",
+      "registration_date": "09-05-2007",
+      "application_date": ""
+    }
+  ],
+  "meta": {
+    "title": "České produkty s chráněným označením původu a zeměpisným označením (EU) - Free Download",
+    "description": "České potraviny a vína zapsané v registru zeměpisných označení EU eAmbrosia (CHOP, CHZO) se stavem a datem registrace. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "České produkty s chráněným označením původu a zeměpisným označením (EU) | ListBase",
+    "seo_description": "Download České produkty s chráněným označením původu a zeměpisným označením (EU) — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}
