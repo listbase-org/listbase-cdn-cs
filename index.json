@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-10T02:28:35.007Z",
-  "total_datasets": 553,
-  "total_records": 420798,
+  "generated": "2026-11-10T02:28:43.770Z",
+  "total_datasets": 554,
+  "total_records": 420889,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "math",
@@ -8688,6 +8688,37 @@
         "xlsx": {
           "name": "cs-predsedove-ustavniho-soudu_CS.xlsx",
           "size": 7268
+        }
+      }
+    },
+    {
+      "id": "cs-prezidentska-veta",
+      "name": "Prezidentská veta zákonů v České republice",
+      "category": "law",
+      "record_count": 91,
+      "columns": [
+        "president",
+        "number",
+        "government",
+        "returned",
+        "reason",
+        "passed_by_parliament",
+        "law",
+        "print_no",
+        "chamber_vote",
+        "promulgated"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_prezidentských_vet_Václava_Klause",
+      "updated": "2026-11",
+      "size": 73118,
+      "files": {
+        "csv": {
+          "name": "cs-prezidentska-veta_CS.csv",
+          "size": 51414
+        },
+        "xlsx": {
+          "name": "cs-prezidentska-veta_CS.xlsx",
+          "size": 24512
         }
       }
     },
