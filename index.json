@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-10T02:28:26.289Z",
-  "total_datasets": 552,
-  "total_records": 420327,
+  "generated": "2026-11-10T02:28:35.007Z",
+  "total_datasets": 553,
+  "total_records": 420798,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "geography",
@@ -3226,6 +3226,33 @@
         "xlsx": {
           "name": "cs-michelin-restaurace_CS.xlsx",
           "size": 35542
+        }
+      }
+    },
+    {
+      "id": "cs-minipivovary",
+      "name": "Minipivovary v Česku",
+      "category": "food",
+      "record_count": 471,
+      "columns": [
+        "name",
+        "region",
+        "founded",
+        "status",
+        "closed",
+        "brands"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_minipivovarů_v_Česku",
+      "updated": "2026-11",
+      "size": 101271,
+      "files": {
+        "csv": {
+          "name": "cs-minipivovary_CS.csv",
+          "size": 47453
+        },
+        "xlsx": {
+          "name": "cs-minipivovary_CS.xlsx",
+          "size": 32242
         }
       }
     },

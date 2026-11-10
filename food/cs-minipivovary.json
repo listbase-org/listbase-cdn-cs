@@ -1,0 +1,3824 @@
+{
+  "id": "cs-minipivovary",
+  "name": "Minipivovary v Česku",
+  "title": "Minipivovary v Česku",
+  "description": "Seznam českých minipivovarů podle krajů s rokem vzniku, stavem a značkami piva, včetně zaniklých minipivovarů.",
+  "category": "food",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_minipivovarů_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_minipivovarů_v_Česku",
+  "updated": "2026-11",
+  "record_count": 471,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "brands",
+      "label": "Brands",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bohnice",
+      "region": "Praha",
+      "founded": 2014,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Šedivák"
+    },
+    {
+      "name": "Braník (Moucha)",
+      "region": "Praha",
+      "founded": 2016,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Česká moucha, Masařka, Moniak, Mušák"
+    },
+    {
+      "name": "Břevnov (klášterní)",
+      "region": "Praha",
+      "founded": 2011,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Břevnovský Benedikt"
+    },
+    {
+      "name": "Dejvice (VŠCHT)",
+      "region": "Praha",
+      "founded": 2011,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Lachout"
+    },
+    {
+      "name": "Dolní Počernice",
+      "region": "Praha",
+      "founded": 2016,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Počernický ležák"
+    },
+    {
+      "name": "Holešovice",
+      "region": "Praha",
+      "founded": 2013,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Holešovický ležák, Marina, Přístavní výčepní"
+    },
+    {
+      "name": "Horní Měcholupy (H1)",
+      "region": "Praha",
+      "founded": 2013,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Hostivar"
+    },
+    {
+      "name": "Horní Měcholupy (H2)",
+      "region": "Praha",
+      "founded": 2017,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Hostivar"
+    },
+    {
+      "name": "Chuchle",
+      "region": "Praha",
+      "founded": 2017,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Oktor, Osma"
+    },
+    {
+      "name": "Karlín",
+      "region": "Praha",
+      "founded": 2018,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Karlín 11, Karlín 12, Karlín Black, Karlín IPA/APA/Pšenice"
+    },
+    {
+      "name": "Kbely",
+      "region": "Praha",
+      "founded": 2019,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "11 pocestných světlý ležák, 12 pilotů světlý ležák, 10 syslů pšeničné pivo, 13 havranů tmavé silné pivo, 14 jepic světlé pivo typu ALE, 7 pírek světlé pivo IPL, speciální várky - 10 duší výčepní světlé pivo typu ALE, 13 andělů, 12 proutníků polotmavý sváteční ležák za studena chmelený, 12 dukátů svatováclavské poutní plné pivo pšeničného typu 15 sirén polotmavé silné pivo typu IPA"
+    },
+    {
+      "name": "Kobylisy",
+      "region": "Praha",
+      "founded": 2018,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Předák 10° – Klasická světlá desítka, lehké a osvěžující pivo Praotec 12° – Tradiční světlý ležák, vlajková loď pivovaru Nevada 11° – Světlé, svrchně kvašené pivo typu American Pale Ale (APA). Stouty od Cobolisu - Kopí Vítězství 13° – Tradiční, velmi populární Irish Dry Stout s kávovými tóny a suchým dojezdem Kámen osudu 10° – Lehčí Oatmeal Stout (ovesný stout), který má díky ovesným vločkám krásně sametové tělo Bezedný kotel – Silnější tmavý Extra Stout vařený z devíti druhů sladů. Meč světla 24° – Extrémně silný a hutný Russian Imperial Stout"
+    },
+    {
+      "name": "Kunratice (Muflon)",
+      "region": "Praha",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Muflon"
+    },
+    {
+      "name": "Kunratice (Spojovna)",
+      "region": "Praha",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Chodovský Kravaťák, Kunratický Študák, Šeberovský Fešák"
+    },
+    {
+      "name": "Libeň (Nad Kolčavkou)",
+      "region": "Praha",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černá 13, IPA 15, Libeňský světlý ležák 12"
+    },
+    {
+      "name": "Libeň (Trilobit)",
+      "region": "Praha",
+      "founded": 2017,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Nautilus, Nymfa, Trilobit, Weisse Rabe"
+    },
+    {
+      "name": "Lochkov",
+      "region": "Praha",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lochkovské pivo"
+    },
+    {
+      "name": "Malešice",
+      "region": "Praha",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Malešické pivo"
+    },
+    {
+      "name": "Nové Město (Národní)",
+      "region": "Praha",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Czech Lion"
+    },
+    {
+      "name": "Nové Město (Pivovarský dům)",
+      "region": "Praha",
+      "founded": 1998,
+      "status": "v provozu jako výčep a restaurace pod hlavičkou Břevnovského klášterního pivovaru",
+      "closed": "",
+      "brands": "varna odstavená, pivo se dováží z Břevnovského klášterního pivovaru"
+    },
+    {
+      "name": "Nové Město (SPŠPT)",
+      "region": "Praha",
+      "founded": 2007,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Chmelozdroj, Pivař, Podskalská koza, Podskalské výčepní, Podskalský ležák, Podskalský smrtihlav"
+    },
+    {
+      "name": "Nové Město (U Fleků)",
+      "region": "Praha",
+      "founded": 1499,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Flekovský ležák"
+    },
+    {
+      "name": "Nusle (U Bansethů)",
+      "region": "Praha",
+      "founded": 2007,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bašta"
+    },
+    {
+      "name": "Klukovice",
+      "region": "Praha",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kluk 10°; Tatin 12°; Panímáma 12°; Pantáta 13°; Holka 10°; Milostpaní 12°; Strýc 14°"
+    },
+    {
+      "name": "Prosek",
+      "region": "Praha",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "B-Ejl, Bezinkový cykloejl, Beznoska, Hejhula, Tmavý Koloušek, Warrior Ejl"
+    },
+    {
+      "name": "Řeporyje",
+      "region": "Praha",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Prefunda, Řeporyjský ležák, Vilda"
+    },
+    {
+      "name": "Staré Město (Loď)",
+      "region": "Praha",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Legie, Republika, Monarchie, Remorkér, APA New Orleans, Stout Hoode"
+    },
+    {
+      "name": "Staré Město (U Dvou koček)",
+      "region": "Praha",
+      "founded": 2010,
+      "status": "2021 ukončení provozu varny - pivo Kočka se pro restauraci vaří smluvně v jiném pivovaru",
+      "closed": "",
+      "brands": "Kočka"
+    },
+    {
+      "name": "Staré Město (U Medvídků)",
+      "region": "Praha",
+      "founded": 1466,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "1466, Matěj, Old Gott, Pivo Sv. Jiří, X-Beer 30"
+    },
+    {
+      "name": "Staré Město (U Supa)",
+      "region": "Praha",
+      "founded": 2016,
+      "status": "2020 - ukončení provozu varny - pivo Sup se vaří smluvně v Pivovaru Cvikov",
+      "closed": "",
+      "brands": "Sup"
+    },
+    {
+      "name": "Staré Město (U Tří růží)",
+      "region": "Praha",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Klášterní speciál sv. Jiljí, Vídeňský červeňák"
+    },
+    {
+      "name": "Stodůlky",
+      "region": "Praha",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lužinské pivo"
+    },
+    {
+      "name": "Strahov",
+      "region": "Praha",
+      "founded": 1400,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Svatý Norbert"
+    },
+    {
+      "name": "Suchdol",
+      "region": "Praha",
+      "founded": 2006,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Suchdolský Jeník"
+    },
+    {
+      "name": "Uhříněves",
+      "region": "Praha",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Alois"
+    },
+    {
+      "name": "Vinohrady (Vinohradský)",
+      "region": "Praha",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vinohradská 11, Vinohradská 12, Jantarová 13, STOUT 13, IPA 14"
+    },
+    {
+      "name": "Žižkov (Victor)",
+      "region": "Praha",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Victor"
+    },
+    {
+      "name": "Celkem 44",
+      "region": "Praha",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 103"
+    },
+    {
+      "name": "Beroun",
+      "region": "Středočeský kraj",
+      "founded": 1998,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Berounský Grizzly, Berounský Klepáček, Berounský medvěd"
+    },
+    {
+      "name": "Broumy",
+      "region": "Středočeský kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černá raketa, Karel Egon II., Matuška, Matuška Novošlechtěnec, Raptor, Svatý Matěj, Svatý Tomáš"
+    },
+    {
+      "name": "Buštěhrad",
+      "region": "Středočeský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Taschenberg"
+    },
+    {
+      "name": "Čečelice",
+      "region": "Středočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Cascadian Dark Ale, Čečelické pivo, Novej svět Porter"
+    },
+    {
+      "name": "Dolní Břežany",
+      "region": "Středočeský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dolnobřežanská 10°, Gari, Laser Beer, York"
+    },
+    {
+      "name": "Drahouš",
+      "region": "Středočeský kraj",
+      "founded": 2021,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Drahoušek, PiFko, Pláveček, Svatý Hubert, Temňák, Tlestkač, Žitečko"
+    },
+    {
+      "name": "Hostomice pod Brdy",
+      "region": "Středočeský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Fabián"
+    },
+    {
+      "name": "Chýně",
+      "region": "Středočeský kraj",
+      "founded": 1992,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Country osma, Dvorní, Kolařské pivo, Mlynářská, Rosemary, Starostova sedmnáctka, Tolštejnský říz, Zabiják z Nuslí"
+    },
+    {
+      "name": "Jince",
+      "region": "Středočeský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vilém"
+    },
+    {
+      "name": "Kladno (U Kozlíků)",
+      "region": "Středočeský kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černý Havíř, Ležák Mistra Taviče, Ležák Starosty Pavla, Mazlíček, Starokladno"
+    },
+    {
+      "name": "Kněžičky",
+      "region": "Středočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Záhora"
+    },
+    {
+      "name": "Polepy u Kolína",
+      "region": "Středočeský kraj",
+      "founded": 1996,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Fešák, Mates, Mazel, Oliver, Povstalec"
+    },
+    {
+      "name": "Kostelec nad Černými lesy(Šnajdr)",
+      "region": "Středočeský kraj",
+      "founded": 2014,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Šnajdr"
+    },
+    {
+      "name": "Kounice",
+      "region": "Středočeský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kounický ležák, Kounický Mouřenín, Weizen"
+    },
+    {
+      "name": "Kounice (Lisý dědek)",
+      "region": "Středočeský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý ležák 12°, Výčepní světlé 10°, Polotmavý ležák 11°"
+    },
+    {
+      "name": "Kunice",
+      "region": "Středočeský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Zlatý mazel"
+    },
+    {
+      "name": "Kutná Hora (Měšťanský)",
+      "region": "Středočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bronzová 10, Stříbrná 11, Zlatá 12"
+    },
+    {
+      "name": "Kytín",
+      "region": "Středočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kytínské pivo"
+    },
+    {
+      "name": "Lety u Dobřichovic",
+      "region": "Středočeský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "MMX"
+    },
+    {
+      "name": "Lobeč",
+      "region": "Středočeský kraj",
+      "founded": 1586,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Lobeč"
+    },
+    {
+      "name": "Mělnické Vtelno",
+      "region": "Středočeský kraj",
+      "founded": 2012,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Adolf, Bivoj, Karel, Václav"
+    },
+    {
+      "name": "Mělník",
+      "region": "Středočeský kraj",
+      "founded": 2015,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Brtník, Němý Medvěd"
+    },
+    {
+      "name": "Mlékojedy",
+      "region": "Středočeský kraj",
+      "founded": 2016,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Kabrňáček, Kabrňák"
+    },
+    {
+      "name": "Mutějovice",
+      "region": "Středočeský kraj",
+      "founded": 2009,
+      "status": "V provozu",
+      "closed": "",
+      "brands": "Poddžbánské pivo"
+    },
+    {
+      "name": "Nupaky",
+      "region": "Středočeský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Gwern"
+    },
+    {
+      "name": "Obořiště",
+      "region": "Středočeský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Baštýř"
+    },
+    {
+      "name": "Poděbrady",
+      "region": "Středočeský kraj",
+      "founded": 1502,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Poděbradský Zdroj"
+    },
+    {
+      "name": "Podlesí",
+      "region": "Středočeský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Brdonoš, Podleská IPA, Podleský ležák"
+    },
+    {
+      "name": "Řevničov",
+      "region": "Středočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Don \"Chichot\", Ležák Máša, MAle, Sheriff"
+    },
+    {
+      "name": "Říčany",
+      "region": "Středočeský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Mikeš 10, Valda 12, Dorota 15, Baba Jaga 13"
+    },
+    {
+      "name": "Sedlčany",
+      "region": "Středočeský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krčín"
+    },
+    {
+      "name": "Sedlec-Prčice",
+      "region": "Středočeský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vítek z Prčice"
+    },
+    {
+      "name": "Slaný (Antoš)",
+      "region": "Středočeský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Antošův ležák, Černé Poupě, Slánský Rarach, Svatý Gothard, Tlustý netopýr, Zlatý kozák"
+    },
+    {
+      "name": "Slaný (Továrna)",
+      "region": "Středočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kruták, Protektor IPA, Salzberg, Továrenská 10°"
+    },
+    {
+      "name": "Snář",
+      "region": "Středočeský kraj",
+      "founded": 2021,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Relax IPA, Obláček APA"
+    },
+    {
+      "name": "Štiřín",
+      "region": "Středočeský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Magnát"
+    },
+    {
+      "name": "Ujkovice",
+      "region": "Středočeský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Slepý krtek"
+    },
+    {
+      "name": "Únětice",
+      "region": "Středočeský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Únětické pivo"
+    },
+    {
+      "name": "Unhošť (Dědkův mlýn)",
+      "region": "Středočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dědkův Lager 12°, Pitmaster 13°"
+    },
+    {
+      "name": "Všeradice",
+      "region": "Středočeský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Raptor, Všerad"
+    },
+    {
+      "name": "Zadní Třebaň",
+      "region": "Středočeský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bobr"
+    },
+    {
+      "name": "Zbraslavice",
+      "region": "Středočeský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hubert, Markold, Mikuláš, Permoník"
+    },
+    {
+      "name": "Zichovec",
+      "region": "Středočeský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krahulík, Magor, Moták, Sokolík"
+    },
+    {
+      "name": "Žáky",
+      "region": "Středočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Žacký pivovar Auersperg, mezinárodní Vegan licence na ležáky, IPA, APA, NEIPA, STOUT. Nefiltrovaná a nepasterovaná piva IPA Gabriela, ležák Vincenz, NEIPA Johann, APA Wilhemína, Novinka IPA mango habanero pepper."
+    },
+    {
+      "name": "Celkem 41",
+      "region": "Středočeský kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 102"
+    },
+    {
+      "name": "Blatná",
+      "region": "Jihočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Blatenský Kohout"
+    },
+    {
+      "name": "Brandlín (Tučapy)",
+      "region": "Jihočeský kraj",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Brandlínská kuna"
+    },
+    {
+      "name": "Čejetice",
+      "region": "Jihočeský kraj",
+      "founded": 2020,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hejtman Jan, Velocipedo, Práče, Lupulus, Moravská blondýna"
+    },
+    {
+      "name": "České Budějovice (Beeranek)",
+      "region": "Jihočeský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Beeranek"
+    },
+    {
+      "name": "České Budějovice (Krajinská)",
+      "region": "Jihočeský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krajinská"
+    },
+    {
+      "name": "České Budějovice (Solnice)",
+      "region": "Jihočeský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Solnice"
+    },
+    {
+      "name": "České Budějovice (ZF JČU)",
+      "region": "Jihočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Čtyrák"
+    },
+    {
+      "name": "České Budějovice – Nové Dvory",
+      "region": "Jihočeský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "K 11, K 13, K 13 Černokněžník"
+    },
+    {
+      "name": "Český Krumlov",
+      "region": "Jihočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý ležák 11%"
+    },
+    {
+      "name": "Český Rudolec",
+      "region": "Jihočeský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černá růže, Grasel, Vladyka"
+    },
+    {
+      "name": "Čížová",
+      "region": "Jihočeský kraj",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "10° Pepa, 11° Josef, 12° Olaf, 13° Jirka, 11° Jura, IPA Horst"
+    },
+    {
+      "name": "Dolní Bukovsko",
+      "region": "Jihočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bukovar"
+    },
+    {
+      "name": "Dražíč",
+      "region": "Jihočeský kraj",
+      "founded": "17. století",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lipan, Portyčák, Žižka, polotmavý speciál, svrchně kvašený speciál typu \"ale\""
+    },
+    {
+      "name": "Hlavatce (okres Tábor)",
+      "region": "Jihočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Diktát®, Transformát®"
+    },
+    {
+      "name": "Hluboká nad Vltavou",
+      "region": "Jihočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Baltazar, Hvězdář, Kašpar, Melichar"
+    },
+    {
+      "name": "Horní Chrášťany",
+      "region": "Jihočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Wapity"
+    },
+    {
+      "name": "Chotoviny",
+      "region": "Jihočeský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Chotovinské speciální Jantar, Chotovinský ležák, Chotovinský Vienna Spezial Lager 1913°"
+    },
+    {
+      "name": "Jílovice",
+      "region": "Jihočeský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jílovické pivo"
+    },
+    {
+      "name": "Jindřichův Hradec (Jindřichohradecký orel)",
+      "region": "Jihočeský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Heniker, Salamon, Vajgar"
+    },
+    {
+      "name": "Kvilda",
+      "region": "Jihočeský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Desaterák, Divočák, Dvanácterák, Kvildské výčepní, Lišák, Galapetr, Osmerák, Rankl Sepp"
+    },
+    {
+      "name": "Minipivovar Pod Besedou Tábor",
+      "region": "Jihočeský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lichvice 11°, Lichvice 12°"
+    },
+    {
+      "name": "Nová Bystřice",
+      "region": "Jihočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "12° VAINAR, 11° VASKA, 13° PAULÁN ALE, 13° SLAVATA IPA"
+    },
+    {
+      "name": "Nové Hrady (Zevlův mlýn)",
+      "region": "Jihočeský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Zewl 10° (Výčepní), Zewl 11° (Světlý ležák), Zewl 12° (Plzeňský ležák), Zewl Tmavý ležák (Černé) speciální - Konopný Zewl, Černý mlynář, Kulhavý lišák, Medový speciál, Speciály typu ALE - americké a novozelándské chmely, tropický a citrusový profil, svěží a lehčí tělo"
+    },
+    {
+      "name": "Obora u Malšic",
+      "region": "Jihočeský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Ježibaba, Žitohola"
+    },
+    {
+      "name": "Olešnice u Českých Budějovic",
+      "region": "Jihočeský kraj",
+      "founded": 2023,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bejval"
+    },
+    {
+      "name": "Písek",
+      "region": "Jihočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Písecký ležák"
+    },
+    {
+      "name": "Pivovar Petrovice",
+      "region": "Jihočeský kraj",
+      "founded": 2021,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Petrovický Kilián"
+    },
+    {
+      "name": "Popelín",
+      "region": "Jihočeský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Polotmavý speciál, Světlé výčepní, Světlý ležák"
+    },
+    {
+      "name": "Prachatice",
+      "region": "Jihočeský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Prachatický světlý ležák 11°, Prachata/Prachatice 12°, Kratušínský světlý ležák 12°, Polotmavý Bradáček 13°, speciály - ALE Plody nebe 14°, Prachatice Honey Ale 12°, Malý pepin 15°, Prachatice Schreiner 11°, Letní speciální piva"
+    },
+    {
+      "name": "Pivovar Rožmberk",
+      "region": "Jihočeský kraj",
+      "founded": 1590,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "11° Rožmberský ležák, 12° Vídeňský ležák, 11° Stout černá; speciály - 13° APA, 11° Weizen Bílá Paní, 15° Fruit Ale Malina, 8° Sport Beer"
+    },
+    {
+      "name": "Studánky",
+      "region": "Jihočeský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Špáca 12%, Jiřina 13%, IPA 14%, Summer Ale 11%"
+    },
+    {
+      "name": "Svachova Lhotka",
+      "region": "Jihočeský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Glok"
+    },
+    {
+      "name": "Truskovice",
+      "region": "Jihočeský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý výčepní Hulvát 8°, světlý výčepní Hulvát 10°, světlý ležák Hulvát 11°, polotmavý ležák Hulvát 11°, světlý ležák Hulvát 12°, vídeňský ležák Hulvát 12°, zázvorový ležák Hulvát 12°, černý ležák Hulvát 13° a baltický porter Hulvát 18°."
+    },
+    {
+      "name": "Týn nad Vltavou",
+      "region": "Jihočeský kraj",
+      "founded": 2020,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hradní ležák, Tobiáš, Svobodný Pán"
+    },
+    {
+      "name": "Veselí nad Lužnicí",
+      "region": "Jihočeský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Blatský ležák 11° a 12°, Blatské pšenické pivo, tmavé a polotmavé speciály, sezónní lehká piva"
+    },
+    {
+      "name": "Vimperk",
+      "region": "Jihočeský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Šumavský pivovar Vimperk"
+    },
+    {
+      "name": "Vlachovo Březí",
+      "region": "Jihočeský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Březí Koza"
+    },
+    {
+      "name": "Volary",
+      "region": "Jihočeský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Gabretus"
+    },
+    {
+      "name": "Vyšší Brod",
+      "region": "Jihočeský kraj",
+      "founded": 2008,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Červený Jakub, Jakub; minipivovar byl v provozu v letech 2008 až 2019"
+    },
+    {
+      "name": "Zvíkovské Podhradí",
+      "region": "Jihočeský kraj",
+      "founded": 1994,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jublák, Královská Zlatá labuť, Zlatá labuť, Zvíkovský Rarášek"
+    },
+    {
+      "name": "Žumberk",
+      "region": "Jihočeský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Žumberk 11° světlý ležák, Žumberk 13° polotmavý ležák, Černá mamba 14° tmavý ležák"
+    },
+    {
+      "name": "Celkem 40",
+      "region": "Jihočeský kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": ""
+    },
+    {
+      "name": "Bezděkov",
+      "region": "Plzeňský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bezděkovské pivo"
+    },
+    {
+      "name": "Čižice",
+      "region": "Plzeňský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bizon, Buližník, Kameník, American IPA"
+    },
+    {
+      "name": "Dobřany",
+      "region": "Plzeňský kraj",
+      "founded": 1998,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dobřanská desítka, Dobřanské pivo hořké, Dobřanský anděl, Dobřanský dragoun, Dobřanský hospodář, Dobřanský sekáč, Dobřanský zeman, Modrá hvězda"
+    },
+    {
+      "name": "Druztová (Radouš)",
+      "region": "Plzeňský kraj",
+      "founded": 2008,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pilsner Ilgner, Stodolní desítka, Ru-Ka, Magický Motýl, Radoush Stout, Polotmavé"
+    },
+    {
+      "name": "Druztová (Barn Beer)",
+      "region": "Plzeňský kraj",
+      "founded": 2020,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "(Součást pivovaru Radouš)"
+    },
+    {
+      "name": "Horšovský Týn",
+      "region": "Plzeňský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pšeničný Gurmán, Zlatý Gurmán"
+    },
+    {
+      "name": "Chříč",
+      "region": "Plzeňský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pazdrát, Nocturno, American Brown Ale, Orange Blossom Express"
+    },
+    {
+      "name": "Chudenice",
+      "region": "Plzeňský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bubák, Fantom, Houwárek"
+    },
+    {
+      "name": "Kašperské Hory",
+      "region": "Plzeňský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Amálka, Cikánka, Kašperk, Šibeničák"
+    },
+    {
+      "name": "Klatovy (Měšťanský)",
+      "region": "Plzeňský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Klatovské pivo"
+    },
+    {
+      "name": "Kout na Šumavě",
+      "region": "Plzeňský kraj",
+      "founded": 1826,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Koutská desítka, Koutský ležák světlý, Koutský tmavý speciál"
+    },
+    {
+      "name": "Kozojedy",
+      "region": "Plzeňský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kozojedy"
+    },
+    {
+      "name": "Kyšice",
+      "region": "Plzeňský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Čeledín, Lanbert, Mouřenín, Sedlák"
+    },
+    {
+      "name": "Lazny",
+      "region": "Plzeňský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černá Mamba, Duše, Javorníček, Pampelišková Olí, Strašínský Kovář, Šumavous"
+    },
+    {
+      "name": "Letiny",
+      "region": "Plzeňský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Letinský pivo"
+    },
+    {
+      "name": "Modrava",
+      "region": "Plzeňský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý Modravský ležák Lyer"
+    },
+    {
+      "name": "Plasy",
+      "region": "Plzeňský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vašnosta, Vidlák, Metternich, Felčar"
+    },
+    {
+      "name": "Plzeň (Beer Factory)",
+      "region": "Plzeňský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý ležák, IPA, Amber ALE, Black ALE, pšeničný speciál, La Trapp, Nevada Summer"
+    },
+    {
+      "name": "Plzeň (Groll)",
+      "region": "Plzeňský kraj",
+      "founded": 2008,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kapr, Lotr, Waldschmidt"
+    },
+    {
+      "name": "Plzeň (U Lenocha)",
+      "region": "Plzeňský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lenoch"
+    },
+    {
+      "name": "Plzeň – Bolevec",
+      "region": "Plzeňský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Raven"
+    },
+    {
+      "name": "Plzeň – Černice",
+      "region": "Plzeňský kraj",
+      "founded": 2007,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Písař, Purkmistr, Radní"
+    },
+    {
+      "name": "Plzeň – Radobyčice",
+      "region": "Plzeňský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jezevec"
+    },
+    {
+      "name": "Příchovice (u Tanvaldu)",
+      "region": "Plzeňský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světoběžník JC"
+    },
+    {
+      "name": "Příšov",
+      "region": "Plzeňský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Příšovské pivo"
+    },
+    {
+      "name": "Radnice",
+      "region": "Plzeňský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Radnické pivo"
+    },
+    {
+      "name": "Radnice (Klenot)",
+      "region": "Plzeňský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "pivo Klenot"
+    },
+    {
+      "name": "Rokycany",
+      "region": "Plzeňský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hutník, Patriot, Řepiš, Stočeská 11°"
+    },
+    {
+      "name": "Srní",
+      "region": "Plzeňský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Tmavý srnec, Zlatý srnec, Zlatý srneček"
+    },
+    {
+      "name": "Sušice",
+      "region": "Plzeňský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Nuželický ležák, Sušičák"
+    },
+    {
+      "name": "Šťáhlavice",
+      "region": "Plzeňský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lopata, Šťáhlavický Kosičkář"
+    },
+    {
+      "name": "Šťáhlavy",
+      "region": "Plzeňský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dr. Čížek, Nový ležák, Pilsner Ilgner, Radouš, Radoush Stout, Šťáhlavská desítka, Viliem Šejkspír"
+    },
+    {
+      "name": "Zhůřák",
+      "region": "Plzeňský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Techtle Mechtle NEIPA 15°, Podivín 16° NEIPA, Asfalt Extreme Stout 20°, Gunk Galore 19° NEIPA"
+    },
+    {
+      "name": "Železná Ruda",
+      "region": "Plzeňský kraj",
+      "founded": 2007,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Belgrád, Belveder, Grádl, Pašerák, Švejk"
+    },
+    {
+      "name": "Celkem 33",
+      "region": "Plzeňský kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 92"
+    },
+    {
+      "name": "Mariánské Lázně",
+      "region": "Karlovarský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kronl, Sarka Farka, Gauner, Fruit storm, Elizabeta, Black bandit, Smokie"
+    },
+    {
+      "name": "Děpoltovice – Nivy",
+      "region": "Karlovarský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Karlovarské světlé \"Starý hrad\", Karlovarské tmavé \"Starý hrad\", Karlsbader Beer"
+    },
+    {
+      "name": "Cheb",
+      "region": "Karlovarský kraj",
+      "founded": 2005,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Barbarosa, Hradní chebské, Karapils"
+    },
+    {
+      "name": "Chyše",
+      "region": "Karlovarský kraj",
+      "founded": 1839,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Anton, Prokop, Prokop Jantar, Svatováclavský Rubín"
+    },
+    {
+      "name": "Karlovy Vary",
+      "region": "Karlovarský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Karel IV."
+    },
+    {
+      "name": "Kynšperk nad Ohří",
+      "region": "Karlovarský kraj",
+      "founded": 1595,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kynšperský zajíc"
+    },
+    {
+      "name": "Loket",
+      "region": "Karlovarský kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Longin, Svatý Florian"
+    },
+    {
+      "name": "Lomnice u Sokolova",
+      "region": "Karlovarský kraj",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Melantrich, Permon"
+    },
+    {
+      "name": "Tisová u Kraslic",
+      "region": "Karlovarský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krušnohor"
+    },
+    {
+      "name": "Velký Rybník",
+      "region": "Karlovarský kraj",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hastrmánek, Staročeské bílé, Velkorybnický hastrman"
+    },
+    {
+      "name": "Ostrov",
+      "region": "Karlovarský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Rudohor"
+    },
+    {
+      "name": "Celkem 10",
+      "region": "Karlovarský kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 21"
+    },
+    {
+      "name": "Brňany",
+      "region": "Ústecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Brňanský Ležák 12°, Nevada Ale 11°"
+    },
+    {
+      "name": "Ctiněves",
+      "region": "Ústecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Podřipské pivo"
+    },
+    {
+      "name": "Česká Kamenice",
+      "region": "Ústecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "KAMENICKÁ KAPLE, Kamenická PODKOVA, Kamenický DUKÁT, KAMENICKÝ POKLAD, Kamenický RYTÍŘ, Kamenický ZLAŤÁK"
+    },
+    {
+      "name": "Děčín",
+      "region": "Ústecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černý korzár, Černý rytíř, Kapitán, Lodník, Válečník"
+    },
+    {
+      "name": "Chomutov",
+      "region": "Ústecký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Karáskova 11%, Podloubnická, Stülpnerova 13%"
+    },
+    {
+      "name": "Kostelec nad Ohří",
+      "region": "Ústecký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lanýž"
+    },
+    {
+      "name": "Litoměřice (Mlékojedy)",
+      "region": "Ústecký kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hákův parní pivovar - Hák 10° 11° i 12°, Astronaut Galaxy IPA 15°, Poeta černá 13°, Pampeliška Ale 10°, New England IPA 14°, ovocná a bylinná piva dle sezóny"
+    },
+    {
+      "name": "Krásná Lípa",
+      "region": "Ústecký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Adventní Bock, Falkenštejn, Podzimní ale Falkenštejn, Řezaný ležák Falkenštejn"
+    },
+    {
+      "name": "Kytlice",
+      "region": "Ústecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Fešák, Grácie"
+    },
+    {
+      "name": "Litoměřice (Biskupský)",
+      "region": "Ústecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Děkan, Štěpán, Vikář"
+    },
+    {
+      "name": "Litoměřice (Koliba)",
+      "region": "Ústecký kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Fořt, Kousek"
+    },
+    {
+      "name": "Litoměřice (Labuť)",
+      "region": "Ústecký kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černá Labuť, Jungmann, Světlý Žák"
+    },
+    {
+      "name": "Louny (Domov)",
+      "region": "Ústecký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lounský žejdlík"
+    },
+    {
+      "name": "Louny (Zichovec)",
+      "region": "Ústecký kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krahulík, Magor, Moták, Sokolík"
+    },
+    {
+      "name": "Louny (ZLoun)",
+      "region": "Ústecký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pivo ZLoun, Tvrďák"
+    },
+    {
+      "name": "Most (Kahan)",
+      "region": "Ústecký kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Horníkův cumel, Kouřící drak, Mosteckej malvaz, Mostecký kahan, Nakouřený Kahan, Perla Severu"
+    },
+    {
+      "name": "Most (Pod Koňským vrchem)",
+      "region": "Ústecký kraj",
+      "founded": 2020,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Amber Ale, Desítka Pale Ale, Dvanáctka polotmavá, Jedenáctka světlá, NEIPA, Old Ale"
+    },
+    {
+      "name": "Osek (Černý orel)",
+      "region": "Ústecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dvanda od Orla, Karamela od Orla, Uzenáč od Orla"
+    },
+    {
+      "name": "Osek (Klášterní)",
+      "region": "Ústecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jindřich, Osseg, Phillip, Tomáš"
+    },
+    {
+      "name": "Perštejn",
+      "region": "Ústecký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Harmonie, Premiant, Sládek"
+    },
+    {
+      "name": "Siřem",
+      "region": "Ústecký kraj",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Burton Golden, Perle Single Hop, Easter IPA"
+    },
+    {
+      "name": "Teplice",
+      "region": "Ústecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Karlík, Monopol"
+    },
+    {
+      "name": "Ústí nad Labem (G a SOŠ)",
+      "region": "Ústecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Školní ležáky 11° a 12°, svrchně kvašené speciály (například typu ALE), Sezónní a sváteční várky"
+    },
+    {
+      "name": "Ústí nad Labem (Millénium)",
+      "region": "Ústecký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Milláček"
+    },
+    {
+      "name": "Ústí nad Labem (Na Rychtě)",
+      "region": "Ústecký kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Adventní Ústečan, Mazel, Ústecká Rychtářka, Ústečan, Vojtěch"
+    },
+    {
+      "name": "Varnsdorf",
+      "region": "Ústecký kraj",
+      "founded": 2008,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kocour"
+    },
+    {
+      "name": "Žatec (Pioneer Beer)",
+      "region": "Ústecký kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Rezident, Double Trap, Caramel Shake, Hello Yellow, UFO, Cloudya, Hoppy Helles"
+    },
+    {
+      "name": "Žatec (pokusný pivovar)",
+      "region": "Ústecký kraj",
+      "founded": 1963,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Testovací ležáky českého typu, moderní svrchně kvašené speciály (ALE, NEIPA, IPA), pšeničná piva"
+    },
+    {
+      "name": "Žatec (U Orloje)",
+      "region": "Ústecký kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Chrámové tmavé, Chrámový ležák, Žatecký Samec"
+    },
+    {
+      "name": "Židovice",
+      "region": "Ústecký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bulf, Desítka z Roudnicka, Furiant, Hraběnka, IPA ALExander, Jindřich, Korzár, Vítek"
+    },
+    {
+      "name": "Celkem 28",
+      "region": "Ústecký kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 89"
+    },
+    {
+      "name": "Cvikov",
+      "region": "Liberecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Klíč, Luž, Sklář"
+    },
+    {
+      "name": "Frýdlant v Čechách",
+      "region": "Liberecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Albrecht"
+    },
+    {
+      "name": "Harrachov",
+      "region": "Liberecký kraj",
+      "founded": 2002,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Čertovské pivo, František, Huťské výčepní, Řízlý sklář, Sklářská osmička"
+    },
+    {
+      "name": "Jablonec nad Nisou",
+      "region": "Liberecký kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Starter, Polovodič, Pojistka, Elektron, Gruit, Akumulator, Protinožec, Flash, Zesilovač, Baterka, Neon, Eliášuv oheň, Blackout, Zkrat, Vypínač"
+    },
+    {
+      "name": "Liberec-Krásná Studánka",
+      "region": "Liberecký kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Gallasův ležák, Studánecký Antal, Studánecký Flik"
+    },
+    {
+      "name": "Liberec-Starý Harcov",
+      "region": "Liberecký kraj",
+      "founded": 1999,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vendelín"
+    },
+    {
+      "name": "Malá Skála",
+      "region": "Liberecký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bouček"
+    },
+    {
+      "name": "Zásada",
+      "region": "Liberecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Rezek 11° Světlý ležák, Rezek 12° Světlý ležák, Rezek 12° Jantarový speciál (polotmavý ležák), Rezek 10° Světlé výčepní, svrchně kvašené speciály - ALE/IPA (Rezek IPA Tomahawk 13°, Ale Victorian 12°"
+    },
+    {
+      "name": "Celkem 8",
+      "region": "Liberecký kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 29"
+    },
+    {
+      "name": "Bernartice",
+      "region": "Královéhradecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vranihorské pivo"
+    },
+    {
+      "name": "Běleč nad Orlicí",
+      "region": "Královéhradecký kraj",
+      "founded": 1994,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Boban, Car, Carevna, Pepan, Včelka"
+    },
+    {
+      "name": "Dětenice",
+      "region": "Královéhradecký kraj",
+      "founded": 1790,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dětenické pivo"
+    },
+    {
+      "name": "Dobruška",
+      "region": "Královéhradecký kraj",
+      "founded": 1870,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dobrušská jedenáctka, F. L. Věk, Kačenčina 14%, Májový Rampušák, Muderlant, Mudrlant, Mutina, Rampušák, Rampušákova vánoční 14%, Třísladový speciál 1320, Vánoční Mudrlant, Velikonoční Rampušák"
+    },
+    {
+      "name": "Dvůr Králové nad Labem (Tambor)",
+      "region": "Královéhradecký kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Tambor"
+    },
+    {
+      "name": "Dvůr Králové nad Labem (Safari)",
+      "region": "Královéhradecký kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "White Rhino Beer, Black Rhino Beer, Kili Beer, African Queen Beer, Safari Beer letní, Safari Beer zimní"
+    },
+    {
+      "name": "Hořice",
+      "region": "Královéhradecký kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "PD 10%, PP 12%"
+    },
+    {
+      "name": "Hradec Králové (713)",
+      "region": "Královéhradecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "O´Haaara"
+    },
+    {
+      "name": "Hradec Králové (Kubík)",
+      "region": "Královéhradecký kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kluk, Kohout"
+    },
+    {
+      "name": "Hradec Králové (U Antéňáka)",
+      "region": "Královéhradecký kraj",
+      "founded": 1995,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hradecký Bulík Svatý Patrik, U Antéňáka Bard Stout"
+    },
+    {
+      "name": "Chlumec nad Cidlinou",
+      "region": "Královéhradecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Sedlák"
+    },
+    {
+      "name": "Jičín",
+      "region": "Královéhradecký kraj",
+      "founded": 2024,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Řáholec, Kníže, Prachov"
+    },
+    {
+      "name": "Malá Úpa",
+      "region": "Královéhradecký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Trautenberk"
+    },
+    {
+      "name": "Miletín",
+      "region": "Královéhradecký kraj",
+      "founded": 1996,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Arcivévoda Arnošt, Battalion salve, Čáryfuk, Chmelka, Pytlák"
+    },
+    {
+      "name": "Mžany",
+      "region": "Královéhradecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dubák, Lhoťák, Mžaňák, Šípek"
+    },
+    {
+      "name": "Neratov",
+      "region": "Královéhradecký kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Prorok"
+    },
+    {
+      "name": "Pec pod Sněžkou",
+      "region": "Královéhradecký kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Paroháč"
+    },
+    {
+      "name": "Pec pod Sněžkou",
+      "region": "Královéhradecký kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pivo Sněžka"
+    },
+    {
+      "name": "Potštejn",
+      "region": "Královéhradecký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Clock, Goldie, Hektor, Maid, Twist"
+    },
+    {
+      "name": "Praskačka",
+      "region": "Královéhradecký kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Propper"
+    },
+    {
+      "name": "Skalice u České Lípy",
+      "region": "Královéhradecký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Agáta, Bubák, Čenda, Černokněžník, Divá Bára, Jessica, Ježibaba, Pankáč, Skalický drak, Soptík"
+    },
+    {
+      "name": "Strážné",
+      "region": "Královéhradecký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Fries"
+    },
+    {
+      "name": "Rychnov nad Kněžnou",
+      "region": "Královéhradecký kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Rychnovská Kněžna, Rychnovský Habrovák, Rychnovský Kaštan, Rychnovský Zilvar"
+    },
+    {
+      "name": "Vrchlabí (Hendrych)",
+      "region": "Královéhradecký kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "H 11"
+    },
+    {
+      "name": "Vrchlabí (Pivovarská bašta)",
+      "region": "Královéhradecký kraj",
+      "founded": 1995,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krkonošský medvěd"
+    },
+    {
+      "name": "Celkem 23",
+      "region": "Královéhradecký kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 64"
+    },
+    {
+      "name": "Česká Třebová",
+      "region": "Pardubický kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černý Kohout, Kohout, Řezaný Kohout"
+    },
+    {
+      "name": "Dašice",
+      "region": "Pardubický kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dašické pivo"
+    },
+    {
+      "name": "Dolní Ředice",
+      "region": "Pardubický kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Mordýř"
+    },
+    {
+      "name": "Choceň",
+      "region": "Pardubický kraj",
+      "founded": 2021,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Splávek"
+    },
+    {
+      "name": "Jablonné nad Orlicí",
+      "region": "Pardubický kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Medvěd"
+    },
+    {
+      "name": "Litomyšl",
+      "region": "Pardubický kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bedřich"
+    },
+    {
+      "name": "Medlešice",
+      "region": "Pardubický kraj",
+      "founded": 2001,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Medlešické pivo"
+    },
+    {
+      "name": "Pardubice (Arnošt)",
+      "region": "Pardubický kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Arnošt"
+    },
+    {
+      "name": "Pardubice (Bahno)",
+      "region": "Pardubický kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bahno"
+    },
+    {
+      "name": "Svitavy",
+      "region": "Pardubický kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kopečkovské pšeničné, Mouřenín, Red Hill, Škopeček"
+    },
+    {
+      "name": "Široký Dvůr",
+      "region": "Pardubický kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlé výčepní 10°, Světlý ležák 11°, Světlý ležák 12°, Jarní speciál 13°, Zimní speciál 14°"
+    },
+    {
+      "name": "Vysoké Mýto (Mejto)",
+      "region": "Pardubický kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Mejto"
+    },
+    {
+      "name": "Vysoké Mýto (Kujebák)",
+      "region": "Pardubický kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kujebák, Vysokomýtské pivo, Malvaz"
+    },
+    {
+      "name": "Žamberk (Kanec)",
+      "region": "Pardubický kraj",
+      "founded": 1997,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jantarový kanec, Královéhradecký Patriot, Zlatý kanec, Žamberecký kanec"
+    },
+    {
+      "name": "Žamberk (Letohradský Jelen)",
+      "region": "Pardubický kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Letohradský Jelen"
+    },
+    {
+      "name": "Žlebské Chvalovice",
+      "region": "Pardubický kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Chvalovické, Jantar, Rančer"
+    },
+    {
+      "name": "Celkem 16",
+      "region": "Pardubický kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 32"
+    },
+    {
+      "name": "Biskupice-Pulkov",
+      "region": "Kraj Vysočina",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Biskupické"
+    },
+    {
+      "name": "Bystřice nad Pernštejnem",
+      "region": "Kraj Vysočina",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Mitrowski"
+    },
+    {
+      "name": "Dalešice",
+      "region": "Kraj Vysočina",
+      "founded": 2002,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dalešické pivo, Kouřící králík, Májový ležák, Fledermaus"
+    },
+    {
+      "name": "Dobronín",
+      "region": "Kraj Vysočina",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dědkovo pivo"
+    },
+    {
+      "name": "Havlíčkův Brod",
+      "region": "Kraj Vysočina",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Gulbrúna, Karel, Mnichov, Rosomák, Šklíba, Šklíba Summer, Zrzek"
+    },
+    {
+      "name": "Hladov",
+      "region": "Kraj Vysočina",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Novoříšské Klášterní pivo"
+    },
+    {
+      "name": "Hluboké",
+      "region": "Kraj Vysočina",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jakub 11° (světlý ležák), Jantarový ležák 12°, speciály - Svatojakubská IPA/APA, Pšeničné pivo 11°, Tmavý speciál 13° (Stout/Portýr)"
+    },
+    {
+      "name": "Horní Dubenky",
+      "region": "Kraj Vysočina",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Javořický světlý ležák, Javořický polotmavý speciál, Javořický tmavý speciál, Javořická pšeničná 12°, Vídeňská 12°, IPA 15°"
+    },
+    {
+      "name": "Jihlava (Radniční)",
+      "region": "Kraj Vysočina",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Ignác, IPA 14.95, Jiskra, Porter, Weizenbier, Zikmund, Zuzana"
+    },
+    {
+      "name": "Kamenice nad Lipou (Kamenice)",
+      "region": "Kraj Vysočina",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kamenické pivo"
+    },
+    {
+      "name": "Kamenice nad Lipou (Kokeš)",
+      "region": "Kraj Vysočina",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bílý Kokeš, Kokeš"
+    },
+    {
+      "name": "Pacov",
+      "region": "Kraj Vysočina",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pacovský Golem, Pacovský Rabín"
+    },
+    {
+      "name": "Pávov",
+      "region": "Kraj Vysočina",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hrboun"
+    },
+    {
+      "name": "Pelhřimov (Na Čtyrce)",
+      "region": "Kraj Vysočina",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bavorský speciál 13°, Pelhřimovská desítka, Svatojakubský ležák 12°, Novorychnovský polotmavý ležák 11°"
+    },
+    {
+      "name": "Račín",
+      "region": "Kraj Vysočina",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Richard, Meďák"
+    },
+    {
+      "name": "Radešín",
+      "region": "Kraj Vysočina",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bobrůvka, Florian, Samuel"
+    },
+    {
+      "name": "Sobíňov",
+      "region": "Kraj Vysočina",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Sobiňovský Ležák, Sobiňovský Speciál, Sobiňovské Silné"
+    },
+    {
+      "name": "Telč",
+      "region": "Kraj Vysočina",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Měšťanská dvanáctka, Oscar ale, Telčská desítka"
+    },
+    {
+      "name": "Telč (Panský pivovar)",
+      "region": "Kraj Vysočina",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Telčský nádeník, Telčský holomek, Telčský hofmistr, Telčský klíčník IPA"
+    },
+    {
+      "name": "Třebíč",
+      "region": "Kraj Vysočina",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kaplan, Urban"
+    },
+    {
+      "name": "Uhřínovice",
+      "region": "Kraj Vysočina",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Ruprenz"
+    },
+    {
+      "name": "Velké Meziříčí",
+      "region": "Kraj Vysočina",
+      "founded": 2003,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Harrach, Velkomeziříčský Granát"
+    },
+    {
+      "name": "Vladislav",
+      "region": "Kraj Vysočina",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Heřman"
+    },
+    {
+      "name": "Žďár nad Sázavou",
+      "region": "Kraj Vysočina",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "8Evženů, Bílá Dáma, Dacan.ZR, Revolta, ŠakalOff"
+    },
+    {
+      "name": "Ždírec nad Doubravou",
+      "region": "Kraj Vysočina",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Naše pivo"
+    },
+    {
+      "name": "Želiv",
+      "region": "Kraj Vysočina",
+      "founded": 2003,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Castulus, Drslav, Gottschalk, Haštal, Magni, Milo, Salesius, Siard falco"
+    },
+    {
+      "name": "Celkem 26",
+      "region": "Kraj Vysočina",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 76"
+    },
+    {
+      "name": "Bítov",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Tesák"
+    },
+    {
+      "name": "Blučina",
+      "region": "Jihomoravský kraj",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "František, Oldřich, Vladimír, Xaver"
+    },
+    {
+      "name": "Bohdalice",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Manner 10° (světlé výčepní), Manner 11° a 12° (světlý ležák), speciály - Manner 11° ALE, Wolgang 13°"
+    },
+    {
+      "name": "Bratčice",
+      "region": "Jihomoravský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vánoční bratčický granát, Zámecká černá dvanáctka, Zámecká desítky, Zámecká dvanáctka, Zámecká jedenáctka, Zámecká třináctka"
+    },
+    {
+      "name": "Brno (Hauskrecht)",
+      "region": "Jihomoravský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Špilberk 10°, Brněnská 11°, Brněnská 12°, PH13 Black Flek, Brněnský Weiss"
+    },
+    {
+      "name": "Brno (Charlie's Square)",
+      "region": "Jihomoravský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Charlie's beer"
+    },
+    {
+      "name": "Brno (JBM)",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "JBM Brew Lab"
+    },
+    {
+      "name": "Brno (Lucky Bastard)",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Blond 11, Oktagon 13, India 15, Siciliano 17, speciály"
+    },
+    {
+      "name": "Brno (Pegas)",
+      "region": "Jihomoravský kraj",
+      "founded": 1992,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krystal, Pegas, Pegas Gold"
+    },
+    {
+      "name": "Brno (Stern)",
+      "region": "Jihomoravský kraj",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Američan, Baba Jaga, Beach boy, Californio, Cooledník, Czechoslovak, Dark energy, Funky, Francouz, Golden boy, Grinch, Jižanská 11°, Komárovská 12°, Lone wolf, Maor, Nebula, Shiva"
+    },
+    {
+      "name": "Brno-Líšeň",
+      "region": "Jihomoravský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Ležoun, Marvan, Pavián, Zelená pšenice"
+    },
+    {
+      "name": "Brno-Medlánky (Moravia)",
+      "region": "Jihomoravský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jošt 10, Punkevní 11, Rathausbier 11, Kluzák 11, Petrov 12, Mendelbier 12, sv. Martin 12, Zelené 11"
+    },
+    {
+      "name": "Brno-Veveří",
+      "region": "Jihomoravský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Císařský Weizen, Kateřina, Magistr Kelly, Matyáš Weizen, Old Land, Rektor, Scotta, Višňová jedenáctka, Weisbier"
+    },
+    {
+      "name": "Brno-Žebětín",
+      "region": "Jihomoravský kraj",
+      "founded": 2004,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Richard, Zelený Richard, Medový ležák 15°, Richard Pšenice, Višňové, Troják"
+    },
+    {
+      "name": "Břeclav (Zámecký)",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Delegát, Kanec, Svatováclavský speciál"
+    },
+    {
+      "name": "Břeclav (Frankies)",
+      "region": "Jihomoravský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Frankies"
+    },
+    {
+      "name": "Březí",
+      "region": "Jihomoravský kraj",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Březácký Sup"
+    },
+    {
+      "name": "Bzenec",
+      "region": "Jihomoravský kraj",
+      "founded": 2007,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kněžihorské pivo"
+    },
+    {
+      "name": "Dolní Bojanovice",
+      "region": "Jihomoravský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Mazák"
+    },
+    {
+      "name": "Doubravník",
+      "region": "Jihomoravský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Doubravník"
+    },
+    {
+      "name": "Dubňany (Řemeslný pivovar DUBŇÁK)",
+      "region": "Jihomoravský kraj",
+      "founded": 2019,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dubňák 11° Světlý ležák, Dubňák 12° Světlý ležák, Dubňák 12° Polotmavý ležák, Dubňák APA/IPA, sezónní speciály - Chmelda 11°, Medový speciál, Dýňový speciál (Pumpkin Ale), Vánoční a Velikonoční vícestupňové speciály"
+    },
+    {
+      "name": "Hodonín (Hodonínský vojáček)",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hodonínský vojáček"
+    },
+    {
+      "name": "Hodonín (Křikloun)",
+      "region": "Jihomoravský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Křikloun"
+    },
+    {
+      "name": "Hodonín (Kunc)",
+      "region": "Jihomoravský kraj",
+      "founded": 1994,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Blázen, Černý Švihák, Dacan, Pacholíček, Porter, Svatý Marek, Šohaj, Švihák"
+    },
+    {
+      "name": "Hustopeče",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Helles, Hradní pivo, Velbloud"
+    },
+    {
+      "name": "Kyjov",
+      "region": "Jihomoravský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": ""
+    },
+    {
+      "name": "Měnín",
+      "region": "Jihomoravský kraj",
+      "founded": 2005,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Santon"
+    },
+    {
+      "name": "Mikulov (Galant)",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": ""
+    },
+    {
+      "name": "Mikulov (Mamut)",
+      "region": "Jihomoravský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Mamut, Mastodont"
+    },
+    {
+      "name": "Moravská Nová Ves",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Extra chmelený Ale, Novoveský Amber Ale"
+    },
+    {
+      "name": "Moravský Krumlov",
+      "region": "Jihomoravský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krumlovské pivo"
+    },
+    {
+      "name": "Moravský Žižkov",
+      "region": "Jihomoravský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Divočák, Žižkovský ležák"
+    },
+    {
+      "name": "Nový Šaldorf – Sedlešovice",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Zlatý Josef"
+    },
+    {
+      "name": "Netopýrka",
+      "region": "Jihomoravský kraj",
+      "founded": 2021,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Sakuráč, OX-Oxymoron, Krčemný pán, Sakurová 13"
+    },
+    {
+      "name": "Oslavany",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Opál, Jantar, Rubín"
+    },
+    {
+      "name": "Padochov",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Antonín, Františka, Kukla"
+    },
+    {
+      "name": "Rajhrad",
+      "region": "Jihomoravský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Amber Ale 13°, IPA 16°"
+    },
+    {
+      "name": "Ratíškovice",
+      "region": "Jihomoravský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Ratíškovické pivo"
+    },
+    {
+      "name": "Sentice",
+      "region": "Jihomoravský kraj",
+      "founded": 1992,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Sentický Kvasar"
+    },
+    {
+      "name": "Slavkov u Brna",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Slavkovská Desítka, Slavkovská Dvanáctka, Slavkovské Bílé, Slavkovský kancléř, Slavkovský kaštan"
+    },
+    {
+      "name": "Syrovín",
+      "region": "Jihomoravský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Syrovar"
+    },
+    {
+      "name": "Tišnov",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Abatyše Barbora, Porter Coeli, Tišnovák, Tišnovan, Tišnovanka"
+    },
+    {
+      "name": "Tišnov (Grádo)",
+      "region": "Jihomoravský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Grádo"
+    },
+    {
+      "name": "Tišnov (Květnice)",
+      "region": "Jihomoravský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Květnice, Vídeňák"
+    },
+    {
+      "name": "Topolany u Vyškova",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lišák"
+    },
+    {
+      "name": "Únanov",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Dráteník"
+    },
+    {
+      "name": "Velká nad Veličkou",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Velický Bíla, Velický Bombarďák"
+    },
+    {
+      "name": "Viničné Šumice",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Výčepní 10° \"Kolař\", Světlý ležák Vildenberk 12°, měsíční speciály"
+    },
+    {
+      "name": "Vísky",
+      "region": "Jihomoravský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bejček"
+    },
+    {
+      "name": "Vranov u Adamova",
+      "region": "Jihomoravský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "farmářská 10° Z Gruntu, Z Gruntu Ferdinand 11°, Z Gruntu polotmavý Antonín 12°, Pivohrátkový speciál Z Gruntu"
+    },
+    {
+      "name": "Znojmo (městský)",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Znojemská Doppelbock, Znojemská Vídeň, Znojemské pivo, Znojemské Zetko"
+    },
+    {
+      "name": "Znojmo (U Šneka)",
+      "region": "Jihomoravský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Šnek"
+    },
+    {
+      "name": "Celkem 49",
+      "region": "Jihomoravský kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 112"
+    },
+    {
+      "name": "Bernartice",
+      "region": "Olomoucký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vranihorské výčepní, Vranihorský ležák, Vranihorský speciál"
+    },
+    {
+      "name": "Branná",
+      "region": "Olomoucký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bran, Dolmen, Kobra, Menhir"
+    },
+    {
+      "name": "Držovice",
+      "region": "Olomoucký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Císař"
+    },
+    {
+      "name": "Horka nad Moravou",
+      "region": "Olomoucký kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý ležák 11-13, Polotmavý ležák 11-13, Märzen 11, Bock"
+    },
+    {
+      "name": "Jeseník",
+      "region": "Olomoucký kraj",
+      "founded": 1870,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Březinka, Julius, Lichtwitz, Muzikant, Špičák, Vincenz"
+    },
+    {
+      "name": "Koválovice u Tištína",
+      "region": "Olomoucký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Husar"
+    },
+    {
+      "name": "Lhota pod Kosířem",
+      "region": "Olomoucký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Haltyř, Gabriell"
+    },
+    {
+      "name": "Lipník nad Bečvou",
+      "region": "Olomoucký kraj",
+      "founded": 2004,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lipnický ležák, Svatovar"
+    },
+    {
+      "name": "Lipník nad Bečvou – Nové Dvory",
+      "region": "Olomoucký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Božena, Černý Petr, Garde, Kávový speciál, Měďák, Notorik"
+    },
+    {
+      "name": "Loučná nad Desnou",
+      "region": "Olomoucký kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kvasslav"
+    },
+    {
+      "name": "Náměšť na Hané",
+      "region": "Olomoucký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jadroš, Nitsche, Náměšťský pivovar"
+    },
+    {
+      "name": "Olomouc (Chomout)",
+      "region": "Olomoucký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Chomout"
+    },
+    {
+      "name": "Olomouc (Moritz)",
+      "region": "Olomoucký kraj",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Moritz"
+    },
+    {
+      "name": "Olomouc (Originál)",
+      "region": "Olomoucký kraj",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černé pivo pana Bruna, Hefe-weizen, Svatováclavská dvanáctka, Vašek, Vídeňský ležák"
+    },
+    {
+      "name": "Olomouc (Riegrovka)",
+      "region": "Olomoucký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Riegrovka"
+    },
+    {
+      "name": "Olomouc-Holice",
+      "region": "Olomoucký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Chmelař, Sladař, Vladař"
+    },
+    {
+      "name": "Olomouc-Svatý Kopeček",
+      "region": "Olomoucký kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hanibal, Hrdlička, J. W., Medlin"
+    },
+    {
+      "name": "Osek nad Bečvou (Helf)",
+      "region": "Olomoucký kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hefaiston, Helf IPA, Kovář"
+    },
+    {
+      "name": "Ostružná",
+      "region": "Olomoucký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Cestář"
+    },
+    {
+      "name": "Prostějov (U krále Ječmínka)",
+      "region": "Olomoucký kraj",
+      "founded": 1999,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černý anděl, Ječmenný ležák, Prostějovská ječmenná desítka, Prostějovský Porter, Weissbier"
+    },
+    {
+      "name": "Prostějov (U Tří králů)",
+      "region": "Olomoucký kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Desítka, Pšenice, Švestka, Tmavé, Višeň, Záhořan"
+    },
+    {
+      "name": "Přerov (Jižan)",
+      "region": "Olomoucký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jižan Garant, Jižan Grunt, Jižan Guvernér"
+    },
+    {
+      "name": "Přerov (Parník)",
+      "region": "Olomoucký kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Admirál, Jubilejní 3, Kapitán, Komodor, Kovář, Lodník, Maják, Námořník, Pirát, Přerovský Negr"
+    },
+    {
+      "name": "Sobotín",
+      "region": "Olomoucký kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Albert"
+    },
+    {
+      "name": "Šternberk",
+      "region": "Olomoucký kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Sternberg"
+    },
+    {
+      "name": "Troubelice",
+      "region": "Olomoucký kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Trubadúr"
+    },
+    {
+      "name": "Velké Losiny",
+      "region": "Olomoucký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Zlosin"
+    },
+    {
+      "name": "Zábřeh",
+      "region": "Olomoucký kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Welzl"
+    },
+    {
+      "name": "Celkem 28",
+      "region": "Olomoucký kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 80"
+    },
+    {
+      "name": "Brumov-Bylnice",
+      "region": "Zlínský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bobův ležák, Jantarový stoják, Podstraňák"
+    },
+    {
+      "name": "Jarošov",
+      "region": "Zlínský kraj",
+      "founded": 2017,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Jarošovská Desítka, Jarošovský Joža, Jarošovský ležák, Jura, Šohaj"
+    },
+    {
+      "name": "Kroměříž (1. selský)",
+      "region": "Zlínský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "C. & K., McHugo, Sedláček, Sedlák"
+    },
+    {
+      "name": "Kroměříž (Černý orel)",
+      "region": "Zlínský kraj",
+      "founded": 2009,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Černý orel"
+    },
+    {
+      "name": "Kroměříž (Maxmilián)",
+      "region": "Zlínský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Maxmilián"
+    },
+    {
+      "name": "Otrokovice",
+      "region": "Zlínský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "King, Panhead, Scat, Shovel, Topper"
+    },
+    {
+      "name": "Rožnov pod Radhoštěm",
+      "region": "Zlínský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Baron Armín Popper, Čert, Radhošť, Rothschild, Rytíř Gutmann, Žerotín"
+    },
+    {
+      "name": "Slavičín – Hrádek",
+      "region": "Zlínský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Horehleď, Karpat, Mladotic, Ocelot, Rejtín"
+    },
+    {
+      "name": "Trnava u Zlína",
+      "region": "Zlínský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Vraník"
+    },
+    {
+      "name": "Valašské Meziříčí",
+      "region": "Zlínský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "2016"
+    },
+    {
+      "name": "Velké Karlovice",
+      "region": "Zlínský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Diblík, Skřítek, Šibal, Tátoš"
+    },
+    {
+      "name": "Vsetín",
+      "region": "Zlínský kraj",
+      "founded": 2002,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Juráš, Valášek, Valdštejn, Vídeňský speciál"
+    },
+    {
+      "name": "Záhlinice",
+      "region": "Zlínský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hospodář"
+    },
+    {
+      "name": "Zašová",
+      "region": "Zlínský kraj",
+      "founded": 2004,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Bon, Portáš"
+    },
+    {
+      "name": "Zlín-Malenovice",
+      "region": "Zlínský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Zlínský švec"
+    },
+    {
+      "name": "Celkem 16",
+      "region": "Zlínský kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 44"
+    },
+    {
+      "name": "Albrechtice u Českého Těšína",
+      "region": "Moravskoslezský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pacan, Pierun, Piko, Pipa, Pszenka"
+    },
+    {
+      "name": "Bílovec",
+      "region": "Moravskoslezský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Zobak"
+    },
+    {
+      "name": "Bohumín-Skřečoň",
+      "region": "Moravskoslezský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Skřečoňský žabák"
+    },
+    {
+      "name": "Bruntál",
+      "region": "Moravskoslezský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý ležák, Polotmavý ležák, ABBEY, IPA, Pšeničné, Tmavý ležák"
+    },
+    {
+      "name": "Český Těšín",
+      "region": "Moravskoslezský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Světlý ležák 11, Polotmavý ležák 11, Světlý ležák 12, Pomerančová 11, Jantarový citron 11, Medový polotmavý ležák 11, Summer ALE 11, Perníková adventní 11, Silesian Porter 15, Cherry Porter 15"
+    },
+    {
+      "name": "Dolní Sklenov",
+      "region": "Moravskoslezský kraj",
+      "founded": 2004,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Hukvaldské pivo, Hukvaldský ležák"
+    },
+    {
+      "name": "Frýdek-Místek",
+      "region": "Moravskoslezský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Morava"
+    },
+    {
+      "name": "Havířov (Slezský)",
+      "region": "Moravskoslezský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Borůvka, Bulač, Cap Bock, Hajcman, Hever Red Ale, Štajgr, Štola"
+    },
+    {
+      "name": "Hlučín",
+      "region": "Moravskoslezský kraj",
+      "founded": 1993,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Avar, Bivoj, Dérer, Franc, Leovar, Radovar, Slezský korbel"
+    },
+    {
+      "name": "Horní Lomná",
+      "region": "Moravskoslezský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Lomňan"
+    },
+    {
+      "name": "Karviná – Ráj",
+      "region": "Moravskoslezský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Larische"
+    },
+    {
+      "name": "Karviná – Fryštát",
+      "region": "Moravskoslezský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Fryštátské pivo"
+    },
+    {
+      "name": "Kopřivnice",
+      "region": "Moravskoslezský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Poležák"
+    },
+    {
+      "name": "Kozlovice",
+      "region": "Moravskoslezský kraj",
+      "founded": 2008,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kozlovický fojt, Kozlovjan, Valašský vojvoda"
+    },
+    {
+      "name": "Krmelín",
+      "region": "Moravskoslezský kraj",
+      "founded": 2011,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Krmelínské pivo"
+    },
+    {
+      "name": "Krnov",
+      "region": "Moravskoslezský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Nachmelená Opice"
+    },
+    {
+      "name": "Kunčice pod Ondřejníkem",
+      "region": "Moravskoslezský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Baltazar, Kašpar, Melichar"
+    },
+    {
+      "name": "Leskovec",
+      "region": "Moravskoslezský kraj",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Slezan"
+    },
+    {
+      "name": "Opava (Nová Sladovna)",
+      "region": "Moravskoslezský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Opavský Čert, Opavský Škopek, Opavský Zlaťák"
+    },
+    {
+      "name": "Opava (Panský mlýn)",
+      "region": "Moravskoslezský kraj",
+      "founded": 2015,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Brtník, Grizzly, Kodiak"
+    },
+    {
+      "name": "Ostrava – Krásné Pole",
+      "region": "Moravskoslezský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Medojed, Samec, Strong, Easy"
+    },
+    {
+      "name": "Ostrava – Martinov",
+      "region": "Moravskoslezský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Garážmistr"
+    },
+    {
+      "name": "Ostrava – Moravská Ostrava",
+      "region": "Moravskoslezský kraj",
+      "founded": 2007,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Blackdog, Firedog, Garážmistr, Kunětický Hejkal, Qásek, Zeus"
+    },
+    {
+      "name": "Ostrava – Stará Bělá",
+      "region": "Moravskoslezský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Starobělské pivo"
+    },
+    {
+      "name": "Ostrava – Vítkovice",
+      "region": "Moravskoslezský kraj",
+      "founded": 2016,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "HD"
+    },
+    {
+      "name": "Ostrava – Zábřeh",
+      "region": "Moravskoslezský kraj",
+      "founded": 1784,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pikard, Poledníkové pivo, Svatováclavské zámecké, Svatováclavský ležák"
+    },
+    {
+      "name": "Ostravice",
+      "region": "Moravskoslezský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Beskydská desítka, Beskydský ležák, Beskydské hořké, Zbuj"
+    },
+    {
+      "name": "Palačov",
+      "region": "Moravskoslezský kraj",
+      "founded": 2014,
+      "status": "v provozu",
+      "closed": "",
+      "brands": ""
+    },
+    {
+      "name": "Rohov",
+      "region": "Moravskoslezský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Rohan"
+    },
+    {
+      "name": "Rýmařov",
+      "region": "Moravskoslezský kraj",
+      "founded": 1995,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Excelent"
+    },
+    {
+      "name": "Střítež",
+      "region": "Moravskoslezský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Radas"
+    },
+    {
+      "name": "Šenov",
+      "region": "Moravskoslezský kraj",
+      "founded": 2018,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Pivovar Šenov"
+    },
+    {
+      "name": "Štramberk",
+      "region": "Moravskoslezský kraj",
+      "founded": 2005,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Gambrinův Grál, Opojný polibek, The Troobacz, Trubač"
+    },
+    {
+      "name": "Třinec-Karpentná",
+      "region": "Moravskoslezský kraj",
+      "founded": 2010,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Třinecké kvasnicové pivo"
+    },
+    {
+      "name": "Vojkovice",
+      "region": "Moravskoslezský kraj",
+      "founded": 2006,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Čmelák, Dvaadvacítka, Grošák, Klaďas, Mustang, Netopýr, Ryzák, Sršeň, Vraník, Železník"
+    },
+    {
+      "name": "Vratimov",
+      "region": "Moravskoslezský kraj",
+      "founded": 2012,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Brabčák"
+    },
+    {
+      "name": "Vyšní Lhoty",
+      "region": "Moravskoslezský kraj",
+      "founded": 2013,
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Kohut"
+    },
+    {
+      "name": "Celkem 36",
+      "region": "Moravskoslezský kraj",
+      "founded": "",
+      "status": "v provozu",
+      "closed": "",
+      "brands": "Celkem 105"
+    },
+    {
+      "name": "Bohemian Hope Store",
+      "region": "Praha",
+      "founded": 1998,
+      "status": "zaniklý",
+      "closed": 1999,
+      "brands": ""
+    },
+    {
+      "name": "Boskovice",
+      "region": "Jihomoravský",
+      "founded": 1993,
+      "status": "zaniklý",
+      "closed": 1996,
+      "brands": ""
+    },
+    {
+      "name": "Brandýs nad Labem",
+      "region": "Středočeský",
+      "founded": 2015,
+      "status": "zaniklý",
+      "closed": 2017,
+      "brands": ""
+    },
+    {
+      "name": "Brno-Královo Pole",
+      "region": "Jihomoravský",
+      "founded": 1992,
+      "status": "zaniklý",
+      "closed": 1993,
+      "brands": ""
+    },
+    {
+      "name": "Domanín",
+      "region": "Vysočina",
+      "founded": 2014,
+      "status": "zaniklý",
+      "closed": 2016,
+      "brands": ""
+    },
+    {
+      "name": "Frýdek-Místek",
+      "region": "Moravskoslezský",
+      "founded": 2004,
+      "status": "zaniklý",
+      "closed": 2010,
+      "brands": ""
+    },
+    {
+      "name": "Frýdlant nad Ostravicí (Letohrádek)",
+      "region": "Moravskoslezský",
+      "founded": "2008, 2013",
+      "status": "zaniklý",
+      "closed": "2009, 2014",
+      "brands": ""
+    },
+    {
+      "name": "Frýdlant nad Ostravicí (Podhorský)",
+      "region": "Moravskoslezský",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2018,
+      "brands": ""
+    },
+    {
+      "name": "Havířov (PHM)",
+      "region": "Moravskoslezský",
+      "founded": 2015,
+      "status": "zaniklý",
+      "closed": 2022,
+      "brands": ""
+    },
+    {
+      "name": "Havířov (PKŘMR)",
+      "region": "Moravskoslezský",
+      "founded": 2014,
+      "status": "zaniklý",
+      "closed": 2018,
+      "brands": ""
+    },
+    {
+      "name": "Hradec Králové (Rambousek)",
+      "region": "Královéhradecký",
+      "founded": 2002,
+      "status": "zaniklý",
+      "closed": 2016,
+      "brands": ""
+    },
+    {
+      "name": "Hradec Králové (U Zezuláků)",
+      "region": "Královéhradecký",
+      "founded": 1992,
+      "status": "zaniklý",
+      "closed": 1997,
+      "brands": ""
+    },
+    {
+      "name": "Hostivice",
+      "region": "Středočeský",
+      "founded": 2010,
+      "status": "zaniklý",
+      "closed": 2013,
+      "brands": ""
+    },
+    {
+      "name": "Praha - Hostivař (Vik)",
+      "region": "Praha",
+      "founded": 2020,
+      "status": "zaniklý",
+      "closed": 2023,
+      "brands": ""
+    },
+    {
+      "name": "Hutisko-Solanec",
+      "region": "Zlínský",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2017,
+      "brands": ""
+    },
+    {
+      "name": "Praha - Chodov",
+      "region": "Praha",
+      "founded": 2010,
+      "status": "zaniklý",
+      "closed": 2024,
+      "brands": ""
+    },
+    {
+      "name": "Chlum u Třebíče",
+      "region": "Vysočina",
+      "founded": 2016,
+      "status": "zaniklý",
+      "closed": 2018,
+      "brands": ""
+    },
+    {
+      "name": "Jedovnice",
+      "region": "Jihomoravský",
+      "founded": 1997,
+      "status": "zaniklý",
+      "closed": 1998,
+      "brands": ""
+    },
+    {
+      "name": "Jihlava (Patriot)",
+      "region": "Vysočina",
+      "founded": 2001,
+      "status": "zaniklý",
+      "closed": 2002,
+      "brands": ""
+    },
+    {
+      "name": "Jindřichův Hradec (pánů z Růže)",
+      "region": "Jihočeský",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2015,
+      "brands": ""
+    },
+    {
+      "name": "Kelč",
+      "region": "Zlínský",
+      "founded": 2015,
+      "status": "zaniklý",
+      "closed": 2018,
+      "brands": ""
+    },
+    {
+      "name": "Kladno (Vorel)",
+      "region": "Středočeský",
+      "founded": 2007,
+      "status": "zaniklý",
+      "closed": 2009,
+      "brands": ""
+    },
+    {
+      "name": "Klatovy (Modrý abbé)",
+      "region": "Plzeňský",
+      "founded": 1991,
+      "status": "zaniklý",
+      "closed": 2016,
+      "brands": ""
+    },
+    {
+      "name": "Kopřivnice",
+      "region": "Moravskoslezský",
+      "founded": 2004,
+      "status": "zaniklý",
+      "closed": 2009,
+      "brands": ""
+    },
+    {
+      "name": "Liberec (U Vozků)",
+      "region": "Liberecký",
+      "founded": 1995,
+      "status": "zaniklý",
+      "closed": 2003,
+      "brands": ""
+    },
+    {
+      "name": "Praha - Liboc",
+      "region": "Praha",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2019,
+      "brands": ""
+    },
+    {
+      "name": "Mačice",
+      "region": "Plzeňský",
+      "founded": 2010,
+      "status": "zaniklý",
+      "closed": 2011,
+      "brands": ""
+    },
+    {
+      "name": "Nový Jičín",
+      "region": "Moravskoslezský",
+      "founded": 1993,
+      "status": "zaniklý",
+      "closed": 1997,
+      "brands": ""
+    },
+    {
+      "name": "Olomouc (Mačák)",
+      "region": "Olomoucký",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2016,
+      "brands": ""
+    },
+    {
+      "name": "Osek nad Bečvou (Osečan)",
+      "region": "Olomoucký",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2017,
+      "brands": ""
+    },
+    {
+      "name": "Pelhřimov",
+      "region": "Vysočina",
+      "founded": 2007,
+      "status": "zaniklý",
+      "closed": 2008,
+      "brands": ""
+    },
+    {
+      "name": "Plzeň (U Pašáka)",
+      "region": "Plzeňský",
+      "founded": 2010,
+      "status": "zaniklý",
+      "closed": 2019,
+      "brands": ""
+    },
+    {
+      "name": "Plzeň (U rytíře Lochoty)",
+      "region": "Plzeňský",
+      "founded": 2001,
+      "status": "zaniklý",
+      "closed": 2016,
+      "brands": ""
+    },
+    {
+      "name": "Praha – Staré Město (U Dobřenských)",
+      "region": "Praha",
+      "founded": 2015,
+      "status": "zaniklý",
+      "closed": 2018,
+      "brands": ""
+    },
+    {
+      "name": "Postoloprty",
+      "region": "Ústecký",
+      "founded": 2000,
+      "status": "zaniklý",
+      "closed": 2001,
+      "brands": ""
+    },
+    {
+      "name": "Praha - Libeň (Richter)",
+      "region": "Praha",
+      "founded": 2004,
+      "status": "zaniklý",
+      "closed": 2017,
+      "brands": ""
+    },
+    {
+      "name": "Praha - Nové Město (restaurační pivovar)",
+      "region": "Praha",
+      "founded": 1993,
+      "status": "zaniklý",
+      "closed": 2020,
+      "brands": ""
+    },
+    {
+      "name": "Praha - Staré Město (Boršov)",
+      "region": "Praha",
+      "founded": 2005,
+      "status": "zaniklý",
+      "closed": 2018,
+      "brands": ""
+    },
+    {
+      "name": "Praha - Třebonice",
+      "region": "Praha",
+      "founded": 2010,
+      "status": "zaniklý",
+      "closed": 2017,
+      "brands": ""
+    },
+    {
+      "name": "Praha – Vinohrady (Nota Bene)",
+      "region": "Praha",
+      "founded": 2015,
+      "status": "zaniklý",
+      "closed": 2017,
+      "brands": ""
+    },
+    {
+      "name": "Průhonice",
+      "region": "Středočeský",
+      "founded": 1994,
+      "status": "zaniklý",
+      "closed": 2014,
+      "brands": ""
+    },
+    {
+      "name": "Příbor",
+      "region": "Moravskoslezský",
+      "founded": 2005,
+      "status": "zaniklý",
+      "closed": 2008,
+      "brands": ""
+    },
+    {
+      "name": "Rožnov pod Radhoštěm (První valašský)",
+      "region": "Zlínský",
+      "founded": 1994,
+      "status": "zaniklý",
+      "closed": 1997,
+      "brands": ""
+    },
+    {
+      "name": "Slušovice",
+      "region": "Zlínský",
+      "founded": "1996; 1997",
+      "status": "zaniklý",
+      "closed": 2001,
+      "brands": ""
+    },
+    {
+      "name": "Stříbro",
+      "region": "Plzeňský",
+      "founded": 2007,
+      "status": "zaniklý",
+      "closed": 2012,
+      "brands": ""
+    },
+    {
+      "name": "Svinišťany",
+      "region": "Královéhradecký",
+      "founded": 1991,
+      "status": "zaniklý",
+      "closed": 1998,
+      "brands": ""
+    },
+    {
+      "name": "Šitbořice",
+      "region": "Jihomoravský",
+      "founded": 2012,
+      "status": "zaniklý",
+      "closed": 2017,
+      "brands": ""
+    },
+    {
+      "name": "Tábor",
+      "region": "Jihočeský",
+      "founded": 1994,
+      "status": "zaniklý",
+      "closed": 1995,
+      "brands": ""
+    },
+    {
+      "name": "Uherský Brod",
+      "region": "Zlínský",
+      "founded": 1998,
+      "status": "zaniklý",
+      "closed": 2012,
+      "brands": ""
+    },
+    {
+      "name": "Velichov",
+      "region": "Karlovarský",
+      "founded": 2000,
+      "status": "zaniklý",
+      "closed": 2014,
+      "brands": ""
+    },
+    {
+      "name": "Vrahovice",
+      "region": "Olomoucký",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2015,
+      "brands": ""
+    },
+    {
+      "name": "Zlín",
+      "region": "Zlínský",
+      "founded": 2013,
+      "status": "zaniklý",
+      "closed": 2014,
+      "brands": ""
+    },
+    {
+      "name": "Žabeň",
+      "region": "Moravskoslezský",
+      "founded": 2001,
+      "status": "zaniklý",
+      "closed": 2003,
+      "brands": ""
+    }
+  ],
+  "meta": {
+    "title": "Minipivovary v Česku - Free Download",
+    "description": "Seznam českých minipivovarů podle krajů s rokem vzniku, stavem a značkami piva, včetně zaniklých minipivovarů. Contains 471 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Minipivovary v Česku | ListBase",
+    "seo_description": "Download Minipivovary v Česku — 471 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 471 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_minipivovarů_v_Česku"
+    ]
+  }
+}
