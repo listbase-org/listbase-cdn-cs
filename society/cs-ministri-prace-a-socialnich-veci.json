@@ -1,0 +1,259 @@
+{
+  "id": "cs-ministri-prace-a-socialnich-veci",
+  "name": "Ministři práce a sociálních věcí České republiky",
+  "title": "Ministři práce a sociálních věcí České republiky",
+  "description": "Seznam ministrů práce a sociálních věcí České republiky (a ČSR v rámci federace) s daty v úřadu, stranou a vládou.",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_práce_a_sociálních_věcí_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_práce_a_sociálních_věcí_České_republiky",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1",
+      "ministr": "František Toman",
+      "nastup": "8. ledna 1969",
+      "odchod": "29. září 1969",
+      "strana": "ČSL",
+      "vlada": "Rázl",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "2",
+      "ministr": "Emilian Hamerník",
+      "nastup": "29. září 1969",
+      "odchod": "18. června 1986",
+      "strana": "KSČ",
+      "vlada": "Kempný a Korčák, Korčák II., Korčák III., Korčák IV.",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "3",
+      "ministr": "Nasťa Baumruková",
+      "nastup": "18. června 1986",
+      "odchod": "21. dubna 1988",
+      "strana": "KSČ",
+      "vlada": "Korčák, Adamec, Pitra a Pithart",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "Od období 1988 až 1990 samostatný úřad neexistoval. V dubnu 1988 byl rezort sloučen do Ministerstva zdravotnictví a sociálních věcí. Obnoven byl po volbách v červnu 1990",
+      "ministr": "Od období 1988 až 1990 samostatný úřad neexistoval. V dubnu 1988 byl rezort sloučen do Ministerstva zdravotnictví a sociálních věcí. Obnoven byl po volbách v červnu 1990.",
+      "nastup": "Od období 1988 až 1990 samostatný úřad neexistoval. V dubnu 1988 byl rezort sloučen do Ministerstva zdravotnictví a sociálních věcí. Obnoven byl po volbách v červnu 1990.",
+      "odchod": "Od období 1988 až 1990 samostatný úřad neexistoval. V dubnu 1988 byl rezort sloučen do Ministerstva zdravotnictví a sociálních věcí. Obnoven byl po volbách v červnu 1990.",
+      "strana": "Od období 1988 až 1990 samostatný úřad neexistoval. V dubnu 1988 byl rezort sloučen do Ministerstva zdravotnictví a sociálních věcí. Obnoven byl po volbách v červnu 1990.",
+      "vlada": "Od období 1988 až 1990 samostatný úřad neexistoval. V dubnu 1988 byl rezort sloučen do Ministerstva zdravotnictví a sociálních věcí. Obnoven byl po volbách v červnu 1990.",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "4",
+      "ministr": "Milan Horálek",
+      "nastup": "29. června 1990",
+      "odchod": "2. července 1992",
+      "strana": "OF, OH",
+      "vlada": "Pithart",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "5",
+      "ministr": "Jindřich Vodička",
+      "nastup": "2. července 1992",
+      "odchod": "31. prosince 1992",
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "1",
+      "ministr": "Jindřich Vodička",
+      "nastup": "1. ledna 1993",
+      "odchod": "8. listopadu 1997",
+      "strana": "ODS",
+      "vlada": "Klaus I., Klaus II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "2",
+      "ministr": "Stanislav Volák",
+      "nastup": "8. listopadu 1997",
+      "odchod": "16. července 1998",
+      "strana": "ODS, US",
+      "vlada": "Klaus II., Tošovský",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "3",
+      "ministr": "Vladimír Špidla",
+      "nastup": "22. července 1998",
+      "odchod": "12. července 2002",
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "4",
+      "ministr": "Zdeněk Škromach",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "strana": "ČSSD",
+      "vlada": "Špidla, Gross, Paroubek",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "5",
+      "ministr": "Petr Nečas",
+      "nastup": "4. září 2006",
+      "odchod": "8. května 2009",
+      "strana": "ODS",
+      "vlada": "Topolánek I., Topolánek II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "6",
+      "ministr": "Petr Šimerka",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "strana": "nestraník nom. ČSSD",
+      "vlada": "Fischer",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "7",
+      "ministr": "Jaromír Drábek",
+      "nastup": "13. července 2010",
+      "odchod": "31. října 2012",
+      "strana": "TOP 09",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "Funkce neobsazena",
+      "ministr": "Funkce neobsazena",
+      "nastup": "1. listopadu 2010 – 15. listopadu 2010",
+      "odchod": "1. listopadu 2010 – 15. listopadu 2010",
+      "strana": "",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "8",
+      "ministr": "Ludmila Müllerová",
+      "nastup": "16. listopadu 2012",
+      "odchod": "10. července 2013",
+      "strana": "TOP 09",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "9",
+      "ministr": "František Koníček",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "strana": "nestraník",
+      "vlada": "Rusnok",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "10",
+      "ministr": "Michaela Marksová",
+      "nastup": "29. ledna 2014",
+      "odchod": "13. prosince 2017",
+      "strana": "ČSSD",
+      "vlada": "Sobotka",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "11",
+      "ministr": "Jaroslava Němcová",
+      "nastup": "13. prosince 2017",
+      "odchod": "27. června 2018",
+      "strana": "ANO",
+      "vlada": "Babiš I.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "12",
+      "ministr": "Petr Krčál",
+      "nastup": "27. června 2018",
+      "odchod": "18. července 2018",
+      "strana": "ČSSD",
+      "vlada": "Babiš II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "13",
+      "ministr": "Jana Maláčová",
+      "nastup": "30. července 2018",
+      "odchod": "17. prosince 2021",
+      "strana": "ČSSD",
+      "vlada": "Babiš II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "14",
+      "ministr": "Marian Jurečka",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "strana": "KDU-ČSL",
+      "vlada": "Fiala",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "15",
+      "ministr": "Aleš Juchelka",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "strana": "ANO",
+      "vlada": "Babiš III.",
+      "obdobi": "samostatná ČR"
+    }
+  ],
+  "meta": {
+    "title": "Ministři práce a sociálních věcí České republiky - Free Download",
+    "description": "Seznam ministrů práce a sociálních věcí České republiky (a ČSR v rámci federace) s daty v úřadu, stranou a vládou. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři práce a sociálních věcí České republiky | ListBase",
+    "seo_description": "Download Ministři práce a sociálních věcí České republiky — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_práce_a_sociálních_věcí_České_republiky"
+    ]
+  }
+}

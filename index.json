@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-11T02:12:23.410Z",
-  "total_datasets": 556,
-  "total_records": 421069,
+  "generated": "2026-11-11T02:12:33.159Z",
+  "total_datasets": 557,
+  "total_records": 421091,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -14233,6 +14233,34 @@
         "xlsx": {
           "name": "science-solubility-rules_CS.xlsx",
           "size": 9238
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-prace-a-socialnich-veci",
+      "name": "Ministři práce a sociálních věcí České republiky",
+      "category": "society",
+      "record_count": 22,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_práce_a_sociálních_věcí_České_republiky",
+      "updated": "2026-11",
+      "size": 8318,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-prace-a-socialnich-veci_CS.csv",
+          "size": 3441
+        },
+        "xlsx": {
+          "name": "cs-ministri-prace-a-socialnich-veci_CS.xlsx",
+          "size": 8336
         }
       }
     },
