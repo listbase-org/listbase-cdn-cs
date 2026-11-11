@@ -1,0 +1,259 @@
+{
+  "id": "cs-ministri-dopravy",
+  "name": "Ministři dopravy České republiky",
+  "title": "Ministři dopravy České republiky",
+  "description": "Seznam ministrů dopravy České republiky (a ČSR v rámci federace) s daty v úřadu, stranou a vládou.",
+  "category": "transport",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_dopravy_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_dopravy_České_republiky",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1",
+      "ministr": "Josef Starý",
+      "nastup": "8. ledna 1969",
+      "odchod": "9. prosince 1971",
+      "strana": "",
+      "vlada": "Rázl, Kempný a Korčák",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "1",
+      "ministr": "Jan Stráský",
+      "nastup": "30. prosince 1992",
+      "odchod": "10. října 1995",
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "2",
+      "ministr": "Vladimír Budinský",
+      "nastup": "11. října 1995",
+      "odchod": "4. července 1996",
+      "strana": "ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "3",
+      "ministr": "Martin Říman",
+      "nastup": "4. července 1996",
+      "odchod": "2. ledna 1998",
+      "strana": "ODS",
+      "vlada": "Klaus II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "4",
+      "ministr": "Petr Moos",
+      "nastup": "2. ledna 1998",
+      "odchod": "22. července 1998",
+      "strana": "nestraník",
+      "vlada": "Tošovský",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "5",
+      "ministr": "Antonín Peltrám",
+      "nastup": "22. července 1998",
+      "odchod": "26. dubna 2000",
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "6",
+      "ministr": "Jaromír Schling",
+      "nastup": "26. dubna 2000",
+      "odchod": "15. července 2002",
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "7",
+      "ministr": "Milan Šimonovský",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "strana": "KDU-ČSL",
+      "vlada": "Špidla, Gross, Paroubek",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "8",
+      "ministr": "Aleš Řebíček",
+      "nastup": "4. září 2006",
+      "odchod": "23. ledna 2009",
+      "strana": "ODS",
+      "vlada": "Topolánek I., Topolánek II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "9",
+      "ministr": "Petr Bendl",
+      "nastup": "23. ledna 2009",
+      "odchod": "8. května 2009",
+      "strana": "ODS",
+      "vlada": "Topolánek II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "10",
+      "ministr": "Gustav Slamečka",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "strana": "nestraník nom. ODS",
+      "vlada": "Fischer",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "11",
+      "ministr": "Vít Bárta",
+      "nastup": "13. července 2010",
+      "odchod": "21. dubna 2011",
+      "strana": "VV",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "12",
+      "ministr": "Radek Šmerda",
+      "nastup": "21. dubna 2011",
+      "odchod": "1. července 2011",
+      "strana": "nestraník za VV",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "13",
+      "ministr": "Pavel Dobeš",
+      "nastup": "1. července 2011",
+      "odchod": "3. prosince 2012",
+      "strana": "VV, LIDEM",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "14",
+      "ministr": "Zbyněk Stanjura",
+      "nastup": "12. prosince 2012",
+      "odchod": "10. července 2013",
+      "strana": "ODS",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "15",
+      "ministr": "Zdeněk Žák",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "strana": "nestraník",
+      "vlada": "Rusnok",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "16",
+      "ministr": "Antonín Prachař",
+      "nastup": "29. ledna 2014",
+      "odchod": "13. listopadu 2014",
+      "strana": "ANO",
+      "vlada": "Sobotka",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "17",
+      "ministr": "Dan Ťok",
+      "nastup": "4. prosince 2014",
+      "odchod": "30. dubna 2019",
+      "strana": "nestraník za ANO",
+      "vlada": "Sobotka, Babiš I., Babiš II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "18",
+      "ministr": "Vladimír Kremlík",
+      "nastup": "30. dubna 2019",
+      "odchod": "23. ledna 2020",
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "19",
+      "ministr": "Karel Havlíček",
+      "nastup": "24. ledna 2020",
+      "odchod": "17. prosince 2021",
+      "strana": "nestraník za ANO (do 2021) ANO",
+      "vlada": "Babiš II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "20",
+      "ministr": "Martin Kupka",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "strana": "ODS",
+      "vlada": "Fiala",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "21",
+      "ministr": "Ivan Bednárik",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "strana": "nestraník za SPD",
+      "vlada": "Babiš III.",
+      "obdobi": "samostatná ČR"
+    }
+  ],
+  "meta": {
+    "title": "Ministři dopravy České republiky - Free Download",
+    "description": "Seznam ministrů dopravy České republiky (a ČSR v rámci federace) s daty v úřadu, stranou a vládou. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři dopravy České republiky | ListBase",
+    "seo_description": "Download Ministři dopravy České republiky — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_dopravy_České_republiky"
+    ]
+  }
+}

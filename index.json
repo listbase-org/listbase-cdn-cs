@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-10T02:28:55.050Z",
-  "total_datasets": 555,
-  "total_records": 421047,
+  "generated": "2026-11-11T02:12:23.410Z",
+  "total_datasets": 556,
+  "total_records": 421069,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "units",
@@ -15822,6 +15822,34 @@
         "xlsx": {
           "name": "cs-liberecky-vlakova-nadrazi_CS.xlsx",
           "size": 10810
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-dopravy",
+      "name": "Ministři dopravy České republiky",
+      "category": "transport",
+      "record_count": 22,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_dopravy_České_republiky",
+      "updated": "2026-11",
+      "size": 6976,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-dopravy_CS.csv",
+          "size": 2323
+        },
+        "xlsx": {
+          "name": "cs-ministri-dopravy_CS.xlsx",
+          "size": 8195
         }
       }
     },
