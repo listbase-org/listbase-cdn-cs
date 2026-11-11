@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-11T02:12:33.159Z",
-  "total_datasets": 557,
-  "total_records": 421091,
+  "generated": "2026-11-11T02:12:41.212Z",
+  "total_datasets": 558,
+  "total_records": 421114,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 21
+      "dataset_count": 22
     },
     {
       "id": "finance",
@@ -2335,6 +2335,34 @@
         "xlsx": {
           "name": "cs-jeskyne_CS.xlsx",
           "size": 21572
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-zivotniho-prostredi",
+      "name": "Ministři životního prostředí České republiky",
+      "category": "environment",
+      "record_count": 23,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_životního_prostředí_České_republiky",
+      "updated": "2026-11",
+      "size": 7384,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-zivotniho-prostredi_CS.csv",
+          "size": 2416
+        },
+        "xlsx": {
+          "name": "cs-ministri-zivotniho-prostredi_CS.xlsx",
+          "size": 8239
         }
       }
     },

@@ -1,0 +1,268 @@
+{
+  "id": "cs-ministri-zivotniho-prostredi",
+  "name": "Ministři životního prostředí České republiky",
+  "title": "Ministři životního prostředí České republiky",
+  "description": "Seznam ministrů životního prostředí České republiky od roku 1989 s daty nástupu a odchodu z úřadu, stranou a vládou.",
+  "category": "environment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_životního_prostředí_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_životního_prostředí_České_republiky",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1",
+      "ministr": "Bedřich Moldan",
+      "nastup": "19. prosince 1989",
+      "odchod": "24. ledna 1991",
+      "strana": "OF",
+      "vlada": "Korčák, Adamec, Pitra a Pithart, Pithart",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "2",
+      "ministr": "Ivan Dejmal",
+      "nastup": "24. ledna 1991",
+      "odchod": "2. července 1992",
+      "strana": "KDS",
+      "vlada": "Pithart",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "3",
+      "ministr": "František Benda",
+      "nastup": "2. července 1992",
+      "odchod": "31. prosince 1992",
+      "strana": "KDS",
+      "vlada": "Klaus I.",
+      "obdobi": "federace"
+    },
+    {
+      "poradi": "1",
+      "ministr": "František Benda",
+      "nastup": "1. ledna 1993",
+      "odchod": "4. července 1996",
+      "strana": "KDS, ODS",
+      "vlada": "Klaus I.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "2",
+      "ministr": "Jiří Skalický",
+      "nastup": "4. července 1996",
+      "odchod": "20. února 1998",
+      "strana": "ODA",
+      "vlada": "Klaus II., Tošovský",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "3",
+      "ministr": "Martin Bursík",
+      "nastup": "27. února 1998",
+      "odchod": "22. července 1998",
+      "strana": "nestraník",
+      "vlada": "Tošovský",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "4",
+      "ministr": "Miloš Kužvart",
+      "nastup": "22. července 1998",
+      "odchod": "15. července 2002",
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "5",
+      "ministr": "Libor Ambrozek",
+      "nastup": "15. července 2002",
+      "odchod": "4. září 2006",
+      "strana": "KDU-ČSL",
+      "vlada": "Špidla, Gross, Paroubek",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "6",
+      "ministr": "Petr Kalaš",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007",
+      "strana": "nestraník za ODS",
+      "vlada": "Topolánek I.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "7",
+      "ministr": "Martin Bursík",
+      "nastup": "9. ledna 2007",
+      "odchod": "8. května 2009",
+      "strana": "SZ",
+      "vlada": "Topolánek II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "8",
+      "ministr": "Ladislav Miko",
+      "nastup": "8. května 2009",
+      "odchod": "30. listopadu 2009",
+      "strana": "nestraník nom. SZ",
+      "vlada": "Fischer",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "9",
+      "ministr": "Jan Dusík",
+      "nastup": "30. listopadu 2009",
+      "odchod": "19. března 2010",
+      "strana": "nestraník nom. SZ",
+      "vlada": "Fischer",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "10",
+      "ministr": "Jakub Šebesta",
+      "nastup": "22. března 2010",
+      "odchod": "15. dubna 2010",
+      "strana": "nestraník nom. ČSSD",
+      "vlada": "Fischer",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "11",
+      "ministr": "Rut Bízková",
+      "nastup": "15. dubna 2010",
+      "odchod": "13. července 2010",
+      "strana": "nestranička nom. ODS",
+      "vlada": "Fischer",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "12",
+      "ministr": "Pavel Drobil",
+      "nastup": "13. července 2010",
+      "odchod": "21. prosince 2010",
+      "strana": "ODS",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "13",
+      "ministr": "Tomáš Chalupa",
+      "nastup": "17. ledna 2011",
+      "odchod": "10. července 2013",
+      "strana": "ODS",
+      "vlada": "Nečas",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "14",
+      "ministr": "Tomáš Podivínský",
+      "nastup": "10. července 2013",
+      "odchod": "29. ledna 2014",
+      "strana": "KDU-ČSL",
+      "vlada": "Rusnok",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "15",
+      "ministr": "Richard Brabec",
+      "nastup": "29. ledna 2014",
+      "odchod": "17. prosince 2021",
+      "strana": "ANO",
+      "vlada": "Sobotka, Babiš I., Babiš II.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "16",
+      "ministr": "Anna Hubáčková",
+      "nastup": "17. prosince 2021",
+      "odchod": "31. října 2022",
+      "strana": "KDU-ČSL",
+      "vlada": "Fiala",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "17",
+      "ministr": "Marian Jurečka",
+      "nastup": "1. listopadu 2022",
+      "odchod": "10. března 2023",
+      "strana": "KDU-ČSL",
+      "vlada": "Fiala",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "18",
+      "ministr": "Petr Hladík",
+      "nastup": "10. března 2023",
+      "odchod": "15. prosince 2025",
+      "strana": "KDU-ČSL",
+      "vlada": "Fiala",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "19",
+      "ministr": "Petr Macinka",
+      "nastup": "15. prosince 2025",
+      "odchod": "22. února 2026",
+      "strana": "AUTO",
+      "vlada": "Babiš III.",
+      "obdobi": "samostatná ČR"
+    },
+    {
+      "poradi": "20",
+      "ministr": "Igor Červený",
+      "nastup": "23. února 2026",
+      "odchod": "úřadující",
+      "strana": "AUTO",
+      "vlada": "Babiš III.",
+      "obdobi": "samostatná ČR"
+    }
+  ],
+  "meta": {
+    "title": "Ministři životního prostředí České republiky - Free Download",
+    "description": "Seznam ministrů životního prostředí České republiky od roku 1989 s daty nástupu a odchodu z úřadu, stranou a vládou. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři životního prostředí České republiky | ListBase",
+    "seo_description": "Download Ministři životního prostředí České republiky — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_životního_prostředí_České_republiky"
+    ]
+  }
+}
