@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-11T02:12:41.212Z",
-  "total_datasets": 558,
-  "total_records": 421114,
+  "generated": "2026-11-11T02:13:14.307Z",
+  "total_datasets": 559,
+  "total_records": 421181,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -14572,6 +14572,31 @@
         "xlsx": {
           "name": "cs-mistri-hokejove-extraligy_CS.xlsx",
           "size": 8520
+        }
+      }
+    },
+    {
+      "id": "cs-sportovec-roku-vitezove",
+      "name": "Vítězové ankety Sportovec roku",
+      "category": "sports",
+      "record_count": 67,
+      "columns": [
+        "rok",
+        "sportovec",
+        "sport",
+        "stat"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Sportovec_roku",
+      "updated": "2026-11",
+      "size": 10799,
+      "files": {
+        "csv": {
+          "name": "cs-sportovec-roku-vitezove_CS.csv",
+          "size": 4283
+        },
+        "xlsx": {
+          "name": "cs-sportovec-roku-vitezove_CS.xlsx",
+          "size": 8959
         }
       }
     },

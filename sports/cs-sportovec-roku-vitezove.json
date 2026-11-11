@@ -1,0 +1,448 @@
+{
+  "id": "cs-sportovec-roku-vitezove",
+  "name": "Vítězové ankety Sportovec roku",
+  "title": "Vítězové ankety Sportovec roku",
+  "description": "Seznam vítězů ankety Sportovec roku (jednotlivci) v Československu a Česku od roku 1959 včetně sportovního odvětví.",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/Sportovec_roku",
+  "source_url": "https://cs.wikipedia.org/wiki/Sportovec_roku",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "rok",
+      "label": "Rok",
+      "type": "number"
+    },
+    {
+      "key": "sportovec",
+      "label": "Sportovec",
+      "type": "string"
+    },
+    {
+      "key": "sport",
+      "label": "Sport",
+      "type": "string"
+    },
+    {
+      "key": "stat",
+      "label": "Stat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rok": 1959,
+      "sportovec": "Vladimír Jirásek",
+      "sport": "vodní slalom",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1960,
+      "sportovec": "Eva Bosáková",
+      "sport": "sportovní gymnastika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1961,
+      "sportovec": "Josef Mikoláš",
+      "sport": "lední hokej",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1962,
+      "sportovec": "Eva a Pavel Romanovi",
+      "sport": "krasobruslení",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1963,
+      "sportovec": "Václav Kozák",
+      "sport": "veslování – skif",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1964,
+      "sportovec": "Věra Čáslavská",
+      "sport": "sportovní gymnastika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1965,
+      "sportovec": "Ludvík Daněk",
+      "sport": "lehká atletika – hod diskem",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1966,
+      "sportovec": "Věra Čáslavská",
+      "sport": "sportovní gymnastika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1967,
+      "sportovec": "Věra Čáslavská",
+      "sport": "sportovní gymnastika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1968,
+      "sportovec": "Věra Čáslavská",
+      "sport": "sportovní gymnastika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1969,
+      "sportovec": "Miloslava Rezková",
+      "sport": "atletika – skok do výšky",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1970,
+      "sportovec": "Ladislav Rygl",
+      "sport": "severská kombinace",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1971,
+      "sportovec": "Ondrej Nepela",
+      "sport": "krasobruslení",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1972,
+      "sportovec": "Ludvík Daněk",
+      "sport": "lehká atletika – hod diskem",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1973,
+      "sportovec": "Jan Kodeš",
+      "sport": "tenis",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1974,
+      "sportovec": "Vítězslav Mácha",
+      "sport": "zápas řecko-římský",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1975,
+      "sportovec": "Karel Kodejška",
+      "sport": "skoky na lyžích",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1976,
+      "sportovec": "Anton Tkáč",
+      "sport": "dráhová cyklistika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1977,
+      "sportovec": "Vítězslav Mácha",
+      "sport": "zápas řecko-římský",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1978,
+      "sportovec": "Anton Tkáč",
+      "sport": "dráhová cyklistika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1979,
+      "sportovec": "Jan a Jindřich Pospíšilové",
+      "sport": "kolová",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1980,
+      "sportovec": "Ota Zaremba",
+      "sport": "vzpírání",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1981,
+      "sportovec": "Jarmila Kratochvílová",
+      "sport": "lehká atletika – běžecké disciplíny",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1982,
+      "sportovec": "Imrich Bugár",
+      "sport": "lehká atletika – hod diskem",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1983,
+      "sportovec": "Jarmila Kratochvílová",
+      "sport": "lehká atletika – běžecké disciplíny",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1984,
+      "sportovec": "Květa Jeriová",
+      "sport": "běh na lyžích",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1985,
+      "sportovec": "Petr Jirmus",
+      "sport": "letecká akrobacie",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1986,
+      "sportovec": "Jozef Pribilinec",
+      "sport": "lehká atletika – chodecké disciplíny",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1987,
+      "sportovec": "Jiří Parma",
+      "sport": "skoky na lyžích",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1988,
+      "sportovec": "Jozef Pribilinec",
+      "sport": "lehká atletika – chodecké disciplíny",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1989,
+      "sportovec": "Attila Szabó",
+      "sport": "rychlostní kanoistika",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1990,
+      "sportovec": "Jozef Lohyňa",
+      "sport": "zápas ve volném stylu",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1991,
+      "sportovec": "Radomír Šimůnek",
+      "sport": "cyklokros",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1992,
+      "sportovec": "Robert Změlík",
+      "sport": "lehká atletika – desetiboj",
+      "stat": "Československo"
+    },
+    {
+      "rok": 1993,
+      "sportovec": "Jan Železný",
+      "sport": "lehká atletika – hod oštěpem",
+      "stat": "Česko"
+    },
+    {
+      "rok": 1994,
+      "sportovec": "Dominik Hašek",
+      "sport": "lední hokej",
+      "stat": "Česko"
+    },
+    {
+      "rok": 1995,
+      "sportovec": "Jan Železný",
+      "sport": "lehká atletika – hod oštěpem",
+      "stat": "Česko"
+    },
+    {
+      "rok": 1996,
+      "sportovec": "Martin Doktor",
+      "sport": "kanoistika",
+      "stat": "Česko"
+    },
+    {
+      "rok": 1997,
+      "sportovec": "Tomáš Dvořák",
+      "sport": "lehká atletika – desetiboj",
+      "stat": "Česko"
+    },
+    {
+      "rok": 1998,
+      "sportovec": "Dominik Hašek",
+      "sport": "lední hokej",
+      "stat": "Česko"
+    },
+    {
+      "rok": 1999,
+      "sportovec": "Tomáš Dvořák",
+      "sport": "lehká atletika – desetiboj",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2000,
+      "sportovec": "Jan Železný",
+      "sport": "lehká atletika – hod oštěpem",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2001,
+      "sportovec": "Jan Železný",
+      "sport": "lehká atletika – hod oštěpem",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2002,
+      "sportovec": "Aleš Valenta",
+      "sport": "akrobatické lyžování",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2003,
+      "sportovec": "Pavel Nedvěd",
+      "sport": "fotbal",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2004,
+      "sportovec": "Roman Šebrle",
+      "sport": "lehká atletika – desetiboj",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2005,
+      "sportovec": "Jaromír Jágr",
+      "sport": "lední hokej",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2006,
+      "sportovec": "Kateřina Neumannová",
+      "sport": "lyžování",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2007,
+      "sportovec": "Martina Sáblíková",
+      "sport": "rychlobruslení",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2008,
+      "sportovec": "Barbora Špotáková",
+      "sport": "lehká atletika – hod oštěpem",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2009,
+      "sportovec": "Martina Sáblíková",
+      "sport": "rychlobruslení",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2010,
+      "sportovec": "Martina Sáblíková",
+      "sport": "rychlobruslení",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2011,
+      "sportovec": "Petra Kvitová",
+      "sport": "tenis",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2012,
+      "sportovec": "Barbora Špotáková",
+      "sport": "lehká atletika – hod oštěpem",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2013,
+      "sportovec": "Zuzana Hejnová",
+      "sport": "lehká atletika – běžecké disciplíny",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2014,
+      "sportovec": "Petra Kvitová",
+      "sport": "tenis",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2015,
+      "sportovec": "Zuzana Hejnová",
+      "sport": "lehká atletika – běžecké disciplíny",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2016,
+      "sportovec": "Lukáš Krpálek",
+      "sport": "judo",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2017,
+      "sportovec": "Gabriela Soukalová",
+      "sport": "biatlon",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2018,
+      "sportovec": "Ester Ledecká",
+      "sport": "alpské lyžování a snowboarding",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2019,
+      "sportovec": "Lukáš Krpálek",
+      "sport": "judo",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2020,
+      "sportovec": "David Pastrňák",
+      "sport": "lední hokej",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2021,
+      "sportovec": "Lukáš Krpálek",
+      "sport": "judo",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2022,
+      "sportovec": "Ester Ledecká",
+      "sport": "alpské lyžování a snowboarding",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2023,
+      "sportovec": "Markéta Vondroušová",
+      "sport": "tenis",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2024,
+      "sportovec": "Josef Dostál",
+      "sport": "rychlostní kanoistika",
+      "stat": "Česko"
+    },
+    {
+      "rok": 2025,
+      "sportovec": "Ester Ledecká",
+      "sport": "alpské lyžování a snowboarding",
+      "stat": "Česko"
+    }
+  ],
+  "meta": {
+    "title": "Vítězové ankety Sportovec roku - Free Download",
+    "description": "Seznam vítězů ankety Sportovec roku (jednotlivci) v Československu a Česku od roku 1959 včetně sportovního odvětví. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vítězové ankety Sportovec roku | ListBase",
+    "seo_description": "Download Vítězové ankety Sportovec roku — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Sportovec_roku"
+    ]
+  }
+}
