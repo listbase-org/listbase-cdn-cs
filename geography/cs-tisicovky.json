@@ -1,0 +1,5326 @@
+{
+  "id": "cs-tisicovky",
+  "name": "Tisícovky v Česku – vrcholy nad 1000 m",
+  "title": "Tisícovky v Česku – vrcholy nad 1000 m",
+  "description": "Seznam všech vrcholů v Česku s nadmořskou výškou nad 1000 metrů, s pohořím, souřadnicemi, poznámkou a informací o přístupnosti.",
+  "category": "geography",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_tisícovek_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_tisícovek_v_Česku",
+  "updated": "2026-11",
+  "record_count": 585,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "number"
+    },
+    {
+      "key": "vyska_m",
+      "label": "Vyska M",
+      "type": "number"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "pohori",
+      "label": "Pohori",
+      "type": "string"
+    },
+    {
+      "key": "souradnice",
+      "label": "Souradnice",
+      "type": "string"
+    },
+    {
+      "key": "poznamka",
+      "label": "Poznamka",
+      "type": "string"
+    },
+    {
+      "key": "pristup",
+      "label": "Pristup",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": 1,
+      "vyska_m": 1603,
+      "nazev": "Sněžka",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′10″ s. š., 15°44′25″ v. d.",
+      "poznamka": "nejvyšší hora Česka a pohoří, vrchol v Polsku; na vrcholu kaple, Česká poštovna, Polská bouda, lanovka",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 2,
+      "vyska_m": 1556,
+      "nazev": "Luční hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′40″ s. š., 15°40′57″ v. d.",
+      "poznamka": "nejvyšší hora ležící uvnitř území Česka (tj. mimo hranici)",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 3,
+      "vyska_m": 1555,
+      "nazev": "Studniční hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′37″ s. š., 15°42′22″ v. d.",
+      "poznamka": "je o 55 cm nižší než Luční hora",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 4,
+      "vyska_m": 1510,
+      "nazev": "Vysoké kolo",
+      "pohori": "Krkonoše",
+      "souradnice": "50°46′37″ s. š., 15°34′04″ v. d.",
+      "poznamka": "nejvyšší hora západních Krkonoš, vrchol v Polsku",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 5,
+      "vyska_m": 1491,
+      "nazev": "Praděd",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′58″ s. š., 17°13′52″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; na vrcholu rozhledna – nejvyšší umělý bod Česka",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 6,
+      "vyska_m": 1490,
+      "nazev": "Stříbrný hřbet",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′18″ s. š., 15°40′35″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 7,
+      "vyska_m": 1472,
+      "nazev": "Violík",
+      "pohori": "Krkonoše",
+      "souradnice": "50°46′50″ s. š., 15°32′44″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 8,
+      "vyska_m": 1465,
+      "nazev": "Vysoká hole",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°03′31″ s. š., 17°13′50″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1447,
+      "nazev": "Petrovy kameny",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′05″ s. š., 17°14′01″ v. d.",
+      "poznamka": "vedlejší vrchol Vysoké hole",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 9,
+      "vyska_m": 1440,
+      "nazev": "Malý Šišák",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′34″ s. š., 15°38′55″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 10,
+      "vyska_m": 1435,
+      "nazev": "Kotel",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′09″ s. š., 15°31′47″ v. d.",
+      "poznamka": "nejvyšší vrchol Libereckého kraje",
+      "pristup": "ne"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1434,
+      "nazev": "Stříbrné návrší",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′28″ s. š., 15°41′30″ v. d.",
+      "poznamka": "vedlejší vrchol Studniční hory",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 11,
+      "vyska_m": 1423,
+      "nazev": "Králický Sněžník",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°12′27″ s. š., 16°50′51″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; na vrcholu rozhledna",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 12,
+      "vyska_m": 1423,
+      "nazev": "Keprník",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′15″ s. š., 17°07′00″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 13,
+      "vyska_m": 1423,
+      "nazev": "Zadní Planina",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′43″ s. š., 15°40′09″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 14,
+      "vyska_m": 1421,
+      "nazev": "Harrachovy kameny",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′15″ s. š., 15°32′19″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 15,
+      "vyska_m": 1416,
+      "nazev": "Mužské kameny",
+      "pohori": "Krkonoše",
+      "souradnice": "50°46′37″ s. š., 15°35′28″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1415,
+      "nazev": "Mužské kameny V",
+      "pohori": "Krkonoše",
+      "souradnice": "50°46′37″ s. š., 15°35′39″ v. d.",
+      "poznamka": "vedlejší vrchol Mužských kamenů",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 16,
+      "vyska_m": 1414,
+      "nazev": "Dívčí kameny",
+      "pohori": "Krkonoše",
+      "souradnice": "50°46′35″ s. š., 15°36′08″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1412,
+      "nazev": "Vrbatovo návrší",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′09″ s. š., 15°32′52″ v. d.",
+      "poznamka": "vedlejší vrchol Harrachových kamenů; mohyla Hanče a Vrbaty",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 17,
+      "vyska_m": 1411,
+      "nazev": "Svorová hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′33″ s. š., 15°46′10″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 18,
+      "vyska_m": 1411,
+      "nazev": "Zlaté návrší",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′00″ s. š., 15°33′15″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 19,
+      "vyska_m": 1393,
+      "nazev": "Růžová hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′14″ s. š., 15°44′25″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1387,
+      "nazev": "Kozí hřbety V",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′03″ s. š., 15°39′16″ v. d.",
+      "poznamka": "vedlejší vrchol Luční hory",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 20,
+      "vyska_m": 1385,
+      "nazev": "Velký Máj",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°02′46″ s. š., 17°12′37″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 21,
+      "vyska_m": 1378,
+      "nazev": "Plechý",
+      "pohori": "Šumava",
+      "souradnice": "48°46′16″ s. š., 13°51′29″ v. d.",
+      "poznamka": "nejvyšší hora české části pohoří",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 22,
+      "vyska_m": 1377,
+      "nazev": "Vozka",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′11″ s. š., 17°06′30″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 23,
+      "vyska_m": 1373,
+      "nazev": "Nad Rakouskou loukou",
+      "pohori": "Šumava",
+      "souradnice": "48°46′13″ s. š., 13°50′48″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 24,
+      "vyska_m": 1370,
+      "nazev": "Velká Mokrůvka",
+      "pohori": "Šumava",
+      "souradnice": "48°57′17″ s. š., 13°30′27″ v. d.",
+      "poznamka": "nejvyšší vrchol Plzeňského kraje",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 25,
+      "vyska_m": 1370,
+      "nazev": "Blatný vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°57′52″ s. š., 13°27′01″ v. d.",
+      "poznamka": "vrchol v Německu",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 26,
+      "vyska_m": 1369,
+      "nazev": "Malý Děd",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′08″ s. š., 17°13′14″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 27,
+      "vyska_m": 1367,
+      "nazev": "Jelení hřbet",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°02′22″ s. š., 17°12′00″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 28,
+      "vyska_m": 1363,
+      "nazev": "Liščí hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°41′34″ s. š., 15°41′20″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 29,
+      "vyska_m": 1362,
+      "nazev": "Boubín",
+      "pohori": "Šumava",
+      "souradnice": "48°59′28″ s. š., 13°49′06″ v. d.",
+      "poznamka": "nejvyšší vnitrozemský vrchol Šumavy; dřevěná rozhledna",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 30,
+      "vyska_m": 1362,
+      "nazev": "Trojmezná",
+      "pohori": "Šumava",
+      "souradnice": "48°46′16″ s. š., 13°49′51″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 31,
+      "vyska_m": 1358,
+      "nazev": "Břidličná hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°01′59″ s. š., 17°11′11″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 32,
+      "vyska_m": 1354,
+      "nazev": "Dlouhé stráně",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′16″ s. š., 17°09′25″ v. d.",
+      "poznamka": "na vrcholu stejnojmenná přečerpávací elektrárna",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1352,
+      "nazev": "Žalostná",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′18″ s. š., 17°07′40″ v. d.",
+      "poznamka": "vedlejší vrchol Keprníku",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 33,
+      "vyska_m": 1351,
+      "nazev": "Šerák",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°11′10″ s. š., 17°06′25″ v. d.",
+      "poznamka": "pod vrcholem Chata Jiřího a meteorologická stanice",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 34,
+      "vyska_m": 1351,
+      "nazev": "Špičník",
+      "pohori": "Šumava",
+      "souradnice": "48°57′39″ s. š., 13°27′52″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 35,
+      "vyska_m": 1344,
+      "nazev": "Lysá hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′13″ s. š., 15°30′36″ v. d.",
+      "poznamka": "pod vrchol vede lanovka",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 36,
+      "vyska_m": 1344,
+      "nazev": "Mravenečník",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′18″ s. š., 17°08′43″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 37,
+      "vyska_m": 1344,
+      "nazev": "Jezerní hora",
+      "pohori": "Šumava",
+      "souradnice": "49°10′06″ s. š., 13°11′08″ v. d.",
+      "poznamka": "nejvyšší hora Železnorudské hornatiny",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 38,
+      "vyska_m": 1344,
+      "nazev": "Vysoký hřeben",
+      "pohori": "Šumava",
+      "souradnice": "48°46′30″ s. š., 13°48′48″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 39,
+      "vyska_m": 1343,
+      "nazev": "Vřesník",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′02″ s. š., 17°09′50″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 40,
+      "vyska_m": 1338,
+      "nazev": "Plesná",
+      "pohori": "Šumava",
+      "souradnice": "49°06′15″ s. š., 13°18′44″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 41,
+      "vyska_m": 1334,
+      "nazev": "Svaroh (Zwercheck)",
+      "pohori": "Šumava",
+      "souradnice": "49°10′28″ s. š., 13°09′56″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 42,
+      "vyska_m": 1334,
+      "nazev": "Pecny",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°01′20″ s. š., 17°10′56″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 43,
+      "vyska_m": 1333,
+      "nazev": "Červená hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′39″ s. š., 17°08′10″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 44,
+      "vyska_m": 1333,
+      "nazev": "Smrčina (Hochficht)",
+      "pohori": "Šumava",
+      "souradnice": "48°44′11″ s. š., 13°55′18″ v. d.",
+      "poznamka": "pod vrchol vede lanovka",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 45,
+      "vyska_m": 1331,
+      "nazev": "Malá Mokrůvka",
+      "pohori": "Šumava",
+      "souradnice": "48°58′10″ s. š., 13°30′26″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 46,
+      "vyska_m": 1327,
+      "nazev": "Malý Sněžník",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°11′29″ s. š., 16°48′55″ v. d.",
+      "poznamka": "vrchol v Polsku",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 47,
+      "vyska_m": 1324,
+      "nazev": "Lysá hora",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°32′45″ s. š., 18°26′51″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; na vrcholu vysílač",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 48,
+      "vyska_m": 1321,
+      "nazev": "Železný vrch",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′15″ s. š., 15°37′40″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 49,
+      "vyska_m": 1321,
+      "nazev": "Sušina",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°10′24″ s. š., 16°51′49″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1320,
+      "nazev": "Hraniční skály",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°11′16″ s. š., 16°48′34″ v. d.",
+      "poznamka": "vedlejší vrchol Malého Sněžníku",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 50,
+      "vyska_m": 1319,
+      "nazev": "Stoh",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′03″ s. š., 15°38′58″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1318,
+      "nazev": "Kozí hřbety",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′05″ s. š., 15°38′31″ v. d.",
+      "poznamka": "vedlejší vrchol Luční hory",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 51,
+      "vyska_m": 1316,
+      "nazev": "Černá hora",
+      "pohori": "Šumava",
+      "souradnice": "48°58′44″ s. š., 13°33′03″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1316,
+      "nazev": "Světlý vrch",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′06″ s. š., 15°39′38″ v. d.",
+      "poznamka": "vedlejší vrchol Zadní Planiny",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 52,
+      "vyska_m": 1315,
+      "nazev": "Poledník",
+      "pohori": "Šumava",
+      "souradnice": "49°03′51″ s. š., 13°23′42″ v. d.",
+      "poznamka": "na vrcholu rozhledna",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 53,
+      "vyska_m": 1313,
+      "nazev": "Spálený vrch SV",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′44″ s. š., 17°06′52″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1313,
+      "nazev": "Spálený vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′38″ s. š., 17°06′40″ v. d.",
+      "poznamka": "vedlejší vrchol Spáleného vrchu SV",
+      "pristup": "ano"
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1309,
+      "nazev": "Velký Jezerník",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′10″ s. š., 17°12′23″ v. d.",
+      "poznamka": "vedlejší vrchol Malého Děda",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 54,
+      "vyska_m": 1308,
+      "nazev": "Ždánidla",
+      "pohori": "Šumava",
+      "souradnice": "49°06′13″ s. š., 13°20′50″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 55,
+      "vyska_m": 1308,
+      "nazev": "Stráž",
+      "pohori": "Šumava",
+      "souradnice": "48°58′33″ s. š., 13°34′48″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 56,
+      "vyska_m": 1308,
+      "nazev": "Podbělka",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°09′52″ s. š., 16°50′54″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 57,
+      "vyska_m": 1304,
+      "nazev": "Smrčina S",
+      "pohori": "Šumava",
+      "souradnice": "48°44′44″ s. š., 13°55′31″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 58,
+      "vyska_m": 1302,
+      "nazev": "Třístoličník",
+      "pohori": "Šumava",
+      "souradnice": "48°46′50″ s. š., 13°48′16″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 59,
+      "vyska_m": 1302,
+      "nazev": "Studená hora",
+      "pohori": "Šumava",
+      "souradnice": "48°58′45″ s. š., 13°27′52″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 60,
+      "vyska_m": 1300,
+      "nazev": "Černá hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′09″ s. š., 15°44′31″ v. d.",
+      "poznamka": "na vrcholu vysílač",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1298,
+      "nazev": "Srní vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°59′33″ s. š., 13°48′21″ v. d.",
+      "poznamka": "vedlejší vrchol Boubína",
+      "pristup": ""
+    },
+    {
+      "poradi": 61,
+      "vyska_m": 1296,
+      "nazev": "Luboch",
+      "pohori": "Krkonoše",
+      "souradnice": "50°47′20″ s. š., 15°29′26″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 62,
+      "vyska_m": 1295,
+      "nazev": "Černá kupa",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°10′50″ s. š., 16°51′54″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 63,
+      "vyska_m": 1295,
+      "nazev": "Polom",
+      "pohori": "Šumava",
+      "souradnice": "49°07′48″ s. š., 13°17′17″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 64,
+      "vyska_m": 1294,
+      "nazev": "Holý vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°58′50″ s. š., 13°34′51″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 65,
+      "vyska_m": 1293,
+      "nazev": "Polom JV",
+      "pohori": "Šumava",
+      "souradnice": "49°07′34″ s. š., 13°17′51″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 66,
+      "vyska_m": 1291,
+      "nazev": "Ostrý",
+      "pohori": "Šumava",
+      "souradnice": "49°12′08″ s. š., 13°06′42″ v. d.",
+      "poznamka": "na vrcholu chata Haus Willmann",
+      "pristup": ""
+    },
+    {
+      "poradi": 67,
+      "vyska_m": 1290,
+      "nazev": "Basumský hřeben",
+      "pohori": "Šumava",
+      "souradnice": "48°58′45″ s. š., 13°47′50″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1285,
+      "nazev": "Ptačí skály",
+      "pohori": "Šumava",
+      "souradnice": "48°46′48″ s. š., 13°50′21″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Rakouskou loukou",
+      "pristup": ""
+    },
+    {
+      "poradi": 68,
+      "vyska_m": 1284,
+      "nazev": "Tabule",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′09″ s. š., 15°47′33″ v. d.",
+      "poznamka": "dříve nazýván Skalní stůl",
+      "pristup": ""
+    },
+    {
+      "poradi": 69,
+      "vyska_m": 1281,
+      "nazev": "Pažení",
+      "pohori": "Šumava",
+      "souradnice": "48°58′07″ s. š., 13°47′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 70,
+      "vyska_m": 1280,
+      "nazev": "Hraničník",
+      "pohori": "Šumava",
+      "souradnice": "48°45′00″ s. š., 13°54′18″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 71,
+      "vyska_m": 1277,
+      "nazev": "Smrk",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′29″ s. š., 18°22′15″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 72,
+      "vyska_m": 1276,
+      "nazev": "V koutě",
+      "pohori": "Šumava",
+      "souradnice": "48°58′21″ s. š., 13°25′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1276,
+      "nazev": "Malá Mokrůvka V",
+      "pohori": "Šumava",
+      "souradnice": "48°58′08″ s. š., 13°30′53″ v. d.",
+      "poznamka": "vedlejší vrchol Malé Mokrůvky",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1275,
+      "nazev": "Studená hora JZ",
+      "pohori": "Šumava",
+      "souradnice": "48°58′36″ s. š., 13°27′14″ v. d.",
+      "poznamka": "vedlejší vrchol Studené hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1270,
+      "nazev": "Čelo",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′19″ s. š., 15°48′46″ v. d.",
+      "poznamka": "vedlejší vrchol Tabule",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1269,
+      "nazev": "Boubínský hřbet",
+      "pohori": "Šumava",
+      "souradnice": "48°59′14″ s. š., 13°47′49″ v. d.",
+      "poznamka": "vedlejší vrchol Basumského hřebene",
+      "pristup": ""
+    },
+    {
+      "poradi": 73,
+      "vyska_m": 1266,
+      "nazev": "Jezernice",
+      "pohori": "Šumava",
+      "souradnice": "49°04′17″ s. š., 13°25′41″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 74,
+      "vyska_m": 1265,
+      "nazev": "Bobík",
+      "pohori": "Šumava",
+      "souradnice": "48°57′30″ s. š., 13°51′55″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 75,
+      "vyska_m": 1264,
+      "nazev": "Temná",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°03′18″ s. š., 17°15′34″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1264,
+      "nazev": "Zámčisko S",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°03′18″ s. š., 17°12′33″ v. d.",
+      "poznamka": "vedlejší vrchol Velkého Máje",
+      "pristup": ""
+    },
+    {
+      "poradi": 76,
+      "vyska_m": 1261,
+      "nazev": "Medvědí hřbet",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′25″ s. š., 17°11′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1261,
+      "nazev": "Stráž JZ",
+      "pohori": "Šumava",
+      "souradnice": "48°58′14″ s. š., 13°34′34″ v. d.",
+      "poznamka": "vedlejší vrchol Stráže",
+      "pristup": ""
+    },
+    {
+      "poradi": 77,
+      "vyska_m": 1260,
+      "nazev": "Tetřev",
+      "pohori": "Šumava",
+      "souradnice": "49°00′57″ s. š., 13°33′02″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 78,
+      "vyska_m": 1258,
+      "nazev": "Kněhyně",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′44″ s. š., 18°18′46″ v. d.",
+      "poznamka": "–",
+      "pristup": "ne"
+    },
+    {
+      "poradi": 79,
+      "vyska_m": 1256,
+      "nazev": "Stolová hora",
+      "pohori": "Šumava",
+      "souradnice": "48°59′00″ s. š., 13°36′07″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 80,
+      "vyska_m": 1254,
+      "nazev": "Antýgl",
+      "pohori": "Šumava",
+      "souradnice": "49°02′52″ s. š., 13°32′13″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 81,
+      "vyska_m": 1252,
+      "nazev": "Vysoký stolec",
+      "pohori": "Šumava",
+      "souradnice": "48°59′14″ s. š., 13°36′36″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 82,
+      "vyska_m": 1251,
+      "nazev": "Stříbrnická",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°11′43″ s. š., 16°51′51″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 83,
+      "vyska_m": 1249,
+      "nazev": "Velká Jezerná",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′06″ s. š., 17°11′01″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1248,
+      "nazev": "Smrk J",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′06″ s. š., 18°21′54″ v. d.",
+      "poznamka": "vedlejší vrchol Smrku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1246,
+      "nazev": "Jezernice JZ",
+      "pohori": "Šumava",
+      "souradnice": "49°04′02″ s. š., 13°25′10″ v. d.",
+      "poznamka": "vedlejší vrchol Jezernice",
+      "pristup": ""
+    },
+    {
+      "poradi": 84,
+      "vyska_m": 1246,
+      "nazev": "Babuše",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°09′23″ s. š., 16°51′18″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 85,
+      "vyska_m": 1245,
+      "nazev": "Čertův vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°00′08″ s. š., 13°32′06″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 86,
+      "vyska_m": 1245,
+      "nazev": "Světlá",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′30″ s. š., 15°46′20″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 87,
+      "vyska_m": 1244,
+      "nazev": "Klínovec",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′46″ s. š., 12°58′04″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; na vrcholu rozhledna, vysílač, lanovka",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1241,
+      "nazev": "Uhlisko",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°10′27″ s. š., 16°50′47″ v. d.",
+      "poznamka": "vedlejší vrchol Podbělky",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1239,
+      "nazev": "Nová Studnice",
+      "pohori": "Šumava",
+      "souradnice": "49°04′44″ s. š., 13°25′39″ v. d.",
+      "poznamka": "vedlejší vrchol Jezernice",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1239,
+      "nazev": "Kamenec",
+      "pohori": "Krkonoše",
+      "souradnice": "50°47′10″ s. š., 15°28′33″ v. d.",
+      "poznamka": "vedlejší vrchol Lubochu",
+      "pristup": ""
+    },
+    {
+      "poradi": 88,
+      "vyska_m": 1238,
+      "nazev": "Skalka",
+      "pohori": "Šumava",
+      "souradnice": "49°04′44″ s. š., 13°23′24″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 89,
+      "vyska_m": 1237,
+      "nazev": "Černá stráň",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′17″ s. š., 17°04′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 90,
+      "vyska_m": 1236,
+      "nazev": "Knížecí stolec",
+      "pohori": "Šumava",
+      "souradnice": "48°50′49″ s. š., 14°01′11″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 91,
+      "vyska_m": 1235,
+      "nazev": "Medvědín",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′28″ s. š., 15°34′57″ v. d.",
+      "poznamka": "na vrchol vede lanovka; na vrcholu vysílač",
+      "pristup": ""
+    },
+    {
+      "poradi": 92,
+      "vyska_m": 1235,
+      "nazev": "Můstek",
+      "pohori": "Šumava",
+      "souradnice": "49°12′08″ s. š., 13°14′47″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 93,
+      "vyska_m": 1233,
+      "nazev": "Stolová hora JZ",
+      "pohori": "Šumava",
+      "souradnice": "48°58′51″ s. š., 13°35′48″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 94,
+      "vyska_m": 1232,
+      "nazev": "Slamník",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°09′16″ s. š., 16°50′17″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 95,
+      "vyska_m": 1230,
+      "nazev": "Ostrý vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′57″ s. š., 17°15′58″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1230,
+      "nazev": "Pažení J",
+      "pohori": "Šumava",
+      "souradnice": "48°57′47″ s. š., 13°47′40″ v. d.",
+      "poznamka": "vedlejší vrchol Pažení",
+      "pristup": ""
+    },
+    {
+      "poradi": 96,
+      "vyska_m": 1229,
+      "nazev": "Lysá",
+      "pohori": "Šumava",
+      "souradnice": "48°50′55″ s. š., 14°02′07″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 97,
+      "vyska_m": 1228,
+      "nazev": "Oblík",
+      "pohori": "Šumava",
+      "souradnice": "49°03′12″ s. š., 13°26′39″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 98,
+      "vyska_m": 1228,
+      "nazev": "Velký Kokrháč",
+      "pohori": "Šumava",
+      "souradnice": "49°11′10″ s. š., 13°08′42″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 99,
+      "vyska_m": 1228,
+      "nazev": "Nad plesem",
+      "pohori": "Šumava",
+      "souradnice": "49°06′06″ s. š., 13°19′53″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1228,
+      "nazev": "Polom SV",
+      "pohori": "Šumava",
+      "souradnice": "49°07′59″ s. š., 13°18′06″ v. d.",
+      "poznamka": "vedlejší vrchol Polomu JV",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1226,
+      "nazev": "Studená hora Z",
+      "pohori": "Šumava",
+      "souradnice": "48°58′45″ s. š., 13°26′19″ v. d.",
+      "poznamka": "vedlejší vrchol Studené hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 100,
+      "vyska_m": 1225,
+      "nazev": "Souš",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°08′43″ s. š., 16°51′35″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 101,
+      "vyska_m": 1225,
+      "nazev": "Medvědí hora J",
+      "pohori": "Šumava",
+      "souradnice": "48°59′17″ s. š., 13°25′38″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 102,
+      "vyska_m": 1223,
+      "nazev": "Špičák",
+      "pohori": "Šumava",
+      "souradnice": "48°48′53″ s. š., 14°02′23″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 103,
+      "vyska_m": 1221,
+      "nazev": "Přílba",
+      "pohori": "Šumava",
+      "souradnice": "49°02′25″ s. š., 13°37′08″ v. d.",
+      "poznamka": "též Přilba",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1220,
+      "nazev": "Malchor",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°33′17″ s. š., 18°26′57″ v. d.",
+      "poznamka": "vedlejší vrchol Lysé hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 104,
+      "vyska_m": 1219,
+      "nazev": "Nad Bučinou",
+      "pohori": "Šumava",
+      "souradnice": "48°58′25″ s. š., 13°35′38″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1218,
+      "nazev": "Žlabský vrch",
+      "pohori": "Krkonoše",
+      "souradnice": "50°47′52″ s. š., 15°28′14″ v. d.",
+      "poznamka": "vedlejší vrchol Lubochu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1218,
+      "nazev": "Ostrý JV",
+      "pohori": "Šumava",
+      "souradnice": "49°12′04″ s. š., 13°06′50″ v. d.",
+      "poznamka": "vedlejší vrchol Ostrého",
+      "pristup": ""
+    },
+    {
+      "poradi": 105,
+      "vyska_m": 1216,
+      "nazev": "Medvědí vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′35″ s. š., 17°18′44″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 106,
+      "vyska_m": 1216,
+      "nazev": "Čihadlo",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′51″ s. š., 15°37′42″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 107,
+      "vyska_m": 1214,
+      "nazev": "Pancíř",
+      "pohori": "Šumava",
+      "souradnice": "49°10′40″ s. š., 13°15′14″ v. d.",
+      "poznamka": "na vrcholu rozhledna a lanovka",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1214,
+      "nazev": "Jelenka",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°01′31″ s. š., 17°12′27″ v. d.",
+      "poznamka": "vedlejší vrchol Jeleního hřbetu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1213,
+      "nazev": "Špičák JV I",
+      "pohori": "Šumava",
+      "souradnice": "49°10′22″ s. š., 13°12′31″ v. d.",
+      "poznamka": "vedlejší vrchol Špičáku",
+      "pristup": ""
+    },
+    {
+      "poradi": 108,
+      "vyska_m": 1209,
+      "nazev": "Homole",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°03′17″ s. š., 17°10′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 109,
+      "vyska_m": 1209,
+      "nazev": "Plešivec",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′39″ s. š., 15°28′48″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1208,
+      "nazev": "Malý Jezerník",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′27″ s. š., 17°11′32″ v. d.",
+      "poznamka": "vedlejší vrchol Malého Děda",
+      "pristup": ""
+    },
+    {
+      "poradi": 110,
+      "vyska_m": 1206,
+      "nazev": "Čertův mlýn",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′22″ s. š., 18°18′06″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 111,
+      "vyska_m": 1205,
+      "nazev": "Jelení loučky",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′45″ s. š., 17°16′00″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 112,
+      "vyska_m": 1204,
+      "nazev": "Orlík",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′35″ s. š., 17°17′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 113,
+      "vyska_m": 1204,
+      "nazev": "Travný",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°33′41″ s. š., 18°30′26″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 114,
+      "vyska_m": 1203,
+      "nazev": "Habr",
+      "pohori": "Šumava",
+      "souradnice": "49°11′30″ s. š., 13°15′11″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 115,
+      "vyska_m": 1203,
+      "nazev": "Malé loučky",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′40″ s. š., 17°16′38″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 116,
+      "vyska_m": 1203,
+      "nazev": "Červený vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°57′38″ s. š., 13°47′50″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1203,
+      "nazev": "Studená hora S I",
+      "pohori": "Šumava",
+      "souradnice": "48°59′20″ s. š., 13°27′29″ v. d.",
+      "poznamka": "vedlejší vrchol Studené hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 117,
+      "vyska_m": 1202,
+      "nazev": "Špičák",
+      "pohori": "Šumava",
+      "souradnice": "49°10′22″ s. š., 13°12′31″ v. d.",
+      "poznamka": "na vrchol vede lanovka",
+      "pristup": ""
+    },
+    {
+      "poradi": 118,
+      "vyska_m": 1201,
+      "nazev": "Dřevěná hůl",
+      "pohori": "Šumava",
+      "souradnice": "49°06′55″ s. š., 13°20′32″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 119,
+      "vyska_m": 1198,
+      "nazev": "Přední Planina",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′18″ s. š., 15°37′16″ v. d.",
+      "poznamka": "pod vrchol vede lanovka",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1198,
+      "nazev": "Hubertka",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°03′15″ s. š., 17°11′37″ v. d.",
+      "poznamka": "vedlejší vrchol Velkého Máje",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1196,
+      "nazev": "Plešivec V",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′33″ s. š., 15°29′12″ v. d.",
+      "poznamka": "vedlejší vrchol Plešivce",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1195,
+      "nazev": "Medvědí vrch JV",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′27″ s. š., 17°18′58″ v. d.",
+      "poznamka": "vedlejší vrchol Medvědího vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": 120,
+      "vyska_m": 1194,
+      "nazev": "Sklářský vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°08′35″ s. š., 13°16′58″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 121,
+      "vyska_m": 1194,
+      "nazev": "Březová hora",
+      "pohori": "Šumava",
+      "souradnice": "49°02′00″ s. š., 13°32′38″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 122,
+      "vyska_m": 1191,
+      "nazev": "Chlum",
+      "pohori": "Šumava",
+      "souradnice": "48°53′01″ s. š., 14°05′27″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 123,
+      "vyska_m": 1190,
+      "nazev": "Hleďsebe",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°10′17″ s. š., 16°47′58″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 124,
+      "vyska_m": 1190,
+      "nazev": "Lysečinská hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′35″ s. š., 15°49′51″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 125,
+      "vyska_m": 1190,
+      "nazev": "Malý Špičák",
+      "pohori": "Šumava",
+      "souradnice": "49°10′29″ s. š., 13°12′04″ v. d.",
+      "poznamka": "dříve nazýván Rozvodí",
+      "pristup": ""
+    },
+    {
+      "poradi": 126,
+      "vyska_m": 1188,
+      "nazev": "Huťská hora",
+      "pohori": "Šumava",
+      "souradnice": "49°05′26″ s. š., 13°33′07″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1188,
+      "nazev": "Nad Slatinkou",
+      "pohori": "Šumava",
+      "souradnice": "48°48′54″ s. š., 14°02′05″ v. d.",
+      "poznamka": "vedlejší vrchol Špičáku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1188,
+      "nazev": "Studená hora S II",
+      "pohori": "Šumava",
+      "souradnice": "48°59′33″ s. š., 13°27′26″ v. d.",
+      "poznamka": "vedlejší vrchol Studené hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 127,
+      "vyska_m": 1187,
+      "nazev": "Sokol",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′41″ s. š., 17°14′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 128,
+      "vyska_m": 1187,
+      "nazev": "Nad Hospodárnicí",
+      "pohori": "Šumava",
+      "souradnice": "48°49′05″ s. š., 14°01′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 129,
+      "vyska_m": 1186,
+      "nazev": "Malý Máj SZ",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°02′32″ s. š., 17°14′31″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 130,
+      "vyska_m": 1184,
+      "nazev": "Ostružná",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°00′05″ s. š., 17°12′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 131,
+      "vyska_m": 1181,
+      "nazev": "Orel",
+      "pohori": "Šumava",
+      "souradnice": "49°01′38″ s. š., 13°35′36″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1179,
+      "nazev": "Klínová hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′12″ s. š., 17°06′29″ v. d.",
+      "poznamka": "vedlejší vrchol Spáleného vrchu SV",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1179,
+      "nazev": "Ostrý S",
+      "pohori": "Šumava",
+      "souradnice": "49°12′27″ s. š., 13°06′46″ v. d.",
+      "poznamka": "vedlejší vrchol Ostrého",
+      "pristup": ""
+    },
+    {
+      "poradi": 132,
+      "vyska_m": 1178,
+      "nazev": "Větřín",
+      "pohori": "Šumava",
+      "souradnice": "48°58′50″ s. š., 13°50′02″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 133,
+      "vyska_m": 1177,
+      "nazev": "Velký Klín",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′56″ s. š., 17°10′47″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1177,
+      "nazev": "Jelení vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°02′16″ s. š., 13°31′27″ v. d.",
+      "poznamka": "vedlejší vrchol Antýglu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1177,
+      "nazev": "Orel J",
+      "pohori": "Šumava",
+      "souradnice": "49°01′24″ s. š., 13°35′40″ v. d.",
+      "poznamka": "vedlejší vrchol Orlu",
+      "pristup": ""
+    },
+    {
+      "poradi": 134,
+      "vyska_m": 1175,
+      "nazev": "Jedlová",
+      "pohori": "Šumava",
+      "souradnice": "49°12′24″ s. š., 13°15′50″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 135,
+      "vyska_m": 1174,
+      "nazev": "Malý Smrk",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′37″ s. š., 18°23′13″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1174,
+      "nazev": "Špičák JV II",
+      "pohori": "Šumava",
+      "souradnice": "48°48′31″ s. š., 14°02′42″ v. d.",
+      "poznamka": "vedlejší vrchol Špičáku",
+      "pristup": ""
+    },
+    {
+      "poradi": 136,
+      "vyska_m": 1173,
+      "nazev": "Jelení hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′11″ s. š., 15°47′00″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1173,
+      "nazev": "Kamzičí vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′17″ s. š., 17°14′13″ v. d.",
+      "poznamka": "vedlejší vrchol Malého Děda",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1173,
+      "nazev": "Holý vrch SZ",
+      "pohori": "Šumava",
+      "souradnice": "48°59′29″ s. š., 13°33′57″ v. d.",
+      "poznamka": "vedlejší vrchol Holého vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": 137,
+      "vyska_m": 1172,
+      "nazev": "Lapka",
+      "pohori": "Šumava",
+      "souradnice": "49°01′24″ s. š., 13°34′18″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1170,
+      "nazev": "Signál",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′49″ s. š., 15°46′43″ v. d.",
+      "poznamka": "vedlejší vrchol Světlé",
+      "pristup": ""
+    },
+    {
+      "poradi": 138,
+      "vyska_m": 1168,
+      "nazev": "Výrovka",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′00″ s. š., 17°10′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 139,
+      "vyska_m": 1167,
+      "nazev": "Velký Klínovec",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′08″ s. š., 17°09′45″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1167,
+      "nazev": "Medvědí hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′18″ s. š., 17°08′43″ v. d.",
+      "poznamka": "vedlejší vrchol Mravenečníku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1167,
+      "nazev": "Oblík SZ",
+      "pohori": "Šumava",
+      "souradnice": "49°03′35″ s. š., 13°26′20″ v. d.",
+      "poznamka": "vedlejší vrchol Oblíku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1163,
+      "nazev": "Lovčí skála",
+      "pohori": "Šumava",
+      "souradnice": "49°00′49″ s. š., 13°31′36″ v. d.",
+      "poznamka": "vedlejší vrchol Čertova vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": 140,
+      "vyska_m": 1162,
+      "nazev": "Nad Latschensee",
+      "pohori": "Šumava",
+      "souradnice": "49°01′35″ s. š., 13°24′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 141,
+      "vyska_m": 1160,
+      "nazev": "Hvězdáře",
+      "pohori": "Šumava",
+      "souradnice": "48°49′09″ s. š., 14°00′50″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 142,
+      "vyska_m": 1160,
+      "nazev": "Studničná",
+      "pohori": "Šumava",
+      "souradnice": "48°45′27″ s. š., 13°54′01″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1160,
+      "nazev": "Stanová hora",
+      "pohori": "Šumava",
+      "souradnice": "48°59′56″ s. š., 13°36′22″ v. d.",
+      "poznamka": "vedlejší vrchol Vysokého stolce",
+      "pristup": ""
+    },
+    {
+      "poradi": 143,
+      "vyska_m": 1157,
+      "nazev": "Modravská hora",
+      "pohori": "Šumava",
+      "souradnice": "49°00′48″ s. š., 13°28′48″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 144,
+      "vyska_m": 1157,
+      "nazev": "Břemeno",
+      "pohori": "Šumava",
+      "souradnice": "49°04′30″ s. š., 13°33′14″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 145,
+      "vyska_m": 1157,
+      "nazev": "V pařezí",
+      "pohori": "Šumava",
+      "souradnice": "48°47′57″ s. š., 13°50′57″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 146,
+      "vyska_m": 1156,
+      "nazev": "Solovec",
+      "pohori": "Šumava",
+      "souradnice": "48°58′30″ s. š., 13°51′10″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 147,
+      "vyska_m": 1154,
+      "nazev": "U tří jedlí",
+      "pohori": "Šumava",
+      "souradnice": "49°04′18″ s. š., 13°35′08″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 148,
+      "vyska_m": 1153,
+      "nazev": "Slatinná stráň",
+      "pohori": "Krkonoše",
+      "souradnice": "50°40′20″ s. š., 15°44′07″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1153,
+      "nazev": "Prostřední vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′20″ s. š., 17°15′55″ v. d.",
+      "poznamka": "vedlejší vrchol Pradědu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1150,
+      "nazev": "Umrlčí hlava",
+      "pohori": "Šumava",
+      "souradnice": "48°50′33″ s. š., 14°00′42″ v. d.",
+      "poznamka": "vedlejší vrchol Knížecího stolce",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1149,
+      "nazev": "Gabreta",
+      "pohori": "Šumava",
+      "souradnice": "48°59′59″ s. š., 13°35′00″ v. d.",
+      "poznamka": "vedlejší vrchol Holého vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1147,
+      "nazev": "Přílba S",
+      "pohori": "Šumava",
+      "souradnice": "49°03′24″ s. š., 13°37′23″ v. d.",
+      "poznamka": "vedlejší vrchol Přílby",
+      "pristup": ""
+    },
+    {
+      "poradi": 149,
+      "vyska_m": 1146,
+      "nazev": "Obrovec",
+      "pohori": "Šumava",
+      "souradnice": "48°59′08″ s. š., 13°45′08″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 150,
+      "vyska_m": 1146,
+      "nazev": "Hvězda",
+      "pohori": "Šumava",
+      "souradnice": "48°49′09″ s. š., 14°00′19″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 151,
+      "vyska_m": 1145,
+      "nazev": "Klepáč",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°09′23″ s. š., 16°47′27″ v. d.",
+      "poznamka": "trojrozvodí",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1145,
+      "nazev": "Točník",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′18″ s. š., 17°08′48″ v. d.",
+      "poznamka": "vedlejší vrchol Červené hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1143,
+      "nazev": "Solovec JZ",
+      "pohori": "Šumava",
+      "souradnice": "48°58′21″ s. š., 13°50′43″ v. d.",
+      "poznamka": "vedlejší vrchol Solovce",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1142,
+      "nazev": "Špičák SV",
+      "pohori": "Šumava",
+      "souradnice": "48°49′04″ s. š., 14°02′58″ v. d.",
+      "poznamka": "vedlejší vrchol Špičáku",
+      "pristup": ""
+    },
+    {
+      "poradi": 152,
+      "vyska_m": 1140,
+      "nazev": "Vlčí hřeben S",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′57″ s. š., 15°30′35″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1140,
+      "nazev": "V pařezí J",
+      "pohori": "Šumava",
+      "souradnice": "48°47′44″ s. š., 13°50′55″ v. d.",
+      "poznamka": "vedlejší vrchol V pařezí",
+      "pristup": ""
+    },
+    {
+      "poradi": 153,
+      "vyska_m": 1138,
+      "nazev": "Vlčí kámen",
+      "pohori": "Šumava",
+      "souradnice": "48°49′15″ s. š., 14°02′52″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1134,
+      "nazev": "Zvěřín",
+      "pohori": "Šumava",
+      "souradnice": "49°01′18″ s. š., 13°38′09″ v. d.",
+      "poznamka": "vedlejší vrchol Přílby",
+      "pristup": ""
+    },
+    {
+      "poradi": 154,
+      "vyska_m": 1133,
+      "nazev": "Žlíbský vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°56′06″ s. š., 13°43′44″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 155,
+      "vyska_m": 1133,
+      "nazev": "Nad Roklanským potokem",
+      "pohori": "Šumava",
+      "souradnice": "49°00′52″ s. š., 13°26′30″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1133,
+      "nazev": "Solovec J",
+      "pohori": "Šumava",
+      "souradnice": "48°58′07″ s. š., 13°50′59″ v. d.",
+      "poznamka": "vedlejší vrchol Solovce",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1133,
+      "nazev": "Lysá J",
+      "pohori": "Šumava",
+      "souradnice": "48°50′28″ s. š., 14°02′18″ v. d.",
+      "poznamka": "vedlejší vrchol Lysé",
+      "pristup": ""
+    },
+    {
+      "poradi": 156,
+      "vyska_m": 1129,
+      "nazev": "Radhošť",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′29″ s. š., 18°13′24″ v. d.",
+      "poznamka": "na vrcholu kaple Cyrila a Metoděje",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 157,
+      "vyska_m": 1129,
+      "nazev": "Zámecký les",
+      "pohori": "Šumava",
+      "souradnice": "49°07′53″ s. š., 13°16′08″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 158,
+      "vyska_m": 1129,
+      "nazev": "Lesní hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′27″ s. š., 15°42′44″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 159,
+      "vyska_m": 1128,
+      "nazev": "Lysý vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′15″ s. š., 17°14′12″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 160,
+      "vyska_m": 1128,
+      "nazev": "Polom",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′30″ s. š., 17°05′21″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 161,
+      "vyska_m": 1127,
+      "nazev": "Smrk",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°13′43″ s. š., 17°02′01″ v. d.",
+      "poznamka": "nejvyšší hora pohoří",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1127,
+      "nazev": "Oblík S",
+      "pohori": "Šumava",
+      "souradnice": "49°03′46″ s. š., 13°26′49″ v. d.",
+      "poznamka": "vedlejší vrchol Oblíku",
+      "pristup": ""
+    },
+    {
+      "poradi": 162,
+      "vyska_m": 1126,
+      "nazev": "Jelení kaliště",
+      "pohori": "Šumava",
+      "souradnice": "49°04′03″ s. š., 13°32′08″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 163,
+      "vyska_m": 1126,
+      "nazev": "Skalky",
+      "pohori": "Šumava",
+      "souradnice": "48°50′58″ s. š., 14°00′22″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 164,
+      "vyska_m": 1126,
+      "nazev": "Šindelná hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′41″ s. š., 17°07′58″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1126,
+      "nazev": "Šeravská pastvina",
+      "pohori": "Šumava",
+      "souradnice": "48°59′28″ s. š., 13°45′26″ v. d.",
+      "poznamka": "vedlejší vrchol Obrovce",
+      "pristup": ""
+    },
+    {
+      "poradi": 165,
+      "vyska_m": 1125,
+      "nazev": "Křemelná",
+      "pohori": "Šumava",
+      "souradnice": "49°07′20″ s. š., 13°26′45″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 166,
+      "vyska_m": 1124,
+      "nazev": "Travná hora",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°13′08″ s. š., 17°00′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 167,
+      "vyska_m": 1124,
+      "nazev": "Smrk",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°53′21″ s. š., 15°16′23″ v. d.",
+      "poznamka": "nejvyšší hora české části pohoří; na vrcholu rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": 168,
+      "vyska_m": 1124,
+      "nazev": "Vlčí hřeben",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′38″ s. š., 15°30′24″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 169,
+      "vyska_m": 1124,
+      "nazev": "Světlá hora",
+      "pohori": "Šumava",
+      "souradnice": "49°00′17″ s. š., 13°43′09″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1124,
+      "nazev": "Čekání",
+      "pohori": "Šumava",
+      "souradnice": "49°11′49″ s. š., 13°07′48″ v. d.",
+      "poznamka": "vedlejší vrchol Velkého Kokrháče",
+      "pristup": ""
+    },
+    {
+      "poradi": 170,
+      "vyska_m": 1123,
+      "nazev": "Tupý vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′16″ s. š., 17°10′14″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 171,
+      "vyska_m": 1122,
+      "nazev": "Jizera",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°50′01″ s. š., 15°15′35″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 172,
+      "vyska_m": 1121,
+      "nazev": "Polecký vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°57′08″ s. š., 13°40′20″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 173,
+      "vyska_m": 1120,
+      "nazev": "Churáňovský vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°04′04″ s. š., 13°36′57″ v. d.",
+      "poznamka": "na vrcholu meteorologická stanice",
+      "pristup": ""
+    },
+    {
+      "poradi": 174,
+      "vyska_m": 1119,
+      "nazev": "Kopka",
+      "pohori": "Šumava",
+      "souradnice": "48°44′14″ s. š., 13°56′51″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 175,
+      "vyska_m": 1119,
+      "nazev": "Vlčí hřeben J",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′23″ s. š., 15°30′25″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 176,
+      "vyska_m": 1118,
+      "nazev": "Výška",
+      "pohori": "Šumava",
+      "souradnice": "49°03′35″ s. š., 13°38′26″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1117,
+      "nazev": "Nad Latschensee JV",
+      "pohori": "Šumava",
+      "souradnice": "49°01′09″ s. š., 13°25′42″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Latschensee",
+      "pristup": ""
+    },
+    {
+      "poradi": 177,
+      "vyska_m": 1116,
+      "nazev": "Velká Deštná",
+      "pohori": "Orlické hory",
+      "souradnice": "50°18′06″ s. š., 16°23′52″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; na vrcholu rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": 178,
+      "vyska_m": 1116,
+      "nazev": "Božídarský Špičák",
+      "pohori": "Krušné hory",
+      "souradnice": "50°24′03″ s. š., 12°53′20″ v. d.",
+      "poznamka": "nejvyšší čedičová hora v Česku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1116,
+      "nazev": "Brousek",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°13′38″ s. š., 17°01′28″ v. d.",
+      "poznamka": "vedlejší vrchol Smrku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1116,
+      "nazev": "Obří hora",
+      "pohori": "Šumava",
+      "souradnice": "48°58′55″ s. š., 13°44′46″ v. d.",
+      "poznamka": "vedlejší vrchol Obrovce",
+      "pristup": ""
+    },
+    {
+      "poradi": 179,
+      "vyska_m": 1115,
+      "nazev": "Strážný",
+      "pohori": "Šumava",
+      "souradnice": "48°55′13″ s. š., 13°41′58″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1115,
+      "nazev": "Zvěřín JZ",
+      "pohori": "Šumava",
+      "souradnice": "49°00′53″ s. š., 13°37′51″ v. d.",
+      "poznamka": "vedlejší vrchol Přílby",
+      "pristup": ""
+    },
+    {
+      "poradi": 180,
+      "vyska_m": 1114,
+      "nazev": "Macecha",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′53″ s. š., 12°59′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1113,
+      "nazev": "Janská hora",
+      "pohori": "Šumava",
+      "souradnice": "49°00′34″ s. š., 13°37′38″ v. d.",
+      "poznamka": "vedlejší vrchol Přílby",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1112,
+      "nazev": "Sněžné jámy",
+      "pohori": "Šumava",
+      "souradnice": "49°07′37″ s. š., 13°26′47″ v. d.",
+      "poznamka": "vedlejší vrchol Křemelné",
+      "pristup": ""
+    },
+    {
+      "poradi": 181,
+      "vyska_m": 1111,
+      "nazev": "Medvědí louka",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′53″ s. š., 17°17′34″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1111,
+      "nazev": "Smrkový vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°01′50″ s. š., 13°25′33″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Latschensee",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1110,
+      "nazev": "Modravská hora Z",
+      "pohori": "Šumava",
+      "souradnice": "49°00′34″ s. š., 13°27′40″ v. d.",
+      "poznamka": "vedlejší vrchol Modravské hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1108,
+      "nazev": "Polecký vrch V",
+      "pohori": "Šumava",
+      "souradnice": "48°57′07″ s. š., 13°40′57″ v. d.",
+      "poznamka": "vedlejší vrchol Poleckého vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": 182,
+      "vyska_m": 1107,
+      "nazev": "Polská hora",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°14′41″ s. š., 16°58′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1107,
+      "nazev": "Jelení vrch JZ",
+      "pohori": "Šumava",
+      "souradnice": "49°01′48″ s. š., 13°30′43″ v. d.",
+      "poznamka": "vedlejší vrchol Antýglu",
+      "pristup": ""
+    },
+    {
+      "poradi": 183,
+      "vyska_m": 1106,
+      "nazev": "Radegast",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°28′56″ s. š., 18°15′15″ v. d.",
+      "poznamka": "pod vrcholem socha Radegasta",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 184,
+      "vyska_m": 1105,
+      "nazev": "Pěnkavčí vrch",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′04″ s. š., 15°47′04″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1105,
+      "nazev": "Lysá JV",
+      "pohori": "Šumava",
+      "souradnice": "48°50′18″ s. š., 14°02′41″ v. d.",
+      "poznamka": "vedlejší vrchol Lysé",
+      "pristup": ""
+    },
+    {
+      "poradi": 185,
+      "vyska_m": 1103,
+      "nazev": "Černava",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′45″ s. š., 17°04′46″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 186,
+      "vyska_m": 1103,
+      "nazev": "Helmwald",
+      "pohori": "Šumava",
+      "souradnice": "49°13′36″ s. š., 13°05′26″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1102,
+      "nazev": "Horní Ždánidla",
+      "pohori": "Šumava",
+      "souradnice": "49°05′25″ s. š., 13°21′28″ v. d.",
+      "poznamka": "vedlejší vrchol Ždánidel",
+      "pristup": ""
+    },
+    {
+      "poradi": 187,
+      "vyska_m": 1101,
+      "nazev": "Koruna",
+      "pohori": "Orlické hory",
+      "souradnice": "50°16′54″ s. š., 16°25′23″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 188,
+      "vyska_m": 1101,
+      "nazev": "Kamenná",
+      "pohori": "Šumava",
+      "souradnice": "49°01′02″ s. š., 13°40′55″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 189,
+      "vyska_m": 1101,
+      "nazev": "Žárový vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′31″ s. š., 17°18′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1101,
+      "nazev": "Malý Klín",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′07″ s. š., 17°11′43″ v. d.",
+      "poznamka": "vedlejší vrchol Malého Děda",
+      "pristup": ""
+    },
+    {
+      "poradi": 190,
+      "vyska_m": 1100,
+      "nazev": "Hůrecký vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°08′08″ s. š., 13°20′23″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 191,
+      "vyska_m": 1100,
+      "nazev": "Hole",
+      "pohori": "Šumava",
+      "souradnice": "49°12′56″ s. š., 13°06′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 192,
+      "vyska_m": 1100,
+      "nazev": "Radegast Z 1",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′03″ s. š., 18°14′48″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 193,
+      "vyska_m": 1099,
+      "nazev": "Obrovec JV",
+      "pohori": "Šumava",
+      "souradnice": "48°58′58″ s. š., 13°45′50″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 194,
+      "vyska_m": 1099,
+      "nazev": "Lyra",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′47″ s. š., 17°17′31″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 195,
+      "vyska_m": 1099,
+      "nazev": "Bukovec",
+      "pohori": "Šumava",
+      "souradnice": "49°00′31″ s. š., 13°41′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1099,
+      "nazev": "Radegast Z 2",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′13″ s. š., 18°14′17″ v. d.",
+      "poznamka": "vedlejší vrchol Radegastu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1099,
+      "nazev": "Kapradinec",
+      "pohori": "Šumava",
+      "souradnice": "48°48′31″ s. š., 14°01′29″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Hospodárnicí",
+      "pristup": ""
+    },
+    {
+      "poradi": 196,
+      "vyska_m": 1097,
+      "nazev": "Meluzína",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′25″ s. š., 13°00′30″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1097,
+      "nazev": "Lyra J",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′30″ s. š., 17°17′27″ v. d.",
+      "poznamka": "vedlejší vrchol Lyry",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1095,
+      "nazev": "V růžku",
+      "pohori": "Šumava",
+      "souradnice": "48°48′21″ s. š., 13°50′42″ v. d.",
+      "poznamka": "vedlejší vrchol V pařezí",
+      "pristup": ""
+    },
+    {
+      "poradi": 197,
+      "vyska_m": 1094,
+      "nazev": "Chlustov",
+      "pohori": "Šumava",
+      "souradnice": "48°55′30″ s. š., 13°45′25″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 198,
+      "vyska_m": 1094,
+      "nazev": "Libín",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°58′43″ s. š., 14°00′42″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1094,
+      "nazev": "Trojmezí",
+      "pohori": "Šumava",
+      "souradnice": "48°59′33″ s. š., 13°50′15″ v. d.",
+      "poznamka": "vedlejší vrchol Větřína",
+      "pristup": ""
+    },
+    {
+      "poradi": 199,
+      "vyska_m": 1093,
+      "nazev": "Jezerní hora S",
+      "pohori": "Šumava",
+      "souradnice": "49°11′14″ s. š., 13°10′49″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1093,
+      "nazev": "Velký Klín JZ",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′37″ s. š., 17°10′30″ v. d.",
+      "poznamka": "vedlejší vrchol Velkého Klínu",
+      "pristup": ""
+    },
+    {
+      "poradi": 200,
+      "vyska_m": 1092,
+      "nazev": "Sviní hora S",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°07′44″ s. š., 16°52′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 201,
+      "vyska_m": 1092,
+      "nazev": "Popelná hora",
+      "pohori": "Šumava",
+      "souradnice": "49°05′52″ s. š., 13°37′19″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 202,
+      "vyska_m": 1091,
+      "nazev": "Dlouhý hřbet",
+      "pohori": "Šumava",
+      "souradnice": "48°51′42″ s. š., 13°59′03″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 203,
+      "vyska_m": 1091,
+      "nazev": "Karliny kameny",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′28″ s. š., 17°17′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1091,
+      "nazev": "Lovečná",
+      "pohori": "Šumava",
+      "souradnice": "49°13′09″ s. š., 13°07′14″ v. d.",
+      "poznamka": "vedlejší vrchol Hole",
+      "pristup": ""
+    },
+    {
+      "poradi": 204,
+      "vyska_m": 1090,
+      "nazev": "Javorná",
+      "pohori": "Šumava",
+      "souradnice": "49°11′59″ s. š., 13°19′27″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 205,
+      "vyska_m": 1090,
+      "nazev": "Malá Deštná",
+      "pohori": "Orlické hory",
+      "souradnice": "50°18′54″ s. š., 16°23′49″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 206,
+      "vyska_m": 1089,
+      "nazev": "Jedlová",
+      "pohori": "Šumava",
+      "souradnice": "48°56′02″ s. š., 13°51′19″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1089,
+      "nazev": "Liščí kámen",
+      "pohori": "Šumava",
+      "souradnice": "48°48′36″ s. š., 14°03′15″ v. d.",
+      "poznamka": "vedlejší vrchol Špičáku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1089,
+      "nazev": "Smrkový vrch V",
+      "pohori": "Šumava",
+      "souradnice": "49°01′44″ s. š., 13°26′08″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Latschensee",
+      "pristup": ""
+    },
+    {
+      "poradi": 207,
+      "vyska_m": 1087,
+      "nazev": "Popelná hora J",
+      "pohori": "Šumava",
+      "souradnice": "49°05′24″ s. š., 13°37′29″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 208,
+      "vyska_m": 1087,
+      "nazev": "Kleť",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°51′54″ s. š., 14°17′02″ v. d.",
+      "poznamka": "na vrcholu či pod rozhledna, Tereziina chata, hvězdárna a vysílač",
+      "pristup": ""
+    },
+    {
+      "poradi": 209,
+      "vyska_m": 1086,
+      "nazev": "Suchá hora",
+      "pohori": "Šumava",
+      "souradnice": "48°50′01″ s. š., 14°00′21″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 210,
+      "vyska_m": 1085,
+      "nazev": "Křemenná",
+      "pohori": "Šumava",
+      "souradnice": "48°52′44″ s. š., 13°56′13″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 211,
+      "vyska_m": 1085,
+      "nazev": "Dlouhý hřeben",
+      "pohori": "Krkonoše",
+      "souradnice": "50°41′55″ s. š., 15°48′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 212,
+      "vyska_m": 1085,
+      "nazev": "Jelenka",
+      "pohori": "Orlické hory",
+      "souradnice": "50°17′24″ s. š., 16°25′00″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 213,
+      "vyska_m": 1084,
+      "nazev": "Černá hora",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°49′38″ s. š., 15°12′36″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 214,
+      "vyska_m": 1084,
+      "nazev": "Vrchmezí",
+      "pohori": "Orlické hory",
+      "souradnice": "50°21′10″ s. š., 16°21′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 215,
+      "vyska_m": 1084,
+      "nazev": "Smědavská hora",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°51′01″ s. š., 15°14′43″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 216,
+      "vyska_m": 1084,
+      "nazev": "Tanečnice",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′38″ s. š., 18°16′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1084,
+      "nazev": "Obří skály",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°11′53″ s. š., 17°06′06″ v. d.",
+      "poznamka": "vedlejší vrchol Šeráku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1083,
+      "nazev": "Dlouhý hřbet V",
+      "pohori": "Šumava",
+      "souradnice": "48°51′29″ s. š., 14°00′22″ v. d.",
+      "poznamka": "vedlejší vrchol Knížecího stolce",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1083,
+      "nazev": "Světlá hora J",
+      "pohori": "Šumava",
+      "souradnice": "48°59′30″ s. š., 13°43′08″ v. d.",
+      "poznamka": "vedlejší vrchol Světlé hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 217,
+      "vyska_m": 1082,
+      "nazev": "Ropice",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°35′48″ s. š., 18°35′13″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 218,
+      "vyska_m": 1081,
+      "nazev": "Mechovinec",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′39″ s. š., 15°34′11″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1081,
+      "nazev": "Skalka SZ vrchol",
+      "pohori": "Šumava",
+      "souradnice": "49°05′05″ s. š., 13°22′41″ v. d.",
+      "poznamka": "vedlejší vrchol Skalky",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1081,
+      "nazev": "Výška V",
+      "pohori": "Šumava",
+      "souradnice": "49°03′38″ s. š., 13°38′56″ v. d.",
+      "poznamka": "vedlejší vrchol Výšky",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1081,
+      "nazev": "Zimný",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°32′21″ s. š., 18°28′16″ v. d.",
+      "poznamka": "vedlejší vrchol Lysé hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 219,
+      "vyska_m": 1080,
+      "nazev": "Žlebský vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°52′30″ s. š., 13°46′01″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 220,
+      "vyska_m": 1079,
+      "nazev": "Javorový vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′16″ s. š., 17°14′52″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 221,
+      "vyska_m": 1079,
+      "nazev": "Skalnatý hřbet",
+      "pohori": "Šumava",
+      "souradnice": "48°54′24″ s. š., 13°40′54″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 222,
+      "vyska_m": 1078,
+      "nazev": "Vysoký hřbet",
+      "pohori": "Šumava",
+      "souradnice": "49°10′07″ s. š., 13°22′26″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 223,
+      "vyska_m": 1078,
+      "nazev": "Adamova hora",
+      "pohori": "Šumava",
+      "souradnice": "49°02′23″ s. š., 13°28′59″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 224,
+      "vyska_m": 1078,
+      "nazev": "Ztracený vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′49″ s. š., 17°14′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1078,
+      "nazev": "Kuník",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°13′16″ s. š., 17°02′01″ v. d.",
+      "poznamka": "vedlejší vrchol Smrku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1077,
+      "nazev": "Jivina",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°14′20″ s. š., 16°58′51″ v. d.",
+      "poznamka": "vedlejší vrchol Polské hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1077,
+      "nazev": "Polecký vrch SV",
+      "pohori": "Šumava",
+      "souradnice": "48°57′23″ s. š., 13°41′09″ v. d.",
+      "poznamka": "vedlejší vrchol Poleckého vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": 225,
+      "vyska_m": 1076,
+      "nazev": "Tanečnice Z",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′34″ s. š., 18°16′04″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1076,
+      "nazev": "Špičák S",
+      "pohori": "Šumava",
+      "souradnice": "48°49′23″ s. š., 14°02′22″ v. d.",
+      "poznamka": "vedlejší vrchol Špičáku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1075,
+      "nazev": "Šumný",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°11′22″ s. š., 17°07′45″ v. d.",
+      "poznamka": "vedlejší vrchol Šeráku",
+      "pristup": ""
+    },
+    {
+      "poradi": 226,
+      "vyska_m": 1074,
+      "nazev": "Na dědku",
+      "pohori": "Šumava",
+      "souradnice": "49°03′19″ s. š., 13°40′27″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1074,
+      "nazev": "Sviní hora",
+      "pohori": "Králický Sněžník",
+      "souradnice": "50°07′12″ s. š., 16°52′01″ v. d.",
+      "poznamka": "vedlejší vrchol Sviní hory S",
+      "pristup": ""
+    },
+    {
+      "poradi": 227,
+      "vyska_m": 1073,
+      "nazev": "Kamenec",
+      "pohori": "Novohradské hory",
+      "souradnice": "48°35′06″ s. š., 14°40′10″ v. d.",
+      "poznamka": "nejvyšší hora v české části pohoří",
+      "pristup": ""
+    },
+    {
+      "poradi": 228,
+      "vyska_m": 1072,
+      "nazev": "Kraví hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′08″ s. š., 15°48′17″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 229,
+      "vyska_m": 1071,
+      "nazev": "Holubník",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°50′27″ s. š., 15°11′01″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 230,
+      "vyska_m": 1071,
+      "nazev": "Prenet",
+      "pohori": "Šumava",
+      "souradnice": "49°14′06″ s. š., 13°12′42″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1070,
+      "nazev": "Nad Smržem",
+      "pohori": "Šumava",
+      "souradnice": "48°59′12″ s. š., 13°43′01″ v. d.",
+      "poznamka": "vedlejší vrchol Světlé hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 232,
+      "vyska_m": 1069,
+      "nazev": "Jelenská hora",
+      "pohori": "Šumava",
+      "souradnice": "48°49′44″ s. š., 13°52′55″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 233,
+      "vyska_m": 1068,
+      "nazev": "Vyhlídka",
+      "pohori": "Šumava",
+      "souradnice": "48°59′06″ s. š., 13°39′05″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 234,
+      "vyska_m": 1068,
+      "nazev": "Pomezní vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°55′49″ s. š., 13°37′58″ v. d. vrchol v Německu",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 234,
+      "vyska_m": 1068,
+      "nazev": "Magurka",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°28′51″ s. š., 18°18′57″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 235,
+      "vyska_m": 1068,
+      "nazev": "Nad Šmauzy",
+      "pohori": "Šumava",
+      "souradnice": "49°11′17″ s. š., 13°16′32″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 236,
+      "vyska_m": 1067,
+      "nazev": "Velký Polom",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′21″ s. š., 18°40′16″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 237,
+      "vyska_m": 1067,
+      "nazev": "Javorník",
+      "pohori": "Šumava",
+      "souradnice": "49°08′17″ s. š., 13°39′16″ v. d.",
+      "poznamka": "na vrcholu Klostermannova rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": 238,
+      "vyska_m": 1067,
+      "nazev": "Ždánov",
+      "pohori": "Šumava",
+      "souradnice": "49°09′05″ s. š., 13°36′12″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 239,
+      "vyska_m": 1067,
+      "nazev": "Žebříkový kámen",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°52′09″ s. š., 14°16′46″ v. d.",
+      "poznamka": "do dubna 2017 považován za vedlejší vrchol Kletě",
+      "pristup": ""
+    },
+    {
+      "poradi": 240,
+      "vyska_m": 1066,
+      "nazev": "Sněžné věžičky",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°49′51″ s. š., 15°13′14″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 241,
+      "vyska_m": 1066,
+      "nazev": "Plešný",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°52′30″ s. š., 14°07′06″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 242,
+      "vyska_m": 1065,
+      "nazev": "Žďárecká hora",
+      "pohori": "Šumava",
+      "souradnice": "48°55′26″ s. š., 13°39′05″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 243,
+      "vyska_m": 1065,
+      "nazev": "Stožec",
+      "pohori": "Šumava",
+      "souradnice": "48°52′50″ s. š., 13°49′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 244,
+      "vyska_m": 1063,
+      "nazev": "Přední Mlynářská slať",
+      "pohori": "Šumava",
+      "souradnice": "49°01′17″ s. š., 13°27′19″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 245,
+      "vyska_m": 1062,
+      "nazev": "Mrtvý vrch",
+      "pohori": "Krkonoše",
+      "souradnice": "50°48′09″ s. š., 15°26′24″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1062,
+      "nazev": "Stodůlecká hora",
+      "pohori": "Šumava",
+      "souradnice": "48°55′44″ s. š., 13°38′49″ v. d.",
+      "poznamka": "vedlejší vrchol Žďárecké hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 246,
+      "vyska_m": 1061,
+      "nazev": "Malý Polom",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′35″ s. š., 18°35′53″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1061,
+      "nazev": "Šerava",
+      "pohori": "Šumava",
+      "souradnice": "49°00′19″ s. š., 13°45′24″ v. d.",
+      "poznamka": "vedlejší vrchol Obrovce",
+      "pristup": ""
+    },
+    {
+      "poradi": 247,
+      "vyska_m": 1060,
+      "nazev": "Trnová hora",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°12′29″ s. š., 17°01′02″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1060,
+      "nazev": "Nad soutokem",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°03′48″ s. š., 17°12′21″ v. d.",
+      "poznamka": "vedlejší vrchol Vysoké hole",
+      "pristup": ""
+    },
+    {
+      "poradi": 248,
+      "vyska_m": 1059,
+      "nazev": "Kamenná hora",
+      "pohori": "Šumava",
+      "souradnice": "49°03′04″ s. š., 13°42′14″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 249,
+      "vyska_m": 1058,
+      "nazev": "Královský kámen",
+      "pohori": "Šumava",
+      "souradnice": "49°08′05″ s. š., 13°37′44″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 250,
+      "vyska_m": 1058,
+      "nazev": "Hřbety",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′07″ s. š., 17°10′04″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 251,
+      "vyska_m": 1057,
+      "nazev": "Šindelná hora JZ",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°07′10″ s. š., 17°07′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 252,
+      "vyska_m": 1057,
+      "nazev": "Hradečná",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°04′07″ s. š., 17°17′28″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 253,
+      "vyska_m": 1057,
+      "nazev": "Včelenský vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°00′22″ s. š., 13°50′03″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 254,
+      "vyska_m": 1057,
+      "nazev": "Velká Stolová",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′41″ s. š., 18°18′04″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1057,
+      "nazev": "Vyhlídka JZ",
+      "pohori": "Šumava",
+      "souradnice": "48°58′53″ s. š., 13°38′51″ v. d.",
+      "poznamka": "vedlejší vrchol Vyhlídky",
+      "pristup": ""
+    },
+    {
+      "poradi": 255,
+      "vyska_m": 1056,
+      "nazev": "Slavíč",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°34′07″ s. š., 18°35′18″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1056,
+      "nazev": "Orlík Z",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′51″ s. š., 17°16′32″ v. d.",
+      "poznamka": "vedlejší vrchol Orlíku",
+      "pristup": ""
+    },
+    {
+      "poradi": 256,
+      "vyska_m": 1054,
+      "nazev": "Perník",
+      "pohori": "Šumava",
+      "souradnice": "48°49′00″ s. š., 13°54′11″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 257,
+      "vyska_m": 1054,
+      "nazev": "Nad Ryžovnou",
+      "pohori": "Krušné hory",
+      "souradnice": "50°24′09″ s. š., 12°50′38″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 258,
+      "vyska_m": 1054,
+      "nazev": "Nad Rakouskou cestou",
+      "pohori": "Šumava",
+      "souradnice": "48°45′54″ s. š., 13°52′47″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 259,
+      "vyska_m": 1054,
+      "nazev": "Polední vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°57′53″ s. š., 13°39′36″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 260,
+      "vyska_m": 1053,
+      "nazev": "Nad Vískou",
+      "pohori": "Šumava",
+      "souradnice": "48°52′12″ s. š., 14°03′51″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 261,
+      "vyska_m": 1053,
+      "nazev": "Kunčický hřbet",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°14′15″ s. š., 16°57′43″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1053,
+      "nazev": "Dlouhý hřbet Z",
+      "pohori": "Šumava",
+      "souradnice": "48°51′49″ s. š., 13°58′39″ v. d.",
+      "poznamka": "vedlejší vrchol Dlouhého hřbetu",
+      "pristup": ""
+    },
+    {
+      "poradi": 262,
+      "vyska_m": 1052,
+      "nazev": "Sedloňovský vrch",
+      "pohori": "Orlické hory",
+      "souradnice": "50°20′16″ s. š., 16°21′29″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 263,
+      "vyska_m": 1052,
+      "nazev": "Doupná hora SV I",
+      "pohori": "Šumava",
+      "souradnice": "48°53′37″ s. š., 13°56′25″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1052,
+      "nazev": "Rybárenská slať",
+      "pohori": "Šumava",
+      "souradnice": "49°01′34″ s. š., 13°28′16″ v. d.",
+      "poznamka": "vedlejší vrchol Přední Mlynářské slatě",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1052,
+      "nazev": "Na dědku JV",
+      "pohori": "Šumava",
+      "souradnice": "49°03′04″ s. š., 13°41′05″ v. d.",
+      "poznamka": "vedlejší vrchol Na dědku",
+      "pristup": ""
+    },
+    {
+      "poradi": 264,
+      "vyska_m": 1051,
+      "nazev": "Větrný",
+      "pohori": "Šumava",
+      "souradnice": "48°54′19″ s. š., 13°56′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 265,
+      "vyska_m": 1051,
+      "nazev": "Velké Bradlo",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′21″ s. š., 17°16′31″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 266,
+      "vyska_m": 1051,
+      "nazev": "Skalnatý hřbet V",
+      "pohori": "Šumava",
+      "souradnice": "48°54′25″ s. š., 13°41′25″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 267,
+      "vyska_m": 1051,
+      "nazev": "Hvozd J",
+      "pohori": "Šumava",
+      "souradnice": "48°49′48″ s. š., 13°54′21″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 268,
+      "vyska_m": 1050,
+      "nazev": "Troják",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′22″ s. š., 17°03′59″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 269,
+      "vyska_m": 1050,
+      "nazev": "Liščí hora",
+      "pohori": "Šumava",
+      "souradnice": "48°58′33″ s. š., 13°42′36″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 270,
+      "vyska_m": 1050,
+      "nazev": "Adamova hora J",
+      "pohori": "Šumava",
+      "souradnice": "49°01′46″ s. š., 13°29′24″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1050,
+      "nazev": "Nad Petrovkou",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′13″ s. š., 17°10′18″ v. d.",
+      "poznamka": "vedlejší vrchol Malého Děda",
+      "pristup": ""
+    },
+    {
+      "poradi": 271,
+      "vyska_m": 1049,
+      "nazev": "Kamenáč",
+      "pohori": "Šumava",
+      "souradnice": "49°00′01″ s. š., 13°38′31″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 272,
+      "vyska_m": 1049,
+      "nazev": "Doupná hora SV II",
+      "pohori": "Šumava",
+      "souradnice": "48°53′50″ s. š., 13°56′38″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 273,
+      "vyska_m": 1048,
+      "nazev": "Hvozd",
+      "pohori": "Šumava",
+      "souradnice": "48°50′01″ s. š., 13°54′31″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 274,
+      "vyska_m": 1047,
+      "nazev": "Nořičí hora",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′28″ s. š., 18°16′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 275,
+      "vyska_m": 1047,
+      "nazev": "Nad Vískou JV I",
+      "pohori": "Šumava",
+      "souradnice": "48°51′47″ s. š., 14°04′25″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 276,
+      "vyska_m": 1047,
+      "nazev": "Nad Šindlovem",
+      "pohori": "Šumava",
+      "souradnice": "49°01′42″ s. š., 13°40′41″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1047,
+      "nazev": "Černá stráň S",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′10″ s. š., 17°04′30″ v. d.",
+      "poznamka": "vedlejší vrchol Černé stráně",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1047,
+      "nazev": "Hornomísečská skála",
+      "pohori": "Krkonoše",
+      "souradnice": "50°44′02″ s. š., 15°34′25″ v. d.",
+      "poznamka": "vedlejší vrchol Medvědína",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1047,
+      "nazev": "Nad Ryžovnou JV",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′45″ s. š., 12°51′16″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Ryžovnou",
+      "pristup": ""
+    },
+    {
+      "poradi": 277,
+      "vyska_m": 1046,
+      "nazev": "Jelení slať S",
+      "pohori": "Šumava",
+      "souradnice": "48°57′00″ s. š., 13°39′17″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1046,
+      "nazev": "Nad Ryžovnou JZ",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′49″ s. š., 12°49′47″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Ryžovnou",
+      "pristup": ""
+    },
+    {
+      "poradi": 278,
+      "vyska_m": 1045,
+      "nazev": "Svatý Jan",
+      "pohori": "Šumava",
+      "souradnice": "49°08′34″ s. š., 13°37′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 279,
+      "vyska_m": 1045,
+      "nazev": "Ostrý",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°36′06″ s. š., 18°39′24″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 280,
+      "vyska_m": 1045,
+      "nazev": "Homole",
+      "pohori": "Šumava",
+      "souradnice": "48°58′33″ s. š., 13°39′41″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 281,
+      "vyska_m": 1045,
+      "nazev": "Žárový vrch SV",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′55″ s. š., 17°19′03″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1045,
+      "nazev": "Stará hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°11′15″ s. š., 17°18′43″ v. d.",
+      "poznamka": "vedlejší vrchol Orlíku",
+      "pristup": ""
+    },
+    {
+      "poradi": 282,
+      "vyska_m": 1044,
+      "nazev": "Kupa",
+      "pohori": "Šumava",
+      "souradnice": "49°00′41″ s. š., 13°48′23″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 283,
+      "vyska_m": 1044,
+      "nazev": "Hnědý vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′07″ s. š., 17°14′54″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 284,
+      "vyska_m": 1044,
+      "nazev": "Tetřevec",
+      "pohori": "Orlické hory",
+      "souradnice": "50°15′48″ s. š., 16°26′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1044,
+      "nazev": "Nad Zadním Borem",
+      "pohori": "Šumava",
+      "souradnice": "48°51′04″ s. š., 14°03′07″ v. d.",
+      "poznamka": "vedlejší vrchol Lysé",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1044,
+      "nazev": "Svatý Jan V",
+      "pohori": "Šumava",
+      "souradnice": "49°08′31″ s. š., 13°37′34″ v. d.",
+      "poznamka": "vedlejší vrchol Svatého Jana",
+      "pristup": ""
+    },
+    {
+      "poradi": 285,
+      "vyska_m": 1043,
+      "nazev": "Blatenský vrch",
+      "pohori": "Krušné hory",
+      "souradnice": "50°24′01″ s. š., 12°46′54″ v. d.",
+      "poznamka": "na vrcholu rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1043,
+      "nazev": "Maruša",
+      "pohori": "Orlické hory",
+      "souradnice": "50°17′37″ s. š., 16°24′02″ v. d.",
+      "poznamka": "vedlejší vrchol Velké Deštné",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1043,
+      "nazev": "Zmrzlý vrch",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′07″ s. š., 18°16′29″ v. d.",
+      "poznamka": "vedlejší vrchol Tanečnice",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1043,
+      "nazev": "Malá Kleť",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°51′39″ s. š., 14°17′18″ v. d.",
+      "poznamka": "vedlejší vrchol Kleti",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1043,
+      "nazev": "Nad Vískou SZ",
+      "pohori": "Šumava",
+      "souradnice": "48°52′21″ s. š., 14°03′31″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Vískou",
+      "pristup": ""
+    },
+    {
+      "poradi": 286,
+      "vyska_m": 1042,
+      "nazev": "Čerchov",
+      "pohori": "Český les",
+      "souradnice": "49°22′58″ s. š., 12°47′06″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": 287,
+      "vyska_m": 1042,
+      "nazev": "Černá skála",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′32″ s. š., 15°33′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 288,
+      "vyska_m": 1042,
+      "nazev": "Zlatovec",
+      "pohori": "Šumava",
+      "souradnice": "48°51′57″ s. š., 14°02′52″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 289,
+      "vyska_m": 1042,
+      "nazev": "Studený",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°14′47″ s. š., 17°03′03″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 290,
+      "vyska_m": 1042,
+      "nazev": "U Kunštátské kaple",
+      "pohori": "Orlické hory",
+      "souradnice": "50°15′09″ s. š., 16°26′47″ v. d.",
+      "poznamka": "u vrcholu stojí Kunštátská kaple",
+      "pristup": ""
+    },
+    {
+      "poradi": 291,
+      "vyska_m": 1041,
+      "nazev": "Nad Pasekou",
+      "pohori": "Šumava",
+      "souradnice": "49°02′29″ s. š., 13°40′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1041,
+      "nazev": "Velké Bradlo Z",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′29″ s. š., 17°16′05″ v. d.",
+      "poznamka": "vedlejší vrchol Velkého Bradla",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1041,
+      "nazev": "Ždánov JV",
+      "pohori": "Šumava",
+      "souradnice": "49°08′49″ s. š., 13°36′53″ v. d.",
+      "poznamka": "vedlejší vrchol Ždánova",
+      "pristup": ""
+    },
+    {
+      "poradi": 292,
+      "vyska_m": 1040,
+      "nazev": "Lví hora",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°14′41″ s. š., 17°03′26″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 293,
+      "vyska_m": 1040,
+      "nazev": "Myslivna",
+      "pohori": "Novohradské hory",
+      "souradnice": "48°37′55″ s. š., 14°41′03″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 294,
+      "vyska_m": 1040,
+      "nazev": "Pytlák",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°08′37″ s. š., 17°19′55″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 295,
+      "vyska_m": 1040,
+      "nazev": "Jelení hora",
+      "pohori": "Šumava",
+      "souradnice": "48°56′06″ s. š., 13°40′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 296,
+      "vyska_m": 1040,
+      "nazev": "Kamenitý vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°51′09″ s. š., 14°04′39″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1040,
+      "nazev": "U Kunštátské kaple JV",
+      "pohori": "Orlické hory",
+      "souradnice": "50°14′46″ s. š., 16°27′10″ v. d.",
+      "poznamka": "vedlejší vrchol U Kunštátské kaple",
+      "pristup": ""
+    },
+    {
+      "poradi": 297,
+      "vyska_m": 1039,
+      "nazev": "Zátoňská hora",
+      "pohori": "Šumava",
+      "souradnice": "48°56′45″ s. š., 13°49′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 298,
+      "vyska_m": 1038,
+      "nazev": "Kamenný vrch",
+      "pohori": "Orlické hory",
+      "souradnice": "50°19′40″ s. š., 16°21′34″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 300,
+      "vyska_m": 1037,
+      "nazev": "Malý Bobík",
+      "pohori": "Šumava",
+      "souradnice": "48°58′11″ s. š., 13°51′55″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1037,
+      "nazev": "Jilmová skála",
+      "pohori": "Šumava",
+      "souradnice": "48°57′17″ s. š., 13°47′53″ v. d.",
+      "poznamka": "vedlejší vrchol Červeného vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1037,
+      "nazev": "Na skalách",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′09″ s. š., 12°59′40″ v. d.",
+      "poznamka": "vedlejší vrchol Macechy",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1037,
+      "nazev": "Kunžvart",
+      "pohori": "Šumava",
+      "souradnice": "48°55′15″ s. š., 13°42′34″ v. d.",
+      "poznamka": "vedlejší vrchol Strážného; na vrcholu zřícenina hradu",
+      "pristup": ""
+    },
+    {
+      "poradi": 301,
+      "vyska_m": 1036,
+      "nazev": "Zadní Žalý",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′54″ s. š., 15°34′06″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 302,
+      "vyska_m": 1036,
+      "nazev": "Vítkův kámen",
+      "pohori": "Šumava",
+      "souradnice": "48°38′42″ s. š., 14°06′12″ v. d.",
+      "poznamka": "na vrcholu zřícenina hradu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1036,
+      "nazev": "Tokaniště S",
+      "pohori": "Šumava",
+      "souradnice": "48°43′28″ s. š., 13°57′27″ v. d.",
+      "poznamka": "vedlejší vrchol Smrčiny",
+      "pristup": ""
+    },
+    {
+      "poradi": 303,
+      "vyska_m": 1035,
+      "nazev": "Šeřín",
+      "pohori": "Krkonoše",
+      "souradnice": "50°41′47″ s. š., 15°33′49″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 304,
+      "vyska_m": 1035,
+      "nazev": "Hvězdná JV",
+      "pohori": "Šumava",
+      "souradnice": "48°34′52″ s. š., 14°14′17″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 305,
+      "vyska_m": 1035,
+      "nazev": "Dvorský les",
+      "pohori": "Krkonoše",
+      "souradnice": "50°38′56″ s. š., 15°51′49″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 306,
+      "vyska_m": 1035,
+      "nazev": "Preislerův kopec",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′48″ s. š., 15°30′53″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 307,
+      "vyska_m": 1035,
+      "nazev": "Strážný S",
+      "pohori": "Šumava",
+      "souradnice": "48°55′52″ s. š., 13°42′14″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 308,
+      "vyska_m": 1035,
+      "nazev": "Jelení hora Z",
+      "pohori": "Šumava",
+      "souradnice": "48°56′06″ s. š., 13°40′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1035,
+      "nazev": "Harrachova skála",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′42″ s. š., 15°34′29″ v. d.",
+      "poznamka": "vedlejší vrchol Mechovince",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1035,
+      "nazev": "Nad Bukačkou",
+      "pohori": "Orlické hory",
+      "souradnice": "50°20′34″ s. š., 16°22′23″ v. d.",
+      "poznamka": "vedlejší vrchol Vrchmezí",
+      "pristup": ""
+    },
+    {
+      "poradi": 309,
+      "vyska_m": 1034,
+      "nazev": "Vysoká",
+      "pohori": "Novohradské hory",
+      "souradnice": "48°42′53″ s. š., 14°44′22″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 310,
+      "vyska_m": 1034,
+      "nazev": "Stolec",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°12′35″ s. š., 16°58′14″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1034,
+      "nazev": "Kozlí hřbet",
+      "pohori": "Krkonoše",
+      "souradnice": "50°43′42″ s. š., 15°33′28″ v. d.",
+      "poznamka": "vedlejší vrchol Mechovince",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1033,
+      "nazev": "Václavova hora",
+      "pohori": "Šumava",
+      "souradnice": "48°48′52″ s. š., 13°50′45″ v. d.",
+      "poznamka": "vedlejší vrchol V pařezí",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1033,
+      "nazev": "Barbora",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′12″ s. š., 12°52′23″ v. d.",
+      "poznamka": "vedlejší vrchol Božídarského Špičáku",
+      "pristup": ""
+    },
+    {
+      "poradi": 311,
+      "vyska_m": 1033,
+      "nazev": "Hubertky",
+      "pohori": "Krušné hory",
+      "souradnice": "50°25′21″ s. š., 12°54′19″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 312,
+      "vyska_m": 1032,
+      "nazev": "Burkův vrch",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′46″ s. š., 18°38′22″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 313,
+      "vyska_m": 1032,
+      "nazev": "Na skalce",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°57′49″ s. š., 14°00′48″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1032,
+      "nazev": "Zátoňská hora S",
+      "pohori": "Šumava",
+      "souradnice": "48°56′55″ s. š., 13°50′01″ v. d.",
+      "poznamka": "vedlejší vrchol Zátoňské hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 314,
+      "vyska_m": 1031,
+      "nazev": "Javorový",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°37′14″ s. š., 18°36′27″ v. d.",
+      "poznamka": "–",
+      "pristup": "ano"
+    },
+    {
+      "poradi": 315,
+      "vyska_m": 1031,
+      "nazev": "Vysoká hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′49″ s. š., 17°21′10″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1031,
+      "nazev": "Dlouhý hřeben S",
+      "pohori": "Krkonoše",
+      "souradnice": "50°42′25″ s. š., 15°49′11″ v. d.",
+      "poznamka": "vedlejší vrchol Dlouhého hřebene",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1031,
+      "nazev": "Nad Vískou JV II",
+      "pohori": "Šumava",
+      "souradnice": "48°51′27″ s. š., 14°04′24″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Vískou JV I",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1031,
+      "nazev": "Jelení slať J",
+      "pohori": "Šumava",
+      "souradnice": "48°56′33″ s. š., 13°39′28″ v. d.",
+      "poznamka": "vedlejší vrchol Jelení slatě S",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1030,
+      "nazev": "Křížová hora",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′17″ s. š., 13°01′29″ v. d.",
+      "poznamka": "vedlejší vrchol Meluzíny",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1030,
+      "nazev": "Doupná hora",
+      "pohori": "Šumava",
+      "souradnice": "48°53′23″ s. š., 13°56′14″ v. d.",
+      "poznamka": "vedlejší vrchol Doupné hory SV I",
+      "pristup": ""
+    },
+    {
+      "poradi": 316,
+      "vyska_m": 1029,
+      "nazev": "Plešivec",
+      "pohori": "Krušné hory",
+      "souradnice": "50°21′20″ s. š., 12°50′26″ v. d.",
+      "poznamka": "na vrcholu hotel a rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": 317,
+      "vyska_m": 1029,
+      "nazev": "Černý vrch",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°49′50″ s. š., 15°17′55″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 318,
+      "vyska_m": 1029,
+      "nazev": "Radvanovický hřbet JZ II",
+      "pohori": "Šumava",
+      "souradnice": "48°53′12″ s. š., 13°46′41″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1029,
+      "nazev": "Pod Pancířem",
+      "pohori": "Šumava",
+      "souradnice": "49°09′28″ s. š., 13°14′44″ v. d.",
+      "poznamka": "vedlejší vrchol Pancíře",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1029,
+      "nazev": "Bílé kameny",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°13′40″ s. š., 16°59′28″ v. d.",
+      "poznamka": "vedlejší vrchol Travné hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1029,
+      "nazev": "Myslivna JV",
+      "pohori": "Novohradské hory",
+      "souradnice": "48°37′40″ s. š., 14°41′18″ v. d.",
+      "poznamka": "vedlejší vrchol Myslivny",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1028,
+      "nazev": "Malá Kleť JV",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°51′38″ s. š., 14°17′25″ v. d.",
+      "poznamka": "vedlejší vrchol Kleti",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1028,
+      "nazev": "Výběžek",
+      "pohori": "Šumava",
+      "souradnice": "49°02′57″ s. š., 13°28′48″ v. d.",
+      "poznamka": "vedlejší vrchol Adamovy hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1028,
+      "nazev": "Chlumek",
+      "pohori": "Šumava",
+      "souradnice": "48°53′29″ s. š., 14°05′43″ v. d.",
+      "poznamka": "vedlejší vrchol Chlumu",
+      "pristup": ""
+    },
+    {
+      "poradi": 319,
+      "vyska_m": 1027,
+      "nazev": "Šerlich",
+      "pohori": "Orlické hory",
+      "souradnice": "50°19′51″ s. š., 16°22′53″ v. d.",
+      "poznamka": "pod vrcholem Masarykova chata",
+      "pristup": ""
+    },
+    {
+      "poradi": 320,
+      "vyska_m": 1027,
+      "nazev": "Koňský vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°46′59″ s. š., 13°53′12″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 321,
+      "vyska_m": 1027,
+      "nazev": "Svatý Tomáš",
+      "pohori": "Šumava",
+      "souradnice": "48°38′07″ s. š., 14°06′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 322,
+      "vyska_m": 1027,
+      "nazev": "Nad Bukovou slatí",
+      "pohori": "Šumava",
+      "souradnice": "48°57′59″ s. š., 13°38′28″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1027,
+      "nazev": "Pytlácké kameny",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′56″ s. š., 17°19′27″ v. d.",
+      "poznamka": "vedlejší vrchol Žárového vrchu SV; dříve nazýván Plošina",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1027,
+      "nazev": "Lomničky",
+      "pohori": "Šumava",
+      "souradnice": "49°14′00″ s. š., 13°05′35″ v. d.",
+      "poznamka": "vedlejší vrchol Helmwaldu",
+      "pristup": ""
+    },
+    {
+      "poradi": 323,
+      "vyska_m": 1026,
+      "nazev": "Kapraď",
+      "pohori": "Šumava",
+      "souradnice": "48°51′23″ s. š., 13°46′26″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 324,
+      "vyska_m": 1026,
+      "nazev": "Srnčí vrch",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°11′01″ s. š., 17°16′08″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1026,
+      "nazev": "Knížecí pláně – U kostela",
+      "pohori": "Šumava",
+      "souradnice": "48°57′11″ s. š., 13°37′02″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Bučinou",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1026,
+      "nazev": "U červeného kříže",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°13′50″ s. š., 16°57′59″ v. d.",
+      "poznamka": "vedlejší vrchol Kunčického hřbetu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1026,
+      "nazev": "Soukenná",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°00′36″ s. š., 17°14′27″ v. d.",
+      "poznamka": "vedlejší vrchol Jeleního hřbetu",
+      "pristup": ""
+    },
+    {
+      "poradi": 325,
+      "vyska_m": 1025,
+      "nazev": "Jelení vrch",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′21″ s. š., 15°41′52″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 326,
+      "vyska_m": 1025,
+      "nazev": "Radvanovický hřbet JZ I",
+      "pohori": "Šumava",
+      "souradnice": "48°53′22″ s. š., 13°46′54″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1025,
+      "nazev": "Palaš",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°12′45″ s. š., 16°59′28″ v. d.",
+      "poznamka": "vedlejší vrchol Travné hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1025,
+      "nazev": "Knížecí pláně",
+      "pohori": "Šumava",
+      "souradnice": "48°57′22″ s. š., 13°37′30″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Bučinou",
+      "pristup": ""
+    },
+    {
+      "poradi": 327,
+      "vyska_m": 1024,
+      "nazev": "Vysoká",
+      "pohori": "Hostýn.-vsetínská hornatina",
+      "souradnice": "49°24′14″ s. š., 18°21′40″ v. d.",
+      "poznamka": "nejvyšší hora pohoří",
+      "pristup": ""
+    },
+    {
+      "poradi": 328,
+      "vyska_m": 1024,
+      "nazev": "Černá stěna",
+      "pohori": "Šumava",
+      "souradnice": "48°52′02″ s. š., 13°59′36″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1024,
+      "nazev": "Hadí vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°11′12″ s. š., 13°20′17″ v. d.",
+      "poznamka": "vedlejší vrchol Javorné",
+      "pristup": ""
+    },
+    {
+      "poradi": 329,
+      "vyska_m": 1023,
+      "nazev": "Ostruha",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°10′02″ s. š., 17°15′58″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 330,
+      "vyska_m": 1023,
+      "nazev": "Tok",
+      "pohori": "Šumava",
+      "souradnice": "49°09′25″ s. š., 13°16′41″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 331,
+      "vyska_m": 1023,
+      "nazev": "Čertova hora",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′39″ s. š., 15°25′48″ v. d.",
+      "poznamka": "na vrchol vede lanovka",
+      "pristup": ""
+    },
+    {
+      "poradi": 332,
+      "vyska_m": 1022,
+      "nazev": "Špičák",
+      "pohori": "Šumava",
+      "souradnice": "48°48′27″ s. š., 13°48′17″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 333,
+      "vyska_m": 1022,
+      "nazev": "Burkův vrch Z",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′47″ s. š., 18°37′22″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1022,
+      "nazev": "Chaloupky",
+      "pohori": "Šumava",
+      "souradnice": "48°57′04″ s. š., 13°36′06″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Bučinou",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1022,
+      "nazev": "Kohoutí vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°56′04″ s. š., 13°41′19″ v. d.",
+      "poznamka": "vedlejší vrchol Jelení hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1022,
+      "nazev": "Stolec S",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°12′54″ s. š., 16°58′22″ v. d.",
+      "poznamka": "vedlejší vrchol Stolce",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1022,
+      "nazev": "Ostruha JV",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′51″ s. š., 17°16′17″ v. d.",
+      "poznamka": "vedlejší vrchol Ostruhy",
+      "pristup": ""
+    },
+    {
+      "poradi": 334,
+      "vyska_m": 1020,
+      "nazev": "Kostelní vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°03′56″ s. š., 13°28′05″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 335,
+      "vyska_m": 1019,
+      "nazev": "Malý Javorník",
+      "pohori": "Javorníky",
+      "souradnice": "49°18′21″ s. š., 18°18′12″ v. d.",
+      "poznamka": "nejvyšší hora české části pohoří",
+      "pristup": ""
+    },
+    {
+      "poradi": 337,
+      "vyska_m": 1019,
+      "nazev": "Loučná",
+      "pohori": "Krušné hory",
+      "souradnice": "50°24′15″ s. š., 13°01′07″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1019,
+      "nazev": "Šerlich JV",
+      "pohori": "Orlické hory",
+      "souradnice": "50°19′33″ s. š., 16°23′09″ v. d.",
+      "poznamka": "vedlejší vrchol Šerlichu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1019,
+      "nazev": "Kopřivná",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°02′20″ s. š., 17°16′57″ v. d.",
+      "poznamka": "vedlejší vrchol Temné",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1019,
+      "nazev": "Loučná",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′56″ s. š., 13°01′20″ v. d.",
+      "poznamka": "vedlejší vrchol Loučné S",
+      "pristup": ""
+    },
+    {
+      "poradi": 336,
+      "vyska_m": 1018,
+      "nazev": "Přední Žalý",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′29″ s. š., 15°34′20″ v. d.",
+      "poznamka": "na vrcholu rozhledna",
+      "pristup": ""
+    },
+    {
+      "poradi": 338,
+      "vyska_m": 1018,
+      "nazev": "Věžní skály",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°50′11″ s. š., 15°20′54″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 338,
+      "vyska_m": 1018,
+      "nazev": "Zátoňská hora SV",
+      "pohori": "Šumava",
+      "souradnice": "48°56′58″ s. š., 13°50′18″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 339,
+      "vyska_m": 1018,
+      "nazev": "Medvědí vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°38′15″ s. š., 14°05′23″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 340,
+      "vyska_m": 1018,
+      "nazev": "Dolní Ždánidla",
+      "pohori": "Šumava",
+      "souradnice": "49°05′42″ s. š., 13°22′12″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 341,
+      "vyska_m": 1017,
+      "nazev": "Rohanovský vrch",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°57′28″ s. š., 14°01′19″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1017,
+      "nazev": "U Českých Chalup",
+      "pohori": "Šumava",
+      "souradnice": "49°01′55″ s. š., 13°38′53″ v. d.",
+      "poznamka": "vedlejší vrchol Výšky",
+      "pristup": ""
+    },
+    {
+      "poradi": 343,
+      "vyska_m": 1016,
+      "nazev": "Suchá hora SZ",
+      "pohori": "Šumava",
+      "souradnice": "48°50′24″ s. š., 13°59′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 344,
+      "vyska_m": 1015,
+      "nazev": "Smrčina",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°35′12″ s. š., 18°36′41″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 345,
+      "vyska_m": 1014,
+      "nazev": "Spálený",
+      "pohori": "Šumava",
+      "souradnice": "49°05′28″ s. š., 13°28′06″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 346,
+      "vyska_m": 1014,
+      "nazev": "Pevnost",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′12″ s. š., 15°36′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 347,
+      "vyska_m": 1014,
+      "nazev": "Čuboňov",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°29′52″ s. š., 18°36′07″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1014,
+      "nazev": "Palečkovský vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°00′09″ s. š., 13°50′41″ v. d.",
+      "poznamka": "vedlejší vrchol Boubína",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1014,
+      "nazev": "Větrný",
+      "pohori": "Šumava",
+      "souradnice": "49°05′36″ s. š., 13°24′32″ v. d.",
+      "poznamka": "vedlejší vrchol Jezernice",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1014,
+      "nazev": "Javorník Z I",
+      "pohori": "Šumava",
+      "souradnice": "49°08′13″ s. š., 13°38′36″ v. d.",
+      "poznamka": "vedlejší vrchol Javorníku",
+      "pristup": ""
+    },
+    {
+      "poradi": 348,
+      "vyska_m": 1013,
+      "nazev": "Ptačí kupy",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°50′49″ s. š., 15°10′25″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 349,
+      "vyska_m": 1013,
+      "nazev": "Hvězdná",
+      "pohori": "Šumava",
+      "souradnice": "48°35′15″ s. š., 14°13′57″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 350,
+      "vyska_m": 1013,
+      "nazev": "Na kneipě",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°49′59″ s. š., 15°14′20″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 351,
+      "vyska_m": 1013,
+      "nazev": "Zahrádky",
+      "pohori": "Šumava",
+      "souradnice": "48°58′48″ s. š., 13°40′55″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1013,
+      "nazev": "Mechový vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°52′53″ s. š., 13°55′08″ v. d.",
+      "poznamka": "vedlejší vrchol Křemenné",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1013,
+      "nazev": "Pod Novou Studnicí",
+      "pohori": "Šumava",
+      "souradnice": "49°05′26″ s. š., 13°25′49″ v. d.",
+      "poznamka": "vedlejší vrchol Jezernice",
+      "pristup": ""
+    },
+    {
+      "poradi": 352,
+      "vyska_m": 1012,
+      "nazev": "Ještěd",
+      "pohori": "Ještědsko-kozákovský hřbet",
+      "souradnice": "50°43′56″ s. š., 14°59′07″ v. d.",
+      "poznamka": "nejvyšší hora pohoří; na vrcholu hotel a vysílač",
+      "pristup": ""
+    },
+    {
+      "poradi": 353,
+      "vyska_m": 1012,
+      "nazev": "Zaječí hora",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°09′13″ s. š., 17°13′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 354,
+      "vyska_m": 1012,
+      "nazev": "Na skále",
+      "pohori": "Šumava",
+      "souradnice": "48°53′43″ s. š., 13°57′17″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 355,
+      "vyska_m": 1012,
+      "nazev": "Obrázek",
+      "pohori": "Novohradské hory",
+      "souradnice": "48°37′48″ s. š., 14°41′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1012,
+      "nazev": "Radvanovický vrch",
+      "pohori": "Šumava",
+      "souradnice": "48°53′39″ s. š., 13°47′09″ v. d.",
+      "poznamka": "vedlejší vrchol Radvanovického hřbetu JZ I",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1012,
+      "nazev": "Žárový vrch JZ",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°06′16″ s. š., 17°18′20″ v. d.",
+      "poznamka": "vedlejší vrchol Žárového vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1012,
+      "nazev": "Slavíč JV",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°33′47″ s. š., 18°36′10″ v. d.",
+      "poznamka": "vedlejší vrchol Slavíče",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1012,
+      "nazev": "Kamenná kráska",
+      "pohori": "Šumava",
+      "souradnice": "48°49′14″ s. š., 13°54′41″ v. d.",
+      "poznamka": "vedlejší vrchol Perníku",
+      "pristup": ""
+    },
+    {
+      "poradi": 356,
+      "vyska_m": 1011,
+      "nazev": "Uhlíkovský kopec",
+      "pohori": "Šumava",
+      "souradnice": "48°50′53″ s. š., 13°59′43″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 357,
+      "vyska_m": 1011,
+      "nazev": "Svatý Tomáš S",
+      "pohori": "Šumava",
+      "souradnice": "48°38′21″ s. š., 14°07′03″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1011,
+      "nazev": "Javorník SV",
+      "pohori": "Šumava",
+      "souradnice": "49°08′49″ s. š., 13°39′40″ v. d.",
+      "poznamka": "vedlejší vrchol Javorníku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1011,
+      "nazev": "U kostela",
+      "pohori": "Šumava",
+      "souradnice": "48°51′59″ s. š., 14°05′21″ v. d.",
+      "poznamka": "vedlejší vrchol Chlumu",
+      "pristup": ""
+    },
+    {
+      "poradi": 358,
+      "vyska_m": 1010,
+      "nazev": "Valy",
+      "pohori": "Šumava",
+      "souradnice": "49°05′51″ s. š., 13°35′33″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 359,
+      "vyska_m": 1010,
+      "nazev": "Ucháč",
+      "pohori": "Hrubý Jeseník",
+      "souradnice": "50°05′34″ s. š., 17°02′53″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1010,
+      "nazev": "Bílá smrt",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°50′09″ s. š., 15°11′53″ v. d.",
+      "poznamka": "vedlejší vrchol Černé hory",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1010,
+      "nazev": "Javorník Z II",
+      "pohori": "Šumava",
+      "souradnice": "49°08′18″ s. š., 13°38′12″ v. d.",
+      "poznamka": "vedlejší vrchol Javorníku",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1010,
+      "nazev": "Kutná J",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′12″ s. š., 15°50′58″ v. d.",
+      "poznamka": "vedlejší vrchol Dvorského lesa",
+      "pristup": ""
+    },
+    {
+      "poradi": 360,
+      "vyska_m": 1009,
+      "nazev": "Zaječí vrch",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′23″ s. š., 12°43′22″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 361,
+      "vyska_m": 1009,
+      "nazev": "Malá Stolová",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′33″ s. š., 18°18′56″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 362,
+      "vyska_m": 1009,
+      "nazev": "Kostelní vrch J",
+      "pohori": "Šumava",
+      "souradnice": "49°03′30″ s. š., 13°27′53″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1009,
+      "nazev": "Hřebeňák JZ",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°12′04″ s. š., 17°00′50″ v. d.",
+      "poznamka": "vedlejší vrchol Trnové hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 363,
+      "vyska_m": 1008,
+      "nazev": "Nad myslivnou",
+      "pohori": "Šumava",
+      "souradnice": "48°53′51″ s. š., 14°03′18″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 364,
+      "vyska_m": 1008,
+      "nazev": "Ve svahu",
+      "pohori": "Šumava",
+      "souradnice": "48°58′23″ s. š., 13°39′15″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 365,
+      "vyska_m": 1008,
+      "nazev": "Na skalce",
+      "pohori": "Český les",
+      "souradnice": "49°22′56″ s. š., 12°46′36″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 366,
+      "vyska_m": 1007,
+      "nazev": "Černý les",
+      "pohori": "Šumava",
+      "souradnice": "48°50′15″ s. š., 13°58′48″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 367,
+      "vyska_m": 1007,
+      "nazev": "Březník",
+      "pohori": "Šumava",
+      "souradnice": "49°09′02″ s. š., 13°25′30″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 368,
+      "vyska_m": 1007,
+      "nazev": "Vysoká seč",
+      "pohori": "Krušné hory",
+      "souradnice": "50°24′24″ s. š., 13°02′40″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 369,
+      "vyska_m": 1007,
+      "nazev": "Struhadlo",
+      "pohori": "Krkonoše",
+      "souradnice": "50°41′29″ s. š., 15°35′58″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 370,
+      "vyska_m": 1007,
+      "nazev": "Tetřeví hora",
+      "pohori": "Krušné hory",
+      "souradnice": "50°25′18″ s. š., 12°51′02″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1007,
+      "nazev": "Vysoká SV",
+      "pohori": "Šumava",
+      "souradnice": "48°43′02″ s. š., 14°44′38″ v. d.",
+      "poznamka": "vedlejší vrchol Vysoké",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1007,
+      "nazev": "Liščí hora JV",
+      "pohori": "Šumava",
+      "souradnice": "48°58′17″ s. š., 13°42′56″ v. d.",
+      "poznamka": "vedlejší vrchol Liščí hory",
+      "pristup": ""
+    },
+    {
+      "poradi": 371,
+      "vyska_m": 1006,
+      "nazev": "Liščí hora",
+      "pohori": "Rychlebské hory",
+      "souradnice": "50°12′36″ s. š., 17°01′47″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 372,
+      "vyska_m": 1006,
+      "nazev": "V oboře",
+      "pohori": "Šumava",
+      "souradnice": "49°00′26″ s. š., 13°51′21″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 373,
+      "vyska_m": 1006,
+      "nazev": "Polední kameny",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°51′12″ s. š., 15°13′29″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 374,
+      "vyska_m": 1006,
+      "nazev": "Nad myslivnou",
+      "pohori": "Šumava",
+      "souradnice": "48°51′20″ s. š., 14°05′34″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 375,
+      "vyska_m": 1006,
+      "nazev": "Můstek Z I",
+      "pohori": "Šumava",
+      "souradnice": "49°12′18″ s. š., 13°13′18″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 376,
+      "vyska_m": 1006,
+      "nazev": "Mravenečník",
+      "pohori": "Krkonoše",
+      "souradnice": "50°40′00″ s. š., 15°51′37″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1006,
+      "nazev": "Dlouhý hřbet SZ",
+      "pohori": "Šumava",
+      "souradnice": "48°52′07″ s. š., 13°58′34″ v. d.",
+      "poznamka": "vedlejší vrchol Dlouhého hřbetu",
+      "pristup": ""
+    },
+    {
+      "poradi": 377,
+      "vyska_m": 1005,
+      "nazev": "Dub S",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′41″ s. š., 12°55′43″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 378,
+      "vyska_m": 1005,
+      "nazev": "Malý Prenet",
+      "pohori": "Šumava",
+      "souradnice": "49°14′32″ s. š., 13°12′07″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 379,
+      "vyska_m": 1005,
+      "nazev": "Bukovec",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°48′52″ s. š., 15°21′29″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 380,
+      "vyska_m": 1005,
+      "nazev": "Zámky",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°47′37″ s. š., 15°20′22″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1005,
+      "nazev": "Knížecí pláně JV",
+      "pohori": "Šumava",
+      "souradnice": "48°57′05″ s. š., 13°37′48″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Bučinou",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1005,
+      "nazev": "V oboře S",
+      "pohori": "Šumava",
+      "souradnice": "49°00′36″ s. š., 13°51′19″ v. d.",
+      "poznamka": "vedlejší vrchol V oboře",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1005,
+      "nazev": "Na výšině",
+      "pohori": "Šumava",
+      "souradnice": "49°13′38″ s. š., 13°07′16″ v. d.",
+      "poznamka": "vedlejší vrchol Hole",
+      "pristup": ""
+    },
+    {
+      "poradi": 381,
+      "vyska_m": 1004,
+      "nazev": "Kochánovský vrch",
+      "pohori": "Šumava",
+      "souradnice": "49°11′36″ s. š., 13°22′09″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 382,
+      "vyska_m": 1004,
+      "nazev": "Nad myslivnou S",
+      "pohori": "Šumava",
+      "souradnice": "48°51′37″ s. š., 14°05′49″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 383,
+      "vyska_m": 1003,
+      "nazev": "Jeřáb",
+      "pohori": "Hanušovická vrchovina",
+      "souradnice": "50°03′23″ s. š., 16°48′47″ v. d.",
+      "poznamka": "nejvyšší hora pohoří",
+      "pristup": ""
+    },
+    {
+      "poradi": 384,
+      "vyska_m": 1003,
+      "nazev": "Šindelná",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°36′46″ s. š., 18°36′12″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 385,
+      "vyska_m": 1003,
+      "nazev": "Kapradinec J",
+      "pohori": "Šumava",
+      "souradnice": "48°48′02″ s. š., 14°01′21″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1003,
+      "nazev": "Buková slať",
+      "pohori": "Šumava",
+      "souradnice": "48°57′26″ s. š., 13°38′08″ v. d.",
+      "poznamka": "vedlejší vrchol Nad Bučinou",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1003,
+      "nazev": "Na skalce SZ",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°57′59″ s. š., 14°00′18″ v. d.",
+      "poznamka": "vedlejší vrchol Na skalce",
+      "pristup": ""
+    },
+    {
+      "poradi": 386,
+      "vyska_m": 1002,
+      "nazev": "Milíře",
+      "pohori": "Jizerské hory",
+      "souradnice": "50°48′45″ s. š., 15°15′35″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 387,
+      "vyska_m": 1002,
+      "nazev": "Janova skála SZ",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′20″ s. š., 15°26′05″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 388,
+      "vyska_m": 1002,
+      "nazev": "Javor",
+      "pohori": "Krkonoše",
+      "souradnice": "50°41′04″ s. š., 15°45′05″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 389,
+      "vyska_m": 1002,
+      "nazev": "Nad Kršlí",
+      "pohori": "Moravskoslezské Beskydy",
+      "souradnice": "49°30′50″ s. š., 18°35′12″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1002,
+      "nazev": "Kutná",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′39″ s. š., 15°51′00″ v. d.",
+      "poznamka": "vedlejší vrchol Dvorského lesa; na vrcholu Rýchorská bouda",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1002,
+      "nazev": "Můstek Z II",
+      "pohori": "Šumava",
+      "souradnice": "49°12′16″ s. š., 13°13′33″ v. d.",
+      "poznamka": "vedlejší vrchol Můstku Z I",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1002,
+      "nazev": "U Diany",
+      "pohori": "Šumava",
+      "souradnice": "48°57′02″ s. š., 13°41′56″ v. d.",
+      "poznamka": "vedlejší vrchol Poleckého vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": 390,
+      "vyska_m": 1001,
+      "nazev": "Pomezný",
+      "pohori": "Šumava",
+      "souradnice": "48°53′17″ s. š., 13°41′12″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 391,
+      "vyska_m": 1001,
+      "nazev": "Homole",
+      "pohori": "Šumava",
+      "souradnice": "49°04′08″ s. š., 13°39′19″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 392,
+      "vyska_m": 1001,
+      "nazev": "Špičák",
+      "pohori": "Krkonoše",
+      "souradnice": "50°39′04″ s. š., 15°42′10″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 393,
+      "vyska_m": 1001,
+      "nazev": "Homole",
+      "pohori": "Orlické hory",
+      "souradnice": "50°16′22″ s. š., 16°26′22″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 394,
+      "vyska_m": 1001,
+      "nazev": "Plešný J",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°52′07″ s. š., 14°06′51″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": 395,
+      "vyska_m": 1001,
+      "nazev": "Špičák V",
+      "pohori": "Šumava",
+      "souradnice": "49°10′25″ s. š., 13°13′23″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1001,
+      "nazev": "Rohanovský vrch V",
+      "pohori": "Šumavské podhůří",
+      "souradnice": "48°57′29″ s. š., 14°01′40″ v. d.",
+      "poznamka": "vedlejší vrchol Rohanovského vrchu",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1001,
+      "nazev": "Sup",
+      "pohori": "Šumava",
+      "souradnice": "49°12′08″ s. š., 13°17′38″ v. d.",
+      "poznamka": "vedlejší vrchol Jedlové",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1001,
+      "nazev": "Dub",
+      "pohori": "Krušné hory",
+      "souradnice": "50°23′17″ s. š., 12°55′38″ v. d.",
+      "poznamka": "vedlejší vrchol Dubu S",
+      "pristup": ""
+    },
+    {
+      "poradi": "–",
+      "vyska_m": 1001,
+      "nazev": "Janova skála",
+      "pohori": "Krkonoše",
+      "souradnice": "50°45′12″ s. š., 15°26′15″ v. d.",
+      "poznamka": "vedlejší vrchol Janovy skály",
+      "pristup": ""
+    },
+    {
+      "poradi": 396,
+      "vyska_m": 1000,
+      "nazev": "Perninský vrch",
+      "pohori": "Krušné hory",
+      "souradnice": "50°21′47″ s. š., 12°45′35″ v. d.",
+      "poznamka": "–",
+      "pristup": ""
+    }
+  ],
+  "meta": {
+    "title": "Tisícovky v Česku – vrcholy nad 1000 m - Free Download",
+    "description": "Seznam všech vrcholů v Česku s nadmořskou výškou nad 1000 metrů, s pohořím, souřadnicemi, poznámkou a informací o přístupnosti. Contains 585 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tisícovky v Česku – vrcholy nad 1000 m | ListBase",
+    "seo_description": "Download Tisícovky v Česku – vrcholy nad 1000 m — 585 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 585 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_tisícovek_v_Česku"
+    ]
+  }
+}

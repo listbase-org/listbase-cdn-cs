@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-12T02:29:10.335Z",
-  "total_datasets": 561,
-  "total_records": 421238,
+  "generated": "2026-11-12T02:29:21.089Z",
+  "total_datasets": 562,
+  "total_records": 421823,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 141
+      "dataset_count": 142
     },
     {
       "id": "health",
@@ -6945,6 +6945,34 @@
         "xlsx": {
           "name": "cs-teplice-obce_CS.xlsx",
           "size": 9151
+        }
+      }
+    },
+    {
+      "id": "cs-tisicovky",
+      "name": "Tisícovky v Česku – vrcholy nad 1000 m",
+      "category": "geography",
+      "record_count": 585,
+      "columns": [
+        "poradi",
+        "vyska_m",
+        "nazev",
+        "pohori",
+        "souradnice",
+        "poznamka",
+        "pristup"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_tisícovek_v_Česku",
+      "updated": "2026-11",
+      "size": 144412,
+      "files": {
+        "csv": {
+          "name": "cs-tisicovky_CS.csv",
+          "size": 63810
+        },
+        "xlsx": {
+          "name": "cs-tisicovky_CS.xlsx",
+          "size": 37104
         }
       }
     },
