@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-11T02:13:14.307Z",
-  "total_datasets": 559,
-  "total_records": 421181,
+  "generated": "2026-11-12T02:28:57.140Z",
+  "total_datasets": 560,
+  "total_records": 421205,
   "categories": [
     {
       "id": "agriculture",
@@ -66,7 +66,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -9113,6 +9113,35 @@
         "xlsx": {
           "name": "cs-kamerove-body_CS.xlsx",
           "size": 41191
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-obrany",
+      "name": "Ministři obrany České republiky",
+      "category": "politics",
+      "record_count": 24,
+      "columns": [
+        "poradi",
+        "ministr",
+        "nastup",
+        "odchod",
+        "dny_v_uradu",
+        "strana",
+        "vlada",
+        "obdobi"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_obrany_České_republiky",
+      "updated": "2026-11",
+      "size": 7805,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-obrany_CS.csv",
+          "size": 2308
+        },
+        "xlsx": {
+          "name": "cs-ministri-obrany_CS.xlsx",
+          "size": 8350
         }
       }
     },

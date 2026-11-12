@@ -1,0 +1,306 @@
+{
+  "id": "cs-ministri-obrany",
+  "name": "Ministři obrany České republiky",
+  "title": "Ministři obrany České republiky",
+  "description": "Přehled ministrů obrany České republiky od roku 1993 s daty nástupu a odchodu, délkou působení, stranou a vládou.",
+  "category": "politics",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_obrany_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ministrů_obrany_České_republiky",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "poradi",
+      "label": "Poradi",
+      "type": "string"
+    },
+    {
+      "key": "ministr",
+      "label": "Ministr",
+      "type": "string"
+    },
+    {
+      "key": "nastup",
+      "label": "Nastup",
+      "type": "string"
+    },
+    {
+      "key": "odchod",
+      "label": "Odchod",
+      "type": "string"
+    },
+    {
+      "key": "dny_v_uradu",
+      "label": "Dny V Uradu",
+      "type": "number"
+    },
+    {
+      "key": "strana",
+      "label": "Strana",
+      "type": "string"
+    },
+    {
+      "key": "vlada",
+      "label": "Vlada",
+      "type": "string"
+    },
+    {
+      "key": "obdobi",
+      "label": "Obdobi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poradi": "1.",
+      "ministr": "Antonín Baudyš",
+      "nastup": "30. prosince 1992",
+      "odchod": "21. září 1994",
+      "dny_v_uradu": 630,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus I.",
+      "obdobi": ""
+    },
+    {
+      "poradi": "2.",
+      "ministr": "Vilém Holáň",
+      "nastup": "22. září 1994",
+      "odchod": "4. července 1996",
+      "dny_v_uradu": 651,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus I.",
+      "obdobi": ""
+    },
+    {
+      "poradi": "3.",
+      "ministr": "Miloslav Výborný",
+      "nastup": "4. července 1996",
+      "odchod": "2. ledna 1998",
+      "dny_v_uradu": 547,
+      "strana": "KDU-ČSL",
+      "vlada": "Klaus II.",
+      "obdobi": ""
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Michal Lobkowicz",
+      "nastup": "2. ledna 1998",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 201,
+      "strana": "ODS",
+      "vlada": "Tošovský",
+      "obdobi": ""
+    },
+    {
+      "poradi": "4.",
+      "ministr": "Michal Lobkowicz",
+      "nastup": "2. ledna 1998",
+      "odchod": "22. července 1998",
+      "dny_v_uradu": 201,
+      "strana": "US",
+      "vlada": "Tošovský",
+      "obdobi": ""
+    },
+    {
+      "poradi": "5.",
+      "ministr": "Vladimír Vetchý",
+      "nastup": "22. července 1998",
+      "odchod": "4. května 2001",
+      "dny_v_uradu": 1017,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": ""
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Jaroslav Tvrdík",
+      "nastup": "4. května 2001",
+      "odchod": "9. června 2003",
+      "dny_v_uradu": 766,
+      "strana": "ČSSD",
+      "vlada": "Zeman",
+      "obdobi": ""
+    },
+    {
+      "poradi": "6.",
+      "ministr": "Jaroslav Tvrdík",
+      "nastup": "4. května 2001",
+      "odchod": "9. června 2003",
+      "dny_v_uradu": 766,
+      "strana": "ČSSD",
+      "vlada": "Špidla",
+      "obdobi": ""
+    },
+    {
+      "poradi": "7.",
+      "ministr": "Miroslav Kostelka",
+      "nastup": "9. června 2003",
+      "odchod": "4. srpna 2004",
+      "dny_v_uradu": 422,
+      "strana": "nestraník za ČSSD",
+      "vlada": "Špidla",
+      "obdobi": ""
+    },
+    {
+      "poradi": "8.",
+      "ministr": "Karel Kühnl",
+      "nastup": "4. srpna 2004",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 761,
+      "strana": "US-DEU",
+      "vlada": "Gross",
+      "obdobi": ""
+    },
+    {
+      "poradi": "8.",
+      "ministr": "Karel Kühnl",
+      "nastup": "4. srpna 2004",
+      "odchod": "4. září 2006",
+      "dny_v_uradu": 761,
+      "strana": "US-DEU",
+      "vlada": "Paroubek",
+      "obdobi": ""
+    },
+    {
+      "poradi": "9.",
+      "ministr": "Jiří Šedivý",
+      "nastup": "4. září 2006",
+      "odchod": "9. ledna 2007",
+      "dny_v_uradu": 127,
+      "strana": "nestraník za ODS",
+      "vlada": "Topolánek I.",
+      "obdobi": ""
+    },
+    {
+      "poradi": "10.",
+      "ministr": "Vlasta Parkanová",
+      "nastup": "9. ledna 2007",
+      "odchod": "8. května 2009",
+      "dny_v_uradu": 850,
+      "strana": "KDU-ČSL",
+      "vlada": "Topolánek II.",
+      "obdobi": ""
+    },
+    {
+      "poradi": "11.",
+      "ministr": "Martin Barták",
+      "nastup": "8. května 2009",
+      "odchod": "13. července 2010",
+      "dny_v_uradu": 431,
+      "strana": "nestraník nom. ODS",
+      "vlada": "Fischer",
+      "obdobi": ""
+    },
+    {
+      "poradi": "12.",
+      "ministr": "Alexandr Vondra",
+      "nastup": "13. července 2010",
+      "odchod": "7. prosince 2012",
+      "dny_v_uradu": 878,
+      "strana": "ODS",
+      "vlada": "Nečas",
+      "obdobi": ""
+    },
+    {
+      "poradi": "13.",
+      "ministr": "Karolína Peake",
+      "nastup": "12. prosince 2012",
+      "odchod": "20. prosince 2012",
+      "dny_v_uradu": 8,
+      "strana": "LIDEM",
+      "vlada": "Nečas",
+      "obdobi": ""
+    },
+    {
+      "poradi": "14.",
+      "ministr": "Petr Nečas",
+      "nastup": "21. prosince 2012",
+      "odchod": "19. března 2013",
+      "dny_v_uradu": 88,
+      "strana": "ODS",
+      "vlada": "Nečas",
+      "obdobi": ""
+    },
+    {
+      "poradi": "15.",
+      "ministr": "Vlastimil Picek",
+      "nastup": "19. března 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 316,
+      "strana": "nestraník za LIDEM",
+      "vlada": "Nečas",
+      "obdobi": ""
+    },
+    {
+      "poradi": "15.",
+      "ministr": "Vlastimil Picek",
+      "nastup": "19. března 2013",
+      "odchod": "29. ledna 2014",
+      "dny_v_uradu": 316,
+      "strana": "nestraník",
+      "vlada": "Rusnok",
+      "obdobi": ""
+    },
+    {
+      "poradi": "16.",
+      "ministr": "Martin Stropnický",
+      "nastup": "29. ledna 2014",
+      "odchod": "13. prosince 2017",
+      "dny_v_uradu": 1414,
+      "strana": "ANO",
+      "vlada": "Sobotka",
+      "obdobi": ""
+    },
+    {
+      "poradi": "17.",
+      "ministr": "Karla Šlechtová",
+      "nastup": "13. prosince 2017",
+      "odchod": "27. června 2018",
+      "dny_v_uradu": 196,
+      "strana": "nestranička za ANO",
+      "vlada": "Babiš I.",
+      "obdobi": ""
+    },
+    {
+      "poradi": "18.",
+      "ministr": "Lubomír Metnar",
+      "nastup": "27. června 2018",
+      "odchod": "17. prosince 2021",
+      "dny_v_uradu": 1269,
+      "strana": "nestraník za ANO",
+      "vlada": "Babiš II.",
+      "obdobi": ""
+    },
+    {
+      "poradi": "19.",
+      "ministr": "Jana Černochová",
+      "nastup": "17. prosince 2021",
+      "odchod": "15. prosince 2025",
+      "dny_v_uradu": 1459,
+      "strana": "ODS",
+      "vlada": "Fiala",
+      "obdobi": ""
+    },
+    {
+      "poradi": "20.",
+      "ministr": "Jaromír Zůna",
+      "nastup": "15. prosince 2025",
+      "odchod": "úřadující",
+      "dny_v_uradu": 332,
+      "strana": "nestraník za SPD",
+      "vlada": "Babiš III.",
+      "obdobi": ""
+    }
+  ],
+  "meta": {
+    "title": "Ministři obrany České republiky - Free Download",
+    "description": "Přehled ministrů obrany České republiky od roku 1993 s daty nástupu a odchodu, délkou působení, stranou a vládou. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ministři obrany České republiky | ListBase",
+    "seo_description": "Download Ministři obrany České republiky — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ministrů_obrany_České_republiky"
+    ]
+  }
+}
