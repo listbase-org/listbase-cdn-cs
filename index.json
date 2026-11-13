@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-13T02:26:00.839Z",
-  "total_datasets": 563,
-  "total_records": 421835,
+  "generated": "2026-11-13T02:26:11.027Z",
+  "total_datasets": 564,
+  "total_records": 421868,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -14577,6 +14577,34 @@
         "xlsx": {
           "name": "cs-ceske-kluby-v-hokejove-lize-mistru_CS.xlsx",
           "size": 8125
+        }
+      }
+    },
+    {
+      "id": "cs-finale-poharu-facr",
+      "name": "Finále Poháru FAČR (od 1993/94)",
+      "category": "sports",
+      "record_count": 33,
+      "columns": [
+        "season",
+        "winner",
+        "winner_coach",
+        "score",
+        "finalist",
+        "venue",
+        "attendance"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Pohár_FAČR",
+      "updated": "2026-11",
+      "size": 10665,
+      "files": {
+        "csv": {
+          "name": "cs-finale-poharu-facr_CS.csv",
+          "size": 4197
+        },
+        "xlsx": {
+          "name": "cs-finale-poharu-facr_CS.xlsx",
+          "size": 9018
         }
       }
     },

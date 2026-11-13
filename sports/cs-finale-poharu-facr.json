@@ -1,0 +1,358 @@
+{
+  "id": "cs-finale-poharu-facr",
+  "name": "Finále Poháru FAČR (od 1993/94)",
+  "title": "Finále Poháru FAČR (od 1993/94)",
+  "description": "Výsledky finálových zápasů českého fotbalového poháru (Pohár ČMFS / Pohár FAČR, MOL Cup) od ročníku 1993/94: vítěz a jeho trenér, výsledek, finalista, místo konání a počet diváků.",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/Pohár_FAČR",
+  "source_url": "https://cs.wikipedia.org/wiki/Pohár_FAČR",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "winner_coach",
+      "label": "Winner Coach",
+      "type": "string"
+    },
+    {
+      "key": "score",
+      "label": "Score",
+      "type": "string"
+    },
+    {
+      "key": "finalist",
+      "label": "Finalist",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    },
+    {
+      "key": "attendance",
+      "label": "Attendance",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1993/94",
+      "winner": "FK Viktoria Žižkov",
+      "winner_coach": "Jiří Kotrba",
+      "score": "2–2 (6–5 pen.)",
+      "finalist": "AC Sparta Praha",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 7011
+    },
+    {
+      "season": "1994/95",
+      "winner": "SK Hradec Králové",
+      "winner_coach": "Petr Pálka",
+      "score": "0–0 (3-1 pen.)",
+      "finalist": "FK Viktoria Žižkov",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 4500
+    },
+    {
+      "season": "1995/96",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "Vlastimil Petržela",
+      "score": "4–0",
+      "finalist": "FK Drnovice",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 7814
+    },
+    {
+      "season": "1996/97",
+      "winner": "SK Slavia Praha",
+      "winner_coach": "František Cipro",
+      "score": "1–0 po prodl.",
+      "finalist": "FC Dukla Příbram (II. liga)",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 8236
+    },
+    {
+      "season": "1997/98",
+      "winner": "FK Jablonec 97",
+      "winner_coach": "Jiří Kotrba",
+      "score": "2–1 po prodl.",
+      "finalist": "FK Drnovice",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 8276
+    },
+    {
+      "season": "1998/99",
+      "winner": "SK Slavia Praha",
+      "winner_coach": "Jaroslav Hřebík",
+      "score": "1–0 po prodl.",
+      "finalist": "FC Slovan Liberec",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 4963
+    },
+    {
+      "season": "1999/00",
+      "winner": "FC Slovan Liberec",
+      "winner_coach": "Ladislav Škorpil",
+      "score": "2–1",
+      "finalist": "FK Baník Ratíškovice (II. liga)",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 4270
+    },
+    {
+      "season": "2000/01",
+      "winner": "FK Viktoria Žižkov",
+      "winner_coach": "Zdeněk Ščasný",
+      "score": "2–1 po prodl.",
+      "finalist": "AC Sparta Praha",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 4050
+    },
+    {
+      "season": "2001/02",
+      "winner": "SK Slavia Praha",
+      "winner_coach": "Miroslav Beránek",
+      "score": "2–1",
+      "finalist": "AC Sparta Praha",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 8820
+    },
+    {
+      "season": "2002/03",
+      "winner": "FK Teplice",
+      "winner_coach": "František Straka",
+      "score": "1–0",
+      "finalist": "FK Jablonec 97",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 5833
+    },
+    {
+      "season": "2003/04",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "František Straka",
+      "score": "2–1",
+      "finalist": "FC Baník Ostrava",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 6985
+    },
+    {
+      "season": "2004/05",
+      "winner": "FC Baník Ostrava",
+      "winner_coach": "Jozef Jarabinský",
+      "score": "2–1",
+      "finalist": "1. FC Slovácko",
+      "venue": "Olomouc Andrův stadion",
+      "attendance": 11251
+    },
+    {
+      "season": "2005/06",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "Stanislav Griga",
+      "score": "0–0 (4–2 pen.)",
+      "finalist": "FC Baník Ostrava",
+      "venue": "Liberec Stadion U Nisy",
+      "attendance": 4400
+    },
+    {
+      "season": "2006/07",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "Michal Bílek",
+      "score": "2–1",
+      "finalist": "FK Jablonec 97",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 6022
+    },
+    {
+      "season": "2007/08",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "Jozef Chovanec",
+      "score": "0–0 (4–3 pen.)",
+      "finalist": "FC Slovan Liberec",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 2865
+    },
+    {
+      "season": "2008/09",
+      "winner": "FK Teplice",
+      "winner_coach": "Jiří Plíšek",
+      "score": "1–0",
+      "finalist": "1. FC Slovácko (II. liga)",
+      "venue": "Praha-Strahov Stadion Evžena Rošického",
+      "attendance": 4820
+    },
+    {
+      "season": "2009/10",
+      "winner": "FC Viktoria Plzeň",
+      "winner_coach": "Pavel Vrba",
+      "score": "2–1",
+      "finalist": "FK Baumit Jablonec",
+      "venue": "Praha-Letná Stadion Sparty na Letné",
+      "attendance": 8233
+    },
+    {
+      "season": "2010/11",
+      "winner": "FK Mladá Boleslav",
+      "winner_coach": "Ladislav Minář",
+      "score": "1–1 (4–3 pen.)",
+      "finalist": "SK Sigma Olomouc",
+      "venue": "Jihlava Stadion v Jiráskově ulici",
+      "attendance": 5430
+    },
+    {
+      "season": "2011/12",
+      "winner": "SK Sigma Olomouc",
+      "winner_coach": "Petr Uličný",
+      "score": "1–0",
+      "finalist": "AC Sparta Praha",
+      "venue": "Plzeň Stadion Štruncovy sady",
+      "attendance": 7231
+    },
+    {
+      "season": "2012/13",
+      "winner": "FK Baumit Jablonec",
+      "winner_coach": "Roman Skuhravý",
+      "score": "2–2 (5–4 pen.)",
+      "finalist": "FK Mladá Boleslav",
+      "venue": "Chomutov Letní stadion",
+      "attendance": 3000
+    },
+    {
+      "season": "2013/14",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "Vítězslav Lavička",
+      "score": "1–1 (8–7 pen.)",
+      "finalist": "FC Viktoria Plzeň",
+      "venue": "Praha-Vršovice Stadion Eden",
+      "attendance": 11752
+    },
+    {
+      "season": "2014/15",
+      "winner": "FC Slovan Liberec",
+      "winner_coach": "David Vavruška",
+      "score": "1–1 (3–1 pen.)",
+      "finalist": "FK Baumit Jablonec",
+      "venue": "Mladá Boleslav Městský stadion",
+      "attendance": 4300
+    },
+    {
+      "season": "2015/16",
+      "winner": "FK Mladá Boleslav",
+      "winner_coach": "Karel Jarolím",
+      "score": "2–0",
+      "finalist": "FK Jablonec",
+      "venue": "Teplice Stadion Na Stínadlech",
+      "attendance": 2543
+    },
+    {
+      "season": "2016/17",
+      "winner": "FC Fastav Zlín",
+      "winner_coach": "Bohumil Páník",
+      "score": "1–0",
+      "finalist": "SFC Opava (II. liga)",
+      "venue": "Olomouc Andrův stadion",
+      "attendance": 11292
+    },
+    {
+      "season": "2017/18",
+      "winner": "SK Slavia Praha",
+      "winner_coach": "Jindřich Trpišovský",
+      "score": "3–1",
+      "finalist": "FK Jablonec",
+      "venue": "Mladá Boleslav Městský stadion",
+      "attendance": 4625
+    },
+    {
+      "season": "2018/19",
+      "winner": "SK Slavia Praha",
+      "winner_coach": "Jindřich Trpišovský",
+      "score": "2–0",
+      "finalist": "FC Baník Ostrava",
+      "venue": "Olomouc Andrův stadion",
+      "attendance": 11661
+    },
+    {
+      "season": "2019/20",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "Václav Kotal",
+      "score": "2–1",
+      "finalist": "FC Slovan Liberec",
+      "venue": "Liberec Stadion U Nisy",
+      "attendance": 2351
+    },
+    {
+      "season": "2020/21",
+      "winner": "SK Slavia Praha",
+      "winner_coach": "Jindřich Trpišovský",
+      "score": "1–0",
+      "finalist": "FC Viktoria Plzeň",
+      "venue": "Plzeň Stadion Štruncovy sady",
+      "attendance": 1167
+    },
+    {
+      "season": "2021/22",
+      "winner": "1. FC Slovácko",
+      "winner_coach": "Martin Svědík",
+      "score": "3–1",
+      "finalist": "AC Sparta Praha",
+      "venue": "Uherské Hradiště Městský fotbalový stadion Miroslava Valenty",
+      "attendance": 7991
+    },
+    {
+      "season": "2022/23",
+      "winner": "SK Slavia Praha",
+      "winner_coach": "Jindřich Trpišovský",
+      "score": "2–0",
+      "finalist": "AC Sparta Praha",
+      "venue": "Praha-Letná Stadion Sparty na Letné",
+      "attendance": 17037
+    },
+    {
+      "season": "2023/24",
+      "winner": "AC Sparta Praha",
+      "winner_coach": "Brian Priske",
+      "score": "2–1",
+      "finalist": "FC Viktoria Plzeň",
+      "venue": "Plzeň Stadion města Plzně",
+      "attendance": 10647
+    },
+    {
+      "season": "2024/25",
+      "winner": "SK Sigma Olomouc",
+      "winner_coach": "Tomáš Janotka",
+      "score": "3–1",
+      "finalist": "AC Sparta Praha",
+      "venue": "Olomouc Andrův stadion",
+      "attendance": 12014
+    },
+    {
+      "season": "2025/26",
+      "winner": "MFK Karviná",
+      "winner_coach": "Marek Jarolím",
+      "score": "3–1",
+      "finalist": "FK Jablonec",
+      "venue": "Hradec Králové Malšovická aréna",
+      "attendance": 7352
+    }
+  ],
+  "meta": {
+    "title": "Finále Poháru FAČR (od 1993/94) - Free Download",
+    "description": "Výsledky finálových zápasů českého fotbalového poháru (Pohár ČMFS / Pohár FAČR, MOL Cup) od ročníku 1993/94: vítěz a jeho trenér, výsledek, finalista, místo konání a počet diváků. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Finále Poháru FAČR (od 1993/94) | ListBase",
+    "seo_description": "Download Finále Poháru FAČR (od 1993/94) — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Pohár_FAČR"
+    ]
+  }
+}
