@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-12T02:29:21.089Z",
-  "total_datasets": 562,
-  "total_records": 421823,
+  "generated": "2026-11-13T02:26:00.839Z",
+  "total_datasets": 563,
+  "total_records": 421835,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -15192,6 +15192,30 @@
         "xlsx": {
           "name": "tech-unicode-symbols_CS.xlsx",
           "size": 9885
+        }
+      }
+    },
+    {
+      "id": "cs-ceske-nazvy-mesicu-etymologie",
+      "name": "České názvy měsíců a jejich původ",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "month_number",
+        "name",
+        "etymology"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Kalendářní_měsíc",
+      "updated": "2026-11",
+      "size": 3768,
+      "files": {
+        "csv": {
+          "name": "cs-ceske-nazvy-mesicu-etymologie_CS.csv",
+          "size": 1542
+        },
+        "xlsx": {
+          "name": "cs-ceske-nazvy-mesicu-etymologie_CS.xlsx",
+          "size": 7696
         }
       }
     },

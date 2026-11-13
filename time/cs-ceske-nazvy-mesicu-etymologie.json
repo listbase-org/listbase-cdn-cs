@@ -1,0 +1,101 @@
+{
+  "id": "cs-ceske-nazvy-mesicu-etymologie",
+  "name": "České názvy měsíců a jejich původ",
+  "title": "České názvy měsíců a jejich původ",
+  "description": "Dvanáct českých názvů kalendářních měsíců s vysvětlením jejich etymologie.",
+  "category": "time",
+  "source": "https://cs.wikipedia.org/wiki/Kalendářní_měsíc",
+  "source_url": "https://cs.wikipedia.org/wiki/Kalendářní_měsíc",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "month_number",
+      "label": "Month Number",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "etymology",
+      "label": "Etymology",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "month_number": 1,
+      "name": "leden",
+      "etymology": "od slova led"
+    },
+    {
+      "month_number": 2,
+      "name": "únor",
+      "etymology": "od slova nořit (při tání ledu se na řekách ponořují ledové kry do vody, případně rozmrzlá země se noří do bláta)"
+    },
+    {
+      "month_number": 3,
+      "name": "březen",
+      "etymology": "1. jmenný tvar slova březí (podst. jm. březost; samice zvířat jsou březí); 2. od slova bříza (měsíc bříz; raší břízy)"
+    },
+    {
+      "month_number": 4,
+      "name": "duben",
+      "etymology": "od slova dub (měsíc, kdy raší duby)"
+    },
+    {
+      "month_number": 5,
+      "name": "květen",
+      "etymology": "od slova kvést (rostliny kvetou), původně máj. Slovo květen se poprvé objevilo v Jungmannově překladu Ataly z roku 1805 jako poetismus a překlad za fr. lune des fleurs, ale rychle se vžilo. Na Jungmanna zajisté působilo polské slovo kwiecień („duben“)."
+    },
+    {
+      "month_number": 6,
+      "name": "červen",
+      "etymology": "1. červenost (červenání ovoce a jahod v tomto měsíci); 2. červec (hmyz, ze kterého se vyrábělo barvivo)"
+    },
+    {
+      "month_number": 7,
+      "name": "červenec",
+      "etymology": "dříve byl rozlišován červen první a druhý (malý a velký) – z prvního se stal červen a z druhého červenec"
+    },
+    {
+      "month_number": 8,
+      "name": "srpen",
+      "etymology": "1. od slova sirpsti = zráti, protože v tuto dobu zraje obilí. 2. od slova srp"
+    },
+    {
+      "month_number": 9,
+      "name": "září",
+      "etymology": "ze staročeského označení tohoto měsíce zářuj, což znamená za říje; pravděpodobně označuje začátek říje (existuje paralela záčerven a červen)"
+    },
+    {
+      "month_number": 10,
+      "name": "říjen",
+      "etymology": "odvozeno od jelení říje"
+    },
+    {
+      "month_number": 11,
+      "name": "listopad",
+      "etymology": "odvozeno od padání listí"
+    },
+    {
+      "month_number": 12,
+      "name": "prosinec",
+      "etymology": "1. ze staročeského prosiněti (tzn. problesknout), (slunce probleskuje mezi mraky); 2. ze staročeského siný (tzn. modravý, šedivý); výklad od slova prase (čas zabijaček) je chybný"
+    }
+  ],
+  "meta": {
+    "title": "České názvy měsíců a jejich původ - Free Download",
+    "description": "Dvanáct českých názvů kalendářních měsíců s vysvětlením jejich etymologie. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "České názvy měsíců a jejich původ | ListBase",
+    "seo_description": "Download České názvy měsíců a jejich původ — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Kalendářní_měsíc"
+    ]
+  }
+}
