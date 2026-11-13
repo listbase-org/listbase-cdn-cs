@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-13T02:26:11.027Z",
-  "total_datasets": 564,
-  "total_records": 421868,
+  "generated": "2026-11-13T02:26:19.562Z",
+  "total_datasets": 565,
+  "total_records": 421935,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -14659,6 +14659,31 @@
         "xlsx": {
           "name": "cs-mistri-ceske-fotbalove-ligy_CS.xlsx",
           "size": 8413
+        }
+      }
+    },
+    {
+      "id": "cs-mistri-ceskoslovenske-fotbalove-ligy",
+      "name": "Mistři československé fotbalové ligy (1925–1993)",
+      "category": "sports",
+      "record_count": 67,
+      "columns": [
+        "season",
+        "competition",
+        "champion",
+        "runner_up"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Fotbalová_liga_Československa",
+      "updated": "2026-11",
+      "size": 13480,
+      "files": {
+        "csv": {
+          "name": "cs-mistri-ceskoslovenske-fotbalove-ligy_CS.csv",
+          "size": 5693
+        },
+        "xlsx": {
+          "name": "cs-mistri-ceskoslovenske-fotbalove-ligy_CS.xlsx",
+          "size": 9051
         }
       }
     },

@@ -1,0 +1,448 @@
+{
+  "id": "cs-mistri-ceskoslovenske-fotbalove-ligy",
+  "name": "Mistři československé fotbalové ligy (1925–1993)",
+  "title": "Mistři československé fotbalové ligy (1925–1993)",
+  "description": "Vítězové a druzí v pořadí nejvyšší československé fotbalové soutěže v jednotlivých ročnících od roku 1925 do rozdělení Československa v roce 1993.",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/Fotbalová_liga_Československa",
+  "source_url": "https://cs.wikipedia.org/wiki/Fotbalová_liga_Československa",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "competition",
+      "label": "Competition",
+      "type": "string"
+    },
+    {
+      "key": "champion",
+      "label": "Champion",
+      "type": "string"
+    },
+    {
+      "key": "runner_up",
+      "label": "Runner Up",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": "1925",
+      "competition": "Asociační liga 1925",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1926",
+      "competition": "Středočeská 1. liga 1925/1926",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1927",
+      "competition": "Kvalif. soutěž Středoč. 1. ligy",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1928",
+      "competition": "Středočeská 1. liga 1927/1928",
+      "champion": "Viktoria Žižkov",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1929",
+      "competition": "Středočeská 1. liga 1928/1929",
+      "champion": "SK Slavia Praha",
+      "runner_up": "Viktoria Žižkov"
+    },
+    {
+      "season": "1930",
+      "competition": "1. asociační liga 1929/1930",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1931",
+      "competition": "1. asociační liga 1930/1931",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1932",
+      "competition": "1. asociační liga 1931/1932",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1933",
+      "competition": "1. asociační liga 1932/1933",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1934",
+      "competition": "1. asociační liga 1933/1934",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1935",
+      "competition": "Státní liga 1934/1935",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1936",
+      "competition": "Státní liga 1935/1936",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1937",
+      "competition": "Státní liga 1936/37",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1938",
+      "competition": "Státní liga 1937/38",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1939",
+      "competition": "Státní liga 1938/1939",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1940",
+      "competition": "Národní liga 1939/1940",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1941",
+      "competition": "Národní liga 1940/1941",
+      "champion": "SK Slavia Praha",
+      "runner_up": "SK Plzeň"
+    },
+    {
+      "season": "1942",
+      "competition": "Národní liga 1941/1942",
+      "champion": "SK Slavia Praha",
+      "runner_up": "SK Prostějov"
+    },
+    {
+      "season": "1943",
+      "competition": "Národní liga 1942/1943",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1944",
+      "competition": "Národní liga 1943/1944",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1946",
+      "competition": "Státní liga 1945/1946",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1947",
+      "competition": "Státní liga 1946/1947",
+      "champion": "SK Slavia Praha",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1948",
+      "competition": "Státní liga 1947/1948",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    },
+    {
+      "season": "1949",
+      "competition": "Celostátní mistrovství 1949",
+      "champion": "Sokol NV Bratislava",
+      "runner_up": "Sokol Bratrství Sparta"
+    },
+    {
+      "season": "1950",
+      "competition": "Celostátní mistrovství 1950",
+      "champion": "Sokol NV Bratislava",
+      "runner_up": "Sokol Bratrství Sparta"
+    },
+    {
+      "season": "1951",
+      "competition": "Mistrovství republiky 1951",
+      "champion": "Sokol NV Bratislava",
+      "runner_up": "Sparta ČKD Praha"
+    },
+    {
+      "season": "1952",
+      "competition": "Mistrovství republiky 1952",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "Sokol NV Bratislava"
+    },
+    {
+      "season": "1953",
+      "competition": "Přebor republiky 1953",
+      "champion": "Ú.D.A. Praha (Dukla)",
+      "runner_up": "Sparta ČKD Praha"
+    },
+    {
+      "season": "1954",
+      "competition": "Přebor republiky 1954",
+      "champion": "Spartak Sokolovo Praha",
+      "runner_up": "FC Baník Ostrava"
+    },
+    {
+      "season": "1955",
+      "competition": "Přebor republiky 1955",
+      "champion": "Slovan NV Bratislava",
+      "runner_up": "Ú.D.A. Praha (Dukla)"
+    },
+    {
+      "season": "1956",
+      "competition": "1. československá fotbalová liga 1956",
+      "champion": "Dukla Praha",
+      "runner_up": "Slovan NV Bratislava"
+    },
+    {
+      "season": "1958",
+      "competition": "1. československá fotbalová liga 1957/1958",
+      "champion": "Dukla Praha",
+      "runner_up": "Spartak Sokolovo Praha"
+    },
+    {
+      "season": "1959",
+      "competition": "1. československá fotbalová liga 1958/1959",
+      "champion": "ČH Bratislava",
+      "runner_up": "Dukla Praha"
+    },
+    {
+      "season": "1960",
+      "competition": "1. československá fotbalová liga 1959/1960",
+      "champion": "Spartak Hradec Králové",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1961",
+      "competition": "1. československá fotbalová liga 1960/1961",
+      "champion": "Dukla Praha",
+      "runner_up": "ČH Bratislava"
+    },
+    {
+      "season": "1962",
+      "competition": "1. československá fotbalová liga 1961/1962",
+      "champion": "Dukla Praha",
+      "runner_up": "Slovan Nitra"
+    },
+    {
+      "season": "1963",
+      "competition": "1. československá fotbalová liga 1962/1963",
+      "champion": "Dukla Praha",
+      "runner_up": "Jednota Trenčín"
+    },
+    {
+      "season": "1964",
+      "competition": "1. československá fotbalová liga 1963/1964",
+      "champion": "Dukla Praha",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1965",
+      "competition": "1. československá fotbalová liga 1964/1965",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "1. FC Tatran Prešov"
+    },
+    {
+      "season": "1966",
+      "competition": "1. československá fotbalová liga 1965/1966",
+      "champion": "Dukla Praha",
+      "runner_up": "Sparta ČKD Praha"
+    },
+    {
+      "season": "1967",
+      "competition": "1. československá fotbalová liga 1966/1967",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1968",
+      "competition": "1. československá fotbalová liga 1967/1968",
+      "champion": "Spartak Trnava",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1969",
+      "competition": "1. československá fotbalová liga 1968/1969",
+      "champion": "Spartak Trnava",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1970",
+      "competition": "1. československá fotbalová liga 1969/1970",
+      "champion": "ŠK Slovan Bratislava",
+      "runner_up": "Spartak Trnava"
+    },
+    {
+      "season": "1971",
+      "competition": "1. československá fotbalová liga 1970/1971",
+      "champion": "Spartak Trnava",
+      "runner_up": "VSS Košice"
+    },
+    {
+      "season": "1972",
+      "competition": "1. československá fotbalová liga 1971/1972",
+      "champion": "Spartak Trnava",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1973",
+      "competition": "1. československá fotbalová liga 1972/1973",
+      "champion": "Spartak Trnava",
+      "runner_up": "1. FC Tatran Prešov"
+    },
+    {
+      "season": "1974",
+      "competition": "1. československá fotbalová liga 1973/1974",
+      "champion": "ŠK Slovan Bratislava",
+      "runner_up": "Dukla Praha"
+    },
+    {
+      "season": "1975",
+      "competition": "1. československá fotbalová liga 1974/1975",
+      "champion": "ŠK Slovan Bratislava",
+      "runner_up": "Inter Bratislava"
+    },
+    {
+      "season": "1976",
+      "competition": "1. československá fotbalová liga 1975/1976",
+      "champion": "FC Baník Ostrava",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1977",
+      "competition": "1. československá fotbalová liga 1976/1977",
+      "champion": "Dukla Praha",
+      "runner_up": "Inter Bratislava"
+    },
+    {
+      "season": "1978",
+      "competition": "1. československá fotbalová liga 1977/1978",
+      "champion": "FC Zbrojovka Brno",
+      "runner_up": "Dukla Praha"
+    },
+    {
+      "season": "1979",
+      "competition": "1. československá fotbalová liga 1978/1979",
+      "champion": "Dukla Praha",
+      "runner_up": "FC Baník Ostrava"
+    },
+    {
+      "season": "1980",
+      "competition": "1. československá fotbalová liga 1979/1980",
+      "champion": "FC Baník Ostrava",
+      "runner_up": "FC Zbrojovka Brno"
+    },
+    {
+      "season": "1981",
+      "competition": "1. československá fotbalová liga 1980/1981",
+      "champion": "FC Baník Ostrava",
+      "runner_up": "Dukla Praha"
+    },
+    {
+      "season": "1982",
+      "competition": "1. československá fotbalová liga 1981/1982",
+      "champion": "Dukla Praha",
+      "runner_up": "FC Baník Ostrava"
+    },
+    {
+      "season": "1983",
+      "competition": "1. československá fotbalová liga 1982/1983",
+      "champion": "Bohemians Praha",
+      "runner_up": "FC Baník Ostrava"
+    },
+    {
+      "season": "1984",
+      "competition": "1. československá fotbalová liga 1983/1984",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "Dukla Praha"
+    },
+    {
+      "season": "1985",
+      "competition": "1. československá fotbalová liga 1984/1985",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "Bohemians Praha"
+    },
+    {
+      "season": "1986",
+      "competition": "1. československá fotbalová liga 1985/1986",
+      "champion": "FC Vítkovice",
+      "runner_up": "Sparta ČKD Praha"
+    },
+    {
+      "season": "1987",
+      "competition": "1. československá fotbalová liga 1986/1987",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "FC Vítkovice"
+    },
+    {
+      "season": "1988",
+      "competition": "1. československá fotbalová liga 1987/1988",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "Dukla Praha"
+    },
+    {
+      "season": "1989",
+      "competition": "1. československá fotbalová liga 1988/1989",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "FC Baník Ostrava"
+    },
+    {
+      "season": "1990",
+      "competition": "1. československá fotbalová liga 1989/1990",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "FC Baník Ostrava"
+    },
+    {
+      "season": "1991",
+      "competition": "1. československá fotbalová liga 1990/1991",
+      "champion": "Sparta ČKD Praha",
+      "runner_up": "ŠK Slovan Bratislava"
+    },
+    {
+      "season": "1992",
+      "competition": "1. československá fotbalová liga 1991/1992",
+      "champion": "ŠK Slovan Bratislava",
+      "runner_up": "AC Sparta Praha"
+    },
+    {
+      "season": "1993",
+      "competition": "1. československá fotbalová liga 1992/1993",
+      "champion": "AC Sparta Praha",
+      "runner_up": "SK Slavia Praha"
+    }
+  ],
+  "meta": {
+    "title": "Mistři československé fotbalové ligy (1925–1993) - Free Download",
+    "description": "Vítězové a druzí v pořadí nejvyšší československé fotbalové soutěže v jednotlivých ročnících od roku 1925 do rozdělení Československa v roce 1993. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mistři československé fotbalové ligy (1925–1993) | ListBase",
+    "seo_description": "Download Mistři československé fotbalové ligy (1925–1993) — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Fotbalová_liga_Československa"
+    ]
+  }
+}
