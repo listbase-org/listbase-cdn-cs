@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-13T02:26:19.562Z",
-  "total_datasets": 565,
-  "total_records": 421935,
+  "generated": "2026-11-13T02:26:29.359Z",
+  "total_datasets": 566,
+  "total_records": 422105,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1720,6 +1720,31 @@
         "xlsx": {
           "name": "cs-rektori-cvut_CS.xlsx",
           "size": 11973
+        }
+      }
+    },
+    {
+      "id": "cs-rektori-olomoucke-univerzity",
+      "name": "Rektoři olomoucké univerzity",
+      "category": "education",
+      "record_count": 170,
+      "columns": [
+        "term",
+        "rector",
+        "details",
+        "period"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_rektorů_olomoucké_univerzity",
+      "updated": "2026-11",
+      "size": 41034,
+      "files": {
+        "csv": {
+          "name": "cs-rektori-olomoucke-univerzity_CS.csv",
+          "size": 25921
+        },
+        "xlsx": {
+          "name": "cs-rektori-olomoucke-univerzity_CS.xlsx",
+          "size": 16499
         }
       }
     },
