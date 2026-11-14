@@ -1,12 +1,12 @@
 {
   "lang": "cs",
-  "generated": "2026-11-14T02:21:10.153Z",
-  "total_datasets": 568,
-  "total_records": 422205,
+  "generated": "2026-11-14T02:21:19.633Z",
+  "total_datasets": 569,
+  "total_records": 422325,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -225,6 +225,33 @@
         "xlsx": {
           "name": "cs-ministri-zemedelstvi_CS.xlsx",
           "size": 8017
+        }
+      }
+    },
+    {
+      "id": "cs-odrudy-revy-vinne",
+      "name": "Odrůdy révy vinné registrované v Česku",
+      "category": "agriculture",
+      "record_count": 120,
+      "columns": [
+        "variety",
+        "synonyms",
+        "origin",
+        "traditional_regions",
+        "registered_sok",
+        "group"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Odrůdy_révy_vinné",
+      "updated": "2026-11",
+      "size": 44127,
+      "files": {
+        "csv": {
+          "name": "cs-odrudy-revy-vinne_CS.csv",
+          "size": 25781
+        },
+        "xlsx": {
+          "name": "cs-odrudy-revy-vinne_CS.xlsx",
+          "size": 16577
         }
       }
     },
