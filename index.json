@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-14T02:21:00.742Z",
-  "total_datasets": 567,
-  "total_records": 422164,
+  "generated": "2026-11-14T02:21:10.153Z",
+  "total_datasets": 568,
+  "total_records": 422205,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1504,6 +1504,30 @@
         "xlsx": {
           "name": "cs-index-prumyslove-produkce_CS.xlsx",
           "size": 7011
+        }
+      }
+    },
+    {
+      "id": "cs-minimalni-mzda",
+      "name": "Minimální mzda v České republice – vývoj",
+      "category": "economy",
+      "record_count": 41,
+      "columns": [
+        "period",
+        "minimum_wage_czk",
+        "change_czk"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Minimální_mzda_v_České_republice",
+      "updated": "2026-11",
+      "size": 5454,
+      "files": {
+        "csv": {
+          "name": "cs-minimalni-mzda_CS.csv",
+          "size": 938
+        },
+        "xlsx": {
+          "name": "cs-minimalni-mzda_CS.xlsx",
+          "size": 7581
         }
       }
     },

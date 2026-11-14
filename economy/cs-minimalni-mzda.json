@@ -1,0 +1,246 @@
+{
+  "id": "cs-minimalni-mzda",
+  "name": "Minimální mzda v České republice – vývoj",
+  "title": "Minimální mzda v České republice – vývoj",
+  "description": "Vývoj měsíční minimální mzdy v České republice od roku 1991 (v Kč) včetně meziroční změny.",
+  "category": "economy",
+  "source": "https://cs.wikipedia.org/wiki/Minimální_mzda_v_České_republice",
+  "source_url": "https://cs.wikipedia.org/wiki/Minimální_mzda_v_České_republice",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "number"
+    },
+    {
+      "key": "minimum_wage_czk",
+      "label": "Minimum Wage Czk",
+      "type": "number"
+    },
+    {
+      "key": "change_czk",
+      "label": "Change Czk",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "period": "1991",
+      "minimum_wage_czk": 2000,
+      "change_czk": ""
+    },
+    {
+      "period": "1992",
+      "minimum_wage_czk": 2200,
+      "change_czk": 200
+    },
+    {
+      "period": "1993",
+      "minimum_wage_czk": 2200,
+      "change_czk": 0
+    },
+    {
+      "period": "1994",
+      "minimum_wage_czk": 2200,
+      "change_czk": 0
+    },
+    {
+      "period": "1995",
+      "minimum_wage_czk": 2200,
+      "change_czk": 0
+    },
+    {
+      "period": "1996",
+      "minimum_wage_czk": 2500,
+      "change_czk": 300
+    },
+    {
+      "period": "1997",
+      "minimum_wage_czk": 2500,
+      "change_czk": 0
+    },
+    {
+      "period": "1998",
+      "minimum_wage_czk": 2650,
+      "change_czk": 150
+    },
+    {
+      "period": "1999 (1. pol.)",
+      "minimum_wage_czk": 3250,
+      "change_czk": 600
+    },
+    {
+      "period": "1999 (2. pol.)",
+      "minimum_wage_czk": 3600,
+      "change_czk": 350
+    },
+    {
+      "period": "2000 (1. pol.)",
+      "minimum_wage_czk": 4000,
+      "change_czk": 400
+    },
+    {
+      "period": "2000 (2. pol.)",
+      "minimum_wage_czk": 4500,
+      "change_czk": 500
+    },
+    {
+      "period": "2001",
+      "minimum_wage_czk": 5000,
+      "change_czk": 500
+    },
+    {
+      "period": "2002",
+      "minimum_wage_czk": 5700,
+      "change_czk": 700
+    },
+    {
+      "period": "2003",
+      "minimum_wage_czk": 6200,
+      "change_czk": 500
+    },
+    {
+      "period": "2004",
+      "minimum_wage_czk": 6700,
+      "change_czk": 500
+    },
+    {
+      "period": "2005",
+      "minimum_wage_czk": 7185,
+      "change_czk": 485
+    },
+    {
+      "period": "2006 (1. pol.)",
+      "minimum_wage_czk": 7570,
+      "change_czk": 385
+    },
+    {
+      "period": "2006 (2. pol.)",
+      "minimum_wage_czk": 7955,
+      "change_czk": 385
+    },
+    {
+      "period": "2007",
+      "minimum_wage_czk": 8000,
+      "change_czk": 45
+    },
+    {
+      "period": "2008",
+      "minimum_wage_czk": 8000,
+      "change_czk": 0
+    },
+    {
+      "period": "2009",
+      "minimum_wage_czk": 8000,
+      "change_czk": 0
+    },
+    {
+      "period": "2010",
+      "minimum_wage_czk": 8000,
+      "change_czk": 0
+    },
+    {
+      "period": "2011",
+      "minimum_wage_czk": 8000,
+      "change_czk": 0
+    },
+    {
+      "period": "2012",
+      "minimum_wage_czk": 8000,
+      "change_czk": 0
+    },
+    {
+      "period": "2013 (1. pol.)",
+      "minimum_wage_czk": 8000,
+      "change_czk": 0
+    },
+    {
+      "period": "2013 (2. pol.)",
+      "minimum_wage_czk": 8500,
+      "change_czk": 500
+    },
+    {
+      "period": "2014",
+      "minimum_wage_czk": 8500,
+      "change_czk": 0
+    },
+    {
+      "period": "2015",
+      "minimum_wage_czk": 9200,
+      "change_czk": 700
+    },
+    {
+      "period": "2016",
+      "minimum_wage_czk": 9900,
+      "change_czk": 700
+    },
+    {
+      "period": "2017",
+      "minimum_wage_czk": 11000,
+      "change_czk": 1100
+    },
+    {
+      "period": "2018",
+      "minimum_wage_czk": 12200,
+      "change_czk": 1200
+    },
+    {
+      "period": "2019",
+      "minimum_wage_czk": 13350,
+      "change_czk": 1150
+    },
+    {
+      "period": "2020",
+      "minimum_wage_czk": 14600,
+      "change_czk": 1250
+    },
+    {
+      "period": "2021",
+      "minimum_wage_czk": 15200,
+      "change_czk": 600
+    },
+    {
+      "period": "2022",
+      "minimum_wage_czk": 16200,
+      "change_czk": 1000
+    },
+    {
+      "period": "2023",
+      "minimum_wage_czk": 17300,
+      "change_czk": 1100
+    },
+    {
+      "period": "2024",
+      "minimum_wage_czk": 18900,
+      "change_czk": 1600
+    },
+    {
+      "period": "2025",
+      "minimum_wage_czk": 20800,
+      "change_czk": 1900
+    },
+    {
+      "period": "2026",
+      "minimum_wage_czk": 22400,
+      "change_czk": 1600
+    },
+    {
+      "period": "2027",
+      "minimum_wage_czk": 24900,
+      "change_czk": 2500
+    }
+  ],
+  "meta": {
+    "title": "Minimální mzda v České republice – vývoj - Free Download",
+    "description": "Vývoj měsíční minimální mzdy v České republice od roku 1991 (v Kč) včetně meziroční změny. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Minimální mzda v České republice – vývoj | ListBase",
+    "seo_description": "Download Minimální mzda v České republice – vývoj — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Minimální_mzda_v_České_republice"
+    ]
+  }
+}
