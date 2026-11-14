@@ -1,0 +1,400 @@
+{
+  "id": "cs-husitske-bitvy",
+  "name": "Husitské bitvy",
+  "title": "Husitské bitvy",
+  "description": "Seznam bitev a střetnutí husitských válek a jejich dozvuků (1419–1437): název, datum, souřadnice a stručný popis.",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_husitských_bitev",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_husitských_bitev",
+  "updated": "2026-11",
+  "record_count": 59,
+  "columns": [
+    {
+      "key": "battle",
+      "label": "Battle",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "battle": "Bitva u Živohoště",
+      "date": "4. listopad 1419",
+      "coordinates": "49°45′20″ s. š., 14°26′27″ v. d.",
+      "note": "4100 husitů pod velením Břeňka Švihovského z Rýzmburka a Chvala a Kuneše z Machovic přinutilo ustoupit královské ozbrojence, kteří se jim pokusili zastoupit cestu na celozemský husitský sjezd v Praze."
+    },
+    {
+      "battle": "Bitva u Nekmíře Bitva u Nekměře",
+      "date": "prosinec 1419 nebo leden 1420",
+      "coordinates": "49°51′21″ s. š., 13°15′58″ v. d.",
+      "note": "Husité pod vedením Jana Žižky z Trocnova porazili oddíl plzeňského landfrýdu v čele s Bohuslavem ze Švamberka. Při střetu došlo k prvnímu známému použití vozové hradby v historii husitských válek."
+    },
+    {
+      "battle": "Bitva u Sudoměře",
+      "date": "25. březen 1420",
+      "coordinates": "49°14′35″ s. š., 14°3′59″ v. d.",
+      "note": "Husitský oddíl pod velením Břeňka Švihovského z Rýzmburka a Jana Žižky, přemisťující se z Plzně na Hradiště na hoře Tábor, porazil jednotky katolických šlechticů a strakonických johanitů."
+    },
+    {
+      "battle": "Bitva u Mladé Vožice",
+      "date": "5. duben 1420",
+      "coordinates": "49°32′ s. š., 14°40′4″ v. d.",
+      "note": "Husité pod velením Jana Žižky preventivním úderem odvrátili očekávaný útok ze strany Mikeše Divůčka z Jemniště. Většina mužů kutnohorského mincmistra byla zabita nebo padla do zajetí."
+    },
+    {
+      "battle": "Porážka Chodů",
+      "date": "květen 1420",
+      "coordinates": "",
+      "note": "Chodové, kteří se shromáždili na nejmenované hoře na Plzeňsku, byli drtivě poraženi a rozprášeni vojáky pod velením Bohuslava ze Švamberka."
+    },
+    {
+      "battle": "Bitva u Melechova",
+      "date": "květen 1420",
+      "coordinates": "49°39′47″ s. š., 15°17′0″ v. d.",
+      "note": "Husité shromáždění na vrchu Melechov byli při pokusu o přesun na Hradiště na hoře Tábor přepadeni královskými vojáky z Kutné Hory. Podařilo se jim svést úspěšný obranný boj ve vozové hradbě, při němž byl zabit jejich vůdce ledečský farář Petr. Po jeho smrti se husité vrátili zpět do svých domovů."
+    },
+    {
+      "battle": "Bitva u Poříčí nad Sázavou",
+      "date": "19.–20. květen 1420",
+      "coordinates": "49°50′47″ s. š., 14°40′4″ v. d.",
+      "note": "Táborité v čele s Mikulášem z Husi a Janem Žižkou, přijíždějící na pomoc ohrožené Praze, prorazili obklíčení, ve kterém je sevřely oddíly účastníků první křížové výpravy."
+    },
+    {
+      "battle": "Bitva o Tábor",
+      "date": "30. červen 1420",
+      "coordinates": "49°24′39″ s. š., 14°39′17″ v. d.",
+      "note": "Oldřich z Rožmberka se pokusil oblehnout a dobýt oslabený Tábor. Jeho armáda však byla rozdrcena koordinovaným útokem táborské posádky a jízdy Mikuláše z Husi, která se kvůli ohrožení husitského centra rychlým pochodem vrátila z Prahy."
+    },
+    {
+      "battle": "Bitva na Vítkově",
+      "date": "14. červenec 1420",
+      "coordinates": "50°5′21″ s. š., 14°25′29″ v. d.",
+      "note": "Husité pod vedením Jana Žižky z Trocnova odrazili útok míšeňských a rakouských jezdců na opevněný Vítkov a zabránili obklíčení Prahy vojsky první křížové výpravy."
+    },
+    {
+      "battle": "Dobytí Prachatic",
+      "date": "září a listopad 1420",
+      "coordinates": "49°0′46″ s. š., 13°59′52″ v. d.",
+      "note": "Husité dvakrát oblehli a dobyli Prachatice."
+    },
+    {
+      "battle": "Bitva u Panského Boru Bitva u Horažďovic",
+      "date": "12. říjen 1420",
+      "coordinates": "49°19′41″ s. š., 13°38′48″ v. d.",
+      "note": "Jan Žižka porazil vojsko Rožmberků a jejich spojenců."
+    },
+    {
+      "battle": "Bitva pod Vyšehradem",
+      "date": "1. listopad 1420",
+      "coordinates": "50°3′42″ s. š., 14°39′17″ v. d.",
+      "note": "Husité porazili vojsko Zikmunda Lucemburského, jenž se pokusil vyprostit Vyšehrad z obležení."
+    },
+    {
+      "battle": "Obléhání Chotěboře",
+      "date": "konec roku 1420-3. únor 1421",
+      "coordinates": "49°43′10″ s. š., 15°40′2″ v. d.",
+      "note": "Husité pod vedením Petra Hromádky obsadili Chotěboř, poté je oblehla katolická šlechta. Husité se vzdali a byli upáleni, někteří vrženi do šachet v Kutné Hoře."
+    },
+    {
+      "battle": "Dobytí Chomutova",
+      "date": "16. březen 1421",
+      "coordinates": "50°27′38″ s. š., 13°25′4″ v. d.",
+      "note": "Husitské vojsko o síle asi 6 000 mužů pod vedením Jana Žižky dorazilo 15. března k Chomutovu. Město bylo následující den dobyto a vypáleno, většina obyvatel byla zabita."
+    },
+    {
+      "battle": "Bitva u Mostu",
+      "date": "5. srpen 1421",
+      "coordinates": "50°3′42″ s. š., 14°39′17″ v. d.",
+      "note": "Pražské vojsko pod vedením Jana Želivského utrpělo porážku od míšeňského markraběte Fridricha."
+    },
+    {
+      "battle": "Obléhání Kadaně",
+      "date": "8. září 1421",
+      "coordinates": "50°22′34″ s. š., 13°16′17″ v. d.",
+      "note": "Vojsko druhé křížové výpravy pod vedením Ludvíka III. Falckého dobylo Kadaň. Při obraně města uhořel husitský velitel Ojíř z Očedělic."
+    },
+    {
+      "battle": "Obléhání Žatce",
+      "date": "okolo 10. září – 2. říjen 1421",
+      "coordinates": "50°19′43″ s. š., 13°32′25″ v. d.",
+      "note": "Husitská posádka uhájila severočeské město Žatec před vojsky druhé křížové výpravy. Těm se během měsíčního obléhání ani po šesti útocích nepodařilo dosáhnout kapitulace města, kvůli špatnému zásobování a po zprávách o příchodu husitských posil se pak vojsko začátkem října dalo na zmatený ústup, což představovalo konec západního tažení druhé křížové výpravy."
+    },
+    {
+      "battle": "Bitva u Petrovic",
+      "date": "asi 19. září 1421",
+      "coordinates": "50°31′13″ s. š., 16°12′39″ v. d.",
+      "note": "Orebité vedení Divišem Bořkem z Miletínka a Čeňkem z Vartenberka byli poraženi slezskýmí katolickým vojskem v rámci jeho výpadu k Náchodu."
+    },
+    {
+      "battle": "Bitva u Uherského Ostrohu",
+      "date": "okolo 25. října 1421",
+      "coordinates": "50°31′13″ s. š., 16°12′39″ v. d.",
+      "note": "Moravští táborité pod velením Bedřicha ze Strážnice a Tomáše z Vizovic byli poraženi Zikmundovým vojskem, tvořeným především Uhry, v rámci útoku na husitský Uherský Ostroh a opevněné ležení Nový Tábor u Nedakonic. Vyplenění Nového Tábora znamenalo zásadní likvidaci důležitého centra radikálních husitů na Moravě."
+    },
+    {
+      "battle": "Bitva u Žlutic",
+      "date": "listopad 1421",
+      "coordinates": "50°4′50″ s. š., 13°12′58″ v. d.",
+      "note": "Jan Žižka tři dny odolával útokům vojáků z Chebu a pánům plzeňského landfrýdu na vrchu Vladař nedaleko Žlutic. Čtvrtého dne se mu podařilo obklíčení prolomit a spojit se s posilou, kterou mu na pomoc vyslali Žatečtí spojenci."
+    },
+    {
+      "battle": "Bitva u Kutné Hory a Střetnutí u Nebovid",
+      "date": "21.–22. prosinec 1421 a 6. leden 1422",
+      "coordinates": "49°56′52″ s. š., 15°15′20″ v. d.",
+      "note": "Husité, zformovaní v defenzivním postavení před kouřimskou branou v Kolíně, se střetli s vojsky druhé křížové výpravy pod velením Zikmunda Lucemburského. V průběhu celodenního boje ztratili město a v noci byli nuceni prorazit si cestu skrz obklíčení. Nicméně 6. ledna 1422 provedly jejich posílené oddíly protiútok, u Nebovid rozprášily předsunutý uherský oddíl a přinutily krále Zikmunda, jehož síly byly rozptýleny v širokém okolí, vydat rozkaz k ústupu směrem na Německý Brod."
+    },
+    {
+      "battle": "Bitva u Habrů a dobytí Německého Brodu",
+      "date": "8. leden 1422",
+      "coordinates": "49°44′54″ s. š., 15°29′25″ v. d.",
+      "note": "Jan Žižka obrátil na útěk vojáky druhé křížové výpravy. Následně dobyli husité Německý Brod."
+    },
+    {
+      "battle": "Obléhání Karlštejna",
+      "date": "květen-listopad 1422",
+      "coordinates": "49°56′21″ s. š., 14°11′17″ v. d.",
+      "note": "Vojsko pražských husitů a polské oddíly Zikmunda Korybutoviče obléhali hrad Karlštejn. Na pomoc Karlštejnu byla svolaná křížová výprava, ta se rozpadla po vstupu do Čech. Obléhání bylo neúspěšné a znesvářené strany uzavřely příměří."
+    },
+    {
+      "battle": "Bitva u Hluboše",
+      "date": "8. září 1422",
+      "coordinates": "49°45′56″ s. š., 14°0′28″ v. d.",
+      "note": "Táborité z vojska Petra Zmrzlíka II. pod velením Absolona Kovaříka a husité z Příbrami byli poraženi jízdním oddílem katolického šlechtice Hanuše z Kolovrat. Nedlouho poté padla husitská Příbram."
+    },
+    {
+      "battle": "Bitva u Hořic",
+      "date": "20. duben 1423",
+      "coordinates": "50°21′53″ s. š., 15°38′40″ v. d.",
+      "note": "Orebité pod velením slepého hejtmana Jana Žižky porazili oddíly Čeňka z Vartenberka."
+    },
+    {
+      "battle": "Bitva u Kroměříže",
+      "date": "konec června 1423",
+      "coordinates": "49°17′15″ s. š., 17°22′43″ v. d.",
+      "note": "Vítězství výpravy orebitů Diviše Bořka z Miletínka a Vikrorína a Hynka Bočka z Kunštátu na Moravu nad vojskem olomouckého biskupa Jana XII. Železného a opavského knížete Přemysla I. Opavského. Den nato se pak vzdala posádka Kroměříže."
+    },
+    {
+      "battle": "Bitva u Strauchova dvora",
+      "date": "4. srpen 1423",
+      "coordinates": "50°12′10″ s. š., 15°47′15″ v. d.",
+      "note": "První husitská bitva, ve které šla archa proti arše, poprvé, kdy se utkaly dvě husitské armády. Jan Žižka porazil vojsko pražanů vedené Divišem Bořkem z Miletínka."
+    },
+    {
+      "battle": "Bitva u Týnce",
+      "date": "22. srpen 1423",
+      "coordinates": "50°2′20″ s. š., 15°21′31″ v. d.",
+      "note": "Vojáci Haška z Valdštejna rozdrtili husitský oddíl pod velením Matěje Lupáka, jenž vyrazil z Hradce Králové na pomoc Janu Žižkovi obleženému v Čáslavi."
+    },
+    {
+      "battle": "Obléhání Jihlavy",
+      "date": "polovina září 1423",
+      "coordinates": "49°24′31″ s. š., 15°35′5″ v. d.",
+      "note": "Posádka Jihlavy loajální králi Zikmundovi uhájila město před vojsky husitského svazu Jana Žižky a Jana Hvězdy z Vícemilic během jejich tažení do jihovýchodních Čech. Téměř měsíční vojenská operace zahrnovala taktéž polní střet v podobě výpadu Jihlavanů proti husitům, což tak představovalo jeden z posledních polních střetů vojsk pod velením hejtmana Žižky."
+    },
+    {
+      "battle": "Bitva u Horních Dubenek",
+      "date": "listopad 1423",
+      "coordinates": "49°15′38″ s. š., 15°18′27″ v. d.",
+      "note": "Voj sirotčího vojska Jana Hvězdy z Vícemilic byl poražen vojskem Menhartem II. z Hradce při svém výpadu k Telči po obléhání Jihlavy."
+    },
+    {
+      "battle": "Bitva u Skalice",
+      "date": "6. leden 1424",
+      "coordinates": "50°24′29″ s. š., 16°3′12″ v. d.",
+      "note": "Jan Žižka porazil vojsko východočeských pánů. Lakonické zmínky o bitvě obsahují Kronika starého pražského kolegiáta a Staré letopisy české, kde je doslova zaznamenáno: Léta páně 1424 v den Zjevení Páně porazil Žižka s Hradeckými ve Skalici u Jaroměře pány: pana Jana Červenohorského, pana Arnošta z Černic a pana Opočenského; některé z jejich lidí pobili a některé zajali. Bitvy se účastnil také katolík Půta III. z Častolovic."
+    },
+    {
+      "battle": "Bitva u Slušovic",
+      "date": "první polovina roku 1424",
+      "coordinates": "49°14′50″ s. š., 17°47′34″ v. d.",
+      "note": "Vítězství spojeného vojska biskupa Jana XII. Železného a Šternberků nad oddíly orebitů Hynka Bočka z Poděbrad, operujícího ze svého nedalekého hradu Brumov."
+    },
+    {
+      "battle": "Bitva u Malešova",
+      "date": "7. červen 1424",
+      "coordinates": "49°54′41″ s. š., 15°13′27″ v. d.",
+      "note": "Východočeští husité vedení Janem Žižkou dosáhli rozhodného vítězství nad armádou vojenské koalice složené z pražanů a českých katolických a kališnických feudálů."
+    },
+    {
+      "battle": "Bitva u Kamenice nad Lipou",
+      "date": "31. říjen 1425",
+      "coordinates": "49°17′51″ s. š., 15°3′28″ v. d.",
+      "note": "Oddíly spojeného táborsko-sirotčího svazu Bohuslava VI. ze Švamberka porazily vojsko Menharta II. z Hradce a obsadili tvrz v Kamenici nad Lipou."
+    },
+    {
+      "battle": "Bitva u Ústí nad Labem",
+      "date": "16. červen 1426",
+      "coordinates": "50°39′52″ s. š., 13°57′22″ v. d.",
+      "note": "Spojená husitská vojska odrazila vpád Saských, Durynských, Hornolužických a Míšenských žoldnéřů vedených Bosem z Fictumu."
+    },
+    {
+      "battle": "Bitva u Břeclavi",
+      "date": "19. listopad 1426",
+      "coordinates": "48°45′35″ s. š., 16°52′42″ v. d.",
+      "note": "Sirotci a táborité v čele s knězem Prokopem Holým porazili vojska Albrechta Rakouského, jenž se tři měsíce pokoušel dobýt Břeclav."
+    },
+    {
+      "battle": "Bitva u Světlé",
+      "date": "14. nebo 25. březen 1427",
+      "coordinates": "48°36′16″ s. š., 15°10′4″ v. d.",
+      "note": "Táborsko-sirotčí oddíly, při první zahraniční rejse směřující do Rakouska, byli po dvou dnech obléhání města Světlá (Zwettl) napadeni vojskem Albrechta Rakouského. Nepřítele po těžkém boji porazili a zahnali na útěk."
+    },
+    {
+      "battle": "Bitva u Tachova",
+      "date": "3. srpen 1427",
+      "coordinates": "49°47′52″ s. š., 12°36′41″ v. d.",
+      "note": "Vojska třetí křížové výpravy proti husitům uprchla před husity pod velením Prokopa Holého."
+    },
+    {
+      "battle": "Bitva u Náchoda",
+      "date": "9. nebo 13. srpen 1427",
+      "coordinates": "50°25′35″ s. š., 16°11′42″ v. d.",
+      "note": "Porážka voje sirotků Jana Čapka ze Sán slezským katolickým vojskem vedeným Půtou III. z Častolovic v rámci bojů třetí křížové výpravy. I přes bojový úspěch slezské vojsko nepostupovalo dále do českého vnitrozemí."
+    },
+    {
+      "battle": "Bitva u Nisy",
+      "date": "18. březen 1428",
+      "coordinates": "50°28′59″ s. š., 17°19′59″ v. d.",
+      "note": "Při rejse do Slezska bylo husity poraženo vojsko, které proti nim povolal vratislavský biskup Konrád."
+    },
+    {
+      "battle": "Bitva u Chrastavy Bitva u Machnína Bitva u Machendorfu",
+      "date": "11. listopad 1428",
+      "coordinates": "50°47′33″ s. š., 14°59′28″ v. d.",
+      "note": "Rejsa sirotků pod velením Jana Královce byla při návratu z Lužice napadena vojskem spojených hornolužických měst a přišla o většinu své kořisti."
+    },
+    {
+      "battle": "Bitva u Staré Jesenice Bitva u Červené hory",
+      "date": "27. prosinec 1428",
+      "coordinates": "50°24′56″ s. š., 16°33′56″ v. d.",
+      "note": "Polní vojsko sirotků porazilo slezské oddíly, kterým velel kníže Jan Minsterberský."
+    },
+    {
+      "battle": "Bitva u Zbraslavi",
+      "date": "23. duben 1429",
+      "coordinates": "49°58′41″ s. š., 14°23′32″ v. d.",
+      "note": "Vojáci z Nového Města pražského utrpěli porážku od loupeživé výpravy, kterou do okolí metropole vypravili Habart z Aldaru a na Týřově, Jan Šmikouský ze Žďáru a Fridrich z Donína. Ve chvíli, kdy se Novoměstští pokoušeli na brodu proti Zbraslavi zmocnit prámu přes řeku, byli přepadeni ze zálohy a část jejich vojáků byla pobita, část utopena nebo padla do zajetí. Od vyšších ztrát uchránil Pražany výpad staroměstského pomocného oddílu, nicméně i přes tuto skutečnost bylo Habartovi z Aldaru na výkupném vyplaceno 2600 kop grošů."
+    },
+    {
+      "battle": "Bitva u Grimmy",
+      "date": "31. prosinec 1429 nebo 1. leden 1430",
+      "coordinates": "",
+      "note": "800 jezdců pod velením dolnolužického fojta Hanuše z Polenska bylo u lesa poblíž města Grimma poraženo jízdním oddílem hejtmana Jana Zmrzlíka. Husité údajně pobili na 400 nepřátel a 150 jich vzali do zajetí."
+    },
+    {
+      "battle": "Bitva u Podivína",
+      "date": "duben 1430",
+      "coordinates": "48°16′32″ s. š., 16°50′46″ v. d.",
+      "note": "Koalice husitských svazů pod velením hejtmana Veleka z Březnice, jež vyrazila na rejsu do Horních Uher, si prorazila cestu k moravsko-uherským hranicím, které hájily jednotky moravských hejtmanů. Podle Bartoška z Drahonic husité ztratili více než 150 vojáků."
+    },
+    {
+      "battle": "Bitva u Trnavy",
+      "date": "28. duben 1430",
+      "coordinates": "48°49′51″ s. š., 17°37′8″ v. d.",
+      "note": "Koalice husitských svazů pod velením hejtmana Veleka z Březnice, jež vyrazila na rejsu do Horních Uher, byla vlákána mezi dvě vojska uherských vojevůdců. Po těžkých bojích byli husité nuceni ustoupit zpět do Čech."
+    },
+    {
+      "battle": "Bitva u Horky",
+      "date": "9. leden 1431",
+      "coordinates": "",
+      "note": "Sirotci pod velením hejtmanů Václava Libáka z Vrbčan a Aleše z Číhoště se nerozhodně střetli s oddíly zástupce hornolužického fojta Těmy z Koldic. O bitvě nejsou známy žádné podrobnosti."
+    },
+    {
+      "battle": "Bitva u Domažlic",
+      "date": "14. srpen 1431",
+      "coordinates": "49°25′21″ s. š., 12°58′44″ v. d.",
+      "note": "Husitská vojska porazila příslušníky IV. křížové výpravy vedené markrabím Fridrichem Braniborským a kardinálem Juliánem Cesarinim."
+    },
+    {
+      "battle": "Bitva u Bejdova Bitva u Waidhofenu Bitva u Kirchbergu Bitva u Hartu",
+      "date": "14. říjen 1431",
+      "coordinates": "48°49′10″ s. š., 15°17′2″ v. d.",
+      "note": "2000 táborských spojenců v čele s Mikulášem Sokolem z Lamberka bylo při rejse do Rakouska drtivě poraženo vojskem pod velením hejtmana Lipolta I. Krajíře z Krajku."
+    },
+    {
+      "battle": "Bitva u Ilavy",
+      "date": "9. listopad–19. listopad 1431",
+      "coordinates": "",
+      "note": "Sirotci pod velením Jana Čapka ze Sán se vraceli z rejsy V Uhrách, byli pronásledováni uherským vojskem. Po cestě od Hlohovce k Ilavě utrpěli velké ztráty."
+    },
+    {
+      "battle": "Bitva u Bánova",
+      "date": "26. listopad 1431",
+      "coordinates": "48°59′16″ s. š., 17°43′8″ v. d.",
+      "note": "Sirotci pod velením Jana Čapka ze Sán svedli při ústupu z neúspěšné rejsy do Uher obranný boj s uherskými pronásledovateli."
+    },
+    {
+      "battle": "Bitva u Znojma",
+      "date": "před 25. prosincem 1432",
+      "coordinates": "",
+      "note": "Přes 2000 táboritů utrpělo porážku od rakouského vévody Albrechta. Obě strany prý ztratily 400–500 bojovníků. Ačkoli husité protivníkovi ukořistili přes 200 jízdních koní a 11 houfnic, po příchodu tmy opustili bojiště."
+    },
+    {
+      "battle": "Obléhání Plzně",
+      "date": "14. červenec 1433– 9. květen 1434",
+      "coordinates": "49°44′58″ s. š., 13°22′35″ v. d.",
+      "note": "Spojená husitská vojska neuspěla při pokusu o obsazení Plzně, nejvýznamnější katolické bašty v Čechách."
+    },
+    {
+      "battle": "Bitva u Hiltersriedu",
+      "date": "21. září 1433",
+      "coordinates": "49°23′8″ s. š., 12°34′39″ v. d.",
+      "note": "Husité pod velením Jana Parduse byli při rejse do Bavorska přepadeni a na hlavu poraženi vojskem vévody Jana z Neunburgu."
+    },
+    {
+      "battle": "Bitva u Lipan",
+      "date": "30. květen 1434",
+      "coordinates": "50°1′43″ s. š., 14°56′13″ v. d.",
+      "note": "Příslušníci zemské hotovosti, kterou tvořili zejména umírnění husité, katolická šlechta a městské oddíly z Prahy a Mělníka, porazili sirotčí a táborská, čímž sesadili polní obce z postavení rozhodujícího politického činitele v zemi a umožnil opozici konečnou dohodu s císařem Zikmundem Lucemburským a legáty basilejského koncilu."
+    },
+    {
+      "battle": "Bitva u Řevničova",
+      "date": "9. červen 1434",
+      "coordinates": "50°10′51″ s. š., 13°49′5″ v. d.",
+      "note": "Oddíly plzeňského landfrýdu a karlštejnského purkrabího vracející se na domovské území po bitvě u Lipan, byly v lese poblíž Řevničova napadeny vojáky žatecko-lounského svazu pod velením Jakoubka z Vřesovic. Krátce po zahájení boje se husitské síly stáhly do vozové hradby v týlu a při ústupu prý ztratily na 150 lidí."
+    },
+    {
+      "battle": "Bitva u Křeče",
+      "date": "17.–18. srpen 1435",
+      "coordinates": "49°23′17″ s. š., 14°56′ v. d.",
+      "note": "Poslední bitva husitských válek. Síly Oldřicha z Rožmberka porazily vojsko táboritů."
+    },
+    {
+      "battle": "Střetnutí u Vysoké nad Labem",
+      "date": "noc z 6. na 7. listopadu 1436",
+      "coordinates": "50°10′51″ s. š., 13°49′5″ v. d.",
+      "note": "Úspěšný výpad vedený Zdislavem Mnichem z Roudnice z radikálně husitského Hradce Králové při pokusu o jeho obležení oddíly umírněných Diviše Bořka z Miletínka a Viléma Kostky z Postupic. Hejtman Vilém Kostka byl v bitvě zabit."
+    },
+    {
+      "battle": "Obléhání hradu Sion",
+      "date": "květen–6. září 1437",
+      "coordinates": "49°53′22″ s. š., 15°12′39″ v. d.",
+      "note": "Byl dobyt hrad jednoho z předních husitských hejtmanů Jana Roháče z Dubé, který se pokoušel pokračovat v radikální husitské tradici. Jan Roháč byl spolu s padesáti dvěma obránci zajat a posléze popraven."
+    }
+  ],
+  "meta": {
+    "title": "Husitské bitvy - Free Download",
+    "description": "Seznam bitev a střetnutí husitských válek a jejich dozvuků (1419–1437): název, datum, souřadnice a stručný popis. Contains 59 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Husitské bitvy | ListBase",
+    "seo_description": "Download Husitské bitvy — 59 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 59 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_husitských_bitev"
+    ]
+  }
+}

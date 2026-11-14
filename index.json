@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-13T02:26:29.359Z",
-  "total_datasets": 566,
-  "total_records": 422105,
+  "generated": "2026-11-14T02:21:00.742Z",
+  "total_datasets": 567,
+  "total_records": 422164,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -8238,6 +8238,31 @@
         "xlsx": {
           "name": "cs-zanikle-zdravotni-pojistovny_CS.xlsx",
           "size": 7329
+        }
+      }
+    },
+    {
+      "id": "cs-husitske-bitvy",
+      "name": "Husitské bitvy",
+      "category": "history",
+      "record_count": 59,
+      "columns": [
+        "battle",
+        "date",
+        "coordinates",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_husitských_bitev",
+      "updated": "2026-11",
+      "size": 24080,
+      "files": {
+        "csv": {
+          "name": "cs-husitske-bitvy_CS.csv",
+          "size": 17876
+        },
+        "xlsx": {
+          "name": "cs-husitske-bitvy_CS.xlsx",
+          "size": 15019
         }
       }
     },
