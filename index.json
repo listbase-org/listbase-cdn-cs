@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-15T02:24:14.034Z",
-  "total_datasets": 571,
-  "total_records": 422366,
+  "generated": "2026-11-15T02:24:23.016Z",
+  "total_datasets": 572,
+  "total_records": 422404,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "history",
@@ -8115,6 +8115,32 @@
         "xlsx": {
           "name": "geo-us-states_CS.xlsx",
           "size": 10038
+        }
+      }
+    },
+    {
+      "id": "cs-lazenska-mista-lecebne-zdroje",
+      "name": "Lázně v Česku – léčebné zdroje a indikace",
+      "category": "health",
+      "record_count": 38,
+      "columns": [
+        "spa",
+        "region",
+        "district",
+        "healing_resources",
+        "medical_use"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Lázně_v_Česku",
+      "updated": "2026-11",
+      "size": 15280,
+      "files": {
+        "csv": {
+          "name": "cs-lazenska-mista-lecebne-zdroje_CS.csv",
+          "size": 9316
+        },
+        "xlsx": {
+          "name": "cs-lazenska-mista-lecebne-zdroje_CS.xlsx",
+          "size": 9789
         }
       }
     },

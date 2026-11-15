@@ -1,0 +1,317 @@
+{
+  "id": "cs-lazenska-mista-lecebne-zdroje",
+  "name": "Lázně v Česku – léčebné zdroje a indikace",
+  "title": "Lázně v Česku – léčebné zdroje a indikace",
+  "description": "Lázeňská místa v Česku podle krajů a okresů s přírodními léčebnými zdroji (minerální vody, peloidy) a lékařským využitím.",
+  "category": "health",
+  "source": "https://cs.wikipedia.org/wiki/Lázně_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Lázně_v_Česku",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "spa",
+      "label": "Spa",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "healing_resources",
+      "label": "Healing Resources",
+      "type": "string"
+    },
+    {
+      "key": "medical_use",
+      "label": "Medical Use",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "spa": "Lázně Toušeň",
+      "region": "Středočeský kraj",
+      "district": "Praha-východ",
+      "healing_resources": "Sirno-železité peloidní prameny",
+      "medical_use": "Poruchy pohybového aparátu, onkologie"
+    },
+    {
+      "spa": "Lázně Poděbrady",
+      "region": "Středočeský kraj",
+      "district": "Nymburk",
+      "healing_resources": "Silně mineralizovaná kyselka (pH 5,83), hydrogen-uhličitanová chlorido-sodná minerální voda a obsahem vápníku, studená (14 °C), hypotonická voda se zvýšeným alkalickým obsahem a koncentrací některých prvků.",
+      "medical_use": "Poruchy krevního oběhu, poruchy metabolismu a funkce endokrinních žláz, onemocnění nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Bechyně",
+      "region": "Jihočeský kraj",
+      "district": "Tábor",
+      "healing_resources": "Peloidní prameny",
+      "medical_use": "Poruchy pohybového aparátu, léčba Bechtěrevovy nemoci, nemoci nervového systému"
+    },
+    {
+      "spa": "Vráž (okres Písek)",
+      "region": "Jihočeský kraj",
+      "district": "Písek",
+      "healing_resources": "Peloidní prameny z rašelinišť",
+      "medical_use": "Poruchy nervového systému a pohybového aparátu, onkologie"
+    },
+    {
+      "spa": "Třeboň",
+      "region": "Jihočeský kraj",
+      "district": "Jindřichův Hradec",
+      "healing_resources": "Peloidní prameny",
+      "medical_use": "Poruchy nervového systému a pohybového aparátu, onkologie"
+    },
+    {
+      "spa": "Konstantinovy Lázně",
+      "region": "Plzeňský kraj",
+      "district": "Tachov",
+      "healing_resources": "Přírodní, studená, železitá, hypotonická, hydrogen-uhličitanová-sodno-hořečnatá minerální kyselka se zvýšeným obsahem kyseliny křemičité",
+      "medical_use": "Poruchy oběhového systému, metabolické poruchy a funkce endokrinních žláz, onemocnění nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Karlovy Vary",
+      "region": "Karlovarský kraj",
+      "district": "Karlovy Vary",
+      "healing_resources": "Teplá minerální voda s teplotou od 30 do 72 °C",
+      "medical_use": "Poruchy zažívacího ústrojí, poruchy metabolismu a funkce endokrinních žláz, onemocnění nervového systému a pohybového aparátu, onkologická onemocnění"
+    },
+    {
+      "spa": "Lázně Kynžvart",
+      "region": "Karlovarský kraj",
+      "district": "Cheb",
+      "healing_resources": "Minerální vody, používané pro vnější i vnitřní vodoléčbu, specifické klimatické podmínky",
+      "medical_use": "Poruchy oběhového systému, trávicího ústrojí, poruchy metabolismu a funkce endokrinních žláz, onemocnění dýchacích cest, neurologická onemocnění, onemocnění pohybového aparátu, nemoci ledvin a močových cest, duševní poruchy, kožní onemocnění"
+    },
+    {
+      "spa": "Mariánské Lázně",
+      "region": "Karlovarský kraj",
+      "district": "Cheb",
+      "healing_resources": "Přírodní minerální voda, přirozený zdroj oxidu uhličitého, peloidní zdroj",
+      "medical_use": "Poruchy oběhových orgánů, trávicího traktu, poruchy metabolismu a funkce endokrinních žláz, onemocnění dýchacích cest, nervového systému, pohybového aparátu, ledvin a močových cest"
+    },
+    {
+      "spa": "Františkovy Lázně",
+      "region": "Karlovarský kraj",
+      "district": "Cheb",
+      "healing_resources": "Minerální uhličitá voda, přírodní zdroje oxidu uhličitého, zdroje sirno-železitých peloidů",
+      "medical_use": "Poruchy oběhových orgánů, onemocnění trávicího traktu, poruchy metabolismu a funkce endokrinních žláz, onemocnění nervového systému, pohybového aparátu, kožní onemocnění, gynekologická onemocnění"
+    },
+    {
+      "spa": "Jáchymov",
+      "region": "Karlovarský kraj",
+      "district": "Karlovy Vary",
+      "healing_resources": "termální voda s velkou koncentrací radonu",
+      "medical_use": "Poruchy oběhového systému, poruchy metabolismu a funkce endokrinních žláz, onemocnění nervového systému, pohybového aparátu, kožní onemocnění"
+    },
+    {
+      "spa": "Dubí",
+      "region": "Ústecký kraj",
+      "district": "Teplice",
+      "healing_resources": "peloidní zdroj slatinné rašeliny",
+      "medical_use": "nemoci pohybového ústrojí a centrálního nervového systému"
+    },
+    {
+      "spa": "Klášterec nad Ohří",
+      "region": "Ústecký kraj",
+      "district": "Chomutov",
+      "healing_resources": "studená slabě mineralizovaná železitá hydrouhličitan-sodná kyselka se zvýšeným obsahem fluoridů a kyseliny křemičité, volným oxidem uhličitým",
+      "medical_use": "Poruchy krevního oběhu, srdce, cév, pohybového aparátu, močových cest a metabolismu"
+    },
+    {
+      "spa": "Mšené-lázně",
+      "region": "Ústecký kraj",
+      "district": "Litoměřice",
+      "healing_resources": "Peloidní prameny",
+      "medical_use": "Poruchy nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Teplice",
+      "region": "Ústecký kraj",
+      "district": "Teplice",
+      "healing_resources": "Přírodní teplá a horká hydrouhličitan-sírano-sodná minerální voda",
+      "medical_use": "poruchy metabolismu a funkce endokrinních žláz, onemocnění nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Lázně Kundratice",
+      "region": "Liberecký kraj",
+      "district": "Liberec",
+      "healing_resources": "Peloidní prameny",
+      "medical_use": "Poruchy nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Lázně Libverda",
+      "region": "Liberecký kraj",
+      "district": "Liberec",
+      "healing_resources": "Přírodní minerální hydrogen-uhličitanová voda",
+      "medical_use": "Poruchy oběhového systému, metabolické poruchy a funkce endokrinních žláz, neurologická onemocnění, onemocnění pohybového aparátu, kožní a gynekologická onemocnění"
+    },
+    {
+      "spa": "Lázně Velichovky",
+      "region": "Královéhradecký kraj",
+      "district": "Náchod",
+      "healing_resources": "Peloidní prameny",
+      "medical_use": "Poruchy nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Lázně Bělohrad (lázně)",
+      "region": "Královéhradecký kraj",
+      "district": "Jičín",
+      "healing_resources": "Sirno-železité rašelinové peloidní prameny, železitá minerální kyselka",
+      "medical_use": "Poruchy nervového systému, pohybového aparátu, kožní a gynekologická onemocnění"
+    },
+    {
+      "spa": "Janské Lázně",
+      "region": "Královéhradecký kraj",
+      "district": "Trutnov",
+      "healing_resources": "Přírodní termální minerální voda, blahodárné klimatické podmínky",
+      "medical_use": "poruchy metabolismu a funkce endokrinních žláz, onemocnění dýchacích cest, nervového systému a pohybového aparátu, duševní poruchy, kožní onemocnění"
+    },
+    {
+      "spa": "Lázně Bohdaneč",
+      "region": "Pardubický kraj",
+      "district": "Pardubice",
+      "healing_resources": "Peloidní prameny a alkalická kyselka, užívaná pro hydroterapii",
+      "medical_use": "Poruchy nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Hodonín",
+      "region": "Jihomoravský kraj",
+      "district": "Hodonín",
+      "healing_resources": "Hypertonická studená středně mineralizovaná, jodo-bromitá, chlorido-sodná minerální voda se zvýšeným obsahem metabórové kyseliny",
+      "medical_use": "Poruchy oběhového systému, nervového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Lednice (okres Břeclav)",
+      "region": "Jihomoravský kraj",
+      "district": "Břeclav",
+      "healing_resources": "Hypertonická studená středně mineralizovaná, jodo-bromitá, chlorido-sodná minerální voda se zvýšeným obsahem metabórové kyseliny",
+      "medical_use": "Poruchy oběhového systému, poruchy metabolismu a funkce endokrinních žláz, onemocnění nervového systému, pohybového aparátu, kožní a gynekologická onemocnění, onkologie"
+    },
+    {
+      "spa": "Bludov (okres Šumperk)",
+      "region": "Olomoucký kraj",
+      "district": "Šumperk",
+      "healing_resources": "Minerální silně zásaditá hypotonická termální siro-chlorido-sodná voda se zvýšeným obsahem fluoridů",
+      "medical_use": "metabolické poruchy a funkce endokrinních žláz, onemocnění pohybového aparátu"
+    },
+    {
+      "spa": "Bochoř",
+      "region": "Olomoucký kraj",
+      "district": "Přerov",
+      "healing_resources": "sirnato-železitý minerální pramen",
+      "medical_use": "onemocnění pohybového aparátu, trávicího ústrojí a gynekologická onemocnění"
+    },
+    {
+      "spa": "Lázně Dolní Lipová",
+      "region": "Olomoucký kraj",
+      "district": "Jeseník",
+      "healing_resources": "Blahodárné klimatické podmínky",
+      "medical_use": "metabolické a kožní onemocnění, obezita, diabetes a funkce endokrinních žláz"
+    },
+    {
+      "spa": "Lázně Jeseník",
+      "region": "Olomoucký kraj",
+      "district": "Jeseník",
+      "healing_resources": "Asi 80 horských vodních pramenů, s rozlišným složením, specifické klimatické podmínky",
+      "medical_use": "poruchy metabolismu a funkce endokrinních žláz, onemocnění dýchacích cest, duševní poruchy, kožní onemocnění"
+    },
+    {
+      "spa": "Lázně Slatinice",
+      "region": "Olomoucký kraj",
+      "district": "Olomouc",
+      "healing_resources": "Sirná minerální voda s hypotonickým obsahem sulfanu a blahodárných mikročástic s teplotou vody 35-38°С",
+      "medical_use": "poruchy oběhového systému, nervového systému, pohybového aparátu, kožní onemocnění"
+    },
+    {
+      "spa": "Skalka (okres Prostějov)",
+      "region": "Olomoucký kraj",
+      "district": "Prostějov",
+      "healing_resources": "Alkalicko-sirnáté minerální vody",
+      "medical_use": "poruchy pohybového ústrojí, revmatické onemocnění"
+    },
+    {
+      "spa": "Teplice nad Bečvou",
+      "region": "Olomoucký kraj",
+      "district": "Přerov",
+      "healing_resources": "Silně mineralizovaná termální uhličitá hypotonická voda",
+      "medical_use": "Poruchy oběhového systému, nervového systému a pohybového aparátu, poruchy metabolismu a funkce endokrinních žláz"
+    },
+    {
+      "spa": "Lázně Velké Losiny",
+      "region": "Olomoucký kraj",
+      "district": "Šumperk",
+      "healing_resources": "Termální sirná minerální voda o teplotě +36,8 °C",
+      "medical_use": "Poruchy oběhového systému, nervového systému, pohybového aparátu, kožní onemocnění"
+    },
+    {
+      "spa": "Lázně Darkov",
+      "region": "Moravskoslezský kraj",
+      "district": "Karviná",
+      "healing_resources": "Terciérní reliktní vysoce mineralizovaná slaná jodo-bromová voda",
+      "medical_use": "Poruchy pohybového aparátu, gynekologických a kožních onemocnění, neurologická onemocnění, poruchy krevního oběhu, nemoci srdce a cév, obezita"
+    },
+    {
+      "spa": "Karlova Studánka",
+      "region": "Moravskoslezský kraj",
+      "district": "Bruntál",
+      "healing_resources": "Minerální uhličitá voda, blahodárné klimatické podmínky, přírodní oxid uhličitý, peloidní prameny",
+      "medical_use": "Poruchy oběhového systému, dýchacích orgánů, nervového systému, pohybového aparátu; poruchy metabolismu a funkce endokrinních žláz, duševní poruchy, kožní onemocnění"
+    },
+    {
+      "spa": "Klimkovice",
+      "region": "Moravskoslezský kraj",
+      "district": "Ostrava-město",
+      "healing_resources": "Minerální jodo-bromitá voda",
+      "medical_use": "Poruchy oběhových orgánů, nervového systému, pohybového aparátu, poruchy metabolismu a funkce endokrinních žláz, gynekologická onemocnění"
+    },
+    {
+      "spa": "Smraďavka",
+      "region": "Zlínský kraj",
+      "district": "Uherské Hradiště",
+      "healing_resources": "Minerální voda s vysokým obsahem sirovodíku",
+      "medical_use": "Poruchy nervového systému, oběhového systému a pohybového aparátu"
+    },
+    {
+      "spa": "Kostelec (Zlín)",
+      "region": "Zlínský kraj",
+      "district": "Zlín",
+      "healing_resources": "Minerální voda s vysokým obsahem sirovodíku",
+      "medical_use": "Poruchy pohybového aparátu, zad a krku, revmatismus, kožní onemocnění"
+    },
+    {
+      "spa": "Luhačovice",
+      "region": "Zlínský kraj",
+      "district": "Zlín",
+      "healing_resources": "Minerální hydrogen-uhličitanová chlorido-sodná voda s teplotou od 10 do 120°С a obsahem vápníku, hořčíku a oxidu uhličitého",
+      "medical_use": "Poruchy oběhového systému, zažívacího ústrojí, dýchacích orgánů, nervového systému, pohybového aparátu; poruchy metabolismu a funkce endokrinních žláz, duševní poruchy, kožní onemocnění"
+    },
+    {
+      "spa": "Lázně Ostrožská Nová Ves",
+      "region": "Zlínský kraj",
+      "district": "Uherské Hradiště",
+      "healing_resources": "Minerální sirná voda",
+      "medical_use": "Poruchy oběhového systému, pohybové soustavy, neurologických a kožních onemocnění"
+    }
+  ],
+  "meta": {
+    "title": "Lázně v Česku – léčebné zdroje a indikace - Free Download",
+    "description": "Lázeňská místa v Česku podle krajů a okresů s přírodními léčebnými zdroji (minerální vody, peloidy) a lékařským využitím. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lázně v Česku – léčebné zdroje a indikace | ListBase",
+    "seo_description": "Download Lázně v Česku – léčebné zdroje a indikace — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Lázně_v_Česku"
+    ]
+  }
+}
