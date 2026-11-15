@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-15T02:24:04.929Z",
-  "total_datasets": 570,
-  "total_records": 422356,
+  "generated": "2026-11-15T02:24:14.034Z",
+  "total_datasets": 571,
+  "total_records": 422366,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -8266,6 +8266,33 @@
         "xlsx": {
           "name": "cs-socialni-zarizeni_CS.xlsx",
           "size": 26353
+        }
+      }
+    },
+    {
+      "id": "cs-zakladny-letecke-zachranne-sluzby",
+      "name": "Základny letecké záchranné služby v Česku",
+      "category": "health",
+      "record_count": 10,
+      "columns": [
+        "base",
+        "call_sign",
+        "operator",
+        "night_operation",
+        "special_operations",
+        "operation_started"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Letecká_záchranná_služba_v_Česku",
+      "updated": "2026-11",
+      "size": 4109,
+      "files": {
+        "csv": {
+          "name": "cs-zakladny-letecke-zachranne-sluzby_CS.csv",
+          "size": 713
+        },
+        "xlsx": {
+          "name": "cs-zakladny-letecke-zachranne-sluzby_CS.xlsx",
+          "size": 7297
         }
       }
     },

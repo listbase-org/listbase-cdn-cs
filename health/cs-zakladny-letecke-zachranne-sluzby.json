@@ -1,0 +1,136 @@
+{
+  "id": "cs-zakladny-letecke-zachranne-sluzby",
+  "name": "Základny letecké záchranné služby v Česku",
+  "title": "Základny letecké záchranné služby v Česku",
+  "description": "Současné základny letecké záchranné služby v Česku: volací znak (Kryštof), provozovatel, noční provoz, speciální činnosti a datum zahájení provozu.",
+  "category": "health",
+  "source": "https://cs.wikipedia.org/wiki/Letecká_záchranná_služba_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Letecká_záchranná_služba_v_Česku",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "base",
+      "label": "Base",
+      "type": "string"
+    },
+    {
+      "key": "call_sign",
+      "label": "Call Sign",
+      "type": "string"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "night_operation",
+      "label": "Night Operation",
+      "type": "string"
+    },
+    {
+      "key": "special_operations",
+      "label": "Special Operations",
+      "type": "string"
+    },
+    {
+      "key": "operation_started",
+      "label": "Operation Started",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "base": "Praha",
+      "call_sign": "Kryštof 01",
+      "operator": "Policie ČR",
+      "night_operation": "ANO",
+      "special_operations": "ANO*",
+      "operation_started": "1. dubna 1987"
+    },
+    {
+      "base": "Brno",
+      "call_sign": "Kryštof 04",
+      "operator": "DSA",
+      "night_operation": "ANO",
+      "special_operations": "ANO*",
+      "operation_started": "1. července 1988"
+    },
+    {
+      "base": "Ostrava",
+      "call_sign": "Kryštof 05",
+      "operator": "ATE",
+      "night_operation": "ANO",
+      "special_operations": "ANO",
+      "operation_started": "1. srpna 1989"
+    },
+    {
+      "base": "Hradec Králové",
+      "call_sign": "Kryštof 06",
+      "operator": "DSA",
+      "night_operation": "ANO",
+      "special_operations": "ANO",
+      "operation_started": "3. července 1990"
+    },
+    {
+      "base": "Plzeň",
+      "call_sign": "Kryštof 07",
+      "operator": "Armáda",
+      "night_operation": "ANO",
+      "special_operations": "ANO",
+      "operation_started": "17. července 1990"
+    },
+    {
+      "base": "Olomouc",
+      "call_sign": "Kryštof 09",
+      "operator": "ATE",
+      "night_operation": "NE",
+      "special_operations": "NE",
+      "operation_started": "1. října 1990"
+    },
+    {
+      "base": "Jihlava",
+      "call_sign": "Kryštof 12",
+      "operator": "DSA",
+      "night_operation": "NE",
+      "special_operations": "NE",
+      "operation_started": "1. května 1991"
+    },
+    {
+      "base": "České Budějovice",
+      "call_sign": "Kryštof 13",
+      "operator": "DSA",
+      "night_operation": "ANO",
+      "special_operations": "NE",
+      "operation_started": "1. května 1991"
+    },
+    {
+      "base": "Ústí nad Labem",
+      "call_sign": "Kryštof 15",
+      "operator": "DSA",
+      "night_operation": "NE",
+      "special_operations": "ANO",
+      "operation_started": "září 1991"
+    },
+    {
+      "base": "Liberec",
+      "call_sign": "Kryštof 18",
+      "operator": "DSA",
+      "night_operation": "NE",
+      "special_operations": "ANO**",
+      "operation_started": "1992"
+    }
+  ],
+  "meta": {
+    "title": "Základny letecké záchranné služby v Česku - Free Download",
+    "description": "Současné základny letecké záchranné služby v Česku: volací znak (Kryštof), provozovatel, noční provoz, speciální činnosti a datum zahájení provozu. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Základny letecké záchranné služby v Česku | ListBase",
+    "seo_description": "Download Základny letecké záchranné služby v Česku — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Letecká_záchranná_služba_v_Česku"
+    ]
+  }
+}
