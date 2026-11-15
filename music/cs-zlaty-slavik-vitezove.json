@@ -1,0 +1,304 @@
+{
+  "id": "cs-zlaty-slavik-vitezove",
+  "name": "Vítězové ankety Zlatý slavík (1962–1991)",
+  "title": "Vítězové ankety Zlatý slavík (1962–1991)",
+  "description": "Vítězové československé ankety popularity Zlatý slavík podle let: zpěvák, zpěvačka, skupina, nejúspěšnější píseň a moderátor vyhlášení.",
+  "category": "music",
+  "source": "https://cs.wikipedia.org/wiki/Zlatý_slavík",
+  "source_url": "https://cs.wikipedia.org/wiki/Zlatý_slavík",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "male_singer",
+      "label": "Male Singer",
+      "type": "string"
+    },
+    {
+      "key": "female_singer",
+      "label": "Female Singer",
+      "type": "string"
+    },
+    {
+      "key": "band",
+      "label": "Band",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "host",
+      "label": "Host",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1962,
+      "male_singer": "Waldemar Matuška",
+      "female_singer": "",
+      "band": "",
+      "song": "Láska nebeská (Šlitr/Suchý)",
+      "host": ""
+    },
+    {
+      "year": 1963,
+      "male_singer": "Karel Gott",
+      "female_singer": "",
+      "band": "",
+      "song": "Oči sněhem zaváté (Šlitr/Suchý)",
+      "host": "Vladimír Dvořák"
+    },
+    {
+      "year": 1964,
+      "male_singer": "Karel Gott",
+      "female_singer": "Eva Pilarová",
+      "band": "",
+      "song": "Schody do nebe (Kopecký/Faktor)",
+      "host": ""
+    },
+    {
+      "year": 1965,
+      "male_singer": "Karel Gott",
+      "female_singer": "Helena Vondráčková",
+      "band": "",
+      "song": "Cesta rájem (Glen, Morris/Štaidl)",
+      "host": ""
+    },
+    {
+      "year": 1966,
+      "male_singer": "Karel Gott",
+      "female_singer": "Marta Kubišová",
+      "band": "",
+      "song": "C'est la vie (Klempíř/Štaidl)",
+      "host": "Darek Vostřel"
+    },
+    {
+      "year": 1967,
+      "male_singer": "Waldemar Matuška",
+      "female_singer": "Eva Pilarová",
+      "band": "",
+      "song": "Náhrobní kámen (Novák/Plicka)",
+      "host": ""
+    },
+    {
+      "year": 1968,
+      "male_singer": "Karel Gott",
+      "female_singer": "Marta Kubišová",
+      "band": "",
+      "song": "Lady Carneval (Svoboda/Štaidl)",
+      "host": "Vladimír Dvořák"
+    },
+    {
+      "year": 1969,
+      "male_singer": "Karel Gott",
+      "female_singer": "Marta Kubišová",
+      "band": "",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1970,
+      "male_singer": "Karel Gott",
+      "female_singer": "Karel Gott",
+      "band": "",
+      "song": "",
+      "host": "Eduard Hrubeš"
+    },
+    {
+      "year": 1970,
+      "male_singer": "Karel Gott",
+      "female_singer": "Marta Kubišová (dodatečně)",
+      "band": "",
+      "song": "",
+      "host": "Eduard Hrubeš"
+    },
+    {
+      "year": 1971,
+      "male_singer": "Karel Gott",
+      "female_singer": "Eva Pilarová",
+      "band": "",
+      "song": "",
+      "host": "Eduard Hrubeš"
+    },
+    {
+      "year": 1972,
+      "male_singer": "Karel Gott",
+      "female_singer": "Naďa Urbánková",
+      "band": "",
+      "song": "",
+      "host": "Miloslav Šimek"
+    },
+    {
+      "year": 1973,
+      "male_singer": "Karel Gott",
+      "female_singer": "Naďa Urbánková",
+      "band": "",
+      "song": "",
+      "host": "Miloslav Šimek"
+    },
+    {
+      "year": 1974,
+      "male_singer": "Karel Gott",
+      "female_singer": "Naďa Urbánková",
+      "band": "",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1975,
+      "male_singer": "Karel Gott",
+      "female_singer": "Naďa Urbánková",
+      "band": "",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1976,
+      "male_singer": "Karel Gott",
+      "female_singer": "Naďa Urbánková",
+      "band": "",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1977,
+      "male_singer": "Karel Gott",
+      "female_singer": "Hana Zagorová",
+      "band": "Skupina Ladislava Štaidla",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1978,
+      "male_singer": "Karel Gott",
+      "female_singer": "Hana Zagorová",
+      "band": "Skupina Ladislava Štaidla",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1979,
+      "male_singer": "Karel Gott",
+      "female_singer": "Hana Zagorová",
+      "band": "Katapult",
+      "song": "",
+      "host": "Jan Vala"
+    },
+    {
+      "year": 1980,
+      "male_singer": "Karel Gott",
+      "female_singer": "Hana Zagorová",
+      "band": "Katapult",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1981,
+      "male_singer": "Karel Gott",
+      "female_singer": "Hana Zagorová",
+      "band": "Olympic",
+      "song": "",
+      "host": "Tomáš Sláma"
+    },
+    {
+      "year": 1982,
+      "male_singer": "Miroslav Žbirka",
+      "female_singer": "Hana Zagorová",
+      "band": "Olympic",
+      "song": "",
+      "host": "Tomáš Sláma"
+    },
+    {
+      "year": 1983,
+      "male_singer": "Karel Gott",
+      "female_singer": "Hana Zagorová",
+      "band": "Olympic",
+      "song": "",
+      "host": "Jan Vala"
+    },
+    {
+      "year": 1984,
+      "male_singer": "Karel Gott",
+      "female_singer": "Hana Zagorová",
+      "band": "Elán",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1985,
+      "male_singer": "Peter Nagy",
+      "female_singer": "Hana Zagorová",
+      "band": "Elán",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1986,
+      "male_singer": "Dalibor Janda",
+      "female_singer": "Iveta Bartošová",
+      "band": "Elán",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1987,
+      "male_singer": "Dalibor Janda",
+      "female_singer": "Petra Janů",
+      "band": "Elán",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1988,
+      "male_singer": "Dalibor Janda",
+      "female_singer": "Petra Janů",
+      "band": "Citron",
+      "song": "",
+      "host": ""
+    },
+    {
+      "year": 1989,
+      "male_singer": "Karel Gott",
+      "female_singer": "Petra Janů",
+      "band": "Team",
+      "song": "",
+      "host": "Jan Vala, Roman Lipčík"
+    },
+    {
+      "year": 1990,
+      "male_singer": "Karel Gott",
+      "female_singer": "Iveta Bartošová",
+      "band": "Team",
+      "song": "",
+      "host": "Jan Vala"
+    },
+    {
+      "year": 1991,
+      "male_singer": "Pavol Habera",
+      "female_singer": "Iveta Bartošová",
+      "band": "Team",
+      "song": "",
+      "host": ""
+    }
+  ],
+  "meta": {
+    "title": "Vítězové ankety Zlatý slavík (1962–1991) - Free Download",
+    "description": "Vítězové československé ankety popularity Zlatý slavík podle let: zpěvák, zpěvačka, skupina, nejúspěšnější píseň a moderátor vyhlášení. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vítězové ankety Zlatý slavík (1962–1991) | ListBase",
+    "seo_description": "Download Vítězové ankety Zlatý slavík (1962–1991) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Zlatý_slavík"
+    ]
+  }
+}

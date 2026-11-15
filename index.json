@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-14T02:21:19.633Z",
-  "total_datasets": 569,
-  "total_records": 422325,
+  "generated": "2026-11-15T02:24:04.929Z",
+  "total_datasets": 570,
+  "total_records": 422356,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -9159,6 +9159,33 @@
         "xlsx": {
           "name": "cs-skaly_CS.xlsx",
           "size": 25744
+        }
+      }
+    },
+    {
+      "id": "cs-zlaty-slavik-vitezove",
+      "name": "Vítězové ankety Zlatý slavík (1962–1991)",
+      "category": "music",
+      "record_count": 31,
+      "columns": [
+        "year",
+        "male_singer",
+        "female_singer",
+        "band",
+        "song",
+        "host"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Zlatý_slavík",
+      "updated": "2026-11",
+      "size": 7459,
+      "files": {
+        "csv": {
+          "name": "cs-zlaty-slavik-vitezove_CS.csv",
+          "size": 2082
+        },
+        "xlsx": {
+          "name": "cs-zlaty-slavik-vitezove_CS.xlsx",
+          "size": 8005
         }
       }
     },
