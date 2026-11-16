@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-15T02:24:23.016Z",
-  "total_datasets": 572,
-  "total_records": 422404,
+  "generated": "2026-11-16T02:30:07.534Z",
+  "total_datasets": 573,
+  "total_records": 423420,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "politics",
@@ -9136,6 +9136,30 @@
         "xlsx": {
           "name": "cs-cesky-slavik-vitezove_CS.xlsx",
           "size": 8384
+        }
+      }
+    },
+    {
+      "id": "cs-cesti-hudebni-skladatele",
+      "name": "Čeští hudební skladatelé",
+      "category": "music",
+      "record_count": 1016,
+      "columns": [
+        "name",
+        "birth_year",
+        "death_year"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_českých_skladatelů",
+      "updated": "2026-11",
+      "size": 100982,
+      "files": {
+        "csv": {
+          "name": "cs-cesti-hudebni-skladatele_CS.csv",
+          "size": 33275
+        },
+        "xlsx": {
+          "name": "cs-cesti-hudebni-skladatele_CS.xlsx",
+          "size": 33444
         }
       }
     },
