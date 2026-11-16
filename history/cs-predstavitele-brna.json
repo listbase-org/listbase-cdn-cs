@@ -1,0 +1,496 @@
+{
+  "id": "cs-predstavitele-brna",
+  "name": "Představitelé Brna (starostové a primátoři)",
+  "title": "Představitelé Brna (starostové a primátoři)",
+  "description": "Seznam starostů, předsedů národních výborů a primátorů města Brna od roku 1784 s funkčním obdobím, funkcí a stranou.",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_představitelů_Brna",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_představitelů_Brna",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lifespan",
+      "label": "Lifespan",
+      "type": "string"
+    },
+    {
+      "key": "term_from",
+      "label": "Term From",
+      "type": "string"
+    },
+    {
+      "key": "term_to",
+      "label": "Term To",
+      "type": "number"
+    },
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "name": "Franz Rauscher",
+      "lifespan": "?–1804",
+      "term_from": "1. července 1784",
+      "term_to": "1804",
+      "office": "starosta",
+      "party": "",
+      "note": "první zvolený brněnský starosta; v roce 1802 zvolen doživotně"
+    },
+    {
+      "no": 2,
+      "name": "Johann Czikann",
+      "lifespan": "1749–1821",
+      "term_from": "1804",
+      "term_to": "1821",
+      "office": "starosta",
+      "party": "",
+      "note": "již v roce 1804 zvolen doživotně"
+    },
+    {
+      "no": 3,
+      "name": "Johann Ritschel",
+      "lifespan": "1782–1854",
+      "term_from": "1828 (doloženo)",
+      "term_to": "1847 (doloženo)",
+      "office": "starosta",
+      "party": "",
+      "note": "jmenován přímo císařem, aniž by proběhla volba"
+    },
+    {
+      "no": 4,
+      "name": "Anton Haberler",
+      "lifespan": "1796–1873",
+      "term_from": "11. května 1851",
+      "term_to": "30. června 1855",
+      "office": "starosta",
+      "party": "",
+      "note": "první svobodně zvolený starosta nově vzniklé brněnské obce po vyhlášení obecního zřízení"
+    },
+    {
+      "no": 5,
+      "name": "Rudolf Ott",
+      "lifespan": "1806–1880",
+      "term_from": "4. června 1855",
+      "term_to": "23. dubna 1861",
+      "office": "starosta",
+      "party": "",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "name": "Christian d’Elvert",
+      "lifespan": "1803–1896",
+      "term_from": "květen 1861",
+      "term_to": "1864",
+      "office": "starosta",
+      "party": "DVP",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "name": "Alfred Skene",
+      "lifespan": "1815–1887",
+      "term_from": "červen 1864",
+      "term_to": "květen 1866",
+      "office": "starosta",
+      "party": "",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "name": "Karl Giskra",
+      "lifespan": "1820–1879",
+      "term_from": "červenec 1866",
+      "term_to": "prosinec 1867",
+      "office": "starosta",
+      "party": "",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "name": "Rudolf Ott",
+      "lifespan": "1806–1880",
+      "term_from": "12. ledna 1868",
+      "term_to": "23. ledna 1870",
+      "office": "starosta",
+      "party": "",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "name": "Christian d’Elvert",
+      "lifespan": "1803–1896",
+      "term_from": "1870",
+      "term_to": "1876",
+      "office": "starosta",
+      "party": "DVP",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "name": "Karl van der Strass",
+      "lifespan": "1817–1880",
+      "term_from": "12. března 1876",
+      "term_to": "1880",
+      "office": "starosta",
+      "party": "DVP",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "name": "Gustav Winterholler",
+      "lifespan": "1833–1894",
+      "term_from": "8. července 1880",
+      "term_to": "28. července 1894",
+      "office": "starosta",
+      "party": "DVP",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "name": "August Wieser",
+      "lifespan": "1847–1916",
+      "term_from": "5. srpna 1894",
+      "term_to": "27. března 1916",
+      "office": "starosta",
+      "party": "",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "name": "Ferdinand Schnitzler",
+      "lifespan": "1857–1933",
+      "term_from": "10. dubna 1916",
+      "term_to": "5. listopadu 1918",
+      "office": "starosta",
+      "party": "",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "name": "Petr Kerndlmayer",
+      "lifespan": "1866–1944",
+      "term_from": "6. listopadu 1918",
+      "term_to": "10. května 1920",
+      "office": "vládní komisař",
+      "party": "",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "name": "Karel Vaněk",
+      "lifespan": "1866–1924",
+      "term_from": "28. dubna 1920",
+      "term_to": "10. prosince 1920",
+      "office": "starosta",
+      "party": "ČSSD",
+      "note": "starostou se stal již po volbách v roce 1919, jejich výsledky však byly zrušeny; rezignoval"
+    },
+    {
+      "no": 17,
+      "name": "Bedřich Macků",
+      "lifespan": "1879–1929",
+      "term_from": "31. prosince 1920",
+      "term_to": "31. prosince 1925",
+      "office": "starosta",
+      "party": "ČSS",
+      "note": "rezignoval"
+    },
+    {
+      "no": 18,
+      "name": "Karel Tomeš",
+      "lifespan": "1877–1945",
+      "term_from": "31. prosince 1925",
+      "term_to": "2. prosince 1935",
+      "office": "starosta",
+      "party": "ČSNS",
+      "note": ""
+    },
+    {
+      "no": 19,
+      "name": "Rudolf Spazier",
+      "lifespan": "1887–1963",
+      "term_from": "2. prosince 1935",
+      "term_to": "23. března 1939",
+      "office": "starosta",
+      "party": "ČSNS",
+      "note": "po zahájení okupace úřadoval, dokud mu gestapo nepřikázalo nezasahovat do správy města"
+    },
+    {
+      "no": 20,
+      "name": "Oskar Judex",
+      "lifespan": "1894–1953",
+      "term_from": "16. března 1939",
+      "term_to": "21. dubna 1945",
+      "office": "starosta poté vládní komisař poté vrchní starosta",
+      "party": "NSDAP",
+      "note": "od června 1939 vládní komisař; od 13. července 1942 vrchní starosta uprchl"
+    },
+    {
+      "no": 21,
+      "name": "Vladimír Matula",
+      "lifespan": "1894–1975",
+      "term_from": "26. dubna 1945",
+      "term_to": "25. července 1946",
+      "office": "předseda národního výboru",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "name": "Josef Podsedník",
+      "lifespan": "1903–1990",
+      "term_from": "26. července 1946",
+      "term_to": "22. února 1948",
+      "office": "předseda národního výboru",
+      "party": "ČSNS",
+      "note": ""
+    },
+    {
+      "no": 23,
+      "name": "Vladimír Matula",
+      "lifespan": "1894–1975",
+      "term_from": "6. dubna 1948",
+      "term_to": "10. ledna 1949",
+      "office": "předseda národního výboru",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 24,
+      "name": "Bohumil Ubr",
+      "lifespan": "1919–1985",
+      "term_from": "11. ledna 1949",
+      "term_to": "31. července 1952",
+      "office": "předseda národního výboru",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 25,
+      "name": "Vladimír Matula",
+      "lifespan": "1894–1975",
+      "term_from": "1. srpna 1952",
+      "term_to": "31. května 1954",
+      "office": "předseda národního výboru",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 26,
+      "name": "Josef Kalášek",
+      "lifespan": "1904–1987",
+      "term_from": "1954",
+      "term_to": "1963",
+      "office": "předseda národního výboru",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 27,
+      "name": "Oldřich Vaverka",
+      "lifespan": "* 1921",
+      "term_from": "3. září 1963",
+      "term_to": "9. února 1971",
+      "office": "předseda národního výboru poté primátor",
+      "party": "KSČ",
+      "note": "od února 1969 primátor"
+    },
+    {
+      "no": 28,
+      "name": "Vladimír Štroner",
+      "lifespan": "1925–2016",
+      "term_from": "9. února 1971",
+      "term_to": "20. dubna 1976",
+      "office": "primátor",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 29,
+      "name": "František Chabičovský",
+      "lifespan": "1928–2021",
+      "term_from": "8. listopadu 1976",
+      "term_to": "19. prosince 1980",
+      "office": "primátor",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 30,
+      "name": "Rudolf Suchánek",
+      "lifespan": "1920–1996",
+      "term_from": "22. prosince 1980",
+      "term_to": "19. prosince 1983",
+      "office": "primátor",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 31,
+      "name": "Alois Skoupý",
+      "lifespan": "1931–2012",
+      "term_from": "19. prosince 1983",
+      "term_to": "28. února 1989",
+      "office": "primátor",
+      "party": "KSČ",
+      "note": ""
+    },
+    {
+      "no": 32,
+      "name": "Josef Pernica",
+      "lifespan": "* 1941",
+      "term_from": "28. února 1989",
+      "term_to": "19. března 1990",
+      "office": "primátor",
+      "party": "KSČ",
+      "note": "rezignoval"
+    },
+    {
+      "no": 33,
+      "name": "Jiří Trmač",
+      "lifespan": "* 1949",
+      "term_from": "19. dubna 1990",
+      "term_to": "19. dubna 1990",
+      "office": "primátor",
+      "party": "nestraník za ČSL",
+      "note": "po 4 hodinách od svého zvolení rezignoval"
+    },
+    {
+      "no": 34,
+      "name": "Pavel Podsedník",
+      "lifespan": "1932–2018",
+      "term_from": "28. dubna 1990",
+      "term_to": "7. prosince 1990",
+      "office": "primátor",
+      "party": "ČSS",
+      "note": ""
+    },
+    {
+      "no": 35,
+      "name": "Václav Mencl",
+      "lifespan": "* 1943",
+      "term_from": "7. prosince 1990",
+      "term_to": "30. září 1992",
+      "office": "primátor",
+      "party": "Sdružení pro Brno poté ODS",
+      "note": "odvolán"
+    },
+    {
+      "no": 36,
+      "name": "Jiří Horák",
+      "lifespan": "* 1950",
+      "term_from": "19. října 1992",
+      "term_to": "6. prosince 1994",
+      "office": "primátor",
+      "party": "ODS",
+      "note": ""
+    },
+    {
+      "no": 37,
+      "name": "Dagmar Lastovecká",
+      "lifespan": "* 1951",
+      "term_from": "6. prosince 1994",
+      "term_to": "30. listopadu 1998",
+      "office": "primátorka",
+      "party": "ODS",
+      "note": ""
+    },
+    {
+      "no": 38,
+      "name": "Petr Duchoň",
+      "lifespan": "* 1956",
+      "term_from": "30. listopadu 1998",
+      "term_to": "12. října 2004",
+      "office": "primátor",
+      "party": "ODS",
+      "note": "rezignoval"
+    },
+    {
+      "no": 39,
+      "name": "Richard Svoboda",
+      "lifespan": "* 1964",
+      "term_from": "12. října 2004",
+      "term_to": "7. listopadu 2006",
+      "office": "primátor",
+      "party": "ODS",
+      "note": ""
+    },
+    {
+      "no": 40,
+      "name": "Roman Onderka",
+      "lifespan": "* 1965",
+      "term_from": "7. listopadu 2006",
+      "term_to": "25. listopadu 2014",
+      "office": "primátor",
+      "party": "ČSSD",
+      "note": ""
+    },
+    {
+      "no": 41,
+      "name": "Petr Vokřál",
+      "lifespan": "* 1964",
+      "term_from": "25. listopadu 2014",
+      "term_to": "20. listopadu 2018",
+      "office": "primátor",
+      "party": "ANO",
+      "note": ""
+    },
+    {
+      "no": 42,
+      "name": "Markéta Vaňková",
+      "lifespan": "* 1977",
+      "term_from": "20. listopadu 2018",
+      "term_to": "3. listopadu 2026",
+      "office": "primátorka",
+      "party": "ODS",
+      "note": ""
+    },
+    {
+      "no": 43,
+      "name": "Jakub Hruška",
+      "lifespan": "* 1986",
+      "term_from": "3. listopadu 2026",
+      "term_to": "úřadující",
+      "office": "primátor",
+      "party": "KDU-ČSL",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Představitelé Brna (starostové a primátoři) - Free Download",
+    "description": "Seznam starostů, předsedů národních výborů a primátorů města Brna od roku 1784 s funkčním obdobím, funkcí a stranou. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Představitelé Brna (starostové a primátoři) | ListBase",
+    "seo_description": "Download Představitelé Brna (starostové a primátoři) — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_představitelů_Brna"
+    ]
+  }
+}

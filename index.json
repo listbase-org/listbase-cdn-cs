@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-16T02:30:15.851Z",
-  "total_datasets": 574,
-  "total_records": 423449,
+  "generated": "2026-11-16T02:30:23.780Z",
+  "total_datasets": 575,
+  "total_records": 423492,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -8497,6 +8497,35 @@
         "xlsx": {
           "name": "cs-prazsti-biskupove-arcibiskupove_CS.xlsx",
           "size": 10207
+        }
+      }
+    },
+    {
+      "id": "cs-predstavitele-brna",
+      "name": "Představitelé Brna (starostové a primátoři)",
+      "category": "history",
+      "record_count": 43,
+      "columns": [
+        "no",
+        "name",
+        "lifespan",
+        "term_from",
+        "term_to",
+        "office",
+        "party",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_představitelů_Brna",
+      "updated": "2026-11",
+      "size": 12912,
+      "files": {
+        "csv": {
+          "name": "cs-predstavitele-brna_CS.csv",
+          "size": 4852
+        },
+        "xlsx": {
+          "name": "cs-predstavitele-brna_CS.xlsx",
+          "size": 9933
         }
       }
     },
