@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-16T02:30:07.534Z",
-  "total_datasets": 573,
-  "total_records": 423420,
+  "generated": "2026-11-16T02:30:15.851Z",
+  "total_datasets": 574,
+  "total_records": 423449,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -1584,6 +1584,35 @@
         "xlsx": {
           "name": "cs-ministri-financi_CS.xlsx",
           "size": 8600
+        }
+      }
+    },
+    {
+      "id": "cs-ministri-pro-mistni-rozvoj",
+      "name": "Ministři pro místní rozvoj České republiky",
+      "category": "economy",
+      "record_count": 29,
+      "columns": [
+        "order",
+        "minister",
+        "term_start",
+        "term_end",
+        "days_in_office",
+        "party",
+        "government",
+        "ministry"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_ministrů_pro_místní_rozvoj_České_republiky",
+      "updated": "2026-11",
+      "size": 11003,
+      "files": {
+        "csv": {
+          "name": "cs-ministri-pro-mistni-rozvoj_CS.csv",
+          "size": 4157
+        },
+        "xlsx": {
+          "name": "cs-ministri-pro-mistni-rozvoj_CS.xlsx",
+          "size": 8688
         }
       }
     },
