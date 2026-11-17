@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-17T02:22:53.697Z",
-  "total_datasets": 577,
-  "total_records": 423568,
+  "generated": "2026-11-17T02:23:23.611Z",
+  "total_datasets": 578,
+  "total_records": 423632,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -15714,6 +15714,30 @@
         "xlsx": {
           "name": "cs-statni-svatky-multijazycne_CS.xlsx",
           "size": 20165
+        }
+      }
+    },
+    {
+      "id": "cs-vyznamne-dny-ceskoslovenska-1948-1989",
+      "name": "Významné dny Československa v letech 1948–1989",
+      "category": "time",
+      "record_count": 64,
+      "columns": [
+        "month",
+        "date",
+        "observance"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_významných_dnů_Československa_v_letech_1948–1989",
+      "updated": "2026-11",
+      "size": 11991,
+      "files": {
+        "csv": {
+          "name": "cs-vyznamne-dny-ceskoslovenska-1948-1989_CS.csv",
+          "size": 6232
+        },
+        "xlsx": {
+          "name": "cs-vyznamne-dny-ceskoslovenska-1948-1989_CS.xlsx",
+          "size": 9980
         }
       }
     },
