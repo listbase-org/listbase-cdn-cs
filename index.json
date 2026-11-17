@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-16T02:30:23.780Z",
-  "total_datasets": 575,
-  "total_records": 423492,
+  "generated": "2026-11-17T02:22:44.835Z",
+  "total_datasets": 576,
+  "total_records": 423533,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -1800,6 +1800,34 @@
         "xlsx": {
           "name": "cs-rektori-cvut_CS.xlsx",
           "size": 11973
+        }
+      }
+    },
+    {
+      "id": "cs-rektori-masarykovy-univerzity",
+      "name": "Rektoři Masarykovy univerzity",
+      "category": "education",
+      "record_count": 41,
+      "columns": [
+        "order",
+        "rector",
+        "life",
+        "term_start",
+        "term_end",
+        "details",
+        "bursar"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_rektorů_Masarykovy_univerzity",
+      "updated": "2026-11",
+      "size": 13331,
+      "files": {
+        "csv": {
+          "name": "cs-rektori-masarykovy-univerzity_CS.csv",
+          "size": 6050
+        },
+        "xlsx": {
+          "name": "cs-rektori-masarykovy-univerzity_CS.xlsx",
+          "size": 9600
         }
       }
     },

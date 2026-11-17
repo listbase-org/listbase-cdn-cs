@@ -1,0 +1,430 @@
+{
+  "id": "cs-rektori-masarykovy-univerzity",
+  "name": "Rektoři Masarykovy univerzity",
+  "title": "Rektoři Masarykovy univerzity",
+  "description": "Seznam rektorů Masarykovy univerzity v Brně od roku 1919 s obdobím v úřadu, poznámkami a kvestorem.",
+  "category": "education",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_rektorů_Masarykovy_univerzity",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_rektorů_Masarykovy_univerzity",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "number"
+    },
+    {
+      "key": "rector",
+      "label": "Rector",
+      "type": "string"
+    },
+    {
+      "key": "life",
+      "label": "Life",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "number"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "number"
+    },
+    {
+      "key": "details",
+      "label": "Details",
+      "type": "string"
+    },
+    {
+      "key": "bursar",
+      "label": "Bursar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "order": "1",
+      "rector": "Karel Engliš",
+      "life": "1880–1961",
+      "term_start": "1919",
+      "term_end": "1920",
+      "details": "zasadil se o zřízení univerzity, první rektor",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "2",
+      "rector": "Pavel Ludvík Kučera",
+      "life": "1872–1928",
+      "term_start": "1920",
+      "term_end": "1921",
+      "details": "první děkan lékařské fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "3",
+      "rector": "Bohumil Kužma",
+      "life": "1873–1943",
+      "term_start": "1921",
+      "term_end": "1922",
+      "details": "děkan přírodovědecké fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "4",
+      "rector": "Václav Vondrák",
+      "life": "1859–1925",
+      "term_start": "1922",
+      "term_end": "1923",
+      "details": "děkan filozofické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "5",
+      "rector": "František Weyr",
+      "life": "1879–1951",
+      "term_start": "1923",
+      "term_end": "1924",
+      "details": "první děkan právnické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "6",
+      "rector": "Edward Babák",
+      "life": "1873–1926",
+      "term_start": "1924",
+      "term_end": "1925",
+      "details": "děkan lékařské fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "7",
+      "rector": "Vojtěch Rosický",
+      "life": "1880–1942",
+      "term_start": "1925",
+      "term_end": "1926",
+      "details": "děkan přírodovědecké fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "8",
+      "rector": "Bohumil Navrátil",
+      "life": "1870–1936",
+      "term_start": "1926",
+      "term_end": "1927",
+      "details": "děkan filozofické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "9",
+      "rector": "Jaroslav Kallab",
+      "life": "1879–1942",
+      "term_start": "1927",
+      "term_end": "1928",
+      "details": "děkan právnické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "10",
+      "rector": "Otomar Völker",
+      "life": "1871–1955",
+      "term_start": "1928",
+      "term_end": "1929",
+      "details": "děkan lékařské fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "11",
+      "rector": "Bohuslav Hostinský",
+      "life": "1884–1951",
+      "term_start": "1929",
+      "term_end": "1930",
+      "details": "děkan přírodovědecké fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "12",
+      "rector": "Stanislav Souček",
+      "life": "1870–1935",
+      "term_start": "1930",
+      "term_end": "1931",
+      "details": "děkan filozofické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "13",
+      "rector": "Bohumil Baxa",
+      "life": "1874–1942",
+      "term_start": "1931",
+      "term_end": "1932",
+      "details": "děkan právnické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "14",
+      "rector": "Rudolf Vanýsek",
+      "life": "1876–1957",
+      "term_start": "1932",
+      "term_end": "1933",
+      "details": "děkan lékařské fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "15",
+      "rector": "Jan Zavřel",
+      "life": "1879–1946",
+      "term_start": "1933",
+      "term_end": "1934",
+      "details": "děkan přírodovědecké fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "16",
+      "rector": "Jan Krejčí",
+      "life": "1868–1942",
+      "term_start": "1934",
+      "term_end": "1935",
+      "details": "děkan filozofické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "17",
+      "rector": "Dobroslav Krejčí",
+      "life": "1869–1936",
+      "term_start": "1935",
+      "term_end": "1936",
+      "details": "děkan právnické fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "18",
+      "rector": "František Berka",
+      "life": "1876–1962",
+      "term_start": "1936",
+      "term_end": "1937",
+      "details": "děkan lékařské fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "19",
+      "rector": "Josef Podpěra",
+      "life": "1878–1954",
+      "term_start": "1937",
+      "term_end": "1938",
+      "details": "děkan přírodovědecké fakulty",
+      "bursar": "Antonín Janeček (1919–1938)"
+    },
+    {
+      "order": "20",
+      "rector": "Arne Novák",
+      "life": "1880–1939",
+      "term_start": "1938",
+      "term_end": "26. listopadu 1939",
+      "details": "děkan filozofické fakulty",
+      "bursar": "Stanislav Zháněl (1938–1955)"
+    },
+    {
+      "order": "20",
+      "rector": "Arne Novák",
+      "life": "1880–1939",
+      "term_start": "1938",
+      "term_end": "26. listopadu 1939",
+      "details": "během druhého funkčního období zemřel",
+      "bursar": "Stanislav Zháněl (1938–1955)"
+    },
+    {
+      "order": "21",
+      "rector": "Josef Podpěra",
+      "life": "1878–1954",
+      "term_start": "1939",
+      "term_end": "1942",
+      "details": "úřadující prorektor uzavřené univerzity",
+      "bursar": "Stanislav Zháněl (1938–1955)"
+    },
+    {
+      "order": "22",
+      "rector": "Václav Neumann",
+      "life": "1884–1956",
+      "term_start": "18. května 1945",
+      "term_end": "1947",
+      "details": "instalován do funkce po osvobození, děkan lékařské fakulty",
+      "bursar": "Stanislav Zháněl (1938–1955)"
+    },
+    {
+      "order": "22",
+      "rector": "Václav Neumann",
+      "life": "1884–1956",
+      "term_start": "18. května 1945",
+      "term_end": "1947",
+      "details": "zvolen pro akademický rok 1945/1946",
+      "bursar": "Stanislav Zháněl (1938–1955)"
+    },
+    {
+      "order": "22",
+      "rector": "Václav Neumann",
+      "life": "1884–1956",
+      "term_start": "18. května 1945",
+      "term_end": "1947",
+      "details": "zvolen pro akademický rok 1946/1947",
+      "bursar": "Stanislav Zháněl (1938–1955)"
+    },
+    {
+      "order": "23",
+      "rector": "Ladislav Seifert",
+      "life": "1883–1956",
+      "term_start": "1947",
+      "term_end": "1948",
+      "details": "děkan přírodovědecké fakulty",
+      "bursar": "Stanislav Zháněl (1938–1955)"
+    },
+    {
+      "order": "24",
+      "rector": "František Trávníček",
+      "life": "1888–1961",
+      "term_start": "1948",
+      "term_end": "1959",
+      "details": "děkan filozofické fakulty děkan pedagogické fakulty",
+      "bursar": "Stanislav Zháněl (1938–1955), František Kučera (1956–1960)"
+    },
+    {
+      "order": "25",
+      "rector": "Theodor Martinec",
+      "life": "1909–1989",
+      "term_start": "1959",
+      "term_end": "1970",
+      "details": "děkan přírodovědecké fakulty, na počátku normalizace zbaven funkce",
+      "bursar": "František Kučera (1956–1960), Miroslav Vahala (1960–1975)"
+    },
+    {
+      "order": "26",
+      "rector": "Jaromír Vašků",
+      "life": "1924–2017",
+      "term_start": "1970",
+      "term_end": "1973",
+      "details": "",
+      "bursar": "Miroslav Vahala (1960–1975)"
+    },
+    {
+      "order": "27",
+      "rector": "Vojtěch Kubáček",
+      "life": "1917–2010",
+      "term_start": "1973",
+      "term_end": "1983",
+      "details": "",
+      "bursar": "Miroslav Vahala (1960–1975), Antonín Brzobohatý (1976–1987)"
+    },
+    {
+      "order": "28",
+      "rector": "Bedřich Čerešňák",
+      "life": "1931–2018",
+      "term_start": "1983",
+      "term_end": "31. ledna 1990",
+      "details": "prorektor",
+      "bursar": "Antonín Brzobohatý (1976–1987), Josef Burda [ nepřesný odkaz ] (1987–1991)"
+    },
+    {
+      "order": "29",
+      "rector": "Milan Jelínek",
+      "life": "1923–2014",
+      "term_start": "1. února 1990",
+      "term_end": "31. srpna 1992",
+      "details": "děkan filozofické fakulty",
+      "bursar": "Josef Burda [ nepřesný odkaz ] (1987–1991), František Gale (1991–2003)"
+    },
+    {
+      "order": "30",
+      "rector": "Eduard Schmidt",
+      "life": "1935–2021",
+      "term_start": "1. září 1992",
+      "term_end": "31. srpna 1998",
+      "details": "děkan přírodovědecké fakulty",
+      "bursar": "František Gale (1991–2003)"
+    },
+    {
+      "order": "31",
+      "rector": "Jiří Zlatuška",
+      "life": "* 1957",
+      "term_start": "1. září 1998",
+      "term_end": "31. srpna 2004",
+      "details": "děkan fakulty informatiky, zvolen 20. dubna 1998 akademickým senátem, mandát vypršel 31. srpna 2001",
+      "bursar": "František Gale (1991–2003)"
+    },
+    {
+      "order": "31",
+      "rector": "Jiří Zlatuška",
+      "life": "* 1957",
+      "term_start": "1. září 1998",
+      "term_end": "31. srpna 2004",
+      "details": "zvolen 4. května 2001 akademickým senátem",
+      "bursar": "František Gale (1991–2003), Ladislav Janíček (2003–2011)"
+    },
+    {
+      "order": "32",
+      "rector": "Petr Fiala",
+      "life": "* 1964",
+      "term_start": "1. září 2004",
+      "term_end": "31. srpna 2011",
+      "details": "děkan fakulty sociálních studií, zvolen 26. dubna 2004 akademickým senátem, mandát vypršel 31. srpna 2007",
+      "bursar": "Ladislav Janíček (2003–2011)"
+    },
+    {
+      "order": "32",
+      "rector": "Petr Fiala",
+      "life": "* 1964",
+      "term_start": "1. září 2004",
+      "term_end": "31. srpna 2011",
+      "details": "zvolen 2. dubna 2007 akademickým senátem",
+      "bursar": "Ladislav Janíček (2003–2011)"
+    },
+    {
+      "order": "33",
+      "rector": "Mikuláš Bek",
+      "life": "* 1964",
+      "term_start": "1. září 2011",
+      "term_end": "31. srpna 2019",
+      "details": "prorektor pro strategii a vnější vztahy, zvolen 26. dubna 2011 akademickým senátem, mandát vypršel 31. srpna 2015",
+      "bursar": "Jan Vitula (2011–2012), Ladislav Janíček (2012–2014), Michal Sellner (2014, pověřený), Martin Veselý (2014–2016)"
+    },
+    {
+      "order": "33",
+      "rector": "Mikuláš Bek",
+      "life": "* 1964",
+      "term_start": "1. září 2011",
+      "term_end": "31. srpna 2019",
+      "details": "zvolen 20. dubna 2015 akademickým senátem",
+      "bursar": "Martin Veselý (2014–2016), Emilie Zichová (2016, pověřená), Marta Valešová (2016–2024)"
+    },
+    {
+      "order": "34",
+      "rector": "Martin Bareš",
+      "life": "* 1968",
+      "term_start": "1. září 2019",
+      "term_end": "mandát vyprší 31. srpna 2027",
+      "details": "děkan lékařské fakulty, zvolen 1. dubna 2019 akademickým senátem, mandát vypršel 31. srpna 2023",
+      "bursar": "Marta Valešová (2016–2024)"
+    },
+    {
+      "order": "34",
+      "rector": "Martin Bareš",
+      "life": "* 1968",
+      "term_start": "1. září 2019",
+      "term_end": "mandát vyprší 31. srpna 2027",
+      "details": "zvolen 3. dubna 2023 akademickým senátem, mandát vyprší 31. srpna 2027",
+      "bursar": "Marta Valešová (2016–2024), David Póč (2024–)"
+    }
+  ],
+  "meta": {
+    "title": "Rektoři Masarykovy univerzity - Free Download",
+    "description": "Seznam rektorů Masarykovy univerzity v Brně od roku 1919 s obdobím v úřadu, poznámkami a kvestorem. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Rektoři Masarykovy univerzity | ListBase",
+    "seo_description": "Download Rektoři Masarykovy univerzity — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_rektorů_Masarykovy_univerzity"
+    ]
+  }
+}
