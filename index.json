@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-17T02:22:44.835Z",
-  "total_datasets": 576,
-  "total_records": 423533,
+  "generated": "2026-11-17T02:22:53.697Z",
+  "total_datasets": 577,
+  "total_records": 423568,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "math",
@@ -9089,6 +9089,31 @@
         "xlsx": {
           "name": "cs-verejni-ochranci-prav_CS.xlsx",
           "size": 7138
+        }
+      }
+    },
+    {
+      "id": "cs-veznice",
+      "name": "Věznice a vazební věznice v Česku",
+      "category": "law",
+      "record_count": 35,
+      "columns": [
+        "name",
+        "type",
+        "location",
+        "description"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_věznic_v_Česku",
+      "updated": "2026-11",
+      "size": 13195,
+      "files": {
+        "csv": {
+          "name": "cs-veznice_CS.csv",
+          "size": 8745
+        },
+        "xlsx": {
+          "name": "cs-veznice_CS.xlsx",
+          "size": 9640
         }
       }
     },
