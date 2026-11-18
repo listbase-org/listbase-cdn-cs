@@ -1,0 +1,2809 @@
+{
+  "id": "cs-vinarske-obce-a-vinicni-trate",
+  "name": "Vinařské obce a viniční tratě v Česku",
+  "title": "Vinařské obce a viniční tratě v Česku",
+  "description": "Seznam vinařských obcí v Česku podle vinařských podoblastí (Mikulovská, Znojemská, Velkopavlovická, Slovácká, Mělnická, Litoměřická) s okresem a názvy registrovaných viničních tratí.",
+  "category": "agriculture",
+  "source": "https://cs.wikipedia.org/wiki/Mikulovská_vinařská_podoblast",
+  "source_url": "https://cs.wikipedia.org/wiki/Mikulovská_vinařská_podoblast",
+  "updated": "2026-11",
+  "record_count": 394,
+  "columns": [
+    {
+      "key": "village",
+      "label": "Village",
+      "type": "string"
+    },
+    {
+      "key": "district",
+      "label": "District",
+      "type": "string"
+    },
+    {
+      "key": "wine_subregion",
+      "label": "Wine Subregion",
+      "type": "string"
+    },
+    {
+      "key": "wine_region",
+      "label": "Wine Region",
+      "type": "string"
+    },
+    {
+      "key": "vineyard_tracts",
+      "label": "Vineyard Tracts",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "village": "Bavory",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod Pálavou, Slunečná, Růžová, Maliny, Anenský vrch, U rybníčka, Pod státní"
+    },
+    {
+      "village": "Brod nad Dyjí",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Lusy, Dunajovický kopec, Brodské stráně"
+    },
+    {
+      "village": "Březí",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Ořechová hora, Liščí vrch"
+    },
+    {
+      "village": "Bulhary",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad sklepy, Doubrava, Na pískách, Panské, Podlesí, Zahrady"
+    },
+    {
+      "village": "Dobré Pole",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Brodsko, Rosentické, Staré, Daniel"
+    },
+    {
+      "village": "Dolní Dunajovice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Ořechová hora, Pod Slunným vrchem, Dunajovský kopec, Kraví hora, Mlýnská, Zimní vrch, Plotny"
+    },
+    {
+      "village": "Dolní Věstonice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Za humny, U kapličky, Pod Pálavou, U třech panen"
+    },
+    {
+      "village": "Drnholec",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U křížku, Výsluní, Šibeniční vrch, Sluneční vrch, Hajdy na jamách, Šternberg"
+    },
+    {
+      "village": "Hlohovec",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Deliče, Šulaperk"
+    },
+    {
+      "village": "Horní Věstonice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod Martinkou, Pod Děvínem, U Venuše"
+    },
+    {
+      "village": "Ivaň",
+      "district": "Brno-venkov",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Aeibis"
+    },
+    {
+      "village": "Jevišovka",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Dražice, Rebry"
+    },
+    {
+      "village": "Klentnice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Bavorsko, Stará hora, Pod Klentnicí, Pod lomem, Nad sv. Leonardem"
+    },
+    {
+      "village": "Lednice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Končiny, Terasy, U Červené studánky, Hlohovsko, Ve starých, Na Valtické, Farské"
+    },
+    {
+      "village": "Mikulov",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod Svatým kopečkem I, Pod Svatým kopečkem II, Valtická, Pod valtickou, Milovická, Za cihelnou, Mariánský kopec, Šibeniční vrch, Pod Mušlovem, Turold, Brněnská, Za Turoldem, Svatá, Kienberg"
+    },
+    {
+      "village": "Milovice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad rybníkem, Špičák, U cihelny, Pod strážným vrchem, Strážný vrch, Milovické terasy, Nad sklepy"
+    },
+    {
+      "village": "Novosedly",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U božích muk, Stará hora, Růžová hora, Nad Sklepy, Slunečná, Janův vrch, Kamenný vrch"
+    },
+    {
+      "village": "Nový Přerov",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na štrekách, Langewarte"
+    },
+    {
+      "village": "Pasohlávky",
+      "district": "Brno-venkov",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Římský vrch, Ovčárna, U akátového lesa"
+    },
+    {
+      "village": "Pavlov",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod Pannama, Nad jezerem, Pod Pálavou, Slunný vrch, U Božích muk, Nová hora, Stará hora, Na výsluní, Sahara"
+    },
+    {
+      "village": "Perná",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Věstonsko, U Spálené hospody, Purmice, Goldhamer, Železná, Kotelná, Levá klentnická, Pravá klentnická, Nad sokolovnou, U Mikuláška, Bergrus, U Boží muky, Na statkách, Levá Bavorská, Pravá Bavorská, U kapličky, Zahrady"
+    },
+    {
+      "village": "Pohořelice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Karlovy kopce, Staré vinohrady, Vlasaticko, Drnholecko, Vinohrádky, Kamínka"
+    },
+    {
+      "village": "Popice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Ráfle, Mitrberk, Stará hora, Svidrunk, Panenský kopec, Unédy, Sonberk, Písky"
+    },
+    {
+      "village": "Pouzdřany",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kolby, Stará hora, Grunty"
+    },
+    {
+      "village": "Přibice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Přední, Podsedky, Čtvrtky"
+    },
+    {
+      "village": "Sedlec",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U třešňové aleje, Stolová hora, Zátiší-Hliník, Kotel, Nad Nesytem, Štabery, Sedlecko, U Ovčárny"
+    },
+    {
+      "village": "Strachotín",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad sklepy, Šusfeldy, U hřiště, Kolimberk, Kraví hora"
+    },
+    {
+      "village": "Valtice",
+      "district": "Břeclav",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kamenné hory, Hůrka, Pod Sluneční horou, Sonnenberg, Nad mlýnem, Pánský kopec, Za humny, Staré hory, U cihelny, Jižní svahy, Nad peklem, Terasy u Křížového sklepu, Pod Reistnou, Knížecí vyhlídka, Hintertály, Jižní svahy, Terasy u hranic, Sacny, Kačisdorfské pole, Horní čtvrtě, Culisty-Dlúhé, Hájky, U sv. Anny, Fojtova studna"
+    },
+    {
+      "village": "Vlasatice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Novoveské vinohrady, Branišovské vinohrady, Pohořelické vinohrady"
+    },
+    {
+      "village": "Vranovice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Mikulovská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky, Podsedky, Žlebské, Kopečky"
+    },
+    {
+      "village": "Bantice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U Hlásky"
+    },
+    {
+      "village": "Bohutice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U sv. Michala, Jelendy, Olbramovická hora"
+    },
+    {
+      "village": "Borotice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad Kolářovým sklepem, U Auerového kříže"
+    },
+    {
+      "village": "Božice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová hora, Stará hora, U sv. Donáta, Pustina"
+    },
+    {
+      "village": "Branišovice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Bratčice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Široké-Klinky, Staré hory"
+    },
+    {
+      "village": "Břežany",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Křížový vrch"
+    },
+    {
+      "village": "Citonice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Zadní Španěly, Přední Španěly"
+    },
+    {
+      "village": "Damnice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Za vinohrady"
+    },
+    {
+      "village": "Dobelice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kokusové hory, Skalka"
+    },
+    {
+      "village": "Dobřínsko",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad mlýnem, Na kopcích"
+    },
+    {
+      "village": "Dobšice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U Hájku, Pod tratí"
+    },
+    {
+      "village": "Dolenice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Za vinohrady"
+    },
+    {
+      "village": "Dolní Kounice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Karlov, Kapoun, Kozí hora, Kamenný vrch, Řepná hora, Šibeniční hora, Na nivách, Nová města"
+    },
+    {
+      "village": "Dyjákovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Sadová"
+    },
+    {
+      "village": "Dyjákovičky",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Šác, U sklepů, Ořechový vrch"
+    },
+    {
+      "village": "Dyje",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Babičák, Kamenný vrch"
+    },
+    {
+      "village": "Džbánice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Přední vinohrady"
+    },
+    {
+      "village": "Havraníky",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré vinice, Skalky, Dlouhé díly"
+    },
+    {
+      "village": "Hevlín",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Hnanice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Knížecí vrch, Fládnická, U kapličky, U Chlupa"
+    },
+    {
+      "village": "Hodonice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Horní Dunajovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Frédy, Stará hora, Kravky"
+    },
+    {
+      "village": "Hostěradice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Volné pole, Pod vyhlídkou, U vinohrádku, Weinperky, Pustiny, Volné pole, Kokusové hory"
+    },
+    {
+      "village": "Hrabětice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad vesnicí"
+    },
+    {
+      "village": "Hrádek",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady ke Křídlůvkám, Pustina"
+    },
+    {
+      "village": "Hrušovany nad Jevišovkou",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Jižní svah, Zámecký kopec"
+    },
+    {
+      "village": "Chvalovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dívčí hora, Nad sklepy"
+    },
+    {
+      "village": "Ivančice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Špýry, Syslice, Marše, Pod Jakubem"
+    },
+    {
+      "village": "Jaroslavice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na zámku, Na vinicích"
+    },
+    {
+      "village": "Jezeřany-Maršovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Dílec, Nad dědinou, Nová hora, Píska"
+    },
+    {
+      "village": "Jiřice u Miroslavi",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na pískách"
+    },
+    {
+      "village": "Kojetice",
+      "district": "Třebíč",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod Sádkem, Pod lípou"
+    },
+    {
+      "village": "Krhovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Skalka"
+    },
+    {
+      "village": "Křídlůvky",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Formoza"
+    },
+    {
+      "village": "Kubšice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kubšické vinohrady"
+    },
+    {
+      "village": "Kuchařovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kasperek, Pod křížem, U Božích muk"
+    },
+    {
+      "village": "Kyjovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Špičák, Pod Štajnberkem"
+    },
+    {
+      "village": "Lechovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U zámku"
+    },
+    {
+      "village": "Litobratřice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová viniční trať"
+    },
+    {
+      "village": "Mackovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Břežansko"
+    },
+    {
+      "village": "Medlov",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U Fiantova sadu"
+    },
+    {
+      "village": "Mělčany",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Veselá hora, Seslice, Nad humny, Jezuity"
+    },
+    {
+      "village": "Miroslav",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Weinperky, U vinohradu, Vinohrádky"
+    },
+    {
+      "village": "Miroslavské Knínice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Čtvrtky, Zolos"
+    },
+    {
+      "village": "Moravské Bránice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Karlov, Ve starých, Nová hora, V Písařových"
+    },
+    {
+      "village": "Moravský Krumlov",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Jalovcová hora"
+    },
+    {
+      "village": "Němčičky (okr. Brno-venkov)",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Štamberky, Hüble"
+    },
+    {
+      "village": "Nové Bránice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Novosady, Staré hory"
+    },
+    {
+      "village": "Nový Šaldorf-Sedlešovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad sklepy, Kraví hora, Kraví hora-Zahrádky"
+    },
+    {
+      "village": "Olbramovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Olbramovická hora, Leskoun, Na vyhlídce"
+    },
+    {
+      "village": "Oleksovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Rusteny, Rajny, U lipky, U zámku"
+    },
+    {
+      "village": "Ořechov (okr. Brno-venkov)",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Za žlebama, Na skalkách, Křiby, Záhumenice"
+    },
+    {
+      "village": "Petrovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kokusové hory"
+    },
+    {
+      "village": "Podmolí",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Šobes"
+    },
+    {
+      "village": "Práče",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Amerika"
+    },
+    {
+      "village": "Pravice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U kapličky"
+    },
+    {
+      "village": "Pravlov",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová města, V dlouhých, Stráně"
+    },
+    {
+      "village": "Prosiměřice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Rajhrad",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hájiska"
+    },
+    {
+      "village": "Rybníky",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Perk, Vinohrady"
+    },
+    {
+      "village": "Silůvky",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nebosády"
+    },
+    {
+      "village": "Skalice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod kopcem, U sýpky, Hájek"
+    },
+    {
+      "village": "Slup",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kacperky, Dolní vinohrady, Lampelberg, Dívčí vrch"
+    },
+    {
+      "village": "Stošíkovice na Louce",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U tří dubů"
+    },
+    {
+      "village": "Strachotice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Lampelberg, Dívčí vrch, Strachotický vrch"
+    },
+    {
+      "village": "Suchohrdly",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dlouhé čtvrtě, Tři díly, U Hájku, Kasperek"
+    },
+    {
+      "village": "Suchohrdly u Miroslavi",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady u sv. Markéty, Zahrady"
+    },
+    {
+      "village": "Syrovice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Nad mlýnem"
+    },
+    {
+      "village": "Šanov",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U vinohradu, U dráhy, V sadech"
+    },
+    {
+      "village": "Šatov",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na vinici, Peklo, U bunkru, Skalky"
+    },
+    {
+      "village": "Šumice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Tasovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kamenný vrch, Stará hora, Staré vinohrady"
+    },
+    {
+      "village": "Těšetice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Tři díly, Stará vinice, Nad královskou"
+    },
+    {
+      "village": "Trboušany",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hájky, Nová hora, Křečkovská hora"
+    },
+    {
+      "village": "Troskotovice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U kapličky, Nad kostelem, Nad kolibů, Nad třešňovkou"
+    },
+    {
+      "village": "Trstěnice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod vysokou"
+    },
+    {
+      "village": "Tvořihráz",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na vinici, Špičák"
+    },
+    {
+      "village": "Únanov",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pobudily, Staré sady"
+    },
+    {
+      "village": "Valtrovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Formoza, U sklepů"
+    },
+    {
+      "village": "Vedrovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Štívna"
+    },
+    {
+      "village": "Velký Karlov",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad vinohrady"
+    },
+    {
+      "village": "Vémyslice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kokusové hory, Na kopci"
+    },
+    {
+      "village": "Višňové",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová hora, Pod starou cihelnou"
+    },
+    {
+      "village": "Vítonice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad sklepy"
+    },
+    {
+      "village": "Vrbovec",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dolina, Lampelberg, U sv. Urbana, Slunný vrch, Waldberg, Nad sklepy, Vinná hora, Šác"
+    },
+    {
+      "village": "Výrovice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na vinici"
+    },
+    {
+      "village": "Znojmo",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kraví hora, Načeratický kopec, Pod lesem, Třešňovka, Hajden, U sv. Urbana, Horní Leska, Křivánky, Za křížem, Gránice, Rajská vinice"
+    },
+    {
+      "village": "Želetice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Frédy"
+    },
+    {
+      "village": "Žerotice",
+      "district": "Znojmo",
+      "wine_subregion": "Znojemská vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Rabštýn"
+    },
+    {
+      "village": "Blučina",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vyšavy, Staré hory, Štumberk, Kyperky, Cézavy"
+    },
+    {
+      "village": "Boleradice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dukejský, Nové hory, Psinky, Hora Šejby, Víckov, Hrady"
+    },
+    {
+      "village": "Borkovany",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Otnické žleby, Čertovy žleby, Hora Veselá, Hora Friedberg, Obecňáčky, Ztracená pole, Pole od Šitbořic, Rozehnálky"
+    },
+    {
+      "village": "Bořetice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Terasy, Kraví hora, Tálky za kostelem, Čtvrtě, Trkmanska"
+    },
+    {
+      "village": "Bošovice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Žleby, Stará hora, Rozehnálky"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Díly, Kamenice, Pod Mniší horou"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Krajina, Kopec, Kociánky, Vinohrady"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na dlouhých"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "V pustých"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Špilberk"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad loučí, U doubku"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U Fuksové boudy"
+    },
+    {
+      "village": "Brno",
+      "district": "Brno-město",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "V hlavách"
+    },
+    {
+      "village": "Brumovice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Světlý, Barany, Podílky, Novosády, Harnůty, Klínky"
+    },
+    {
+      "village": "Bučovice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Přední vinohrady, Stará hora"
+    },
+    {
+      "village": "Bučovice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Baračka, Hakrle"
+    },
+    {
+      "village": "Bučovice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Široké vinohrady"
+    },
+    {
+      "village": "Čejkovice",
+      "district": "Hodonín",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Šatrapky, Odměry, Novosády, Díl u včelína, Niva hrbatá, Helezný díl, Noviny, Kontrbovce, Kostelnické"
+    },
+    {
+      "village": "Diváky",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Novosady, Borovinky, Padělky"
+    },
+    {
+      "village": "Heršpice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dvorce-Dolní stávání, Rozgrunt, Rošty, Nad zahrady"
+    },
+    {
+      "village": "Hodějice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Zadní vrchy"
+    },
+    {
+      "village": "Horní Bojanovice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré hory, Novosády, Pod novosády, Ceisle, Závist, Puclejty-Kopec, Framperky, Čaušperky, Za dvorem, Nové hory"
+    },
+    {
+      "village": "Hostěrádky-Rešov",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Netroufalky, Klínky"
+    },
+    {
+      "village": "Hrušovany u Brna",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Červené vrchy, Terasy, Podsedky"
+    },
+    {
+      "village": "Hustopeče",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Na výsluní, Čtvrtě, Růženy, U mlýnku, Stará hora, Starý vrch, Stráně, Lísky"
+    },
+    {
+      "village": "Kašnice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Újezd-Pod dědinou, Čertovec"
+    },
+    {
+      "village": "Klobouky u Brna",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Díly, U větřáku, Zumperky, Fugle, Pod plunary, Stará hora, Pod šibenicí, Ostrá, Kamence, Pod humny, Kozí hora, Doubka"
+    },
+    {
+      "village": "Klobouky u Brna",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Padělky nad mlýnem"
+    },
+    {
+      "village": "Kobeřice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad vinohrady, Němčany"
+    },
+    {
+      "village": "Kobylí",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Lumperky, Zámlynský, Lácary, Sovinky, Dvořanky, Holý kopec, U skalky, Nivky, Padělky, Rokytí, K lůkám, Žleby, Zahrady"
+    },
+    {
+      "village": "Krumvíř",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Noviny, Sklenářova hora, Díly, Nivy, Barany"
+    },
+    {
+      "village": "Křepice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Rozdíly, Staré hory, Achtele, Novosady, Palegrosy, Kopce, Pod školou"
+    },
+    {
+      "village": "Kurdějov",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Lipiny, Stará hora, Díly, Široké, Černá hora, Zrcátka, Sumperky"
+    },
+    {
+      "village": "Ledce",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Za školou-Humna, Šimlochy"
+    },
+    {
+      "village": "Lovčičky",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky, Baba-Vinohrady"
+    },
+    {
+      "village": "Měnín",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky, Kouty"
+    },
+    {
+      "village": "Milešovice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Netroufalky, Dolní úlehly, Homola-Čulava"
+    },
+    {
+      "village": "Modřice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hájek, Mučednická, Sady"
+    },
+    {
+      "village": "Moravany",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Novosady"
+    },
+    {
+      "village": "Moravský Žižkov",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Sahary, Slovenské, Stará hora"
+    },
+    {
+      "village": "Morkůvky",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Harasky"
+    },
+    {
+      "village": "Moutnice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Skalky, Buchtova skala, Nad rybníkem, Prašnice, Vinohrádky"
+    },
+    {
+      "village": "Němčičky (okr. Břeclav)",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dlouhé kněžské, Hrušový, Kolberk, Zbavce, Růžený, Odměry, Staré hory, Novosády, Filiberky, Bočky, Soudná, Veselý"
+    },
+    {
+      "village": "Nikolčice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Půtně, Podlétně, Neuperk, Zece"
+    },
+    {
+      "village": "Nížkovice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, U větrníku, Zelnice"
+    },
+    {
+      "village": "Nosislav",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Šimberky, Přední hory, Kacířky, Kozí hory, Kyndlířky, Staré hory, Flaneky, Randla"
+    },
+    {
+      "village": "Otnice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Odměrky, Stará hora"
+    },
+    {
+      "village": "Podivín",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kopce, Široké"
+    },
+    {
+      "village": "Přísnotice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Za mostem"
+    },
+    {
+      "village": "Přítluky",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky"
+    },
+    {
+      "village": "Přítluky",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U majáku, Přítlucká hora, U studánky, U křížku"
+    },
+    {
+      "village": "Rakvice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kozí horky, Krefty, Trkmansko"
+    },
+    {
+      "village": "Rašovice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Sivice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Štarcary, Staré hory"
+    },
+    {
+      "village": "Slavkov u Brna",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Písky"
+    },
+    {
+      "village": "Sobotovice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Na hřebíku, Zahrádka u Bratčic, Za humny, Za vinohrady"
+    },
+    {
+      "village": "Sokolnice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohradská trať, Padělky, Pranty"
+    },
+    {
+      "village": "Starovice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Středohoří, Podhoří, Výsluní, Myšky, U sv. Gottharda, Zádvorník"
+    },
+    {
+      "village": "Starovičky",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Štarvicary, Okolesy, Nové hory, Zace, Nivy"
+    },
+    {
+      "village": "Šakvice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Rozlinky, Písečný"
+    },
+    {
+      "village": "Šaratice",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nálohy, Vinohrady"
+    },
+    {
+      "village": "Šitbořice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Mladý, Stará hora, Torhety, Svatojánek"
+    },
+    {
+      "village": "Telnice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Šternovsko"
+    },
+    {
+      "village": "Těšany",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky-Terasy, Vinohrádky-Famílie, Vinohrádky-Kaple"
+    },
+    {
+      "village": "Tvarožná",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Uherčice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Bílá hora, Kolby"
+    },
+    {
+      "village": "Újezd u Brna",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Malá trať, Kříbky, Stará hora"
+    },
+    {
+      "village": "Unkovice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Přední trať Unkovská, Díly"
+    },
+    {
+      "village": "Vážany nad Litavou",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Velké Bílovice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová hora, Zadní hora, Přední hora, Dlouhá hora, Široká hora, Pod Belegrady, Vinohrádky, Obory, Obecní"
+    },
+    {
+      "village": "Velké Hostěrádky",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Nad Žabinkami, Na Dlouhých, Rozehnálky"
+    },
+    {
+      "village": "Velké Němčice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Punty, Židy, Růžová hora, Pod vinohrady, Kraví hora, Nedámy, Příděly, Hony pod Punty"
+    },
+    {
+      "village": "Velké Pavlovice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nadzahrady, Lizniperky, Išperky, Bojanovska, Staré hory, Nové hory, Trkmanska, Humna"
+    },
+    {
+      "village": "Viničné Šumice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vrchní hora, Dolní hora, Žleby"
+    },
+    {
+      "village": "Vrbice",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Záhumenice, Krátký, Skale, Ochoze, Stráně, Úlehle, Nová hora, Zadní hora"
+    },
+    {
+      "village": "Zaječí",
+      "district": "Břeclav",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U kapličky, Růžový vrch, Nová hora, Pod Novou horou, Zelnice, Stará hora, Plochovy, Kalvárie, Vinice Skadar, Novomlýnský svah"
+    },
+    {
+      "village": "Zbýšov",
+      "district": "Vyškov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dlouhé vinohrady, Krátké vinohrady"
+    },
+    {
+      "village": "Žabčice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré vinohrady, Horní díly, Koválov, Čtvrtky, Zahrádky"
+    },
+    {
+      "village": "Žatčany",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Velká niva, Vinohrádky"
+    },
+    {
+      "village": "Želešice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hojnary, Kopečky, Myšák"
+    },
+    {
+      "village": "Židlochovice",
+      "district": "Brno-venkov",
+      "wine_subregion": "Velkopavlovická vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Prostřední sady, Hačky, Výhon, Vinohrádky, Výšavy, Pastviska"
+    },
+    {
+      "village": "Archlebov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Maliny, Dubová, Panský, Padělky"
+    },
+    {
+      "village": "Babice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Palatky"
+    },
+    {
+      "village": "Blatnice pod Svatým Antonínkem",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kamenice, Antonínek, Stará hora, Floriánky, Rybníčky, Nadhájčí, Dílce, Roháče, Humna"
+    },
+    {
+      "village": "Blatnička",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky, Novosady, Závaliska"
+    },
+    {
+      "village": "Boršice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Radovany, Staré hory, Vinašovi, Horky"
+    },
+    {
+      "village": "Boršice u Blatnice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Cerekve, Jasenová, Molvy, Rovně, Zábřeží, Za hájem"
+    },
+    {
+      "village": "Břeclav",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Padělky, Prostřední čtvrtky, Na Širokých, U Letiště, Ritopeky, Dlouhé vrchy, Kolonie"
+    },
+    {
+      "village": "Břestek",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stráně, Soudné, Frejunky"
+    },
+    {
+      "village": "Buchlovice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nové hory, Staré hory, Váhový, Čertoryje, Nové sady, Honěcko"
+    },
+    {
+      "village": "Bukovany",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Bukovanská hora, Díly"
+    },
+    {
+      "village": "Bzenec",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Novosady, Starý hrad, Prostřední hory, Kněží hora, Horní hory, Hašneky, Zadní hora"
+    },
+    {
+      "village": "Čejč",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Brněnka, V Malých, Hrubé, Kopce"
+    },
+    {
+      "village": "Čeložnice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Čeložnický, Horky"
+    },
+    {
+      "village": "Dambořice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dlouhé hony, Břístí, Líchy, Lepiny, Oulehle, Sádek, Maškovec"
+    },
+    {
+      "village": "Dolní Bojanovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré hory, Přední hora, Zadní hora, Zvolence"
+    },
+    {
+      "village": "Domanín",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Slíny, Krefty, Vinohrádka, Pusté, Stará hora, Humna"
+    },
+    {
+      "village": "Dražůvky",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Havránky"
+    },
+    {
+      "village": "Dubňany",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Díly u Barnavé kůlny"
+    },
+    {
+      "village": "Hluk",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Husí Hora, Staré Hory-Štěpnice, Babí Hora, Vinné Hůry"
+    },
+    {
+      "village": "Horní Lapač",
+      "district": "Kroměříž",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Meziříčko, Hájek, Boří"
+    },
+    {
+      "village": "Hostějov",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Zbytky"
+    },
+    {
+      "village": "Hovorany",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Díly za vinohrady, Staré hory, Podvinohradí, Dolní padělky, Zadní díly, Hovoransko"
+    },
+    {
+      "village": "Hradčovice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Klusince, Tobolky"
+    },
+    {
+      "village": "Hroznová Lhota",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Radošov, Kopce"
+    },
+    {
+      "village": "Hrubá Vrbka",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Záblatí"
+    },
+    {
+      "village": "Hrušky",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hastrmany, Újezd, Písky, Podsedky"
+    },
+    {
+      "village": "Hýsly",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Moštěnsko, Hýselská hora"
+    },
+    {
+      "village": "Jalubí",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Čtvrtě za kostelem, Podhoří, Vinohrádky"
+    },
+    {
+      "village": "Ježov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kuče, Vrchní hora, Horky"
+    },
+    {
+      "village": "Josefov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Roztrhanské, Kukvička, Homole, Žídliky u Nechor"
+    },
+    {
+      "village": "Karlín",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Díly"
+    },
+    {
+      "village": "Kelčany",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hory nad Újezdem, Hory nad pastviskem, Krátké"
+    },
+    {
+      "village": "Kněždub",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Paúčené"
+    },
+    {
+      "village": "Kněžpole",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Úzké"
+    },
+    {
+      "village": "Koryčany",
+      "district": "Kroměříž",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Přední vinohrady, Kopanice, Šibenice, Kuče"
+    },
+    {
+      "village": "Kostelec",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová hora, Vinohrádky, Stará hora, Pod kostelem, Křakov, Klíny"
+    },
+    {
+      "village": "Kostice",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Díly, Vinohrady"
+    },
+    {
+      "village": "Kozojídky",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky"
+    },
+    {
+      "village": "Kudlovice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Podhradčí-Bředské, Ohrazené, Paňháje"
+    },
+    {
+      "village": "Kunovice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Nová hora"
+    },
+    {
+      "village": "Kyjov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kameníky, Lysá hora, Stará hora, Domácí, Polámaný, Choboty"
+    },
+    {
+      "village": "Labuty",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Čtvrtky, Labutská hora"
+    },
+    {
+      "village": "Ladná",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Lanžhot",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Strážové hony"
+    },
+    {
+      "village": "Lipov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová hora, Radostná, Kvítkovec, Horní Padělky, Hájové, Slakovská, Nivky, Trstěné, Dlouhé pole, Stará hora, Záhumenice"
+    },
+    {
+      "village": "Louka",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dolní hora, Stará hora, Nadkútí"
+    },
+    {
+      "village": "Lovčice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Lovecký, Zahrádky"
+    },
+    {
+      "village": "Lužice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Záhumenice, Kratiny, Na strání"
+    },
+    {
+      "village": "Mikulčice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kněžské"
+    },
+    {
+      "village": "Milotice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Šidleny, Kopce, Nad pijánkem, Jiříkovsko, Slatiny"
+    },
+    {
+      "village": "Mistřice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Javorovský Padělek, Kopce, Mistřický Padělek"
+    },
+    {
+      "village": "Modrá",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Na Díle"
+    },
+    {
+      "village": "Moravany",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Paniháje, Vinohrady"
+    },
+    {
+      "village": "Moravská Nová Ves",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Vinohrady, Kněžské"
+    },
+    {
+      "village": "Moravský Písek",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hučnice, Novosady"
+    },
+    {
+      "village": "Mutěnice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Mutěnská hora, Vyšicko, Dubňanská hora, Úlehle, Hraničky"
+    },
+    {
+      "village": "Napajedla",
+      "district": "Zlín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Radovany, Svatojánky-Hamry, Dubová"
+    },
+    {
+      "village": "Násedlovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nová hora, Stará hora, Oulehla"
+    },
+    {
+      "village": "Nedakonice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Zadní díly, Široké, Díly od Polešovic"
+    },
+    {
+      "village": "Nechvalín",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Borový čtvrtě, Kučky, Lovecký"
+    },
+    {
+      "village": "Nenkovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nenkůvky, Novosády, Hejdy, Syslovce, Prostřední"
+    },
+    {
+      "village": "Nový Poddvorov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky, Podkovné"
+    },
+    {
+      "village": "Ořechov",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Cimburky, Háje, Čtvrtky"
+    },
+    {
+      "village": "Ostrovánky",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Čtvrtě od Věteřova, Brněnka, Zálesky, Hájky"
+    },
+    {
+      "village": "Ostrožská Lhota",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Hradíšťka"
+    },
+    {
+      "village": "Ostrožská Nová Ves",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Šotorec, Vinné húry"
+    },
+    {
+      "village": "Osvětimany",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nádborová, Včelařky-Jahodná, Jahodná, Niva"
+    },
+    {
+      "village": "Petrov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Novosády zadní, Veselé, Růžené, Tmice"
+    },
+    {
+      "village": "Pohořelice",
+      "district": "Zlín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady, Vinohrádky, Bělcov"
+    },
+    {
+      "village": "Polešovice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Růženy, Staré Hory, Újezdy, Míšky, Slunečné, Nové Hory, Novosady"
+    },
+    {
+      "village": "Prušánky",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nechory, Úlehle, Podkovné, Čtvrtky"
+    },
+    {
+      "village": "Ratíškovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hrubé pole, Nácestky, Díly, Náklo"
+    },
+    {
+      "village": "Rohatec",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U zásady, Kratiny, Padělky"
+    },
+    {
+      "village": "Skalka",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Pod polem, Skalecká hora, Čtvrtky, Nadskalí"
+    },
+    {
+      "village": "Skoronice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Krátké, Na Macháčku, Příčky, Slíny"
+    },
+    {
+      "village": "Sobůlky",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré hory, Buriánky, Padělky"
+    },
+    {
+      "village": "Spytihněv",
+      "district": "Zlín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky"
+    },
+    {
+      "village": "Staré Město",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrady"
+    },
+    {
+      "village": "Starý Poddvorov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Krásná hora, Nové vinohrady, Remíz"
+    },
+    {
+      "village": "Stavěšice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kopečníky, Čtvrtě, Dubový, Červenice"
+    },
+    {
+      "village": "Strážnice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Podkovné, Žerotíny, Teplé, Dolní hory, Růžené, Stračinky, Horní hory, Svárové, Frisáky"
+    },
+    {
+      "village": "Strážovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Křižovský"
+    },
+    {
+      "village": "Stříbrnice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Dolce, Magaše"
+    },
+    {
+      "village": "Sudoměřice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Díly za zahradou, Vápenky, Staré hory"
+    },
+    {
+      "village": "Svatobořice-Mistřín",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Vinohrady, Újezd, Žitné hony, Čtvrtky, Tabule, Losky, Hampíse, Příčky od Kyjova, Přední nivy, Hušpery"
+    },
+    {
+      "village": "Syrovín",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Lysiny, Stará hora, Písky"
+    },
+    {
+      "village": "Šardice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hejdy, Kameny, Dubový-Červenice, Požární čtvrtě, Padělky, Bařinové čtvrtě, Hrubý kopec, Špitálka"
+    },
+    {
+      "village": "Tasov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Hora zaječí, Stará hora"
+    },
+    {
+      "village": "Těmice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nad humny, Dlouhé krajinky, Bohůvky"
+    },
+    {
+      "village": "Terezín",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Násedlovsko, Přídanky, Zadní trať díly, Doliny"
+    },
+    {
+      "village": "Topolná",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Bůrovy"
+    },
+    {
+      "village": "Traplice",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Žlébky-Široký, V rovinách"
+    },
+    {
+      "village": "Tučapy",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Záhumenice, Stará hora"
+    },
+    {
+      "village": "Tupesy",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré hory, Díly nad loukami, Díly nad pastviskem, Bílé hory, Za humny"
+    },
+    {
+      "village": "Tvarožná Lhota",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vrchy, Šumberky, Důbrava, Důbravka"
+    },
+    {
+      "village": "Tvrdonice",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Nové vinohrady, Staré vinohrady, Padělky, Boří les"
+    },
+    {
+      "village": "Týnec",
+      "district": "Břeclav",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Hájek"
+    },
+    {
+      "village": "Uherské Hradiště",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Prostřední hora, Soví hora, Přední vinohrady, Zadní vinohrady, Vinohrady, Vrbky"
+    },
+    {
+      "village": "Uherský Ostroh",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Obora, Lán-kolonie, Plachty"
+    },
+    {
+      "village": "Uhřice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré hory, Novosady, Čtvrtě"
+    },
+    {
+      "village": "Újezdec",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Dašovy, Padělky"
+    },
+    {
+      "village": "Vacenovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Vinohrádky"
+    },
+    {
+      "village": "Vážany",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Achtele"
+    },
+    {
+      "village": "Velehrad",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Přední hora"
+    },
+    {
+      "village": "Velký Ořechov",
+      "district": "Zlín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kučovaniny, Vinohrady"
+    },
+    {
+      "village": "Veselí nad Moravou",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Borky, Třetí hony, Pod Radošovem, Lišky"
+    },
+    {
+      "village": "Věteřov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Novosady, Vinohrádky, Homole, Nové hory, Veselí"
+    },
+    {
+      "village": "Vlčnov",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stará hora, Pod Kojiny"
+    },
+    {
+      "village": "Vlkoš",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Zmoliska, Padělky nad Zmolisky, Malé nivy, Hrubé padělky, Malé padělky, Krejty, Achtele, Horolise, Pod Vysoků, Obecňáky"
+    },
+    {
+      "village": "Vnorovy",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "U svaté Anny, Vinice za sadem, Za vinohrady, Spinecko, Prostřední hora, Staré hory, Nivky, Žleby, Roviny, Vinice za sadem"
+    },
+    {
+      "village": "Vracov",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kopec, Klínky, Vinohrady u Panny Marie, Hliníky u Křivolánu, Hory"
+    },
+    {
+      "village": "Vřesovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Stéblová, Újezdy, Nad Hačky, Stará hora"
+    },
+    {
+      "village": "Zlechov",
+      "district": "Uherské Hradiště",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Žleby, Na Tupesy, Za řadovkami, Kout, Horky"
+    },
+    {
+      "village": "Žádovice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Fěruňk"
+    },
+    {
+      "village": "Žarošice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Maliny, Syslůvky, Staré hory, Nové hory"
+    },
+    {
+      "village": "Ždánice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Staré hory, Nová hora, Koutný, Dubová hora, Habrůvky"
+    },
+    {
+      "village": "Želetice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Kamenec, Želítky, Masný kopec"
+    },
+    {
+      "village": "Žeravice",
+      "district": "Hodonín",
+      "wine_subregion": "Slovácká vinařská podoblast",
+      "wine_region": "Morava",
+      "vineyard_tracts": "Býková hora, Hradiska, Zadní hory"
+    },
+    {
+      "village": "Benátky nad Jizerou",
+      "district": "Mladá Boleslav",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod zámkem, Stráň nad Jizerou, Akátové údolí"
+    },
+    {
+      "village": "Bechlín",
+      "district": "Litoměřice",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Bertýnka, Na průhonu, Piksovka"
+    },
+    {
+      "village": "Brambory",
+      "district": "Kutná Hora",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "U luhů, Nade vsí"
+    },
+    {
+      "village": "Cerhenice",
+      "district": "Kolín",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Edvarda Beneše"
+    },
+    {
+      "village": "Cítov",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Zdenčina (neosázena)"
+    },
+    {
+      "village": "Dolní Beřkovice",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Beřkovská"
+    },
+    {
+      "village": "Domousnice",
+      "district": "Mladá Boleslav",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "U Sv. Jiří"
+    },
+    {
+      "village": "Dřísy",
+      "district": "Praha-východ",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Svatováclavská"
+    },
+    {
+      "village": "Heřmanice",
+      "district": "Havlíčkův Brod",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na kamnech"
+    },
+    {
+      "village": "Horka I",
+      "district": "Kutná Hora",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Nad hospodou, Nad týneckou cestou, Za bažantnicí"
+    },
+    {
+      "village": "Horušice",
+      "district": "Kutná Hora",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na jílku, Na bažantnici, U korábu"
+    },
+    {
+      "village": "Chrudim",
+      "district": "Chrudim",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "U Záchrany"
+    },
+    {
+      "village": "Jeviněves",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na vinicích"
+    },
+    {
+      "village": "Karlštejn",
+      "district": "Beroun",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Plešivec, Vrše, Rešna"
+    },
+    {
+      "village": "Klučov",
+      "district": "Kolín",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Malá vinice, Šutrák, Velká vinice"
+    },
+    {
+      "village": "Kly",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Kelská, Záboří II., Záboří I."
+    },
+    {
+      "village": "Konárovice",
+      "district": "Kolín",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "V hájku, Zadní zájezd"
+    },
+    {
+      "village": "Kralupy nad Vltavou",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Nad vinicí, Velký kus"
+    },
+    {
+      "village": "Kuks",
+      "district": "Trutnov",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Nad zámkem"
+    },
+    {
+      "village": "Kutná Hora",
+      "district": "Kutná Hora",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "U všech svatých, Pod chrámem sv. Barbory, U sv. Trojice, Pod Kuklíkem, Nad kapličkou"
+    },
+    {
+      "village": "Liběchov",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Ješovická, Liběchovská, Budyně, Pod kostelíčkem"
+    },
+    {
+      "village": "Litoboř",
+      "district": "Náchod",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Hromobitkou"
+    },
+    {
+      "village": "Loděnice",
+      "district": "Beroun",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Kněží hora"
+    },
+    {
+      "village": "Loucká",
+      "district": "Kladno",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vidrholec"
+    },
+    {
+      "village": "Máslovice",
+      "district": "Praha-východ",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Dolská"
+    },
+    {
+      "village": "Mělník",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vehlovská, Klamovka, Neuberská, Na bílých břehách, Městská, Turbovická, Labská"
+    },
+    {
+      "village": "Otmíče",
+      "district": "Beroun",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Otmíčskou horou"
+    },
+    {
+      "village": "Praha",
+      "district": "Hlavní město Praha",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Baba, Svatojánská, Svatováclavská vinice, Modřanská vinice, Svatá Klára, Salabka, Gröbovka, Pod Prosekem"
+    },
+    {
+      "village": "Slabce",
+      "district": "Rakovník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Balkán"
+    },
+    {
+      "village": "Slaný",
+      "district": "Kladno",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Ovčáry, Na Křížku"
+    },
+    {
+      "village": "Srbsko",
+      "district": "Beroun",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na vinicích, U besídek"
+    },
+    {
+      "village": "Sudovo Hlavno",
+      "district": "Praha-východ",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vinum Palladium"
+    },
+    {
+      "village": "Svatý Mikuláš",
+      "district": "Kutná Hora",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "U borku"
+    },
+    {
+      "village": "Štětí",
+      "district": "Litoměřice",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na Pelunce, Na Liběchovské cestě"
+    },
+    {
+      "village": "Tuhaň",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na Raholinách"
+    },
+    {
+      "village": "Velký Borek",
+      "district": "Mělník",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Turbovická"
+    },
+    {
+      "village": "Vinaře",
+      "district": "Kutná Hora",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na příčce"
+    },
+    {
+      "village": "Vinařice",
+      "district": "Kladno",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vinařická hora, Na paloučkách, V řádcích, V trníčkách"
+    },
+    {
+      "village": "Zbiroh",
+      "district": "Rokycany",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Zámecká"
+    },
+    {
+      "village": "Žehušice",
+      "district": "Kutná Hora",
+      "wine_subregion": "Mělnická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na skále"
+    },
+    {
+      "village": "Bělušice",
+      "district": "Most",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vinice Lenka, Vinice Klára, Vinice velká Anna, Vinice Lucie, Vinice Vendula, Vinice Muškát, Vinice malá Anna"
+    },
+    {
+      "village": "Blšany u Loun",
+      "district": "Louny",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Chlumem"
+    },
+    {
+      "village": "Brzánky",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Sovice, Labské stráně"
+    },
+    {
+      "village": "Březno",
+      "district": "Chomutov",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Zámecká"
+    },
+    {
+      "village": "Hoštka",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Labské vinice, Bauška, Kochov"
+    },
+    {
+      "village": "Chbany",
+      "district": "Chomutov",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vamperk"
+    },
+    {
+      "village": "Chlumčany",
+      "district": "Louny",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Chlumem"
+    },
+    {
+      "village": "Kadaň",
+      "district": "Chomutov",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Zlatý vrch, Nad meandrem, Svatováclavská trať, Na vinici, Běšická trať, Pod Purperkem"
+    },
+    {
+      "village": "Klapý",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Hazmburkem"
+    },
+    {
+      "village": "Kozly",
+      "district": "Louny",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vinice Lenka"
+    },
+    {
+      "village": "Kyškovice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Lis"
+    },
+    {
+      "village": "Libědice",
+      "district": "Chomutov",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Svatovítská"
+    },
+    {
+      "village": "Liběšice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Dolnochobolická, Pod Sedlem, Hornochobolická"
+    },
+    {
+      "village": "Libochovany",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Hrádkem, U třech křížů"
+    },
+    {
+      "village": "Litoměřice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Radobýlem, Labská stráň, Pod šancemi"
+    },
+    {
+      "village": "Lovosice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Lovošem"
+    },
+    {
+      "village": "Malé Žernoseky",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na Dobraji"
+    },
+    {
+      "village": "Malíč",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Malíč"
+    },
+    {
+      "village": "Michalovice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "U vodárny, U cihelny, Na vinici"
+    },
+    {
+      "village": "Most",
+      "district": "Most",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vinice Barbora, Vinice Mariana, Vinice Libuše, Vinice sv. Jiří, Vinice Matčina, Široký vrch, Hněvín, Vinice sv. Vavřince"
+    },
+    {
+      "village": "Obrnice",
+      "district": "Most",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Osecká vinice"
+    },
+    {
+      "village": "Pětipsy",
+      "district": "Chomutov",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vamperk"
+    },
+    {
+      "village": "Polepy",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Holý vrch, Pod skalkou, Prachová"
+    },
+    {
+      "village": "Raná",
+      "district": "Louny",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Oblík"
+    },
+    {
+      "village": "Roudnice nad Labem",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Zámecká"
+    },
+    {
+      "village": "Trnovany",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Trnovanská, Pod silnicí, Za viaduktem, Na 13-ti"
+    },
+    {
+      "village": "Třebenice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Lipskou horou, Pod Košťálovem"
+    },
+    {
+      "village": "Třebívlice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Šepetelským vrchem, Vinice, Koskov"
+    },
+    {
+      "village": "Ústí nad Labem",
+      "district": "Ústí nad Labem",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Kozí vrch"
+    },
+    {
+      "village": "Velké Žernoseky",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Velká Vendule, Malá Vendule, Mariánská, Kostelní, Pod Třešňovkou, U Lomu, Na Jámě"
+    },
+    {
+      "village": "Vilémov",
+      "district": "Chomutov",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Vinařická trať"
+    },
+    {
+      "village": "Vrbice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Sovice, Labské vinice"
+    },
+    {
+      "village": "Zahrádky",
+      "district": "Česká Lípa",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Mariánov"
+    },
+    {
+      "village": "Žalhostice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Pod Radobýlem, Nad školou"
+    },
+    {
+      "village": "Židovice",
+      "district": "Litoměřice",
+      "wine_subregion": "Litoměřická vinařská podoblast",
+      "wine_region": "Čechy",
+      "vineyard_tracts": "Na Bulfu, Na terasách, Na viničkách"
+    }
+  ],
+  "meta": {
+    "title": "Vinařské obce a viniční tratě v Česku - Free Download",
+    "description": "Seznam vinařských obcí v Česku podle vinařských podoblastí (Mikulovská, Znojemská, Velkopavlovická, Slovácká, Mělnická, Litoměřická) s okresem a názvy registrovaných viničních tratí. Contains 394 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinařské obce a viniční tratě v Česku | ListBase",
+    "seo_description": "Download Vinařské obce a viniční tratě v Česku — 394 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 394 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Mikulovská_vinařská_podoblast"
+    ]
+  }
+}

@@ -1,12 +1,12 @@
 {
   "lang": "cs",
-  "generated": "2026-11-18T02:22:09.255Z",
-  "total_datasets": 580,
-  "total_records": 423821,
+  "generated": "2026-11-18T02:23:51.112Z",
+  "total_datasets": 581,
+  "total_records": 424215,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -346,6 +346,32 @@
         "xlsx": {
           "name": "cs-sklizen-zemedelskych-plodin_CS.xlsx",
           "size": 25792
+        }
+      }
+    },
+    {
+      "id": "cs-vinarske-obce-a-vinicni-trate",
+      "name": "Vinařské obce a viniční tratě v Česku",
+      "category": "agriculture",
+      "record_count": 394,
+      "columns": [
+        "village",
+        "district",
+        "wine_subregion",
+        "wine_region",
+        "vineyard_tracts"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Mikulovská_vinařská_podoblast",
+      "updated": "2026-11",
+      "size": 94202,
+      "files": {
+        "csv": {
+          "name": "cs-vinarske-obce-a-vinicni-trate_CS.csv",
+          "size": 44263
+        },
+        "xlsx": {
+          "name": "cs-vinarske-obce-a-vinicni-trate_CS.xlsx",
+          "size": 24648
         }
       }
     },
