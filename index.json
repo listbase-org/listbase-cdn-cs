@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-18T02:22:01.004Z",
-  "total_datasets": 579,
-  "total_records": 423656,
+  "generated": "2026-11-18T02:22:09.255Z",
+  "total_datasets": 580,
+  "total_records": 423821,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "sports",
@@ -14740,6 +14740,33 @@
         "xlsx": {
           "name": "cs-narodnostni-slozeni-scitani_CS.xlsx",
           "size": 9653
+        }
+      }
+    },
+    {
+      "id": "cs-nositele-radu-bileho-lva",
+      "name": "Nositelé Řádu Bílého lva",
+      "category": "society",
+      "record_count": 165,
+      "columns": [
+        "year",
+        "recipient",
+        "description",
+        "group",
+        "award_class",
+        "in_memoriam"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_nositelů_Řádu_Bílého_lva",
+      "updated": "2026-11",
+      "size": 40711,
+      "files": {
+        "csv": {
+          "name": "cs-nositele-radu-bileho-lva_CS.csv",
+          "size": 17867
+        },
+        "xlsx": {
+          "name": "cs-nositele-radu-bileho-lva_CS.xlsx",
+          "size": 14925
         }
       }
     },
