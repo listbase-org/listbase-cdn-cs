@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-17T02:23:23.611Z",
-  "total_datasets": 578,
-  "total_records": 423632,
+  "generated": "2026-11-18T02:22:01.004Z",
+  "total_datasets": 579,
+  "total_records": 423656,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "entertainment",
@@ -1720,6 +1720,30 @@
         "xlsx": {
           "name": "cs-fakulty-vysokych-skol_CS.xlsx",
           "size": 10662
+        }
+      }
+    },
+    {
+      "id": "cs-lesnicke-skoly",
+      "name": "Lesnické školy v Česku",
+      "category": "education",
+      "record_count": 24,
+      "columns": [
+        "abbreviation",
+        "name",
+        "town"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_lesnických_škol_v_Česku",
+      "updated": "2026-11",
+      "size": 5183,
+      "files": {
+        "csv": {
+          "name": "cs-lesnicke-skoly_CS.csv",
+          "size": 2047
+        },
+        "xlsx": {
+          "name": "cs-lesnicke-skoly_CS.xlsx",
+          "size": 7690
         }
       }
     },
