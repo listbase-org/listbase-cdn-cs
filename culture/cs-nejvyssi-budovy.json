@@ -1,0 +1,584 @@
+{
+  "id": "cs-nejvyssi-budovy",
+  "name": "Nejvyšší budovy v Česku",
+  "title": "Nejvyšší budovy v Česku",
+  "description": "Seznam nejvyšších dokončených budov v Česku s městem, rokem dokončení, počtem nadzemních podlaží, výškou střechy a nejvyššího bodu (m).",
+  "category": "culture",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_nejvyšších_budov_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_nejvyšších_budov_v_Česku",
+  "updated": "2026-11",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "year_completed",
+      "label": "Year Completed",
+      "type": "number"
+    },
+    {
+      "key": "floors",
+      "label": "Floors",
+      "type": "number"
+    },
+    {
+      "key": "roof_height_m",
+      "label": "Roof Height M",
+      "type": "number"
+    },
+    {
+      "key": "tip_height_m",
+      "label": "Tip Height M",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "city": "Brno",
+      "name": "AZ Tower",
+      "year_completed": "2013",
+      "floors": 30,
+      "roof_height_m": 111,
+      "tip_height_m": 116
+    },
+    {
+      "city": "Praha",
+      "name": "City Tower",
+      "year_completed": "1993",
+      "floors": 27,
+      "roof_height_m": 109,
+      "tip_height_m": 116
+    },
+    {
+      "city": "Praha",
+      "name": "V Tower",
+      "year_completed": "2018",
+      "floors": 30,
+      "roof_height_m": 103.9,
+      "tip_height_m": 106
+    },
+    {
+      "city": "Praha",
+      "name": "City Empiria",
+      "year_completed": "1977",
+      "floors": 27,
+      "roof_height_m": 103.7,
+      "tip_height_m": 132
+    },
+    {
+      "city": "Most",
+      "name": "SaS group Tower",
+      "year_completed": "1984",
+      "floors": 23,
+      "roof_height_m": 96,
+      "tip_height_m": 100
+    },
+    {
+      "city": "Praha",
+      "name": "Rezidence Eliška",
+      "year_completed": "2013",
+      "floors": 25,
+      "roof_height_m": 93.6,
+      "tip_height_m": 93.6
+    },
+    {
+      "city": "Praha",
+      "name": "Hotel International",
+      "year_completed": "1956",
+      "floors": 16,
+      "roof_height_m": 88,
+      "tip_height_m": 89
+    },
+    {
+      "city": "Brno",
+      "name": "Spielberk Tower B",
+      "year_completed": "2012",
+      "floors": 21,
+      "roof_height_m": 85,
+      "tip_height_m": 85
+    },
+    {
+      "city": "Praha",
+      "name": "Corinthia Hotel Prague",
+      "year_completed": "1988",
+      "floors": 26,
+      "roof_height_m": 83,
+      "tip_height_m": 90
+    },
+    {
+      "city": "Brno",
+      "name": "Šumavská Tower A",
+      "year_completed": "1974/2022",
+      "floors": 22,
+      "roof_height_m": 81,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "Hotel Kupa",
+      "year_completed": "1980",
+      "floors": 23,
+      "roof_height_m": 80,
+      "tip_height_m": 81
+    },
+    {
+      "city": "Praha",
+      "name": "Lighthouse Vltava Waterfront Towers",
+      "year_completed": "2004",
+      "floors": 19,
+      "roof_height_m": 80,
+      "tip_height_m": 80
+    },
+    {
+      "city": "Praha",
+      "name": "Panorama Hotel Prague",
+      "year_completed": "1983",
+      "floors": 24,
+      "roof_height_m": 79,
+      "tip_height_m": 80
+    },
+    {
+      "city": "Liberec",
+      "name": "Budova Krajského úřadu Libereckého kraje",
+      "year_completed": "1976",
+      "floors": 21,
+      "roof_height_m": 78,
+      "tip_height_m": 84
+    },
+    {
+      "city": "Zlín",
+      "name": "Baťův mrakodrap",
+      "year_completed": "1938",
+      "floors": 16,
+      "roof_height_m": 77,
+      "tip_height_m": 80
+    },
+    {
+      "city": "Brno",
+      "name": "Šumavská Tower B",
+      "year_completed": "1974/2020",
+      "floors": 22,
+      "roof_height_m": 75,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "Centrála České spořitelny",
+      "year_completed": "1996",
+      "floors": 22,
+      "roof_height_m": 74.5,
+      "tip_height_m": 76
+    },
+    {
+      "city": "Brno",
+      "name": "Budova FSI VUT",
+      "year_completed": "1984",
+      "floors": 19,
+      "roof_height_m": 74,
+      "tip_height_m": 76
+    },
+    {
+      "city": "Praha",
+      "name": "AFI City 1",
+      "year_completed": "2020",
+      "floors": 19,
+      "roof_height_m": "",
+      "tip_height_m": 75
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům Limuzská 10",
+      "year_completed": "1968",
+      "floors": 21,
+      "roof_height_m": "",
+      "tip_height_m": 74
+    },
+    {
+      "city": "Praha",
+      "name": "Budova Centrotex",
+      "year_completed": "1978",
+      "floors": 18,
+      "roof_height_m": 74,
+      "tip_height_m": 74
+    },
+    {
+      "city": "Olomouc",
+      "name": "BEA campus Olomouc",
+      "year_completed": "2013",
+      "floors": 18,
+      "roof_height_m": 74,
+      "tip_height_m": 74
+    },
+    {
+      "city": "Praha",
+      "name": "Dům Sluneční náměstí",
+      "year_completed": "2004",
+      "floors": 21,
+      "roof_height_m": 73.5,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům Arnika",
+      "year_completed": "1974",
+      "floors": 20,
+      "roof_height_m": 73,
+      "tip_height_m": 75
+    },
+    {
+      "city": "Praha",
+      "name": "Hotel Olympik",
+      "year_completed": "1971",
+      "floors": 21,
+      "roof_height_m": "",
+      "tip_height_m": 73
+    },
+    {
+      "city": "Praha",
+      "name": "Shiran Tower",
+      "year_completed": "1971",
+      "floors": "",
+      "roof_height_m": "",
+      "tip_height_m": 73
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům SOL",
+      "year_completed": "70. léta",
+      "floors": 21,
+      "roof_height_m": 73,
+      "tip_height_m": 82
+    },
+    {
+      "city": "Praha",
+      "name": "Hotel Fortuna Rhea",
+      "year_completed": "1979",
+      "floors": 22,
+      "roof_height_m": 73,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Chomutov",
+      "name": "bývalý Hotel Armabeton",
+      "year_completed": "70. léta",
+      "floors": 17,
+      "roof_height_m": 71,
+      "tip_height_m": 71
+    },
+    {
+      "city": "České Budějovice",
+      "name": "Hotel Clarion",
+      "year_completed": "1982",
+      "floors": 16,
+      "roof_height_m": 71,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Olomouc",
+      "name": "Budova RCO2",
+      "year_completed": "2003",
+      "floors": 20,
+      "roof_height_m": 71,
+      "tip_height_m": 85
+    },
+    {
+      "city": "Teplice",
+      "name": "Bytový dům Antonína Sochora 2 (tzv. \"Boží prst\")",
+      "year_completed": "1978",
+      "floors": 20,
+      "roof_height_m": 70,
+      "tip_height_m": 73
+    },
+    {
+      "city": "Praha",
+      "name": "budova Filadelfie",
+      "year_completed": "2010",
+      "floors": 17,
+      "roof_height_m": 70,
+      "tip_height_m": 72
+    },
+    {
+      "city": "Praha",
+      "name": "bývalý Hotel Opatov",
+      "year_completed": "1988",
+      "floors": 21,
+      "roof_height_m": "",
+      "tip_height_m": 70
+    },
+    {
+      "city": "Praha",
+      "name": "ByTy Malešice – budova A1",
+      "year_completed": "2015",
+      "floors": 20,
+      "roof_height_m": "",
+      "tip_height_m": 70
+    },
+    {
+      "city": "Praha",
+      "name": "Office Park Nové Butovice – budova D",
+      "year_completed": "2009",
+      "floors": 18,
+      "roof_height_m": 71,
+      "tip_height_m": 71
+    },
+    {
+      "city": "Praha",
+      "name": "Sluneční věž",
+      "year_completed": "2011",
+      "floors": 21,
+      "roof_height_m": 70,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "TVM Tower (dříve Hotel DUM)",
+      "year_completed": "1985",
+      "floors": 21,
+      "roof_height_m": "",
+      "tip_height_m": 69
+    },
+    {
+      "city": "Praha",
+      "name": "Kolej 17. listopadu",
+      "year_completed": "1989",
+      "floors": 22,
+      "roof_height_m": 69,
+      "tip_height_m": 70
+    },
+    {
+      "city": "Brno",
+      "name": "Nemocnice Bohunice",
+      "year_completed": "1989",
+      "floors": 19,
+      "roof_height_m": 69,
+      "tip_height_m": 75
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům Pod Dálnicí 1",
+      "year_completed": "70. léta",
+      "floors": 23,
+      "roof_height_m": 68.2,
+      "tip_height_m": 69
+    },
+    {
+      "city": "Ostrava",
+      "name": "Ostravský mrakodrap",
+      "year_completed": "1968",
+      "floors": 22,
+      "roof_height_m": 68,
+      "tip_height_m": 68
+    },
+    {
+      "city": "Chomutov",
+      "name": "Bytový dům Experiment č. 1",
+      "year_completed": "70. léta",
+      "floors": 20,
+      "roof_height_m": 68,
+      "tip_height_m": 68
+    },
+    {
+      "city": "Brno",
+      "name": "Šumavská Tower C",
+      "year_completed": "1974/2018",
+      "floors": 18,
+      "roof_height_m": 68,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "Budova TOKOVO",
+      "year_completed": "1977",
+      "floors": 19,
+      "roof_height_m": 68,
+      "tip_height_m": 71
+    },
+    {
+      "city": "Praha",
+      "name": "Polyfunkční objekt SANDRA",
+      "year_completed": "80. léta",
+      "floors": 21,
+      "roof_height_m": "",
+      "tip_height_m": 68
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům Bajkonurská 4 (tzv. \"Bajkonur\")",
+      "year_completed": "80. léta",
+      "floors": 21,
+      "roof_height_m": "",
+      "tip_height_m": 68
+    },
+    {
+      "city": "Pardubice",
+      "name": "Bytový dům Bělehradská 379",
+      "year_completed": "",
+      "floors": 19,
+      "roof_height_m": "",
+      "tip_height_m": 68
+    },
+    {
+      "city": "Praha",
+      "name": "Palác Vinohrady",
+      "year_completed": "1971",
+      "floors": 17,
+      "roof_height_m": 67.8,
+      "tip_height_m": 89
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům Hlavatého 15",
+      "year_completed": "80. léta",
+      "floors": 20,
+      "roof_height_m": 67,
+      "tip_height_m": 67
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům Hlavatého 17",
+      "year_completed": "80. léta",
+      "floors": 20,
+      "roof_height_m": 67,
+      "tip_height_m": 67
+    },
+    {
+      "city": "Chomutov",
+      "name": "Bytový dům Experiment č. 2",
+      "year_completed": "70. léta",
+      "floors": 20,
+      "roof_height_m": 67,
+      "tip_height_m": 67
+    },
+    {
+      "city": "Chomutov",
+      "name": "Bytový dům Experiment č. 3",
+      "year_completed": "70. léta",
+      "floors": 20,
+      "roof_height_m": 67,
+      "tip_height_m": 67
+    },
+    {
+      "city": "Praha",
+      "name": "Bytový dům Petržílkova 2588",
+      "year_completed": "2005",
+      "floors": 21,
+      "roof_height_m": 66,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Hradec Králové",
+      "name": "Bytové domy Jungmannova 1437–1439",
+      "year_completed": "1974–1975",
+      "floors": 17,
+      "roof_height_m": 66,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Prostějov",
+      "name": "Radniční věž v Prostějově",
+      "year_completed": "1914",
+      "floors": "",
+      "roof_height_m": "",
+      "tip_height_m": 66
+    },
+    {
+      "city": "Karlovy Vary",
+      "name": "Hotel Thermal",
+      "year_completed": "1976",
+      "floors": 18,
+      "roof_height_m": 65,
+      "tip_height_m": 65
+    },
+    {
+      "city": "Praha",
+      "name": "Prague Towers A",
+      "year_completed": "2011",
+      "floors": 21,
+      "roof_height_m": 65,
+      "tip_height_m": 65
+    },
+    {
+      "city": "Praha",
+      "name": "Prague Towers B",
+      "year_completed": "2011",
+      "floors": 21,
+      "roof_height_m": 65,
+      "tip_height_m": 65
+    },
+    {
+      "city": "Praha",
+      "name": "Rezidence Vinice A",
+      "year_completed": "2004",
+      "floors": 19,
+      "roof_height_m": 64,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "Rezidence Vinice B",
+      "year_completed": "2004",
+      "floors": 19,
+      "roof_height_m": 64,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "Kulturní Centrum 12 [ zdroj? ]",
+      "year_completed": "2003",
+      "floors": 24,
+      "roof_height_m": "",
+      "tip_height_m": 63
+    },
+    {
+      "city": "Plzeň",
+      "name": "Business Centre Bohemia",
+      "year_completed": "1969",
+      "floors": 16,
+      "roof_height_m": 61,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Brno",
+      "name": "Vlněna, budova I",
+      "year_completed": "2024",
+      "floors": 15,
+      "roof_height_m": 61,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Brno",
+      "name": "M-Palác",
+      "year_completed": "1997",
+      "floors": 16,
+      "roof_height_m": 60,
+      "tip_height_m": ""
+    },
+    {
+      "city": "Praha",
+      "name": "Crystal",
+      "year_completed": "2015",
+      "floors": 14,
+      "roof_height_m": 60,
+      "tip_height_m": ""
+    }
+  ],
+  "meta": {
+    "title": "Nejvyšší budovy v Česku - Free Download",
+    "description": "Seznam nejvyšších dokončených budov v Česku s městem, rokem dokončení, počtem nadzemních podlaží, výškou střechy a nejvyššího bodu (m). Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nejvyšší budovy v Česku | ListBase",
+    "seo_description": "Download Nejvyšší budovy v Česku — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_nejvyšších_budov_v_Česku"
+    ]
+  }
+}

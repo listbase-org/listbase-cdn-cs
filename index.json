@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-18T02:23:51.112Z",
-  "total_datasets": 581,
-  "total_records": 424215,
+  "generated": "2026-11-19T02:24:49.795Z",
+  "total_datasets": 582,
+  "total_records": 424281,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "economy",
@@ -1129,6 +1129,33 @@
         "xlsx": {
           "name": "cs-narodni-kulturni-pamatky_CS.xlsx",
           "size": 25839
+        }
+      }
+    },
+    {
+      "id": "cs-nejvyssi-budovy",
+      "name": "Nejvyšší budovy v Česku",
+      "category": "culture",
+      "record_count": 66,
+      "columns": [
+        "city",
+        "name",
+        "year_completed",
+        "floors",
+        "roof_height_m",
+        "tip_height_m"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_nejvyšších_budov_v_Česku",
+      "updated": "2026-11",
+      "size": 13790,
+      "files": {
+        "csv": {
+          "name": "cs-nejvyssi-budovy_CS.csv",
+          "size": 3737
+        },
+        "xlsx": {
+          "name": "cs-nejvyssi-budovy_CS.xlsx",
+          "size": 9680
         }
       }
     },
