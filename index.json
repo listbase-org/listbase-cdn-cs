@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-19T02:24:49.795Z",
-  "total_datasets": 582,
-  "total_records": 424281,
+  "generated": "2026-11-19T02:25:33.598Z",
+  "total_datasets": 583,
+  "total_records": 425074,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -8476,6 +8476,34 @@
         "xlsx": {
           "name": "cs-zanikle-zdravotni-pojistovny_CS.xlsx",
           "size": 7329
+        }
+      }
+    },
+    {
+      "id": "cs-zemreli-podle-pricin-smrti-2024",
+      "name": "Zemřelí podle příčin smrti v Česku (2024)",
+      "category": "health",
+      "record_count": 793,
+      "columns": [
+        "icd10_code",
+        "cause",
+        "chapter",
+        "chapter_name",
+        "deaths_total",
+        "deaths_men",
+        "deaths_women"
+      ],
+      "source": "https://csu.gov.cz/produkty/zemreli-podle-pricin-smrti-a-pohlavi-v-cr-krajich-a-okresech",
+      "updated": "2026-11",
+      "size": 222431,
+      "files": {
+        "csv": {
+          "name": "cs-zemreli-podle-pricin-smrti-2024_CS.csv",
+          "size": 100135
+        },
+        "xlsx": {
+          "name": "cs-zemreli-podle-pricin-smrti-2024_CS.xlsx",
+          "size": 46771
         }
       }
     },
