@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-20T02:10:48.830Z",
-  "total_datasets": 584,
-  "total_records": 425103,
+  "generated": "2026-11-20T02:10:58.471Z",
+  "total_datasets": 585,
+  "total_records": 425186,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "tech",
@@ -15053,6 +15053,34 @@
         "xlsx": {
           "name": "cs-ceske-kluby-v-hokejove-lize-mistru_CS.xlsx",
           "size": 8125
+        }
+      }
+    },
+    {
+      "id": "cs-ceske-rekordy-v-atletice",
+      "name": "České rekordy v atletice (muži a ženy)",
+      "category": "sports",
+      "record_count": 83,
+      "columns": [
+        "category",
+        "event",
+        "athlete",
+        "result",
+        "date",
+        "place",
+        "pending_ratification"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/České_rekordy_v_atletice_–_muži",
+      "updated": "2026-11",
+      "size": 21980,
+      "files": {
+        "csv": {
+          "name": "cs-ceske-rekordy-v-atletice_CS.csv",
+          "size": 8200
+        },
+        "xlsx": {
+          "name": "cs-ceske-rekordy-v-atletice_CS.xlsx",
+          "size": 12153
         }
       }
     },

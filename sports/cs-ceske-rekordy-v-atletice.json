@@ -1,0 +1,808 @@
+{
+  "id": "cs-ceske-rekordy-v-atletice",
+  "name": "České rekordy v atletice (muži a ženy)",
+  "title": "České rekordy v atletice (muži a ženy)",
+  "description": "Aktuální české rekordy v atletice mužů a žen podle disciplín s držitelem rekordu, výkonem, datem a místem.",
+  "category": "sports",
+  "source": "https://cs.wikipedia.org/wiki/České_rekordy_v_atletice_–_muži",
+  "source_url": "https://cs.wikipedia.org/wiki/České_rekordy_v_atletice_–_muži",
+  "updated": "2026-11",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "event",
+      "label": "Event",
+      "type": "string"
+    },
+    {
+      "key": "athlete",
+      "label": "Athlete",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "pending_ratification",
+      "label": "Pending Ratification",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "category": "muži",
+      "event": "Běh na 100 metrů",
+      "athlete": "Zdeněk Stromšík Jan Veleba Dominik Záleský",
+      "result": "10,16",
+      "date": "18. 7. 2018 26. 7. 2019 14. 8. 2021",
+      "place": "Tábor Brno Zlín",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 200 metrů",
+      "athlete": "Ondřej Macík",
+      "result": "20,39",
+      "date": "30. 7. 2023",
+      "place": "Tábor",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 400 metrů",
+      "athlete": "Pavel Maslák",
+      "result": "44,79",
+      "date": "9. 5. 2014",
+      "place": "Dauhá",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 800 metrů",
+      "athlete": "Jakub Dudycha",
+      "result": "1:44,48",
+      "date": "24. 6. 2025",
+      "place": "Ostrava –",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 1000 metrů",
+      "athlete": "Jakub Dudycha",
+      "result": "2:16.26",
+      "date": "16. 6. 2026",
+      "place": "Ostrava",
+      "pending_ratification": "ano"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 1500 metrů",
+      "athlete": "Jakub Holuša",
+      "result": "3:32,49",
+      "date": "20. 7. 2018",
+      "place": "Monako",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 1 míli",
+      "athlete": "Jozef Plachý",
+      "result": "3:52,59",
+      "date": "3. 7. 1978",
+      "place": "Stockholm",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 2000 metrů",
+      "athlete": "Filip Sasínek",
+      "result": "4:57,60",
+      "date": "19. 8. 2020",
+      "place": "Bydhošť",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 3000 metrů",
+      "athlete": "Jan Pešava",
+      "result": "7:46,72",
+      "date": "27. 6. 1998",
+      "place": "Petrohrad",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 5000 metrů",
+      "athlete": "Jiří Sýkora",
+      "result": "13:24,99",
+      "date": "1. 8. 1980",
+      "place": "Moskva",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 10 000 metrů",
+      "athlete": "Jan Pešava",
+      "result": "27:47,90",
+      "date": "8. 6. 1998",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 20 000 metrů",
+      "athlete": "Ivan Uvizl",
+      "result": "59:38,6",
+      "date": "25. 9. 1980",
+      "place": "Ostrava",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 25 000 metrů",
+      "athlete": "Emil Zátopek",
+      "result": "1:16:36,4",
+      "date": "29. 10. 1955",
+      "place": "Čelákovice",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 30 000 metrů",
+      "athlete": "Pavel Kantorek",
+      "result": "1:34:54,2",
+      "date": "31. 10. 1962",
+      "place": "Stará Boleslav",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Hodinovka běh",
+      "athlete": "Uvizl Ivan",
+      "result": "20.144.2",
+      "date": "25. 9. 1980",
+      "place": "Ostrava",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Půlmaraton",
+      "athlete": "Jan Pešava",
+      "result": "1:01:31",
+      "date": "4. 10. 1997",
+      "place": "Košice",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Maratonský běh",
+      "athlete": "Karel David",
+      "result": "2:11:57",
+      "date": "23. 5. 1993",
+      "place": "Hamburk",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 110 metrů překážek",
+      "athlete": "Petr Svoboda",
+      "result": "13,27",
+      "date": "14. 6. 2010",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 400 metrů překážek",
+      "athlete": "Jiří Mužík",
+      "result": "48,27",
+      "date": "3. 8. 1997",
+      "place": "Atény",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 3000 metrů překážek",
+      "athlete": "Damián Vích",
+      "result": "8:19,88",
+      "date": "9.8. 2025",
+      "place": "Oordegem",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Skok do výšky",
+      "athlete": "Ján Zvara",
+      "result": "236",
+      "date": "23. 8. 1987",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Skok do výšky",
+      "athlete": "Jaroslav Bába",
+      "result": "236",
+      "date": "8. 7. 2005",
+      "place": "Řím",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Skok o tyči",
+      "athlete": "Jan Kudlička",
+      "result": "583",
+      "date": "22. 6. 2016",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Skok daleký",
+      "athlete": "Radek Juška",
+      "result": "831",
+      "date": "27. 8. 2017",
+      "place": "Tchaj-pej",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Trojskok",
+      "athlete": "Milan Mikuláš",
+      "result": "17,53",
+      "date": "17. 7. 1988",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Vrh koulí",
+      "athlete": "Tomáš Staněk",
+      "result": "22,01",
+      "date": "2. 6. 2017",
+      "place": "Schönebeck",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Hod diskem",
+      "athlete": "Imrich Bugár",
+      "result": "71,26",
+      "date": "25. 5. 1985",
+      "place": "San José",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Hod kladivem",
+      "athlete": "Vladimír Maška",
+      "result": "81,28",
+      "date": "25. 9. 1999",
+      "place": "Pacov",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Hod oštěpem",
+      "athlete": "Jan Železný",
+      "result": "98,48",
+      "date": "25. 5. 1996",
+      "place": "Jena – světový rekord",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Desetiboj",
+      "athlete": "Roman Šebrle",
+      "result": "9026 bodů",
+      "date": "26. 5. 2001",
+      "place": "Götzis",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Chůze na 20 km",
+      "athlete": "Jiří Malysa",
+      "result": "1:19:18",
+      "date": "17. 6. 2000",
+      "place": "Eisenhüttenstadt",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Chůze na 35 km",
+      "athlete": "Vít Hlaváč",
+      "result": "2:31:44",
+      "date": "18. 5. 2025",
+      "place": "Poděbrady",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Chůze na 50 km",
+      "athlete": "Miloš Holuša",
+      "result": "3:49:08",
+      "date": "14. 4. 1996",
+      "place": "Fribourg",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Chůze dráha 10000 m",
+      "athlete": "Vít Hlaváč",
+      "result": "40:26.09",
+      "date": "28.04.2024",
+      "place": "Nové Město nad Metují",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Chůze dráha 20000 m",
+      "athlete": "Jiří Malysa",
+      "result": "1:22:48.5",
+      "date": "07.05.1994",
+      "place": "Bergen",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Chůze dráha 30000 m",
+      "athlete": "Ivo Piták",
+      "result": "2:12:17.0",
+      "date": "16.03.1986",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Chůze dráha 50000 m",
+      "athlete": "Vít Hlaváč",
+      "result": "3:56:28.4",
+      "date": "05.12.2020",
+      "place": "Trnava",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 4 × 100 metrů",
+      "athlete": "Zdeněk Stromšík Tomáš Němejc Eduard Kubelík Ondřej Macík",
+      "result": "38,59",
+      "date": "28. 6. 2025",
+      "place": "Madrid",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 100 m",
+      "athlete": "Milan Bělošek Jindřich Roun Jiří Mezihorák Karel Kopeček",
+      "result": "39,41",
+      "date": "19. 6. 1988",
+      "place": "Varšava",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 100 m mix kombinovaná",
+      "athlete": "Tomáš Tláskal Tereza Lamačová Eduard Kubelík Pavla Kvasničková",
+      "result": "41,89",
+      "date": "16. 6. 2026",
+      "place": "Ostrava",
+      "pending_ratification": "ano"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 200 m",
+      "athlete": "Jiří Mezihorák Milan Bělošek Karel Kopeček Jindřich Roun",
+      "result": "1:22,42",
+      "date": "28. 5. 1988",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "Běh na 4 × 400 metrů",
+      "athlete": "Jiří Mužík Radek Zachoval Štěpán Tesařík Karel Bláha",
+      "result": "3:03,62",
+      "date": "30. 5. 2001",
+      "place": "Ostrava",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 400 m kombinovaná",
+      "athlete": "Matěj Krsek Pavel Maslák Vít Müller Patrik Šorm",
+      "result": "3:00,99",
+      "date": "26. 8. 2023",
+      "place": "Budapešť",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 400 m mix",
+      "athlete": "Vojtěch Veselý Marcela Suchánková Jan Beneš Věra Holubářová",
+      "result": "3:27,50",
+      "date": "14. 6. 2026",
+      "place": "Brno",
+      "pending_ratification": "ano"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 400 m mix kombinovaná",
+      "athlete": "Matěj Krsek Tereza Petržilková Patrik Šorm Lada Vondrová",
+      "result": "3:11,98",
+      "date": "19. 8. 2023",
+      "place": "Budapešť",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 800 m",
+      "athlete": "Josef Odložil Petr Holas Milan Jílek Tomáš Salinger",
+      "result": "7:23,4",
+      "date": "19. 10. 1961",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 800 m kombinovaná",
+      "athlete": "Petr Bláha Pavel Pěnkava Pavel Hruška Jan Kasal",
+      "result": "7:19,6",
+      "date": "22. 6. 1966",
+      "place": "Londýn",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "muži",
+      "event": "4 x 1500 m",
+      "athlete": "Dušan Čikel Ivan Ullsperger Stanislav Jungwirth Alexander Zvolenský",
+      "result": "15:26,4",
+      "date": "31. 7. 1954",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 100 metrů",
+      "athlete": "Karolína Maňasová",
+      "result": "11,01 s (vítr +0.9)",
+      "date": "4. 6. 2026",
+      "place": "St. Pölten",
+      "pending_ratification": "ano"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 200 metrů",
+      "athlete": "Jarmila Kratochvílová",
+      "result": "21,97 s (vítr +1.9)",
+      "date": "6. 6. 1981",
+      "place": "Bratislava",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 400 metrů",
+      "athlete": "Jarmila Kratochvílová",
+      "result": "47,99 s",
+      "date": "10. 8. 1983",
+      "place": "Helsinky",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 800 metrů",
+      "athlete": "Jarmila Kratochvílová",
+      "result": "1:53,28",
+      "date": "26. 7. 1983",
+      "place": "Mnichov – světový rekord",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 1000 metrů",
+      "athlete": "Ludmila Formanová",
+      "result": "2:35,06",
+      "date": "17. 7. 1999",
+      "place": "Nice",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 1500 metrů",
+      "athlete": "Kristiina Sasínek Mäki",
+      "result": "4:01,23",
+      "date": "4. 8. 2021",
+      "place": "Tokio",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 1 míli",
+      "athlete": "Simona Vrzalová",
+      "result": "4:21,54",
+      "date": "22. 7. 2018",
+      "place": "Londýn",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 2000 metrů",
+      "athlete": "Kristiina Sasínek Mäki",
+      "result": "5:36,06",
+      "date": "14. 9. 2021",
+      "place": "Záhřeb",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 3000 metrů",
+      "athlete": "Kristiina Sasínek Mäki",
+      "result": "8:51,69",
+      "date": "21. 6. 2014",
+      "place": "Braunschweig",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 5000 metrů",
+      "athlete": "Moira Stewartová",
+      "result": "15:23,01",
+      "date": "14. 6. 2025",
+      "place": "Wien",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 10 000 metrů",
+      "athlete": "Moira Stewartová",
+      "result": "32:08,96",
+      "date": "28. 5. 2022",
+      "place": "Pacé",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 20 000 metrů",
+      "athlete": "Ivana Sekyrová",
+      "result": "1:15:50,92",
+      "date": "22. 11. 2009",
+      "place": "Plzeň",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Půlmaraton",
+      "athlete": "Moira Stewartová",
+      "result": "1:08:44",
+      "date": "27. 10. 2024",
+      "place": "Valencie",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Maratonský běh",
+      "athlete": "Moira Stewartová",
+      "result": "2:23:44",
+      "date": "1. 12. 2024",
+      "place": "Valencie",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "100 m překážek",
+      "athlete": "Lucie Škrobáková",
+      "result": "12,73 s",
+      "date": "5. 7. 2009",
+      "place": "Kladno",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 400 metrů překážek",
+      "athlete": "Zuzana Hejnová",
+      "result": "52,83 s",
+      "date": "15. 8. 2013",
+      "place": "Moskva",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Běh na 3000 metrů překážek",
+      "athlete": "Marcela Lustigová",
+      "result": "9:41,73",
+      "date": "13. 6. 2011",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Skok do výšky",
+      "athlete": "Zuzana Hlavoňová",
+      "result": "200 cm",
+      "date": "5. 6. 2000",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Skok o tyči",
+      "athlete": "Amálie Švábíková",
+      "result": "480 cm",
+      "date": "7. 8. 2024",
+      "place": "Paříž",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Skok daleký",
+      "athlete": "Jarmila Strejčková",
+      "result": "689 cm",
+      "date": "18. 9. 1982",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Trojskok",
+      "athlete": "Šárka Kašpárková",
+      "result": "15,20 m",
+      "date": "4. 8. 1997",
+      "place": "Atény",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Vrh koulí",
+      "athlete": "Helena Fibingerová",
+      "result": "22,32 m",
+      "date": "20. 8. 1977",
+      "place": "Nitra – nejstarší rekord",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Hod diskem",
+      "athlete": "Zdeňka Šilhavá",
+      "result": "74,56 m",
+      "date": "26. 8. 1984",
+      "place": "Nitra",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Hod kladivem",
+      "athlete": "Kateřina Šafránková",
+      "result": "72,47 m",
+      "date": "12. 6. 2016",
+      "place": "Kolín",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Hod oštěpem",
+      "athlete": "Barbora Špotáková",
+      "result": "72,28 m",
+      "date": "13. 9. 2008",
+      "place": "Stuttgart – světový rekord",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Sedmiboj",
+      "athlete": "Eliška Klučinová",
+      "result": "6460 bodů",
+      "date": "14. 6. 2014",
+      "place": "Kladno",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Chůze na 10 km",
+      "athlete": "Eliška Martínková",
+      "result": "43:24",
+      "date": "25. 5.2024",
+      "place": "Borský Mikuláš",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Chůze na 20 km",
+      "athlete": "Anežka Drahotová",
+      "result": "1:26:53",
+      "date": "17. 5. 2015",
+      "place": "Murcia",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "Chůze na 35 km",
+      "athlete": "Tereza Ďurdiaková",
+      "result": "2:49,06",
+      "date": "24. 8.2023",
+      "place": "Budapešť",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "4 x 100 m",
+      "athlete": "Kristýna Kobiánová Martina Hofmanová Klára Seidlová Lada Vondrová",
+      "result": "44,38",
+      "date": "4. 7. 2020",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "4 x 100 m kombinovaná",
+      "athlete": "Štěpánka Sokolová Radislava Šoborová Taťána Kocembová Jarmila Kratochvílová",
+      "result": "42,98",
+      "date": "18. 8. 1982",
+      "place": "Curych",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "4 x 200 m",
+      "athlete": "Zuzana Glosová Alena Vozáková Eva Putnová Jana Šmerdová",
+      "result": "1:39,9",
+      "date": "10. 9. 1968",
+      "place": "Brno",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "4 x 400 m",
+      "athlete": "Denisa Rosolová Zuzana Bergrová Jitka Bartoničková Zuzana Hejnová",
+      "result": "3:26,01",
+      "date": "2. 9. 2011",
+      "place": "Tegu",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "4 x 400 m kombinovaná",
+      "athlete": "Taťána Kocembová Milena Matějkovičová Zuzana Moravčíková Jarmila Kratochvílová",
+      "result": "3:20,32",
+      "date": "14. 8. 1983",
+      "place": "Helsinky",
+      "pending_ratification": "ne"
+    },
+    {
+      "category": "ženy",
+      "event": "4 x 800 m",
+      "athlete": "Ivana Brožová Věra Mertlíková Jindřiška Červená Miluše Hrstková",
+      "result": "9:15,2",
+      "date": "12. 10. 1974",
+      "place": "Praha",
+      "pending_ratification": "ne"
+    }
+  ],
+  "meta": {
+    "title": "České rekordy v atletice (muži a ženy) - Free Download",
+    "description": "Aktuální české rekordy v atletice mužů a žen podle disciplín s držitelem rekordu, výkonem, datem a místem. Contains 83 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "České rekordy v atletice (muži a ženy) | ListBase",
+    "seo_description": "Download České rekordy v atletice (muži a ženy) — 83 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 83 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/České_rekordy_v_atletice_–_muži"
+    ]
+  }
+}
