@@ -1,0 +1,1105 @@
+{
+  "id": "cs-vyvojari-pocitacovych-her",
+  "name": "Čeští vývojáři a vydavatelé počítačových her",
+  "title": "Čeští vývojáři a vydavatelé počítačových her",
+  "description": "Seznam českých herních studií a vydavatelů počítačových her s předchozími názvy, rokem vzniku a zániku, sídlem a významnými hrami.",
+  "category": "tech",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_českých_vývojářů_a_vydavatelů_počítačových_her",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_českých_vývojářů_a_vydavatelů_počítačových_her",
+  "updated": "2026-11",
+  "record_count": 116,
+  "columns": [
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "former_names",
+      "label": "Former Names",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "defunct",
+      "label": "Defunct",
+      "type": "number"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "string"
+    },
+    {
+      "key": "headquarters",
+      "label": "Headquarters",
+      "type": "string"
+    },
+    {
+      "key": "notable_games",
+      "label": "Notable Games",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "company": "2K Czech",
+      "former_names": "Illusion Softworks",
+      "founded": 1997,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno Praha",
+      "notable_games": "Hidden & Dangerous Mafia: The City of Lost Heaven Top Spin 4"
+    },
+    {
+      "company": "AAAGAMES",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Děčín",
+      "notable_games": ""
+    },
+    {
+      "company": "About Fun",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Mega Dead Pixel"
+    },
+    {
+      "company": "Aimia",
+      "former_names": "",
+      "founded": 2009,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "BubbleDoms"
+    },
+    {
+      "company": "Alda Games",
+      "former_names": "",
+      "founded": 2013,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Zachraň šneka Sýrový svět Eggies Defend Your Life"
+    },
+    {
+      "company": "Allodium",
+      "former_names": "",
+      "founded": 2007,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Infinitum"
+    },
+    {
+      "company": "ALTAR Games",
+      "former_names": "Altar Interactive",
+      "founded": 1997,
+      "defunct": "2010",
+      "active": "ne",
+      "headquarters": "Brno",
+      "notable_games": "Original War Fish Fillets"
+    },
+    {
+      "company": "Altern",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": ""
+    },
+    {
+      "company": "Amanita Design",
+      "former_names": "",
+      "founded": 2003,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Samorost Machinarium Botanicula"
+    },
+    {
+      "company": "AnakreoN",
+      "former_names": "",
+      "founded": 1997,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Berušky"
+    },
+    {
+      "company": "Artax Apps",
+      "former_names": "",
+      "founded": 1998,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Laika: Dog in Space"
+    },
+    {
+      "company": "BadFly Interactive",
+      "former_names": "",
+      "founded": 2014,
+      "defunct": "Stále funguje [ zdroj? ]",
+      "active": "ne",
+      "headquarters": "Brno",
+      "notable_games": "TAUCETI Unknown"
+    },
+    {
+      "company": "Banzai Interactive",
+      "former_names": "",
+      "founded": 2008,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Book of Legends"
+    },
+    {
+      "company": "BeerDeer Games",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": ""
+    },
+    {
+      "company": "Black Element Software",
+      "former_names": "",
+      "founded": 2000,
+      "defunct": "2010",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Alpha Prime"
+    },
+    {
+      "company": "Blueplop",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Sea Empire"
+    },
+    {
+      "company": "Bohemia Interactive",
+      "former_names": "",
+      "founded": 1999,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Mníšek pod Brdy Praha Brno",
+      "notable_games": "Operace Flashpoint Arma: Armed Assault Take On Helicopters DayZ"
+    },
+    {
+      "company": "Boomer Games",
+      "former_names": "",
+      "founded": 2021,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Prostějov",
+      "notable_games": "Last Holiday"
+    },
+    {
+      "company": "CatLowe",
+      "former_names": "",
+      "founded": 2021,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "My cat friend – pet simulator CatLowe Memory Card Pet Hero vs Zombie CatLowe TapTap"
+    },
+    {
+      "company": "CBE Software",
+      "former_names": "Cardboard Box Entertainment",
+      "founded": 2006,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "J.U.L.I.A."
+    },
+    {
+      "company": "Cenega Czech",
+      "former_names": "Bohemia Interactive",
+      "founded": 1993,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": ""
+    },
+    {
+      "company": "Centauri Production",
+      "former_names": "",
+      "founded": 2000,
+      "defunct": "2012",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Pohádka o Mrazíkovi, Ivanovi a Nastěnce Memento Mori"
+    },
+    {
+      "company": "CGE Digital",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Through the Ages: Příběh civilizace Galaxy Trucker"
+    },
+    {
+      "company": "Cinemax",
+      "former_names": "",
+      "founded": 1997,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Gumboy: Crazy Adventures Inquisitor"
+    },
+    {
+      "company": "Circus Atos",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "One City's Adventure"
+    },
+    {
+      "company": "Craneballs Studios",
+      "former_names": "",
+      "founded": 2008,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Ostrava",
+      "notable_games": "Overkill"
+    },
+    {
+      "company": "Cybernautica",
+      "former_names": "",
+      "founded": 2017,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "BlackJack Diamond Series"
+    },
+    {
+      "company": "Dactyl Group",
+      "former_names": "",
+      "founded": 2014,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": ""
+    },
+    {
+      "company": "Daniel Viktorin",
+      "former_names": "",
+      "founded": 2003,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "MHD Simulator 2009"
+    },
+    {
+      "company": "Dead Crow Games",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "ShotDot"
+    },
+    {
+      "company": "Digital life productions",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Hradec Králové",
+      "notable_games": "Soccerinho"
+    },
+    {
+      "company": "Disney Mobile Prague Studio",
+      "former_names": "",
+      "founded": 2000,
+      "defunct": "2014",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Pirates of the Caribian Nemo's Reef ToyStory Smash it! Lone Ranger StarWars: Assault Team"
+    },
+    {
+      "company": "Dreadlocks",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Rune Legend Mimpi Mimpi Dreams Dex Ghost Theory"
+    },
+    {
+      "company": "Dombee Softworks",
+      "former_names": "",
+      "founded": 2015,
+      "defunct": "2017",
+      "active": "ne",
+      "headquarters": "Česká republika",
+      "notable_games": "Winterstones, Watahell, a další nezávislé hry"
+    },
+    {
+      "company": "eeGon Games",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "TurtleStrike"
+    },
+    {
+      "company": "Enteron",
+      "former_names": "",
+      "founded": 2001,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "6 ženichů & 1 navíc"
+    },
+    {
+      "company": "Fanatic Games",
+      "former_names": "",
+      "founded": 2000,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Opava",
+      "notable_games": ""
+    },
+    {
+      "company": "Falanxia",
+      "former_names": "",
+      "founded": 2007,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Spaced Away"
+    },
+    {
+      "company": "Fat Funky",
+      "former_names": "",
+      "founded": 2007,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Kulivočko"
+    },
+    {
+      "company": "Fineway Studios",
+      "former_names": "",
+      "founded": 2013,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Vestige of the Past"
+    },
+    {
+      "company": "FiolaSoft Studio",
+      "former_names": "",
+      "founded": 2002,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "PacIn: Nermessova pomsta Blackhole"
+    },
+    {
+      "company": "Flow Studio",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Sortee"
+    },
+    {
+      "company": "Friml",
+      "former_names": "",
+      "founded": 2008,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Předškolní brašnička"
+    },
+    {
+      "company": "Future Games",
+      "former_names": "",
+      "founded": 1999,
+      "defunct": "2011",
+      "active": "ne",
+      "headquarters": "Beroun",
+      "notable_games": "Ni.Bi.Ru: Messenger of the Gods"
+    },
+    {
+      "company": "Gametoria",
+      "former_names": "",
+      "founded": 2017,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Cartoon Strike"
+    },
+    {
+      "company": "Gamifi.cc",
+      "former_names": "Wicked Games",
+      "founded": 2007,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Yggdrasil: The Tree of Life"
+    },
+    {
+      "company": "Geewa",
+      "former_names": "",
+      "founded": 2005,
+      "defunct": "2025",
+      "active": "ne",
+      "headquarters": "Praha Brno Berlín",
+      "notable_games": "Pool Live Tour Slovní fotbal Age of Defenders"
+    },
+    {
+      "company": "Pixelfield",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": ""
+    },
+    {
+      "company": "Grip Games",
+      "former_names": "",
+      "founded": 2009,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Foosball 2012"
+    },
+    {
+      "company": "Gumpanela",
+      "former_names": "",
+      "founded": 2005,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": ""
+    },
+    {
+      "company": "Hangonit",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Rememoried"
+    },
+    {
+      "company": "Hammerware",
+      "former_names": "",
+      "founded": 2005,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Family Farm"
+    },
+    {
+      "company": "Handjoy",
+      "former_names": "",
+      "founded": 2005,
+      "defunct": "2010",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Ranní show Evropy 2 Bulánci (Java) Unesli Barmana"
+    },
+    {
+      "company": "Hexage",
+      "former_names": "",
+      "founded": 2009,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Mníšek pod Brdy",
+      "notable_games": "Radiant Defense"
+    },
+    {
+      "company": "HGames-ArtWorks",
+      "former_names": "",
+      "founded": 2014,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": ""
+    },
+    {
+      "company": "Hyperbolic Magnetism",
+      "former_names": "",
+      "founded": 2010,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Lums"
+    },
+    {
+      "company": "Chaos Concept",
+      "former_names": "",
+      "founded": 2007,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "UFO: Extraterrestrials"
+    },
+    {
+      "company": "Icarus Games",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Lost Civilization"
+    },
+    {
+      "company": "IDEA Games",
+      "former_names": "",
+      "founded": 2005,
+      "defunct": "",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Red Dragon [ zdroj? ]"
+    },
+    {
+      "company": "inDev Brain",
+      "former_names": "",
+      "founded": 2013,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Dead Effect"
+    },
+    {
+      "company": "Inputwish",
+      "former_names": "",
+      "founded": 2005,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Becherov"
+    },
+    {
+      "company": "Keen Software House",
+      "former_names": "",
+      "founded": 2007,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Miner Wars 2081 Medieval Engineers Space Engineers"
+    },
+    {
+      "company": "Last Step",
+      "former_names": "",
+      "founded": 2018,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Caution Fapping Simulator"
+    },
+    {
+      "company": "letzgame",
+      "former_names": "",
+      "founded": 2013,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Slots Ancient"
+    },
+    {
+      "company": "Lightning Soft",
+      "former_names": "",
+      "founded": 2008,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Warped Times: Pres3nt"
+    },
+    {
+      "company": "Lipa Learning",
+      "former_names": "Lipa Games",
+      "founded": 2012,
+      "defunct": "Konkurs",
+      "active": "ne",
+      "headquarters": "Praha, Brno",
+      "notable_games": "Lipa Eggs Lipa Land"
+    },
+    {
+      "company": "LittleColor",
+      "former_names": "",
+      "founded": 2007,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Bradlec",
+      "notable_games": "Fruit Dating"
+    },
+    {
+      "company": "Little Games Company",
+      "former_names": "",
+      "founded": 2009,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Zulu's Zoo"
+    },
+    {
+      "company": "Lonely Sock",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Coral City"
+    },
+    {
+      "company": "SZEINER",
+      "former_names": "Cybersphere Entertainment, Lusorion Creatives",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Zbýšov",
+      "notable_games": "Azulgar: Star Commanders Cybershift NEO: Commanders"
+    },
+    {
+      "company": "Madfinger Games",
+      "former_names": "Mad Finger Games",
+      "founded": 2010,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Samurai II: Vengeance Shadowgun Dead Trigger"
+    },
+    {
+      "company": "Mael Software Group",
+      "former_names": "",
+      "founded": 1994,
+      "defunct": "1994",
+      "active": "ne",
+      "headquarters": "Děčín",
+      "notable_games": "Mavlin: Vesmírný únik"
+    },
+    {
+      "company": "Main Quest",
+      "former_names": "",
+      "founded": 2021,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Shy Eye Labyrinth: The Incredible Mystery, Rage Drivers"
+    },
+    {
+      "company": "Megacorp Tycoon team",
+      "former_names": "",
+      "founded": 2024,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Megacorp Tycoon"
+    },
+    {
+      "company": "Mindware Studios",
+      "former_names": "",
+      "founded": 2002,
+      "defunct": "2011",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Cold War"
+    },
+    {
+      "company": "Mingle Games",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Dark Lands"
+    },
+    {
+      "company": "Morning Fail",
+      "former_names": "",
+      "founded": 2013,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Ústí nad Labem",
+      "notable_games": "OVOpet"
+    },
+    {
+      "company": "mugeaters",
+      "former_names": "",
+      "founded": 2010,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Woozzle"
+    },
+    {
+      "company": "Mystiqular",
+      "former_names": "",
+      "founded": 2022,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Revive & Prosper"
+    },
+    {
+      "company": "mystoryous",
+      "former_names": "",
+      "founded": 2014,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "VidereLux DinoParty Prehistory"
+    },
+    {
+      "company": "Napoleon Games",
+      "former_names": "",
+      "founded": 1994,
+      "defunct": "V likvidaci",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Colony 28 Brány Skeldalu"
+    },
+    {
+      "company": "NoEZ games",
+      "former_names": "",
+      "founded": 2019,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Aledorn"
+    },
+    {
+      "company": "NoSense",
+      "former_names": "",
+      "founded": 1994,
+      "defunct": "1997",
+      "active": "ne",
+      "headquarters": "Brno",
+      "notable_games": "Dračí Historie"
+    },
+    {
+      "company": "Nostromo Wireless",
+      "former_names": "",
+      "founded": 2002,
+      "defunct": "",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Twilight: The Movie Game"
+    },
+    {
+      "company": "NOX GAMES",
+      "former_names": "",
+      "founded": 2005,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Green Archer"
+    },
+    {
+      "company": "Off Studio",
+      "former_names": "",
+      "founded": 2002,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Pět kouzelných amuletů"
+    },
+    {
+      "company": "Paperash Studio",
+      "former_names": "",
+      "founded": 2013,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Dark Train"
+    },
+    {
+      "company": "Phoenix Arts",
+      "former_names": "",
+      "founded": 1994,
+      "defunct": "1998",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Paranoia"
+    },
+    {
+      "company": "Plastic Reality Technologies",
+      "former_names": "",
+      "founded": 2000,
+      "defunct": "2006",
+      "active": "ne",
+      "headquarters": "Brno",
+      "notable_games": "El Matador"
+    },
+    {
+      "company": "Pixalon Studios",
+      "former_names": "",
+      "founded": 2008,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "UFO: Afterlight (verze pro mobily)"
+    },
+    {
+      "company": "Proxima - software nové dimenze",
+      "former_names": "Proxima – Software",
+      "founded": 1990,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Ústí nad Labem",
+      "notable_games": "Jméno růže Indiana Jones Adventurer"
+    },
+    {
+      "company": "Playito",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Scarab Tales"
+    },
+    {
+      "company": "Pterodon",
+      "former_names": "",
+      "founded": 1998,
+      "defunct": "2006",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Vietcong"
+    },
+    {
+      "company": "Rake in Grass",
+      "former_names": "",
+      "founded": 2000,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Jets'n'Guns"
+    },
+    {
+      "company": "Reinto",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Chytni Svojdu!"
+    },
+    {
+      "company": "Running Pillow",
+      "former_names": "",
+      "founded": 2009,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Dragon Keeper"
+    },
+    {
+      "company": "Silicon Jelly",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Mimpi"
+    },
+    {
+      "company": "SBC Games",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "",
+      "notable_games": "Fruit Dating"
+    },
+    {
+      "company": "SCS Software",
+      "former_names": "",
+      "founded": 1997,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Euro Truck Simulator Euro Truck Simulator 2 American Truck Simulator"
+    },
+    {
+      "company": "Sektan",
+      "former_names": "",
+      "founded": 2018,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Čelákovice",
+      "notable_games": "SE VR World Demo Rangers Titan78"
+    },
+    {
+      "company": "Shader Mess",
+      "former_names": "",
+      "founded": 2024,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Whispers of Prague"
+    },
+    {
+      "company": "Sleepteam Labs",
+      "former_names": "",
+      "founded": 1996,
+      "defunct": "2009",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "Polda Bulánci"
+    },
+    {
+      "company": "Soulbound Games",
+      "former_names": "",
+      "founded": 2013,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Zlín",
+      "notable_games": ""
+    },
+    {
+      "company": "Terahype",
+      "former_names": "",
+      "founded": 2022,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Boom Castle"
+    },
+    {
+      "company": "Top Galaxy",
+      "former_names": "",
+      "founded": 1997,
+      "defunct": "2000",
+      "active": "ne",
+      "headquarters": "Přestanov",
+      "notable_games": "Dreamland: Final Solution"
+    },
+    {
+      "company": "The Easy Company",
+      "former_names": "",
+      "founded": 2007,
+      "defunct": "2010",
+      "active": "ne",
+      "headquarters": "Praha",
+      "notable_games": "MotorM4X"
+    },
+    {
+      "company": "Trickster Arts",
+      "former_names": "",
+      "founded": 2012,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Hero of Many"
+    },
+    {
+      "company": "Trinerdis",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Brno",
+      "notable_games": "Escapology"
+    },
+    {
+      "company": "Unknown Identity",
+      "former_names": "",
+      "founded": 1996,
+      "defunct": "2005",
+      "active": "ne",
+      "headquarters": "",
+      "notable_games": "Posel smrti"
+    },
+    {
+      "company": "Vatra Games",
+      "former_names": "",
+      "founded": 2008,
+      "defunct": "2012",
+      "active": "ne",
+      "headquarters": "Brno",
+      "notable_games": "Silent Hill: Downpour"
+    },
+    {
+      "company": "Vochozka Trading",
+      "former_names": "",
+      "founded": 1994,
+      "defunct": "2008",
+      "active": "ne",
+      "headquarters": "Brno",
+      "notable_games": ""
+    },
+    {
+      "company": "Warhorse Studios",
+      "former_names": "",
+      "founded": 2011,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Kingdom Come: Deliverance Kingdom Come: Deliverance II"
+    },
+    {
+      "company": "Webgame",
+      "former_names": "",
+      "founded": 2001,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "WebGame"
+    },
+    {
+      "company": "Enzof Studio",
+      "former_names": "",
+      "founded": 2010,
+      "defunct": "2019",
+      "active": "ne",
+      "headquarters": "Kolín",
+      "notable_games": ""
+    },
+    {
+      "company": "Zima Software",
+      "former_names": "",
+      "founded": 1995,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": "Polda"
+    },
+    {
+      "company": "Špidla Data Processing",
+      "former_names": "",
+      "founded": 1992,
+      "defunct": "",
+      "active": "ano",
+      "headquarters": "Praha",
+      "notable_games": ""
+    }
+  ],
+  "meta": {
+    "title": "Čeští vývojáři a vydavatelé počítačových her - Free Download",
+    "description": "Seznam českých herních studií a vydavatelů počítačových her s předchozími názvy, rokem vzniku a zániku, sídlem a významnými hrami. Contains 116 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Čeští vývojáři a vydavatelé počítačových her | ListBase",
+    "seo_description": "Download Čeští vývojáři a vydavatelé počítačových her — 116 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 116 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_českých_vývojářů_a_vydavatelů_počítačových_her"
+    ]
+  }
+}

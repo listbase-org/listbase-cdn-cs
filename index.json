@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-20T02:10:58.471Z",
-  "total_datasets": 585,
-  "total_records": 425186,
+  "generated": "2026-11-20T02:11:08.227Z",
+  "total_datasets": 586,
+  "total_records": 425302,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 16
+      "dataset_count": 17
     },
     {
       "id": "time",
@@ -15375,6 +15375,34 @@
         "xlsx": {
           "name": "cs-vysilace-televize-rozhlas_CS.xlsx",
           "size": 14888
+        }
+      }
+    },
+    {
+      "id": "cs-vyvojari-pocitacovych-her",
+      "name": "Čeští vývojáři a vydavatelé počítačových her",
+      "category": "tech",
+      "record_count": 116,
+      "columns": [
+        "company",
+        "former_names",
+        "founded",
+        "defunct",
+        "active",
+        "headquarters",
+        "notable_games"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_českých_vývojářů_a_vydavatelů_počítačových_her",
+      "updated": "2026-11",
+      "size": 27545,
+      "files": {
+        "csv": {
+          "name": "cs-vyvojari-pocitacovych-her_CS.csv",
+          "size": 7982
+        },
+        "xlsx": {
+          "name": "cs-vyvojari-pocitacovych-her_CS.xlsx",
+          "size": 13298
         }
       }
     },
