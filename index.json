@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-19T02:25:33.598Z",
-  "total_datasets": 583,
-  "total_records": 425074,
+  "generated": "2026-11-20T02:10:48.830Z",
+  "total_datasets": 584,
+  "total_records": 425103,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 30
+      "dataset_count": 31
     },
     {
       "id": "society",
@@ -13933,6 +13933,34 @@
         "xlsx": {
           "name": "cs-zubni-ordinace_CS.xlsx",
           "size": 21260
+        }
+      }
+    },
+    {
+      "id": "cs-ceske-meteority",
+      "name": "Meteority nalezené v Česku",
+      "category": "science",
+      "record_count": 29,
+      "columns": [
+        "name",
+        "year",
+        "region",
+        "group",
+        "type_class",
+        "mass",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_českých_meteoritů",
+      "updated": "2026-11",
+      "size": 7626,
+      "files": {
+        "csv": {
+          "name": "cs-ceske-meteority_CS.csv",
+          "size": 2231
+        },
+        "xlsx": {
+          "name": "cs-ceske-meteority_CS.xlsx",
+          "size": 8366
         }
       }
     },

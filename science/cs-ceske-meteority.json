@@ -1,0 +1,322 @@
+{
+  "id": "cs-ceske-meteority",
+  "name": "Meteority nalezené v Česku",
+  "title": "Meteority nalezené v Česku",
+  "description": "Seznam meteoritů nalezených nebo pozorovaných na území Česka s rokem, krajem, skupinou (železné, achondrity, chondrity…), typem/klasifikací a hmotností.",
+  "category": "science",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_českých_meteoritů",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_českých_meteoritů",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    },
+    {
+      "key": "type_class",
+      "label": "Type Class",
+      "type": "string"
+    },
+    {
+      "key": "mass",
+      "label": "Mass",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Loket",
+      "year": 1400,
+      "region": "Karlovarský kraj",
+      "group": "Železné",
+      "type_class": "železný, IID",
+      "mass": "107 kg",
+      "note": ""
+    },
+    {
+      "name": "Odranec",
+      "year": 1619,
+      "region": "Vysočina",
+      "group": "Železné",
+      "type_class": "železo",
+      "mass": "",
+      "note": "ztracený"
+    },
+    {
+      "name": "Bohumilice",
+      "year": 1829,
+      "region": "Jihočeský kraj",
+      "group": "Železné",
+      "type_class": "železný, IAB-MG",
+      "mass": "59 kg",
+      "note": ""
+    },
+    {
+      "name": "Broumov",
+      "year": 1847,
+      "region": "Královéhradecký kraj",
+      "group": "Železné",
+      "type_class": "železo, IIAB",
+      "mass": "39 kg",
+      "note": ""
+    },
+    {
+      "name": "Stará Bělá",
+      "year": 1898,
+      "region": "Moravskoslezský kraj",
+      "group": "Železné",
+      "type_class": "železo, IID",
+      "mass": "4 kg",
+      "note": ""
+    },
+    {
+      "name": "Sedlčany",
+      "year": 1900,
+      "region": "Středočeský kraj",
+      "group": "Železné",
+      "type_class": "železo",
+      "mass": "20 g",
+      "note": ""
+    },
+    {
+      "name": "Teplá",
+      "year": 1909,
+      "region": "Karlovarský kraj",
+      "group": "Železné",
+      "type_class": "železo, IIIAB",
+      "mass": "17 kg",
+      "note": ""
+    },
+    {
+      "name": "Vícenice",
+      "year": 1911,
+      "region": "Vysočina",
+      "group": "Železné",
+      "type_class": "železo, IID",
+      "mass": "4.37 kg",
+      "note": ""
+    },
+    {
+      "name": "Opava",
+      "year": 1925,
+      "region": "Moravskoslezský kraj",
+      "group": "Železné",
+      "type_class": "železo, IIA",
+      "mass": "14,3 kg",
+      "note": ""
+    },
+    {
+      "name": "Chlumec",
+      "year": 1993,
+      "region": "Královéhradecký kraj",
+      "group": "Železné",
+      "type_class": "železo, neseskupené",
+      "mass": "3 kg",
+      "note": ""
+    },
+    {
+      "name": "Potůčky (Breitenbach)",
+      "year": 1861,
+      "region": "Karlovarský kraj",
+      "group": "Mezosiderit",
+      "type_class": "mezosiderit",
+      "mass": "10,5 kg",
+      "note": ""
+    },
+    {
+      "name": "Stonařov",
+      "year": 1808,
+      "region": "Vysočina",
+      "group": "Achondrit",
+      "type_class": "achondrit",
+      "mass": "52 kg",
+      "note": ""
+    },
+    {
+      "name": "Ploskovice",
+      "year": 1723,
+      "region": "Ústecký kraj",
+      "group": "Chondrity",
+      "type_class": "L5",
+      "mass": "39 g",
+      "note": ""
+    },
+    {
+      "name": "Tábor",
+      "year": 1753,
+      "region": "Jihočeský kraj",
+      "group": "Chondrity",
+      "type_class": "H5",
+      "mass": "7.54 kg",
+      "note": ""
+    },
+    {
+      "name": "Lysá nad Labem",
+      "year": 1808,
+      "region": "Středočeský kraj",
+      "group": "Chondrity",
+      "type_class": "L6",
+      "mass": "12,8 kg",
+      "note": ""
+    },
+    {
+      "name": "Žebrák",
+      "year": 1824,
+      "region": "Středočeský kraj",
+      "group": "Chondrity",
+      "type_class": "H5",
+      "mass": "2 kg",
+      "note": ""
+    },
+    {
+      "name": "Vnorovy u Veselí nad Moravou",
+      "year": 1831,
+      "region": "Jihomoravský kraj",
+      "group": "Chondrity",
+      "type_class": "H5",
+      "mass": "3,75 kg",
+      "note": ""
+    },
+    {
+      "name": "Blansko",
+      "year": 1833,
+      "region": "Jihomoravský kraj",
+      "group": "Chondrity",
+      "type_class": "H6",
+      "mass": "470 g",
+      "note": ""
+    },
+    {
+      "name": "Těšice",
+      "year": 1878,
+      "region": "Olomoucký kraj",
+      "group": "Chondrity",
+      "type_class": "H / L3.6",
+      "mass": "28 kg",
+      "note": ""
+    },
+    {
+      "name": "Sazovice",
+      "year": 1934,
+      "region": "Zlínský kraj",
+      "group": "Chondrity",
+      "type_class": "L5",
+      "mass": "412 g",
+      "note": ""
+    },
+    {
+      "name": "Zlín",
+      "year": 1939,
+      "region": "Zlínský kraj",
+      "group": "Chondrity",
+      "type_class": "H4",
+      "mass": "3,3 g",
+      "note": ""
+    },
+    {
+      "name": "Příbram",
+      "year": 1959,
+      "region": "Středočeský kraj",
+      "group": "Chondrity",
+      "type_class": "H5",
+      "mass": "5,56 kg",
+      "note": ""
+    },
+    {
+      "name": "Ústí nad Orlicí",
+      "year": 1963,
+      "region": "Pardubický kraj",
+      "group": "Chondrity",
+      "type_class": "L6",
+      "mass": "1269 g",
+      "note": ""
+    },
+    {
+      "name": "Suchý Důl (Police nad Metují)",
+      "year": 1969,
+      "region": "Královéhradecký kraj",
+      "group": "Chondrity",
+      "type_class": "L6",
+      "mass": "815 g",
+      "note": ""
+    },
+    {
+      "name": "Morávka",
+      "year": 2000,
+      "region": "Moravskoslezský kraj",
+      "group": "Chondrity",
+      "type_class": "H5",
+      "mass": "633 g",
+      "note": ""
+    },
+    {
+      "name": "Benešov (a)",
+      "year": 2011,
+      "region": "Středočeský kraj",
+      "group": "Chondrity",
+      "type_class": "LL3.5",
+      "mass": "9,7 g",
+      "note": ""
+    },
+    {
+      "name": "Benešov (b)",
+      "year": 2011,
+      "region": "Středočeský kraj",
+      "group": "Chondrity",
+      "type_class": "H5",
+      "mass": "1,54 g",
+      "note": ""
+    },
+    {
+      "name": "Žďár nad Sázavou",
+      "year": 2014,
+      "region": "Vysočina",
+      "group": "Chondrity",
+      "type_class": "L3",
+      "mass": "45 g",
+      "note": ""
+    },
+    {
+      "name": "Hradec Králové",
+      "year": 2016,
+      "region": "Královéhradecký kraj",
+      "group": "Chondrity",
+      "type_class": "LL5",
+      "mass": "135 g",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Meteority nalezené v Česku - Free Download",
+    "description": "Seznam meteoritů nalezených nebo pozorovaných na území Česka s rokem, krajem, skupinou (železné, achondrity, chondrity…), typem/klasifikací a hmotností. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Meteority nalezené v Česku | ListBase",
+    "seo_description": "Download Meteority nalezené v Česku — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_českých_meteoritů"
+    ]
+  }
+}
