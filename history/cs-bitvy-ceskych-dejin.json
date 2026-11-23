@@ -1,0 +1,2050 @@
+{
+  "id": "cs-bitvy-ceskych-dejin",
+  "name": "Bitvy českých dějin",
+  "title": "Bitvy českých dějin",
+  "description": "Přehled bitev, obléhání a ozbrojených střetnutí v českých dějinách od 7. století po současnost s datem, historickým obdobím, souřadnicemi a stručným popisem.",
+  "category": "history",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_bitev_českých_dějin",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_bitev_českých_dějin",
+  "updated": "2026-11",
+  "record_count": 221,
+  "columns": [
+    {
+      "key": "battle",
+      "label": "Battle",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "number"
+    },
+    {
+      "key": "era",
+      "label": "Era",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "battle": "Bitva s Avary",
+      "date": "626",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Utlačovaní Slované, pod velením franského kupce Sáma, porazili vojsko Avarů."
+    },
+    {
+      "battle": "Bitva u Wogastisburgu",
+      "date": "631 nebo 632",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Slované vedení králem Sámem porazili franské vojsko Dagoberta I."
+    },
+    {
+      "battle": "Bitva u Canburgu",
+      "date": "805",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Češi ubránili před mohutnou armádou Karla Velikého hradiště Canburg."
+    },
+    {
+      "battle": "Bitva u záseků",
+      "date": "849",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Češi, na česko-franské hranici, porazili vojsko východofranského panovníka Ludvíka Němce."
+    },
+    {
+      "battle": "Lucká válka též bitva u Turska",
+      "date": "kolem roku 850",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "České vojsko, pod vedením Tyra (Čestmíra), převlečeného za knížete Neklana, porazilo vojsko kmene Lučanů, vedené knížetem Vlastislavem."
+    },
+    {
+      "battle": "Bitva u Rastislavova hradu",
+      "date": "864",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Moravské vojsko, pod vedením knížete Svatopluka rozdrtilo vojsko Franků (místo, kde stál Rostislavův hrad, není dodnes známo)."
+    },
+    {
+      "battle": "Bitva u Vltavy",
+      "date": "872",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Vojsko pěti českých knížat bylo poraženo na neznámém místě u Vltavy oddíly Ludvíka Němce, kterým velel mohučský arcibiskup Luibert."
+    },
+    {
+      "battle": "Bitva u Míšně",
+      "date": "936",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "České vojsko, které jeho velitel kníže Boleslav I. rozdělil na dvě části, se střetlo s armádami Sasů a Durynků. Poté, co první armáda porazila Durynky, přispěchala na pomoc svým druhům, kteří byli od Sasů poraženi. Boj vyvrcholil saskou porážkou."
+    },
+    {
+      "battle": "Bitva na Lechu",
+      "date": "10. srpen 955",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": 48.29556,
+      "lon": 10.9275,
+      "note": "Vojsko německého krále Otty I., za podpory dalších vladařů včetně českého knížete Boleslava I., zastavilo postup staromaďarských kmenů do západní Evropy."
+    },
+    {
+      "battle": "Bitva u Plzně",
+      "date": "976",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "České vojsko knížete Boleslava II. u Plzně přepadlo a rozdrtilo odpočívající vojsko císaře Oty II."
+    },
+    {
+      "battle": "Vyvraždění Slavníkovců",
+      "date": "27. – 28. září 995",
+      "era": "Středověk",
+      "period": "Počátky českého státu – raný středověk",
+      "lat": 50.12694,
+      "lon": 15.17278,
+      "note": "Vojsko Přemyslovce Boleslava II. zaútočilo na rodové sídlo Slavníkovců v Libici nad Cidlinou, přičemž oslabenou posádku porazilo a obyvatele Libice vyvraždilo."
+    },
+    {
+      "battle": "Bitva u Brůdku",
+      "date": "22. srpen 1040",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.36944,
+      "lon": 13.00917,
+      "note": "Kníže Břetislav I. rozdrtil říšská vojska německého císaře Jindřicha III. táhnoucí do Čech."
+    },
+    {
+      "battle": "Bitva u Chlumce (1040)",
+      "date": "22. září 1040",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "České vojsko, pod velením Prkoše, bylo podplaceno míšenským markrabětem Ekkehardem."
+    },
+    {
+      "battle": "Obležení Prahy (1041)",
+      "date": "8. – 29. září 1041",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 50.0925,
+      "lon": 14.40056,
+      "note": "Říšská vojska císaře Jindřicha III. oblehla Prahu. Po zradě některých českých knížat byl Břetislav I. přinucen ke kapitulaci."
+    },
+    {
+      "battle": "Bitva u Hradce",
+      "date": "1070",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.86528,
+      "lon": 17.87417,
+      "note": "Vojska polského krále Boleslava II. se pokusila dobýt Hradec nad Moravicí. Vratislav II. Hradec ubránil a polská vojska porazil."
+    },
+    {
+      "battle": "Bitva u Mogyoródu",
+      "date": "1074",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 47.59667,
+      "lon": 19.24056,
+      "note": "Vojsko Oty I. Olomouckého dopomohlo k získání královské koruny uherskému vévodovi Gejzovi. Na opačné straně bitevního pole stál uherský král Šalamoun."
+    },
+    {
+      "battle": "Bitva u Hohenburgu",
+      "date": "1075",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Vojsko českého knížete Vratislava II. se na straně Jindřicha IV. zúčastnilo vítězné bitvy proti Sasům."
+    },
+    {
+      "battle": "Bitva u Flarchheimu",
+      "date": "7. leden 1080",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 51.12611,
+      "lon": 10.47861,
+      "note": "České vojsko Vratislava II. svedlo po boku Jindřicha IV. neúspěšnou bitvu proti Rudolfu Švábskému."
+    },
+    {
+      "battle": "Bitva u Hohenmölsenu",
+      "date": "15. říjen 1080",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 51.15639,
+      "lon": 12.09972,
+      "note": "České vojsko Vratislava II., opět po boku Jindřicha IV., porazilo vojska Rudolfa Švábského, který podlehl utrženému zranění, čímž byla ukončena vleklá válka o říšský trůn."
+    },
+    {
+      "battle": "Bitva u Mailbergu",
+      "date": "12. květen 1082",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.67222,
+      "lon": 16.18472,
+      "note": "V reakci na vpád Leopolda II. na Moravu, vniklo vojsko vedené knížaty Konrádem I. Brněnským a Otou I. do Rakouska a u Mailberku Leopolda II. rozdrtilo."
+    },
+    {
+      "battle": "Bitva o Řím",
+      "date": "10. březen 1083",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 41.9,
+      "lon": 12.49861,
+      "note": "Vojenský oddíl o síle třech stovek mužů, pod vedením pozdějšího knížete Bořivoje II., vypomohl Jindřichovi IV. při dobytí Říma a vyhnání papeže Řehoře VII."
+    },
+    {
+      "battle": "Bitva u Hvozdce",
+      "date": "1087",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Při návratu z trestné výpravy v Sasku bylo české vojsko, pod velením pozdějšího knížete Břetislava II., napadeno ze zálohy bojovou družinou saského markraběte Ekberta. Přes těžké ztráty Češi zvítězili."
+    },
+    {
+      "battle": "Bitva na Trotině",
+      "date": "8. říjen 1110",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Polské vojsko, pod vedením knížete Boleslava III. Křivoústého, uštědřilo Čechům knížete Vladislava I., kteří se mu snažili odříznout cestu zpět do Polska, těžkou porážku. Při útoku padl jeden z velitelů českého vojska, Dětříšek Buzic."
+    },
+    {
+      "battle": "Bitva na Luckém poli",
+      "date": "13. květen 1116",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Vojsko knížete Vladislava I. se utkalo s vojskem uherského králem Štěpána II. Původně zamýšlené mírové setkání se změnilo v bitvu, ve které české vojsko zvítězilo."
+    },
+    {
+      "battle": "Bitva u Chlumce",
+      "date": "18. únor 1126",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 50.70083,
+      "lon": 13.93972,
+      "note": "Český kníže Soběslav I. porazil německá vojska a v bitvě obklíčil a zajal římského krále Lothara III."
+    },
+    {
+      "battle": "Bitva u Vysoké",
+      "date": "25. duben 1142",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.9425,
+      "lon": 15.18833,
+      "note": "Český kníže Vladislav II. byl nedaleko Kutné hory poražen vojsky povstalců v čele s Konrádem Znojemským. Bitva se odehrála v okolí vrchu Vysoká, snad v místech dnešní osady Bojiště."
+    },
+    {
+      "battle": "Obléhání Prahy (1142)",
+      "date": "květen 1142",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 50.0925,
+      "lon": 14.40056,
+      "note": "Neúspěšný obléhací pokus Konrádových vojsk dobýt Pražský hrad hájený silami Vladislava II. od vedením jeho bratra Děpolta I."
+    },
+    {
+      "battle": "Obléhání Milána",
+      "date": "6. srpen – 8. září 1158",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 45.47194,
+      "lon": 9.18722,
+      "note": "Po obléhání Milána, při němž se vyznamenali čeští bojovníci, byl český kníže Vladislav II. za odměnu korunován českým králem."
+    },
+    {
+      "battle": "Bitva u Loděnice (1179)",
+      "date": "23. leden 1179",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.99917,
+      "lon": 14.16139,
+      "note": "Ozbrojenci knížete Bedřicha byli poražení vojskem sesazeného knížete Soběslava II."
+    },
+    {
+      "battle": "Bitva u Prahy",
+      "date": "27. leden 1179",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 50.07389,
+      "lon": 14.42806,
+      "note": "Ozbrojenci knížete Bedřicha v místech dnešní pražské ulice Na Bojišti porazili vojsko Soběslava II."
+    },
+    {
+      "battle": "Bitva u Moravského Krumlova",
+      "date": "10. prosinec 1185",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.04389,
+      "lon": 16.31083,
+      "note": "Ozbrojenci knížete Bedřicha porazili moravské vojsko markrabího Konráda Oty."
+    },
+    {
+      "battle": "Bitva u Loděnice (1185)",
+      "date": "23. listopad 1185",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.01139,
+      "lon": 16.46222,
+      "note": "Ozbrojenci knížete Bedřicha pod velením jeho mladšího bratra Přemysla porazili moravské vojsko markrabího Konráda Oty."
+    },
+    {
+      "battle": "Bitva u Lávy",
+      "date": "26. leden 1246",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.72389,
+      "lon": 16.39028,
+      "note": "Češi vpadli do sousedního Rakouska, aby přinutili vévodu Fridricha II. povolit sňatek syna krále Václava I. Vladislava a Gertrudy Bábenberské. Byli však poraženi."
+    },
+    {
+      "battle": "Bitva u Mostu",
+      "date": "listopad 1248",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Vojsko mladšího krále Přemysla Otakara bylo u mosteckého hradu v nočním střetu poraženo oddíly Boreše z Rýzmburka ve službách krále Václava I."
+    },
+    {
+      "battle": "Bitva u Olomouce",
+      "date": "asi 25. červen 1253",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Porážka českého vojska vedeného asi Zdeslavem z Divišova armádou Kumánů a Uhrů krále Bély IV. Kumánské vojsko již však nebylo schopno dobýt Olomouc."
+    },
+    {
+      "battle": "Bitva u Rudavy",
+      "date": "1255",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Prusové byli poraženi vojskem Přemysla Otakara II., velitele křížové výpravy do Pruska. Po vítězství místní obyvatelé hromadně přijali křesťanství."
+    },
+    {
+      "battle": "Bitva u Mühldorfu (1257)",
+      "date": "24. srpen 1257",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.24583,
+      "lon": 12.52472,
+      "note": "Přemysl Otakar II. se v čele českého a rakouského vojska střetl s vojsky Jindřicha Dolnobavorského a bitva pro něj skončila pohromou."
+    },
+    {
+      "battle": "Bitva u Kressenbrunnu",
+      "date": "12. červenec 1260",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.22139,
+      "lon": 16.9025,
+      "note": "Český král Přemysl Otakar II. porazil uherského krále Bélu IV."
+    },
+    {
+      "battle": "Bitva u Rábu",
+      "date": "9. květen 1271",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Český král Přemysl Otakar II. při tažení do Uher porazil mezi řekami Ráb a Litavou početně slabší uherské vojsko."
+    },
+    {
+      "battle": "Bitva u Mošoně",
+      "date": "21. květen 1271",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Český král Přemysl Otakar II. při tažení do Uher porazil uherského krále Štěpána V."
+    },
+    {
+      "battle": "Bitva na Moravském poli Bitva u Suchých Krut",
+      "date": "26. srpen 1278",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.48389,
+      "lon": 16.85694,
+      "note": "Spojená vojska německého krále Rudolfa I. Habsburského a uherského krále Ladislava IV. Kumána porazila vojsko českého krále Přemysla Otakara II."
+    },
+    {
+      "battle": "Bitva u Sieradze Dobytí Sieradze",
+      "date": "28. září 1292",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 51.59528,
+      "lon": 16.85694,
+      "note": "Český král Václav II. dobyl sídelní město polského krále Vladislava Lokýtka. Po tomto vítězství se stal polský panovník Václavovým vazalem."
+    },
+    {
+      "battle": "Bitva u Göllheimu",
+      "date": "2. červenec 1298",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.59194,
+      "lon": 8.04917,
+      "note": "Vojsko nově zvoleného německého krále Albrechta I. za podpory oddílů českého krále Václava II. porazilo bývalého německého krále Adolfa Nasavského."
+    },
+    {
+      "battle": "Obléhání Kutné Hory habsburskou armádou",
+      "date": "18. říjen – začátek zimy 1304 závěr léta – konec září 1307",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.94944,
+      "lon": 15.26861,
+      "note": "Královskou posádkou Václava II. ovládaná Kutná Hora hájená Jindřichem z Lipé a Janem z Vartenberka odolala dvěma obléhacím pokusům vojsk Albrechta Habsburského a Karla Roberta z Anjou na podzim 1304 a poté na konci léta 1307."
+    },
+    {
+      "battle": "Obléhání Horažďovic",
+      "date": "červen – 3. červenec 1307",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.31111,
+      "lon": 13.72167,
+      "note": "Vojsko českého krále Rudolfa Habsburského oblehlo město v držení vzpurného šlechtice Bavora III. ze Strakonic. V den, kdy se město vzdalo, král ve svém ležení na následky nemoci zemřel."
+    },
+    {
+      "battle": "Bitva u Opočna",
+      "date": "leden 1308",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 49.98861,
+      "lon": 16.01194,
+      "note": "Porážka oddílu švábského vojska loajálního Albrechtovi I. Habsburskému vojskem Ctibora z Uherska podporující vládu krále Jindřicha Korutanského."
+    },
+    {
+      "battle": "Bitva o Prahu",
+      "date": "3. prosinec 1310",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 50.0925,
+      "lon": 14.40056,
+      "note": "Král Jan Lucemburský dobyl Prahu na vojsku Jindřicha Korutanského."
+    },
+    {
+      "battle": "Bitva o Holíč",
+      "date": "12. červenec 1315",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.80861,
+      "lon": 17.15667,
+      "note": "Král Jan Lucemburský porazil vojsko hornouherského magnáta Matúše Čáka Trenčianského u vodního hradu Holíč."
+    },
+    {
+      "battle": "Bitva u Esslingenu",
+      "date": "19. září 1316",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.735,
+      "lon": 9.30889,
+      "note": "Římský král Ludvík Bavor za pomoci českého krále Jana Lucemburského porazil druhého z římských králů Fridricha Sličného."
+    },
+    {
+      "battle": "Bitva u Žatce Bitva u Blšan",
+      "date": "20. nebo 21. březen 1318",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 50.23583,
+      "lon": 13.47444,
+      "note": "Český král Jan Lucemburský byl u vsi Nevechovice u Blšan, mezi Žatcem a hradem Křivoklát, proražen domácí šlechtou v čele s panem Vilémem Zajícem z Valdeka."
+    },
+    {
+      "battle": "Bitva u Mühldorfu (1322)",
+      "date": "24. srpen 1322",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.27944,
+      "lon": 12.51722,
+      "note": "Jan Lucemburský významným dílem přispěl k vítězství římského krále Ludvíka Bavora nad Habsburky."
+    },
+    {
+      "battle": "Bitva u Mailbergu (1332)",
+      "date": "11. březen 1332",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.67222,
+      "lon": 16.18472,
+      "note": "Jan Lucemburský byl poražen vojskem Ludvíka Bavora."
+    },
+    {
+      "battle": "Bitva u San Felice",
+      "date": "25. listopad 1332",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 44.83694,
+      "lon": 11.1425,
+      "note": "Karel Lucemburský zvítězil jako zástupce svého otce Jana Lucemburského, vládce tzv. signorie, svazku sedmnácti severoitalských měst, nad ligou italských měst v čele s Mantovou, Florencií, Veronou a Milánem."
+    },
+    {
+      "battle": "Bitva u Ferrary",
+      "date": "14. duben 1333",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 44.83389,
+      "lon": 11.62194,
+      "note": "Na předměstí města Ferrara byl král Jan Lucemburský poražen ligou protilucemburských italských měst. Po této bitvě došlo k rozpadu signorie a český král i s korunním princem Karlem postupně opustili Itálii."
+    },
+    {
+      "battle": "Bitva u Kresčaku",
+      "date": "26. srpen 1346",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 50.25667,
+      "lon": 1.90306,
+      "note": "Anglické oddíly krále Edurda III. porazily francouzská vojska krále Filipa VI. V bitvě na francouzské straně padl český král Jan Lucemburský."
+    },
+    {
+      "battle": "Obléhání Znojma (1404)",
+      "date": "červenec – srpen 1404",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 48.85556,
+      "lon": 16.04222,
+      "note": "Rytíři Jan Sokol z Lamberka a Hynek z Kunštátu zvaný Suchý Čert ubránili obležené Znojmo před vojskem Zikmunda Lucemburského."
+    },
+    {
+      "battle": "Bitva u Grunwaldu",
+      "date": "15. červenec 1410",
+      "era": "Středověk",
+      "period": "Vrcholný středověk",
+      "lat": 53.48694,
+      "lon": 20.1225,
+      "note": "Polská a litevská armáda za účasti 2000 – 3000 Čechů pod velením Jana Sokola z Lamberka porazila armádu Řádu Německých rytířů. Drtivé vítězství polsko-litevské armády přispělo k okolnosti, že za husitských válek se rytíři řádu masově neúčastnili křížových výprav do Čech."
+    },
+    {
+      "battle": "Bitva u Nekmíře (Nekměře)",
+      "date": "prosinec 1419 či leden 1420",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.85583,
+      "lon": 13.26611,
+      "note": "Husité pod vedením Jana Žižky z Trocnova porazili oddíl plzeňského landfrýdu Bohuslava ze Švamberka. Při střetu došlo k prvnímu známému použití vozové hradby v historii husitských válek."
+    },
+    {
+      "battle": "Bitva u Sudoměře",
+      "date": "25. březen 1420",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.24306,
+      "lon": 14.06639,
+      "note": "Husitští bojovníci porazili jednotky katolických šlechticů a strakonických johanitů."
+    },
+    {
+      "battle": "Bitva u Poříčí nad Sázavou",
+      "date": "19. – 20. květen 1420",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.84306,
+      "lon": 14.68389,
+      "note": "Táborité, pod velením Mikuláše z Husi a Jana Žižky, si prorazili cestu skrze obklíčení vojsk I. křížové výpravy."
+    },
+    {
+      "battle": "Bitva o Tábor",
+      "date": "30. červen 1420",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.41083,
+      "lon": 14.65472,
+      "note": "Oldřich z Rožmberka se pokusil oblehnout a dobýt oslabený Tábor, jeho armáda však byla rozdrcena koordinovaným útokem táborské posádky a jízdy Mikuláše z Husi, která se kvůli ohrožení husitského centra narychlo vrátila z Prahy."
+    },
+    {
+      "battle": "Bitva na Vítkově",
+      "date": "14. červenec 1420",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.08917,
+      "lon": 14.42472,
+      "note": "Husité pod vedením Jana Žižky z Trocnova odrazili útok křižáků na opevněný Vítkov a zabránili obklíčení Prahy ze strany krále Zikmunda Lucemburského."
+    },
+    {
+      "battle": "Bitva u Panského Boru Bitva u Horažďovic",
+      "date": "12. říjen 1420",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.32806,
+      "lon": 13.64667,
+      "note": "Jan Žižka porazil vojsko Rožmberků a jejich spojenců."
+    },
+    {
+      "battle": "Bitva pod Vyšehradem",
+      "date": "1. listopad 1420",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.06167,
+      "lon": 14.65472,
+      "note": "Husité porazili vojsko Zikmunda Lucemburského, jenž se pokusil vyprostit Vyšehrad z obležení."
+    },
+    {
+      "battle": "Bitva u Mostu",
+      "date": "5. srpen 1421",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.06167,
+      "lon": 14.65472,
+      "note": "Pražské vojsko pod vedením Jana Želivského utrpělo porážku od míšeňského markraběte Bedřicha."
+    },
+    {
+      "battle": "Bitva u Žlutic",
+      "date": "asi druhá polovina listopadu 1421",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.08056,
+      "lon": 13.21611,
+      "note": "Husité vedeni Janem Žižkou se uchýlili na vrch Vladař (vrch), kde tři dny odolávali za vozovou hradbou útokům protivníka. Zřejmě za soumraku prorazili obklíčení a unikli do Žatce."
+    },
+    {
+      "battle": "Bitva u Kutné Hory",
+      "date": "21. – 22. prosinec 1421",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.94806,
+      "lon": 15.25556,
+      "note": "Husité v defenzivním postavení před kouřimskou branou u Kutné Hory se střetli s vojsky druhé křížové výpravy pod velením Zikmunda Lucemburského. Po celodenním boji ztratili město a v noci byli nuceni si prorazit cestu skrz obklíčení."
+    },
+    {
+      "battle": "Bitva u Habrů",
+      "date": "8. leden 1422",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.74806,
+      "lon": 15.48222,
+      "note": "Jan Žižka obrátil na útěk vojáky druhé křížové výpravy."
+    },
+    {
+      "battle": "Bitva u Hořic",
+      "date": "20. duben 1423",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.365,
+      "lon": 15.64444,
+      "note": "Orebité pod velením slepého Jana Žižky porazili oddíly Čeňka z Vartemberka."
+    },
+    {
+      "battle": "Bitva u Strauchova dvora",
+      "date": "4. srpen 1423",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.20306,
+      "lon": 15.78778,
+      "note": "První husitská bitva, ve které šla archa proti arše, poprvé, kdy se utkaly dvě husitské armády. Jan Žižka porazil vojsko Diviše Bořka z Miletínka."
+    },
+    {
+      "battle": "Bitva u Týnce",
+      "date": "22. srpen 1423",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.03889,
+      "lon": 15.35861,
+      "note": "Vojáci Haška z Valdštejna rozdrtili oddíl Matěje Lupáka, jenž táhl z Hradce Králové na pomoc Janu Žižkovi obleženému v Čáslavi."
+    },
+    {
+      "battle": "Bitva u Malešova",
+      "date": "7. červen 1424",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.91139,
+      "lon": 15.22417,
+      "note": "Východočeští husité vedení Janem Žižkou dosáhli rozhodného vítězství nad armádou vojenské koalice složené z pražanů a českých katolických a kališnických feudálů."
+    },
+    {
+      "battle": "Bitva u Ústí nad Labem",
+      "date": "16. červen 1426",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.66444,
+      "lon": 13.95611,
+      "note": "Spojená husitská vojska odrazila vpád saských, durynských, hornolužických a míšenských žoldnéřů vedených Bosem z Vitzthumu."
+    },
+    {
+      "battle": "Bitva u Tachova",
+      "date": "3. srpen 1427",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.79778,
+      "lon": 12.61167,
+      "note": "Část zadního voje prchajícího vojska III. křížové výpravy proti husitům, byla pobita oddíly Prokopa Holého."
+    },
+    {
+      "battle": "Bitva u Domažlic",
+      "date": "14. srpen 1431",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 49.4225,
+      "lon": 12.97889,
+      "note": "Husitská vojska porazila příslušníky IV. křížové výpravy vedené markrabím Fridrichem Braniborským a kardinálem Juliánem Cesarinim."
+    },
+    {
+      "battle": "Bitva u Lipan",
+      "date": "30. květen 1434",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": 50.02861,
+      "lon": 14.93694,
+      "note": "Porážka sirotčího a táborského vojska koalicí složenou z umírněných husitských šlechticů, pražanů a katolických pánů, která znamenala ukončení téměř 15 let nepřetržitě trvajících bojů a krok k prosazení náboženské tolerance v Čechách."
+    },
+    {
+      "battle": "Bitva u Křeče",
+      "date": "17. – 18. srpen 1435",
+      "era": "Středověk",
+      "period": "Husitské války",
+      "lat": "",
+      "lon": "",
+      "note": "Poslední bitva husitských válek. Síly Oldřicha z Rožmberka porazily vojsko táboritů."
+    },
+    {
+      "battle": "Obléhání Tábora",
+      "date": "11. srpen – 1. září 1438",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.41083,
+      "lon": 14.65472,
+      "note": "Češi a Poláci uhájili Tábor před vojskem Albrechta Rakouského s asi 25 – 35 000 ozbrojenci."
+    },
+    {
+      "battle": "Bitva u Želenic",
+      "date": "23. srpen 1438",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 50.52778,
+      "lon": 13.72611,
+      "note": "4000 vojáků z Žatce, Loun a Polska napadlo německé spojence Albrechta Rakouského při jejich přesunu do Saska. Němcům pod velením bývalého husitského hejtmana Jakoubka z Vřesovic se podařilo zvítězit a zmocnit se protivníkových vozů."
+    },
+    {
+      "battle": "Bitva u Varny",
+      "date": "10. – 11. listopad 1444",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": "",
+      "lon": "",
+      "note": "Porážka křesťanského vojska tureckým sultánem Muradem II. Bitvy se zúčastnilo 400 někdejších husitů pod velením Jana Jiskry z Brandýsa."
+    },
+    {
+      "battle": "Dobytí Prahy",
+      "date": "3. září 1448",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 50.0925,
+      "lon": 14.40056,
+      "note": "Jiří z Poděbrad spolu s 9000 radikálními husity Poděbradské jednoty dobyl českou metropoli."
+    },
+    {
+      "battle": "Bitva u Somoše",
+      "date": "5. září 1449",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 48.92278,
+      "lon": 21.00111,
+      "note": "Bratříci zvítězili nad početnější armádou Jánose Hunyadiho."
+    },
+    {
+      "battle": "Bitva u Rokycan Bitva u Mýta",
+      "date": "4. června 1450",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.76444,
+      "lon": 13.66167,
+      "note": "Vítězství vojska Poděbradské jednoty pod velením zemského správce Jiřího z Poděbrad nad oddíly Strakonické jednoty vedené Jindřichem IV. z Rožmberka před branami Rokycan nedaleko Mýta. Bitvu rozhodl dělostřelecký střet."
+    },
+    {
+      "battle": "Bitva u Lučence",
+      "date": "7. září 1451",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 48.32861,
+      "lon": 19.66917,
+      "note": "Vojsko českých bratříků, hájící zájmy krále Ladislava zvaného Pohrobek, pod velením Jana Jiskry, za účasti Jana Talafúse z Ostrova a Petra Aksamita z Lideřovic a Kosova, porazilo početnější armádu maďarského vojevůdce Jánose Hunyadiho."
+    },
+    {
+      "battle": "Bitva u Šarišského Potoka Bitva u Blatného potoka",
+      "date": "21. květen 1458",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 48.33167,
+      "lon": 21.56611,
+      "note": "Matyáši Korvínovi se porážkou bratříků podařilo oslabit jejich vojenskou moc v horních Uhrách (v bitvě zemřel hejtman Petr Aksamit)."
+    },
+    {
+      "battle": "Bitva u Kapušan",
+      "date": "1465",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.04667,
+      "lon": 21.33111,
+      "note": "Matyáš Korvín porazil vojsko bratříků, které ztratilo přibližně 2000 mužů."
+    },
+    {
+      "battle": "Bitva u Frankenštejnu",
+      "date": "1467",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 50.59,
+      "lon": 16.81028,
+      "note": "Český král Jiří z Poděbrad porážkou tzv. jednoty zelenohorské ve Slezsku upevnil své postavení v zemi."
+    },
+    {
+      "battle": "Bitva u Pačkova Bitva u Paczkówa",
+      "date": "11. června 1467",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 50.455,
+      "lon": 17.00111,
+      "note": "Moravský zemský hejtman Ctibor Tovačovský z Cimburka porazil v rámci svého slezského tažení katolické vojsko vratislavského biskupa Jošta II. z Rožmberka, což dopomohlo k obnovení autority krále Jiřího ve Slezsku."
+    },
+    {
+      "battle": "Bitva u Nýrska",
+      "date": "22. září 1467",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.29556,
+      "lon": 13.14389,
+      "note": "Porážka křížové výpravy Ludvíka IX. Bavorského vojskem českého krále Jiřího z Poděbrad vedeného Rackem Janovickým z Janovic."
+    },
+    {
+      "battle": "Bitva u Veľkých Kostoľan",
+      "date": "prosinec 1466 či leden 1467",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 46.50444,
+      "lon": 17.72333,
+      "note": "Matyáš Korvín porazil jednotky bratříků pod velením hejtmana Jana Švehly. Tímto střetnutím končí aktivita polních bratrstvech v Horních Uhrách."
+    },
+    {
+      "battle": "Bitva o Třebíč",
+      "date": "12. květen – 9. červen 1468",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": "",
+      "lon": "",
+      "note": "V benediktýnském klášteře nad Třebíčí se bránilo 3000 českých bojovníků 10 000 armádě uherského krále Matyáše Korvína."
+    },
+    {
+      "battle": "Bitva u Turnova",
+      "date": "3. červen 1468",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 50.58806,
+      "lon": 15.15694,
+      "note": "Jindřich II. Kruhlata z Michalovic porazil křížovou výpravu vypravenou ze Slezska a Lužice vedenou Jaroslavem III. ze Šternberka."
+    },
+    {
+      "battle": "Bitva u Zvole",
+      "date": "1. říjen 1468",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.84806,
+      "lon": 16.90806,
+      "note": "České vojsko pod velením Zdeňka Kostky z Postupic, podporované bratry Janem a Jiřím Tunklovými ze Zábřeha a na Brníčku se střetlo s uherským vojskem pod velením Františka z Háje, jež mělo místní podporu biskupských manů Jana Rájeckého z Mírova, Zikmunda ze Zvole a biskupské posádky hradu Mírova. České vojsko bylo poraženo a Kostka z Postupic v bitvě padl."
+    },
+    {
+      "battle": "Bitva u Vilémova",
+      "date": "22. červenec 1469",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.82278,
+      "lon": 15.53611,
+      "note": "Vojsko Jiřího z Poděbrad obklíčilo u Vilémova křížovou výpravu pod velením Matyáše Korvína."
+    },
+    {
+      "battle": "Bitva u Uherského Hradiště",
+      "date": "závěr října 1469",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.07028,
+      "lon": 17.45944,
+      "note": "Pěchota českého krále Jiřího z Poděbrad při pokusu dodat zásoby obléhanému Uherskému Hradišti porazila početnější oddíl vojáků krále Matyáše Korvína."
+    },
+    {
+      "battle": "Bitva u Uherského Brodu",
+      "date": "2. listopad 1469",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.09194,
+      "lon": 17.55111,
+      "note": "České vojsko pod velením Jindřicha z Poděbrad obrátilo na útěk hlavní armádu krále Matyáše Korvína."
+    },
+    {
+      "battle": "Bitva u Žvanovic",
+      "date": "12. října 1474",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 50.82056,
+      "lon": 17.57556,
+      "note": "Vítězství spojených oddílů vojska polského krále Kazimíra IV. a jeho syna Vladislava Jagellonského nad uherskými vojsky Matyáše Korvína ve Slezsku. Jediná větší bitva tohoto slezského tažení."
+    },
+    {
+      "battle": "Bitva u Plzně",
+      "date": "28. únor 1478",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.695,
+      "lon": 13.28278,
+      "note": "Porážka oddílů krále Vladislava Jagellonského pod velením Buriana II. z Gutštejna jednotkami uherských a plzeňských vojáků z katolické Plzně loajálních Korvínovi. Jeden z posledních střetů česko-uherských válek před podpisem Olomoucké smlouvy."
+    },
+    {
+      "battle": "Bitva u Tomkowic Bitva u Thamaswalde",
+      "date": "28. července 1487",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 50.94194,
+      "lon": 16.295,
+      "note": "Nerozhodný střet oddílů Jana Zahaňského, podporovaného Jagellonci, s uherskými vojsky Matyáše Korvína ve Slezsku. Bitvy se účastnilo asi 4500 českých žoldnéřů pod velením Jidřícha z Poděbrad."
+    },
+    {
+      "battle": "Bitva u Schönbergu Bitva u Wenzenbachu Bitva u Řezna",
+      "date": "12. září 1504",
+      "era": "Středověk",
+      "period": "Pozdní středověk",
+      "lat": 49.07694,
+      "lon": 12.19472,
+      "note": "Habsburské vojsko přepadlo českou žoldnéřskou pěchotu vracející se do vlasti z ukončené války o landshutské dědictví. Češi nestačili uzavřít vozovou hradbu a po urputném boji, kdy jich polovina zahynula, byli poraženi. Avšak císař Maxmilián I. ocenil statečnost, s jakou se bránili, a zajatce propustil bez výkupného."
+    },
+    {
+      "battle": "Bitva u Moháče",
+      "date": "29. srpen 1526",
+      "era": "Novověk",
+      "period": "Novověk",
+      "lat": 46.57222,
+      "lon": 19.10278,
+      "note": "Vojska českého a uherského krále Ludvíka Jagellonského byla poražena tureckou armádou Sulejmana Nádherného. Po bitvě, v níž český král padl, se otevřely dveře turecké expanzi do Uher a Habsburkům se uvolnily ruce k obsazení českého i uherského trůnu."
+    },
+    {
+      "battle": "První obléhání Vídně",
+      "date": "27. září – 16. říjen 1529",
+      "era": "Novověk",
+      "period": "Novověk",
+      "lat": 48.24124,
+      "lon": 16.37833,
+      "note": "Při neúspěšném obléhání Vídně tureckými vojsky se vyznamenaly i české jednotky. Neúspěch odradil Turky od dalších útoků."
+    },
+    {
+      "battle": "Střetnutí u Nespek",
+      "date": "26. červen 1608",
+      "era": "Novověk",
+      "period": "Novověk",
+      "lat": 49.85639,
+      "lon": 14.67444,
+      "note": "Menší střet jednotek české zemské hotovosti loajální Rudolfu II., které rozprášily jednotky uherské jízdy z ležení archivévody Matyáše, které přitáhly k Praze. Bitva se odehrála necelý den po podepsání tzv. Libeňského míru, který spor obou bratrů urovnal."
+    },
+    {
+      "battle": "Obléhání Českých Budějovic stavovskou armádou",
+      "date": "léto 1618 a listopad 1618 – červen 1619",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 48.97528,
+      "lon": 14.4825,
+      "note": "Císaři Matyášovi loajální České Budějovice odolala dvěma obléhacím pokusům císařského vojska: v létě armádě Jindřicha Matyáše Thurna a od listopadu 1618 do června 1619 vojsku Georga Friedricha hraběte von Hohenlohe."
+    },
+    {
+      "battle": "Bitva u Čáslavi",
+      "date": "14. září – 16. září 1618",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.86333,
+      "lon": 15.43111,
+      "note": "Menší bojový střet stavovského vojska vedeného Jindřichem Matyášem Thurnem a císařského vojska pod velením Karla Bonaventury Buquoye, který odvrátil Buqoyův postupu na Prahu."
+    },
+    {
+      "battle": "Bitva u Pelhřimova Bitva u Hořepníku",
+      "date": "18. října 1618",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.43306,
+      "lon": 15.22611,
+      "note": "Dílčí vítězství stavovského vojska během výpadu proti jezdeckému oddílu pod velením Jindřicha Duvala Dampierra."
+    },
+    {
+      "battle": "Bitva u Lomnice",
+      "date": "9. listopad 1618",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.085,
+      "lon": 14.71722,
+      "note": "České stavovské vojsko vedené Jindřichem Matyášem Thurnem zvítězilo nad císařským vojskem pod vedením Karla Bonaventury Buquoye."
+    },
+    {
+      "battle": "Bitva u Záblatí",
+      "date": "10. červen 1619",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 48.13417,
+      "lon": 14.28444,
+      "note": "Vojsko českých stavů pod vedením generála Petra Arnošta Mansfelda bylo vlákáno císařskou armádou do léčky a poraženo."
+    },
+    {
+      "battle": "Bitva u Dolních Věstonic",
+      "date": "5. srpen 1619",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 48.89611,
+      "lon": 16.64861,
+      "note": "Porážka císařského sboru o síle 12 000 mužů pod vedením generála Dampierra stavovským vojskem vedeným Fridrichem z Teuffenbachu."
+    },
+    {
+      "battle": "Bitva u Starého Smolivce",
+      "date": "6. říjen 1620",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.52472,
+      "lon": 13.73056,
+      "note": "Dvacetitisícové jednotky Kristiána staršího z Anhaltu se pokusily napadnout početně slabší Buquoyův voj o 15 000 mužích mezi vesnicemi Radošice a Starý Smolivec nedaleko Nepomuku, včasným přesunem se však se stavovským vojskem střetly pouze císařské zadní voje."
+    },
+    {
+      "battle": "Bitva u Rakovníka",
+      "date": "27. října – 6. listopadu 1620",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 50.12083,
+      "lon": 13.71833,
+      "note": "Dílčí střety císařské a stavovské armády u Rakovníku, které předznamenaly střetnutí na Bílé hoře."
+    },
+    {
+      "battle": "Bitva na Bílé hoře",
+      "date": "8. listopad 1620",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 50.07944,
+      "lon": 14.31833,
+      "note": "Císařská armáda porazila vojsko českých stavů. Po tomto vítězství se zhroutilo stavovské povstání a došlo k obnovení habsburské moci v zemi."
+    },
+    {
+      "battle": "Bitva u Rozvadova",
+      "date": "16. červenec 1621",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.65917,
+      "lon": 12.54028,
+      "note": "Úspěšné odražení výpadu vojska generála Tillyho armádou Arnošta Mansfelda na česko-bavorské hranici."
+    },
+    {
+      "battle": "Bitva u Nového Jičína",
+      "date": "25. červenec 1621",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.59278,
+      "lon": 18.00528,
+      "note": "Vojsko českých stavů vedených Janem Jiřím Krnovským zde porazilo městskou ligistickou posádku a následně povraždilo stovky zajatých vojáků, povětšinou cizineckých žoldnéřů."
+    },
+    {
+      "battle": "Bitva u Desavy",
+      "date": "25. duben 1626",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 51.83778,
+      "lon": 12.24167,
+      "note": "Císařsko–ligistická vojska vedená vrchním velitelem Albrechtem z Valdštejna zvítězila nad protestantskými vojsky vedenými Petrem Mansfeldem."
+    },
+    {
+      "battle": "Bitva u Lützenu",
+      "date": "16. listopad 1632",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 51.26917,
+      "lon": 12.15833,
+      "note": "Střetnutí císařských vojsk pod velením Albrechta z Valdštejna se švédsko-saskou armádou pod vedením krále Gustava II. Adolfa. Bitva skončila prakticky nerozhodně, švédský král však padl. Boje se na obou stranách účastnili vojáci českého původu."
+    },
+    {
+      "battle": "Bitva u Přísečnice",
+      "date": "27. březen 1641",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 50.46833,
+      "lon": 13.13111,
+      "note": "Švédské vojsko generála Johana Banéra se při ústupu do Saska střetlo s císařskými oddíly pod velením Zikmunda Myslíka. Během bitvy bylo vypáleno město Přísečnice, a Švédům se přes jisté ztráty podařilo spořádaně ustoupit."
+    },
+    {
+      "battle": "První obléhání Brna Švédy",
+      "date": "1. září – 9. září 1643",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.19583,
+      "lon": 16.59972,
+      "note": "Švédské vojsko generála Lennarta Torstensona po devět dnů během války poprvé neúspěšně obléhalo moravskou metropoli."
+    },
+    {
+      "battle": "Obléhání Olomouce císařskou armádou",
+      "date": "podzim 1643 a červen 1644 – březen 1645",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.59472,
+      "lon": 17.25083,
+      "note": "Švédy ovládaná Olomouc odolala dvěma obléhacím pokusům císařského vojska: na podzim armádě Jana Kryštofa Puchheima a v letech 1644 do března 1645 vojsku Ladislava Buriana z Valdštejna."
+    },
+    {
+      "battle": "Bitva u Vsetína",
+      "date": "26. leden 1644",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.34361,
+      "lon": 17.99111,
+      "note": "Císařské oddíly plukovníka Wellische z trestné výpravy Jana z Rottalu zvítězily nad asi 700 valašskými evangelickými povstalci pod velením hejtmana Jana Kováře před branami Vsetína, což znamenalo za faktický konec Valašského povstání."
+    },
+    {
+      "battle": "Bitva u Jankova",
+      "date": "6. březen 1645",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.64667,
+      "lon": 14.74278,
+      "note": "Švédská vojska porazila císařskou armádu. Švédům se otevřely dveře k tažení na Brno a Vídeň."
+    },
+    {
+      "battle": "Druhé obléhání Brna Švédy",
+      "date": "3. květen – 23. srpen 1645",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.19583,
+      "lon": 16.59972,
+      "note": "Švédské vojsko generála Lennarta Torstensona neúspěšně obléhalo moravskou metropoli, jejíž posádce velel Louis Raduit de Souches."
+    },
+    {
+      "battle": "Bitva u Třebele",
+      "date": "22. srpen 1647",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.81944,
+      "lon": 12.84444,
+      "note": "Císařské armádě se podařilo zastavit švédský vpád na české území. Jedním z důsledků střetnutí bylo i dobytí Jihlavy, kterou okupovala švédská posádka."
+    },
+    {
+      "battle": "Střetnutí u Teplé",
+      "date": "7. září – 21. září 1647",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 49.98222,
+      "lon": 12.87944,
+      "note": "Menší poziční střet císařského a švédského vojska nedlouho po bitvě u Třebele."
+    },
+    {
+      "battle": "Obléhání Prahy",
+      "date": "31. červenec – 1. listopad 1648",
+      "era": "Novověk",
+      "period": "Třicetiletá válka",
+      "lat": 50.0925,
+      "lon": 14.40056,
+      "note": "Po přepadení a vyrabování Pražského hradu a Malé Strany švédská vojska neúspěšně obléhala Staré a Nové Město pražské."
+    },
+    {
+      "battle": "Bitva u Starého Hrozenkova",
+      "date": "6. říjen 1663",
+      "era": "Novověk",
+      "period": "Léta 1648–1740",
+      "lat": "",
+      "lon": "",
+      "note": "V bitvě v Hrozenkovském průsmyku za rakousko-turecké války v letech 1663–1664 mezi valašskými portáši a Turky nedaleko Starého Hrozenkova padlo okolo 200 Valachů."
+    },
+    {
+      "battle": "Bitva na Ovčím vrchu",
+      "date": "6. května 1680",
+      "era": "Novověk",
+      "period": "Léta 1648–1740",
+      "lat": 49.88778,
+      "lon": 12.93111,
+      "note": "Porážka západočeských účastníků Selského povstání roku 1680 jednotkami císařských kyrysníků na Ovčím vrchu nedaleko hradu Švamberk. Jednalo se o největší bojovou operaci proti regionálnímu lidovému povstání v historii českých zemí."
+    },
+    {
+      "battle": "Obléhání Vídně",
+      "date": "14. červenec – 12. září 1683",
+      "era": "Novověk",
+      "period": "Léta 1648–1740",
+      "lat": 48.24111,
+      "lon": 16.37833,
+      "note": "Byl odražen poslední pokus Osmanské říše o ovládnutí střední Evropy. V boji se vyznamenal Starhemberkův pluk složený z vojáků pocházejících z Moravy."
+    },
+    {
+      "battle": "Bitva u Höchstädtu",
+      "date": "13. srpen 1704",
+      "era": "Novověk",
+      "period": "Léta 1648–1740",
+      "lat": 48.63917,
+      "lon": 10.58639,
+      "note": "Francouzsko-bavorská aliance svým váháním promeškala možnost rozdrtit jednotlivá bojová uskupení protifrancouzské koalice a umožnila svým nepřátelům se spojit. Bitva skončila drtivou porážkou francouzské strany, jež byla nucena rezignovat na své záměry ve střední Evropě."
+    },
+    {
+      "battle": "Bitva u Čížové",
+      "date": "22. listopad 1741",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": 49.35583,
+      "lon": 14.10139,
+      "note": "Úspěšný výpad uherské jízdy císařské armády proti zadním vojům francouzské armády postupující na Prahu."
+    },
+    {
+      "battle": "Bitva u Písku",
+      "date": "29. prosinec 1741",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": 49.30333,
+      "lon": 14.15778,
+      "note": "Rakušané uštědřili porážku průzkumnému odřadu francouzské armády."
+    },
+    {
+      "battle": "Obléhání Brna prusko-saským vojskem",
+      "date": "9. únor – 7. duben 1742",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": 49.19583,
+      "lon": 16.59972,
+      "note": "Neúspěšné obléhání, přesněji vojenská blokáda, Brna pod velením Jana Kryštofa Seherr-Thosse před prusko - saskou armádou Fridricha II. Okupační armáda se během obklíčení města nepokusila o žádnou otevřeně vojenskou akci."
+    },
+    {
+      "battle": "Bitva u Chotusic",
+      "date": "17. květen 1742",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": "",
+      "lon": "",
+      "note": "Pruská armáda vedená Fridrichem II. porazila habsburská vojska pod vedením Karla Lotrinského. Marie Terezie byla nucena uzavřít s Pruskem mír a země Koruny české přišly o většinu Slezska."
+    },
+    {
+      "battle": "Bitva u Zahájí",
+      "date": "25. květen 1742",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": 49.09028,
+      "lon": 14.37083,
+      "note": "Francouzsko–bavorská armáda uhájila své pozice proti útoku rakouské armády."
+    },
+    {
+      "battle": "První bitva u Týna nad Vltavou",
+      "date": "5. červen 1742",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": 49.22139,
+      "lon": 14.41722,
+      "note": "Úspěšný útok Rakouské armády proti francouzské armádě a zahájení tažení na okupovanou Prahu."
+    },
+    {
+      "battle": "Střet u Kadaně",
+      "date": "14. říjen 1742",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": 50.37889,
+      "lon": 13.25917,
+      "note": "Úspěšný útok uherské jízdy proti francouzské armádě a odvrácení jejího tažení do Čech."
+    },
+    {
+      "battle": "Druhá bitva u Týna nad Vltavou",
+      "date": "8. – 9. říjen 1744",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": 49.22417,
+      "lon": 14.42,
+      "note": "Menší vítězství Rakouské armády nad pruským vojskem. Prusové se následně začali stahovat z Čech."
+    },
+    {
+      "battle": "Bitva u Žďáru",
+      "date": "30. září 1745",
+      "era": "Novověk",
+      "period": "Války o slezské dědictví",
+      "lat": "",
+      "lon": "",
+      "note": "Princ Karel Lotrinský utrpěl porážku od krále Fridricha II."
+    },
+    {
+      "battle": "Bitva u Lovosic",
+      "date": "1. říjen 1756",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.51806,
+      "lon": 14.03944,
+      "note": "Pruská armáda pod vedením Fridricha II. nepřesvědčivě porazila rakouská vojska vedená maršálem Brownem. Přestože pruská armáda dosáhla taktického úspěchu, musela se na zimní kvartýry stáhnout zpět do Saska a Slezska."
+    },
+    {
+      "battle": "Bitva u Liberce",
+      "date": "21. duben 1757",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.75972,
+      "lon": 15.03972,
+      "note": "Rakouský generál hrabě Königsegg svedl krátký boj s pruským generálem Bevernem. Poražení Rakušané byli nuceni se stahovat dále k Praze."
+    },
+    {
+      "battle": "Bitva u Staré Boleslavi",
+      "date": "2. květen – 5. květen 1757",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.19639,
+      "lon": 14.67639,
+      "note": "Voj pruského polního maršála Kurta von Schwerina dobyl při postupu na Prahu Starou Boleslav a obsadil most přes Labe."
+    },
+    {
+      "battle": "Bitva u Štěrbohol Bitva u Prahy",
+      "date": "6. květen 1757",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.07583,
+      "lon": 14.55611,
+      "note": "Pruský král Fridrich II. drtivě porazil rakouské vojsko pod velením vévody Karla Lotrinského."
+    },
+    {
+      "battle": "Obléhání Prahy",
+      "date": "6. květen – 20. červen 1757",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.0925,
+      "lon": 14.40056,
+      "note": "Prusové vystavili Prahu nejničivějšímu dělostřeleckému odstřelování v její historii."
+    },
+    {
+      "battle": "Bitva u Kolína",
+      "date": "18. červen 1757",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.02944,
+      "lon": 15.11944,
+      "note": "Habsburská armáda, pod vedením maršála Dauna, porazila pruskou armádu pod vedením Fridricha II. Bitva se stala jedním z mezníků sedmileté války."
+    },
+    {
+      "battle": "Bitva pod Studencem",
+      "date": "18. červenec – 21. červenec 1757",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.83,
+      "lon": 14.46278,
+      "note": "Rakouské oddíly pod velením generálů Becka a Andráse Hadika vítězně napadly pruská vojska ustupující z Čech přes Lužické hory pod vrchem Studenec u České Kamenice."
+    },
+    {
+      "battle": "Obléhání Olomouce",
+      "date": "27. květen – 7. červenec 1758",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 49.59472,
+      "lon": 17.25083,
+      "note": "Úspěšná obrana města zmařila pokus Fridricha II. o proniknutí do Rakouska, dobytí Vídně a ukončení války."
+    },
+    {
+      "battle": "Bitva u Domašova",
+      "date": "27. květen – 7. červenec 1758",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 49.59472,
+      "lon": 17.25083,
+      "note": "Rakušané pod velením generálmajora Ernesta Gideona Laudona a generálmajora Josefa von Žiškovič napadli a zničili důležitý a dobře střežený konvoj se zásobami pro pruskou armádu obléhající Olomouc."
+    },
+    {
+      "battle": "Bitva u Ostřetína",
+      "date": "12. červenec – 13. červenec 1758",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.04417,
+      "lon": 16.03333,
+      "note": "Ustupující jednotky pruské armády odrazily ve východních Čechách výpad Rakušanů, údajně poté, co vypálila Ostřetín nedaleko Holic a tím přivovaly posádkové posily z Prusy okupovaného Hradce Králové."
+    },
+    {
+      "battle": "Bitva u Přepych",
+      "date": "16. červenec 1758",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.23556,
+      "lon": 16.115,
+      "note": "Pokus o obklíčení Laudonových jednotek Prusy v rámci krytí pruského ústupu. Rakušané nedokázali útoku čelit a byli nuceni se stáhnout."
+    },
+    {
+      "battle": "Střetnutí u Nebes a Žďáru",
+      "date": "8. květen 1759",
+      "era": "Novověk",
+      "period": "Sedmiletá válka",
+      "lat": 50.19611,
+      "lon": 12.22111,
+      "note": "Drobné pruské vítězství nad jednotkami rakouské armády."
+    },
+    {
+      "battle": "Bitva u Chlumce nad Cidlinou",
+      "date": "25. březen – 26. březen 1775",
+      "era": "Novověk",
+      "period": "Selské povstání v českých zemích roku 1775",
+      "lat": 50.15917,
+      "lon": 15.45056,
+      "note": "Čeští sedláci, snažící se na vrchnosti prosadit svá domnělá práva, se v počtu 300 – 500 mužů pokusili třikrát zaútočit na zámek v Chlumci nad Cidlinou. Byli drtivě poraženi, což představovalo konec selského povstání roku 1775 ve východních Čechách."
+    },
+    {
+      "battle": "Bitva na Humlově kopci",
+      "date": "28. březen 1775",
+      "era": "Novověk",
+      "period": "Selské povstání v českých zemích roku 1775",
+      "lat": 50.56694,
+      "lon": 15.91056,
+      "note": "Přibližně dva tisíce východočeských sedláků bylo poraženo a zahnáno na útěk císařskými vojáky na Humlově kopci u Trutnova."
+    },
+    {
+      "battle": "Vzpoura na lesonickém panství",
+      "date": "25. červenec – 26. červenec 1775",
+      "era": "Novověk",
+      "period": "Selské povstání v českých zemích roku 1775",
+      "lat": 49.10806,
+      "lon": 15.75583,
+      "note": "Moravští sedláci z panství Lesonice napadli zdejší zámek, načež byli následujícího dne rozprášeni vojenskou setninou. Šlo o nejvýraznější projev povstání na území Moravy v bouřlivém roce 1775."
+    },
+    {
+      "battle": "Bitva u Neerwinden",
+      "date": "2. březen 1793",
+      "era": "Moderní dějiny",
+      "period": "Francouzské revoluční a napoleonské války",
+      "lat": 50.76833,
+      "lon": 5.03917,
+      "note": "40 000 vojáků rakouského maršálka Josiáše Koburského porazilo 45 000 Francouzů generála Dumourieze. Páteř rakouských jednotek tvořily pluky naverbované v českých zemích."
+    },
+    {
+      "battle": "Bitva u Vyškova",
+      "date": "28. listopad 1805",
+      "era": "Moderní dějiny",
+      "period": "Francouzské revoluční a napoleonské války",
+      "lat": 49.2775,
+      "lon": 16.99889,
+      "note": "Menší střet rusko-rakouských vojsk s postupující francouzskou císařskou armádou v ulicích a okolí Vyškova."
+    },
+    {
+      "battle": "Bitva u Slavkova",
+      "date": "2. prosinec 1805",
+      "era": "Moderní dějiny",
+      "period": "Francouzské revoluční a napoleonské války",
+      "lat": 49.12778,
+      "lon": 16.76222,
+      "note": "Francouzský císař Napoleon Bonaparte porazil spojená vojska ruského cara Alexandra I. a rakouského císaře Františka I."
+    },
+    {
+      "battle": "Bitva u Štoků",
+      "date": "3. – 5. prosinec 1805",
+      "era": "Moderní dějiny",
+      "period": "Francouzské revoluční a napoleonské války",
+      "lat": 49.48444,
+      "lon": 15.59139,
+      "note": "Rakušané dosáhli vítězství nad bavorskými jednotkami, jež tvořily zadní voj francouzské armády. Na obou stranách padlo, bylo zraněno či zajato více než 1000 vojáků."
+    },
+    {
+      "battle": "Bitva u Znojma",
+      "date": "10. – 11. červenec 1809",
+      "era": "Moderní dějiny",
+      "period": "Francouzské revoluční a napoleonské války",
+      "lat": 48.85556,
+      "lon": 16.04222,
+      "note": "Armáda rakouského císaře a českého krále Františka I. utpěla porážku od vojska francouzského císaře Napoleona a jeho spojenců z Rýnského spolku. Bitva skončila podepsáním příměří, které de-facto ukončilo válečné tažení roku 1809."
+    },
+    {
+      "battle": "Bitva u Chlumce a Přestanova",
+      "date": "29. – 30. srpen 1813",
+      "era": "Moderní dějiny",
+      "period": "Francouzské revoluční a napoleonské války",
+      "lat": 50.70083,
+      "lon": 13.94639,
+      "note": "Vojska IV. protinapoleonské koalice téměř zničila 30 000 sbor francouzského maršála Vandamma."
+    },
+    {
+      "battle": "Bitva u Lipska",
+      "date": "14. – 19. říjen 1813",
+      "era": "Moderní dějiny",
+      "period": "Francouzské revoluční a napoleonské války",
+      "lat": 51.31278,
+      "lon": 12.4125,
+      "note": "Vojska IV. protinapoleonské koalice porazila armádu francouzského císaře Napoleona Bonaparta, jenž ztratil na 60 000 mužů."
+    },
+    {
+      "battle": "Bitva u Santa Lucie",
+      "date": "6. květen 1848",
+      "era": "Moderní dějiny",
+      "period": "Léta 1815–1866",
+      "lat": 45.42389,
+      "lon": 10.94861,
+      "note": "Rakouské vojsko pod vedením Jana Josefa Radeckého porazilo dvakrát silnější sardinskou armádu krále Viktora Emanuela II. V bitvě se obzvlášť vyznamenal 10. myslivecký prapor pod vedením jihomoravského rodáka plukovníka Kopala."
+    },
+    {
+      "battle": "Pytlácká bitva u Stožce",
+      "date": "21. a 23. února 1850",
+      "era": "Moderní dějiny",
+      "period": "Léta 1815–1866",
+      "lat": 48.85889,
+      "lon": 13.81944,
+      "note": "Několikadenní ozbrojený střet mezi lesníky Schwarzenberského panství a vojáky rakouské finanční stráže se skupinou celkem asi čtyřiceti bavorských pytláků u česko-bavorské hranice, uváděný jako největší tzv. pytlácká bitva v Evropě."
+    },
+    {
+      "battle": "Bitva u Solferina",
+      "date": "24. červen 1859",
+      "era": "Moderní dějiny",
+      "period": "Léta 1815–1866",
+      "lat": 45.3675,
+      "lon": 10.56639,
+      "note": "Francouzsko-sardinská vojska vybojovala vítězství v rozhodující bitvě s rakouskou armádou, v jejíž řadách se vyznamenali i vojáci českého původu. Pod vlivem osobních zkušeností založil Švýcar Henri Dunant organizaci Červeného kříže."
+    },
+    {
+      "battle": "Střetnutí u Kuřívod",
+      "date": "26. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.58611,
+      "lon": 14.80361,
+      "note": "Srážka předsunutých jednotek VIII. armádního sboru generálmajora Herwartha von Bittenfeld, který porazil rakouskou pěchotu 38. pěšího pluku a půl eskadry husarů."
+    },
+    {
+      "battle": "Bitva u Podolí",
+      "date": "26 – 27. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.57417,
+      "lon": 15.05611,
+      "note": "Pruská první armáda Julia von Bose porazila jednotky rakouského prvního armádního sboru (tzv. Poschacherova železného praporu), který vedl Eduard Clam-Gallas."
+    },
+    {
+      "battle": "Bitva u Náchoda Bitva na Dobeníně Bitva u Vysokova a Václavic",
+      "date": "27. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.4025,
+      "lon": 16.13389,
+      "note": "První větší bitva prusko-rakouské války. V. pruský armádní sbor generála pěchoty Karla von Steinmetz porazil rakouský VI. armádní sbor podmaršálka Wilhelma Ramminga."
+    },
+    {
+      "battle": "Bitva u Trutnova",
+      "date": "27. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.55694,
+      "lon": 15.9125,
+      "note": "Rakouský 10. armádní sbor pod velením podmaršálka Ludwiga Gablenze Ludvíka Gablenze porazil 1. pruský armádní sbor pod velením generála Bonina. Střetnutí se stalo jediným rakouským vítězstvím ve válce v roce 1866."
+    },
+    {
+      "battle": "Bitva u České Skalice",
+      "date": "28. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.40361,
+      "lon": 16.05611,
+      "note": "VIII. rakouský armádní sbor arcivévody Leopolda byl poražen V. pruským armádním sborem generála pěchoty Karla von Steinmetz."
+    },
+    {
+      "battle": "Bitva u Rubínovic a Rokytníku",
+      "date": "28. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.51889,
+      "lon": 15.97472,
+      "note": "Brigáda rakouského plukovníka Grivičiče byla poražena 2. pruským granátnickým plukem gardového sboru generála Augusta von Württemberg."
+    },
+    {
+      "battle": "Bitva u Mnichova Hradiště",
+      "date": "28. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.51944,
+      "lon": 14.94889,
+      "note": "Pruský VIII. armádní sbor generálmajora Herwartha von Bittenfeld obsadil Mnichovo Hradiště, odkud vytlačil jednotky zadního rakouského voje."
+    },
+    {
+      "battle": "Bitva u Jičína",
+      "date": "29. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.45861,
+      "lon": 15.31361,
+      "note": "Rakouský I. armádní sbor, vedený generálem jízdy Clam-Gallasem, společně s královským saským armádním sborem a 1. lehkou jezdeckou divizí generálmajora Edelsheima byl poražen 2. pruskou armádou o síle třech armádních sborů."
+    },
+    {
+      "battle": "Bitva u Svinišťan",
+      "date": "29. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.39361,
+      "lon": 15.98528,
+      "note": "Devět rakouských pěších pluků utrpělo porážku od V. pruského armádního sboru."
+    },
+    {
+      "battle": "Bitva u Dvora Králové",
+      "date": "29. červen 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.42444,
+      "lon": 15.81361,
+      "note": "Část rakouské armády utrpěla porážku od I. pruského gardového sboru pod velením generála Kessela."
+    },
+    {
+      "battle": "Bitva u Hradce Králové Bitva u Sadové",
+      "date": "3. červenec 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 50.29778,
+      "lon": 15.73389,
+      "note": "Rozhodující střet prusko-rakouské války a zároveň největší bitva svedená na území dnešních Čech a Moravy. Pruská armáda rozdrtila Rakousko-saské vojsko."
+    },
+    {
+      "battle": "Bitva u Tovačova a Dubu",
+      "date": "15. červenec 1866",
+      "era": "Moderní dějiny",
+      "period": "Prusko-rakouská válka",
+      "lat": 49.45278,
+      "lon": 17.275,
+      "note": "Předposlední střetnutí prusko-rakouské války. Pruská brigáda generálmajora Malotkiho porazila Rothkirchovu brigádu náležející k VIII. rakouskému armádnímu sboru."
+    },
+    {
+      "battle": "Bitva u Maglaje",
+      "date": "3. a 5. srpen 1878",
+      "era": "Moderní dějiny",
+      "period": "Léta 1866–1914",
+      "lat": 44.54556,
+      "lon": 18.10528,
+      "note": "Při obsazování Bosny a Hercegoviny byly jednotky Rakousko-uherského expedičního sboru při překročení řeky Bosny u města Maglaj překvapeny tuhým odporem bosenských muslimů a oblast se jim povedlo získat pod kontrolu až po druhotném bojovém úderu. Boje se účastnili též čeští vojáci, díky nimž posléze zlidovělo slovo maglajs jako synonymum pro zmatek."
+    },
+    {
+      "battle": "Bitva u Doboje",
+      "date": "4. – 6. září 1878",
+      "era": "Moderní dějiny",
+      "period": "Léta 1866–1914",
+      "lat": 44.74167,
+      "lon": 18.08722,
+      "note": "U bosenského městečka Doboj došlo mezi rakousko-uherskými vojsky a povstalci ke krvavé bitvě, kterého se úspěšně účastnily i dva moravské pěší pluky – č. 8 z Brna a č. 54 z Olomouce."
+    },
+    {
+      "battle": "Srbská kampaň první světové války",
+      "date": "zahájení 24. červenec 1914",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": "",
+      "lon": "",
+      "note": "Boje mezi rakousko-uherskou a srbskou armádou od prvních výstřelů první světové války. Češi se účastnili bojů jako vojáci Rakouska-Uherska, menší množství i jako dobrovolníci v řadách srbské armády."
+    },
+    {
+      "battle": "Bitva u Krašniku",
+      "date": "23. – 25. srpen 1914",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 50.925,
+      "lon": 22.39417,
+      "note": "První bitva první světové války mezi rakousko-uherskou a ruskou armádou. Po této bitvě byly ruské jednotky nuceny se stáhnout k Lublinu."
+    },
+    {
+      "battle": "Bitva o Halič",
+      "date": "26. – 11. září 1914",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": "",
+      "lon": "",
+      "note": "Ofenzíva ruské armády proti rakousko-uherským vojskům. V řadách rakousko-uherské armády bojovali Češi, značné množství jich bylo zajato, poté se přihlásili do legií."
+    },
+    {
+      "battle": "Bitva u Gorlice",
+      "date": "2. květen 1915",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 49.67056,
+      "lon": 21.15667,
+      "note": "Německá a rakousko-uherská armáda prolomily frontu s Rusy. Bitvy se účastnili Češi v řadách rakousko-uherské armády, ale též Češi v ruské armádě, kteří žili před válkou v Rusku – starodružiníci."
+    },
+    {
+      "battle": "Bitva u Arrasu (1915)",
+      "date": "9. květen 1915",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 50.37861,
+      "lon": 2.77111,
+      "note": "Boj o kótu 140 poblíž Vimy 10 kilometrů severně od Arrasu v rámci druhé bitvy u Artois. Bitvy se účastnila Legie Bayonne, složená především z polských a českých dobrovolníků (rota Nazdar). Vrchol byl dobyt, Legie Bayonne však utrpěla katastrofální ztráty a její vítězství se záhy stalo strategicky nevýznamným."
+    },
+    {
+      "battle": "Bitvy na Soči",
+      "date": "23. červen 1915 – 27. říjen 1917",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": "",
+      "lon": "",
+      "note": "Do bojů podél severoitalské řeky byli ve značné míře nasazovaní vojáci české národnosti."
+    },
+    {
+      "battle": "Brusilovova ofenzíva",
+      "date": "4. červen – 20. září 1916",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": "",
+      "lon": "",
+      "note": "Mohutné tažení ruské armády proti německým a rakousko-uherským vojskům."
+    },
+    {
+      "battle": "Bitva u Zborova",
+      "date": "2. červenec 1917",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 49.66167,
+      "lon": 25.14528,
+      "note": "V rámci Kerenského ofenzívy zaútočila česká brigáda legionářů proti rakousko-uherským jednotkám, které se skládaly z vojáků pocházejících převážně z českých zemí. Podařilo se jim prolomit frontu a rozbít nepřátelské uskupení. Vítězství umožnilo formování čs. jednotek v Rusku."
+    },
+    {
+      "battle": "Bitva u Caporetta",
+      "date": "24. říjen 1917",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 46.21528,
+      "lon": 13.64528,
+      "note": "Spojené rakousko-uherské a německé vojsko prolomilo italskou obranu a postoupilo k řece Piavě. Značnou část rakousko-uherské armády zde tvořili jednotky z českých zemí."
+    },
+    {
+      "battle": "Bitva na Piavě",
+      "date": "15. listopad 1917 – 3. listopad 1918",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": "",
+      "lon": "",
+      "note": "Těžkých bojů na řece Piavě se účastnili Češi jak v řadách rakousko-uherské armády, tak v řadách československých legií."
+    },
+    {
+      "battle": "Bitva u Bachmače",
+      "date": "28. květen 1918",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 51.17556,
+      "lon": 32.82722,
+      "note": "Příslušníci čs. legie v Rusku a vojáci rudých gard vedli u železniční křižovatky Bachmač zadržovací boj proti německé přesile. Úspěšná akce umožnila naložit do vlaků materiál i mužstvo."
+    },
+    {
+      "battle": "Boj o Penzu",
+      "date": "8. – 13. březen 1918",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 53.20472,
+      "lon": 45.00556,
+      "note": "Příslušníci čs. legie v Rusku dobyli městečko Penza, které bylo obsazeno bolševickými vojáky. V řadách jejich protivníků se nacházeli i příslušníci nově formovaného 1. čs. revolučního pluku."
+    },
+    {
+      "battle": "Bitva u Lipjag",
+      "date": "4. červen 1918",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 53.10639,
+      "lon": 49.89472,
+      "note": "V železniční stanici Lipjagy v Povolží porazily jednotky čs. legionářů bolševická vojska, čímž si otevřely cestu ke spojení s ostatními čs. oddíly. Blokováním sibiřské magistrály čs. legionáři zcela zastavili přepravu německých a rakousko-uherských zajatců na západní a italskou frontu."
+    },
+    {
+      "battle": "Bitva na Bajkalském jezeře",
+      "date": "16. srpen 1918",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 51.71806,
+      "lon": 105.865,
+      "note": "Námořní bitva v níž československá flotila potopila loď rudých a poničila přístav a nádraží v Mysové. Pravděpodobně jediná námořní bitva svedená československou flotilou."
+    },
+    {
+      "battle": "Bitva u Doss Alto",
+      "date": "21. září 1918",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 45.85167,
+      "lon": 10.91194,
+      "note": "Čs. legionáři v Itálii ubránili kótu Doss Alto proti výrazné přesile rakouského vojska."
+    },
+    {
+      "battle": "Bitva u Terronu",
+      "date": "18. – 22. říjen 1918",
+      "era": "Moderní dějiny",
+      "period": "První světová válka",
+      "lat": 49.45306,
+      "lon": 4.69472,
+      "note": "V bojích u francouzského městečka Terronu byla nasazena čs. brigáda legionářů, kterým se podařilo obsadit a uhájit německé pozice."
+    },
+    {
+      "battle": "Bitva o Těšínsko",
+      "date": "23. – 30. leden 1919",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 49.84056,
+      "lon": 18.42472,
+      "note": "Vojenské střetnutí Československa a Polska o Těšínsko, probíhající v rámci Československo-polského sporu o Těšínsko, bylo zastaveno až na nátlak Dohody. Výsledkem této tzv. Sedmidenní války bylo vyvolání Arbitráže v belgickém Spa v roce 1920 a následné stanovení nové demarkační čáry, která rozšířila území kontrolované Československem."
+    },
+    {
+      "battle": "Bitva o Komárno",
+      "date": "1. květen 1919",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 47.75861,
+      "lon": 18.13056,
+      "note": "Útok maďarské rudé armády na Komárno v rámci maďarsko-československé války. Bitva skončila drtivým vítězstvím československého vojska vedeného majorem Antonínem Baslem."
+    },
+    {
+      "battle": "Bitva o Zvolen",
+      "date": "10. – 13. červen 1919",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 48.58444,
+      "lon": 19.05222,
+      "note": "Čs. jednotky pod vedením plukovníka Šnejdárka odrazily útok maďarské rudé armády a po dobytí Zvolena se chopily iniciativy a protivníka vytlačily ze slovenského území. Tyto boje měly vliv na budoucí podobu a zejména rozlohu Slovenska."
+    },
+    {
+      "battle": "Bitva o Habartov",
+      "date": "13. září 1938",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 50.18722,
+      "lon": 12.55111,
+      "note": "První střet československých jednotek se sudetoněmeckým freikorpsem. Boj skončil ústupem sudetských Němců."
+    },
+    {
+      "battle": "Boj o Bublavu",
+      "date": "13. září 1938",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 50.37639,
+      "lon": 12.50583,
+      "note": "Sudetoněmecký freikorps obsadil obec Bublava a odrazil následný československý protiútok."
+    },
+    {
+      "battle": "Boje v Krajkové",
+      "date": "13. – 14. září 1938",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 50.185,
+      "lon": 12.53444,
+      "note": "Českoslovenští četníci se v Krajkové střetli se sudetoněmeckými teroristy. Četníkům byla poslána na pomoc vojenská jednotka, avšak její příslušníci byli z většiny německé národnosti a přidali se na stranu freikorpsu."
+    },
+    {
+      "battle": "Boje o Šluknovský výběžek",
+      "date": "21. – 24. září 1938",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": "",
+      "lon": "",
+      "note": "Oddíly sudetoněmeckého freikorpsu obsadily Šluknovský výběžek včetně Varnsdorfu, v dalších bojích však byly československou armádou vytlačeny za hranice."
+    },
+    {
+      "battle": "Bitva o Moravskou Chrastovou",
+      "date": "31. říjen 1938",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 49.62583,
+      "lon": 16.53083,
+      "note": "Československé oddíly vytlačily sudetoněmecké teroristy z Moravské Chrastové, kterou den předtím obsadili."
+    },
+    {
+      "battle": "Bitva u Čadce",
+      "date": "25. listopad 1938",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 49.44,
+      "lon": 18.78944,
+      "note": "Střet mezi československými a polskými jednotkami o Čadecko v rámci tzv. malé války. Boj skončil obsazením části Čadecka polskou armádou."
+    },
+    {
+      "battle": "Bitva u Rozvegova",
+      "date": "6. leden 1939",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 48.44389,
+      "lon": 22.72167,
+      "note": "Ozbrojený střet svedený o předměstí Mukačeva na Podkarpatské Rusi v rámci tzv. maďarské invaze na Podkarpatskou Rus. Bitva skončila krátkodobým vytlačením Maďarů z Rozvegova."
+    },
+    {
+      "battle": "Obrana kláštera v Podmonastýru",
+      "date": "14. březen 1939",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": "",
+      "lon": "",
+      "note": "Četa SOS bránila klášter Vasiliánů proti útočícím maďarským jednotkám. Boj skončil československým ústupem."
+    },
+    {
+      "battle": "Boj v údolí řeky Latorice",
+      "date": "14. – 15. březen 1939",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": "",
+      "lon": "",
+      "note": "Československý 36. pěší pluk zadržoval postup vojáků maďarské armády."
+    },
+    {
+      "battle": "Bitva u Czajankových kasáren",
+      "date": "14. březen 1939",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 49.68667,
+      "lon": 18.34833,
+      "note": "Ozbrojený střet mezi československými a německými vojáky při obsazování Čech a Moravy."
+    },
+    {
+      "battle": "Boj v údolí řeky Uhu",
+      "date": "14. – 17. březen 1939",
+      "era": "Moderní dějiny",
+      "period": "Léta 1919–1939",
+      "lat": 48.65278,
+      "lon": 22.34861,
+      "note": "Československé jednotky bránily údolí řeky Uhu proti maďarské armádě."
+    },
+    {
+      "battle": "Bitva u Partizánské Ľupči Událost na Magure Ľupče",
+      "date": "5. srpen 1947",
+      "era": "Moderní dějiny",
+      "period": "Léta 1946–2000",
+      "lat": 49.06444,
+      "lon": 19.43472,
+      "note": "Samopalná četa aspirantů československé armády byla ze zálohy přepadena skupinou Banderovců. Padlo 6 československých vojáků, 3 byli zajati a další utrpěli zranění."
+    },
+    {
+      "battle": "Bitva o hájovnu u Nezbudské Lúčky",
+      "date": "19. srpen 1947",
+      "era": "Moderní dějiny",
+      "period": "Léta 1946–2000",
+      "lat": 49.1775,
+      "lon": 18.86611,
+      "note": "Skupinka příslušníků SNB úspěšně bránila objekt hájovny proti přesile Banderovců."
+    },
+    {
+      "battle": "Střetnutí u Krasňan",
+      "date": "20. – 21. srpen 1947",
+      "era": "Moderní dějiny",
+      "period": "Léta 1946–2000",
+      "lat": 49.21639,
+      "lon": 18.88639,
+      "note": "Střet československé armády s Burlakovou skupinou Banderovců u slovenské obce Krasňany."
+    },
+    {
+      "battle": "Letecký souboj nad Merklínem",
+      "date": "10. březen 1953",
+      "era": "Moderní dějiny",
+      "period": "Léta 1946–2000",
+      "lat": 50.32917,
+      "lon": 12.86333,
+      "note": "Letecký souboj dvou československých letounů MiG-15 se dvěma americkými stíhačkami F-84 Thunderjet ve vzdušném prostoru Merklín. Poručík Jaroslav Šrámek sestřelil jeden americký letoun, ten se následně zřítil na německé území."
+    },
+    {
+      "battle": "Incident u holešovských kasáren",
+      "date": "21. srpna – začátek září 1968",
+      "era": "Moderní dějiny",
+      "period": "Léta 1946–2000",
+      "lat": "",
+      "lon": "",
+      "note": ""
+    },
+    {
+      "battle": "Osvobození Kuvajtu",
+      "date": "27. až 28. února 1991",
+      "era": "Moderní dějiny",
+      "period": "Léta 1946–2000",
+      "lat": "",
+      "lon": "",
+      "note": "Část příslušníků Československého samostatného protichemického praporu překročila 27. února hranici mezi královstvím Saúdské Arábie a Irákem anektovaný Kuvajtem, kde stále doznívaly osvobozovací boje vedené mezinárodní Koalicí v čele se Spojenými státy americkými."
+    },
+    {
+      "battle": "Vyproštění francouzských vojáků ze základny Karin",
+      "date": "Leden 1993",
+      "era": "Moderní dějiny",
+      "period": "Léta 1946–2000",
+      "lat": "",
+      "lon": "",
+      "note": "Příslušníci československého praporu působícího v Jugoslávii během mise UNPROFOR vyprostili z blokace francouzské vojáky, kteří byli odříznuti od svých jednotek a ocitli se pod minometnou palbou."
+    },
+    {
+      "battle": "Obrana pravoslavného kostela v Podujevu",
+      "date": "18. březen 2004",
+      "era": "21. století",
+      "period": "21. století",
+      "lat": 42.91056,
+      "lon": 21.19167,
+      "note": "Čeští vojáci bránili proti kosovským Albáncům Podujevský pravoslavný kostel. Po prolomení zdí kostela byli nuceni ustoupit."
+    },
+    {
+      "battle": "Evakuace obce Obilić",
+      "date": "18. březen 2004",
+      "era": "21. století",
+      "period": "21. století",
+      "lat": 42.69583,
+      "lon": 21.07417,
+      "note": "Čeští vojáci zachránili 140 Srbů před lynčováním ze strany kosovských Albánců."
+    },
+    {
+      "battle": "Přestřelka u osady Uglare",
+      "date": "8. listopad 2005",
+      "era": "21. století",
+      "period": "21. století",
+      "lat": 42.62806,
+      "lon": 21.10722,
+      "note": "Čeští příslušníci sil KFOR se dostali do potyčky se skupinou šesti kosovských Albánců, kteří nelegálně těžili dřevo. Po varovném výstřelu české patroly se rozpoutala přestřelka, během níž byl lehce zraněn jeden český voják a jeden Albánec. Útočníci byli po přestřelce zadrženi a předáni kosovské policii."
+    },
+    {
+      "battle": "Operace Mountain Thrust",
+      "date": "15. – 31. červenec 2006",
+      "era": "21. století",
+      "period": "21. století",
+      "lat": "",
+      "lon": "",
+      "note": "Příslušníci 601. skupiny speciálních sil z Prostějova se účastnili masivní operace spojeneckých sil, která měla za cíl „vyčistit“ jih Afghánistánu předtím, než zde začne působit NATO-ISAF."
+    },
+    {
+      "battle": "Konvoj z Kandaháru na předsunutou základnu v Uruzgánu",
+      "date": "podzim 2008",
+      "era": "21. století",
+      "period": "21. století",
+      "lat": "",
+      "lon": "",
+      "note": "Ochranu konvoje mířícího na předsunutou základnu v Afghánské provincii Uruzgán měla na starost kromě amerických a afghánských vojáků i 601. skupina speciálních sil z Prostějova."
+    },
+    {
+      "battle": "Ostřelování základny Shank",
+      "date": "13. srpen – 23. říjen 2008",
+      "era": "21. století",
+      "period": "21. století",
+      "lat": "",
+      "lon": "",
+      "note": "Vojáci českého PRT v afghánské provincii Lógar čelili raketovým útokům ze strany povstalců."
+    },
+    {
+      "battle": "Střetnutí u základny Shank",
+      "date": "1. říjen 2008",
+      "era": "21. století",
+      "period": "21. století",
+      "lat": "",
+      "lon": "",
+      "note": "Útok na českou patrolu poblíž základny Shank."
+    }
+  ],
+  "meta": {
+    "title": "Bitvy českých dějin - Free Download",
+    "description": "Přehled bitev, obléhání a ozbrojených střetnutí v českých dějinách od 7. století po současnost s datem, historickým obdobím, souřadnicemi a stručným popisem. Contains 221 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bitvy českých dějin | ListBase",
+    "seo_description": "Download Bitvy českých dějin — 221 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 221 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_bitev_českých_dějin"
+    ]
+  }
+}

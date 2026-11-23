@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-20T02:11:08.227Z",
-  "total_datasets": 586,
-  "total_records": 425302,
+  "generated": "2026-11-23T02:18:56.214Z",
+  "total_datasets": 587,
+  "total_records": 425523,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "language",
@@ -8504,6 +8504,34 @@
         "xlsx": {
           "name": "cs-zemreli-podle-pricin-smrti-2024_CS.xlsx",
           "size": 46771
+        }
+      }
+    },
+    {
+      "id": "cs-bitvy-ceskych-dejin",
+      "name": "Bitvy českých dějin",
+      "category": "history",
+      "record_count": 221,
+      "columns": [
+        "battle",
+        "date",
+        "era",
+        "period",
+        "lat",
+        "lon",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_bitev_českých_dějin",
+      "updated": "2026-11",
+      "size": 87583,
+      "files": {
+        "csv": {
+          "name": "cs-bitvy-ceskych-dejin_CS.csv",
+          "size": 60432
+        },
+        "xlsx": {
+          "name": "cs-bitvy-ceskych-dejin_CS.xlsx",
+          "size": 32898
         }
       }
     },
