@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-23T02:19:05.625Z",
-  "total_datasets": 588,
-  "total_records": 426137,
+  "generated": "2026-11-23T02:19:14.930Z",
+  "total_datasets": 589,
+  "total_records": 426180,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "law",
@@ -8870,6 +8870,34 @@
         "xlsx": {
           "name": "cs-materske-jazyky-scitani-2021_CS.xlsx",
           "size": 7059
+        }
+      }
+    },
+    {
+      "id": "cs-slovniky-cizich-slov",
+      "name": "Slovníky cizích slov v češtině",
+      "category": "language",
+      "record_count": 43,
+      "columns": [
+        "title",
+        "author",
+        "year",
+        "pages",
+        "publisher",
+        "type",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_slovníků_cizích_slov_v_češtině",
+      "updated": "2026-11",
+      "size": 14988,
+      "files": {
+        "csv": {
+          "name": "cs-slovniky-cizich-slov_CS.csv",
+          "size": 7690
+        },
+        "xlsx": {
+          "name": "cs-slovniky-cizich-slov_CS.xlsx",
+          "size": 10933
         }
       }
     },

@@ -1,0 +1,448 @@
+{
+  "id": "cs-slovniky-cizich-slov",
+  "name": "Slovníky cizích slov v češtině",
+  "title": "Slovníky cizích slov v češtině",
+  "description": "Přehled českých slovníků cizích slov a příbuzných slovníků s autorem, rokem vydání, počtem stran, nakladatelem a poznámkou (např. počet hesel).",
+  "category": "language",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_slovníků_cizích_slov_v_češtině",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_slovníků_cizích_slov_v_češtině",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "author",
+      "label": "Author",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "pages",
+      "label": "Pages",
+      "type": "number"
+    },
+    {
+      "key": "publisher",
+      "label": "Publisher",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "title": "Akademický slovník cizích slov",
+      "author": "Věra Petráčková a Jiří Kraus",
+      "year": "1995",
+      "pages": "834",
+      "publisher": "Academia",
+      "type": "slovník cizích slov",
+      "note": "100 000 hesel Vyšlo i na cd"
+    },
+    {
+      "title": "Velký slovník cizích slov, rčení a zkratek v jazyce psaném i mluveném ze všech oborů lidského vědění a konání",
+      "author": "Vilém Pech",
+      "year": "1948",
+      "pages": "809",
+      "publisher": "Kvasnička a Hampl",
+      "type": "slovník cizích slov",
+      "note": "70 000 hesel"
+    },
+    {
+      "title": "Slovník cizích slov",
+      "author": "Lumír Klimeš",
+      "year": "1981",
+      "pages": "790",
+      "publisher": "SPN",
+      "type": "slovník cizích slov",
+      "note": "Více než 20 000 hesel"
+    },
+    {
+      "title": "Slovník cizích slov, zkratek, novinářských šifer, pseudonymů a časopisů pro čtenáře novin",
+      "author": "Karel Tauš",
+      "year": "1946",
+      "pages": "738",
+      "publisher": "Karel Jelínek",
+      "type": "slovník cizích slov",
+      "note": "9000"
+    },
+    {
+      "title": "Slovník cizích slov",
+      "author": "kolektiv autorů",
+      "year": "2000",
+      "pages": "710",
+      "publisher": "Ottovo nakladatelství",
+      "type": "slovník cizích slov",
+      "note": "30 000 hesel"
+    },
+    {
+      "title": "Školní slovník cizích slov",
+      "author": "Roman Mikuláš, překlad Ilona Balkó",
+      "year": "2007",
+      "pages": "584",
+      "publisher": "Vydavateľstvo Príroda",
+      "type": "slovník cizích slov",
+      "note": "24 000 hesel, překlad slovenského Školského slovníku cudzích slov"
+    },
+    {
+      "title": "Slovník cizích slov",
+      "author": "Jan Kubišta, Ladislav Rejman",
+      "year": "1956",
+      "pages": "505",
+      "publisher": "SPN",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Slovník cizích slov: příručná kniha pro veškery třídy společenské",
+      "author": "Ladislav Šípek",
+      "year": "1896",
+      "pages": "596",
+      "publisher": "Edvard Beaufort",
+      "type": "slovník cizích slov",
+      "note": "Je rozšířením slovníčku cizích slov od stejného autora z 1892 (viz též)"
+    },
+    {
+      "title": "Praktický slovník cizích slov / Slovník cizích slov do kapsy",
+      "author": "Karel Václavík a kol.",
+      "year": "2007, 2011, 2017",
+      "pages": "461",
+      "publisher": "XYZ",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Slovník cizojazyčných slov a úsloví v češtině se vyskytujících s dodatkem jmen osobních a místních",
+      "author": "Bedřich Klenot",
+      "year": "1922, 1930",
+      "pages": "426",
+      "publisher": "Jindřich Bačkovský",
+      "type": "slovník cizích slov",
+      "note": "(Kramerius)"
+    },
+    {
+      "title": "Slovník cizích slov",
+      "author": "Ladislav Rejman",
+      "year": "1966",
+      "pages": "416",
+      "publisher": "SPN",
+      "type": "slovník cizích slov",
+      "note": "24 000 hesel"
+    },
+    {
+      "title": "Nový slovník cizích slov v moderní češtině",
+      "author": "Otakar Šetka",
+      "year": "1935, 1946",
+      "pages": "415",
+      "publisher": "Jindřich Lorenz",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Slovník cizích slov, rčení a zkratek ve spisovné a hovorové češtině",
+      "author": "Vilém Pech",
+      "year": "1937",
+      "pages": "406",
+      "publisher": "Kvasnička a Hampl",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Slovník cizojazyčný, obsahující výklad cizích slov v češtině často užívaných anebo české náhrady za ně",
+      "author": "František Bačkovský",
+      "year": "1895",
+      "pages": "392",
+      "publisher": "František Bačkovský",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Kapesní slovník novinářský v němž se nacházejí zvláště slova z cizích jazykův",
+      "author": "Josef Rank",
+      "year": "1862",
+      "pages": "368",
+      "publisher": "I L Kober",
+      "type": "slovník cizích slov",
+      "note": "(Kramerius)"
+    },
+    {
+      "title": "Kapesní slovník cizích slov",
+      "author": "kolektiv autorů",
+      "year": "2009",
+      "pages": "368",
+      "publisher": "Ottovo nakladatelství",
+      "type": "slovník cizích slov",
+      "note": "5 000 hesel"
+    },
+    {
+      "title": "Slovník cizích slov",
+      "author": "",
+      "year": "1996, 2006, 2013…",
+      "pages": "367",
+      "publisher": "Encyklopedický dům, Plot, Dialog",
+      "type": "slovník cizích slov",
+      "note": "Vydán vícekrát mj. jako sl. ciz. slov pro nové století."
+    },
+    {
+      "title": "Malý slovník cizích slov",
+      "author": "Jaroslava Staňková",
+      "year": "1992",
+      "pages": "360",
+      "publisher": "Montanex",
+      "type": "slovník cizích slov",
+      "note": "takřka kolibří velikost"
+    },
+    {
+      "title": "Kapesní slovník cizích slov",
+      "author": "Jiří Haller",
+      "year": "1954, 1956",
+      "pages": "316",
+      "publisher": "SPN",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Kapesní slovník cizích slov pro 21. století",
+      "author": "Matěj Barták a kol.",
+      "year": "2008",
+      "pages": "303",
+      "publisher": "Plot",
+      "type": "slovník cizích slov",
+      "note": "10 000 hesel"
+    },
+    {
+      "title": "Cizí slova: Výběrový slovník",
+      "author": "Karel Kučera",
+      "year": "1978",
+      "pages": "272",
+      "publisher": "Mladá fronta",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Slovníček cizích slov. Příruční kniha pro všechny třídy společenské, zvláště pro úřadníky, studující, obchodníky, živnostníky, čtenáře novin atd.",
+      "author": "Ladislav Šípek-Rozpakovský",
+      "year": "1892",
+      "pages": "261",
+      "publisher": "Vydavatelstvo časopisu Českých Zájmů",
+      "type": "slovník cizích slov",
+      "note": "Roku 1896 vyšla rozšířená verze (viz též)"
+    },
+    {
+      "title": "Novinářský slovník: slov cizojazyčných, jež vyskytují se v knihách, listech denních i v obecném hovoru, ze všech odvětví života, věd a umění",
+      "author": "František Borovský-Ruth",
+      "year": "1899, ca1910",
+      "pages": "176, 257",
+      "publisher": "Rudolf Storch",
+      "type": "slovník cizích slov",
+      "note": "(Kramerius)"
+    },
+    {
+      "title": "Naučný slovníček příruční knížka vysvětlující význam cizích slov a poučující stručně o vědomostech obecných",
+      "author": "František V. Pokorný",
+      "year": "1906, 1922, 1937, 1941",
+      "pages": "232 (3. vyd.)",
+      "publisher": "Nový Lid",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Cizojazyčný slovník",
+      "author": "Bohumil Kočí",
+      "year": "1923",
+      "pages": "232",
+      "publisher": "Nákladem J. Bř. Hůrky",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Abecední vyhledavač slov českých i cizích: slovník slov cizojazyčných s jejich českými významy, jakož i slov českých v příčině jejich pravopisu, ohýbání i správného užívání",
+      "author": "Karel Vorovka",
+      "year": "1894",
+      "pages": "220",
+      "publisher": "Bursík a Kohout",
+      "type": "slovník cizích slov",
+      "note": "(Kramerius)"
+    },
+    {
+      "title": "Kapesní slovník cizích slov",
+      "author": "Ladislav Rejman",
+      "year": "1971",
+      "pages": "200",
+      "publisher": "SPN",
+      "type": "slovník cizích slov",
+      "note": "6000 hesel"
+    },
+    {
+      "title": "Pravopisný slovník Pořádá a dělí na 30.000 slov v češtině",
+      "author": "Vladimír Doutlík",
+      "year": "1947",
+      "pages": "200",
+      "publisher": "Jaroslav Tožička",
+      "type": "slovník cizích slov",
+      "note": "Psán pro základní školy a širokou veřejnost"
+    },
+    {
+      "title": "Slovníček cizích slov v češtině",
+      "author": "B. R. (Rudolf Bačkovský)",
+      "year": "ca1922",
+      "pages": "195",
+      "publisher": "František Bačkovský",
+      "type": "slovník cizích slov",
+      "note": "Malý, kapesní formát"
+    },
+    {
+      "title": "Slovník cizích slov: 10.000 hesel mezinárodních slov ze všech oborů lidského vědění s vystižnými (sic) českými překlady, umožňujícími nahrazovat cizí slova správnými českými výrazy",
+      "author": "Václav Cháb",
+      "year": "1940",
+      "pages": "192",
+      "publisher": "Josef Hokr",
+      "type": "slovník cizích slov",
+      "note": "10 000 hesel"
+    },
+    {
+      "title": "Slovníček cizích slov",
+      "author": "Josef Karel Šlejhar a Petr Zenkl",
+      "year": "1924 (7. vydání)",
+      "pages": "162",
+      "publisher": "E. Weinfurter",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Slovníček cizojazyčný s předchozím ohýbavím a pravopisným i sbírkou kazimluvů, nahrazených výrazy přesými.",
+      "author": "Karel Vorovka",
+      "year": "1892",
+      "pages": "115",
+      "publisher": "I L Kober",
+      "type": "slovník cizích slov",
+      "note": "Dostupné na Google Books."
+    },
+    {
+      "title": "Malý tlumočník Slovníček cizích slov",
+      "author": "J Sedmera",
+      "year": "(neuvedeno)",
+      "pages": "80",
+      "publisher": "(neuvedeno)",
+      "type": "slovník cizích slov",
+      "note": ""
+    },
+    {
+      "title": "Slovníček cizích slov pro mládež",
+      "author": "Julie Šupichová",
+      "year": "1944",
+      "pages": "64",
+      "publisher": "Antonín Dědourek",
+      "type": "slovník cizích slov",
+      "note": "24. svazek sbírky školských příruček"
+    },
+    {
+      "title": "Malý slovník cizích slov",
+      "author": "Jaroslava Staňková",
+      "year": "2001",
+      "pages": "",
+      "publisher": "Knihovna a tiskárna pro nevidomé",
+      "type": "příbuzný slovník",
+      "note": "Slovník cizích slov v hmatovém písmu v 11 svazcích."
+    },
+    {
+      "title": "Obrátený slovník cudzích slov",
+      "author": "Peter Oravec",
+      "year": "2007",
+      "pages": "1060",
+      "publisher": "Epos",
+      "type": "příbuzný slovník",
+      "note": "Slovensky. Pro běžná slova ukazuje jejich cizí ekvivalenty."
+    },
+    {
+      "title": "Šmírbuch jazyka českého",
+      "author": "Patrik Ouředník",
+      "year": "1988, 1992, 2005, 2016",
+      "pages": "426, 538",
+      "publisher": "",
+      "type": "příbuzný slovník",
+      "note": ""
+    },
+    {
+      "title": "Slovník nespisovné češtiny",
+      "author": "Jan Hugo",
+      "year": "2020",
+      "pages": "528",
+      "publisher": "Maxdorf",
+      "type": "příbuzný slovník",
+      "note": ""
+    },
+    {
+      "title": "Ukazatel správné češtiny v obchodním životě (se seznamem cizích slov.)",
+      "author": "Jan Kaňka",
+      "year": "1927",
+      "pages": "239",
+      "publisher": "Ústřední svaz československých průmyslníků",
+      "type": "příbuzný slovník",
+      "note": "Příloha pro Slovník obchodně technický, účetní a daňový (11 svazků). Soustředí se na ukázání českých ekvivalentů cizích slov používaných obchodu."
+    },
+    {
+      "title": "Nový kapesní, cizojazyčný Slowník",
+      "author": "Johann Adelung a Ladislav Pospíšil",
+      "year": "1853",
+      "pages": "320",
+      "publisher": "Ladislav Pospíšil v Trutnově",
+      "type": "příbuzný slovník",
+      "note": "Obsahuje cizí slovo následované německým vysvětlením a pak stejným vysvětlením v češtině. Obsahuje 5000 hesel. Německý název je Neues Taschen-Fremdwörterbuch."
+    },
+    {
+      "title": "Velký slovník cizích slov",
+      "author": "Kolektiv",
+      "year": "2008",
+      "pages": "807",
+      "publisher": "nakladatelství Pali",
+      "type": "odvozený slovník",
+      "note": "Odvozeno z Akademického slovníku cizích slov. Část hesel je upravena. 20 000 hesel"
+    },
+    {
+      "title": "Slovník cizích slov pro nové století",
+      "author": "Jiří Linhart a kolektiv",
+      "year": "2007, 2013",
+      "pages": "416",
+      "publisher": "Dialog",
+      "type": "odvozený slovník",
+      "note": "30 000 hesel. Odvozeno od Slovníku cizích slov vydaného Encyklopedickým domem"
+    },
+    {
+      "title": "Slovník cizích slov",
+      "author": "(neuveden)",
+      "year": "1992",
+      "pages": "287",
+      "publisher": "Fin",
+      "type": "odvozený slovník",
+      "note": "Kolibří velikost. Odvozeno od slovníku Lumíra Klimeše"
+    }
+  ],
+  "meta": {
+    "title": "Slovníky cizích slov v češtině - Free Download",
+    "description": "Přehled českých slovníků cizích slov a příbuzných slovníků s autorem, rokem vydání, počtem stran, nakladatelem a poznámkou (např. počet hesel). Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Slovníky cizích slov v češtině | ListBase",
+    "seo_description": "Download Slovníky cizích slov v češtině — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_slovníků_cizích_slov_v_češtině"
+    ]
+  }
+}
