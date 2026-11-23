@@ -1,0 +1,6206 @@
+{
+  "id": "cs-opery-narodni-divadlo",
+  "name": "Opery hrané v Prozatímním a Národním divadle",
+  "title": "Opery hrané v Prozatímním a Národním divadle",
+  "description": "Seznam oper uvedených v Prozatímním divadle a Národním divadle v Praze se skladatelem, počtem představení a nastudování a daty prvního a posledního uvedení.",
+  "category": "music",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_oper_hraných_v_Prozatímním_a_Národním_divadle",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_oper_hraných_v_Prozatímním_a_Národním_divadle",
+  "updated": "2026-11",
+  "record_count": 614,
+  "columns": [
+    {
+      "key": "opera",
+      "label": "Opera",
+      "type": "string"
+    },
+    {
+      "key": "composer",
+      "label": "Composer",
+      "type": "string"
+    },
+    {
+      "key": "performances",
+      "label": "Performances",
+      "type": "number"
+    },
+    {
+      "key": "performances_detail",
+      "label": "Performances Detail",
+      "type": "string"
+    },
+    {
+      "key": "productions",
+      "label": "Productions",
+      "type": "number"
+    },
+    {
+      "key": "productions_detail",
+      "label": "Productions Detail",
+      "type": "string"
+    },
+    {
+      "key": "first_performance",
+      "label": "First Performance",
+      "type": "string"
+    },
+    {
+      "key": "last_performance",
+      "label": "Last Performance",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "opera": "Prodaná nevěsta",
+      "composer": "Bedřich Smetana",
+      "performances": 3632,
+      "performances_detail": "3632 (116+3516)",
+      "productions": 25,
+      "productions_detail": "25 (5+20)",
+      "first_performance": "30. května 1866",
+      "last_performance": "19. února 2020"
+    },
+    {
+      "opera": "Rusalka",
+      "composer": "Antonín Dvořák",
+      "performances": 1973,
+      "performances_detail": "1973",
+      "productions": 14,
+      "productions_detail": "14",
+      "first_performance": "31. března 1900",
+      "last_performance": "3. února 2020"
+    },
+    {
+      "opera": "Hubička",
+      "composer": "Bedřich Smetana",
+      "performances": 1777,
+      "performances_detail": "1777 (46+1731)",
+      "productions": 17,
+      "productions_detail": "17 (1+16)",
+      "first_performance": "7. listopadu 1876",
+      "last_performance": "27. února 2009"
+    },
+    {
+      "opera": "Don Giovanni (Don Juan)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 1303,
+      "performances_detail": "1303 (42+1261)",
+      "productions": 27,
+      "productions_detail": "27 (4+23)",
+      "first_performance": "14. července 1864",
+      "last_performance": "14. července 2019"
+    },
+    {
+      "opera": "Figarova svatba",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 1192,
+      "performances_detail": "1192 (27+1165)",
+      "productions": 27,
+      "productions_detail": "27 (6+21)",
+      "first_performance": "26. ledna 1865",
+      "last_performance": "3. března 2020"
+    },
+    {
+      "opera": "Carmen",
+      "composer": "Georges Bizet",
+      "performances": 1134,
+      "performances_detail": "1134",
+      "productions": 12,
+      "productions_detail": "12",
+      "first_performance": "3. ledna 1884",
+      "last_performance": "9. března 2020"
+    },
+    {
+      "opera": "Dalibor",
+      "composer": "Bedřich Smetana",
+      "performances": 1114,
+      "performances_detail": "1114 (16+1098)",
+      "productions": 14,
+      "productions_detail": "14 (3+12)",
+      "first_performance": "14. května 1868",
+      "last_performance": "4. března 2020"
+    },
+    {
+      "opera": "Jakobín",
+      "composer": "Antonín Dvořák",
+      "performances": 1102,
+      "performances_detail": "1102",
+      "productions": 13,
+      "productions_detail": "13",
+      "first_performance": "12. února 1889",
+      "last_performance": "15. února 2020"
+    },
+    {
+      "opera": "La traviata (Violetta, Traviata)",
+      "composer": "Giuseppe Verdi",
+      "performances": 1064,
+      "performances_detail": "1064 (48+ 1016)",
+      "productions": 13,
+      "productions_detail": "13 (2+12)",
+      "first_performance": "15. července 1868",
+      "last_performance": "19. února 2020"
+    },
+    {
+      "opera": "Lazebník sevillský",
+      "composer": "Gioacchino Rossini",
+      "performances": 1003,
+      "performances_detail": "1003 (61+942)",
+      "productions": 14,
+      "productions_detail": "14 (2+12)",
+      "first_performance": "15. března 1863",
+      "last_performance": "30. prosince 2017"
+    },
+    {
+      "opera": "Kouzelná flétna",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 952,
+      "performances_detail": "952 (31+921)",
+      "productions": 20,
+      "productions_detail": "20 (3+17)",
+      "first_performance": "13. ledna 1863",
+      "last_performance": "12. února 2020"
+    },
+    {
+      "opera": "Madam Butterfly",
+      "composer": "Giacomo Puccini",
+      "performances": 952,
+      "performances_detail": "952",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "5. října 1921",
+      "last_performance": "20. února 2020"
+    },
+    {
+      "opera": "Čert a Káča",
+      "composer": "Antonín Dvořák",
+      "performances": 932,
+      "performances_detail": "932",
+      "productions": 10,
+      "productions_detail": "10",
+      "first_performance": "23. listopadu 1899",
+      "last_performance": "12. ledna 2020"
+    },
+    {
+      "opera": "Evžen Oněgin (Eugenij Oněgin, Eugen Oněgin)",
+      "composer": "Petr Iljič Čajkovskij",
+      "performances": 932,
+      "performances_detail": "932",
+      "productions": 13,
+      "productions_detail": "13",
+      "first_performance": "6. prosince 1888",
+      "last_performance": "11. února 2010"
+    },
+    {
+      "opera": "Tajemství",
+      "composer": "Bedřich Smetana",
+      "performances": 932,
+      "performances_detail": "932 (24+908)",
+      "productions": 16,
+      "productions_detail": "16 (1+15)",
+      "first_performance": "18. září 1878",
+      "last_performance": "2. května 2009"
+    },
+    {
+      "opera": "Tosca",
+      "composer": "Giacomo Puccini",
+      "performances": 794,
+      "performances_detail": "794",
+      "productions": 10,
+      "productions_detail": "10",
+      "first_performance": "21. listopadu 1903",
+      "last_performance": "21. října 2019"
+    },
+    {
+      "opera": "Dvě vdovy",
+      "composer": "Bedřich Smetana",
+      "performances": 761,
+      "performances_detail": "761 (19+742)",
+      "productions": 17,
+      "productions_detail": "17 (2+15)",
+      "first_performance": "27. března 1874",
+      "last_performance": "3. července 2015"
+    },
+    {
+      "opera": "Rigoletto",
+      "composer": "Giuseppe Verdi",
+      "performances": 716,
+      "performances_detail": "716 (30+686)",
+      "productions": 15,
+      "productions_detail": "15 (3+12)",
+      "first_performance": "10. září 1864",
+      "last_performance": "28. června 2017"
+    },
+    {
+      "opera": "Bohéma",
+      "composer": "Giacomo Puccini",
+      "performances": 696,
+      "performances_detail": "696",
+      "productions": 12,
+      "productions_detail": "12",
+      "first_performance": "27. února 1898",
+      "last_performance": "22. února 2020"
+    },
+    {
+      "opera": "Libuše",
+      "composer": "Bedřich Smetana",
+      "performances": 640,
+      "performances_detail": "640 (6+634)",
+      "productions": 15,
+      "productions_detail": "15",
+      "first_performance": "11. června 1881",
+      "last_performance": "1. ledna 2020"
+    },
+    {
+      "opera": "Její pastorkyňa",
+      "composer": "Leoš Janáček",
+      "performances": 596,
+      "performances_detail": "596",
+      "productions": 11,
+      "productions_detail": "11",
+      "first_performance": "26. května 1916",
+      "last_performance": "27. března 2019"
+    },
+    {
+      "opera": "Aida",
+      "composer": "Giuseppe Verdi",
+      "performances": 517,
+      "performances_detail": "517",
+      "productions": 10,
+      "productions_detail": "10",
+      "first_performance": "15. února 1884",
+      "last_performance": "6. března 2020"
+    },
+    {
+      "opera": "Faust a Markétka (Faust a Markéta)",
+      "composer": "Charles Gounod",
+      "performances": 507,
+      "performances_detail": "507 (122+385)",
+      "productions": 12,
+      "productions_detail": "12 (2+10)",
+      "first_performance": "6. července 1867",
+      "last_performance": "16. prosince 1988"
+    },
+    {
+      "opera": "V studni",
+      "composer": "Vilém Blodek",
+      "performances": 505,
+      "performances_detail": "505 (47+455)",
+      "productions": 13,
+      "productions_detail": "13 (6+7)",
+      "first_performance": "17. listopadu 1867",
+      "last_performance": "16. prosince 1965"
+    },
+    {
+      "opera": "Così fan tutte (Tak to dělají všechny, Takové jsou všechny, Ženy jsou ženy)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 454,
+      "performances_detail": "454",
+      "productions": 9,
+      "productions_detail": "9",
+      "first_performance": "26. listopadu 1924",
+      "last_performance": "24. dubna 2016"
+    },
+    {
+      "opera": "Trubadúr",
+      "composer": "Giuseppe Verdi",
+      "performances": 442,
+      "performances_detail": "442 (115+327)",
+      "productions": 8,
+      "productions_detail": "8 (1+7)",
+      "first_performance": "7. února 1863",
+      "last_performance": "23. června 2017"
+    },
+    {
+      "opera": "Čertova stěna",
+      "composer": "Bedřich Smetana",
+      "performances": 436,
+      "performances_detail": "436 (5+431)",
+      "productions": 14,
+      "productions_detail": "14 (1+13)",
+      "first_performance": "29. října 1882",
+      "last_performance": "25. února 2006"
+    },
+    {
+      "opera": "Příhody lišky Bystroušky",
+      "composer": "Leoš Janáček",
+      "performances": 405,
+      "performances_detail": "405",
+      "productions": 9,
+      "productions_detail": "9",
+      "first_performance": "18. května 1925",
+      "last_performance": "9. února 2020"
+    },
+    {
+      "opera": "Čarostřelec (Střelec kouzelník)",
+      "composer": "Carl Maria von Weber",
+      "performances": 395,
+      "performances_detail": "395 (50+345)",
+      "productions": 16,
+      "productions_detail": "16 (5+11)",
+      "first_performance": "22. března 1863",
+      "last_performance": "5. června 1986"
+    },
+    {
+      "opera": "Piková dáma",
+      "composer": "Petr Iljič Čajkovskij",
+      "performances": 393,
+      "performances_detail": "393",
+      "productions": 12,
+      "productions_detail": "12",
+      "first_performance": "11. října 1892",
+      "last_performance": "13. března 2001"
+    },
+    {
+      "opera": "Šárka",
+      "composer": "Zdeněk Fibich",
+      "performances": 381,
+      "performances_detail": "381",
+      "productions": 12,
+      "productions_detail": "12",
+      "first_performance": "28. prosince 1897",
+      "last_performance": "30. června 1979"
+    },
+    {
+      "opera": "Komedianti",
+      "composer": "Ruggero Leoncavallo",
+      "performances": 378,
+      "performances_detail": "378",
+      "productions": 8,
+      "productions_detail": "8",
+      "first_performance": "10. února 1893",
+      "last_performance": "7. května 2013"
+    },
+    {
+      "opera": "Psohlavci",
+      "composer": "Karel Kovařovic",
+      "performances": 361,
+      "performances_detail": "361",
+      "productions": 8,
+      "productions_detail": "8",
+      "first_performance": "24. dubna 1898",
+      "last_performance": "26. března 1988"
+    },
+    {
+      "opera": "Sedlák kavalír",
+      "composer": "Pietro Mascagni",
+      "performances": 328,
+      "performances_detail": "328",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "4. ledna 1891",
+      "last_performance": "7. května 2013"
+    },
+    {
+      "opera": "Káťa Kabanová",
+      "composer": "Leoš Janáček",
+      "performances": 324,
+      "performances_detail": "324",
+      "productions": 9,
+      "productions_detail": "9",
+      "first_performance": "30. listopadu 1922",
+      "last_performance": "20. října 2012"
+    },
+    {
+      "opera": "Lohengrin",
+      "composer": "Richard Wagner",
+      "performances": 321,
+      "performances_detail": "321",
+      "productions": 9,
+      "productions_detail": "9",
+      "first_performance": "12. ledna 1885",
+      "last_performance": "2. února 2020"
+    },
+    {
+      "opera": "Braniboři v Čechách",
+      "composer": "Bedřich Smetana",
+      "performances": 300,
+      "performances_detail": "300 (27+273)",
+      "productions": 19,
+      "productions_detail": "19 (5+14)",
+      "first_performance": "5. ledna 1866",
+      "last_performance": "15. června 1999"
+    },
+    {
+      "opera": "Fidelio",
+      "composer": "Ludwig van Beethoven",
+      "performances": 288,
+      "performances_detail": "288 (8+304)",
+      "productions": 19,
+      "productions_detail": "19 (3+16)",
+      "first_performance": "21. ledna 1870",
+      "last_performance": "8. března 2020"
+    },
+    {
+      "opera": "Únos ze serailu",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 280,
+      "performances_detail": "280 (7+273)",
+      "productions": 11,
+      "productions_detail": "11 (2+9)",
+      "first_performance": "6. dubna 1869",
+      "last_performance": "21. ledna 2018"
+    },
+    {
+      "opera": "Hoffmannovy povídky",
+      "composer": "Jacques Offenbach",
+      "performances": 275,
+      "performances_detail": "275",
+      "productions": 8,
+      "productions_detail": "8",
+      "first_performance": "18. října 1888",
+      "last_performance": "29. května 2013"
+    },
+    {
+      "opera": "Bludný Holanďan",
+      "composer": "Richard Wagner",
+      "performances": 271,
+      "performances_detail": "271",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "17. prosince 1907",
+      "last_performance": "19. ledna 1990"
+    },
+    {
+      "opera": "Eva",
+      "composer": "Josef Bohuslav Foerster",
+      "performances": 263,
+      "performances_detail": "263",
+      "productions": 10,
+      "productions_detail": "10",
+      "first_performance": "1. ledna 1899",
+      "last_performance": "29. prosince 1984"
+    },
+    {
+      "opera": "Šelma sedlák",
+      "composer": "Antonín Dvořák",
+      "performances": 246,
+      "performances_detail": "246 (20+226)",
+      "productions": 14,
+      "productions_detail": "14 (2+12)",
+      "first_performance": "27. ledna 1878",
+      "last_performance": "14. června 1958"
+    },
+    {
+      "opera": "Don Carlos",
+      "composer": "Giuseppe Verdi",
+      "performances": 242,
+      "performances_detail": "242",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "21. ledna 1931",
+      "last_performance": "28. prosince 2013"
+    },
+    {
+      "opera": "Maškarní ples",
+      "composer": "Giuseppe Verdi",
+      "performances": 234,
+      "performances_detail": "234 (27+207)",
+      "productions": 11,
+      "productions_detail": "11 (3+8)",
+      "first_performance": "30. června 1869",
+      "last_performance": "5. března 2020"
+    },
+    {
+      "opera": "Mignon",
+      "composer": "Ambroise Thomas",
+      "performances": 231,
+      "performances_detail": "231 (12+219)",
+      "productions": 12,
+      "productions_detail": "12 (2+10)",
+      "first_performance": "2. června 1878",
+      "last_performance": "4. dubna 2012"
+    },
+    {
+      "opera": "Nevěsta messinská (Messinská nevěsta)",
+      "composer": "Zdeněk Fibich",
+      "performances": 224,
+      "performances_detail": "224",
+      "productions": 8,
+      "productions_detail": "8",
+      "first_performance": "28. března 1884",
+      "last_performance": "19. prosince 1986"
+    },
+    {
+      "opera": "Tannhäuser (Tannhäuser a zápas pěvců na Wartburce)",
+      "composer": "Richard Wagner",
+      "performances": 221,
+      "performances_detail": "221",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "28. ledna 1891",
+      "last_performance": "28. dubna 2015"
+    },
+    {
+      "opera": "Othello (Otello) (Othello, mouřenín benátský)",
+      "composer": "Giuseppe Verdi",
+      "performances": 207,
+      "performances_detail": "207 (19+188)",
+      "productions": 12,
+      "productions_detail": "12 (3+9)",
+      "first_performance": "26. dubna 1863",
+      "last_performance": "27. května 2015"
+    },
+    {
+      "opera": "Boris Godunov",
+      "composer": "Modest Petrovič Musorgskij",
+      "performances": 193,
+      "performances_detail": "193",
+      "productions": 9,
+      "productions_detail": "9",
+      "first_performance": "25. listopadu 1910",
+      "last_performance": "6. dubna 2016"
+    },
+    {
+      "opera": "Nabucco (Nabuchodosor)",
+      "composer": "Giuseppe Verdi",
+      "performances": 181,
+      "performances_detail": "181 (5+176)",
+      "productions": 4,
+      "productions_detail": "4 (1+3)",
+      "first_performance": "7. prosince 1868",
+      "last_performance": "7. března 2020"
+    },
+    {
+      "opera": "Němá z Portici",
+      "composer": "Daniel Auber",
+      "performances": 162,
+      "performances_detail": "162 (75+87)",
+      "productions": 11,
+      "productions_detail": "11 (2+9)",
+      "first_performance": "1. března 1863",
+      "last_performance": "22. března 1964"
+    },
+    {
+      "opera": "Turandot",
+      "composer": "Giacomo Puccini",
+      "performances": 160,
+      "performances_detail": "160",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "10. června 1927",
+      "last_performance": "2. března 2020"
+    },
+    {
+      "opera": "Dimitrij",
+      "composer": "Antonín Dvořák",
+      "performances": 154,
+      "performances_detail": "154 (8+146)",
+      "productions": 16,
+      "productions_detail": "16 (1+15)",
+      "first_performance": "8. října 1882",
+      "last_performance": "4. června 1966"
+    },
+    {
+      "opera": "Dráteník",
+      "composer": "František Škroup",
+      "performances": 152,
+      "performances_detail": "152 (10+142)",
+      "productions": 9,
+      "productions_detail": "9 (3+5)",
+      "first_performance": "8. prosince 1862",
+      "last_performance": "5. ledna 1964"
+    },
+    {
+      "opera": "Židovka",
+      "composer": "Jacques Fromental Halévy",
+      "performances": 149,
+      "performances_detail": "149 (46+103)",
+      "productions": 9,
+      "productions_detail": "9 (4+5)",
+      "first_performance": "6. ledna 1864",
+      "last_performance": "5. ledna 1935"
+    },
+    {
+      "opera": "Jeníček a Mařenka (Perníková chaloupka)",
+      "composer": "Engelbert Humperdinck",
+      "performances": 143,
+      "performances_detail": "143",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "3. prosince 1895",
+      "last_performance": "26. června 2019"
+    },
+    {
+      "opera": "Romeo a Julie",
+      "composer": "Charles Gounod",
+      "performances": 142,
+      "performances_detail": "142 (46+96)",
+      "productions": 7,
+      "productions_detail": "7 (2+5)",
+      "first_performance": "29. srpna 1869",
+      "last_performance": "27. května 2019"
+    },
+    {
+      "opera": "Hugenoti",
+      "composer": "Giacomo Meyerbeer",
+      "performances": 140,
+      "performances_detail": "140 (76+64)",
+      "productions": 10,
+      "productions_detail": "10 (3+7)",
+      "first_performance": "30. října 1864",
+      "last_performance": "25. října 1916"
+    },
+    {
+      "opera": "Werther",
+      "composer": "Jules Massenet",
+      "performances": 138,
+      "performances_detail": "138",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "13. ledna 1901",
+      "last_performance": "27. února 2020"
+    },
+    {
+      "opera": "Car a tesař",
+      "composer": "Albert Lortzing",
+      "performances": 135,
+      "performances_detail": "135 (22+113)",
+      "productions": 8,
+      "productions_detail": "8 (4+4)",
+      "first_performance": "10. května 1863",
+      "last_performance": "19. listopadu 1959"
+    },
+    {
+      "opera": "Lucie z Lammermooru (Lucie)",
+      "composer": "Gaetano Donizetti",
+      "performances": 134,
+      "performances_detail": "134 (54+80)",
+      "productions": 5,
+      "productions_detail": "5 (1+4)",
+      "first_performance": "14. února 1864",
+      "last_performance": "13. března 1994"
+    },
+    {
+      "opera": "Na Starém bělidle",
+      "composer": "Karel Kovařovic",
+      "performances": 134,
+      "performances_detail": "134",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "22. listopadu 1901",
+      "last_performance": "4. února 1951"
+    },
+    {
+      "opera": "Růžový kavalír",
+      "composer": "Richard Strauss",
+      "performances": 133,
+      "performances_detail": "133",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "4. března 1911",
+      "last_performance": "30. května 2000"
+    },
+    {
+      "opera": "Tvrdé palice",
+      "composer": "Antonín Dvořák",
+      "performances": 131,
+      "performances_detail": "131 (9+122)",
+      "productions": 8,
+      "productions_detail": "8 (1+7)",
+      "first_performance": "2. října 1881",
+      "last_performance": "5. prosince 1946"
+    },
+    {
+      "opera": "Netopýr (opereta)",
+      "composer": "Johann Strauss mladší",
+      "performances": 129,
+      "performances_detail": "129 (37+92)",
+      "productions": 10,
+      "productions_detail": "10 (2+8)",
+      "first_performance": "7. září 1875",
+      "last_performance": "26. února 2018"
+    },
+    {
+      "opera": "Vilém Tell",
+      "composer": "Gioacchino Rossini",
+      "performances": 126,
+      "performances_detail": "126 (57+69)",
+      "productions": 8,
+      "productions_detail": "8 (2+6)",
+      "first_performance": "14. prosince 1866",
+      "last_performance": "5. července 1934"
+    },
+    {
+      "opera": "Zuzana Vojířová",
+      "composer": "Jiří Pauer",
+      "performances": 121,
+      "performances_detail": "121",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "9. ledna 1959",
+      "last_performance": "22. února 1989"
+    },
+    {
+      "opera": "Don Pasquale",
+      "composer": "Gaetano Donizetti",
+      "performances": 120,
+      "performances_detail": "120 (8+112)",
+      "productions": 6,
+      "productions_detail": "6 (1+5)",
+      "first_performance": "15. června 1869",
+      "last_performance": "7. června 2008"
+    },
+    {
+      "opera": "Louisa",
+      "composer": "Gustave Charpentier",
+      "performances": 119,
+      "performances_detail": "119",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "13. února 1903",
+      "last_performance": "17. února 1967"
+    },
+    {
+      "opera": "Řecké pašije",
+      "composer": "Bohuslav Martinů",
+      "performances": 119,
+      "performances_detail": "119",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "10. března 1967",
+      "last_performance": "14. března 2008"
+    },
+    {
+      "opera": "Zvíkovský rarášek",
+      "composer": "Vítězslav Novák",
+      "performances": 118,
+      "performances_detail": "118",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "10. října 1915",
+      "last_performance": "15. listopadu 1958"
+    },
+    {
+      "opera": "Výlety páně Broučkovy",
+      "composer": "Leoš Janáček",
+      "performances": 117,
+      "performances_detail": "117",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "24. března 1920",
+      "last_performance": "26. dubna 2019"
+    },
+    {
+      "opera": "Orfeus a Eurydika (Orfeus)",
+      "composer": "Christoph Willibald Gluck",
+      "performances": 116,
+      "performances_detail": "116 (28+88)",
+      "productions": 12,
+      "productions_detail": "12 (4+8)",
+      "first_performance": "17. února 1864",
+      "last_performance": "17. května 2014"
+    },
+    {
+      "opera": "Věc Makropulos",
+      "composer": "Leoš Janáček",
+      "performances": 115,
+      "performances_detail": "115",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "1. března 1928",
+      "last_performance": "23. března 2010"
+    },
+    {
+      "opera": "Orfeus v podsvětí (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 109,
+      "performances_detail": "109 (65+44)",
+      "productions": 11,
+      "productions_detail": "11 (6+5)",
+      "first_performance": "13. prosince 1863",
+      "last_performance": "10. dubna 2018"
+    },
+    {
+      "opera": "Veselé ženy windsorské",
+      "composer": "Otto Nicolai",
+      "performances": 106,
+      "performances_detail": "106 (43+63)",
+      "productions": 15,
+      "productions_detail": "15 (7+8)",
+      "first_performance": "4. března 1865",
+      "last_performance": "26. srpna 1944"
+    },
+    {
+      "opera": "Fra Diavolo",
+      "composer": "Daniel Auber",
+      "performances": 103,
+      "performances_detail": "103 (24+79)",
+      "productions": 12,
+      "productions_detail": "12 (4+8)",
+      "first_performance": "4. května 1865",
+      "last_performance": "29. ledna 1940"
+    },
+    {
+      "opera": "Lucerna",
+      "composer": "Vítězslav Novák",
+      "performances": 100,
+      "performances_detail": "100",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "13. května 1923",
+      "last_performance": "18. dubna 1964"
+    },
+    {
+      "opera": "Norma",
+      "composer": "Vincenzo Bellini",
+      "performances": 100,
+      "performances_detail": "100 (38+62)",
+      "productions": 12,
+      "productions_detail": "12 (3+9)",
+      "first_performance": "17. března 1864",
+      "last_performance": "2. června 2018"
+    },
+    {
+      "opera": "Z mrtvého domu",
+      "composer": "Leoš Janáček",
+      "performances": 100,
+      "performances_detail": "100",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "21. února 1931",
+      "last_performance": "18. ledna 2017"
+    },
+    {
+      "opera": "Střevíčky",
+      "composer": "Petr Iljič Čajkovskij",
+      "performances": 99,
+      "performances_detail": "99",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "21. prosince 1950",
+      "last_performance": "25. dubna 1954"
+    },
+    {
+      "opera": "Mistři pěvci norimberští",
+      "composer": "Richard Wagner",
+      "performances": 98,
+      "performances_detail": "98",
+      "productions": 9,
+      "productions_detail": "9",
+      "first_performance": "7. února 1894",
+      "last_performance": "14. prosince 1983"
+    },
+    {
+      "opera": "Krútňava",
+      "composer": "Eugen Suchoň",
+      "performances": 93,
+      "performances_detail": "93",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "5. června 1953",
+      "last_performance": "31. května 1977"
+    },
+    {
+      "opera": "Halka",
+      "composer": "Stanisław Moniuszko",
+      "performances": 92,
+      "performances_detail": "92 (9+83)",
+      "productions": 6,
+      "productions_detail": "6 (2+4)",
+      "first_performance": "28. února 1868",
+      "last_performance": "7. prosince 1955"
+    },
+    {
+      "opera": "Trebizondská princezna (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 91,
+      "performances_detail": "91 (85+6)",
+      "productions": 3,
+      "productions_detail": "3 (2+1)",
+      "first_performance": "9. června 1871",
+      "last_performance": "8. září 1899"
+    },
+    {
+      "opera": "Bandité (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 86,
+      "performances_detail": "86 (77+9)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "30. července 1870",
+      "last_performance": "8. dubna 1899"
+    },
+    {
+      "opera": "Manon (Manon Lescaut)",
+      "composer": "Jules Massenet",
+      "performances": 86,
+      "performances_detail": "86",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "19. září 1885",
+      "last_performance": "25. února 1939"
+    },
+    {
+      "opera": "Hedy",
+      "composer": "Zdeněk Fibich",
+      "performances": 85,
+      "performances_detail": "85",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "12. února 1896",
+      "last_performance": "13. dubna 1951"
+    },
+    {
+      "opera": "Honzovo království",
+      "composer": "Otakar Ostrčil",
+      "performances": 84,
+      "performances_detail": "84",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "3. dubna 1935",
+      "last_performance": "4. června 1968"
+    },
+    {
+      "opera": "Salome",
+      "composer": "Richard Strauss",
+      "performances": 84,
+      "performances_detail": "84",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "17. ledna 1923",
+      "last_performance": "13. prosince 2015"
+    },
+    {
+      "opera": "Zítra se bude...",
+      "composer": "Jiří Nekvasil, Aleš Březina",
+      "performances": 84,
+      "performances_detail": "84",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "9. dubna 2008",
+      "last_performance": "18. června 2013"
+    },
+    {
+      "opera": "Bouře",
+      "composer": "Zdeněk Fibich",
+      "performances": 82,
+      "performances_detail": "82",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "1. března 1895",
+      "last_performance": "30. října 1969"
+    },
+    {
+      "opera": "Armida",
+      "composer": "Antonín Dvořák",
+      "performances": 79,
+      "performances_detail": "79",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "25. března 1904",
+      "last_performance": "23. září 1991"
+    },
+    {
+      "opera": "Julietta (Snář)",
+      "composer": "Bohuslav Martinů",
+      "performances": 75,
+      "performances_detail": "75",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "16. března 1938",
+      "last_performance": "16. března 2018"
+    },
+    {
+      "opera": "Karlštejn",
+      "composer": "Vítězslav Novák",
+      "performances": 73,
+      "performances_detail": "73",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "18. listopadu 1916",
+      "last_performance": "27. prosince 1986"
+    },
+    {
+      "opera": "Macbeth",
+      "composer": "Giuseppe Verdi",
+      "performances": 72,
+      "performances_detail": "72",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "26. ledna 1978",
+      "last_performance": "2. července 2019"
+    },
+    {
+      "opera": "Zásnuby v klášteře (Maškaráda)",
+      "composer": "Sergej Prokofjev",
+      "performances": 72,
+      "performances_detail": "72",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "5. října 1948",
+      "last_performance": "8. června 1991"
+    },
+    {
+      "opera": "Bílá paní",
+      "composer": "François Adrien Boieldieu",
+      "performances": 71,
+      "performances_detail": "71 (20+51)",
+      "productions": 10,
+      "productions_detail": "10 (6+4)",
+      "first_performance": "25. října 1863",
+      "last_performance": "18. června 1931"
+    },
+    {
+      "opera": "Lakmé",
+      "composer": "Léo Delibes",
+      "performances": 71,
+      "performances_detail": "71",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "30. listopadu 1884",
+      "last_performance": "4. prosince 1936"
+    },
+    {
+      "opera": "Dobře placená procházka",
+      "composer": "Jiří Šlitr, Jiří Suchý",
+      "performances": 70,
+      "performances_detail": "70",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. dubna 2007",
+      "last_performance": "28. června 2009"
+    },
+    {
+      "opera": "Popelka",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 70,
+      "performances_detail": "70",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "31. května 1885",
+      "last_performance": "19. ledna 1912"
+    },
+    {
+      "opera": "Falstaff",
+      "composer": "Giuseppe Verdi",
+      "performances": 69,
+      "performances_detail": "69",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "16. listopadu 1893",
+      "last_performance": "9. prosince 2009"
+    },
+    {
+      "opera": "Kníže Igor",
+      "composer": "Alexandr Porfirjevič Borodin",
+      "performances": 69,
+      "performances_detail": "69",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "8. června 1899",
+      "last_performance": "26. ledna 1959"
+    },
+    {
+      "opera": "Mirandolina",
+      "composer": "Bohuslav Martinů",
+      "performances": 69,
+      "performances_detail": "69",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "17. května 1959",
+      "last_performance": "30. prosince 1982"
+    },
+    {
+      "opera": "Robert ďábel",
+      "composer": "Giacomo Meyerbeer",
+      "performances": 69,
+      "performances_detail": "69 (54+15)",
+      "productions": 6,
+      "productions_detail": "6 (4+2)",
+      "first_performance": "26. listopadu 1864",
+      "last_performance": "8. prosince 1897"
+    },
+    {
+      "opera": "Hry o Marii",
+      "composer": "Bohuslav Martinů",
+      "performances": 68,
+      "performances_detail": "68",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "7. února 1936",
+      "last_performance": "22. dubna 2013"
+    },
+    {
+      "opera": "Královna ze Sáby (Sábská královna)",
+      "composer": "Karl Goldmark",
+      "performances": 65,
+      "performances_detail": "65",
+      "productions": 6,
+      "productions_detail": "6",
+      "first_performance": "2. dubna 1886",
+      "last_performance": "2. ledna 1916"
+    },
+    {
+      "opera": "Poupě",
+      "composer": "Otakar Ostrčil",
+      "performances": 65,
+      "performances_detail": "65",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "25. ledna 1911",
+      "last_performance": "17. dubna 1960"
+    },
+    {
+      "opera": "Veselohra na mostě (Martinů)",
+      "composer": "Bohuslav Martinů",
+      "performances": 63,
+      "performances_detail": "63",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "17. listopadu 1961",
+      "last_performance": "25. června 1977"
+    },
+    {
+      "opera": "Asrael",
+      "composer": "Alberto Franchetti",
+      "performances": 61,
+      "performances_detail": "61",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "30. března 1890",
+      "last_performance": "23. února 1900"
+    },
+    {
+      "opera": "Čarokraj",
+      "composer": "Marko Ivanović",
+      "performances": 60,
+      "performances_detail": "60",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. ledna 2012",
+      "last_performance": "26. června 2016"
+    },
+    {
+      "opera": "Nápoj lásky",
+      "composer": "Gaetano Donizetti",
+      "performances": 59,
+      "performances_detail": "59 (3+56)",
+      "productions": 5,
+      "productions_detail": "5 (1+4)",
+      "first_performance": "28. července 1863",
+      "last_performance": "11. ledna 2015"
+    },
+    {
+      "opera": "Marta (Marta aneb trh v Richmondu)",
+      "composer": "Friedrich von Flotow",
+      "performances": 58,
+      "performances_detail": "58 (46+12)",
+      "productions": 6,
+      "productions_detail": "6 (3+3)",
+      "first_performance": "18. června 1863",
+      "last_performance": "5. února 1944"
+    },
+    {
+      "opera": "Jessika (Kupec benátský)",
+      "composer": "Josef Bohuslav Foerster",
+      "performances": 57,
+      "performances_detail": "57",
+      "productions": 7,
+      "productions_detail": "7",
+      "first_performance": "16. dubna 1905",
+      "last_performance": "27. prosince 1970"
+    },
+    {
+      "opera": "Nápoj lásky",
+      "composer": "Gaetano Donizetti",
+      "performances": 57,
+      "performances_detail": "57 (3+54)",
+      "productions": 5,
+      "productions_detail": "5 (1+4)",
+      "first_performance": "28. července 1863",
+      "last_performance": "7. února 2014"
+    },
+    {
+      "opera": "Popelka (Popelka Angelina)",
+      "composer": "Gioacchino Rossini",
+      "performances": 57,
+      "performances_detail": "57 (4+53)",
+      "productions": 3,
+      "productions_detail": "3 (1+2)",
+      "first_performance": "4. února 1870",
+      "last_performance": "20. února 2020"
+    },
+    {
+      "opera": "Smrt kmotřička",
+      "composer": "Rudolf Karel",
+      "performances": 57,
+      "performances_detail": "57",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "31. března 1933",
+      "last_performance": "1. prosince 1970"
+    },
+    {
+      "opera": "Manon Lescaut",
+      "composer": "Giacomo Puccini",
+      "performances": 56,
+      "performances_detail": "56",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "24. dubna 1894",
+      "last_performance": "11. prosince 1985"
+    },
+    {
+      "opera": "Mefistofeles",
+      "composer": "Arrigo Boito",
+      "performances": 56,
+      "performances_detail": "56",
+      "productions": 5,
+      "productions_detail": "5",
+      "first_performance": "9. prosince 1885",
+      "last_performance": "5. července 2018"
+    },
+    {
+      "opera": "Ariadna",
+      "composer": "Bohuslav Martinů",
+      "performances": 55,
+      "performances_detail": "55",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "27. února 1975",
+      "last_performance": "14. května 1990"
+    },
+    {
+      "opera": "Malý vévoda (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 55,
+      "performances_detail": "55 (42+13)",
+      "productions": 4,
+      "productions_detail": "4 (2+2)",
+      "first_performance": "23. listopadu 1878",
+      "last_performance": "27. července 1892"
+    },
+    {
+      "opera": "Afričanka (Afrikánka)",
+      "composer": "Giacomo Meyerbeer",
+      "performances": 53,
+      "performances_detail": "53 (18+35)",
+      "productions": 8,
+      "productions_detail": "8 (3+5)",
+      "first_performance": "8. prosince 1877",
+      "last_performance": "16. ledna 1916"
+    },
+    {
+      "opera": "Poustevníkův zvonek",
+      "composer": "Aimé Maillart",
+      "performances": 52,
+      "performances_detail": "52 (3+49)",
+      "productions": 6,
+      "productions_detail": "6 (1+5)",
+      "first_performance": "23. srpna 1878",
+      "last_performance": "24. září 1923"
+    },
+    {
+      "opera": "Síla osudu",
+      "composer": "Giuseppe Verdi",
+      "performances": 51,
+      "performances_detail": "51",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "13. dubna 1937",
+      "last_performance": "11. března 1998"
+    },
+    {
+      "opera": "Elektra",
+      "composer": "Richard Strauss",
+      "performances": 50,
+      "performances_detail": "50",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "25. dubna 1910",
+      "last_performance": "25. června 2016"
+    },
+    {
+      "opera": "Giroflé-Girofla (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 50,
+      "performances_detail": "50 (47+3)",
+      "productions": 3,
+      "productions_detail": "3 (2+1)",
+      "first_performance": "17. prosince 1873",
+      "last_performance": "2. července 1889"
+    },
+    {
+      "opera": "Král a uhlíř",
+      "composer": "Antonín Dvořák",
+      "performances": 50,
+      "performances_detail": "50 (6+44)",
+      "productions": 6,
+      "productions_detail": "6 (2+4)",
+      "first_performance": "24. listopadu 1874",
+      "last_performance": "15. června 1957"
+    },
+    {
+      "opera": "Zakletý princ",
+      "composer": "Vojtěch Hřímalý",
+      "performances": 50,
+      "performances_detail": "50 (33+17)",
+      "productions": 5,
+      "productions_detail": "5 (2+3)",
+      "first_performance": "13. května 1872",
+      "last_performance": "19. května 1934"
+    },
+    {
+      "opera": "Kryšpín a kmotra",
+      "composer": "Federico Ricci, Luigi Ricci",
+      "performances": 49,
+      "performances_detail": "49 (39+10)",
+      "productions": 5,
+      "productions_detail": "5 (4+1)",
+      "first_performance": "20. července 1869",
+      "last_performance": "13. února 1885"
+    },
+    {
+      "opera": "Mamzelle Nitouche (opereta)",
+      "composer": "Hervé",
+      "performances": 49,
+      "performances_detail": "49",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. listopadu 1890",
+      "last_performance": "3. listopadu 1902"
+    },
+    {
+      "opera": "Poprask v opeře",
+      "composer": "Gaetano Donizetti",
+      "performances": 49,
+      "performances_detail": "49",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "11. března 1977",
+      "last_performance": "26. ledna 2020"
+    },
+    {
+      "opera": "Zlato Rýna",
+      "composer": "Richard Wagner",
+      "performances": 49,
+      "performances_detail": "49",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "19. března 1915",
+      "last_performance": "16. května 2005"
+    },
+    {
+      "opera": "Boccaccio (opereta)",
+      "composer": "Franz von Suppé",
+      "performances": 48,
+      "performances_detail": "48 (46+2)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "12. března 1879",
+      "last_performance": "23. září 1888"
+    },
+    {
+      "opera": "Simon Boccanegra",
+      "composer": "Giuseppe Verdi",
+      "performances": 48,
+      "performances_detail": "48",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "17. prosince 1971",
+      "last_performance": "12. listopadu 2014"
+    },
+    {
+      "opera": "Maryša",
+      "composer": "Emil František Burian",
+      "performances": 46,
+      "performances_detail": "46",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "30. dubna 1946",
+      "last_performance": "24. listopadu 1963"
+    },
+    {
+      "opera": "Postilion z Lonjumeau",
+      "composer": "Adolphe Adam",
+      "performances": 45,
+      "performances_detail": "45 (11+34)",
+      "productions": 6,
+      "productions_detail": "6 (2+4)",
+      "first_performance": "27. června 1866",
+      "last_performance": "25. března 1931"
+    },
+    {
+      "opera": "Lucrezia Borgia (Lukrecia)",
+      "composer": "Gaetano Donizetti",
+      "performances": 44,
+      "performances_detail": "44 (40+4)",
+      "productions": 7,
+      "productions_detail": "7 (6+1)",
+      "first_performance": "24. ledna 1863",
+      "last_performance": "30. října 1886"
+    },
+    {
+      "opera": "Pelleas a Melisanda",
+      "composer": "Claude Debussy",
+      "performances": 44,
+      "performances_detail": "44",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "1. listopadu 1921",
+      "last_performance": "17. června 2013"
+    },
+    {
+      "opera": "Žádný muž a tolik děvčat (opereta)",
+      "composer": "Franz von Suppé",
+      "performances": 44,
+      "performances_detail": "44 (44+0)",
+      "productions": 5,
+      "productions_detail": "5 (5+0)",
+      "first_performance": "27. června 1867",
+      "last_performance": "12. června 1880"
+    },
+    {
+      "opera": "Alessandro Stradella",
+      "composer": "Friedrich von Flotow",
+      "performances": 43,
+      "performances_detail": "43 (35+8)",
+      "productions": 5,
+      "productions_detail": "5 (3+2)",
+      "first_performance": "19. listopadu 1863",
+      "last_performance": "10. dubna 1901"
+    },
+    {
+      "opera": "Gianni Scicchi",
+      "composer": "Giacomo Puccini",
+      "performances": 43,
+      "performances_detail": "43",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "13. ledna 1937",
+      "last_performance": "3. prosince 1998"
+    },
+    {
+      "opera": "Dcera pluku (Marie, dcera pluku)",
+      "composer": "Gaetano Donizetti",
+      "performances": 42,
+      "performances_detail": "42 (18+24)",
+      "productions": 5,
+      "productions_detail": "5 (2+3)",
+      "first_performance": "6. února 1864",
+      "last_performance": "8. ledna 1913"
+    },
+    {
+      "opera": "Fatinica (Fatinica aneb Rusové v harému) (opereta)",
+      "composer": "Franz von Suppé",
+      "performances": 42,
+      "performances_detail": "42 (35+7)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "14. května 1876",
+      "last_performance": "13. září 1900"
+    },
+    {
+      "opera": "Nevěsta husitská (Husitská nevěsta)",
+      "composer": "Karel Šebor",
+      "performances": 42,
+      "performances_detail": "42 (24+18)",
+      "productions": 6,
+      "productions_detail": "6 (4+2)",
+      "first_performance": "27. září 1868",
+      "last_performance": "5. července 1894"
+    },
+    {
+      "opera": "Don Quichotte",
+      "composer": "Jules Massenet",
+      "performances": 41,
+      "performances_detail": "41",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "1. června 1933",
+      "last_performance": "19. března 1967"
+    },
+    {
+      "opera": "Ernani",
+      "composer": "Giuseppe Verdi",
+      "performances": 41,
+      "performances_detail": "41 (37+4)",
+      "productions": 4,
+      "productions_detail": "4 (3+1)",
+      "first_performance": "10. září 1865",
+      "last_performance": "25. září 1890"
+    },
+    {
+      "opera": "Tamerlán (Tamerlan)",
+      "composer": "Josef Mysliveček",
+      "performances": 41,
+      "performances_detail": "41",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "1. prosince 1977",
+      "last_performance": "31. května 1980"
+    },
+    {
+      "opera": "Angot (Angot, dítě pařížské tržnice)(opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 40,
+      "performances_detail": "40 (33+7)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "4. února 1875",
+      "last_performance": "23. června 1895"
+    },
+    {
+      "opera": "Bratři Karamazovi",
+      "composer": "Otakar Jeremiáš",
+      "performances": 40,
+      "performances_detail": "40",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "8. října 1928",
+      "last_performance": "8. dubna 1974"
+    },
+    {
+      "opera": "Malířský nápad",
+      "composer": "Otakar Zich",
+      "performances": 40,
+      "performances_detail": "40",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "11. března 1910",
+      "last_performance": "6. července 1951"
+    },
+    {
+      "opera": "Ruslan a Ludmila",
+      "composer": "Michail Ivanovič Glinka",
+      "performances": 40,
+      "performances_detail": "40 (23+17)",
+      "productions": 7,
+      "productions_detail": "7 (4+3)",
+      "first_performance": "16. února 1867",
+      "last_performance": "11. prosince 1957"
+    },
+    {
+      "opera": "Vojna a mír",
+      "composer": "Sergej Prokofjev",
+      "performances": 40,
+      "performances_detail": "40",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "25. června 1948",
+      "last_performance": "6. ledna 1975"
+    },
+    {
+      "opera": "Brouk Pytlík",
+      "composer": "Evžen Zámečník",
+      "performances": 38,
+      "performances_detail": "38",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "8. dubna 1988",
+      "last_performance": "27. dubna 1991"
+    },
+    {
+      "opera": "Dědův odkaz",
+      "composer": "Vítězslav Novák",
+      "performances": 38,
+      "performances_detail": "38",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "22. prosince 1926",
+      "last_performance": "20. června 1944"
+    },
+    {
+      "opera": "Arabella",
+      "composer": "Richard Strauss",
+      "performances": 37,
+      "performances_detail": "37",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. dubna 1972",
+      "last_performance": "18. ledna 1975"
+    },
+    {
+      "opera": "Pád Arkuna",
+      "composer": "Zdeněk Fibich",
+      "performances": 37,
+      "performances_detail": "37",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "9. listopadu 1900",
+      "last_performance": "18. dubna 2015"
+    },
+    {
+      "opera": "Prorok",
+      "composer": "Giacomo Meyerbeer",
+      "performances": 37,
+      "performances_detail": "37 (18+19)",
+      "productions": 5,
+      "productions_detail": "5 (2+3)",
+      "first_performance": "5. prosince 1875",
+      "last_performance": "31. března 1915"
+    },
+    {
+      "opera": "Chytračka",
+      "composer": "Carl Orff",
+      "performances": 36,
+      "performances_detail": "36",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "24. září 1981",
+      "last_performance": "3. prosince 2017"
+    },
+    {
+      "opera": "Svatojanské proudy",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 35,
+      "performances_detail": "35 (24+11)",
+      "productions": 5,
+      "productions_detail": "5 (3+2)",
+      "first_performance": "3. října 1871",
+      "last_performance": "29. prosince 1895"
+    },
+    {
+      "opera": "Zvonky cornevillské (Duch na zámku cornevillském) (opereta)",
+      "composer": "Robert Planquette",
+      "performances": 35,
+      "performances_detail": "35 (28+7)",
+      "productions": 3,
+      "productions_detail": "3 (1+2)",
+      "first_performance": "2. května 1879",
+      "last_performance": "21. srpna 1904"
+    },
+    {
+      "opera": "Zdravý nemocný",
+      "composer": "Jiří Pauer",
+      "performances": 34,
+      "performances_detail": "34",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "22. května 1970",
+      "last_performance": "4. února 1990"
+    },
+    {
+      "opera": "Zpráva pro Akademii",
+      "composer": "Jan Klusák",
+      "performances": 34,
+      "performances_detail": "34",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "6. prosince 1997",
+      "last_performance": "12. května 2004"
+    },
+    {
+      "opera": "Život za cara (Život za caře, Ivan Susanin)",
+      "composer": "Michail Ivanovič Glinka",
+      "performances": 34,
+      "performances_detail": "34 (6+28)",
+      "productions": 4,
+      "productions_detail": "4 (1+3)",
+      "first_performance": "29. srpna 1866",
+      "last_performance": "21. ledna 1953"
+    },
+    {
+      "opera": "Nepřemožení",
+      "composer": "Josef Bohuslav Foerster",
+      "performances": 33,
+      "performances_detail": "33",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "19. prosince 1918",
+      "last_performance": "1. února 1937"
+    },
+    {
+      "opera": "Sládek prestonský",
+      "composer": "Adolphe Adam",
+      "performances": 33,
+      "performances_detail": "33 (25+8)",
+      "productions": 6,
+      "productions_detail": "6 (4+2)",
+      "first_performance": "22. března 1867",
+      "last_performance": "4. prosince 1899"
+    },
+    {
+      "opera": "Titus (La clemenza di Tito)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 33,
+      "performances_detail": "33",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "19. listopadu 1891",
+      "last_performance": "20. února 2010"
+    },
+    {
+      "opera": "Krásná Helena (Sličná Helena) (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 32,
+      "performances_detail": "32 (19+13)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "1. srpna 1875",
+      "last_performance": "25. listopadu 1903"
+    },
+    {
+      "opera": "Mladá garda",
+      "composer": "Julij Mejtus",
+      "performances": 32,
+      "performances_detail": "32",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. ledna 1952",
+      "last_performance": "21. března 1953"
+    },
+    {
+      "opera": "Valkýra",
+      "composer": "Richard Wagner",
+      "performances": 32,
+      "performances_detail": "32",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "14. února 1916",
+      "last_performance": "18. května 2005"
+    },
+    {
+      "opera": "Žebrácká opera (hráno činohrou)",
+      "composer": "Kurt Weill",
+      "performances": 32,
+      "performances_detail": "32",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. prosince 2009",
+      "last_performance": "23. května 2011"
+    },
+    {
+      "opera": "Indická princezna (opereta)",
+      "composer": "Karel Bendl",
+      "performances": 31,
+      "performances_detail": "31 (24+7)",
+      "productions": 4,
+      "productions_detail": "4 (3+1)",
+      "first_performance": "26. srpna 1877",
+      "last_performance": "11. listopadu 1906"
+    },
+    {
+      "opera": "Rinaldo",
+      "composer": "Georg Friedrich Händel",
+      "performances": 31,
+      "performances_detail": "31",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. dubna 2009",
+      "last_performance": "24. června 2014"
+    },
+    {
+      "opera": "Svätopluk",
+      "composer": "Eugen Suchoň",
+      "performances": 31,
+      "performances_detail": "31",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. dubna 1960",
+      "last_performance": "21. října 1965"
+    },
+    {
+      "opera": "Tristan a Isolda",
+      "composer": "Richard Wagner",
+      "performances": 31,
+      "performances_detail": "31",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "10. února 1913",
+      "last_performance": "26. května 2002"
+    },
+    {
+      "opera": "Lejla (Lejla aneb Obležení Granady)",
+      "composer": "Karel Bendl",
+      "performances": 30,
+      "performances_detail": "30 (16+14)",
+      "productions": 4,
+      "productions_detail": "4 (3+1)",
+      "first_performance": "4. ledna 1868",
+      "last_performance": "16. března 1894"
+    },
+    {
+      "opera": "Blaník",
+      "composer": "Zdeněk Fibich",
+      "performances": 29,
+      "performances_detail": "29 (5+24)",
+      "productions": 4,
+      "productions_detail": "4 (1+3)",
+      "first_performance": "25. listopadu 1881",
+      "last_performance": "5. května 1950"
+    },
+    {
+      "opera": "Car Saltan",
+      "composer": "Nikolaj Andrejevič Rimskij-Korsakov",
+      "performances": 29,
+      "performances_detail": "29",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "18. června 1935",
+      "last_performance": "18. dubna 1959"
+    },
+    {
+      "opera": "Svatba při lucernách (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 29,
+      "performances_detail": "29 (19+10)",
+      "productions": 4,
+      "productions_detail": "4 (2+2)",
+      "first_performance": "20. května 1865",
+      "last_performance": "29. ledna 1905"
+    },
+    {
+      "opera": "Dvakrát Alexandr",
+      "composer": "Bohuslav Martinů",
+      "performances": 28,
+      "performances_detail": "28",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "15. prosince 1988",
+      "last_performance": "5. prosince 2000"
+    },
+    {
+      "opera": "Italka v Alžíru",
+      "composer": "Gioacchino Rossini",
+      "performances": 28,
+      "performances_detail": "28",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "31. prosince 1933",
+      "last_performance": "26. března 1939"
+    },
+    {
+      "opera": "Domácí cvrček",
+      "composer": "Karl Goldmark",
+      "performances": 27,
+      "performances_detail": "27",
+      "productions": 4,
+      "productions_detail": "4",
+      "first_performance": "13. března 1897",
+      "last_performance": "15. listopadu 1909"
+    },
+    {
+      "opera": "Parsifal",
+      "composer": "Richard Wagner",
+      "performances": 27,
+      "performances_detail": "27",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "1. ledna 1914",
+      "last_performance": "18. května 2012"
+    },
+    {
+      "opera": "Pytlák",
+      "composer": "Albert Lortzing",
+      "performances": 27,
+      "performances_detail": "27 (6+21)",
+      "productions": 4,
+      "productions_detail": "4 (1+3)",
+      "first_performance": "20. března 1882",
+      "last_performance": "15. září 1930"
+    },
+    {
+      "opera": "Žvanivý slimejš",
+      "composer": "Jiří Pauer",
+      "performances": 27,
+      "performances_detail": "27",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. listopadu 1966",
+      "last_performance": "7. února 1970"
+    },
+    {
+      "opera": "Král to řekl",
+      "composer": "Léo Delibes",
+      "performances": 26,
+      "performances_detail": "26 (17+9)",
+      "productions": 5,
+      "productions_detail": "5 (3+2)",
+      "first_performance": "9. října 1874",
+      "last_performance": "31. srpna 1900"
+    },
+    {
+      "opera": "Lady Macbeth Mcenského újezdu (Katěrina Izmajlova)",
+      "composer": "Dmitrij Šostakovič",
+      "performances": 26,
+      "performances_detail": "26",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "14. května 1965",
+      "last_performance": "1. října 2001"
+    },
+    {
+      "opera": "Dinora (Dinorah aneb Pouť na Ploermel)",
+      "composer": "Giacomo Meyerbeer",
+      "performances": 25,
+      "performances_detail": "25 (15+10)",
+      "productions": 4,
+      "productions_detail": "4 (2+2)",
+      "first_performance": "13. září 1863",
+      "last_performance": "6. září 1899"
+    },
+    {
+      "opera": "Donna Juanita (opereta)",
+      "composer": "Franz von Suppé",
+      "performances": 25,
+      "performances_detail": "25 (24+1)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "17. října 1880",
+      "last_performance": "3. září 1884"
+    },
+    {
+      "opera": "Merlin",
+      "composer": "Karl Goldmark",
+      "performances": 25,
+      "performances_detail": "25",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. ledna 1890",
+      "last_performance": "7. dubna 1892"
+    },
+    {
+      "opera": "Samson a Dalila",
+      "composer": "Camille Saint-Saëns",
+      "performances": 25,
+      "performances_detail": "25",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "11. listopadu 1933",
+      "last_performance": "30. května 2008"
+    },
+    {
+      "opera": "Veselá vojna (opereta)",
+      "composer": "Johann Strauss mladší",
+      "performances": 25,
+      "performances_detail": "25 (25+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "17. února 1882",
+      "last_performance": "25. října 1883"
+    },
+    {
+      "opera": "Červená Karkulka (opereta)",
+      "composer": "Gaston Serpette",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "9. srpna 1889",
+      "last_performance": "7. července 1897"
+    },
+    {
+      "opera": "Dubrovský",
+      "composer": "Eduard Nápravník",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "13. prosince 1896",
+      "last_performance": "27. října 1908"
+    },
+    {
+      "opera": "Oberon",
+      "composer": "Carl Maria von Weber",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "6. září 1889",
+      "last_performance": "12. února 1931"
+    },
+    {
+      "opera": "Osm písní pro šíleného krále",
+      "composer": "Peter Maxwell Davies",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. března 1997",
+      "last_performance": "12. února 1999"
+    },
+    {
+      "opera": "Pozdvižení v Efesu",
+      "composer": "Iša Krejčí",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "8. září 1946",
+      "last_performance": "23. dubna 1964"
+    },
+    {
+      "opera": "Sněhulák (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 24,
+      "performances_detail": "24 (24+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "19. července 1872",
+      "last_performance": "16. srpna 1878"
+    },
+    {
+      "opera": "Svatá Alžběta (oratorium)",
+      "composer": "Ferenc Liszt",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "16. prosince 1890",
+      "last_performance": "10. března 1899"
+    },
+    {
+      "opera": "Vodník",
+      "composer": "Boleslav Vomáčka",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "17. prosince 1937",
+      "last_performance": "14. listopadu 1949"
+    },
+    {
+      "opera": "Vrtoch slečny Donnithornové",
+      "composer": "Peter Maxwell Davies",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. března 1997",
+      "last_performance": "12. února 1999"
+    },
+    {
+      "opera": "Zápisník zmizelého",
+      "composer": "Leoš Janáček",
+      "performances": 24,
+      "performances_detail": "24",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. března 1997",
+      "last_performance": "12. února 1999"
+    },
+    {
+      "opera": "Zedník a zámečník",
+      "composer": "Daniel Auber",
+      "performances": 24,
+      "performances_detail": "24 (16+8)",
+      "productions": 5,
+      "productions_detail": "5 (3+2)",
+      "first_performance": "26. října 1864",
+      "last_performance": "9. dubna 1924"
+    },
+    {
+      "opera": "Ariadna na Naxu",
+      "composer": "Richard Strauss",
+      "performances": 23,
+      "performances_detail": "23",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "12. dubna 1940",
+      "last_performance": "27. ledna 1979"
+    },
+    {
+      "opera": "Debora",
+      "composer": "Josef Bohuslav Foerster",
+      "performances": 23,
+      "performances_detail": "23",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "27. ledna 1893",
+      "last_performance": "29. prosince 1949"
+    },
+    {
+      "opera": "Dívčí ústav (opereta)",
+      "composer": "Franz von Suppé",
+      "performances": 23,
+      "performances_detail": "23 (18+5)",
+      "productions": 3,
+      "productions_detail": "3 (2+1)",
+      "first_performance": "4. listopadu 1865",
+      "last_performance": "25. listopadu 1894"
+    },
+    {
+      "opera": "Starý ženich",
+      "composer": "Karel Bendl",
+      "performances": 23,
+      "performances_detail": "23 (7+16)",
+      "productions": 4,
+      "productions_detail": "4 (1+3)",
+      "first_performance": "20. října 1883",
+      "last_performance": "17. října 1902"
+    },
+    {
+      "opera": "Toufar",
+      "composer": "Aleš Březina",
+      "performances": 23,
+      "performances_detail": "23",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. září 2013",
+      "last_performance": "24. února 2016"
+    },
+    {
+      "opera": "André Chénier (Andrea Chénier)",
+      "composer": "Umberto Giordano",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "5. května 1897",
+      "last_performance": "15. října 2019"
+    },
+    {
+      "opera": "Bearňanka",
+      "composer": "André Messager",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "15. července 1892",
+      "last_performance": "3. prosince 1902"
+    },
+    {
+      "opera": "Červená Karkulka",
+      "composer": "Jiří Pauer",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "19. listopadu 1966",
+      "last_performance": "7. února 1970"
+    },
+    {
+      "opera": "Kmotr Fricek",
+      "composer": "Pietro Mascagni",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. dubna 1892",
+      "last_performance": "7. listopadu 1896"
+    },
+    {
+      "opera": "Láska ke třem pomerančům",
+      "composer": "Sergej Prokofjev",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "31. května 1963",
+      "last_performance": "18. prosince 2019"
+    },
+    {
+      "opera": "Lešetínský kovář",
+      "composer": "Karel Weis",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. června 1922",
+      "last_performance": "15. října 1922"
+    },
+    {
+      "opera": "Oedipus rex",
+      "composer": "Igor Stravinskij",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "15. října 1987",
+      "last_performance": "14. května 1990"
+    },
+    {
+      "opera": "Švanda dudák",
+      "composer": "Jaromír Weinberger",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "27. dubna 1927",
+      "last_performance": "9. října 1933"
+    },
+    {
+      "opera": "Vojcek",
+      "composer": "Alban Berg",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "11. listopadu 1926",
+      "last_performance": "5. září 2001"
+    },
+    {
+      "opera": "Vzkříšení",
+      "composer": "Ján Cikker",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. května 1962",
+      "last_performance": "27. května 1965"
+    },
+    {
+      "opera": "Žebrácká opera",
+      "composer": "Benjamin Britten",
+      "performances": 22,
+      "performances_detail": "22",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. února 1989",
+      "last_performance": "1. června 1990"
+    },
+    {
+      "opera": "Javotte, Popelka bostonská (Javotte čili Popelka) (opereta)",
+      "composer": "Émile Jonas",
+      "performances": 21,
+      "performances_detail": "21 (21+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "11. května 1873",
+      "last_performance": "1. srpna 1877"
+    },
+    {
+      "opera": "Krásné Gruzínky (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 21,
+      "performances_detail": "21 (21+0)",
+      "productions": 3,
+      "productions_detail": "3 (3+0)",
+      "first_performance": "4. února 1866",
+      "last_performance": "7. září 1879"
+    },
+    {
+      "opera": "Píseň Fortuniova (Fortuniova píseň) (Píseň pana Fortunia)",
+      "composer": "Jacques Offenbach",
+      "performances": 21,
+      "performances_detail": "21 (6+15)",
+      "productions": 3,
+      "productions_detail": "3 (1+2)",
+      "first_performance": "6. října 1865",
+      "last_performance": "8. ledna 1915"
+    },
+    {
+      "opera": "Plášť",
+      "composer": "Giacomo Puccini",
+      "performances": 21,
+      "performances_detail": "21",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. března 1996",
+      "last_performance": "3. prosince 1998"
+    },
+    {
+      "opera": "Pytláci (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 21,
+      "performances_detail": "21 (21+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "28. dubna 1874",
+      "last_performance": "5. července 1878"
+    },
+    {
+      "opera": "Sestra Angelika",
+      "composer": "Giacomo Puccini",
+      "performances": 21,
+      "performances_detail": "21",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. března 1996",
+      "last_performance": "3. prosince 1998"
+    },
+    {
+      "opera": "Svatá Ludmila (oratorium)",
+      "composer": "Antonín Dvořák",
+      "performances": 21,
+      "performances_detail": "21",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "25. února 1887",
+      "last_performance": "29. června 1935"
+    },
+    {
+      "opera": "Velkovévodkyně z Gerolsteinu (Velkovévodkyně z Gerolštýna) (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 21,
+      "performances_detail": "21 (21+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "11. července 1873",
+      "last_performance": "2. srpna 1877"
+    },
+    {
+      "opera": "Zuzančino tajemství",
+      "composer": "Ermanno Wolf-Ferrari",
+      "performances": 21,
+      "performances_detail": "21",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. září 1910",
+      "last_performance": "27. února 1919"
+    },
+    {
+      "opera": "Antiformalistický jarmark",
+      "composer": "Dmitrij Šostakovič",
+      "performances": 20,
+      "performances_detail": "20",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. prosince 2014",
+      "last_performance": "20. června 2018"
+    },
+    {
+      "opera": "Blesk",
+      "composer": "Jacques Fromental Halévy",
+      "performances": 20,
+      "performances_detail": "20 (20+0)",
+      "productions": 3,
+      "productions_detail": "3 (3+0)",
+      "first_performance": "9. srpna 1863",
+      "last_performance": "8. ledna 1882"
+    },
+    {
+      "opera": "České jesličky",
+      "composer": "Jaroslav Křička",
+      "performances": 20,
+      "performances_detail": "20",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "15. ledna 1949",
+      "last_performance": "30. prosince 1950"
+    },
+    {
+      "opera": "Drahomíra",
+      "composer": "Karel Šebor",
+      "performances": 20,
+      "performances_detail": "20 (20+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "20. září 1867",
+      "last_performance": "11. března 1874"
+    },
+    {
+      "opera": "Musa Džalil",
+      "composer": "Nazib Gajazovič Žiganov",
+      "performances": 20,
+      "performances_detail": "20",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. září 1960",
+      "last_performance": "21. října 1961"
+    },
+    {
+      "opera": "Orango",
+      "composer": "Dmitrij Šostakovič",
+      "performances": 20,
+      "performances_detail": "20",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. prosince 2014",
+      "last_performance": "20. června 2018"
+    },
+    {
+      "opera": "Peter Grimes",
+      "composer": "Benjamin Britten",
+      "performances": 20,
+      "performances_detail": "20",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. února 1979",
+      "last_performance": "21. února 1981"
+    },
+    {
+      "opera": "Sternenhoch",
+      "composer": "Ivan Acher",
+      "performances": 20,
+      "performances_detail": "20",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. dubna 2018",
+      "last_performance": "20. ledna 2020"
+    },
+    {
+      "opera": "Únos Sabinek (opereta)",
+      "composer": "Ivan Zajc",
+      "performances": 20,
+      "performances_detail": "20 (20+0)",
+      "productions": 3,
+      "productions_detail": "3 (3+0)",
+      "first_performance": "23. května 1870",
+      "last_performance": "25. listopadu 1880"
+    },
+    {
+      "opera": "Bagdádský lazebník",
+      "composer": "Peter Cornelius",
+      "performances": 19,
+      "performances_detail": "19",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "21. prosince 1906",
+      "last_performance": "21. srpna 1944"
+    },
+    {
+      "opera": "Nagano",
+      "composer": "Martin Smolka",
+      "performances": 19,
+      "performances_detail": "19",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "8. dubna 2004",
+      "last_performance": "18. února 2009"
+    },
+    {
+      "opera": "Příběh opravdového člověka",
+      "composer": "Sergej Prokofjev",
+      "performances": 19,
+      "performances_detail": "19",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. dubna 1961",
+      "last_performance": "29. května 1963"
+    },
+    {
+      "opera": "U Božích muk",
+      "composer": "Stanislav Suda",
+      "performances": 19,
+      "performances_detail": "19",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "19. ledna 1898",
+      "last_performance": "30. ledna 1926"
+    },
+    {
+      "opera": "Vina",
+      "composer": "Otakar Zich",
+      "performances": 19,
+      "performances_detail": "19",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "14. března 1922",
+      "last_performance": "30. května 1929"
+    },
+    {
+      "opera": "Castor a Pollux",
+      "composer": "Jean-Philippe Rameau",
+      "performances": 18,
+      "performances_detail": "18",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "24. června 1999",
+      "last_performance": "28. dubna 2002"
+    },
+    {
+      "opera": "Černé domino (Domino)",
+      "composer": "Daniel Auber",
+      "performances": 18,
+      "performances_detail": "18 (4+14)",
+      "productions": 4,
+      "productions_detail": "4 (2+2)",
+      "first_performance": "12. listopadu 1869",
+      "last_performance": "15. ledna 1913"
+    },
+    {
+      "opera": "Hadačka z Boissy (opereta)",
+      "composer": "Ivan Zajc",
+      "performances": 18,
+      "performances_detail": "18 (18+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "28. července 1871",
+      "last_performance": "5. září 1880"
+    },
+    {
+      "opera": "Kráska a zvíře",
+      "composer": "Philip Glass",
+      "performances": 18,
+      "performances_detail": "18",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. srpna 2003",
+      "last_performance": "9. července 2004"
+    },
+    {
+      "opera": "Linda ze Chamounix",
+      "composer": "Gaetano Donizetti",
+      "performances": 18,
+      "performances_detail": "18 (18+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "5. ledna 1865",
+      "last_performance": "15. února 1876"
+    },
+    {
+      "opera": "Medvěd",
+      "composer": "Ivo Jirásek",
+      "performances": 18,
+      "performances_detail": "18",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "9. března 1978",
+      "last_performance": "8. prosince 1979"
+    },
+    {
+      "opera": "Námluvy",
+      "composer": "Josef Boháč",
+      "performances": 18,
+      "performances_detail": "18",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "9. března 1978",
+      "last_performance": "8. prosince 1979"
+    },
+    {
+      "opera": "Sněguročka (Jarní pohádka)",
+      "composer": "Nikolaj Andrejevič Rimskij-Korsakov",
+      "performances": 18,
+      "performances_detail": "18",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "29. března 1905",
+      "last_performance": "10. května 1951"
+    },
+    {
+      "opera": "Blíženci",
+      "composer": "Karel Weis",
+      "performances": 17,
+      "performances_detail": "17",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "17. ledna 1892",
+      "last_performance": "20. června 1917"
+    },
+    {
+      "opera": "Cesta oknem",
+      "composer": "Karel Kovařovic",
+      "performances": 17,
+      "performances_detail": "17",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "11. února 1886",
+      "last_performance": "10. května 1944"
+    },
+    {
+      "opera": "Černohorci",
+      "composer": "Karel Bendl",
+      "performances": 17,
+      "performances_detail": "17 (12+5)",
+      "productions": 3,
+      "productions_detail": "3 (2+1)",
+      "first_performance": "11. září 1881",
+      "last_performance": "14. června 1886"
+    },
+    {
+      "opera": "Dido a Aeneas",
+      "composer": "Henry Purcell",
+      "performances": 17,
+      "performances_detail": "17",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "15. prosince 1988",
+      "last_performance": "28. června 1989"
+    },
+    {
+      "opera": "Loď v přístavu aneb Veselí plavci (opereta)",
+      "composer": "Ivan Zajc",
+      "performances": 17,
+      "performances_detail": "17 (17+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "30. prosince 1868",
+      "last_performance": "18. června 1874"
+    },
+    {
+      "opera": "Paleček",
+      "composer": "Pavel Bořkovec",
+      "performances": 17,
+      "performances_detail": "17",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. prosince 1958",
+      "last_performance": "11. června 1960"
+    },
+    {
+      "opera": "Příběh noci vánoční",
+      "composer": "Nikolaj Andrejevič Rimskij-Korsakov",
+      "performances": 17,
+      "performances_detail": "17",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. října 1984",
+      "last_performance": "10. května 1986"
+    },
+    {
+      "opera": "Sluha dvou pánů",
+      "composer": "Jan Hanuš",
+      "performances": 17,
+      "performances_detail": "17",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. ledna 1981",
+      "last_performance": "26. června 1982"
+    },
+    {
+      "opera": "Srdce",
+      "composer": "Josef Bohuslav Foerster",
+      "performances": 17,
+      "performances_detail": "17",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "15. listopadu 1923",
+      "last_performance": "9. dubna 1930"
+    },
+    {
+      "opera": "Vanda",
+      "composer": "Antonín Dvořák",
+      "performances": 17,
+      "performances_detail": "17 (9+8)",
+      "productions": 5,
+      "productions_detail": "5 (2+2)",
+      "first_performance": "17. dubna 1876",
+      "last_performance": "1. června 2004"
+    },
+    {
+      "opera": "Benvenuto Cellini",
+      "composer": "Hector Berlioz",
+      "performances": 16,
+      "performances_detail": "16",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "10. října 1894",
+      "last_performance": "21. února 1968"
+    },
+    {
+      "opera": "Dafnis a Chloë (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 16,
+      "performances_detail": "16 (4+12)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "11. července 1867",
+      "last_performance": "1. prosince 1902"
+    },
+    {
+      "opera": "Dobrou noc, pane Pantalone! (Dobrý večer, pane Pantalon!)",
+      "composer": "Albert Grisar",
+      "performances": 16,
+      "performances_detail": "16 (2+14)",
+      "productions": 3,
+      "productions_detail": "3 (1+2)",
+      "first_performance": "28. dubna 1871",
+      "last_performance": "16. ledna 1905"
+    },
+    {
+      "opera": "Krásná Galathea (opereta)",
+      "composer": "Franz von Suppé",
+      "performances": 16,
+      "performances_detail": "16 (5+11)",
+      "productions": 3,
+      "productions_detail": "3 (2+1)",
+      "first_performance": "10. října 1878",
+      "last_performance": "3. ledna 1897"
+    },
+    {
+      "opera": "Kunálovy oči",
+      "composer": "Otakar Ostrčil",
+      "performances": 16,
+      "performances_detail": "16",
+      "productions": 3,
+      "productions_detail": "3",
+      "first_performance": "25. listopadu 1908",
+      "last_performance": "18. března 1939"
+    },
+    {
+      "opera": "Miss Helyett (opereta)",
+      "composer": "Edmond Audran",
+      "performances": 16,
+      "performances_detail": "16",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. ledna 1892",
+      "last_performance": "22. listopadu 1892"
+    },
+    {
+      "opera": "Modrovous (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 16,
+      "performances_detail": "16 (16+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "5. srpna 1874",
+      "last_performance": "13. února 1881"
+    },
+    {
+      "opera": "Muž, který si spletl svou ženu s kloboukem",
+      "composer": "Michael Nyman",
+      "performances": 16,
+      "performances_detail": "16",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. prosince 1997",
+      "last_performance": "18. září 1999"
+    },
+    {
+      "opera": "Nížina",
+      "composer": "Eugen d'Albert",
+      "performances": 16,
+      "performances_detail": "16",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. listopadu 1939",
+      "last_performance": "29. prosince 1943"
+    },
+    {
+      "opera": "První den štěstí",
+      "composer": "Daniel Auber",
+      "performances": 16,
+      "performances_detail": "16 (16+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "1. září 1868",
+      "last_performance": "26. února 1874"
+    },
+    {
+      "opera": "Sadko",
+      "composer": "Nikolaj Andrejevič Rimskij-Korsakov",
+      "performances": 16,
+      "performances_detail": "16",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "31. ledna 1928",
+      "last_performance": "5. února 1929"
+    },
+    {
+      "opera": "Bertram a Mescalinda",
+      "composer": "Jan Klusák",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. listopadu 2002",
+      "last_performance": "12. května 2004"
+    },
+    {
+      "opera": "Boleslav I.",
+      "composer": "Boleslav Vomáčka",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "8. března 1957",
+      "last_performance": "21. června 1958"
+    },
+    {
+      "opera": "Hipolyta",
+      "composer": "Jaroslav Křička",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "10. října 1917",
+      "last_performance": "9. května 1944"
+    },
+    {
+      "opera": "Jolanta",
+      "composer": "Petr Iljič Čajkovskij",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. října 2015",
+      "last_performance": "16. března 2017"
+    },
+    {
+      "opera": "Máchův deník",
+      "composer": "Emil Viklický",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "1. května 2003",
+      "last_performance": "22. června 2004"
+    },
+    {
+      "opera": "Michuovic dcerušky (opereta)",
+      "composer": "André Messager",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. července 1901",
+      "last_performance": "27. ledna 1904"
+    },
+    {
+      "opera": "Romeo, Julie a tma",
+      "composer": "Jan Frank Fischer",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. října 1962",
+      "last_performance": "7. června 1965"
+    },
+    {
+      "opera": "Rudá Marie",
+      "composer": "Jan Kučera",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. května 2015",
+      "last_performance": "15. února 2017"
+    },
+    {
+      "opera": "Slavík",
+      "composer": "Igor Stravinskij",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. října 2015",
+      "last_performance": "16. března 2017"
+    },
+    {
+      "opera": "Spanilá Peršanka (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 15,
+      "performances_detail": "15 (15+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "27. července 1880",
+      "last_performance": "10. července 1881"
+    },
+    {
+      "opera": "Tři přání (Trojí přání aneb Vrtkavosti života)",
+      "composer": "Bohuslav Martinů",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. ledna 1990",
+      "last_performance": "19. prosince 1990"
+    },
+    {
+      "opera": "Zampa (Zampa aneb Mramorová nevěsta)",
+      "composer": "Ferdinand Hérold",
+      "performances": 15,
+      "performances_detail": "15 (9+6)",
+      "productions": 4,
+      "productions_detail": "4 (2+2)",
+      "first_performance": "28. září 1865",
+      "last_performance": "30. července 1913"
+    },
+    {
+      "opera": "Zlatý křížek",
+      "composer": "Ignaz Brüll",
+      "performances": 15,
+      "performances_detail": "15 (5+10)",
+      "productions": 3,
+      "productions_detail": "3 (1+2)",
+      "first_performance": "9. prosince 1876",
+      "last_performance": "17. října 1914"
+    },
+    {
+      "opera": "Žádný člověk",
+      "composer": "Jiří Kadeřábek",
+      "performances": 15,
+      "performances_detail": "15",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "31. března 2017",
+      "last_performance": "19. března 2019"
+    },
+    {
+      "opera": "Acis a Galatea",
+      "composer": "Georg Friedrich Händel",
+      "performances": 14,
+      "performances_detail": "14",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. dubna 1959",
+      "last_performance": "14. září 1960"
+    },
+    {
+      "opera": "Modrovousův hrad",
+      "composer": "Béla Bartók",
+      "performances": 14,
+      "performances_detail": "14",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "24. září 1981",
+      "last_performance": "19. června 1983"
+    },
+    {
+      "opera": "Ostří hoši (opereta)",
+      "composer": "Franz von Suppé, Adolf Čech",
+      "performances": 14,
+      "performances_detail": "14 (14+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "13. dubna 1872",
+      "last_performance": "6. listopadu 1878"
+    },
+    {
+      "opera": "Podivuhodné dobrodružství Arthura Rowa",
+      "composer": "Ivan Jirko",
+      "performances": 14,
+      "performances_detail": "14",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. října 1979",
+      "last_performance": "3. prosince 1980"
+    },
+    {
+      "opera": "Pochodeň Prométheova",
+      "composer": "Jan Hanuš",
+      "performances": 14,
+      "performances_detail": "14",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "30. dubna 1965",
+      "last_performance": "25. října 1966"
+    },
+    {
+      "opera": "Preciézky",
+      "composer": "Otakar Zich",
+      "performances": 14,
+      "performances_detail": "14",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "21. května 1926",
+      "last_performance": "17. dubna 1960"
+    },
+    {
+      "opera": "Záletníci",
+      "composer": "Mořic Stanislav Anger",
+      "performances": 14,
+      "performances_detail": "14 (14+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "29. ledna 1882",
+      "last_performance": "26. září 1883"
+    },
+    {
+      "opera": "Zkrocení zlé ženy",
+      "composer": "Vissarion Jakovlevič Šebalin",
+      "performances": 14,
+      "performances_detail": "14",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "16. února 1962",
+      "last_performance": "16. února 1963"
+    },
+    {
+      "opera": "Čarovný prsten (opereta)",
+      "composer": "Julius Hopp",
+      "performances": 13,
+      "performances_detail": "13 (13+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "13. června 1872",
+      "last_performance": "29. června 1875"
+    },
+    {
+      "opera": "Démon",
+      "composer": "Anton Rubinstein",
+      "performances": 13,
+      "performances_detail": "13",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. října 1885",
+      "last_performance": "26. května 1889"
+    },
+    {
+      "opera": "Deset dnů, které otřásly světem",
+      "composer": "Mark Veniaminovič Karminskij",
+      "performances": 13,
+      "performances_detail": "13",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. listopadu 1972",
+      "last_performance": "28. března 1974"
+    },
+    {
+      "opera": "Idomeneus, král krétský (Idomeneo)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 13,
+      "performances_detail": "13",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "5. prosince 1931",
+      "last_performance": "25. ledna 2011"
+    },
+    {
+      "opera": "Mlčenlivá žena",
+      "composer": "Richard Strauss",
+      "performances": 13,
+      "performances_detail": "13",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. června 1987",
+      "last_performance": "4. listopadu 1988"
+    },
+    {
+      "opera": "Na večer Bílé soboty",
+      "composer": "Antonín Vojtěch Horák",
+      "performances": 13,
+      "performances_detail": "13",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "21. září 1898",
+      "last_performance": "9. listopadu 1899"
+    },
+    {
+      "opera": "Námořní kadet (opereta)",
+      "composer": "Richard Genée",
+      "performances": 13,
+      "performances_detail": "13 (13+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "15. dubna 1877",
+      "last_performance": "30. července 1877"
+    },
+    {
+      "opera": "Nocleh v Granadě",
+      "composer": "Conradin Kreutzer",
+      "performances": 13,
+      "performances_detail": "13 (7+6)",
+      "productions": 4,
+      "productions_detail": "4 (3+1)",
+      "first_performance": "30. prosince 1862",
+      "last_performance": "31. října 1889"
+    },
+    {
+      "opera": "Ples v opeře (opereta)",
+      "composer": "Richard Heuberger",
+      "performances": 13,
+      "performances_detail": "13",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "19. ledna 1899",
+      "last_performance": "31. prosince 1929"
+    },
+    {
+      "opera": "Adriana Lecouvreur",
+      "composer": "Francesco Cilea",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. září 2004",
+      "last_performance": "23. října 2005"
+    },
+    {
+      "opera": "Balada o lásce",
+      "composer": "Jaroslav Doubrava",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "21. června 1962",
+      "last_performance": "28. září 1963"
+    },
+    {
+      "opera": "Cagliostro, slavný kouzelník (opereta)",
+      "composer": "Johann Strauss mladší",
+      "performances": 12,
+      "performances_detail": "12 (12+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "19. července 1875",
+      "last_performance": "20. června 1878"
+    },
+    {
+      "opera": "Copernicus",
+      "composer": "Jan Frank Fischer",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "16. března 1984",
+      "last_performance": "16. května 1985"
+    },
+    {
+      "opera": "Čtyřnotová opera",
+      "composer": "Tom Johnson",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. února 2005",
+      "last_performance": "10. června 2005"
+    },
+    {
+      "opera": "Gejša (opereta)",
+      "composer": "Sidney Jones",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. května 1899",
+      "last_performance": "5. listopadu 1899"
+    },
+    {
+      "opera": "Chovanština",
+      "composer": "Modest Petrovič Musorgskij",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. listopadu 1947",
+      "last_performance": "14. ledna 1949"
+    },
+    {
+      "opera": "Jezero Ukereve",
+      "composer": "Otmar Mácha",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. května 1966",
+      "last_performance": "2. června 1968"
+    },
+    {
+      "opera": "Kolumbus",
+      "composer": "František Škroup",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. února 1942",
+      "last_performance": "26. září 1942"
+    },
+    {
+      "opera": "Médium",
+      "composer": "Peter Maxwell Davies",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. února 2005",
+      "last_performance": "10. června 2005"
+    },
+    {
+      "opera": "Měsíc",
+      "composer": "Carl Orff",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "20. října 2016",
+      "last_performance": "3. prosince 2017"
+    },
+    {
+      "opera": "Ohnivý anděl",
+      "composer": "Sergej Prokofjev",
+      "performances": 12,
+      "performances_detail": "12",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "21. srpna 1981",
+      "last_performance": "29. listopadu 1982"
+    },
+    {
+      "opera": "Armida",
+      "composer": "Christoph Willibald Gluck",
+      "performances": 11,
+      "performances_detail": "11 (11+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "11. dubna 1866",
+      "last_performance": "28. února 1882"
+    },
+    {
+      "opera": "Astorga",
+      "composer": "Johann Joseph Abert",
+      "performances": 11,
+      "performances_detail": "11 (11+0)",
+      "productions": 3,
+      "productions_detail": "3 (3+0)",
+      "first_performance": "17. října 1876",
+      "last_performance": "4. dubna 1883"
+    },
+    {
+      "opera": "Babička",
+      "composer": "Antonín Vojtěch Horák",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. března 1900",
+      "last_performance": "24. června 1900"
+    },
+    {
+      "opera": "Beg Bajazid",
+      "composer": "Ján Cikker",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. prosince 1957",
+      "last_performance": "5. listopadu 1958"
+    },
+    {
+      "opera": "Džamilé",
+      "composer": "Georges Bizet",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "17. září 1892",
+      "last_performance": "30. října 1903"
+    },
+    {
+      "opera": "Krakatit",
+      "composer": "Václav Kašlík",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "14. května 1966",
+      "last_performance": "15. června 2017"
+    },
+    {
+      "opera": "Králův mincmistr",
+      "composer": "Zbyněk Vostřák",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. února 1955",
+      "last_performance": "28. května 1955"
+    },
+    {
+      "opera": "Malíř Rainer",
+      "composer": "František Picka",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "28. dubna 1911",
+      "last_performance": "16. prosince 1918"
+    },
+    {
+      "opera": "O neviditelném městě Kitěži",
+      "composer": "Nikolaj Andrejevič Rimskij-Korsakov",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. dubna 1938",
+      "last_performance": "16. dubna 1939"
+    },
+    {
+      "opera": "Pouť do Mekky (opereta)",
+      "composer": "Ivan Zajc",
+      "performances": 11,
+      "performances_detail": "11 (11+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "10. září 1869",
+      "last_performance": "27. prosince 1878"
+    },
+    {
+      "opera": "Rienzi",
+      "composer": "Richard Wagner",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. října 1991",
+      "last_performance": "24. března 1992"
+    },
+    {
+      "opera": "Svatební noc",
+      "composer": "Rudolf Zamrzla",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "24. října 1913",
+      "last_performance": "20. února 1922"
+    },
+    {
+      "opera": "Tkalci",
+      "composer": "Vít Nejedlý",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. února 1962",
+      "last_performance": "16. února 1963"
+    },
+    {
+      "opera": "Zahradnice z lásky (La finta giardiniera)",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 11,
+      "performances_detail": "11",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. října 2008",
+      "last_performance": "18. října 2009"
+    },
+    {
+      "opera": "Camargo (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 10,
+      "performances_detail": "10 (10+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "30. listopadu 1879",
+      "last_performance": "1. srpna 1880"
+    },
+    {
+      "opera": "Děvče ze Západu",
+      "composer": "Giacomo Puccini",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. dubna 2007",
+      "last_performance": "19. dubna 2008"
+    },
+    {
+      "opera": "Eufrides před branami Tymén",
+      "composer": "Josef Berg",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "24. června 1982",
+      "last_performance": "12. května 1983"
+    },
+    {
+      "opera": "Graciella (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 10,
+      "performances_detail": "10 (10+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "27. ledna 1877",
+      "last_performance": "8. června 1877"
+    },
+    {
+      "opera": "Chudák námořník",
+      "composer": "Darius Milhaud",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. prosince 1999",
+      "last_performance": "5. prosince 2000"
+    },
+    {
+      "opera": "Karel Škréta",
+      "composer": "Karel Bendl",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. prosince 1883",
+      "last_performance": "1. prosince 1885"
+    },
+    {
+      "opera": "Král Mrkvička (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 10,
+      "performances_detail": "10 (10+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "27. května 1877",
+      "last_performance": "6. června 1877"
+    },
+    {
+      "opera": "Lazzaroni neapolští (opereta)",
+      "composer": "Ivan Zajc",
+      "performances": 10,
+      "performances_detail": "10 (10+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "20. dubna 1869",
+      "last_performance": "20. října 1870"
+    },
+    {
+      "opera": "Milenka na střeše (opereta)",
+      "composer": "C. F. Conradin",
+      "performances": 10,
+      "performances_detail": "10 (10+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "3. dubna 1866",
+      "last_performance": "20. července 1870"
+    },
+    {
+      "opera": "Pohádka máje",
+      "composer": "Jaroslav Kvapil",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. června 1950",
+      "last_performance": "21. října 1950"
+    },
+    {
+      "opera": "Popelička (opereta)",
+      "composer": "Gaston Serpette, Victor Roger",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. září 1892",
+      "last_performance": "7. prosince 1893"
+    },
+    {
+      "opera": "Semjon Kotko",
+      "composer": "Sergej Prokofjev",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. listopadu 1977",
+      "last_performance": "25. listopadu 1978"
+    },
+    {
+      "opera": "Služka paní",
+      "composer": "Giovanni Battista Pergolesi",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "24. června 1982",
+      "last_performance": "12. května 1983"
+    },
+    {
+      "opera": "Strojník Hopkins",
+      "composer": "Max Brand",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. října 1930",
+      "last_performance": "1. února 1931"
+    },
+    {
+      "opera": "Zahradníkův pes",
+      "composer": "Albert Grisar",
+      "performances": 10,
+      "performances_detail": "10 (7+3)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "7. listopadu 1872",
+      "last_performance": "2. února 1885"
+    },
+    {
+      "opera": "Zbojnická balada",
+      "composer": "Václav Kašlík",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. října 1986",
+      "last_performance": "28. září 1987"
+    },
+    {
+      "opera": "Zbrojíř",
+      "composer": "Albert Lortzing",
+      "performances": 10,
+      "performances_detail": "10 (4+6)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "22. února 1866",
+      "last_performance": "10. prosince 1894"
+    },
+    {
+      "opera": "Zmařená svatba",
+      "composer": "Karel Šebor",
+      "performances": 10,
+      "performances_detail": "10 (10+0)",
+      "productions": 0,
+      "productions_detail": "0 (0+0)",
+      "first_performance": "25. října 1879",
+      "last_performance": "12. října 1880"
+    },
+    {
+      "opera": "Život prostopášníka",
+      "composer": "Igor Stravinskij",
+      "performances": 10,
+      "performances_detail": "10",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. června 1972",
+      "last_performance": "29. března 1973"
+    },
+    {
+      "opera": "Belisar",
+      "composer": "Gaetano Donizetti",
+      "performances": 9,
+      "performances_detail": "9 (9+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "19. dubna 1863",
+      "last_performance": "1. února 1868"
+    },
+    {
+      "opera": "Císař Atlantidy",
+      "composer": "Viktor Ullmann",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "30. listopadu 1995",
+      "last_performance": "20. května 1996"
+    },
+    {
+      "opera": "Černé jezero",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. ledna 1906",
+      "last_performance": "30. dubna 1906"
+    },
+    {
+      "opera": "Dítě Tábora",
+      "composer": "Karel Bendl",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "13. března 1892",
+      "last_performance": "22. prosince 1927"
+    },
+    {
+      "opera": "Divadlo za bránou",
+      "composer": "Bohuslav Martinů",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. března 1968",
+      "last_performance": "6. dubna 1969"
+    },
+    {
+      "opera": "Dom Sebastian",
+      "composer": "Gaetano Donizetti",
+      "performances": 9,
+      "performances_detail": "9 (9+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "8. listopadu 1867",
+      "last_performance": "19. května 1874"
+    },
+    {
+      "opera": "Ifigenie v Aulidě",
+      "composer": "Christoph Willibald Gluck",
+      "performances": 9,
+      "performances_detail": "9 (5+4)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "9. dubna 1872",
+      "last_performance": "11. června 1921"
+    },
+    {
+      "opera": "Ilseino srdce",
+      "composer": "Rudolf Karel",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. listopadu 1924",
+      "last_performance": "5. února 1925"
+    },
+    {
+      "opera": "Kamilla",
+      "composer": "Ludvík Čelanský",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. října 1897",
+      "last_performance": "29. listopadu 1899"
+    },
+    {
+      "opera": "Krapp aneb Poslední páska",
+      "composer": "Marcel Mihalovici",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "16. října 2013",
+      "last_performance": "9. března 2005"
+    },
+    {
+      "opera": "Lolita",
+      "composer": "Rodion Ščedrin",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. října 2019",
+      "last_performance": "10. ledna 2020"
+    },
+    {
+      "opera": "Mazepa",
+      "composer": "Petr Iljič Čajkovskij",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "15. září 1934",
+      "last_performance": "23. listopadu 1934"
+    },
+    {
+      "opera": "Mikuláš",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 9,
+      "performances_detail": "9 (9+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "5. prosince 1870",
+      "last_performance": "6. prosince 1871"
+    },
+    {
+      "opera": "Mistr Jeroným",
+      "composer": "Ivo Jirásek",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. října 1984",
+      "last_performance": "21. května 1985"
+    },
+    {
+      "opera": "Noc ve Florencii",
+      "composer": "Ladislav Zavrtal",
+      "performances": 9,
+      "performances_detail": "9 (9+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "20. března 1880",
+      "last_performance": "23. února 1883"
+    },
+    {
+      "opera": "Osud",
+      "composer": "Leoš Janáček",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "19. dubna 2002",
+      "last_performance": "31. ledna 2004"
+    },
+    {
+      "opera": "Peer Gynt",
+      "composer": "Werner Egk",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. června 1941",
+      "last_performance": "19. září 1941"
+    },
+    {
+      "opera": "Polský žid",
+      "composer": "Karel Weis",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. června 1926",
+      "last_performance": "24. února 1927"
+    },
+    {
+      "opera": "Poslední Mohykán (Poslední Mohikáni) (opereta)",
+      "composer": "Richard Genée",
+      "performances": 9,
+      "performances_detail": "9 (9+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "14. srpna 1879",
+      "last_performance": "10. ledna 1880"
+    },
+    {
+      "opera": "Princ Metusalem (opereta)",
+      "composer": "Johann Strauss mladší",
+      "performances": 9,
+      "performances_detail": "9 (9+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "24. února 1878",
+      "last_performance": "11. listopadu 1880"
+    },
+    {
+      "opera": "Siegfried",
+      "composer": "Richard Wagner",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "23. března 1932",
+      "last_performance": "20. května 2005"
+    },
+    {
+      "opera": "Slzy nože",
+      "composer": "Bohuslav Martinů",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "24. června 1982",
+      "last_performance": "12. května 1983"
+    },
+    {
+      "opera": "Stoja",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. června 1894",
+      "last_performance": "18. srpna 1895"
+    },
+    {
+      "opera": "Templáři na Moravě",
+      "composer": "Karel Šebor",
+      "performances": 9,
+      "performances_detail": "9 (9+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "19. října 1865",
+      "last_performance": "17. září 1867"
+    },
+    {
+      "opera": "Tři vlasy děda Vševěda",
+      "composer": "Rudolf Karel",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. října 1948",
+      "last_performance": "10. dubna 1949"
+    },
+    {
+      "opera": "Tulák",
+      "composer": "Xavier Leroux",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. února 1909",
+      "last_performance": "2. září 1909"
+    },
+    {
+      "opera": "Vlast (Vlasť)",
+      "composer": "Émile Paladilhe",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. dubna 1887",
+      "last_performance": "7. listopadu 1887"
+    },
+    {
+      "opera": "Zítek",
+      "composer": "Vilém Blodek",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. října 1934",
+      "last_performance": "5. ledna 1935"
+    },
+    {
+      "opera": "Zkouška na operu",
+      "composer": "Albert Lortzing",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. října 1915",
+      "last_performance": "30. prosince 1915"
+    },
+    {
+      "opera": "Ženichové",
+      "composer": "Karel Kovařovic",
+      "performances": 9,
+      "performances_detail": "9",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. května 1884",
+      "last_performance": "13. září 1884"
+    },
+    {
+      "opera": "Albert Herring",
+      "composer": "Benjamin Britten",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. února 1966",
+      "last_performance": "27. prosince 1966"
+    },
+    {
+      "opera": "Beatrys",
+      "composer": "Ignaz Lilien",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "1. dubna 1931",
+      "last_performance": "17. června 1931"
+    },
+    {
+      "opera": "Bianca a Giuseppe (Francouzové před Nizzou)",
+      "composer": "Jan Bedřich Kittl",
+      "performances": 8,
+      "performances_detail": "8 (3+5)",
+      "productions": 3,
+      "productions_detail": "3 (1+2)",
+      "first_performance": "20. září 1875",
+      "last_performance": "3. června 2003"
+    },
+    {
+      "opera": "Dáma a lupiči",
+      "composer": "Ilja Hurník",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. června 1992",
+      "last_performance": "28. února 1993"
+    },
+    {
+      "opera": "Den a noc (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 8,
+      "performances_detail": "8 (8+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "15. dubna 1882",
+      "last_performance": "29. července 1882"
+    },
+    {
+      "opera": "Divadelní ředitel",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "11. dubna 1916",
+      "last_performance": "19. ledna 1937"
+    },
+    {
+      "opera": "Dopisy, hádanky a příkazy",
+      "composer": "Michael Nyman",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. dubna 2019",
+      "last_performance": "27. října 2019"
+    },
+    {
+      "opera": "Fantom, čili Krvavá opera",
+      "composer": "Petr Kofroň, Zdeněk Plachý, Jiří Šimáček",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. března 2005",
+      "last_performance": "11. dubna 2005"
+    },
+    {
+      "opera": "Filemon a Baucis",
+      "composer": "Charles Gounod",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. listopadu 1892",
+      "last_performance": "19. dubna 1894"
+    },
+    {
+      "opera": "Gloriana",
+      "composer": "Benjamin Britten",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. března 2012",
+      "last_performance": "16. února 2014"
+    },
+    {
+      "opera": "Jidáš Iškariotský",
+      "composer": "Rudolf Zamrzla",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "19. dubna 1930",
+      "last_performance": "11. června 1930"
+    },
+    {
+      "opera": "Karneval v Římě (opereta)",
+      "composer": "Johann Strauss mladší",
+      "performances": 8,
+      "performances_detail": "8 (8+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "22. července 1882",
+      "last_performance": "28. září 1882"
+    },
+    {
+      "opera": "Klasika",
+      "composer": "Steven Stucky",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. dubna 2019",
+      "last_performance": "27. října 2019"
+    },
+    {
+      "opera": "Královské děti",
+      "composer": "Engelbert Humperdinck",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. září 1942",
+      "last_performance": "28. října 1942"
+    },
+    {
+      "opera": "Lidský hlas",
+      "composer": "Francis Poulenc",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. září 1972",
+      "last_performance": "18. března 1973"
+    },
+    {
+      "opera": "Man and Boy: Dada",
+      "composer": "Michael Nyman",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. prosince 2004",
+      "last_performance": "29. května 2005"
+    },
+    {
+      "opera": "Maškarní ples krále Gustava III.",
+      "composer": "Daniel Auber",
+      "performances": 8,
+      "performances_detail": "8 (8+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "26. ledna 1869",
+      "last_performance": "17. listopadu 1870"
+    },
+    {
+      "opera": "Na Alpách",
+      "composer": "Adolphe Adam",
+      "performances": 8,
+      "performances_detail": "8 (8+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "25. ledna 1871",
+      "last_performance": "27. února 1873"
+    },
+    {
+      "opera": "Nepokoření",
+      "composer": "Julius Kalaš",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. dubna 1961",
+      "last_performance": "6. října 1961"
+    },
+    {
+      "opera": "Poslední hejtman",
+      "composer": "Miroslav Krejčí",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. března 1948",
+      "last_performance": "9. ledna 1949"
+    },
+    {
+      "opera": "Probuzený lev (opereta)",
+      "composer": "Johann Brandl",
+      "performances": 8,
+      "performances_detail": "8 (8+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "25. února 1873",
+      "last_performance": "18. března 1875"
+    },
+    {
+      "opera": "Rusalka",
+      "composer": "Alexandr Sergejevič Dargomyžskij",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. listopadu 1889",
+      "last_performance": "20. dubna 1890"
+    },
+    {
+      "opera": "Silnice",
+      "composer": "Václav Kašlík",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. ledna 1982",
+      "last_performance": "1. prosince 1982"
+    },
+    {
+      "opera": "Španělská hodinka",
+      "composer": "Maurice Ravel",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. září 1972",
+      "last_performance": "18. března 1973"
+    },
+    {
+      "opera": "Útok na mlýn",
+      "composer": "Karel Weis",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. března 1912",
+      "last_performance": "27. května 1912"
+    },
+    {
+      "opera": "Válka s mloky",
+      "composer": "Vladimír Franz",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. ledna 2013",
+      "last_performance": "25. června 2014"
+    },
+    {
+      "opera": "Vánoční stromek",
+      "composer": "Vladimír Ivanovič Rebikov",
+      "performances": 8,
+      "performances_detail": "8",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. listopadu 1906",
+      "last_performance": "23. prosince 1907"
+    },
+    {
+      "opera": "Vojsko v dívčím ústavě (opereta)",
+      "composer": "Louis Varney",
+      "performances": 8,
+      "performances_detail": "8 (5+3)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "1. září 1882",
+      "last_performance": "19. srpna 1884"
+    },
+    {
+      "opera": "A jitra jsou zde tichá...",
+      "composer": "Kirill Vladimirovič Molčanov",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. května 1975",
+      "last_performance": "7. listopadu 1976"
+    },
+    {
+      "opera": "Angelika",
+      "composer": "Jacques Ibert",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. ledna 1937",
+      "last_performance": "4. března 1937"
+    },
+    {
+      "opera": "Bastien a Bastienka",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. října 1947",
+      "last_performance": "27. prosince 1947"
+    },
+    {
+      "opera": "Bojarská svatba",
+      "composer": "Karel Weis",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. února 1943",
+      "last_performance": "12. února 1944"
+    },
+    {
+      "opera": "Cikánka",
+      "composer": "Michael William Balfe",
+      "performances": 7,
+      "performances_detail": "7 (7+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "15. listopadu 1863",
+      "last_performance": "28. září 1864"
+    },
+    {
+      "opera": "Coriolanus",
+      "composer": "Ján Cikker",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. dubna 1974",
+      "last_performance": "24. června 1974"
+    },
+    {
+      "opera": "Hans Heiling (Jan Heiling)",
+      "composer": "Heinrich Marschner",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "28. dubna 1889",
+      "last_performance": "29. května 1908"
+    },
+    {
+      "opera": "Hra o lásce a smrti",
+      "composer": "Ján Cikker",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. ledna 1983",
+      "last_performance": "25. října 1983"
+    },
+    {
+      "opera": "Josef v Egyptě (Josef a bratří jeho)",
+      "composer": "Étienne-Nicolas Méhul",
+      "performances": 7,
+      "performances_detail": "7 (5+2)",
+      "productions": 3,
+      "productions_detail": "3 (2+1)",
+      "first_performance": "15. srpna 1863",
+      "last_performance": "4. února 1892"
+    },
+    {
+      "opera": "Královnin omyl",
+      "composer": "Emil Němeček",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. dubna 1922",
+      "last_performance": "22. února 1923"
+    },
+    {
+      "opera": "Kristus na hoře Olivetské (oratorium)",
+      "composer": "Ludwig van Beethoven",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "1. dubna 1927",
+      "last_performance": "7. června 1927"
+    },
+    {
+      "opera": "Léto",
+      "composer": "Miroslav Krejčí",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. prosince 1940",
+      "last_performance": "2. ledna 1941"
+    },
+    {
+      "opera": "Medicejští (Medici)",
+      "composer": "Ruggero Leoncavallo",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. ledna 1895",
+      "last_performance": "19. dubna 1895"
+    },
+    {
+      "opera": "Nevinné ovečky (opereta)",
+      "composer": "Louis Varney",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. ledna 1897",
+      "last_performance": "20. února 1897"
+    },
+    {
+      "opera": "Orfeus",
+      "composer": "Claudio Monteverdi",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. května 2007",
+      "last_performance": "25. ledna 2008"
+    },
+    {
+      "opera": "Pan \"Vévoda\" aneb Spiknutí v Montefiaskone (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 7,
+      "performances_detail": "7 (7+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "30. května 1875",
+      "last_performance": "15. prosince 1875"
+    },
+    {
+      "opera": "Písařská louka (Souboj)",
+      "composer": "Ferdinand Hérold",
+      "performances": 7,
+      "performances_detail": "7 (7+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "14. listopadu 1873",
+      "last_performance": "20. listopadu 1874"
+    },
+    {
+      "opera": "Pod jabloní",
+      "composer": "Josef Suk",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "31. ledna 1934",
+      "last_performance": "8. září 1935"
+    },
+    {
+      "opera": "Před slunce východem",
+      "composer": "Emil František Burian",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "24. listopadu 1925",
+      "last_performance": "15. dubna 1926"
+    },
+    {
+      "opera": "Satyr",
+      "composer": "Pavel Bořkovec",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "8. října 1942",
+      "last_performance": "18. prosince 1942"
+    },
+    {
+      "opera": "Strašidlo v zámku",
+      "composer": "Jaroslav Křička",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. října 1933",
+      "last_performance": "4. listopadu 1933"
+    },
+    {
+      "opera": "U věrného pastýře",
+      "composer": "Adolphe Adam",
+      "performances": 7,
+      "performances_detail": "7 (4+3)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "17. prosince 1869",
+      "last_performance": "3. dubna 1886"
+    },
+    {
+      "opera": "Velký Kazimír (opereta)",
+      "composer": "Charles Lecocq, Johann Brandl",
+      "performances": 7,
+      "performances_detail": "7 (7+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "5. července 1879",
+      "last_performance": "20. srpna 1879"
+    },
+    {
+      "opera": "Veronika",
+      "composer": "Rafael Kubelík",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. dubna 1948",
+      "last_performance": "14. června 1948"
+    },
+    {
+      "opera": "Veselé námluvy",
+      "composer": "Jan Malát",
+      "performances": 7,
+      "performances_detail": "7",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. června 1940",
+      "last_performance": "14. září 1940"
+    },
+    {
+      "opera": "Billy Budd",
+      "composer": "Benjamin Britten",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. ledna 2018",
+      "last_performance": "27. dubna 2018"
+    },
+    {
+      "opera": "Bloud",
+      "composer": "Josef Bohuslav Foerster",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. února 1936",
+      "last_performance": "23. dubna 1936"
+    },
+    {
+      "opera": "Carská nevěsta",
+      "composer": "Nikolaj Andrejevič Rimskij-Korsakov",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. prosince 1902",
+      "last_performance": "23. února 1904"
+    },
+    {
+      "opera": "Cech písařů",
+      "composer": "André Messager",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "26. února 1892",
+      "last_performance": "22. dubna 1892"
+    },
+    {
+      "opera": "Cesta do Afriky (opereta)",
+      "composer": "Franz von Suppé",
+      "performances": 6,
+      "performances_detail": "6 (6+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "1. června 1883",
+      "last_performance": "18. června 1883"
+    },
+    {
+      "opera": "Dr. Piccolo (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 6,
+      "performances_detail": "6 (6+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "5. srpna 1877",
+      "last_performance": "13. listopadu 1877"
+    },
+    {
+      "opera": "Jánošík",
+      "composer": "Karel Hába",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. února 1934",
+      "last_performance": "28. května 1934"
+    },
+    {
+      "opera": "Julien",
+      "composer": "Gustave Charpentier",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "20. května 1914",
+      "last_performance": "17. června 1914"
+    },
+    {
+      "opera": "Koštana",
+      "composer": "Petar Konjović",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. prosince 1935",
+      "last_performance": "22. ledna 1936"
+    },
+    {
+      "opera": "Král Pafuncio aneb Ztracený talisman (opereta)",
+      "composer": "Rudolf Bial",
+      "performances": 6,
+      "performances_detail": "6 (6+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "15. září 1877",
+      "last_performance": "22. prosince 1877"
+    },
+    {
+      "opera": "Král Roger",
+      "composer": "Karol Szymanowski",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "21. října 1932",
+      "last_performance": "15. prosince 1932"
+    },
+    {
+      "opera": "Královna Fiammetta",
+      "composer": "Xavier Leroux",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. října 1907",
+      "last_performance": "4. listopadu 1907"
+    },
+    {
+      "opera": "Legenda z Erinu",
+      "composer": "Otakar Ostrčil",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. března 1923",
+      "last_performance": "26. dubna 1923"
+    },
+    {
+      "opera": "Májová noc",
+      "composer": "Nikolaj Andrejevič Rimskij-Korsakov",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "31. srpna 1896",
+      "last_performance": "22. února 1897"
+    },
+    {
+      "opera": "Mistr Jíra",
+      "composer": "Jaroslav Vogel",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "30. března 1926",
+      "last_performance": "27. května 1926"
+    },
+    {
+      "opera": "Noc Šimona a Judy",
+      "composer": "Karel Kovařovic",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. listopadu 1892",
+      "last_performance": "24. února 1893"
+    },
+    {
+      "opera": "Ohně zmar",
+      "composer": "Richard Strauss",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. listopadu 1912",
+      "last_performance": "27. ledna 1913"
+    },
+    {
+      "opera": "Olympiáda",
+      "composer": "Josef Mysliveček",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. května 2013",
+      "last_performance": "16. října 2015"
+    },
+    {
+      "opera": "Paličatý švec",
+      "composer": "Jan Evangelista Zelinka",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. března 1944",
+      "last_performance": "7. května 1944"
+    },
+    {
+      "opera": "Paní a pan Denis (Monsieur a Madame Denis) (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 6,
+      "performances_detail": "6 (2+4)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "15. ledna 1868",
+      "last_performance": "29. června 1896"
+    },
+    {
+      "opera": "Příšerné děti (Les enfants terribles)",
+      "composer": "Philip Glass",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. června 2011",
+      "last_performance": "24. června 2011"
+    },
+    {
+      "opera": "Semiramis",
+      "composer": "Gioacchino Rossini",
+      "performances": 6,
+      "performances_detail": "6 (6+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "25. června 1864",
+      "last_performance": "20. dubna 1871"
+    },
+    {
+      "opera": "Slib",
+      "composer": "Karel Kovařovic",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "9. prosince 1921",
+      "last_performance": "9. října 1922"
+    },
+    {
+      "opera": "Smrt Klinghofera",
+      "composer": "John Adams",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. května 2003",
+      "last_performance": "15. října 2003"
+    },
+    {
+      "opera": "Stáňa",
+      "composer": "Jan Malát",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "30. června 1899",
+      "last_performance": "10. května 1900"
+    },
+    {
+      "opera": "Toto (opereta)",
+      "composer": "Antoine-Anatole Banès",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. března 1894",
+      "last_performance": "20. dubna 1894"
+    },
+    {
+      "opera": "Vlasty skon",
+      "composer": "Otakar Ostrčil",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. prosince 1904",
+      "last_performance": "27. května 1905"
+    },
+    {
+      "opera": "Vodař",
+      "composer": "Luigi Cherubini",
+      "performances": 6,
+      "performances_detail": "6 (2+4)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "20. listopadu 1862",
+      "last_performance": "27. listopadu 1862"
+    },
+    {
+      "opera": "Záboj",
+      "composer": "Emanuel Chvála",
+      "performances": 6,
+      "performances_detail": "6",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "9. března 1918",
+      "last_performance": "13. prosince 1918"
+    },
+    {
+      "opera": "Amaya",
+      "composer": "Jesús Guridi",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. června 1941",
+      "last_performance": "9. září 1941"
+    },
+    {
+      "opera": "Andrea Crini",
+      "composer": "Hanuš Trneček",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. února 1900",
+      "last_performance": "30. března 1900"
+    },
+    {
+      "opera": "Antigona",
+      "composer": "Iša Krejčí",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. března 1968",
+      "last_performance": "3. října 1968"
+    },
+    {
+      "opera": "Cornill Schut",
+      "composer": "Antonio Smareglia",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "20. května 1893",
+      "last_performance": "8. června 1893"
+    },
+    {
+      "opera": "Čajové kvítko (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "30. prosince 1875",
+      "last_performance": "6. února 1876"
+    },
+    {
+      "opera": "Devátá louka",
+      "composer": "Jan Evangelista Zelinka",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "19. září 1931",
+      "last_performance": "9. října 1931"
+    },
+    {
+      "opera": "Don Hrabal",
+      "composer": "Miloš Orson Štědroň",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. prosince 2017",
+      "last_performance": "12. dubna 2019"
+    },
+    {
+      "opera": "Etienne Marcel",
+      "composer": "Camille Saint-Saëns",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "19. března 1887",
+      "last_performance": "13. dubna 1887"
+    },
+    {
+      "opera": "Evangelista",
+      "composer": "Wilhelm Kienzl",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "19. října 1904",
+      "last_performance": "4. prosince 1904"
+    },
+    {
+      "opera": "Fanchonin kolovrátek (opereta)",
+      "composer": "Louis Varney",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. června 1893",
+      "last_performance": "25. června 1893"
+    },
+    {
+      "opera": "Jacobowsky a plukovník",
+      "composer": "Giselher Wolfgang Klebe",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "20. května 1967",
+      "last_performance": "2. prosince 1967"
+    },
+    {
+      "opera": "Jeremias (oratorium)",
+      "composer": "Petr Eben",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. května 1997",
+      "last_performance": "2. dubna 1999"
+    },
+    {
+      "opera": "Kapuleti a Montekové (Montechi a Kapuletti)",
+      "composer": "Vincenzo Bellini",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "11. prosince 1862",
+      "last_performance": "14. července 1874"
+    },
+    {
+      "opera": "Krásná Genovefa z Brabantu (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "13. května 1871",
+      "last_performance": "22. května 1871"
+    },
+    {
+      "opera": "Krejčové z východu (opereta)",
+      "composer": "Anton Maria Storch",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "14. prosince 1868",
+      "last_performance": "20. srpna 1869"
+    },
+    {
+      "opera": "Krištof Kolumbus",
+      "composer": "Alberto Franchetti",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. června 1896",
+      "last_performance": "7. července 1896"
+    },
+    {
+      "opera": "Lacrimae Alexandri Magni (Slzy Alexandra Velikého)",
+      "composer": "Tomáš Hanzlík",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. ledna 2007",
+      "last_performance": "17. února 2007"
+    },
+    {
+      "opera": "Láska lékařem",
+      "composer": "Ermanno Wolf-Ferrari",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. února 1914",
+      "last_performance": "26. února 1914"
+    },
+    {
+      "opera": "Lásky hra osudná",
+      "composer": "Zdeněk Folprecht",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. listopadu 1966",
+      "last_performance": "22. ledna 1967"
+    },
+    {
+      "opera": "Mara",
+      "composer": "Ferdinand Hummel",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. listopadu 1894",
+      "last_performance": "30. dubna 1895"
+    },
+    {
+      "opera": "Markytánka",
+      "composer": "Benjamin Godard",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. února 1897",
+      "last_performance": "11. dubna 1897"
+    },
+    {
+      "opera": "Měsíčnice (Náměsíčnice) (opereta)",
+      "composer": "Ivan Zajc",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "28. dubna 1871",
+      "last_performance": "28. února 1872"
+    },
+    {
+      "opera": "Milkování",
+      "composer": "František Neumann",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. listopadu 1911",
+      "last_performance": "2. ledna 1912"
+    },
+    {
+      "opera": "Miss Nicol-Nick (opereta)",
+      "composer": "Victor Roger",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. srpna 1896",
+      "last_performance": "13. září 1896"
+    },
+    {
+      "opera": "Most",
+      "composer": "Jarmil Burghauser",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "31. března 1967",
+      "last_performance": "8. října 1967"
+    },
+    {
+      "opera": "Pařížské zelenářky (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "8. července 1871",
+      "last_performance": "12. října 1871"
+    },
+    {
+      "opera": "Rantzauové",
+      "composer": "Pietro Mascagni",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. května 1893",
+      "last_performance": "21. června 1893"
+    },
+    {
+      "opera": "Reservistka (opereta)",
+      "composer": "Victor Roger",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. ledna 1896",
+      "last_performance": "29. března 1896"
+    },
+    {
+      "opera": "Simson",
+      "composer": "Rudolf Zamrzla",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. března 1921",
+      "last_performance": "11. května 1921"
+    },
+    {
+      "opera": "Selská bouře",
+      "composer": "Ludvík Lošťák",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "26. dubna 1899",
+      "last_performance": "30. června 1899"
+    },
+    {
+      "opera": "Tajné manželství",
+      "composer": "Domenico Cimarosa",
+      "performances": 5,
+      "performances_detail": "5 (3+2)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "17. prosince 1872",
+      "last_performance": "28. dubna 1914"
+    },
+    {
+      "opera": "The Angels",
+      "composer": "Lukáš Hurník",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "1. června 2006",
+      "last_performance": "8. června 2006"
+    },
+    {
+      "opera": "Tramvestie",
+      "composer": "Petr Wajsar",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. dubna 2019",
+      "last_performance": "23. června 2019"
+    },
+    {
+      "opera": "Tři příběhy (Three Tales)",
+      "composer": "Steve Reich",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. prosince 2016",
+      "last_performance": "10. ledna 2017"
+    },
+    {
+      "opera": "Undina",
+      "composer": "Albert Lortzing",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "30. března 1928",
+      "last_performance": "14. dubna 1928"
+    },
+    {
+      "opera": "Vesnický lazebník (aneb Šunka zhojí každou nemoc)",
+      "composer": "Johann Schenk",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 2,
+      "productions_detail": "2 (2+0)",
+      "first_performance": "12. března 1866",
+      "last_performance": "14. června 1870"
+    },
+    {
+      "opera": "Vladimír, bohův zvolenec",
+      "composer": "František Zdeněk Skuherský",
+      "performances": 5,
+      "performances_detail": "5 (5+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "27. září 1863",
+      "last_performance": "15. ledna 1865"
+    },
+    {
+      "opera": "Vzorná rodina",
+      "composer": "Francesco Benizzo",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. února 1895",
+      "last_performance": "21. února 1895"
+    },
+    {
+      "opera": "Zjevy duší (Přízraky)",
+      "composer": "Stanisław Moniuszko",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 2,
+      "productions_detail": "2",
+      "first_performance": "31. října 1899",
+      "last_performance": "5. ledna 1949"
+    },
+    {
+      "opera": "Zkrocení zlé ženy",
+      "composer": "Hermann Goetz",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "4. listopadu 1909",
+      "last_performance": "9. prosince 1909"
+    },
+    {
+      "opera": "Žena a bůh",
+      "composer": "Karel Boleslav Jirák",
+      "performances": 5,
+      "performances_detail": "5",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. března 1937",
+      "last_performance": "22. dubna 1937"
+    },
+    {
+      "opera": "Amaranta",
+      "composer": "Hanuš Trneček",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "16. listopadu 1890",
+      "last_performance": "27. listopadu 1890"
+    },
+    {
+      "opera": "Blanka",
+      "composer": "Karel Šebor",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "8. března 1870",
+      "last_performance": "17. března 1870"
+    },
+    {
+      "opera": "Břetislav",
+      "composer": "Karel Bendl",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "18. září 1870",
+      "last_performance": "27. září 1870"
+    },
+    {
+      "opera": "Capitaine Henriot",
+      "composer": "François-Auguste Gevaert",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "2. června 1874",
+      "last_performance": "7. ledna 1875"
+    },
+    {
+      "opera": "Čarodějka",
+      "composer": "Ruperto Chapí",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. listopadu 1895",
+      "last_performance": "22. prosince 1895"
+    },
+    {
+      "opera": "Dceruška hostinského",
+      "composer": "Jan Evangelista Zelinka",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "24. února 1925",
+      "last_performance": "28. dubna 1925"
+    },
+    {
+      "opera": "Dítě a kouzla",
+      "composer": "Maurice Ravel",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. února 1927",
+      "last_performance": "14. března 1927"
+    },
+    {
+      "opera": "Enšpígl",
+      "composer": "Otakar Jeremiáš",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. května 1949",
+      "last_performance": "9. června 1949"
+    },
+    {
+      "opera": "Fetiš (opereta)",
+      "composer": "Victor Roger",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. července 1893",
+      "last_performance": "16. července 1893"
+    },
+    {
+      "opera": "Fortunio",
+      "composer": "André Messager",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. září 1909",
+      "last_performance": "18. října 1909"
+    },
+    {
+      "opera": "Istarská svatba",
+      "composer": "Antonio Smareglia",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. října 1896",
+      "last_performance": "26. října 1896"
+    },
+    {
+      "opera": "Jasice",
+      "composer": "Jindřich Vojáček",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "16. ledna 1935",
+      "last_performance": "5. února 1935"
+    },
+    {
+      "opera": "Kdybych byl králem",
+      "composer": "Adolphe Adam",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "15. ledna 1875",
+      "last_performance": "12. února 1875"
+    },
+    {
+      "opera": "Lost Objects",
+      "composer": "Michael Gordon, David Lang, Julia Wolfe",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. prosince 2015",
+      "last_performance": "24. ledna 2016"
+    },
+    {
+      "opera": "Marie Potocká",
+      "composer": "Leopold Eugen Měchura",
+      "performances": 4,
+      "performances_detail": "4 (2+2)",
+      "productions": 2,
+      "productions_detail": "2 (1+1)",
+      "first_performance": "13. ledna 1871",
+      "last_performance": "1. června 2003"
+    },
+    {
+      "opera": "Matka",
+      "composer": "Alois Hába",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. května 1964",
+      "last_performance": "5. června 1964"
+    },
+    {
+      "opera": "Matka Míla",
+      "composer": "Karel Bendl",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "25. června 1895",
+      "last_performance": "20. listopadu 1895"
+    },
+    {
+      "opera": "Nepřítelkyně kardinála Mazarina (opereta)",
+      "composer": "Charles Lecocq",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "1. března 1881",
+      "last_performance": "20. března 1881"
+    },
+    {
+      "opera": "Panna orleánská",
+      "composer": "Petr Iljič Čajkovskij",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "28. července 1882",
+      "last_performance": "20. října 1882"
+    },
+    {
+      "opera": "Podobizna Manony",
+      "composer": "Jules Massenet",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "28. prosince 1895",
+      "last_performance": "16. ledna 1896"
+    },
+    {
+      "opera": "Pověst o Ysu",
+      "composer": "Édouard Lalo",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. května 1902",
+      "last_performance": "1. července 1902"
+    },
+    {
+      "opera": "Přísaha aneb Penězokazi",
+      "composer": "Daniel Auber",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "31. ledna 1866",
+      "last_performance": "21. června 1866"
+    },
+    {
+      "opera": "Ruy Blas",
+      "composer": "Filippo Marchetti",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "25. října 1881",
+      "last_performance": "23. listopadu 1881"
+    },
+    {
+      "opera": "Řeka Sumida (Curlew River)",
+      "composer": "Benjamin Britten",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. listopadu 2005",
+      "last_performance": "31. prosince 2005"
+    },
+    {
+      "opera": "Satanela",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. října 1898",
+      "last_performance": "24. října 1898"
+    },
+    {
+      "opera": "Sen lesa",
+      "composer": "Ladislav Prokop",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. června 1907",
+      "last_performance": "4. června 1908"
+    },
+    {
+      "opera": "Sníh",
+      "composer": "Daniel Auber",
+      "performances": 4,
+      "performances_detail": "4 (4+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "6. prosince 1863",
+      "last_performance": "25. července 1864"
+    },
+    {
+      "opera": "Strašidelný zámek (Strašný dvůr)",
+      "composer": "Stanisław Moniuszko",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. října 1891",
+      "last_performance": "16. listopadu 1891"
+    },
+    {
+      "opera": "Tři Pintové",
+      "composer": "Carl Maria von Weber a Gustav Mahler",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. ledna 2012",
+      "last_performance": "31. května 2012"
+    },
+    {
+      "opera": "Ztracený syn",
+      "composer": "Claude Debussy",
+      "performances": 4,
+      "performances_detail": "4",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "8. února 1939",
+      "last_performance": "24. února 1939"
+    },
+    {
+      "opera": "Bukovín",
+      "composer": "Zdeněk Fibich",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "16. dubna 1874",
+      "last_performance": "26. dubna 1874"
+    },
+    {
+      "opera": "Diamanty koruny",
+      "composer": "Daniel Auber",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "4. prosince 1865",
+      "last_performance": "10. prosince 1865"
+    },
+    {
+      "opera": "Divá Bára",
+      "composer": "Adolf Piskáček",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "11. března 1910",
+      "last_performance": "17. března 1910"
+    },
+    {
+      "opera": "Ďáblův podíl",
+      "composer": "Daniel Auber",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "25. listopadu 1882",
+      "last_performance": "28. listopadu 1882"
+    },
+    {
+      "opera": "Favoritka (Favorita)",
+      "composer": "Gaetano Donizetti",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. prosince 1889",
+      "last_performance": "13. března 1890"
+    },
+    {
+      "opera": "Galatea",
+      "composer": "Victor Massé",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "17. prosince 1873",
+      "last_performance": "24. ledna 1874"
+    },
+    {
+      "opera": "Guido a Ginevra",
+      "composer": "Jacques Fromental Halévy",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "5. února 1879",
+      "last_performance": "11. února 1879"
+    },
+    {
+      "opera": "Hamlet",
+      "composer": "Ambroise Thomas",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "2. dubna 1877",
+      "last_performance": "20. dubna 1877"
+    },
+    {
+      "opera": "Harold",
+      "composer": "Eduard Nápravník",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. března 1888",
+      "last_performance": "4. dubna 1888"
+    },
+    {
+      "opera": "Hjördis",
+      "composer": "Karel Moor",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. října 1905",
+      "last_performance": "10. listopadu 1905"
+    },
+    {
+      "opera": "Ifigenie na Tauridě",
+      "composer": "Christoph Willibald Gluck",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "6. června 1890",
+      "last_performance": "25. června 1890"
+    },
+    {
+      "opera": "Jan Lotarinský",
+      "composer": "Victorin de Joncières",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. března 1889",
+      "last_performance": "27. března 1889"
+    },
+    {
+      "opera": "Jarmila",
+      "composer": "Theodor Václav Bradský",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "28. března 1879",
+      "last_performance": "2. dubna 1879"
+    },
+    {
+      "opera": "Jessonda",
+      "composer": "Louis Spohr",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "26. února 1869",
+      "last_performance": "11. března 1869"
+    },
+    {
+      "opera": "Krakonoš",
+      "composer": "August Conradi",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "12. března 1866",
+      "last_performance": "18. června 1866"
+    },
+    {
+      "opera": "Lékař z donucení",
+      "composer": "Charles Gounod",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. června 1911",
+      "last_performance": "10. srpna 1911"
+    },
+    {
+      "opera": "Lovci perel",
+      "composer": "Georges Bizet",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. ledna 1889",
+      "last_performance": "8. února 1889"
+    },
+    {
+      "opera": "Mislav (opereta)",
+      "composer": "Ivan Zajc",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "26. prosince 1871",
+      "last_performance": "2. ledna 1872"
+    },
+    {
+      "opera": "Montezuma (La Conquista)",
+      "composer": "Lorenzo Ferrero",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. března 2005",
+      "last_performance": "7. dubna 2005"
+    },
+    {
+      "opera": "Mozart a Šikanedr (adaptace Divadelního ředitele)",
+      "composer": "Wolfgang Amadeus Mozart, Ludwig Wilhelm Schneider",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "12. března 1875",
+      "last_performance": "18. března 1875"
+    },
+    {
+      "opera": "Myrrha",
+      "composer": "Ladislav Zavrtal",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "7. listopadu 1886",
+      "last_performance": "22. listopadu 1886"
+    },
+    {
+      "opera": "Nanon, Ninon a Maintenon (opereta)",
+      "composer": "Richard Genée",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "5. června 1878",
+      "last_performance": "17. června 1878"
+    },
+    {
+      "opera": "Natalie",
+      "composer": "Jindřich Hartl",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. června 1887",
+      "last_performance": "5. července 1887"
+    },
+    {
+      "opera": "Nižegorodci",
+      "composer": "Eduard Nápravník",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "5. listopadu 1875",
+      "last_performance": "15. listopadu 1875"
+    },
+    {
+      "opera": "Perdita",
+      "composer": "Josef Nešvera",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "21. května 1897",
+      "last_performance": "1. června 1897"
+    },
+    {
+      "opera": "Pierrot a Violetta aneb Tatrmánek (opereta)",
+      "composer": "Adolphe Adam",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "6. prosince 1867",
+      "last_performance": "26. prosince 1867"
+    },
+    {
+      "opera": "Radhošť",
+      "composer": "Josef Nešvera",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "3. října 1906",
+      "last_performance": "20. října 1906"
+    },
+    {
+      "opera": "Rajská zahrada",
+      "composer": "Emil Němeček",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. ledna 1933",
+      "last_performance": "25. února 1933"
+    },
+    {
+      "opera": "Rektor a generál",
+      "composer": "František Zdeněk Skuherský",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "28. března 1873",
+      "last_performance": "14. dubna 1873"
+    },
+    {
+      "opera": "Starý král",
+      "composer": "Jaroslav Jeremiáš",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "13. dubna 1919",
+      "last_performance": "24. dubna 1919"
+    },
+    {
+      "opera": "Stvoření světa",
+      "composer": "Joseph Haydn",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "15. září 1997",
+      "last_performance": "27. října 1997"
+    },
+    {
+      "opera": "Soumrak bohů",
+      "composer": "Richard Wagner",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. května 2005",
+      "last_performance": "22. května 2005"
+    },
+    {
+      "opera": "Švanda dudák",
+      "composer": "Karel Bendl",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. dubna 1907",
+      "last_performance": "15. května 1907"
+    },
+    {
+      "opera": "Švédové v Praze",
+      "composer": "Jan Nepomuk Škroup",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "22. dubna 1867",
+      "last_performance": "30. dubna 1867"
+    },
+    {
+      "opera": "Vij",
+      "composer": "Karel Moor",
+      "performances": 3,
+      "performances_detail": "3",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "14. července 1903",
+      "last_performance": "21. září 1903"
+    },
+    {
+      "opera": "Záviš z Falkenštejna",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 3,
+      "performances_detail": "3 (3+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "14. října 1877",
+      "last_performance": "19. října 1877"
+    },
+    {
+      "opera": "Antigona",
+      "composer": "Josef Mysliveček",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "1. září 2006",
+      "last_performance": "3. září 2006"
+    },
+    {
+      "opera": "Čarovné housle (opereta)",
+      "composer": "Jacques Offenbach",
+      "performances": 2,
+      "performances_detail": "2 (2+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "18. května 1867",
+      "last_performance": "11. června 1867"
+    },
+    {
+      "opera": "Holubice",
+      "composer": "Charles Gounod",
+      "performances": 2,
+      "performances_detail": "2 (2+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "22. září 1873",
+      "last_performance": "3. října 1873"
+    },
+    {
+      "opera": "Hraběnka Dubarry (opereta)",
+      "composer": "Carl Millöcker",
+      "performances": 2,
+      "performances_detail": "2 (2+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "18. dubna 1880",
+      "last_performance": "19. dubna 1880"
+    },
+    {
+      "opera": "Jan z Paříže",
+      "composer": "François Adrien Boieldieu",
+      "performances": 2,
+      "performances_detail": "2 (2+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "30. dubna 1866",
+      "last_performance": "6. května 1866"
+    },
+    {
+      "opera": "Krakonoš",
+      "composer": "Josef Richard Rozkošný",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. října 1889",
+      "last_performance": "22. října 1889"
+    },
+    {
+      "opera": "Láska tří králů",
+      "composer": "Italo Montemezzi",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "16. dubna 1916",
+      "last_performance": "29. dubna 1916"
+    },
+    {
+      "opera": "Lesův pán",
+      "composer": "Váša Suk",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. dubna 1903",
+      "last_performance": "7. dubna 1903"
+    },
+    {
+      "opera": "Lora",
+      "composer": "František Zdeněk Skuherský",
+      "performances": 2,
+      "performances_detail": "2 (2+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "13. dubna 1868",
+      "last_performance": "13. dubna 1868"
+    },
+    {
+      "opera": "Maria di Rohan",
+      "composer": "Gaetano Donizetti",
+      "performances": 2,
+      "performances_detail": "2 (2+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "14. května 1865",
+      "last_performance": "5. června 1865"
+    },
+    {
+      "opera": "Mikado (opereta)",
+      "composer": "Arthur Sullivan",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "20. září 1903",
+      "last_performance": "25. září 1903"
+    },
+    {
+      "opera": "Mořský geus",
+      "composer": "František Škroup",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. března 2003",
+      "last_performance": "2. června 2003"
+    },
+    {
+      "opera": "Oberon",
+      "composer": "Pavel Vranický",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. dubna 1969",
+      "last_performance": "3. června 1969"
+    },
+    {
+      "opera": "Persefona",
+      "composer": "Igor Stravinskij",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. května 2013",
+      "last_performance": "28. května 2013"
+    },
+    {
+      "opera": "Poslední pokušení",
+      "composer": "Joonas Kokkonen",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. června 2005",
+      "last_performance": "14. června 2005"
+    },
+    {
+      "opera": "Spanilá mlynářka",
+      "composer": "Josef Klička",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. června 1886",
+      "last_performance": "13. června 1886"
+    },
+    {
+      "opera": "Ughlu",
+      "composer": "Adolf Piskáček",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. června 1914",
+      "last_performance": "7. července 1914"
+    },
+    {
+      "opera": "Urvasi",
+      "composer": "Wilhelm Kienzl",
+      "performances": 2,
+      "performances_detail": "2",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "22. května 1889",
+      "last_performance": "27. května 1889"
+    },
+    {
+      "opera": "Zajatá",
+      "composer": "Hynek Vojáček",
+      "performances": 2,
+      "performances_detail": "2 (2+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "13. března 1869",
+      "last_performance": "31. března 1869"
+    },
+    {
+      "opera": "Apollo et Hyacinthus",
+      "composer": "Wolfgang Amadeus Mozart",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. ledna 2006",
+      "last_performance": "29. ledna 2006"
+    },
+    {
+      "opera": "Árie k nezaplacení",
+      "composer": "hans w. koch, Zdeněk Plachý, Jiří Šimáček",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "20. října 2002",
+      "last_performance": "20. října 2002"
+    },
+    {
+      "opera": "Beng!",
+      "composer": "Jiří Doubek",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "18. června 2006",
+      "last_performance": "18. června 2006"
+    },
+    {
+      "opera": "Beze dne a bez noci",
+      "composer": "Roman Z. Novák",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "30. října 2005",
+      "last_performance": "30. října 2005"
+    },
+    {
+      "opera": "Blumfeld – starší mládenec",
+      "composer": "Michael Keprt",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "9. června 2003",
+      "last_performance": "9. června 2003"
+    },
+    {
+      "opera": "Břehy Gangy",
+      "composer": "Michael Keprt",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "9. června 2003",
+      "last_performance": "9. června 2003"
+    },
+    {
+      "opera": "Coronide",
+      "composer": "Vít Zouhar",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. prosince 2004",
+      "last_performance": "5. prosince 2004"
+    },
+    {
+      "opera": "Doktor Pandolfo (opereta)",
+      "composer": "Stanisław Duniecki",
+      "performances": 1,
+      "performances_detail": "1 (1+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "11. prosince 1869",
+      "last_performance": "11. prosince 1869"
+    },
+    {
+      "opera": "Don Juan v pekle",
+      "composer": "Karel Škarka",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. listopadu 2002",
+      "last_performance": "10. listopadu 2002"
+    },
+    {
+      "opera": "Florentinská tragédie",
+      "composer": "Alexander Zemlinsky",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. března 1992",
+      "last_performance": "29. března 1992"
+    },
+    {
+      "opera": "Infantčiny narozeniny (Trpaslík)",
+      "composer": "Alexander Zemlinsky",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "29. března 1992",
+      "last_performance": "29. března 1992"
+    },
+    {
+      "opera": "Lidská tragikomedie",
+      "composer": "Miloš Štědroň mladší",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "23. března 2003",
+      "last_performance": "23. března 2003"
+    },
+    {
+      "opera": "Maloměšťáci",
+      "composer": "Theodor Veidl",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "19. ledna 2006",
+      "last_performance": "19. ledna 2006"
+    },
+    {
+      "opera": "MrTVÁ?",
+      "composer": "Markéta Dvořáková, Ivo Medek",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. října 2004",
+      "last_performance": "17. října 2004"
+    },
+    {
+      "opera": "Mysterium fidei",
+      "composer": "Pavel Smutný",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. března 2004",
+      "last_performance": "27. března 2004"
+    },
+    {
+      "opera": "Náměsíčná",
+      "composer": "Vincenzo Bellini",
+      "performances": 1,
+      "performances_detail": "1 (1+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "7. dubna 1865",
+      "last_performance": "7. dubna 1865"
+    },
+    {
+      "opera": "Noemova potopa",
+      "composer": "Benjamin Britten",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "2. října 2016",
+      "last_performance": "2. října 2016"
+    },
+    {
+      "opera": "Nová země",
+      "composer": "Alois Hába",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "12. prosince 2014",
+      "last_performance": "12. prosince 2014"
+    },
+    {
+      "opera": "Sasíci v Čechách",
+      "composer": "Miroslav Pudlák",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "16. května 2004",
+      "last_performance": "16. května 2004"
+    },
+    {
+      "opera": "Serežán (opereta)",
+      "composer": "Johann Nepomuk Köck (Koeck)",
+      "performances": 1,
+      "performances_detail": "1 (1+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "11. ledna 1863",
+      "last_performance": "11. ledna 1863"
+    },
+    {
+      "opera": "Sokrates",
+      "composer": "Erik Satie",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. května 1925",
+      "last_performance": "17. května 1925"
+    },
+    {
+      "opera": "Šedá myší opera",
+      "composer": "Petr K. Soudek",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "27. února 2005",
+      "last_performance": "27. února 2005"
+    },
+    {
+      "opera": "Šotek (opereta)",
+      "composer": "Stanisław Duniecki",
+      "performances": 1,
+      "performances_detail": "1 (1+0)",
+      "productions": 1,
+      "productions_detail": "1 (1+0)",
+      "first_performance": "8. června 1867",
+      "last_performance": "13. září 1867"
+    },
+    {
+      "opera": "Torso",
+      "composer": "Vít Zouhar, Tomáš Hanzlík",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "5. prosince 2004",
+      "last_performance": "5. prosince 2004"
+    },
+    {
+      "opera": "Yta innocens (Nevinná Yta)",
+      "composer": "Tomáš Hanzlík",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "1. února 2004",
+      "last_performance": "1. února 2004"
+    },
+    {
+      "opera": "Vůl na střeše",
+      "composer": "Darius Milhaud",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "17. května 1925",
+      "last_performance": "17. května 1925"
+    },
+    {
+      "opera": "Žirafí opera",
+      "composer": "Markéta Dvořáková",
+      "performances": 1,
+      "performances_detail": "1",
+      "productions": 1,
+      "productions_detail": "1",
+      "first_performance": "10. listopadu 2002",
+      "last_performance": "10. listopadu 2002"
+    },
+    {
+      "opera": "Le Grand Macabre",
+      "composer": "Györgyi Ligeti",
+      "performances": 0,
+      "performances_detail": "0",
+      "productions": 0,
+      "productions_detail": "0",
+      "first_performance": "17. června 2021",
+      "last_performance": ""
+    },
+    {
+      "opera": "Vzdálený zvuk",
+      "composer": "Franz Schreker",
+      "performances": 0,
+      "performances_detail": "0",
+      "productions": 0,
+      "productions_detail": "0",
+      "first_performance": "8. dubna 2021",
+      "last_performance": ""
+    }
+  ],
+  "meta": {
+    "title": "Opery hrané v Prozatímním a Národním divadle - Free Download",
+    "description": "Seznam oper uvedených v Prozatímním divadle a Národním divadle v Praze se skladatelem, počtem představení a nastudování a daty prvního a posledního uvedení. Contains 614 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Opery hrané v Prozatímním a Národním divadle | ListBase",
+    "seo_description": "Download Opery hrané v Prozatímním a Národním divadle — 614 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 614 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_oper_hraných_v_Prozatímním_a_Národním_divadle"
+    ]
+  }
+}

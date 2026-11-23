@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-23T02:18:56.214Z",
-  "total_datasets": 587,
-  "total_records": 425523,
+  "generated": "2026-11-23T02:19:05.625Z",
+  "total_datasets": 588,
+  "total_records": 426137,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "politics",
@@ -9456,6 +9456,35 @@
         "xlsx": {
           "name": "cs-festivaly-klasicke-hudby_CS.xlsx",
           "size": 9117
+        }
+      }
+    },
+    {
+      "id": "cs-opery-narodni-divadlo",
+      "name": "Opery hrané v Prozatímním a Národním divadle",
+      "category": "music",
+      "record_count": 614,
+      "columns": [
+        "opera",
+        "composer",
+        "performances",
+        "performances_detail",
+        "productions",
+        "productions_detail",
+        "first_performance",
+        "last_performance"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_oper_hraných_v_Prozatímním_a_Národním_divadle",
+      "updated": "2026-11",
+      "size": 187178,
+      "files": {
+        "csv": {
+          "name": "cs-opery-narodni-divadlo_CS.csv",
+          "size": 61000
+        },
+        "xlsx": {
+          "name": "cs-opery-narodni-divadlo_CS.xlsx",
+          "size": 46539
         }
       }
     },
