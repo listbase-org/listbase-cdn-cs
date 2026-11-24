@@ -1,0 +1,312 @@
+{
+  "id": "cs-ustavni-zakony",
+  "name": "Ústavní zákony České republiky",
+  "title": "Ústavní zákony České republiky",
+  "description": "Seznam ústavních zákonů tvořících ústavní pořádek České republiky s číslem ve Sbírce zákonů, rokem, typem předpisu, vydavatelem a názvem (včetně zákonů o změnách státních hranic).",
+  "category": "law",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_ústavních_zákonů_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_ústavních_zákonů_České_republiky",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "law",
+      "label": "Law",
+      "type": "string"
+    },
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "issuer",
+      "label": "Issuer",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "law": "102/1930 Sb.",
+      "number": 102,
+      "year": 1930,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o úpravě státních hranic s Německem, Rakouskem a Maďarskem"
+    },
+    {
+      "law": "205/1936 Sb.",
+      "number": 205,
+      "year": 1936,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o úpravě státních hranic s Německem"
+    },
+    {
+      "law": "62/1958 Sb.",
+      "number": 62,
+      "year": 1958,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o konečném vytyčení státních hranic s Polskou lidovou republikou"
+    },
+    {
+      "law": "30/1974 Sb.",
+      "number": 30,
+      "year": 1974,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon České národní rady",
+      "title": "o souhlasu ke změnám hranic České socialistické republiky"
+    },
+    {
+      "law": "66/1974 Sb.",
+      "number": 66,
+      "year": 1974,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o změnách státních hranic s Rakouskou republikou"
+    },
+    {
+      "law": "121/1981 Sb.",
+      "number": 121,
+      "year": 1981,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon České národní rady",
+      "title": "o souhlasu ke změnám hranic České socialistické republiky s Německou demokratickou republikou"
+    },
+    {
+      "law": "37/1982 Sb.",
+      "number": 37,
+      "year": 1982,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o změnách státních hranic s Německou demokratickou republikou"
+    },
+    {
+      "law": "43/1988 Sb.",
+      "number": 43,
+      "year": 1988,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon České národní rady",
+      "title": "o souhlasu ke změnám hranic České socialistické republiky na hraničních vodních tocích s Polskou lidovou republikou"
+    },
+    {
+      "law": "169/1988 Sb.",
+      "number": 169,
+      "year": 1988,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o změnách průběhu státních hranic na hraničních vodních tocích s Polskou lidovou republikou"
+    },
+    {
+      "law": "1/1993 Sb.",
+      "number": 1,
+      "year": 1993,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon České národní rady",
+      "title": "Ústava České republiky"
+    },
+    {
+      "law": "2/1993 Sb.",
+      "number": 2,
+      "year": 1993,
+      "type": "usnesení",
+      "issuer": "Usnesení předsednictva České národní rady",
+      "title": "o vyhlášení LISTINY ZÁKLADNÍCH PRÁV A SVOBOD jako součásti ústavního pořádku České republiky"
+    },
+    {
+      "law": "4/1993 Sb.",
+      "number": 4,
+      "year": 1993,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon České národní rady",
+      "title": "o opatřeních souvisejících se zánikem České a Slovenské Federativní Republiky"
+    },
+    {
+      "law": "29/1993 Sb.",
+      "number": 29,
+      "year": 1993,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon České národní rady",
+      "title": "o některých dalších opatřeních souvisejících se zánikem České a Slovenské Federativní Republiky"
+    },
+    {
+      "law": "74/1997 Sb.",
+      "number": 74,
+      "year": 1997,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o změnách státních hranic se Slovenskou republikou"
+    },
+    {
+      "law": "347/1997 Sb.",
+      "number": 347,
+      "year": 1997,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky"
+    },
+    {
+      "law": "69/1998 Sb.",
+      "number": 69,
+      "year": 1998,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o zkrácení volebního období Poslanecké sněmovny"
+    },
+    {
+      "law": "110/1998 Sb.",
+      "number": 110,
+      "year": 1998,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o bezpečnosti České republiky"
+    },
+    {
+      "law": "162/1998 Sb.",
+      "number": 162,
+      "year": 1998,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění Listina základních práv a svobod"
+    },
+    {
+      "law": "300/2000 Sb.",
+      "number": 300,
+      "year": 2000,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění ústavního zákona č. 347/1997 Sb., a ústavní zákon č. 110/1998 Sb., o bezpečnosti České republiky"
+    },
+    {
+      "law": "176/2001 Sb.",
+      "number": 176,
+      "year": 2001,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon č. 347/1997 Sb., o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky"
+    },
+    {
+      "law": "395/2001 Sb.",
+      "number": 395,
+      "year": 2001,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon České národní rady č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších předpisů"
+    },
+    {
+      "law": "448/2001 Sb.",
+      "number": 448,
+      "year": 2001,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění ústavního zákona č. 347/1997 Sb., ústavního zákona č. 300/2000 Sb. a ústavního zákona č. 395/2001 Sb."
+    },
+    {
+      "law": "515/2002 Sb.",
+      "number": 515,
+      "year": 2002,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o referendu o přistoupení České republiky k Evropské unii a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů"
+    },
+    {
+      "law": "76/2004 Sb.",
+      "number": 76,
+      "year": 2004,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o změnách státních hranic s Rakouskou republikou"
+    },
+    {
+      "law": "633/2004 Sb.",
+      "number": 633,
+      "year": 2004,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o změně státních hranic se Spolkovou republikou Německo"
+    },
+    {
+      "law": "195/2009 Sb.",
+      "number": 195,
+      "year": 2009,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o zkrácení pátého volebního období Poslanecké sněmovny"
+    },
+    {
+      "law": "319/2009 Sb.",
+      "number": 319,
+      "year": 2009,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů"
+    },
+    {
+      "law": "135/2011 Sb.",
+      "number": 135,
+      "year": 2011,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon č. 347/1997 Sb., o vytvoření vyšších územních samosprávných celků a o změně ústavního zákona České národní rady č. 1/1993 Sb., Ústava České republiky, ve znění ústavního zákona č. 176/2001 Sb."
+    },
+    {
+      "law": "71/2012 Sb.",
+      "number": 71,
+      "year": 2012,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů"
+    },
+    {
+      "law": "235/2012 Sb.",
+      "number": 235,
+      "year": 2012,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "o změnách státních hranic s Rakouskou republikou"
+    },
+    {
+      "law": "98/2013 Sb.",
+      "number": 98,
+      "year": 2013,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění ústavní zákon č. 1/1993 Sb., Ústava České republiky, ve znění pozdějších ústavních zákonů"
+    },
+    {
+      "law": "295/2021 Sb.",
+      "number": 295,
+      "year": 2021,
+      "type": "ústavní zákon",
+      "issuer": "Ústavní zákon",
+      "title": "kterým se mění Listina základních práv a svobod, ve znění ústavního zákona č. 162/1998 Sb."
+    }
+  ],
+  "meta": {
+    "title": "Ústavní zákony České republiky - Free Download",
+    "description": "Seznam ústavních zákonů tvořících ústavní pořádek České republiky s číslem ve Sbírce zákonů, rokem, typem předpisu, vydavatelem a názvem (včetně zákonů o změnách státních hranic). Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ústavní zákony České republiky | ListBase",
+    "seo_description": "Download Ústavní zákony České republiky — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_ústavních_zákonů_České_republiky"
+    ]
+  }
+}
