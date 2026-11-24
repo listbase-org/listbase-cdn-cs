@@ -1,0 +1,496 @@
+{
+  "id": "cs-nejbohatsi-lide-cesko",
+  "name": "Nejbohatší lidé v Česku (2026)",
+  "title": "Nejbohatší lidé v Česku (2026)",
+  "description": "Žebříček nejbohatších Čechů podle odhadů majetku časopisů Euro, Forbes ČR a SR a deníku E15 za rok 2026 v miliardách Kč se zdrojem bohatství.",
+  "category": "economy",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_nejbohatších_lidí_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_nejbohatších_lidí_v_Česku",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "wealth_euro_bn_czk",
+      "label": "Wealth Euro Bn Czk",
+      "type": "number"
+    },
+    {
+      "key": "wealth_forbes_bn_czk",
+      "label": "Wealth Forbes Bn Czk",
+      "type": "number"
+    },
+    {
+      "key": "wealth_e15_bn_czk",
+      "label": "Wealth E15 Bn Czk",
+      "type": "number"
+    },
+    {
+      "key": "source_of_wealth",
+      "label": "Source Of Wealth",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Michal Strnad",
+      "wealth_euro_bn_czk": 470,
+      "wealth_forbes_bn_czk": 533,
+      "wealth_e15_bn_czk": 347,
+      "source_of_wealth": "Czechoslovak Group"
+    },
+    {
+      "rank": 2,
+      "name": "Daniel Křetínský",
+      "wealth_euro_bn_czk": 432,
+      "wealth_forbes_bn_czk": 381,
+      "wealth_e15_bn_czk": 480,
+      "source_of_wealth": "Energetický a průmyslový holding"
+    },
+    {
+      "rank": 3,
+      "name": "Renáta Kellnerová s rodinou",
+      "wealth_euro_bn_czk": 385,
+      "wealth_forbes_bn_czk": 466,
+      "wealth_e15_bn_czk": 405,
+      "source_of_wealth": "PPF Group"
+    },
+    {
+      "rank": 4,
+      "name": "Karel Komárek ml.",
+      "wealth_euro_bn_czk": 275,
+      "wealth_forbes_bn_czk": 338,
+      "wealth_e15_bn_czk": 252,
+      "source_of_wealth": "KKCG, Allwyn"
+    },
+    {
+      "rank": 5,
+      "name": "Patrik Tkáč",
+      "wealth_euro_bn_czk": 220,
+      "wealth_forbes_bn_czk": 2.1,
+      "wealth_e15_bn_czk": 213,
+      "source_of_wealth": "J&T Private Equity Group"
+    },
+    {
+      "rank": 6,
+      "name": "Pavel Tykač",
+      "wealth_euro_bn_czk": 190,
+      "wealth_forbes_bn_czk": 188,
+      "wealth_e15_bn_czk": 110,
+      "source_of_wealth": "Sev.en Energy"
+    },
+    {
+      "rank": 7,
+      "name": "Radovan Vítek",
+      "wealth_euro_bn_czk": 116,
+      "wealth_forbes_bn_czk": 121,
+      "wealth_e15_bn_czk": 139,
+      "source_of_wealth": "CPI Group"
+    },
+    {
+      "rank": 8,
+      "name": "Andrej Babiš s rodinou",
+      "wealth_euro_bn_czk": 83.5,
+      "wealth_forbes_bn_czk": 96,
+      "wealth_e15_bn_czk": 111,
+      "source_of_wealth": "Agrofert"
+    },
+    {
+      "rank": 9,
+      "name": "Jozef Tkáč",
+      "wealth_euro_bn_czk": 76,
+      "wealth_forbes_bn_czk": "",
+      "wealth_e15_bn_czk": "",
+      "source_of_wealth": "J&T Finance Group holding"
+    },
+    {
+      "rank": 10,
+      "name": "Ivan Jakabovič",
+      "wealth_euro_bn_czk": 66,
+      "wealth_forbes_bn_czk": 1.59,
+      "wealth_e15_bn_czk": 105,
+      "source_of_wealth": "J&T Finance Group holding"
+    },
+    {
+      "rank": 11,
+      "name": "Aleš Zavoral",
+      "wealth_euro_bn_czk": 58,
+      "wealth_forbes_bn_czk": 65,
+      "wealth_e15_bn_czk": 60,
+      "source_of_wealth": "Alza.cz"
+    },
+    {
+      "rank": 12,
+      "name": "Martin Drda a Ludmila Drdová",
+      "wealth_euro_bn_czk": 56.5,
+      "wealth_forbes_bn_czk": 86.5,
+      "wealth_e15_bn_czk": 109,
+      "source_of_wealth": "STV Group"
+    },
+    {
+      "rank": 13,
+      "name": "Marek Dospiva s rodinou",
+      "wealth_euro_bn_czk": 56,
+      "wealth_forbes_bn_czk": 56,
+      "wealth_e15_bn_czk": 63,
+      "source_of_wealth": "Penta Investments"
+    },
+    {
+      "rank": 13,
+      "name": "Jaroslav Haščák s rodinou",
+      "wealth_euro_bn_czk": 56,
+      "wealth_forbes_bn_czk": 2,
+      "wealth_e15_bn_czk": 62,
+      "source_of_wealth": "Penta Investments"
+    },
+    {
+      "rank": 15,
+      "name": "Pavel Baudiš",
+      "wealth_euro_bn_czk": 54,
+      "wealth_forbes_bn_czk": 47.5,
+      "wealth_e15_bn_czk": 54,
+      "source_of_wealth": "AVAST Software"
+    },
+    {
+      "rank": 16,
+      "name": "Tomáš Chrenek s rodinou",
+      "wealth_euro_bn_czk": 52,
+      "wealth_forbes_bn_czk": 52,
+      "wealth_e15_bn_czk": 47,
+      "source_of_wealth": "Moravia Steel, Agel"
+    },
+    {
+      "rank": 17,
+      "name": "Dušan Kunovský",
+      "wealth_euro_bn_czk": 50.5,
+      "wealth_forbes_bn_czk": 48,
+      "wealth_e15_bn_czk": 49,
+      "source_of_wealth": "Central Group"
+    },
+    {
+      "rank": 18,
+      "name": "Jan Vild",
+      "wealth_euro_bn_czk": 47.5,
+      "wealth_forbes_bn_czk": 40,
+      "wealth_e15_bn_czk": 45,
+      "source_of_wealth": "BTL"
+    },
+    {
+      "rank": 19,
+      "name": "Romuald Kopún",
+      "wealth_euro_bn_czk": 45.5,
+      "wealth_forbes_bn_czk": 21.5,
+      "wealth_e15_bn_czk": 10,
+      "source_of_wealth": "Fio banka"
+    },
+    {
+      "rank": 19,
+      "name": "Petr Marsa",
+      "wealth_euro_bn_czk": 45.5,
+      "wealth_forbes_bn_czk": 21.7,
+      "wealth_e15_bn_czk": 10,
+      "source_of_wealth": "Fio banka"
+    },
+    {
+      "rank": 21,
+      "name": "Petr Kellner ml.",
+      "wealth_euro_bn_czk": 43,
+      "wealth_forbes_bn_czk": 45,
+      "wealth_e15_bn_czk": 44,
+      "source_of_wealth": "PPF Group"
+    },
+    {
+      "rank": 22,
+      "name": "Jaromír Tesař",
+      "wealth_euro_bn_czk": 42,
+      "wealth_forbes_bn_czk": 57.5,
+      "wealth_e15_bn_czk": 58,
+      "source_of_wealth": "Energo-Pro"
+    },
+    {
+      "rank": 23,
+      "name": "Richard Háva s rodinou",
+      "wealth_euro_bn_czk": 38,
+      "wealth_forbes_bn_czk": 37,
+      "wealth_e15_bn_czk": 34,
+      "source_of_wealth": "Omnipol"
+    },
+    {
+      "rank": 24,
+      "name": "Petr Otava s rodinou",
+      "wealth_euro_bn_czk": 36,
+      "wealth_forbes_bn_czk": 27.5,
+      "wealth_e15_bn_czk": 26,
+      "source_of_wealth": "MTX Group"
+    },
+    {
+      "rank": 25,
+      "name": "Ivan Chrenko",
+      "wealth_euro_bn_czk": 35.2,
+      "wealth_forbes_bn_czk": 1.68,
+      "wealth_e15_bn_czk": 34,
+      "source_of_wealth": "HB Reavis"
+    },
+    {
+      "rank": 26,
+      "name": "René Holeček",
+      "wealth_euro_bn_czk": 32,
+      "wealth_forbes_bn_czk": 32.1,
+      "wealth_e15_bn_czk": 33,
+      "source_of_wealth": "Colt CZ Group"
+    },
+    {
+      "rank": 27,
+      "name": "Jiří Šmejc",
+      "wealth_euro_bn_czk": 31.5,
+      "wealth_forbes_bn_czk": 33,
+      "wealth_e15_bn_czk": 48,
+      "source_of_wealth": "Emma Capital, Home Credit"
+    },
+    {
+      "rank": 28,
+      "name": "Ivo Lukačovič",
+      "wealth_euro_bn_czk": 31,
+      "wealth_forbes_bn_czk": 17,
+      "wealth_e15_bn_czk": 18,
+      "source_of_wealth": "Seznam.cz"
+    },
+    {
+      "rank": 28,
+      "name": "Karel Pražák",
+      "wealth_euro_bn_czk": 31,
+      "wealth_forbes_bn_czk": 25,
+      "wealth_e15_bn_czk": 31,
+      "source_of_wealth": "Kaprain Holdings"
+    },
+    {
+      "rank": 30,
+      "name": "Zdeněk Cendra",
+      "wealth_euro_bn_czk": 30.5,
+      "wealth_forbes_bn_czk": 37.3,
+      "wealth_e15_bn_czk": 36,
+      "source_of_wealth": "DataCamp Limited"
+    },
+    {
+      "rank": 31,
+      "name": "Pavel Hubáček s rodinou",
+      "wealth_euro_bn_czk": 29.9,
+      "wealth_forbes_bn_czk": 27.9,
+      "wealth_e15_bn_czk": 29,
+      "source_of_wealth": "Creditas"
+    },
+    {
+      "rank": 32,
+      "name": "Petr Kratochvíl",
+      "wealth_euro_bn_czk": 26.7,
+      "wealth_forbes_bn_czk": "",
+      "wealth_e15_bn_czk": "",
+      "source_of_wealth": "CSG, MSM Group"
+    },
+    {
+      "rank": 33,
+      "name": "Eduard Kučera",
+      "wealth_euro_bn_czk": 26.5,
+      "wealth_forbes_bn_czk": 30.1,
+      "wealth_e15_bn_czk": 34,
+      "source_of_wealth": "AVAST Software"
+    },
+    {
+      "rank": 34,
+      "name": "Martin Hájek",
+      "wealth_euro_bn_czk": 25.5,
+      "wealth_forbes_bn_czk": 25,
+      "wealth_e15_bn_czk": 29,
+      "source_of_wealth": "Livesport"
+    },
+    {
+      "rank": 35,
+      "name": "Milan Fiľo",
+      "wealth_euro_bn_czk": 25.3,
+      "wealth_forbes_bn_czk": "",
+      "wealth_e15_bn_czk": 23,
+      "source_of_wealth": "Eco-Investment"
+    },
+    {
+      "rank": 36,
+      "name": "Vít Kutnar a Petra Kutnarová",
+      "wealth_euro_bn_czk": 23.2,
+      "wealth_forbes_bn_czk": 32.5,
+      "wealth_e15_bn_czk": 16,
+      "source_of_wealth": "DEK"
+    },
+    {
+      "rank": 37,
+      "name": "Jitka Komárková",
+      "wealth_euro_bn_czk": 22,
+      "wealth_forbes_bn_czk": 13,
+      "wealth_e15_bn_czk": 14,
+      "source_of_wealth": "Bonatrans Group"
+    },
+    {
+      "rank": 38,
+      "name": "Tomáš Němec",
+      "wealth_euro_bn_czk": 21.3,
+      "wealth_forbes_bn_czk": 17.5,
+      "wealth_e15_bn_czk": 20,
+      "source_of_wealth": "Consillium"
+    },
+    {
+      "rank": 39,
+      "name": "Michal Zámec",
+      "wealth_euro_bn_czk": 19.8,
+      "wealth_forbes_bn_czk": 18,
+      "wealth_e15_bn_czk": 14,
+      "source_of_wealth": "Notino"
+    },
+    {
+      "rank": 40,
+      "name": "Pavel Bouška",
+      "wealth_euro_bn_czk": 19.5,
+      "wealth_forbes_bn_czk": 22.1,
+      "wealth_e15_bn_czk": 21,
+      "source_of_wealth": "Vafo Group"
+    },
+    {
+      "rank": 41,
+      "name": "Zdeněk Bakala",
+      "wealth_euro_bn_czk": 19,
+      "wealth_forbes_bn_czk": 18,
+      "wealth_e15_bn_czk": "",
+      "source_of_wealth": "LBM Group"
+    },
+    {
+      "rank": 42,
+      "name": "Ondřej Tomek",
+      "wealth_euro_bn_czk": 17.5,
+      "wealth_forbes_bn_czk": 34,
+      "wealth_e15_bn_czk": 34,
+      "source_of_wealth": "Coober Fund, Impulse Ventures"
+    },
+    {
+      "rank": 43,
+      "name": "Ján Moder s rodinou",
+      "wealth_euro_bn_czk": 17,
+      "wealth_forbes_bn_czk": "",
+      "wealth_e15_bn_czk": 12,
+      "source_of_wealth": "Moravia Steel"
+    },
+    {
+      "rank": 44,
+      "name": "Mária Blašková s rodinou",
+      "wealth_euro_bn_czk": 16.3,
+      "wealth_forbes_bn_czk": "",
+      "wealth_e15_bn_czk": 12,
+      "source_of_wealth": "Moravia Steel"
+    },
+    {
+      "rank": 45,
+      "name": "Evžen Balko s rodinou",
+      "wealth_euro_bn_czk": 16.2,
+      "wealth_forbes_bn_czk": "",
+      "wealth_e15_bn_czk": 13,
+      "source_of_wealth": "Moravia Steel"
+    },
+    {
+      "rank": 46,
+      "name": "Oldřich Šlemr",
+      "wealth_euro_bn_czk": 15.5,
+      "wealth_forbes_bn_czk": 23,
+      "wealth_e15_bn_czk": 21,
+      "source_of_wealth": "R2G"
+    },
+    {
+      "rank": 47,
+      "name": "Tomáš Čupr",
+      "wealth_euro_bn_czk": 15.4,
+      "wealth_forbes_bn_czk": 16.2,
+      "wealth_e15_bn_czk": 18,
+      "source_of_wealth": "Rohlik.cz"
+    },
+    {
+      "rank": 48,
+      "name": "Ivan Zach",
+      "wealth_euro_bn_czk": 15.3,
+      "wealth_forbes_bn_czk": 10.4,
+      "wealth_e15_bn_czk": "",
+      "source_of_wealth": "GES Media Europe"
+    },
+    {
+      "rank": 49,
+      "name": "Peter Korbačka",
+      "wealth_euro_bn_czk": 15,
+      "wealth_forbes_bn_czk": "",
+      "wealth_e15_bn_czk": 59,
+      "source_of_wealth": "Eurovea, J&T"
+    },
+    {
+      "rank": 50,
+      "name": "Gerald Rausnitz",
+      "wealth_euro_bn_czk": 15,
+      "wealth_forbes_bn_czk": 15,
+      "wealth_e15_bn_czk": 16,
+      "source_of_wealth": "Meopta"
+    },
+    {
+      "rank": 51,
+      "name": "Zdeněk Šoustal",
+      "wealth_euro_bn_czk": 14.3,
+      "wealth_forbes_bn_czk": 23.1,
+      "wealth_e15_bn_czk": 24,
+      "source_of_wealth": "Accolade Holding"
+    },
+    {
+      "rank": 52,
+      "name": "Jaroslav Nosek",
+      "wealth_euro_bn_czk": 13.6,
+      "wealth_forbes_bn_czk": 15,
+      "wealth_e15_bn_czk": 19,
+      "source_of_wealth": "Tipsport"
+    },
+    {
+      "rank": 52,
+      "name": "Jiří Šimáně",
+      "wealth_euro_bn_czk": 13.6,
+      "wealth_forbes_bn_czk": 14.1,
+      "wealth_e15_bn_czk": "",
+      "source_of_wealth": "Unimex Group"
+    },
+    {
+      "rank": "-",
+      "name": "Jaroslav Strnad",
+      "wealth_euro_bn_czk": "",
+      "wealth_forbes_bn_czk": 19.7,
+      "wealth_e15_bn_czk": 18,
+      "source_of_wealth": "Strnad Holding"
+    },
+    {
+      "rank": "-",
+      "name": "Petr Dědek",
+      "wealth_euro_bn_czk": "",
+      "wealth_forbes_bn_czk": 18.7,
+      "wealth_e15_bn_czk": 16,
+      "source_of_wealth": "D+D Group"
+    }
+  ],
+  "meta": {
+    "title": "Nejbohatší lidé v Česku (2026) - Free Download",
+    "description": "Žebříček nejbohatších Čechů podle odhadů majetku časopisů Euro, Forbes ČR a SR a deníku E15 za rok 2026 v miliardách Kč se zdrojem bohatství. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nejbohatší lidé v Česku (2026) | ListBase",
+    "seo_description": "Download Nejbohatší lidé v Česku (2026) — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_nejbohatších_lidí_v_Česku"
+    ]
+  }
+}

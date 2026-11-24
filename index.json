@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-23T02:19:14.930Z",
-  "total_datasets": 589,
-  "total_records": 426180,
+  "generated": "2026-11-24T02:07:57.264Z",
+  "total_datasets": 590,
+  "total_records": 426235,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "education",
@@ -1695,6 +1695,33 @@
         "xlsx": {
           "name": "cs-ministri-prumyslu-a-obchodu_CS.xlsx",
           "size": 9350
+        }
+      }
+    },
+    {
+      "id": "cs-nejbohatsi-lide-cesko",
+      "name": "Nejbohatší lidé v Česku (2026)",
+      "category": "economy",
+      "record_count": 55,
+      "columns": [
+        "rank",
+        "name",
+        "wealth_euro_bn_czk",
+        "wealth_forbes_bn_czk",
+        "wealth_e15_bn_czk",
+        "source_of_wealth"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_nejbohatších_lidí_v_Česku",
+      "updated": "2026-11",
+      "size": 13264,
+      "files": {
+        "csv": {
+          "name": "cs-nejbohatsi-lide-cesko_CS.csv",
+          "size": 3216
+        },
+        "xlsx": {
+          "name": "cs-nejbohatsi-lide-cesko_CS.xlsx",
+          "size": 9551
         }
       }
     },
