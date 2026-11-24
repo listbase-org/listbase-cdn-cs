@@ -1,0 +1,303 @@
+{
+  "id": "cs-nematerialni-kulturni-dedictvi",
+  "name": "Nemateriální kulturní dědictví České republiky",
+  "title": "Nemateriální kulturní dědictví České republiky",
+  "description": "Seznam nemateriálních statků tradiční lidové kultury České republiky (zvyky, řemesla, slavnosti) s pořadovým číslem, navrhovatelem, krajskými seznamy a rokem zápisu.",
+  "category": "culture",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_nemateriálního_kulturního_dědictví_České_republiky",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_nemateriálního_kulturního_dědictví_České_republiky",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "item_no",
+      "label": "Item No",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "nominated_by",
+      "label": "Nominated By",
+      "type": "string"
+    },
+    {
+      "key": "regional_lists",
+      "label": "Regional Lists",
+      "type": "string"
+    },
+    {
+      "key": "year_listed",
+      "label": "Year Listed",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "item_no": "1/2009",
+      "name": "Slovácký verbuňk",
+      "nominated_by": "Národní ústav lidové kultury ve Strážnici",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Zlínského kraje, Seznam nemateriálních statků tradiční lidové kultury Jihomoravského kraje",
+      "year_listed": 2009
+    },
+    {
+      "item_no": "2/2009",
+      "name": "Vesnické masopustní obchůzky a masky na Hlinecku",
+      "nominated_by": "NPÚ – SLS Vysočina, Hlinsko",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Pardubického kraje",
+      "year_listed": 2009
+    },
+    {
+      "item_no": "3/2009",
+      "name": "Jízdy králů na Slovácku",
+      "nominated_by": "Národní ústav lidové kultury ve Strážnici",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Zlínského kraje, Seznam nemateriálních statků tradiční lidové kultury Olomouckého kraje, Seznam nemateriálních statků tradiční lidové kultury Jihomoravského kraje",
+      "year_listed": 2009
+    },
+    {
+      "item_no": "4/2009",
+      "name": "Sokolnictví – umění chovu dravců, jejich ochrany, výcviku a lovu s nimi",
+      "nominated_by": "Ministerstvo zemědělství",
+      "regional_lists": "",
+      "year_listed": 2009
+    },
+    {
+      "item_no": "5/2011",
+      "name": "Myslivost – plánovitě trvale udržitelné obhospodařování zvěře a jejího prostředí jako přirozená součást života na venkově",
+      "nominated_by": "Českomoravská myslivecká jednota",
+      "regional_lists": "",
+      "year_listed": 2011
+    },
+    {
+      "item_no": "6/2012",
+      "name": "Valašský odzemek",
+      "nominated_by": "Valašské muzeum v přírodě v Rožnově pod Radhoštěm",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Zlínského kraje",
+      "year_listed": 2012
+    },
+    {
+      "item_no": "7/2012",
+      "name": "Vodění jidáše",
+      "nominated_by": "Národní památkový ústav, ú.o.p. Pardubice",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Pardubického kraje",
+      "year_listed": 2012
+    },
+    {
+      "item_no": "8/2012",
+      "name": "Východočeské loutkářství",
+      "nominated_by": "Královéhradecký kraj, Pardubický kraj",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Královéhradeckého kraje, Seznam nemateriálních statků tradiční lidové kultury Pardubického kraje",
+      "year_listed": 2012
+    },
+    {
+      "item_no": "9/2013",
+      "name": "Běh o Barchan",
+      "nominated_by": "Město Jemnice",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Kraje Vysočina",
+      "year_listed": 2013
+    },
+    {
+      "item_no": "10/2014",
+      "name": "Technologie výroby modrotisku",
+      "nominated_by": "Národní ústav lidové kultury ve Strážnici",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihomoravského kraje",
+      "year_listed": 2014
+    },
+    {
+      "item_no": "11/2014",
+      "name": "Tradiční léčebné procedury a odkaz V. Priessnitze",
+      "nominated_by": "Olomoucký kraj",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Olomouckého kraje",
+      "year_listed": 2014
+    },
+    {
+      "item_no": "12/2014",
+      "name": "České loutkářství – lidové interpretační umění",
+      "nominated_by": "Národní informační a poradenské středisko pro kulturu, Praha",
+      "regional_lists": "Krajský seznam nemateriálních statků tradiční lidové kultury v hlavním městě Praze, Seznam nemateriálních statků tradiční lidové kultury Libereckého kraje",
+      "year_listed": 2014
+    },
+    {
+      "item_no": "13/2015",
+      "name": "Betlémská cesta v Třešti",
+      "nominated_by": "Muzeum Vysočiny Třebíč",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Kraje Vysočina",
+      "year_listed": 2015
+    },
+    {
+      "item_no": "14/2015",
+      "name": "Lidová tradice výroby vánočních ozdob ze skleněných perliček",
+      "nominated_by": "Muzeum Českého ráje v Turnově",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Libereckého kraje",
+      "year_listed": 2015
+    },
+    {
+      "item_no": "15/2016",
+      "name": "Skřipácká muzika na Jihlavsku",
+      "nominated_by": "Muzeum Vysočiny Třebíč",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Kraje Vysočina",
+      "year_listed": 2016
+    },
+    {
+      "item_no": "16/2016",
+      "name": "Velikonoční obchůzky s Jidáši na Bučovicku",
+      "nominated_by": "Masarykovo muzeum v Hodoníně",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihomoravského kraje",
+      "year_listed": 2016
+    },
+    {
+      "item_no": "17/2017",
+      "name": "Historický morový průvod v Brtnici",
+      "nominated_by": "Muzeum Vysočiny Třebíč",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Kraje Vysočina",
+      "year_listed": 2017
+    },
+    {
+      "item_no": "18/2017",
+      "name": "Milevské maškary",
+      "nominated_by": "Maškarní sdružení, spolek pro udržování tradic v Milevsku",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihočeského kraje",
+      "year_listed": 2017
+    },
+    {
+      "item_no": "19/2017",
+      "name": "Ochotnické divadlo v České republice",
+      "nominated_by": "Národní informační a poradenské středisko pro kulturu, Praha",
+      "regional_lists": "",
+      "year_listed": 2017
+    },
+    {
+      "item_no": "20/2017",
+      "name": "Ruční výroba masopustních masek v Zákupech",
+      "nominated_by": "Muzeum Českého ráje v Turnově",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Libereckého kraje",
+      "year_listed": 2017
+    },
+    {
+      "item_no": "21/2017",
+      "name": "Velikonoční slavnosti Matiček a Ježíškových Matiček na Hané",
+      "nominated_by": "Olomoucký kraj",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Olomouckého kraje",
+      "year_listed": 2017
+    },
+    {
+      "item_no": "22/2017",
+      "name": "Tradice vorařství na řece Vltavě",
+      "nominated_by": "Vltavan Čechy",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihočeského kraje, Seznam nemateriálních statků tradiční lidové kultury Středočeského kraje, Krajský seznam nemateriálních statků tradiční lidové kultury v hlavním městě Praze",
+      "year_listed": 2017
+    },
+    {
+      "item_no": "23/2018",
+      "name": "Technologie pivovarnického bednářství",
+      "nominated_by": "Plzeňský Prazdroj, a.s.",
+      "regional_lists": "",
+      "year_listed": 2018
+    },
+    {
+      "item_no": "24/2018",
+      "name": "Technologie tkaní činovati na Horňácku",
+      "nominated_by": "Národní ústav lidové kultury ve Strážnici",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihomoravského kraje",
+      "year_listed": 2018
+    },
+    {
+      "item_no": "25/2018",
+      "name": "Dudácká tradice v ČR",
+      "nominated_by": "Národní ústav lidové kultury ve Strážnici",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Plzeňského kraje",
+      "year_listed": 2018
+    },
+    {
+      "item_no": "26/2018",
+      "name": "Ruční výroba žinylkových textilií v Hlinsku",
+      "nominated_by": "Pardubický kraj a NPÚ – SLS Vysočina, Hlinsko",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Pardubického kraje",
+      "year_listed": 2018
+    },
+    {
+      "item_no": "27/2019",
+      "name": "Tradice krajkářství na Vamberecku",
+      "nominated_by": "Královéhradecký kraj",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Královéhradeckého kraje",
+      "year_listed": 2019
+    },
+    {
+      "item_no": "28/2019",
+      "name": "Tradiční hody s právem na Uherskohradišťsku",
+      "nominated_by": "Slovácké muzeum, Uherské Hradiště",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Zlínského kraje",
+      "year_listed": 2019
+    },
+    {
+      "item_no": "29/2021",
+      "name": "Ruční výroba českého skla",
+      "nominated_by": "Muzeum skla a bižuterie, Jablonec nad Nisou",
+      "regional_lists": "",
+      "year_listed": 2021
+    },
+    {
+      "item_no": "30/2021",
+      "name": "Zlatá sobota",
+      "nominated_by": "Masarykovo muzeum v Hodoníně; Moravské zemské muzeum, Brno",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihomoravského kraje",
+      "year_listed": 2021
+    },
+    {
+      "item_no": "31/2022",
+      "name": "Masopustní mečové tance na Uherskobrodsku",
+      "nominated_by": "Slovácké muzeum, Uherské Hradiště",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Zlínského kraje",
+      "year_listed": 2022
+    },
+    {
+      "item_no": "32/2023",
+      "name": "Zavádka na Hanáckém Slovácku",
+      "nominated_by": "Moravské zemské muzeum, Regionální muzeum v Mikulově; Moravské zemské muzeum",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihomoravského kraje",
+      "year_listed": 2023
+    },
+    {
+      "item_no": "33/2023",
+      "name": "Tradice podomáckého broušení drahých kamenů na Turnovsku",
+      "nominated_by": "Muzeum Českého ráje v Turnově",
+      "regional_lists": "",
+      "year_listed": 2023
+    },
+    {
+      "item_no": "34/2024",
+      "name": "Pivní kultura v České republice",
+      "nominated_by": "Český svaz pivovarů a sladoven, z.s.",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Plzeňského kraje, Seznam nemateriálních statků tradiční lidové kultury Jihočeského kraje",
+      "year_listed": 2024
+    },
+    {
+      "item_no": "35/2024",
+      "name": "Hořické pašijové hry",
+      "nominated_by": "Společnost pro zachování Hořických pašijových her, z.s.",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Jihočeského kraje",
+      "year_listed": 2024
+    },
+    {
+      "item_no": "36/2024",
+      "name": "Výroba modrotiskových forem",
+      "nominated_by": "Muzeum východních Čech v Hradci Králové",
+      "regional_lists": "Seznam nemateriálních statků tradiční lidové kultury Královéhradeckého kraje",
+      "year_listed": 2024
+    }
+  ],
+  "meta": {
+    "title": "Nemateriální kulturní dědictví České republiky - Free Download",
+    "description": "Seznam nemateriálních statků tradiční lidové kultury České republiky (zvyky, řemesla, slavnosti) s pořadovým číslem, navrhovatelem, krajskými seznamy a rokem zápisu. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nemateriální kulturní dědictví České republiky | ListBase",
+    "seo_description": "Download Nemateriální kulturní dědictví České republiky — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_nemateriálního_kulturního_dědictví_České_republiky"
+    ]
+  }
+}
