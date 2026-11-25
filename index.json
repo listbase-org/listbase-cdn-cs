@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-24T02:08:15.998Z",
-  "total_datasets": 592,
-  "total_records": 426303,
+  "generated": "2026-11-25T02:11:56.975Z",
+  "total_datasets": 593,
+  "total_records": 426774,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 14
+      "dataset_count": 15
     },
     {
       "id": "transport",
@@ -16407,6 +16407,36 @@
         "xlsx": {
           "name": "cs-penziony_CS.xlsx",
           "size": 113271
+        }
+      }
+    },
+    {
+      "id": "cs-rozhledny",
+      "name": "Rozhledny v Česku",
+      "category": "tourism",
+      "record_count": 471,
+      "columns": [
+        "name",
+        "region",
+        "district",
+        "tower_height_m",
+        "elevation_m",
+        "lat",
+        "lon",
+        "description",
+        "access"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_rozhleden_v_%C4%8Cesku",
+      "updated": "2026-11",
+      "size": 171772,
+      "files": {
+        "csv": {
+          "name": "cs-rozhledny_CS.csv",
+          "size": 90099
+        },
+        "xlsx": {
+          "name": "cs-rozhledny_CS.xlsx",
+          "size": 45650
         }
       }
     },
