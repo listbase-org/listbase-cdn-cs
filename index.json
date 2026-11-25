@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-25T02:11:56.975Z",
-  "total_datasets": 593,
-  "total_records": 426774,
+  "generated": "2026-11-25T02:12:06.423Z",
+  "total_datasets": 594,
+  "total_records": 426801,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "finance",
@@ -2650,6 +2650,31 @@
         "xlsx": {
           "name": "cs-mokrady_CS.xlsx",
           "size": 13507
+        }
+      }
+    },
+    {
+      "id": "cs-netopyri-ceska",
+      "name": "Netopýři Česka",
+      "category": "environment",
+      "record_count": 27,
+      "columns": [
+        "name",
+        "scientific_name",
+        "family",
+        "threat_cz"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_netopýrů_Česka",
+      "updated": "2026-11",
+      "size": 6490,
+      "files": {
+        "csv": {
+          "name": "cs-netopyri-ceska_CS.csv",
+          "size": 2596
+        },
+        "xlsx": {
+          "name": "cs-netopyri-ceska_CS.xlsx",
+          "size": 7779
         }
       }
     },

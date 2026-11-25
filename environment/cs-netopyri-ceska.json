@@ -1,0 +1,208 @@
+{
+  "id": "cs-netopyri-ceska",
+  "name": "Netopýři Česka",
+  "title": "Netopýři Česka",
+  "description": "Seznam druhů netopýrů vyskytujících se v Česku s vědeckým názvem, čeledí a stupněm ohrožení podle české legislativy.",
+  "category": "environment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_netopýrů_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_netopýrů_Česka",
+  "updated": "2026-11",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "threat_cz",
+      "label": "Threat Cz",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "létavec stěhovavý",
+      "scientific_name": "Miniopterus schreibersii",
+      "family": "Létavcovití (Miniopteridae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr černý",
+      "scientific_name": "Barbastella barbastellus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "kriticky ohrožený"
+    },
+    {
+      "name": "netopýr severní",
+      "scientific_name": "Eptesicus nilssonii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr večerní",
+      "scientific_name": "Eptesicus serotinus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr Saviův",
+      "scientific_name": "Hypsugo savii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr alkathoe",
+      "scientific_name": "Myotis alcathoe",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr velkouchý",
+      "scientific_name": "Myotis bechsteinii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr Brandtův",
+      "scientific_name": "Myotis brandtii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr pobřežní",
+      "scientific_name": "Myotis dasycneme",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "kriticky ohrožený"
+    },
+    {
+      "name": "netopýr vodní",
+      "scientific_name": "Myotis daubentonii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr brvitý",
+      "scientific_name": "Myotis emarginatus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "kriticky ohrožený"
+    },
+    {
+      "name": "netopýr velký",
+      "scientific_name": "Myotis myotis",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "kriticky ohrožený"
+    },
+    {
+      "name": "netopýr vousatý",
+      "scientific_name": "Myotis mystacinus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr řasnatý",
+      "scientific_name": "Myotis nattereri",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr obrovský",
+      "scientific_name": "Nyctalus lasiopterus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr stromový",
+      "scientific_name": "Nyctalus leisleri",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr rezavý",
+      "scientific_name": "Nyctalus noctula",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr parkový",
+      "scientific_name": "Pipistrellus nathusii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr hvízdavý",
+      "scientific_name": "Pipistrellus pipistrellus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr nejmenší",
+      "scientific_name": "Pipistrellus pygmaeus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr jižní",
+      "scientific_name": "Pipistrellus kuhlii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr ušatý",
+      "scientific_name": "Plecotus auritus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr dlouhouchý",
+      "scientific_name": "Plecotus austriacus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr pestrý",
+      "scientific_name": "Vespertilio murinus",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "netopýr východní",
+      "scientific_name": "Myotis blythii",
+      "family": "Netopýři (Vespertilionidae)",
+      "threat_cz": "silně ohrožený"
+    },
+    {
+      "name": "vrápenec malý",
+      "scientific_name": "Rhinolophus hipposideros",
+      "family": "Vrápencovití (Rhinolophidae)",
+      "threat_cz": "kriticky ohrožený"
+    },
+    {
+      "name": "vrápenec velký",
+      "scientific_name": "Rhinolophus ferrumequinum",
+      "family": "Vrápencovití (Rhinolophidae)",
+      "threat_cz": "kriticky ohrožený"
+    }
+  ],
+  "meta": {
+    "title": "Netopýři Česka - Free Download",
+    "description": "Seznam druhů netopýrů vyskytujících se v Česku s vědeckým názvem, čeledí a stupněm ohrožení podle české legislativy. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Netopýři Česka | ListBase",
+    "seo_description": "Download Netopýři Česka — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_netopýrů_Česka"
+    ]
+  }
+}
