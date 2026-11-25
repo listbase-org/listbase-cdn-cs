@@ -1,0 +1,1159 @@
+{
+  "id": "cs-lanove-drahy",
+  "name": "Osobní lanové dráhy v Česku",
+  "title": "Osobní lanové dráhy v Česku",
+  "description": "Seznam osobních pozemních a visutých lanových drah (lanovek) v Česku s oblastí, rokem zprovoznění či obnovy, šikmou délkou, převýšením a poznámkami.",
+  "category": "transport",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_lanových_drah_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_lanových_drah_v_Česku",
+  "updated": "2026-11",
+  "record_count": 122,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "opened",
+      "label": "Opened",
+      "type": "number"
+    },
+    {
+      "key": "length_m",
+      "label": "Length M",
+      "type": "number"
+    },
+    {
+      "key": "vertical_m",
+      "label": "Vertical M",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Praha, Letná",
+      "type": "pozemní lanová dráha",
+      "area": "Praha",
+      "opened": "1891",
+      "length_m": 109,
+      "vertical_m": 38,
+      "note": "zrušena 1916, po elektrifikaci v roce 1903 se jednalo o ozubnicovou dráhu"
+    },
+    {
+      "name": "Praha, Petřín",
+      "type": "pozemní lanová dráha",
+      "area": "Praha",
+      "opened": "1891 / 1985",
+      "length_m": 511,
+      "vertical_m": 130,
+      "note": ""
+    },
+    {
+      "name": "Praha, hotel NH",
+      "type": "pozemní lanová dráha",
+      "area": "Praha",
+      "opened": "1996 / 2018",
+      "length_m": 156,
+      "vertical_m": 51,
+      "note": "označována též jako šikmý výtah"
+    },
+    {
+      "name": "Karlovy Vary, Imperial",
+      "type": "pozemní lanová dráha",
+      "area": "Karlovy Vary",
+      "opened": "1907 / 1987",
+      "length_m": 127,
+      "vertical_m": 54,
+      "note": "tunelová lanová dráha"
+    },
+    {
+      "name": "Karlovy Vary, Slovenská – Imperial",
+      "type": "pozemní lanová dráha",
+      "area": "Karlovy Vary",
+      "opened": "1912",
+      "length_m": 126,
+      "vertical_m": 60,
+      "note": "zrušena 1959"
+    },
+    {
+      "name": "Karlovy Vary, Diana",
+      "type": "pozemní lanová dráha",
+      "area": "Karlovy Vary",
+      "opened": "1912 / 1988",
+      "length_m": 453,
+      "vertical_m": 167,
+      "note": ""
+    },
+    {
+      "name": "Karlovy Vary, Tři kříže",
+      "type": "pozemní lanová dráha",
+      "area": "Karlovy Vary",
+      "opened": "rozestavěná 1913–1914",
+      "length_m": 500,
+      "vertical_m": 173,
+      "note": "nedostavěná, podle posledního projektu již mělo jít o ozubnicovou dráhu"
+    },
+    {
+      "name": "Janské Lázně – Černá hora",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1928 / 2006",
+      "length_m": 2307,
+      "vertical_m": 566,
+      "note": "původně kabinová, nyní kabinková"
+    },
+    {
+      "name": "Liberec – Ještěd",
+      "type": "visutá lanová dráha",
+      "area": "Liberec",
+      "opened": "1933 / 1975",
+      "length_m": 1188,
+      "vertical_m": 402,
+      "note": "kabinová, od roku 2021 mimo provoz"
+    },
+    {
+      "name": "Ráztoka – Pustevny",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "1940 / 1986",
+      "length_m": 1637,
+      "vertical_m": 400,
+      "note": ""
+    },
+    {
+      "name": "Špindlerův Mlýn – Pláň",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1947 / 1992 / 2015",
+      "length_m": 1576,
+      "vertical_m": 441,
+      "note": "od 2015 vyhřívaná šestisedačka s bublinou"
+    },
+    {
+      "name": "Pec pod Sněžkou – Růžová hora",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1949 / 2013",
+      "length_m": 1747,
+      "vertical_m": 508,
+      "note": "úsek lanovky Pec pod Sněžkou – Sněžka †"
+    },
+    {
+      "name": "Růžová hora – Sněžka",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1949 / 2014",
+      "length_m": 1969,
+      "vertical_m": 252,
+      "note": "úsek lanovky Pec pod Sněžkou – Sněžka †"
+    },
+    {
+      "name": "Bohosudov – Komáří vížka",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "1952",
+      "length_m": 2348,
+      "vertical_m": 480,
+      "note": ""
+    },
+    {
+      "name": "Transporta Chrudim",
+      "type": "visutá lanová dráha",
+      "area": "Chrudim",
+      "opened": "1952",
+      "length_m": 631,
+      "vertical_m": 16,
+      "note": "zrušena 1972, neveřejná lanovka"
+    },
+    {
+      "name": "Oldřichovice – Javorový vrch",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "1957",
+      "length_m": 1310,
+      "vertical_m": 424,
+      "note": ""
+    },
+    {
+      "name": "Krasetín – Kleť",
+      "type": "visutá lanová dráha",
+      "area": "Blanský les",
+      "opened": "1961",
+      "length_m": 1792,
+      "vertical_m": 383,
+      "note": ""
+    },
+    {
+      "name": "Jáchymov – Klínovec †",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "1965 / 2014",
+      "length_m": 2168,
+      "vertical_m": 481,
+      "note": "od 2014 čtyřsedačka s bublinou"
+    },
+    {
+      "name": "Velká Úpa – Portášovy Boudy",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1968 / 2005",
+      "length_m": 1464,
+      "vertical_m": 354,
+      "note": ""
+    },
+    {
+      "name": "Špičák – Hofmanova Bouda",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "1970",
+      "length_m": 1483,
+      "vertical_m": 227,
+      "note": "úsek lanovky Špičák – Pancíř"
+    },
+    {
+      "name": "Hofmanova Bouda – Pancíř",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "1970",
+      "length_m": 1256,
+      "vertical_m": 121,
+      "note": "úsek lanovky Špičák – Pancíř"
+    },
+    {
+      "name": "Ramzová – Čerňava †",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "1976 / 2009",
+      "length_m": 1459,
+      "vertical_m": 296,
+      "note": "úsek lanovky Ramzová – Šerák"
+    },
+    {
+      "name": "Čerňava – Šerák",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "1981 / 2010",
+      "length_m": 1810,
+      "vertical_m": 274,
+      "note": "úsek lanovky Ramzová – Šerák"
+    },
+    {
+      "name": "Zoo Praha",
+      "type": "visutá lanová dráha",
+      "area": "Praha",
+      "opened": "1977",
+      "length_m": 106,
+      "vertical_m": 50,
+      "note": ""
+    },
+    {
+      "name": "Špindlerův Mlýn – Medvědín †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1978 / 1994",
+      "length_m": 1912,
+      "vertical_m": 488,
+      "note": ""
+    },
+    {
+      "name": "Zadov – Churáňov",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "1979",
+      "length_m": 906,
+      "vertical_m": 188,
+      "note": ""
+    },
+    {
+      "name": "Frenštát pod Radhoštěm – Horečky",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "1983",
+      "length_m": 278,
+      "vertical_m": 73,
+      "note": ""
+    },
+    {
+      "name": "Harrachov – Čertova hora",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1983 / 2002",
+      "length_m": 1303,
+      "vertical_m": 357,
+      "note": ""
+    },
+    {
+      "name": "Koliba – Krakonoš",
+      "type": "visutá lanová dráha",
+      "area": "Mariánské Lázně",
+      "opened": "1993",
+      "length_m": 587,
+      "vertical_m": 106,
+      "note": "Jediná pulzační gondolová lanovka v ČR."
+    },
+    {
+      "name": "Punkevní jeskyně – Macocha",
+      "type": "visutá lanová dráha",
+      "area": "Moravský kras",
+      "opened": "1995",
+      "length_m": 249,
+      "vertical_m": 131,
+      "note": "kabinová"
+    },
+    {
+      "name": "Špindlerův Mlýn – Pláň Východ",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1995",
+      "length_m": 938,
+      "vertical_m": 307,
+      "note": ""
+    },
+    {
+      "name": "Rokytnice nad Jizerou – Lysá hora †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1996",
+      "length_m": 2198,
+      "vertical_m": 591,
+      "note": ""
+    },
+    {
+      "name": "Rýžoviště – Čertova hora",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1997",
+      "length_m": 894,
+      "vertical_m": 298,
+      "note": ""
+    },
+    {
+      "name": "Herlíkovice – Žalý",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "1999 / 2006",
+      "length_m": 1433,
+      "vertical_m": 416,
+      "note": ""
+    },
+    {
+      "name": "Špindlerův Mlýn – Hromovka †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2000 / 2005",
+      "length_m": 1408,
+      "vertical_m": 334,
+      "note": ""
+    },
+    {
+      "name": "Harrachov – Můstky",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2001",
+      "length_m": 506,
+      "vertical_m": 165,
+      "note": ""
+    },
+    {
+      "name": "Liberec – Černý vrch",
+      "type": "visutá lanová dráha",
+      "area": "Liberec",
+      "opened": "2001 / 2006",
+      "length_m": 808,
+      "vertical_m": 287,
+      "note": ""
+    },
+    {
+      "name": "Kořenov – Rejdice",
+      "type": "visutá lanová dráha",
+      "area": "Jizerské hory",
+      "opened": "2002",
+      "length_m": 662,
+      "vertical_m": 156,
+      "note": ""
+    },
+    {
+      "name": "Ramzová – Ski Arena R3",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2002",
+      "length_m": 560,
+      "vertical_m": 80,
+      "note": ""
+    },
+    {
+      "name": "Černý Důl – Špičák",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2003",
+      "length_m": 1014,
+      "vertical_m": 248,
+      "note": ""
+    },
+    {
+      "name": "Pec pod Sněžkou – Hnědý vrch",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2003",
+      "length_m": 1168,
+      "vertical_m": 317,
+      "note": ""
+    },
+    {
+      "name": "Tanvaldský Špičák 1",
+      "type": "visutá lanová dráha",
+      "area": "Jizerské hory",
+      "opened": "2003",
+      "length_m": 1179,
+      "vertical_m": 270,
+      "note": ""
+    },
+    {
+      "name": "Lipno-Jezerní",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "2003 / 2008",
+      "length_m": 1203,
+      "vertical_m": 161,
+      "note": ""
+    },
+    {
+      "name": "Branná – Větrná",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2004",
+      "length_m": 347,
+      "vertical_m": 88,
+      "note": ""
+    },
+    {
+      "name": "Protěž – Slunečná",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2004",
+      "length_m": 1275,
+      "vertical_m": 299,
+      "note": ""
+    },
+    {
+      "name": "Vítkovice v Krkonoších – Aldrov",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2004",
+      "length_m": 620,
+      "vertical_m": 130,
+      "note": ""
+    },
+    {
+      "name": "Špindlerův Mlýn – Labská",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2005",
+      "length_m": 1319,
+      "vertical_m": 323,
+      "note": ""
+    },
+    {
+      "name": "Železná Ruda – Špičák",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "2005",
+      "length_m": 1273,
+      "vertical_m": 338,
+      "note": ""
+    },
+    {
+      "name": "Herlíkovice – Bubákov",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2005",
+      "length_m": 1120,
+      "vertical_m": 219,
+      "note": ""
+    },
+    {
+      "name": "Vrchlabí – Kněžický vrch",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2005",
+      "length_m": 895,
+      "vertical_m": 151,
+      "note": ""
+    },
+    {
+      "name": "Klínovec-Dámská †",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2005 / 2019",
+      "length_m": 1249,
+      "vertical_m": 232,
+      "note": "od 2019 čtyřsedačka s bublinou a vyhříváním sedadel"
+    },
+    {
+      "name": "Bílá v Beskydech – Zbojník †",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "2006 / 2023",
+      "length_m": 823,
+      "vertical_m": 229,
+      "note": "od 2023 šestisedačka s bublinou a vyhříváním sedadel"
+    },
+    {
+      "name": "Liberec – Skalka †",
+      "type": "visutá lanová dráha",
+      "area": "Liberec",
+      "opened": "2006",
+      "length_m": 1472,
+      "vertical_m": 351,
+      "note": ""
+    },
+    {
+      "name": "Liberec – Černý vrch",
+      "type": "visutá lanová dráha",
+      "area": "Liberec",
+      "opened": "2006",
+      "length_m": 808,
+      "vertical_m": 287,
+      "note": ""
+    },
+    {
+      "name": "Světlá pod Ještědem – Pláně",
+      "type": "visutá lanová dráha",
+      "area": "Liberec",
+      "opened": "2006",
+      "length_m": 618,
+      "vertical_m": 168,
+      "note": ""
+    },
+    {
+      "name": "Rokytnice – Horní Domky",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2006",
+      "length_m": 1240,
+      "vertical_m": 252,
+      "note": ""
+    },
+    {
+      "name": "Benecko – Kejnos",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2006",
+      "length_m": 766,
+      "vertical_m": 184,
+      "note": ""
+    },
+    {
+      "name": "Černý Důl – U Lomu",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2006",
+      "length_m": 708,
+      "vertical_m": 153,
+      "note": ""
+    },
+    {
+      "name": "Mladé Buky – Pekelský vrch",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2006",
+      "length_m": 575,
+      "vertical_m": 115,
+      "note": ""
+    },
+    {
+      "name": "Říčky v Orlických horách – Zakletý vrch",
+      "type": "visutá lanová dráha",
+      "area": "Orlické hory",
+      "opened": "2006 / 2020",
+      "length_m": 1205,
+      "vertical_m": 245,
+      "note": "od 2020 šestisedačka s bublinou"
+    },
+    {
+      "name": "Deštné v Orlických horách – Studený vrch",
+      "type": "visutá lanová dráha",
+      "area": "Orlické hory",
+      "opened": "2006",
+      "length_m": 864,
+      "vertical_m": 208,
+      "note": ""
+    },
+    {
+      "name": "Zadov – Kobyla",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "2006",
+      "length_m": 724,
+      "vertical_m": 153,
+      "note": ""
+    },
+    {
+      "name": "Zlaté Hory – Zlaté louky",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2007",
+      "length_m": 1183,
+      "vertical_m": 177,
+      "note": ""
+    },
+    {
+      "name": "Loučná nad Desnou – Přemyslov",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2007",
+      "length_m": 678,
+      "vertical_m": 225,
+      "note": ""
+    },
+    {
+      "name": "Nové Město na Moravě – Harusův kopec",
+      "type": "visutá lanová dráha",
+      "area": "Českomoravská vrchovina",
+      "opened": "2007",
+      "length_m": 453,
+      "vertical_m": 88,
+      "note": ""
+    },
+    {
+      "name": "Lipová-lázně – Miroslav",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2007",
+      "length_m": 799,
+      "vertical_m": 162,
+      "note": ""
+    },
+    {
+      "name": "Horní Bečva – Rališka",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "2007",
+      "length_m": 517,
+      "vertical_m": 124,
+      "note": ""
+    },
+    {
+      "name": "Liberec-skokanský areál",
+      "type": "visutá lanová dráha",
+      "area": "Liberec",
+      "opened": "2008",
+      "length_m": 352,
+      "vertical_m": 146,
+      "note": ""
+    },
+    {
+      "name": "Horní Václavov-Avalanche",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2008",
+      "length_m": 695,
+      "vertical_m": 93,
+      "note": ""
+    },
+    {
+      "name": "Lipno-Promenádní",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "2008",
+      "length_m": 864,
+      "vertical_m": 173,
+      "note": ""
+    },
+    {
+      "name": "Lipno-Střecha",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "2008",
+      "length_m": 864,
+      "vertical_m": 190,
+      "note": ""
+    },
+    {
+      "name": "Prkenný Důl – Karolínka",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2008",
+      "length_m": 342,
+      "vertical_m": 75,
+      "note": ""
+    },
+    {
+      "name": "Monínec – Javorová skála",
+      "type": "visutá lanová dráha",
+      "area": "Sedlec-Prčice",
+      "opened": "2008",
+      "length_m": 1078,
+      "vertical_m": 212,
+      "note": ""
+    },
+    {
+      "name": "Stříbrnice – Štvanice",
+      "type": "visutá lanová dráha",
+      "area": "Králický Sněžník",
+      "opened": "2009 / 2020",
+      "length_m": 982,
+      "vertical_m": 236,
+      "note": "od 2020 vyhřívaná šestisedačka s bublinou, první lanovka typu D-Line v ČR"
+    },
+    {
+      "name": "Velké Vrbno – Paprsek",
+      "type": "visutá lanová dráha",
+      "area": "Rychlebské hory",
+      "opened": "2009",
+      "length_m": 970,
+      "vertical_m": 194,
+      "note": "dvojsedačka s bublinou"
+    },
+    {
+      "name": "Nový Hrozenkov – Kohútka",
+      "type": "visutá lanová dráha",
+      "area": "Javorníky",
+      "opened": "2010",
+      "length_m": 636,
+      "vertical_m": 209,
+      "note": ""
+    },
+    {
+      "name": "Neklid – Klement",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2010",
+      "length_m": 958,
+      "vertical_m": 232,
+      "note": ""
+    },
+    {
+      "name": "Filipovice – Točník",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2010",
+      "length_m": 857,
+      "vertical_m": 198,
+      "note": ""
+    },
+    {
+      "name": "Kouty nad Desnou – Medvědí hora",
+      "type": "visutá lanová dráha",
+      "area": "Hrubý Jeseník",
+      "opened": "2010",
+      "length_m": 1943,
+      "vertical_m": 507,
+      "note": "první šestisedačková lanovka v ČR"
+    },
+    {
+      "name": "OC Forum – Větruše",
+      "type": "visutá lanová dráha",
+      "area": "Ústí nad Labem",
+      "opened": "2010",
+      "length_m": 330,
+      "vertical_m": 50,
+      "note": "jediná kabinová lanovka bez podpěry v ČR"
+    },
+    {
+      "name": "Jeřmanice – Javorník",
+      "type": "visutá lanová dráha",
+      "area": "Jizerské hory",
+      "opened": "2010",
+      "length_m": 803,
+      "vertical_m": 131,
+      "note": ""
+    },
+    {
+      "name": "Červená Voda – Buková hora †",
+      "type": "visutá lanová dráha",
+      "area": "Orlické hory",
+      "opened": "2010",
+      "length_m": 1680,
+      "vertical_m": 400,
+      "note": "První vyhřívaná čtyřsedačka s bublinou v ČR."
+    },
+    {
+      "name": "Dolní Morava – Sněžník †",
+      "type": "visutá lanová dráha",
+      "area": "Králický Sněžník",
+      "opened": "2010",
+      "length_m": 1167,
+      "vertical_m": 369,
+      "note": ""
+    },
+    {
+      "name": "Dolní Morava – U slona",
+      "type": "visutá lanová dráha",
+      "area": "Králický Sněžník",
+      "opened": "2010",
+      "length_m": 1124,
+      "vertical_m": 293,
+      "note": ""
+    },
+    {
+      "name": "Bublava –Stříbrný potok",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2011",
+      "length_m": 786,
+      "vertical_m": 185,
+      "note": ""
+    },
+    {
+      "name": "Paseky nad Jizerou – Pizár",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2011",
+      "length_m": 709,
+      "vertical_m": 166,
+      "note": ""
+    },
+    {
+      "name": "Čenkovice – Buková hora",
+      "type": "visutá lanová dráha",
+      "area": "Orlické hory",
+      "opened": "2011",
+      "length_m": 945,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Klínovec-Centrální †",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2011",
+      "length_m": 1235,
+      "vertical_m": "",
+      "note": "čtyřsedačka s bublinou"
+    },
+    {
+      "name": "Červenohorské sedlo – Velký Klínovec †",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2011 / 2021",
+      "length_m": 1052,
+      "vertical_m": "",
+      "note": "od 2021 čtyřsedačka s bublinou"
+    },
+    {
+      "name": "Horní Václavov – Čertova hora",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2011",
+      "length_m": 711,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Kunčice – Triangl",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2012",
+      "length_m": 556,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Klíny",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2012",
+      "length_m": 607,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Klínovec-Přemostěná",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2012",
+      "length_m": 1074,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Karlov pod Pradědem – Klobouk",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2012",
+      "length_m": 637,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Karlov pod Pradědem – V Javořinách †",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2012",
+      "length_m": 609,
+      "vertical_m": "",
+      "note": "čtyřsedačka, do roku 2017 s bublinou"
+    },
+    {
+      "name": "Luka nad Jihlavou – Balkán",
+      "type": "visutá lanová dráha",
+      "area": "Vysočina",
+      "opened": "2012",
+      "length_m": 526,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Malá Morávka – Kopřivná",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2012",
+      "length_m": 907,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Hrubá Voda",
+      "type": "visutá lanová dráha",
+      "area": "Oderské vrchy",
+      "opened": "2013",
+      "length_m": 739,
+      "vertical_m": "",
+      "note": "do roku 2021 délka pouhých 288 m"
+    },
+    {
+      "name": "Pstruží – Plešivec †",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2013",
+      "length_m": 1392,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Plešivec – Modes Grund †",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2013",
+      "length_m": 806,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Plešivec – Plešivecká louka",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2013",
+      "length_m": 358,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Telnice – Rudný vrch †",
+      "type": "visutá lanová dráha",
+      "area": "Krušné hory",
+      "opened": "2013",
+      "length_m": 781,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Karlov pod Pradědem – Myšák †",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2013 / 2018",
+      "length_m": 555,
+      "vertical_m": "",
+      "note": "od 2018 čtyřsedačka s bublinou"
+    },
+    {
+      "name": "Staré Hamry – Gruň",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "2013",
+      "length_m": 554,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Vrchlabí – Kněžický vrch †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2014",
+      "length_m": 1050,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Hofmanky Express †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2015",
+      "length_m": 1146,
+      "vertical_m": "",
+      "note": "vyhřívaná šestisedačka s bublinou"
+    },
+    {
+      "name": "Zahrádky Express †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2015",
+      "length_m": 857,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Přibližovací lanová dráha Bubákov 2",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2015",
+      "length_m": 172,
+      "vertical_m": "",
+      "note": "nejpomalejší lanová dráha v ČR"
+    },
+    {
+      "name": "Horní Mísečky – Medvědín †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2017",
+      "length_m": 1300,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Špičák Express †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2017",
+      "length_m": 995,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Deštné v Orlických horách – Marta II †",
+      "type": "visutá lanová dráha",
+      "area": "Orlické hory",
+      "opened": "2017",
+      "length_m": 860,
+      "vertical_m": "",
+      "note": "čtyřsedačka s bublinou"
+    },
+    {
+      "name": "Horní Mísečky – Medvědín †",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2017",
+      "length_m": 1282,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Dolní Lomná – Severka",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "2018",
+      "length_m": 1028,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Tanvaldský Špičák 2 †",
+      "type": "visutá lanová dráha",
+      "area": "Jizerské hory",
+      "opened": "2018",
+      "length_m": 911,
+      "vertical_m": "",
+      "note": "čtyřsedačka s bublinou"
+    },
+    {
+      "name": "Paseky nad Jizerou †",
+      "type": "visutá lanová dráha",
+      "area": "Jizerské hory",
+      "opened": "2018",
+      "length_m": 1142,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Mosty u Jablunkova – Grúň",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "2018",
+      "length_m": 564,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Rokytnice – Hranice",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2018",
+      "length_m": 367,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Karlov pod Pradědem – Roháč express †",
+      "type": "visutá lanová dráha",
+      "area": "Jeseníky",
+      "opened": "2018",
+      "length_m": 662,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Hynčice pod Sušinou – Kaple",
+      "type": "visutá lanová dráha",
+      "area": "Králický Sněžník",
+      "opened": "2019",
+      "length_m": 969,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Lipno – Parkoviště",
+      "type": "visutá lanová dráha",
+      "area": "Šumava",
+      "opened": "2019",
+      "length_m": 402,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Dolní Lomná – Armáda",
+      "type": "visutá lanová dráha",
+      "area": "Beskydy",
+      "opened": "2019",
+      "length_m": 641,
+      "vertical_m": "",
+      "note": ""
+    },
+    {
+      "name": "Mladé Buky – Buky I",
+      "type": "visutá lanová dráha",
+      "area": "Krkonoše",
+      "opened": "2020",
+      "length_m": 540,
+      "vertical_m": "",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Osobní lanové dráhy v Česku - Free Download",
+    "description": "Seznam osobních pozemních a visutých lanových drah (lanovek) v Česku s oblastí, rokem zprovoznění či obnovy, šikmou délkou, převýšením a poznámkami. Contains 122 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Osobní lanové dráhy v Česku | ListBase",
+    "seo_description": "Download Osobní lanové dráhy v Česku — 122 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 122 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_lanových_drah_v_Česku"
+    ]
+  }
+}

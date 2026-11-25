@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-25T02:12:06.423Z",
-  "total_datasets": 594,
-  "total_records": 426801,
+  "generated": "2026-11-25T02:12:15.068Z",
+  "total_datasets": 595,
+  "total_records": 426923,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "units",
@@ -16762,6 +16762,34 @@
         "xlsx": {
           "name": "cs-kralovehradecky-vlakova-nadrazi_CS.xlsx",
           "size": 10543
+        }
+      }
+    },
+    {
+      "id": "cs-lanove-drahy",
+      "name": "Osobní lanové dráhy v Česku",
+      "category": "transport",
+      "record_count": 122,
+      "columns": [
+        "name",
+        "type",
+        "area",
+        "opened",
+        "length_m",
+        "vertical_m",
+        "note"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_lanových_drah_v_Česku",
+      "updated": "2026-11",
+      "size": 29818,
+      "files": {
+        "csv": {
+          "name": "cs-lanove-drahy_CS.csv",
+          "size": 12667
+        },
+        "xlsx": {
+          "name": "cs-lanove-drahy_CS.xlsx",
+          "size": 13510
         }
       }
     },
