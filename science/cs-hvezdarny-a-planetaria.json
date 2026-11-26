@@ -1,0 +1,352 @@
+{
+  "id": "cs-hvezdarny-a-planetaria",
+  "name": "Hvězdárny a planetária v Česku",
+  "title": "Hvězdárny a planetária v Česku",
+  "description": "Seznam veřejných hvězdáren a planetárií v Česku podle krajů, s obcí, okresem a stavem provozu (mimo Prahu, která má samostatný seznam).",
+  "category": "science",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_hvězdáren_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_hvězdáren_v_Česku",
+  "updated": "2026-11",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "kraj",
+      "label": "Kraj",
+      "type": "string"
+    },
+    {
+      "key": "obec_cast",
+      "label": "Obec Cast",
+      "type": "string"
+    },
+    {
+      "key": "okres",
+      "label": "Okres",
+      "type": "string"
+    },
+    {
+      "key": "stav",
+      "label": "Stav",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazev": "Hvězdárna a planetárium v Českých Budějovicích",
+      "kraj": "Jihočeský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Observatoř Kleť",
+      "kraj": "Jihočeský kraj",
+      "obec_cast": "Kájov",
+      "okres": "Český Krumlov",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Kunžak",
+      "kraj": "Jihočeský kraj",
+      "obec_cast": "",
+      "okres": "Jindřichův Hradec",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna prof. Františka Nušla v Jindřichově Hradci",
+      "kraj": "Jihočeský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Františka Pešty",
+      "kraj": "Jihočeský kraj",
+      "obec_cast": "Sezimovo Ústí",
+      "okres": "Tábor",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Tábor",
+      "kraj": "Jihočeský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna a planetárium Brno",
+      "kraj": "Jihomoravský kraj",
+      "obec_cast": "Brno-střed",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Veselí nad Moravou",
+      "kraj": "Jihomoravský kraj",
+      "obec_cast": "",
+      "okres": "Hodonín",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna a planetárium Oldřicha Kotíka",
+      "kraj": "Jihomoravský kraj",
+      "obec_cast": "Ždánice",
+      "okres": "Hodonín",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Vyškov",
+      "kraj": "Jihomoravský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Gymnázia v Chebu",
+      "kraj": "Karlovarský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Františka Krejčího",
+      "kraj": "Karlovarský kraj",
+      "obec_cast": "Karlovy Vary",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna a planetárium v Hradci Králové",
+      "kraj": "Královéhradecký kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna v Úpici",
+      "kraj": "Královéhradecký kraj",
+      "obec_cast": "",
+      "okres": "Trutnov",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Centrum přírodních věd – Hvězdárna Jičín",
+      "kraj": "Královéhradecký kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Turnov",
+      "kraj": "Liberecký kraj",
+      "obec_cast": "",
+      "okres": "Semily",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "WHOO!",
+      "kraj": "Moravskoslezský kraj",
+      "obec_cast": "Opava",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Planetárium Ostrava",
+      "kraj": "Moravskoslezský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Slavonín - Olomouc",
+      "kraj": "Olomoucký kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Prostějov",
+      "kraj": "Olomoucký kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna barona Artura Krause",
+      "kraj": "Pardubický kraj",
+      "obec_cast": "Pardubice",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Boleslava Tecla při DDM Moravská Třebová",
+      "kraj": "Pardubický kraj",
+      "obec_cast": "",
+      "okres": "Svitavy",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna a planetárium Plzeň",
+      "kraj": "Plzeňský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "zrušená"
+    },
+    {
+      "nazev": "Hvězdárna v Rokycanech a Plzni",
+      "kraj": "Plzeňský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna ve Vlašimi",
+      "kraj": "Středočeský kraj",
+      "obec_cast": "",
+      "okres": "Benešov",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Žebrák",
+      "kraj": "Středočeský kraj",
+      "obec_cast": "",
+      "okres": "Beroun",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna města Mladá Boleslav",
+      "kraj": "Středočeský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Benátky nad Jizerou",
+      "kraj": "Středočeský kraj",
+      "obec_cast": "",
+      "okres": "Mladá Boleslav",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Ondřejovská hvězdárna",
+      "kraj": "Středočeský kraj",
+      "obec_cast": "Ondřejov",
+      "okres": "Praha-východ",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Lidová hvězdárna Josefa Sadila",
+      "kraj": "Středočeský kraj",
+      "obec_cast": "Sedlčany",
+      "okres": "Příbram",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Soukromá hvězdárna Antonína Bečváře",
+      "kraj": "Středočeský kraj",
+      "obec_cast": "Brandýs nad Labem",
+      "okres": "Praha-východ",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Mikulášovická hvězdárna",
+      "kraj": "Ústecký kraj",
+      "obec_cast": "",
+      "okres": "Děčín",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Astronomicko přírodovědná observatoř v Kadani",
+      "kraj": "Ústecký kraj",
+      "obec_cast": "",
+      "okres": "Chomutov",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna dr. Antonína Bečváře",
+      "kraj": "Ústecký kraj",
+      "obec_cast": "Most",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna a planetárium Teplice",
+      "kraj": "Ústecký kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Ústecká hvězdárna",
+      "kraj": "Ústecký kraj",
+      "obec_cast": "Telnice-Liboňov",
+      "okres": "Ústí nad Labem",
+      "stav": "zaniklá"
+    },
+    {
+      "nazev": "Hvězdárna F. J. Gerstnera",
+      "kraj": "Ústecký kraj",
+      "obec_cast": "Chomutov",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna a planetárium dr. Zdeňka Kvíze",
+      "kraj": "Kraj Vysočina",
+      "obec_cast": "Třebíč",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Žďár nad Sázavou",
+      "kraj": "Kraj Vysočina",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna a planetárium Uherský Brod",
+      "kraj": "Zlínský kraj",
+      "obec_cast": "",
+      "okres": "Uherské Hradiště",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Valašské Meziříčí",
+      "kraj": "Zlínský kraj",
+      "obec_cast": "",
+      "okres": "Vsetín",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Vsetín",
+      "kraj": "Zlínský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    },
+    {
+      "nazev": "Hvězdárna Zlín",
+      "kraj": "Zlínský kraj",
+      "obec_cast": "",
+      "okres": "",
+      "stav": "v provozu"
+    }
+  ],
+  "meta": {
+    "title": "Hvězdárny a planetária v Česku - Free Download",
+    "description": "Seznam veřejných hvězdáren a planetárií v Česku podle krajů, s obcí, okresem a stavem provozu (mimo Prahu, která má samostatný seznam). Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hvězdárny a planetária v Česku | ListBase",
+    "seo_description": "Download Hvězdárny a planetária v Česku — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_hvězdáren_v_Česku"
+    ]
+  }
+}

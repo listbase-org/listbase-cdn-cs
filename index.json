@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-26T02:07:19.028Z",
-  "total_datasets": 597,
-  "total_records": 426998,
+  "generated": "2026-11-26T02:07:27.533Z",
+  "total_datasets": 598,
+  "total_records": 427041,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 31
+      "dataset_count": 32
     },
     {
       "id": "society",
@@ -14592,6 +14592,32 @@
         "xlsx": {
           "name": "cs-detska-jmena-divci-2010_CS.xlsx",
           "size": 15743
+        }
+      }
+    },
+    {
+      "id": "cs-hvezdarny-a-planetaria",
+      "name": "Hvězdárny a planetária v Česku",
+      "category": "science",
+      "record_count": 43,
+      "columns": [
+        "nazev",
+        "kraj",
+        "obec_cast",
+        "okres",
+        "stav"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_hvězdáren_v_Česku",
+      "updated": "2026-11",
+      "size": 9168,
+      "files": {
+        "csv": {
+          "name": "cs-hvezdarny-a-planetaria_CS.csv",
+          "size": 3472
+        },
+        "xlsx": {
+          "name": "cs-hvezdarny-a-planetaria_CS.xlsx",
+          "size": 8588
         }
       }
     },
