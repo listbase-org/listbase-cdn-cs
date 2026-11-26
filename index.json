@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-25T02:12:15.068Z",
-  "total_datasets": 595,
-  "total_records": 426923,
+  "generated": "2026-11-26T02:07:08.858Z",
+  "total_datasets": 596,
+  "total_records": 426983,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 23
+      "dataset_count": 24
     },
     {
       "id": "finance",
@@ -2338,6 +2338,31 @@
         "xlsx": {
           "name": "cs-balvany_CS.xlsx",
           "size": 14900
+        }
+      }
+    },
+    {
+      "id": "cs-botanicke-zahrady-a-arboreta",
+      "name": "Botanické zahrady a arboreta v Česku",
+      "category": "environment",
+      "record_count": 60,
+      "columns": [
+        "obec",
+        "nazev",
+        "typ",
+        "spravce_poznamka"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_botanických_zahrad_v_Česku",
+      "updated": "2026-11",
+      "size": 11701,
+      "files": {
+        "csv": {
+          "name": "cs-botanicke-zahrady-a-arboreta_CS.csv",
+          "size": 5089
+        },
+        "xlsx": {
+          "name": "cs-botanicke-zahrady-a-arboreta_CS.xlsx",
+          "size": 9365
         }
       }
     },

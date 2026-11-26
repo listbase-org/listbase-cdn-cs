@@ -1,0 +1,406 @@
+{
+  "id": "cs-botanicke-zahrady-a-arboreta",
+  "name": "Botanické zahrady a arboreta v Česku",
+  "title": "Botanické zahrady a arboreta v Česku",
+  "description": "Seznam botanických zahrad, arboret a dalších sbírkových zahrad v Česku s obcí, názvem, typem a správcem.",
+  "category": "environment",
+  "source": "https://cs.wikipedia.org/wiki/Seznam_botanických_zahrad_v_Česku",
+  "source_url": "https://cs.wikipedia.org/wiki/Seznam_botanických_zahrad_v_Česku",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "obec",
+      "label": "Obec",
+      "type": "string"
+    },
+    {
+      "key": "nazev",
+      "label": "Nazev",
+      "type": "string"
+    },
+    {
+      "key": "typ",
+      "label": "Typ",
+      "type": "string"
+    },
+    {
+      "key": "spravce_poznamka",
+      "label": "Spravce Poznamka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "obec": "Bečov nad Teplou",
+      "nazev": "Bečovská botanická zahrada",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": "ZO ČSOP Berkut"
+    },
+    {
+      "obec": "Benešov",
+      "nazev": "Školní botanická zahrada Benešov",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": "Vyšší odborná škola a Střední zemědělská škola v Benešově"
+    },
+    {
+      "obec": "Bílá Lhota",
+      "nazev": "Arboretum Bílá Lhota",
+      "typ": "arboretum",
+      "spravce_poznamka": "pod Vlastivědným muzeem Olomouc"
+    },
+    {
+      "obec": "Borotín",
+      "nazev": "Arboretum Borotín",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Boskovice",
+      "nazev": "Arboretum Šmelcovna",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Brno",
+      "nazev": "Botanická zahrada a arboretum Mendelovy zemědělské a lesnické univerzity v Brně",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Brno",
+      "nazev": "Botanická zahrada Přírodovědecké fakulty Masarykovy univerzity v Brně",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Brno",
+      "nazev": "Centrum léčivých rostlin Lékařské fakulty Masarykovy univerzity v Brně",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Březová-Oleško",
+      "nazev": "Japonská zahrada Oleško",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Dalovice",
+      "nazev": "Botanická zahrada při Střední zemědělské škole Dalovice",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Děčín, část Libverda",
+      "nazev": "Botanická zahrada Děčín-Libverda",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": "Střední škola zahradnická a zemědělská A. E. Komerse"
+    },
+    {
+      "obec": "Děčín, část Libverda",
+      "nazev": "Arboretum Děčín-Libverda",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Dubiny",
+      "nazev": "Soukromá botanická zahrada v Dubinách",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Hejnice, část Ferdinandov",
+      "nazev": "Arboretum Josefa Eberta",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Hradec Králové",
+      "nazev": "Botanická zahrada léčivých rostlin Farmaceutické fakulty UK",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Hranice",
+      "nazev": "Arboretum Střední lesnické školy v Hranicích",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Hrubá Skála",
+      "nazev": "Arboretum Bukovina",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Chudenice",
+      "nazev": "Americká zahrada",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Jablunkov",
+      "nazev": "Park plicního sanatoria v Jablunkově",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": "Odborný léčebný ústav tuberkulózy a respiračních nemocí"
+    },
+    {
+      "obec": "Kostelec nad Černými lesy",
+      "nazev": "Arboretum Kostelec nad Černými lesy",
+      "typ": "arboretum",
+      "spravce_poznamka": "Česká zemědělská univerzita v Praze"
+    },
+    {
+      "obec": "Košumberk",
+      "nazev": "Hamzův park a arboretum",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Křtiny",
+      "nazev": "Arboretum Křtiny",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Liberec",
+      "nazev": "Botanická zahrada Liberec",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Mělník",
+      "nazev": "Botanická zahrada při Vyšší odborné škole zahradnické a Střední zahradnické škole Mělník",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Nové Město na Moravě",
+      "nazev": "Městské arboretum v Novém Městě na Moravě",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Olomouc",
+      "nazev": "Botanická zahrada Univerzity Palackého",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Olomouc",
+      "nazev": "Botanická zahrada Výstaviště Flora Olomouc",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Ondřejov",
+      "nazev": "Hvězdárna a arboretum Ondřejov",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Opava",
+      "nazev": "Arboretum Nový Dvůr",
+      "typ": "arboretum",
+      "spravce_poznamka": "Slezské zemské muzeum"
+    },
+    {
+      "obec": "Ostrava",
+      "nazev": "Botanická zahrada Přírodovědecké fakulty Ostravské univerzity",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Ostrava",
+      "nazev": "Zoologická zahrada Ostrava",
+      "typ": "zoologická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Ostrov",
+      "nazev": "Botanická zahrada a arboretum Horní Hrad",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Paseka",
+      "nazev": "Arboretum Makču Pikču",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Písek",
+      "nazev": "Arboretum Lesnické školy v Písku",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Plzeň",
+      "nazev": "Zoologická a botanická zahrada města Plzně",
+      "typ": "zoologická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Plzeň",
+      "nazev": "Arboretum Sofronka",
+      "typ": "arboretum",
+      "spravce_poznamka": "VÚLHM, Plzeň"
+    },
+    {
+      "obec": "Praha",
+      "nazev": "Botanická zahrada hl. m. Prahy",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Praha",
+      "nazev": "Královská obora",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Praha",
+      "nazev": "Botanická zahrada Univerzity Karlovy",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": "Přírodovědecká fakulta"
+    },
+    {
+      "obec": "Praha",
+      "nazev": "Botanická zahrada SOŠ, SOU, OU a Učiliště",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": "Praha 9 - Malešice"
+    },
+    {
+      "obec": "Praha",
+      "nazev": "Botanická zahrada Fakulty tropického zemědělství v Praze",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": "Česká zemědělská univerzita, Praha 6 - Suchdol"
+    },
+    {
+      "obec": "Prostějov",
+      "nazev": "Botanická zahrada Petra Albrechta",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Průhonice",
+      "nazev": "Průhonická botanická zahrada na Chotobuzi",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": "Botanický ústav AV ČR"
+    },
+    {
+      "obec": "Průhonice",
+      "nazev": "Dendrologická zahrada Průhonice",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": "Výzkumný ústav Silva Taroucy pro krajinu a okrasné zahradnictví"
+    },
+    {
+      "obec": "Rakovník",
+      "nazev": "Botanická zahrada Střední zemědělské školy Rakovník",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Řícmanice",
+      "nazev": "Arboretum Řícmanice",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Semetín",
+      "nazev": "Arboretum Semetín, Městské lesy Vsetín",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Šluknov",
+      "nazev": "Střední lesnická škola Šluknov",
+      "typ": "arboretum",
+      "spravce_poznamka": "arboretum je na dvou rozdílných místech"
+    },
+    {
+      "obec": "Štramberk",
+      "nazev": "Botanická zahrada a arboretum Štramberk",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Tábor",
+      "nazev": "Botanická zahrada při VOŠ a SZeŠ v Táboře",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Teplice",
+      "nazev": "Botanická zahrada Teplice",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Třeboň",
+      "nazev": "Sbírka vodních a mokřadních rostlin v areálu třeboňského pracoviště Botanického ústavu AV ČR",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Týn nad Vltavou",
+      "nazev": "Přírodovědné muzeum Semenec",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Ústí nad Labem",
+      "nazev": "Naučný botanický park, katedra biologie Přírodovědecké fakulty Univerzity J. E. Purkyně v Ústí nad Labem",
+      "typ": "botanická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Vrahovice",
+      "nazev": "Arboretum Vrahovice",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Vrchlabí",
+      "nazev": "Genofondová zahrada Správy KRNAP",
+      "typ": "jiná zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Vysoké Chvojno",
+      "nazev": "Arboretum Vysoké Chvojno",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Zákupy",
+      "nazev": "Arboretum Nové Zákupy",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Zlín",
+      "nazev": "Zoologická zahrada Zlín",
+      "typ": "zoologická zahrada",
+      "spravce_poznamka": ""
+    },
+    {
+      "obec": "Žampach",
+      "nazev": "Arboretum Žampach",
+      "typ": "arboretum",
+      "spravce_poznamka": ""
+    }
+  ],
+  "meta": {
+    "title": "Botanické zahrady a arboreta v Česku - Free Download",
+    "description": "Seznam botanických zahrad, arboret a dalších sbírkových zahrad v Česku s obcí, názvem, typem a správcem. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Botanické zahrady a arboreta v Česku | ListBase",
+    "seo_description": "Download Botanické zahrady a arboreta v Česku — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Seznam_botanických_zahrad_v_Česku"
+    ]
+  }
+}
