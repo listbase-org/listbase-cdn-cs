@@ -1,0 +1,96 @@
+{
+  "id": "cs-cizinci-podle-statniho-obcanstvi",
+  "name": "Cizinci v Česku podle státního občanství (2026)",
+  "title": "Cizinci v Česku podle státního občanství (2026)",
+  "description": "Nejpočetnější skupiny cizinců s pobytem v Česku podle státního občanství k 31. květnu 2026.",
+  "category": "society",
+  "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "source_url": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "statni_obcanstvi",
+      "label": "Statni Obcanstvi",
+      "type": "string"
+    },
+    {
+      "key": "pocet_cizincu",
+      "label": "Pocet Cizincu",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "statni_obcanstvi": "Ukrajina",
+      "pocet_cizincu": 609931
+    },
+    {
+      "statni_obcanstvi": "Slovensko",
+      "pocet_cizincu": 126846
+    },
+    {
+      "statni_obcanstvi": "Vietnam",
+      "pocet_cizincu": 70108
+    },
+    {
+      "statni_obcanstvi": "Rusko",
+      "pocet_cizincu": 37438
+    },
+    {
+      "statni_obcanstvi": "Rumunsko",
+      "pocet_cizincu": 21311
+    },
+    {
+      "statni_obcanstvi": "Polsko",
+      "pocet_cizincu": 17597
+    },
+    {
+      "statni_obcanstvi": "Bulharsko",
+      "pocet_cizincu": 17348
+    },
+    {
+      "statni_obcanstvi": "Filipíny",
+      "pocet_cizincu": 16952
+    },
+    {
+      "statni_obcanstvi": "Mongolsko",
+      "pocet_cizincu": 15141
+    },
+    {
+      "statni_obcanstvi": "Maďarsko",
+      "pocet_cizincu": 12288
+    },
+    {
+      "statni_obcanstvi": "Indie",
+      "pocet_cizincu": 12082
+    },
+    {
+      "statni_obcanstvi": "Německo",
+      "pocet_cizincu": 10868
+    },
+    {
+      "statni_obcanstvi": "Kazachstán",
+      "pocet_cizincu": 10793
+    },
+    {
+      "statni_obcanstvi": "Čína",
+      "pocet_cizincu": 10319
+    },
+    {
+      "statni_obcanstvi": "Spojené státy americké",
+      "pocet_cizincu": 10303
+    }
+  ],
+  "meta": {
+    "title": "Cizinci v Česku podle státního občanství (2026) - Free Download",
+    "description": "Nejpočetnější skupiny cizinců s pobytem v Česku podle státního občanství k 31. květnu 2026. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Cizinci v Česku podle státního občanství (2026) | ListBase",
+    "seo_description": "Download Cizinci v Česku podle státního občanství (2026) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka"
+    ]
+  }
+}

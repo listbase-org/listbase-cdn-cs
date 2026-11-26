@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-26T02:07:08.858Z",
-  "total_datasets": 596,
-  "total_records": 426983,
+  "generated": "2026-11-26T02:07:19.028Z",
+  "total_datasets": 597,
+  "total_records": 426998,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "sports",
@@ -15011,6 +15011,29 @@
         "xlsx": {
           "name": "science-solubility-rules_CS.xlsx",
           "size": 9238
+        }
+      }
+    },
+    {
+      "id": "cs-cizinci-podle-statniho-obcanstvi",
+      "name": "Cizinci v Česku podle státního občanství (2026)",
+      "category": "society",
+      "record_count": 15,
+      "columns": [
+        "statni_obcanstvi",
+        "pocet_cizincu"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Obyvatelstvo_Česka",
+      "updated": "2026-11",
+      "size": 2688,
+      "files": {
+        "csv": {
+          "name": "cs-cizinci-podle-statniho-obcanstvi_CS.csv",
+          "size": 338
+        },
+        "xlsx": {
+          "name": "cs-cizinci-podle-statniho-obcanstvi_CS.xlsx",
+          "size": 7044
         }
       }
     },
