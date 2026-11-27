@@ -1,0 +1,1836 @@
+{
+  "id": "cs-liturgicky-kalendar-sanktoral",
+  "name": "Český liturgický kalendář – svátky svatých (sanktorál)",
+  "title": "Český liturgický kalendář – svátky svatých (sanktorál)",
+  "description": "Pevná data svátků a památek svatých v liturgickém kalendáři římskokatolické církve pro českou a moravskou církevní provincii, se stupněm slavení.",
+  "category": "time",
+  "source": "https://cs.wikipedia.org/wiki/Český_liturgický_kalendář",
+  "source_url": "https://cs.wikipedia.org/wiki/Český_liturgický_kalendář",
+  "updated": "2026-11",
+  "record_count": 255,
+  "columns": [
+    {
+      "key": "mesic",
+      "label": "Mesic",
+      "type": "string"
+    },
+    {
+      "key": "cislo_mesice",
+      "label": "Cislo Mesice",
+      "type": "number"
+    },
+    {
+      "key": "den",
+      "label": "Den",
+      "type": "number"
+    },
+    {
+      "key": "svatek",
+      "label": "Svatek",
+      "type": "string"
+    },
+    {
+      "key": "stupen_slaveni",
+      "label": "Stupen Slaveni",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 1,
+      "svatek": "Oktáv Narození Páně – Matky Boží, Panny Marie",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 2,
+      "svatek": "Sv. Basila Velikého a Řehoře Naziánského, biskupů a učitelů církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 3,
+      "svatek": "Nejsvětějšího Jména Ježíš",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 6,
+      "svatek": "Zjevení Páně",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 7,
+      "svatek": "Sv. Rajmunda z Peñafortu, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 13,
+      "svatek": "Sv. Hilaria, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 17,
+      "svatek": "Sv. Antonína, opata",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 18,
+      "svatek": "Panny Marie, Matky jednoty křesťanů",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 20,
+      "svatek": "Sv. Fabiána, papeže a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 20,
+      "svatek": "Sv. Šebestiána, mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 21,
+      "svatek": "Sv. Anežky Římské, panny a mučednice",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 22,
+      "svatek": "Sv. Vincence, jáhna a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 24,
+      "svatek": "Sv. Františka Saleského, biskupa a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 25,
+      "svatek": "Obrácení svatého Pavla, apoštola",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 26,
+      "svatek": "Sv. Timoteje a Tita, biskupů",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 27,
+      "svatek": "Sv. Anděly Mericiové, panny",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 28,
+      "svatek": "Sv. Tomáše Akvinského, kněze a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 31,
+      "svatek": "Sv. Jana Boska, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "leden",
+      "cislo_mesice": 1,
+      "den": 31,
+      "svatek": "Neděle po 6. lednu: Křtu Páně",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 2,
+      "svatek": "Uvedení Páně do chrámu",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 3,
+      "svatek": "Sv. Blažeje, biskupa a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 3,
+      "svatek": "Sv. Ansgara, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 5,
+      "svatek": "Sv. Agáty, panny a mučednice",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 6,
+      "svatek": "Sv. Pavla Mikiho a druhů, mučedníků",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 8,
+      "svatek": "Sv. Jeronýma Emilianiho",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 8,
+      "svatek": "Sv. Josefiny Bakhity, panny",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 10,
+      "svatek": "Sv. Scholastiky, panny",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 11,
+      "svatek": "Panny Marie Lurdské",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 17,
+      "svatek": "Sv. Alexia a druhů, řeholníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 21,
+      "svatek": "Sv. Petra Damianiho, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 22,
+      "svatek": "Stolce svatého Petra, apoštola",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 23,
+      "svatek": "Sv. Polykarpa, biskupa a mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "únor",
+      "cislo_mesice": 2,
+      "den": 27,
+      "svatek": "Sv. Řehoře z Nareku, opata a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 4,
+      "svatek": "Sv. Kazimíra",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 7,
+      "svatek": "Sv. Perpetuy a Felicity, mučednic",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 8,
+      "svatek": "Sv. Jana z Boha, řeholníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 9,
+      "svatek": "Sv. Františky Římské, řeholnice",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 10,
+      "svatek": "Sv. Jana Ogilvie, kněze a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 17,
+      "svatek": "Sv. Patrika, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 18,
+      "svatek": "Sv. Cyrila Jeruzalémského, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 19,
+      "svatek": "Sv. Josefa, Snoubence Panny Marie",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 23,
+      "svatek": "Sv. Turibia z Mongroveja, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "březen",
+      "cislo_mesice": 3,
+      "den": 25,
+      "svatek": "Zvěstování Páně",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 2,
+      "svatek": "Sv. Františka z Pauly, poustevníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 4,
+      "svatek": "Sv. Izidora, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 5,
+      "svatek": "Sv. Vincence Ferrerského, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 7,
+      "svatek": "Sv. Jana Křtitele de la Salle, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 11,
+      "svatek": "Sv. Stanislava, biskupa a mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 13,
+      "svatek": "Sv. Martina I., papeže a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 21,
+      "svatek": "Sv. Anselma, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 23,
+      "svatek": "Sv. Vojtěcha, biskupa a mučedníka, hlavního patrona pražské arcidiecéze",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 24,
+      "svatek": "Sv. Jiří, mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 24,
+      "svatek": "Sv. Fidela ze Sigmaringy, kněze a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 25,
+      "svatek": "Sv. Marka, evangelisty",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 28,
+      "svatek": "Sv. Petra Chanela, kněze a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 28,
+      "svatek": "Sv. Ludvíka Marie Grigniona z Montfortu, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 29,
+      "svatek": "Sv. Kateřiny Sienské, panny a učitelky církve, patronky Evropy",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 30,
+      "svatek": "Sv. Zikmunda, mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "duben",
+      "cislo_mesice": 4,
+      "den": 30,
+      "svatek": "Sv. Pia V., papeže",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 1,
+      "svatek": "Sv. Josefa, dělníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 2,
+      "svatek": "Sv. Atanáše, biskupa a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 3,
+      "svatek": "Sv. Filipa a Jakuba, apoštolů",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 6,
+      "svatek": "Sv. Jana Sarkandra, kněze a mučedníka",
+      "stupen_slaveni": "Na Moravě: Památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 8,
+      "svatek": "Panny Marie, Prostřednice všech milostí",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 10,
+      "svatek": "Sv. Jana z Avily, kněze a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 12,
+      "svatek": "Sv. Nerea a Achillea, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 12,
+      "svatek": "Sv. Pankráce, mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 13,
+      "svatek": "Panny Marie Fatimské",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 14,
+      "svatek": "Sv. Matěje, apoštola",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 16,
+      "svatek": "Sv. Jana Nepomuckého, kněze a mučedníka, hlavního patrona Čech",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 18,
+      "svatek": "Sv. Jana I., papeže a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 20,
+      "svatek": "Sv. Klementa Marie Hofbauera, kněze",
+      "stupen_slaveni": "Na Moravě: Památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 20,
+      "svatek": "Sv. Bernardina Sienského, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 21,
+      "svatek": "Sv. Kryštofa Magallanese, kněze, a druhů, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 22,
+      "svatek": "Sv. Rity z Cascie, řeholnice",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 25,
+      "svatek": "Sv. Bedy Ctihodného, kněze a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 25,
+      "svatek": "Sv. Řehoře VII., papeže",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 25,
+      "svatek": "Sv. Marie Magdalény de' Pazzi, panny",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 26,
+      "svatek": "Sv. Filipa Neriho, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 27,
+      "svatek": "Sv. Augustina z Canterbury, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 29,
+      "svatek": "Sv. Pavla VI., papeže",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 30,
+      "svatek": "Sv. Zdislavy",
+      "stupen_slaveni": "V Čechách: Památka"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 30,
+      "svatek": "V litoměřické diecézi: Sv. Zdislavy, hlavní patronky diecéze",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 31,
+      "svatek": "Navštívení Panny Marie",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 31,
+      "svatek": "Čtvrtek po Seslání Ducha Svatého: Ježíše Krista, nejvyššího a věčného kněze",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 31,
+      "svatek": "Neděle po Seslání Ducha Svatého: Nejsvětější Trojice",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 31,
+      "svatek": "Čtvrtek po Nejsvětější Trojici: Těla a Krve Páně",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 31,
+      "svatek": "Pátek po 2. neděli po Seslání Ducha Svatého: Nejsvětějšího Srdce Ježíšova",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "květen",
+      "cislo_mesice": 5,
+      "den": 31,
+      "svatek": "Sobota po 2. neděli po Seslání Ducha Svatého: Neposkvrněného Srdce Panny Marie",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 1,
+      "svatek": "Sv. Justina, mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 2,
+      "svatek": "Sv. Marcelina a Petra, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 3,
+      "svatek": "Sv. Karla Lwangy a druhů, mučedníků",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 5,
+      "svatek": "Sv. Bonifáce, biskupa a mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 6,
+      "svatek": "Sv. Norberta, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 6,
+      "svatek": "V olomoucké arcidiecézi: Sv. Pavlíny, panny a mučednice, spolupatronky metropolitního chrámu a celé arcidiecéze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 9,
+      "svatek": "Sv. Efréma Syrského, jáhna a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 11,
+      "svatek": "Sv. Barnabáše, apoštola",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 13,
+      "svatek": "Sv. Antonína z Padovy, kněze a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 15,
+      "svatek": "Sv. Víta, mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 19,
+      "svatek": "Sv. Jana Nepomuckého Neumanna, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 19,
+      "svatek": "Sv. Romualda, opata",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 21,
+      "svatek": "Sv. Aloise Gonzagy, řeholníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 22,
+      "svatek": "Sv. Paulína Nolánského, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 22,
+      "svatek": "Sv. Jana Fishera, biskupa a Tomáše Mora, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 24,
+      "svatek": "Narození svatého Jana Křtitele",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 27,
+      "svatek": "Sv. Cyrila Alexandrijského, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 28,
+      "svatek": "Sv. Ireneje, biskupa a mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 29,
+      "svatek": "Sv. Petra a Pavla, apoštolů, hlavních patronů brněnské diecéze",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 30,
+      "svatek": "Svatých prvomučedníků římských",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červen",
+      "cislo_mesice": 6,
+      "den": 30,
+      "svatek": "V olomoucké arcidiecézi: Výročí posvěcení olomoucké katedrály",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 3,
+      "svatek": "Sv. Tomáše, apoštola",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 4,
+      "svatek": "Sv. Prokopa, opata",
+      "stupen_slaveni": "V Čechách: Památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 4,
+      "svatek": "Sv. Alžběty Portugalské",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 5,
+      "svatek": "Sv. Cyrila, mnicha, a Metoděje, biskupa, patronů Evropy, hlavních patronů Moravy",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 6,
+      "svatek": "Sv. Marie Gorettiové, panny a mučednice",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 9,
+      "svatek": "Sv. Augustina Žao Ronga, kněze, a druhů, mučedníků.",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 11,
+      "svatek": "Sv. Benedikta, opata, patrona Evropy",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 13,
+      "svatek": "Sv. Jindřicha",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 14,
+      "svatek": "Bl. Hroznaty, mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 14,
+      "svatek": "Sv. Kamila de Lellis, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 14,
+      "svatek": "V plzeňské diecézi: Bl. Hroznaty, mučedníka, hlavního patrona diecéze",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 15,
+      "svatek": "Sv. Bonaventury, biskupa a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 16,
+      "svatek": "Panny Marie Karmelské",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 17,
+      "svatek": "Bl. Česlava a sv. Hyacinta, kněží",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 20,
+      "svatek": "Sv. Apolináře, biskupa a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 21,
+      "svatek": "Sv. Vavřince z Brindisi, kněze a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 22,
+      "svatek": "Sv. Marie Magdalény",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 23,
+      "svatek": "Sv. Brigity, řeholnice, patronky Evropy",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 24,
+      "svatek": "Sv. Šarbela Makhlūfa, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 25,
+      "svatek": "Sv. Jakuba, apoštola",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 26,
+      "svatek": "Sv. Jáchyma a Anny, rodičů Panny Marie",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 27,
+      "svatek": "Sv. Gorazda a druhů",
+      "stupen_slaveni": "Na Moravě: Památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 29,
+      "svatek": "Sv. Marty, Marie a Lazara",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 30,
+      "svatek": "Sv. Petra Chryzologa, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "červenec",
+      "cislo_mesice": 7,
+      "den": 31,
+      "svatek": "Sv. Ignáce z Loyoly, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 1,
+      "svatek": "Sv. Alfonsa Marie z Liguori, biskupa a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 2,
+      "svatek": "Sv. Eusebia z Vercelli, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 2,
+      "svatek": "Sv. Petra Juliána Eymarda, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 4,
+      "svatek": "Sv. Jana Marie Vianneye, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 5,
+      "svatek": "Posvěcení římské baziliky Panny Marie",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 6,
+      "svatek": "Proměnění Páně",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 7,
+      "svatek": "Sv. Sixta II., papeže, a druhů, mučedníků Sv. Kajetána, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 8,
+      "svatek": "Sv. Dominika, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 9,
+      "svatek": "Sv. Terezie Benedikty od Kříže, panny a mučednice, patronky Evropy",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 10,
+      "svatek": "Sv. Vavřince, jáhna a mučedníka",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 11,
+      "svatek": "Sv. Kláry, panny",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 12,
+      "svatek": "Sv. Jany Františky de Chantal, řeholnice",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 13,
+      "svatek": "Sv. Ponciána, papeže, a Hippolyta, kněze, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 14,
+      "svatek": "Sv. Maxmiliána Marie Kolbeho, kněze a mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 15,
+      "svatek": "Nanebevzetí Panny Marie",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 16,
+      "svatek": "Sv. Štěpána Uherského",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 19,
+      "svatek": "Sv. Jana Eudese, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 20,
+      "svatek": "Sv. Bernarda, opata a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 21,
+      "svatek": "Sv. Pia X., papeže",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 22,
+      "svatek": "Panny Marie Královny",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 23,
+      "svatek": "Sv. Růženy z Limy, panny",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 24,
+      "svatek": "Sv. Bartoloměje, apoštola",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 25,
+      "svatek": "Sv. Benedikta, Jana, Matouše, Izáka a Kristina, mučedníků Sv. Ludvíka Sv. Josefa Kalasanského, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 25,
+      "svatek": "V ostravsko-opavské diecéziː Bl. Metoděje Trčky, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 27,
+      "svatek": "Sv. Moniky",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 28,
+      "svatek": "Sv. Augustina, biskupa a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "srpen",
+      "cislo_mesice": 8,
+      "den": 29,
+      "svatek": "Umučení sv. Jana Křtitele",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 3,
+      "svatek": "Sv. Řehoře Velikého, papeže a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 5,
+      "svatek": "Sv. Terezie z Kalkaty",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 7,
+      "svatek": "Sv. Melichara Grodeckého, kněze a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 8,
+      "svatek": "Narození Panny Marie",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 9,
+      "svatek": "Sv. Petra Klavera, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 10,
+      "svatek": "Bl. Karla Spinoly, kněze a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 12,
+      "svatek": "Jména Panny Marie",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 13,
+      "svatek": "Sv. Jana Zlatoústého, biskupa a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 14,
+      "svatek": "Povýšení svatého Kříže",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 15,
+      "svatek": "Panny Marie Bolestné",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 16,
+      "svatek": "Sv. Ludmily, mučednice",
+      "stupen_slaveni": "V Čechách: Památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 17,
+      "svatek": "Sv. Kornélia, papeže, a Cypriána, biskupa, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 17,
+      "svatek": "Sv. Roberta Bellarmina, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 17,
+      "svatek": "Sv. Hildegardy z Bingen, panny a učitelky církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 19,
+      "svatek": "Sv. Januária, biskupa a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 20,
+      "svatek": "Sv. Ondřeje Kim Tae-gỏna, kněze, Pavla Chõng Ha-sanga a druhů, mučedníků",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 21,
+      "svatek": "Sv. Matouše, apoštola a evangelisty",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 23,
+      "svatek": "Sv. Pia z Pietrelciny, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 26,
+      "svatek": "Sv. Kosmy a Damiána, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 27,
+      "svatek": "Sv. Vincence z Paula, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 28,
+      "svatek": "Sv. Václava, mučedníka, hlavního patrona českého národa",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 29,
+      "svatek": "Sv. Michaela, Gabriela a Rafaela, archandělů",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "září",
+      "cislo_mesice": 9,
+      "den": 30,
+      "svatek": "Sv. Jeronýma, kněze a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 1,
+      "svatek": "Sv. Terezie od Dítěte Ježíše, panny a učitelky církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 2,
+      "svatek": "Svatých andělů strážných",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 4,
+      "svatek": "Sv. Františka z Assisi",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 5,
+      "svatek": "Sv. Faustiny Kowalské, panny",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 6,
+      "svatek": "Sv. Bruna, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 7,
+      "svatek": "Panny Marie Růžencové",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 9,
+      "svatek": "Sv. Dionýsia, biskupa, a druhů, mučedníků Sv. Jana Leonardiho, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 11,
+      "svatek": "Sv. Jana XXIII., papeže",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 12,
+      "svatek": "Sv. Radima, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 14,
+      "svatek": "Sv. Kalista I., papeže a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 15,
+      "svatek": "Sv. Terezie od Ježíše, panny a učitelky církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 16,
+      "svatek": "Sv. Hedviky, řeholnice",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 16,
+      "svatek": "Sv. Markéty Marie Alacoque, panny",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 16,
+      "svatek": "V ostravsko-opavské diecézi: Sv. Hedviky, řeholnice, hlavní patronky Slezska",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 17,
+      "svatek": "Sv. Ignáce Antiochijského, biskupa a mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 18,
+      "svatek": "Sv. Lukáše, evangelisty",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 19,
+      "svatek": "Sv. Jana de Brébeuf a Izáka Joguese, kněží, a druhů, mučedníků",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 19,
+      "svatek": "Sv. Pavla od Kříže, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 21,
+      "svatek": "Bl. Karla Rakouského",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 22,
+      "svatek": "Sv. Jana Pavla II., papeže",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 23,
+      "svatek": "Sv. Jana Kapistránského, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 24,
+      "svatek": "Sv. Antonína Marie Klareta, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 28,
+      "svatek": "Sv. Šimona a Judy, apoštolů",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 29,
+      "svatek": "V brněnské diecézi: Bl. Marie Restituty Kafkové, panny a mučednice",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "říjen",
+      "cislo_mesice": 10,
+      "den": 31,
+      "svatek": "Sv. Wolfganga, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 1,
+      "svatek": "Všech svatých",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 2,
+      "svatek": "Vzpomínka na všechny věrné zemřelé",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 3,
+      "svatek": "Sv. Martina de Porres, řeholníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 4,
+      "svatek": "Sv. Karla Boromejského, biskupa",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 9,
+      "svatek": "Posvěcení lateránské baziliky",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 10,
+      "svatek": "Sv. Lva Velikého, papeže a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 11,
+      "svatek": "Sv. Martina, biskupa",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 12,
+      "svatek": "Sv. Josafata, biskupa a mučedníka",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 13,
+      "svatek": "Sv. Anežky České, panny",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 15,
+      "svatek": "Sv. Alberta Velikého, biskupa a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 16,
+      "svatek": "Sv. Markéty Skotské",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 16,
+      "svatek": "Sv. Gertrudy, panny",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 17,
+      "svatek": "Sv. Alžběty Uherské, řeholnice",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 18,
+      "svatek": "Posvěcení římských bazilik svatých apoštolů Petra a Pavla",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 21,
+      "svatek": "Zasvěcení Panny Marie v Jeruzalémě",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 22,
+      "svatek": "Sv. Cecílie, panny a mučednice",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 23,
+      "svatek": "Sv. Klementa I., papeže a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 23,
+      "svatek": "Sv. Kolumbána, opata",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 23,
+      "svatek": "V královéhradecké diecézi: Sv. Klementa I., papeže a mučedníka, hlavního patrona diecéze",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 24,
+      "svatek": "Sv. Ondřeje Dũng Lạca, kněze, a druhů, mučedníků",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 25,
+      "svatek": "Sv. Kateřiny Alexandrijské, panny a mučednice",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 30,
+      "svatek": "Sv. Ondřeje, apoštola",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "listopad",
+      "cislo_mesice": 11,
+      "den": 30,
+      "svatek": "Poslední (34.) neděle v liturgickém mezidobí: Ježíše Krista Krále",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 1,
+      "svatek": "Sv. Edmunda Kampiána, kněze a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 3,
+      "svatek": "Sv. Františka Xaverského, kněze",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 4,
+      "svatek": "Sv. Jana Damašského, kněze a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 6,
+      "svatek": "Sv. Mikuláše, biskupa",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 6,
+      "svatek": "V českobudějovické diecézi: Sv. Mikuláše, biskupa, hlavního patrona diecéze",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 7,
+      "svatek": "Sv. Ambrože, biskupa a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 8,
+      "svatek": "Panny Marie, počaté bez poskvrny prvotního hříchu",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 9,
+      "svatek": "Sv. Jana Didaka Cuauhtlatoatzina",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 10,
+      "svatek": "Panny Marie Loretánské",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 11,
+      "svatek": "Sv. Damasa I. papeže",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 12,
+      "svatek": "Panny Marie Guadalupské",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 13,
+      "svatek": "Sv. Lucie, panny a mučednice",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 14,
+      "svatek": "Sv. Jana od Kříže, kněze a učitele církve",
+      "stupen_slaveni": "Památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 21,
+      "svatek": "Sv. Petra Kanisia, kněze a učitele církve",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 23,
+      "svatek": "Sv. Jana Kentského, kněze",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 25,
+      "svatek": "Narození Páně",
+      "stupen_slaveni": "Slavnost"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 26,
+      "svatek": "Sv. Štěpána, prvomučedníka",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 27,
+      "svatek": "Sv. Jana, apoštola a evangelisty",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 28,
+      "svatek": "Svatých Mláďátek, mučedníků",
+      "stupen_slaveni": "Svátek"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 29,
+      "svatek": "Sv. Tomáše Becketa, biskupa a mučedníka",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 31,
+      "svatek": "Sv. Silvestra I. papeže",
+      "stupen_slaveni": "nezávazná památka"
+    },
+    {
+      "mesic": "prosinec",
+      "cislo_mesice": 12,
+      "den": 31,
+      "svatek": "Neděle v oktávu Narození Páně není-li v oktávu neděle, pak 30. prosince: Sv. Rodiny Ježíše, Marie a Josefa",
+      "stupen_slaveni": "Svátek"
+    }
+  ],
+  "meta": {
+    "title": "Český liturgický kalendář – svátky svatých (sanktorál) - Free Download",
+    "description": "Pevná data svátků a památek svatých v liturgickém kalendáři římskokatolické církve pro českou a moravskou církevní provincii, se stupněm slavení. Contains 255 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Český liturgický kalendář – svátky svatých (sanktorál) | ListBase",
+    "seo_description": "Download Český liturgický kalendář – svátky svatých (sanktorál) — 255 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 255 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://cs.wikipedia.org/wiki/Český_liturgický_kalendář"
+    ]
+  }
+}

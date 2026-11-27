@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-26T02:07:27.533Z",
-  "total_datasets": 598,
-  "total_records": 427041,
+  "generated": "2026-11-27T02:10:24.468Z",
+  "total_datasets": 599,
+  "total_records": 427296,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tourism",
@@ -16088,6 +16088,32 @@
         "xlsx": {
           "name": "cs-jmeniny-kalendar_CS.xlsx",
           "size": 14575
+        }
+      }
+    },
+    {
+      "id": "cs-liturgicky-kalendar-sanktoral",
+      "name": "Český liturgický kalendář – svátky svatých (sanktorál)",
+      "category": "time",
+      "record_count": 255,
+      "columns": [
+        "mesic",
+        "cislo_mesice",
+        "den",
+        "svatek",
+        "stupen_slaveni"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Český_liturgický_kalendář",
+      "updated": "2026-11",
+      "size": 47844,
+      "files": {
+        "csv": {
+          "name": "cs-liturgicky-kalendar-sanktoral_CS.csv",
+          "size": 19715
+        },
+        "xlsx": {
+          "name": "cs-liturgicky-kalendar-sanktoral_CS.xlsx",
+          "size": 15913
         }
       }
     },
