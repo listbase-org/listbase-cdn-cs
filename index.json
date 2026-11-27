@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-27T02:10:24.468Z",
-  "total_datasets": 599,
-  "total_records": 427296,
+  "generated": "2026-11-27T02:10:33.275Z",
+  "total_datasets": 600,
+  "total_records": 427336,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "units",
@@ -17261,6 +17261,33 @@
         "xlsx": {
           "name": "cs-radionavigacni-zarizeni_CS.xlsx",
           "size": 11675
+        }
+      }
+    },
+    {
+      "id": "cs-silnicni-tunely",
+      "name": "Silniční tunely v Česku",
+      "category": "transport",
+      "record_count": 40,
+      "columns": [
+        "nazev",
+        "delka_m",
+        "tubusy",
+        "zahajeni_provozu",
+        "komunikace",
+        "usek_umisteni"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_silničních_tunelů_v_Česku",
+      "updated": "2026-11",
+      "size": 10997,
+      "files": {
+        "csv": {
+          "name": "cs-silnicni-tunely_CS.csv",
+          "size": 4000
+        },
+        "xlsx": {
+          "name": "cs-silnicni-tunely_CS.xlsx",
+          "size": 9325
         }
       }
     },
