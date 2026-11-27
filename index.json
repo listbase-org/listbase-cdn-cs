@@ -1,8 +1,8 @@
 {
   "lang": "cs",
-  "generated": "2026-11-27T02:10:33.275Z",
-  "total_datasets": 600,
-  "total_records": 427336,
+  "generated": "2026-11-27T02:10:41.761Z",
+  "total_datasets": 601,
+  "total_records": 427499,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "units",
@@ -17564,6 +17564,38 @@
         "xlsx": {
           "name": "cs-vzletove-drahy_CS.xlsx",
           "size": 32155
+        }
+      }
+    },
+    {
+      "id": "cs-zeleznicni-tunely",
+      "name": "Železniční tunely v Česku",
+      "category": "transport",
+      "record_count": 163,
+      "columns": [
+        "evidencni_cislo",
+        "nazev",
+        "obec",
+        "okres",
+        "usek",
+        "trat",
+        "koleji",
+        "delka_m",
+        "zahajeni_provozu",
+        "lat",
+        "lon"
+      ],
+      "source": "https://cs.wikipedia.org/wiki/Seznam_železničních_tunelů_v_Česku",
+      "updated": "2026-11",
+      "size": 62073,
+      "files": {
+        "csv": {
+          "name": "cs-zeleznicni-tunely_CS.csv",
+          "size": 27444
+        },
+        "xlsx": {
+          "name": "cs-zeleznicni-tunely_CS.xlsx",
+          "size": 21168
         }
       }
     },
